@@ -18,3 +18,5 @@ if __name__ == "__main__":
     driver.find_element_by_xpath('//*[@id="filingsStart"]/div[2]/div[3]/div/button[1]').click()
     #driver.find_element(by=xpath,"//input[@id='usernamereg-firstName']")
     #driver.close()
+    soup = BeautifulSoup(driver.page_source, 'html.parser')
+    print("Done...!")
