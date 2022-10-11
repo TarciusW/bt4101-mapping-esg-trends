@@ -8,16 +8,19 @@ import time
 
 def get_snp_500_tickers() -> list:
     # Get SNP 500 Tickers
+    print("Scraping S&P 500 Tickers...")
     driver.get('https://stockmarketmba.com/stocksinthesp500.php')
     ticker_soup = BeautifulSoup(driver.page_source, 'html.parser')
     tickers_row = ticker_soup.find_all("tr", {"role": "row"})
     tickers = []
     for row in tickers_row:
         tickers.append(row.contents[0].get_text())
+    print("... done!")
     return tickers
 
 
 def get_CIK_from_tickers(tickers: list) -> pd.DataFrame:
+    print("Mapping Tickers to CIK Numbers...")
     # get_ticker_CIK_mapping_online
     driver.get('https://www.sec.gov/include/ticker.txt')
     cik_mapping_soup = BeautifulSoup(driver.page_source, 'html.parser')
@@ -35,8 +38,8 @@ def get_CIK_from_tickers(tickers: list) -> pd.DataFrame:
     # map current tickers
     for i in tickers:
         ciks.append(cik_dict[i])
-
     tickers_df = pd.DataFrame({"Tickers": tickers, "CIK Number": ciks})
+    print("... done!")
     return tickers_df
 
 
@@ -70,12 +73,14 @@ def get_10_reports_func(CIK: str) -> pd.DataFrame:
 
 
 def get_10_reports(df: pd.DataFrame) -> pd.DataFrame:
+    print("Scraping 10-K/10-Q reports...")
     reports = pd.DataFrame()
     for i, j in df.iterrows():
         reports_df = get_10_reports_func(j['CIK Number'])
         reports_df['Ticker'] = j['Tickers']
         reports_df['CIK Number'] = j['CIK Number']
         reports = pd.concat(reports,reports_df)
+    print("... done!")
     return reports
 
 
