@@ -3,7 +3,12 @@ import pandas as pd
 from bs4 import BeautifulSoup
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
+from selenium.webdriver.common.by import By
+from selenium.webdriver.support.ui import WebDriverWait
+from selenium.webdriver.support import expected_conditions as EC
+from tqdm import tqdm
 import time
+
 
 
 def get_snp_500_tickers() -> list:
@@ -56,44 +61,52 @@ def get_10_reports_func(CIK: str) -> pd.DataFrame:
     document_links = soup.find_all("tr", {"role": "row"})
     links = []
     for link in document_links:
-        if link.find("a", {"class": "document-link"}) == None:
+        if link.find("a", {"class": "document-link"}) is None:
             continue
         else:
             links.append(link.find("a",{"class":"document-link"}))
             dates.append(link.find("a",{"data-column":"Reporting Date"}).attrs['data-export'])
     for link in links:
+        if 'ix?doc' in link.attrs['href']:
+            driver.get(f"https://www.sec.gov/{link.attrs['href']}")
+            driver.find_element_by_xpath('//*[@id="menu-dropdown-link"]/span[1]').click()
+            soup = BeautifulSoup(driver.page_source, 'html.parser')
+            link = soup.find("a",{"id":"form-information-html"})
+
+        """
+        wait = WebDriverWait(driver,100)
+        wait.until(EC.visibility_of_element_located((By.XPATH,'//*[@id="dynamic-xbrl-form"]/div[47]/span')))
+        """
         driver.get(f"https://www.sec.gov/{link.attrs['href']}")
-        time.sleep(0.1)
+        time.sleep(1)
         soup = BeautifulSoup(driver.page_source, 'html.parser')
         reports.append(soup.get_text())
-
     test = pd.DataFrame({"Date":dates,"Report":reports})
-
     return test
 
 
 def get_10_reports(df: pd.DataFrame) -> pd.DataFrame:
     print("Scraping 10-K/10-Q reports...")
     reports = pd.DataFrame()
-    for i, j in df.iterrows():
+    for i, j in tqdm(df.iterrows()):
+        print(f"\nScraping 10-Q/10-Q reports for {j['Tickers']}...")
         reports_df = get_10_reports_func(j['CIK Number'])
         reports_df['Ticker'] = j['Tickers']
         reports_df['CIK Number'] = j['CIK Number']
-        reports = pd.concat(reports,reports_df)
+        reports = pd.concat([reports,reports_df])
     print("... done!")
     return reports
 
-
 if __name__ == "__main__":
     print("Launching webdriver...")
-
     chrome_options = Options()
     # chrome_options.add_argument("--disable-extensions")
     # chrome_options.add_argument("--disable-gpu")
     #chrome_options.add_argument("--headless")
     driver = webdriver.Chrome('C:/Users/Tarci/Documents/nus/Y4/FYP/chromedriver.exe',options=chrome_options)
     tickers = get_snp_500_tickers()
-    tickers = tickers[1:3]
+    tickers = tickers[1:2]
     stocks_df = get_CIK_from_tickers(tickers)
     stocks_df = get_10_reports(stocks_df)
+    stocks_df.to_excel('SNP_500_Financial_Reports.xlsx')
     print("Done...!")
