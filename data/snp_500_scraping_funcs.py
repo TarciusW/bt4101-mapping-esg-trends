@@ -3,7 +3,6 @@ from bs4 import BeautifulSoup
 from tqdm import tqdm
 import time
 
-
 def get_snp_500_tickers(driver) -> list:
     # Get SNP 500 Tickers
     print("Scraping S&P 500 Tickers...")
@@ -45,6 +44,7 @@ def get_10_reports_func(driver, CIK: str) -> pd.DataFrame:
     reports = []
     dates = []
     driver.get(f'https://www.sec.gov/edgar/browse/?CIK={CIK}')
+    time.sleep(1)
     # Scrape 10K / 10Q forms
     # driver.get('https://www.sec.gov/edgar/browse/?CIK=1411579')
     driver.find_element_by_xpath('//*[@id="filingsStart"]/div[2]/div[3]/h5').click()
