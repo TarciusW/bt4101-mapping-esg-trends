@@ -1,4 +1,4 @@
 /.idea
 /data/test.py
-/data/SNP500
-/data/SGX
+data/SNP500/
+data/SGX/
