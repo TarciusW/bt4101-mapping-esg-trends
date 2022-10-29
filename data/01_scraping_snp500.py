@@ -1,7 +1,6 @@
 from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from snp_500_scraping_funcs import *
-import json
 
 current_tickers = get_current_tickers()
 print("Collecting SNP 500 Data...")
