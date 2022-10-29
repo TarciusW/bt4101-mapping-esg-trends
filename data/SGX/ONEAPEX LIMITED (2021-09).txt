@@ -1,0 +1,2510 @@
+
+1 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Sustainability Report  
+
+2021 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+2 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Contents 
+
+Message from Executive Chairman and CEO ............................................................ 4 
+
+Organisation Profile .................................................................................................... 5 
+
+Sustainability Strategy Overview ................................................................................ 6 
+
+Reporting Practice ...................................................................................................... 8 
+
+Stakeholder Engagement and Materiality Assessment ............................................ 10 
+
+Focus 1: Governance and Ethics ............................................................................. 12 
+
+Corporate Compliance .......................................................................................... 12 
+
+Ethics and Integrity ............................................................................................... 12 
+
+Sustainability Governance and Statement of the Board ........................................ 13 
+
+Risk Management ................................................................................................. 13 
+
+Customer Data Privacy ......................................................................................... 13 
+
+Supply Chain Management ................................................................................... 13 
+
+Targets .................................................................................................................. 14 
+
+Focus 2: Our Environment ....................................................................................... 15 
+
+Property Development .......................................................................................... 15 
+
+Targets .................................................................................................................. 15 
+
+Focus 3: Human Capital ........................................................................................... 16 
+
+Workforce Diversity ............................................................................................... 16 
+
+Employee Retention .............................................................................................. 16 
+
+Targets .................................................................................................................. 16 
+
+Focus 4: Health &amp; Safety .......................................................................................... 17 
+
+COVID-19 Safety Measures for Employees .......................................................... 17 
+
+Targets .................................................................................................................. 17 
+
+SGX Five Primary Components Index...................................................................... 18 
+
+GRI Standards Content Index .................................................................................. 18 
+
+ 
+
+ 
+
+ 
+
+This sustainability report has been prepared by the Company and reviewed by the Company’s sponsor, Novus 
+
+Corporate Finance Pte. Ltd. (the “Sponsor”) in compliance with Rule 226(2)(b) of the Singapore Exchange 
+
+Securities Trading Limited (the “SGX-ST”) Listing Manual Section B: Rules of Catalist (“Catalist Rules”).  
+
+
+3 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+This sustainability report has not been examined or approved by the SGX-ST and the SGX-ST assumes no 
+
+responsibility for the contents of this sustainability report, including the correctness of any of the statements or 
+
+opinions made, or reports contained in this sustainability report.  
+
+The contact person for the Sponsor is Mr Andrew Leo, Chief Executive Officer, at 7 Temasek Boulevard, #18-03B 
+
+Suntec Tower 1, Singapore 038987, telephone (65) 6950 2188. 
+
+ 
+
+
+4 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Message from Executive Chairman and CEO 
+
+Dear Stakeholders,  
+
+I am pleased to present the Sustainability Report (“Report”) of OneApex Limited and 
+
+its subsidiaries (the “Company”, collectively the “Group”), which provides information 
+
+on the sustainability of our business and practices during the financial year ended 30 
+
+September (“FY”) 2021.  
+
+We seek to expand and diversify our business while managing the environmental, 
+
+social and governance (“ESG”) factors that are relevant to the internal and external 
+
+stakeholders of the Group. We aim to comply with all applicable environmental and 
+
+social laws and regulations.  
+
+We are also mindful of the risks that the 2019 Novel Coronavirus (“COVID-19”) poses 
+
+to the business. During these unsettling times, we stay committed to prioritising the 
+
+safety of our employees and enhancing the resilience of our supply chain. We have 
+
+also implemented strict safety protocols and educated all staff on the safety measures. 
+
+On behalf of the Board of Directors (the “Board”), I would like to express my gratitude 
+
+to our clients, business partners and shareholders for their unwavering support. We 
+
+look forward to your continual support as we strive to develop a more sustainable 
+
+environment for all. 
+
+ 
+
+Tan Pei Hong, Alex (Chen Peifeng) 
+
+Executive Chairman and Chief Executive Officer (“CEO”) 
+
+ 
+
+ 
+
+
+5 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Organisation Profile  
+
+OneApex Limited was incorporated on 30 September 2010 and was listed on the 
+
+Catalist board of the Singapore Exchange Securities Trading Limited (the “SGX-ST”) 
+
+on 28 February 2011. 
+
+The Group is a Singapore-based real estate developer. Beginning with the acquisition 
+
+of KC Industries Pte Ltd in 2020, the Group is focused on growing its property portfolio 
+
+footprint in Singapore and is forging ahead to become a reputable developer in 
+
+Singapore. In addition, the Group holds a capital markets services ("CMS”) licence 
+
+and has set up its first Variable Capital Company in 2021 and will be looking to expand 
+
+in the area of fund management going forward. 
+
+Property Business 
+
+With its wide network of business associates, the Company intends to focus its 
+
+Property Business efforts initially in Singapore to leverage on seeking out profitable 
+
+opportunities in Singapore’s property industry. The Company may subsequently 
+
+venture overseas when suitable opportunities arise. 
+
+Through the Property Business, the Group may also be able to enhance its profitability, 
+
+shareholder value and returns through the introduction of possible recurring rental 
+
+income and/or management income, and capital gains from the Property Business. 
+
+Financial Investments Services 
+
+The Financial Investments Services Business consists of fund management, wealth 
+
+management and family office advisory services. In respect of the financial 
+
+investments services business division, the Company’s subsidiary, OneApex Capital 
+
+Pte Ltd, had, on 12 March 2020, received approval from the Monetary Authority of 
+
+Singapore (the "MAS") for its CMS licence to conduct fund management activities as 
+
+a licensed fund management company (“LFMC”). 
+
+The Financial Investments Services Business is expected to work synergistically with 
+
+the Group’s Property Business by allowing the Group to leverage on and benefit from 
+
+the access to additional avenues of both investment opportunities and capital for the 
+
+Group to both invest and be invested in. 
+
+ 
+
+
+6 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Sustainability Strategy Overview  
+
+Our ESG Focus and Strategy 
+
+ 
+
+Sustainable Property Business 
+
+The Group aspires to meet the current and upcoming expectations posed by 
+
+sustainable development in the property industry. The evolution of the industry has 
+
+brought about a strong emphasis on environmental and social considerations in 
+
+property valuation, thereby requiring new ways of assessing property worth and value.  
+
+By incorporating key sustainability performance indicators, it creates a more robust 
+
+assessment approach that will optimise our property business and provide more 
+
+opportunities for synergies between sustainable design and property risk management.  
+
+ 
+
+ 
+
+Sustainable Financial Investments Services Business 
+
+Our fund management business seeks to meet the investment goals of our investors 
+
+while ensuring that we are a socially responsible business that complies with all 
+
+relevant local laws and regulations.  
+
+ 
+
+ 
+
+ 
+
+Sustainable Property Development
+
+
+
+• Develop, design and constuct green, 
+
+sustainable properties
+
+• Minimise negative environmental 
+
+impacts and maximise efficient use of 
+
+resources in properties developed
+
+Sustainable Property Investment
+
+
+
+• Evaluate sustainability of properties 
+
+during property appraisal
+
+• Effectively assess the impact of 
+
+sustainability on property worth to 
+
+optimise value of property portfolio 
+
+and property strategy
+
+
+7 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+ESG Performance Highlights and Awards 
+
+ 
+
+ 
+
+Zero instances of 
+
+environmental non-
+
+compliance 
+
+ 
+
+ 
+
+Zero cases of COVID-19 
+
+transmission 
+
+ 
+
+Complied fully with all 
+
+Personal Data 
+
+Protection Act ("PDPA”) 
+
+requirements 
+
+ 
+
+Screened 100% of new 
+
+suppliers using 
+
+environmental &amp; social 
+
+criteria  
+
+ 
+
+Contribution to the United Nations Sustainable Development Goals 
+
+The Group’s business focuses are aligned with the United Nations Sustainable 
+
+Development Goals (“UN SDGs”). The attainment of the UN SDGs is a continuing 
+
+global effort and forms part of the Group’s long-term focus on sustainability. The 
+
+Group’s contributions to the relevant goals are highlighted below. 
+
+UN SDGs 
+
+The Group’s contribution 
+
+Read more in the 
+
+following section(s) 
+
+ 
+
+Management waste and effluents 
+
+responsibly before discharging into water 
+
+bodies 
+
+Focus 2:  
+
+Our Environment 
+
+ 
+
+Provide work opportunities and benefits to 
+
+our employees. Create conducive and safe 
+
+working environments. 
+
+Focus 3: 
+
+Human Capital 
+
+Focus 4:  
+
+Health &amp; Safety 
+
+ 
+
+Increase efficiency in energy and water use, 
+
+and reduce waste generation. Integrate 
+
+sustainability reporting into the Group’s 
+
+annual reporting cycle. 
+
+Focus 2:  
+
+Our Environment 
+
+ 
+
+Comply fully with all applicable 
+
+socioeconomic and environmental laws and 
+
+regulations 
+
+Focus 1:  
+
+Governance and 
+
+Ethics 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Reporting Practice  
+
+Reporting Principles &amp; Statement of Use:  
+
+The Group’s sustainability report has been produced in accordance with the Global 
+
+Reporting Initiatives (“GRI”) Standards: Core option covering our performance from 1 
+
+October 2020 to 30 September 2021. The GRI Standards were selected as they 
+
+represent the global best practices for reporting on economic, environmental and 
+
+social topics. The Board has reviewed and approved the reported information, 
+
+including the material topics. 
+
+The following principles have been applied to determine relevant topics that define the 
+
+report content and ensure quality of information: a) GRI principles for defining report 
+
+content: 
+
+Stakeholder 
+
+Inclusiveness, 
+
+Sustainability 
+
+Context, 
+
+Materiality 
+
+and 
+
+Completeness; b) GRI principles for defining report quality: Accuracy, Balance, Clarity, 
+
+Comparability, Reliability and Timeliness. The Report also incorporates the primary 
+
+components of report content as set out by the SGX-ST’s “comply or explain” 
+
+requirements on sustainability reporting under Rule 711B and Practice Note 7F of the 
+
+Catalist Rules. Details of the primary components are outlined in the SGX-ST Five 
+
+Primary Components Index Section.  
+
+Reporting Scope:  
+
+This report provides the sustainability performance of our Property Business and 
+
+Financial Investment Services in Singapore. Investment in associated companies, 
+
+Tuas Seatown Dormitory Pte Ltd and Ember Properties Pte Ltd, were excluded from 
+
+the report as they are not material to the Group and the Group is also not involved in 
+
+the operation of the dormitory. 
+
+Restatements:  
+
+There are no restatements of information made from previous reporting periods.  
+
+The Group has completed the disposal of 90% of the entire issued and paid-up share 
+
+capital of Chew’s Food International Limited on 5 June 2020 and has completely ceased 
+
+its business of producing and selling generic and designer eggs, liquid eggs, trading of 
+
+spent grains and food processing in Singapore and in Hong Kong. In this regard, the Food 
+
+Trading business will no longer form a part of the sustainability report going forward. 
+
+Assurance:  
+
+We have not obtained external assurance for the sustainability information in this 
+
+Report. However, an internal review and verification mechanism has been established 
+
+to ensure quality and accuracy of the narratives and data. We have also engaged a 
+
+third-party professional firm to assist the Group in identifying the sustainability 
+
+information to report, as well as its compliance with the GRI Standards and Catalist 
+
+Rules.  
+
+ 
+
+ 
+
+
+9 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Availability &amp; Feedback:  
+
+This report supplements the Company’s annual report for the financial year ended 30 
+
+September 2021 (“2021 Annual Report”) which is available online at SGXnet and 
+
+https://oneapex.wixsite.com/home/investor-relations. Detailed section and page 
+
+references in line with the GRI Standards can be found in the GRI Standards Content 
+
+Index Section. Feedback on this report can be sent to: contactus@oneapex.com.sg. 
+
+ 
+
+ 
+
+
+10 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Stakeholder Engagement and Materiality Assessment 
+
+The Group understands that stakeholder engagement is the key to sustainable growth. 
+
+We determine the material topics based on their materiality to our business and our 
+
+stakeholders. Our stakeholders are groups that have a material impact on or are 
+
+materially impacted by our operations. 
+
+ 
+
+The following table summarises our key stakeholders, engagement platforms, their 
+
+key concerns as well as how the Group has responded to the stakeholders’ concerns. 
+
+ 
+
+Our material topics are identified through our engagement with stakeholders via 
+
+various engagement platforms and are based on the significance of their impact in 
+
+Stakeholders 
+
+Engagement 
+
+platforms 
+
+Issues of 
+
+concern 
+
+Our Responses 
+
+Refer to 
+
+Section(s) 
+
+Employees  
+
+ Performance 
+
+appraisal 
+
+system 
+
+ Safety training 
+
+and dialogue 
+
+sessions 
+
+ Remuneration 
+
+and benefits 
+
+ COVID-19 
+
+safety 
+
+ Conduct 
+
+meaningful 
+
+performance 
+
+appraisals and 
+
+provide fair 
+
+remuneration in 
+
+line with 
+
+performance 
+
+ Comply with 
+
+COVID-19 best 
+
+practices and 
+
+government 
+
+guidance 
+
+ Focus 3:  
+
+Human 
+
+Capital  
+
+ Focus 4: 
+
+Health &amp; 
+
+Safety 
+
+ 
+
+ 
+
+Suppliers and 
+
+contractors 
+
+ Suppliers and 
+
+contractor 
+
+evaluation and 
+
+contract 
+
+negotiations 
+
+ Environmental 
+
+compliance  
+
+ Social 
+
+compliance 
+
+ Occupational 
+
+health and 
+
+safety 
+
+ Engage and 
+
+evaluate 
+
+suppliers and 
+
+contractors 
+
+regularly and 
+
+provide 
+
+meaningful 
+
+feedback 
+
+ Focus 1: 
+
+Governance 
+
+and Ethics 
+
+Government 
+
+and regulators 
+
+ SGX-ST half 
+
+yearly 
+
+announcements  
+
+ Annual reports 
+
+ Ongoing 
+
+dialogues 
+
+ Compliance 
+
+with 
+
+government 
+
+agencies as 
+
+well as the laws 
+
+and regulations 
+
+ Ensure full 
+
+compliance with 
+
+all applicable 
+
+local laws and 
+
+regulations 
+
+including 
+
+COVID-19 
+
+safety 
+
+regulations 
+
+ Focus 1: 
+
+Governance 
+
+and Ethics  
+
+Shareholders 
+
+and investors 
+
+ Annual reports  
+
+ Investor 
+
+relations 
+
+management  
+
+ Economic 
+
+performance  
+
+ Anti-corruption 
+
+ Environmental 
+
+impacts  
+
+ Provide 
+
+informative 
+
+corporate  
+
+communication 
+
+and reports 
+
+ Focus 1: 
+
+Governance 
+
+and Ethics 
+
+ Focus 2:  
+
+Our 
+
+Environment 
+
+
+11 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+relation to the key issues of concerns raised by our internal and external stakeholders, 
+
+as outlined in the Stakeholder Engagement and Materiality Assessment Section of this 
+
+Report. We have also considered the recommendations of an ESG consultant when 
+
+selecting the Groups’ material ESG factors. 
+
+We also take reference from our enterprise risk management (“ERM”) framework to 
+
+identify and assess ESG risks. This approach ensures that material ESG risks are 
+
+considered in the context of the Group’s overall risk environment. Given our new 
+
+business direction, we will consider the changes in business model and strategy when 
+
+we assess the materiality of our ESG factors.  
+
+Focus Areas 
+
+Material Topics 
+
+Applicable Segment 
+
+Focus 1: 
+
+Governance 
+
+and Ethics 
+
+GRI 205: Anti-corruption 
+
+Applicable across the 
+
+Group 
+
+GRI 307: Environmental Compliance 
+
+GRI 308: Supplier Environmental Assessment 
+
+GRI 414: Supplier Social Assessment 
+
+GRI 418: Customer Privacy  
+
+Property Business &amp; 
+
+Financial Investment 
+
+Service  
+
+GRI 419: Socio-economic Compliance 
+
+Applicable across the 
+
+Group 
+
+Focus 2:  
+
+Our 
+
+Environment 
+
+GRI 302: Energy 
+
+Property Business 
+
+GRI 303: Water 
+
+GRI 305: Emissions 
+
+Focus 3:  
+
+Our People, 
+
+Our Assets 
+
+GRI 401: Employment 
+
+Applicable across the 
+
+Group 
+
+GRI 404: Training and Education 
+
+GRI 405: Diversity and Equal Opportunity 
+
+Focus 4:  
+
+Health &amp; Safety 
+
+GRI 403: Occupational Health and Safety 
+
+ 
+
+ 
+
+ 
+
+
+12 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Focus 1: Governance and Ethics 
+
+Corporate Compliance 
+
+GRI 307-1, 419-1 
+
+There are several laws and regulations which are applicable to the Group. These 
+
+include the Code of Corporate Governance 2018, regulations by the MAS, Catalist 
+
+Rules, the Accounting and Corporate Regulatory Authority (“ACRA”) and the 
+
+Securities and Futures Act, amongst others.  
+
+Review of new regulations and updates to existing regulations are regularly conducted 
+
+by our employees, our secretarial firm and our financial auditors. Updates are 
+
+disseminated to the relevant staff and processes are in place to monitor the activities 
+
+and associated performance on a regular basis.  
+
+Additionally, updates on relevant legal, accounting and regulatory developments are 
+
+typically provided to the Board in written hand-outs, or by way of briefings and 
+
+presentations. The Company Secretary also circulates articles, reports and press 
+
+releases issued by the SGX-ST and the ACRA which are relevant to the Board.  
+
+The Group’s financial investment services segment will comply strictly with all 
+
+applicable licensing requirements of MAS. We will perform customer due diligence and 
+
+stringent anti-money laundering (“AML”) checks to ensure its strict compliance with 
+
+AML regulations. 
+
+For our financial investment services business and the Group, there were no instances 
+
+of non-compliance with laws and regulations in the environmental and socioeconomic 
+
+areas in FY2021. 
+
+Ethics and Integrity 
+
+Anti-corruption  
+
+GRI 205-1, 205-2, 205-3 
+
+The Group takes a strong stance against any form of misconduct, corruption and 
+
+malpractice. All employees should not be involved in offering, paying, requesting or 
+
+receiving bribes or participate in any fraudulent activities. Our stand against corruption 
+
+and bribery is also clearly communicated to all our business partners before they 
+
+commence dealings with our Group. 
+
+There was no reported incident of corruption in FY2021.  
+
+Whistle-blowing Policy  
+
+The Company’s staff and any other persons may, in confidence, raise concerns about 
+
+possible improprieties in matters of financial reporting or other matters by submitting 
+
+a whistle blowing report to whistle_blowing@OneApex.com.sg.  
+
+
+13 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+There were no whistleblowing reports received in FY2021. 
+
+Sustainability Governance and Statement of the Board 
+
+The Board and senior management provide strategic direction and consider 
+
+sustainability issues as part of our strategic formulation. To implement our 
+
+sustainability efforts, a sustainability task force (the “Task Force”) comprising key 
+
+management personnel and chaired by the Chief Financial Officer has been 
+
+established to oversee the sustainability performance of the Group.  
+
+The Board approves the material economic, environmental, social and governance 
+
+factors identified by the Task Force, and ensures that the factors identified are well 
+
+managed and monitored. 
+
+Please refer to the Corporate Governance Report in our Annual Report 2021 for more 
+
+information on the Group’s corporate governance practices, precautionary measures 
+
+and risk management structure. 
+
+Risk Management 
+
+The Group adopts a precautionary approach in strategic decision making and daily 
+
+operations by implementing a comprehensive ERM framework. An annual group-wide 
+
+risk assessment exercise is conducted to update the Group’s risk profile in the ERM 
+
+framework and reflects the applicable business risk exposures and addresses the 
+
+significant and relevant risks to the Group. 
+
+Customer Data Privacy 
+
+GRI 418-1 
+
+Across the Group and particularly in our hotel operations, we practice proper data 
+
+management practices to safeguard customers’ data. 
+
+There were no instances of non-compliance with the Singapore PDPA requirements 
+
+and no substantiated complaints regarding cases of data breaches were reported in 
+
+FY2021. 
+
+Supply Chain Management 
+
+GRI 308-1, 308-2, 414-1, 414-2 
+
+The Group recognises that our environmental and social impacts extends across our 
+
+value chain. We prefer property development suppliers &amp; contractors which have 
+
+implemented a quality and environmental management system and are preferably ISO 
+
+45001:2018 Occupational Health and Safety Management System and ISO 
+
+14001:2015 Environmental Management System (“EMS”) certified. 
+
+The Group remains judicious in our selection and management of suppliers for 
+
+property development. Besides assessing our suppliers on factors such as quality, we 
+
+
+14 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+also consider assessments of health and safety and EMS. There were no negative 
+
+social or environmental impacts reported along our supply chain. 
+
+Targets 
+
+Segment 
+
+Targets and Performance  
+
+FY2021 Governance Targets 
+
+Status 
+
+Performance 
+
+Group-
+
+level 
+
+Zero incidents of breach of 
+
+corporate compliance  
+
+ Met 
+
+Achieved zero incidents of AML non-
+
+compliance 
+
+Zero corruption incidents 
+
+ Met 
+
+Achieved zero incidents of corruption 
+
+Zero incidents of PDPA non-
+
+compliance 
+
+ Met 
+
+Achieved zero incidents of PDPA non-
+
+compliance 
+
+Screen 100% of major new 
+
+suppliers using environmental &amp; 
+
+social criteria 
+
+ Met 
+
+Screened 100% of new suppliers using 
+
+environmental &amp; social criteria 
+
+FY2022 Governance Targets 
+
+Group-
+
+level 
+
+Zero incidents of breach of corporate compliance  
+
+Zero corruption incidents 
+
+Zero incidents of PDPA non-compliance 
+
+To perform assessment on 100% of major contractors and service providers on 
+
+environment and social compliance 
+
+ 
+
+ 
+
+ 
+
+
+15 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Focus 2: Our Environment 
+
+GRI 302-1, 302-5, 303-1, 303-2, 305-2 
+
+As a responsible organisation, we recognise that we have a role to play in mitigating 
+
+negative environmental impacts. Sustainability is an integral part of our property 
+
+development business. The Group seeks to capture opportunities in sustainable buildings 
+
+presented by the Singapore Green Plan 2030 which will see increased demand for 
+
+sustainable features and practices in the property sector. We are constantly on the lookout 
+
+for opportunities to incorporate sustainable practices into our business advantage. 
+
+Property Development 
+
+Our property at Kim Chuan will be Building and Construction Authority (“BCA”) Green 
+
+Mark certified. We aim for continual improvement in our building sustainability 
+
+performance and will strive to implement energy and water saving practices whenever 
+
+possible.  
+
+Targets 
+
+Segment 
+
+Target &amp; Performance  
+
+FY2021 Environmental Target &amp; Performance 
+
+Status 
+
+Performance 
+
+Property 
+
+Development 
+
+Zero incidents of environmental 
+
+non-compliance 
+
+ Met 
+
+Achieved zero incidents of 
+
+environmental non-compliance 
+
+FY2022 Environmental Targets  
+
+Property 
+
+Development 
+
+ 
+
+Zero incidents of environmental non-compliance 
+
+To obtain BCA Green Mark certifications for all the buildings that the Group has 
+
+operational control of 
+
+To implement energy and water saving features in all new developments 
+
+ 
+
+ 
+
+
+16 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Focus 3: Human Capital 
+
+The Group endeavours to create an inclusive workplace environment, committed to 
+
+mutual respect, fairness and equality for all our staff and workers.  
+
+Workforce Diversity 
+
+GRI 401-1, 405-1 
+
+We advocate fair employment and endeavour to achieve a balanced and diversified 
+
+workforce. As at 30 September 2021, the Group had a total strength of 11 employees, 
+
+of which 1 of them was a new hire during the reporting period.  
+
+ 
+
+Employee Retention  
+
+GRI 401-2, 401-3, 404-3, 405-2 
+
+The Group recognises the valuable contribution of all employees. All of our employees 
+
+are assessed regularly and remunerated fairly based on their experience, 
+
+qualifications and performance, regardless of age or gender.  
+
+We prioritise the welfare of our employees by granting a range of employee benefits 
+
+that safeguard employees’ health such as medical insurance, healthcare and parental 
+
+leave. In FY2021, 4 employees took parental leave. 
+
+Targets 
+
+Segment 
+
+Targets and Performance  
+
+FY2021 Human Capital Targets &amp; Performance 
+
+Status 
+
+Performance 
+
+Group-
+
+level 
+
+Zero incidents of non-compliance with 
+
+relevant labour laws &amp; regulations 
+
+ Met 
+
+Achieved zero incidents of non-
+
+compliance 
+
+FY2022 Human Capital Targets  
+
+Group-
+
+level 
+
+To achieve zero incidents of non-compliance with relevant labour laws &amp; regulations  
+
+ 
+
+ 
+
+ 
+
+36%
+
+27%
+
+27%
+
+9%
+
+45%
+
+27%
+
+27%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+BETWEEN 30 AND 40
+
+BETWEEN 40 AND 50
+
+ABOVE 50
+
+Our Workforce
+
+Male
+
+Female
+
+
+17 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+Focus 4: Health &amp; Safety  
+
+The wellbeing of our employees remains our focus in these uncertain times. Our 
+
+employees are well managed by our robust occupational health and safety 
+
+management system. The Group adheres to relevant local regulations, which are 
+
+guided by the advisories from the Ministry of Health (“MOH”), the Ministry of Manpower 
+
+(“MOM”) and the BCA. We will continue to take all necessary measures to ensure full 
+
+compliance with safety regulations. 
+
+COVID-19 Safety Measures for Employees 
+
+GRI 403-1, 403-2, 403-3, 403-4, 403-5, 403-6, 403-7, 403-10 
+
+In FY2021, the COVID-19 global pandemic remains a health and safety risk to our 
+
+staff. During these unsettling times, we stay committed to prioritising their safety and 
+
+providing them with a safe working environment. We have implemented safety 
+
+measures which include safety distancing and work-from-home arrangements. All 
+
+employees have undergone training for the safety measures. 
+
+We also strive to keep abreast with the latest health advisories issued by the BCA, 
+
+MOH, MOM and other government agencies as the situation evolves; and take all 
+
+necessary precautions to protect our staff and keep them updated on the latest 
+
+advisory.  
+
+As at 30 September 2021, there was no reported incident of COVID-19 transmission 
+
+among staff. In addition, there was no reported incident of non-compliance with local 
+
+COVID-19 laws and regulations. 
+
+Targets 
+
+Segment 
+
+Targets and Performance  
+
+FY2021 Health &amp; Safety Targets &amp; Performance 
+
+Status 
+
+Performance 
+
+Group-
+
+level 
+
+Zero incidents of COVID-19 transmission 
+
+among staff 
+
+ Met 
+
+There were zero incidents of 
+
+COVID-19 transmission amongst 
+
+staff. 
+
+FY 2022 Health &amp; Safety Targets 
+
+Group-
+
+level 
+
+To achieve zero incidents of non-compliance with local COVID-19 laws and regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+18 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+SGX Five Primary Components Index  
+
+ 
+
+S/N 
+
+Primary Component 
+
+Section Reference 
+
+1 
+
+Material ESG factors  
+
+Stakeholder Engagement and Materiality 
+
+Assessment 
+
+2 
+
+Policies,  
+
+Practices and Performance  
+
+ 
+
+Message from Executive Director and CEO 
+
+ 
+
+Our Sustainability Story 
+
+ 
+
+Focus 1 to 4 
+
+3 
+
+Board Statement  
+
+Sustainability Governance &amp; Statement of the 
+
+Board 
+
+4 
+
+Targets  
+
+Focus 1 to 4 
+
+5 
+
+Sustainability Reporting 
+
+Framework  
+
+Reporting Practice 
+
+GRI Standards Content Index   
+
+GRI Standard 
+
+Disclosure 
+
+Section Reference 
+
+Page 
+
+Number 
+
+GRI 101: Foundation 2016 
+
+General Disclosures  
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+2016 
+
+102-1 Name of the organisation 
+
+Sustainability Report 
+
+2021 - Message from 
+
+Executive Chairman 
+
+and CEO, Organisation 
+
+Profile 
+
+4, 5 
+
+102-2 Activities, brands, 
+
+products, and services 
+
+Sustainability Report 
+
+2021 - Organisation 
+
+Profile 
+
+5 
+
+102-3 Location of headquarters 
+
+Annual Report 2021 
+
+11 
+
+102-4 Location of operations 
+
+Annual Report 2021 
+
+11 
+
+102-5 Ownership and legal form 
+
+Annual Report 2021 
+
+5 
+
+102-6 Markets served 
+
+Annual Report 2021 
+
+5 
+
+102-7 Scale of the organisation 
+
+Annual Report 2021 
+
+3, 4 
+
+102-8 Information on employees 
+
+and other workers 
+
+Sustainability Report 
+
+2021 – Focus 3: 
+
+Human Capital 
+
+16 
+
+102-9 Supply chain 
+
+Sustainability Report 
+
+2021 – Supply Chain 
+
+Management 
+
+13, 14 
+
+102-10 Significant changes to 
+
+the organisation and its supply 
+
+chain 
+
+Annual Report 2021 
+
+3, 4 
+
+102-11 Precautionary Principle 
+
+or approach 
+
+Annual Report 2021 
+
+13 
+
+102-14 Statement from senior 
+
+decision-maker 
+
+Sustainability Report 
+
+2021 – Sustainability 
+
+Governance and 
+
+Statement of the Board 
+
+13 
+
+
+19 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section Reference 
+
+Page 
+
+Number 
+
+102-15 Key impacts, risks, and 
+
+opportunities 
+
+Sustainability Report 
+
+2021 – Sustainability 
+
+Governance and 
+
+Statement of the Board 
+
+13 
+
+102-16 Values, principles, 
+
+standards, and norms of 
+
+behaviour  
+
+Sustainability Report 
+
+2021- Message from 
+
+Executive Director and 
+
+CEO, Sustainability 
+
+Governance and 
+
+Statement of the Board 
+
+4, 13 
+
+102-17 Mechanisms for advice 
+
+and concerns about ethics 
+
+Sustainability Report 
+
+2021 - Ethics and 
+
+Integrity 
+
+12 
+
+102-18 Governance structure  
+
+Sustainability Report 
+
+2021- Ethics and 
+
+Integrity 
+
+12 
+
+102-40 List of stakeholder 
+
+groups  
+
+Sustainability Report 
+
+2021 - Stakeholder 
+
+Engagement 
+
+10 
+
+102-42 Identifying and selecting 
+
+stakeholders  
+
+Sustainability Report 
+
+2021 - Stakeholder 
+
+Engagement 
+
+10 
+
+102-43 Approach to stakeholder 
+
+engagement 
+
+Sustainability Report 
+
+2021 - Stakeholder 
+
+Engagement 
+
+10 
+
+102-44 Key topics and concerns 
+
+raised 
+
+Sustainability Report 
+
+2021 - Stakeholder 
+
+Engagement 
+
+10 
+
+102-45 Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Annual Report 2021 
+
+75 
+
+102-46 Defining report content 
+
+and topic boundaries  
+
+Sustainability Report 
+
+2021 - Reporting 
+
+Practice  
+
+8 
+
+102-47 List of material topics 
+
+Sustainability Report 
+
+2021 – Stakeholder 
+
+Engagement and 
+
+Materiality Assessment  
+
+11 
+
+102-50 Reporting period 
+
+Sustainability Report 
+
+2021 - Reporting 
+
+Practice  
+
+8 
+
+102-52 Reporting cycle 
+
+Sustainability Report 
+
+2021 - Reporting 
+
+Practice  
+
+8 
+
+102-53 Contact point for 
+
+questions regarding the report 
+
+Sustainability Report 
+
+2021 - Reporting 
+
+Practice  
+
+9 
+
+102-54 Claims of reporting in 
+
+accordance with the GRI 
+
+standards 
+
+Sustainability Report 
+
+2021- Ethics and 
+
+Integrity 
+
+12 
+
+
+20 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section Reference 
+
+Page 
+
+Number 
+
+102-55 GRI content index 
+
+Sustainability Report 
+
+2021 – GRI Standards 
+
+Content Index   
+
+18 
+
+GRI 103: 
+
+Material Topics 
+
+2016 
+
+103-1 Explanation of the 
+
+material topic and its Boundary 
+
+Sustainability Report 
+
+2021- Stakeholder 
+
+Engagement and 
+
+Materiality Assessment 
+
+10 
+
+103-2 The management 
+
+approach and its components 
+
+Sustainability Report 
+
+2021 – Stakeholder 
+
+Engagement and 
+
+Materiality Assessment 
+
+10 
+
+GRI 205: 
+
+Anti-corruption 
+
+2016 
+
+205-1 Operations assessed for 
+
+risks related to corruption 
+
+Sustainability Report 
+
+2021- Ethics and 
+
+Integrity 
+
+12 
+
+205-2 Communication and 
+
+training about anti-corruption 
+
+policies and procedures 
+
+Sustainability Report 
+
+2021- Ethics and 
+
+Integrity 
+
+12 
+
+205-3 Confirmed incidents of 
+
+corruption and actions taken 
+
+Sustainability Report 
+
+2021- Ethics and 
+
+Integrity 
+
+12 
+
+GRI 302: Energy 
+
+2016 
+
+302-1 Energy consumption 
+
+within the organization 
+
+Sustainability Report 
+
+2021- Focus 2: Our 
+
+Environment 
+
+15 
+
+302-5 Reductions in energy 
+
+requirements of products and 
+
+services 
+
+Sustainability Report 
+
+2021 - Focus 2: Our 
+
+Environment 
+
+15 
+
+GRI 303: Water 
+
+and Effluents 
+
+2018 
+
+303-1 Interactions with water as 
+
+a shared resource 
+
+Sustainability Report 
+
+2021 - Focus 2: Our 
+
+Environment 
+
+15 
+
+302-2 Management of water 
+
+discharge-related impacts 
+
+Sustainability Report 
+
+2021 - Focus 2: Our 
+
+Environment 
+
+15 
+
+GRI 305: 
+
+Emissions 2016 
+
+305-2 Energy indirect (Scope 2) 
+
+GHG emissions 
+
+Sustainability Report 
+
+2021 - Focus 2: Our 
+
+Environment 
+
+15 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+2016 
+
+307-1 Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Sustainability Report 
+
+2021 – Corporate 
+
+Compliance 
+
+12 
+
+GRI 308: 
+
+Supplier 
+
+Environmental 
+
+Assessment  
+
+2016 
+
+308-1 New suppliers that were 
+
+screened using environmental 
+
+criteria 
+
+Sustainability Report 
+
+2021 - Supply Chain 
+
+Management 
+
+13 
+
+308-2 Negative environmental 
+
+impacts in the supply chain and 
+
+actions taken 
+
+Sustainability Report 
+
+2021 – Supply Chain 
+
+Management 
+
+13 
+
+GRI 401: 
+
+Employment 
+
+2016 
+
+401-1 New employee hires and 
+
+employee turnover 
+
+Sustainability Report 
+
+2021 - Workplace 
+
+Diversity 
+
+16 
+
+
+21 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section Reference 
+
+Page 
+
+Number 
+
+401-2 Benefits provided to full 
+
+time employees that are not 
+
+provided to temporary or part-
+
+time employees 
+
+Sustainability Report 
+
+2021 - Employee 
+
+Retention 
+
+16 
+
+401-3 Parental leave 
+
+Sustainability Report 
+
+2021 - Employee 
+
+Retention 
+
+16 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 2018 
+
+403-1 Occupational health and 
+
+safety management system 
+
+Sustainability Report 
+
+2021 – Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-2 Hazard identification, risk 
+
+assessment, and incident 
+
+investigation 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-3 Occupational health 
+
+services 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-4 Worker participation, 
+
+consultation, and 
+
+communication on 
+
+occupational health and safety 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-5 Worker training on 
+
+occupational health and safety 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-6 Promotion of worker 
+
+health 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-7 Prevention and mitigation 
+
+of occupational health and 
+
+safety 
+
+impacts directly linked by 
+
+business relationships 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+403-10 Work-related ill health 
+
+Sustainability Report 
+
+2021 - Focus 4: Health 
+
+&amp; Safety 
+
+17 
+
+GRI 404: 
+
+Training and 
+
+Education 2016 
+
+404-3 Percentage of employees 
+
+receiving regular performance 
+
+and career development reviews 
+
+Sustainability Report 
+
+2021 - Employee 
+
+Retention 
+
+16 
+
+GRI 405: 
+
+Diversity and 
+
+Equal 
+
+Opportunity 
+
+2016 
+
+ 
+
+405-1 Diversity of governance 
+
+bodies and employees 
+
+Sustainability Report 
+
+2021- Workforce 
+
+Diversity 
+
+16 
+
+405-2 Ratio of basic salary and 
+
+remuneration of women to men 
+
+Sustainability Report 
+
+2021 - Workforce 
+
+Diversity 
+
+16 
+
+GRI 414: 
+
+Supplier Social 
+
+Assessment 
+
+2016 
+
+414-1 New suppliers that were 
+
+screened using social criteria 
+
+Sustainability Report 
+
+2021 - Supply Chain 
+
+Management 
+
+13 
+
+414-2 Negative social impacts in 
+
+the supply chain and actions 
+
+taken 
+
+Sustainability Report 
+
+2021 - Supply Chain 
+
+Management 
+
+13 
+
+
+22 
+
+ONEAPEX LIMITED 
+
+SUSTAINABILITY REPORT 2021 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section Reference 
+
+Page 
+
+Number 
+
+GRI 418: 
+
+Customer 
+
+Privacy 2016 
+
+418-1 Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses of 
+
+customer data 
+
+Sustainability Report 
+
+2021 - Customer Data 
+
+Privacy 
+
+13 
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance 
+
+2016 
+
+419-1 Non-compliance with laws 
+
+and regulations in the social and 
+
+economic area 
+
+Sustainability Report 
+
+2021 - Corporate 
+
+Compliance 
+
+12 
+
+ 
+

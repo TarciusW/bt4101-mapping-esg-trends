@@ -1,0 +1,1248 @@
+
+
+
+ 
+
+
+
+
+
+
+
+Sustainability Report 2018 
+
+
+2 
+
+Contents 
+
+Board Statement .................................................................................................................... 3 
+
+About Us ................................................................................................................................ 3 
+
+Reporting Practice .......................................................................................................................................... 3 
+
+Stakeholder Engagement ................................................................................................... 4-5 
+
+Economic &amp; Governance ....................................................................................................... 6 
+
+Anti-Corruption ................................................................................................................... 6 
+
+Social Impact ......................................................................................................................... 7 
+
+Gender Diversity ................................................................................................................ 7 
+
+Training &amp; Development ..................................................................................................... 8 
+
+Environmental, Workplace Health &amp; Safety ....................................................................... 9 
+
+Environmental Impact .......................................................................................................... 10 
+
+Effluents and Waste ......................................................................................................... 10 
+
+GRI Content Index .......................................................................................................... 11-12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3 
+
+ 
+
+ 
+
+Board Statement 
+
+We are pleased to present to you our inaugural Sustainability Report for the financial year ended 31 July 2018 
+
+(“FY2018”).  
+
+ 
+
+As one of Singapore’s leading steel fabricators, we acknowledge the need to address the impacts of the 
+
+Environmental, Social and Governance (ESG) factors into our business roadmap while we continue to pursue projects 
+
+and explore opportunities to develop a sustainable revenue stream for the group and also to all our stakeholders. 
+
+ 
+
+In this challenging environment, the Board remains committed in our operations and has considered sustainability 
+
+issues as part of its strategic formulation, determined the material sustainability factors, and overseen the 
+
+management and monitoring of the material factors in this report.  
+
+ 
+
+We thank our suppliers, customers, and other stakeholders that have contributed in one way or another to the 
+
+Group’s sustainable development. 
+
+ 
+
+Mr Teo Hock Chwee 
+
+Chairman and Managing Director 
+
+ 
+
+ 
+
+About Us 
+
+ 
+
+Established in 1981 and listed on the Mainboard of the Singapore Stock Exchange on 1 April 2010, T T J Holdings 
+
+Limited (“T T J” or the “Group”) is widely acknowledged as one of the largest structural steel fabricators in Singapore.  
+
+ 
+
+The Group, equipped with a S1-grading by the Singapore Structural Steel Society and a Specialist Builder license for 
+
+structural steelwork by the Building and Construction Authority of Singapore (“BCA”), has two fabrication facilities in 
+
+Singapore and Johor, Malaysia, respectively, with a combined annual production capacity of 42,000 tonnes for 
+
+normal structural steel. As a reputed leading structural steel specialist, T T J’s both facilities are specially designed 
+
+around an in-line production concept based on Computerised Numerically Controlled (“CNC”) machineries. In 
+
+addition, T T J’s headquarter at 57 Pioneer Road, Singapore 628508, has a waterfront loading area which enables the 
+
+loading of heavy materials and large assemblies onto barges for transport by sea.  
+
+ 
+
+A testament to its strong commitment to quality, T T J is ISO 9001:2015, ISO 14001:2015 and OHSAS 18001:2007 
+
+certified. It has also received In-Principle Acceptance from the BCA for the supply of steel Prefabricated Prefinished 
+
+Volumetric Construction (“PPVC”) systems and has obtained the Provisional Certification for PPVC Manufacturer 
+
+Accreditation Scheme (“MAS”). 
+
+ 
+
+Over the years, T T J has built up substantial experience and expertise which have equipped it to deliver highly 
+
+sophisticated structural steel solutions to its customers in Singapore, Malaysia, Thailand, and India. T T J’s solutions 
+
+are used in a wide array of industries such as construction, oil &amp; gas, marine offshore, pharmaceutical and 
+
+petrochemical &amp; powerplant industries. Iconic landmark projects include the National Art Gallery, the Orchard 
+
+Gateway bridge, the SuperTrees and OCBC Skyway at Gardens by the Bay, The Helix at Marina Bay, 
+
+Pinnacle@Duxton, Henderson Waves, the Supreme Court and Changi Airport Terminals 2 and 3, among others. 
+
+ 
+
+ 
+
+Reporting Practice 
+
+ 
+
+We use the Global Reporting Initiative (GRI) framework to guide the Board’s monitoring and reporting of our impact 
+
+on Environmental, Social, and Governance (ESG) matters. The topics discussed in this report were primarily 
+
+determined based on the study of ESG topics monitored and reported by local and global players along our value 
+
+chain. Other factors that influenced our selection of material topics to monitor and report included our cost 
+
+structure, industry trends on ESG concerns relevant to the construction industry, consultation with the Group’s 
+
+department heads as well as the analysis of published objectives of the Group’s external stakeholders.  
+
+ 
+
+
+4 
+
+ 
+
+ 
+
+Stakeholder Engagement 
+
+The Group acknowledges that our stakeholders, both internal and external, play an essential role in maintaining the 
+
+Group’s future growth and sustainability in the ESG aspect. As such, in order for us to better engage our 
+
+stakeholders, the Group has studied international best practices to determine areas of sustainable development 
+
+that may be relevant to the Group over the long term and have come up with the following goals in our stakeholder 
+
+engagement activities:  
+
+ 
+
+• 
+
+To understand stakeholder priorities and values in sustainable development; 
+
+• 
+
+To align our goals and values with that of the stakeholder group; and 
+
+• 
+
+Improve on environmental, social and governance matters that our activities have an impact on. 
+
+ 
+
+The external stakeholders that we engage with include customers, regulators, industry associations, and suppliers. 
+
+Priority is given to stakeholders that show extensive best practices track record as well as those that have a significant 
+
+impact on the Group’s business (such as revenue contribution, as well as the availability of published information such 
+
+as supplier code of conduct). 
+
+ 
+
+The material topics that we discuss in our first Sustainability Report include: 
+
+• 
+
+Efficient use of steel  
+
+• 
+
+Management of effluents 
+
+• 
+
+Occupational health &amp; safety 
+
+• 
+
+Training &amp; development 
+
+• 
+
+Anti-corruption 
+
+The following materiality analysis chart shows the priorities of our stakeholders. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In addition to research on our stakeholders’ sustainability objectives, we also engage them in the following ways: 
+
+  
+
+Stakeholders 
+
+Mode of Engagement 
+
+Topic Concerns 
+
+Frequency 
+
+Employees 
+
+• Performance Appraisal 
+
+• Departmental Meeting 
+
+• Training 
+
+• Training and Development 
+
+• Fair Remuneration and Benefits 
+
+ 
+
+• On-going 
+
+• Yearly Appraisal 
+
+Customers 
+
+• Regular Dialogues 
+
+• Meetings 
+
+• Emails/Telephone communications 
+
+• Corporate Website 
+
+• Quality and Services 
+
+• Productivity and Efficiency 
+
+• Health and Safety  
+
+ 
+
+• On-going 
+
+Suppliers/ Subcontractors 
+
+• Request for Quotations 
+
+• Emails/Telephone Communications 
+
+• Toolbox Meetings 
+
+• Specifications Compliance 
+
+• Safe and conducive workplace 
+
+• On-going 
+
+Community 
+
+• Community Service Engagement 
+
+• Social Development 
+
+• Environmental Impact 
+
+• On-going 
+
+Government and 
+
+Regulators 
+
+• Government Publications and 
+
+Announcement  
+
+• Annual Reports 
+
+• Annual General Meetings 
+
+•  Regulatory  Compliances  
+
+ 
+
+• As and when 
+
+necessary 
+
+Shareholders and 
+
+Investors 
+
+• Media release 
+
+• Annual Reports 
+
+• Annual General meetings 
+
+• Analyst briefing 
+
+• Website 
+
+ 
+
+• Financial performance 
+
+• Dividend payout 
+
+ 
+
+• Quarterly on result 
+
+Announcement 
+
+• Yearly Meeting and 
+
+Briefing 
+
+ 
+
+ 
+
+
+6 
+
+ 
+
+ 
+
+ 
+
+Economic &amp; Governance 
+
+ 
+
+Governance Structure 
+
+ 
+
+Sustainability Governance is led by the Board of Directors and supported by all levels of the Group. 
+
+ 
+
+ 
+
+ 
+
+Anti-Corruption 
+
+The Group has a strong stance against corruption in our operations, and in our bid to ensure our employees operate 
+
+under integrity, we require all employees and directors to declare potential conflict of interest via the Declaration of 
+
+Potential Conflict of Interest Form which is disseminated to all employees and directors for their self-declaration. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+BOARD OF DIRECTORS
+
+
+
+Mr Teo Hock Chwee 
+
+(Chairman &amp; Managing 
+
+Director)
+
+
+
+Sustainability 
+
+Committee
+
+
+
+Heads of Different Department
+
+
+
+Staff
+
+
+7 
+
+ 
+
+ 
+
+ 
+
+Social Impact 
+
+Gender Diversity 
+
+ 
+
+The Group recognizes the importance of workplace diversity in our human resource structure to prevent any 
+
+controversy, confusion and tension which would affect the development of interpersonal relationships.  
+
+ 
+
+In a male-dominated construction industry, we have female representation in our Board of Directors by Ms Chiong Su 
+
+Been. There is also minority representation in our senior management by Mr Elavarasu Somasundaram who is of 
+
+Indian ethnicity. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Below 30 Years
+
+Old
+
+30-49 Years Old
+
+50 Years old and
+
+above
+
+6%
+
+60%
+
+12%
+
+3%
+
+16%
+
+3%
+
+Current Workforce by Age and Gender
+
+
+
+Female
+
+
+
+Male
+
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Training &amp; Development 
+
+The Group is committed to ensuring it maintains its leadership in structural steel solutions by keeping updated on the 
+
+latest technology and technical know-how in the industry. We are also equally committed in ensuring that our 
+
+employees, who are our greatest asset, are equipped with the skills and knowledge for us to better serve our 
+
+customers. The Group sponsors employees for skills upgrading in areas which are identified to be relevant by their 
+
+respective Head of Departments and we encourage our employees to develop their skill sets and expertise as well. 
+
+ 
+
+Thanks to our employees, we have the technical capability, expertise and infrastructure to execute complex projects 
+
+and our team of well-trained designers and draughtsman is well equipped with sophisticated computer-aided design 
+
+and drafting software, allowing them to deal with technically demanding designs and detailed specifications from 
+
+customers.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Directors receive comprehensive and tailored induction on joining the Board, covering areas such as their duties as 
+
+Directors and how to discharge those duties. Directors are also provided with updates on the relevant new laws, 
+
+regulations and changing commercial risks in the Group’s operating environment through regular presentations and 
+
+meetings. They also have the opportunity to visit the Group’s operational facilities and meet with our management to 
+
+gain a better understanding of our business operations. 
+
+ 
+
+To assist the Board in discharging its duties, newly appointed Directors will be provided with a formal letter setting out 
+
+the Director’s duties and obligations and briefed on business operations and regulatory issues relating to the Group to 
+
+ensure that they are familiar with the Group’s business and governance practices. Directors are also informed of 
+
+regulatory changes affecting the Group. 
+
+ 
+
+
+
+2502 
+
+HOURS 
+
+Total hours of Employee  
+
+Training in FY2018 
+
+Average hours of Training 
+
+per employee in FY2018 
+
+
+
+Average        
+
+13 
+
+HOURS 
+
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Environmental, Workplace Health &amp; Safety 
+
+ 
+
+Safety is of utmost importance in T T J and we spare no effort to ensure that all risks are being mitigated to the largest 
+
+extent. 
+
+ 
+
+The Group ensures that the conduct of our operations is in accordance with all applicable environmental and 
+
+occupational health and safety regulations, with an effectively Integrated Management System covering Quality, 
+
+Environmental and Occupational Health &amp; Safety Management to support our Company’s growth and emphasizes our 
+
+commitment to meeting customer needs and requirements. 
+
+ 
+
+We have attained the certification for OHSAS-18001 for Occupational Health &amp; Safety Management and are also 
+
+certified with bizSAFE Star from the Workplace and Safety and Health Council. Our Safety and Health Management 
+
+System is regularly updated and audited by both internal and external parties to made sure that the management and 
+
+all staff are committed to continually improving our conduct in this regard in conformance with the established 
+
+standards set for Quality (ISO9001), Environmental (ISO 14001) and Occupational Health and Safety (OHSAS 18001) 
+
+ 
+
+Compulsory safety induction training/briefing with respect to occupational health and safety is given to onsite staff, 
+
+workers, contractors and subcontractors prior to their commencement of work. Employees are required to wear 
+
+personal protection gear at work sites and in workshops at all times. Necessary barricades are erected on construction 
+
+sites. Safe work procedures and risk assessment are also required to be in place before the start of a project and be 
+
+regularly monitored and reviewed. 
+
+ 
+
+We carry our daily toolbox meetings to all workers prior to work commencement and weekly co-ordination meeting 
+
+with all contractors/subcontractors on site to address all safety issues. Monthly Safety Committee meeting is also 
+
+carried out with the involvement of top management which consists of site walks. Special training such as the use of 
+
+Automated External Defibrillator (AED) and Cardiopulmonary Resuscitation (CPR) is also given to all staff during our 
+
+Fire drills exercise. 
+
+ 
+
+Workers with outstanding safety awareness and behavior are also being recognized and awarded.   
+
+ 
+
+Work-related Incidents 
+
+FY2018 
+
+Total man hours worked 
+
+888,409 
+
+Fatality 
+
+0 
+
+High-consequence Injury 
+
+0 
+
+Recordable injury 
+
+4 
+
+Accident frequency per million hours 
+
+4.5 
+
+Lost work days 
+
+165 
+
+Average work days lost per incident 
+
+41 
+
+ 
+
+ 
+
+The Group did not encounter any incident resulting in high-consequence work-related injuries or fatalities in FY2018. 
+
+There were 4 recordable work-related injuries for 888,409 man hours worked during the period under review, 
+
+translating into an accident frequency rate of 4.5 per million man hours. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+10 
+
+ 
+
+ 
+
+Environmental Impact 
+
+Effluents and Waste 
+
+We believe in the protection of the environment and the provision of an occupationally healthy and safe working 
+
+condition for our staff, customers, workers, subcontractors, suppliers and the public and shall strive constantly for 
+
+improvement in our QEHS implementation. 
+
+ 
+
+In our operations of steel fabrication, we do not generate any hazardous waste from our fabrication process. In order 
+
+to minimise the health effects on our employees by inhaling the welding fumes produced during the welding process, 
+
+we provide respiratory mask and ensure sufficient ventilation to our workshop. We also use alternative cutting gas 
+
+such as oxygen Liquefied Petroleum Gas to reduce the fumes produced. Licensed toxic waste collectors are also 
+
+engaged to dispose containers for flammable gases, paints and coolant used during the course of our fabrication 
+
+processes. 
+
+ 
+
+To ensure the efficient use of steel in our operations and minimise any wastage, the Group’s Materials Planning 
+
+Department uses a wide array of advanced software such as structural steel CAD and Building Information Modelling 
+
+(BIM) technology for 3D digital representation of the physical and functional characteristics of our structure. In the 
+
+event of any scrap that remains, it will be disposed and sold to recycling companies. 
+
+ 
+
+ 
+
+Energy Consumption 
+
+FY2018 
+
+Electricity 
+
+1.3 Gigawatt-hours 
+
+Energy Intensity of Revenue 
+
+14 Watts / SGD 
+
+ 
+
+ 
+
+Carbon Footprint 
+
+FY2018 
+
+Energy indirect (Scope 2) GHG emissions 
+
+895 metric tons 
+
+ 
+
+ https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator 
+
+ 
+
+ 
+
+ 
+
+
+11 
+
+GRI Content Index 
+
+General Disclosures 
+
+GRI INDEX 
+
+DISCLOSURES 
+
+REPORT SECTIONS 
+
+PAGE 
+
+Organizational Profile 
+
+GRI 102-1 
+
+Organization name 
+
+T T J Holdings Limited 
+
+ 
+
+GRI 102-2 
+
+Activities, brands, products, services  
+
+About Us  
+
+3 
+
+GRI 102-3 
+
+Location of headquarters 
+
+About Us 
+
+3 
+
+GRI 102-4 
+
+Location of operations 
+
+About Us 
+
+3 
+
+GRI 102-5 
+
+Ownership and legal form 
+
+About Us 
+
+3 
+
+GRI 102-6 
+
+Markets served  
+
+About Us 
+
+3 
+
+GRI 102-7 
+
+Scale of the organization  
+
+About Us 
+
+3 
+
+GRI 102-8 
+
+Information on employees and other workers 
+
+Social Impact 
+
+7 
+
+GRI 102-9 
+
+Supply chain  
+
+About Us 
+
+3 
+
+GRI 102-10 
+
+Significant changes  to the organization and its supply 
+
+chain 
+
+First Report 
+
+ 
+
+GRI 102-12 
+
+External initiatives 
+
+Not Applicable 
+
+3 
+
+GRI 102-13 
+
+Membership of associations 
+
+About Us 
+
+3 
+
+Strategy 
+
+GRI 102-14 
+
+Statement from senior decision-maker 
+
+Board Statement  
+
+3 
+
+Ethics and Integrity 
+
+GRI 102-16 
+
+Values, principles, standards, and norms of behavior 
+
+Economic &amp; Governance 
+
+6 
+
+Governance 
+
+GRI 102-18 
+
+Governance structure 
+
+Economic &amp; Governance 
+
+6 
+
+Stakeholder Engagement 
+
+ 
+
+GRI 102-40 
+
+Stakeholder groups  
+
+Stakeholder Engagement  
+
+4 
+
+GRI 102-41 
+
+Collective bargaining agreements 
+
+Not Applicable 
+
+ 
+
+GRI 102-42 
+
+Stakeholder selection 
+
+Stakeholder Engagement  
+
+4 
+
+GRI 102-43 
+
+Stakeholder engagement  
+
+Stakeholder Engagement  
+
+4 
+
+GRI 102-44 
+
+Key concerns 
+
+Stakeholder Engagement 
+
+4 
+
+Reporting Practice 
+
+ 
+
+GRI 102-45 
+
+Entities included in the consolidated financial statements 
+
+Reporting Practice  
+
+3 
+
+GRI 102-46 
+
+Defining report content and topic boundaries 
+
+Reporting Practice 
+
+3 
+
+GRI 102-47 
+
+List of material topics 
+
+Reporting Practice 
+
+3 
+
+GRI 102-48 
+
+Restatements of Information 
+
+First report 
+
+ 
+
+ 
+
+
+12 
+
+ 
+
+GRI Content Index 
+
+Reporting Practice 
+
+ 
+
+GRI 102-49 
+
+Changes in reporting 
+
+First report 
+
+ 
+
+GRI 102-50 
+
+Reporting period 
+
+About Us 
+
+3 
+
+GRI 102-51 
+
+Date of most recent report 
+
+December 2018 
+
+ 
+
+GRI 102-52 
+
+Reporting Cycle 
+
+About Us 
+
+3 
+
+GRI 102-53 
+
+Contact point for questions regarding the report 
+
+ ttjde@ttj.com.sg 
+
+ 
+
+GRI 102-54 
+
+Claims of reporting in accordance to the GRI Standards 
+
+Reporting Practice 
+
+3 
+
+GRI 102-55 
+
+GRI content index 
+
+GRI Content Index  
+
+11-12 
+
+GRI 102-56 
+
+External assurance 
+
+Reporting Practice 
+
+3 
+
+Specific Disclosures 
+
+ 
+
+Governance &amp; Economic Impact 
+
+ 
+
+GRI 205-2 
+
+Anti-Corruption 
+
+Anti-Corruption 
+
+6 
+
+Environmental Impact 
+
+ 
+
+GRI 302 
+
+Energy Consumption 
+
+Environmental Impact 
+
+10 
+
+GRI 305-2 
+
+Greenhouse Gas Emissions 
+
+Environmental Impact 
+
+10 
+
+GRI 306 
+
+Management of Effluents 
+
+Environmental Impact 
+
+10 
+
+Social Impact 
+
+ 
+
+GRI 405-1 
+
+Diversity of governance bodies and employees 
+
+Gender Diversity 
+
+7 
+
+GRI 404-1 
+
+Training &amp; Development 
+
+Training and Development 
+
+8 
+
+GRI 403-2 
+
+Occupational Health &amp; Safety 
+
+Environmental, 
+
+Workplace Health &amp; 
+
+Safety 
+
+9 
+
+ 
+

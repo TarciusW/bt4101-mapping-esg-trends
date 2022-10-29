@@ -1,0 +1,5404 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY 
+
+REPORT
+
+AnAn International Limited
+
+
+
+2017
+
+
+
+
+This sustainability report has been prepared by AnAn International 
+
+Limited for compliance with the relevant rules of the Singapore Exchange 
+
+Securities Trading Limited (“SGX-ST”).
+
+This sustainability report has not been examined or approved by the SGX-
+
+ST and the SGX-ST assumes no responsibility for the contents of this 
+
+sustainability report, including the correctness of any of the statements or 
+
+opinions made or reports contained in this sustainability report.
+
+The contact person for the sustainability report is Mr. Dong Chao.
+
+1 Raffles Place, #41-01 One Raffles Place Tower 1, Singapore 048616 
+
+Tel: (65) 6222 2298  Fax: (65) 6222 2021
+
+
+
+CONTENTS
+
+Board Statement
+
+Corporate Profile
+
+Scope of Report
+
+Our Strategic Approach to Sustainability
+
+• Reporting Boundaries &amp; Standards
+
+• Reporting Period &amp; Scope
+
+Accountability to Stakeholders
+
+Our Materiality Matrix
+
+Economic
+
+• Economic Contribution to Society
+
+• Financial Highlights
+
+• Our Sustainability Vision
+
+Governance
+
+• Legal Compliance and Corporate Governance
+
+• Ethics and Integrity
+
+• Anti-Corruption and Anti-Fraud
+
+• Compliance with Laws &amp; Regulations
+
+• Risk Management
+
+• Service Quality and Responsibility
+
+Environment
+
+• Environmental Management and Compliance
+
+• Energy and Climate Change
+
+• Air Emission
+
+• Water and Wastewater
+
+• Waste Management
+
+• Soil Contamination Management
+
+Social
+
+• People
+
+• Diversity &amp; Equal Opportunity
+
+• Employee Wellness &amp; Benefits
+
+• Training &amp; Staff Development
+
+• Health and Safety
+
+• Labour-management Relations
+
+• Business Partner &amp; Stakeholder Engagement
+
+• Customer Privacy &amp; Data Protection
+
+• Corporate Social Responsibility
+
+GRI Content Index
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10
+
+13
+
+16
+
+22
+
+30
+
+1
+
+2
+
+5
+
+6
+
+8
+
+9
+
+
+At AnAn International Limited ("AnAn"), we believe our sustainable growth and success is 
+
+only possible with the sustainable development of the communities we operate in, be it 
+
+social, business or national communities.
+
+We are committed to uphold the highest standards of Environmental, Social and 
+
+Governance (ESG) practices within our organisation.  While we are taking our first steps 
+
+in the sustainability journey, we have embraced our corporate social responsibility with 
+
+conviction and fervour.
+
+Being in the energy trading business, we are heightened by our responsibility to conserve 
+
+the reserves of natural fossil fuels while playing an instrumental role in the environmental 
+
+protection of the long term sustainable development of this planet.
+
+We demonstrate our sustainability commitment through the adoption of responsible 
+
+business practices in corporate governance. The Group seeks to comply with applicable 
+
+laws and regulations in the markets we operate in. The Board expects all employees to 
+
+be vigilant to maintain our corporate values and the brand promise of the Company's 
+
+products and services.
+
+At AnAn, we recognise the importance of sustainability to our business. As we embark 
+
+on our first journey of sustainability reporting, we aim to highlight the challenges and 
+
+material issues that are important to our stakeholders, our strategy in managing these 
+
+challenges and issues in this first report. 
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 1
+
+Board Statement
+
+Yours Sincerely, 
+
+Zang Jian Jun
+
+Executive Chairman
+
+
+
+
+Corporate Profile
+
+AnAn International Limited (“AnAn” or the “Company”) is 
+
+listed on the Mainboard of the Singapore Exchange (stock 
+
+code: Y35).
+
+The Company is primarily engaged in the trading of 
+
+petrochemical, fuel oil, and petroleum products. AnAn 
+
+International fully capitalizes on Singapore’s prominent 
+
+advantages in its geographical location and market 
+
+mechanism in international shipping, financial services, 
+
+market trading and so forth to construct a Singapore-
+
+centered global trading system with support from the 
+
+Chinese market and a solid foothold in Asia-Pacific 
+
+economic circle.
+
+We integrate midstream and downstream resources in the 
+
+oil and petrochemical industries to undertake commodity 
+
+trading and diverse investment cooperation with the 
+
+world’s major energy and raw material producing regions 
+
+to establish a comprehensive energy trading system and 
+
+industry value chain. Meanwhile, the Company strives to 
+
+integrate the midstream and downstream assets of the oil 
+
+and gas industry, gradually establishing a complete industrial 
+
+chain.
+
+Dyneff is a leading independent fuel distributor 
+
+headquartered in France, with business operations across 
+
+both France and Spain. Dyneff has been active in the fuel 
+
+distribution sector for more than 50 years, with business 
+
+operations covering three distribution channels, and over 
+
+100 filling stations, a network of commercial agencies 
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 2
+
+and two wholesale agencies. Dyneff has also established 
+
+logistics infrastructure in both France and Spain, with 
+
+strategic storage capabilities at the main Mediterranean and 
+
+Atlantic ports. The total storage capacity amounts to about 
+
+300,000 cubic meters.
+
+Dyneff SAS
+
+At the beginning of 2016, we launched a diversification 
+
+strategy using investments and acquisitions to drive growth, 
+
+with a strategic focus on investment opportunities in mid 
+
+and downstream energy assets available in Europe, for 
+
+instance, retail outlets, distribution networks, logistics and 
+
+storage facilities. 
+
+In 2016, we have acquired Dyneff SAS ("Dyneff") through 
+
+the acquisition of a 51% stake in Rompetrol. In December 
+
+2016, we have also obtained the approval for the acquisition 
+
+by the French Ministry of Economy and anti-trust clearance 
+
+by European Commission. 
+
+AnAn International has entered into strategic partnership 
+
+with a number of world-renowned energy enterprises, 
+
+boasts of a professional team as well as a complete 
+
+and stable trading system across the supply chain. With 
+
+energy trading as its primary business and together with 
+
+its involvement in the financial services and investment in 
+
+the energy industry, the Company strives to grow into a 
+
+vertically integrated energy company with global presence 
+
+and strong competitive advantage.
+
+
+
+
+AnAn International Limited
+
+AnAn Assets Management &amp; Equity 
+
+Investment(Hong Kong) Co.,Ltd.
+
+Incorporated in Hong Kong
+
+Rompetrol France SAS
+
+DYNEFF SAS
+
+Incorporated in France
+
+Dyneff Espana SL
+
+Dyneff Trading SL
+
+Dyneff Gas Stations 
+
+Network SL
+
+Hong Kong China Energy Finance Service 
+
+Co., Limited
+
+Incorporated in Hong Kong
+
+Shanghai Dajiang Shenyuan Enquity 
+
+Investment Fund Management Co.,Ltd.
+
+Incorporated in Shanghai,PRC
+
+Yinxin Commercial Factoring Co.,Ltd
+
+Incorporated in Beijing
+
+Rizhao Port Gold Brick Oil Storage and 
+
+Transportation Corporation Limited
+
+Incorporated in Rizhao
+
+Singapore AnAn Petrochemical &amp; 
+
+Energy Pte Ltd
+
+Incorporated in Singapore
+
+100%
+
+51%
+
+100%
+
+15%
+
+100%
+
+100%
+
+100%
+
+Petrol station in Spain
+
+Trading Activities in Spain
+
+100%
+
+100%
+
+100%
+
+49%
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 3
+
+Dyneff  caters to the supply of energy, and our activities 
+
+provide a complete range of solutions "Made by Dyneff", 
+
+ranging from gasoline, diesel, domestic heating oil, non-road 
+
+fuel, natural gas. Our professional fleet of 70 trucks is fitted 
+
+with the best technologies in order to secure the deliveries. 
+
+Every year we also charter more than 80 vessels from 2,000 
+
+to 33,000 tons in order to transport close to 1 million m3 
+
+of petroleum products by sea. Our own storage sites as 
+
+well as our rented primary facilities in France and Spain, 
+
+combined with a network of secondary oil depots, ensure 
+
+a total storage capacity of over 250,000m3. Our network 
+
+also includes over 100 petrol stations in the South of 
+
+France and North of Spain; 14 commercial centers for fuel 
+
+distribution to professionals, individuals and local authorities; 
+
+and two trading agencies for major key accounts in France 
+
+and Spain. Since 2015, Dyneff is now among the national 
+
+natural gas suppliers, able to provide natural gas to private 
+
+households as well as local companies connected to the 
+
+national grid managed by GrDF (representing 96% of the 
+
+French territory).
+
+This vast territorial network, along with our important storage 
+
+capacity and our global knowledge of the distribution of 
+
+petroleum products ensure a fast and reliable supply as 
+
+well as an extensive geographical coverage, including three 
+
+quarters of the French and Spanish territories.
+
+As a subsidiary of AnAn International Limited (51%) and 
+
+KazMunayGaz International NV (49%), Dyneff moreover 
+
+benefits from the strength of these international groups 
+
+operating in the energy sector.
+
+
+Key Businesses
+
+Energy Trading
+
+Energy Financial Services
+
+Investment in Energy Industry
+
+Primarily engaged in international trading of oil and 
+
+petrochemical products. 
+
+Based in Singapore, the company capitalizes on 
+
+Singapore's advantages in its geographical location and 
+
+market mechanism in ports, logistics, finances and trading 
+
+while capturing the momentum of the Chinese market to 
+
+expand its business in the Asia-Pacific region. 
+
+The company's traded commodities mainly include 
+
+the following categories: 1) crude oil, 2) light end 
+
+products (LPG, NGLs, naphtha, gasoline and blending 
+
+components, etc), 3) middle distillates products (kerosene, 
+
+Primarily engaged in derivatives trading of energy 
+
+commodities during the early stage of development, while 
+
+Primarily focused on investment efforts in the energy 
+
+industry, with a focus on the extension of its assets in the 
+
+mid- and downstream areas, 
+
+This includes acquisition of and investment in terminals, 
+
+distribution channels, logistics and critical storage 
+
+facilities. 
+
+The Company will evaluate investment opportunities 
+
+in new energy projects in China, and at a more mature 
+
+timing evaluate the application of Internet energy projects 
+
+to promote the energy industry. 
+
+diesel), 4) heavy ends products (vacuum gasoil, straight-
+
+run fuel oil, cracked fuel oil including bunker fuel oil, 
+
+asphalt, etc), 5) chemical products (paraxylene, mixed 
+
+xylenes, glycol, styrene, natural runner, etc). 
+
+Currently, the Company has entered into strategic 
+
+partnership agreements with a number of world renowned 
+
+enterprises. These strategic partners provide stable long-
+
+term supply and sales channels, outstanding product and 
+
+service quality in the industry, and an extensive business 
+
+network in China's energy market, laying a strong 
+
+foundation for the future development of AnAn.  
+
+it seeks to extend to other services including receivables 
+
+factoring and financial leasing step by step.
+
+Dyneff operations in France &amp; Spain
+
+
+
+•        
+
+•
+
+•
+
+•        
+
+•        
+
+•        
+
+•
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 4
+
+
+SCOPE 
+
+OF REPORT 
+
+During the year, we adopted a formal reporting approach by applying 
+
+the international reporting framework, Global Reporting Initiative (“GRI”) 
+
+Standards, in preparing our first sustainability report.
+
+For reference to the GRI Content Index, please refer to Page 29-33.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 5
+
+
+Our Strategic Approach to Sustainability 
+
+Reporting Boundaries and Standards 
+
+With our vision and corporate values in mind, we aim to 
+
+systematically and seamlessly integrate sustainability into 
+
+the businesses of AnAn. Where possible, we incorporate 
+
+sustainability considerations in our decision-making 
+
+processes.  
+
+Our sustainability efforts are led by our senior management 
+
+who ensures that the Company’s business objectives are 
+
+in line with our commitments to sustainable development. 
+
+Senior management is responsible for on-going 
+
+communication to the Board of Directors.    
+
+The report is also prepared in accordance with GRI Principles for defining report content, including: 
+
+• Materiality: 
+
+focusing on issues that impact business growth and are of 
+
+utmost importance to stakeholders;
+
+• Stakeholder Inclusiveness: 
+
+responding to the identification of stakeholder expectations 
+
+and interests; 
+
+AnAn’s senior management has determined focus areas 
+
+where AnAn can have the greatest economic, environmental 
+
+and social impact, as well as the areas that are most 
+
+important to our stakeholders.  
+
+AnAn aims to seek the opinion of internal and external 
+
+stakeholders either formally or informally. We aspire 
+
+to understand the needs and expectations of our key 
+
+stakeholders and strive to build mutually beneficial 
+
+relationships.
+
+• Sustainability Context: 
+
+presenting performance in the wider context of 
+
+sustainability; and 
+
+• Completeness: 
+
+including all information that is of significant economic, 
+
+environmental and social impact to enable stakeholders to 
+
+assess the Company’s performance. 
+
+Sustainability Committee Governance Structure
+
+Board
+
+Chairman
+
+
+
+Operations/
+
+EHS
+
+
+
+Human 
+
+Resource
+
+
+
+Legal 
+
+Compliance
+
+
+
+Information 
+
+Technology
+
+
+
+Finance
+
+
+
+Marketing
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 6
+
+
+Report Period and Scope
+
+We use a consolidated operating approach to determine 
+
+organisational boundaries. Our data is an aggregation of our 
+
+operations in Singapore. As this is our first report, our base 
+
+year is 2017.
+
+This report covers data and information from 1 January 
+
+2017 to 31 December 2017 and discusses AnAn's 
+
+achievements and performance towards Environmental, 
+
+Social and Governance (“ESG”) issues. This report has been 
+
+prepared in accordance to the GRI Standards: Core Option.
+
+This report covers only the operations in Singapore, China 
+
+and France for the first year.
+
+The Environmental, health and safety data provided in this report cover ONLY sites and activities in France which 
+
+are fully owned and managed by Dyneff, namely:
+
+HSE and social quantitative data provided in this report exclude:
+
+The information presented in this Report is produced for the 
+
+first time for financial year 2017, and the figures contained 
+
+therein concern the a restricted scope as detailed below, 
+
+with an illustration of the policies, processes, tools, initiatives 
+
+and actions as far as possible at Group level.
+
+AnAn will extend its reporting scope during each new 
+
+reporting year, to make the reporting as representative as 
+
+possible with regard to the Group’s workforce and revenue.
+
+As part of our environmental conservation efforts, only digital 
+
+edition of the report is available at: www.ananinternational.com
+
+The 30 petrol stations owned by Dyneff in France;
+
+The DPPLN primary oil depot;
+
+The 11 commercial centers located in France;
+
+The transportation activities conducted by Dyneff own  
+
+The EHS data of Asian operations will be added in the 
+
+report next year.
+
+The petrol stations in partnership, as they are owned 
+
+and operated by independent individuals with their own 
+
+employees (Dealer Owned Dealer Operated – DODO 
+
+model). For each of these stations there is a framework 
+
+contract in place allowing the independent operator to 
+
+use the Dyneff brand, while in return being committed to 
+
+procuring the fuel sold at its petrol station from Dyneff and 
+
+to comply with the Dyneff charter;
+
+The primary oil depots only partly owned by Dyneff 
+
+(EPPLN, DP FOS, SPR);
+
+The loading points and secondary oil depots leased by Dyneff;
+
+The fuel transportation / delivery activities conducted 
+
+by subcontractor’s vehicles and personnel (e.g. vessels 
+
+chartered to deliver fuel to primary oil depots, fuel delivery 
+
+by road to small and medium distribution clients when 
+
+• 
+
+• 
+
+•
+
+•
+
+•
+
+• 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+managed by a subcontracted transportation company), 
+
+and the fuel transportation from primary oil depots to 
+
+wholesale client’s locations (which is the responsibility of 
+
+the client);
+
+The activities of BAE SAS, which is a 50% joint-venture 
+
+with a winemaking cooperative. 
+
+Dyneff activities in Spain are outside the scope of this 
+
+report. In particular, HSE and social quantitative data 
+
+provided in this report do not include sites and employees 
+
+based in Spain. It should however be highlighted that 
+
+qualitative information regarding strategy, governance, etc. 
+
+described in this report are generally applicable to Dyneff 
+
+activities in Spain as well.
+
+vehicles and personnel (company cars, owned trucks    
+
+delivering products to petrol stations and individual clients);
+
+The head office in Montpellier (including the wholesale 
+
+trading center) and the office in Narbonne.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 7
+
+
+Accountability to Stakeholders  
+
+We strive to be a responsible corporate citizen by working 
+
+closely with our stakeholders to understand their concerns 
+
+and feedback.  The stakeholder engagement provides 
+
+valuable information for our sustainability reporting, 
+
+particularly in determining the material environmental 
+
+Our Key Stakeholders
+
+How We Engage Them
+
+Key Topics
+
+Customers
+
+· Formal business meetings
+
+· Informal feedback 
+
+· Value proposition of AnAn Group
+
+· Product features of AnAn's 
+
+  product ranges
+
+· Customer feedbacK
+
+· Service quality
+
+Shareholders and Financial 
+
+Community
+
+· Annual General Meeting
+
+· Emails and tele-conferences
+
+· Investor Briefings/meetings
+
+· Financial results
+
+· Key business developments 
+
+  such as new acquisition or 
+
+  divestment
+
+· Information update by  
+
+  management to shareholders
+
+  &amp; investors
+
+Employees
+
+· Internal communication through emails 
+
+· Information update by 
+
+  management to staff
+
+Suppliers / Service Providers
+
+· Regular meetings
+
+· Emails and telephone calls
+
+· Feedbacks on their products 
+
+  and services
+
+· Information update of their 
+
+  new product or service
+
+Government and Regulatory 
+
+Agencies
+
+· Consultations 
+
+· Discussions 
+
+· Regulatory and industry 
+
+  standards and guidelines
+
+Local Communities
+
+· Community activities 
+
+and social issues.  We will continue to engage our 
+
+external stakeholders more extensively to identify areas 
+
+that are material, sustainable and necessary for future 
+
+development.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 8
+
+
+1
+
+2
+
+3
+
+4
+
+5
+
+5
+
+4
+
+3
+
+2
+
+1
+
+Importance to External Stakeholders
+
+Importance to Internal Stakeholders
+
+Importance to Stakeholders
+
+MATERIALITY MATRIX
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+14
+
+15
+
+16
+
+17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+Diversity and Equal Opportunity
+
+Training and Education
+
+Business Partners Engagement
+
+Stakeholder Engagement
+
+Labour-Management Relations
+
+Supply Chain &amp; Procurement Practices
+
+Customer Privacy &amp; Data Protection
+
+Socio-Economic Compliance
+
+Corporate Social Responsibility
+
+Economic contribution to society
+
+Wages and local hiring
+
+Sustainable Growth
+
+Innovation &amp; Technology
+
+Legal Compliance and Governance
+
+Anti-Corruption and Anti-Fraud
+
+Service Quality &amp; Responsibility
+
+Employee/Public Health &amp; Safety
+
+Water Conservation
+
+Energy Management
+
+Environmental Impact Assessment 
+
+and Mitigation
+
+Waste Management
+
+Emission &amp; Air Pollution
+
+GOVERNANCE
+
+ECONOMIC
+
+SOCIAL
+
+ENVIRONMENT
+
+
+
+9
+
+8
+
+12
+
+6
+
+5
+
+7
+
+1
+
+2
+
+3
+
+4
+
+14
+
+16 17
+
+18
+
+19
+
+20
+
+21
+
+22
+
+13
+
+10
+
+15
+
+11
+
+10
+
+11
+
+12
+
+13
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 9
+
+
+ECONOMIC
+
+Economic Contribution to Society
+
+Headquartered in Singapore, we manage our global 
+
+operations in accordance with our sustainability principles. 
+
+We work closely with our management and staff to identify 
+
+and consider any sustainability opportunities and risks that 
+
+may arise.  
+
+Sustainability trends such as climate change, resource 
+
+scarcity and demographic changes shape the competitive 
+
+environment in which companies like AnAn operate by 
+
+introducing long term sustainability opportunities and risks. 
+
+We therefore view our business performance beyond short 
+
+term gains and financial bottomline. Our conviction is to 
+
+achieve a balanced triple bottomline (People, Planet, Profit) 
+
+for sustained growth of the organisation and the community 
+
+it operates in.
+
+The success of our business is highly dependent on 
+
+the commitment of our management and staff.  Their 
+
+knowledge, professional expertise and their job satisfaction 
+
+are key to our economic sustainability.  
+
+More importantly, we strive to contribute positively to the 
+
+society through our economic presence, while maintaining 
+
+good stewardship of the resources we manage and 
+
+generating good shareholder value.
+
+Our business model focuses on cost effectiveness without 
+
+compromising our service level and high priority on 
+
+customer’s interest. 
+
+We strive to maintain our market position by ensuring we 
+
+gain the trust of our customers, and continually build our 
+
+reputation and brand name in the business community in 
+
+Singapore.
+
+We use local suppliers and service providers for our 
+
+operation in Singapore.
+
+In today’s highly volatile business environment, AnAn 
+
+has diligently embraced prudent financial management, 
+
+capitalised on our assets and investments, and remained 
+
+focused on growth strategies, to enhance shareholders’ 
+
+value.
+
+For FY2017, we have encountered some headwinds in 
+
+the form the recoverability of the Group’s US$124.52 
+
+million trade receivables from a related party as well as the 
+
+recoverability of US$122.3 million due from subsidiary as 
+
+qualified  by our auditors in our annual report FY2017.
+
+For more information on AnAn’s financial and business 
+
+performance, please refer to Page 10
+
+ECONOMIC
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 10
+
+
+2
+
+ECONOMIC
+
+Financial Highlights
+
+Revenue by Year (US$'000)
+
+Total Comprehensive Income
+
+Attributable to: Owners of the Company (US$‘000)
+
+Net Profit/Loss  (US$'000)
+
+Revenue by Geographical Segments 
+
+(US$'000)
+
+2016    2017
+
+2016    2017
+
+2016   
+
+2017
+
+2016
+
+2017
+
+2,295,981
+
+2,72
+
+12,391
+
+183,319
+
+1,430,855    
+
+18,421                                  
+
+24,002        
+
+119,306       
+
+773,723                        
+
+745,820
+
+999,465
+
+13,107
+
+2,723         
+
+ECONOMIC
+
+Europe
+
+Hong Kong 
+
+People’s Republic of China                           
+
+Singapore
+
+Others
+
+Revenue by Business Segments (US$'000)
+
+2016
+
+2017
+
+865,587
+
+1,001,785
+
+1,459
+
+(461)
+
+(2,320)
+
+1,429,396 
+
+Wholesale             
+
+Derivative trading
+
+Distribution
+
+Dividend income
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 11
+
+
+Our Sustainability Vision
+
+ECONOMIC
+
+2
+
+Generate positive return to shareholders
+
+Achieve operational efficiency
+
+Drive consistent growth through organic 
+
+growth and acquisitions
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+Build a resilient organisation and caring society
+
+Promote greater support for corporate 
+
+volunteerism in society
+
+Build partnership with stakeholders
+
+Drive employee development and employee 
+
+engagement
+
+Promote a strong environmental-friendly 
+
+culture
+
+Promote environmental conservation through 
+
+adoption of the 3R's (Reduce, Reuse 
+
+Recycle) and energy efficient practices
+
+Focus on risk management by having good 
+
+corporate governance and well-developed 
+
+policies and procedures 
+
+Achieve compliance with all applicable laws 
+
+and regulations
+
+ECONOMIC
+
+SOCIAL
+
+ENVIRONMENTAL
+
+GOVERNANCE
+
+
+
+
+
+
+
+
+
+AnAn's  sustainability strategy, targets and key performance indicators (KPI) will be reported in the next sustainability report.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 12
+
+
+With a zero-tolerance policy to bribery and corruption, we 
+
+put in place monitoring and management control systems to 
+
+detect bribery, fraud or other malpractice activities directly 
+
+at the source.  We have established a whistle-blowing 
+
+mechanism for employees and any other concerned 
+
+stakeholders such as customers and their families, 
+
+suppliers, competitors and contractors.  
+
+A direct whistle-blowing channel through channels like email 
+
+2
+
+Ethics &amp; Integrity 
+
+ 
+
+ 
+
+Anti-Corruption and Anti-Fraud
+
+Legal Compliance and Corporate Governance
+
+We promote an ethical and 'act with integrity’ culture 
+
+throughout the Company. We seek to conduct our business 
+
+in an ethical manner, and guided by industry best practices. 
+
+All staff are required to comply fully with the principles 
+
+set out in the employment contract and the Employee 
+
+Handbook.
+
+Corporate governance and compliance has always been 
+
+one of the top priorities for the Company.  Being a public-
+
+listed company in Singapore, the decision-making process 
+
+of the Company is strictly in line with legal and regulatory 
+
+requirements and in compliance with the Code of Corporate 
+
+Governance issued by the Monetary Authority of Singapore, 
+
+and the Singapore Companies Act (Chapter 50).
+
+GOVERNANCE
+
+We adhered to all the legal and regulatory requirements in all 
+
+the markets we operate in. The Company has not received 
+
+any correspondences or notifications in relation to any non-
+
+compliance of legal and regulatory requirements of any 
+
+government or regulatory of agencies in financial year 2017. 
+
+The Audit Committee received no whistle-blowing letters 
+
+during the year.
+
+The Employee Handbook details our expected standards of 
+
+employee’s behaviour towards our business partners whom 
+
+we have business dealings with, to the people in the society 
+
+whom we serve and towards each other as employees of 
+
+the Company. 
+
+or telephone line has also been implemented to enable our 
+
+employees and concerned stakeholders and to get direct 
+
+access to our Audit Committee Chairman.  
+
+By doing so, our employees and stakeholders can be 
+
+assured that all reports or suspicion of potential breaches of 
+
+our employee guidelines are taken seriously by the Group. 
+
+Our stakeholders can reach our Audit Committee Chairman 
+
+via telephone or email.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 13
+
+
+Risk Management
+
+The Group recognises the importance of risk management 
+
+and how business risks may adversely affect AnAn’s 
+
+business performance.  
+
+It is the responsibility of the Audit Committee as appointed 
+
+by the Board of Directors to oversee the effectiveness of our 
+
+risk management and internal controls. 
+
+AnAn faces the same risks as other companies in the energy 
+
+sector, including environmental risks (e.g. hydrocarbon spill, 
+
+contribution to climate change, depletion of resources), 
+
+social risks (e.g. talent attraction and retention, competence 
+
+GOVERNANCE
+
+management, safety), societal risks (e.g. relationships 
+
+with local communities), reputation / image risk, business 
+
+risks (e.g. evolving expectations from customers, business 
+
+continuity), etc.  
+
+AnAn endeavors to manage these risks and turn them into 
+
+opportunities (e.g. products diversification, promotion of 
+
+green fuels) as far as possible, in particular by embedding 
+
+sustainability into the company’s day-to-day activities, as 
+
+described in the different sections of this report.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 14
+
+Compliance with Laws and Regulations
+
+The Company is proactive in ensuring its compliance with 
+
+all relevant laws and regulations in Singapore, and has put 
+
+in place policies and procedures to ensure compliance. 
+
+The management team is responsible for the review and 
+
+monitoring of the Company’s policies and practices. Non-
+
+compliance of relevant laws and regulations or resolutions 
+
+will be reported to the Board of Directors. 
+
+As a publicly listed entity,  the Company also ensures that 
+
+it is in compliance, both in substance and in spirit, with the 
+
+Listing Rules of Singapore Exchange Securities Trading 
+
+(SGX-ST), the Securities and Futures Act, and the Singapore 
+
+Companies Act.
+
+Any new enactment of or changes to the relevant laws and 
+
+regulations will be communicated to all staff via emails and 
+
+small group meetings.  Such communication is necessary to 
+
+ensure that all staff are aware of the changes and can carry 
+
+out the necessary steps and actions to ensure compliance.  
+
+While we seek to leverage our data to serve our customers 
+
+responsibly, we adhere and uphold the Personal Data 
+
+Protection Act 2012 (“PDPA”). 
+
+There has not been any report of product or service 
+
+misinformation during the year.
+
+
+Service Quality and Responsibility
+
+Our service quality and responsibility to our customers 
+
+ranks high for the sustainable success of the Company. We 
+
+are committed to provide reliable and high quality services 
+
+to our customers we service. We emphasise service 
+
+excellence in dealings with our customers. Our staff serve 
+
+our customers professionally and ethically.
+
+GOVERNANCE
+
+A comprehensive customer satisfaction survey was 
+
+conducted in 2014 for the small and medium distribution 
+
+and wholesale fuel markets in France. 1,395 existing 
+
+customers (81% small and medium distribution, 19% 
+
+wholesale) and 105 new customers (91% small and medium 
+
+distribution, 9% wholesale) responded to a purpose-
+
+built questionnaire designed for assessing the customers’ 
+
+satisfaction in terms of service, price and relationship 
+
+with Dyneff. Overall, 96% of our customers were satisfied 
+
+with our performance, with 37% of the surveyed clients 
+
+even being extremely satisfied. The contact with Dyneff 
+
+representatives (e.g. kindness of sales representatives and 
+
+of drivers) and the efficiency of delivery were among the 
+
+features particularly appreciated by our customers. The 
+
+price and the continued relationship with Dyneff (e.g. sharing 
+
+offers / information on new products, capability to quickly 
+
+deliver in case of an emergency) were identified as areas for 
+
+improvement.
+
+Further to Dyneff receiving the agreement to supply natural 
+
+gas in 2015, we performed a customer satisfaction survey 
+
+covering 2,400 of our gas clients in 2017. The overall 
+
+satisfaction rate was 86% for existing clients and 76% for 
+
+new clients. Areas of satisfaction include an efficient phone 
+
+assistance / hotline, the professionalism of Dyneff  and the 
+
+quality of advice given. The main topics of dissatisfaction 
+
+relate to issues with invoices, the time to respond to queries, 
+
+and the absence of an online customer system for the 
+
+clients to monitor their contracts. While we are working hard 
+
+to resolve these issues and have already made progress to 
+
+reduce response time and improve invoice management, 
+
+the development of an online client system will take some 
+
+time to be ready for deployment.
+
+Customer Satisfaction
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 15
+
+
+
+
+Environmental protection has always been a major and 
+
+daily concern for us. We have focused our environmental 
+
+reporting on our AnAn operations in France. In our first 
+
+report, we focus the efforts in managing our direct impacts, 
+
+followed by how we can improve the trading framework 
+
+to reduce as far as possible the indirect impact in the 
+
+subsequent reports.
+
+Dyneff adopts a virtuous quality approach with the objective 
+
+to mitigate our impact on the environment. Supply of 
+
+biofuels, integration of new eco-construction technologies, 
+
+ENVIRONMENT
+
+reduction of air emissions from transportation, reduction of 
+
+energy consumption, because every action counts, Dyneff's 
+
+strategy includes environmental concerns on a daily basis.
+
+AnAn strives to embrace environmental sustainability by 
+
+managing environmental conservation through adopting 
+
+‘Reduce’, ‘Re-use’, ‘Recycle’ and energy efficient practices.  
+
+As part of our initial efforts, we will align our environmental 
+
+performance in our Singapore operations to key evaluation 
+
+criterion like water and energy conservation.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 16
+
+Environmental Management and Compliance
+
+We use the ISO14001 standard as a reference to conduct 
+
+our environmental management and protection activities, 
+
+including environmental impact register and monitoring, 
+
+compliance with regulations (regulatory watch through 
+
+legislative editions), mandatory reporting of environmental 
+
+data (to local authorities, to shareholders), training, internal 
+
+and external audits, etc.
+
+Our sites are subject to declaration or authorization 
+
+according to the French ‘Installations Classées pour 
+
+l’Environnement’ (ICPE – Classified Installations for 
+
+Environmental Protection) legal framework, under headings 
+
+1434 for hydrocarbons loading / unloading, 1435 for petrol 
+
+stations, and 4734 for hydrocarbon storage. 
+
+Under this legal framework, our sites are committed 
+
+to comply with the environmental requirements of their 
+
+operating permits and/or of the relevant Generic Orders 
+
+(“Arrêtés Types“), are subject to regular inspections from 
+
+the local authorities, and are required to report their 
+
+environmental performance to the local authorities on an 
+
+annual basis. 
+
+Our employees are regularly trained to ICPE requirements, 
+
+and all of our sites are operating in compliance with 
+
+applicable local environmental regulations.
+
+
+2
+
+Energy and Climate Change
+
+Minimizing Energy Consumption
+
+The primary source of energy consumption at our sites (oil 
+
+depots, petrol stations and offices) is electricity purchased 
+
+from the grid for lighting, heating / cooling, and various 
+
+electrical equipment. At some sites, fuel is used in small 
+
+quantities for firefighting equipment and for emergency 
+
+back-up generators. Diesel fuel and gasoline are used by 
+
+our fleet of vehicles (company cars for employees, owned 
+
+trucks for products transportation and delivery from the oil 
+
+depots to our petrol stations and to our clients). 
+
+Renewable energies are used at a few Dyneff sites to 
+
+complement energy from the grid. For example, at the 
+
+Village Catalan highway petrol station, solar panels and a 
+
+ENVIRONMENT
+
+wind turbine are used to produce sanitary hot water and 
+
+electricity.
+
+The electricity consumption at Dyneff sites amounts to 
+
+approximately 3.75 million kWh in 2017, while the fuel 
+
+consumption (for testing of firefighting equipment and 
+
+emergency generators) amounts to 12 m3 only. The total 
+
+quantity of fuel (diesel and gasoline) used in AnAn’s (France) 
+
+vehicles amounts to approximately 345,000 liters in 2017. 
+
+The greenhouse gas emissions resulting from the energy 
+
+consumption of Dyneff are estimated at 950 tCO2 for Scope 
+
+1 (fuel for owned vehicles and generators) and 225 tCO2 for 
+
+Scope 2 (electricity purchased).
+
+Electricity Consumption ('000kwh)
+
+Electricity Expenditure (€'000)
+
+Electricity Consumption 2017 
+
+AnAn's Consumption (France)
+
+AnAn's Expenditure (France)
+
+
+
+
+
+5000
+
+4000
+
+3000
+
+2000
+
+1000
+
+0
+
+3,750
+
+558
+
+
+
+
+
+5000
+
+4000
+
+3000
+
+2000
+
+1000
+
+0
+
+129
+
+
+
+Fuel Consumption ('000Litres)
+
+Fuel Expenditure (€'000)
+
+Fuel Consumption 2017 
+
+AnAn's Consumption (France)
+
+AnAn's Expenditure (France)
+
+
+
+
+
+5000
+
+4000
+
+3000
+
+2000
+
+1000
+
+0
+
+345
+
+
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+Greenhouse Gases Emission (tCO2)
+
+Greenhouse Gases Emission  2017 
+
+AnAn's Emission (Scope 1 ) (France)
+
+AnAn's Emission (Scope 2 ) (France)
+
+
+
+
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+950
+
+225
+
+
+
+
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 17
+
+
+In line with legal requirements and in order to identify energy 
+
+improvement opportunities,  Dyneff conducted in 2015 
+
+energy audits for its petrol stations and transportation 
+
+activities. The audits were performed by third-party specialist 
+
+companies, which conducted a detailed review and analysis 
+
+of energy consumptions and made recommendations in 
+
+terms of energy consumption and efficiency improvements.
+
+At the petrol stations, energy improvement opportunities 
+
+identified by the audits included the implementation of 
+
+centralized automated management of energy streams, 
+
+replacement of all lightbulbs with LEDs, automation of 
+
+lighting systems, and awareness / training of staff to energy 
+
+efficiency measures. These actions have been or are being 
+
+implemented at our petrol stations.
+
+In terms of transportation activities, a number of 
+
+improvement initiatives have been identified by the energy 
+
+audit and have been or are being implemented in order to 
+
+Dyneff was the first to incorporate methyl ester into diesel 
+
+and heating oil in France as soon as 1993, and in Spain 
+
+since 2005. Today, we continues with the development of 
+
+alternative solutions to fossil fuels and distributes in France 
+
+and Spain fuels containing between 10% to 100% biofuel: 
+
+Super Ethanol E85 (fuel containing 85% ethanol and 15% 
+
+petrol), SP95-10 (Super Sans Plomb 95 containing up to 
+
+10% ethanol), biofuel B10, B20, B30 and B100 (incorporating 
+
+between 10 and 100% methyl ester). With this diversified 
+
+range of biofuels, Dyneff consistently exceeds the regulatory 
+
+requirement of 7% biofuel content in the total volume of fuel 
+
+In France, the Energy Saving Certificate system (‘Certificats 
+
+d’Economie d’Energie – CEE’) requires energy distribution 
+
+companies such as Dyneff to actively promote energy 
+
+efficiency to its clients (professionals, individuals and local 
+
+authorities), with an annual objective of CEE to be obtained 
+
+in line with the actions conducted during the year. If a 
+
+company does not reach its objective, then it has to pay 
+
+a fine or purchase the ‘outstanding’ CEE from another 
+
+company that has exceeded its CEE target.
+
+minimize fuel consumption: thorough vehicle maintenance, 
+
+regular tire pressure verification, vehicles with ‘Stop &amp; Start’ 
+
+systems, use of energy-saving lubrification oil, training to 
+
+eco-driving / defensive driving, use of onboard telematics. 
+
+It should be noted that these recommendations primarily 
+
+apply to our company cars rather than trucks for products 
+
+transportation as this latter activity has largely been 
+
+externalized in the past few years.
+
+In this regard, Dyneff was a signatory of the ‘Objective CO2’ 
+
+charter (a voluntary commitment to reduce CO2 emissions 
+
+from transportation) from 2011 to 2013, but cannot claim 
+
+compliance with this charter anymore since we have 
+
+externalized our fuel transportation and delivery activities. 
+
+Our transportation partners are however signatories of the 
+
+‘Objective CO2’ charter.
+
+sold. Dyneff has also partnered with a local car dealer in 
+
+order to encourage the purchase of Flex-fuel vehicles which 
+
+use E85 biofuel.
+
+Through this distribution and promotion of biofuels, we 
+
+encourages its clients to reduce their greenhouse gas 
+
+emissions and resulting impacts on climate change. 
+
+Dyneff has supported the development of electric cars, 
+
+starting with the provision of a charging station for electric 
+
+cars at one of our highway petrol stations.
+
+With a dedicated team of 3 specialists, Dyneff is a very 
+
+proactive player in the CEE system and consistently 
+
+exceeds its CEE target by implementing various energy 
+
+efficiency promotion actions for its customers, for example:
+
+• Provision of free support to our clients for implementing 
+
+   energy renovation / improvement projects;
+
+• Distribution of low consumption LED lightbulbs to all fans 
+
+   of the Montpellier Hérault Rugby Club.
+
+Promotion of Biofuels
+
+Energy Saving Certificates
+
+ENVIRONMENT
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 18
+
+
+ENVIRONMENT
+
+Air Emissions
+
+Fugitive VOC Emissions
+
+Transportation Air Emissions
+
+The main sources of air emissions at our sites are fugitive 
+
+VOC (volatile organic compounds) emissions from 
+
+hydrocarbon storage tanks, and loading / unloading 
+
+equipment. In order to minimize these emissions, the 
+
+oil depots are fitted with vapor recovery systems for 
+
+hydrocarbon loading from the storage tanks to the 
+
+trucks. The storage tanks and pipelines are also fitted 
+
+with emergency safety shutdown valves and fire and gas 
+
+The second major source of direct air emissions from our 
+
+activities is transportation. The initiatives listed above to 
+
+minimize energy consumption from transportation and 
+
+the commitment to the ‘Objective CO2’ charter by our 
+
+transportation partners participate in the reduction of air 
+
+emissions from transportation. 
+
+Additional actions / initiatives to minimize the use of road 
+
+transportation and further reduce resulting air emissions 
+
+include:
+
+• Use of rail instead of road to transport hydrocarbons 
+
+   products to oil depots when possible;
+
+detection systems in order to identify and prevent any 
+
+hydrocarbon leak. 
+
+Our petrol stations are all fitted with stage 1 vapor recovery 
+
+systems (for hydrocarbon delivery from the trucks to the 
+
+above- or underground storage tank), and the larger stations 
+
+dispensing over 500 m3 per year are moreover fitted with 
+
+stage 2 vapor recovery systems (for fuel delivery from the 
+
+dispensers to the customer’s vehicles).
+
+Principles of Stage 1 (left) and Stage 2 (right) Vapor Recovery Systems at Petrol Stations
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 19
+
+• Transition towards the latest Euro 6 European emission 
+
+   standards for exhaust emissions of company light vehicles;
+
+• Promotion of carpooling via an internal online reservation 
+
+   system;
+
+• Provision of videoconferencing facilities in the Montpellier, 
+
+   Narbonne and Girona offices;
+
+• Provision of a secured bicycle parking in the head office in 
+
+   Montpellier to encourage employees to ride their bicycle 
+
+   to and from work;
+
+• Possible use of teleworking under certain conditions is 
+
+   being assessed.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GASONLINE
+
+VAPORS
+
+DISPENSED GASONLINE
+
+SERVICE STATION PUMP
+
+RETURNED VAPORS
+
+VAPOR VENT LINE
+
+MANIFOLD FOR RETURNING VAPORS
+
+UNDERGROUND
+
+STORAGE TANK
+
+TRUCK STORAGE
+
+COMPARTMENTS
+
+INTERLOCKING VALVE
+
+PRESSURE RELIEF VALVE
+
+SUBMERGED FILL PIPE
+
+LIQUID LEVEL
+
+VAPOR RETURN LINE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Water and Wastewater
+
+Waste Management
+
+Water is primarily used for domestic purposes (restrooms, 
+
+cooking, cleaning) at Dyneff sites (oil depots, petrol stations 
+
+and offices). At our petrol stations, water is also used 
+
+for the car wash stations. Water consumed by Dyneff is 
+
+predominantly potable water from the municipal network, 
+
+with a total consumption of approximately 98,000 m3 at our 
+
+sites in 2017. At the Village Catalan highway petrol station, 
+
+stormwater from roofing areas is collected and reused for 
+
+toilet flushing.
+
+Waste generated by AnAn in France activities mainly consist 
+
+of non-hazardous domestic waste, primarily at the petrol 
+
+stations (from shops and restaurants). Waste segregation 
+
+is implemented at all our petrol stations, and we have 
+
+contracts in place with authorized waste transporters for 
+
+the removal and disposal of non-hazardous waste. These 
+
+contracts are based on a flat maximum volume of waste, 
+
+which is never exceeded at our petrol stations.
+
+Hazardous wastes from our activities are generated in 
+
+small volumes and include sludge from hydrocarbon 
+
+separators, oily rags, used oils, expired chemicals, etc. 
+
+Hazardous wastes are disposed to authorized facilities and 
+
+systematically subject to waste manifests. The total volume 
+
+of hazardous wastes generated by our activities amounts to 
+
+approximately 1 ton in 2017.
+
+Domestic wastewater is generally discharged to the 
+
+municipal network without prior treatment. At remote 
+
+highway petrol stations not connected to the municipal 
+
+network, domestic wastewater is treated in an onsite 
+
+effluent treatment plant prior to being discharged to the 
+
+natural environment (infiltration via a reed lagoon or overflow 
+
+to dedicated infiltration pit).
+
+Car wash water is consumed in a closed loop system. 
+
+There is however a continuous small amount of 
+
+concentrated effluent that has to be discharged. This car 
+
+wash wastewater stream is treated by a hydrocarbon 
+
+Apart from the waste segregation at source, we currently do 
+
+not have any specific action or initiative in place in order to 
+
+minimize the volume of waste generated at our sites or to 
+
+increase our waste recycling rate.
+
+For the cleaning of domestic fuel storage tanks for our small 
+
+and medium distribution clients, the process developed by 
+
+Dyneff enables the company  to maximize product recycling 
+
+while minimizing waste generation. The process consists in 
+
+the suction of the fuel contained in the tank, the suction of 
+
+the deposits at the bottom of the tanks, the cleaning of the 
+
+tank, and the filtering and return of the fuel into the cleaned 
+
+tank.
+
+separator (which is cleaned every 6 months or every year) 
+
+prior to discharge to the municipal network or to the natural 
+
+environment depending on the sites.
+
+Treated effluents discharged to the natural environment 
+
+are regularly monitored in order to check compliance with 
+
+applicable discharge standards.
+
+ENVIRONMENT
+
+Water Consumption ('000Cm3)
+
+Water Expenditure (€'000)
+
+Water Consumption 2017 
+
+Water Consumption An An ( France)
+
+Water Expenditure An An ( France)
+
+
+
+
+
+200
+
+160
+
+120
+
+80
+
+40
+
+98
+
+156
+
+
+
+
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 20
+
+
+Eco-conception of our Facilities
+
+Soil Contamination  Management
+
+For our last two highway petrol stations (Rouillé Pamproux 
+
+and Village Catalan) in France, we have applied the 
+
+principles of High Environmental Quality (‘Haute Qualité 
+
+Environnementale – HQE’) for the construction and 
+
+We have also installed several comprehensive systems 
+
+and processes in place in order to minimize the risk of 
+
+accidental spillage or leaks during fuel storage, loading and 
+
+unloading at our oil depots and petrol stations, and during 
+
+hydrocarbon transportation:
+
+Underground storage tanks are double-walled while 
+
+aboveground storage tanks are single-walled but 
+
+provided with secondary containment;
+
+All storage tanks are fitted with leak detection and 
+
+overflow prevention systems;
+
+Tanks gauging is conducted after each loading / 
+
+unloading activity;
+
+Tanks and pipelines are regularly integrity tested (via 
+
+acoustic or pressurized methods);
+
+Petrol stations and oil depots are paved and provided 
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+•
+
+operation of the stations, which include a ‘green’ 
+
+construction process, maximum use of local materials from 
+
+the circular economy, a centralized energy management 
+
+system, and the collection and reuse of stormwater.
+
+with specific drainage and collection network for 
+
+potentially contaminated wastewater (e.g. stormwater or 
+
+spilled hydrocarbons);
+
+Spill kits are provided at oil depots and petrol stations, 
+
+and staff is trained to the use of spill kits;
+
+A safety protocol is in place with the transporters, and 
+
+drivers are trained accordingly;
+
+Geo-tracking is in place for the truck fleet, and an 
+
+emergency response plan is in place (including a directory 
+
+for pumping, lifting and transportation companies) in order 
+
+to be able to quickly intervene in case of a truck accident 
+
+susceptible to lead to a hydrocarbon spill.
+
+There has been no significant spill incident from Dyneff 
+
+activities in 2017. 
+
+ENVIRONMENT
+
+Spill Prevention and Response
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 21
+
+Customer Engagement
+
+AnAn hydrocarbon products meet the requirements of the 
+
+Registration, Evaluation, Authorization and Restriction of 
+
+Chemicals (REACH) European Directive, aiming at ensuring 
+
+a high level of human health and environmental protection 
+
+against risks from chemicals. 
+
+We systematically provide our products safety datasheets 
+
+to our small and medium distribution and wholesale 
+
+customers when they complete their first order. The safety 
+
+datasheets provide our customers with key information 
+
+on the composition of our products, their potential health, 
+
+safety and environmental risks and impacts, how to prevent 
+
+/ mitigate them, and how to react in case of product 
+
+exposure / spill.
+
+At our petrol stations, clear safety pictograms inform our 
+
+customers on the main risks (fire, explosion) and on the 
+
+prohibited actions (do not smoke, do not use mobile phone, 
+
+do not leave the car engine on) to prevent an incident from 
+
+occurring.
+
+In terms of environmental protection, Dyneff provides 
+
+advice to its clients in order to reduce their energy bills 
+
+and supports them in implementing energy renovation / 
+
+improvement projects, thus helping them to reduce both 
+
+their energy consumption and related expenses.
+
+Communication with Customers on HSE Topics
+
+
+SOCIAL
+
+People 
+
+Diversity &amp; Equal Opportunity
+
+Pivotal to our success is our people performing at their best. 
+
+We value the vital contribution by all employees towards 
+
+sustaining AnAn’s long term success. To underscore our 
+
+care and commitment towards our 363 employees globally, 
+
+AnAn drives a holistic Human Resource strategy focused 
+
+on fair remuneration and equal opportunities, training 
+
+Identifying, recognising and rewarding quality employees is 
+
+essential in our hiring and retention strategy. We advocate 
+
+fair employment practices by ensuring equal opportunities 
+
+for recruitment, fair compensation, career progression 
+
+and training opportunities. We provide fair employment 
+
+opportunities to all, regardless of age, gender, race, or 
+
+nationality. 
+
+AnAn advocates a policy of harnessing diversity in human 
+
+resource as evidenced by a fair distribution of employees 
+
+from different nationalities and age groups to support our 
+
+key markets in Singapore, China and France. Local hiring is 
+
+emphasized as AnAn’s employees are mainly citizens of the 
+
+3 key countries it operates in. 
+
+There is a fair proportion of male and female employees. 
+
+We ensure that fair work practices and remuneration are 
+
+Number of Employees FY2017
+
+China/Hong Kong
+
+Singapore        
+
+France 4+3+93+t
+
+96.4%
+
+1.7%
+
+1.9%
+
+and development, employee wellness and engagement, 
+
+and work-life harmony. We are taking progressive steps 
+
+to go beyond compliance with labour laws in Singapore 
+
+to develop and implement policies and staff engagement 
+
+programmes that aim to help employees build long-term, 
+
+fulfilling careers with AnAn. 
+
+ascertained based on individual work performance and not 
+
+on any gender consideration. No form of discrimination 
+
+is tolerated within our organisation.  There has been no 
+
+incident of discrimination reported.
+
+AnAn maintains fair and open employment policy through 
+
+providing fair employment opportunities to both young 
+
+and older workers above age 60 years old. With over 363 
+
+employees globally. Staff are reviewed under the annual staff 
+
+appraisal which is based on performance and is not bound 
+
+by gender, race, age or nationality.
+
+The recruitment and retention of talents include cooperation 
+
+with professional institutions, talent pool development and 
+
+retention, and staff grievance mechanism.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 22
+
+
+Fair &amp; Open Employment Policy
+
+16
+
+
+
++34+38
+
+
+
++12+t
+
+38.3%
+
+33.4%
+
+15.4%
+
+11.8%
+
+AnAn maintains fair and open employment policy through 
+
+providing fair employment opportunities to both young and 
+
+older workers above age 56 years old. Our workforce has 
+
+a good balance in employee age distribution, with 49.8% 
+
+under the 40 year old group. As at 31 December 2017, the 
+
+youngest staff is 23 years old while we have 1 senior staff 
+
+over 60 years old.
+
+Employee Age Profile
+
+FY2017
+
+In terms of employee skills profile, we have maintained a 
+
+good proportion of management and staff to lead and drive 
+
+the business growth for our Company.
+
+The executive team has professional expertise and strong 
+
+customer relationship to maintain the sustainable success 
+
+of AnAn. We are continuously recruiting talents, particularly 
+
+younger talents and grooming them through mentorship 
+
+and on-the-job training programmes.
+
+Our recruitment policy is based on the pre-requisite 
+
+skills and academic qualiﬁcations necessary to perform 
+
+the required job scope. During recruitment, we have 
+
+implemented stringent shortlisting processes to ensure that 
+
+successful candidates share the the Company's values. 
+
+We focus on retention of talent by providing fair and 
+
+sustainable ﬁnancial and non-ﬁnancial incentives, such as 
+
+learning and development opportunities.  Our compensation 
+
+SOCIAL
+
+and beneﬁts policies are determined by guidelines proposed 
+
+by our HR team and approved by the Board Remuneration 
+
+Committee. Our staff undergo annual performance review 
+
+and receive periodic performance feedbacks from their 
+
+superiors.
+
+We advocate gender diversity in our Board, with one female 
+
+director among our 5 Board members. Ms Ling Chi has 
+
+served as an Independent Director of the Board since 7 
+
+February 2013.
+
+There is a fair  gender ratio between male and female 
+
+employees. We ensure that fair work practices and 
+
+remuneration are ascertained based on individual work 
+
+performance and not on any gender consideration. No form 
+
+of discrimination is tolerated within our organisation.  There 
+
+is no incident of discrimination or corrective actions taken.
+
+Gender Ratio 
+
+FY2017
+
+Female         Male             
+
+57.3%
+
+42.7%57
+
+
+
++43
+
+
+
++t
+
+
+
+
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 23
+
+
+
+Below 30 Years 
+
+15.4%
+
+31 to 40 Years 
+
+34.4%
+
+41 to 55 Years 
+
+38.3%
+
+Above 56 Years 
+
+11.8%
+
+
+
+
+2+18+15+45+20+t
+
+Our strategy for recruitment and retention of talents include 
+
+cooperation with professional institutions, talent pool 
+
+development and retention, and staff grievance mechanism.
+
+In terms of employee skills profile, we have maintained a 
+
+fair proportion of professional and management team to 
+
+lead and drive the business growth in our three business 
+
+segments
+
+Our business is highly dependent on senior experienced 
+
+staff who have been in the energy trading and retail 
+
+businesses. Through the organic growth of complementary 
+
+businesses over the years, we have also strengthened the 
+
+retention of our pool of senior staff whose professional 
+
+expertise and strong customer relationship has been critical 
+
+in the sustainable success of our energy trading and retail 
+
+business.
+
+Dyneff France employs approximately 310 permanent staff 
+
+to run its daily activities. Around 400 temporary workers are 
+
+moreover employed each year, mainly during the summer, 
+
+to cater for the high seasonality of the petrol stations activity, 
+
+especially on highways. 
+
+We are continuously on the lookout for promising talent, 
+
+particularly younger talents and grooming them through 
+
+mentorship and on-the-job training programme.
+
+We focus on retention of talents by providing fair and 
+
+sustainable ﬁnancial and non-ﬁnancial incentives, and 
+
+learning and development opportunities. Our compensation 
+
+and beneﬁts policies are determined by guidelines proposed 
+
+by our Human Resource and approved by the Remuneration 
+
+Committee of our Board. 
+
+We practise equal opportunities for skills training and career 
+
+development in 2017.
+
+SOCIAL
+
+1.9%
+
+18.5%
+
+14%
+
+45.5%
+
+20.1%
+
+PMET Classification for Staff FY2017
+
+Directors    
+
+ 
+
+1.9%
+
+Managers / Executives         18.5%
+
+Professional 
+
+ 
+
+14.0%
+
+Technical  
+
+ 
+
+45.5%
+
+Others 
+
+ 
+
+ 
+
+20.1%
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 24
+
+
+SOCIAL
+
+Training &amp; Staff Development
+
+In France, we are very active on social media, we have 
+
+developed partnerships with local universities, and we offer 
+
+work/study training programs for students in order to attract 
+
+the right talents. In order to retain our talents, we have 
+
+developed an attractive social policy (see section on social 
+
+policy and dialogue), and we provide career advancement 
+
+opportunities to our employees. This can be materialized 
+
+by a continual ladder progression and/or by the opportunity 
+
+for transversal job changes from one division to another. 
+
+Our employees also have the opportunity to be involved 
+
+in transversal actions / projects involving several divisions 
+
+within Dyneff.
+
+It is also critical to make sure that our employees have the 
+
+right competencies to perform their job and can continually 
+
+improve and develop their capabilities. To this end we 
+
+have implemented a mandatory training and integration 
+
+programme for every new permanent employee, during 
+
+which the newcomer spends time in every department of 
+
+One of our main challenge is to attract and retain talents. To 
+
+this end, we have developed and we actively communicate 
+
+on our employer brand and our company values. 
+
+AnAn International's employee handbook outlines our 
+
+human resource policies and programmes including training 
+
+and staff development for our global operations. We will be 
+
+reviewing our training and staff development roadmap in the 
+
+next 1 to 3 years. 
+
+the company in order to obtain a thorough understanding 
+
+of our business activities. We deliver several internal training 
+
+programs for our employees: in 2017, a total of 4,673 hours 
+
+of training were delivered to 154 employees, representing 
+
+44% of our workforce. We also encourage knowledge 
+
+sharing to develop versatility among our teams. An example 
+
+of initiative taken in this regard is the ‘job conference at 
+
+lunch’, during which an employee presents its job and 
+
+competences to colleagues from other departments during 
+
+lunch break.
+
+An annual performance evaluation system is also in place: 
+
+in 2017, 78% of Dyneff employees received an annual 
+
+performance review in order assess their performance and 
+
+determine the need for further competence development. 
+
+In addition, a professional interview is conducted every two 
+
+years in order to discuss advancement opportunities.
+
+In collaboration with IDRAC Business School, we have 
+
+moreover established the “Campus Dyneff” for commercial 
+
+managers. The purpose of the campus is to develop internal 
+
+talent using the expertise of the IDRAC Business School’s 
+
+continuing education department. A dedicated educational 
+
+program has been developed, leading to a certified diploma 
+
+in commercial management. This training is part of the 
+
+human resources strategy of the company to recognize its 
+
+employees, share good practices, deliver professional tools 
+
+and encourage employees to surpass themselves.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 25
+
+
+Health and Safety
+
+The Group is committed to embracing the highest standards 
+
+of Workplace, Safety and Health (“WSH”) and environmental 
+
+practices and inculcating the best practices in AnAn. We 
+
+are guided by steadfast commitment to our employees for a 
+
+safe working environment in which one can work and excel 
+
+with full confidence. 
+
+SOCIAL
+
+We have focused our health and safety reporting on Dyneff 
+
+where the Health &amp; Safety management of the petrol 
+
+distribution network  are critical for the protection of the 
+
+welfare of our employees and our customers.
+
+For AnAn, protecting the health and safety of our employees 
+
+and contractors is a key priority. At Dyneff, our HSE (Health, 
+
+Safety and Environment) division has developed specific 
+
+expertise and systems for the company in this area.
+
+The main health and safety risks from our activities include 
+
+fire and explosion, exposure to chemicals (in particular 
+
+volatile hydrocarbons), aggression, transportation accident, 
+
+electrical risk and mechanical risk (handling, fall, cut). Health 
+
+and safety risks for all our sites and activities are identified 
+
+and assessed in the unified document for risk evaluation, 
+
+taking into consideration existing controls and potential 
+
+improvements. The unified document is updated every other 
+
+year and includes since 2015 the psycho-social risks.
+
+The following initiatives have been implemented in order to 
+
+mitigate and manage our health and safety risks:
+
+A safety welcome booklet is distributed to every new 
+
+employee;
+
+Safety training is delivered to employees depending on 
+
+their position and the risks they are exposed to;
+
+Daily and annual prevention plans are developed and 
+
+implemented;
+
+A permit to work system is in place for specific activities, 
+
+including a fire permit system for any operation involving 
+
+an open flame;
+
+Incidents are systematically investigated;
+
+Health and safety bulletins are communicated to all 
+
+employees when important information have to be shared;
+
+Appropriate personal protection equipment (PPE) are 
+
+provided to employees depending on their tasks, and can 
+
+be autonomously ordered by employees when they need 
+
+to be replaced;
+
+Quarterly meetings of the health and safety company 
+
+committee are conducted in order to discuss health and 
+
+safety issues and follow-up on action plan progress;
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+• 
+
+The number of work accidents for Dyneff employees in 2017 
+
+shows a continual reduction in the number of accidents 
+
+over the past 5 years. There have been 19 recordable work 
+
+incidents in 2017, including 11 lost time incidents and 8 
+
+medical treatment cases. These accidents led to a total 
+
+number of 231 lost man-days.
+
+General Health and Safety Management
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 26
+
+An audit on difficult working conditions was conducted, 
+
+including several risk factors such as noise, vibration, 
+
+chemicals, work at night, shift work, etc.;
+
+An internal challenge around work safety is organized with 
+
+quizzes and rewards.
+
+Breakdown of Types of Workplace Accident
+
+FY2017
+
+Impact Measurement for Workplace Accidents 
+
+FY2017
+
+Lost Time Incidents  
+
+Medical Cases 
+
+ 
+
+Lost Man-days      
+
+
+
+
+
+Type of Accident
+
+231
+
+8
+
+11
+
+
+
+
+
+300
+
+200
+
+100
+
+0
+
+Chemical
+
+Fall from height
+
+Aggression
+
+Fall from ground
+
+Road accident
+
+Others (e.g. Fainting/allergies)
+
+Petrol station activity: 
+
+service and maintenance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1 1
+
+2
+
+4
+
+2
+
+4
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6
+
+5
+
+4
+
+3
+
+2
+
+1
+
+0
+
+
+SOCIAL
+
+The explosion and fire risk is the most critical safety risk in 
+
+our oil depots and petrol stations, and is therefore subject 
+
+to particular attention. Systems and processes in place in 
+
+order to minimize risk of fire or explosion include light and 
+
+sound alarms, fire and gas detectors, emergency shutdown 
+
+systems, use of infrared thermography to identify hot points 
+
+on electrical systems, firefighting systems (extinguishers, fire 
+
+hydrant), organization of regular emergency drills, periodic 
+
+control of installations by the fire department, firefighting 
+
+training, etc.
+
+Comprising of a mix of owned vehicles and a network of 
+
+partner transportation companies, road logistics is managed 
+
+by a professional fleet guaranteeing a reliable, safe and 
+
+quality delivery service (certified to ISO9001). The 70 trucks 
+
+of this fleet are compliant with the requirements of the 
+
+European agreement on hazardous materials transportation 
+
+by road, and are fitted with the latest technological features.
+
+All employees are subject to medical health checks every 
+
+4 years, with the frequency increased to every 2 years for 
+
+employees exposed to increased risk levels (such as drivers 
+
+or employees working on oil depots/ petrol stations). 
+
+A voluntary approach was taken to monitor level of 
+
+exposure to benzene for employees working on oil depots 
+
+and in petrol stations in 2015-2016. The results showed no 
+
+exceedance with health standards.
+
+No explosion incident has been recorded at Dyneff sites to 
+
+date. Minor fire incidents have occurred in the recent history 
+
+of Dyneff, all linked to customer’s vehicles on petrol stations 
+
+and all quickly managed by the use of fire extinguishers with 
+
+no person injured and no impact to our installations.
+
+Safety is ensured all along the delivery chain through drivers 
+
+training, safety protocols, regular renewal of the fleet, on-
+
+board IT systems, and geolocation. Controls and audits are 
+
+continually performed by the logistics department.
+
+An internal sports association was created in order to 
+
+promote healthy lifestyles among employees, and currently 
+
+has around 40 members. Sports activities (such as 
+
+challenges, races, etc) are regularly organized. Opportunities 
+
+to improve health conditions in the workplace are also 
+
+assessed. As an example, all employees were provided with 
+
+a swiss ball as an alternative to the standard desk chairs.
+
+Explosion and Fire Safety
+
+Road Safety
+
+Promotion of Healthy Lifestyle
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 27
+
+
+Labour-Management Relations
+
+It is important to have effective communication between 
+
+management and employees, so that employees are more 
+
+engaged with the organisation, and have a more positive 
+
+attitude towards their work and loyalty to AnAn. They are 
+
+provided with frequent management updates and adequate 
+
+notice period regarding operational changes.
+
+We often engage our employees in the following ways:
+
+• Monthly Meetings
+
+   Monthly meetings with the management team are held to 
+
+   discuss operations reviews.
+
+• Quarterly Meetings 
+
+   Management conducts quarterly meetings for the Board 
+
+   of Directors to discuss on business development and
+
+   ﬁnance.
+
+• Informal Small Group Meetings 
+
+Meetings are often held by management to listen and 
+
+understand our employees’ concerns and grievances.
+
+There is currently one single trade union representing all 
+
+Dyneff employees. We also have an employee representative 
+
+committee which is elected every four years and serves two 
+
+purposes:
+
+SOCIAL
+
+At Dyneff, we have a range of collective agreements in 
+
+place, which are applicable to all our employees and which 
+
+go beyond the minimum mandatory requirements. 
+
+Benefits provided to our employees and covered by these 
+
+agreements include a life insurance policy covering disability, 
+
+invalidity and death; a comprehensive health insurance 
+
+cover (e.g. even covering osteopathy); a complementary 
+
+and supplementary pension scheme; a company savings 
+
+plan with attractive returns; a profit-sharing agreement; an 
+
+employee discount on fuel sold at Dyneff petrol stations 
+
+and on gas sold by Dyneff; a participation by Dyneff to 
+
+employees’ public transportation costs; and luncheon 
+
+vouchers which are 60% financed by Dyneff. We also 
+
+provide flexible working time arrangements for office staff 
+
+and for petrol stations’ personnel (annualized working time 
+
+to cater for the seasonality of this activity).
+
+Our Health, Safety and Work Conditions Committee meets 
+
+on a quarterly basis in order to discuss and take actions on 
+
+any issue related to health, safety or working conditions. 
+
+This Committee moreover conducts regular inspections on 
+
+all our sites.
+
+We do not conduct formal employee feedback surveys, but 
+
+our employees are encouraged to report any grievances 
+
+to their line manager and/or to the human resources 
+
+department. It is also the role of staff representatives to 
+
+report grievances to the management. The anonymous 
+
+whistleblower system is moreover an additional channel for 
+
+reporting any misconduct or other issues.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 28
+
+Ensure employees’ collective expression in any 
+
+company decision regarding work organization, training, 
+
+organizational or technical changes, etc.; and
+
+Provide social and cultural benefits to employees (e.g. gift 
+
+certificates, grouped orders, discounts on cultural events 
+
+or holiday packages).
+
+• 
+
+• 
+
+
+Local Communities Engagement
+
+In France, Dyneff endeavors to support the local 
+
+communities where the company is active. Dyneff has for 
+
+example been an official partner of the Montpellier Hérault 
+
+Sporting Club since 2009, and is an official sponsor of an 
+
+association which promotes rehabilitation through sport for 
+
+prison inmates. Locally, our commercial agencies support 
+
+and/or participate in local activities such as fairs, cultural 
+
+events, etc.
+
+Complaints from local communities are systematically 
+
+recorded and handled in order to maintain a sound 
+
+relationship with our neighbors. There has not been any 
+
+SOCIAL
+
+complaints from local communities related to our activities 
+
+(e.g. noise, odors, lighting) in 2017, and there is no 
+
+ongoing litigation with neighbors. In the recent history of 
+
+the company, there have been two recorded complaints 
+
+regarding nuisances supposedly originating from Dyneff 
+
+activities at our petrol stations: one related to noise from 
+
+truck unloading activities, and one related to hydrocarbon 
+
+odors. In both cases the complaints were discussed with 
+
+the complainants, investigated (with involvement of the 
+
+local authorities in one case), and quickly resolved after 
+
+demonstrating that the issue was resolved.
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 29
+
+Being a responsible corporate citizen, we believe in giving 
+
+back to society.  While we strive to achieve our business 
+
+goals, we also believe in playing our part in serving our local 
+
+community. 
+
+Our commitment to the environmental sustainability and 
+
+conservation begins with our support for the energy saving 
+
+certificates in France. 
+
+In terms of investment, Dyneff spends around €30 millions 
+
+each year in all energy-saving  programmes approved by 
+
+Customer Privacy &amp; Data Protection
+
+Corporate Social Responsibility
+
+The nature of our investment and real estate business 
+
+warrants high level of security and confidentiality of our 
+
+clients’ personal data as well as the business transactions 
+
+they have undertaken.
+
+We adhere strictly to relevant data protection regulations, 
+
+including the EU Data Protection Directive and Singapore's 
+
+Data Protection Act 2012. We have invested to ensure our 
+
+IT system meets the required standards for IT security.
+
+There is no case of substantiated concerns of breaches of 
+
+customer privacy reported.
+
+authorities ( e.g. attic insulation, condensing boiler, double 
+
+glazing). We put in extra efforts by taking over all or parts of 
+
+the energy-saving works to be carried out by our business 
+
+partners in order to benefit of our end consumers.
+
+The Group plans to contribute business and community 
+
+initiatives in the next 1-3 years.
+
+Business Partner &amp; Stakeholder Engagement
+
+We actively engage our business partners and stakeholders 
+
+regularly to keep them abreast of the developments of our 
+
+businesses.
+
+Please see the section on Accountability to Stakeholders on 
+
+page 4 for more information.
+
+
+Topic Specific Standard Disclosure
+
+Page Reference
+
+Organisational Profile
+
+102-1
+
+Name of the organization.
+
+2
+
+102-2
+
+Activities, brands, products, and services
+
+2
+
+102-3
+
+Location of headquarters
+
+2
+
+102-4
+
+Location of operations
+
+2
+
+102-5
+
+Ownership and legal form
+
+2-3
+
+102-6
+
+Markets served
+
+2-3
+
+102-7
+
+Scale of the organization
+
+2-3
+
+102-8
+
+Information on employees and other workers
+
+22-25
+
+102-10
+
+Significant changes to the organization and its supply chain
+
+ 
+
+102-11
+
+Precautionary Principle or approach
+
+ 6-7
+
+Strategy 
+
+102-14
+
+Statement from senior decision-maker
+
+ 1
+
+102-15
+
+Key impacts, risks, and opportunities
+
+ 1
+
+Ethics and Integrity 
+
+102-16
+
+Values, principles, standards, and norms of behavior
+
+13-15
+
+102-17
+
+Mechanisms for advice and concerns about ethics
+
+13-15
+
+Governance 
+
+102-18
+
+Governance structure
+
+6
+
+102-19
+
+Delegating authority
+
+6
+
+102-20
+
+Executive-level responsibility for economic, environmental, 
+
+and social topics
+
+6
+
+102-21
+
+Consulting stakeholders on economic, environmental, 
+
+and social topics
+
+6
+
+102-22
+
+Composition of the highest governance body and its committees
+
+6
+
+102-23
+
+Chair of the highest governance body
+
+6
+
+102-24
+
+Nominating and selecting the highest governance body
+
+6
+
+102-25
+
+Conflicts of interest
+
+6
+
+102-26
+
+Role of highest governance body in setting purpose, values, 
+
+and strategy
+
+6
+
+102-27
+
+Collective knowledge of highest governance body
+
+6
+
+102-28
+
+Evaluating the highest governance body’s performance
+
+6
+
+102-29
+
+Identifying and managing economic, environmental, and social 
+
+impacts
+
+6
+
+102-30
+
+Effectiveness of risk management processes
+
+14
+
+102-31
+
+Review of economic, environmental, and social topics
+
+10-30
+
+102-32
+
+Highest governance body’s role in sustainability reporting
+
+6
+
+102-33
+
+Communicating critical concerns
+
+8
+
+102-34
+
+Nature and total number of critical concerns
+
+9
+
+102-35
+
+Remuneration policies
+
+24
+
+102-36
+
+Process for determining remuneration
+
+24
+
+102-37
+
+Stakeholders’ involvement in remuneration
+
+24
+
+GRI Content Index 
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 30
+
+
+Topic Specific Standard Disclosure
+
+Page Reference 
+
+Stakeholder Engagement  
+
+102-40
+
+List of stakeholder groups
+
+8
+
+102-42
+
+Identifying and selecting stakeholders
+
+8
+
+102-43
+
+Approach to stakeholder engagement
+
+8
+
+102-44
+
+Key topics and concerns raised
+
+8
+
+Reporting Practice 
+
+102-45
+
+Entities included in the consolidated financial statements
+
+3
+
+102-46
+
+Defining report content and topic Boundaries
+
+5-7
+
+102-47
+
+List of material topics
+
+9
+
+102-48
+
+Restatements of information
+
+N.A. This is our first report
+
+102-49
+
+Changes in reporting
+
+N.A. This is our first report
+
+102-50
+
+Reporting period
+
+7
+
+102-51
+
+Date of most recent report
+
+7
+
+102-52
+
+Reporting cycle
+
+7
+
+102-53
+
+Contact point for questions regarding the report
+
+Contents page 
+
+102-54
+
+Claims of reporting in accordance with the GRI Standards
+
+6
+
+102-55
+
+GRI content index
+
+30-33
+
+Management Approach 
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+6-7, 9
+
+103-2
+
+The management approach and its components
+
+6-7
+
+103-3
+
+Evaluation of the management approach
+
+6-7
+
+Specific Standard Disclosures
+
+Category: Economic
+
+Topic: Economic Performance
+
+201-1
+
+Direct economic value generated and distributed
+
+10-11
+
+Topic: Market Presence
+
+202-2
+
+Proportion of senior management hired from the local community
+
+24
+
+Topic: Anti-corruption 
+
+ 
+
+205-1
+
+Operations assessed for risks related to corruption
+
+13-15
+
+205-2
+
+Communication and training about anti-corruption policies and 
+
+procedures
+
+13-15
+
+205-3
+
+Confirmed incidents of corruption and actions taken
+
+13-15
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 31
+
+Topic: Energy 
+
+302-1
+
+Energy consumption within the organization
+
+17
+
+Topic: Water 
+
+303-1
+
+Water withdrawal by source
+
+20
+
+Topic: Emissions  
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+17
+
+305-2
+
+Energy indirect (Scope 2) GHG emissions
+
+17
+
+Topic: Effluents and Waste
+
+306-1
+
+Water discharge by quality and destination
+
+20
+
+306-2
+
+Waste by type and disposal method
+
+20
+
+306-3
+
+Significant spills
+
+21
+
+306-4
+
+Transport of hazardous waste
+
+21
+
+
+Topic Specific Standard Disclosure
+
+Page Reference 
+
+Topic: Labor/Management Relations 
+
+402-1
+
+Minimum notice periods regarding operational changes
+
+28
+
+Topic: Occupational Health and Safety 
+
+ 
+
+403-1
+
+Workers representation in formal joint management–worker health 
+
+and safety committees
+
+26
+
+403-2
+
+Types of injury and rates of injury, occupational diseases, lost 
+
+days, and absenteeism, and number of work-related fatalities
+
+26
+
+403-3
+
+Workers with high incidence or high risk of diseases related to 
+
+their occupation
+
+26-27
+
+404-4
+
+Health and safety topics covered in formal agreements with trade 
+
+unions
+
+26-27
+
+Topic: Training and Education 
+
+ 
+
+404-1
+
+Average hours of training per year per employee
+
+25
+
+404-2
+
+Programs for upgrading employee skills and transition assistance 
+
+programs
+
+25
+
+404-3
+
+Percentage of employees receiving regular performance and 
+
+career development reviews
+
+25
+
+Topic: Diversity and Equal Opportunity 
+
+ 
+
+405-1
+
+Diversity of governance bodies and employees
+
+22
+
+Topic: Non-discrimination 
+
+ 
+
+406-1
+
+Incidents of discrimination and corrective actions taken
+
+22
+
+Topic: Local Communities 
+
+ 
+
+413-1
+
+Operations with local community engagement, impact 
+
+assessments, and development programs
+
+29
+
+413-2
+
+Operations with significant actual and potential negative impacts 
+
+on local communities
+
+29
+
+ANAN INTERNATIONAL LIMITED | Sustainability Report 2017 32
+
+Topic: Customer Health and Safety 
+
+ 
+
+416-1
+
+Assessment of the health and safety impacts of product and 
+
+service categories
+
+26-27
+
+416-2
+
+Incidents of non-compliance concerning the health and safety 
+
+impacts of products and services
+
+26-27
+
+Aspect: Marketing and Labeling 
+
+ 
+
+417-1
+
+Requirements for product and service information and labeling
+
+14
+
+417-2
+
+Incidents of non-compliance concerning product and service 
+
+information and labeling
+
+14
+
+417-3
+
+Incidents of non-compliance concerning marketing 
+
+communications
+
+14
+
+Aspect: Customer Privacy 
+
+ 
+
+418-1
+
+Substantiated complaints concerning breaches of customer 
+
+privacy and losses of customer data
+
+29
+
+Aspect: Socioeconomic Compliance  
+
+ 
+
+419-1
+
+Non-compliance with laws and regulations in the social and 
+
+economic area
+
+28
+
+Note: 
+
+AnAn takes a phased approach to the adoption of GRI indicators and will review the relevance of indicators marked as N.A.to 
+
+its operations annually.
+

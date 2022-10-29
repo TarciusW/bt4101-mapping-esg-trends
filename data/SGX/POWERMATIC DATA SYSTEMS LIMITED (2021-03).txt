@@ -1,0 +1,3186 @@
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+0 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+SUSTAINABILITY REPORTING 2020/2021 
+
+ Powermatic Data Systems Limited
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+1 
+
+ 
+
+ SUSTAINABILITY REPORT 2020/2021 
+
+CONTENTS ---------------------------------------------------------------------------------------------- P1 
+
+1. BOARD STATEMENT ----------------------------------------------------------------------------------------------------------- P2 
+
+2. ECONOMIC-----------------------------------------------------------------------------------------------------------------------------P3-5 
+
+2.1 Our Business 
+
+2.2 Economic Performance, financial summary, markets 
+
+2.3 EICC Standards 
+
+2.4 R&amp;D and Core IP 
+
+3. STAKEHOLDER ENGAGEMENT---------------------------------------------------------------------------------------------------- P6 
+
+ 
+
+4. MATERIAL FACTORS----------------------------------------------------------------------------------------------------------------- P6-7 
+
+ 
+
+5. ENVIRONMENT----------------------------------------------------------------------------------------------------------------------- P8-11 
+
+5.1 Electricity and Water Conservation  
+
+5.2 Waste Management  
+
+5.3 Work Place Air and environment certification 
+
+5.4 Supply Chain  
+
+5.5 Compliance 
+
+ 
+
+6. SOCIAL---------------------------------------------------------------------------------------------------------------------------------- P11-15 
+
+6.1 Inclusive Workplace and Talent Management 
+
+6.2 Work Force Characteristics 
+
+6.3 Employees Entry Wages  
+
+6.4 Diversity in Work Force 
+
+6.5 Employee by Department (March 2020)   
+
+6.6 Occupation Health and Safety 
+
+6.7 Ongoing Community Engagement 
+
+6.8 Employees Benefits 
+
+6.9 Training and Education 
+
+6.10 Operation disrupted due to Covid-19 Pandemic 
+
+ 
+
+7. GOVERNANCE------------------------------------------------------------------------------------------------------------------------ P16-17 
+
+7.1 Governance 
+
+7.2 Whistle-Blowing Policy 
+
+7.3 Risk Management 
+
+7.4 Investors Relation 
+
+8. MEASURES AND TARGETS FOR 2019/2020 ---------------------------------------------------------------------------- P17-18 
+
+9. PERFORMANCE TRACKING AND REPORTING ---------------------------------------------------------------------------- P18-19 
+
+GRI Standards Index -------------------------------------------------------------------------------------------------------------------- P19-21 
+
+Relevant corresponding reference location in our Annual Report 2020/21  
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+2 
+
+ 
+
+1. Board Statement  
+
+ 
+
+Powermatic Data Systems Ltd (hereafter referred to as “PDS” or the “Group”) is pleased to present the 
+
+third annual Sustainability Report (the “SR Report”) which covers our Group’s performance from 1 April 
+
+2020 to 31 March 2021 (the “reporting period”).  
+
+ 
+
+This Report covers the Group’s key sustainability issues, management approach, and related performance. 
+
+It is prepared following the GRI Standards: Core Option.  
+
+ 
+
+Our board of directors continues to appoint a steering committee headed by Ms. Katherine Ang and a 
+
+working committee consists of senior staff of Singapore Entity and our subsidiary in Suzhou, China to 
+
+supervise the sustainability report in 2020/21.  
+
+ 
+
+During the process, our committees have worked closely with all HODs and our stakeholders from whom 
+
+we gathered valuable material ESG factors for our sustainability assessment. The committee updates their 
+
+findings as and when they deem important and keep the Board informed. 
+
+ 
+
+The company observes all health and safety precautions in protecting our employees since the start of the 
+
+Covid-19 pandemic, also in full support of our national measures and related policies. We practise social 
+
+distancing, require visitors to scan the QR code to check in, do the health and travel history declarations, 
+
+arrange staff to work from home when practicable and encourage staff to observe personal hygience. Our 
+
+factory in Kulai, Johor Malaysia had started operations in last quarter of FY2021 to cater to our customers 
+
+who wish to source their supplies from South-East Asia. The Kulai plant also provides a back-up facility to 
+
+ensure production capacity remains steady in case of Suzhou plant is down. In anticipation of having to 
+
+work remotely becoming a new norm, we have stepped up our IT infrastructure to ensure business 
+
+continuity in coping with the prolonged pandemic situation. 
+
+ 
+
+During this reporting period, the board members remained the same and have received the progressive 
+
+reports on issues impacting the sustainability of the Group. Our board takes yearly sustainability reporting 
+
+seriously, all concerns of stakeholders are duly discussed and put into our business strategy to make room 
+
+for improvements. The BOD wishes to thank all parties who participated in the compilation of this report.  
+
+ 
+
+Chairman, Board of Director  
+
+Sustainability Reporting Steering Committee 
+
+Chairperson: Ms. Katherine ANG 
+
+Members: Molly CHUA / Yvonne ANG / Alex TIONG/ Kelly LI 
+
+ 
+
+Sustainability Reporting Working Committee 
+
+Chairperson: Molly CHUA 
+
+Members: Kelly LI / SUN HONG LIAN 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+3 
+
+ 
+
+2. Economic 
+
+2.1 Our Business  
+
+ 
+
+Powermatic Data Systems was established in Singapore since 1 February 1989 and was listed in the SGX since 
+
+1992. As an investment holding company, it has seven fully owned subsidiaries located in Singapore, China, 
+
+USA, and Malaysia. The Group operates under two main segments:  
+
+ 
+
+1. Manufacturing and sale of Wireless Connectivity products and related services 
+
+2. Lease and maintenance of Harrison Industrial Building, a freehold investment property owned by the 
+
+Company.  
+
+ 
+
+Geographically, our sales distribution for FY2021 is Asia – 37%, USA – 29%, Europe – 30%, and other regions – 
+
+4%.   
+
+ 
+
+Wireless connectivity is the core business and the main profit driver of the Group. Apart from manufacturing 
+
+its own designed hardware, the Group also provides OEM, ODM solutions, and other sales-related services to 
+
+customers.  
+
+ 
+
+Our product range includes high-performance wireless radio modules, embedded boards, indoor and outdoor 
+
+access points, and wireless antennas. These products are used in various industries such as PC, IoT, Health 
+
+care, Hospitality, Security surveillance, and many others.  
+
+ 
+
+Our product applications by customers: In healthcare sector, our wireless radio modules have been integrated 
+
+into healthcare products to provide wireless connectivity for easier access of patients’ database; in security 
+
+industry, our outdoor access points have been deployed to provide live feed transmission across long distances 
+
+for remote surveillance; in factory automation industry, our wireless radio modules have been utilized in 
+
+factory application such as power meters and robots to increase productivity; and in industrial PC, our 
+
+Industrial Grade wireless radio modules have been utilized in industrial computers designed to transmit crucial 
+
+data to servers. https://compex.com.sg/  https://compex.com.sg/cn/ 
+
+ 
+
+The Group develops and designs its own proprietary array of wireless communication products. To further our 
+
+technology reach, we have a technology partnership with Qualcomm Atheros (QCA). Our subsidiary Compex 
+
+Systems Pte Ltd was officially appointed as Qualcomm Authorized Design Centre in South East Asia in 2014. As 
+
+a Qualcomm design center, we provide our wireless know-how, including those in our proprietary array, in 
+
+both hardware and software services to many multinational corporations. Our clientele includes reputable 
+
+distributors of electronic and wireless device components, system integrators, wireless products design houses, 
+
+and Fortune 500 corporations. 
+
+ 
+
+The Group’s property business is carried out by the holding company Powermatic Data Systems itself. The 
+
+freehold property is situated at 7 &amp; 9 Harrison Road, Singapore, 369651. We house our Singapore operations 
+
+in one of the units and rent out the rest.  
+
+ 
+
+The Covid-19 pandemic has brought changes to both commerce and lifestyle. These changes will continue into 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+4 
+
+ 
+
+the post Covid-19 era. Cloud computing, 5G and many new trends. The higher speed and capability 
+
+enhancements brought about by these new trends have enabled the extension of corporate networks to 
+
+homes. A user working from home can enjoy the same access and security as working in the corporate office. 
+
+We participate in enabling advanced WiFi capabilities to such new systems. We also participate with our 
+
+customers in wireless applications in transportation, home security, IoT, education etc. The increasing 
+
+awareness of our capabilities in wireless integration has contributed to the Group’s revenue growth. 
+
+ 
+
+2.2 Economic Performance 
+
+ 
+
+Here is a glance at our financial records over the last five years  
+
+ 
+
+Income Statement 
+
+2017 
+
+2018 
+
+2019 
+
+2020 
+
+2021 
+
+Revenues (S$ million) 
+
+15.4 
+
+16.1 
+
+21.0 
+
+21.8 
+
+26.3 
+
+Profit before tax (S$ million) 
+
+4.68 
+
+5.31 
+
+7.73 
+
+9.86 
+
+9.1 
+
+Earning per share (Sin Cents)-diluted 
+
+11.97 
+
+12.94 
+
+20.01 
+
+24.99 
+
+21.23 
+
+Dividend per share (Sin Cents) 
+
+7 
+
+7 
+
+8 
+
+NIL 
+
+5 
+
+Dividend paid as a percentage of profit, net of tax (%)  
+
+58 
+
+54 
+
+40 
+
+NIL 
+
+24 
+
+Net assets value per share with investment property and 
+
+freehold office unit stated at carrying cost (S$) 
+
+1.51 
+
+1.57 
+
+1.68 
+
+1.75 
+
+1.81 
+
+Net assets value per share with investment property and 
+
+owner-occupied property stated at fair value (S$) 
+
+1.91 
+
+1.98 
+
+2.14 
+
+2.18 
+
+2.4 
+
+Staff head count (In Numbers) 
+
+74 
+
+76 
+
+88 
+
+83 
+
+84 
+
+  Figure 1 Financial Performance (2017-2021) 
+
+ 
+
+2.3 EICC standards (Electronic Industry Code of Conduct)   
+
+Our plant in Suzhou continues to practice EICC standards (now also known as Responsible Business Alliance 
+
+Code of Conduct), and all our major customers recognized and accepted our standards. The EICC Standard 
+
+includes an essential requirement of various international standards such as SA8000, ISO14001, OHASAS18001, 
+
+and QC080000. It is an integrated standard. By adopting EICC standard, we ensure that the best practices of 
+
+labour regulation, health &amp; safety, environment, management system, and ethnicity are kept in check at all 
+
+times. 
+
+ 
+
+2.4 R &amp; D new products 
+
+ 
+
+During the calendar year 2021, customers are moving rapidly towards adopting WiFi 6 products to replace 
+
+their older WiFi 5 products. The R&amp;D focus for this financial year is still on WiFi 6 and should be the same 
+
+across the next 3-4 years, until 802.11be aka WiFi 7 standard is finalized and ready for commercial use. 
+
+ 
+
+The focus as always, with our OEM and ODM offerings to our customers, is on delivering stable and high-
+
+performance hardware with value added software integration and certification compliances. While doing so, 
+
+products designed by the R&amp;D always take into consideration the impact it has on environment, safety, and 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+5 
+
+ 
+
+health that could potentially associate with what we are doing. Striving to ensure that our products are top of 
+
+the line in terms of performance, the design meets the strict rules set out by horizontal legislation controlling 
+
+risks that could potentially bring harm to consumers, such as RoHS Directive and REACH Regulations. 
+
+ 
+
+In year 2021, as countries such as USA and EU are starting to approve the usage of both WiFi 6 and WiFi 6E, 
+
+our focus is to assist customers to grab this new market opportunity, while delivering a product that is 
+
+sustainable. Be it using this newly approved band as a reliable backhaul for outdoor access point or using it to 
+
+launch an indoor tri-band access points / routers, the traction for this new opportunity increases. The R&amp;D 
+
+focus is to deliver a product that consumes less energy, while still perform outstandingly and efficiently 
+
+comparing to the legacy 802.11ac products. 
+
+ 
+
+As of this year, the world begins to adopt cellular 5G more aggressively, and with our early investment into this 
+
+sector, we have begun working with customers to bring WiFi 6 + 5G cellular products towards mass production. 
+
+Working with customers that have potential businesses with Telco, our team ensures that designed products 
+
+comply strictly with the environmental and health directives set forth by our customers and meeting the strict 
+
+maximum allowable power consumption 
+
+ 
+
+ 
+
+ 
+
+Figure 2: Standard Size WiFi 6 Radio Module 
+
+Figure 3: Cost Effective 5G Supported WiFi 6 Board 
+
+ 
+
+ 
+
+Figure 2 and 3 shows the new products offering that we are bringing towards mass production. The 
+
+development of these products was started as early as mid of year 2020. The main objective is to provide a 
+
+product that is of a smaller form factor, consuming 30% less power than what’s available in the market, while 
+
+maintaining the product’s performance and stability. By shrinking down the size of the products offered and 
+
+making them less power hungry, we are also able to make the products more cost friendly than their 
+
+predecessors. The above products are suitable for enterprise, hospitality, industrial, machine to machine 
+
+(M2M), healthcare and security segments. 
+
+
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+6 
+
+ 
+
+Our R &amp; D and engineering teams have in recent times been actively engaged in the early stage product 
+
+development cycles of our customers. Customization of our proprietary products to meet their demands is a 
+
+valuable proposition that we offer to our customers. We now serve customers across industries such as 
+
+security surveillance, IoT, health care, education, logistics, transportation, manufacturing and Industries PC. 
+
+The end products are used in both private and public sectors in various major economies. 
+
+The R&amp;D teams are always at the forefront in the design and development of products. A new four-channel 
+
+card system was developed and obtained its patent on 29 June 2021 in China. 
+
+3. Stakeholder Engagement  
+
+Our Group has always focused on creating sustainable value for our stakeholders. We have actively engaged 
+
+them through the following traditional channels as shown in figure 3. To prevent the spread of Covid-19, 
+
+meetings and events are via online where practicable. Events are also conducted via online telecommunication 
+
+- “virtual” instead of physical meetings. 
+
+ 
+
+ 
+
+ Figure 4 How we engaged our Stakeholders 
+
+ 
+
+4. Material Factors  
+
+ 
+
+Our materiality assessment process for FY2020/2021 involved the Group’s Senior Management in identifying 
+
+sustainability factors deemed material to our businesses and our stakeholders, this is to ensure that our 
+
+resources are better deployed to create sustainable value for our stakeholders. The current Covid-19 pandemic 
+
+outbreak signals the important of Business Continuity Management, in fact, except for manufacturing 
+
+operations, other business activities are carried out via remote telecommuting work arrangement. Our 10 key 
+
+factors prioritized by the working committee are: 
+
+  
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+Shareholder 
+
+Annual AGM, Company Website (http://www.powermatic.com.sg &amp; 
+
+www.compex.com.sg), Annual Report, Half-yearly financial report 
+
+disclosure. 
+
+2 
+
+Customer 
+
+meetings, events, email communications, phone calls and teleconferences. 
+
+ 
+
+3 
+
+Employee 
+
+Regular online meetings, Monthly birthday celebration for staff, and 
+
+webinars.  
+
+4 
+
+Vendor 
+
+Communication platforms with vendors involve all levels of personnel in 
+
+each product lines via emails, meetings, events and regular vendor 
+
+conferences.  
+
+5 
+
+Regulator 
+
+Attend SGX, ACRA, and trade industry events and functions.  
+
+ 
+
+6 
+
+Community 
+
+Annual dinner, Industry estate manufacturers gatherings, Seminars and 
+
+Talks. 
+
+ 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+7 
+
+ 
+
+ 
+
+① Sustainable Business Performance (Economic) 
+
+② Product quality and satisfaction (Economic &amp; Environmental) 
+
+③ Business continuity management (ESG) 
+
+④ Occupation health and safety (Social) 
+
+⑤ Innovation &amp; technology leadership (Economic) 
+
+⑥ Succession Planning (Social) 
+
+⑦ Inclusive workplace and talent development (Social) 
+
+⑧ Robust corporate governance framework and compliance (Governance) 
+
+⑨ Electricity &amp; water conservation (Environmental) 
+
+⑩ Community engagement (Social) 
+
+ 
+
+ 
+
+EXTERNAL 
+
+ HIGH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+   
+
+ 
+
+LOW  HIGH   INTERNAL 
+
+ Figure 5 Materiality Assessment by our Stakeholders and their priority 
+
+  
+
+Each of these topics was discussed among the selective groups separately and collectively in some subjects 
+
+which are elaborated in this report. 
+
+ 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+① Sustainable Business 
+
+Performance  
+
+② Product quality and 
+
+satisfaction  
+
+4 
+
+ 
+
+ 
+
+⑤ Innovation and technology 
+
+leadership 
+
+⑥ Succession Planning 
+
+⑦ Inclusive workplace and 
+
+talent development 
+
+ 
+
+③ Business continuity 
+
+management (BCM) 
+
+④ Occupation health and 
+
+safety 
+
+3 
+
+ 
+
+ 
+
+⑧ Robust corporate 
+
+governance framework and 
+
+compliance 
+
+  
+
+2 
+
+ 
+
+ 
+
+⑨ Electricity and water 
+
+conservation 
+
+⑩ Community engagement 
+
+ 
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+ 
+
+ 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+8 
+
+ 
+
+5. Environment 
+
+5.1 Electricity and Water Conservation  
+
+ 
+
+Our group is committed to the responsible usage of electricity and water resources. We have created an SOP 
+
+in energy-saving and consumption. Key statistics on electricity and water consumption in Suzhou operations 
+
+are as follows:  
+
+ 
+
+Our daily electricity consumption from 1-4-2020 to 31-3-2021 was managed in an average of 1,400 KWh, a 
+
+drop of about 15% in power consumption for this reporting period. From our records, production machines 
+
+took up half of the total consumption and air conditioners, compressor and supporting lighting took up the 
+
+other half. 
+
+ 
+
+The tables below show the total actual consumption of energy consumed per dollar and the emissions 
+
+intensity per metric ton.  
+
+ 
+
+Year 
+
+Actual Consumption (KWh) of the Group 
+
+Turnover (S$M) 
+
+(KWh/S$) 
+
+2016 
+
+526,528.00 
+
+15.5 
+
+0.03397 
+
+2017 
+
+630,015.00 
+
+15.4 
+
+0.04091 
+
+2018 
+
+628,323.03 
+
+16.1 
+
+0.03903 
+
+2019 
+
+619,834.00 
+
+21.0 
+
+0.02951 
+
+2020 
+
+498,600.00 
+
+21.8 
+
+0.02287 
+
+2021 
+
+752,405.00 
+
+26.2 
+
+0.02871 
+
+Average 
+
+609,284.17 
+
+19.33 
+
+0.03152 
+
+Figure 6 KWh Consumption vs the Revenue (KWh/S$ represents the energy consumed per monetary unit of sales) 
+
+ 
+
+Year 
+
+Total direct CO2 or Carbon 
+
+Equivalent Emissions  
+
+(Metric Tons) 
+
+Total indirect CO2 or 
+
+Carbon Equivalent 
+
+Emissions (Metric Tons) 
+
+Turnover (Revenue in 
+
+Millions, S$) 
+
+Emissions Intensity 
+
+(MT/S$’000) 
+
+2016 
+
+NA 
+
+392 
+
+15.5 
+
+0.02529 
+
+2017 
+
+NA 
+
+469 
+
+15.4 
+
+0.03045 
+
+2018 
+
+NA 
+
+468 
+
+16.1 
+
+0.02906 
+
+2019 
+
+NA 
+
+425 
+
+21.0 
+
+0.02023 
+
+2020 
+
+NA 
+
+353 
+
+21.8 
+
+0.06175 
+
+2021 
+
+NA 
+
+533 
+
+26.2 
+
+0.02034 
+
+Figure 7 Emissions Intensity           https://www.epa.gov/energy/greenhouse-gas-equivalencies-calculator 
+
+ 
+
+Under our commitment to electricity and water conservation, various measures and initiatives are adopted, 
+
+the followings are our Hydro-power Management Measures: 
+
+ 
+
+ 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+9 
+
+ 
+
+Hydro-power Management Measures 
+
+To further strengthen the company's energy-saving work, manage well the use of hydro-power resources, 
+
+and reduce hydro-power expenses, the following method is specially formulated. 
+
+A. Management responsibility 
+
+The factory affairs department is in charge of the company's hydro-power management, and the 
+
+company's staff to supervise the implementation. 
+
+B. Management Content 
+
+1. Power management 
+
+(1) The staff of each department should be responsible for the use of lighting in the area of the 
+
+department and cultivate the habit of turning off the lights when not in use. 
+
+(2) Cultivate the habit of shutting down unused office equipment. When leaving the office (area), do pay 
+
+attention to turning off all electrical appliances, such as computers, printers, drinking fountains, and other 
+
+electrical facilities in time. Electrical appliances that have not been used for a long time should be 
+
+disconnected from the power supply to reduce energy consumption in the standby state. 
+
+(3) Each office computer and printer is switched by the user, and the power must be disconnected and 
+
+turned off after getting off work. 
+
+(4) The air-conditioning, lighting, multimedia, and other equipment in the conference room should be 
+
+turned on within half an hour before use, and all electrical equipment should be turned off after use. 
+
+(5) When the room temperature is between 10 and 28 degrees Celsius, the use of air condition is not 
+
+allowed. The temperature setting of the air conditioner is not less than 25 degrees. 
+
+(6) Pay attention to heat preservation in the air-conditioned space, close doors and windows, reduce the 
+
+loss of cold and hot air, and save electricity. 
+
+2. Water management 
+
+(1) The office staff should be responsible for the use of the faucet of each floor, it should be reported to 
+
+the administrative department for maintenance if found any not in working condition. 
+
+(2) Water-saving must be made a habit when doing daily toilet cleaning and sanitation. 
+
+(3) It is forbidden to turn on the faucet and wait for water during the water supply conservation period, to 
+
+prevent the overflow of water when no one attends to it. 
+
+3. Repair management 
+
+After receiving the repair report, the factory affairs department shall carry out repairs promptly and 
+
+perform daily maintenance to ensure that the hydro-power equipment is in normal operation mode. 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+10 
+
+ 
+
+5.2 Waste Management 
+
+ 
+
+We practise IECQ QC 080000 Hazardous Substance Process Management (HSPM) system in our operating plant. 
+
+Our waste including scraps and discharges are contracted out to licensed companies for proper  
+
+disposal to ensure an environmentally friendly process are carried out thoroughly. We also make known to our 
+
+customers that some parts of our products must be properly disposed of or decommissioning after used. Clear 
+
+instructions are attached to the manual of our products. 
+
+ 
+
+5.2.1 Hazardous Waste Training System   
+
+ 
+
+During the last reporting year, we have advocated the hazardous Waste training for all our employees involved 
+
+in waste management. 
+
+ 
+
+A. Purpose of training: 
+
+To improve the awareness of all employees on hazardous waste management through training and to 
+
+strengthen environmental protection, protection awareness, and self-protection awareness, to effectively 
+
+prevent and control hazardous waste to human health harmful to the environment and further protect 
+
+human health. 
+
+ 
+
+B. Training target: 
+
+1. Full-time (part-time) personnel in hazardous waste management; 
+
+2. Enterprise leaders, environmental protection supervisors, hazardous waste management staff 
+
+3. Newly hired employees, interns, etc. 
+
+ 
+
+C. Main training content: 
+
+1. The importance and necessity of hazardous waste management; 
+
+2. Relevant national laws and regulations and hazardous waste management regulations; 
+
+3. Duties of full-time (part-time) personnel in hazardous waste management; 
+
+4. Hazardous waste classification collection methods and work requirements; 
+
+5. Working procedures for internal transportation of hazardous wastes; 
+
+6. Hazardous waste transfer procedures and registration system; 
+
+7. Occupational health and safety of workers in the process of separate collection, transportation and 
+
+temporary storage of hazardous waste all self-protection measures; 
+
+8. Report the disposal system and accidents when hazardous wastes are lost, leaked, or spread emergency 
+
+measures. 
+
+ 
+
+D. Training methods: 
+
+1. Issue relevant national regulations and hazardous waste management regulations and the company's 
+
+hazardous waste management practices. The implementation measures and related systems are for the 
+
+whole company employees to study by themselves or department heads to organize learning. 
+
+2. For each quarter, all employees will be organized in groups and batches to learn and discuss the topics to 
+
+strengthen their knowledge and to do assessments. 
+
+3. Carry out the logic and operation of hazardous waste management work procedures for relevant 
+
+personnel in combination with actual work guidance and demonstration of the method   
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+11 
+
+ 
+
+5.3 Work Place Air and The Environment Certification 
+
+ 
+
+Our production plant in Suzhou was certified by the NUOXIN Safety Technology Co., Ltd to have passed the 
+
+workplace air and environment certification. This is to ensure that the air conditioning in the plant is compliant 
+
+with the required health standard for our workers. 
+
+ 
+
+5.4 Supply Chain 
+
+ 
+
+We practise EICC standards in our operating process in advocating sustainable solutions. In dealing with our 
+
+suppliers, we ensure that proper evaluation procedures are reported in our assessment checklist which 
+
+includes their business conduct, labour practices, safety &amp; health, and environmental management. 
+
+ 
+
+5.5 Compliance 
+
+ 
+
+We are not aware of any violations of the laws and regulations pertaining to the environmental aspects. We 
+
+have also set up policies and standard operating procedures to ensure environmental compliance such as 
+
+➢ Ensuring suppliers have obtained environmental certification (HSPM: QC080000) 
+
+➢ Workers are well informed of policies and procedures in the event of contamination 
+
+➢ Products are labelled with the environmental requirements 
+
+➢ All materials used are within the limit of environmental requirements 
+
+➢ Equipment used are environment friendly 
+
+➢ Applying the precautionary principle to reduce or to avoid negative impacts on the environment  
+
+ 
+
+6. Social 
+
+ 
+
+6.1 Inclusive Workplace and Talent Management  
+
+ 
+
+Our Corporate Culture: 
+
+➢ We believe in collective resourcefulness, experience, skills, and know-how, dedication and endurance.  
+
+➢ Quality employees are nurtured, cultivated, and given space to improve the skill sets.  
+
+➢ We exploit the cooperative and positive energy of our employees to succeed.  
+
+➢ Everyone is treated equally. We practise non-discrimination and equal opportunities.  
+
+➢ Our employee handbook stated that decisions on recruitment, selection, promotion, and transfer are 
+
+made based on merits regardless of age, race, gender, religion, nationality, marital status, and family 
+
+responsibilities.  
+
+➢ We are constantly developing our human capital base to build a strong succession pipeline and a high 
+
+performing team. 
+
+➢ We organize cohesive bonding programs which include festive celebrations, staff appreciation functions, 
+
+community events, seminars, and family gatherings to achieve the purpose.  
+
+➢ All employees meet regularly to cultivate their ethical behaviours via community talks and festive activities 
+
+organized by the HR department where feedback and suggestions are received and explained. 
+
+ 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+12 
+
+ 
+
+6.2 Our Work Force Group as at 31st March of each Financial Year End 
+
+  
+
+ Particulars 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+All workers 
+
+99 
+
+109 
+
+109 
+
+133 
+
+Management 
+
+8 
+
+8 
+
+14 
+
+15 
+
+Male workers ratio 
+
+38% 
+
+40% 
+
+46% 
+
+49% 
+
+Female workers ratio 
+
+62% 
+
+60% 
+
+54% 
+
+51% 
+
+Tertiary Education and above 
+
+39 
+
+45 
+
+71 
+
+69 
+
+Below Tertiary Education 
+
+60 
+
+64 
+
+38 
+
+64 
+
+Below 40 years old 
+
+88 
+
+96 
+
+92 
+
+104 
+
+Above 40 years old 
+
+11 
+
+13 
+
+17 
+
+29 
+
+Production Workers 
+
+60 
+
+64 
+
+40 
+
+50 
+
+Monthly Training hour per month per staff 
+
+1.5 
+
+1.5  
+
+2 
+
+2 
+
+Monthly Training hour per month per worker 
+
+2 
+
+2 
+
+2 
+
+2 
+
+  Figure 8 Work Force Characteristics over the last four years 
+
+  
+
+Particulars 
+
+Singapore  
+
+ 
+
+China &amp;Malaysia 
+
+ 
+
+Group 
+
+All workers 
+
+24 
+
+109 
+
+133 
+
+Management 
+
+6 
+
+9 
+
+15 
+
+Male workers ratio 
+
+54% 
+
+39% 
+
+49% 
+
+Female workers ratio 
+
+46% 
+
+43% 
+
+51% 
+
+Tertiary Education &amp; above 
+
+18 
+
+51 
+
+69 
+
+Below Tertiary Education 
+
+6 
+
+58 
+
+64 
+
+Below 40 years old 
+
+16 
+
+88 
+
+104 
+
+Above 40 years old 
+
+8 
+
+21 
+
+29 
+
+Production Workers 
+
+0 
+
+50 
+
+50 
+
+Monthly Training hour per 
+
+month per staff 
+
+Nil 
+
+2 
+
+2 
+
+ Figure 8A Manpower distribution within group 2021 
+
+ 
+
+6.3 Employee Entry Wages  
+
+ 
+
+We adhere to the minimum wage laws of China. On average we paid higher entry wages than the required 
+
+minimum to attract and retain employees. We engaged local professional human resources company to help 
+
+us in the new recruitment of general workers and replacement. It is efficient and cost-saving in such practices.. 
+
+We strictly abide to the manpower laws and regulations in all the entities within the Group, once the recruits 
+
+qualified for certain conditions, the rightful benefits will be provided accordingly.  
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+13 
+
+ 
+
+6.4 Diversity in the Workforce   
+
+ 
+
+We embrace diversity and have employees from different backgrounds. We have representation from different 
+
+nationalities/provinces in China and gender in our workplace. This allows our organization to be more vibrant 
+
+and innovative with different experiences and backgrounds that each employee offers.  
+
+ 
+
+6.5 Employee by Department as at 31st March 2021 
+
+ 
+
+ 
+
+SG Entity 
+
+Manufacturing 
+
+China &amp; Malaysia 
+
+Group 
+
+% 
+
+Department 
+
+# Of Workers 
+
+# Of Workers 
+
+# Of Workers 
+
+Total worker Vs 
+
+Department 
+
+Executive Director 
+
+2 
+
+0 
+
+2 
+
+1% 
+
+Finance, Shipping &amp;Warehouse Staff 
+
+4 
+
+10 
+
+14 
+
+11% 
+
+Management Information System 
+
+1 
+
+5 
+
+6 
+
+5% 
+
+Production 
+
+- 
+
+54 
+
+54 
+
+40% 
+
+Sales and Marketing 
+
+7 
+
+2 
+
+9 
+
+7% 
+
+Purchasing 
+
+1 
+
+3 
+
+4 
+
+3% 
+
+R &amp;D 
+
+7 
+
+14 
+
+21 
+
+16% 
+
+Quality Control 
+
+0 
+
+17 
+
+17 
+
+13% 
+
+HR and Management Support 
+
+1 
+
+3 
+
+4 
+
+3% 
+
+Logistic &amp; Property 
+
+1 
+
+1 
+
+2 
+
+1% 
+
+Total 
+
+24 
+
+109 
+
+133 
+
+100% 
+
+ Figure 9 Employees by Departments in numbers 
+
+ 
+
+ 
+
+ 
+
+  Figure 10 Employees by Departments in number 
+
+2
+
+14
+
+6
+
+54
+
+9
+
+4
+
+21
+
+17
+
+4
+
+2
+
+133
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+Executive Director
+
+Finance, Shipping &amp;Warehouse Staff
+
+Management Information System
+
+Production
+
+Sales and Marketing
+
+Purchasing
+
+R &amp;D
+
+Quality Control
+
+HR and Management Support
+
+Logistic &amp; Property
+
+Total
+
+PowerMatic Group
+
+Manpower As of March 2021
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+14 
+
+ 
+
+ 
+
+ 
+
+ Figure 11 Employees by Departments in Percentage as of 31st March 2021 
+
+ 
+
+There are 7 senior local management employees in our Suzhou subsidiary.  
+
+ 
+
+6.6 Occupational Health and Safety  
+
+ 
+
+We are aware of the importance of health and safety. Hence, we are committed to ensure that we place the 
+
+highest priority on the health and safety of our employees, customers, suppliers, and subcontractors as well 
+
+as the community at large. Key measures adopted to manage health and safety in the workplace environment 
+
+are as follows:  
+
+ 
+
+➢ A set of safety rules and regulations is in place  
+
+➢ Safety committee are in place and safety inspections are performed regularly  
+
+➢ Briefings and talks on occupational safety are organized regularly  
+
+➢ Accidents are tracked and monitored regularly  
+
+ 
+
+There is no record of fatalities in this reporting year.  
+
+ 
+
+6.7 Ongoing Community Engagement  
+
+ 
+
+Our Group strives to set a good example in giving back to our community. We encourage our employees to 
+
+give back to the society through community service projects and/or donations to the less fortunate groups. 
+
+We aim to organize corporate social responsibility activities for our employees to participate in as practicably 
+
+as possible.  
+
+ 
+
+
+
+1%
+
+11%
+
+5%
+
+40%
+
+7%
+
+3%
+
+16%
+
+13%
+
+3%
+
+1%
+
+Employee by Department in Percentage 2021
+
+
+
+Executive Director
+
+
+
+Finance, Shipping &amp;Warehouse Staff
+
+
+
+Management Information System
+
+
+
+Production
+
+
+
+Sales and Marketing
+
+
+
+Purchasing
+
+
+
+R &amp;D
+
+
+
+Quality Control
+
+
+
+HR and Management Support
+
+
+
+Logistic &amp; Property
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+15 
+
+ 
+
+6.8 Employee Benefits  
+
+ 
+
+We have in place programs to encourage a healthy workforce through sports, social and health-related 
+
+education talks and activities. Our employees’ welfare benefits include subsidized outpatient medical and 
+
+dental treatments, hospitalization insurance coverage, workmen compensation insurance, medical and 
+
+hospitalization leaves. Our Group supports the government’s pro-family policies and follow statutory 
+
+regulations with regards to parenting and childcare leaves.  
+
+ 
+
+6.9 Training and Education  
+
+ 
+
+We believe that our greatest assets are our people and; their skill sets and knowledge are the core of our 
+
+success. Therefore, we invest in training, learning initiatives, and development to expand our staff 
+
+competencies. Apart from technical skills, we also organized business, leadership, train-the-trainer, finance, 
+
+operational management, and enterprise resource planning training for our Management and staff. On 
+
+average, our workers received 15-20 hours of training a year depending on their job requirements. In the 
+
+coming years, we plan to increase the average training hour gradually based on the recommendation of each 
+
+department’s head.  
+
+ 
+
+6. 10 Operation disrupted due to Covid-19 Pandemic  
+
+ 
+
+During the epidemic: 
+
+1. We actively organized all employees and coordinate inter-departmental manpower to participate in 
+
+production work to ensure the output of production; 
+
+ 
+
+2. Our epidemic prevention and control team has established a prevention and control plan to regularly 
+
+disinfect the public areas of the factory. We require all employees   to wear masks before entering the 
+
+company. Security posts are set up at the company's entrance. Temperature detection and registration are 
+
+required for every employee and visitor.  
+
+ 
+
+3. During this reporting year no epidemic case has occurred 
+
+ 
+
+4. Looking forward, we will continue to maintain best practices in epidemic and production safety, actively 
+
+organize manpower to commit to production work, and truly achieve sustainable development. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 12 Suzhou Factory  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+16 
+
+ 
+
+7. Governance 
+
+7.1 Corporate Governance  
+
+ 
+
+A high standard of corporate governance is integral in ensuring the sustainability of the Group’s business as 
+
+well as safeguarding shareholders’ interest and maximizing long term shareholder value. 
+
+ 
+
+Our overall Singapore Governance and Transparency Index (GTI) score assessed by the National University of 
+
+Singapore Business School is 52 in FY2020, up from 44 in FY2019. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 13 SGTI scores 2010-2020  
+
+ 
+
+7.2 Whistle-blowing and Anti-Corruption Policy 
+
+ 
+
+The Group has in place a Whistle Blowing Policy that provides a channel to employees and other parties to 
+
+report in confidence, without fear of reprisals, concerns about possible improprieties in financial reporting or 
+
+other matters. Full details of our whistle-blowing policy is listed at our corporate website: 
+
+www.powermatic.com.sg.  
+
+ 
+
+ 
+
+7.3 Risk Management  
+
+ 
+
+We have an Enterprise Risk Management (ERM) framework in place to monitor and address the Group’s risk 
+
+profiles. NEXIA TS Pte Ltd, a Singapore audit and risk management company was commissioned to assess the 
+
+group’s risk exposure in 2013 and 2016. An area highlighted in the recent report was the insufficient 
+
+succession planning for senior management risks. The Board has seriously considered the assessment of the 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+30
+
+25
+
+37
+
+25
+
+26
+
+27
+
+23
+
+46
+
+35
+
+44
+
+52
+
+y2010 y2011 y2012 y2013 y2014 y2015 y2016 y2017 y2018 y2019 y2020
+
+SGTI Score 2010 to 2020
+
+GTI Year 
+
+Rank 
+
+Score 
+
+2020 
+
+497 
+
+52 
+
+2019 
+
+510 
+
+44 
+
+2018 
+
+522 
+
+35 
+
+2017 
+
+375 
+
+46 
+
+2016 
+
+599 
+
+23 
+
+2015 
+
+584 
+
+27 
+
+2014 
+
+552 
+
+26 
+
+2013 
+
+566 
+
+25 
+
+2012 
+
+220 
+
+37 
+
+2011 
+
+458 
+
+25 
+
+2010 
+
+417 
+
+30 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+17 
+
+ 
+
+consultant’s proposal and has put in place a strategic succession plan. We will continue to re-assess and 
+
+manage the risk exposure. 
+
+ 
+
+The outbreak of Covid-19 has disrupted our operations both locally and abroad, office, and factory. We 
+
+adhered very closely with the government measures in containing the virus from further spreading. We ensure 
+
+all employees who are working in the office and factory to practise social distancing and wearing masks at all 
+
+times. Security checks and temperature taking are done twice a day for all staff and workers.  
+
+ 
+
+The Group out-sourced its internal audit function to a well-established mid-tier local accounting firm. On an 
+
+annual basis, the internal auditors prepare the internal audit plan for AC’s approval. These audits are 
+
+conducted to assess the adequacy and effectiveness of the Group’s risk management and the internal control 
+
+systems, including financial, operational, compliance, and information technology controls. Concerted efforts 
+
+are made to rectify lapses and non-compliance reported by the internal auditors. 
+
+ 
+
+7.4 Investor Relations 
+
+ 
+
+We welcome all stakeholders to approach us and support the sustainability of our business. Investors can reach 
+
+us via our company website at www.Powermatic.com.sg or read our company’s latest information at 
+
+www.SGX.com or actively participate at the AGM. 
+
+ 
+
+8. Measures and Targets for 2020/2021 
+
+For this reporting year we target to address the following concerns and issues.   
+
+ 
+
+Sustainability Concerns 
+
+Issues 
+
+Policies, Measures &amp;Targets 
+
+Enhance quality 
+
+improvement activities  
+
+(QC Department) 
+
+Encourage all employees to participate 
+
+in quality improvement activities.  
+
+1. Set improvement goals 
+
+2. Establish an improvement team 
+
+3. Implement improvement activities 
+
+as planned 
+
+4. Parallel development of 
+
+improvement results 
+
+The temperature and 
+
+humidity of the 
+
+production workshop:  
+
+ 
+
+1. Temperature in the 
+
+Summer is high and 
+
+exceeded the standard 
+
+ 
+
+2. Temperature is 
+
+Dry and low in humidity 
+
+in the winter 
+
+ 
+
+ 
+
+1. Increase the air-conditioning 
+
+configuration in summer to mitigate the 
+
+high temperature in summer. 
+
+2. Add a humidifier or humidifier in 
+
+winter. 
+
+ 
+
+ 
+
+ 
+
+Assign designated personnel to  
+
+inspect and monitor the daily trend of 
+
+temperature and humidity changes.  
+
+ 
+
+2-3 years follow up to solve the 
+
+issues. 
+
+ 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+18 
+
+ 
+
+For overseas material: 
+
+epidemic prevention and 
+
+control management 
+
+ 
+
+Set up designated disinfection 
+
+operations for overseas imported 
+
+materials, register and manage 
+
+materials receipt, and allocate wash-
+
+free disinfectants for positions of 
+
+personnel who contact overseas 
+
+materials. Continuous advocacy to 
+
+personnel 
+
+ 
+
+IQC, warehouse, online warehouse, 
+
+production line staff 
+
+ 
+
+Continue until the end of the 
+
+epidemic 
+
+ 
+
+Chips are out of stock in 
+
+2021 &amp; 2022 and the 
+
+delivery period is 
+
+extended by more than 
+
+80 weeks (no fixed 
+
+delivery period), which 
+
+unable to meet 
+
+customer’s project 
+
+needs.  
+
+Communicate with customers and make 
+
+reservations. 
+
+The epidemic has caused a global 
+
+shortage of chips 
+
+Work closely with customers and chip 
+
+suppliers, business associate to 
+
+mitigate the shortage issues where 
+
+possible. 
+
+  
+
+ 
+
+9. Performance Tracking and Reporting  
+
+Within the group, we track our progress of material factors by systematically identifying relevant information 
+
+and data. And to conduct Gap analysis to ensure the expectation of our stakeholders and the company are 
+
+going along well. Also, we set performance targets that are aligned with our strategy to ensure that we 
+
+maintain the right course in our path to sustainability.   
+
+ 
+
+9.1 The condition of our workshop environment (floor, door, wall damage) has completed 100% and the result 
+
+was satisfactory according to the report from the production department. 
+
+ 
+
+9.2 The control of temperature and humidity of materials in the warehouse have been 100% successful after 
+
+our implementation of several measures during this reporting year. However, the temperature and humidity 
+
+of materials in the production areas are still a problem to solve in the coming years. 
+
+ 
+
+9.3 The visualization aids has improved and enhanced our operating standards with the supervision of the QC 
+
+department. The MIS department had managed to simplify and automate the system processes we identified 
+
+during this reporting year. As a result, we had reduced the operating costs and increased our competitiveness. 
+
+In the coming year, the MIS department will continue to further simplify the work flows and automation.  
+
+ 
+
+9.4 For order placement and delivery confirmation, our centralized procurement reduces manpower waste, 
+
+improves negotiation power with suppliers, and makes it easier to obtain price discounts and good service.   
+
+We had achieved up to 93%. There are minor problem remains due to frequency of orders. We need to 
+
+coordinate with sales department more closely. 
+
+ 
+
+9.5 In the area of development of new suppliers, the satisfactory level was up to 90%. However, the purchasing 
+
+department will still need to speed up the verification time. 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+19 
+
+ 
+
+ 
+
+9.6 In the area of cybersecurity and management, we have stepped up in data backups, frequency of server 
+
+security inspection and control of important documents to prevent leak out intentionally or unintentionally.  
+
+We are pleased to see most of our set targets were met and become more confident in our next targets setting 
+
+and formulating measures to execute them 
+
+ 
+
+9.7 Our Group Sales Team continues to provide quality service and support to grow the existing business 
+
+despite the pandemic over the year. They have also safeguarded existing businesses and explored new 
+
+business opportunity during this reporting year. 
+
+ 
+
+9.8 Our Kulai Plant, Johor, Malaysia has completed the initial setup. Essential staff such as operation manager, 
+
+finance executive, production supervisor, IT executive, QC supervisor were recruited to start production in 
+
+April 2020. The production floor continues to expand in line with the production capacity.   
+
+  
+
+Our new factory in Kulai, Johor, Malaysia 
+
+GRI STANDARDS CONTENT INDEX  
+
+GRI Standards  
+
+2016 
+
+General Disclosures 
+
+Annual Report 2021   
+
+Section Reference  
+
+ 
+
+Organization Profile 
+
+ 
+
+102-1 
+
+Name of the organization  
+
+AR Report Cover page &amp; Page 2 
+
+102-2 
+
+Activities, brands, products, and services 
+
+AR Report Page 3-9  
+
+102-3 
+
+Location of headquarters 
+
+AR Report Corporate Information Page 2 
+
+102-4  
+
+Location of operations 
+
+AR Report Corporate Information Page 2 
+
+102-5 
+
+Ownership and legal form 
+
+AR Report Corporate information Page 2 &amp; Statistics 
+
+of Shareholders Page 100 
+
+102-6  
+
+Markets served 
+
+AR Report, Sales by Geography, Page 8 &amp; 9 
+
+102-7 
+
+Scale of the organization 
+
+AR Report Page 9, 48, 49, 66-69 &amp; SR Report Page 4 
+
+102-8 
+
+Information on employees and other workers  
+
+AR Report Page 42-43 &amp; SR Report Page 11-15  
+
+102-9 
+
+Supply chain  
+
+AR Report Page 6-9 SR Report Page 10 
+
+102-10 
+
+Significant changes to the organization and its supply chain 
+
+AR Report Chairman Statement Page 3-4 
+
+102-11 
+
+Precautionary principle or approach 
+
+SR Report Page 9-10 
+
+102-12 
+
+External initiatives  
+
+Nil 
+
+102-13 
+
+Membership of associations  
+
+Singapore Business Federation &amp; AR Report Profile of 
+
+Directors Page 11  
+
+ 
+
+Strategy 
+
+ 
+
+102-14 
+
+Statement from senior decision-maker 
+
+AR Report Chairman Statement Page 3-4 
+
+
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+20 
+
+ 
+
+102-15 
+
+Key impacts, risks, and opportunities 
+
+AR Report Chairman Statement Page 3-4 Risk 
+
+Management &amp; internal control Page 31-36 
+
+ 
+
+Ethics and Integrity  
+
+ 
+
+102-16 
+
+Values, principles, standards, and norms of behavior 
+
+SR Report - Corporate Cultures Page 11-15 
+
+102-17  
+
+Mechanisms for advice and concerns about ethics 
+
+SR Report - Corporate Cultures Page 111-15 
+
+ 
+
+Governance 
+
+ 
+
+102-18 
+
+Governance structure 
+
+AR Report Corporate Governance Page 11-17 
+
+102-19 
+
+Delegating authority  
+
+AR Report Corporate Governance Page11-17 
+
+102-20 
+
+Executive-level responsibility for economic, environmental 
+
+SR Report - Board Statement Page 2 
+
+102-21 
+
+Consulting stakeholders on economic, environmental, 
+
+and social topics 
+
+SR Report - Board Statement Page 6 
+
+102-23 
+
+Chair of the highest governance body 
+
+AR Report Corporate Governance Page 3 
+
+102-24  
+
+Nominating and selecting the highest governance body  
+
+AR Report Corporate Governance Page 21-24 
+
+102-25 
+
+Conflicts of interest  
+
+NA 
+
+102-26 
+
+Role of highest governance body in setting purpose, 
+
+values, and strategy 
+
+AR Report Corporate Governance Page 12 
+
+102-27 
+
+Collective knowledge of highest governance body 
+
+AR Report Corporate Governance Page 11- 12 
+
+102-28 
+
+Evaluating the highest governance body’s performance 
+
+AR Report Corporate Governance Page 17-23 
+
+102-29 
+
+Identifying and managing economic, environmental, and social 
+
+impacts 
+
+SR Report Page 6-7 
+
+ 
+
+102-30  
+
+Effectiveness of risk management processes  
+
+AR Report Corporate Governance Page 15-26 
+
+102-31 
+
+Review of economic, environmental, and social topics 
+
+SR Report - Page 6-7 
+
+102-32 
+
+Highest governance body’s role in sustainability reporting 
+
+SR Report - Page 2 
+
+102-33 
+
+Communicating critical concerns 
+
+SR Report - Page 6-7 
+
+102-34 
+
+Nature and total number of critical concerns 
+
+SR Report - Page 6-7 
+
+102-35  
+
+Remuneration policies 
+
+AR Report Corporate Governance Page 28-29 
+
+102-36 
+
+Process for determining remuneration 
+
+AR Report Corporate Governance Page 25-27 
+
+102-37 
+
+Stakeholders’ involvement in remuneration 
+
+N.A 
+
+102-38 
+
+Annual total compensation ratio  
+
+AR Report Page 29-30  
+
+102-39 
+
+Percentage increase in annual total compensation ratio 
+
+AR Report Page 29-30 
+
+102-40 
+
+List of stakeholder groups 
+
+SR Report - Stakeholder Engagement, Page 5 
+
+102-41 
+
+Collective Bargaining Agreements 
+
+Not formalized 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+SR Report Stakeholder Engagement, Page 6 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+SR Report Stakeholder Engagement, Page 6 
+
+102-44 
+
+Key topics and concerns raised  
+
+SR Report Stakeholder Engagement, Page 6-7 
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+AR Report Notes to the Financial Statements P 47-99 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+SR Report, Page 2  
+
+102-47 
+
+List of material topics 
+
+SR Report, Page 5-6 
+
+102-48  
+
+Restatements of information  
+
+Yes, most basic ESG factors and compliance 
+
+102-49  
+
+Changes in reporting 
+
+In line with GRI standards 
+
+102-50 
+
+Reporting period  
+
+SR Report Board Statement, Page 2 
+
+102-51 
+
+Date of most recent report 
+
+SR Report 2019 
+
+102-52 
+
+Reporting cycle  
+
+Annually 
+
+
+ Powermatic Data Systems Limited – Sustainability Report 2020/2021 
+
+ 
+
+21 
+
+ 
+
+102-53  
+
+Contact point for questions regarding the report 
+
+SR Reporting Working Committee 
+
+102-54  
+
+Claims of reporting in accordance with the GRI Standards 
+
+SR Report, Board Statement Page 2 
+
+102-55 
+
+GRI content index 
+
+GRI Standards Content Index, Page 19-21 
+
+102-56 
+
+External assurance  
+
+No 
+
+GRI Indicators 
+
+Economic 
+
+Annual Report Section Reference 
+
+201-1 
+
+Direct economic value generated and distributed 
+
+AR Report Chairman Statement Page 3-4 &amp;73 
+
+201-4 
+
+Financial assistance received from government 
+
+Notes to The Financial Statements, Page 70   
+
+202-1  
+
+Ratios of standard entry level wage by gender compared to local 
+
+minimum wage 
+
+SR Report, Social Page 12 
+
+202-2 
+
+Proportion of senior management hired from the local community 
+
+SR Report, Social Page 14 
+
+205-1 
+
+Operations assessed for risks related to corruption 
+
+SR Report, Corporate Governance Page 16 
+
+205-2 
+
+Communication and training about anti-corruption policies and 
+
+procedures 
+
+SR Report, Corporate Governance Page 16 
+
+205-3 
+
+Confirmed incidents of corruption and actions taken 
+
+Nil 
+
+GRI Indicators 
+
+Environment 
+
+Annual Report Section Reference 
+
+302-1 
+
+Energy consumption within the organization 
+
+SR Report, Page 8 
+
+306-1 
+
+Water discharged by quality &amp; destination 
+
+SR Report, Page 9  
+
+307-1 
+
+Non-compliance with environmental laws and regulations 
+
+NIL 
+
+308-1 
+
+Percentage of new suppliers that were 
+
+screened using 
+
+environmental criteria 
+
+SR Report, Page 11 
+
+308-2  
+
+Negative environmental impacts in the supply chain and actions 
+
+taken  
+
+SR Report, Page 3 
+
+GRI Indicators 
+
+Social 
+
+Annual Report Section Reference 
+
+401-1  
+
+New employee hires and employee turnover 
+
+SR Report, Page 10-15 
+
+401-2 
+
+Benefits provided to full time employees that are not provided to 
+
+temporary or part-time employees 
+
+SR Report, Page 10-15 
+
+401-3 
+
+Parental leave 
+
+SR Report, Page 10-15 
+
+403-1 
+
+Workers representation in formal joint managements worker 
+
+SR Report, Page 10-15 
+
+403-2 
+
+Injury and incidents  
+
+SR Report, Page 10-15 
+
+403-4 
+
+Health &amp; safety topics covered in agreements with trade union   
+
+SR Report, Page 10-15 
+
+404-1 
+
+Average hours of training per employee  
+
+SR Report, Page 10-15 
+
+404-2 
+
+Programs for upgrading employee skills and transition assistance 
+
+programs  
+
+SR Report, Page 10-15 
+
+404-3 
+
+Percentage of employees receiving regular performance and career 
+
+development reviews  
+
+SR Report, Page 10-15 
+
+405-1 
+
+Diversity of governance bodies and employees   
+
+SR Report, Page 10-15 
+
+413-1 
+
+Operations with local community engagement, impact assessments, 
+
+and development programs  
+
+SR Report, Page 10-15 
+
+414-1  
+
+New suppliers screened using social criteria  
+
+SR Report, Page 11 
+
+414-2 
+
+Negative social impacts in the supply chain and actions taken  
+
+SR Report, Page 10-11 
+
+419-1 
+
+Non-compliance with laws and regulations in the social and 
+
+economic area  
+
+NIL 
+
+The end of SR report 2021 
+

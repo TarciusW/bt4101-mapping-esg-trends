@@ -1,0 +1,3029 @@
+
+ 
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Building a Vibrant Sustainable Future 
+
+STAMFORD LAND CORPORATION LTD 
+
+Sustainability Report 2019 
+
+ 
+
+Towards a Sustainable Future 
+
+STAMFORD LAND CORPORATION LTD 
+
+Sustainability Report 2019 
+
+
+ 
+
+2 
+
+ 
+
+
+
+Table of Contents 
+
+Table of Contents ....................................................................................................................................... 2 
+
+Board Statement......................................................................................................................................... 3 
+
+Introduction .................................................................................................................................................. 4 
+
+About this Report .................................................................................................................................... 4 
+
+About Stamford Land Corporation Ltd ................................................................................................ 5 
+
+Company Highlights ............................................................................................................................... 6 
+
+Our Sustainability Approach ..................................................................................................................... 7 
+
+Sustainability Governance Structure ................................................................................................... 7 
+
+Policies ..................................................................................................................................................... 8 
+
+Stakeholder Engagement ................................................................................................................... 10 
+
+Materiality Assessment ....................................................................................................................... 11 
+
+Creating Stakeholder Value .................................................................................................................... 12 
+
+Economic Performance ....................................................................................................................... 12 
+
+Governance ............................................................................................................................................... 13 
+
+Anti-Corruption ...................................................................................................................................... 13 
+
+Environmental Sustainability .................................................................................................................. 14 
+
+Energy Consumption and Water Management ............................................................................... 14 
+
+Waste Management ............................................................................................................................. 15 
+
+Employee Profile .................................................................................................................................. 16 
+
+Employee Wellbeing and Engagement ............................................................................................. 17 
+
+Occupational Health and Safety ........................................................................................................ 17 
+
+Training and Career Development .................................................................................................... 18 
+
+Our Customers ......................................................................................................................................... 18 
+
+Data Security and Customer Privacy ................................................................................................ 18 
+
+Local Communities................................................................................................................................... 18 
+
+Community Investment and Development ....................................................................................... 18 
+
+ 
+
+ 
+
+
+ 
+
+3 
+
+ 
+
+
+
+Board Statement  
+
+Dear Stakeholders,  
+
+The Board is pleased to present Stamford Land Corporation’s (“SLC”) sustainability report for 2019. SLC 
+
+is committed to sustainability and we strategically incorporate key elements of environmental and social 
+
+corporate governance to fulfil our responsibility to the environment, the communities we engage with, and 
+
+our future generations.  
+
+With recent global calls in 2018 for stronger change in the manner countries and global corporations 
+
+operate, Singapore has pledged to reduce its carbon emissions intensity by 36% (from 2005 levels) by 
+
+2030, and to stabilise emissions with the aim of peaking around 2030. This sends a strong signal for local 
+
+corporations to track carbon emissions and to improve energy efficiency. On the back of this, SLC continues 
+
+to be mindful of the manner in which its business operates, and the associated climate risks in its main 
+
+regions of operations.     
+
+SLC adopts a multi-layered approach to ensure sustainability. In 2019, SLC has deliberated the 
+
+environmental, social and governance (“ESG”) aspects to ensure our hotel operations continue to maintain 
+
+their high standards of service while remaining sustainable.  
+
+Our 2019 sustainability report is issued in accordance with the Singapore Exchange Securities Trading 
+
+Limited’s (“SGX-ST”) rules for sustainability reporting for all Singapore-listed companies. The report covers 
+
+how the Group incorporates elements of sustainability in the core of its operational strategies, with reference 
+
+to the Global Reporting Initiative (GRI) Standards (2016).  
+
+Based on a materiality assessment conducted in 2019, the management has recognized and retained the 
+
+ten material ESG factors from 2018 as being pertinent to our operations. They are namely: Data Security 
+
+and Customer Privacy, Employee Wellbeing and Engagement, Employee Training and Career 
+
+Development, Waste Management, Water Management, Occupation Health and Safety, Energy 
+
+Consumption and Associated Green House Gas Emissions, Economic Performance, Anti-Corruption and 
+
+Local Community Investment and Development.  
+
+With the Board’s endorsement, the Sustainability Steering Committee (comprising of the Group’s 
+
+management that reports directly to the Board), reviews and resolves sustainability-related risks and 
+
+opportunities, as well as monitors our sustainability performance targets. Following on our progress last 
+
+year, SLC will continue to focus on talent management and development, to groom our employees into 
+
+innovative, responsible stakeholders.  
+
+SLC recently completed its acquisition of 8 Finsbury Circus, in London, United Kingdom. The property holds 
+
+a BREEAM excellent rating, being in the top 10% of UK’s new non-domestic buildings for its sustainability 
+
+performance. Moving forward, the Group will focus on business opportunities from which we can reap 
+
+positive sustainability results, so that our future stakeholders may continue to enjoy the fruits of our labour.   
+
+
+ 
+
+4 
+
+ 
+
+
+
+Introduction  
+
+About this Report 
+
+SLC presents its FY2019 sustainability report, prepared in accordance to the internationally recognised 
+
+Global Reporting Initiatives (“GRI”) Standards – “Core” option and in line with SGX-ST Mainboard Listing 
+
+Rule 711(B).  
+
+This report encompasses SLC’s portfolio of seven hotels across Australia and New Zealand, namely, 
+
+Sydney, Adelaide, Melbourne, Brisbane and Auckland. The report covers our business operations, 
+
+including food and beverage operations within our hotels, from 1 April 2018 to 31 March 2019 (“FY2019”). 
+
+The full list of hotels within this report’s reporting scope are set out as follows: 
+
+ 
+
+We have not sought external assurance for this report. Our reporting is done in good faith and to the best 
+
+of our knowledge. We welcome any feedback for this report and for any of our sustainability related 
+
+matters, please contact: 
+
+Investor Relations Committee 
+
+Tel: 6236 6888 
+
+investor.relations@stamfordland.com  
+
+ 
+
+Portfolio by Country and States 
+
+Name of Hotels 
+
+Australia 
+
+Sydney, New South Wales  
+
+Sir Stamford Circular Quay (“SSCQ”) 
+
+Stamford Plaza Sydney Airport (“SPSA”) 
+
+Adelaide, South Australia 
+
+Stamford Grand Adelaide (“SGA”) 
+
+Stamford Plaza Adelaide (“SPA”) 
+
+Melbourne, Victoria  
+
+Stamford Plaza Melbourne (“SPM”) 
+
+Brisbane, Queensland 
+
+Stamford Plaza Brisbane (“SPB”) 
+
+New Zealand 
+
+ 
+
+Auckland 
+
+ 
+
+Stamford Plaza Auckland (“SPAK”) 
+
+
+ 
+
+5 
+
+ 
+
+
+
+
+
+About Stamford Land Corporation Ltd 
+
+Listed on the Mainboard of the Singapore Exchange (“SGX”), Stamford Land Corporation Ltd is the largest 
+
+independent owner-operator of luxury hotels in Australia and New Zealand. With a portfolio of prime hotels 
+
+and investment properties in Australia and New Zealand’s key cities, SLC has a reputation for its 
+
+development of first-rate residential and commercial properties.  
+
+With its targeted approach in luxury brand positioning, SLC has achieved great success in its hotel and 
+
+property development businesses in Australia and New Zealand. Our brand is celebrated for its exceptional 
+
+locations, luxurious accommodation and stellar service quality. SLC has also been ranked among 
+
+Singapore’s top 100 brands by Brand Finance, an independent, leading international brand valuation 
+
+consultancy. 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+
+
+
+ 
+
+6 
+
+ 
+
+
+
+
+
+Company Highlights 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+2.1%  
+
+
+
+
+
+Increase in profit from 
+
+FY2018 to FY 2019 
+
+Hotel Owning and Management Segment Financial Highlights 
+
+
+
+
+
+FY2019 Revenue  
+
+
+
+175.5M  
+
+
+
+Total Asset Value as at 
+
+March 2019 (SGD) 
+
+
+
+$399m 
+
+Awards 
+
+Sustainability Highlights 
+
+
+
+Decline in electricity 
+
+consumption in FY2019, 
+
+attributed to energy efficient 
+
+technologies and appliances 
+
+used 
+
+
+
+  3.3%  
+
+
+
+
+
+Reduction in fuel 
+
+consumption in 
+
+FY2019, partially 
+
+contributed by solar 
+
+energy installation 
+
+
+
+4.6% 
+
+
+
+ 
+
+
+
+Trip Advisor Certificate of Excellence 2019 
+
+All hotels in Australia and New Zealand 
+
+ 
+
+SKYTRAX World Airport Awards 2019 
+
+Best Airport Hotel, Australia/Pacific – Winner 
+
+Stamford Plaza Sydney Airport (6th consecutive year) 
+
+ 
+
+TAA (NSW) Awards for Excellence 2019 
+
+Deluxe Hotel of the Year – Finalist 
+
+The Highlander Bar, Bar of the Year (Deluxe Hotels) - Finalist 
+
+Sir Stamford at Circular Quay 
+
+ 
+
+TAA (NSW) Awards for Excellence 2019 
+
+La Boca Bar and Grill, Restaurant of the Year 
+
+(Mid-Range – Superior Hotels) – Finalist 
+
+Stamford Plaza Sydney Airport 
+
+ 
+
+Spice Magazine Awards 2019 
+
+Hotel with the Best Business Hotel – Winner 
+
+Stamford Plaza Brisbane 
+
+ 
+
+TAA (VIC) Awards for Excellence 2019 
+
+Accommodation Hotel of the Year – Finalist 
+
+Stamford Plaza Melbourne 
+
+ 
+
+AHA (Australian Hotel Association) 
+
+The Promenade, Restaurant (Accommodation Division) – Finalist 
+
+Stamford Grand Adelaide 
+
+ 
+
+AHA (Australian Hotels Association) 
+
+La Boca Bar and Grill, Restaurant (Accommodation Division) – Finalist 
+
+Stamford Plaza Adelaide 
+
+
+ 
+
+7 
+
+ 
+
+
+
+
+
+Our Sustainability Approach 
+
+Sustainability Governance Structure 
+
+ 
+
+Driving SLC’s sustainability initiative is our Sustainability Committee, comprised of the Singapore and 
+
+overseas top management personnel. This permanent committee oversees the various work teams from 
+
+all aspects of SLC’s operations to ensure the Group’s progress and development in the 10 ESG factors by 
+
+SLC’s management. The Committee is responsible for formulating SLC’s sustainability approach and 
+
+framework, and also to implement approved initiatives and monitoring of SLC’s sustainability performance. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+8 
+
+ 
+
+
+
+Policies 
+
+SLC is in the constant cycle of reviewing and improving its operational policies and processes that were 
+
+developed with the assistance of independent consultants. We regularly earmark pertinent policies in 
+
+accordance with the ESG factors for revision and seek our employees and management’s views in 
+
+improving these policies. These policies are made readily available to our employees on the Group’s 
+
+intranet.  
+
+ 
+
+ Key SLC Group-level Policies 
+
+Governance 
+
+Scope 
+
+Description 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Conflict of Interest 
+
+Policy 
+
+All Stamford 
+
+Hotels 
+
+SLC has in place a robust process for the identification, 
+
+evaluation, review, approval and reporting of interested 
+
+person transactions. SLC’s employee code of conduct also 
+
+reinforces ethical business practices to guide our employees 
+
+on what is considered acceptable and unacceptable 
+
+behaviour at work and prevent conflicts of interests.  
+
+Whistle-blowing 
+
+Policy 
+
+All Stamford 
+
+Hotels 
+
+This policy encourages the reporting of suspected reportable 
+
+conduct and offences on an anonymous basis. This is part of 
+
+our 
+
+comprehensive 
+
+system 
+
+for 
+
+grievance 
+
+handling, 
+
+harassment and is considered a pillar of the checks and 
+
+balances we have put in place to support our operations.  
+
+Social  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Recruitment Policy 
+
+All Stamford 
+
+Hotels 
+
+SLC promotes an equal opportunity recruitment policy. It 
+
+allows for a fair selection process on a meritocratic basis in 
+
+recruiting high calibre staff whom we believe share our core 
+
+values and support the fulfilment of SLC's vision and goals. 
+
+This policy adheres to strict guidelines on non-discrimination, 
+
+fairness and disregards gender, ethnicity, religion or age.  
+
+Occupational, Health 
+
+and Safety Policy 
+
+All Stamford 
+
+Hotels 
+
+Occupational health and safety is of the highest priority to 
+
+SLC, and we are concerned for all of our stakeholders, 
+
+including employees, tenants, suppliers, contractors and all 
+
+of our guests who use our properties and hotels. Our OHS 
+
+policy aims to reduce occupation injury rates to achieve zero 
+
+harm to our employees and to exceed all OHS legal 
+
+requirements in the various countries we operate in. 
+
+Emergency 
+
+Preparedness &amp; 
+
+Response Policy 
+
+All Stamford 
+
+Hotels 
+
+SLC believes that the establishment of good practices for the 
+
+identification, staff preparedness and response mechanisms 
+
+to emergencies are key in ensuring a safe working 
+
+environment. Working in tandem with our comprehensive 
+
+risk management policies, this policy lays out defined 
+
+processes and procedures that all hotel staff are familiar with 
+
+through regular refresher courses to facilitate the proper 
+
+handling any emergency. 
+
+
+
+
+ 
+
+9 
+
+ 
+
+
+
+Risk Management 
+
+Policy 
+
+All Stamford 
+
+Hotels 
+
+While our OHS policy is part of our risk management 
+
+approach, SLC adopts a separate independent policy for 
+
+managing the hotels’ other risk parameters. This includes a 
+
+risk assessment methodology that contains a process for the 
+
+identification, assessment and controlling of any foreseeable 
+
+daily operational hazards. 
+
+Incident investigation 
+
+and reports policy 
+
+All Stamford 
+
+Hotels 
+
+Our employees are to strictly adhere to this policy in ensuring 
+
+that all occurrences of security and accident related incidents 
+
+are thoroughly investigated and reported. Our staff are 
+
+required to prepare a thorough incident report, which is 
+
+reviewed and assessed by management in deciding the 
+
+appropriate resolution to each incident.   
+
+Responsible Supply 
+
+Chain Policy 
+
+All Stamford 
+
+Hotels  
+
+SLC recognises the importance of sustainable value 
+
+generation within its supply chain and procurement process. 
+
+Amongst other things, SLC considers the following factors - 
+
+economic value of products and services, business ethics 
+
+and reputation in assessing and selecting new potential 
+
+suppliers. 
+
+Environmental 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Housekeeping 
+
+Environmental Policy 
+
+All Stamford 
+
+Hotels 
+
+SLC is committed in ensuring all resources are used in a 
+
+responsible and sustainable manner. We actively encourage 
+
+our externally engaged housekeeping staff to engage in 
+
+environmentally-friendly practices when performing their 
+
+duties. These practices include proper segregation and 
+
+disposal of waste, use of bio-degradable chemicals and 
+
+prompt reporting of faulty equipment that may cause excess 
+
+waste, water or electricity consumption. 
+
+Energy Management 
+
+Policy 
+
+All Stamford 
+
+Hotels 
+
+SLC dedicates itself to reducing its consumption and 
+
+wastage of natural resources. Working in collaboration with 
+
+local city councils, SLC has embarked on a group wide 
+
+project to improve energy consumption efficiency as well as 
+
+the replacement of cost-inefficient energy equipment with 
+
+more economical and environmentally-friendly alternatives.  
+
+ 
+
+
+ 
+
+10 
+
+ 
+
+
+
+ 
+
+Stakeholder Engagement  
+
+At SLC, we actively engaging our stakeholders through numerous avenues, such as town hall sessions held at hotel level, and communication 
+
+meetings with senior management to ensure that all of our stakeholders understand and are on board with our core values and goals. Through this, 
+
+we are able to explore new opportunities, issues, and risks, all of which lends toward greater value creation for our business and stakeholders.  
+
+ 
+
+Key Stakeholders 
+
+Mode of Engagement 
+
+Frequency of Engagement 
+
+Key Topics of Interest 
+
+Our Approach 
+
+Shareholders 
+
+ 
+
+Corporate announcements 
+
+ 
+
+Annual General Meetings 
+
+ 
+
+Investor Relations Initiatives 
+
+ 
+
+When required throughout the 
+
+year 
+
+ 
+
+Annual General Meetings are 
+
+held on a yearly basis 
+
+ 
+
+Improve performance and higher 
+
+profitability  
+
+ 
+
+Clear lines of communication and 
+
+feedback between Company and 
+
+shareholders 
+
+ 
+
+SLC prudently assesses investment opportunities as they 
+
+arise, including its recent purchase of 8 Finsbury in London 
+
+ 
+
+SLC ensures its public updates on SGXNet are transparent 
+
+and timely and address all relevant shareholders matters  
+
+ 
+
+We implemented a process for receiving shareholder feedback 
+
+to ensure all feedback received is properly addressed 
+
+Employees 
+
+ 
+
+Orientation 
+
+programme 
+
+for 
+
+new 
+
+employees 
+
+ 
+
+Employee 
+
+training 
+
+and 
+
+skills 
+
+development programmes 
+
+ 
+
+Yearly performance appraisals 
+
+ 
+
+Recreational activities organised by 
+
+respective HR departments 
+
+ 
+
+When required throughout the 
+
+year 
+
+ 
+
+Recreational activities are held 
+
+on a yearly basis 
+
+ 
+
+Job security  
+
+ 
+
+Clear career progression paths 
+
+ 
+
+Safe working environment  
+
+ 
+
+Learning opportunities 
+
+ 
+
+All employees undergo training to equip them with proper 
+
+working knowledge of workplace safety and, where relevant, 
+
+food hygiene 
+
+ 
+
+SLC conducts yearly performance appraisals to adequately 
+
+reward and recognise the contributions of our employees 
+
+ 
+
+Proper recruitment framework to attract and retain talents 
+
+Government 
+
+and 
+
+Regulators 
+
+ 
+
+Dialogue sessions and meetings with 
+
+governmental representatives 
+
+ 
+
+Participating in regulatory audits and 
+
+surveys 
+
+ 
+
+Membership in industry associations  
+
+ 
+
+When required throughout the 
+
+year 
+
+ 
+
+ 
+
+Compliance with applicable laws 
+
+and regulations 
+
+ 
+
+Prompt payment of corporate taxes 
+
+and levies 
+
+ 
+
+Our hotels actively participate in surveys and initiatives in 
+
+collaboration with regulators and council members 
+
+ 
+
+We maintain open communication channels with regulatory 
+
+representatives through regular participation in dialogue 
+
+sessions and meetings 
+
+Clients and guests 
+
+ 
+
+ 
+
+Company initiated feedback sessions 
+
+and surveys 
+
+ 
+
+Dialogue sessions and meetings 
+
+ 
+
+ 
+
+Feedbacks are offered to patrons 
+
+after provision of services 
+
+ 
+
+As 
+
+and 
+
+when 
+
+required 
+
+throughout the year 
+
+ 
+
+High standards of services and 
+
+products 
+
+ 
+
+Competitive pricing 
+
+ 
+
+SLC seeks to address all feedback garnered through various 
+
+channels from guests and clients in a timely manner 
+
+Business Partners 
+
+ 
+
+Operational meetings and dialogue 
+
+sessions  
+
+ 
+
+Procurement systems and standard 
+
+procurement practices  
+
+ 
+
+When required throughout the 
+
+year 
+
+ 
+
+Continuity of business 
+
+ 
+
+Prompt and regular payment for 
+
+procurement 
+
+of 
+
+supplies 
+
+and 
+
+services 
+
+ 
+
+SLC aims to maintain a mutually respectful relationship 
+
+through regular communication with our service providers and 
+
+suppliers  
+
+ 
+
+We also have in place an established procurement system and 
+
+proper procurement tracking practices to ensure timely 
+
+payments and ordering of goods and services  
+
+
+ 
+
+11 
+
+ 
+
+
+
+Materiality Assessment 
+
+SLC’s FY2019 materiality assessment was conducted in consultation with our key stakeholders, taking 
+
+reference from the GRI Standards. We have evaluated and identified 10 key issues that are of upmost 
+
+importance to our business operations and stakeholders. Given that our core business operations did not 
+
+change from FY2018, we have adopted the same 10 material matters that were identified last year. 
+
+ 
+
+No. 
+
+Key Issues* 
+
+Corresponding 
+
+GRI 
+
+Framework 
+
+Disclosures 
+
+1.  
+
+Economic Performance 
+
+GRI 201: Economic Performance 
+
+2. 
+
+Anti-Corruption 
+
+GRI 205: Anti-Corruption 
+
+3. 
+
+Energy Consumption 
+
+GRI 302: Energy 
+
+4. 
+
+Water Management 
+
+GRI 303: Water 
+
+5. 
+
+Waste Management 
+
+GRI 306: Effluents and Waste 
+
+6.  
+
+Employee Wellbeing and Engagement 
+
+GRI 401: Employment 
+
+7. 
+
+Occupational Health and Safety 
+
+GRI 403: Occupational Health and Safety 
+
+8. 
+
+Training and Career Development 
+
+GRI 404: Training and Education 
+
+9. 
+
+Data Security and Customer Privacy 
+
+GRI 418: Customer Privacy 
+
+10. 
+
+Community Investment and Development 
+
+Non GRI 
+
+* Key issues are not ranked in priority  
+
+ 
+
+
+ 
+
+12 
+
+ 
+
+
+
+Creating Stakeholder Value 
+
+Economic Performance 
+
+Achieving a high standard of Economic Performance is one of SLC’s main priorities. We understand the 
+
+importance of achieving high economic performance sustainably, so as not to create significant economic 
+
+problems for future generations. As a group, we aim to achieve each hotel’s respective annual revenue 
+
+targets and profit set as well as to explore potential investment opportunities to expand our properties 
+
+portfolio. 
+
+We set out below our individual hotel’s economic performance targets, achievements and some of the new 
+
+group policies implemented in 2019 that support our financial goals and targets. 
+
+ 
+
+ 
+
+Our management team prides itself on maintaining good economic performance for our hotels. SLC’s 
+
+management takes a hands-on and practical approach in the identification and mitigation of all commercial 
+
+risks which may potentially affect the business. The hotels are also regularly audited by internal and external 
+
+parties to ensure that operational efficiency is maintained throughout the year.  
+
+SLC’s hotel owning and management segment achieved a total revenue of S$175.5 million in FY2019. 
+
+Basic earnings per share for SLC was S$0.056 in FY2019. Further details of SLC’s financial performance 
+
+can be found under Financial Highlights (pages 17 to 18) and Financial Statements (pages 56 to 131) 
+
+sections of the FY2019 Annual Report. 
+
+ 
+
+
+
+New centralised framework for managing and supervising 
+
+rental arrears 
+
+ 
+
+Most of our properties derive rental income from tenants. This 
+
+new framework that was implemented enables SLC to have 
+
+corporate oversight over the management and administration of 
+
+rental arrears, streamlines the administrative process of collecting 
+
+arrears by having a ready-to-use set of templates to be issued to 
+
+the tenants on upon pre-determined dates where tenants fall 
+
+behind on arrears.  
+
+ 
+
+Revision of contract review and approval process 
+
+ 
+
+Upon consultation with key operational stakeholders such as our 
+
+hotel financial controllers, SLC has refined its contracts review 
+
+and approval process by streamlining the various approval 
+
+matrices and number of approvals needed for different types of 
+
+contractual agreements to ensure that operational efficiency is 
+
+improved while maintaining the proper checks and balances 
+
+required.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+13 
+
+ 
+
+
+
+
+
+
+
+
+
+Governance 
+
+Anti-Corruption 
+
+The Group has zero tolerance for corrupt practices. Aside from the legal implications, corruption brings 
+
+about many negative effects, the primary being the loss of trust with our stakeholders when corruption 
+
+occurs. As a business, SLC has a strict zero tolerance policy when it comes to all form of corrupt activities, 
+
+including and not limited to bribery and embezzlement.  
+
+The Group has a Whistle-Blower Policy to encourage the good faith reporting in good faith of suspected 
+
+reportable conduct, violations of the company values and ethics or applicable laws (including the Singapore 
+
+Prevention of Corruption Act and other applicable anti-bribery laws) by establishing clearly defined 
+
+processes through which such reports may be made with the confidence that employees and other persons 
+
+making such reports to the employees’ supervisors, ARMC or Legal Officer will be treated fairly and, to the 
+
+extent possible, protected from reprisal. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+14 
+
+ 
+
+
+
+ 
+
+Environmental Sustainability 
+
+Energy Consumption and Water Management 
+
+SLC incorporates environmental sustainability in the major aspects of its business operations, beginning 
+
+from the inception of projects for capital expenditure, to the procurement and construction stages to 
+
+operation and redevelopment. Our focus on environmental sustainability is not only part of our efforts to 
+
+conserve natural resources, but results in operational efficiencies and long-term sustainability of the Group.  
+
+Examples of SLC’s environmental initiatives include:  
+
+ 
+
+We are proud that in 2019, SSCQ has been recognised as one of Trip Advisor’s “Green Leaders’ – Gold 
+
+Status hotels, with its sister hotel SPAK obtaining Trip Advisor’s “Green Partner” - Bronze Status.  
+
+In FY2019, through our environmental initiatives and policies tailored specially for our hotels, we have 
+
+reduced our overall fuel consumption by 4.66% from 45.4 Tj in FY2018 to 43.28 Tj in FY2019 and electricity 
+
+consumption by 3.3% from 20,397 Mwh in FY2018 to 19,724 Mwh in FY2019. Our fuel sources comprise 
+
+of natural gas, ethane, gas coke, gas oil and wood waste (renewable). Similarly, SLC, as a group, reduced 
+
+its combined water consumption from 270,668 m³ in FY2018 to 270,390 m³ in FY2019. SLC draws its water 
+
+mainly from municipal water supplies, with a small portion from rainwater used for landscape irrigation by 
+
+SPSA.  
+
+ 
+
+•Guests are awarded credits to be used at select hotel restaurants for food and beverage 
+
+discounts should they choose to waive the daily cleaning of their hotel rooms
+
+•Placement of reminders in hotel rooms to encourage guests of environmentally 
+
+sustainable efforts
+
+Grow a Greener Future: Hotel Credits Program
+
+•Major works for the upgrade and installation of state of the art building management 
+
+systems to achieve higher energy savings, 
+
+•Retrofitting of motion sensor Light-Emitting Diode (LED) lights in hotel rooms 
+
+Achieving higher energy savings through tecnological upgrades
+
+•Hotels encourage guests to separate their waste into biodegradable and recyclable forms 
+
+of waste through use of separate bins
+
+•Our hotels employ eco-friendly steam cleaning practices to clean our hotel bathrooms 
+
+instead of chemical detergents and cleaners
+
+Use of green cleaning practices
+
+•Hotels maintain records of energy consumption data and perform data analysis to identify 
+
+outliers and rectify issues
+
+•This practice, currently adopted by SPB and SPSA, allows us to understand our 
+
+consumption trends and establish a benchmark for comparison with other hotels of similar 
+
+size and operations within our Group
+
+•We maintain our equipment up to date and in good operating conditions at all times to 
+
+achieve highest possible energy efficiencies
+
+Monthly reporting and analysis of energy consumption and regular 
+
+maintenance checks
+
+
+ 
+
+15 
+
+ 
+
+
+
+
+
+65%
+
+34%
+
+1%
+
+0
+
+NON-HAZARDOUS WASTE (KG)
+
+Landfill
+
+Recycling
+
+Others
+
+Waste Management 
+
+The hospitality industry tends to generate large amounts of waste. As part of our efforts to address our 
+
+environmental responsibility and the increasing costs of waste management disposal, SLC has embarked 
+
+on the development of a more efficient waste management system from the ground up, beginning with a 
+
+comprehensive review of our waste disposal service providers, in addition to the implementation of a proper 
+
+waste disposal policy. 
+
+Our hotels are required to segregate general waste from recyclables and ensure all housekeeping duties 
+
+are performed in an environmentally friendly manner, including recycling and waste disposal. The use of 
+
+chemicals, electrical heating and cooling systems are discouraged. We also engage environmentally 
+
+responsible service providers in managing the disposal of our waste.  
+
+Non-hazardous and food waste consists of the majority of the hotels’ waste. They consist of mainly general 
+
+waste, plastic waste, wood and cardboard waste. Hazardous waste typically comprises trade waste, 
+
+cooking oil and grease, most of which are disposed by licensed third party service providers.  
+
+ 
+
+FY2018 
+
+ 
+
+ 
+
+ 
+
+FY2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+77%
+
+20%
+
+3%
+
+HAZARDOUS WASTE (KG)
+
+Composting
+
+Recycling
+
+Reuse
+
+63.46%
+
+10.26%
+
+26.28%
+
+HAZARDOUS WASTE (KG)
+
+Recycling
+
+Reusage
+
+Others
+
+57.30%
+
+31.74%
+
+3.81%
+
+0.36% 6.79%
+
+NON-HAZARDOUS (KG)
+
+Landfill
+
+Recycling
+
+Composting
+
+
+
+6,963,342 kg 
+
+
+
+369,117 kg 
+
+108,379 kg 
+
+ 
+
+ 
+
+8,066,243 kg 
+
+ 
+
+ 
+
+
+ 
+
+16 
+
+ 
+
+
+
+ 
+
+Our People 
+
+Employee Profile  
+
+At SLC, we believe that in training and developing our employees to be a technologically savvy and 
+
+engaged team. Our full-time employee headcount for the respective jurisdictions we operate in are as 
+
+follows: 460 in Australia, 86 in New Zealand and 41 in Singapore for FY 20181. In FY2019, the number of 
+
+full-time employees are 463, 116 and 39 respectively across our operations. Likewise, for part-time 
+
+employees, our headcount for the respective jurisdictions are as follows: 298 in Australia and 65 in New 
+
+Zealand for FY2018. For FY2019, there are 280 and 60 part-time employees respectively. This change is 
+
+due to increase in efficiencies in managing employee costs by channelling work priorities to full-time 
+
+employees. 
+
+ 
+
+ 
+
+ 
+
+1 The revised figures accurately reflect SLC employee headcount as of FY2018 and correct some minor discrepancy in SLC 2018 
+
+Sustainability Report. 
+
+
+
+257
+
+280
+
+330
+
+338
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+FY2018
+
+FY2019
+
+Full-time Employees
+
+189
+
+172
+
+174
+
+168
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+FY2018
+
+FY2019
+
+Part-time Employees
+
+ 
+
+Female 
+
+ 
+
+Male 
+
+
+ 
+
+17 
+
+ 
+
+
+
+
+
+ 
+
+Employee Wellbeing and Engagement 
+
+SLC is committed to ensuring our employees’ health and enjoyment to allow them to maximise their 
+
+potential and productivity. Our employees’ comprehensive work benefits package (which includes parental 
+
+leave, vaccination drives, health screenings, medical insurance coverage and employee discounts across 
+
+our hotels) are in the process of being reviewed so that we can provide additional benefits to our employees.  
+
+We are also looking into improving our employee solidarity and cohesiveness across the hotels by hosting 
+
+hotel executive retreats, where we gather our hotel executives from across our properties together to share 
+
+ideas and bond together. We encourage our staff to actively participate in such activities. Other than our 
+
+annual performance appraisal, employees complete regular engagement surveys to ensure that any 
+
+concerns are raised to and addressed by the appropriate channels. 
+
+We also regularly hold training seminars for our hotel employees to update them on the latest developments 
+
+in areas which may be of interest to them or their business. For example: 
+
+1. Training Session from HR – 27 Sep 2018 
+
+2. Training Session from IT – 22 Nov 2018 
+
+3. Training Session for Legal Contract 101 – 29 Mar 2019 
+
+4. Financial Controllers’ Meeting Conference in Singapore – 19 to 21 Jun 2019  
+
+ 
+
+100% of our full-time employees that have served a full year participated in at least one performance or 
+
+work appraisal during FY2019. In addition, the permanent employee turnover rate at our Australian hotels 
+
+was approximately 27.4% in FY2019.  
+
+ 
+
+Occupational Health and Safety 
+
+The safety, health and wellness of our employees and contractors’ workers may affect work performance 
+
+and productivity. In this respect, the culture of the hotel’s workplace, as well as the policies, practices and 
+
+procedures are important elements that affect our employees. SLC is aware that it is our responsibility to 
+
+maintain a safe and comfortable environment for our guests to feel at home away from home. 
+
+To continue on our strict zero tolerance for employee injury approach, SLC takes a preventive approach to 
+
+occupational health and safety. We do regular audits and engage third party contractors / consultants to 
+
+enable our operational sites to be free from hazards which may injure our employees and guests. Regular 
+
+fire evacuations and emergency audits are also enforced across our hotels to promote familiarity of the 
+
+steps to take, in the event of such emergencies. 
+
+In addition, we have engaged a consultancy company to enhance our food safety practices. Our hotels are 
+
+in the process of achieving Hazard Analysis and Critical Control Points accreditation, which is over and 
+
+above the statutory requirements of the states in which our hotels operate. HACCP certification is an 
+
+international standard which defines the requirements for effective control of food safety. It demonstrates 
+
+to our guests our high commitment to producing or trading in safe food, by allowing us to focus on the 
+
+hazards that affect food safety and hygiene within our businesses, and then systematically identify where 
+
+the hazards are by setting up control limits at critical points during the food production process.  
+
+Our employees have reported no significant work-related injuries, occupational diseases or fatalities for 
+
+FY2019. We have also not had any incidents of non-compliance with employee health and safety 
+
+regulations or any major safety incidents across our portfolio. In tracking our employees’ wellness and 
+
+health, our absentee rate at our Australian and New Zealand hotels was 1.34%. 
+
+
+
+
+ 
+
+18 
+
+ 
+
+
+
+Training and Career Development  
+
+Our employees are the key to enhancing our human capital, the key resource in the hospitality industry. 
+
+We must ensure that our employees’ health and safety, competencies, welfare and professional 
+
+development remain priorities and fundamental to our Group’s performance.  
+
+We carry out company-wide initiatives to encourage our employees to think out of the box, to inculcate a 
+
+culture of innovation and creativity in the Group.  As part of our initiatives, we have established a company-
+
+funded programme for our employees to attend courses and seminars to improve their personal and work 
+
+skills. Our management also takes a keen interest in the personal development of our employees, and they 
+
+take time to give regular performance feedback and guidance to our employees, regardless of the hierarchy 
+
+that is in place within the organisation. This allows our employees to be inspired by the management team 
+
+and for supervisors to highlight areas for improvement and to commend employees where they have 
+
+excelled.  
+
+During the year, approximately 91% of the workforce attended training sessions and our permanent 
+
+employees received at least 58 service training hours per employee, including on-site and vocational 
+
+training.  
+
+Our Customers 
+
+Data Security and Customer Privacy  
+
+Malicious cyber-attacks or hacking attempts can inflict serious damage and disruptions to our business and 
+
+affect the reputation of and our key stakeholders’ trust in our company and operations. We are also aware 
+
+of the compliance requirements for both international and local data privacy protection laws, especially 
+
+since our hotels receive guests’ personal information from all around the world.  
+
+Over and above the clearly defined data security and customer privacy policies and procedures that we 
+
+have in place which are created in accordance with prevailing laws and regulations, we are also working 
+
+with external data privacy specialists to revise and improve upon our internal privacy policies and 
+
+processes. This will allow our data protection officers to detect and mitigate issues before they arise to 
+
+secure our critical business systems and data.   
+
+We are pleased to announce that in FY2019, we have not received any complaints or suffered any breaches 
+
+of our guests’ personal data. We strive to maintain this record in the upcoming year. 
+
+Local Communities 
+
+Community Investment and Development 
+
+SLC creates a positive economic and social impact in the communities and cities where we operate. We 
+
+adopt a multi-faceted approach towards corporate social responsibility by focusing on areas of 
+
+environmental and communal social impact. Our hotels are encouraged to support various community 
+
+driven programmes such as charity drives for the arts and the less privileged, as well as other charitable 
+
+causes.  
+
+Our commitment to community development features in all respects of our decision-making processes; 
+
+from our choice of products, range of services, to our associates, partners and vendors. We contribute to 
+
+building the local economy by supporting local producers and showcasing their local produce. 
+
+Our staff at our various hotels are encouraged to participate to good causes such as: 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+19 
+
+ 
+
+
+
+
+
+ 
+
+ SLC distributed metal straws to all SLC Singapore employees in Dec 2018 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ In line with global environmental initiatives, our Hotels have stopped purchasing plastics in 
+
+their beverage offerings and are transiting to use of paper straws.  
+
+ 
+
+ 
+
+Our Sydney hotels make a concentrated effort to source fresh local produce from local suppliers. Over 
+
+90% of the wine list are sourced from Australia, of which approximately 60% of them are sourced 
+
+directly from New South Wales.  
+
+ 
+
+ 
+
+All of our hotels also take part in local community charity drives and movements, including: donations 
+
+of over $20,000 to Comedy Night Fundraise for cancer treatment, hosting high teas and lucky draws at 
+
+the various hotels, volunteering at local community shelters and homes, participating in fundraising 
+
+events for children with cerebral palsy.  
+
+ 
+
+ 
+
+Guests are also encouraged to donate to hotel nominated charity causes by electing to add a nominal 
+
+donation to the charity to their hotel account either online or during check-in.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+20 
+
+ 
+
+
+
+GRI Content Index 
+
+GRI Standard 
+
+Disclosure 
+
+Reference 
+
+Description 
+
+Section of Report/ Reasons 
+
+for Omission 
+
+Page 
+
+Reference 
+
+GRI 102: General Disclosures 
+
+Organizational profile 
+
+102-1 
+
+Name of the organization 
+
+Board Statement 
+
+3 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+About SLC 
+
+5 
+
+102-3 
+
+Location of headquarters 
+
+About SLC 
+
+5 
+
+102-4 
+
+Location of operations 
+
+About SLC 
+
+5 
+
+102-5 
+
+Ownership and legal form 
+
+About SLC 
+
+5 
+
+102-6 
+
+Markets served 
+
+About SLC 
+
+5 
+
+102-7 
+
+Scale of the organization 
+
+About SLC 
+
+5 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+Employee Profiles 
+
+16 
+
+102-9 
+
+Supply chain 
+
+About SLC 
+
+5 
+
+102-10 
+
+Significant changes to the organization 
+
+and its supply chain 
+
+No significant changes during 
+
+the year 
+
+N.A. 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Policies 
+
+8-9 
+
+102-12 
+
+External initiatives 
+
+Not applicable 
+
+N.A. 
+
+102-13 
+
+Membership of associations 
+
+1. Australian Hotels Associations 
+
+2. Professional Conference 
+
+Organiser Association 
+
+N.A. 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Board Statement 
+
+3 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+About SLC 
+
+5 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Sustainability Governance 
+
+Structure 
+
+7 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+10 
+
+102-41 
+
+Collective bargaining agreements 
+
+All employees within the scope 
+
+of this report are not covered by 
+
+collective bargaining 
+
+agreements, as they are 
+
+professionals in nature. 
+
+N.A. 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholder Engagement 
+
+10 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholder Engagement 
+
+10 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+10 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+About this Report 
+
+4 
+
+
+ 
+
+21 
+
+ 
+
+
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+About this Report 
+
+4 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+11 
+
+102-48 
+
+Restatements of information 
+
+This is SLC’s inaugural 
+
+Sustainability Report 
+
+N.A. 
+
+102-49 
+
+Changes in reporting 
+
+This is SLC’s inaugural 
+
+Sustainability Report 
+
+N.A. 
+
+102-50 
+
+Reporting period 
+
+About this Report 
+
+4 
+
+102-51 
+
+Date of most recent report 
+
+This is SLC’s inaugural 
+
+Sustainability Report 
+
+N.A. 
+
+102-52 
+
+Reporting cycle 
+
+About this Report 
+
+4 
+
+102-53 
+
+Contact point for questions regarding 
+
+the report 
+
+About this Report 
+
+4 
+
+102-54 
+
+Claims of reporting in accordance with 
+
+the GRI Standards 
+
+About this Report 
+
+4 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+20 
+
+102-56 
+
+External assurance 
+
+About this Report 
+
+4 
+
+Category: Economic 
+
+GRI 201: Economic Performance 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Economic Performance 
+
+12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Economic Performance 
+
+12 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Economic Performance 
+
+12 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+Economic Performance 
+
+12 
+
+GRI 205: Anti-Corruption 
+
+ 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Anti-Corruption 
+
+13 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Anti-Corruption 
+
+13 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Anti-Corruption 
+
+13 
+
+205-3 
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+Anti-Corruption 
+
+13 
+
+Category: Environmental 
+
+GRI 302: Energy 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+302-1 
+
+Energy consumption within the 
+
+organization 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+GRI 303: Water 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+
+ 
+
+22 
+
+ 
+
+
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+303-1 
+
+Water withdrawal by source 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+303-3 
+
+Water recycled and reused 
+
+Energy Consumption and Water 
+
+Management 
+
+14 
+
+GRI 306: Effluents and Waste 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Waste Management 
+
+15 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Waste Management 
+
+15 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Waste Management 
+
+15 
+
+306-2 
+
+Waste by type and disposal method 
+
+Waste Management 
+
+15 
+
+Category: Social 
+
+GRI 401: Employment 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Employee Wellbeing and 
+
+Engagement 
+
+17 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Employee Wellbeing and 
+
+Engagement 
+
+17 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Employee Wellbeing and 
+
+Engagement 
+
+17 
+
+401-2 
+
+Benefits provided to full-time 
+
+employees that are not provided to 
+
+temporary or part-time employees 
+
+Employee Wellbeing and 
+
+Engagement 
+
+17 
+
+GRI 403: Occupational Health and Safety 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Occupational Health and Safety  
+
+17 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Occupational Health and Safety  
+
+17 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Occupational Health and Safety  
+
+17 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-
+
+related fatalities 
+
+Occupational Health and Safety 
+
+(Information for breakdown of region 
+
+– New Zealand unavailable at time 
+
+of reporting; we are looking to 
+
+improve data collection methods in 
+
+the coming years) 
+
+17 
+
+GRI 404: Training and Engagement 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Training and Career 
+
+Development 
+
+18 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Training and Career 
+
+Development 
+
+18 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Training and Career 
+
+Development 
+
+18 
+
+404-1 
+
+Average hours of training per year per 
+
+employee 
+
+Training and Career 
+
+Development (Information for 
+
+breakdown of hours by gender 
+
+unavailable as at time of reporting; 
+
+we are looking to improve data 
+
+collection methods in the coming 
+
+years) 
+
+18 
+
+
+ 
+
+23 
+
+ 
+
+
+
+GRI 418: Customer Privacy 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Data Security and Customer 
+
+Privacy 
+
+18 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Data Security and Customer 
+
+Privacy 
+
+18 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Data Security and Customer 
+
+Privacy 
+
+18 
+
+418-1  
+
+Substantiated complaints concerning 
+
+breaches of customer privacy and data 
+
+loss 
+
+Data Security and Customer 
+
+Privacy 
+
+18 
+
+Local Community Investment and Development 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Community Investment and 
+
+Development 
+
+18-19 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Community Investment and 
+
+Development 
+
+18-19 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Community Investment and 
+
+Development 
+
+18-19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

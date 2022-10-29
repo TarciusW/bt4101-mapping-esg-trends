@@ -1,0 +1,4582 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+
+
+Sustainability Report 2018 
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+
+
+ 
+
+
+Contents 
+
+Corporate Profile ..................................................................................................................................... 2 
+
+About This Report ................................................................................................................................... 3 
+
+Stakeholder Engagement ......................................................................................................................... 4 
+
+Materiality Assessment ........................................................................................................................... 5 
+
+Approach to Sustainability ....................................................................................................................... 6 
+
+1. Commitments to sustainability supported by strong governance ......................................................... 7 
+
+1. 
+
+Business Ethics and Anti-corruption ............................................................................................. 7 
+
+2. 
+
+Security of Information ................................................................................................................ 7 
+
+2. Ensuring Fair Employment Practices .................................................................................................... 8 
+
+1. 
+
+Profile of our Workforce .............................................................................................................. 8 
+
+2. 
+
+Employment Practices and Benefits ........................................................................................... 11 
+
+3. Providing a healthy and safe environment for all ............................................................................... 12 
+
+4. Managing the Use of Our Natural Resources ...................................................................................... 14 
+
+1. 
+
+Energy Consumption and GHG Emissions ................................................................................... 14 
+
+2. 
+
+Water Consumption Management ............................................................................................. 19 
+
+3. 
+
+Waste Management .................................................................................................................. 21 
+
+5. GRI Content Index.............................................................................................................................. 24 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+2 
+
+ 
+
+
+
+Corporate Profile 
+
+Incorporated on 13 June 1968 and listed the Singapore Stock Exchange since 1978, Hotel Grand Central Limited (“HGC” 
+
+or “the Group”) is an established hotel owner and operator with a regional presence. As of 31 December 2017, the 
+
+Group owns 14 wholly owned hotels and 6 wholly owned investment properties across Singapore, Australia, New 
+
+Zealand, China and Malaysia and 6 associated hotels in Malaysia.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Singapore 
+
+Australia &amp;  
+
+New Zealand 
+
+China 
+
+Malaysia 
+
+Wholly owned hotels 
+
+1. Hotel Grand Central 
+
+2. Hotel Chancellor@ 
+
+Orchard  
+
+ 
+
+Wholly owned hotels 
+
+1. James Cook Hotel Grand 
+
+Chancellor Wellington 
+
+2. Hotel Grand Chancellor, 
+
+Adelaide 
+
+3. Hotel Grand Chancellor, 
+
+Auckland City 
+
+4. Hotel Grand Chancellor, 
+
+Brisbane 
+
+5. Hotel Grand Chancellor, Hobart  
+
+6. Hotel Grand Chancellor, 
+
+Launceston 
+
+7. Hotel Grand Chancellor, 
+
+Melbourne 
+
+8. Hotel Grand Chancellor, Palm 
+
+Cove 
+
+9. Hotel Grand Chancellor, 
+
+Townsville 
+
+10. The Chancellor on Currie 
+
+ 
+
+Wholly owned hotels 
+
+1. Hotel Grand Central, 
+
+Sihui 
+
+ 
+
+Wholly owned hotels  
+
+1. Hotel Grand Crystal, Alor 
+
+Star 
+
+ 
+
+Associated hotels 
+
+1. Hotel Grand Continental, 
+
+Kuala Lumpur 
+
+2. Hotel Grand Continental, 
+
+Kuala Terengganu 
+
+3. Hotel Grand Continental, 
+
+Kuching 
+
+4. Hotel Grand Continental, 
+
+Kuantan 
+
+5. Hotel Grand Continental, 
+
+Langkawi 
+
+ 
+
+Wholly owned investment 
+
+properties 
+
+1. 300 Flinders Street, 
+
+Melbourne 
+
+2. Fonterra House, Hamilton 
+
+3. Grand Central Building, 
+
+Christchurch 
+
+4. JacksonStone House, 
+
+Wellington 
+
+5. PWC Centre, Christchurch 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+3 
+
+ 
+
+
+
+About This Report 
+
+This is HGC’s first sustainability report, which summarises the approach and performance of Environmental, Social and 
+
+Governance (ESG) topics identified as most important to the Group and its stakeholders. 
+
+The reporting scope covers the performance of six wholly owned hotels in Singapore, Australia and New Zealand for the 
+
+period from 1 January 2017 to 31 December 2017 (FY2017) and wherever possible, comparative performance data for 
+
+FY2016 has been included. We look forward to expanding the reporting scope in subsequent years as our reporting 
+
+practice matures.  
+
+The report has been prepared in accordance with the internationally accepted reporting framework Global Reporting 
+
+Initiative (GRI) Standards – Core Option.  
+
+ 
+
+Figure 1: List of Operations within SR2017 Reporting Scope 
+
+Singapore 
+
+ 
+
+Australia 
+
+ 
+
+New Zealand 
+
+ 
+
+• 
+
+Hotel Grand Central 
+
+• 
+
+Hotel Chancellor @ 
+
+Orchard 
+
+• 
+
+Hotel Grand Chancellor, Adelaide 
+
+• 
+
+James Cook Hotel Grand 
+
+Chancellor Wellington 
+
+(“JCHGC”) 
+
+• 
+
+Hotel Grand Chancellor, Brisbane 
+
+• 
+
+Hotel Grand Chancellor, Hobart 
+
+
+
+
+
+
+
+
+
+
+ 
+
+4 
+
+ 
+
+
+
+Stakeholder Engagement 
+
+Creating good relationships with our stakeholders is crucial to HGC’s long-term viability. It is necessary to continuously 
+
+engage with our stakeholders to ensure that we are able to better understand their needs and effectively improve our 
+
+practices to meet their expectations. 
+
+TABLE 1: HGC STAKEHOLDER ENGAGEMENT METHOD 
+
+Stakeholder 
+
+Groups 
+
+Key Interests of 
+
+Stakeholder Groups 
+
+Hotel Grand Central’s 
+
+Response 
+
+Methods of Engagement 
+
+Frequency of 
+
+Engagement 
+
+Hotel Guests 
+
+• 
+
+Guest satisfaction 
+
+• 
+
+Provision of a safe 
+
+and healthy 
+
+environment for all 
+
+• 
+
+Refurbishments and 
+
+upgrading of facilities 
+
+ 
+
+Feedback forms 
+
+Ongoing 
+
+Face-to-face meetings 
+
+Ongoing 
+
+Employees 
+
+• 
+
+Workplace health 
+
+and safety 
+
+• 
+
+Working 
+
+environment 
+
+• 
+
+Team morale 
+
+• 
+
+Fair employment 
+
+practices 
+
+• 
+
+Active employee 
+
+engagement 
+
+• 
+
+Timely review and 
+
+resolution of matters 
+
+raised by employees 
+
+Face-to-face 
+
+consultations and 
+
+feedback 
+
+Ongoing 
+
+Committee Meetings 
+
+Monthly 
+
+Shareholders 
+
+and the 
+
+Investment 
+
+Community 
+
+• 
+
+Financial 
+
+performance 
+
+• 
+
+Growth prospects 
+
+and business outlook 
+
+• 
+
+Sustainable value 
+
+• 
+
+Timely and consistent 
+
+disclosure of hotel 
+
+operations and 
+
+performance to assist 
+
+shareholders in 
+
+investment decisions 
+
+Annual General Meeting 
+
+(AGM) 
+
+Annually 
+
+ 
+
+Quarterly Report 
+
+Quarterly 
+
+Organised visits from 
+
+Directors 
+
+Thrice a year 
+
+Suppliers 
+
+• 
+
+Long-term and strong 
+
+business relationship 
+
+• 
+
+Feedback on quality 
+
+of services provided 
+
+• 
+
+Communicate and align 
+
+expectations between 
+
+HGC and suppliers 
+
+Meetings 
+
+Ongoing 
+
+Email and phone call 
+
+correspondence 
+
+Ongoing and as and 
+
+when required 
+
+upon end of 
+
+contract 
+
+Business 
+
+Partners 
+
+• 
+
+Consolidated effort 
+
+to improve the 
+
+hospitality sector 
+
+• 
+
+Networking and exchange 
+
+of information with 
+
+various business partners 
+
+at industry events 
+
+Attendance in meetings 
+
+hosted by economic 
+
+development agency 
+
+Quarterly (NZ) 
+
+Meetings 
+
+Ongoing 
+
+Email and phone call 
+
+correspondence 
+
+Ongoing 
+
+Regulators 
+
+• 
+
+Compliance with 
+
+relevant laws and 
+
+legislation across 
+
+countries of 
+
+operation 
+
+• 
+
+Qualified and experienced 
+
+maintenance team to 
+
+ensure regular checks and 
+
+maintenance work are 
+
+conducted 
+
+• 
+
+Stay abreast of changes in 
+
+any regulations 
+
+License application and 
+
+renewal (i.e. liquor) 
+
+Annual 
+
+Onsite inspection 
+
+As and when 
+
+required by 
+
+regulatory bodies 
+
+Local 
+
+Communities 
+
+• 
+
+Improve relations 
+
+and ties in the 
+
+communities HGC 
+
+operates in 
+
+• 
+
+Regular involvement in 
+
+local scene and 
+
+environment 
+
+Employee volunteerism 
+
+Annual  
+
+(Australia / NZ) 
+
+Support towards Earth 
+
+Hour 
+
+Annual 
+
+ 
+
+Monetary and in-kind 
+
+donation (food and 
+
+clothing) 
+
+Ongoing 
+
+
+
+
+ 
+
+5 
+
+ 
+
+
+
+Materiality Assessment 
+
+Through our regular assessments of stakeholder feedback and industry trends, the HGC management has gained an 
+
+understanding of the issues that matter most to our key stakeholders which include our people, guests, investors, 
+
+suppliers, industry players, regulators, local community and the environment. In 2017, we engaged an external 
+
+consultant to prepare the comprehensive list of potential matters relevant to our operation, later benchmarked against 
+
+best practices in the sector. The Senior Management assessed the impact of each matter with both internal and external 
+
+stakeholders and prioritised six material matters for reporting. An additional matter, Employment practice was also 
+
+chosen for reporting due to its significant impact on our operations. The material matters were subsequently endorsed 
+
+by the Board in February 2018. The material matters will be reviewed in subsequent years to ensure their continued 
+
+relevance to our business.  
+
+FIGURE 2: HGC MATERIALITY MATRIX AND MAPPING TO GRI STANDARDS DISCLOSURES 
+
+HGC Materiality Matrix 
+
+ 
+
+Material matters selected for reporting 
+
+[in no order of importance] 
+
+No 
+
+Material Matter 
+
+Category 
+
+GRI Standards Topics 
+
+Page 
+
+1 
+
+Energy Consumption and Greenhouse 
+
+Gas (“GHG”) Emissions 
+
+Environment 
+
+GRI 302 Energy [302-1] 
+
+14-19 
+
+2 
+
+Water Consumption Management 
+
+Environment 
+
+GRI 303 Water [303-1] 
+
+19-20 
+
+3 
+
+Waste Management 
+
+Environment 
+
+GRI 306 Effluents and Waste  
+
+[306-2] 
+
+21-23 
+
+4 
+
+Health and Safety 
+
+Social 
+
+GRI 403 Occupational Health and 
+
+Safety [403-2] 
+
+12-14 
+
+GRI 416 Customer Health Safety 
+
+[416-2] 
+
+12-14 
+
+5 
+
+Security of Information 
+
+Social 
+
+GRI 418 Customer Privacy [418-1] 
+
+7-8 
+
+6 
+
+Business Ethics and Anti-corruption 
+
+Governance 
+
+GRI 205 Anti-corruption  
+
+[205-3] 
+
+7 
+
+Additional matter selected for reporting 
+
+A1 
+
+Employment Practices 
+
+Social 
+
+GRI 401 Employment  
+
+[401-1, 401-2] 
+
+8-11 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+6 
+
+ 
+
+
+
+Approach to Sustainability  
+
+ 
+
+At Hotel Grand Central Limited, we continue to refine our management approach to adapt to new global challenges 
+
+which demand that economic players assume new responsibilities such as sharing the value they create, nurturing fair 
+
+and equitable stakeholder relations, integrating social responsibility and environmental considerations into their 
+
+business practices as well as the opportunities and constraints inherent to the ever-increasing digitization of the 
+
+economy.  
+
+We are committing to making sustainability an integral part of our business operating model. The approach taken is 
+
+differentiated according to each sustainability matter. The Group is responsible for setting fundamental, group-wide 
+
+policies in Corporate Governance and Human Resources. As all our hotels are locally operated, the General Manager of 
+
+each hotel is held accountable to set relevant local targets, manage sustainability practices and track performance of 
+
+initiatives related to data security, resource usage and health and safety. The aggregated sustainability performance at 
+
+Group level is overseen by Ms. Tan Hwa Lian (Executive Director) who reports to the Board quarterly.  
+
+FIGURE 3: MANAGEMENT APPROACH FOR DIFFERENT MATERIAL MATTERS 
+
+Material Matter  
+
+Management Approach  
+
+Business Ethics and Anti-
+
+Corruption 
+
+All hotels are required to comply with the Group’s Code of Conduct and Anti-
+
+Corruption policies. 
+
+Employment Practices 
+
+All hotels are required to comply with Group Workplace Diversity and 
+
+Harassment policy and Employee Handbook. Besides common benefits, each 
+
+hotel has specific employee benefits to adapt to local labour market conditions 
+
+and to comply with local labour law and regulations. 
+
+Safety of Information 
+
+Policy on Data Safety which needs to comply with local Personal Data Protection 
+
+Act is managed locally by hotels’ management. 
+
+Health and Safety 
+
+These matters are managed locally by hotels’ management. 
+
+Energy Consumption and 
+
+Greenhouse Gas (GHG) Emissions 
+
+Water Consumption Management 
+
+Waste Management 
+
+ 
+
+Board Statement 
+
+The Board considers sustainability matters as part of the Group’s strategic formulation. The Board together with the 
+
+management determined six material Environmental, Social and Governance (“ESG”) matters which have the most 
+
+impacts on our value chain and stakeholders and exercises oversight in the management and monitoring of the 
+
+material ESG factors.  
+
+ 
+
+ 
+
+
+
+
+ 
+
+7 
+
+ 
+
+
+
+1. Commitments to sustainability supported by strong governance 
+
+1. Business Ethics and Anti-corruption 
+
+ 
+
+The Group is committed to upholding the highest standards of corporate governance and bears zero tolerance towards 
+
+any acts of corruption and other possible improprieties which include fraud, bribery and breaches of internal policies. 
+
+Besides safeguarding our stakeholders’ interests, a good and effective governance protects our brand reputation, thus 
+
+ensuring the sustainability of our business’ economic performance.  
+
+In order to reinforce our stance, a Code of Conduct and related policies are included in the Employee Handbook which is 
+
+made available to all employees within the Group upon induction. The Handbook also highlights the Group’s key 
+
+principles of honesty, integrity, fairness and respect which are expected of employees throughout their employment.  
+
+Each employee has to acknowledge that he/she has read and agreed to the principles and rules set out in the Handbook.  
+
+The policies are reviewed annually by the management. Employees will be informed of any changes in a timely manner. 
+
+Internal and external audits are also carried out annually to ensure the effectiveness of policy implementation. With 
+
+stringent policies and control, our Group achieved zero substantiated cases of corruption and zero established incidents 
+
+pertaining to whistle-blowing. 
+
+Policies 
+
+Code of Conduct 
+
+• 
+
+Sets out the expectations of employees to perform duties in a responsible and professional manner, promote 
+
+and protect the reputation of our brand as well as acting appropriately when conflicts arise 
+
+Policy on Whistle Blowing 
+
+• 
+
+This group-wide policy provides a channel for employees and third-parties to report in confidence, without 
+
+fear of reprisals, concerns about possible improprieties in financial reporting or other matters 
+
+ 
+
+2. Security of Information 
+
+ 
+
+Maintaining confidentiality and safeguarding the privacy of our guests is paramount given the increasing threats of 
+
+cyber-attacks and the fast changing nature of technology.  Personal data is held and used at both the group and hotel 
+
+level. Each hotel establishes their local Standard Operating Procedures (SOP) with references to the relevant Personal 
+
+Data Protection Act (PDPA) and Privacy Acts of the operating countries. The SOP controls how the hotels collect, use, 
+
+disclose, store and give access to 'personal information' which include guest details, credit card information, employee’s 
+
+personal information and vendor price agreements. Hotels are also required to comply with any record keeping law and 
+
+credit card security standards of merchant bank. These SOPs are reviewed annually for effectiveness. 
+
+The hotels continuously emphasise the importance of data privacy and security of information while providing training 
+
+on best practices to all employees. People whose tasks involve the collection of personal data and information receive 
+
+additional training as appropriate.   
+
+TABLE 2: APPLICABLE PERSONAL DATA PROTECTION ACT BY COUNTRY 
+
+New Zealand 
+
+Australia 
+
+Singapore 
+
+Privacy Act 1993 
+
+Privacy Act 1988 
+
+PDPA 2012 
+
+ 
+
+
+
+
+ 
+
+8 
+
+ 
+
+
+
+To prevent the misuse of information, server control and access management has been outsourced to a third-party. 
+
+Depending on the level of confidentiality, information access is limited to designated persons-in-charge on a need-to-
+
+know basis. We engage Information Technology consultants to provide regular upgrade on servers, email exchange 
+
+systems and Windows Systems so that our system is up to date and able to detect or prevent new threats and minimise 
+
+cyber risks.  
+
+System Crash exercises will be initiated from 2019 to test the effectiveness of back up and information recovery 
+
+procedures. External audits on general IT environment control conducted by an independent IT Manager will be 
+
+implemented gradually and on intervals that are deemed relevant for the business. In 2017, there has been no 
+
+substantiated complaints concerning breaches of customer privacy and losses of customer data at all of our hotels.  
+
+2. Ensuring Fair Employment Practices 
+
+1. Profile of our Workforce 
+
+Our workforce remained relatively stable over the last two years, with a slight increase from 721 employees to 775 
+
+employees in FY2017, mainly due to the increase in the number of staff employed in our Singapore hotels. Our 
+
+workforce is gender balanced with 48% males to 52% females in FY2017.  
+
+FIGURE 4: BREAKDOWN OF EMPLOYEES BY GENDER 
+
+ 
+
+TABLE 3: BREAKDOWN OF EMPLOYEES BY EMPLOYMENT CONTRACT AND EMPLOYMENT TYPE 
+
+[VALUE
+
+]
+
+[VALUE
+
+]
+
+FY2016
+
+[VALUE
+
+]
+
+[VALUE
+
+]
+
+FY2017
+
+Male
+
+Female
+
+By Employment Contract 
+
+Region 
+
+FY2016 
+
+FY2017 
+
+Permanent 
+
+Temporary 
+
+Permanent 
+
+Temporary 
+
+Australia 
+
+437 
+
+0 
+
+440 
+
+0 
+
+New Zealand 
+
+163 
+
+0 
+
+170 
+
+0 
+
+Singapore 
+
+67 
+
+54 
+
+141 
+
+20 
+
+By Employment Type 
+
+Region 
+
+FY2016 
+
+FY2017 
+
+Full-time 
+
+Part-time 
+
+Full-time 
+
+Part-time 
+
+Australia 
+
+162 
+
+275 
+
+163 
+
+277 
+
+New Zealand 
+
+88 
+
+75 
+
+89 
+
+81 
+
+Singapore 
+
+67 
+
+54 
+
+141 
+
+20 
+
+52% 
+
+721 
+
+775 
+
+48% 
+
+51% 
+
+49% 
+
+
+
+
+ 
+
+9 
+
+ 
+
+
+
+393
+
+378
+
+FY2017
+
+Full-Time
+
+Part-Time
+
+49%
+
+665
+
+56
+
+FY2016
+
+8%
+
+92%
+
+745
+
+26
+
+FY2017
+
+Permanent
+
+Contract
+
+317
+
+404
+
+FY2016
+
+
+
+97% 
+
+
+
+3% 
+
+
+
+44% 
+
+
+
+56% 
+
+
+
+51% 
+
+ 
+
+We aim to provide stable employment for our people. In FY2017, over 97% of our employees have permanent contract 
+
+with us. Between FY2017 and FY2016, we saw an overall a 5% increase in the number of employees joining us on a full-
+
+time basis.  
+
+ 
+
+FIGURE 6: BREAKDOWN OF EMPLOYEES BY EMPLOYMENT CONTRACT AND EMPLOYMENT TYPE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In FY2017, the employee turnover in our hotels in Australia stood at 18.8% (turnover: 145, new hires: 148). The 
+
+Australian hospitality industry is characterised by high levels of staff turnover nationally. Our hotels perform better than 
+
+the industry’s standard turnover benchmarks nationally. 1 
+
+The turnover in JCHGC at 11.4% (turnover: 88, new hires: 95) is below New Zealand’s average turnover rate of 47%2. For 
+
+employees below 30 years of age, they make up the highest turnover rate at 20.5% as they mainly apply for part-time 
+
+ 
+
+1 The 2015 Deloitte Australian Tourism Labour Force Report commissioned by Australian Trade and Investment Commission 
+
+recorded the annual industry turnover rates at 66%.  
+
+2 Results from 2017 Tourism Industry Aotearoa (TIA) Hotel Salary Survey covering 86 hotels surveyed in 2017. 
+
+
+
+
+ 
+
+10 
+
+ 
+
+
+
+roles at HGC as many have no intention of staying in the industry or leave to further their studies. Employees between 
+
+30 to 50 years of age leave our organisation due to reasons such as being offered higher positions or change in the 
+
+industry. 
+
+For Singapore, the turnover rates were very low at 2.8% (turnover - 22, new hires – 62), reflecting the transition of 
+
+having a more stable permanent workforce in our Singapore hotels.  
+
+ 
+
+FIGURE 5: FY2017 NEW HIRE AND TURNOVER RATE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Note: Turnover is calculated as a percentage of staff on payroll as of 31 December 2017  
+
+132
+
+173
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+200
+
+Male
+
+Female
+
+Gender
+
+Number of Employees
+
+22.4%
+
+17.1%
+
+165
+
+102
+
+38
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+&lt;30
+
+30-50
+
+&gt;50
+
+Age Group (Years old)
+
+Number of Employees
+
+4.9%
+
+13.2%
+
+21.4%
+
+62
+
+148
+
+95
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+Singapore AustraliaNew Zealand
+
+Region
+
+Number of Employees
+
+8%
+
+12.3%
+
+19.2%
+
+99
+
+156
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+Male
+
+Female
+
+Gender
+
+Number of Employees
+
+12.8%
+
+20.2%
+
+158
+
+82
+
+15
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+180
+
+&lt;30
+
+30-50
+
+&gt;50
+
+Age Group (Years old)
+
+Number of Employees
+
+20.5%
+
+10.6%
+
+2%
+
+22
+
+145
+
+88
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+Singapore
+
+Australia New Zealand
+
+Region
+
+Number of Employees
+
+2.8%
+
+18.8%
+
+11.4%
+
+New Hires 
+
+Turnover 
+
+
+
+
+ 
+
+11 
+
+ 
+
+
+
+ 
+
+2. Employment Practices and Benefits 
+
+ 
+
+At HGC, we practice fair employment practices that promote a culture of respect and diversity. Every employee’s career 
+
+is important and we hope to grow and nurture each individual to reach their full potential with us. Employees are 
+
+encouraged to develop personal development plans and work with managers to achieve their goals. Performance 
+
+appraisals are held once at the end of the probationary period and scheduled annually thereafter. During these sessions, 
+
+managers will discuss general performance as well as cover strengths and areas for improvements. They are also 
+
+opportunities for employees to discuss development goals and job concerns. 
+
+Policies  
+
+Workplace Diversity and Harassment Policy (applicable to all hotels) 
+
+• 
+
+Includes strict guidelines on prevention of workplace harassment, discrimination and bullying  
+
+• 
+
+Covers procedures for complaints and feedback through formal and informal resolution processes 
+
+• 
+
+All employees are required to sign off and abide to all provisions set out in the policy.  
+
+Dedicated to upholding the principle of equal opportunity for all employees, we ensure that all employees have equal 
+
+access to the benefits of employment, training and promotion at HGC; regardless to race, colour, religion, age, gender, 
+
+disability, sexual preference or other matters unrelated to work performance. The comprehensive list of employment 
+
+benefits for full time employees can be found in the table below.  
+
+TABLE 4: BENEFITS OFFERED FOR FULL-TIME EMPLOYEES AT HGC 
+
+Types of Benefits offered for Full-time Employees 
+
+Countries 
+
+of 
+
+Operation 
+
+ 
+
+Healthcare 
+
+ 
+
+Parental Leave 
+
+ 
+
+Retirement Provision 
+
+ 
+
+Others 
+
+Australia 
+
+ 
+
+Insurance for 
+
+general managers 
+
+above and family  
+
+Ranges from eight to 
+
+twelve paid parental 
+
+leave proportionate 
+
+to years of service 
+
+(minimum of two 
+
+years) 
+
+Superannuation 
+
+benefit  
+
+Long service leave benefit 
+
+• 
+
+1.3 weeks per annum upon 
+
+ten years of employment 
+
+• 
+
+Paid out if employee resigns 
+
+after seven years of service 
+
+Two days of compassionate leave 
+
+on the death of an immediate 
+
+family member 
+
+New 
+
+Zealand 
+
+ 
+
+Selected senior 
+
+employees 
+
+entitled to 
+
+Southern Cross 
+
+Medical Insurance 
+
+18 weeks of parental 
+
+leave entitlement 
+
+applicable to all 
+
+employees employed 
+
+under New Zealand 
+
+NIL 
+
+Management and senior staff 
+
+employees are entitled to Food &amp; 
+
+Beverage Management Account 
+
+reflecting 60% discount. 
+
+Singapore 
+
+ 
+
+Hospitalisation 
+
+and surgical 
+
+insurance for all 
+
+local and foreign 
+
+employees  
+
+16 weeks of 
+
+maternity leave and 
+
+1 week of paternity 
+
+leave in accordance 
+
+with the Child 
+
+Development Co-
+
+Savings Act 
+
+7.5% -17% of wage 
+
+monthly contribution 
+
+to Central Provident 
+
+Fund based on age 
+
+group  
+
+• 
+
+Seven working days of 
+
+compassionate leave on the 
+
+death of an immediate family 
+
+member  
+
+• 
+
+Three working days in the 
+
+event of a critical illness 
+
+• 
+
+Six days of childcare leave  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+12 
+
+ 
+
+
+
+3. Providing a healthy and safe environment for all 
+
+Workplace Health and Safety (WHS) is a focal topic at both corporate and hotel level due to the potential impacts on 
+
+employees and guests as well as significant legal and financial ramifications as a result of poor management.  HGC is 
+
+compliant with all relevant laws and regulations and we are glad to disclose that there were zero complaints regarding 
+
+health and safety incidents received from guests in FY2017 – a record we aim to upkeep in future years.  
+
+Australia and New Zealand 
+
+At hotels in Australia and New Zealand, health and safety is managed by the local Health and Safety Committee which 
+
+comprises senior management, employee representatives from each operational department, Workplace Health &amp; 
+
+Safety Officer and Human Resources Personnel. Besides development of policies and practices, the Committee is also 
+
+responsible for administering the incident reporting channel where employees can raise concerns or report potential 
+
+health and safety risks at work. Every month, the Committee meets to identify, eliminate and mitigate potential hazards. 
+
+Injury incident reports, near miss reports and other safety concerns raised will undergo review at these meetings. These 
+
+practices help the Committee further identify any loopholes in safety measures and prevent any reoccurrences. 
+
+Routine audits are conducted annually by both committee members and external parties on existing safety and hotel 
+
+emergency response procedures. Improvements which were put in place in 2017 included the purchase of new 
+
+equipment and provision of additional training on emergency responses. At JCHGC, we invested over NZ$30,000 in new 
+
+chillers, freezers, kitchen equipment (including storage pallets and food processors) and washers. 
+
+ 
+
+Policies  
+
+Occupational Health and Safety Policy  
+
+• 
+
+Defines health and safety responsibilities for managers, supervisors and employees  
+
+• 
+
+Aims to minimise risk of injury and diseases to all through adopting a planned and systematic approach to 
+
+manage health and safety 
+
+First Aid Policy and Procedure  
+
+• 
+
+Outlines procedures for first aid management in case of an injury 
+
+Drugs and Alcohol in the Workplace Policy  
+
+• 
+
+Applies to whole premises and all employees, contractors, consultants and visitors to take reasonable care to 
+
+protect their own safety and that of others whilst on the premises  
+
+Practices  
+
+• 
+
+Undertake health and safety risk assessments associated with various tasks 
+
+• 
+
+Regular engagement with employees on safety practices  
+
+• 
+
+Mandatory induction training (first aid, emergency response/evacuation, chemical handling, safe disposal of 
+
+rubbish/sharps) and adhoc training (sudden outbreak of disease and terrorist incident) 
+
+• 
+
+Department training on skillset specific to scope of work  including manual handling and safe work method 
+
+statements (SWMS) 
+
+• 
+
+Enforce usage of Personal Protective Equipment (PPE)  
+
+• 
+
+Installation of Lone Worker Device (duress alarms) (Australia) 
+
+• 
+
+Ensure compliance to certification requirements such as first aid, chemical handling and pool management 
+
+• 
+
+Rehabilitation support and arrangement of suitable duties to employees who have sustained injuries at work 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+13 
+
+ 
+
+
+
+Singapore 
+
+In Singapore, our workplace health and safety committees work closely with key staff members such as our chefs and 
+
+housekeeping staff to maintain an inventory of work activities and processes carried out in our hotels. Risk assessment is 
+
+conducted for each of those activities and appropriate controls are developed for identified safety hazards. These 
+
+assessments are reviewed every three years to ensure that our activities are compliant with the Workplace Safety and 
+
+Health (WSH) Act stipulated by the Ministry of Manpower.  
+
+We maintain an internal fire safety committee comprising of trained fire wardens and fire fighters and a Company 
+
+Emergency Response Team (CERT) at both hotels. Employees, contractors, guests and visitors have access to 
+
+whistleblowing channels administered by the Executive Director to raise any concerns on health and safety.   
+
+Practices 
+
+• 
+
+Routine checks on health and safety facilities conducted twice a month  
+
+• 
+
+Activity-specific risk assessments are carried out once every three years to ensure that all potential hazards 
+
+are recorded and managed 
+
+• 
+
+Mandatory training for internal fire safety committee on first aid and emergency response 
+
+• 
+
+Fire drills conducted twice a year for hotel guests and employees  
+
+• 
+
+Maintain appropriate fire certificates  
+
+ 
+
+Performance 
+
+We are pleased to announce that there were zero fatalities and occupational diseases across all three regions. Generally, 
+
+hotels in Australia and New Zealand recorded a higher injury and lost day rate as compared to Singapore hotels as these 
+
+hotels provide for more large-scale events and banquets. As these services are generally more fast-paced and involve a 
+
+very dynamic set of activities, risk assessment and mitigation is a challenging task. Staff are more exposed to health and 
+
+safety risks such as cuts, burns, sprains, slips, trips and falls.  Our local WS&amp;H committee consider this a priority and aim 
+
+to investigate and institute control to eliminate and mitigate as many workplace hazards as possible via monthly 
+
+meetings. 
+
+While the management of health and safety at large events remain challenging, our hotels managed to bring down the 
+
+number of injuries slightly in FY2017.  
+
+In Australia specifically one of our office staff from Hotel Grand Chancellor Brisbane suffered a major back injury and 
+
+required longer recovery time. It contributed to higher lost day rate and absentee rate in FY2017 for operations in the 
+
+country.  
+
+In New Zealand, while the safety statistics showed the improvement over the years, we actively work towards improving 
+
+our performance. Based on our analysis, major risk areas in New Zealand’s hotels are in kitchen (burns, cuts, 
+
+bruising/contusion) and in housekeeping activities (sprains, strains, cuts). To mitigate these risks, we provide safety 
+
+manuals for our employees working in kitchen and ensure that the procedures are followed. All housekeepers are 
+
+trained to exercise extra caution while washing glasses and to use the correct chemicals to prevent slips and falls. First-
+
+Aid kits are strategically placed to allow for immediate treatment of minor injuries.  
+
+In Singapore, we are pleased to report zero cases of workplace injuries in FY2016 and FY2017 – a record which we aim to 
+
+upkeep in the years to come.  
+
+ 
+
+ 
+
+
+
+
+ 
+
+14 
+
+ 
+
+
+
+FIGURE 6: SAFETY PERFORMANCE STATISTICS FOR OUR HOTELS IN AUSTRALIA, NEW ZEALAND AND SINGAPORE  
+
+ 
+
+FY2016 
+
+FY2017 
+
+Male 
+
+Female 
+
+Total 
+
+Male 
+
+Female 
+
+Total 
+
+Injury Frequency Rate3 
+
+Australia 
+
+14 
+
+14 
+
+14 
+
+14 
+
+12 
+
+13 
+
+New Zealand 
+
+264 
+
+106 
+
+182 
+
+185 
+
+123 
+
+154 
+
+Singapore  
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Lost Day Rate4 
+
+Australia 
+
+80 
+
+40 
+
+58 
+
+88 
+
+202 
+
+150 
+
+New Zealand 
+
+280 
+
+288 
+
+284 
+
+260 
+
+203 
+
+231 
+
+Singapore 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Absentee Rate5 
+
+Australia 
+
+0.63% 
+
+0.70% 
+
+0.66% 
+
+0.82% 
+
+0.81% 
+
+0.82% 
+
+New Zealand 
+
+1.47% 
+
+1.58% 
+
+1.53% 
+
+1.59% 
+
+1.81% 
+
+1.70% 
+
+Singapore6 
+
+Not available7 
+
+0.79% 
+
+ 
+
+4. Managing the Use of Our Natural Resources 
+
+ 
+
+HGC takes a proactive approach towards minimising the impact of our business on the environment and maximising 
+
+efficient use of resources by integrating environmental-friendly practices in our day to day operations. Our environment 
+
+policy highlights our commitment to providing great customer service whilst still meeting our environmental and social 
+
+responsibilities through various initiatives such as waste reduction, energy efficiency improvement and the lowering 
+
+GHG emissions. 
+
+ 
+
+1. Energy Consumption and GHG Emissions 
+
+ 
+
+Practices 
+
+Australia  
+
+(Adelaide and 
+
+Brisbane only) 
+
+Energy Efficiency initiatives  
+
+• 
+
+Replacement and upgrading of old equipment to energy-efficient ones (i.e. light 
+
+emitting diode (“LED”) lights, chiller systems managed by Building Management System 
+
+(“BMS”)) 
+
+• 
+
+Preference for higher efficiency rating electrical equipment 
+
+ 
+
+3 Based on International Labor Organization (ILO) Standard, Injury Frequency Rate is calculated as the total number of fatal and non-
+
+fatal workplace injuries over 1,000,000 hours multiplied by the total number of manhours worked in the reference group during the 
+
+reporting period 
+
+4 Based on ILO Standard, Lost Day Rate is calculated as the total number of man days lost to workplace accidents over 1,000,000 
+
+hours multiplied by total number of manhours worked in the reference group during the reporting period. 
+
+5 Absentee Rate is the total absentee days lost, relative to the total days scheduled to be worked by the employees in the reporting 
+
+period, expressed as a percentage 
+
+6 Gender breakdown is unavailable for Singapore hotels.  
+
+7 Absentee rate is only available for Hotel Grand Central in FY2016; hence, the data for Singapore is not available for this year. We 
+
+will collect this information moving forward.  
+
+
+
+
+ 
+
+15 
+
+ 
+
+
+
+Practices 
+
+• 
+
+Regular maintenance of plant and equipment to ensure operations are kept at optimum 
+
+efficiencies 
+
+ 
+
+Power Reduction initiatives  
+
+• 
+
+Use of variable-frequency drives pumps to reduce energy required to circulate water  
+
+• 
+
+Replacement of old electric water boilers with on-demand hot water system for hot 
+
+water supply 
+
+• 
+
+Installation of motion-activated sensors at back of house areas 
+
+• 
+
+Use of motion-detecting thermostats and timers to operate HVAC systems 
+
+• 
+
+Benchmark electricity consumption per room against similar sized hotels and other HGC 
+
+hotels 
+
+• 
+
+Mandatory induction training for new employees on adopting energy saving habits 
+
+during the course of work 
+
+ 
+
+ 
+
+New Zealand  
+
+• 
+
+Encourage guests to opt for ‘Green Room Service’ which leads to an overall 
+
+conservation of resources in terms of less frequent room refresh services and 
+
+replacement of towels 
+
+• 
+
+Replace and upgrade out-dated equipment to energy-efficient equipment (such as 
+
+washing machines, dryer, air-conditioning compressor, chillers and freezers) 
+
+ 
+
+ 
+
+Singapore  
+
+• 
+
+As part of our commitment towards sustainable infrastructure, all our buildings have 
+
+received green mark certification in recognition for their environmentally friendly 
+
+design and construction. The building design allows for the usage of natural ventilation 
+
+wherever possible.  
+
+• 
+
+Increasing air-conditioning temperatures when guests are not around 
+
+• 
+
+Emphasising energy-saving habits such as switching off computers when not in use and 
+
+limiting the use of other electronic appliances 
+
+• 
+
+Placing hot and cold drinking water dispensers that consume less electricity as 
+
+compared to the use of a traditional kettle. 
+
+ 
+
+ 
+
+Case Study: Keeping our hotels in check ✔ 
+
+ 
+
+In New Zealand, renewable energy sources such as hydropower, geothermal and wind energy 
+
+account for up to 82%8 of electricity generation in 2017. This has led us to become one of the 
+
+lowest carbon dioxide emitting countries for electricity generation.  
+
+ 
+
+James Cook Hotel Grand Chancellor (JCHGC) strives to be one of the most environmentally 
+
+friendly hotels in New Zealand. We acknowledge the environmental impacts of tourism and 
+
+have thus dedicated a ‘Green Team’ and Executive Management working closely to improve existing practices. We 
+
+monitor all aspects of our resource consumption so as to calculate and monitor greenhouse gas emissions 
+
+associated with our operations.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 Percentage of renewable share in electricity generation in 2017 was extracted from electricity statistics published by Ministry of Business, 
+
+Innovation &amp; Employment http://www.mbie.govt.nz/info-services/sectors-industries/energy/energy-data-modelling/statistics/electricity 
+
+
+
+
+
+
+ 
+
+16 
+
+ 
+
+
+
+In 2017, JCHGC was EarthCheck Gold Certified and endorsed Enviro Gold by Qualmark. For the past decade, we 
+
+have adopted EarthCheck Benchmark to analyse our energy performance and have taken 
+
+their recommendations for further improvements.  
+
+ 
+
+We also benchmark our operations against EarthCheck’s baseline and continuously strive to 
+
+maintain a year-on-year declining trend. In FY2017, we recorded a decrease in 99,206 MJ 
+
+which is equivalent to energy consumed by four typical four-person households9 per year.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Focus Area 
+
+EarthCheck Baseline Target 
+
+Performance for FY2017 
+
+Target for FY2018 
+
+Energy Consumption 
+
+220 MJ / Guest night* 
+
+165.35 MJ / Guest night 
+
+For Energy Consumption, 
+
+aim to achieve Best Practice 
+
+of 153.5 MJ / Guest night 
+
+over next 12 months 
+
+GHG Emissions  
+
+10 kg CO2-e / Guest night 
+
+7.99 kg CO2-e / Guest 
+
+night 
+
+To achieve Best Practice of 
+
+6.85 kg CO2-e / Guest night 
+
+over next 12 months  
+
+* Guest night is defined as the combination of Guest In-House (overnighters) and one-third of Casual Function 
+
+Covers. 
+
+ 
+
+Case Study: Sustainable building design: Green Mark certified hotels ✔ 
+
+ 
+
+The Singapore BCA Green Mark Scheme was introduced in 2005 to promote more 
+
+environmentally-friendly buildings in the construction industry in Singapore. We are 
+
+proud to share that both our hotel buildings in Singapore have been certified under 
+
+this scheme. 
+
+One of the requirements for such a certification is the thermal and energy efficiency of 
+
+our hotels. Another key indicator is the low ETTV10 of our buildings. This indicates that 
+
+our hotels require less energy to be cooled as it does not gain as much heat from 
+
+factors external to the building. Having good thermal properties is especially important 
+
+to us in the context of a tropical country like Singapore where cooling our buildings 
+
+form the bulk of energy usage. Additionally, we are working towards introducing a 
+
+sensor-based lighting system in corridors and toilets in order to reduce the overall energy consumption of our hotels. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 Energy Consumption of a typical four-person household per year is provided in the EarthCheck data base. 
+
+10 Envelope Thermal Transfer Value (ETTV) is an index developed by BCA to indicate the heat gain of a building from external environmental 
+
+factors. More information about ETTV can be obtained from https://www.bca.gov.sg/PerformanceBased/others/ETTV.pdf  
+
+
+
+
+
+
+
+
+ 
+
+17 
+
+ 
+
+
+
+6.5
+
+7.0
+
+5.5
+
+6.1
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+FY2016
+
+FY2017
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+Energy Intensity (GJ/Guest Room)
+
+Direct Energy Consumption (GJ)
+
+Singapore
+
+New Zealand
+
+Energy Intensity (SG)
+
+Energy Intensity (NZ)
+
+0.36
+
+0.39
+
+0.32
+
+0.36
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+0.35
+
+0.40
+
+0.45
+
+0.50
+
+FY2016
+
+FY2017
+
+0
+
+100
+
+200
+
+300
+
+400
+
+Direct (Scope 1) GHG Emissions Intensity
+
+(tonnes CO2 / guest room)
+
+Direct (Scope 1) GHG Emissions
+
+(tonnes CO2)
+
+Singapore
+
+New Zealand
+
+Emission Intensity (SG)
+
+Emission Intensity (NZ)
+
+Fuel Consumption 
+
+Fuel consumption include natural gas used in the kitchens of the two Singapore hotels. In New Zealand, natural gas was 
+
+also used in the kitchen and in motor gasoline vehicles owned by JCHGC. No fuel was consumed at the three hotels in 
+
+Australia. 
+
+In FY2017, we recorded a total of 6,890 GJ of direct energy consumed in Singapore and New Zealand, translating to 392 
+
+tonnes of carbon dioxide (“CO2”)11 emission. A corresponding increase in both energy intensity and Scope 1 GHG 
+
+Emissions Intensity (per guest room) is reflected in Figure 7 below. This increase was mainly attributed to the increase in 
+
+food covers12 resulting in a larger use of fuel in our kitchens. 
+
+ 
+
+FIGURE 7: DIRECT ENERGY CONSUMPTION &amp; INTENSITY (LEFT) AND DIRECT (SCOPE 1) GHG EMISSIONS &amp; INTENSITY (RIGHT) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Electricity Consumption  
+
+Albeit the increase in hotel occupancy, our electricity consumption has remained constant13. We see this as an 
+
+affirmation of the energy saving practices implemented across all six hotels. A total of 15,505 MWh of electrical energy 
+
+ 
+
+11 Emissions disclosed here are Scope 1 GHG emissions which come from sources that are owned or controlled by Hotel Grand Central. This relates 
+
+to diesel oil, natural gas and motor gasoline and is expressed in tonnes of CO2. Emission factors used in calculation were adopted from IPCC 
+
+Emission Factor Database 2006 
+
+12 Food cover refers to a diner who eats or a meal that is served 
+
+13 Emissions disclosed here are Scope 2 GHG emissions which are a result from generation of purchased electricity consumed by the organisation.  
+
+In Singapore, grid emission factor is obtained from “2017 Singapore Energy Statistics”, published by the Energy Market Authority of Singapore. In 
+
+Australia, grid emission factors of South Australia, Tasmania and Queensland are used, the territories where the Australian hotels are located in. 
+
+Data is obtained from the “Australian National Greenhouse Accounts Factors”, published by the Department of the Environment and Energy of 
+
+Australia in 2016.  In New Zealand, grid emission factor is obtained from the “Guidance for Voluntary Corporate Greenhouse Gas Reporting – 
+
+2016”, published by the Ministry for the Environment, New Zealand  
+
+
+
+6,360 
+
+
+
+6,890 
+
+
+
+77% 
+
+
+
+23% 
+
+
+
+24% 
+
+
+
+76% 
+
+
+
+361 
+
+
+
+392 
+
+
+
+76% 
+
+
+
+24% 
+
+
+
+25% 
+
+
+
+75% 
+
+
+
+
+ 
+
+18 
+
+ 
+
+
+
+2.2
+
+2.08
+
+5.36
+
+5.48
+
+1.18
+
+1.18
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+FY2016
+
+FY2017
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+Indirect (Scope 2) GHG Emissions Intensity
+
+(tonnes CO2 / guest room)
+
+Indirect (Scope 2) GHG Emissions
+
+(tonnes CO2)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Emission Intensity (SG)
+
+Emission Intensity (AUS)
+
+Emission Intensity (NZ)
+
+was consumed in FY2017, translating to 5,616 tonnes of carbon dioxide (“CO2”) emission. Moving forward, we 
+
+endeavour to further emphasise on the importance of saving energy by spreading awareness to our guests.  
+
+ 
+
+FIGURE 8: ELECTRICAL ENERGY CONSUMPTION &amp; INTENSITY (TOP) AND INDIRECT (SCOPE 2) GHG EMISSIONS &amp; INTENSITY (BOTTOM) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5.2
+
+4.9
+
+13.7
+
+13.7
+
+9.9
+
+9.9
+
+0.0
+
+2.0
+
+4.0
+
+6.0
+
+8.0
+
+10.0
+
+12.0
+
+14.0
+
+16.0
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+14,000
+
+16,000
+
+18,000
+
+FY2016
+
+FY2017
+
+Electrical Energy Intensity
+
+(MWh/Guest Room)
+
+Electrical Energy Consumption (MWh)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Intensity (SG)
+
+Intensity (AUS)
+
+Intensity (NZ)
+
+
+
+15,858 
+
+
+
+15,705 
+
+
+
+24% 
+
+
+
+59% 
+
+
+
+60% 
+
+
+
+23% 
+
+
+
+17% 
+
+
+
+17% 
+
+
+
+5,620 
+
+
+
+5,616 
+
+
+
+29% 
+
+
+
+65% 
+
+
+
+66% 
+
+
+
+28% 
+
+
+
+6% 
+
+
+
+6% 
+
+
+
+
+ 
+
+19 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+2. Water Consumption Management 
+
+ 
+
+Practices 
+
+Australia  
+
+• 
+
+Installation of equipment with water saving features  
+
+o Low flow showerheads 
+
+o Dual flush and motion sensors in common toilets 
+
+o Water flow restrictors and aerators to reduce flow rates  
+
+o Use of water-efficient dishwashing machines 
+
+• 
+
+Increase awareness amongst guests  
+
+o Green Cleaning Policy where guests can choose not to have their rooms serviced 
+
+on a daily basis  
+
+o Encourage guests to hang towels dry instead of replacing daily 
+
+• 
+
+Weekly meter readings to monitor water consumption and detect leaks or irregularities  
+
+• 
+
+Induction Program where new employees familiarise themselves with the Environmental 
+
+Policy 
+
+ 
+
+ 
+
+New Zealand  
+
+• 
+
+On-the-job training provided for Kitchen and Housekeeping staff on minimising water 
+
+usage  
+
+ 
+
+ 
+
+Singapore  
+
+• 
+
+Monthly review of utility bills and inspections on premises 
+
+• 
+
+All bathroom fittings are at least two-tick rated 
+
+ 
+
+Case Study: Sustainable building design: Green Mark certified hotels ✔ 
+
+ 
+
+Another criteria for the Green Mark certification lies in the water efficiency of the buildings. To that end, we have 
+
+installed WELS14-certified fittings and cisterns to ensure optimal water use efficiency in our buildings. Additionally we 
+
+have internal monitoring systems to detect and prevent leaks in our buildings. Finally, we only use non-potable water 
+
+for the purpose of landscaping in our hotels. 
+
+ 
+
+ Images showing water efficiency of various bathroom fittings 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Basin Taps 
+
+Low Capacity Flushing Cisterns 
+
+ 
+
+ 
+
+14 The Water Efficiency Labelling Scheme (WELS) is a mandatory schemes introduced by the Public Utilities Board (PUB) to inform 
+
+consumers to promote water the use of water efficient system. More information on WELS can be obtained from 
+
+https://www.pub.gov.sg/Documents/WELS_Brochure_English.pdf 
+
+
+
+
+ 
+
+20 
+
+ 
+
+
+
+Across three countries, water is withdrawn from municipal water sources. Water is used in our day-to-day hotel 
+
+operations which includes cooking, cleaning, maintenance as well as operations of equipment. In FY2017, water 
+
+consumption increased by 11.4% to 154,275.8 m3. This is mainly attributed to higher occupancy rates15 (Australia: 1%, 
+
+New Zealand: 3% and Singapore: 13% increase from FY2016) and increase in food and beverage services across our 
+
+hotels. 
+
+ 
+
+FIGURE 9: WATER CONSUMPTION BY OPERATING COUNTRIES 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 Average values are shown for hotels in Australia and Singapore. 
+
+0
+
+30
+
+60
+
+90
+
+120
+
+150
+
+180
+
+FY2016
+
+FY2017
+
+Volume of Water Comsumption ('000 m3)
+
+Singapore
+
+Australia
+
+New Zealand
+
+
+
+138 
+
+
+
+154 
+
+
+
+23% 
+
+
+
+58% 
+
+
+
+19% 
+
+
+
+22% 
+
+
+
+53% 
+
+
+
+25% 
+
+
+
+
+ 
+
+21 
+
+ 
+
+
+
+3. Waste Management 
+
+ 
+
+Operating in the hospitality sector, waste generation has always been a major concern. All of the waste disposed at our 
+
+hotels are categorised as non-hazardous waste which include general waste, cardboard, paper, plastic, glass and grease 
+
+traps. We engage third-party contractors to assist in waste collection and disposal across all our hotels.  
+
+Practices 
+
+Australia  
+
+• 
+
+Routine checks on waste bins for proper waste segregation to limit costly collection of 
+
+general waste bins by contractors to three times a week 
+
+• 
+
+Proper disposal of organic waste by third-party contractors 
+
+• 
+
+On-site conversion of food waste to fertiliser through Pulpmaster food waste recycling 
+
+system 
+
+ 
+
+ 
+
+New Zealand  
+
+• 
+
+Regular inspections to ensure waste management practices are implemented and 
+
+executed 
+
+ 
+
+ 
+
+Singapore  
+
+• 
+
+Where possible, paper waste generated from day to day activities is recycled by an 
+
+external contractor 
+
+• 
+
+Waste generated from coffee is donated to a local organic farm for the purpose of 
+
+reuse as compost 
+
+• 
+
+Water and soap dispenser systems installed to reduce plastic waste resulting from 
+
+customer’s amenities 
+
+ 
+
+During FY2017, we experienced an increase in waste generated by 3.2% attributed to the higher occupancy rates from 
+
+FY2016. While there has been an increase in the quantity of waste recycled and composted (12 tonnes and 9.8 tonnes 
+
+respectively), we continue to strive towards lowering the amount of waste diverted to landfills (in Australia and New 
+
+Zealand) and to incineration plants (Singapore). 
+
+FIGURE 10: TOTAL WASTE GENERATED CATEGORISED BY DISPOSAL METHODS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+FY2016
+
+FY2017
+
+Total Waste (Tonnes)
+
+Recycling
+
+Composting
+
+Landfill
+
+Incineration
+
+
+
+994.5 
+
+
+
+1027.3 
+
+
+
+8% 
+
+
+
+22% 
+
+
+
+22% 
+
+
+
+9% 
+
+
+
+25% 
+
+
+
+42% 
+
+226 
+
+88.3 
+
+451 
+
+214 
+
+78.5 
+
+420 
+
+262 
+
+44% 
+
+282 
+
+28% 
+
+
+
+
+ 
+
+22 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Case Study: Drinking water and Soap dispensers systems in guest rooms in Singapore  
+
+ 
+
+One of the key sources of waste in the hospitality sector comes from the provision of guest amenities such 
+
+as drinking water and toiletries. Traditionally, hotels provide these amenities in the form of disposable 
+
+single-use plastics. In Singapore, our hotels have managed to reduce this key waste stream through the 
+
+introduction of drinking water and soap dispensers systems across guest rooms. As a result of this practice, 
+
+we have manage to reduce the amount of plastic wasted by 599,910 bottles in FY2016 and 709,715 bottles 
+
+in FY201716. We will continue to look for ways to reduce waste produced from hotels in the future. 
+
+ 
+
+Images of our filtered water and soap dispensers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 This number was derived by assuming savings of two bottles of drinking water per room from bottled drinking water and three smaller bottles of 
+
+shampoo, conditioner and shower gel, multiplied by the number of bookings in a year. 
+
+
+
+
+ 
+
+23 
+
+ 
+
+
+
+
+
+ 
+
+We have received many positive reviews since the implementation of our water 
+
+dispensers. Here are what some of our guests have to say about this! 
+
+“The location is great, just a few steps away from Orchard Road. The best part is the hotel’s green initiative 
+
+where a filtered-water machine is installed in your room so you have access to clean cool/warm/hot water 
+
+anytime, saving you dollars in bottled-water purchases and also reducing your plastic bottle usage. The staff is 
+
+also very friendly and helpful.  
+
+– Traveller from Philippines (September 2018) 
+
+About 15 mins walking distance to orchard road. What I liked was the water dispenser in the room! Consumption 
+
+of water is huge especially when travelling with a young toddler.  
+
+– Traveler from Indonesia (September 2018) 
+
+Good basic accommodation in a central location, just opposite Somerset MRT station and within walking distance 
+
+to shopping malls along Orchard Road. Although the hotel and rooms have very basic facilities, it has one unique 
+
+facility that many hotels don't offer - free, unlimited supply of drinking water through a filtered machine in the 
+
+rooms - a very good idea to minimise cost and an environmentally friendly feature, reducing use of plastic 
+
+bottles. – Traveller from Malaysia (January 2018)  
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+24 
+
+ 
+
+
+
+5. GRI Content Index 
+
+GRI Standard 
+
+Disclosure 
+
+Reference 
+
+Description 
+
+Section of Report or Reason for Omission 
+
+Page Reference 
+
+GRI 101: Foundation 2016 
+
+[There are no disclosures in this section] 
+
+GRI 102: General Disclosures 2016 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation 
+
+About the Report 
+
+3 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+About the Report 
+
+3 
+
+102-3 
+
+Location of headquarters 
+
+About the Report 
+
+3 
+
+102-4 
+
+Location of operations 
+
+About the Report 
+
+3 
+
+102-5 
+
+Ownership and legal form 
+
+About the Report 
+
+3 
+
+102-6 
+
+Markets served 
+
+About the Report 
+
+3 
+
+102-7 
+
+Scale of the organisation 
+
+About the Report 
+
+3 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+Profile of our Workforce 
+
+8-9 
+
+102-9 
+
+Supply chain 
+
+We aim to procure locally where possible. 
+
+We procure from a list of approved suppliers and contractors 
+
+which range from providing electricity and gas supplies, 
+
+housekeeping (linen, bedding, towels, amenities), cleaning 
+
+supplies, lift maintenance works, waste management and food 
+
+supplies (including dry goods, frozen meals and vegetables). We 
+
+also engage with service providers of online booking platforms, 
+
+marketing and use of audio visual equipment for events.  
+
+102-10 
+
+Significant changes to the organisation 
+
+and its supply chain 
+
+In FY2017, there were no significant changes in our operations 
+
+and within the supply chain. 
+
+102-11 
+
+Precautionary Principle or Approach 
+
+Annual Report  
+
+17 
+
+102-12 
+
+External Initiatives 
+
+HGC James Cook participates in external initiatives including 
+
+economic initiative, New Zealand Marketing Campaign 
+
+Contribution governed by Wellington Regional Economic 
+
+Development and participates in annual benchmarking 
+
+submissions governed by EarthCheck Australia 
+
+102-13 
+
+Membership of Associations 
+
+Our hotels hold key memberships in regions and countries they 
+
+are located in.  
+
+Australia 
+
+Adelaide: Australian Hotels Association (South Australian 
+
+Branch) (AHA SA), South Australian Tourism Industry Council 
+
+(SATIC), Business SA – Chamber of Commerce and Industry 
+
+South Australia and Adelaide West End Association  
+
+ 
+
+Brisbane: Queensland Hotels Association 
+
+ 
+
+Hobart: Tourism Industry Council Tasmania (TICT), Tasmanian 
+
+Hospitality Association (THA), Business Event Tasmania (BET)  
+
+ 
+
+New Zealand  
+
+James Cook: Wellington Chamber of Commerce, Tourism Export 
+
+Council New Zealand (TECNZ), EarthCheck  
+
+ 
+
+Singapore 
+
+Singapore: Singapore Hotel Association (SHA) 
+
+
+
+
+ 
+
+25 
+
+ 
+
+
+
+GRI Standard 
+
+Disclosure 
+
+Reference 
+
+Description 
+
+Section of Report or Reason for Omission 
+
+Page Reference 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Board Statement 
+
+6 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+Business Ethics and Anti-corruption 
+
+7 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Approach to Sustainability 
+
+6 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement  
+
+4 
+
+102-41 
+
+Collective bargaining agreements 
+
+16% of our employees are covered under collective bargaining 
+
+agreements 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholder Engagement 
+
+4 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholder Engagement 
+
+4 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+4 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+Annual Report 
+
+39-99 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+Materiality Assessment  
+
+5 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+5 
+
+102-48 
+
+Restatements of information 
+
+Not applicable as this is HGC’s inaugural SR 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable as this is HGC’s inaugural SR 
+
+102-50 
+
+Reporting period 
+
+About the Report 
+
+3 
+
+102-51 
+
+Date of most recent report 
+
+This is HGC’s inaugural SR 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions regarding 
+
+the report 
+
+hltan@ghihotels.com 
+
+102-54 
+
+Claims of reporting in accordance with 
+
+the GRI Standards 
+
+About the Report 
+
+3 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+24-27 
+
+102-56 
+
+External Assurance 
+
+This report has not been externally assured. HGC may explore 
+
+external assurance as reporting matures 
+
+Material Matters 
+
+GRI Topic-specific 
+
+Disclosure 
+
+Description 
+
+Section of Report 
+
+Page Reference 
+
+Energy Consumption and GHG Emissions 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Energy Consumption and GHG Emissions 
+
+6 
+
+14-18 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Energy Consumption and GHG Emissions 
+
+14-18 
+
+GRI 302: Energy  
+
+302-1 
+
+Energy consumption within 
+
+the organization 
+
+Energy Consumption and GHG Emissions 
+
+17-18 
+
+302-3 
+
+Energy intensity 
+
+Energy Consumption and GHG Emissions 
+
+17-18 
+
+GRI 305: Emissions 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+Energy Consumption and GHG Emissions 
+
+17-18 
+
+305-4  
+
+GHG emissions intensity 
+
+Energy Consumption and GHG Emissions 
+
+17-18 
+
+
+
+
+ 
+
+26 
+
+ 
+
+
+
+Water Consumption Management 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Water Consumption Management 
+
+6 
+
+19-20 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Water Consumption Management 
+
+19-20 
+
+GRI 303: Water  
+
+303-1 
+
+Water withdrawal source 
+
+Water Consumption Management 
+
+19-20 
+
+Waste Management 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Waste Management 
+
+6 
+
+21-23 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Waste Management 
+
+21-23 
+
+GRI 306: Effluents 
+
+and Waste 
+
+306-2  
+
+Waste by type and disposal 
+
+method 
+
+Waste Management  
+
+21-22 
+
+Health and Safety 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+6 
+
+12-14 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+12-14 
+
+GRI 403: 
+
+Occupational 
+
+Health and Safety  
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number 
+
+of work-related fatalities 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14 
+
+GRI 416: Customer 
+
+Health and Safety  
+
+416-2 
+
+Incidents of non-
+
+compliance concerning the 
+
+health and safety impacts of 
+
+products and services 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+12-14 
+
+Security of Information 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Security of Information 
+
+6 
+
+7-8 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Security of Information 
+
+7-8 
+
+GRI 418: Customer 
+
+Privacy  
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses 
+
+of customer data 
+
+Security of Information 
+
+7-8 
+
+Business Ethics and Anti-corruption 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Business Ethics and Anti-Corruption  
+
+6 
+
+7 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Business Ethics and Anti-Corruption 
+
+7 
+
+
+
+
+ 
+
+27 
+
+ 
+
+
+
+GRI 205: Anti-
+
+Corruption  
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions 
+
+taken 
+
+Business Ethics and Anti-Corruption 
+
+7 
+
+Employment Practices 
+
+GRI 103: 
+
+Management 
+
+Approach  
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+5 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Approach to Sustainability; 
+
+Employment Practices and Benefits 
+
+6 
+
+8-11 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Employment Practices and Benefits 
+
+8-11 
+
+GRI 401: 
+
+Employment  
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Profile of our Workforce 
+
+9-10 
+
+401-2 
+
+Benefits provided to full-
+
+time employees that are 
+
+not provided to temporary 
+
+or part-time employees 
+
+Employment Practices and Benefits 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

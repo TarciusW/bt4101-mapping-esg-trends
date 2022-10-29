@@ -1,0 +1,1948 @@
+
+
+
+
+
+
+About this RepoRt
+
+2
+
+SuStainability board Statement
+
+3
+
+about talkmed
+
+4
+
+SuStainability at talkmed
+
+6
+
+Stakeholder engagement
+
+7
+
+materiality aSSeSSment
+
+8
+
+Product reSPonSibility
+
+9
+
+PeoPle
+
+10
+
+ • emPloyment
+
+10
+
+ • training and education
+
+12
+
+community
+
+13
+
+gri content index
+
+14
+
+contents
+
+TA LKMED  G ROU P LIM ITED
+
+1
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+About 
+
+this report
+
+
+
+TalkMed Group Limited (“TalkMed” or the 
+
+“Company”) is pleased to present our second 
+
+annual Sustainability Report. This report 
+
+reaffirms our commitment to sustainability 
+
+and discloses our environmental, social and 
+
+governance performance for the financial 
+
+year ended 31 December 2018 (“FY18”). The 
+
+scope of the report covers our operations in 
+
+Singapore.
+
+The FY18 Sustainability Report has been 
+
+prepared in accordance with the Global 
+
+Reporting Initiative (GRI) Standards: Core 
+
+option. The GRI standards were chosen as they 
+
+are the first global standards for sustainability 
+
+reporting. The GRI Content Index on pages 14 
+
+to 16 contains the list of GRI references used 
+
+in this report. This report is also formed with 
+
+reference to the primary components set out in 
+
+Singapore Exchange Limited listing Rule 711B 
+
+on a ‘Comply or Explain’ basis.
+
+We value the feedback of our stakeholders 
+
+and welcome questions you may have on 
+
+any aspect of our sustainability performance. 
+
+Please write to:
+
+enquiries@talkmed.com.sg
+
+TA L K M E D  G R O U P L I M I T E D
+
+2
+
+     SU STA IN A BILITY REPORT 2018
+
+GRI 102-1 |102-46| 102-50 | 102-52 | 102-53 | 102-54
+
+
+
+
+SuStAinAbility
+
+Board statement
+
+TalkMed Group is pleased to present our second Sustainability Report for the financial year ended 31 December 
+
+2018. Our report documents our sustainability performance, progress and the initiatives we have adopted to meet our 
+
+stakeholders’ expectations.
+
+environment
+
+We are aware of our responsibility to conduct our business in an environmentally responsible manner. We strive to 
+
+minimise harmful environmental impacts of our day-to-day practices and integrate sustainable practices across all 
+
+business operations. Through sustainability reporting, we would be able to track the progress of our initiatives and 
+
+create greater environmental consciousness among our community.
+
+At TalkMed, we understand the dangerous effects of improper handling and disposal of medical waste on the 
+
+environment as well as the society. We are therefore committed to adopt the best practices and ensure compliance to 
+
+all relevant regulations. This helps to minimise the risk of disease transmission, air and water contamination, as well 
+
+as soil pollution. We hire licensed and experienced firms to collect, transport and dispose of any biohazardous and 
+
+cytotoxic waste.
+
+social
+
+As a medical service provider, we understand the importance of attracting and retaining talented employees to provide 
+
+exceptional service to our customers. We are committed to enforcing fair labour practices, providing equal opportunities 
+
+and providing a safe working environment for all our employees.
+
+At TalkMed, we have created a culture that fosters innovation and encourage our medical staff to stay up to date with 
+
+the latest development in their field. We provide them with diverse training opportunities and support their professional 
+
+as well as personal development. This helps them to be aware of the latest medical advancement, treatment methods 
+
+and equipment available in the market and allows them to make well-informed decisions for our customers.
+
+Our ultimate goal is to provide quality and safe patient care that exceeds industry standards and responds to the 
+
+needs of our customers. We believe that maintaining a safe environment is a crucial aspect of competent healthcare. 
+
+To protect the safety of both patients and our healthcare professionals, we ensure strict adherence to all applicable 
+
+rules and regulations.
+
+TalkMed values its employees, customers and the community it serves. Our doctors play their part by providing health 
+
+education to the people. They share their knowledge and contribute to raising disease awareness in Singapore and 
+
+neighbouring countries via newspapers, magazines, medical journals and medical educational sessions.
+
+community
+
+We strive to have a positive impact on our community and have collaborated with Singapore Cancer Society (“SCS”) 
+
+to create a difference. As part of our local initiatives, we sponsored and participated in the ”Relay for Life” event in 
+
+Singapore. We also partnered with Breast Cancer Network Vietnam to organise the annual event – the Pink Hat Day 
+
+– to raise breast cancer awareness.
+
+Governance
+
+We understand our role as a member of medical fraternity and uphold the highest standards of corporate governance 
+
+across all our business functions. We strictly adhere to the compliance requirements of a public listed company and are 
+
+committed to providing transparent and relevant information to all our stakeholders on a timely basis.
+
+TalkMed believes our responsibility as a healthcare group goes beyond our business operations. We are committed to 
+
+look for ways to enhance our services and use our resources responsibly. We strive for medical excellence and aim to 
+
+provide the safest services to our valuable customers. We want to thank our stakeholders for their continuous trust 
+
+and support in our sustainability journey.
+
+TA LKMED  G ROU P LIM ITED
+
+3
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+GRI 102-14
+
+
+
+
+About
+
+talkmed
+
+GRI 102-2 | 102-3 |102-4 |102-5 | 102-6 |102-7 | 102-8
+
+TalkMed through its subsidiaries (collectively, the “Group”) is a premier provider of medical oncology services, stem 
+
+cell transplant services and palliative healthcare services. We are headquartered in Singapore and our operations extend 
+
+to serve the markets in Vietnam as well.
+
+TallkMed was incorporated on 10 September 2013 and listed on the Catalist Board of Singapore Exchange Securities 
+
+Trading Limited on 30 January 2014. The Group structure is as follows:
+
+SCC provides tertiary healthcare services to the oncology patients in the private sector in Singapore, through Parkway 
+
+Cancer Centre (“PCC”). Our highly-trained doctors attend to patients, examine and administer medical treatments, 
+
+perform minor outpatient surgical procedures, prescribe medicines and conduct laboratory tests or diagnostic procedures. 
+
+In addition to the above clinical functions, we review the results of these investigations and provide follow-up patient 
+
+care.
+
+TalkMed is also recognised as one of the leading medical tourism facility in Singapore. This has been made possible by 
+
+the excellent medical service provided by our team of sixteen doctors at nine clinics in facilities operated by Parkway 
+
+Hospitals Singapore Pte. Ltd.. These include Gleneagles Hospital Singapore, Mount Elizabeth Hospital Singapore, Mount 
+
+Elizabeth Medical Centre and Mount Elizabeth Novena Specialist Centre. For the past few years, SCC has established 
+
+itself as one of the market leaders in medical tourism in Singapore with foreign patients accounting for the majority 
+
+of its patient-load.
+
+TalkMed Vietnam was established in March 2014 and we collaborated with Thu Cuc International General Hospital to 
+
+set up a medical centre known as Singapore Cancer Centre Thu Cuc. The centre provides specialist medical oncology 
+
+services in Hanoi, Vietnam.
+
+In September 2017, the Group incorporated a wholly-owned subsidiary, TalkMed China, to explore healthcare-related 
+
+collaborations in China. Subsequently, TalkMed China incorporated TalkMed Chongqing Pte. Ltd., a 75%-owned 
+
+subsidiary, with the aim of providing healthcare management services in Chongqing, China.
+
+Stem Med, set up in January 2015, is the first private stem cell banking facility in Singapore that specialises in the 
+
+processing, cryopreservation and storage of adult stem cells. In March 2017, Stem Med incorporated Stem Med Indonesia 
+
+Pte. Ltd., a 90%-owned subsidiary, to explore business opportunities in Indonesia in the areas of operation of cellular 
+
+laboratories, storage facilities and cellular therapeutics clinics. In October 2017, Stem Med incorporated DrSG Cellular 
+
+Wellness Pte. Ltd., a 60%-owned subsidiary, with A DrBrand Pte. Ltd. (“ADB”) holding the remaining 40%. Capitalising 
+
+on the expertise of both Stem Med and ADB in the fields of stem cell technology and aesthetics respectively, this 
+
+subsidiary plans to research and produce highly-effective products and technologically-advanced treatments for hair 
+
+rejuvenation and customised skin care for the global beauty market.
+
+TalkMed Group Limited
+
+Singapore Cancer 
+
+Centre Pte. Ltd.
+
+(“SCC”)
+
+100%
+
+TalkMed Vietnam
+
+Pte. Ltd.
+
+(“TalkMed Vietnam”)
+
+100%
+
+CellVec Pte. Ltd.
+
+(“CellVec”)
+
+57%
+
+Hong Kong Integrated 
+
+Oncology Centre 
+
+Holdings Limited
+
+(“HKH”)
+
+Hong Kong 
+
+Integrated 
+
+Oncology Centre 
+
+Limited
+
+30%
+
+72%
+
+Stem Med Pte. Ltd.
+
+(“Stem Med”)
+
+Stem Med
+
+Indonesia Pte. Ltd.
+
+DrSG Cellular 
+
+Wellness Pte. Ltd.
+
+57%
+
+60%
+
+90%
+
+TalkMed China
+
+Pte. Ltd.
+
+(“TalkMed China”)
+
+TalkMed
+
+Chongqing
+
+Pte. Ltd.
+
+100%
+
+75%
+
+TA L K M E D  G R O U P L I M I T E D
+
+4
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+About
+
+talkmed
+
+In August 2018, we entered into a shareholders’ agreement with StemCord Pte Ltd and Dr Lim Zi-Yi to incorporate 
+
+CellVec, where the Group holds a 57% stake. CellVec provides cellular and gene therapy services, with a focus on the 
+
+development of novel platform viral vector technologies that strive to advance genetic modification of cellular therapy.
+
+Subsequent to CellVec’s incorporation, the cellular and gene therapy division of Stem Med has been transferred and 
+
+consolidated into CellVec, while Stem Med continues to focus on the provision of services that are related to the 
+
+processing, cryopreservation and storage of stem cells as well as regenerative medicine.
+
+HKH is the controlling shareholder of Hong Kong Integrated Oncology Centre Limited, which provides a comprehensive 
+
+range of services with the concept of “Total Cancer Care” and “Tumor Board Approach”. The services include cancer 
+
+prevention, screening, imaging and diagnosis, multidisciplinary cancer treatment (including radiotherapy through its 
+
+strategic partnership with Hong Kong Adventist Hospital) and after-treatment care in Hong Kong.
+
+Scale of organisation
+
+ 
+
+Net Revenue: S$61,278,000 
+
+Total Employees1: 87
+
+ 
+
+Total Operations: 9 clinics 
+
+Full-time (Male): 15
+
+ 
+
+ 
+
+ 
+
+Full-time (Female): 72
+
+
+
+
+
+1 
+
+All our employees are full-time and permanent.
+
+TA LKMED  G ROU P LIM ITED
+
+5
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+SuStAinAbility
+
+at talkmed
+
+GRI 102-11 | 102-16 | 102-18
+
+TalkMed is committed to integrating sustainability across all 
+
+our functions. We have put in place relevant policies and 
+
+procedures to ensure efficient management of sustainability 
+
+within our Group.
+
+The goal of the Company is to provide services of the highest 
+
+quality to our customers, which is reflected in our vision and 
+
+mission.
+
+Vision: Our vision is to be a premier provider of medical 
+
+oncology and palliative care healthcare services in the private 
+
+sector in Singapore and in the region.
+
+Mission: Our mission is to deliver quality care and service to 
+
+our patients. Looking ahead, providing medical oncology and 
+
+palliative care healthcare services in the region and expanding 
+
+our services to include the provision of secondary and primary 
+
+healthcare are also an integral part of our business model.
+
+While managing our environmental, social and governance 
+
+risks, TalkMed considers the Precautionary Principle and 
+
+supports it by taking actions to reduce our environmental 
+
+impacts.
+
+Governance structure
+
+Our senior management is responsible for leading our 
+
+sustainability efforts and initiatives. They communicate 
+
+and update the Board of Directors about our sustainability 
+
+progress on an on-going basis to help them formulate relevant 
+
+strategies.
+
+We pride ourselves in conducting our business in a clean, 
+
+ethical and transparent manner. We have clear policies 
+
+on business standards, ethics and anti-corruption and are 
+
+committed to ensure full compliance with local as well 
+
+as international requirements. We do not condone any 
+
+malpractice, impropriety, non-compliance of statutory law, 
+
+rules and regulations or wrongdoing by employees in the 
+
+course of performing their duties. More information on our 
+
+corporate governance guidelines and practice is available on 
+
+pages 12 to 29 of our FY18 Annual Report.
+
+
+
+TA L K M E D  G R O U P L I M I T E D
+
+6
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+StAkeholder
+
+enGaGement
+
+GRI 102-40 | 102-42 | 102-43 | 102-44
+
+At TalkMed, we understand the importance of engaging our stakeholders and identifying the material issues that are 
+
+most important to them. We selected our key stakeholder group based on influence, representation, responsibility, 
+
+dependency and proximity.
+
+In the financial year ended 31 December 2017 (“FY17”), we conducted stakeholder engagement based on a process 
+
+of identification, prioritisation and validation to identify the key material issues.
+
+We firmly believe that stakeholder engagement is a key factor to ensure the success of our business. Therefore, we 
+
+constantly seek to improve our communication channels with all our stakeholders to seek their inputs as well as address 
+
+their concerns.
+
+Stakeholder
+
+Concerns Raised
+
+Frequency of 
+
+Engagement
+
+Mode of Engagement
+
+Shareholders
+
+Economic Performance
+
+Customer Health and Safety 
+
+Employment
+
+Annually/Ad hoc
+
+Quarterly financial results 
+
+Annual general meeting
+
+Email
+
+Patient
+
+Customer Health and Safety
+
+Customer Privacy 
+
+Product Service and Labelling
+
+Ad hoc
+
+Informal feedback from patients 
+
+through our doctors and clinical staff
+
+Face to face interaction 
+
+Public forum
+
+Supplier
+
+Procurement Practices 
+
+Market Practices 
+
+Customer Health and Safety
+
+Ad hoc
+
+Feedback via email/phone call
+
+Regulator
+
+Compliance (Product 
+
+Responsibility) 
+
+Customer Health and Safety  
+
+Compliance (Society)
+
+Ad Hoc/Quarterly
+
+Regulatory guidelines 
+
+Email
+
+Phone call
+
+Employee
+
+Employment 
+
+Training and Education
+
+Occupational Health and Safety
+
+Ad Hoc/Annually
+
+Email 
+
+Yearly appraisals 
+
+Team building sessions
+
+Top Management
+
+Economic Performance 
+
+Customer Health and Safety
+
+Indirect Economic Impacts
+
+Ad hoc/Quarterly
+
+Board meetings
+
+TA LKMED  G ROU P LIM ITED
+
+7
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+mAteriAlity 
+
+assessment
+
+GRI 102-46 | 102-47 | 103-1
+
+The content and aspect boundaries in this report have 
+
+been developed in alignment with the GRI Reporting 
+
+Principles of Materiality, Stakeholder Inclusiveness, 
+
+Sustainability Context and Completeness.
+
+TalkMed conducted a materiality assessment for our 
+
+inaugural sustainability report published in FY17. This 
+
+was carried out in accordance to the GRI standards and 
+
+it helped us identify material issues that are significant 
+
+to our stakeholders, as well as the social, economic and 
+
+environmental impact of our business operations.
+
+Our key stakeholders were engaged through carefully 
+
+formulated surveys to understand their areas of concerns. 
+
+We then benchmarked ourselves against our peers to 
+
+identify top materiality trends and issues. The materiality 
+
+issues identified shaped our FY17 and FY18 sustainability 
+
+reports. We are committed to updating our materiality 
+
+assessment biennially.
+
+Economic 
+
+Performance 
+
+Customer Health 
+
+and Safety 
+
+Training and 
+
+Education
+
+Employment 
+
+material aspects and indicators identified
+
+Categories
+
+Material Aspects
+
+List of Indicators
+
+Aspect Boundary
+
+Economic
+
+Economic Performance
+
+GRI 201-1: Direct economic 
+
+value generated and 
+
+distributed
+
+Within organisation
+
+Product Responsibility
+
+Customer Health and Safety
+
+GRI 416-2: Incidents of non-
+
+compliance concerning the 
+
+health and safety impacts of 
+
+products and services
+
+Within organisation and 
+
+patients
+
+Labor Practices and 
+
+Decent Work
+
+Employment
+
+GRI 401-1: New employee 
+
+hires and employee turnover
+
+Within organisation
+
+Training and Education
+
+GRI 404-1: Average hours 
+
+of training per year per 
+
+employee
+
+Within organisation
+
+TA L K M E D  G R O U P L I M I T E D
+
+8
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+Product reSPonSibility
+
+customer health and safety
+
+GRI 103-1 | 103-2 | 103-3 | 416-2
+
+2 
+
+Financial year ending 31 December 2019 (“FY19”)
+
+
+
+Why is this a material issue?
+
+The safety and well-being of our customers form the core 
+
+of our organisation’s value. We are committed to providing 
+
+excellent service to our patients at all times and have taken 
+
+several measures to ensure the same.
+
+We have integrated standards and procedures across all our 
+
+operations and installed continuous monitoring systems to 
+
+safeguard the health and safety of our valued customers.
+
+our approach to managing
+
+As customer safety is a crucial aspect of our business, we 
+
+ensure strict adherence to government regulations such as 
+
+Private Hospitals and Medical Clinics Act, Medicines Act, 
+
+Health Products Act, Singapore Medical Council Ethical Code 
+
+and Ethical Guidelines.
+
+We have in place a set of clinical standard operating 
+
+procedures (“SOPs”) to maintain competency among staff 
+
+and compliance with the applicable regulations and laws.
+
+As a provider of medical services, we believe the professional 
+
+capability of our nurses is a direct reflection of the quality 
+
+of our services. We have therefore, placed a system of 
+
+competency checklists to assess and evaluate their proficiency. 
+
+In addition to this, we also have an apheresis competency 
+
+checklist, as our operations require handling blood products. 
+
+The above SOPs and checklists are reviewed every year for 
+
+relevance and completeness.
+
+fy18 performance
+
+There were no incidents of non-compliance concerning the 
+
+health and safety impacts of products and services.
+
+fy192 targets
+
+TalkMed aims to continue its performance by maintaining 
+
+a strong framework to ensure compliance with relevant 
+
+guidelines and regulation.
+
+TA LKMED  G ROU P LIM ITED
+
+9
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+PeoPle
+
+employment
+
+GRI 103-1 | 103-2 | 103-3 | 401-1
+
+Why is this a material issue?
+
+Our employees are the foundation of our business and 
+
+the secret to our long-lasting success. They are integral to 
+
+our ability to provide exceptional medical services to our 
+
+customers and consistently improve our performance. As they 
+
+are our most valuable assets, we are committed to providing a 
+
+challenging work environment for our workforce of talented 
+
+doctors and specialists.
+
+our approach to managing
+
+We are aware that our ability to attract, develop and retain 
+
+highly motivated employees is critical for our business.
+
+Our human resource team follows fair and supportive policies 
+
+which are in line with our objectives. We have an equitable 
+
+system of recognition and awards that allows doctors the 
+
+opportunity to participate in revenue-sharing schemes. Our 
+
+staff is awarded attractive year-end bonus that commensurate 
+
+with their performances. In addition to the above, we promote 
+
+annual subsidised holidays to promote staff bonding. We 
+
+recognise and acknowledge the contribution of our long-
+
+serving staff by rewarding them with long service awards.
+
+We aim to have the very best talent and also work towards 
+
+ensuring that each role is filled by a candidate who is qualified 
+
+and of the right fit. Therefore, we have delegated this crucial 
+
+task of recruiting new doctors to our Chief Executive Officer 
+
+and Chief Operating Officer, while the hiring of new clinical 
+
+staff is entrusted to nurse management and human resource 
+
+department. This helps us to identify candidates with high 
+
+potential who can contribute meaningfully to the Group.
+
+fy18 performance
+
+Total new hire rate: 11.5%
+
+Total turnover rate: 6.9%
+
+fy19 targets
+
+To ensure greater retention of talent pool.
+
+
+
+TA L K M E D  G R O U P L I M I T E D
+
+10
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+employee information:
+
+Employee information by 
+
+age group and nationality
+
+Singapore
+
+Other nationality
+
+Total
+
+Less than 30 years of age
+
+5
+
+5
+
+10
+
+Between 30 and 50
+
+48
+
+13
+
+61
+
+Above 50
+
+14
+
+2
+
+16
+
+Total Employees
+
+67
+
+20
+
+87
+
+New hires by age group
+
+Male
+
+Female
+
+Rate of hire
+
+(Male)
+
+Rate of hire
+
+(Female)
+
+Total
+
+rate of hire
+
+Less than 30 years of age
+
+0
+
+2
+
+0.0%
+
+25.0%
+
+20.0%
+
+Between 30 and 50
+
+2
+
+5
+
+100.0%
+
+62.5%
+
+70.0%
+
+Above 50
+
+0
+
+1
+
+0.0%
+
+12.5%
+
+10.0%
+
+Total Employees
+
+2
+
+8
+
+New hires by nationality
+
+Male
+
+Female
+
+Rate of hire
+
+(Male)
+
+Rate of hire
+
+(Female)
+
+Total
+
+rate of hire
+
+Singapore
+
+1
+
+4
+
+50.0%
+
+50.0%
+
+50.0%
+
+Other
+
+1
+
+4
+
+50.0%
+
+50.0%
+
+50.0%
+
+Total Employees
+
+2
+
+8
+
+New hires by gender
+
+Number
+
+Percentage
+
+Male
+
+2
+
+20.0%
+
+Female
+
+8
+
+80.0%
+
+Total Employees
+
+10
+
+Employee turnover by 
+
+age group
+
+Male
+
+Female
+
+Rate of turnover
+
+(Male)
+
+Rate of turnover
+
+(Female)
+
+Total
+
+rate of turnover
+
+Less than 30 years of age
+
+0
+
+1
+
+0.0%
+
+20.0%
+
+16.7%
+
+Between 30 and 50
+
+1
+
+2
+
+100.0%
+
+40.0%
+
+50.0%
+
+Above 50
+
+0
+
+2
+
+0.0%
+
+40.0%
+
+33.3%
+
+Total Employees
+
+1
+
+5
+
+Employee turnover 
+
+by nationality
+
+Male
+
+Female
+
+Rate of turnover
+
+(Male)
+
+Rate of turnover
+
+(Female)
+
+Total
+
+rate of turnover
+
+Singapore
+
+1
+
+2
+
+100.0%
+
+40.0%
+
+50.0%
+
+Other
+
+0
+
+3
+
+0.0%
+
+60.0%
+
+50.0%
+
+Total Employees
+
+1
+
+5
+
+Employee turnover 
+
+by gender
+
+Number
+
+Percentage
+
+Male
+
+1
+
+16.7%
+
+Female
+
+5
+
+83.3%
+
+Total Employees
+
+6
+
+PeoPle
+
+employment
+
+GRI 103-1 | 103-2 | 103-3 | 401-1
+
+TA LKMED  G ROU P LIM ITED
+
+11
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+Why is this issue material?
+
+TalkMed places strong emphasis on developing talent 
+
+through training and education programmes. It is necessary 
+
+for our doctors and specialists to be updated with the latest 
+
+development in their field to perform to the best of their 
+
+abilities. Therefore, we provide opportunities for holistic 
+
+improvement in their competency level and help them reach 
+
+their full potential.
+
+our approach to managing
+
+To enable employees to refine their skills, we organise regular 
+
+training and development programmes to cater to their 
+
+area of specialisation. We offer our nurses fully-sponsored 
+
+diploma courses to help them upgrade their qualifications. 
+
+We have fostered a culture of learning in our organisation 
+
+and we encourage regular feedback to identify new areas of 
+
+improvement.
+
+fy18 performance
+
+Average hour of training per employee: 15.01
+
+
+
+PeoPle
+
+traininG and education
+
+GRI 103-1 | 103-2 | 103-3 | 404-1
+
+Average training hours by gender
+
+Male
+
+Management 
+
+Staff
+
+Female
+
+Clinical Staff
+
+Specialist Medical 
+
+Practitioners
+
+Average training hours by employee category
+
+17.55
+
+9.37
+
+15.31
+
+12.83
+
+16.2
+
+fy19 targets
+
+To maintain average hour of training per employee at 15 hours.
+
+TA L K M E D  G R O U P L I M I T E D
+
+12
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+community
+
+relay for life
+
+An event organised by SCS for the fight against cancer, 
+
+where TalkMed was the main sponsor. Over 6,500 
+
+participants and volunteers from various backgrounds 
+
+came together for the 15-hour overnight event. The 
+
+event was held on 10 March 2018 and helped raise 
+
+over S$830,000 that will go towards life-saving cancer 
+
+treatments and welfare aid.
+
+
+
+
+
+Breast cancer awareness month 
+
+campaign
+
+In collaboration with Breast Cancer Network Vietnam 
+
+(“BCNV”) and with support of other partners, the annual 
+
+Pink Hat Day, was organised. It is a community program 
+
+aimed at breast cancer patients. It held activities such as 
+
+yoga led by qualified instructors to help breast cancer 
+
+patients in the healing process and to prevent the disease. 
+
+BCNV also works with SCC to provide free consultation 
+
+to the community.
+
+TA LKMED  G ROU P LIM ITED
+
+13
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+GRI 
+
+CONTENT INdEx
+
+GRI Standard
+
+Disclosure
+
+Chapter, Page Reference, 
+
+Performance and/or
+
+Explanation for Omissions
+
+GRI 102: General 
+
+Disclosures 2016
+
+ORGANISATIONAL PROFILE
+
+102-1
+
+Name of the organisation
+
+2
+
+102-2
+
+Activities, brands, products, and services
+
+4 to 5
+
+102-3
+
+Location of headquarters
+
+4
+
+102-4
+
+Location of operations
+
+4 to 5
+
+102-5
+
+Ownership and legal form
+
+4 to 5
+
+102-6
+
+Markets served
+
+4 to 5
+
+102-7
+
+Scale of the organisation
+
+5
+
+102-8
+
+Information on employees and other 
+
+workers
+
+5
+
+102-9
+
+Supply chain
+
+Our supply chain involves drugs 
+
+and consumables that are ordered 
+
+either through direct pharmaceutical 
+
+companies or through third party 
+
+logistic partners.
+
+102-10
+
+Significant changes to organisation and 
+
+its supply chain
+
+TalkMed has opened one more clinic 
+
+at Gleneagles Medical Centre (#03-01) 
+
+in the last quarter of 2018.
+
+102-11
+
+Precautionary Principle or approach
+
+6
+
+102-12
+
+External initiatives
+
+• Singapore Code of Corporate 
+
+Governance (2012) 
+
+• Singapore 
+
+Financial 
+
+Reporting 
+
+Standards (International)
+
+102-13
+
+Membership of associations
+
+None
+
+STRATEGY
+
+102-14
+
+Statement from senior decision-maker
+
+3
+
+ETHICS AND INTEGRITY
+
+102-16
+
+Values, principles, standards, and norms 
+
+of behaviour
+
+6
+
+GOVERNANCE
+
+102-18
+
+Governance structure
+
+6
+
+STAKEHOLDER ENGAGEMENT
+
+102-40
+
+List of stakeholder groups
+
+7
+
+102-41
+
+Collective bargaining agreements
+
+None 
+
+of 
+
+our 
+
+employees 
+
+are 
+
+covered under collective bargaining 
+
+agreements.
+
+102-42
+
+Identifying and selecting stakeholders
+
+7
+
+102-43
+
+Approach to stakeholder engagement
+
+7
+
+102-44
+
+Key topics and concerns raised
+
+7
+
+TA L K M E D  G R O U P L I M I T E D
+
+14
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+GRI 
+
+CONTENT INdEx
+
+GRI Standard
+
+Disclosure
+
+Chapter, Page Reference, 
+
+Performance and/or
+
+Explanation for Omissions
+
+REPORTING PRACTICE
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+1. Singapore Cancer Centre Pte. Ltd. 
+
+2. TalkMed Vietnam Pte. Ltd. 
+
+3. TalkMed China Pte. Ltd. 
+
+4. TalkMed Chongqing Pte. Ltd.
+
+5. Stem Med Pte. Ltd. 
+
+6. CellVec Pte. Ltd. 
+
+7. Stem Med Indonesia Pte. Ltd.
+
+8. DrSG Cellular Wellness Pte. Ltd. 
+
+Only Singapore Cancer Centre Pte. 
+
+Ltd. is covered under the scope of 
+
+the report.
+
+102-46
+
+Defining report content and topic 
+
+Boundaries
+
+2 and 8
+
+102-47
+
+List of material topics
+
+8
+
+102-48
+
+Restatements of information
+
+We do not have any restatements of 
+
+information.
+
+102-49
+
+Changes in reporting
+
+There are no changes in reporting.
+
+102-50
+
+Reporting period
+
+2
+
+102-51
+
+Date of the most recent report
+
+June 2018
+
+102-52
+
+Reporting cycle
+
+2
+
+102-53
+
+Contact point of questions regarding the 
+
+report
+
+2
+
+102-54
+
+Claims of reporting in accordance with 
+
+GRI Standards
+
+2
+
+102-55
+
+GRI Content Index
+
+14 to 16
+
+102-56
+
+External assurance
+
+We have not sought external 
+
+assurance for this reporting period.
+
+Material Topics
+
+ECONOMIC
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Please refer to pages 4 to 5 of our 
+
+FY18 Annual Report
+
+103-2
+
+The management approach and its 
+
+components
+
+103-3
+
+Evaluation of the management approach
+
+GRI 201: Economic 
+
+Performance 2016
+
+201-1
+
+Direct economic value generated and 
+
+distributed
+
+Please refer to pages 38 to 97 of our 
+
+FY18 Annual Report
+
+TA LKMED  G ROU P LIM ITED
+
+15
+
+S U S TA I N A B I L I T Y  R E P O RT  2 0 1 8
+
+
+
+
+GRI 
+
+CONTENT INdEx
+
+GRI Standard
+
+Disclosure
+
+Chapter, Page Reference, 
+
+Performance and/or
+
+Explanation for Omissions
+
+SOCIAL
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+8 and 10
+
+103-2
+
+The management approach and its 
+
+components
+
+10
+
+103-3
+
+Evaluation of the management approach
+
+10
+
+GRI 401: Employment 
+
+2016
+
+401-1
+
+New employee hires and employee 
+
+turnover
+
+10 to 11
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+8 and 12
+
+103-2
+
+The management approach and its 
+
+components
+
+12
+
+103-3
+
+Evaluation of the management approach
+
+12
+
+GRI 404: Training and 
+
+Education 2016
+
+404-1
+
+Average hours of training per year per 
+
+employee
+
+12
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+8 to 9
+
+103-2
+
+The management approach and its 
+
+components
+
+9
+
+103-3
+
+Evaluation of the management approach
+
+9
+
+GRI 416: Customer 
+
+Health and Safety 
+
+2016
+
+416-2
+
+Incidents of non-compliance concerning 
+
+the health and safety impacts of products 
+
+and services
+
+9
+
+TA L K M E D  G R O U P L I M I T E D
+
+16
+
+     SU STA IN A BILITY REPORT 2018
+
+
+
+
+101 Thomson Road 
+
+#09-02 United Square
+
+Singapore 307591
+

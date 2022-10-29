@@ -1,0 +1,3552 @@
+
+
+
+SUSTAINABILITY
+
+REPORT
+
+2019
+
+Azeus Systems Holdings Ltd.
+
+
+
+
+CONTENTS
+
+ABOUT THE GROUP 
+
+ABOUT THIS REPORT
+
+BOARD STATEMENT
+
+ 
+
+SUSTAINABILITY GOVERNANCE
+
+SUSTAINABILITY RISK AND OPPORTUNITIES
+
+STAKEHOLDERS ENGAGEMENT 
+
+BOUNDARIES OF MATERIAL FACTORS
+
+RESPONSIBLE OPERATION
+
+EMPLOYMENT PRACTICES
+
+ENVIRONMENTAL PROTECTION
+
+ENGAGING THE COMMUNITY
+
+GRI-SGX CONTENT INDEX
+
+1
+
+4
+
+6
+
+7
+
+8
+
+9
+
+10
+
+11
+
+15
+
+19
+
+23
+
+24
+
+
+01
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+ABOUT THE GROUP
+
+Established in 1991 and listed on the Singapore Exchange Limited (“SGX”) (Stock Code: BBW) since 
+
+2004, Azeus Systems Holdings Ltd. (“Azeus” or the “Company”) is an investment holding company that 
+
+provides Information Technology (“IT”) consulting, project management, implementation services and 
+
+maintenance and support services mainly in its Hong Kong headquarters, and several other countries 
+
+such as the United Kingdom and the Philippines. It operates through two segments, Professional IT 
+
+Services and Azeus Products Sales.
+
+Its Professional IT Services includes designing, developing and implementing various IT systems, and 
+
+providing maintenance and support services. Azeus Products Sales includes developing innovative 
+
+technologies and solutions such as proprietary products known as “AzeusCare” and “Azeus Convene”, 
+
+marketing and selling the products.
+
+AzeusCare
+
+AzeusCare is a flexible, integrated system that provides a wide range of solutions for managing and 
+
+delivering social care. It promotes personalisation, prevention, and the delivery of best outcome for 
+
+service users. Its flexibility and adaptability offer greater control to those who require it, making it 
+
+an essential tool for social care practitioners at a time of change. AzeusCare supports health service 
+
+delivery as well as social care service delivery, either in separate contexts or combined.
+
+•	 Adults services
+
+AzeusCare supports the delivery of the requirements of the UK Care Act 2014 with a comprehensive 
+
+suite of tools to manage both the case management and finance requirements in one fully integrated 
+
+system.
+
+•	 Children services
+
+AzeusCare provides a comprehensive recording environment for service delivery in the areas of 
+
+children’s social care, early intervention, special educational needs and disabilities (SEND), etc..
+
+Azeus Convene (“Convene”)
+
+Azeus Convene is a user-friendly suite of mobile and web-based board meeting applications. It 
+
+streamlines organizations’ board meeting processes by providing directors easy and secure access 
+
+to board papers anywhere, anytime, while giving administrators an efficient solution to prepare and 
+
+manage board meetings. Used in more than 80 countries, Convene is available on Windows, Mac, 
+
+Android, and iOS devices.
+
+•	 Easy to Use
+
+Convene is very easy to use. At the 2016 SaaS Awards, the de facto recognition platform for 
+
+excellence and innovation in the sphere of Cloud Computing, Convene was recognized as a finalist 
+
+under Best UX/UI/Design in a SaaS Product. Direct customer feedback on Convene’s usability has 
+
+also been consistently positive.
+
+
+02
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+ABOUT THE GROUP
+
+•	 Powerful
+
+Convene is packed with powerful features that let organizations accomplish high productivity 
+
+meetings. Convene provides real-time annotations, useful notifications, bookmarks, audit log, content 
+
+lifespan settings, fine-grained permission controls, enterprise-grade security, offline support, remote 
+
+wipe, among others. 
+
+•	 Secure
+
+Convene is designed for security. Convene is used by organizations which handle sensitive information 
+
+such as banks, investment firms, Fortune 500, FTSE 100 companies, government departments, and 
+
+statutory bodies, in more than 80 countries around the world – a testament to the trust and an 
+
+endorsement of the security measures put in place in Convene.
+
+•	 Flexible
+
+With native apps for iPad, Android, Windows and Mac, Convene has the widest platform support 
+
+among all other board meeting applications. Convene also lets directors securely access meeting 
+
+materials, review and annotate documents, and make decisions from the device of their choice, 
+
+online or offline, anytime, anywhere.
+
+ 
+
+Convene can be hosted on-premise and on the cloud hosting. It can also be integrated with a 
+
+comprehensive range of enterprise repositories such as Dropbox, SharePoint, and Box, as well as 
+
+enterprise directories such as Active Directory and LDAP.
+
+Modern economies rely on technology and information services to develop and grow. With technology 
+
+rapidly evolving, new challenges for sustainability are emergent. New technology should address issues 
+
+of social and environmental externality in order to protect stakeholders. The sustainability agenda of 
+
+Azeus is based on the principle that it has to be part of everything we do, and fully integrated into our 
+
+business activities.
+
+
+03
+
+ABOUT THE GROUP
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+Customer Base
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+AFRICA
+
+EUROPE
+
+NORTH
+
+AMERICA
+
+ASIA
+
+PACIFIC
+
+MIDDLE
+
+EAST
+
+Values and Mission
+
+Azeus upholds the core values of “Commitment to the highest quality”, “Responsibility and Integrity” 
+
+and “Collaboration and Teamwork”, with the aim to deliver quality services that win clients’ confidence, 
+
+maintain open and honest communication with stakeholders, as well as to promote an environment of 
+
+teamwork and collaboration among our employees. 
+
+Azeus strives to provide sound technical consultancy and implementation services for complex IT 
+
+systems while building a company that respects its employees. 
+
+
+04
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+ABOUT THIS REPORT
+
+As the second Sustainability Report (the “report”) published by Azeus, this report continues to disclose 
+
+policies, practices, targets and performances of the Group in terms of the material environmental, 
+
+social and governmental factors identified by the Group. The report aims at enabling all stakeholders 
+
+to understand the progress and sustainability directions of the Group. It has been uploaded to the 
+
+websites of SGX and Azeus (https://www.azeus.com/sustainability-report). 
+
+Reporting Boundary
+
+The report focuses on the operation of business segments of Professional IT Services1 and Azeus 
+
+Products between April 2018 and March 2019 (the “reporting year” or “FY2019”). The reporting 
+
+boundary covers the operation of offices in Hong Kong (the “Hong Kong office”)2, the Philippines (the 
+
+“Philippines office”)3 and the United Kingdom (the “United Kingdom office”)4, which is consistent with 
+
+the reporting boundary in the Sustainability Report 2017-18. 
+
+Azeus plans to consistently refine the internal data collection process and gradually expand the scope 
+
+of disclosure in the coming reporting years. 
+
+Reporting Standard
+
+The report is prepared in accordance with the ‘comply or explain’ provisions of SGX-ST Listing Rules 
+
+711A (“LR 711A”) on sustainability reporting, as well as the guidance set out in the Practice Note 7.6: 
+
+Sustainability Reporting Guide (“PN 7.6”) issued by the SGX. The five reporting components prescribed 
+
+by the SGX-ST Listing Rules 711B (“LR 711B”) underline the key structure of this report. It takes 
+
+reference from the sustainability reporting framework provided by Global Reporting Initiatives (“GRI”), 
+
+the GRI Standards (version 2016 and 2018). The disclosures in this report seeks to achieve the GRI’s 
+
+Reporting Principles for defining report quality – accuracy, balance, clarity, comparability, reliability, and 
+
+timeliness. 
+
+To ensure the reporting quality and credibility, Azeus commissioned an external consultancy to conduct 
+
+stakeholder engagement and report compilation. In addition to the required disclosures provided by 
+
+GRI, selected topic-specific disclosures are included for enhanced reporting. A complete GRI-SGX 
+
+Content Index is inserted in the last section.
+
+Confirmation and Approval
+
+Information documented in this report is based on official documents, statistics, and operational 
+
+information of and collected by Azeus according to Group’s policies. The report has received approval 
+
+from the Board of Directors (the “Board”) in 30 August of 2019.
+
+ 1 It includes IT Services with sales of project hardware and software, as well as maintenance and support services.
+
+2 The Hong Kong office is managed by the Company’s subsidiary, Azeus Systems Limited (“Azeus HK”).
+
+3 The Philippines office is managed by the Company’s subsidiary, Azeus Systems Philippines Limited (“Azeus Philippines”).
+
+4 The United Kingdom office is managed by the Company’s subsidiary, Azeus UK Limited (“Azeus UK”). 
+
+
+05
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+OPINION AND FEEDBACK
+
+
+
+
+
+Azeus values the opinion of stakeholders for continual improvement in sustainability 
+
+performances. If you have any questions or suggestions regarding the content of the report, 
+
+please contact the Group via the following channels: 
+
+Address:   
+
+22/F Olympia Plaza, 255 King’s Road, North Point, Hong Kong
+
+Tel:  
+
+ 
+
++(852) 2893 3673
+
+Fax: 
+
+ 
+
++(852) 2574 4952
+
+Website:  
+
+www.azeus.com
+
+
+06
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+BOARD STATEMENT 
+
+Responding to changes with innovative solutions is key to the success of Azeus. Among the most 
+
+significant changes faced by our society today, issues related to sustainability, such as climate change, 
+
+require our most urgent attention.
+
+Azeus’s management philosophy is to embrace sustainability in the management of our business 
+
+and operations and the interaction with our stakeholders. Issues such as customer privacy, talent 
+
+development, environmental management and economic performance impact every aspect of 
+
+our business operations. Therefore, the Board has always prioritized these key issues in strategic 
+
+formulation in order to develop and adopt appropriate management tools. 
+
+The Board recognizes its responsibility in overseeing the management of sustainability issues and 
+
+monitoring our performance in relation to them. Through communication with key stakeholders, 
+
+we identify the environmental, social and governance factors that are material to the Group and to 
+
+stakeholders on a regular basis. These issues represent the focus of both our effort during the reporting 
+
+period and this report.
+
+Acknowledging the importance of sound sustainability management, a dedicated sustainability task 
+
+force will be established to coordinate all related work within the Group, including the formulation of a 
+
+group-wide sustainability policy. The task force will comprise representatives of different departments 
+
+with diverse backgrounds to ensure that our sustainability journey is guided by overarching principle 
+
+of inclusiveness. By actively listening to the voice of our stakeholders, we look forward to building a 
+
+more sustainable model of development that will benefit all of our employees and business partners.
+
+LEE WAN LIK
+
+Founder and Managing Director 
+
+On behalf of all directors of the Board  
+
+
+07
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+SUSTAINABILITY GOVERNANCE
+
+Azeus believes that adoption of good corporate governance principles and practices enable 
+
+stakeholders to have trust and faith in the Group to fulfill its social responsibility and create long-term 
+
+values for them. To enhance and safeguard the interests of stakeholders, the Board has the overall 
+
+responsibility for the oversight of the Group’s policies, initiatives and performance on sustainability 
+
+matters. 
+
+The Board continues to explore ways to further strengthen sustainability governance of the Group. 
+
+It is on its agenda to establish a Sustainability Taskforce in the next reporting year. Comprising 
+
+members of senior management and other levels of employees, the working group will be delegated 
+
+with the authority from the Board to review and monitor the Group’s policies and practices in 
+
+relation to environmental and social issues, to respond to emerging sustainability issues and to 
+
+make recommendations to the Board where appropriate on improving the Group’s sustainability 
+
+performance.
+
+The Board is responsible for ensuring the adequacy and effectiveness of the system of internal 
+
+financial, operational and compliance controls, and risk management policies. The management is 
+
+responsible for internal control and for ensuring compliance therewith. The Group establishes the 
+
+Audit Committee that comprises of Independent Non-Executive Directors to assist the Board in 
+
+discharging its internal control review responsibilities, such as reporting to the Board at least annually 
+
+on the evaluation of effectiveness of internal controls. 
+
+Azeus establishes procedures and methodologies for business processes to ensure that the Group 
+
+maintains high quality standards.
+
+CMMI
+
+ISO 27001
+
+The work processes of Azeus have been assessed 
+
+at Level 5 under the Capability Maturity Model 
+
+for Software (SW-CMM) model since 2002 and 
+
+appraised at Level 5 under Capability Maturity 
+
+Model Integration for Software Engineering 
+
+(CMMI-SW) model since 2003. These models 
+
+establish standards for assessing service quality 
+
+of software development.
+
+Since 2015, Azeus UK has been assessed and 
+
+certified as meeting the ISO 27001 requirements 
+
+for software development sales and first line 
+
+support. This recognizes the effort of safeguarding 
+
+information security of the Group. 
+
+ISO 14001
+
+ISO 9001
+
+Azeus is committed to protecting the environment. 
+
+The Hong Kong operation of the Group has been 
+
+certified for complying with the requirements 
+
+of ISO 14001 for the provision of software 
+
+consultancy, software development and system 
+
+integration services. 
+
+Since 1997, Azeus was awarded the ISO 9001 
+
+certification for providing software consultancy 
+
+services, software development and system 
+
+integration services, which is the first Hong Kong-
+
+based IT company to receive the accreditation. 
+
+Azeus ensures the provision of quality products 
+
+and services in every project. 
+
+
+08
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+SUSTAINABILITY RISKS AND OPPORTUNITIES
+
+Azeus considers risk management as an integral part of operational management and resource 
+
+planning to meet with increasing demands for sustainability. Considering the potential impacts of 
+
+material sustainability topics on operation and strategic planning, the Group has identified a range of 
+
+sustainability-related risks and opportunities with the support of external consultants. 
+
+Risk
+
+Responses and Opportunities
+
+Customer Privacy
+
+There is security risk in collecting, handling, and 
+
+storing customer information given the rapid 
+
+change of cyber technologies. Loss or breach of 
+
+customer privacy can result in financial loss and 
+
+non-financial reputational damage
+
+Improving System Security
+
+The Group implements procedures to safeguard 
+
+confidential information, such as establishing the 
+
+Code of Conduct and Information Classification 
+
+Policy for ensuring that information assets 
+
+receive an appropriate level of protection.
+
+Talent Attraction and Retention
+
+Improving Employment Management 
+
+System
+
+The Group provides fair employment system 
+
+and practices through establishing a set of 
+
+employment policies. 
+
+Providing Learning and Development 
+
+Opportunities 
+
+Azeus Institute provides training programmes 
+
+which focus on a wide spectrum of topics to train 
+
+skilled employees in the IT industry, as well as in 
+
+Sales and Marketing.
+
+Occupational Health and Safety
+
+ 
+
+ 
+
+Improving Employee Wellbeing and Health
+
+Stringent management policies and regulations 
+
+are in place to avoid injuries and health problems. 
+
+For example, the Group establishes the Safety 
+
+Committee and Health and Safety Guidelines to 
+
+administer the safety and health program. 
+
+Environmental Protection 
+
+Improving Environmental Management 
+
+System
+
+The Group addresses the environmental-related 
+
+risks through implementing the environmental 
+
+management system and green procurement 
+
+policy, which advocates the environmental 
+
+initiatives not only internally, but also externally. 
+
+Hiring and retaining skilled employees is a 
+
+challenge for the IT industry. Loss of skilled 
+
+employees can deplete the Group’s institutional 
+
+knowledge base and erode the competitiveness.
+
+The prolonged use of display screen equipment 
+
+puts our workers at high risks of associated 
+
+occupational hazards and injuries. There are 
+
+also risks for workers working alone. The loss 
+
+of working days due to employees’ injuries and 
+
+diseases can lead to decrease of production 
+
+capabilities of the Group.
+
+Climate change is an inevitable challenge in 
+
+today’s global context. Extreme weather brought 
+
+about by climate change directly or indirectly 
+
+affects the ability of the Group to access 
+
+resources and sustain operations.
+
+
+09
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+STAKEHOLDER ENGAGEMENT
+
+Understanding and responding to the needs and ideas of stakeholders5 are key to achieving business 
+
+sustainability and satisfactory outcomes for stakeholders. The Group’s stakeholders are those 
+
+who stand in a position to materially influence or are materially affected by the Group’s business. 
+
+Stakeholders’ inputs steer the Group in shaping priorities and activities. 
+
+The Group constantly engages our key internal and external stakeholders through multiple channels. 
+
+Identifying Material Factors
+
+Combining insights from the regular stakeholder engagement activities and results of management 
+
+interviews, Azeus continues to focus on the following topics as the material environmental, social and 
+
+governance (ESG) factors. These topics are ranked with their materiality in the table below: 
+
+Stakeholders
+
+Major Means of Communication
+
+Internal
+
+Board of 
+
+Directors 
+
+and Senior 
+
+Management
+
+Board meetings | Presentation | Focus groups | Regular meetings | Internal 
+
+communication
+
+Employees
+
+Presentation  | Focus groups | Regular meetings | Seminars | Trainings | Charity 
+
+events | Employee social events | Opinion box | Emails (e.g. whistleblowing 
+
+emails)
+
+External
+
+Shareholders /
+
+Investors
+
+Annual General Meetings | Announcement to SGX | Annual report | Investor 
+
+relations website | Analyst briefing and roadshows
+
+Customers
+
+Social media | Websites | Written reports | Presentation | Visits | Training | 
+
+Exhibitions | Hotlines
+
+Suppliers
+
+Social media | Websites | Written reports | Presentation | Visits | Training | 
+
+Exhibitions | Hotlines
+
+Community 
+
+Charity events | Social media 
+
+5 Stakeholders refer to groups or individuals materially influencing or affected by Azeus’s business.
+
+Environmental Areas
+
+Economic Areas
+
+Social Areas
+
+•	
+
+Water consumption
+
+•	
+
+Energy use
+
+•	
+
+Emissions and waste 
+
+management
+
+•	
+
+Economic  
+
+ performance
+
+•	
+
+Anti-corruption
+
+•	
+
+Procurement    
+
+ practices 
+
+•	
+
+Customer data protection and customer privacy 
+
+•	
+
+Employment management system 
+
+•	
+
+Training and education 
+
+•	
+
+Diversity and equal opportunity 
+
+•	
+
+Occupational health and safety 
+
+•	
+
+Local communities 
+
+
+10
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+BOUNDARIES OF MATERIAL FACTORS
+
+The impact and influence of each material factor identified may have wider impacts beyond the 
+
+business operations of Azeus, and thus require consideration. The table below summarizes where 
+
+impacts occur for each material factor. All topics are material within6 and outside7 of the Group. The 
+
+Group will continue monitoring any significant changes in the boundaries of material factors.
+
+Material ESG Factors
+
+Impacts addressed in 
+
+this Report
+
+Employees
+
+Shareholders/
+
+Investors
+
+Customers
+
+Suppliers
+
+Community
+
+Economic Performance
+
+Responsible Operation
+
+Anti-corruption
+
+Responsible Operation
+
+Customer Data Protection and 
+
+Customer Privacy
+
+Responsible Operation
+
+Procurement Practices
+
+Responsible Operation
+
+Employment Management System
+
+Employment Practices 
+
+Diversity and Equal Opportunities
+
+Employment Practices
+
+Occupational Health and Safety
+
+Employment Practices
+
+Training and Education
+
+Employment Practices
+
+Use of Resources
+
+Environmental Protection 
+
+Emissions and Waste Management
+
+Environmental Protection
+
+Local Communities
+
+Engaging the Community 
+
+6 The boundary for impacts within the Group aligns with the Reporting Boundary.
+
+7 The boundary for impacts outside the Group takes reference from the key external stakeholders identified for the reporting year.
+
+
+11
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+RESPONSIBLE OPERATION
+
+Segment
+
+Professional IT Services
+
+Azeus Products
+
+Revenue (HK$)
+
+HK$97.9 million
+
+HK$49.9 million
+
+Share of Group revenue (%)
+
+66%
+
+34%
+
+The major sector served by Azeus includes the public sector, for which the Group has completed over 
+
+100 projects for more than 40 government departments in Hong Kong. In addition, the Group has also 
+
+completed over 20 projects for the private sector in Hong Kong. 
+
+In the reporting year, the total liabilities and total shareholders’ equity of the Group were HK$46.8 
+
+million and HK$96.8 million respectively. The net profit for the reporting year was HK$12.6 million. 
+
+There was no significant change to the organization and our supply chain in the reporting year.
+
+Economic Performance is a core concern of the Company. The Company monitors its economic 
+
+performance by having a budgeting process in place. An annual budget is set, which is then reviewed 
+
+periodically throughout the financial year to monitor whether the targets set are met, and what actions 
+
+can be taken to help achieve the same. 
+
+Details of the business segments and their economic performances are in the table below: 
+
+Economic Performance
+
+Statement of Economic Value Generated and Distributed
+
+FY2019
+
+FY2018
+
+HK$'000
+
+%
+
+HK$'000
+
+%
+
+ECONOMIC VALUE GENERATED
+
+Revenue
+
+ 147,834 
+
+102,360
+
+Other income
+
+ 91 
+
+12,304
+
+TOTAL ECONOMIC VALUE GENERATED
+
+147,925
+
+100
+
+114,664
+
+100
+
+ECONOMIC VALUE DISTRIBUTED
+
+EMPLOYEE WAGES &amp; BENEFITS
+
+ 
+
+Salaries and Wages
+
+ 82,957 
+
+77,643 
+
+TOTAL
+
+82,957
+
+56
+
+77,643
+
+68
+
+
+12
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+RESPONSIBLE OPERATION
+
+OPERATING EXPENSES
+
+Subcontractors’ expenses
+
+1,736
+
+767
+
+Depreciation, amortisation and 
+
+impairment
+
+4,842
+
+8,574
+
+Other operating expenses
+
+40,463
+
+24,499
+
+TOTAL
+
+47,041
+
+32
+
+33,840
+
+29
+
+PAYMENT TO GOVERNMENT
+
+Income Taxes
+
+4,938
+
+964
+
+Other Taxes
+
+356
+
+352
+
+TOTAL
+
+5,294
+
+4
+
+1,316
+
+1
+
+TOTAL ECONOMIC VALUE DISTRIBUTED
+
+135,292
+
+92
+
+112,799
+
+98
+
+ECONOMIC VALUE RETAINED
+
+12,633
+
+8
+
+1,865
+
+2
+
+Economic Value Generated and Distributed
+
+Operating expenses
+
+32%
+
+Employee expenses
+
+56%
+
+Payment to government
+
+4%
+
+Economic Value
+
+retained
+
+8%
+
+Economic Value
+
+distributed
+
+92%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The economic value distributed by the Group in FY2019 amounted to approximately HK$135.3 million, 
+
+or 92% of the economic value generated. Most of this amount refers to salaries and wages (56%). 
+
+Compared to the FY2018 figures, the economic value distributed by the Group rose by 20%.
+
+Statement of Economic Value Generated and Distributed (continued)
+
+
+13
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+RESPONSIBLE OPERATION
+
+Customer Data Protection and Customer Privacy 
+
+Data privacy and data security are cornerstones of customer trust. It is the Azeus’s priority to ensure 
+
+information security within our own organization as well as for our clients. The Group has a set of 
+
+measures designed to protect data that it handles across its operations.
+
+In the course of performing duties, employees may access sensitive information from customers. As 
+
+stated in the Code of Employee Conduct of Hong Kong office, Philippines office and UK office, employees 
+
+should treat all information relating to the affairs or business of the Government as confidential and 
+
+comply with relevant laws and regulations. The Group will promptly notify the government in case of 
+
+any breach of confidence of our employees. 
+
+Since 2015, Azeus UK has been assessed and certified as meeting the requirements of ISO 27001 
+
+for software development sales and first line of support. The UK office has in place the Information 
+
+Classification Policy for ensuring that information assets receive an appropriate level of protection 
+
+by assigning classifications to information assets according to its levels of sensitivity. The UK office 
+
+also establishes the Acceptable Use of IT Facilities to prohibit unauthorized access to information 
+
+or facilities. Employees should be aware of the general information protection measures, such as 
+
+preventing disclosure of personal system passwords or security details, leaving computers unattended 
+
+without logging off, as well as always checking removable media for viruses. 
+
+Target for 2020
+
+Anti-corruption
+
+•	
+
+To provide additional anti-corruption training to internal stakeholders 
+
+based in different geographical regions of Azeus’s operations 
+
+Azeus is committed to improving supply chain and quality management to provide customers with 
+
+quality products and services. The Group establishes a series of operational measures covering the 
+
+anti-corruption, customer data protection and customer privacy, and procurement practices. 
+
+Anti-corruption  
+
+Corruption negatively impacts social and economic development as well as environmental sustainability. 
+
+The value of Azeus underpins a high standard of ethical conduct. Respecting and believing in fair 
+
+development opportunities and sustainable development of society, the Group stands firm against 
+
+corruption.
+
+As stated in the Group’s policies, employees should avoid situation which might make it difficult to act or 
+
+make decision in the best interests of the Group. The Hong Kong office, Philippines office and UK office 
+
+establish the Code of Conduct to outline our requirements to the employees. All employees should be 
+
+fully aware that soliciting or accepting advantages is a serious crime which should be prohibited in any 
+
+circumstances. If the acceptance of an advantage is unavoidable for reasons of courtesy, employee 
+
+must immediately report the offer or acceptance to the Group for disposal or retrospective permission. 
+
+Employees should also avoid or declare any conflicts of interest. 
+
+During the reporting year, there were no confirmed incidents of corruption or any legal cases regarding 
+
+corruption within the Group.  
+
+Moving forward, Azeus plans to achieve the following target for anti-corruption:
+
+
+14
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+RESPONSIBLE OPERATION
+
+Procurement Practices 
+
+Azeus seeks to work with our suppliers by sharing the Group’s commitment to managing social 
+
+and environmental risks throughout the lifecycle of the business operations. The Hong Kong office 
+
+establishes the Instruction for Green Procurement to outline the procurement process. 
+
+STAGE 1
+
+ 
+
+STAGE 2
+
+ 
+
+STAGE 3
+
+ 
+
+DETERMINING GOODS/
+
+SERVICES TO BE 
+
+PURCHASED  
+
+SELECTING SUPPLIERS 
+
+AND SERVICE 
+
+PROVIDERS 
+
+MONITORING AND 
+
+CHECKING
+
+•	
+
+The Group employs 
+
+a tendering-based 
+
+procurement process. 
+
+Suppliers are 
+
+encouraged to submit 
+
+proposals electronically.
+
+•	
+
+The environmental 
+
+performance of 
+
+suppliers is reviewed 
+
+regularly.
+
+•	
+
+Suppliers with 
+
+unsatisfactory 
+
+performance are 
+
+communicated through 
+
+appropriate channels, 
+
+including emails and 
+
+direct calls.
+
+•	
+
+Environmental 
+
+evaluation of potential 
+
+suppliers is conducted 
+
+based on the 
+
+previous performance 
+
+assessment records.
+
+•	
+
+The order or contract 
+
+of suppliers will 
+
+be declined if their 
+
+environmental 
+
+performance are found 
+
+“Unacceptable”.
+
+In the reporting year, there were no cases of incidents, complaints or non-compliance in relation to 
+
+breaches of customer privacy within the Group.
+
+
+15
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+EMPLOYMENT PRACTICES
+
+Decent work and reasonable remuneration is a key to improving the standard of living of the 
+
+employees. One of the targets of the United Nations’ sustainable development goals is to achieve full 
+
+and productive employment and decent work for all women and men, including young people and 
+
+persons with disabilities, and equal pay for work of equal value by 2030. To help realise this goal, the 
+
+Group establishes a set of labour standards that provides fair remuneration for all employees.
+
+Categories
+
+Percentage of employees
+
+By gender
+
+Male
+
+64%
+
+Female
+
+36%
+
+By age
+
+&lt;30 years old 
+
+48%
+
+30-50 years old
+
+48%
+
+&gt;50 years old
+
+4%
+
+By position
+
+Senior management
+
+3%
+
+Middle management 
+
+37%
+
+Entry-level/General employees 
+
+60%
+
+Total workforce
+
+318
+
+Male to female employee ratio
+
+1.8:1
+
+Categories
+
+Percentage of employees
+
+By gender
+
+Male
+
+56%
+
+Female
+
+44%
+
+By age
+
+&lt;30 years old 
+
+89%
+
+30-50 years old
+
+11%
+
+&gt;50 years old
+
+0%
+
+Total percentage of new employee hires
+
+18%
+
+Employment Management System 
+
+Azeus establishes a set of employment policies in relation to employment practices, including 
+
+recruitment, promotion, dismissal, working hours, leaves, insurance, compensation and benefits. Their 
+
+employment policies set the Group’s expectation clear with our employees, while safeguarding fair 
+
+treatment of employees through transparent practices.
+
+As the Group has global entities, the Group ensures that all entities comply with the local employment 
+
+regulations set in the country where the entity operates. 
+
+To promote work-life balance for the employees, the Group organizes a variety of fun-filled activities, 
+
+such as biking, hiking and lunch gathering. These activities also aim at promoting interaction between 
+
+employees and esprit de corps in the Group. 
+
+
+16
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+EMPLOYMENT PRACTICES
+
+Diversity and Equal Opportunities 
+
+Azeus cherishes our employees and treats them with respect and dignity in a safe environment free 
+
+from discrimination and harassment. The Group is committed to achieving equal opportunity in the 
+
+workforce and treating all employees fairly, without regard to any characteristics that have no bearing 
+
+on job performance. The Group establishes the Equal Opportunities Policy to outline the procedures 
+
+with regard to recruitment and selection, training and promotion. 
+
+ 
+
+The Group reviews the effectiveness of the policy and action regularly to identify areas of and reasons 
+
+for unintentional impact on particular groups in the workforce, as well as identify appropriate corrective 
+
+action, such as defining targets for future change to take place. 
+
+Categories
+
+Board composition (by percentage)  
+
+By Gender
+
+Male
+
+80%
+
+Female
+
+20%
+
+By age
+
+&lt;30 years old 
+
+0%
+
+30-50 years old
+
+0%
+
+&gt;50 years old
+
+100%
+
+Commitment for 2020
+
+Employment
+
+•	
+
+To review the coverage of employees on basic pension, medical insurance, 
+
+work injury insurance and maternity insurance
+
+Going forward, the Group aims to improve its employment system with the following commitment:
+
+The policy and action programmes are communicated widely to employees. The legally required 
+
+notices are openly displayed to promote employees and applicants’ awareness of equal opportunity. 
+
+The Group establishes the grievance procedure for employees to raise their concern on any unfair or 
+
+unlawful discrimination or any type of racist or sexist abuse or harassment, through approaching the 
+
+relevant Group HR director. 
+
+Going forward, the Group aims to further achieve diversity and equal opportunities at the work place 
+
+with the following commitment:
+
+Commitment for 2020
+
+Diversity and 
+
+Equal 
+
+Opportunities
+
+•	
+
+To provide regular trainings on diversity and equal opportunities to 
+
+employees based in different geographical regions and engaged in 
+
+different functions of work. 
+
+
+17
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+EMPLOYMENT PRACTICES
+
+Hong Kong Office
+
+On account of Azeus’s office-based nature, the Group identifies the prolonged use of display screen 
+
+equipment (continuously for at least 4 hours; or cumulatively for at least 6 hours during a day) as the 
+
+major risks of occupational hazards and injuries. The Group implements preventive measures, such 
+
+as providing guidelines on recommended computer workshop design and working posture, as well 
+
+as improving work organization and work practice. The Group also establishes the Manual Handling 
+
+Guidelines to advise employees on correct posture of handling loads to prevent incorrect application 
+
+of bodily force, and to provide guidance on the use of protective and appropriate clothing. 
+
+To go beyond the standard set out in the regulations and to maintain a safe and healthy workplace, 
+
+employees could directly report to the HR or Admin Department if they encounter any incidents. 
+
+Philippines Office 
+
+The Safety Committee established for Philippines Office include: 
+
+•	
+
+conducting	or	facilitating	safety	and	health	training;
+
+•	
+
+providing	resources	related	to	health	and	safety	for	supervisors	and	employees;
+
+•	
+
+identifying	potential	hazards;
+
+•	
+
+identifying	methods	to	control	or	eliminate	the	hazards;
+
+•	
+
+ensuring	employees	engage	in	safe	and	healthful	work	practices.
+
+Employees participate in regular health and safety inspections to identify potential hazardous 
+
+conditions. After reviewing, the Safety Committee will implement timely corrective actions and notify 
+
+the outcome to the employee who reported the hazard or potential hazard. 
+
+Occupational Health and Safety
+
+Occupational health risks are identified to be a core threat to Azeus. Stringent management policies 
+
+and regulations are in place to avoid injuries and health problems whenever possible. Apart from 
+
+compliance with the relevant laws and regulations, the Group also establishes rules and practices that 
+
+go beyond the statutory requirements. The Group establishes the Safety Committee at each office to 
+
+coordinate, implement and administer the safety and health program.
+
+Number
+
+Rate
+
+Number of fatalities by work-related injury
+
+0
+
+0%
+
+Number of high-consequence work-related injuries (excluding 
+
+fatalities)
+
+0
+
+0%
+
+Number of recordable work-related injuries
+
+0
+
+0%
+
+Number of fatalities caused by work-related ill health
+
+0
+
+0%
+
+Number of recordable work-related ill health
+
+0
+
+0%
+
+
+18
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+United Kingdom Office 
+
+Apart from providing Health and Safety Guidelines which outline the good practices at offices, the Group 
+
+also establishes the Health and Safety Policy for the United Kingdom office, which aims at ensuring 
+
+a safe working environment for employees working alone and providing guidance on the avoidance 
+
+and reduction of risks related to health and safety. Risk assessment is conducted for identifying the 
+
+improvement of procedures and safety equipment. The Line Managers are kept informed and are 
+
+assigned to continuously review the risks
+
+Going forward, the Group has set out the following social targets for occupational health and safety:
+
+Training and Education 
+
+Azeus promotes a culture of lifelong learning and supports our employees to achieve their full potential. 
+
+The Group office establishes the Training and Development Policy to help fulfil our commitment to the 
+
+continuous development of our employees through a planned and structured approach to learning. 
+
+The Group proactively assesses the training needs of employees through the Training Needs 
+
+Assessment (“TNA”). Based on the organizational direction, needs of employee and project, as well as 
+
+the changes of processes and procedures, the TNA group which consists of management team and 
+
+Human Resources department performs the assessment to identify and analyse the training needs. 
+
+The identified training needs will then be submitted to Azeus Institute for subsequent arrangements. 
+
+The Azeus Institute provides training programmes on a wide spectrum of topics such as orientation, web 
+
+programming and product testing. After the training, the trainer will conduct evaluation and arrange 
+
+discussion with the participants to gather feedbacks for improving subsequent training courses and 
+
+projects.  
+
+Targets for 2020
+
+Occupational 
+
+Health and Safety
+
+•	
+
+To develop procedures to identify work-related hazards and assess risks
+
+•	
+
+To provide awareness training on occupational health and safety
+
+•	
+
+To optimise accident or incident investigation procedures
+
+•	
+
+To optimise safety inspection procedures to cover the work environment, 
+
+workers’ health, and first aid and emergency treatment
+
+•	
+
+To optimise the functions and increase the coverage of the safety 
+
+committee to allow worker participation and consultation related to 
+
+occupational health and safety issues
+
+EMPLOYMENT PRACTICES
+
+
+19
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+ENVIRONMETAL PROTECTION
+
+Water reduction initiatives
+
+•	 regularly checking pipes and taps for leakage and repairing when needed
+
+•	 regularly monitoring water consumption
+
+•	 adopting water efficient appliances
+
+Azeus seeks to continually improve environmental performance of our business operations. Recognizing 
+
+the escalating effects of environmental degradation, the Group establishes the Environmental Policy to 
+
+incorporate measures for environmental protection throughout our operations. Apart from advocating 
+
+the environmental initiatives internally, the Group also formulates the Environmental Guidance Notes 
+
+to stipulate our requirements to the suppliers and contractors. 
+
+The Hong Kong office implements the Environmental Management System (EMS) that complies with 
+
+the requirements of ISO 14001 standards. To improve awareness of the employees, the Hong Kong 
+
+office provides regular environmental training to the employees. 
+
+Use of Resources
+
+A core component of maintaining sustainable development is to effectively manage the use of 
+
+resources so that the well-being of future generations will not be endangered. Azeus is committed to 
+
+integrate measures to conserve resources into our business decisions. 
+
+Water consumption 
+
+While currently Azeus’s operation does not face any water scarcity, the Group acknowledges the global 
+
+water stress and that the world is in need of more stable supply of clean water. By assessing our water 
+
+consumption, the Group is able to effectively manage and reduce water usage. The Group adopts a 
+
+series of measures to effectively manage the use of water.
+
+Region
+
+Water Consumed
+
+in FY2019 (cubic meter)
+
+Water Consumed 
+
+in FY2018 (cubic meter)
+
+Hong Kong 
+
+48
+
+59
+
+Philippines 
+
+155
+
+214
+
+United Kingdom
+
+15
+
+58
+
+Total
+
+218
+
+331
+
+Target actions for 2020
+
+Water and 
+
+Effluents
+
+•	
+
+To review the outcomes of water reduction initiatives 
+
+•	
+
+To identify an action plan for continuous reduction of water consumption  
+
+
+20
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+Energy Use
+
+It is Azeus’s aim to make a positive influence while ensuring business continuity. The Group has in 
+
+place a series of initiatives to reduce energy consumption of our operations.  
+
+Target for 2020
+
+Energy 
+
+consumption
+
+•	
+
+To identify and implement more diverse initiatives of  energy efficiency, 
+
+specifically for the Philippines office, replacement of fluorescent lights with 
+
+LED system to be carried out by end of FY2020
+
+Energy reduction initiatives 
+
+Electrical appliances 
+
+•	
+
+Switching off idle office 
+
+equipment (e.g. monitors, 
+
+computers, printers and 
+
+photocopiers) when they are 
+
+not in use
+
+•	
+
+Setting appliances to energy 
+
+saving mode where possible
+
+Air-conditioning 
+
+•	
+
+Ensuring that external doors 
+
+are closed to conserve 
+
+internal heat/cold
+
+Lighting
+
+•	
+
+Maximizing the use of natural 
+
+light 
+
+•	
+
+Switching off office lights 
+
+when not in use
+
+Region
+
+Energy consumed in 
+
+FY2019 (GJ)
+
+Energy consumed in 
+
+FY2018 (GJ)
+
+Hong Kong 
+
+281
+
+318
+
+Philippines 
+
+1,020
+
+1,099
+
+United Kingdom
+
+9
+
+24
+
+Total
+
+1,310
+
+1,441
+
+Emissions and Waste Management 
+
+Greenhouse Gas (“GHG”) and Air Emissions
+
+GHG emissions are closely related to climate change. To quantify the GHG emissions produced by the 
+
+operations, Azeus conducted carbon assessment with reference to GHG protocol guidelines. 
+
+Apart from adopting energy reduction measures, Azeus also strives to implement relevant GHG 
+
+reduction measures through utilizing the green application technology. 
+
+ENVIRONMENTAL PROTECTION
+
+
+21
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+ENVIRONMENTAL PROTECTION
+
+Application technology: Convene Board Portal
+
+The Company developed Convene, an award-winning meeting solution provider that enhances the 
+
+effectiveness and efficiency of meetings, from organising and distribution to conducting, documenting, 
+
+and generating actions. It supports both paperless and remote meetings, enabling staff to save on paper 
+
+costs for printing documents, as well as transportation costs for traveling to meeting venues. With 
+
+Convene, organizations can reduce paper usage by as much as 100,000 pages per month. Cost savings 
+
+can be verified using this calculator: https://www.azeusconvene.com/paperless-board-meeting-savings-
+
+calculator.
+
+As proof of its continuous innovation and widening reach, Convene has received multiple awards from 
+
+prestigious institutions:
+
+In 2016, Convene was hailed as the Storage and Information Management Solution of the Year at the 
+
+concluded European IT &amp; Software Excellence Awards, besting hundreds of software entries from more 
+
+than 31 countries. Past awardees include trusted brands such as Hewlett Packard, Red Hat, and VMWare. 
+
+Convene also brought home two silver awards Best in Biz International Awards in two categories: Most 
+
+Innovative Product of the Year – Enterprise and App of the year – Enterprise and SMB. With its highly 
+
+selective panel of judges, best in Biz Awards is able to leverage the experience and expertise of an 
+
+influential group of global opinion makers to determine award winners.
+
+In 2017, Convene was dubbed as the winner of the Golden Peacock Innovative Product/Service Award 
+
+that was established by the Institute of Directors (IoD) of India. It is a great honour for a Hong Kong-based 
+
+product to win an award in India, where the top IT companies are based.
+
+In 2018, Convene received two accolades from internationally acclaimed institutions – a Silver Award 
+
+for Innovation in Business Utility Apps at the Asia-Pacific Stevie Awards and the title of SaaS Enterprise 
+
+Solution of the Year at the European IT &amp; Software Excellence Awards.
+
+Convene’s growth as a commercial, off-the-shelf solution is aligned with the Company’s vision to not 
+
+only use solutions that reduce carbon footprint, but also to provide said solutions to other organizations 
+
+looking to achieve the same goal.
+
+In the reporting year, Azeus completed assessment of GHG emissions for the operations of the Hong 
+
+Kong office, Philippines office, and UK office, with results summarized in the following table: 
+
+Scope
+
+Emissions (tonnes)
+
+Direct (Scope 1) GHG emissions
+
+0
+
+Indirect (Scope 2) GHG emissions
+
+285
+
+Other indirect (Scope 3) GHG emissions
+
+42
+
+Total GHG emissions
+
+327
+
+
+22
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+
+
+ENVIRONMENTAL PROTECTION
+
+The Group will annually assess, record and disclose our GHG emissions. Annual monitoring of emission 
+
+data will help with formulation of more accurate emissions reduction targets in the coming years.
+
+To further reduce emissions of air pollutants, the Group encourages employees to use public 
+
+transportation to travel. To understand more about our air emissions and provide stakeholders with a 
+
+more comprehensive overview of our environmental performance, the Group will continue to improve 
+
+its data collection system and cover other air emissions, including ozone-depleting substances, 
+
+nitrogen oxides, sulfur oxides and other significant air emissions among the value chain.  
+
+The Environmental Management Representative (EMR) should ensure that the specified waste 
+
+management practices are followed by employees and contractors while the Administration 
+
+Department is responsible for identifying the noncompliance and corrective actions. 
+
+Region
+
+Waste generated  (kg)
+
+Hazardous wastes 
+
+158
+
+Non-hazardous wastes 
+
+538
+
+Targets for 2020
+
+GHG emissions
+
+•	
+
+To review and prioritise actions for the reduction of GHG emissions
+
+•	
+
+To improve environmental data collection system
+
+Waste Management
+
+While business operations of Azeus produce different types of waste, the Group makes an effort to 
+
+ensure that each type of waste is appropriately handled by qualified bodies to minimize our impact on 
+
+the environment during the process of disposal.
+
+The Hong Kong office formulates the instruction for outlining appropriate waste management practices. 
+
+Waste type
+
+General waste
+
+Chemical waste
+
+Regulated electrical 
+
+equipment
+
+Handling 
+
+procedures
+
+•	
+
+Solid wastes are 
+
+segregated to 
+
+general refuse, paper 
+
+wastes, packaging 
+
+wastes and metal 
+
+wastes for recycling
+
+•	
+
+Personnel (e.g. 
+
+cleaning staff or 
+
+contractor) are 
+
+assigned to collect 
+
+and transfer the 
+
+waste to storage 
+
+area
+
+•	
+
+Licensed 
+
+collectors are 
+
+appointed to 
+
+collect and 
+
+dispose of UPS 
+
+batteries 
+
+•	
+
+UPS batteries 
+
+are stored in 
+
+separated storage 
+
+container 
+
+•	
+
+Appropriate practices 
+
+are adopted to collect 
+
+the regulated electrical 
+
+equipment, e.g.: 
+
+•	
+
+choosing the statutory 
+
+free removal service
+
+•	
+
+delivering to Community 
+
+Green Stations 
+
+•	
+
+delivering E-waste 
+
+Collection Vehicle 
+
+stations 
+
+•	
+
+appointing licensed 
+
+collectors
+
+
+23
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+ENGAGING THE COMMUNITY
+
+Local Communities
+
+As a caring enterprise, Azeus is keen on fulfilling the expectations of various stakeholders and the 
+
+communities which we operate in. The Group is committed to investing in and supporting different 
+
+initiatives. For example, the Group provides scholarships for select students and offers on-the-job 
+
+training to expose college students to the IT industry.
+
+The Group provides support to employees when they volunteer in or sponsor community events. They 
+
+are entitled to take sabbatical leave, financial allowances or stipends, for activities such as teaching in 
+
+Universities.
+
+Care for the Elderly and the Underprivileged
+
+The Hong Kong office organized a Chinese sticky rice dumpling handicraft making activity in June 2019. 
+
+The volunteer team had a great time making more than 50 traditional paper rice dumplings. The paper 
+
+dumplings were then sent to Hong Kong Christian Service and the Hong Kong Society for the Aged for a 
+
+shower of festive blessings for the Dragon Boat Festival.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+24
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+GRI CONTENT INDEX
+
+
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 102: General Disclosures 2016
+
+Organizational Profile
+
+102-1
+
+Name of the organization
+
+-
+
+1
+
+-
+
+102-2
+
+Activities, brands, products, and 
+
+services
+
+-
+
+1-3
+
+-
+
+102-3
+
+Location of headquarters
+
+-
+
+1
+
+-
+
+102-4
+
+Location of operations
+
+-
+
+1
+
+-
+
+102-5
+
+Ownership and legal form
+
+-
+
+1
+
+-
+
+102-6
+
+Markets served
+
+-
+
+1,3,11
+
+-
+
+102-7
+
+Scale of the organization
+
+-
+
+1-3
+
+-
+
+102-8
+
+Information on employees and other 
+
+workers
+
+-
+
+15
+
+-
+
+102-9
+
+Supply chain
+
+-
+
+14
+
+-
+
+102-10
+
+Significant changes to the 
+
+organization and its supply chain
+
+-
+
+-
+
+Convene DWC LLC and 
+
+Convene India Private 
+
+Limited were incorporated;
+
+There were no significant 
+
+changes to its supply chain
+
+102-11
+
+Precautionary Principle or approach
+
+-
+
+8
+
+-
+
+102-12
+
+External initiatives
+
+-
+
+-
+
+In review
+
+102-13
+
+Membership of associations 
+
+-
+
+-
+
+Information unavailable
+
+Strategy
+
+102-14
+
+Statement from senior decision-
+
+maker
+
+LR711B 
+
+-1e
+
+6
+
+-
+
+102-15
+
+Key impacts, risks, and opportunities
+
+PN7.6-
+
+3.3
+
+8
+
+-
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+-
+
+3
+
+-
+
+Governance
+
+102-18
+
+Governance structure 
+
+PN7.6-
+
+3.1
+
+7
+
+-
+
+102-21
+
+Consulting stakeholders on 
+
+economic, environmental, and social 
+
+topics
+
+PN7.6-
+
+3.7
+
+9
+
+-
+
+102-29
+
+Identifying and managing economic, 
+
+environmental, and social impacts
+
+PN7.6-
+
+3.3
+
+9-10
+
+-
+
+
+25
+
+GRI CONTENT INDEX
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+Stakeholder Engagement
+
+PN7.6-3.3
+
+102-40
+
+List of stakeholder groups 
+
+9
+
+-
+
+102-41
+
+Collective bargaining agreements
+
+-
+
+Information unavailable
+
+102-42
+
+Identifying and selecting 
+
+stakeholders 
+
+9
+
+-
+
+102-43
+
+Approach to stakeholder 
+
+engagement
+
+9
+
+-
+
+102-44
+
+Key topics and concerns raised
+
+10
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements 
+
+-
+
+1
+
+-
+
+102-46
+
+Defining report content and topic 
+
+Boundaries 
+
+-
+
+4
+
+-
+
+102-47
+
+List of material topics 
+
+-
+
+9
+
+-
+
+102-48
+
+Restatements of information
+
+-
+
+-
+
+There were no 
+
+restatements of 
+
+information
+
+102-49
+
+Changes in reporting 
+
+-
+
+9
+
+-
+
+102-50
+
+Reporting period 
+
+-
+
+4
+
+-
+
+102-51
+
+Date of most recent report 
+
+-
+
+-
+
+29 March 2019  
+
+102-52
+
+Reporting cycle
+
+-
+
+4
+
+-
+
+102-53
+
+Contact point for questions 
+
+regarding the report 
+
+-
+
+5
+
+-
+
+102-54
+
+Claims of reporting in accordance 
+
+with the GRI Standards
+
+LR711B-
+
+1d
+
+-
+
+GRI-referenced claim 
+
+102-55
+
+GRI content index
+
+-
+
+24-27
+
+-
+
+102-56
+
+External assurance 
+
+PN7.6-
+
+3.8
+
+-
+
+In review
+
+Material Topics
+
+GRI 205: Economic Performance 2016
+
+103
+
+Management approach disclosures
+
+LR711B- 
+
+1 b&amp;c
+
+-
+
+Annual Report 2019
+
+201-1
+
+Direct economic value generated 
+
+and distributed
+
+-
+
+11-12
+
+-
+
+201-2
+
+Financial implications and other risks 
+
+and opportunities due to climate 
+
+change
+
+-
+
+11-12
+
+-
+
+201-4
+
+Financial assistance received from 
+
+government
+
+-
+
+-
+
+There was no financial 
+
+assistance received from 
+
+government
+
+GRI 204: Procurement Practices 2016
+
+103
+
+Management approach disclosures
+
+LR711B- 
+
+1 b&amp;c
+
+14
+
+-
+
+
+26
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+GRI CONTENT INDEX
+
+
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 205: Anti-corruption 2016
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+13
+
+-
+
+205-3
+
+Confirmed incidents of corruption 
+
+and actions taken
+
+-
+
+13
+
+-
+
+GRI 302: Energy 2016
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+20
+
+-
+
+302-1
+
+Energy consumption within the 
+
+organization
+
+-
+
+20
+
+-
+
+302-2
+
+Energy consumption outside of the 
+
+organization
+
+-
+
+20
+
+-
+
+302-4
+
+Reduction of energy consumption
+
+-
+
+20
+
+-
+
+302-5
+
+Reductions in energy requirements 
+
+of products and services
+
+-
+
+20
+
+-
+
+GRI 303: Water and Effluents 2018
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+19
+
+-
+
+303-1
+
+Interactions with water as a shared 
+
+resource
+
+-
+
+19
+
+-
+
+303-2
+
+Management of water discharge-
+
+related impacts
+
+-
+
+19
+
+-
+
+303-3
+
+Water withdrawal
+
+-
+
+19
+
+-
+
+GRI 305: Emissions 2016
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+20-22
+
+-
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+-
+
+21
+
+-
+
+305-2
+
+Energy indirect (Scope 2) GHG 
+
+emissions
+
+-
+
+21
+
+-
+
+305-3
+
+Other indirect (Scope 3) GHG 
+
+emissions
+
+-
+
+21
+
+-
+
+305-5
+
+Reduction of GHG emissions
+
+-
+
+22
+
+-
+
+GRI 306: Effluents and Waste 2016 (waste-related only)
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+22
+
+-
+
+306-2
+
+Waste by type and disposal method
+
+-
+
+22
+
+-
+
+306-3
+
+Significant spills
+
+-
+
+-
+
+There were no spills 
+
+306-4
+
+Transport of hazardous waste
+
+-
+
+22
+
+-
+
+GRI 401: Employment
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+15
+
+-
+
+401-1
+
+New employee hires and employee 
+
+turnover
+
+-
+
+15
+
+-
+
+
+27
+
+GRI CONTENT INDEX
+
+
+
+AZEUS SYSTEMS HOLDINGS LTD.
+
+SUSTAINABILITY REPORT 2019
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 403: Occupational Health and Safety 2018
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+17-18
+
+-
+
+403-1
+
+Occupational health and safety 
+
+management system
+
+-
+
+17-18
+
+-
+
+403-2
+
+Hazard identification, risk 
+
+assessment, and incident 
+
+investigation
+
+-
+
+17-18
+
+-
+
+403-3
+
+Occupational health services 
+
+-
+
+17-18
+
+-
+
+403-9
+
+Work-related injuries
+
+-
+
+17
+
+-
+
+403-10
+
+Work-related ill health
+
+-
+
+17
+
+-
+
+GRI 404: Training and Education 2016  
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+18
+
+-
+
+404-2
+
+Programs for upgrading employee 
+
+skills and transition assistance 
+
+programs
+
+-
+
+18
+
+-
+
+GRI 405: Diversity and Equal Opportunity 2016
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+16
+
+-
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+-
+
+16
+
+-
+
+GRI 413: Local Communities 
+
+103
+
+Management approach disclosures
+
+LR711B-
+
+1 b&amp;c
+
+23
+
+-
+
+413-1
+
+Operations with local community 
+
+engagement, impact assessments, 
+
+and development programs
+
+-
+
+23
+
+-
+
+413-2
+
+Operations with significant actual 
+
+and potential negative impacts
+
+on local communities
+
+-
+
+23
+
+-
+
+
+Azeus Systems Holdings Ltd.
+
+22/F Olympia Plaza
+
+255 King’s Road, North Point
+
+Hong Kong
+
+Tel: +(852) 2893 3673
+
+Fax: +(852) 2574 4952
+
+Website: www.azeus.com
+
+Incorporated in Bermuda on 10 May 2004
+
+Registration Number: 35312
+

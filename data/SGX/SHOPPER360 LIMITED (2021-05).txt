@@ -1,0 +1,4323 @@
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability 
+
+Report 
+
+2021 
+
+
+2 
+
+ 
+
+Table of Contents  
+
+ABOUT THIS REPORT ................................................................................................................ 3 
+
+BOARD STATEMENT ON SUSTAINABILITY ............................................................................. 4 
+
+CORPORATE PROFILE ............................................................................................................... 6 
+
+GROUP STRUCTURE .................................................................................................................. 7 
+
+Group’s Vision ........................................................................................................................... 8 
+
+Group’s Mission ......................................................................................................................... 8 
+
+OUR RESPONSE TO COVID-19 .................................................................................................. 9 
+
+Providing Essential Services During Movement Control Order (“MCO”) .................................. 9 
+
+Providing A Safe Environment For Employees To Carry Out Their Duties .............................. 9 
+
+APPROACH TO SUSTAINABILITY ........................................................................................... 10 
+
+Engaging Our Stakeholders .................................................................................................... 10 
+
+Materiality Assessment ........................................................................................................... 12 
+
+Our Material Topics And Targets ........................................................................................ 13 
+
+ECONOMIC ................................................................................................................................. 14 
+
+Economic Performance ........................................................................................................... 14 
+
+Opportunities For Internal And External Growth Via Innovation And Digital Enablement .. 16 
+
+Anti-Corruption ........................................................................................................................ 23 
+
+ENVIRONMENTAL ..................................................................................................................... 24 
+
+Environmental Compliance ..................................................................................................... 24 
+
+SOCIAL ....................................................................................................................................... 26 
+
+Diversity And Equal Opportunity ............................................................................................. 26 
+
+Non-Discrimination .................................................................................................................. 28 
+
+Training And Education ........................................................................................................... 29 
+
+Socioeconomic Compliance .................................................................................................... 31 
+
+Customer Privacy .................................................................................................................... 32 
+
+GOVERNANCE ........................................................................................................................... 33 
+
+Corporate Governance ............................................................................................................ 33 
+
+Risk Management ................................................................................................................... 33 
+
+GRI STANDARDS CONTENT INDEX ........................................................................................ 34 
+
+ 
+
+
+
+This report has been prepared by shopper360 Limited (the “Company”) and its contents have 
+
+been reviewed by the Company’s sponsor, ZICO Capital Pte. Ltd. (the “Sponsor”), in 
+
+accordance with Rule 226(2)(b) of the Singapore Exchange Securities Trading Limited (“SGX-
+
+ST”) Listing Manual Section B: Rules of Catalist. 
+
+ 
+
+This report has not been examined or approved by the SGX-ST and the SGX-ST assumes no 
+
+responsibility for the contents of this report, including the correctness of any of the statements 
+
+or opinions made or reports contained in this report. 
+
+ 
+
+The contact person for the Sponsor is Ms Alice Ng, Director of Continuing Sponsorship, ZICO 
+
+Capital Pte. Ltd. at 8 Robinson Road, #09-00 ASO Building, Singapore 048544, telephone: (65) 
+
+6636 4201. 
+
+
+ 
+
+3 
+
+ 
+
+ABOUT THIS REPORT 
+
+ 
+
+ 
+
+We are pleased to present our Sustainability 
+
+Report for the financial year ended 31 May 
+
+(“FY”) 2021 which covers the company’s 
+
+strategies, initiatives and performance in 
+
+relation to Economic, Environmental, Social 
+
+and Governance (“EESG”) issues. The 
+
+scope of this report covers the sustainability 
+
+performance and practices across our Group 
+
+from 1 June 2020 to 31 May 2021, unless 
+
+otherwise stated. 
+
+ 
+
+This report, produced in accordance with the 
+
+Global Reporting Initiatives (“GRI”) Standard 
+
+(Core 
+
+Option), 
+
+includes 
+
+the 
+
+primary 
+
+components as set out in Rules 711A and 
+
+711B of the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Listing Manual 
+
+Section B: Rules of Catalist for sustainability 
+
+reporting. The GRI Standard were selected 
+
+as it is an internationally recognised and 
+
+widely adopted reporting framework that 
+
+provides guidance to report on sustainability 
+
+matters. 
+
+ 
+
+The GRI content index and relevant 
+
+references are disclosed on pages 34 to 35 
+
+of this report. The data and information 
+
+provided have not been verified by an 
+
+independent third party. We have relied on 
+
+internal data monitoring and verification to 
+
+ensure accuracy of data and information. 
+
+ 
+
+We welcome feedback from our stakeholders with regards to our sustainability efforts as 
+
+this enables us to consistently improve our policies, systems and results. Please send your 
+
+comments and suggestions to ir@shopper360.com.my. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+4 
+
+ 
+
+BOARD STATEMENT ON SUSTAINABILITY 
+
+ 
+
+ 
+
+shopper360 Limited (the “Company”, and 
+
+together 
+
+with 
+
+its 
+
+subsidiaries, 
+
+“shopper360” or the “Group”) is a well-
+
+established 
+
+provider 
+
+of 
+
+shopper 
+
+marketing services in the retail and 
+
+consumer goods industries in Malaysia 
+
+and have more than 30 years of 
+
+experience in the in-store advertising 
+
+industry. The Group has always been 
+
+committed to sustainability and fully 
+
+supports the adoption of the SGX 
+
+sustainability reporting guidelines. We 
+
+firmly believe that building a sustainable 
+
+business is vital to our continued success. 
+
+ 
+
+2020 has been an unprecedented year, 
+
+marked by challenges from the ongoing 
+
+COVID-19 which disrupted the lives of 
+
+many globally. COVID-19 has created a 
+
+difficult social and business environment, 
+
+causing 
+
+disruptions 
+
+to 
+
+operations 
+
+throughout the world. It shaped our 
+
+operations in 2021 and we made 
+
+adaptations as it became apparent that 
+
+the crisis was not going to dissipate 
+
+anytime soon.  
+
+ 
+
+While the world grappled with the 
+
+pandemic, Myanmar woke to the news 
+
+that its military forces had retaken power 
+
+on 1 February 2021, after a decade of 
+
+democratic government. The military 
+
+government 
+
+has 
+
+imposed 
+
+periodic 
+
+shutdowns, limiting access and mobility. 
+
+With the resulting mass demonstrations 
+
+and nationwide uprising through civil 
+
+disobedience movement, this has led to 
+
+operational difficulties for businesses. 
+
+The military coup had impacted our 
+
+operations in Myanmar to a certain 
+
+extent, with some of our media contracts 
+
+being postponed or cancelled due to the 
+
+cautious outlook of our clients towards the 
+
+stability of the nation. We also had to deal 
+
+with the morale of the team, as many 
+
+were concerned about the state of their 
+
+nation 
+
+and 
+
+some 
+
+were 
+
+genuinely 
+
+concerned about safety as their work took 
+
+them mainly out-of-home and into the 
+
+stores. 
+
+ 
+
+Although 
+
+the 
+
+COVID-19 
+
+pandemic 
+
+presented many challenges, it also 
+
+brought about new opportunities. The 
+
+pandemic 
+
+accelerated 
+
+digitalisation 
+
+trends including the migration to cloud 
+
+computing, meetings and trainings being 
+
+conducted virtually, as well as services 
+
+being fulfilled through online platforms. 
+
+Many of us have acknowledge the fact 
+
+that COVID-19 will be here to stay for the 
+
+foreseeable future. While the pandemic 
+
+had been unimaginable for many, it has 
+
+also demonstrated the importance of 
+
+building resilience, challenging us to 
+
+rethink the way we work, live, and play.
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+5 
+
+ 
+
+ 
+
+Following from last year’s report, the 
+
+COVID-19 pandemic has continued to 
+
+hamper global economy growth. We had 
+
+taken several steps to safeguard our 
+
+business operations and ensure that our 
+
+business is not materially affected by the 
+
+situation. Above all, shopper360 is 
+
+committed to protecting the health and 
+
+well-being 
+
+of 
+
+all 
+
+our 
+
+stakeholders, 
+
+particularly our employees and has taken 
+
+swift actions to manage the impacts of the 
+
+pandemic as outlined in Our Response to 
+
+COVID-19 and other sections of this 
+
+report. For our Group, sustainability is 
+
+about the ability to position ourselves and 
+
+emerge stronger after this crisis. Through 
+
+understanding 
+
+the 
+
+needs 
+
+and 
+
+expectations of our stakeholders, we are 
+
+better prepared in strengthening our 
+
+sustainability position in a post-COVID-19 
+
+economy. 
+
+ 
+
+We continue to maintain oversight over 
+
+our sustainability directions, strategies 
+
+and initiatives despite the impact of the 
+
+COVID-19 pandemic during the financial 
+
+year. Our EESG management and 
+
+performance at shopper360 is overseen 
+
+by the Board, which works closely with 
+
+Senior Management to define the impact 
+
+of EESG issues on our business and our 
+
+stakeholders including our employees, 
+
+investors and the local communities in 
+
+which we operate.  
+
+ 
+
+We identify material topics for reporting 
+
+based on the significance of our EESG 
+
+factors and the degree of influence where 
+
+we see the most potential for creating 
+
+maximum value for our shareholders and 
+
+stakeholders. The materiality assessment 
+
+was 
+
+guided 
+
+by 
+
+inputs 
+
+from 
+
+our 
+
+management and key representatives 
+
+from business units as well as some 
+
+external stakeholders. 
+
+ 
+
+Material topics are reviewed annually for 
+
+their continued relevance according to 
+
+current global and local trends. In our 
+
+annual review to prioritise the material 
+
+EESG matters that are most relevant to 
+
+our operations, we have concluded that 
+
+the same matters disclosed in FY2020 
+
+remain relevant to the Group in FY2021. 
+
+ 
+
+The Group will continue to make 
+
+improvements to its sustainability efforts 
+
+and work with its stakeholders towards 
+
+promoting sustainability in its businesses. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+6 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+shopper360 is a well-established shopper 
+
+marketing services provider in the retail and 
+
+consumer goods industries in Malaysia with 
+
+more than 30 years of experience in the in-
+
+store advertising industry.  
+
+ 
+
+The Group offers a comprehensive range of field, digital and shopper marketing and 
+
+advertising services such as in-store advertising, field force management, creative and 
+
+digital solutions, sampling and promoter management and events activation. It also provides 
+
+sales distribution services for products and brands. The Group consists of nine agencies in 
+
+Malaysia, Singapore and Myanmar, namely Pos Ad, Jump Retail, Retail Galaxy, shopperplus 
+
+Malaysia, Tristar Synergy, Gazelle Activation, Marvel Distribution, shopperplus Singapore 
+
+and shopperplus Myanmar.  
+
+ 
+
+shopper360’s major supplier partners are retailers of mass consumer products, in the form 
+
+of hypermarkets, supermarkets, pharmacies and/or convenience chain and petrol marts, 
+
+stores in Malaysia, Myanmar and Singapore. The Group has a strong network of retail 
+
+partners that provide access to in-store advertising across all the main towns in Malaysia, 
+
+Myanmar and Singapore. 
+
+ 
+
+The shopper marketing services provided by the Group can be categorized into three main 
+
+segments, namely (i) In-store Advertising and Digital Marketing; (ii) Field Force 
+
+Management; (iii) Sampling Activities and Events Management; and (iv) Others. 
+
+ 
+
+ 
+
+CORPORATE 
+
+PROFILE 
+
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+GROUP STRUCTURE 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Acquired on 27 Aug 2021 
+
+
+
+100% 
+
+
+
+60% 
+
+
+
+21.5% 
+
+
+
+11% 
+
+
+
+(Active Companies Only) 
+
+
+
+
+
+NON- 
+
+AFFILIATED 
+
+COMPANIES 
+
+
+
+4.81% 
+
+
+
+3.81% 
+
+
+ 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Group’s Vision 
+
+ 
+
+To be the leading tech-driven shopper marketing experts in Asia 
+
+ 
+
+ 
+
+ 
+
+Group’s Mission 
+
+ 
+
+• We aspire to be the leader in the field of shopper marketing, sales and 
+
+distribution by providing 360 solutions such as integrated digital and 
+
+offline shopper solutions such as creative specialist, retail consultancy, 
+
+data analytics, in-store advertising, retail marketing, field force 
+
+management, promoters activation, on-ground activation and retail 
+
+technology products and services. Having established shopper360 as a 
+
+one-stop agency for shopper solutions, brands are able to speed up its 
+
+sales penetration and distribution by leveraging our network and 
+
+marketing expertise. 
+
+ 
+
+• We aspire to attract the best talent that fits our culture of forward 
+
+thinking, forward doing, collaboration whilst cultivating an environment 
+
+that promotes integrity, and develops expertise. 
+
+ 
+
+• To collaborate and be strategic with our business partners, retailers 
+
+and customers (brand owners) in providing solutions to grow their 
+
+businesses via sales and marketing efforts on the shopper marketing 
+
+front. 
+
+ 
+
+• To create memorable shopper experiences in the digital and physical 
+
+retail world. 
+
+ 
+
+• In summary, shopper360 aims to promote and advance our brand 
+
+promise of helping companies (whether retailer or brand) to ‘sell 
+
+smarter’. 
+
+ 
+
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUR RESPONSE TO COVID-19 
+
+ 
+
+ 
+
+PROVIDING ESSENTIAL SERVICES DURING MOVEMENT CONTROL 
+
+ORDER (“MCO”) 
+
+ 
+
+Jump Retail Sdn Bhd and Retail Galaxy Sdn Bhd are among the largest retail field 
+
+force management companies in Malaysia. We support brands in maintaining 
+
+world class visibility in-store, effectively executing promotional plans at retail, while 
+
+enabling customers to make decisions through real-time on-ground reports. 
+
+Constant training is held for our field force to ensure the quality of our service 
+
+remains at its best.  
+
+ 
+
+In the months of April and May 2020, Singapore went into a “Circuit Breaker” 
+
+lockdown period to curb the number of COVID-19 transmissions within the country, 
+
+while in Malaysia, the Government of Malaysia has instituted various Movement 
+
+Control Orders (“MCO”) which lasted from March 2020 till June 2021. Both of these 
+
+control orders had, to a certain extent, impacted the operations of the Group.  
+
+ 
+
+While we are challenged by the COVID-19 pandemic where some segments of the 
+
+Group took a greater hit during the pandemic, our Field Force segment in Malaysia 
+
+were allowed to operate since it was considered essential services by the 
+
+Malaysian Ministry of Trade &amp; Industry (MITI). This has helped in cushioning the 
+
+impact and enabled us to fulfill our responsibilities to our clients.  Throughout the 
+
+MCO period, our merchandisers were actively working in retail outlets nationwide 
+
+to ensure essential products were sufficiently stocked and replenished. 
+
+ 
+
+PROVIDING A SAFE ENVIRONMENT FOR EMPLOYEES TO CARRY OUT 
+
+THEIR DUTIES 
+
+ 
+
+The well-being of our employees is paramount to us. Since the emergence of 
+
+COVID-19, keeping our employees safe, healthy and fully engaged has been a 
+
+heightened priority for the Group. We established measures to ensure that all 
+
+employees across our Group functions and business units are able to carry out 
+
+their tasks safely. As a result of these initiatives, we were able to ensure the 
+
+continuity of our operations in a safe manner. As viral cases surged, the need for 
+
+seamless telecommuting methods rose. We have prepared the necessary 
+
+infrastructure and platform for our employees to work from home, ensuring they 
+
+could access systems remotely and minimising disruptions to operations.  
+
+ 
+
+Other measures implemented include on-going communications between 
+
+management and staff, provision of safety masks to staff, and tightening of safety 
+
+and health protocol across our workplace. Travelling to workplace is only out of 
+
+necessity, and temperature checks are conducted for staff prior to admitting them 
+
+into the workspace and each department is equipped with hand sanitisers. 
+
+Sanitisation at work areas is also conducted to maintain a clean and safe 
+
+environment for employees and visitors.  
+
+ 
+
+We engage employees and provide them with pandemic-related news as we 
+
+implemented various precautionary measures and issued advisories to update 
+
+employees on the latest developments.  
+
+ 
+
+
+
+
+10 
+
+ 
+
+ 
+
+APPROACH TO SUSTAINABILITY 
+
+ 
+
+ 
+
+ENGAGING OUR STAKEHOLDERS 
+
+ 
+
+The Group adopts an inclusive approach by considering and 
+
+balancing the needs and interests of material stakeholders as 
+
+part of its overall responsibility to secure the long term future of 
+
+the Company. We believe that responding to rapidly changing 
+
+stakeholder interests is crucial in sustaining its business growth 
+
+and as such it is of utmost importance that we engage with our 
+
+stakeholders to gain valuable insights and understand the 
+
+issues that they are most concerned with.  
+
+ 
+
+ 
+
+We define our stakeholders as those impacted by our business 
+
+activities, who have direct and indirect involvement and whose 
+
+interest may have positive or negative consequences due to our 
+
+business activities. The interests and requirements of key 
+
+stakeholders are also taken into account when formulating 
+
+corporate strategies. These key stakeholders include, but are 
+
+not limited to suppliers, employees, investor and shareholders, 
+
+customers, and government and regulators. We adopt both 
+
+formal and informal channels of communication to understand 
+
+the needs of key stakeholders, and incorporate these into our 
+
+corporate 
+
+strategies 
+
+to 
+
+achieve 
+
+mutually 
+
+beneficial 
+
+relationships. Through the above steps, we were able to gain an 
+
+understanding of the sustainability issues that matter most to 
+
+our key stakeholders. We then earmarked the material factors 
+
+and assessed their materiality in the context of our business 
+
+operations, with reference to the respective GRI standards. 
+
+ 
+
+The Group is committed in engaging all of our stakeholders as part of our continued 
+
+sustainability endeavors. We view stakeholder engagement as a continual process and not 
+
+a one-off event. The identification and management of material issues are carried out 
+
+annually to ensure their relevance to our stakeholders. 
+
+ 
+
+Stakeholder engagement and responding to their feedback and needs are part and parcel of 
+
+shopper360’s way of doing business and ensuring long-term success. Their feedback and 
+
+suggestions will help the Group to adjust its business strategy and operate in a transparent 
+
+and accountable manner. The following table represents the stakeholder engagement 
+
+methods which the Group adopts in our sustainability practices to meet the economic, 
+
+environmental, social and governance requirements.
+
+
+
+Planning 
+
+and 
+
+Scoping 
+
+
+
+Engage 
+
+Stakeholder
+
+s 
+
+
+
+Materiality 
+
+Assessment 
+
+
+
+Collect Data 
+
+
+
+ 
+
+ 
+
+Reporting 
+
+
+
+
+11 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Notes to the above: Impact on Stakeholders engagement during COVID-19 
+
+1. 
+
+Emphasis was placed on virtual (online) meeting and via phone. 
+
+2. 
+
+Trainings were conducted online in order to meet safety distancing measures. 
+
+3. 
+
+These general meetings were convened virtually in FY2021. 
+
+4. 
+
+Emphasis was placed on virtual (online) meeting and via phone. 
+
+5. 
+
+There are no exhibitions during FY2021. 
+
+Stakeholders 
+
+Engagement Platform 
+
+Frequency of 
+
+Engagement 
+
+Key Concerns 
+
+Suppliers 
+
+• 
+
+Face-to-face or 
+
+virtual (online) 
+
+meetings and by 
+
+phone1 
+
+• 
+
+When needed 
+
+• 
+
+Product and 
+
+service quality 
+
+ 
+
+• 
+
+Vendor Assessment • 
+
+Annually 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Employees 
+
+• 
+
+Staff Appraisal 
+
+• 
+
+Annually 
+
+ 
+
+• 
+
+Employment 
+
+benefits 
+
+ 
+
+• 
+
+Training and 
+
+development2 
+
+• 
+
+Occasionally 
+
+• 
+
+Employee 
+
+capabilities and 
+
+career 
+
+development 
+
+ 
+
+ 
+
+ 
+
+• 
+
+Sense of 
+
+belongings and 
+
+recognition 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Investors and 
+
+Shareholders 
+
+ 
+
+• 
+
+Annual General 
+
+Meeting/ 
+
+Extraordinary 
+
+General Meeting3 
+
+• 
+
+Annually or when 
+
+needed 
+
+• 
+
+Company Growth 
+
+ 
+
+• 
+
+Annual Report 
+
+• 
+
+Annually 
+
+• 
+
+Transparency 
+
+ 
+
+• 
+
+Announcement 
+
+• 
+
+Half yearly (results 
+
+announcements) or 
+
+when needed (other 
+
+announcements) 
+
+• 
+
+Profitability 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Customers 
+
+• 
+
+Face-to-face or 
+
+virtual (online) 
+
+meetings, and by 
+
+phone4 
+
+• 
+
+When needed 
+
+• 
+
+Quality of Service 
+
+ 
+
+• 
+
+Regular customers’ 
+
+feedbacks 
+
+• 
+
+Daily 
+
+• 
+
+Contracts 
+
+Fulfilment 
+
+ 
+
+• 
+
+Social Media 
+
+• 
+
+Daily 
+
+ 
+
+ 
+
+• 
+
+Exhibition5 
+
+• 
+
+Occasionally 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Government and 
+
+Regulators 
+
+• 
+
+Annual Report 
+
+• 
+
+Annually 
+
+• 
+
+Compliance with 
+
+regulatory and 
+
+industry 
+
+standards and 
+
+guidelines 
+
+ 
+
+• 
+
+Announcement 
+
+• 
+
+Half yearly (results 
+
+announcements) or 
+
+when needed (other 
+
+announcements) 
+
+ 
+
+
+12 
+
+ 
+
+ 
+
+ 
+
+MATERIALITY ASSESSMENT  
+
+ 
+
+Material topics are reviewed annually for their continued relevance according to current 
+
+global and local trends. In our annual review to prioritise the material EESG matters that are 
+
+most relevant to our operations, we have concluded that the same matters disclosed in 
+
+FY2020 remain relevant to the Group in FY2021. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+13 
+
+ 
+
+ 
+
+OUR MATERIAL TOPICS AND TARGETS 
+
+Applying the guidance from GRI, we have identified the following material topics from our previous 
+
+disclosure. We have also set targets, while at the same time aiming to track our progress against them.  
+
+ 
+
+Material Topic 
+
+3 Year Target 
+
+FY2021 Progress 
+
+Economic 
+
+Performance 
+
+Growth within business 
+
+segments and external growth  
+
+We continue to seek internal and external growth. 
+
+The Group has embarked on various growth 
+
+initiatives, riding on technology and innovation 
+
+capabilities coupled with a longer term business 
+
+growth objectives.   
+
+• 
+
+Marvel Distribution Sdn Bhd, a new marketing &amp; 
+
+distribution arm of shopper360 is launched 
+
+under our Group to help customers and brands 
+
+penetrate to new traditional trade outlets. 
+
+We invested in 3 companies, out of which 2 are 
+
+involved with online grocery which allows us to 
+
+connect our clients who intent on growing their 
+
+businesses online, and a digital manpower solutions 
+
+company: 
+
+ 
+
+• 
+
+PB Grocery Group Sdn Bhd (April 2021) 
+
+• 
+
+Tenderin Sdn Bhd (May 2021) 
+
+• 
+
+Troopers Innovation Sdn Bhd (August 2021) 
+
+ 
+
+Material Topic 
+
+Perpetual Targets 
+
+FY2021 Progress 
+
+Anti-Corruption 
+
+ 
+
+Zero incidents of corruption. 
+
+Zero reported incidents of corruption in FY2021. 
+
+Environmental Compliance 
+
+No incidence of non-
+
+compliance with laws and 
+
+regulations 
+
+No incidence of non-compliance with laws and 
+
+regulations in FY2021. 
+
+Diversity and Equal 
+
+Opportunity 
+
+ 
+
+Continue to maintain diversity 
+
+in our workforce 
+
+In FY2021, female representation is approximately 
+
+32% of the workforce. The Board of Directors 
+
+consists of 5 directors, of which 3 are women.   
+
+Non-Discrimination 
+
+ 
+
+Zero incidents of 
+
+discrimination 
+
+Zero reported incidents of discrimination in FY2021. 
+
+Training and Education 
+
+ 
+
+Average 8-9 hours for 
+
+permanent staff 
+
+Target achieved. The Group has moved towards 
+
+virtual learning environment since the onset of 
+
+COVID-19 and has achieved an average of 14 hours 
+
+per staff (permanent staff) for FY2021. The Group 
+
+believes that virtual learning should be seen as a 
+
+complement and extension of physical forms of 
+
+learning and aim to achieve the targeted training 
+
+hours in the forthcoming year.  
+
+Socioeconomic Compliance 
+
+Zero incidents of non-
+
+compliance with laws and 
+
+regulations in the social and 
+
+economic area 
+
+Zero incidents of non-compliance with laws and 
+
+regulations in the social and economic area for 
+
+FY2021. 
+
+Customer Privacy 
+
+ 
+
+Zero substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses 
+
+of customer data 
+
+Zero substantiated complaints concerning breaches 
+
+of customer privacy and losses of customer data in 
+
+FY2021. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14 
+
+ 
+
+ 
+
+ECONOMIC 
+
+ 
+
+ 
+
+We are committed to achieving economic sustainability growth for our shareholders. We 
+
+conduct our business in compliance with applicable laws and regulations and in accordance 
+
+with high ethical business practices and good corporate governance. 
+
+ 
+
+As part of shopper360’s journey to incorporate sustainable business practices in the long 
+
+term, the Group is committed to a holistic approach to business management. shopper360 
+
+believes that focusing on financial sustainability is critical. The Group’s basic principle is that 
+
+long-term profitability and shareholder value is ensured by taking into account the interests 
+
+of stakeholders, such as shareholders, employees, suppliers and society as a whole. 
+
+ 
+
+(A) KEY DATA OF OPERATING RESULTS 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+ 
+
+(RM’000) (RM’000) (RM’000) (RM’000) 
+
+Revenue 
+
+142,377 
+
+161,085 
+
+162,678 
+
+153,133 
+
+Profit before tax 
+
+9,341 
+
+7,773 
+
+7,043 
+
+10,069 
+
+Profit for the year 
+
+5,713 
+
+5,404 
+
+3,633 
+
+6,563 
+
+Profit attributable to equity holders Company 
+
+6,010 
+
+5,185 
+
+2,964 
+
+5,816 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+(B) FINANCIAL INDICATORS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Return on equity 
+
+13% 
+
+10% 
+
+6% 
+
+10% 
+
+Earnings per share(1)  (RM cents) 
+
+5.25 
+
+4.53 
+
+2.62 
+
+5.29 
+
+ 
+
+NOTE: (1) Earnings per share is computed based on profit attributable to equity holders of the Company divided by the weighted 
+
+average number of ordinary shares during the year (taking into account the effect of treasury shares). 
+
+ 
+
+Cash and Cash Equivalents 
+
+19,026 
+
+21,242 
+
+22,054 
+
+27,592 
+
+ 
+
+ 
+
+The FY2021 revenue was lower than previous year mainly due to the cautious stance of clients 
+
+and the disruptive impact of the movement control order in Malaysia led to lower revenue 
+
+across all segments.  
+
+ 
+
+Despite the lower revenue base, the Group was able to record an increase in profit.  This 
+
+improvement would not have been possible if not for the unity and commitment of the team for 
+
+pushing through the tough times and making some hard decisions to right size the business. 
+
+The Group has been able to implement tighter costs control measures, considering the difficult 
+
+environment caused by the COVID-19 pandemic during FY2021, as the Group optimised 
+
+overhead expenses either through reducing or delaying expenses including business 
+
+development, staff hiring and other overhead expenses. 
+
+ 
+
+ECONOMIC PERFORMANCE 
+
+ 
+
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Internally, we maintain a strong cashflow position that has been strategically built up over the 
+
+years, and this will ensure that we are able to cope with the unpredictability that may persist 
+
+and at the same time, continue to pursue growth. For FY2021, our cash position stands at 
+
+RM27.6 million, due to our strong cash focus, to billing and collection processes. 
+
+ 
+
+It is our belief that to deliver value for all our stakeholders, particularly our shareholders, we 
+
+have to focus on maintaining a strong financial position by carrying out our operations in a 
+
+responsible manner and building resilience throughout our business operations for long-term 
+
+sustainable growth. 
+
+ 
+
+DETAILED FINANCIAL RESULTS 
+
+ 
+
+For the detailed financial results of our Group, please refer to the following sections in our 
+
+Annual Report 2021: 
+
+ 
+
+• 
+
+Group Financial Highlights, pages 11 to 15 
+
+• 
+
+Financial Statements, pages 81 to 139 
+
+ 
+
+ 
+
+
+
+
+
+
+16 
+
+ 
+
+ 
+
+OPPORTUNITIES FOR INTERNAL AND EXTERNAL GROWTH VIA 
+
+INNOVATION AND DIGITAL ENABLEMENT 
+
+ 
+
+The COVID-19 pandemic is transforming how we think about our economies and 
+
+our societies, and has highlighted the importance of organisational resilience. 
+
+Policies and choices made today will determine their success in building a 
+
+transition to a more resilient tomorrow. The Group has embarked on various 
+
+growth initiatives, riding on technology and innovation capabilities coupled with 
+
+long-term business growth objectives. As we recover from this pandemic, we 
+
+believe our growth plans laid out will benefit the Group in the long-run. 
+
+ 
+
+Instore Advertising &amp; Digital 
+
+Marketing 
+
+ 
+
+Pos Ad Sdn Bhd is the leading media 
+
+provider in Malaysia, with over 30 years of 
+
+expertise in creating point of sale material 
+
+to 
+
+help 
+
+brands 
+
+connect 
+
+better 
+
+with 
+
+shoppers. Pos Ad Sdn Bhd constantly 
+
+strives to create innovative ways for 
+
+shoppers to engage with brands, reaching 
+
+70% of Malaysian shoppers across over 
+
+3000+ retail outlets. 
+
+ 
+
+Pos Ad Sdn Bhd has evolved in more 
+
+recent years to provide a variety of tech 
+
+mediums and other non-media services for 
+
+retailers such as in-store music services via 
+
+Pos Ad Sdn Bhd’s Digital Music Box, 
+
+creative services, corporate and TVC 
+
+videography, conceptual execution for 
+
+rebranding, festive decoration and many 
+
+more. 
+
+Succeeding Malaysia in-store advertising, 
+
+the Group extended the business model to 
+
+Singapore 
+
+and 
+
+Myanmar, 
+
+known 
+
+as 
+
+shopperplus Singapore and shopperplus 
+
+Myanmar. This is done via partnership with 
+
+the largest modern trade retailers, namely 
+
+NTUC FairPrice in Singapore and City Mart 
+
+in Myanmar. 
+
+ 
+
+In-line with our strategy to scale without 
+
+adding manpower to our labour services for 
+
+the Myanmar market, we have launched 
+
+formats that are easy to plug &amp; play content. 
+
+This has led to the launching of digital 
+
+screens in Myanmar. These digital screens 
+
+are capable of tracking data in-store such 
+
+as reach, gender, age, dwell time, as well 
+
+as ability to serve responsive ads relevant 
+
+to target audience. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+17 
+
+ 
+
+ 
+
+ 
+
+Connecting Our Clients To Their Audience 
+
+ 
+
+Our suite of innovative tech tools drive 
+
+engagement, increase customer satisfaction and 
+
+promote loyalty by enhancing the shopping 
+
+experience. We have been able to assist one of 
+
+our client, a world renown brand specialising in 
+
+skin care to connect with its target audience via 
+
+mobile game.  
+
+ 
+
+We created a fun, interactive mobile game that 
+
+would appeal to its target audience, building a 
+
+personality for the brand that feels more 
+
+approachable and accessible. 
+
+ 
+
+ 
+
+The game not only successfully 
+
+engaged shoppers, but also educated 
+
+them on the benefits of using their 
+
+products, 
+
+while 
+
+driving 
+
+trial 
+
+kit 
+
+redemption and online sales.  
+
+ 
+
+With 
+
+minimal 
+
+media 
+
+buy 
+
+in 
+
+e-
+
+commerce 
+
+platforms, 
+
+the 
+
+game 
+
+reached over 182,000 players who 
+
+played it over 300,000 times, giving the 
+
+brand a 50% uplift in sales – all during 
+
+the MCO period in Malaysia. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+18 
+
+ 
+
+ 
+
+ 
+
+Sampling &amp; Event Management 
+
+ 
+
+Augmented reality (AR) is an enhanced version of 
+
+the real physical world that is achieved through the 
+
+use of digital visual elements, sound, or other 
+
+sensory stimuli delivered via technology.  
+
+ 
+
+By incorporating augmented reality technology, the 
+
+Group has been able to offer new and interactive 
+
+consumer experience, thus effectively increase sales 
+
+and raise brand awareness. For example, our 
+
+activation team-Gazelle Activation, executed a 
+
+campaign for Danone Dumex, using augmented 
+
+reality to engage shoppers just by scanning a QR 
+
+code on the detailing kit, bringing the product to life 
+
+at the convenience of the consumer. 
+
+ 
+
+With restrictions posed by COVID-19 on our physical 
+
+presence in stores, we have been able to reach and 
+
+engage shoppers digitally during the MCO period in 
+
+Malaysia. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19 
+
+ 
+
+ 
+
+ 
+
+Distribution 
+
+ 
+
+Marvel Distribution Sdn Bhd, a new marketing &amp; distribution 
+
+arm of shopper360 is launched under our Group to help 
+
+customers and brands penetrate to new traditional trade 
+
+outlets.  
+
+ 
+
+Equipped with trucks and a B2B sales ordering platform for 
+
+retailer, Marvel Distribution delivers selected products 
+
+directly to general trade outlets while-on-the-move with our 
+
+very own van sales team.  
+
+ 
+
+Marvel’s ambition is to reach more than 10,000 general 
+
+trade and retailers across Peninsular Malaysia. Some of our 
+
+distributed brands include Berjaya Foods, Red One and 
+
+Network Foods. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+20 
+
+ 
+
+ 
+
+Investing in Complimentary Businesses 
+
+ 
+
+We invested in 3 companies, out of which 2 are involved with grocery online which allows us 
+
+to connect our clients who are intent on growing their businesses online, and a digital 
+
+manpower solutions company. 
+
+ 
+
+The first company, PB Grocery Group Sdn Bhd 
+
+(“PB Grocery Group”), has an online grocery 
+
+platform (“Potboy”) that links Fast Moving 
+
+Consumer Goods (“FMCG”) companies with 
+
+eateries and provision shops in Klang Valley 
+
+(Kuala Lumpur and Selangor) and Seremban, 
+
+Malaysia. PB Grocery Group has their own 
+
+delivery fleet and has been reinventing themselves every year, from 
+
+educating customers to buying online, to winning e-distributorship rights with the likes of Nestle 
+
+Food Service. This year, Potboy launched their O2O (online to offline) concept store. They 
+
+have launched 20 stores which will bring about better brand presence and allow for the stores 
+
+to double up as delivery depots. Shoppers that enter Potboy Mart will also get to shop online 
+
+and purchase products delivered to their home, especially for bulky items.  
+
+ 
+
+The second company we invested in, Lapasar Sdn Bhd is the 
+
+operator of a business-to-business (“B2B”) wholesale platform 
+
+called Lapasar.com. With the stricter movement control 
+
+throughout the year, it became more inconvenient for 
+
+minimarkets and small provision shops to shop at traditional wholesale outlets. Lapasar filled 
+
+in the gap by going to them and educating them to replenish through an app with a click of a 
+
+button. Since the launch of their app, 50% of their customers are now ordering through the 
+
+app.  
+
+ 
+
+Nielsen reported a trend in Singapore and India, similar to what we 
+
+are seeing in Malaysia, where traditional trade is benefiting from the 
+
+lack of inter-district movement, where shoppers are frequenting their 
+
+neighborhood stores to replenish their essential needs. We believe 
+
+Lapasar can only grow stronger by serving the traditional trade 
+
+segment in helping them stock up their supplies without having to 
+
+leave their stores unmanned. Lapasar will also offer these retailers 
+
+trade financing in order to ease their cashflows and grow their 
+
+businesses.  
+
+ 
+
+The third investee company, Troopers Innovation Sdn Bhd 
+
+(acquired on 27 August 2021), is a digital manpower solutions 
+
+company that specialises in part-time recruitment, human 
+
+resource management and technology enabled job matching for the gig-economy. Troopers 
+
+aims to provide a safe and secure working environment for individuals while providing clients 
+
+with access to a well-trained and talented flexible workforce. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+21 
+
+ 
+
+ 
+
+ 
+
+Background of PB Grocery Group 
+
+PB Grocery Group is the owner of online grocer platform, Potboy. This online grocery platform links 
+
+Fast Moving Consumer Goods companies with consumers, eateries and provision shops on Klang 
+
+Valley and Seremban. Potboy is revolutionising a century-old supply chain model in FMCG by 
+
+quickening the process of ordering and delivery. They are not only an online grocery platform but a 
+
+pioneer of O2O. In April 2021, Potboy launched its first Offline-to-Online concept shop Potboy Mart 
+
+and up to September 2021, they already have more than 30 operating shops across Klang Valley. 
+
+ 
+
+Background of Lapasar Sdn Bhd 
+
+Lapasar Sdn Bhd (formerly known as Tenderin Sdn Bhd) is a technology company based in Kuala 
+
+Lumpur and the operator of Lapasar.com, a business-to-business platform that allows companies and 
+
+minimarkets to purchase supplies for their business via an online marketplace. Lapasar connects 
+
+corporations and minimarket stores to suppliers of products and services across Malaysia with the aim 
+
+of making purchasing more efficient. They are currently servicing over 3,000 retailers and these 
+
+numbers continue to grow. Traditional trade retailers are welcoming ecommerce platforms like Lapasar 
+
+for convenience and efficiency in stock replenishment, rather than visiting wholesalers to purchase 
+
+their goods especially during this global pandemic. 
+
+ 
+
+Background of Troopers Innovation Sdn Bhd 
+
+Troopers Innovation Sdn Bhd is a digitally enabled job matching platform and manpower solutions 
+
+business that specialises in part-time recruitment, human resource management and event consulting. 
+
+Troopers aims to provide a safe and secure working environment for individuals while providing clients 
+
+with access to a well-trained and talented flexible workforce. Troopers is revolutionising the existing 
+
+part-time recruitment culture and structure in Malaysia in order to create an eco-system that is reliable, 
+
+efficient and effective for their stakeholders to maximise their time, money and resources. Troopers 
+
+conducts all their recruitment, selection and training in-house and has matched more than 100,000 job 
+
+sessions over the past 3 years. 
+
+ 
+
+Troopers recently launched their recruitment app and managed to efficiently place 20,400 job sessions 
+
+in a short turnaround time. Gig workers apply and are filtered through the app and once they have been 
+
+given the position, they are able to use the same app to check-in for work, make relevant field reports 
+
+and get notified when payment is made to them.  
+
+ 
+
+
+22 
+
+ 
+
+ 
+
+ 
+
+GIVING BACK TO THE COMMUNITY 
+
+ 
+
+When the COVID-19 pandemic hit, the entire world was unprepared. Right here in Malaysia, 
+
+we saw its devastating effects on everyone from individuals and families to businesses and 
+
+even the economy. But the B401 community was hit especially hard, and we knew we could 
+
+not sit by silently as they struggled to make ends meet. 
+
+ 
+
+Together with brands Saji and Good Virtues Co. as well as NGOs, namely The Lost Food 
+
+Project and Dignity for Children Foundation, the Group collectively launched Kotak Kasih, an 
+
+initiative aimed at providing families affected by the pandemic with boxes of daily essentials. 
+
+Each Kotak Kasih box was filled with food and personal care items such as cooking oil, sugar, 
+
+flour, fruit drinks/beverages, instant noodles, UHT milk, milk products/beverages, and shower 
+
+gel. 
+
+ 
+
+By the end of the campaign in September 2020, we had successfully donated 10,000 boxes 
+
+filled with personal care and food items. shopper360 provided the manpower and logistics 
+
+resources to help distribute the Kotak Kasih boxes to those in need. 
+
+ 
+
+In addition to the boxes donated during the campaign period, our staff from Pos Ad and Tristar 
+
+Synergy also worked with Dignity for Children Foundation to help deliver other essential items 
+
+on 2 occasions to B401 students and their families. On 15 December 2020, the team made a 
+
+delivery to 61 families, and on 21 December 2020, with additional special Christmas dinner of 
+
+roast chicken, mac and cheese and brownies, to a further 44 families. 
+
+ 
+
+ 
+
+ 
+
+1 B40 - Bottom 40% of Malaysian household income 
+
+
+
+
+23 
+
+ 
+
+ 
+
+ 
+
+We remain steadfast in upholding our business ethics to the highest levels. The Group is 
+
+committed to the values of transparency, integrity, impartiality and accountability in the 
+
+conduct of its business and affairs. 
+
+shopper360 has zero-tolerance for corruption. We take a strong stand against corrupt 
+
+practices and strategies, and this value has been communicated to all of our employees, 
+
+major suppliers and business partners. There were no fines or non-monetary sanctions for 
+
+non-compliance with laws and regulations in FY2021. 
+
+The Group has established a whistle-blowing policy with the aim of providing a structured 
+
+mechanism for employees and other stakeholders to report any concerns on any suspected 
+
+or wrongful activities or wrongdoings. These refer to any potential violations or concerns 
+
+relating to any laws, rules, regulations, acts, ethics, integrity and business conduct, 
+
+including any violation or concerns relating to malpractice, illegal, immoral, embezzlement 
+
+and fraudulent activities, which will affect the business and image of the Group. Please refer 
+
+to page 59 of our Annual Report 2021 for further details on the Group’s whistle-blowing 
+
+policy. 
+
+ 
+
+In FY2021, there were no reported incidents of corruption. 
+
+ 
+
+ 
+
+The Group will continue to target zero incidents of corruption in the Group in the current 
+
+financial year ending 31 May 2022 (“FY2022”) and beyond. In fact, we will always ensure 
+
+that there will be no incidents of corruption in the Group. 
+
+ 
+
+
+
+FY2021 
+
+
+
+Incidents of Corruption (GRI 205-3) 
+
+
+
+NIL 
+
+
+
+NIL 
+
+
+
+FY2020 
+
+
+
+Anti-Corruption 
+
+
+
+ 
+
+ANTI-CORRUPTION 
+
+ 
+
+
+24 
+
+ 
+
+ 
+
+ENVIRONMENTAL 
+
+ 
+
+Our Group is dedicated to protect the environment through the integration of environmental 
+
+conservation methods whenever possible, into our business operations. The Group remains 
+
+steadfast in our commitment to sustainable development and seeks to operate in a way that 
+
+minimises environmental harm. shopper360’s direct environmental impact is limited, but we 
+
+always strive to avoid unnecessary footprint and to further reduce the impact on the 
+
+environment. 
+
+ 
+
+In FY2021, there was no incidence of non-compliance with laws and regulations and we 
+
+endeavor to maintain this track record. 
+
+ 
+
+ 
+
+Our Group will continue to target to maintain this track record of zero incidents of non-
+
+compliance with environmental laws and regulations in FY2022 and beyond. 
+
+ 
+
+REDUCE, REUSE AND RECYCLE 
+
+ 
+
+Environmental issues such as climate change continues to be on the forefront of global 
+
+sustainability agenda. The Group realises the importance of improving our sustainability 
+
+performance in enhancing our competitiveness. We aim to make contributions to the 
+
+environment, our business and the local communities by integrating sustainability approach 
+
+in our operation. In the Group’s day-to-day operations, we encourage our employees to 
+
+practice the 3Rs – Reduce, Reuse and Recycle in the management of our resources. The 
+
+3Rs play a crucial role, not only in contributing to a more sustainable environment but also 
+
+lowering our cost.  
+
+ 
+
+Corporate Office 
+
+ 
+
+• Display anti-littering, water and energy conservation, and other environmental 
+
+messages at prominent locations in the office. 
+
+• Toilets have motion sensors installed to minimize electricity usage and turn off lights 
+
+when not utilized. 
+
+• Recycling bins are available and waste items are separate and recycled. 
+
+ 
+
+
+
+FY2021 
+
+
+
+Incidents of non-compliance with environmental 
+
+laws and regulations (GRI 307-1) 
+
+
+
+NIL 
+
+
+
+NIL 
+
+
+
+FY2020 
+
+
+
+Environmental Compliance 
+
+ 
+
+ENVIRONMENTAL COMPLIANCE 
+
+ 
+
+
+25 
+
+ 
+
+ 
+
+ 
+
+• Utilisation of digital meeting formats where possible to minimize the need to travel. 
+
+• Implement online approvals utilising Microsoft Teams thus removing the need to have 
+
+hardcopy approvals since June 2021, which is an improved process from email 
+
+approvals that was implemented in 2020 during the pandemic lockdowns. 
+
+• Our human resource management system have further been enhanced to extend 
+
+online expense claims initially introduced in March 2020 to all staff including project 
+
+contract staff since June 2021.  In addition, performance management module have 
+
+been introduced in August 2021 resulting in non-paper online processes for the new 
+
+financial year.  
+
+ 
+
+Apart from the above, our employees are also encouraged to conserve energy through the 
+
+switching-off of power for equipment that are not in use, and the switching-off of lights during 
+
+lunch hours and when not in use. We continue to communicate and encourage our 
+
+employees to minimize the use of paper and upgrade processes to digital methods whenever 
+
+possible and this will be a continuous focus moving forward.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+26 
+
+ 
+
+ 
+
+ 
+
+DIVERSITY AND EQUAL OPPORTUNITY 
+
+ 
+
+SOCIAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We aim to create a vibrant team as we strive to offer equal opportunities for recruitment, 
+
+career progression and training within the Group. We recognise our employees are the 
+
+drivers of our business and we believe in creating a respectful, rewarding and safe 
+
+working environment for our people. Our work environment is aimed at providing a fair 
+
+performance-based work culture that is diverse, inclusive and collaborative. We also 
+
+encourage our employees to reach their fullest potential and provide them with a fulfilling 
+
+and meaningful career. 
+
+ 
+
+Every employee plays an essential role in the Group. Continuous open dialogue is the 
+
+main platform used to engage our employees. Open dialogues are conducted informally 
+
+to encourage employees to raise any issues to management. We believe that this 
+
+provides a more interactive and direct channel for any form of feedback. 
+
+ 
+
+As at 31 May 2021, shopper360 employed 2,180 staff, comprising 370 permanent staff 
+
+and 1,810 contract staff. A total of 98% of our staff are based in Malaysia. Female 
+
+employees accounted for approximately 32% of our total workforce. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Male 
+
+1,491 
+
+
+
+Female 
+
+689 
+
+
+27 
+
+ 
+
+ 
+
+The Group’s workforce age distribution and job description by gender are represented in the 
+
+following charts below: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Building and retaining talent are both critical in growing the Group as the continuous growth 
+
+of the Group needs talented employees. Having a diverse workforce with equal opportunity 
+
+regardless of age, race and gender is one of the ways to build and retain talent. Our employees 
+
+are not covered by collective bargaining agreements but are given the rights to exercise 
+
+freedom of association. 
+
+ 
+
+Our diversity is not just limited to our employees but also represented in our Board of 
+
+Directors. Our Directors come from different backgrounds which helps to expand the range 
+
+of perspectives at the top and enables the Board to better advise the Group strategically. 
+
+ 
+
+The Board of Directors comprises 5 members, of which three are women. The profile of each 
+
+of our Directors can be found on pages 6 to 7 of our Annual Report 2021. 
+
+252
+
+350
+
+81
+
+6
+
+771
+
+702
+
+17
+
+1
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+Age &lt; 30 years old
+
+Age 30 to  50 years old
+
+Age &gt; 50 years old
+
+Age &gt; 60 years old
+
+Total Workforce Age Distribution by Gender
+
+Female
+
+Male
+
+8
+
+36
+
+51
+
+45
+
+8
+
+35
+
+51
+
+136
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+Senior
+
+Management
+
+Middle
+
+Management
+
+Executives
+
+Non-Executives
+
+Permanent Employee Gender Distribution 
+
+by Job Designation
+
+Female
+
+Male
+
+
+28 
+
+ 
+
+ 
+
+ 
+
+NON-DISCRIMINATION 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Group encourages freedom of expression and open communication. Work culture plays 
+
+an important role in drawing the best out of employees and for them to develop a sense of 
+
+belonging.  
+
+ 
+
+The Group has pledged to instill an inclusive and non-discriminatory culture that focuses on 
+
+treating all employees fairly. We adopt a strong stance against discrimination on any biases 
+
+and are committed to providing equal opportunities. 
+
+ 
+
+ 
+
+ 
+
+Our Group will strive to maintain zero incidents of discrimination in FY2022 and beyond. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+FY2021 
+
+
+
+Incidents of discrimination and corrective 
+
+actions taken (GRI 406-1) 
+
+ 
+
+
+
+NIL 
+
+
+
+NIL 
+
+
+
+FY2020 
+
+
+
+Non-Discrimination 
+
+
+29 
+
+ 
+
+ 
+
+ 
+
+TRAINING AND EDUCATION 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+shopper360 believes in nurturing its employees to raise the employees’ learning and 
+
+development capacity, yielding a capable and more agile workforce. 
+
+ 
+
+We encourage and aim to provide all employees with equal opportunities for training and 
+
+upgrading. We acknowledge that learning and training is an important, continuous and life-
+
+long process so that employees are equipped with the competencies needed to meet 
+
+current and future business needs. This includes workshops, seminars, conferences, in-
+
+house  company  training  and  on-the-job  training. We believe that the personal growth of 
+
+the employees would elevate our organisational performance and help in achieving long-
+
+term business growth and sustainability for the Group. 
+
+ 
+
+shopper360 has been recognised as one of the best companies to work for by HR Asia in 
+
+the past. As a Group, we are continuously striving to create a collaborative and fulfilling 
+
+working environment for all of our employees. This can only be achieved with carefully 
+
+designed innovative employee engagement and development programmes. 
+
+ 
+
+Staff training and the continuing development of the employees are essential for the success 
+
+of our Group. In a rapid changing business environment, we will need to ensure that the 
+
+training needs are optimised, and meet the purpose of upgrading the skillset of our 
+
+workforce. We believe as the market evolves, so must the skill set of learning professionals. 
+
+As such, we have continued to be adaptive to the employees’ training requirements.  
+
+ 
+
+ 
+
+
+
+
+30 
+
+ 
+
+ 
+
+ 
+
+The COVID-19 pandemic has triggered new ways of learning and the Group acknowledges 
+
+the importance of continued capability building. The Group believes a competent workforce 
+
+could contribute to seizing opportunities as the economy charts its way forward towards 
+
+recovery from the impact of COVID-19. 
+
+ 
+
+During the onset of the pandemic, the ability to organise internal and external trainings has 
+
+been uncertain and disrupted. Hence, for FY2021, we moved towards virtual learning 
+
+environment including webinar workshops (both internally and externally conducted) and 
+
+self-learning platforms utilising technology to enable learning whenever possible even 
+
+during a work-from-home order. Leveraging technology and digital tools has been key to 
+
+achieving successful employee engagement during the extended periods of remote 
+
+working.  
+
+ 
+
+We continued to upskill our employees during this period as they acquired new knowledge 
+
+through virtual learning programmes completed on e-learning platform and through 
+
+videoconferencing. These virtual trainings have increased our staff’s digital savviness and 
+
+prepared them to be adaptable on multiple fronts, thus enabling shopper360 to be more 
+
+resilient in the future. Some of these courses include: 
+
+ 
+
+• Sales - 5 Steps Selling Process, 20 Proven Unconventional Sales Strategies; 
+
+• Human Resource Management System - Expenses Claim, Onboarding module; 
+
+• Strategy – Certification of Business Strategies;  
+
+• Creative Thinking – Talking to Goldfish; 
+
+• Productivity and Time Management for the Overwhelmed; 
+
+• Microsoft 365, Teams, Excel and Powerpoint; 
+
+• Reallyenglish Online; and 
+
+• Human Resource – Harrison Assessment. 
+
+ 
+
+AVERAGE TRAINING HOURS 
+
+FY2018 
+
+FY2019 FY2020 FY2021 
+
+Average Training Hours Per Staff 
+
+(Permanent) 
+
+9.00 
+
+8.85 
+
+9.89 
+
+13.61 
+
+ 
+
+We have met our target by achieving an average training hour of 14 hours per staff 
+
+(permanent staff) for FY2021, an increase from FY2020, mainly due to the additional 
+
+training as a result of the implementation of Microsoft 365 environment in March 2021 and 
+
+also more trainings during the work-from-home period. However, the Group also 
+
+understands the importance of physical interaction and the effects of prolonged on-screen 
+
+time and aims to strike a balance between virtual and physical learning. The Group 
+
+believes virtual learning should be seen as a complement and extension of physical forms 
+
+of learning. Moving forward, as the economy charts its way towards recovery, we would 
+
+like to continue to target an achievement of an average of 8-9 hours for permanent staff in 
+
+the long term. 
+
+ 
+
+
+31 
+
+ 
+
+ 
+
+ 
+
+SOCIOECONOMIC COMPLIANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We are mindful of the well-being of every community in which we operate in. The Group 
+
+always emphasises the importance of being aware of the social and cultural sensitivities 
+
+of the local communities to all its employees. 
+
+ 
+
+The Group is proud to inform that it is in compliance, in all material aspects, with all social, 
+
+economic, and environmental rules and regulations and is not engaged in any anti-
+
+competitive practices. 
+
+ 
+
+ 
+
+We did not identify any non-compliance with socioeconomic laws and regulations during 
+
+the reporting period. Our Group will strive to maintain zero incidents of non-compliance 
+
+with laws and regulations in the social and economic area in FY2022 and beyond. 
+
+ 
+
+ 
+
+
+
+FY2021 
+
+
+
+Incidents of non-compliance with laws and 
+
+regulations in the social and economic area (GRI 
+
+419-1) 
+
+
+
+NIL 
+
+
+
+NIL 
+
+
+
+FY2020 
+
+
+
+Socioeconomic Compliance 
+
+
+
+
+32 
+
+ 
+
+ 
+
+ 
+
+CUSTOMER PRIVACY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In the digital age, businesses are susceptible to data theft and cyberattacks. Therefore, 
+
+safeguarding our stakeholders’ data is of paramount importance to our Group and we are 
+
+committed to maintain utmost privacy and security of their personal data. This includes 
+
+recognising our responsibility to properly handle clients’ personal information. Our 
+
+employees are also aware on keeping business-related information confidential. 
+
+ 
+
+The Group has not been the subject of any complaints concerning breaches of customer 
+
+privacy or loss of customer data, nor any complaints relating to data protection. 
+
+ 
+
+In FY2021, we are pleased to inform that there were no cases of substantiated complaints 
+
+received about breaches of customer privacy, and no complaints received from outside 
+
+parties and regulatory bodies. 
+
+ 
+
+ 
+
+Our Group intends to maintain the record of zero incidents on breaches of customer data 
+
+in FY2022 and beyond. 
+
+ 
+
+ 
+
+
+
+FY2021 
+
+
+
+Substantiated complaints concerning breaches 
+
+of customer privacy and losses of customer data 
+
+(GRI 418-1) 
+
+
+
+NIL 
+
+
+
+NIL 
+
+
+
+FY2020 
+
+
+
+Customer Privacy 
+
+
+33 
+
+ 
+
+ 
+
+ 
+
+GOVERNANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+ 
+
+The Board acknowledges the importance for the Group to adopt and continuously practise 
+
+good corporate governance throughout the Group’s operations to ensure accountability 
+
+and transparency, as a fundamental part of discharging its responsibilities to protect and 
+
+enhance shareholders’ value and financial performance of the Group. 
+
+ 
+
+Please refer to Corporate Governance Report set out on pages 44 to 65 of our Annual 
+
+Report 2021 for further details on the Group’s corporate governance practices. 
+
+ 
+
+ 
+
+RISK MANAGEMENT 
+
+ 
+
+The Board acknowledges that it is responsible for reviewing the adequacy and 
+
+effectiveness of the Group’s risk management and internal control systems including 
+
+financial, operational, compliance and information technology controls. The Board is 
+
+committed to ensuring that the Group has an effective and practical enterprise risk 
+
+management framework in place to safeguard shareholders’ interests, and the 
+
+sustainability of the Group as well as provide a basis to make informed decisions having 
+
+regard to the risk exposure and risk appetite of the Group. 
+
+ 
+
+For detailed disclosure on our risk management activity, please refer to pages 57 to 58 of 
+
+our Annual Report 2021. 
+
+
+
+
+34 
+
+ 
+
+ 
+
+GRI STANDARDS CONTENT INDEX 
+
+ 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Reference/Description 
+
+GRI 101: Foundation 
+
+ 
+
+ 
+
+GRI 102: General Disclosures 
+
+ 
+
+ 
+
+1. Organizational profile 
+
+ 
+
+ 
+
+Disclosure 102-1 
+
+Name of the organization 
+
+shopper360 Limited 
+
+Disclosure 102-2 
+
+Activities, brands, products, and services 
+
+https://shopper360.com.my/our-
+
+expertise/ 
+
+Disclosure 102-3 
+
+Location of headquarters 
+
+Malaysia 
+
+Disclosure 102-4 
+
+Location of operations 
+
+Malaysia, Singapore, Myanmar 
+
+Disclosure 102-5 
+
+Ownership and legal form 
+
+Annual Report 2021 (“AR”) page 2, 
+
+Sustainability Report 2021 (“SR”) 
+
+page 6 to 7 
+
+Disclosure 102-6 
+
+Markets served 
+
+Malaysia, Singapore, Myanmar 
+
+Disclosure 102-7 
+
+Scale of the organization 
+
+AR page 2,11 to 12, SR page 26 
+
+Disclosure 102-8 
+
+Information on employees and other 
+
+workers 
+
+SR page 26 to 27 
+
+Disclosure 102-9 
+
+Supply chain 
+
+SR page 6, AR page 89 to 90 
+
+Disclosure 102-10 
+
+Significant changes to the organization and 
+
+its supply chain 
+
+None 
+
+Disclosure 102-11 
+
+Precautionary Principle or approach 
+
+shopper360 supports the intent of 
+
+this principle, but has not expressed 
+
+a specific commitment 
+
+Disclosure 102-12 
+
+External initiatives 
+
+None 
+
+Disclosure 102-13 
+
+Membership of associations 
+
+None 
+
+ 
+
+ 
+
+ 
+
+2. Strategy 
+
+ 
+
+ 
+
+Disclosure 102-14 
+
+Statement from senior decision-maker 
+
+SR page 4-5 
+
+ 
+
+ 
+
+ 
+
+3. Ethics and integrity 
+
+ 
+
+ 
+
+Disclosure 102-16 
+
+Values, principles, standards, and norms of 
+
+behavior 
+
+SR page 8 
+
+ 
+
+ 
+
+ 
+
+4. Governance 
+
+ 
+
+ 
+
+Disclosure 102-18 
+
+Governance structure 
+
+AR page 44 to 65 
+
+ 
+
+ 
+
+ 
+
+5. Stakeholder engagement 
+
+ 
+
+ 
+
+Disclosure 102-40 
+
+List of stakeholder groups 
+
+SR page 10 to 11 
+
+Disclosure 102-41 
+
+Collective bargaining agreements 
+
+None 
+
+Disclosure 102-42 
+
+Identifying and selecting stakeholders 
+
+SR page 10 
+
+Disclosure 102-43 
+
+Approach to stakeholder engagement 
+
+SR page 10 
+
+Disclosure 102-44 
+
+Key topics and concerns raised 
+
+SR page 11 
+
+ 
+
+ 
+
+ 
+
+6. Reporting practice 
+
+ 
+
+ 
+
+Disclosure 102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+AR page 2 
+
+Disclosure 102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+SR page 3 
+
+Disclosure 102-47 
+
+List of material topics 
+
+SR page 12 to 13 
+
+Disclosure 102-48 
+
+Restatements of information 
+
+Not applicable 
+
+Disclosure 102-49 
+
+Changes in reporting 
+
+Not applicable 
+
+Disclosure 102-50 
+
+Reporting period 
+
+1 June 2020 to 31 May 2021 
+
+Disclosure 102-51 
+
+Date of most recent report 
+
+28 October 2020 
+
+Disclosure 102-52 
+
+Reporting cycle 
+
+Annually 
+
+
+35 
+
+ 
+
+ 
+
+Disclosure 102-53 
+
+Contact point for questions regarding the 
+
+report 
+
+SR page 3 
+
+Disclosure 102-54 
+
+Claims of reporting in accordance with the 
+
+GRI Standards 
+
+This report is with reference to the 
+
+GRI Standards (Core Option) 
+
+Disclosure 102-55 
+
+GRI content index 
+
+SR page 34 to 35 
+
+Disclosure 102-56 
+
+External assurance 
+
+We may seek external assurance in 
+
+the future 
+
+ 
+
+ 
+
+ 
+
+MATERIAL TOPICS 
+
+ 
+
+ 
+
+GRI 201: Economic Performance 
+
+ 
+
+ 
+
+Disclosure 201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+SR page 14 to 22 
+
+ 
+
+ 
+
+ 
+
+GRI 205: Anti-corruption 
+
+ 
+
+ 
+
+Disclosure 205-3 
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+SR page 23 
+
+ 
+
+ 
+
+ 
+
+GRI 307: Environmental Compliance 
+
+ 
+
+ 
+
+Disclosure 307-1 
+
+Non-compliance with environmental laws 
+
+and regulations 
+
+SR page 24 
+
+ 
+
+ 
+
+ 
+
+GRI 404: Training and Education 
+
+ 
+
+ 
+
+Disclosure 404-1 
+
+Average hours of training per year per 
+
+employee 
+
+SR page 30 
+
+Disclosure 404-2 
+
+Programs for upgrading employee skills 
+
+and transition assistance programs 
+
+SR page 29 to 30 
+
+ 
+
+ 
+
+ 
+
+GRI 405: Diversity and Equal 
+
+Opportunity 
+
+ 
+
+ 
+
+Disclosure 405-1 
+
+Diversity of governance bodies and 
+
+employees 
+
+SR page 26 to 27 
+
+ 
+
+ 
+
+ 
+
+GRI 406: Non-Discrimination 
+
+ 
+
+ 
+
+Disclosure 406-1 
+
+Incidents of discrimination and corrective 
+
+actions taken 
+
+SR page 28 
+
+ 
+
+ 
+
+ 
+
+GRI 418: Customer Privacy 
+
+ 
+
+ 
+
+Disclosure 418-1 
+
+Substantiated complaints concerning 
+
+breaches of customer privacy and losses of 
+
+customer data 
+
+SR page 32 
+
+ 
+
+ 
+
+ 
+
+GRI 419: Socioeconomic Compliance 
+
+ 
+
+ 
+
+Disclosure 419-1 
+
+Non-compliance with laws and regulations 
+
+in the social and economic area 
+
+SR page 31 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

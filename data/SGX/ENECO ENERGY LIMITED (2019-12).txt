@@ -1,0 +1,1495 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Eneco Energy Limited 
+
+FY2019 Sustainability Report 
+
+ 
+
+ 
+
+
+2 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Contents 
+
+ 
+
+About the Report ..................................................................................................................... 3 
+
+Contact Us .............................................................................................................................. 3 
+
+Business in Brief ...................................................................................................................... 4 
+
+Business Core Values................................................................................................................ 4 
+
+Economic Performance ............................................................................................................. 4 
+
+Board Statement...................................................................................................................... 5 
+
+Sustainability Approach ............................................................................................................ 6 
+
+Sustainability Governance ......................................................................................................... 6 
+
+Anti-corruption ................................................................................................................. 7 
+
+Stakeholder Engagement .......................................................................................................... 8 
+
+Materiality Assessment ............................................................................................................. 8 
+
+Material ESG Topics .................................................................................................................. 9 
+
+Environmental Stewardship ......................................................................................................10 
+
+Energy ............................................................................................................................11 
+
+Emissions ........................................................................................................................14 
+
+Focus on People: Putting our People First ...................................................................................16 
+
+Occupational Health and Safety .........................................................................................16 
+
+Training and Education .....................................................................................................18 
+
+Community ............................................................................................................................20 
+
+GRI Content Index ..................................................................................................................21 
+
+ 
+
+ 
+
+ 
+
+
+3 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+About the Report  
+
+ 
+
+The Sustainability Report (“SR”) of Eneco Energy Limited (“Eneco Energy”, “the Group”) is prepared in 
+
+accordance with the Global Reporting Initiative (“GRI”) Standards 2016: Core Option – the international 
+
+standard for sustainability reporting, and with reference to the Singapore Exchange Securities Limited 
+
+Listing Rules 711A and 711B. For additional information regarding the various material factors, kindly 
+
+refer to the GRI Content Index at the end of this SR. 
+
+Eneco Energy is pleased to present its third SR for the financial year ended 31 December 2019 
+
+(“FY2019”). The Group endeavours to embed sustainable practices across its operations through various 
+
+economic, environmental and social initiatives. The Group strives to disclose its sustainability 
+
+performance to its stakeholders in a transparent, accountable and responsible manner. 
+
+Eneco Energy has not obtained any independent assurance regarding the information reported in the 
+
+current financial year. However, the Group will continue further to enhance its data collection and 
+
+sustainability reporting processes, and may consider obtaining independent assurance as its 
+
+sustainability reporting efforts mature in the future. 
+
+All information in this SR pertains to 1 January 2019 to 31 December 2019, unless otherwise stated. 
+
+The SR covers Eneco Energy’s operations in Singapore and Indonesia. 
+
+ 
+
+ 
+
+Figure 1: Depiction of Geographic Operations covered by the Report 
+
+ 
+
+Contact Us 
+
+ 
+
+This SR can be found on Eneco Energy’s website at www.enecoenergy.com. Eneco Energy welcomes 
+
+your questions and values your feedback on this SR, or any other aspect of Eneco Energy’s sustainability 
+
+performance. Please address all feedback and questions to info@enecoenergy.com. 
+
+ 
+
+ 
+
+
+
+
+4 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Business in Brief 
+
+ 
+
+Eneco Energy Limited is a Singapore Stock Exchange-listed Company, which engages in the Logistics 
+
+and Oil and Gas businesses in both Singapore and Indonesia. The Group is headquartered in Singapore. 
+
+The Group ventured into the energy sector in 2008 intending to become a significant energy producer 
+
+in Indonesia. The Group holds a 70 percent interest in the Jatirarangon TAC block (“Jatirarangon block”), 
+
+located in West Java, Indonesia; a 100 percent interest in the West Jambi KSO block (“West Jambi 
+
+block”), located in Sumatra, Indonesia; and a 10 percent interest (as at December 31st 2019)  in the 
+
+Lemang PSC block (“Lemang block”), also located in Sumatra, Indonesia. All of the Group’s assets are 
+
+located in onshore regions on the Western Indonesian islands of Java and Sumatra.  
+
+Eneco Energy’s logistics business unit, RichLand Logistics (RichLand), provides supply chain services, 
+
+including inbound and outbound transportation activities, distribution management, and seaport and 
+
+airport cargo handling services. As a leading logistics solutions provider, RichLand provides premier end-
+
+to-end logistics services customised to clients’ requirements.  Founded in 1992, RichLand operates 
+
+across the South East Asia region. RichLand has a depth of experience and strong market knowledge to 
+
+meet the logistics demand of its customers in a myriad of sectors, including technology, petrochemical, 
+
+consumer goods, manufacturing, oil and gas and freight-forwarding. Technology is a key driver in 
+
+delivering higher productivity and visibility to Richland’s customers.  With its in-house tailor-made apps, 
+
+RichLand is driving change and challenging the way the industry functions. Equipped with a modern 
+
+transport fleet of more than 350 trucks and managing more than 1,000,000 square feet of warehousing 
+
+capacity RichLand continues to grow its Supply Chain Logistics Solutions business portfolio. 
+
+The Group will remain steadfast in its commitment to the sustainable growth and development of the 
+
+business, community and environment. In the coming year, the Group will review the long-term 
+
+prospects of the Oil and Gas segment and continue the development of the Logistics segment. 
+
+ 
+
+Business Core Values 
+
+ 
+
+In FY2019, the Group has refreshed its core values to align with the current business strategy. The new 
+
+core values are Safety, Professional, Innovate, Resilience, Integrity and Teamwork (“S.P.I.R.I.T.”).  
+
+ 
+
+Safety: We put safety and our environment first. 
+
+ 
+
+Professional: We are professional at all times. 
+
+ 
+
+Innovate: We strive for continual improvement. 
+
+ 
+
+Resilience: We never give up. 
+
+ 
+
+Integrity: We do the right thing, always. 
+
+ 
+
+Teamwork: We work together for everyone’s benefit. 
+
+ 
+
+Economic Performance 
+
+ 
+
+The Group continually strives to achieve healthy economic results each year.  
+
+For additional reference, kindly refer to Eneco Energy’s annual report for the financial year 2019.  
+
+ 
+
+ 
+
+
+5 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Board Statement  
+
+ 
+
+Dear Stakeholders, 
+
+2019 was a year of heartening growth of our sustainability efforts. As we progress to our third year of 
+
+sustainability reporting, we seek to grow as a corporate citizen and ensure that our business operations 
+
+are conducted sustainably. We would like to thank our stakeholders who have enabled Eneco Energy to 
+
+grow, do better, and conduct our business in a balanced and responsible way. 
+
+This year’s SR details our sustainability initiatives and achievements relating to economic, environmental 
+
+and social areas over the past financial year. To better manage our sustainability strategy, our 
+
+sustainability governance structure has been assigned to monitor and review the progress of the various 
+
+initiatives implemented. We will be sharing the commitments and progress we have made on the 
+
+material sustainability matters over the past year. 
+
+ 
+
+Strengthening our Environmental, Social and Governance (ESG) Performance 
+
+In FY2019, Eneco Energy achieved a revenue of S$41.2 million, slightly down from FY2018. We 
+
+recognise the importance of balancing financial growth alongside sustainable ESG performance. As we 
+
+grow our business, we will continue to strive to maintain high standards of corporate accountability and 
+
+transparency. 
+
+Eneco Energy is committed to managing our environmental footprint by minimising our consumption 
+
+and emission patterns. We achieve this by actively tracking key environmental metrics, which will form 
+
+the basis of our strategies and improvements across our business operations. By continuously improving 
+
+and developing our approach, we hope to improve overall business efficiency. We have continued with 
+
+our fleet refreshment programme, which entails phasing in trucks which are fitted with more 
+
+environmentally-friendly engines. As part of fleet management, the management monitors the patterns 
+
+of the fleet and its operators through the use of a car tracking software. These efforts aim to play a key 
+
+role in lowering our energy and emissions footprint. 
+
+The key factor to ensuring business success is our employees. We must remain as an employer of choice 
+
+to continually attract, retain and develop talent. Hence, we encourage our employees to grow and 
+
+develop, and continuously support and recognise them for their efforts. By conducting a range of internal 
+
+and external training, such as leadership and technical training, our employees can upscale their skill 
+
+set and stay future-ready. 
+
+We recognise the value of a diverse and safe workplace. By incorporating diversity considerations into 
+
+our recruitment policy, our employees are committed to conducting themselves respectfully towards 
+
+others. This facilitates a working environment where everyone is treated equally. At Eneco Energy, we 
+
+prioritise the safety and wellbeing of our employees above all else. By conducting regular safety 
+
+committee meetings, inspections and safety-related training, we strive to maintain the highest standards 
+
+of health and safety across our operations. This year, we have also refreshed our Vision and Core Values 
+
+(“S.P.I.R.I.T.” framework). 
+
+ 
+
+Looking Ahead 
+
+Eneco Energy is on track to building a resilient and conscious business that takes actionable measures 
+
+to enhance positive economic, environmental and social impacts. We are grounded in our role to be a 
+
+better corporate citizen and spreading sustainable influence on the markets and communities around 
+
+us. We welcome you to join us on this journey ahead. 
+
+ 
+
+
+6 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Sustainability Approach 
+
+ 
+
+Sustainability Governance 
+
+Eneco Energy’s Enterprise Risk Management (ERM) framework and various policies on quality, health 
+
+and safety, anti-corruption and code of conduct have been paramount to its sustainability journey. The 
+
+Group has developed a governance structure further to manage the sustainability-related risks and 
+
+opportunities within the organisation. 
+
+ 
+
+ 
+
+Figure 2: Eneco Energy’s Sustainability Governance Structure 
+
+ 
+
+ 
+
+ 
+
+
+
+
+7 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Anti-corruption 
+
+ 
+
+The Group is collectively committed to set in place corporate governance practices to provide the 
+
+structure through which the objectives of protecting the interests of various stakeholders and enhancing 
+
+long-term, sustainable value for shareholders can be met. The Board and the Management strongly 
+
+promotes and maintains values which emphasise transparency, accountability, integrity and proper 
+
+conduct at all times in the various business operations of the Company. Eneco Energy is committed to 
+
+conducting its business with utmost integrity and with the highest ethical standards, and in compliance 
+
+with all applicable laws and regulatory requirements for the prevention of corruption, bribery and 
+
+extortion. 
+
+Eneco Energy has established an anti-corruption policy to explain the responsibilities of its employees, 
+
+in maintaining zero-tolerance against all forms of corruption and bribery. It serves as a guide on how to 
+
+recognise, resolve and prevent instances of corruption and bribery which may arise in the course of their 
+
+work.  
+
+Upon onboarding, all employees must declare their knowledge of the anti-corruption policy and 
+
+recognise their roles and shared responsibility in maintaining zero tolerance against all forms of 
+
+corruption and bribery. Employees who are not literate will be briefed on the policy and will be expected 
+
+to sign the acknowledgement form as well. On an annual basis, existing staff are also expected to make 
+
+an online declaration to acknowledge the anti-corruption policy. 
+
+The Group’s whistleblowing policy underpins our anti-corruption commitment and provides employees 
+
+or other persons a safe channel to report any potential or actual improprieties in financial or other 
+
+operational matters. This works for employees who wish to report instances of corruption, bribery and 
+
+extortion without the fear of retaliation.  
+
+ 
+
+ 
+
+Figure 3: Employee Code of Conduct  
+
+ 
+
+In FY2019, no incidence of anti-corruption or bribery was reported across the Group’s operations in 
+
+Singapore and Indonesia. Eneco Energy aims to maintain a zero tolerance stance towards corruption 
+
+and bribery. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+8 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Stakeholder Engagement  
+
+ 
+
+Eneco Energy believes that stakeholder engagement should be transparent and authentic in order to 
+
+contribute to the growth and evolution of the organisation’s strategy and priorities. Hence, the Group 
+
+continually maintains communication channels with its stakeholders to increase understanding, 
+
+broaden awareness, seek input and expertise, and review concerns. The Group’s stakeholders have 
+
+been identified based on their dependence and influence on its business and the modes of 
+
+engagement vary depending on type and function. 
+
+ 
+
+Figure 4: Stakeholder Engagement Approach 
+
+ 
+
+Materiality Assessment 
+
+ 
+
+Eneco Energy conducted a materiality assessment exercise by reflecting on significant economic, 
+
+environmental and social impacts that are material to the organisation. The figure below depicts the 
+
+various activities involved in the materiality assessment exercise. 
+
+ 
+
+Figure 5: Materiality Assessment Approach 
+
+
+
+
+
+
+9 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Material ESG Topics 
+
+ 
+
+ 
+
+Figure 6: Summary of Material ESG Topics and Aspect Boundary1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 Aspect Boundary is a description of where the impacts occur for a material topic and the organisation’s involvement with those 
+
+impacts. Organisations might be involved with impacts either through their own activities or as a result of their business relationships 
+
+with other entities. Global Reporting Initiatives (GRI). 
+
+
+
+
+10 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Environmental Stewardship 
+
+ 
+
+Eneco Energy’s involvement in the logistics business relies significantly on diesel for transportation 
+
+purposes, and the oil and gas sector requires the use of natural gas for power generation. The 
+
+organisation remains dedicated to its long-term responsibility to protect the environment while providing 
+
+the highest standards of oil and gas products and the most efficient logistics services.  
+
+Eneco Energy has in place various initiatives to implement sustainable practices across operations in a 
+
+responsible manner, to manage environmental issues such as the consumption of energy and resources.  
+
+The Group continues to invest in a modern fleet, and regularly seeks ways to improve fuel efficiency. 
+
+Under the fleet refresh programme, the Group continues to refresh its fleet from Euro 2, 4 and 5 engine 
+
+trucks to Euro 6 trucks. The fleet refresh programme is rolling forward with the fleet in Singapore of 
+
+Euro 2 trucks comprising now of only 21% of the total fleet, with trucks of Euro 4 or higher category 
+
+forming around 79% of the fleet in Singapore.  
+
+In FY2019, Eneco Energy continues to utilise a car tracking software, which closely monitors our fleet 
+
+and drivers’ behaviour. This system generates an engine idling report, which is used to monitor and 
+
+improve the use of energy within the fleet. Also, drivers are strongly encouraged to switch off their 
+
+engines when idling, which usually occurs at ports or during the loading process.  The vehicles also run 
+
+on a scheduled maintenance programme to optimise performance and efficiency. 
+
+Beyond fleet management and maintenance, Eneco Energy also strives to improve energy efficiency at 
+
+the offices and warehouses. To build greater awareness of the importance of conserving energy, signage 
+
+is consistently placed around the warehouse and corporate office. The new warehouse, located at Tuas, 
+
+has also been equipped with energy-efficient lighting.  
+
+To evaluate the efficacy of its initiatives to minimise energy consumption and lower carbon footprint, 
+
+the Group regularly assesses its fuel consumption and carbon dioxide emissions reports. 
+
+ 
+
+ 
+
+ 
+
+
+11 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Energy 
+
+ 
+
+The infographic below shows the electricity consumption for FY2019 at the headquarters in Singapore 
+
+and Indonesia and warehouse in Singapore. Electricity consumption is directly tracked through a 
+
+telematics system. In FY2019, the Group consumed 405,992 kWh of electricity. 
+
+ 
+
+ 
+
+Figure 7: FY2019 Electricity Consumption in Singapore and Indonesia 
+
+ 
+
+ 
+
+Figure 8: FY2018 and FY2019 Total Electricity Consumption in Singapore 
+
+
+
+
+
+
+12 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+ 
+
+ 
+
+Figure 9: FY2019 Consumption of Diesel in Singapore and Indonesia* 
+
+ 
+
+ 
+
+Figure 10: FY2018 and FY2019 Consumption of Diesel in Singapore and Indonesia * 
+
+In 2019, diesel consumption in Indonesia reduced significantly. The reduction is a result of several 
+
+factors being: an increased utilisation of external vendors, a decline in customer volumes, greater trip 
+
+consolidation and the mix of customer destinations. 
+
+ 
+
+Note: Raw data for diesel consumption was recorded in litres and converted the figures into kWh to 
+
+standardise the units for the Energy disclosure purposes. 
+
+
+
+
+
+
+13 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+ 
+
+Figure 11: FY2018 and FY2019 Total Energy Consumption (kWh) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 12: Summary and Targets of Energy Consumption within the Organisation 
+
+ 
+
+
+
+
+
+
+14 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Emissions 
+
+ 
+
+Eneco Energy’s Scope 1 emissions relating to the consumption of diesel2 amounted to 4,614 tonnes 
+
+CO2e for FY2019. 
+
+ 
+
+Figure 13: Scope 1 GHG Emissions (Diesel) 
+
+ 
+
+ 
+
+Figure 14: FY2018 and FY2019 Scope 1 GHG Emissions 
+
+ 
+
+ 
+
+ 
+
+2 Eneco Energy’s Scope 1 Emissions relating to Diesel are calculated by with reference to the United States Environmental Protection 
+
+Agency’s Emission Factors for Greenhouse Gas Inventories (2018). Diesel (in litres) was converted to UK gallons, multiplied by 10.21 
+
+kg CO2e/UK gallon and converted to tonnes to arrive at CO2 emissions in metric tonnes. 
+
+
+
+
+
+
+15 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+ 
+
+Figure 15: Summary and Targets of Emissions within the Organisation 
+
+ 
+
+
+
+
+16 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Focus on People: Putting our People First 
+
+ 
+
+Eneco Energy remains deeply committed to diversity and inclusion, with a strong emphasis placed on 
+
+accessibility to opportunities for all employees, irrespective of gender or profile. In 2019, the Group 
+
+employed over 500 full time staff. The breakdown of its employee workforce by geographical location 
+
+and gender demographics follows: 
+
+ 
+
+Figure 16: FY2019 Employee Gender Profile 
+
+ 
+
+Occupational Health and Safety 
+
+ 
+
+Eneco Energy understands the importance of workplace health and safety to business success. The 
+
+Group aims to develop a workforce that delivers value for the organisation and its customers by offering 
+
+its employees a safe and nurturing environment. 
+
+The Group has established several policies and practices for employees at all levels of the organisation. 
+
+In FY2018, the logistics business in Singapore has received certification for ISO 9001:2015 and ISO 
+
+14001:2015. The Group is also certified as BizSafe Star (equivalent to Level 5). This year, Eneco Energy 
+
+continues to encourage all employees to treat workplace health and safety as a personal and collective 
+
+responsibility. 
+
+ 
+
+ 
+
+
+
+
+17 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+The metrics relating to workplace health and safety3 in FY2019 have been summarised below. 
+
+ 
+
+ 
+
+Figure 17: Summary of Occupational Health and Safety Metrics in FY2019 
+
+To manage occupational health and safety, Eneco Energy employs a multitude of initiatives. The Group 
+
+places importance on monitoring the work environment and processes to reduce the likelihood of 
+
+occupational health and safety incidents. The Quality, Health, Safety and Environment (QHSE) team 
+
+leads regular on-site risk assessments to review high-risk areas, to better direct training and 
+
+improvement efforts. The Group has utilised case studies and competency-based training to build safety 
+
+awareness in its employees. For drivers, consistent self-auditing is carried out through the use of digital 
+
+checklists in mobile applications as well. 
+
+ 
+
+ 
+
+Figure 18: Summary and Targets for Occupational Health and Safety 
+
+ 
+
+ 
+
+3 The metrics for occupational health and safety covers Singapore operations only. 
+
+
+
+
+
+
+18 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Training and Education 
+
+ 
+
+Eneco Energy believes that human capital is key to business growth. It is essential that employees 
+
+continuously upscale their skill set and stay future-ready. To this end, the Group invests in its employees 
+
+and provides learning opportunities to improve their professional skills, knowledge, capabilities and 
+
+support their personal development. 
+
+In FY2019, Eneco Energy has carried out need-based training for employees. Training sessions coach 
+
+employees to be technically capable and skilled in a variety of soft skills. Courses were carried out by 
+
+various providers, which included reputable organisations such as PSA Corporation Limited and NTUC 
+
+Learning Hub amongst others. This year, the Group placed significant emphasis on safe driving training 
+
+courses.  
+
+This year, the total number of training hours offered to employees was 2,289 hours and on average, 
+
+each employee received close to 6 hours of training. 
+
+ 
+
+ 
+
+Figure 19: Average Training Hours per Employee by Gender and Employee Category 
+
+ 
+
+
+
+
+19 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+ 
+
+Figure 20: Summary and Targets for Training and Education 
+
+ 
+
+
+
+
+20 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+Community 
+
+ 
+
+At Eneco Energy, a slew of events and initiatives are carried out to foster team building and demonstrate 
+
+appreciation to employees. Through these events, the Group aims to provide a fulfilling work 
+
+environment where employees can strengthen the bond they have with each other. 
+
+  
+
+ 
+
+Figure 21: Community Events and Initiatives at Eneco Energy 
+
+ 
+
+ 
+
+ 
+
+
+
+
+21 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+GRI Content Index 
+
+ 
+
+GRI 102: GENERAL DISCLOSURES 2016 
+
+GRI Standards 2016  
+
+Disclosure 
+
+Page Reference 
+
+Omission  
+
+ORGANISATIONAL PROFILE 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-1 Name of the organisation 
+
+Page 3 
+
+ 
+
+102-2 Activities, brands, products 
+
+and services 
+
+Page 4 
+
+ 
+
+102-3 Location of headquarters 
+
+Page 4 
+
+ 
+
+102-4 Location of operations 
+
+Page 4 
+
+ 
+
+102-5 Ownership and legal form 
+
+Page 4 
+
+ 
+
+102-6 Markets served 
+
+Page 4 
+
+ 
+
+102-7 Scale of the organisation 
+
+Refer to FY2019 Annual 
+
+Report 
+
+ 
+
+102-8 Information on employees 
+
+and other workers 
+
+Page 16 
+
+ 
+
+102-9 Supply chain 
+
+Page 4 
+
+ 
+
+102-10 Significant changes to 
+
+organisation and its supply chain 
+
+Not applicable 
+
+ 
+
+102-11 Precautionary principle or 
+
+approach 
+
+Page 6 
+
+ 
+
+102-12 External Initiatives 
+
+ISO 14001, ISO 9001, 
+
+OHSAS 18000, BizSafe 
+
+Star 
+
+ 
+
+102-13 Membership of associations 
+
+Singapore Logistics 
+
+Association 
+
+ 
+
+STRATEGY 
+
+GRI 102 : General 
+
+Disclosures 2016 
+
+102-14 Statement from senior 
+
+decision-maker 
+
+Page 5 
+
+ 
+
+ETHICS AND INTEGRITY 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-16 Values, principles, 
+
+standards, and norms of behaviour 
+
+Page 7 
+
+ 
+
+GOVERNANCE  
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-18 Governance structure 
+
+Page 6 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+ 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-40 List of stakeholder groups 
+
+Page 8 
+
+ 
+
+102-41 Collective bargaining 
+
+agreements 
+
+Not applicable 
+
+ 
+
+102-42 Identifying and selecting 
+
+stakeholders 
+
+Page 8 
+
+ 
+
+102-43 Approach to stakeholder 
+
+engagement 
+
+Page 8 
+
+ 
+
+102-44 Key topics and concerns 
+
+raised  
+
+Page 8 
+
+ 
+
+REPORTING PRACTICE 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-45 Entities included in the 
+
+consolidated financial statements 
+
+FY2019 Annual Report 
+
+ 
+
+102-46 Defining report content and 
+
+topic Boundaries 
+
+Page 3 
+
+ 
+
+
+22 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+GRI 102: GENERAL DISCLOSURES 2016 
+
+102-47 List of material topics 
+
+Page 9 
+
+ 
+
+102-48 Restatements of 
+
+information 
+
+Not applicable 
+
+ 
+
+102-49 Changes in reporting 
+
+Not applicable 
+
+ 
+
+102-50 Reporting period 
+
+Page 3 
+
+ 
+
+102-51 Date of most recent report 
+
+FY2018 Sustainability 
+
+Report published 18 
+
+March 2019 
+
+ 
+
+102-52 Reporting cycle 
+
+Page 3 
+
+ 
+
+102-53 Contact point for questions 
+
+regarding the report 
+
+Page 3 
+
+ 
+
+102-54 Claims of reporting in 
+
+accordance with the GRI Standards 
+
+Page 3 
+
+ 
+
+102-55  GRI Content Index 
+
+Page 21 
+
+ 
+
+102-56 External assurance 
+
+Not externally assured 
+
+ 
+
+CATEGORY: ECONOMIC 
+
+ECONOMIC PERFORMANCE 
+
+GRI 103: Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material 
+
+topic and its boundary 
+
+Page 4 
+
+ 
+
+103-2 The management approach 
+
+and its components 
+
+Page 4 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 4 
+
+ 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-1 Direct economic value 
+
+generated and distributed 
+
+Page 4 
+
+ 
+
+ANTI-CORRUPTION 
+
+GRI 103: Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material 
+
+topic and its boundary 
+
+Page 7 
+
+ 
+
+103-2 The management approach 
+
+and its components 
+
+Page 7 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 7 
+
+ 
+
+GRI 205: Anti-
+
+corruption 2016 
+
+205-2 Communication and training 
+
+about anti-corruption policies and 
+
+procedures 
+
+Page 7 
+
+ 
+
+CATEGORY: ENVIRONMENT 
+
+ENERGY 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the material 
+
+topic and its boundary 
+
+Page 10 
+
+ 
+
+103-2 The management approach 
+
+and its components 
+
+Page 10, 13 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 10 
+
+ 
+
+GRI 302: Energy 2016 
+
+302-1 Energy consumption within 
+
+the organization 
+
+Page 11, 12, 13 
+
+ 
+
+EMISSIONS  
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the material 
+
+topic and its boundary 
+
+Page 10 
+
+ 
+
+103-2 The management approach 
+
+and its components 
+
+Page 10, 15 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 10 
+
+ 
+
+GRI 307: Emissions 
+
+2016 
+
+305-1 Direct (Scope 1) GHG 
+
+emissions 
+
+Page 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+23 
+
+“This document is intended solely for the information and internal use of Eneco Energy, and should not be used or relied upon by any other person or entity.” 
+
+CATEGORY: SOCIAL 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the material 
+
+topic and its boundary 
+
+Page 16, 17 
+
+ 
+
+103-2 The management approach 
+
+and its components 
+
+Page 16, 17, 18 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 17 
+
+ 
+
+GRI 403: Occupational 
+
+Health and Safety 2016 
+
+403-2 Types of injury and rates of 
+
+injury, occupational diseases, lost 
+
+days, and absenteeism, and 
+
+number of work-related fatalities 
+
+Page 17 
+
+ 
+
+TRAINING AND EDUCATION 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 Explanation of the 
+
+material topic and its boundary 
+
+Page 18 
+
+ 
+
+103-2 The management 
+
+approach and its components 
+
+Page 18, 19 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Page 18, 19 
+
+ 
+
+GRI 404: Training 
+
+and Education 2016 
+
+404-1 Average hours of training 
+
+per year per employee 
+
+Page 18 
+
+ 
+
+ 
+

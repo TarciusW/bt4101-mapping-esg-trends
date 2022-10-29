@@ -1,0 +1,1023 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TRANSCORP HOLDINGS LIMITED 
+
+(Incorporated in the Republic of Singapore on 27 April 1995) 
+
+(Company Registration Number: 199502905Z) 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT for FY 2018 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+- 2 - 
+
+ 
+
+Content Page 
+
+ 
+
+Sustainability Reporting Framework 
+
+ 
+
+3 
+
+ 
+
+Material ESG Factors  
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+Policies, Practices and Performance 
+
+ 
+
+8 
+
+ 
+
+Targets 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+Board Statement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+ 
+
+ 
+
+Appendix : Group Corporate Structure 
+
+ 
+
+11 
+
+ 
+
+Appendix : GRI Content Index 
+
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 3 - 
+
+ 
+
+Sustainability Reporting Framework 
+
+ 
+
+This Sustainability Report for the financial year ending 31 October 2018 takes guidance 
+
+from the Global Reporting Initiatives (“GRI”) standards GRI 101, GRI 102 and GRI 103. The 
+
+GRI Standards were adopted as it is internationally recognised.   
+
+ 
+
+This is the first Sustainability Report of Transcorp Holdings Limited (“the Company”) aims 
+
+to focus on the most critical Environmental Social &amp; Governance (“ESG”) that affects the 
+
+Company’s performance and prospects.  Hence, this report must be read in context of 
+
+the Company’s current corporate position as at the date of the publication, which is that 
+
+the Company is facing a turnaround situation.  Further information on the corporate and 
+
+financial circumstances of the Company can be found in the various public 
+
+announcements made on SGXNet between November 2018 to October 2019.  With the 
+
+background information and context aforementioned,  the material ESG factors identified 
+
+were: (a) financial sustainability; and (b) the Company’s corporate governance obligations 
+
+as a listed issuer on the SGX.  
+
+ 
+
+ESG matters are overseen and governed by the Board of Directors’ (“Board”). The 
+
+Company’s Management play a coordination, information compilation and execution 
+
+role but the Board retains overall responsibility and oversight.  
+
+ 
+
+This report is in accordance with Catalist Rule 711A which states the timing of the report 
+
+as well as the fact that the report includes the primary components as follows : 
+
+a) material environmental, social and governance topics; 
+
+b) policies, practices and performance; 
+
+c) targets; 
+
+d) sustainability reporting framework; and 
+
+e) Board statement. 
+
+ 
+
+ 
+
+On behalf of the Board, 
+
+ 
+
+ 
+
+Chia Siak Yan Vincent 
+
+Non-Executive Chairman and Independent Director  
+
+1 November 2019 
+
+ 
+
+ 
+
+ 
+
+
+- 4 - 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Material ESG Factors 
+
+ 
+
+Current Financial Situation 
+
+For FY2018, the Group’s revenue decreased from $6.08 million in FY2017 to $3.82 million 
+
+in FY2018. This $2.26 million reduction in revenue was largely attributable to a reduction 
+
+in the number of cars sold (from 52 in FY2017 to 25 in FY2018) which accounted for $3.59 
+
+million reduction in sales. This reduction was partly offset by a $1.05 million increase in 
+
+revenue from the sale of used cars and a S$0.27 million increase in car rental income. 
+
+ 
+
+Gross loss was $1.80 million in FY2018 as compared to $0.44 million in FY2017 as older 
+
+vehicles were sold at a deeper discount.  
+
+ 
+
+Loss for the financial year and total comprehensive loss for the financial year increased 
+
+from $5.71 million in FY2017 to $13.76 million in FY2018. The $8.05 million increase was 
+
+largely attributable to the $1.36 million increase in gross loss, $0.26 million reduction in 
+
+other income, $6.68 million increase in other operating expenses, $0.12 million reduction 
+
+in income tax credits and $0.05 million increase in finance cost. These increases totalling 
+
+$8.48 million was partly offset by a $0.43 million reduction in administrative expenses. 
+
+ 
+
+For 1HFY2019, the Group’s revenue decreased from S$2.91 million in 1HFY2018 to S$1.51 
+
+million in 1HFY2019. The S$1.40 million reduction in revenue was largely attributable a 
+
+reduction in the number of cars sold which accounted for S$1.58 million reduction in 
+
+sales which was partially offset by a S$0.18 million increase in car rental income. 
+
+Correspondingly, the cost of goods sold decreased from S$2.71 million in 1HFY2018 to 
+
+S$1.47 million in 1HFY2019. The decrease in gross profit was largely attributable to motor 
+
+vehicles been sold at a deeper discount.  
+
+ 
+
+Loss and total comprehensive loss for 1HFY2019 decreased from S$2.68 million in 
+
+1HFY2018 to S$2.51 million in 1HFY2019. The S$0.17 million decrease was largely 
+
+attributable S$0.55 million decrease in other expenses which was partially offset by the 
+
+
+- 5 - 
+
+ 
+
+S$0.15 million reduction in gross profit, S$0.09 million increase in finance costs and 
+
+S$0.15 million reduction in income tax credit as explained above. 
+
+ 
+
+Current Business Situation 
+
+The Group has two main lines of businesses in Singapore, namely the automobile sales 
+
+business and the automobile rental business.  
+
+ 
+
+The automobile sales business continues to decline because of the reduction in the 
+
+number of cars sold and also because of the discount at which the cars are sold at. There 
+
+are currently 11 cars left in the inventory as at 31 October 2019 and once these are sold, 
+
+the Group will cease the automobile sales business.  
+
+ 
+
+The automobile rental business has been affected by the lack of a financing partner and 
+
+a strategic partner to grow its fleet. The financing partner would have enabled the Group 
+
+to grow its fleet at a faster rate and thus reap the economies of scale in terms of 
+
+operations while the strategic partner would have ensured a more competitive pricing 
+
+due to rebates that the ride hailing apps would offer to private hire car drivers as a result 
+
+of the arrangement with the strategic partner. Hence there are plans to restart the 
+
+business under a new branding and new entity which would then facilitate the 
+
+partnership with both a financing partner and a strategic partner. 
+
+ 
+
+ESG Factor Considerations 
+
+Given the current loss-making situation and decline in the existing businesses as 
+
+described above, the Company is focusing on a “turn-around” outcome.  New equity 
+
+investors are being sought to provide capital to execute the necessary corporate 
+
+restructuring to drive new businesses forward.  For this purpose, Share Placement 
+
+agreements have been entered into for the purpose of raising capital through new 
+
+investors to drive the bysiness forward. Along with the placement agreements is a 
+
+strategic growth target to develop the automotive rental business. 
+
+ 
+
+Given these considerations, the Board has decided to adopt a more practical process in 
+
+terms of the consideration of the Environmental, Social and Governance factors. The 
+
+following ESG factors were evaluated and discussed : 
+
+
+- 6 - 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Category 
+
+Factors 
+
+Environmental 
+
+• Carbon footprint generated by Automobiles 
+
+• Compliance with LTA and traffic rules 
+
+ 
+
+Social 
+
+• Employment Laws and Practices 
+
+• Communication with Stakeholders 
+
+• Driver Safety and Health 
+
+• Customer Satisfaction and Interest 
+
+ 
+
+Governance 
+
+• Corporate Governance 
+
+• Financial Sustainability 
+
+• Corruption 
+
+ 
+
+ 
+
+Due to the current corporate position, the key ESG factors that the Board is focusing on 
+
+are : 
+
+1) Financial Sustainability 
+
+2) Corporate Governance 
+
+ 
+
+There is a third ESG factor that the Board had considered for inclusion as a key ESG factor 
+
+which is Communications with Stakeholders. However given the current corporate 
+
+position, the first two factors assessed to be more material. 
+
+ 
+
+The focus on Financial Sustainability is to ensure the continuing business viability of the 
+
+Company. This involves ramping down the automotive sales business and executing the 
+
+new developments for the automotive rental business.  For this purpose, the eventual 
+
+proceeds from the Share Placement that has been announced will be applied towards 
+
+various business and operational needs (refer to SGXNet announcement made on 24 
+
+September 2019) and allow the Company to develop the automotive rental business.  
+
+The Company is in the process of entering into various Memorandums of Understanding 
+
+(“MoU”) with strategic business partners to secure financing to purchase vehicles for the 
+
+rental business, and also to utilise the partners’ alliance with ride-sharing companies to 
+
+lease the vehicles to the ride-sharing drivers.  It was also announced that the execution 
+
+
+- 7 - 
+
+ 
+
+of the automotive rental business is targeted to achieve a break-even cash flow position 
+
+within 5-months of its commencement.  
+
+ 
+
+In terms of the day-to-day operations of the Company, there is a need to also right size 
+
+the staff count as well as to ensure that the expenses incurred are proper and justifiable. 
+
+Any expenses or invoices without proper justification and agreement should be queried 
+
+and rejected. 
+
+ 
+
+The focus on Corporate Governance reflects the Company’s ongoing status as a listed 
+
+company on the Singapore Stock Exchange. This status necessitates a certain level of 
+
+Corporate Governance with details in its Annual Report for FY 2018. 
+
+ 
+
+It is envisaged that once the Company is able to successfully execute this turnaround 
+
+approach, the Board can then revert to a more conventional and structured process to 
+
+determine its key ESG factors. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 8 - 
+
+ 
+
+ 
+
+ 
+
+Policies, Practices and Performance.  
+
+ 
+
+Financial Sustainability 
+
+ 
+
+The Board has approached Financial Sustainability at two levels. The first is at a strategic 
+
+level while the second is at an internal management level.  
+
+ 
+
+At a strategic level, the Company has been reaching out to investors who are keen to 
+
+participate in a share placement exercise to raise funds for its strategic growth plan and 
+
+its expenses which include outstanding payables and expenses going forward. The 
+
+development of its strategic growth plan is also a critical element of the turnaround 
+
+exercise and thus ensuring Financial Sustainability. And a key part of the strategic growth 
+
+plan is to restart the automobile rental business with a new entity and branding. 
+
+ 
+
+At an internal management level, the Company has relooked its internal controls systems 
+
+and come up with a new Operations Manual that includes internal control policies in key 
+
+areas. Going forward, there will be a greater scrutiny on expenses incurred as well as 
+
+better process documentation. 
+
+ 
+
+ 
+
+Corporate Governance 
+
+ 
+
+The Board recognises the importance of corporate governance and is committed to 
+
+ensuring the practices recommended in the Code of Corporate Governance 2012 (the 
+
+“Code”) are practiced throughout the Group. The Company believes that good corporate 
+
+governance provides the framework for an ethical and accountable corporate 
+
+environment, which will maximise long term shareholders’ value and protect the interests 
+
+of shareholders. 
+
+ 
+
+The Corporate Governance in the FY2018 Annual Report outlines the Company’s 
+
+corporate governance practices that were in place during the financial year ended 31 
+
+October 2018 (“FY2018”), with specific reference made to the principles of the Code and 
+
+the disclosure guide developed by the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) in January 2015 (the “Guide”). 
+
+ 
+
+The Company confirms that during FY2018 it has substantially adhered to the principles 
+
+and guidelines as set out in the Code and the Guide, and where applicable, it has 
+
+specified and explained the areas and reasons for non-compliance. 
+
+ 
+
+
+- 9 - 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Targets 
+
+ 
+
+The Company aims to complete its turnaround exercise as soon as practically possible 
+
+and then future sustainability reports can focus on other environment, social and 
+
+governance factors that would then have more impact to the Company’s business as well 
+
+as the Company’s interaction with its stakeholders as well as society as a whole. 
+
+ 
+
+The Company notes that it can improve its report in the future with a more conventional 
+
+and structure process in determining its key ESG factors. Future reports should also focus 
+
+on risks to ensure that the report is balanced. The Company targets to improve its report 
+
+once it is able to complete its turnaround process. 
+
+ 
+
+For Financial Sustainability, the target would for the Company to complete its placement 
+
+exercise to ensure it has adequate capital to execute its strategic growth plan. There is 
+
+also a plan to conduct an Independent Review exercise to provide a third party 
+
+perspective on key events in the Company as well as its current state of internal controls. 
+
+ 
+
+For Corporate Governance, the target is for the Company to ensure proper Corporate 
+
+Governance practices on a day-to-day basis. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 10 - 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Board Statement.  
+
+ 
+
+The Board recognises the importance of sustainability and takes responsibility for the 
+
+sustainability efforts of the Company. The Board has considered sustainability issues as 
+
+part of its strategy formulation as well as determined the material environmental, social 
+
+and governance factors to focus on for the financial year. The Board has also overseen 
+
+the management and monitoring of these factors in accordance with the Targets set. 
+
+ 
+
+The Company is committed to executing its turnaround strategy and enhance its current 
+
+corporate position. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+- 11 - 
+
+ 
+
+ 
+
+ 
+
+Appendix : Group Corporate Structure 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+- 12 - 
+
+ 
+
+ 
+
+ 
+
+Appendix : GRI Content Index  
+
+ 
+
+ GRI CONTENT INDEX GRI 
+
+Standard/Disclosure  
+
+Page Reference and Reasons for Omission, 
+
+if applicable  
+
+102-1 Name of the organisation  
+
+1  
+
+ 
+
+102-2 Activities, brands, products, and services  5, 11 
+
+Annual Report for FY2018: 1 
+
+ 
+
+102-3 Location of headquarters  
+
+5 
+
+Annual Report for FY2018 : 6 
+
+ 
+
+102-4 Location of operations  
+
+5  
+
+Annual Report for FY2018 : 6 
+
+ 
+
+102-5 Ownership and legal form  
+
+1  
+
+ 
+
+102-6 Markets served  
+
+5 
+
+102-7 Scale of the organisation  
+
+5, 11 
+
+Annual Report for FY2018: 1 
+
+ 
+
+102-8 Information on employees and other 
+
+workers  
+
+Not applicable because of the focus for current 
+
+year 
+
+ 
+
+102-9 Supply chain  
+
+Not applicable because of the focus for current 
+
+year 
+
+ 
+
+102-10 Significant changes to the organisation 
+
+and its supply chain  
+
+Not applicable because of the focus for current 
+
+year 
+
+ 
+
+102-11 Precautionary principle or approach  
+
+3  
+
+ 
+
+102-12 External initiatives  
+
+Not applicable because of the focus for current 
+
+year 
+
+102-13 Membership of associations  
+
+Not applicable as there is no major 
+
+memberships of industry or other associations, 
+
+and national or international advocacy 
+
+organisations maintained by the Group within 
+
+the scope of this report.  
+
+ 
+
+102-14 Statement from senior decision maker  
+
+10 
+
+ 
+
+102-16 Values, principles, standards, and 
+
+norms of behaviour  
+
+Annual Report for FY2018: 8 to 46 
+
+ 
+
+ 
+
+102-18 Governance structure  
+
+Annual Report for FY2018: 8 to 46 
+
+ 
+
+102-40 List of stakeholder groups  
+
+Not applicable because of the focus for current 
+
+year. 
+
+ 
+
+
+- 13 - 
+
+ 
+
+102-41 Collective bargaining agreements  
+
+Not applicable as all employees within the 
+
+scope of this report are not covered by any 
+
+collective bargaining agreements.  
+
+ 
+
+102-42 Identifying and selecting stakeholders  
+
+Not applicable because of the focus for current 
+
+year. 
+
+ 
+
+102-43 Approach to stakeholder engagement  
+
+Not applicable because of the focus for current 
+
+year. 
+
+ 
+
+102-44 Key topics and concerns raised  
+
+4-7 
+
+ 
+
+102-45 Entities included in the consolidated 
+
+financial statements  
+
+11 
+
+ 
+
+ 
+
+102-46 Defining report content and topic 
+
+boundaries  
+
+3  
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,1484 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Sustainability Report FY2017 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+2 
+
+ 
+
+
+
+Table of Contents 
+
+Board Statement ..................................................................................................................................... 3 
+
+About This Report.................................................................................................................................... 4 
+
+Sustainability Governance ....................................................................................................................... 4 
+
+Assessing Materiality ............................................................................................................................... 5 
+
+Economic ................................................................................................................................................. 6 
+
+Economic Performance ....................................................................................................................... 6 
+
+Environment ............................................................................................................................................ 7 
+
+Energy and Emissions .......................................................................................................................... 7 
+
+Our People .............................................................................................................................................. 9 
+
+Talent Attraction and Retention .......................................................................................................... 9 
+
+Training and Education ...................................................................................................................... 11 
+
+Occupational Health and Safety ........................................................................................................ 11 
+
+Our Suppliers ......................................................................................................................................... 13 
+
+Supplier Assessment.......................................................................................................................... 13 
+
+Regulatory Compliance ......................................................................................................................... 14 
+
+Compliance with Laws and Regulations ............................................................................................ 14 
+
+Environmental Compliance ............................................................................................................... 14 
+
+Anti-Corruption ................................................................................................................................. 14 
+
+ 
+
+ 
+
+ 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+3 
+
+ 
+
+
+
+Board Statement     
+
+The Board of Directors is pleased to present ASTI Holdings Limited (“ASTI”)’s inaugural sustainability 
+
+report.  
+
+ 
+
+The Board is responsible for maintaining an oversight of the development and implementation of 
+
+sustainability strategies and strives to integrate sustainability principles into business policies and 
+
+practices. The Board oversees the selection of ASTI’s material topics as well as monitors and manages 
+
+issues relating to these topics regularly. ASTI has a sustainability committee that supports the Board in 
+
+these sustainability endeavours.  
+
+ 
+
+Companies in many industries, including the semiconductor manufacturing industry, are seeing the 
+
+value that sustainable practices bring to their business and the manufacturing industry as a whole are 
+
+recognising the importance of focusing on and reporting sustainability issues such as eco-efficiency 
+
+and occupational health and safety. 
+
+ 
+
+As a world-class manufacturer of automated backend equipment, we strive to continually evolve to 
+
+respond to the changing landscape of the industry in order to remain successful and grow our 
+
+business. We place honesty and quality customer service at the forefront of our business and these 
+
+principles extend throughout our activities, from providing our employees with a safe and positive 
+
+working environment, to being honest and transparent in our dealings with our customers and 
+
+suppliers and carefully monitoring our adherence to global and industrial standards and guidelines.  
+
+ 
+
+Our strong commitment to ethical business practices and product quality guide everything that we do 
+
+and we believe these principles are of particular significance to our profitability and long-term 
+
+success. Therefore, sustainability will remain a priority as we move forward in the years ahead.  
+
+ 
+
+ 
+
+ 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+4 
+
+ 
+
+
+
+About This Report 
+
+This inaugural report includes information on ASTI’s sustainability performance for the period of 1 
+
+January to 31 December 2017 (“FY2017”). ASTI researches, designs, develops and manufactures 
+
+equipment for semiconductor companies. Based in Singapore, the Group has three research and 
+
+development centres, 10 factories and 24 sales offices located in Southeast Asia, Greater China, South 
+
+Korea, the United States of America and the United Kingdom. The scope of this inaugural report 
+
+covers Telford’s business operations in Singapore as they are currently the most material to the ASTI. 
+
+ 
+
+ASTI reports its sustainability performance annually. This report is in compliance with the 
+
+requirements of SGX-ST Listing Rules 711A and 711B and references the Global Reporting Initiative 
+
+(GRI) Standards (2016). This report references the following topic-specific disclosures:  
+
+ 
+
+• 
+
+Disclosure 205-3 from GRI 205: Anti-corruption 2016 
+
+• 
+
+Disclosures 302-1 and 302-3 from GRI 302: Energy 2016 
+
+• 
+
+Disclosures 305-1 and 305-4 from GRI 305: Emissions 2016 
+
+• 
+
+Disclosure 307-1 from GRI 307: Environmental Compliance 2016 
+
+• 
+
+Disclosures 401-1 and 401-2 from GRI 401: Employment 2016 
+
+• 
+
+Disclosure 403-2 from GRI 403: Occupational Health and Safety 2016 
+
+• 
+
+Disclosure 404-2 from GRI 404: Training and Education 2016 
+
+• 
+
+Disclosure 414-1 from GRI 414: Supplier Social Assessment 2016 
+
+• 
+
+Disclosure 419-1 from GRI 419: Socioeconomic Compliance 2016 
+
+ 
+
+For any enquires, comments or feedback regarding both our sustainability performance and inaugural 
+
+sustainability report, please send them to enquiries@astigp.com. 
+
+Sustainability Governance 
+
+Successful integration of sustainability into our business operations requires strong leadership and an 
+
+effective governance framework. At ASTI, we have a robust governance structure and various 
+
+procedures to manage the environmental, social and governance (ESG) issues that are important to 
+
+us and our stakeholders.  
+
+ 
+
+Sustainability Steering Committee (SSC) 
+
+The Sustainability Steering Committee (SSC) is represented by senior members of the Administration, 
+
+Finance, Human Resources and Information Technology divisions at ASTI. The role of the SSC is to 
+
+provide advice and assistance to the Board in ensuring that policies and procedures in relation to ESG 
+
+issues are aligned with ASTI’s business strategy. The SSC is supported by a Sustainability Task Force 
+
+(STF), which is responsible for driving sustainability initiatives and programmes across ASTI.  
+
+Monitoring and Benchmarking 
+
+ 
+
+We monitor and evaluate our sustainability performance against our peer companies in order to 
+
+improve our own performance and to identify areas of improvement. Once performance gaps have 
+
+been identified, we conduct a review of our approach to sustainability so that we are in a better 
+
+position to execute targeted actions to address the gaps.  
+
+ 
+
+ 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+5 
+
+ 
+
+
+
+Assessing Materiality 
+
+It is important that we focus our sustainability efforts in areas that are of most importance to us as a 
+
+business and areas where our stakeholders are most concerned. We engage with stakeholders on an 
+
+ongoing basis and we use these interactions to better understand the ESG issues that may be of most 
+
+concern to them. Our approach to stakeholder engagement is presented in the following table, which 
+
+includes information on our key stakeholders and how we regularly engage with them:  
+
+ 
+
+ 
+
+As well as considering stakeholder priorities, we reflected on ESG issues that are material to us based 
+
+on their significance to our business. With the help of an independent consultant, we undertook a 
+
+materiality assessment involving members of the senior management team from ASTI in FY2017. The 
+
+identification of material issues involved conducting research on global and local trends in our 
+
+industry, material topics identified by our peers and industry best practices.  
+
+ 
+
+We strive to manage, measure and report on issues that are material to us and our stakeholders. In 
+
+FY2017, we focused on the following material issues:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Investors and 
+
+Investors and 
+
+Investors and 
+
+Investors and 
+
+SSSShareholder
+
+hareholder
+
+hareholder
+
+hareholderssss    
+
+Employees
+
+Employees
+
+Employees
+
+Employees    
+
+Customers
+
+Customers
+
+Customers
+
+Customers    
+
+Suppliers
+
+Suppliers
+
+Suppliers
+
+Suppliers    
+
+� 
+
+Media releases 
+
+� 
+
+Quarterly SGX’s 
+
+announcements 
+
+� 
+
+Yearly annual 
+
+general meeting 
+
+(AGM) for 
+
+shareholders 
+
+� 
+
+Annual report 
+
+ 
+
+ 
+
+� 
+
+Company 
+
+handbook  
+
+� 
+
+New employee 
+
+orientation 
+
+� 
+
+Whistle blowing 
+
+policy  
+
+� 
+
+Customer visits 
+
+� 
+
+Customers’ material 
+
+safety compliance 
+
+requirements  
+
+� 
+
+Customer 
+
+satisfaction survey 
+
+� 
+
+Factory visits by 
+
+customers 
+
+� 
+
+Supplier selection 
+
+process 
+
+� 
+
+Supplier assessment 
+
+� 
+
+Meetings with 
+
+suppliers 
+
+Economic
+
+Economic
+
+Economic
+
+Economic    
+
+Environment
+
+Environment
+
+Environment
+
+Environment    
+
+Our People
+
+Our People
+
+Our People
+
+Our People    
+
+Our Suppliers
+
+Our Suppliers
+
+Our Suppliers
+
+Our Suppliers    
+
+Regulatory 
+
+Regulatory 
+
+Regulatory 
+
+Regulatory 
+
+Compliance
+
+Compliance
+
+Compliance
+
+Compliance    
+
+� Economic 
+
+Performance 
+
+ 
+
+ 
+
+ 
+
+� 
+
+Energy and 
+
+Emissions  
+
+ 
+
+� 
+
+Talent 
+
+Attraction and 
+
+Retention 
+
+� 
+
+Training and 
+
+Education  
+
+� 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+ 
+
+� 
+
+Supplier 
+
+Assessment 
+
+ 
+
+� 
+
+Compliance 
+
+with Laws and 
+
+Regulations  
+
+� 
+
+Environmental 
+
+Compliance  
+
+� 
+
+Anti-
+
+Corruption  
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+6 
+
+ 
+
+
+
+Economic 
+
+Economic Performance 
+
+ 
+
+Our stakeholders, including our shareholders, are concerned about our ability to deliver value and 
+
+generate returns for them. Our focus is to maintain a strong financial position in order to create long-
+
+term sustainable growth for our shareholders.  
+
+Our financial performance for FY2017 can be found in the Financial Highlights section (page 10) and 
+
+Appendix 2 – Audited Financial Statements (pages 7 to 69) of the Annual Report.  
+
+ 
+
+ 
+
+ 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+7 
+
+ 
+
+
+
+Environment 
+
+Energy and Emissions  
+
+ 
+
+In the equipment manufacturing industry, energy consumption is responsible for a significant portion 
+
+of operating costs and greenhouse gas (GHG) emissions. The industry faces the ongoing challenge of 
+
+managing the impacts of rising energy costs and climate risks. Therefore, reducing energy 
+
+consumption and GHG emissions is integral to improving our efficiency and supporting the transition 
+
+to a low carbon and sustainable future. We strive to adopt sustainable practices and implement 
+
+initiatives that focus on reducing energy consumption and GHG emissions, while improving our 
+
+energy efficiency and lowering costs.  
+
+ 
+
+At ASTI, a substantial amount of energy is used for equipment manufacturing, cleanroom heating, 
+
+ventilation, and air conditioning. We have implemented robust systems to manage and monitor our 
+
+energy consumption to ensure that our resources are used efficiently and that our operational costs 
+
+are kept to a minimum. Our utility consumption patterns are tracked and monitored each month to 
+
+make sure that our operations are as energy efficient as possible.  
+
+ 
+
+Several measures have been put in place to reduce energy consumption, including:  
+
+• 
+
+Installing an auto-timer in the air-compressor room at the manufacturing site;  
+
+• 
+
+Conducting regular maintenance checks on equipment, including air compressors to 
+
+ensure optimal performance; 
+
+• 
+
+Maintaining the air-conditioning within our office at a temperature of 24oC; and 
+
+• 
+
+Encouraging employees to turn off lights and air-conditioners when not in use.     
+
+ 
+
+In FY2017, ASTI’s total electricity consumption was 287,798 kilowatt hours (kWh), an increase of 8.8% 
+
+compared to 264,428 kWh in FY2016. Similarly, the electricity intensity grew from 276 kWh/m2 in 
+
+FY2016 to 300 kWh/m2 in FY2017. The increase is attributed to a higher production of manufacturing 
+
+equipment. There was a 7.7% increase in our GHG emissions from electricity use, from 1121 tonnes 
+
+carbon dioxide equivalent (tCO2e) in FY2016 to 1212 tCO2e in FY2017. Nonetheless, the GHG 
+
+emissions intensity from electricity use rose slightly from 0.12 tCO2e/m2 in FY2016 to 0.13 tCO2e/m2 in 
+
+FY2017.  
+
+ 
+
+1 2 CO2 emissions released were calculated using conversion factors of 0.4192 kg CO2/kWh and 0.4237 kg 
+
+CO2/kWh – Singapore’s Average Operating Margin (OM) Grid Emission Factors (GEFs) in 2017 and 2016, 
+
+respectively. 
+
+ 
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017    
+
+� 
+
+Electricity consumption:  287,798 kilowatt hours (kWh) 
+
+� 
+
+Electricity intensity: 300 kWh/m2  
+
+� 
+
+Greenhouse gas (GHG) emissions from electricity use:  121  tonnes carbon dioxide 
+
+equivalent (tCO2e) 
+
+� 
+
+GHG emissions intensity from electricity use: 0.13  tCO2e/m2 
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018 
+
+� 
+
+Maintain energy (electricity) intensity within 10% of 2017’s levels  
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+8 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+264,428 
+
+287,798 
+
+FY2016
+
+FY2017
+
+Electricity Consumption (kWh)
+
+[VALUE]
+
+[VALUE]
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+FY2016
+
+FY2017
+
+Electricity Intensity (kWh/m2)
+
+112
+
+121
+
+FY2016
+
+FY2017
+
+GHG Emissions from Electricity 
+
+Use (tCO2e)
+
+0.12
+
+0.13
+
+FY2016
+
+FY2017
+
+GHG Emissions Intensity from 
+
+Electricity Use (tCO2e/m2)
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+9 
+
+ 
+
+
+
+Our People 
+
+Talent Attraction and Retention  
+
+ 
+
+We attribute a great part of our success to the value we place on the technical knowledge and 
+
+operational know-how of our employees. Each of our employees plays a valuable part in providing the 
+
+highest quality products and services to our customers to ensure that we stay ahead of competition. 
+
+Therefore, the hiring and retention of talent remains our top priority.  
+
+As of 31 December 2017, ASTI had 633 employees and all of them were based in Singapore. More 
+
+than half of ASTI’s employees were within the 30-to-50-year age group. Male and female employees 
+
+accounted for 43% and 57% of ASTI’s workforce, respectively. In FY2017, our average monthly 
+
+turnover rate was 1.2% while our average monthly new hire rate was 0.5%.  
+
+We collect, track and monitor our human resources (HR) data, including overtime, vacation balances 
+
+and the number of training days on a regular basis.  
+
+ 
+
+ 
+
+ 
+
+3 The figure includes 24 employees at Telford. 
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017    
+
+� 
+
+New employee hires: 4 (monthly rate: 0.5%) and employee turnover: 9 (monthly rate: 
+
+1.2%) 
+
+Target
+
+Target
+
+Target
+
+Targets for FY2018
+
+s for FY2018
+
+s for FY2018
+
+s for FY2018 
+
+� 
+
+Achieve an employee turnover rate that is equal to or less than the industry average 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+10 
+
+ 
+
+
+
+ 
+
+ 
+
+To ensure we remain an attractive employer, we offer our employees competitive compensation and 
+
+a range of other benefits. A framework has been established to ensure that the remuneration offered 
+
+to our employees is market competitive. In addition, the performance of each employee is evaluated 
+
+during an annual performance review, which also includes a discussion of employees' personal 
+
+development and long-term goals. 
+
+5%
+
+54%
+
+41%
+
+Total Employees by Age 
+
+(FY2017) 
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+43%
+
+57%
+
+Total Employees by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+75%
+
+25%
+
+New Employees by Age (FY2017) 
+
+30 - 50 years old
+
+&gt; 50 years old
+
+75%
+
+25%
+
+New Employees by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+33%
+
+45%
+
+22%
+
+Employee Turnover by Age 
+
+(FY2017) 
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+33%
+
+67%
+
+Employee Turnover by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+11 
+
+ 
+
+
+
+Benefits provided to our full-time employees include health care coverage, parental leave and 
+
+retirement plans.  We also strive to ensure that sufficient benefit coverage is provided to part-time 
+
+employees. Exit interviews are conducted to allow us to identify reasons why employees leave the 
+
+Group. Through the interviews, we gather feedback and comments from employees, which give us 
+
+key insights into how we can improve our ability to recruit and retain talent. 
+
+Training and Education 
+
+ 
+
+At ASTI, we strive to meet current and future skill requirements for our business operations as well as 
+
+to enhance the personal and professional development of our employees. Whereas our employees 
+
+tend to learn many skills they need on-the-job, succession planning is one of our most important 
+
+focuses. We aim to groom and train individuals that show promise and dedication and invest time and 
+
+effort in order for them to take on more responsibility within the company.   
+
+Furthermore, we provide all new employees with training under the supervision of experienced 
+
+employees. The training needs and progress of our employees are monitored regularly, allowing them 
+
+to take ownership of their professional development.  
+
+Occupational Health and Safety 
+
+ 
+
+Safeguarding the health and safety of our employees is essential to achieving long-term success and 
+
+furthering our commitment to sustainability. We recognise that it is our responsibility to ensure a safe 
+
+and healthy working environment for our employees and to address potential health and safety risks.  
+
+ 
+
+ASTI has a workplace health and safety committee to promote health and safety initiatives and 
+
+programmes in the workplace and to ensure that health and safety issues are adequately addressed 
+
+throughout the Group. The committee consists of management and employee representatives 
+
+working together to identify any health and safety issues in the workplace. The committee holds 
+
+meetings on a regular basis and provides recommendations to improve health, safety and working 
+
+conditions at ASTI. We also have established processes to measure and monitor our occupational 
+
+health and safety performance. 
+
+ 
+
+Safe work practices, such as implementing standard operating procedures and providing emergency 
+
+response training to our employees, are adopted to reduce the risk of accidents, injuries and health 
+
+hazards to our employees and contractors. We require all our employees and contractors to comply 
+
+with standard safety practices and requirements that are listed in our safety handbook. All our 
+
+employees receive appropriate health and safety training to ensure that they are able to identify 
+
+common hazards in the workplace and ways to deal with them.  
+
+ 
+
+Machines, equipment and work areas within our premises are inspected regularly to identify any risks 
+
+to employee health and safety. We also review the conditions of the work environment and other 
+
+relevant work practices in order to identify foreseeable hazards and to monitor the effectiveness of 
+
+local risk control implemented.  
+
+ 
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017    
+
+� 
+
+Zero reported workplace fatalities and zero major accidents  
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018 
+
+� 
+
+Achieve zero workplace fatalities and/or injuries  
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+12 
+
+ 
+
+
+
+We ensure that fire extinguishers are placed in various locations within our premises and that training 
+
+is provided to employees to use them. Inspections on fire extinguishers are conducted periodically to 
+
+ensure that they function properly. Our employees and occupants are expected to follow the 
+
+emergency evacuation plans and procedures in each building during an emergency situation. In 
+
+addition, fire drills are held twice a year in order to ensure that our employees are familiar with 
+
+emergency procedures during a fire.  
+
+ 
+
+We have put in place measures to reduce noise and air pollution within and outside our 
+
+manufacturing plants. For example, compressed air guns in our manufacturing plants are used in 
+
+short intervals and regular maintenance and inspections of the compressors are carried out in order 
+
+to cut noise and air pollution. We also ensure that signs are posted in areas where hearing protection 
+
+is mandatory to reduce employees’ exposure to excessive noise. There were zero reported workplace 
+
+fatalities and zero major accidents among our employees in FY2017.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+13 
+
+ 
+
+
+
+Our Suppliers 
+
+Supplier Assessment 
+
+ 
+
+We consider our suppliers as important partners that contribute to our sustainability goals and 
+
+business success. Since we manufacture semiconductor equipment, our raw materials are sourced 
+
+from various suppliers that meet our requirements in terms of sustainable practices, quality and 
+
+pricing. All our suppliers are expected to produce top-quality raw materials and products and conduct 
+
+their business in an ethical, legal and sustainable manner that is consistent with our values and 
+
+standards.  
+
+ 
+
+We ensure that only the best raw materials are used in the production process by putting in place a 
+
+stringent selection process and procurement standards to select, monitor, audit and manage our 
+
+suppliers. Approved suppliers from which we procure materials for our production of equipment are 
+
+included in a list and their performance is monitored on a regular basis. Suppliers that fail to meet the 
+
+expected 
+
+quality 
+
+and 
+
+delivery 
+
+requirement 
+
+will 
+
+be 
+
+removed 
+
+from 
+
+the 
+
+list.  
+
+In FY2017, no new suppliers were engaged, and therefore evaluated in terms of their ability to supply 
+
+materials according to our requirements.  
+
+ 
+
+We require our suppliers to comply with the Restriction of Hazardous Substances (RoHS) Directive, 
+
+which includes a CE-marking directive. Our suppliers are also required to meet the requirements of 
+
+relevant laws and regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017    
+
+� 
+
+No new suppliers were engaged, and therefore evaluated in terms of their ability to supply 
+
+materials according to our requirements. 
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018
+
+Target for FY2018 
+
+� 
+
+Ensure that all suppliers comply with ISO Standards (if applicable) 
+
+
+                                                                                                                        Sustainability Report FY2017                                
+
+ 
+
+ 
+
+14 
+
+ 
+
+
+
+Regulatory Compliance 
+
+Compliance with Laws and Regulations  
+
+ 
+
+We believe that good corporate governance practices are about conducting business in a transparent 
+
+and ethical manner for the benefit of all stakeholders. We strive to comply with relevant laws, 
+
+including environmental laws and socioeconomic regulations by having various procedures and risk 
+
+management standards in place. All our employees are required to act with integrity and to conduct 
+
+business in accordance with the highest ethical standards.   
+
+Environmental Compliance  
+
+ 
+
+We are committed to complying with all laws and regulations in the places where we operate. In 
+
+Singapore, we are required to adhere to laws and regulations set by the National Environmental 
+
+Agency (NEA), the Public Utilities Board (PUB) and the Singapore Civil Defence Force (SCDF). A breach 
+
+of any law or regulation will significantly inhibit our ability to operate. 
+
+In FY2017, there were no incidents of non-compliance with environmental laws and regulations. 
+
+Anti-Corruption  
+
+At ASTI, all forms of bribery and corruption are unacceptable and will not be tolerated. All our 
+
+employees are required to abide by the Code of Conduct and policies on corruption within the Group. 
+
+Each employee has access to the Code of Conduct, which includes information on workplace ethics 
+
+and the whistle-blowing policy.   
+
+We have a whistle-blowing policy that provides our employees an opportunity to raise any concerns 
+
+regarding suspected fraud, corruption, dishonest practices or other similar matters. Our employees 
+
+are encouraged to report any suspicious practices or inappropriate activities in the workplace. All 
+
+complaints will be dealt with by the Head of Human Resources (“HR”) and/or any member of the 
+
+Executive Committee in a fair, respectful and timely manner. Appropriate disciplinary action will be 
+
+taken towards employees who are found guilty of fraud, dishonesty or criminal conduct.  
+
+In FY2017, there were zero incidents of non-compliance with anti-corruption laws and socioeconomic 
+
+regulations.  
+
+Information on ASTI’s corporate governance, compliance and risk management policies and practices 
+
+can be found in Appendix 1 – Corporate Governance Report (pages 1 to 15) of the Annual Report. 
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017
+
+Performance in FY2017    
+
+� 
+
+Zero incidents of non-compliance with anti-corruption and environmental laws, 
+
+socioeconomic regulations and regulatory requirements 
+
+Target
+
+Target
+
+Target
+
+Target    for FY2018
+
+for FY2018
+
+for FY2018
+
+for FY2018 
+
+� 
+
+Achieve zero incidents of non-compliance with anti-corruption and environmental laws, 
+
+socioeconomic regulations and regulatory requirements  
+

@@ -1,0 +1,7267 @@
+
+
+
+SUSTAINABILITY 
+
+REPORT 
+
+2021
+
+Shen Yao 
+
+Holdings 
+
+Limited
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+II
+
+
+
+
+
+006
+
+
+
+002
+
+
+
+About This Report
+
+For FY2021, we focused our efforts on 
+
+occupational health and safety as well as on 
+
+environmental protection. The Report will also 
+
+share information on the Group’s governance 
+
+structure, stakeholder relationships and 
+
+material issue identification process.
+
+CEO and Board Statement
+
+
+
+004 
+
+Sustainable Development Policy
+
+005 
+
+Introduction
+
+This sustainability report has been prepared by the Company and its contents have been 
+
+reviewed by the Company’s sponsor, W Capital Markets Pte. Ltd. (the “Sponsor”). 
+
+This sustainability report has not been examined or approved by the Singapore Exchange 
+
+Securities Trading Limited (the “SGX-ST”) and the SGX-ST assumes no responsibility for the 
+
+contents of this sustainability report including the correctness of any of the statements or  
+
+opinions made or reports contained in this sustainability report. 
+
+The contact person for the Sponsor is Mr Chia Beng Kwan, Registered Professional, 
+
+W Capital Markets Pte. Ltd., 65 Chulia Street, #43-01 OCBC Centre, Singapore 049513, 
+
+Telephone (65) 6513 3541.
+
+CONTENTS
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+001
+
+
+
+
+
+016
+
+
+
+007
+
+
+
+Corporate Structure
+
+007 
+
+About Shen Yao
+
+007 
+
+Group Structure
+
+008 
+
+Operations/Activities
+
+009 
+
+Governance Structure
+
+010 
+
+Stakeholder Relationship and 
+
+ 
+
+Material Factors Identification
+
+012 
+
+Supply Chain
+
+014 
+
+Response to COVID-19
+
+028
+
+
+
+Environment Protection
+
+032 
+
+Operations with Significant Actual 
+
+and Potential Negative Impacts on 
+
+Local Communities
+
+033 
+
+Impact from COVID-19
+
+036
+
+
+
+People
+
+038
+
+
+
+Community and 
+
+Corporate Social 
+
+Responsibility
+
+041 
+
+GRI Content Index
+
+Occupational Health  
+
+and Safety
+
+017 
+
+Occupational Health &amp; Safety 
+
+Management System
+
+020 
+
+Hazard Identification, Risk 
+
+Assessment and Incident 
+
+Investigation
+
+021 
+
+Occupational Health Services
+
+022 
+
+Worker participation, 
+
+consultation and Communication 
+
+on Occupational  
+
+Health &amp; Safety
+
+022 
+
+Worker Training on 
+
+Occupational Health &amp; Safety
+
+023 
+
+Promotion of Worker Health
+
+024 
+
+Work-related Injuries
+
+027 
+
+Work-related Ill Health
+
+
+
+
+
+Sustainability Report 2021
+
+
+
+Shen Yao Holdings Limited
+
+
+
+001
+
+CONTENTS
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+002
+
+ON BEHALF OF THE 
+
+BOARD OF DIRECTORS 
+
+(THE “BOARD”), I AM 
+
+
+
+PLEASED TO PRESENT 
+
+
+
+THE COMPANY’S 
+
+
+
+SUSTAINABILITY 
+
+
+
+REPORT
+
+
+
+ FOR THE 
+
+FINANCIAL YEAR ENDED 
+
+30 JUNE 2021 (“FY2021”). 
+
+“
+
+Message from Executive 
+
+Chairman and Group Chief 
+
+Executive Officer
+
+“
+
+
+
+CEO AND BOARD STATEMENT
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+003
+
+
+
+The impact of the COVID-19 pandemic is both deep and 
+
+widespread, affecting many countries and industries 
+
+around the globe. At Shen Yao, we are focused on 
+
+protecting our employees, contractors, customers, 
+
+investors and supporting the communities in which we 
+
+operate.  During the COVID-19 pandemic, in demonstrating 
+
+our solidarity and work with the relevant authorities 
+
+in controlling the spread of COVID-19, we established a 
+
+dedicated team to ensure adherence with the relevant 
+
+COVID-19 regulations and guidelines implemented by the 
+
+authorities as well as to oversee the health and safety 
+
+of our employees and contractors. The Group has been 
+
+vigilantly complying with the directives of the government 
+
+in the relevant jurisdictions in which it operates. 
+
+We continue to conduct our businesses responsibly and to 
+
+integrate sustainability into our operations to achieve the 
+
+best possible outcomes for all our stakeholders. We value 
+
+diversity and inclusion and bring together people from 
+
+around the globe. We are working towards making Shen 
+
+Yao an employer of choice and building an organization 
+
+with a culture that focuses on the well-being of employees 
+
+and also one that fosters personal growth, collaboration 
+
+and open communication. 
+
+We actively engage with our stakeholders, including 
+
+customers, investors, communities and regulators, to foster 
+
+mutual understanding and trust. 
+
+In FY2021, the Group continues to adopt the Global 
+
+Reporting Initiative (“GRI”) reporting framework in 
+
+our sustainability reporting. Meanwhile, we commit 
+
+our support to the UN 2030 agenda-17 Sustainable 
+
+Development Goals (SDGs) as part of our commitment 
+
+towards making continued progress on our sustainable 
+
+development journey. 
+
+Whether we are facing a COVID-19 pandemic outbreak or 
+
+recovering sustainably and resiliently from a COVID-19 
+
+pandemic, we are with our stakeholders and communities 
+
+through thick and thin.
+
+Thank you for these efforts, and I look forward to 
+
+achieving success together as we continue to develop our 
+
+sustainability efforts.
+
+Yao Liang 
+
+Executive Chairman and 
+
+Group Chief Executive Officer
+
+CEO AND BOARD STATEMENT
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+004
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABLE DEVELOPMENT POLICY 
+
+Golden Point Group believes the success of our operations is inextricably linked with the concerns 
+
+and aspirations of the people affected by them. Our social licence to operate comes from our host 
+
+communities, wider society, our employees, business partners, suppliers, shareholders and customers. We 
+
+must institutionalise and demonstrate respect for our people and the communities in which we operate, 
+
+leading to financial results that will allow us to grow.
+
+We recognise that to achieve our vision of People Results Growth and deliver value for the benefit of all 
+
+our stakeholders, we must adopt the principles of sustainable development into the core of our business.
+
+Accordingly, our commitment to sustainable development is to operate within a strategic framework 
+
+based on the International Council on Mining Metals (ICMM) Sustainable Development Principles.
+
+The principles are:
+
+1. 
+
+Implement and maintain ethical business practices and sound systems of corporate governance.
+
+2. 
+
+Integrate sustainable development considerations within the corporate decision-making process.
+
+3. 
+
+Uphold fundamental human rights and respect cultures, customs and values in dealings with 
+
+employees and others who are affected by our activities.
+
+4. 
+
+Implement risk management strategies based on valid data and sound science.
+
+5. 
+
+Seek continual improvement of our health and safety performance.
+
+6. 
+
+Seek continual improvement of our environmental performance.
+
+7. 
+
+Contribute to conservation of biodiversity and integrated approaches to land use planning.
+
+8. 
+
+Facilitate and encourage responsible product design, use, re-use, recycling and disposal of our 
+
+products.
+
+9. 
+
+Contribute to the social, economic and institutional development of the communities in which we 
+
+operate.
+
+10. Implement effective and transparent engagement, communication and independently verified 
+
+reporting arrangements with our stakeholders.
+
+These principles embody our commitment to manage social, health, safety, environmental and economic 
+
+issues in order to deliver sustainable shareholder value, to improve our performance in managing these 
+
+issues and to publicly report our progress.
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+005
+
+
+
+
+
+
+
+INTRODUCTION 
+
+SUSTAINABILITY IS A CORE 
+
+
+
+VALUE BASED ON THE 
+
+
+
+FOLLOWING PRINCIPLES: 
+
+
+
+By doing so, we will then be able to create value for all stakeholders and leave a legacy that 
+
+we are proud of.
+
+Implementation of employee-
+
+centered approach towards health 
+
+and well-being;
+
+Integration of sustainable 
+
+development considerations into 
+
+decision-making process;
+
+Continually improve our health 
+
+&amp; safety, environmental and 
+
+community relations efforts; and
+
+Implementation and maintenance of 
+
+ethical business practices and sound 
+
+systems of corporate governance;
+
+Upholding of fundamental human 
+
+rights and to respect cultures, customs 
+
+and values in dealings with employees 
+
+and others who are affected by our 
+
+activities;
+
+Implementation and maintenance 
+
+of effective and transparent 
+
+engagements, communication and 
+
+reporting arrangements with our 
+
+stakeholders.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+006
+
+
+
+
+
+Shen Yao Holdings Limited (“Shen Yao” or the “Company” 
+
+and, together with its subsidiaries, the “Group”) is proud to 
+
+present its annual Sustainability Report for FY2021. 
+
+Sustainability is a part of the Group’s wider strategy 
+
+to create long-term value for all its stakeholders. The 
+
+Company recognizes the importance of economic, 
+
+environmental, social and governance (“EESG”) 
+
+considerations in creating value for our business 
+
+and our stakeholders. We adopt the principles of 
+
+sustainability throughout our value chain and continue 
+
+to build sustainable practices in every aspect of the 
+
+Group’s business in achieving high levels of integrity 
+
+and excellence in its activities. The Board oversees the 
+
+management and monitoring of these factors and takes 
+
+them into consideration in the determination of the 
+
+Group’s strategic direction and policies.
+
+FOR FY2021, WE FOCUSED OUR 
+
+
+
+EFFORTS ON OCCUPATIONAL 
+
+
+
+HEALTH AND SAFETY AS WELL 
+
+
+
+AS ON ENVIRONMENTAL 
+
+
+
+PROTECTION. THE REPORT WILL 
+
+
+
+ALSO SHARE INFORMATION ON 
+
+
+
+THE GROUP’S GOVERNANCE 
+
+
+
+STRUCTURE, STAKEHOLDER 
+
+
+
+RELATIONSHIPS AND MATERIAL 
+
+
+
+ISSUE IDENTIFICATION 
+
+
+
+PROCESS.
+
+
+
+The report shall be read together with the Shen Yao 
+
+FY2021 Annual Report.
+
+ABOUT THIS REPORT
+
+REPORTING FRAMEWORK
+
+The Report is prepared with reference to the Global 
+
+Reporting Initiative (GRI) Standards and is aligned with 
+
+the reporting requirements of Singapore Exchange (SGX) 
+
+Catalist Rules 711A and 711B.
+
+We have chosen GRI as the sustainability reporting 
+
+framework as it is internationally recognised and is 
+
+widely adopted, enabling us to achieve a comprehensive 
+
+and comparable disclosure of environmental, social and 
+
+governance performance. 
+
+REPORTING SCOPE AND PERIOD
+
+This report covers the Group’s sustainability performance 
+
+for FY2021, disclosing the sustainability practices and 
+
+performance of the Group from 1 July 2020 to 30 June 
+
+2021.
+
+The last report was issued in October 2020.  
+
+REPORT ACCESSIBILITY
+
+In order to reduce our environmental footprint, we will not 
+
+provide hard copies of this report. 
+
+The Report will be publicly accessible through the 
+
+Company’s website as well on SGXNET.
+
+FEEDBACK
+
+Feedback from the Company’s stakeholders is imperative 
+
+to our Group’s continued improvement and growth.
+
+Please let us have your views and suggestions by 
+
+contacting us at: ir@shenyaoholdings.com.
+
+INDEPENDENT ASSURANCE 
+
+The data and information provided have not been verified 
+
+by an independent third party. We have relied on internal 
+
+data monitoring and verification to ensure accuracy of 
+
+data and information.
+
+The Company has chosen to leverage internal verification 
+
+mechanisms to ensure data quality and accuracy within 
+
+this report. Hence, there is no independent external 
+
+assurance for this report. 
+
+ 
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+006
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+007
+
+
+
+
+
+
+
+
+
+Plutus  
+
+Mazu  
+
+Pte. Ltd. 
+
+[Singapore] 
+
+100%
+
+Shen Yao 
+
+Investments 
+
+Pte. Ltd.
+
+[Singapore] 
+
+100%
+
+Shen Yao 
+
+(Singapore) 
+
+Pte. Ltd.
+
+[Singapore] 
+
+100%
+
+Signature 
+
+Metals 
+
+Pty Ltd
+
+[Australia] 
+
+76.86%
+
+Embuyaga 
+
+Exploration
+
+Ltd
+
+[Uganda] 
+
+100%
+
+Uganda 
+
+Minerals 
+
+Pty Ltd 
+
+[Australia] 
+
+100%
+
+Balmaine 
+
+Gold
+
+Pty Ltd
+
+[Australia] 
+
+100%
+
+Shen Yao 
+
+Capital 
+
+Pty Ltd
+
+[Australia] 
+
+100%
+
+Ironbark 
+
+Mining
+
+Pty Ltd
+
+[Australia] 
+
+85.1%
+
+Moliagul
+
+Mining
+
+Pty Ltd
+
+[Australia] 
+
+85.1%
+
+Golden 
+
+Point Group 
+
+Pty Ltd 
+
+[Australia] 
+
+100%
+
+GROUP STRUCTURE
+
+ABOUT SHEN YAO
+
+Shen Yao is a Singapore 
+
+headquartered gold mining and 
+
+exploration company with operations 
+
+mainly in Australia.
+
+Yaoo Capital Pte. Ltd. is the controlling 
+
+shareholder holding 55.06% of the 
+
+total share capital of the Company 
+
+as at 29 October 2021. Mr Yao Liang 
+
+(Executive Chairman and Group Chief 
+
+Executive Officer) and Mr Yao Yilun 
+
+(Non-Executive, Non-Independent 
+
+Director) each owns 51% and 49% 
+
+of the issued share capital of Yaoo 
+
+Capital Pte. Ltd. respectively. As such, 
+
+they are deemed to be interested in 
+
+the shares of the Company owned by 
+
+Yaoo Capital Pte. Ltd.
+
+CORPORATE STRUCTURE
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+008
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tarnagulla
+
+Raydarra
+
+Ballarat
+
+Berringa
+
+Melbourne
+
+GOLDEN POINT GROUP PTY LTD
+
+COUNTRY: AUSTRALIA
+
+STATUS: Production and exploration
+
+ADDRESS: 10 Woolshed Gully Drive,
+
+Mt. Clear, Victoria 3350, Australia
+
+GOLD
+
+OPERATIONS
+
+OPERATIONS/ACTIVITIES
+
+Shen Yao, through its wholly-owned subsidiary Golden Point Group Pty Ltd (“GPG” and formerly known as “Castlemaine 
+
+Goldfields Pty Ltd”), operates a well-established gold mine at Ballarat in Australia’s premier Victoria gold belt and owns 
+
+several tenements around the Ballarat Gold Mine and in nearby goldfields. The tenements are 100% owned by subsidiary 
+
+Balmaine Gold Pty Ltd, which cover the major, historical, hard rock mining prospects of the Ballarat East, Ballarat South, 
+
+Ballarat West and Nerrina goldfields.
+
+
+
+
+
+
+
+
+
+
+
+
+
+FY2021
+
+FY2020
+
+Ounces produced 
+
+35,190
+
+42,697
+
+AUSTRALIA 
+
+Production and exploration
+
+Golden Point Group Pty Ltd
+
+10 Woolshed Gully Drive, 
+
+Mt. Clear, Victoria 3350, Australia 
+
+CORPORATE STRUCTURE
+
+SINGAPORE (HQ)
+
+9 Temasek Boulevard, 
+
+#24-01 Suntec Tower 2, 
+
+Singapore 038989 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+009
+
+The Board provides entrepreneurial leadership, oversees 
+
+the business affairs and dealings of the Group, determines 
+
+and sets the Group’s corporate strategies and objectives, and 
+
+ensures that the necessary financial and human resources are 
+
+in place for the Company to meet its objectives.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+NAME
+
+BOARD OF DIRECTORS
+
+AUDIT 
+
+COMMITTEE
+
+NOMINATING 
+
+COMMITTEE
+
+REMUNERATION 
+
+COMMITTEE
+
+Yao Liang
+
+Executive Director and 
+
+Group Executive Chairman, 
+
+Group Chief Executive 
+
+Officer
+
+N/A
+
+N/A
+
+N/A
+
+Yao Yilun
+
+Non-Executive, 
+
+Non-Independent Director
+
+N/A
+
+N/A
+
+N/A
+
+Sun Shu
+
+Non-Executive, 
+
+Lead Independent Director
+
+Member
+
+Member
+
+Chairman
+
+Shu Zhan
+
+Non-Executive, 
+
+Independent Director
+
+Member
+
+Chairman
+
+Member
+
+Pang Kee Chai
+
+Non-Executive, 
+
+Independent Director
+
+Chairman
+
+Member
+
+Member
+
+Under the direction and supervision of the Board, GPG has 
+
+a team in Ballarat that oversees the day-to-day affairs 
+
+of the mining and exploration operations of the Group. 
+
+The team comprises the General Manager and senior 
+
+members of the Exploration, Geology, Mining, Processing, 
+
+Health &amp; Safety, Environment &amp; Community, Corporate 
+
+Services and Finance departments. These individuals are 
+
+key contributors to the development of this Sustainability 
+
+Report.
+
+It also monitors and evaluates the Group’s operations 
+
+and financial performance, establishes targets for 
+
+the management of the Company and monitors the 
+
+achievement of these targets.
+
+The Board has overall responsibility for establishing and 
+
+maintaining a framework of good corporate governance 
+
+in the Group, including the risk management systems and 
+
+internal control to safeguard shareholders’ interests and 
+
+the Group’s assets.
+
+“
+
+“
+
+GOVERNANCE STRUCTURE
+
+The Board has three committees to assist it in the 
+
+execution of its responsibilities, namely the Audit 
+
+Committee, the Nominating Committee and the 
+
+Remuneration Committee. Each Committee has its own 
+
+terms of reference and operating procedures, which are 
+
+reviewed periodically. Members of Board and each of 
+
+the Audit Committee, the Nominating Committee and the 
+
+Remuneration Committee are set out below.  
+
+
+
+35,190 ounces gold produced
+
+FY2021
+
+Gold Operations
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+010
+
+Shen Yao engaged Virtus Assure Pte. Ltd. to work with 
+
+the Company to develop a questionnaire to identify the 
+
+EESG factors that the Company considers important to its 
+
+stakeholders, the details of which are set out on page 10 
+
+of this report.
+
+GPG has regular and ongoing interactions with various 
+
+stakeholder groups, and the nature of such engagement 
+
+varies for different groups. 
+
+These stakeholders include external and internal parties. 
+
+External stakeholders include individuals or entities such 
+
+as shareholders of Shen Yao, goods and services providers, 
+
+government regulators and neighbouring communities in 
+
+the vicinity in which GPG operates.
+
+To identify the stakeholders that needed to be engaged 
+
+to determine the EESG factors to be reported upon, 
+
+consideration was given to parties that could be expected 
+
+to be extensively affected by Shen Yao’s activities or could 
+
+affect the Company’s ability to carry out its business.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAKEHOLDER GROUP
+
+ENGAGEMENT APPROACH 
+
+ 
+
+KEY INTERESTS
+
+Employees and Managers 
+
+• 
+
+Regular dialogue
+
+• 
+
+Training program
+
+• 
+
+Work related meetings and 
+
+discussions
+
+• 
+
+Online survey
+
+• 
+
+Work environment
+
+• 
+
+Staff benefits
+
+• 
+
+Development of technical skills
+
+Local Communities
+
+• 
+
+Regular dialogue
+
+• 
+
+Feedback sessions
+
+• 
+
+Social &amp; community events
+
+• 
+
+Online survey
+
+• 
+
+Create a positive impact on local 
+
+community
+
+Government Regulators
+
+• 
+
+Site visit &amp; workshops
+
+• 
+
+Formal meetings
+
+• 
+
+Dialogue sessions
+
+• 
+
+Online survey
+
+• 
+
+Compliance with rules and 
+
+regulations
+
+Goods and Services Providers
+
+• 
+
+Phone calls 
+
+• 
+
+Email contacts
+
+• 
+
+Formal &amp; informal meetings
+
+• 
+
+Online survey
+
+• 
+
+Ensure quality of products and 
+
+services
+
+• 
+
+Goods and services provided on 
+
+time 
+
+• 
+
+Better risk management
+
+• 
+
+Adequate corporate governance
+
+Shareholders
+
+• 
+
+Shareholders annual general 
+
+meeting
+
+• 
+
+Quarterly announcements of 
+
+financial results 
+
+• 
+
+Financial performance
+
+STAKEHOLDER RELATIONSHIP AND 
+
+MATERIAL FACTORS IDENTIFICATION 
+
+Internal stakeholders include all staff and major contract 
+
+staff of GPG.
+
+A wide range of potential EESG factors were selected 
+
+to ensure that the candidate EESG factors presented 
+
+to stakeholders are representative of the Company’s 
+
+performance in the wider context of sustainability. 
+
+The following table sets out the key interactions and 
+
+purpose of such interactions with the various stakeholder 
+
+groups.
+
+Taking into consideration the key interests of our 
+
+stakeholders as well as feedback from stakeholders, the 
+
+Board decided to include the following material issues in 
+
+forming the Group’s long-term strategy on sustainability 
+
+engagement. 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+011
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MATERIAL FACTORS
+
+STAKEHOLDER GROUP
+
+TARGET
+
+RELEVANT 
+
+SDGS*
+
+People
+
+Work Environment
+
+Staff benefit
+
+Skill development 
+
+Health, Safety and 
+
+Environment 
+
+Employees
+
+We are an employer of choice committed 
+
+to diversity and inclusion. It is vital 
+
+that workplaces become environments 
+
+where people can feel comfortable being 
+
+themselves and sharing value together.
+
+Community
+
+Positive impact on local 
+
+communities &amp; Community 
+
+Relationship
+
+Community
+
+We strive to help the communities 
+
+in which we operate in thrive, grow 
+
+and prosper.  We build meaningful 
+
+relationships, invest time and energy to 
+
+ensure that our local communities are 
+
+enriched by being our neighbours. 
+
+Government
+
+Compliance with rules 
+
+and regulations
+
+Government
+
+At Shen Yao, non-compliance with all 
+
+applicable rules and regulations is not an 
+
+option. Our goal is zero violations of all 
+
+applicable regulations or laws and zero 
+
+enforcement actions. 
+
+Environment 
+
+Protection
+
+Community, 
+
+Employees
+
+Zero harm is always our target. Zero harm 
+
+to all people as we responsibly operate 
+
+our assets to their full potential. This is 
+
+our key guiding principle in every aspect 
+
+of our operation. 
+
+Client
+
+Goods and 
+
+service providers
+
+Clients and 
+
+services providers
+
+Ensure accountability to clients and 
+
+service providers.
+
+Economic Financial 
+
+Performance
+
+Shareholders
+
+Growing our business sustainably and 
+
+to add value to our shareholders, our 
+
+employees and our communities.
+
+*SDGs Sustainable Development Goals
+
+STAKEHOLDER RELATIONSHIP AND 
+
+MATERIAL FACTORS IDENTIFICATION 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+012
+
+
+
+
+
+
+
+The mining industry is well established in Australia and there 
+
+is an extensive support network of suppliers that cater to the 
+
+needs of the industry.
+
+GPG and its operating subsidiary, Balmaine Gold 
+
+Pty Ltd, have entered into supply contracts with a 
+
+wide range of suppliers to provide utilities, services 
+
+and consumables.
+
+Items such as explosives, ground support 
+
+consumables, fuel, mechanical supplies, electricity 
+
+and gas and other goods and services used in the 
+
+mining operations are supplied to us under long 
+
+term contracts. Appropriate commercial contract 
+
+review and tender processes are followed to ensure 
+
+that the best value for money is obtained and that 
+
+products and services that are fit for purpose are 
+
+sourced with reliable supply arrangements.
+
+The London-based Risk Advisory Group published 
+
+their Corruption Challenges Index 2020 in March 
+
+2020. The index lists Denmark as the jurisdiction 
+
+least challenged by corruption in the world, 
+
+closely followed by New Zealand, Australia, United 
+
+Kingdom, Finland and Singapore. While all the 
+
+necessary security measures are taken to prevent 
+
+fraud and error, our operations in Australia are not 
+
+unduly challenged by corruption.
+
+During the financial year, GPG dealt with 598 
+
+(FY2020: 626) suppliers with the top ten accounting 
+
+for 46% (FY2020: 52%) of total expenditure. GPG 
+
+has a policy to support local suppliers in the 
+
+Ballarat region or the state of Victoria where 
+
+possible, although some of the specialist materials 
+
+and services are sourced from the traditional 
+
+mining states of Western Australia and Queensland 
+
+as they are not available within the state of 
+
+Victoria. 
+
+SUPPLY CHAIN 
+
+
+
+GPG’s total expenditure for FY2021 amounted to 
+
+approximately A$67 million (FY2020: A$82 million) 
+
+of which A$30 million (FY2020: A$29 million) 
+
+was expended on labour and the remaining A$37 
+
+million (FY2020: A$53 million) was spent on goods 
+
+and services.  GPG contributes approximately 
+
+A$50 million (FY2020: A$62 million) annually to 
+
+the economy of the state of Victoria in the form of 
+
+salaries and goods and services. 
+
+Australia has extensive and rigorous industrial and 
+
+health and safety laws to ensure that individual 
+
+suppliers maintain appropriate practices to 
+
+safeguard workers. These laws and policies cover 
+
+the occupational health and well-being of not only 
+
+the employees of GPG, but also the individuals 
+
+working across GPG’s supply chain.
+
+During the reporting period there has been no 
+
+significant changes to operations of GPG or its 
+
+supply chain. Operations have continued as in the 
+
+past and while the Company operates in a dynamic 
+
+business environment and may have moved from 
+
+one supplier to another for strategic or economic 
+
+reasons, such changes have not been significant. 
+
+Gold ore produced by the site is forwarded to 
+
+an Australian refiner for smelting and further 
+
+refinement in accordance with the London Bullion 
+
+Market Association standards and Australian 
+
+Law. The refined gold bullion is then purchased 
+
+by the Australian refiner for their use locally and 
+
+internationally.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+013
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAGE
+
+ACTIVITIES
+
+STAKEHOLDERS
+
+Exploration
+
+Our exploration geologists continually search 
+
+for and discover new sources of minerals 
+
+using robust models with the objective of 
+
+developing mining operations that can be 
+
+performed in a safe and sustainable manner.
+
+Employees 
+
+Goods and Services Providers
+
+Planning
+
+Before we commence mining operations, our 
+
+geologists and technical teams work together 
+
+using modern mine planning systems to 
+
+design the most efficient, cost-effective and 
+
+environmentally friendly plan for operating 
+
+the mine.
+
+Employees
+
+Goods and Services Providers
+
+Mining
+
+Safety comes first in all aspects of our 
+
+operations. We strive for zero harm. We plan 
+
+extensively throughout the life cycle of the 
+
+mine and beyond. We are also mindful about 
+
+operating in a manner that minimizes the 
+
+amount of waste generated and the impact 
+
+on the environment and to the community in 
+
+which we operate.
+
+Employees
+
+Goods and Services Providers 
+
+Government Regulators
+
+Community
+
+Processing
+
+By processing, converting and refining the 
+
+raw materials, products are produced based 
+
+on customers’ requirements. 
+
+We are mindful about operating in a manner 
+
+that minimizes the amount of waste generated 
+
+and the impact on the environment and to the 
+
+community in which we operate.
+
+Employees
+
+Goods and Services Providers
+
+Government Regulators
+
+Delivery
+
+After processing, the product will be 
+
+transported to the location as specified by our 
+
+customers. 
+
+Employees
+
+Rehabilitation
+
+We plan extensively throughout the life cycle 
+
+of the mine and beyond. Rehabilitation plans 
+
+which are aimed at restoring the immediate 
+
+surroundings damaged as a result of mining 
+
+activities, are frequently being reviewed and 
+
+updated. 
+
+Community
+
+Government Regulators
+
+SUPPLY CHAIN 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+014
+
+GPG has implemented a wide range of measures to reduce the risk of COVID-19 
+
+among our workforce and local communities as well as to keep our operations 
+
+running.  GPG continues to work closely with the Minerals Council of Australia 
+
+(“MCA”), Victoria’s Work Health and Safety regulator, and other Victorian mine 
+
+sites, contractors and suppliers to ensure that all government directives and 
+
+MCA protocols have been implemented.
+
+Measures and controls that are being applied in GPG include:
+
+• 
+
+Temperature screening &amp; verbal health declarations on arrival.
+
+• 
+
+Increase in number of handwashing &amp; sanitising stations.
+
+• 
+
+Safe distancing on site and during team meetings.
+
+• 
+
+The mandatory wearing of face masks.
+
+• 
+
+Separation of teams.
+
+• 
+
+Cancellation of non-essential visits to site.
+
+• 
+
+Advisory signages and staff information sessions.
+
+• 
+
+Allowing support staff to work from home if possible.
+
+• 
+
+Continued mental health support.
+
+• 
+
+Removal of communal items from kitchens.
+
+• 
+
+Introduction of extra cleaning including use of virucidal disinfectant.
+
+• 
+
+Additional awareness sessions held for all employees.
+
+• 
+
+Facilitating telecommuting.
+
+• 
+
+Providing face masks.
+
+• 
+
+Direction on how many people is allowed in each room.
+
+• 
+
+Ensuring there is 1.5 metres distance between the seating in the muster 
+
+room.
+
+• 
+
+Provision of an EAP (employee assistance program where staff can talk to a 
+
+qualified Counsellor).
+
+• 
+
+Health and wellbeing seminars as required.
+
+RESPONSE TO COVID-19
+
+•  Protecting the health and 
+
+safety of our employees 
+
+and  contractors, which is  a 
+
+fundamental shared value 
+
+for GPG. 
+
+•  Supporting long-term 
+
+domestic economic 
+
+recovery by helping our 
+
+community recover and 
+
+rebuild for a better future.
+
+Australia’s state, territory, 
+
+
+
+and national resources 
+
+
+
+ministers have identified 
+
+
+
+that the mining industry 
+
+
+
+along with construction 
+
+
+
+industry are both key 
+
+
+
+economic drivers in 
+
+
+
+ensuring the Australian 
+
+
+
+economy successfully 
+
+
+
+transitions out of the 
+
+
+
+pandemic. 
+
+
+
+COVID-19
+
+
+
+ has 
+
+
+
+again had a major impact 
+
+
+
+on GPG’s operations 
+
+
+
+throughout the reporting 
+
+
+
+period. Our priorities have 
+
+
+
+been:
+
+
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+015
+
+offers nationally recognised training 
+
+as well as employment and assistance 
+
+programs throughout the Greater 
+
+Ballarat region. 
+
+During the year, GPG, in conjunction 
+
+with the Ballarat Tram Way Museum, 
+
+formed an agreement to donate 
+
+labour for their offsite storage facility 
+
+that was being built in-between 
+
+one of the Victorian Government 
+
+prescribed lockdowns. This is one 
+
+example of GPG’s contribution to the 
+
+wider Ballarat community.
+
+
+
+In the last year, GPG continued to 
+
+expand its apprenticeship program, 
+
+encouraging locals who share the 
+
+same passion and values to consider 
+
+Ballarat Gold Mine as a starting 
+
+point for their careers. In addition, 
+
+we are continually trying to recruit 
+
+skilled labour. However, GPG still 
+
+RESPONSE TO COVID-19
+
+• 
+
+Bi-annual community 
+
+newsletter.
+
+• 
+
+Quarterly Environment 
+
+Review Committee (the 
+
+“ERC”) meetings conducted 
+
+online during lockdowns.
+
+• 
+
+Responses to community 
+
+groups requesting 
+
+education about the mine 
+
+being sent electronically.
+
+• 
+
+Enhanced interactive 
+
+website that provides 
+
+community education 
+
+material and important 
+
+community announcements 
+
+where applicable.
+
+GPG continues to offer a text message 
+
+service to those community members 
+
+wishing to be notified prior to GPG 
+
+conducting stope blasts. The enhanced 
+
+website also allows GPG to provide 
+
+the latest blast vibration information 
+
+for concerned residents.
+
+Unfortunately, due to the continued 
+
+lockdowns, several educational 
+
+student visits to the mine site had 
+
+to be cancelled. In past years, these 
+
+education visits by various student 
+
+bodies have formed a key component 
+
+of the Group’s engagement strategy 
+
+with the wider community. However, 
+
+it is safe to assume that as Australia 
+
+charts its way out of the pandemic in 
+
+line with higher vaccination uptake 
+
+rates, these events will eventually 
+
+resume.
+
+Although it has been another tough 
+
+year for many companies in the state 
+
+of Victoria, the Ballarat Gold Mine has 
+
+been fortunate enough to be able to 
+
+maintain our production and mining 
+
+capacity, and along with this we have 
+
+been looking to support the locals in 
+
+the community by maintaining our 
+
+employee numbers at around 220 
+
+as well as to continue working with 
+
+over 100 contractors that all work on 
+
+site. In the last year, apprentices were 
+
+also placed following a partnership 
+
+between the Ballarat Gold Mine and 
+
+Ballarat Group Training, an entity that 
+
+GPG continues to navigate its way through the 
+
+
+
+pandemic successfully, even as periodic lockdowns 
+
+
+
+and restrictions are enforced upon our operations due 
+
+
+
+to community transmission being identified within 
+
+
+
+the state of Victoria. Despite this, GPG has continued 
+
+
+
+its efforts in engaging with its stakeholders, which 
+
+
+
+has been made possible with the use of technology, 
+
+
+
+allowing GPG to communicate meaningfully with key 
+
+
+
+stakeholders and the wider community by way of the 
+
+
+
+following means:
+
+
+
+struggles with a shortage of qualified 
+
+manpower on site partially because 
+
+of continuation of COVID-19 related 
+
+measures including interstate travel 
+
+restrictions.
+
+We are working with our customers to 
+
+better understand the impact to their 
+
+business and adapting our practices 
+
+where possible. We are also working 
+
+with our suppliers to ensure supply 
+
+chain continuity. With lockdowns 
+
+in place across Australia and the 
+
+world, we have been forced to seek 
+
+out alternative supplies and has 
+
+experienced longer lead time from 
+
+order to delivery due to the evolving 
+
+COVID-19 pandemic. 
+
+The Company will be updating 
+
+shareholders by way of 
+
+announcements as and when the 
+
+need arises. We continue to review 
+
+and refine appropriate risk mitigation 
+
+strategies. We will also continue to 
+
+work with the government to do 
+
+what we can to ensure our operations 
+
+contribute positively to society at this 
+
+challenging time.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+016
+
+
+
+MATERIAL FACTORS
+
+Work Environment
+
+Skill Development
+
+Occupational Health  
+
+and Safety
+
+
+
+RELEVANT SDGs
+
+We are committed to operating our business in a safe 
+
+
+
+and responsible manner to prevent occupational 
+
+
+
+injuries and illness to all our employees, contractors 
+
+
+
+and the community we interact with.
+
+
+
+Occupational Health &amp; Safety has been treated with the utmost importance 
+
+since the inception of our mining and exploration activities.
+
+The Company recognises that our safety record has an impact on our social 
+
+standing and acceptance in the community and on the decisions of both our 
+
+internal and external stakeholders. Moreover, safety regulations governing our 
+
+operations and our commitment to remain compliant with such regulations 
+
+ensure that high standards of safety are achieved, and our workers’ well-being 
+
+is catered for.
+
+The Topic Boundary for this important EESG factor is the workplace of all GPG 
+
+employees. This is primarily within the perimeter of the Ballarat Gold Mine but 
+
+also covers the regional exploration work sites.
+
+The Company has taken a number of steps to ensure that Occupational 
+
+Health &amp; Safety is managed proactively and consistently with diligence and 
+
+commitment by everybody at all levels of the organisation. The Occupational 
+
+Health &amp; Safety Policy shown below is a cornerstone of the Board and Senior 
+
+Management’s approach to safety.
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+✓
+
+✓
+
+✓
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+017
+
+
+
+
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+At Golden Point Group Pty Ltd we are committed to operating our business in a 
+
+safe and responsible manner so as to prevent occupational injury and illness to 
+
+our employees, our contractors and our community.
+
+It is our objective to provide a safe work environment in which people are 
+
+encouraged to identify hazards and reduce risks by considering safety in 
+
+everything we do, focusing on improving safe work practices and knowing we 
+
+will be held accountable for complying with the company’s requirements.
+
+To achieve this we will:
+
+• 
+
+Ensure safety is a core value and a major priority, not to be compromised
+
+• 
+
+Promote a safe work culture that requires visible leadership, and where 
+
+all employees and contractors take responsibility for their own safety and 
+
+that of their fellow workers.
+
+• 
+
+Ensure Occupational Health and Safety is an integral part of all decision 
+
+making processes throughout the business.
+
+• 
+
+Provide appropriate resources (people, equipment and time) to identify 
+
+hazards and to reduce risk and to improve safety systems and behaviours.
+
+• 
+
+Recognise that everyone’s involvement in health and safety is essential 
+
+and that we need to maintain a consultative and open approach to safety 
+
+on our sites.
+
+• 
+
+Provide appropriate induction, training and supervision to actively 
+
+motivate our people to work in a safe and responsible manner.
+
+• 
+
+Continually strive to identify and control hazards and ensure safety focus, 
+
+priorities and actions are appropriate to the level of risk involved.
+
+• 
+
+Include mandatory occupational health and safety requirements in 
+
+all position descriptions an contracts and hold people accountable for 
+
+compliance.
+
+• 
+
+Ensure that the organization adheres with all relevant safety legislation, 
+
+regulations and standards.
+
+• 
+
+Measure and monitor the effectiveness of safety performance and the 
+
+Health &amp; Safety Management System by setting strategies, measurable 
+
+objectives and targets to enable regular management review and to 
+
+ensure continued improvement in the reduction of work-related injury 
+
+and illness.
+
+• 
+
+Strive for continuous improvement through auditing, investigations and 
+
+monitoring and ensure our Health &amp; Safety management System continues 
+
+to support our needs as the organization grows.
+
+Henry Wang
+
+General Manager
+
+Golden Point Group Pty Ltd
+
+
+
+
+
+
+
+OCCUPATIONAL HEALTH &amp; SAFETY POLICY
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+018
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+
+
+The GPG Health &amp; Safety Management System, depicted in the diagram below, is 
+
+
+
+the central framework to achieving the above policy objectives.
+
+
+
+Health &amp; Safety Management System is divided into 15 elements.
+
+The elements are further separated into 4 categories:
+
+1.  Commit
+
+2.  Plan
+
+3.  Do
+
+4.  Check &amp; Act
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+019
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+The intent behind and the performance requirements of each element provide 
+
+
+
+goals that should be achieved for the system to work effectively in the present and 
+
+
+
+to also achieve continuous improvement for the future. The management team 
+
+
+
+sets targets for achievements annually which include lead and lag indicators.
+
+
+
+Lead indicators are measurements of the extent that 
+
+actions that are intended to pre-emptively manage 
+
+hazards and prevent incidents and injuries are actually 
+
+completed. Examples are number of audits completed, 
+
+number of safety meetings held, safety training completed, 
+
+safety assessments completed etc.. Lag indicators include 
+
+total recordable injuries, number of hazards identified 
+
+in incident investigations that were not identified in the 
+
+safety assessments, number of safety incidents and injury 
+
+frequency rates.
+
+Overall, our target for the next year is to continue to 
+
+proactively manage Occupational Health &amp; Safety risks to 
+
+reduce the number and severity of work-related injuries 
+
+and ill health.
+
+The operation of the Health &amp; Safety Management System 
+
+and ancillary activities are described in more detail below.
+
+GPG is committed to ensuring that its Health &amp; Safety 
+
+Management System:
+
+• 
+
+Improves overall health and safety performance,
+
+• 
+
+Is appropriate for GPG operations,
+
+• 
+
+Integrates with other systems and core processes,
+
+• 
+
+Enables GPG to meet its legal obligations, and
+
+• 
+
+Meets the requirements of the GPG Occupational Health 
+
+&amp; Safety Policy.
+
+The GPG Health &amp; Safety Management System has been 
+
+implemented to adhere to the requirements of the 
+
+Victorian Occupational Health &amp; Safety Act 2004 and 
+
+Regulations 2017 (the “Regulations”). 
+
+Crucially, Part 5.3 of the Regulations requires the operator 
+
+of a prescribed mine to establish and implement a safety 
+
+management system which provides a comprehensive 
+
+and integrated management system for all risk control 
+
+measures and is used as the primary means of ensuring 
+
+the safe operation of the mine.
+
+Scheduled audits of the GPG Health &amp; Safety Management 
+
+System are completed by an independent organisation to 
+
+comply with the Regulations, which require the operator 
+
+of a prescribed mine to review and, if necessary, revise 
+
+the safety management system at least once every three 
+
+years.
+
+Elements of the GPG Health &amp; Safety Management System 
+
+are audited by the Victorian Health &amp; Safety Regulator 
+
+(the “Regulator”) as part of the annual Major Mine Hazard 
+
+Verification Audit. The scope of the audit and the elements 
+
+assessed vary from year to year. The 2021 Verification 
+
+Audit was conducted in February 2021 with a focus on 
+
+Ground Failure, Fire Underground and Vehicles.
+
+The GPG Health &amp; Safety Management System has been 
+
+developed and implemented based on the guidelines 
+
+published in the following Australian/New Zealand 
+
+Standards:
+
+• 
+
+AS/NZS 4804:2001 Occupational health and safety 
+
+management systems – General guidelines on 
+
+principles, systems and supporting techniques
+
+• 
+
+AS/NSZ 4801:2001 Occupational health and safety 
+
+management systems – Specifications and guidance 
+
+An Occupational Health &amp; Management System has been implemented 
+
+and provides a framework for the continual improvement of health 
+
+and safety measures and processes for all employees, contractors and 
+
+visitors across all GPG operations and activities.
+
+Occupational 
+
+
+
+Health &amp; Safety 
+
+
+
+Management 
+
+
+
+System
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+020
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+All employees, contractors and visitors are encouraged to 
+
+actively identify hazards and reduce risks associated with 
+
+all GPG activities without fear of victimisation or reprisals. 
+
+Site personnel are instructed in the use of GPG Hazard and 
+
+Risk Management tools upon induction and during periodic 
+
+refresher training and are encouraged to stop and seek 
+
+assistance if a task cannot be completed safely.
+
+Hazards are routinely identified through a range of 
+
+activities such as major mine hazard safety assessments, 
+
+workplace inspections, environmental monitoring of the 
+
+workplace, audits, risk assessments, job safety analysis, 
+
+management of change workshops, and site safety 
+
+meetings. 
+
+Identified hazards are recorded and ranked according 
+
+to risk potential using GPG Hazard report forms and the 
+
+GPG Risk Assessment Matrix. Corrective actions are then 
+
+assigned to each hazard utilising the Hierarchy of Controls 
+
+to reduce the hazard as far as is reasonably practicable 
+
+where the risks cannot be eliminated.
+
+When unfortunate incidents resulting in injury, damage or 
+
+loss occur, they are investigated using the Incident Cause 
+
+Analysis Method. The basic cause and contributing factors 
+
+are identified and, where appropriate, corrective actions 
+
+are assigned to prevent recurrence.
+
+Identified hazards, reported incidents and allocated 
+
+corrective actions are recorded into the site safety 
+
+database (the “INX-InControl”) and tracked through to 
+
+completion. In FY2021, GPG implemented INX-InControl, 
+
+a cloud-based Health &amp; Safety software solution for the 
+
+reporting, tracking and closeout of hazards, incidents and 
+
+corrective actions. The INX-InControl software enables 
+
+real time reporting of hazards and incidents and with 
+
+the incorporation of tablet technology, removes the 
+
+administrative burden of the paper-based system.  
+
+Hazards, incidents, and corrective actions are routinely 
+
+discussed as an agenda item during site safety meetings 
+
+and reported in weekly and monthly reports. Such 
+
+reports are circulated internally to relevant individuals 
+
+or department heads so as to keep them apprised of such 
+
+matters and to allow for them to follow up on any action 
+
+items if any.
+
+Escalation workflows exist within INX-InControl to ensure 
+
+the timely closeout of all actions raised from hazards, 
+
+incidents, inspections and audits. 
+
+Hazard and Risk Management is an integral part of the GPG Health &amp; 
+
+Safety Management System. Proactively identifying and mitigating 
+
+potential risks and hazards is an effective way to ensure a safe 
+
+workplace. 
+
+Hazard 
+
+
+
+Identification, 
+
+
+
+Risk Assessment 
+
+
+
+and Incident 
+
+
+
+Investigation
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+021
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+Medical and health assessments are conducted before and 
+
+during employment to ensure employees are fit to perform 
+
+the inherent requirements of their role and to monitor 
+
+workplace related health effects. 
+
+Workers’ personal health related information remains 
+
+strictly confidential and is secured both digitally and 
+
+physically on site with restricted access.
+
+Ergonomic assessments of workstations and tasks 
+
+are undertaken as required and, where appropriate, 
+
+adjustments are made to reduce the likelihood of injury or 
+
+aggravation.
+
+GPG conducts scheduled health monitoring for known 
+
+occupational health risks including exposure to silica, 
+
+diesel particulate matter, lead, mercury and arsenic. Health 
+
+monitoring results are provided to all personnel via letters, 
+
+site notice boards and reports. In addition to national 
+
+exposure standards published by Safe Work Australia, 
+
+the statutory agency established to improve work health 
+
+and safety in Australia, GPG has established action levels 
+
+for health hazards, i.e. when an exposure approaches a 
+
+specified level below the exposure standard, action will be 
+
+taken to reduce exposure through the application of risk 
+
+control measures. 
+
+GPG offers all employees free access to a weekly on-
+
+site soft tissue clinic for the treatment of work-related 
+
+and non-work-related injuries or physical complaints. A 
+
+registered medical practitioner attends the on-site clinic 
+
+and is available to employees during work hours. Where 
+
+appointments relating to work-related injuries cannot be 
+
+scheduled at the on-site soft tissue centre, appointments 
+
+are arranged during work hours for employees at an 
+
+external registered health clinic. Employees consent to 
+
+allow the provider to discuss relevant health information 
+
+and other personal information concerning identified 
+
+health conditions or injuries with relevant and authorised 
+
+site personnel such as their manager or Health &amp; Safety 
+
+personnel. Personal health related information is retained 
+
+offsite by the external providers and provided to Health 
+
+&amp; Safety personnel where appropriate to aid with 
+
+rehabilitation and recovery.
+
+Fit for Role assessments are scheduled for employees 
+
+whose medical examinations indicate a decline in their 
+
+fitness for role. Assessments are conducted by an external 
+
+health &amp; wellbeing consultant and participants were
+
+provided with advice regarding blood glucose, cholesterol, 
+
+blood pressure and body mass index. An individual plan 
+
+was developed for each participant to assist in improving 
+
+their fitness for role.
+
+GPG provides surface-based employees with free annual 
+
+skin cancer checks run by an external medical practitioner. 
+
+Results are strictly confidential and are shared only with 
+
+the employee and their general practitioner. The checks 
+
+were last provided in December 2020.
+
+Flu vaccinations are provided to GPG employees and 
+
+long-term contractor employees as part of the COVID-19 
+
+preventative controls on site. 
+
+GPG is committed to operating in a safe and responsible manner so as 
+
+to prevent occupational injury and illness.
+
+Occupational 
+
+
+
+Health 
+
+
+
+Services
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+022
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+Consultation and communication on health &amp; safety 
+
+matters take place via several formal forums including 
+
+safety meetings, pre-shift meetings, management of 
+
+change workshops, notice boards, health and wellbeing 
+
+presentations and through employee participation in risk 
+
+assessments, procedure reviews, incident investigations 
+
+and workplace inspections.
+
+Employees and contractors are involved in the 
+
+development, implementation and review of processes 
+
+used for hazard identification, hazard/risk assessment 
+
+and control of hazards/risks. Safe work practices and 
+
+procedures are developed in conjunction with the 
+
+personnel required to use them.
+
+Worker consultation and communication has been further 
+
+enhanced with the implementation of a site Health &amp; 
+
+Safety Representatives (the “HSR”) program. HSRs are 
+
+elected by their peers and utilised on-site to conduct 
+
+safety meetings and participate in procedure reviews, risk 
+
+assessments, workplace inspections and other site health 
+
+&amp; safety functions. All elected representatives attend a 
+
+five-day regulator-approved training course and undergo 
+
+annual refresher training.
+
+Ensuring that all employees, contractors 
+
+and visitors are appropriately trained and 
+
+competent in performing their relevant duties is 
+
+a fundamental component of the GPG Health &amp; 
+
+Safety Management System.
+
+Each role within GPG is assessed for the necessary 
+
+competencies and skills, utilising formal competency-based 
+
+assessment.
+
+ 
+
+Training is delivered by trained and competent personnel 
+
+and, where applicable, contains both theory and practical 
+
+components to assess competency.
+
+Customised induction programmes which commensurate 
+
+with the level of risk involved in a particular employment 
+
+role are prepared and conducted upon commencement of 
+
+employment with GPG. The same applies to contractors 
+
+and visitors to GPG sites. Inductions cover relevant health 
+
+&amp; safety risks, hazards, controls, behaviours, company 
+
+objectives, policy, systems and procedures. GPG utilises 
+
+INX – InTuition to ensure that competency assessments 
+
+and training records are maintained and ongoing, and that 
+
+periodic refresher training is provided.
+
+Where major mine hazard safety assessments identify 
+
+competency levels as a critical control, competency 
+
+assurance forms part of the overall critical control 
+
+assurance &amp; verification process.
+
+All training and competency assessments are carried 
+
+out by persons with appropriate knowledge, skills and 
+
+experience. All records of training, qualifications and 
+
+competencies are maintained with confidentiality.
+
+GPG implemented INX-InTuition, a cloud-based training 
+
+and competency software solution in September 2020. 
+
+INX-InTuition streamlines spreadsheet and paper-based 
+
+systems and allows for real time reporting and analysis of 
+
+on-site training programs. 
+
+GPG strives to maintain effective consultation 
+
+and communication between all levels of the 
+
+organisational structure in a manner that ensures 
+
+that employees and contractors feel empowered 
+
+to participate in maintaining a healthy, safe and 
+
+enjoyable workplace with a positive culture.
+
+Worker participation, 
+
+
+
+consultation and 
+
+
+
+Communication on 
+
+
+
+Occupational Health &amp; Safety 
+
+
+
+Worker Training on 
+
+
+
+Occupational Health &amp; Safety
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+023
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+In addition to mental health counselling services, the EAP 
+
+provides assistance to employees for a range of topics 
+
+including nutrition, sleep, resilience, mindfulness and 
+
+addictive behaviours. 
+
+The EAP is a free and confidential service facilitated by an 
+
+external provider via face-to-face meetings or telehealth 
+
+calls. The services offered as part of the EAP are promoted 
+
+regularly in inductions, site safety meetings, health and 
+
+wellbeing sessions and via site notice boards. All services 
+
+are strictly confidential with all workers’ personal health 
+
+related information retained offsite by the external 
+
+providers. 
+
+Monthly health and wellbeing topics are presented to 
+
+GPG employees and contractors by the Health, Safety and 
+
+Wellbeing Coordinator. Topics presented include mental 
+
+health awareness, sleeping tips, coping with fatigue, stress 
+
+&amp; recovery and nutrition.
+
+GPG employees and contractors participate in daily 
+
+pre-shift injury prevention exercises. The exercises are 
+
+prescribed by a qualified group exercise trainer and 
+
+are updated on a monthly basis. Exercises focus on 
+
+strengthening and conditioning key areas of the body with 
+
+the aim of reducing injuries.
+
+A mental health education program was presented to all 
+
+site employees by an external mental health consultant. 
+
+The aim of the program is to reduce stigma associated 
+
+with mental health conditions and to empower site 
+
+personnel to actively seek help when needed. 
+
+GPG has an on-site fitness centre with exercise equipment 
+
+designed to promote the health benefits of daily exercise. 
+
+The fitness centre is available for use by GPG employees 
+
+before, during and after work.  An expansion of the fitness 
+
+centre has been planned for fiscal year 2022 to allow for 
+
+weight training in conjunction with cardio training. 
+
+A fit for role program has been introduced to address the 
+
+declining physical fitness for role in identified employees.  
+
+Periodical medical assessments are undertaken for 
+
+individuals in high injury risk roles to identify those who 
+
+need to improve their physical condition.  The employee is 
+
+then assessed by an occupational rehabilitation provider 
+
+and a personalised program is developed to assist the 
+
+employee in reducing his/her injury risk profile.
+
+GPG offers all employees and their immediate family members access to the 
+
+Employee Assistance Program (the “EAP”).
+
+Promotion 
+
+
+
+of Worker 
+
+
+
+Health 
+
+
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+024
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK-RELATED
+
+ INJURIES – EMPLOYEES
+
+TOTAL HOURS WORKED
+
+NUMBER OF 
+
+OCCURRENCES
+
+RATE
+
+(PER 1,000,000 HOURS 
+
+WORKED)
+
+FY2020(3)
+
+FY2021
+
+FY2020(3)
+
+FY2021
+
+FY2020(3)
+
+FY2021
+
+Fatalities as a result of 
+
+work-related injury 
+
+409,804
+
+552,445
+
+0
+
+0
+
+0
+
+0
+
+High-consequence 
+
+work-related injuries 
+
+(excluding fatalities) (1)
+
+0
+
+0
+
+0
+
+0
+
+Recordable work-related 
+
+injuries (including 
+
+high-consequence 
+
+work-related injuries) (2)
+
+15
+
+6
+
+37
+
+11
+
+Through our ongoing efforts in continuous training 
+
+and process improvement, we did not record any high-
+
+consequence work-related injuries or fatalities in FY2021. 
+
+We will continue this process while working to translate 
+
+commitment into better day-to-day safety practices. As 
+
+compared to FY2020, the number of recordable work-
+
+related injuries (excluding fatalities) decreased by 9, despite 
+
+a considerable increase in total hours worked in FY2021. 
+
+We have a perpetual target of zero cases of work-related 
+
+injuries and fatalities and is committed to working towards 
+
+achieving this target.   
+
+The various initiative of injury prevention on-site, including 
+
+Training and Education, Soft Tissue Clinic and external 
+
+Health and Well-being providers has contributed to the 
+
+decrease in the injury frequency rate. Proper safeguards 
+
+are put in place to prevent inappropriate access and use 
+
+of any machinery or equipment which could result in the 
+
+occurrence of any potential injury. The effectiveness of 
+
+these programmes is being closely monitored and will be 
+
+assessed on an ongoing basis.
+
+A summary of work-related injuries sustained in FY2021 compared to FY2020 is provided below.
+
+Work-related Injuries
+
+
+
+Notes: 
+
+(1) 
+
+“High-consequence work-related injuries” include injuries from which the worker cannot, does not, or is not expected to recover fully to 
+
+pre-injury health status within 6 months.
+
+(2) 
+
+“Recordable work-related injuries” include medical treatment beyond first aid, restricted work or days away from work.
+
+(3) 
+
+Data for FY2020 covers a 15-month period from 1 April 2019 to June 2020 due to a change in the Company’s financial year end from 
+
+31 March to 30 June.
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+025
+
+Notes: 
+
+(1) 
+
+Data for FY2020 covers a 15-month period from 1 April 2019 to June 2020 due to a change in the Company’s financial year end from 
+
+31 March to 30 June. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECORDABLE WORK-RELATED INJURIES – EMPLOYEES - FY2020(1)
+
+Type of Work-related injury
+
+Number of occurrences
+
+Hazard
+
+Mechanism of injury
+
+Eye Injury
+
+1
+
+Physical
+
+Foreign body in eye
+
+Fracture
+
+2
+
+Physical
+
+Struck by object
+
+Hernia
+
+2
+
+Physical
+
+Manual Handling
+
+Laceration
+
+2
+
+Physical
+
+Struck by object
+
+Laceration
+
+1
+
+Physical
+
+Contact with sharp object
+
+Sprain
+
+1
+
+Physical
+
+Trip &amp; fall
+
+Strain
+
+2
+
+Physical
+
+Manual Handling
+
+Strain
+
+1
+
+Physical
+
+Struck by object
+
+Strain
+
+3
+
+Physical
+
+Awkward movement
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECORDABLE WORK-RELATED INJURIES – EMPLOYEES – FY2021
+
+Type of Work-related injury
+
+Number of occurrences
+
+Hazard
+
+Mechanism of injury
+
+Strain
+
+2
+
+Physical
+
+Awkward movement
+
+Strain
+
+1
+
+Physical 
+
+Stuck by object
+
+Sprain
+
+1
+
+Physical
+
+Awkward movement
+
+Sprain
+
+1
+
+Physical
+
+Slip, trip, fall
+
+Eye injury
+
+1
+
+Chemical
+
+Exposure to chemical 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+026
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK-RELATED 
+
+INJURIES – CONTRACTORS
+
+TOTAL HOURS WORKED
+
+NUMBER OF 
+
+OCCURRENCES
+
+RATE
+
+(PER 1,000,000 HOURS 
+
+WORKED)
+
+FY2020(3)
+
+FY2021
+
+FY2020(3)
+
+FY2021
+
+FY2020(3)
+
+FY2021
+
+Fatalities as a result of 
+
+work-related injury 
+
+138,045
+
+143,760
+
+0
+
+0
+
+0
+
+0
+
+High-consequence 
+
+work-related injuries 
+
+(excluding fatalities) (1)
+
+0
+
+0
+
+0
+
+0
+
+Recordable work-related 
+
+injuries (including 
+
+high-consequence 
+
+work-related injuries) (2)
+
+7
+
+2
+
+51
+
+14
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECORDABLE WORK-RELATED INJURIES – CONTRACTORS – FY2021(1)
+
+Type of Work-related injury
+
+Number of occurrences
+
+Hazard
+
+Mechanism of injury
+
+Fracture
+
+2
+
+Physical
+
+Struck by object
+
+Laceration
+
+1
+
+Physical
+
+Contact with sharp object
+
+Sprain
+
+1
+
+Physical
+
+Manual Handling
+
+Strain
+
+3
+
+Physical
+
+Manual Handling
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+Notes: 
+
+(1) 
+
+“High-consequence work-related injuries” include injuries from which the worker cannot, does not, or is not expected to recover fully to 
+
+pre-injury health status within 6 months.
+
+(2) 
+
+“Recordable work-related injuries” include medical treatment beyond first aid, restricted work or days away from work.
+
+(3) 
+
+Data for FY2020 covers a 15-month period from 1 April 2019 to June 2020 due to a change in the Company’s financial year end from 
+
+31 March to 30 June.
+
+Notes: 
+
+(1) 
+
+Data for FY2020 covers a 15-month period from 1 April 2019 to June 2020 due to a change in the Company’s  financial year end from 
+
+31 March to 30 June.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+027
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK-RELATED ILL HEALTH (1)  – EMPLOYEES
+
+NUMBER OF OCCURRENCES
+
+FY2020(2)
+
+FY2021
+
+Fatalities as a result of work-related ill health
+
+0
+
+0
+
+Cases of recordable work-related ill health
+
+0
+
+0
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RECORDABLE WORK-RELATED INJURIES – CONTRACTORS – FY2021
+
+Type of Work-related injury
+
+Number of occurrences
+
+Hazard
+
+Mechanism of injury
+
+Strain
+
+1
+
+Physical
+
+Awkward movement
+
+Laceration
+
+1
+
+Physical
+
+Struck by object
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+WORK-RELATED ILL HEALTH (1)  – CONTRACTORS
+
+NUMBER OF OCCURRENCES
+
+FY2020(2)
+
+FY2021
+
+Fatalities as a result of work-related ill health
+
+0
+
+0
+
+Cases of recordable work-related ill health
+
+0
+
+0
+
+At GPG, the same set of protocols are employed in ensuring the safety and well-being of all our staff and contractors. 
+
+Compared to FY2020, the number of recordable work-related injuries (for contractors) (including high-consequence 
+
+work-related injuries) decreased substantially to 2, despite a considerable increase in total hours worked in FY2021. 
+
+We have a perpetual target of zero cases of work-related injuries (for contractors) (including high-consequence 
+
+work-related injuries) and are committed to working towards achieving this target.  
+
+We have a perpetual target of zero work-related ill health cases and are committed to working towards achieving this 
+
+target.  
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+Notes: 
+
+(1)  GPG operates in a jurisdiction in which the workers’ compensation system classifies musculoskeletal disorders as injuries; as such, these 
+
+disorders have been reported as work-related injuries.
+
+(2) 
+
+Data for FY2020 covers a 15-month period from 1 April 2019 to June 2020 due to a change in the Company’s financial year end from 
+
+31 March to 30 June.
+
+A summary of work-related illnesses sustained in FY2021 compared to FY2020 is provided below.
+
+Work-related Ill Health 
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+028
+
+ENVIRONMENT PROTECTION 
+
+MATERIAL FACTORS
+
+Compliance with 
+
+environmental regulations
+
+Environmental Management 
+
+Plan
+
+Waste Management
+
+
+
+RELEVANT SDGs
+
+The mining industry in Australia is 
+
+
+
+extensively regulated and there are 
+
+
+
+numerous local, State and Federal 
+
+
+
+legislation that govern mining and 
+
+
+
+associated activities.
+
+
+
+In addition, GPG also needs to comply with the conditions 
+
+of its approved mining plan and the terms and provisions 
+
+attached to our various mining and exploration tenements.
+
+The main sources of legislation that govern our activities 
+
+in respect of the Compliance with Licence Conditions and 
+
+Community Relations ESG factors is the Mineral Resources 
+
+(Sustainable Development) (the “MRSD”) Act 1990 and 
+
+MRSD Regulations 2013.
+
+On 30 March 2020, the Victorian Environment Protection 
+
+Authority (the “EPA”) released a draft guidance on the 
+
+scope and purpose of new operating licences and for the 
+
+licence holders, addressing the new general environmental 
+
+duty (the “GED”). The Environment Protection Act 2017 
+
+came into effect on 1 July 2021. It gives the EPA more 
+
+powers and tools to prevent risks to the environment and 
+
+human health. They also allow the EPA to issue stronger 
+
+sanctions to hold polluters to account. 
+
+The GED is a centerpiece of the new laws. It requires 
+
+all Victorians to manage risks to human health and the 
+
+environment that are created as a result of their actions. 
+
+Everyone must take steps to prevent or minimise those 
+
+risks. For businesses, this includes correctly managing 
+
+✓
+
+✓
+
+✓
+
+waste or storing chemicals safely. For individuals, this 
+
+includes ensuring waste from renovations are properly 
+
+disposed of or that household chemical are not released 
+
+into stormwater drains. 
+
+In addition to ensuring that all aspects of its operations 
+
+are undertaken in accordance with all relevant legal and 
+
+regulatory requirements, GPG also makes a conscious 
+
+effort to develop and manage community relations.
+
+The EESG factors relating to Compliance to License 
+
+Conditions and Community Relations are closely 
+
+related and are proactively managed together using an 
+
+Environmental Management System pursuant to the 
+
+Environmental Management Plan.
+
+There have been zero non-compliances and one minor 
+
+(Category 5) incident recorded during the reporting period. 
+
+During the year, the Company did not incur any fines or 
+
+non-monetary sanctions for non-compliance with laws 
+
+and/or regulations. We have a perpetual target of zero 
+
+cases of incidents and non-compliance with laws and/
+
+or regulations and are committed to working towards 
+
+achieving this target.
+
+GPG is committed to obtaining certification for the 
+
+Ballarat Gold Mine’s Environmental Management Plan 
+
+under the industry standard framework for environmental 
+
+management - ISO14001.  This will provide assurance 
+
+to GPG’s management, employees, as well as external 
+
+stakeholders that environmental impacts are being 
+
+effectively measured and addressed.  
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+029
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RISK ISSUE
+
+CONTROLS
+
+MONITORING AND REPORTING
+
+Noise
+
+Restricted work times for tasks that do 
+
+not meet strict noise criteria, design 
+
+and procurement of equipment, licence 
+
+conditions
+
+There are seven monitoring locations.
+
+Any exceedance of stipulated limits or 
+
+non-compliance is reported to the relevant 
+
+authority, the ERC and included in annual 
+
+reporting.
+
+Air Quality
+
+Water cart, polymer application on 
+
+service road, sprinklers, vehicle speed 
+
+restrictions, processing plant is primarily 
+
+a wet circuit, licence conditions
+
+There are seven permanent monitoring 
+
+stations. Any exceedance of stipulated 
+
+limits or non-compliance is reported to the 
+
+relevant authority, the ERC and included in 
+
+annual reporting.
+
+Vibration
+
+Restricted firing times, design criteria 
+
+for production firings, use of electronic 
+
+detonators for control of frequencies, 
+
+licence conditions
+
+Up to five vibration monitors are installed 
+
+within close proximity to each firing. 
+
+Any exceedance of stipulated limits 
+
+or non-compliance is reported to the 
+
+relevant authority, the ERC and included in 
+
+annual reporting.
+
+Surface Water
+
+Extensive surface water storage dams 
+
+and wetlands, defined work areas, spill 
+
+controls, zero discharge from processing 
+
+water circuit, licence conditions.
+
+Collection of a range of surface water 
+
+quality data from in-site daily tests to 
+
+National Association of Testing Authorities- 
+
+accredited samples for licence compliance 
+
+reporting. Any exceedance of stipulated 
+
+limits or non-compliance is reported to the 
+
+relevant authority, the ERC and included in 
+
+annual reporting.
+
+Ground Water
+
+Defined work areas, spill controls, 
+
+Tailings Storage Facility is lined with 
+
+&gt;0.6m clay liner to protect groundwater 
+
+from contamination.
+
+There are eight groundwater bores that are 
+
+regularly monitored for levels and quality.
+
+Any exceedance of stipulated limits or 
+
+non-compliance is reported to the relevant 
+
+authority, the ERC and included in annual 
+
+reporting.
+
+Traffic Management
+
+A single point of entry, signage, all 
+
+purchase orders stipulate directions and 
+
+curfew restrictions.
+
+Results and exceedances of the limits are 
+
+reported to the regulatory authorities, the 
+
+ERC and included in annual reporting.
+
+ENVIRONMENT PROTECTION 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+030
+
+
+
+ENVIRONMENT PROTECTION 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+RISK ISSUE
+
+CONTROLS
+
+MONITORING AND REPORTING
+
+Flora &amp; Fauna 
+
+Defined work areas, spill controls, 
+
+Tailings Storage Facility is lined with 
+
+&gt;0.6m clay liner to protect groundwater 
+
+from contamination.
+
+Annual revegetation and weed programs 
+
+are monitored for success and reported to 
+
+regulatory authorities and the ERC.
+
+Land Management
+
+Minimise soil disturbance and undertake 
+
+progressive rehabilitation of disturbed 
+
+areas. Stockpiles of soil managed to 
+
+minimise erosion, spread of weed 
+
+and soil biota to ensure successful 
+
+rehabilitation. Fuel loads are managed to 
+
+reduce spread of fire on and off site.
+
+Audits undertaken during and post 
+
+soil disturbing construction.
+
+Annual inspections of fuel loads with 
+
+external agents.
+
+Chemical and  
+
+Hazardous Material
+
+Minimise the type and quantity of 
+
+chemicals stored on site. Ensure all 
+
+chemicals are stored and disposed of 
+
+appropriately.
+
+Various inspections and audits completed 
+
+depending on the product. Any loss of 
+
+primary containment is reported through 
+
+the site incident database and to the 
+
+relevant regulatory authorities and the 
+
+ERC.
+
+Waste
+
+Implement the waste hierarchy, which 
+
+encourages waste avoidance and 
+
+reduction followed by reuse, recycling 
+
+and reclamation before waste treatment 
+
+and disposal. This control philosophy 
+
+applies from smaller items of packaging 
+
+to the much larger items of waste rock 
+
+and tailings.
+
+Audits and inspections of waste streams. 
+
+Monthly reporting of waste streams to the 
+
+ERC and various regulatory authorities on 
+
+an annual basis.
+
+Heritage
+
+Avoid impact to Aboriginal and European 
+
+sites by undertaking database searches 
+
+and site inspections during planning 
+
+stages of work likely to impact heritage 
+
+sites.
+
+Regular inspections during works, 
+
+report any discovery or disturbance to 
+
+appropriate authorities.
+
+Visual Impact
+
+Maintain or incorporate visual buffers, 
+
+minimise emission of light, reduce 
+
+heights of stockpiles, minimise dust 
+
+generated. Maintain landscaped and open 
+
+grassed areas.
+
+Audit and monitor levels of community 
+
+complaints as a result of visual impacts. 
+
+All complaints are reported to ERC and 
+
+included in annual reporting.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+031
+
+
+
+
+
+GPG has implemented the following policies regarding the environment.
+
+
+
+ENVIRONMENT PROTECTION 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+032
+
+GPG has an extensive monitoring network for the 
+
+various environmental and community risks identified 
+
+above. We continue wherever reasonably practicable to 
+
+allay community concerns and ensure our “social and 
+
+environmental impact” is as low as possible. 
+
+GPG has an extensive monitoring program producing 
+
+data sets for both online weather and water monitoring 
+
+at five-minute intervals as well as annual usage of 
+
+energy. We ensure that scarce resources are utilized in an 
+
+environmentally and efficient manner.
+
+Pursuant to licence conditions, environmental monitoring 
+
+results are reported quarterly to the ERC and annually 
+
+to the EPA, the National Pollution Inventory and the 
+
+Department of Jobs, Precincts and Regions – Earth 
+
+Resources Regulation. 
+
+ENVIRONMENT PROTECTION 
+
+Operations with Significant Actual and Potential Negative 
+
+
+
+Impacts on Local Communities
+
+
+
+
+
+In addition to the overarching Community Policy, 
+
+the three key goals and objectives for this 
+
+community engagement plan are:
+
+1. To continually improve community 
+
+relationships through positive and constructive 
+
+consultation. 
+
+2. To share information with the community 
+
+about activities undertaken by the operation 
+
+that might affect the community.
+
+3. To allow the community to express their views 
+
+on such activities. 
+
+GPG maintains a close working relationship with all 
+
+statutory authorities to ensure we remain compliant and 
+
+uphold our social contract.
+
+GPG’s established procedures and regular monitoring 
+
+and reporting of environment and community matters, 
+
+as elaborated above, are an effective way of measuring 
+
+and determining the efficacy of the controls being 
+
+implemented. Should a control be identified as being 
+
+ineffective, GPG will then launch an investigation to 
+
+identify the issues and implement corrective actions so as 
+
+to ensure that the site’s standards and licence conditions 
+
+are maintained. The Topic Boundary for these important 
+
+ESG factors extends beyond the operation’s border fence 
+
+to the neighbours and locations where the effects of the 
+
+Company’s activities are evident.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+033
+
+ENVIRONMENT PROTECTION 
+
+Impact from COVID-19
+
+
+
+The COVID-19 pandemic continues to affect our 
+
+community, with continued lockdowns and restrictions, 
+
+disrupting communication with our neighbours and 
+
+community. We have however conducted several letter-
+
+drops providing updates in relation to our activities, and 
+
+resumed face-to-face meetings in-between prescribed 
+
+lockdowns. It was particularly exciting to be able to 
+
+conduct two of the last three quarterly ERC on site at the 
+
+Ballarat Gold Mine. We also provided the option of online 
+
+participation to cater to members of the community who 
+
+were unable to be physically present. 
+
+We continue to update our website 
+
+https://ballaratgoldmine.com.au/, which is an essential 
+
+portal for communicating with the community through:
+
+• 
+
+The feedback form on the Contact Us page
+
+• 
+
+Dedicated pages to new projects 
+
+• 
+
+An eNews option for communication with a campaign 
+
+to get concerned community to register for this via the 
+
+link on the Contact Us page.
+
+65% of the interactions with community residents for 
+
+the reporting period were regarding vibration and noise 
+
+relating to underground firings (i.e. explosives detonated 
+
+underground to break rock for tunnelling and production 
+
+purposes). A further 18% of community connection focused 
+
+on positive engagement and education for various key 
+
+stakeholders.
+
+Vibration levels are measured as peak particle velocity 
+
+(the “PPV”) which is a measurement of maximum ground 
+
+particle speed.
+
+GPG has been operating well within the two statutory 
+
+limits which stipulates that 95% of all blasts must be 
+
+less than 5 mm per second and never above 10 mm per 
+
+second. 
+
+All blasts continue to be monitored and during the year 
+
+GPG undertook an upgrade of some vibration monitoring 
+
+equipment to further enhance control and monitoring in 
+
+this particular aspect.  There was also a greater emphasis 
+
+placed on working with blast design engineers throughout 
+
+the year to reduce the residual effects of blasting as much 
+
+as is practicable for those living above the mine.
+
+The table below sets out the recorded vibration levels 
+
+compared against the statutory limits.
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+034
+
+
+
+Examples of how GPG engaged with 
+
+the community includes, but not 
+
+limited to:
+
+• 
+
+Letter-drops for specific projects.
+
+• 
+
+Proactive phone calls and face-to-
+
+face meetings when requested.
+
+• 
+
+Contributions to charitable 
+
+organizations.
+
+• 
+
+Third party blasting reports and 
+
+information sent to interested 
+
+community members.
+
+• 
+
+On-site tours (suspended 
+
+throughout 2020 and 2021 due to 
+
+the COVID-19 pandemic). 
+
+COMMUNITY INTERACTIONS TABLE
+
+ 
+
+The table illustrates the breakdown of the Community Interactions for FY2020 and 2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FY2020
+
+GPG PRO-ACTIVE
+
+NEIGHBOUR 
+
+FEEDBACK/ENQUIRY
+
+COMPLAINT
+
+TOTAL 
+
+INTERACTIONS
+
+Vibration/Noise
+
+37
+
+43
+
+136
+
+216
+
+Dust
+
+0
+
+1
+
+0
+
+1
+
+Amenity
+
+2
+
+11
+
+4
+
+17
+
+Traffic
+
+0
+
+0
+
+0
+
+0
+
+Other
+
+27
+
+8
+
+0
+
+35
+
+Total
+
+66
+
+63
+
+140
+
+269
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FY2021
+
+GPG PRO-ACTIVE
+
+NEIGHBOUR 
+
+FEEDBACK/ENQUIRY
+
+COMPLAINT
+
+TOTAL 
+
+INTERACTIONS
+
+Vibration/Noise
+
+45
+
+41
+
+225
+
+311
+
+Dust
+
+0
+
+0
+
+0
+
+0
+
+Amenity
+
+0
+
+1
+
+0
+
+1
+
+Traffic
+
+0
+
+0
+
+0
+
+0
+
+Other
+
+14
+
+5
+
+2
+
+21
+
+Total
+
+59
+
+47
+
+227
+
+333
+
+ENVIRONMENT PROTECTION 
+
+A solar powered, telemetric vibration monitor installed in May 2021. It allows the 
+
+Environmental and Communication team to rapidly collect data and respond to feedback 
+
+from blasts in the community.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+035
+
+
+
+
+
+
+
+GPG has developed risk-based management plans (in 
+
+relation to dust emission, noise pollution, vibration, 
+
+waste-water, water pollution, erosion of sediments, ground 
+
+disturbance, fire, release of hydrocarbon from waste oil 
+
+or diesel spill, security breach etc.) which evaluates the 
+
+identified risks and outline mitigation actions, steps taken 
+
+to reduce the risk, enabling better compliance management 
+
+and timely and informed decision-making. 
+
+All complaints are promptly investigated, and measures 
+
+are taken to manage the effects that gave rise to the 
+
+complaints. Employees working in the Environmental and 
+
+Community team work closely with geologists and blast 
+
+engineers to share information and develop solutions to 
+
+minimize the impact of blasting on residents living above 
+
+the mine site. 
+
+Vibration and noise associated with blasting activity was 
+
+again the prevailing concern for neighbours with 85% of all 
+
+contacts and 93% of complaints relating to GPG’s blasting 
+
+activities. Other complaints related to noise resonating 
+
+from around the waste rock dump and mill, long grass, fire 
+
+prevention, weed control, tree management and rubbish 
+
+dumping over vacant land. 
+
+ENVIRONMENT PROTECTION 
+
+Any blasts which exceed the internal limits is fully 
+
+investigated and notification is provided to the staff 
+
+responsible for preparing the blast. All complaints 
+
+and feedback continue to be welcomed, recorded and 
+
+investigated, and a response was issued when required.
+
+In response to vibration related community feedback, GPG 
+
+continues to undertake vibration monitoring at residents’ 
+
+properties, and provide information about blast vibration 
+
+and license limits. The SMS alert system introduced last 
+
+year has been a success. We are also now able to provide 
+
+information relating the location of the blast (which mining 
+
+compartment the blast will take place in). Several visits 
+
+to residents’ homes were conducted during the period, to 
+
+both educate and listen to residents’ concerns. 
+
+In response to the increase in community complaints 
+
+relating to blast vibration, we have modified our mining 
+
+methods to reduce vibration levels, including but 
+
+not limited to, using low-density explosives, smaller 
+
+multiple firings rather than one large firing and altering 
+
+the duration and pace of the firings. Mining method 
+
+modifications continue to be explored, and GPG have 
+
+consulted with external organizations to ensure current 
+
+industry best practices are employed. 
+
+GPG continues to restrict production blasting times to 
+
+weekday daylight hours between 09:00 and 17:00. GPG 
+
+has also developed internal procedures and increased 
+
+blasting training to ensure that the quality of the 
+
+blast design and setup meets established guidelines. 
+
+Furthermore, GPG has implemented a quality assurance 
+
+system that continuously measures and reviews drilling, 
+
+charging and firing practices to ensure optimal blasting 
+
+results.  
+
+The target for environmental performance and compliance 
+
+with licence conditions is to review and adopt, where 
+
+practicable, industry best practices for new technology and 
+
+methods of work to ensure statutory limits continue to be 
+
+met. Beyond simply complying with these limits, GPG is 
+
+committed to reducing waste and the effects of emissions, 
+
+improve efficiency of natural resources usage such as 
+
+energy and water, and to undertake rehabilitation of the 
+
+environment affected by our activities. 
+
+GPG continues to strive towards improving our 
+
+community relations to maintain the social license to 
+
+operate. Community feedback is a critical measure of our 
+
+performance and forms an integral part of our review and 
+
+monitoring of our operations. 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+036
+
+
+
+PEOPLE 
+
+Shen Yao firmly embraces a diverse and multi-skilled workforce. The Group’s 
+
+performance is enhanced through recognising and utilising these diverse skills, 
+
+attributes and talent of our people. Diversity is celebrated at Shen Yao and we 
+
+employ people of all ages, gender, ethnicity and cultural backgrounds. Shen Yao 
+
+values the differences between people and believes these differences create 
+
+a strong multi-talented organisation. Shen Yao firmly believes that all people 
+
+should be treated with fairness and respect. Employees are always recruited, 
+
+developed and promoted based on merit and performance.   
+
+Our employees are our most important asset and integral to the smooth 
+
+operation of our business. As the Company continues to evolve, it is critical 
+
+that we have a healthy and engaged workforce to expand and sustain our 
+
+operations. Shen Yao endeavours to be a preferred employer of choice and 
+
+seeks to provide an inclusive and entrepreneurial environment in which people 
+
+can thrive and contribute meaningfully to organisational goal congruence. 
+
+Shen Yao firmly believes that the future organisational leaders will be 
+
+developed from within our diverse workforce, and therefore it is pertinent that 
+
+Shen Yao continues to invest in our people and provide opportunities for career 
+
+advancement where possible. 
+
+MATERIAL FACTORS
+
+Fair Employment
+
+Skill Development 
+
+Diversity and Equal 
+
+Opportunity
+
+RELEVANT SDGs
+
+✓
+
+✓
+
+✓
+
+OUR PEOPLE, OUR FUTURE TOGETHER
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+037
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+EMPLOYEES
+
+MALE
+
+FEMALE
+
+TOTAL
+
+FY2020
+
+FY2021
+
+FY2020
+
+FY2021
+
+FY2020
+
+FY2021
+
+PERMANENT
+
+Singapore
+
+3
+
+5
+
+8
+
+8
+
+11
+
+13
+
+Australia
+
+171
+
+197
+
+18
+
+21
+
+189
+
+218
+
+Total
+
+174
+
+202
+
+26
+
+29
+
+200
+
+231
+
+FULL-TIME
+
+Singapore
+
+3
+
+5
+
+8
+
+8
+
+11
+
+13
+
+Australia
+
+165
+
+196
+
+11
+
+14
+
+176
+
+210
+
+Total
+
+168
+
+201
+
+19
+
+22
+
+187
+
+223
+
+PART-TIME/CASUAL
+
+Singapore
+
+-
+
+-
+
+-
+
+-
+
+-
+
+-
+
+Australia
+
+6
+
+1
+
+7
+
+7
+
+13
+
+8
+
+Total
+
+6
+
+1
+
+7
+
+7
+
+13
+
+8
+
+As at 30 June 2021, 74% of GPG employees were covered 
+
+by an Enterprise Agreement and the remaining 26% have 
+
+individual employment contracts.
+
+GPG employed 100 contractors as at 30 June 2021. There 
+
+are three main groups of contractors: 25 were engaged to 
+
+carry out underground exploration drilling, 10 provided 
+
+production drilling services and some ground support 
+
+installation services with the remainder being involved in 
+
+a variety of tasks comprising maintenance works in the 
+
+mine.
+
+As at 30 June 2021, the Group has 231 employees, 13 based in Singapore and 218 involved with mining and exploration 
+
+operations in Victoria, Australia.
+
+Due to the Victorian Government’s intermittent lockdowns 
+
+caused by the current pandemic, GPG has faced a shortage 
+
+of professional skilled employees. This situation is likely 
+
+to prevail until vaccination uptake rate increases within 
+
+Australia. GPG is also planning the introduction of a 
+
+high-performance leadership development program to 
+
+further drive ongoing sustainable performance within the 
+
+organisation. This will help to empower its workforce to 
+
+embrace innovation and new technologies to ensure that 
+
+GPG is at the forefront of driving change in the mining 
+
+industry.
+
+PEOPLE
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+038
+
+
+
+
+
+The Company has implemented 
+
+the following policies regarding 
+
+the community/corporate social 
+
+responsibility.
+
+
+
+COMMUNITY AND  
+
+CORPORATE SOCIAL RESPONSIBILITY
+
+RELEVANT SDGs
+
+MATERIAL FACTORS
+
+Positive impact on local 
+
+communities &amp; Community 
+
+Relationship
+
+✓
+
+COMMUNITY  POLICY
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+039
+
+GPG is constantly 
+
+
+
+seeking opportunities 
+
+
+
+to give back to the 
+
+
+
+community beyond 
+
+
+
+the economic benefits 
+
+
+
+generated from 
+
+
+
+operations. As such, 
+
+
+
+GPG also contributes to 
+
+
+
+the community through 
+
+
+
+education projects or 
+
+
+
+charitable donations.
+
+
+
+This year, despite the COVID-19 lockdowns, GPG continued to make positive 
+
+contributions to the wider community through a series of direct donations and 
+
+the Good Neighbour Program.
+
+GPG has managed to build and develop constructive relationships with the 
+
+community in Ballarat and other stakeholders by engaging them in frequent 
+
+consultations and dialogue. Listening closely to the residents in the area around 
+
+our mine and working to resolve any issues that may arise have helped us to 
+
+establish mutual support, understanding and trust.
+
+Some of the ways we demonstrate our commitment to the community include:
+
+• 
+
+communicating openly and honestly to understand and address concerns 
+
+raised by the community;
+
+• 
+
+hosting an independently chaired Environmental Review Committee 
+
+consisting of local stakeholders, regulatory authorities and GPG 
+
+representatives;
+
+• 
+
+employing and training local residents; 
+
+• 
+
+supporting local service and supply companies; and
+
+• 
+
+sponsoring and supporting community projects. 
+
+
+
+COMMUNITY AND  
+
+CORPORATE SOCIAL RESPONSIBILITY
+
+One of our employees with the Napoleons Landcare Group, a recipient of the “Good 
+
+Neighbor Program”, an initiative that granted several benevolent organizations $1,000 to 
+
+help them continue the work they do for the wider Ballarat community.
+
+
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+040
+
+BIGGEST MORNING TEA 
+
+This year GPG has enrolled in the 
+
+Biggest Morning Tea to help raise 
+
+money for cancer research. We may 
+
+know someone who has succumbed 
+
+to this terrible disease, or someone 
+
+who is currently living with it.
+
+GPG conducted a raffle for the event 
+
+and raised $1,482. Businesses in the 
+
+wider Ballarat community supported 
+
+the event through donations of prizes 
+
+on the day.
+
+GPG’s website link for the event is 
+
+provided below.
+
+https://www.biggestmorningtea.com.
+
+au/fundraisers/GoldenPointGroup/vic
+
+
+
+
+
+
+
+FLASHDRIVE &amp; 
+
+GPG IT PROGRAM
+
+GPG has partnered with Flash Drive 
+
+Beyond the Classroom Inc. (“Flash 
+
+Drive”), a not-for-profit organization 
+
+that employs people from the 
+
+National Disability Insurance Scheme, 
+
+to refurbish IT equipment. Upon 
+
+refurbishment, the computers are then 
+
+sold for a nominal fee to community 
+
+members who may not be able 
+
+to afford to purchase IT products 
+
+through regular retail outlets. The 
+
+donation occurred on 22 February 
+
+2021, with Kevin Garcia attending and 
+
+representing GPG’s IT Department.  
+
+The initial donation consisted of:
+
+• 
+
+10 x Dell monitors
+
+• 
+
+10 x Dell PC’s
+
+• 
+
+1 x box of excess cables and leads.
+
+
+
+COMMUNITY AND  
+
+CORPORATE SOCIAL RESPONSIBILITY
+
+
+
+Kevin &amp; Brody from GPG IT Department with Fay from Flash Drive
+
+GPG has demonstrated its commitment to the continuation of its relationship 
+
+with Flash Drive and provide support to the people in our community who 
+
+need them.
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+041
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI STANDARD 
+
+DISCLOSURE 
+
+REFERENCE
+
+DESCRIPTION
+
+MONITORING AND REPORTING
+
+     PAGE  
+
+     NUMBER
+
+102-1
+
+Name of the organisation
+
+About this Report
+
+6
+
+102-2
+
+Activities, brands, products, and 
+
+services
+
+Operations/Activities
+
+8
+
+102-3
+
+Location of headquarter
+
+Operations/activities
+
+8
+
+102-4
+
+Location of operations
+
+Operations/Activities
+
+8
+
+102-5
+
+Ownership and legal form
+
+Group Structure
+
+7
+
+102-6
+
+Markets served
+
+Operations/Activities
+
+8
+
+102-7
+
+The scale of the organisation
+
+Corporate Structure
+
+7/8
+
+102-8
+
+Information on employees and other 
+
+works
+
+People
+
+37
+
+102-9
+
+Supply Chain
+
+Supply Chain
+
+13
+
+102-10
+
+Significant changes to the organistaion 
+
+and its supply chain
+
+Corporate Structure 
+
+7
+
+102-11
+
+Precautionary principle or approach
+
+Governance Structure
+
+9
+
+102-12
+
+External initiatives
+
+Stakeholder Relationship and Material 
+
+Factors Identification
+
+10
+
+102-13
+
+Membership of associations
+
+Stakeholder Relationship and Material 
+
+Factors Identification
+
+10
+
+102-14
+
+Statement from Senior decision-maker
+
+CEO and Board Statement 
+
+3
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour
+
+Introduction 
+
+5
+
+102-18
+
+Governance structure
+
+Governance Structure
+
+9
+
+102-40
+
+List of stakeholders groups
+
+Stakeholder Relationship and Material 
+
+Factors Identification 
+
+10
+
+102-41
+
+Collective bargaining agreements
+
+People
+
+36
+
+102-42
+
+Identifying and selecting stakeholders
+
+Supply Chain 
+
+12
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Relationship and Material 
+
+Factors Identification
+
+10
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholder Relationship and Material 
+
+Factors Identification
+
+11
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+Corporate Structure
+
+Annual Report
+
+Supply Chain
+
+7
+
+12
+
+102-46
+
+Defining report content and topic 
+
+Boundaries
+
+About this Sustainability Report
+
+Group Structure
+
+6/7
+
+102-51
+
+Date of most recent report
+
+About this Report 
+
+6
+
+102-52
+
+Reporting Cycle
+
+About this Report
+
+6
+
+102-53
+
+Contact point for questions regarding 
+
+the report
+
+About this Report
+
+6
+
+GRI CONTENT INDEX 
+
+
+Sustainability Report 2021
+
+Shen Yao Holdings Limited
+
+042
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI STANDARD 
+
+DISCLOSURE 
+
+REFERENCE
+
+DESCRIPTION
+
+MONITORING AND REPORTING
+
+     PAGE 
+
+     NUMBER
+
+102-54
+
+Claims of reporting in accordance with 
+
+the GRI Standards
+
+About this Report 
+
+6
+
+102-55
+
+GRI Content Index
+
+GRI Content Index
+
+41/42
+
+102-56
+
+External Assurance
+
+About this Report 
+
+6
+
+103-1,2,3
+
+Management Approach (Explanation
+
+of the material topic and its Boundary;
+
+The management approach and
+
+its components; Evaluation of the
+
+management approach)
+
+About this Sustainability Report
+
+Stakeholder Relationship and Material 
+
+Factors Identification
+
+Environment Protection 
+
+6
+
+10
+
+28
+
+303-2
+
+Management of water 
+
+discharge-related impacts
+
+Environment Protection
+
+29
+
+304-2
+
+Significants of activities, products and 
+
+services on biodiversity
+
+Environment Protection
+
+29
+
+306-2
+
+Management of ignificant waste-relatd 
+
+impacts
+
+Environment Protection
+
+29
+
+403-1
+
+Occupational health and safety 
+
+management system
+
+Occupational Health &amp;Safety 
+
+16/18/19
+
+403-2
+
+Hazard Identification, risk assessment, 
+
+and incident investigation
+
+Hazard Identification, risk assessment, 
+
+and incident investigation
+
+20
+
+403-3
+
+Occupational Health Services
+
+Occupational Health Services
+
+21
+
+403-4
+
+Worker participation, consultation, and 
+
+communication on occupational health 
+
+and safety
+
+Worker participation, consultation, and 
+
+communication on occupational health 
+
+and safety
+
+22
+
+403-5
+
+Worker training on occupational health 
+
+and safety 
+
+Worker training on Occupation Health 
+
+and Safety 
+
+22
+
+403-6
+
+Promotion of worker health
+
+Promotion of worker health
+
+23
+
+403-7
+
+Prevention and mitigation of
+
+occupational health and safety impacts 
+
+directly linked by business
+
+relationships
+
+Response to COVID-19
+
+Occupational Health and Safety 
+
+14/15
+
+16-18
+
+403-8
+
+Workers covered by an occupational 
+
+health and safety management system
+
+The scale of the operation 
+
+37
+
+403-9
+
+Work-related injuries
+
+Work-related injuries
+
+25/26/27
+
+403-10
+
+Work-related ill health
+
+Work-related ill health
+
+27
+
+413-1
+
+Operations with local community 
+
+engagement
+
+Community and Corporate Social 
+
+Responsibility
+
+38/39/40
+
+413-2
+
+Operations with significant actual and
+
+potential negative impacts on local 
+
+communities 
+
+Operations with significant actual and
+
+potential negative impacts on local 
+
+communities 
+
+32
+
+419-1/307-1
+
+Non-compliance with environmental 
+
+laws and regulations
+
+Environment Protection 
+
+28
+
+GRI CONTENT INDEX 
+
+
+SHEN YAO HOLDINGS LIMITED
+
+9 Temasek Boulevard, #24-01, Suntec Tower 2, Singapore 038989 
+
+T: +65 6690 6860   F: +65 6690 6844   E: info@shenyaoholdings.com
+
+www.shenyaoholdings.com
+

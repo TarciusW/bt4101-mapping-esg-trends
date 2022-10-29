@@ -1,0 +1,1750 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+INTRODUCTION
+
+ESG IN THE CONTEXT OF BUSINESS
+
+01
+
+BOARD STATEMENT 
+
+02
+
+MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK 
+
+03
+
+ENVIRONMENTAL IMPACTS 
+
+OPERATIONAL FOOTPRINT
+
+06
+
+REUSE &amp; RECYCLING OF IT EQUIPMENT
+
+09
+
+SOCIAL IMPACTS 
+
+EMPLOYEE DIVERSITY &amp; INCLUSION
+
+10
+
+HEALTH &amp; SAFETY
+
+11
+
+SOCIAL ENGAGEMENT
+
+12
+
+GOVERNANCE 
+
+BOARD DIVERSITY
+
+13
+
+DATA &amp; SECURITY
+
+13
+
+ANTI-BRIBERY &amp; CORRUPTION POLICY
+
+14
+
+TARGETS &amp; POLICIES 
+
+15
+
+APPENDIX 
+
+16
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+For more enquiries, please contact Procurri’s Investor Relations at +65 6486 1300 or ir@procurri.com
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+INTRODUCTION 
+
+ESG IN THE CONTEXT OF BUSINESS
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+Headquartered and listed in Singapore, Procurri Corporation Limited is a leading 
+
+global independent provider of IT lifecycle services and data centre equipment. It offers 
+
+Lifecycle Services, which includes Hardware-as-a-Service, Independent Maintenance 
+
+Services and IT Asset Disposition, alongside IT Distribution, which includes Hardware 
+
+Resale and Supply Chain Management. Procurri employs more than 400 employees 
+
+across its 14 offices worldwide, with an extensive operations and services coverage 
+
+spanning over 100 countries. 
+
+Procurri works to keep its environmental, social and governance (ESG) performance 
+
+positive by being a responsible, diverse and equal opportunities employer, extending 
+
+product life where possible to reduce society’s carbon and waste footprint.
+
+ESG IN THE CONTEXT OF BUSINESS
+
+Technology is rapidly evolving and changing our lives in ways that were unimaginable just a mere 
+
+decade ago. All modern economies rely on technology and information services to develop and 
+
+grow. The combined use of software and hardware systems helps in the development of economically 
+
+important products by increasing efficiencies and providing new services. With the sudden overhaul 
+
+of existing systems or technologies that is taking place due to innovation in Information Technology and 
+
+Communications, new challenges for sustainability are becoming material. New technology brings with 
+
+it new social and environmental externalities that need to be addressed in order to protect stakeholders. 
+
+Being proactive in material sustainability issues provides companies with the opportunity to increase 
+
+their value, both in business and financial terms. Focusing on these key materiality issues will allow 
+
+companies to positively impact their growth both in terms of profit and customers, while failure to address 
+
+externalities can cause harm to the company’s reputation and profits. 
+
+Understanding the environmental and social impacts from software and IT firms will allow Procurri to 
+
+capitalise on the services it provides. Our sector has tremendous potential to not just fuel growth but to 
+
+also help economies progress in a sustainable manner. 
+
+Globally, IT and software firms can have significant 
+
+environmental and social impacts. By understanding these 
+
+potential issues, Procurri can capitalise on the services it provides.
+
+01
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+BOARD STATEMENT
+
+As a leading global player in the enterprise IT services and hardware industry, Procurri is aware of the 
+
+importance of good corporate citizenship. 
+
+The ethos of our business is deeply entrenched in the three Ps of the Triple Bottom Line – People, Planet 
+
+and Profit – coined by John Elkington, a world authority on corporate responsibility and sustainable 
+
+development. Our Hardware Resale encourages the use of pre-owned or refurbished equipment and 
+
+our Independent Maintenance Services enable companies to prolong the lifespan of their enterprise 
+
+hardware, while our IT Asset Disposition empowers companies to dispose e-waste responsibly. 
+
+In compliance with the Singapore Exchange’s sustainability reporting framework, we are excited to be 
+
+publishing our inaugural Sustainability Report 2017. This complements our ongoing green effort with the 
+
+electronic dissemination of our Annual Report 2017 and accompanying Appendix to shareholders via 
+
+our corporate website. This report evidences the ESG key performance indicators (KPIs) that are material 
+
+to the practices of Procurri, identified using established materiality assessment of the Sustainability 
+
+Accounting Standards Board (SASB) and refined for purpose by Trucost, part of S&amp;P Dow Jones Indices 
+
+and world-leading independent ESG analysts. 
+
+Procurri recognises the importance of good governance for continued growth and investors’ confidence. 
+
+Furthermore, it has set targets for the short, medium and long term to strive to improve its performance. 
+
+Analysis has identified the most significant cause of GHG emissions in Procurri operations is associated 
+
+with electricity consumption. In contrast to many companies in the IT sector, embedded energy of 
+
+equipment is not the most significant impact, as Procurri sources equipment from pre-used sources, 
+
+resulting in a net benefit carbon footprint for the products. 
+
+The Board recognises and values the importance of the ESG performance of Procurri and ultimately 
+
+oversees all ESG factors and policies.
+
+The ethos of our business is deeply entrenched in the 
+
+three Ps of the Triple Bottom Line – People, Planet and 
+
+Profit. Our businesses encourage the reuse and recycle of 
+
+enterprise hardware equipment, resulting in a net benefit 
+
+carbon footprint for the products.
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+02
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK 
+
+Identifying the impacts that are material to investors and other stakeholders is crucial for IT companies in 
+
+order to streamline available resources. At present, many companies do not have an active approach 
+
+to ESG issues. While ESG issues may be on their agenda, they are not prioritised as significantly as 
+
+they should be.
+
+Procurri recognises the importance of identifying issues important to the financial operation of its business, 
+
+as well as stakeholders, such as investors, society and customers. This report focuses on the four regional 
+
+head offices of Procurri in Singapore; Atlanta, the United States of America ("USA"); and Cirencester 
+
+and Warrington in the United Kingdom ("UK"). These are the most important sites and cover 61% of the 
+
+total employees of Procurri's global operations. The remaining 39% are widely spread across numerous 
+
+geographical bases. The one exception to be included in future years of reporting is Rockland Congruity 
+
+LLC, a 51%-owned company set up in January 2017 with its office in Boston.
+
+When considering materiality, Procurri conducted a two-phase assessment. It initially considered all 
+
+sector-level materiality to identify all issues relevant to companies operating in the sector. These themes 
+
+were identified using the SASB Hardware, Software and IT standards, investor trend review and a wider 
+
+literature review. 
+
+Sector-level materiality was identified and refined based on specific practices of the company. Many of 
+
+these issues are not applicable to Procurri due to its specific operations. To give an example, one of the 
+
+most significant causes of environmental impact in the sector is the production of the hardware itself – 
+
+including sourcing of raw materials, such as rare metals. However, as Procurri sources its equipment from 
+
+recovered units, and is essentially replacing the need for additional original equipment manufacturing, 
+
+few virgin raw materials are required. As such, the environmental footprint of equipment is not relevant 
+
+to Procurri. 
+
+Exhibit 1 highlights the material ESG issues identified for Procurri. Sector material issues that are not 
+
+relevant to Procurri, but were considered, are represented with dark grey shading, while issues that are 
+
+immaterial for the sector and operations are coloured light grey.
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+03
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK 
+
+Source: Trucost analysis with input from SASB materiality review
+
+Procurri does come into contact with data through the disposal of assets, and this is therefore reported 
+
+as relevant within the Governance section of the report. However, Procurri does not collect personal 
+
+customer data, such as home telephone numbers or home addresses, as part of its business operations 
+
+or for use in its business operations. 
+
+Exhibit 2 displays how and where these themes are reported within this report. 
+
+Material to Procurri          Material to sector but not to Procurri         Immaterial
+
+EXHIBIT 1: MATERIAL ESG ISSUES FOR PROCURRI OPERATIONS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Electricity
+
+consumption
+
+Fuel use 
+
+onsite
+
+Air
+
+quality
+
+Water
+
+withdrawn
+
+Renewable 
+
+energy 
+
+sourcing
+
+GHG 
+
+emissions
+
+Fuel
+
+management
+
+Waste
+
+avoided
+
+Biodiversity
+
+Water 
+
+scarcity
+
+Waste
+
+generation
+
+Wastewater
+
+management
+
+Waste
+
+management
+
+Hardware
+
+environmental
+
+footprint
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Community
+
+relations
+
+Employee
+
+diversity
+
+Onsite 
+
+&amp; offsite 
+
+fatalities
+
+Data security
+
+breaches
+
+Equal
+
+employment
+
+Onsite 
+
+&amp; offsite 
+
+injuries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety
+
+management
+
+Data
+
+management
+
+Supply chain 
+
+management
+
+Business
+
+ethics
+
+Board
+
+diversity
+
+Customer 
+
+data 
+
+collection
+
+/privacy
+
+Government
+
+data requests
+
+Supply Chain
+
+labour
+
+management
+
+Employee
+
+training &amp; 
+
+development
+
+ENVIRONMENT
+
+SOCIAL
+
+GOVERNANCE
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+04
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK 
+
+EXHIBIT 2: ESG METRICS AND RELEVANCE TO COMPANY REPORT
+
+TOPIC
+
+ACCOUNTING METRIC
+
+STATUS
+
+Environmental 
+
+Footprint of Site
+
+Total energy consumption, 
+
+percentage of grid electricity and 
+
+renewable energy
+
+Included, Exhibit 3, page 7
+
+Water withdrawn, percentage 
+
+recycled, percentage from regions 
+
+with High or Extremely High Baseline 
+
+Water Stress
+
+Partially included, Exhibit 3, page 7. 
+
+Water scarcity and recycling not 
+
+relevant for Procurri operations due 
+
+to small volumes and limited stress 
+
+regions
+
+Waste generated by type and 
+
+management processes
+
+Included, Exhibit 3, page 7
+
+GHG emissions, by scope
+
+Included, Exhibits 3 &amp; 4, pages 7 
+
+&amp; 8
+
+Lifecycle 
+
+Management of 
+
+Equipment
+
+Weight of products and e-waste 
+
+recovered through take-back 
+
+programs, percentage of recovered 
+
+materials that are recycled
+
+Included, page 9
+
+Data Privacy and 
+
+Data Security
+
+Discussion of policies and practices 
+
+related to collection, usage and 
+
+retention
+
+Included, page 13
+
+Amount of legal fines and settlements 
+
+paid associated with customer 
+
+privacy
+
+Included, Exhibit 11, page 13
+
+Number of data security breaches 
+
+and percentage involving customers’ 
+
+personally identifiable information
+
+Included, Exhibit 11, page 13
+
+Discussion of firm’s approach to 
+
+identifying and handling data 
+
+security and related risks
+
+Included, page 13
+
+Recruiting and 
+
+Managing a 
+
+Global, Diversified 
+
+Workforce
+
+Percentage of employees that are 
+
+foreign nationals and those that are 
+
+located in another country
+
+Not applicable; Procurri operates 
+
+across the globe and has national 
+
+and international representation   
+
+Employee training 
+
+Included, Exhibits 8 and 9, page 11
+
+Percentage of gender and racial/
+
+ethnic group representation for 
+
+executive roles and other employees
+
+Partially included, Exhibit 7, page 10 
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+05
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+ENVIRONMENTAL IMPACTS 
+
+OPERATIONAL FOOTPRINT 
+
+Procurri considers environmental responsibility to be crucial to the successful operation of its business and 
+
+operates both its UK and Singapore sites to the environmental management system standard ISO 14001, 
+
+and quality management standard ISO 9001. It has set a target to achieve these standards across US 
+
+operations within the next five years. 
+
+Procurri’s operational environmental footprint was calculated by independent ESG experts Trucost, part 
+
+of S&amp;P Dow Jones Indices. Analysis is based on onsite energy use, water use, vehicle fuel and business 
+
+travel. 
+
+For the purposes of this report, Greenhouse Gas (GHG) emissions to air are reported in line with the 
+
+Greenhouse Gas Protocol, an international corporate accounting and reporting framework developed 
+
+by the World Resources Institute and the World Business Council for Sustainable Development. The 
+
+Greenhouse Gas Protocol differentiates between direct and indirect emissions using a classification 
+
+system across 3 different scopes: 
+
+Procurri extends the life of equipment wherever possible and in 
+
+2017, conducted almost 1,780 service and maintenance jobs. 
+
+Over 388,000 items were made available for reuse in 2017.
+
+SCOPE 1
+
+includes direct emissions 
+
+from sources which 
+
+a company owns or 
+
+controls. This includes 
+
+direct emissions from fuel 
+
+combustion and industrial 
+
+processes.
+
+SCOPE 2
+
+covers indirect emissions 
+
+relating solely to the 
+
+generation of purchased 
+
+electricity that is consumed 
+
+by the owned or controlled 
+
+equipment or operations of 
+
+the company.
+
+SCOPE 3
+
+covers other indirect 
+
+emissions including  
+
+third-party provided  
+
+business travel.
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+06
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+ENVIRONMENTAL IMPACTS 
+
+OPERATIONAL FOOTPRINT 
+
+EXHIBIT 3: GROUP ENVIRONMENTAL IMPACTS
+
+ITEM
+
+UNITS
+
+QUANTITY
+
+ENERGY USE
+
+Purchased electricity
+
+kWh
+
+1,418,671
+
+Natural gas consumption
+
+kWh
+
+468,483
+
+BUSINESS TRAVEL
+
+Air – international  
+
+km
+
+ 1,842,837 
+
+Air – domestic
+
+km
+
+ 1,307,362 
+
+Private vehicle
+
+km
+
+ 302,819 
+
+Company vehicle
+
+km
+
+ 316,635 
+
+Rail
+
+km
+
+ 15,076 
+
+GREENHOUSE GASES
+
+Scope 1
+
+tCO2e
+
+144 
+
+Scope 2 (location-based)
+
+tCO2e
+
+571 
+
+Scope 2 (market-based)
+
+tCO2e
+
+720 
+
+Scope 3 
+
+tCO2e
+
+374 
+
+WATER CONSUMPTION
+
+Operational
+
+m3
+
+1,213
+
+WASTE ARISINGS
+
+Waste sent to landfill
+
+kg
+
+ 31,041 
+
+Waste recycled
+
+kg
+
+ 205,076 
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+07
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+ENVIRONMENTAL IMPACTS
+
+OPERATIONAL FOOTPRINT 
+
+EXHIBIT 4: GHG EMISSIONS BY SCOPE
+
+EXHIBIT 5: WATER CONSUMPTION BY SOURCE
+
+The majority (58%) of the captured GHG emissions were associated with purchased electricity across 
+
+the sites, though it should be noted that business travel is the only Scope 3 category included in this 
+
+assessment. If wider Scope 3 categories such as purchased goods and services, and use of products, 
+
+were included, emissions are likely to increase significantly.
+
+Procurri used only supplied water across all of its sites globally, and the majority of use was associated 
+
+with domestic requirements, such as toilets and hand basins. As such, water use was relatively low.
+
+58%
+
+SCOPE 2
+
+(MARKET- 
+
+BASED)
+
+12%
+
+SCOPE 1
+
+30%
+
+SCOPE 3
+
+Supplied water
+
+Water use (m3)
+
+1400
+
+1200
+
+1000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+Abstracted water
+
+Bottled water
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+08
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+ENVIRONMENTAL IMPACTS
+
+REUSE &amp; RECYCLING OF IT EQUIPMENT
+
+EXHIBIT 6: WASTE HIERARCHY AT PROCURRI
+
+In addition to Procurri’s own operational footprint, consideration of the environmental impact of company 
+
+activities was given. Refurbishment and reuse of equipment prolong its useful life with minimal additional 
+
+environmental cost and are the preferred approach for a sustainable solution. Procurri extends the life of 
+
+equipment wherever possible and in 2017, conducted almost 1,780 service and maintenance jobs. 
+
+Over the financial year 2017, over 388,000 items were made available for reuse. This included a 
+
+wide range of equipment and component pieces.
+
+Though details of each individual piece are not recorded, a newly manufactured single laptop or 
+
+desktop computer would typically emit approximately 160 and 210 tonnes of carbon dioxide (tCO2e), 
+
+respectively, before being used (EcoInvent, 2016)1. Although data was not collected for all sites, based 
+
+on UK activity alone, if only 5% of equipment recovered was a laptop or computer, GHG emissions 
+
+avoided would be greater than those associated with onsite fuel use and electricity use at all four offices. 
+
+When products reach a stage where this is no longer economically viable, Procurri provides a service 
+
+that ensures environmentally sound recycling into raw materials for reuse, both diverting material from 
+
+landfill and preventing detrimental impact through landfill management, and preserving resources by 
+
+avoiding virgin material extraction for new products. 
+
+WASTE PREVENTION (including REPAIR)
+
+REUSE
+
+RECYCLE
+
+OTHERS
+
+1 Based on basic models with no advanced components. Additional components would increase the carbon footprint of the unit.
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+09
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+Procurri aims to create an environment that encourages and values diversity within its workforce and 
+
+builds on the differences individuals bring. It aims to draw upon the widest possible range of views and 
+
+experiences in order to meet the changing needs of employees, clients and partners. 
+
+EMPLOYEE DIVERSITY AND INCLUSION
+
+Procurri believes diversity and inclusion: 
+
+• Are imperative to its business;
+
+• Drive its business results, enhance its reputation, and help attract, recruit, engage and retain a 
+
+diversified team of business talent; 
+
+• Mean recognising that individuals differ in all ways – nationality, religion, race, culture, gender, 
+
+education, experience, belief and ideas. These are what make all of us unique individuals; and
+
+• Enable it to leverage and value employees’ differences, believing that this will lead to greater 
+
+innovation and creativity, leading to superior business results. 
+
+As such, business activities, such as hiring, training, compensation, career progressions opportunities, 
+
+terminations and recreational events, are conducted without discrimination, based on merits and 
+
+unhampered by artificial barriers, prejudices or preferences. 
+
+Employee development is important and Procurri recognises that regular performance reviews and 
+
+training help keep staff motivated and the company successful. 
+
+SOCIAL IMPACTS 
+
+EMPLOYEE DIVERSITY &amp; INCLUSION
+
+EXHIBIT 7: GROUP DIVERSITY AND EMPLOYEE REPRESENTATION
+
+ITEM
+
+NUMBER OF EMPLOYEES
+
+PERCENTAGE
+
+GENDER OF EMPLOYEES
+
+Male
+
+178
+
+69%
+
+Female
+
+79
+
+31%
+
+AGE DIVERSITY
+
+Under 30 
+
+76
+
+29%
+
+30-50
+
+146
+
+57%
+
+Over 50
+
+35
+
+14%
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+10
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+Procurri offers a Training and Development programme to employees, including on-the-job training, as 
+
+well as training conducted by accredited institutions or organisations, where appropriate.
+
+SOCIAL IMPACTS 
+
+EMPLOYEE DIVERSITY &amp; INCLUSION
+
+HEALTH &amp; SAFETY
+
+EXHIBIT 8: EMPLOYEE DEVELOPMENT
+
+ITEM
+
+NUMBER OF 
+
+EMPLOYEES
+
+PERCENTAGE
+
+EMPLOYEE DEVELOPMENT
+
+Percentage of employees receiving regular performance 
+
+and career development reviews  
+
+257
+
+100%
+
+Employee groups not receiving reviews
+
+0
+
+0%
+
+HEALTH AND SAFETY
+
+Procurri takes the health and safety of its employees as priority. All four headquarters are governed 
+
+by workplace health and safety policies, including publishing Health and Safety Policy Statements 
+
+signed by a director, plus inclusion of health and safety monitoring within internal audits. The Singapore 
+
+headquarters is bizSAFE Level 3. 
+
+The company also carries out health and safety training at induction and annually thereafter. 
+
+ITEM
+
+NUMBER OF 
+
+EMPLOYEES
+
+PER 100 STAFF
+
+Recorded injuries  
+
+6
+
+1.7
+
+Exposure to hazardous substances
+
+0
+
+0
+
+Recorded injuries off company premises
+
+0
+
+0
+
+Exposure to hazardous substances off company premises
+
+0
+
+0
+
+EXHIBIT 9: EMPLOYEE TRAINING2
+
+EXHIBIT 10: GROUP HEALTH AND SAFETY
+
+EMPLOYEE TRAINING
+
+Hours of training given
+
+1,369
+
+Hours of training received per employee
+
+10.5
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+2 Currently not all sites collect data on number of training hours per employee; therefore only the UK data is included.
+
+11
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+SOCIAL IMPACTS 
+
+SOCIAL ENGAGEMENT
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+SOCIAL ENGAGEMENT
+
+Procurri participates in a range of community engagement and charitable activities. Activities in 2017 
+
+included a "Build a Bike" Challenge teambuilding activity, where Procurri Singapore employees had to 
+
+build a bicycle from scratch by assembling bicycle parts within two hours. The completed bicycles were 
+
+then donated to Hougang Sheng Hong Family Service Centre, a neighbourhood welfare services centre.
+
+In the UK, Procurri sponsored employee attendance at an event for the Jumbulance Trust, a charity that 
+
+makes travel possible for adults and children with disabilities or chronic illnesses. 
+
+The US office participated in the Smart Kid Program. This is run by Action Ministries and the Smart Lunch 
+
+to bring free and nutritious meals to children in need. The US team participated through cash donations, 
+
+as well as assisting with buying the ingredients, assembling the lunches and delivering them to over 60 
+
+children in the local community weekly.
+
+
+
+
+
+
+
+Procurri Singapore - Build a Bike Challenge
+
+Procurri UK - Jumbulance Trust event
+
+Procurri LLC - Smart Kid Program
+
+12
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+GOVERNANCE
+
+BOARD DIVERSITY
+
+DATA &amp; SECURITY
+
+Procurri operates with company policies of Equal Opportunities, Code of Conduct, Employee Diversity 
+
+and Inclusion, Anti-Bribery and Anti-Corruption, Grievance Process and Disciplinary Policy, all reflecting 
+
+a commitment to respect workers in both its own business and its supply chain worldwide. The following 
+
+section considers some of the key governance structures in place. 
+
+BOARD DIVERSITY
+
+The Board currently comprises five directors, three of whom are independent non-executive directors. As 
+
+independent non-executive directors make up half of the Board, the Board is able to exercise objective 
+
+judgment independently from management and no individual or small group of individuals dominate 
+
+the decisions of the Board. Currently, the Board consists of five males, with combined expertise across 
+
+a range of specialties, including finance, accounting, legal, business and industry knowledge. Procurri 
+
+provides detail of its Corporate Governance in an annual report which can be found here. 
+
+DATA AND SECURITY
+
+Procurri does not collect personal client data as part of its business operations or for use in its business 
+
+operations. Procurri comes into contact with client data as part of its IT Asset Disposition offering, when 
+
+clients entrust their end-of-life IT equipment to Procurri for testing and verification, data erasure and/or 
+
+disposal. Procurri handles these electronic equipment with utmost security and ensures data security is 
+
+maintained at all times. Telephone numbers, customer identification numbers, address details and other 
+
+personal information is destroyed as part of the IT Asset Disposition process and not stored for ongoing use. 
+
+Each region operates to local requirements and best practices, though key processes are the same. Asset 
+
+testing and verification premises are in a caged and secure location and only accessible by authorised 
+
+personnel. All storage equipment that is erased has certificates generated citing the type of erasure 
+
+standard requested. For data erasure, Singapore operations use Blancco certification, an ISO 27001-–
+
+compliant third party data erasure provider. The UK uses the ADISA ICT Asset Recovery Standard, for 
+
+which it is externally audited. 
+
+For asset disposal, the three regions use third-party vendors detailed below:
+
+• Singapore: National Environment Agency-approved vendor. 
+
+• USA: R2-certified recycler audited annually. 
+
+• UK: UK Environment Agency licensed and authorised recycler. 
+
+Specifically, and for the purposes of transparency, data security details are given below.
+
+ITEM
+
+NUMBER
+
+Number of confirmed or suspected data security breaches that occurred in 
+
+the past financial year?
+
+Nil
+
+Number of breaches that concerned the potential for personal identification 
+
+material being compromised?
+
+Nil
+
+Number of breaches that led to the company incurring fines or other 
+
+penalties and what was the value of these penalties?
+
+Nil
+
+EXHIBIT 11: DATA AND SECURITY
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+13
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+GOVERNANCE 
+
+ANTI-BRIBERY &amp; CORRUPTION POLICY
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp; REPORTING FRAMEWORK | 
+
+ANTI-BRIBERY AND CORRUPTION POLICY
+
+The Company is committed to acting lawfully, ethically and with integrity in every aspect of its business. 
+
+This policy applies to all Procurri employees, including its employees of global subsidiaries and contract 
+
+and temporary workers. Procurri operates a zero-tolerance policy towards bribery and corruption in any 
+
+situation or form. 
+
+14
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+TARGETS &amp; POLICIES
+
+Procurri is excited to be releasing its inaugural Sustainability Report for the financial year 2017. As a 
+
+business focused on providing sustainable solutions to the global waste challenge, Procurri has relatively 
+
+low ESG impact for onsite operations, but continues to target optimisation to further reduce negative 
+
+impacts and promote positive impacts. 
+
+Procurri considers responsible management of ESG issues to be critical to successful business practice. 
+
+It strives to continuously improve its ESG performance and, as such, has set a series of public targets to 
+
+achieve in the short, medium and long term. 
+
+• Formalise an Investor Relations policy by 2018.
+
+• Expand social data coverage to include employee training hours for all four regional headquarters 
+
+by 2020.
+
+• Expand ISO 14001 &amp; 9001 certification to the US office, in line with its Singapore and UK regional 
+
+headquarters, by 2022.  
+
+Procurri considers responsible management of ESG issues to 
+
+be critical to successful business practice.
+
+ENVIRONMENTAL IMPACTS | SOCIAL IMPACTS | GOVERNANCE | TARGETS &amp; POLICIES | APPENDIX
+
+15
+
+SU STAINAB ILIT Y  R EP O RT 2017
+
+
+APPENDIX 
+
+INTRODUCTION | BOARD STATEMENT | MATERIAL ESG FACTORS &amp;  REPORTING FRAMEWORK | 
+
+CALCULATING GREENHOUSE GAS EMISSIONS
+
+Different GHGs have different Global Warming Potentials (GWP)3 or abilities to contribute to rising 
+
+temperatures. Data is standardised by converting the different greenhouse gases into their carbon 
+
+dioxide equivalent according to the GWP index published by the Intergovernmental Panel on Climate 
+
+Change (IPCC)4. The index identifies the radiative effects of different GHGs in the atmosphere relative 
+
+to an equal mass of CO2 over a 100-year timeframe. GWP enables all the GHGs to be expressed in 
+
+terms of CO2 equivalents, or CO2e. Quantities of GHG emissions are derived from data on operational 
+
+and vehicle fuel consumption, electricity use and business travel. 
+
+3 Global Warming Potential (GWP) is the ratio of the warming of the atmosphere caused by one substance to that caused by a 
+
+similar mass of carbon dioxide, which is assigned a reference value of 1.
+
+4 The Intergovernmental Panel on Climate Change (IPCC) is a scientific intergovernmental body set up by the World Meteorological 
+
+Organisation (WMO) and by the United Nations Environment Programme (UNEP) with a mandate to provide an objective source 
+
+of information about climate change.
+
+16
+
+PRO C UR R I  C O R P O R AT I O N  L I MI T E D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.procurri.com
+
+PROCURRI CORPORATION LIMITED
+
+(Company Registration Number: 201306969W)
+
+(Incorporated in the Republic of Singapore on 15 March 2013)
+
+29 Tai Seng Avenue
+
+#02-01 Natural Cool Lifestyle Hub
+
+Singapore 534119
+
+
+

@@ -1,0 +1,1669 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+STAMFORD TYRES CORPORATION LIMITED
+
+SUSTAINABILITY
+
+REPORT 2018
+
+ 
+
+
+ 
+
+ 
+
+Contents  
+
+ 
+
+ 
+
+Page 
+
+Board’s statement  
+
+ 
+
+1 
+
+Reporting framework 
+
+1 
+
+Reporting period and scope 
+
+1 
+
+Feedback 
+
+1 
+
+Stakeholder engagement 
+
+1 - 2 
+
+Policy, practice and performance reporting 
+
+2 - 3 
+
+Material factors 
+
+3 - 9 
+
+Target setting 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 1 
+
+1. 
+
+Board’s statement 
+
+ 
+
+We affirm our commitment to sustainability with the publication of our maiden sustainability report (“Report”) 
+
+guided by the Global Reporting Initiative (“GRI”) Standards: Core option. For this Report, we provide insights into 
+
+the way we do business, while highlighting our environmental, social, governance (“ESG”) factors and economic 
+
+performance. 
+
+ 
+
+Whilst mindful of our profit oriented objective, we are committed to strike a balance between growth, profit, 
+
+governance, environment, the development of our people and well-being of our communities to secure the long 
+
+term future of our Group. This commitment is reflected in our sustainable business strategy and the material 
+
+ESG factors which are shown in this Report.  
+
+ 
+
+A sustainability policy (“SR Policy”) covering our sustainability strategies, reporting structure, materiality 
+
+assessment and processes in identifying and monitoring material ESG factors has been established and serves 
+
+as a point of reference in the conduct of our sustainability reporting. Under this SR Policy, we will continue to 
+
+monitor, review and update our material ESG factors from time to time, taking into account the feedback that 
+
+we receive from our engagement with our stakeholders, organizational and external developments. 
+
+ 
+
+2. 
+
+Reporting framework 
+
+ 
+
+In preparing this sustainability report, we were guided by the Global Reporting Initiative (“GRI”) Standards: Core 
+
+option. 
+
+ 
+
+3. 
+
+Reporting period and scope 
+
+ 
+
+This Report is applicable for our financial year from 1 May 2017 to 30 April 2018 (“FY2018”) and supplements 
+
+our Annual Report 2018, a copy of which can be found in our corporate website http://www.stamfordtyres.com/. 
+
+A sustainability report will be published annually in accordance with our SR Policy.  
+
+ 
+
+This Report covers the key operating entities within the Group which contributed approximately 93% of the 
+
+Group’s total revenue for the reporting period. 
+
+ 
+
+4. 
+
+Feedback  
+
+ 
+
+We welcome feedback from all stakeholders on this Report. You may send related questions, comments, 
+
+suggestions or feedback to our investor relations email account: weisze@stamfordtyres.com or 
+
+siti@stamfordtyres.com 
+
+ 
+
+5. 
+
+Stakeholder engagement 
+
+ 
+
+Our efforts on sustainability are focused on creating sustainable value for our key stakeholders, which comprise 
+
+communities, customers, employees, regulators, shareholders and suppliers. Key stakeholders are determined 
+
+for each material factor identified, based on the extent of which they can affect or are affected by our operations.  
+
+ 
+
+We actively engage our key stakeholders through the following channels:  
+
+S/N 
+
+Key stakeholder 
+
+Engagement channel 
+
+1 
+
+Community 
+
+We focus on continuous community engagement through close monitoring of 
+
+local developments through mass media and dialogues where practicable. 
+
+2 
+
+Customer 
+
+Customers, comprised mainly retailers or sub-distributors, are encouraged to 
+
+provide their feedback and feedback obtained is reviewed and relevant follow-up 
+
+actions are taken to better serve them. Regular meetings and communications 
+
+are made with customers to ensure that the Group remains connected with the 
+
+customers. 
+
+3 
+
+Employee 
+
+Senior management holds regular communication sessions with employees to 
+
+obtain feedback and alignment of business goals across all levels of workforce. 
+
+Such communication channels include emails and staff evaluation sessions 
+
+where employees can pose questions in person. 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 2 
+
+
+
+
+
+S/N 
+
+Key stakeholder 
+
+Engagement channel 
+
+4 
+
+Regulator 
+
+We participate in consultations and briefing organised by key regulatory bodies 
+
+such as SGX-ST so as to furnish feedback on proposed regulatory changes that 
+
+impact our business. 
+
+5 
+
+Shareholder 
+
+We convey timely, full and credible information to shareholders through 
+
+announcements on SGXNET, our website (http://www.stamfordtyres.com), 
+
+investor 
+
+relations 
+
+email 
+
+account 
+
+(weisze@stamfordtyres.com 
+
+or 
+
+siti@stamfordtyres.com), annual general meetings, annual reports, and other 
+
+channels such as business publications and investors’ relation events. 
+
+6 
+
+Supplier 
+
+We work closely with our suppliers to ensure smooth delivery of products. In 
+
+general, new suppliers are screened in accordance with the Group’s purchasing 
+
+policies and existing suppliers are assessed by respective work teams based on 
+
+specified criteria. Feedback is also provided by the procurement teams to 
+
+suppliers to ensure standards of products or services delivered by suppliers. 
+
+ 
+
+Through the above channels, we seek to understand the views of key stakeholders, communicate effectively 
+
+with them and respond to their concerns.  
+
+ 
+
+6. 
+
+Policy, practice and performance reporting 
+
+ 
+
+6.1 
+
+Reporting structure 
+
+ 
+
+Our sustainability strategy is developed and directed by the senior management in consultation with the Board 
+
+of Directors. The Group’s Sustainability Committee, which includes senior management executives, is led by our 
+
+Executive Director, and tasked to develop the sustainability strategy, review our material impacts, consider 
+
+stakeholder priorities and set goals and targets, as well as collect, verify, monitor and report performance data 
+
+for this Report. 
+
+ 
+
+6.2 
+
+Sustainability reporting processes 
+
+ 
+
+Under our SR policy, our sustainability process begins with the identification of relevant factors. Relevant factors 
+
+are then prioritized as material factors which are then validated. The end result of this process is a list of material 
+
+factors disclosed in this Report. Processes involved are as shown in the chart below: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6.3 
+
+Materiality assessment 
+
+ 
+
+Under our SR Policy, each sustainability factor is assigned a reporting priority that determines the actions 
+
+required as illustrated in the table below: 
+
+ 
+
+
+
+
+
+Prioritization of the material factors and identification of material sustainability factors to 
+
+be reported 
+
+Validation involves the verification of information and data gathered on material factors 
+
+and to perform an assessment on the completeness of material sustainability factors to 
+
+finalize the sustainability report content 
+
+Monitor, review and update our material factors from previous reporting period, taking into 
+
+account the feedback received from engagement with stakeholders, organizational and 
+
+external developments 
+
+Identification 
+
+Prioritization 
+
+Validation 
+
+Review 
+
+Identification of the material factors that are relevant to our activities and data points for 
+
+performance reporting  
+
+ 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 3 
+
+Reporting priority 
+
+Description 
+
+Criteria 
+
+I 
+
+High 
+
+Factors with high reporting priority are reported on in detail. 
+
+II 
+
+Medium 
+
+Factors with medium reporting priority are considered for inclusion in 
+
+the Report. They may not be included in this Report if not material. 
+
+III 
+
+ 
+
+Low 
+
+Factors with low reporting priority may be reported to fulfil regulatory or 
+
+other reporting requirements. They are not included in this Report if not 
+
+material.  
+
+ 
+
+The reporting priority is supported by a material factor matrix which considers the level of concern to external 
+
+stakeholders and potential impact on business.   
+
+ 
+
+7 
+
+Material factors  
+
+ 
+
+Our materiality assessment performed for FY2018 involved the Group’s Senior Management in identifying 
+
+sustainability factors deemed material to our businesses and our stakeholders so as to allow us to channel our 
+
+resources judiciously to create sustainable value for our stakeholders. Presented below are a list of material 
+
+sustainability factors applicable to our Group: 
+
+S/N 
+
+Material factor  
+
+Reporting 
+
+priority 
+
+Key stakeholder 
+
+Social 
+
+1 
+
+Equality and diversity in the workplace 
+
+I 
+
+Employee 
+
+2 
+
+Employee retention 
+
+I 
+
+Employee 
+
+3 
+
+Safe working environment 
+
+II 
+
+Employee 
+
+4 
+
+Commitment to quality products 
+
+I 
+
+Customer, supplier 
+
+Environmental 
+
+5 
+
+Energy conservation  
+
+II 
+
+Community, shareholder 
+
+6 
+
+Water conservation and waste water treatment 
+
+III 
+
+Community, shareholder, regulator 
+
+7 
+
+Waste optimization 
+
+II 
+
+Community, shareholder, regulator 
+
+Economic 
+
+ 
+
+8 
+
+Sustainable business performance 
+
+I 
+
+Shareholder 
+
+9 
+
+Proactive anti-corruption practices 
+
+II 
+
+Shareholder, regulator 
+
+Governance 
+
+ 
+
+10 
+
+Robust corporate governance framework 
+
+II 
+
+Shareholder, regulator 
+
+ 
+
+We will update the material factors on an annual basis to reflect changes in business operations, environment, 
+
+stakeholder’s feedback and sustainability trends. The details of each material sustainability factor are presented 
+
+as follows: 
+
+ 
+
+7.1 
+
+Equality and diversity in the workplace 
+
+ 
+
+We are committed to the goals of diversity and equal opportunity in employment by providing a work environment 
+
+for our employees that fosters fairness, equity and respect for social and cultural diversity, regardless of their 
+
+gender, age and educational background. The total number of full-time employees within the Group as at 30 
+
+April 2018 is 1,021. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Our Board 
+
+Our People 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 4 
+
+On gender diversity, we view diversity on the Board level as 
+
+an essential element in supporting sustainable development 
+
+with two female Board members. The percentage of female 
+
+to total permanent employees is 26% and about 34% of 
+
+managers are females as at 30 April 2018.  
+
+ 
+
+On age diversity, matured workers are valued for their 
+
+experience knowledge and skills. As at 30 April 2018, 35% 
+
+of our workforce is at least 40 years old.  
+
+ 
+
+On diversity in educational background, we seek to create 
+
+an inclusive environment for our employees from different 
+
+educational background. The distribution of staff by 
+
+educational level is shown in the following chart. 
+
+ 
+
+To promote equal opportunity, we have implemented various 
+
+human resource measures as follows: 
+
+ 
+
+A human resource policy is in place to recruit and 
+
+promote employees based on merit and competency 
+
+ 
+
+Staff assessment is performed regularly to evaluate the 
+
+performance of staff and provides staff with sense of 
+
+self-awareness to undertake training that will improve 
+
+their skills and abilities 
+
+ 
+
+Staff recruitment advertisements do not state age, race, 
+
+gender or religion preferences as requirement 
+
+ 
+
+ 
+
+ 
+
+ Gender diversity (as at 30 April 2018) 
+
+
+
+
+
+Total number 
+
+of managers 
+
+96 
+
+
+
+
+
+Total number 
+
+of employees 
+
+1,021 
+
+ 
+
+Age diversity (as at 30 April 2018) 
+
+Educational diversity (as at 30 April 2018) 
+
+
+
+
+
+Total number 
+
+of employees 
+
+1,021 
+
+
+
+
+
+Total number 
+
+of employees 
+
+1,021 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 5 
+
+7.2 
+
+Employee retention 
+
+ 
+
+The continual success of our business relies on a team of professional, skilled and experienced staff and 
+
+managers. We are committed to employee retention through the following efforts: 
+
+ 
+
+a. Performance based rewards  
+
+We recognize employees are key to sustainability and therefore aims to reward employees that are capable and 
+
+dedicated. Under the Group’s performance share plan for managerial level employees, rewards in the form of 
+
+shares are granted to key employees to align their interests with that of the Group. The share plan is subject to 
+
+the review and approval by an independent Remuneration Committee and the Board of Directors.  
+
+ 
+
+b. Systematic internal human resource processes 
+
+Human resource processes related to employee retention includes: 
+
+ 
+
+An employee handbook is in place to provide guidance on 
+
+employee benefits and disseminate corporate culture  
+
+ 
+
+Employees are engaged regularly via various channels such as 
+
+the appraisal exercise which allows employees to gain feedback 
+
+on their career progress  
+
+ 
+
+In-house and external training courses are organized regularly 
+
+for employees to improve their professional skills. For example, 
+
+a systematic training program is in place in Thailand to equip 
+
+sales staff with the needed product and service knowledge 
+
+ 
+
+We believe a low turnover improves the sustainability of operations 
+
+and allows us to contribute positively to the development of social 
+
+and human capital in a wider community. As at 30 April 2018, 63% 
+
+of the employees have more than 3 years of service with us.  
+
+ 
+
+7.3 
+
+Safe working environment 
+
+ 
+
+In our Group’s daily operations, the workers are required to handle heavy lifting equipment such as forklift to 
+
+transfer inventories. For the wheel factory in Thailand, workers also operate in a high temperature environment 
+
+and use of chemicals such as paints. Given the nature of activities and operating environment, we are 
+
+committed to maintain a safety-conscious culture amongst our employees. 
+
+ 
+
+The measures implemented to manage health and safety in the 
+
+workplace environment are as follows:  
+
+ 
+
+A set of safety rules and regulations is in place 
+
+ 
+
+A safety committee is in place and safety inspections are 
+
+performed regularly by safety officers and reported to 
+
+senior managers 
+
+ 
+
+All new employees are briefed on safety procedures during 
+
+orientation 
+
+ 
+
+Regularly track and monitor accidents at the workplace and 
+
+corrective action plans are established to prevent 
+
+recurrences of the accidents 
+
+ 
+
+A dedicated first-aid room is maintained at the wheel 
+
+factory in Thailand to provide immediate and effective 
+
+medical treatment to workers or others who sustain injuries 
+
+at the location 
+
+ 
+
+The Group recorded zero workplace fatality during the reporting period and 10 non-fatal workplace injuries1, 
+
+resulting in 469 man-days lost during the reporting period. The non-fatal workplace injuries mainly related to 
+
+hand and leg injuries. We will continuously work towards reducing both the occurrence and severity of workplace 
+
+accidents. 
+
+ 
+
+ 
+
+ 
+
+1 A workplace accident is defined as one when an employee is injured in a work accident which resulted in (i) hospitalisation 
+
+for at least 24 hours and/or (ii) medical leave of more than 3 days (regardless if the medical leave is consecutive)  
+
+ 
+
+
+
+First-aid room in our Thailand wheel factory 
+
+Years of service (as at 30 April 2018) 
+
+
+
+
+
+Total 
+
+number of 
+
+employees 
+
+1,021 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 6 
+
+
+
+
+
+
+
+7.4 
+
+Commitment to quality products 
+
+ 
+
+We are committed to deliver the best to our customers by 
+
+providing them with quality and safe products for our long 
+
+term business sustainability.  Our proprietary brands 
+
+comprise:   
+
+ Sumo Firenza and Sumo Tire brands for tyres which are 
+
+produced by selected contracted manufacturers (“CMS”) 
+
+located in Asia 
+
+ Stamford Sport Wheels, or SSW brand for alloy wheels 
+
+which are designed, manufactured and tested in our 
+
+wheel factory located in Thailand 
+
+ 
+
+The key measures on quality and safety are as follows: 
+
+ 
+
+a. 
+
+Adoption of market standards on product quality and 
+
+safety 
+
+To maintain product quality and safety, our suppliers and 
+
+wheel factory are certified under internationally recognized 
+
+quality standards with details as follows:  
+
+ 
+
+ 
+
+ 
+
+b. Robust quality control processes   
+
+To uphold a high standard on product quality and safety, we have implemented the following operational 
+
+measures:  
+
+ 
+
+A manufacturing management policy is in place for compliance with the production standards 
+
+ 
+
+A procurement policy is in place to ensure procurement teams work closely with suppliers to comply with 
+
+the Group’s requirements 
+
+ 
+
+Strategic suppliers are regularly evaluated through measures such as annual assessments, sampling 
+
+tests and visits to suppliers’ premises 
+
+ 
+
+The production lines are supported by a team of experienced engineers and designers to provide quality 
+
+assurance for the products 
+
+ 
+
+During the reporting period, there was no safety related defect which resulted in an accident that caused injury 
+
+to a customer. 
+
+ 
+
+7.5 
+
+Energy conservation 
+
+ 
+
+We are committed to responsible usage of energy to preserve the environment in which we operate in. Our 
+
+operations consume energy mainly for the following purposed:  
+
+ 
+
+Electricity for machineries used in the manufacturing of aluminium alloy wheels and equipment used in 
+
+our offices  
+
+ 
+
+Liquefied petroleum gas (“LPG”) for machineries used in the manufacturing of aluminium alloy wheels, 
+
+specifically for wheel casting  
+
+ 
+
+Fuel for operating motor vehicles such as trucks and forklifts  
+
+ 
+
+ 
+
+ 
+
+Production 
+
+line 
+
+Brand 
+
+Key standards adopted  
+
+Certification Center 
+
+CMS 
+
+Sumo Firenza, 
+
+Sumo Tire 
+
+ECE certification 
+
+TUV Rheinland,  TUV SUD 
+
+Wheel 
+
+factory  
+
+SSW 
+
+ISO/TS 16949:2002 
+
+TUV Rheinland 
+
+ISO 9001: 2000 
+
+Vehicle Inspection Association, Japan 
+
+GOST certification 
+
+Euro-Asian Council &amp; CIS for 
+
+Standardization, Metrology and 
+
+Certification 
+
+Our brands 
+
+ 
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 7 
+
+Key statistics on energy usage during the reporting period are as follows: 
+
+S/N 
+
+Energy 
+
+Total amount of 
+
+consumption 
+
+Total sales 
+
+(SGD’000) 
+
+Intensity 
+
+Consumption/ Sales ‘000 
+
+1 
+
+Electricity 
+
+16,209,524 kWh 
+
+225,489 
+
+71.9 
+
+2 
+
+LPG2 
+
+2,065,546 kg 
+
+13,213 
+
+156.3 
+
+3 
+
+Fuel  
+
+892,389 litre 
+
+225,489  
+
+4.0 
+
+ 
+
+We believe that responsible usage of energy resource results in lesser emissions and thus helps to preserve 
+
+the environment. It also reduces our costs and enhances returns to shareholders. Key initiatives on this front 
+
+are as follows:  
+
+ 
+
+A systematic maintenance program for operating equipment is in place to maintain energy efficiency  
+
+ 
+
+Energy consumption is regularly tracked and analysed. Corrective actions are taken when usual 
+
+consumption patterns are observed 
+
+ 
+
+7.6 
+
+Water conservation and waste water treatment 
+
+We recognize the importance to effectively 
+
+manage water consumption as valuable 
+
+water resources may be depleted and 
+
+pollution may occur if water consumption and 
+
+waste water treatment are not managed 
+
+properly. 
+
+To 
+
+achieve 
+
+effective 
+
+water 
+
+management, we are committed to minimize 
+
+consumption and manage waste water 
+
+quality. This factor is primarily applicable to 
+
+our wheel manufacturing operations located 
+
+in Thailand with details as follows: 
+
+ 
+
+a. Water conservation 
+
+Process description 
+
+Total amount of 
+
+consumption 
+
+Cu M 
+
+Total sales 
+
+(SGD’000) 
+
+Intensity 
+
+Consumption/ Sales  
+
+Cu M/ SGD ‘000 
+
+Used in cooling and washing purposes 
+
+such as in cooling towers, heat treatment 
+
+quenching 
+
+baths, 
+
+casting 
+
+hydraulic 
+
+systems, machining coolant, painting 
+
+pre-treatment and basic washing of 
+
+wheels before applying paint.  
+
+228,912 
+
+225,489 
+
+1.0 
+
+ 
+
+Water conservation measures adopted by our wheel factory include the following: 
+
+ 
+
+A systematic maintenance program is implemented for operating equipment to maintain water efficiency 
+
+ 
+
+Water consumption trends are regularly tracked and analysed. Corrective actions are taken where there 
+
+are unusual consumption patterns 
+
+ 
+
+b. Waste water treatment  
+
+Waste water comprised coolant oil and paint sludge generated from the manufacturing process as follows: 
+
+Description 
+
+Source 
+
+Coolant oil 
+
+Generated from the machining process, which is a mixture of oil, coolant chemical and 
+
+water 
+
+Paint sludge 
+
+Generated from the painting process, which is a mixture of water, paint chemical, thinner, 
+
+and other particles captured by the water curtains inside the painting booths 
+
+ 
+
+During the reporting period, the wheel factory generated 15,635 tonnes of waste water. Measures taken to 
+
+manage water quality include ensuring that waste water is processed by our own water treatment plants before 
+
+it is released into the waterways and conducting sampling checks to inspect water quality. During the reporting 
+
+period, 100% of waste water generated from our wheel factory was treated by our own water treatment plant. 
+
+ 
+
+2 LPG is consumed mainly by our wheel factory operations.      
+
+
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 8 
+
+
+
+
+
+7.7 
+
+Waste optimization 
+
+ 
+
+We are committed to environmental preservation through reuse and recycling to allow the Group to operate in a 
+
+sustainable environment.  
+
+ 
+
+The main waste materials generated from our operations are the aluminium chips from wheel production. All 
+
+aluminium chips from production are collected for outsource recycling. As at 30 April 2018, 90% of the 
+
+aluminium chips generated from production was recycled.   
+
+ 
+
+In addition, we are actively involved in recycling of used tyres through our retreading plants located in Singapore, 
+
+Malaysia and Indonesia. The retreading plants serve to extend the life span of tyres thus saving valuable natural 
+
+resources used in the production of tyres. Whilst preserving the environment, we also ensure all retreaded tyres 
+
+are rigorously inspected to ensure quality and safety. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.8 
+
+Sustainable business performance 
+
+ 
+
+We believe in creating long-term economic value for shareholders by rewarding shareholders by way of consistent 
+
+profits and dividend payments. 
+
+ 
+
+In FY2018, the Group recorded revenue of SGD 247.9 million and generated SGD 5.2 millions of net profit for 
+
+the period attributable to equity holders of the Company. A final tax-exempt dividend of SGD 1.0 cents per 
+
+ordinary share was declared for FY2018. 
+
+ 
+
+Details of the Group’s economic performance can be found in the financial contents and audited financial 
+
+statements of the Annual Report 2018. 
+
+ 
+
+7.9 
+
+Proactive anti-corruption practices 
+
+ 
+
+We are committed to carry out business with integrity by avoiding corruption in any form, including bribery, and 
+
+complying with the Prevention of Corruption Act of Singapore.  
+
+ 
+
+An employee handbook is in place to provide guidance to our employees on areas such as conduct in workplace, 
+
+business conduct, confidentiality of information and conflict of interest. 
+
+ 
+
+We have implemented a whistle blowing policy to provide a mechanism for employees to raise concerns through 
+
+accessible confidential disclosure channels about possible improprieties in matters of financial reporting and 
+
+others. In FY2018, no serious offence was reported3. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 A serious offence is defined as one that involves fraud or dishonesty amounting to not less than SGD 100,000 and punishable 
+
+by imprisonment for a term of not less than 2 years which is being or has been committed against the company by officers or 
+
+employees of the company. 
+
+
+
+Retreading process 
+
+Retreaded tyres  
+
+Used tyres  
+
+
+
+
+
+
+Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 9 
+
+7.10 Robust corporate governance framework 
+
+ 
+
+We are committed to high standards of corporate governance and believes a high standard of corporate 
+
+governance is integral in ensuring sustainability of our business as well as safeguarding shareholders’ interests 
+
+and maximizing long-term shareholder’s value.  
+
+ 
+
+Our overall Singapore Governance and Transparency Index (“SGTI”) score assessed by National University of 
+
+Singapore Business School was 66 for year 2018. This placed us within the top 30 percentile of the public listed 
+
+companies that were assessed. 
+
+ 
+
+The Board and Management firmly believe that the success of our quest for good governance lies in putting in 
+
+place an effective framework of risk management and internal controls that is aligned with market standards 
+
+and best practices. Refer to the Corporate Governance Report of the Annual Report 2018 for details for our 
+
+corporate governance practices. 
+
+ 
+
+8. 
+
+Target setting 
+
+ 
+
+We are in the process of compiling performance data to form a trend for the purpose of setting targets on the 
+
+Material Factors as described above. Accordingly, the process of target setting is deferred till a time when 
+
+adequate data is available to set reasonable targets. 
+
+ 
+

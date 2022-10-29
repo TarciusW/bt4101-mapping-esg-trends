@@ -1,0 +1,3858 @@
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+1 
+
+ 
+
+Contents 
+
+1. ISEC Healthcare Performance Highlights ............................................................................................ 2 
+
+2. About ISEC Healthcare Ltd.  ................................................................................................................ 2 
+
+3. About the Report  ............................................................................................................................... 3 
+
+4. Board Statement ................................................................................................................................. 3 
+
+5. Sustainability at ISEC Healthcare ........................................................................................................ 4 
+
+5.1. Sustainability Governance ........................................................................................................... 4 
+
+5.2. Stakeholder Engagement ............................................................................................................. 5 
+
+5.3. Materiality Assessment ................................................................................................................ 7 
+
+5.4. Contributing to the UN Sustainable Development Goals ............................................................ 8 
+
+6. Social: Providing World-class Service to Our Patients ...................................................................... 12 
+
+6.1. Excellent Service Quality ............................................................................................................ 12 
+
+6.2. Supply Chains of ISEC KL and SSEC ............................................................................................. 14 
+
+7. Social: Developing a High-Performing Workforce ............................................................................ 14 
+
+7.1. Employee Demographics ........................................................................................................... 14 
+
+7.2. Training and Development......................................................................................................... 16 
+
+7.3. Occupational Health and Safety ................................................................................................ 18 
+
+8. Governance: Corporate Governance ................................................................................................ 19 
+
+8.1. Enterprise Risk Management ..................................................................................................... 20 
+
+8.2. Protection of Personal Data and Security of Information ......................................................... 21 
+
+9. Environment: Caring for the Environment........................................................................................ 22 
+
+9.1. Energy and Carbon Footprint ..................................................................................................... 22 
+
+9.2. Waste Management .................................................................................................................. 22 
+
+10. GRI Content Index ........................................................................................................................... 24 
+
+ 
+
+
+2 
+
+ 
+
+1. ISEC Healthcare Performance Highlights 
+
+As of 31 December 2019,   
+
+ 
+
+2. About ISEC Healthcare Ltd.  
+
+Listed on the Catalist board of the Singapore Exchange Securities Trading Limited (“SGX”), ISEC 
+
+Healthcare Ltd. (“ISEC Healthcare” and together with its subsidiaries, the “Group”) is an established 
+
+regional provider of a comprehensive suite of medical eye care services with ambulatory surgical 
+
+centres. Led by a team of specialist doctors, who are also opinion leaders in their respective sub-
+
+specialty fields, the Group provides patients with attentive and advanced treatments at its well-
+
+equipped eye centres that are fitted with state-of-the-art ophthalmic equipment and facilities. Besides 
+
+investing in the latest medical technologies, its doctors undergo continuous professional development 
+
+and medical education to offer patients the highest standards of ophthalmic care.   
+
+In 2019, ISEC Healthcare became a subsidiary of Aier Eye International (Singapore) Pte. Ltd. (“Aier 
+
+Eye”) following the latter’s acquisition of a 56.53% stake in ISEC Healthcare. Aier Eye is a wholly-owned 
+
+subsidiary of Aier Eye Hospital Group Co., Ltd., a company incorporated in the People’s Republic of 
+
+China, listed on the Shenzhen Stock Exchange. 
+
+Figure 1: Location of ISEC Healthcare Ltd. Clinics 1 
+
+ 
+
+1 On 27 February 2020, the Group acquired Indah Specialist Eye Centre Sdn. Bhd., a multiple sub-specialties 
+
+eye centre based in Johor.  
+
+
+
+1 
+
+
+
+
+3 
+
+ 
+
+In Malaysia, ISEC Kuala Lumpur (“ISEC KL”) was the first clinic in Southeast Asia and Far East region to 
+
+receive the Joint Commission International (“JCI”) accreditation in 2009, which is recognised as the 
+
+gold standard for healthcare quality and patient safety practices. ISEC KL has been maintaining its JCI 
+
+accreditation since then.  
+
+In Singapore, ISEC Eye Pte. Ltd. (“ISEC Eye”) provides specialist medical ophthalmology to Asia Pacific 
+
+Eye Centre (formerly known as “Lee Ming Hung Eye Centre”) located at Gleneagles Hospital. In 2016, 
+
+the Group expanded its healthcare services to include general medical services and aesthetics 
+
+treatment services, with the acquisition of JLM Companies comprising four clinics located in the 
+
+heartlands of Singapore. JLM Companies consist of JL Medical (Bukit Batok) Pte. Ltd., JL Medical 
+
+(Sembawang) Pte. Ltd., JL Medical (Woodlands) Pte Ltd. and JL Medical (Yew Tee) Pte. Ltd.. The Group 
+
+further expanded this business segment in 2018 with the acquisition of a 25.0% stake in I Medical &amp; 
+
+Aesthetics Pte. Ltd. (“I Medical &amp; Aesthetics”), increasing its portfolio of general practitioner clinics 
+
+from four to five.   
+
+In 2019, the Group opened its first clinic in Yangon, Myanmar, through a joint venture agreement 
+
+entered in May 2018 with three independent third parties, namely Next Tier International Company 
+
+Limited (“Next Tier”), Daw Pyae Pyae Thein and Dr. Khin Khin Win (“Dr Win”) (collectively, the “JV 
+
+Partners”). The clinic in Yangon will operate and administer ophthalmology centres and provide 
+
+medical consultations and services in Myanmar. 
+
+  
+
+ISEC Healthcare will continue to seek suitable opportunities in the markets in China, Indonesia, 
+
+Myanmar and Vietnam while expanding our existing operations in Singapore, Malaysia and Myanmar.  
+
+3. About the Report  
+
+ISEC Healthcare is pleased to present its third Sustainability Report which has been prepared in 
+
+accordance with SGX’s Sustainability Reporting Guideline and Global Reporting Initiative (“GRI”) 
+
+Standards – “Core” reporting requirements. As an internationally recognised standard, the GRI 
+
+Standards enables us to achieve comprehensive and comparable disclosure of environmental, social 
+
+and governance (“ESG”) performance. 
+
+This report covers the policies, practices and performance of key ESG for the period from 1 January to 
+
+31 December 2019 (“FY2019”). In this report, ISEC Healthcare has expanded its reporting scope to 
+
+include two more of our centres in Malaysia; namely, ISEC KL and Southern Specialist Eye Centre, 
+
+Malacca (“SSEC”). Comparative data for FY2018 was presented in this report, where appropriate. ISEC 
+
+Healthcare will continue to improve its data collection systems and expand the reporting scope to 
+
+include other clinics as its reporting matures.  
+
+4. Board Statement 
+
+ 
+
+The Board of Directors (the “Board”) of ISEC Healthcare has delegated the responsibility of identifying, 
+
+assessing and documenting material business risks including ESG risks to the Sustainability Steering 
+
+Committee. Material ESG factors would be validated by the Board. The Board maintains oversight on 
+
+the management and monitoring of the material ESG factors at ISEC Healthcare.  
+
+This year, ISEC Healthcare reinforces its commitment through the adoption of the United Nations 
+
+Sustainable Development Goals (“UN SDGs”). Guided by external sustainability consultants, the 
+
+Management has evaluated current initiatives and mapped them with relevant SDGs. ISEC Healthcare 
+
+strives to conduct its business in a responsible manner, so as to minimise its impacts on the 
+
+environment and society at large.  
+
+
+4 
+
+ 
+
+5. Sustainability at ISEC Healthcare 
+
+5.1. Sustainability Governance  
+
+The Board provides oversight and strategic formulation to achieve ISEC Healthcare’s vision and 
+
+mission. The Board comprises independent, executive, and non-executive and non-independent 
+
+directors with core competencies in fields of medical, accounting and finance, and professional legal 
+
+services. 
+
+Established in FY2017, the Sustainability Steering Committee (“SSC” or the “Committee”) assisted the 
+
+Board to oversee the implementation of sustainability initiatives across the operations at ISEC 
+
+Healthcare.  
+
+The SSC is made up of the CEO, Group Risk Officer, General Manager and various Head of Departments 
+
+(“HODs”). SSC steers and manages the sustainability initiatives carried out by the various data owners 
+
+working alongside the respective HODs. The Committee provides updates on sustainability 
+
+performance and sustainability reporting for approval by the Board. Sustainability performance is 
+
+conveyed from various data owners to the SSC, which is then presented to the Board through the 
+
+Sustainability Report.
+
+
+
+Figure 2: Sustainability Governance Structure 
+
+
+5 
+
+ 
+
+5.2. Stakeholder Engagement  
+
+Effective stakeholder engagement is fundamental to understand each stakeholder’s interests and concerns. This understanding would enable ISEC Healthcare 
+
+to focus on the appropriate matters and allocate requisite resources to meet stakeholders’ interests. At ISEC Healthcare, stakeholders’ interests are taken 
+
+into account at every business decision. The Management has identified six groups of stakeholders that are key to our business operations. In light of the 
+
+recent developments of COVID-19 and Malaysia’s Movement Control Order (“MCO”), we have updated some of the responses and engagement methods. 
+
+The table below shows further details of engagement methods, frequency and responses.  
+
+Table 1: Stakeholder Engagement 
+
+Key 
+
+Stakeholders 
+
+Basis of identifying and 
+
+selecting 
+
+Engagement Methods 
+
+Frequency of 
+
+Engagement 
+
+Stakeholders’ Concerns 
+
+ISEC Healthcare’s Response 
+
+to Stakeholders’ Concerns 
+
+Customers 
+
+Customers’ satisfaction is the 
+
+key to ISEC Healthcare’s 
+
+business sustainability. 
+
+• 
+
+Customer feedback 
+
+through feedback forms 
+
+• 
+
+Customer reviews through 
+
+ISEC KL’s and SSEC’s 
+
+Facebook 
+
+• 
+
+One-on-one meetings 
+
+• Periodic 
+
+• Ongoing  
+
+• When required 
+
+• 
+
+Service quality 
+
+• 
+
+Duration of waiting 
+
+time 
+
+• 
+
+Pricing of products 
+
+and services  
+
+• 
+
+Treatment outcome 
+
+• 
+
+Implementation of 
+
+appointment and queue 
+
+system 
+
+• 
+
+Competitive pricing 
+
+• 
+
+Pre-treatment 
+
+counselling  
+
+Employees 
+
+and Workers 
+
+As a service provider, ISEC 
+
+Healthcare’s staff are the key 
+
+contact to customers and 
+
+business partners. 
+
+• 
+
+Performance appraisal 
+
+• 
+
+Town hall meetings 
+
+• 
+
+Other ad-hoc meetings  
+
+• Semi-annual 
+
+• Periodic  
+
+• When required 
+
+• 
+
+Career development 
+
+• 
+
+Remuneration  
+
+• 
+
+Work life balance  
+
+ 
+
+• 
+
+Performance appraisals 
+
+and reward system 
+
+• 
+
+Coaching and training 
+
+• 
+
+Regular communication 
+
+between Heads of 
+
+Departments and staff 
+
+Government 
+
+ 
+
+Healthcare industry is highly 
+
+regulated; therefore, 
+
+understanding government’s 
+
+requirements and ensuring 
+
+compliance is imperative to 
+
+maintain the Group’s clinics’ 
+
+licenses to operate. 
+
+ 
+
+• 
+
+Consultation with 
+
+authorities 
+
+• 
+
+Feedback on government’s 
+
+policies and regulations 
+
+• Periodic 
+
+• Ongoing  
+
+• 
+
+Compliance to rules 
+
+and regulations 
+
+• 
+
+Monitor relevant 
+
+regulatory 
+
+developments 
+
+• 
+
+Ensure compliance to 
+
+the regulatory 
+
+requirements 
+
+
+6 
+
+ 
+
+Key 
+
+Stakeholders 
+
+Basis of identifying and 
+
+selecting 
+
+Engagement Methods 
+
+Frequency of 
+
+Engagement 
+
+Stakeholders’ Concerns 
+
+ISEC Healthcare’s Response 
+
+to Stakeholders’ Concerns 
+
+Local 
+
+Communities 
+
+ISEC Healthcare strives to 
+
+raise awareness on eye 
+
+health and contribute to 
+
+local community’s 
+
+development 
+
+• 
+
+Raising awareness through 
+
+eye tests  
+
+• 
+
+Charity clinic  
+
+• 
+
+Educational talks 
+
+• 
+
+Pro-bono teaching and 
+
+training to optometrist 
+
+students 
+
+• 
+
+Educational eye 
+
+care/health videos 
+
+through Facebook 
+
+• Periodic 
+
+• Ongoing  
+
+• 
+
+Public education on 
+
+eye health 
+
+• 
+
+Affordable treatment 
+
+for eye ailments 
+
+• 
+
+Keep abreast of 
+
+community interests in 
+
+eye health 
+
+• 
+
+Facilitate interaction 
+
+through online methods 
+
+(i.e use of social media 
+
+platforms)  
+
+Shareholders 
+
+Shareholders are essentially 
+
+the owners of ISEC 
+
+Healthcare and therefore an 
+
+important stakeholder group 
+
+in ISEC Healthcare’s 
+
+operations and decision-
+
+making. 
+
+• 
+
+Annual General Meeting  
+
+• 
+
+Financial results 
+
+announcements 
+
+• 
+
+Face-to-face meetings 
+
+• Annual 
+
+• Quarterly 
+
+• When required 
+
+• 
+
+Financial performance 
+
+• 
+
+Business growth 
+
+• 
+
+Liquidity 
+
+• 
+
+Dedicated investor 
+
+relations section on 
+
+corporate website with 
+
+access to annual reports 
+
+and press releases 
+
+• 
+
+Announcements on 
+
+SGXNet and corporate 
+
+website 
+
+• 
+
+One-on-one or small 
+
+group meetings with 
+
+analysts and investors 
+
+Suppliers 
+
+Good working relationship 
+
+with suppliers helps to 
+
+ensure punctual supply and 
+
+support at competitive prices 
+
+• 
+
+Regular meetings with 
+
+suppliers to provide  
+
+feedback on quality of 
+
+products and services 
+
+• Periodic 
+
+• When required 
+
+• 
+
+Continuation of 
+
+business  
+
+• 
+
+Promotion of products 
+
+• 
+
+Feedback on products 
+
+• 
+
+Internal review of 
+
+suppliers' deliverables 
+
+
+7 
+
+ 
+
+5.3. Materiality Assessment  
+
+The process of establishing material ESG matters is important as it allows ISEC Healthcare to 
+
+understand stakeholders’ interest, manage impacts as well as identify opportunities. It also forms the 
+
+foundation for the introduction of future sustainability efforts. In FY2017, ISEC Healthcare completed 
+
+its inaugural materiality assessment exercise to identify and prioritise its material ESG matters. These 
+
+ESG matters are reviewed on an annual basis to ensure their continuing relevance to the business and 
+
+its stakeholders, as well as aligning with the sustainability context of the healthcare industry. The 
+
+materiality assessment process from FY2017 to FY2019 is shown in Figure 3. 
+
+Figure 3: Materiality Assessment Process 
+
+ 
+
+FY2017  
+
+FY2018  
+
+FY2019  
+
+ISEC Healthcare conducted its 
+
+inaugural formal materiality 
+
+assessment.  
+
+ 
+
+Seven ESG matters that were 
+
+deemed material to the 
+
+organisation and its 
+
+stakeholders were identified 
+
+and validated by the Board of 
+
+Directors. 
+
+The existing ESG matters were 
+
+reviewed and assessed for its 
+
+continued relevance to the 
+
+business and its stakeholders, 
+
+and in line with the 
+
+sustainability context of the 
+
+healthcare industry.  
+
+The existing ESG matters were 
+
+reviewed and assessed for its 
+
+continued relevance to the 
+
+business and its stakeholders, 
+
+and in line with the 
+
+sustainability context of the 
+
+healthcare industry.  
+
+ 
+
+ 
+
+The seven ESG matters identified are presented below in Figure 4. 
+
+Figure 4: Results of Materiality Assessment  
+
+ 
+
+ 
+
+
+
+
+8 
+
+ 
+
+Table 2:  Mapping of ISEC Healthcare’s Material and Additional Matters to GRI Topic-Specific Disclosures 
+
+ 
+
+Mapping of additional matters for reporting to GRI topics 
+
+ 
+
+Additional Matters 
+
+Definition 
+
+GRI Topic-Specific 
+
+Disclosures 
+
+ 
+
+Waste Management  
+
+Minimise waste generation through 
+
+reduce, reuse and recycle (“3Rs”) 
+
+efforts and safe disposal of biological 
+
+waste. 
+
+GRI 306 Effluents and 
+
+Waste (306-2) 
+
+ 
+
+Energy and Carbon 
+
+Footprint 
+
+Efficient use of energy to minimise 
+
+carbon footprint arising from ISEC 
+
+Healthcare's operations. 
+
+GRI 302 Energy  
+
+(302-1) 
+
+ 
+
+5.4. Contributing to the UN Sustainable Development Goals  
+
+The Sustainable Development Goals (“SDGs”), set in 2015 by the United Nations, calls for a collective 
+
+global effort towards ending poverty, promoting prosperity and protecting the environment. These 
+
+17 global goals cover a broad range of social, environmental, governance and social justice 
+
+considerations. Businesses have been called upon to take charge as they play a vital role in each 
+
+country’s progress towards achieving these goals.  
+
+Mapping ESG Matters for reporting to GRI topics 
+
+ 
+
+ESG Matters 
+
+Definition 
+
+GRI Topic-Specific 
+
+Disclosures 
+
+ 
+
+Excellent Service 
+
+Quality 
+
+Offer best-in-class and safe treatment 
+
+to ISEC's patients, as evidenced by 
+
+enhanced patient satisfaction and 
+
+avoidance of patients' safety 
+
+incidents. 
+
+GRI 416 Customer 
+
+Health and Safety 
+
+(416-2) 
+
+ 
+
+Occupational Health 
+
+and Safety 
+
+Provide for and promote the health 
+
+and safety of employees, as measured 
+
+by avoidance of safety incidents, lost 
+
+days, absenteeism, etc.  
+
+GRI 403 Occupational 
+
+Health and Safety 
+
+(403-2) 
+
+ 
+
+Security of 
+
+Information and 
+
+Patient Privacy 
+
+Maintain the confidentiality of 
+
+patients' information including their 
+
+personal information, medical 
+
+records, etc. through robust IT and 
+
+data protection systems. 
+
+GRI 418 Customer 
+
+Privacy (418-1) 
+
+ 
+
+Training and 
+
+Development 
+
+Increase employees' competence 
+
+through training and development 
+
+programmes.  
+
+GRI 404 Training and 
+
+Development (404-3) 
+
+ 
+
+Corporate Governance 
+
+Manage business strategy, risk 
+
+assessments and sustainability 
+
+processes in order to build financial 
+
+integrity, investor confidence and 
+
+superior performance.  
+
+Non-GRI: Number of 
+
+non-compliance to 
+
+Code of Corporate 
+
+Governance and other 
+
+regulatory 
+
+requirements 
+
+
+
+F 
+
+
+
+G 
+
+
+
+A 
+
+
+
+B 
+
+
+
+C 
+
+
+
+D 
+
+
+
+E 
+
+
+9 
+
+ 
+
+As a healthcare service provider, many of ISEC sustainability measures are inherently aligned with 
+
+sustainable development goals; especially for SDG 3: Good Health and Well-Being, SDG 8: Decent Work 
+
+and Economic Growth and SDG 12: Responsible Consumption and Production.  
+
+Table 3: ISEC Healthcare’s Measures of Sustainability Development Goals 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Good Health and Well-Being 
+
+Decent Work and Economic 
+
+Growth 
+
+Responsible Consumption and 
+
+Production 
+
+Ensure healthy lives and 
+
+promote well-being for all at 
+
+all ages 
+
+Promote sustained, inclusive 
+
+and sustainable economic 
+
+growth, full and productive 
+
+employment and decent work 
+
+for all 
+
+Ensure sustainable 
+
+consumption and production 
+
+patterns 
+
+How is ISEC Healthcare contributing towards the goals  
+
+Raising public awareness on 
+
+good eye health and early 
+
+detection through preventive 
+
+treatment methods and eye 
+
+health checks  
+
+Decent work for employees 
+
+and workers in a safe 
+
+environment 
+
+Standard Operating 
+
+Procedures (“SOP”) on waste 
+
+management were developed 
+
+in strict accordance to 
+
+government regulations 
+
+Doctors’ participation in 
+
+symposiums, clinical trials, 
+
+development of eye care 
+
+technology  
+
+In-house certified trainers and 
+
+external training for all  
+
+Advocating 3R (“Reduce, 
+
+Reuse and Recycle”) behaviour 
+
+through bag-free Saturdays 
+
+across various clinics 
+
+Provision of complimentary 
+
+influenza vaccination for 
+
+employees 
+
+Replacement of conventional 
+
+light fittings to LED type 
+
+Relevant Material Matters  
+
+ 
+
+Excellent Service Quality  
+
+(Pg. 12-14) 
+
+• 
+
+Training and Development 
+
+(Pg. 16-18)  
+
+• 
+
+Occupational Health and 
+
+Safety (Pg. 18-19) 
+
+• 
+
+Energy and Carbon 
+
+Footprint (Pg. 22) 
+
+• 
+
+Waste Management  
+
+(Pg. 22) 
+
+ 
+
+In contribution to SDG 3: Good Health and Well-Being, ISEC KL and SSEC have been actively 
+
+collaborating with industry partners such as Novartis Corporation (M) Sdn Bhd, Santen Pharma 
+
+Malaysia Sdn Bhd and Allergan Malaysia Sdn Bhd in providing complimentary eye screening services 
+
+in conjunction with World Sight Day since 2015 and Annual Glaucoma Day since 2010. In FY2019, ISEC 
+
+KL also launched the first Myopia Clinic in Kuala Lumpur which aims to control progression of myopia 
+
+in children. With a series of treatment methods, it focuses on slowing down, or in certain cases 
+
+stopping the development high myopia. Further, our doctors regularly attend conferences and 
+
+seminars, as speakers to share their expertise as part of our Group’s commitment to impart knowledge 
+
+to fellow medical professionals, and to nurture medical students.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+10 
+
+ 
+
+Case Study 1: World Sight Day 2019 and Glaucoma Day 2019  
+
+Every year, ISEC KL and SSEC organise events on World Sight Day and Glaucoma Day to raise public 
+
+awareness of eye health and inculcate good eye habits like regular eye examinations to allow early 
+
+detection and early treatments to prevent deterioration of existing conditions. In FY2019, ISEC KL and 
+
+SSEC conducted a total of 300 eyecare screenings, a 46% increase from FY2018. Of which, a total of 
+
+99 eye disorders were identified, ranging from the common disorders such as cataracts and glaucoma 
+
+to other diagnoses such as dry eyes, squint, Meibomian gland dysfunction (“MGD”)2, pterygium3 and 
+
+entropion4.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Meibomian gland dysfunction (MGD) is the blockage or some other abnormality of the meibomian glands 
+
+resulting in the lack of secretion of oil into the tears. It is associated with dry eye syndrome. 
+
+3 Pterygium is a growth of the conjunctiva or mucous membrane that covers the white part of your eye over the 
+
+cornea. 
+
+4 Entropion is a medical condition in which the eyelid (usually the lower lid) folds inward, causing discomfort and 
+
+irritation as eyelashes continuously rubs against the cornea.  
+
+
+
+
+
+
+
+Far left: Public Eye 
+
+Screening provided by 
+
+ISEC KL and SSEC  
+
+Left: An eye screening 
+
+conducted by ISEC KL on 
+
+Glaucoma Day 2019 
+
+ 
+
+In collaboration with Santen Pharma Malaysia Sdn Bhd, eye screenings on World Sight Day 2019 were 
+
+held at Q Sentral in Kuala Lumpur. 
+
+
+
+
+
+
+11 
+
+ 
+
+Case Study 2: First Myopia Control Clinic in Kuala Lumpur 
+
+In October 2019, ISEC KL launched 
+
+Malaysia’s first Myopia Control Clinic 
+
+(“MCC”) dedicated to controlling the 
+
+progression of myopia among children by 
+
+slowing down or even stopping the 
+
+progression before they develop high 
+
+myopia. Through a combination of education, promoting good eye care habits and clinically-proven 
+
+treatment options to normalise eye growth, it leverages on the latest technology to reduce myopia 
+
+progression. These treatment methods are suitable for children with myopia, ages 3 to 18 years old, 
+
+those with myopia progression greater than 0.5 degree per year or those with a family history of 
+
+myopia.  
+
+Some of the treatment methods include:  
+
+MyopineTM 
+
+MiSightTM 
+
+(Soft contact lenses) 
+
+Orthokeratology (Ortho-K) 
+
+Atropine 0.01% eyedrop 
+
+has been used for myopia 
+
+treatments for over 35 
+
+years and is effective in 
+
+slowing myopia 
+
+progression (up to 60-70%) 
+
+with little visual side effects 
+
+of blurred vision.  
+
+The first daily disposable 
+
+soft contact lens proven to 
+
+delay progression of 
+
+myopia growth  
+
+The use of specially designed 
+
+gas permeable contact lenses 
+
+to temporarily reshape the 
+
+contour of the cornea and 
+
+provide a clear vision in the 
+
+day without the use of 
+
+contact lenses or spectacles  
+
+ 
+
+ 
+
+Case Study 3: ISEC Primary Care Ophthalmology Symposium 2019 
+
+To fulfil ISEC Healthcare’s core vision of advancing and disseminating ophthalmic knowledge through 
+
+education and continual professional development, ISEC KL organised the Primary Care 
+
+Ophthalmology Symposium at the Gardens Hotel ballroom, Mid Valley City on 25th August 2019. 
+
+9 doctors from ISEC KL covered topics such as anatomy of the eye, eye injuries and eye disorders, for 
+
+example, chronic red eye, cataracts and other retinal diseases at the event. 
+
+ The event attracted 242 participants in total, including primary care physicians and eye care providers 
+
+such as optometrists and pharmacists.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+12 
+
+ 
+
+6. Social: Providing World-class Service to Our Patients 
+
+ 
+
+6.1. Excellent Service Quality 
+
+ISEC Healthcare strives to be a one-stop speciality medical eyecare service provider through the 
+
+provision of high-quality, world-class service, with integrity and compassion to the community. The 
+
+Group prides itself on the high calibre of its ophthalmologists. They possess extensive knowledge 
+
+through the numerous clinical experiences in the trainings and past clinical appointments at renowned 
+
+eye centres in Singapore, Australia, India, United Kingdom and the United States. 
+
+To maintain excellent service quality, ISEC KL and SSEC establish a Patient Complaint, Grievance and 
+
+Feedback Procedure which guides employees on resolving grievances and complaints in a prompt, 
+
+reasonable and consistent manner from patients or next-of-kin. Figure 5 outlines the steps taken from 
+
+the receipt of a complaint to the conclusion of the case.  
+
+Figure 5: Patient Complaint, Grievance and Feedback Procedure 
+
+ 
+
+Both ISEC KL and SSEC conduct patient satisfaction surveys to obtain feedback. They are handed out 
+
+to all patients during registration and collected at the cashier upon payment. The Patient Satisfaction 
+
+Survey evaluates clinics’ performance from appointment scheduling, registration, hospital 
+
+environment, professionalism of the medical staff and waiting time. Feedback is also collected through 
+
+ISEC KL and SSEC’s Facebook page.   
+
+In FY2019, 89% of the respondents rated overall service to be “Good” and above, with 83% in ISEC KL 
+
+and 92% in SSEC respectively. More than 90% of the respondents indicated that they would 
+
+recommend ISEC KL and SSEC to their friends and family.  
+
+Waiting time is one of the pertinent issues encountered by patients at ISEC KL and SSEC. In FY2018, 
+
+the clinics have started scheduling patients on weekday slots as well as referring patients to other 
+
+available doctors. Patients were also encouraged to schedule their next appointment via email or calls 
+
+as walk-in appointments often result in a longer waiting time. Those initiatives have improved rating 
+
+on waiting time from “Poor to Average” in FY2018 to “Good to Excellent” in FY2019. On the other 
+
+hand, the FY2019 survey revealed improvement opportunity for the clinics in terms of the surrounding 
+
+
+
+
+
+
+13 
+
+ 
+
+environment aspect. This could probably be due to overcrowded clinics. ISEC KL has been actively 
+
+seeking ways to expand its clinic capacity and hence improving overall ambience.  
+
+ 
+
+Targets and Performance  
+
+ 
+
+Focus areas 
+
+Perpetual target 
+
+FY2019 Performance  
+
+Service Quality and Patient 
+
+Satisfaction  
+
+Uphold the service quality and 
+
+achieve at least 90% of the patient 
+
+satisfaction survey overall results at 
+
+“Good” and above 
+
+89% of patient 
+
+satisfaction survey 
+
+overall rated “Good” 
+
+and above   
+
+Customer Health and Safety  
+
+Zero reportable cases of non-
+
+compliance regarding health and 
+
+safety impacts of products and 
+
+services 
+
+Achieved 
+
+ 
+
+ 
+
+Case Study 4: Improving Customer Satisfaction Through Training    
+
+In 2019, ISEC KL conducted a Customer Satisfaction 
+
+training module for staff, nurses and medical 
+
+assistants. Conducted by in-house trainers, employees 
+
+went through six different modules covering topics on 
+
+service attitude, effective communication, grooming, 
+
+the importance of teaming and handling difficult 
+
+situations. 
+
+Upon 
+
+completion, 
+
+employees 
+
+were 
+
+awarded with a Certificate of Attendance. This training 
+
+module also leveraged on examples of real-life situations, and interactive components like table 
+
+discussions, games and quizzes to engage employees.  
+
+ 
+
+ 
+
+  
+
+Case Study 5: Response to COVID-19 Situation 
+
+As the COVID-19 pandemic evolves, following measures have been put in place at ISEC KL and SSEC 
+
+to ensure the health and safety of our employees, patients and visitors.  
+
+ For customers/patients 
+
+- 
+
+Triage units are set up outside of the clinic to take 
+
+visitors’ temperature and travel history records. 
+
+Visitors with COVID-19 symptoms are directed to 
+
+senior medical staff for further follow up. 
+
+- 
+
+All visitors are advised to bring in no more than one 
+
+accompanying member. 
+
+- 
+
+Visitors are constantly reminded of social distancing 
+
+protocols inside the building; where they are required to maintain distance of at least one meter 
+
+apart and sit in alternate seats. 
+
+- 
+
+Hand sanitisers are made readily available at triage counters and inside the clinics. 
+
+
+
+
+
+
+
+
+14 
+
+ 
+
+Case Study 5: Response to COVID-19 Situation (cont’d) 
+
+For employees 
+
+- 
+
+Reporting staff members receive regular temperature 
+
+screenings and must use personal protective equipment 
+
+when in proximity of patients.  
+
+- 
+
+Staff members who have a travel history outside of 
+
+Malaysia are closely monitored and provided medical 
+
+guidance.  
+
+- 
+
+An alternate grouping system is adopted for employees to 
+
+minimise potential spread among the cohort of workers. 
+
+ 
+
+6.2. Supply Chains of ISEC KL and SSEC  
+
+In FY2019, ISEC KL and SSEC have over 260 suppliers. Our suppliers include medical suppliers, for 
+
+example, lenses, consumables, medical equipment, medications and laboratory services. We also 
+
+engage third-party cleaners5 in ISEC KL and licensed waste management contractors at both clinics for 
+
+medical waste disposal. 98% of them are based locally. 
+
+As the quality of products and services from suppliers enables ISEC KL and SSEC to deliver exceptional 
+
+service to its patients, stringent criteria are in place to screen the suppliers. Suppliers are assessed on 
+
+product certifications, quality assurance, timeliness and cost effectiveness. Product certifications and 
+
+quality assurance encompass the passing of the performance tests and quality assurance tests with 
+
+the authorised parties (such as Scientific and Industrial Research Institute of Malaysia and 
+
+International Organisation for Standardisation). All medications are also required to be registered with 
+
+Malaysia’s Ministry of Health.  
+
+Regular suppliers and annual service providers will be subjected to an annual evaluation based on 
+
+quality, communication, timeliness and support. An Approved Vendor List (“AVL”) is maintained and 
+
+regularly updated based on the results of the screening and annual evaluation. Should there be any 
+
+lapses in quality, suppliers may face immediate termination.  
+
+Additionally, ISEC KL and SSEC encourage suppliers to participate in social responsibility activities such 
+
+as conducting free eye screening tests, eye-health related awareness talks and campaigns.  
+
+ 
+
+7. Social: Developing a High-Performing Workforce 
+
+ 
+
+7.1. Employee Demographics 
+
+The highly qualified and experienced specialist doctors, supported by the management and clinical 
+
+staff, are the strengths for ISEC Healthcare to maintain its brand of excellent service quality and market 
+
+leadership in private ophthalmology.  
+
+In FY2018 and FY2019, employment numbers for both clinics remained relatively constant with 
+
+majority of employees holding permanent and full-time positions. In FY2019, ISEC KL employed three 
+
+ 
+
+5 SSEC has a full time cleaner to carry out daily cleaning job.  
+
+
+
+
+
+
+15 
+
+ 
+
+workers 6  for general cleaning services at the clinic. The breakdown of employees by gender, 
+
+employment contract, type and category are shown in Figure 6. 
+
+Figure 6: Breakdown of Employee by Gender and Employment Category7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 Workers refer to non-employees of ISEC KL excluded from total employee count as they work on ad-hoc basis. 
+
+SSEC does not engage any such workers.   
+
+7 FY2018 employees’ data was restated to include number of employees from SSEC for comparison purpose. 
+
+Visiting doctors who are on annual service contract are not considered as employees of ISEC Healthcare.   
+
+21%
+
+79%
+
+FY2018
+
+(149 employees)
+
+Male
+
+Female
+
+Employment Contract  
+
+FY2018 
+
+FY2019 
+
+Male  
+
+Female 
+
+Male  
+
+Female 
+
+Permanent 
+
+31 
+
+113 
+
+32 
+
+116 
+
+Temporary  
+
+1 
+
+4 
+
+1 
+
+4 
+
+Employment Type 
+
+FY2018 
+
+FY2019 
+
+Male  
+
+Female 
+
+Male  
+
+Female 
+
+Full-Time 
+
+32 
+
+116 
+
+33 
+
+119 
+
+Part-Time 
+
+0 
+
+1 
+
+0 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+22%
+
+78%
+
+FY2019
+
+(153 employees)
+
+13%
+
+10%
+
+6%
+
+71%
+
+FY2019
+
+(153 employees)
+
+12%
+
+11%
+
+6%
+
+71%
+
+FY2018
+
+(149 employees)
+
+Doctor
+
+Manager / General Manager
+
+Executive (HOD)
+
+Non-executive
+
+
+16 
+
+ 
+
+Case Study 6: ISEC KL awarded Employees Provident Fund Excellent Employer’s Award 
+
+On 14 November 2019, ISEC KL was conferred the 
+
+Employees Provident Fund Excellent Employer’s Award. 
+
+The award criteria include:  
+
+• 
+
+Timely payment of salary through internet 
+
+banking to employees 
+
+• 
+
+No complaints, cases of dishonesty or 
+
+conviction of any criminal or civil cases 
+
+recorded  
+
+ISEC KL is honoured to be one of the 15 
+
+companies/government agencies that practise timely payment of provident funds and have 
+
+maintained a clean non-infraction record.  
+
+ 
+
+7.2. Training and Development  
+
+ISEC Healthcare focuses greatly on developing employees’ expertise and knowledge. This is critical in 
+
+building and retaining a motivated and high-performing workforce.  
+
+The Human Resource (“HR”) department oversees overall learning and development for staff in ISEC 
+
+KL and SSEC. Under the Medical Regulations 2017 for doctors and Provisions in the Nursing Act 2015 
+
+for nurses, all medical personnel will have to meet the required Continuing Professional Development 
+
+(“CPD”) points annually for renewal of their respective licenses.   
+
+The HR department assists medical staff’s fulfilment of CPD requirements by organising adequate 
+
+training programmes, on-the-job trainings and other career counselling activities. Employees may 
+
+request to be enrolled for specific trainings through a ‘Training Needs Identification’ form. In FY2019, 
+
+all ISEC KL and SSEC medical staff have met the required CPD points for the respective medical license 
+
+renewal. 
+
+Table 4: Types of Training Programs 
+
+Types of Training 
+
+Programs  
+
+Examples  
+
+Technical (Medical-
+
+related) 
+
+• 
+
+AT IOL Healthcare Professional Workshop  
+
+ 
+
+Technical (Non-
+
+medical related) 
+
+• 
+
+Microsoft Excel Functions &amp; Formula  
+
+• 
+
+Mastering Accounting  
+
+Soft-skills  
+
+• 
+
+Customer Service  
+
+• 
+
+Time Management  
+
+• 
+
+Communication  
+
+Onboarding   
+
+• 
+
+Two-day General Induction program and On Job Training by respective 
+
+department head at ISEC KL  
+
+• 
+
+One-day Induction programme for new employees and subsequent 
+
+job trainings by respective HODs at SSEC  
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+17 
+
+ 
+
+Case Study 7: Various training and development activities for doctors and medical staff 
+
+Doctors at ISEC KL and SSEC hold regular Continuous Medical Education (“CME”) talks for employees, 
+
+covering various topics on eye diseases and treatment methods. An average of 60 attendees and 25 
+
+attendees have been observed for each session from ISEC KL and SSEC respectively.  
+
+ 
+
+ 
+
+CME Talks conducted by Dr Chan (left), Dr Gan (middle) and Dr Ku (right) 
+
+On the other hand, doctors participate in seminars as attendees and speakers where they exchange 
+
+pointers and gain insights in the ophthalmology sphere. They have also been involved in clinical trials 
+
+relating to treatment options and eye care technology. In FY2019, ISEC KL and SSEC have conducted a 
+
+total of 282 teaching activities, clinical attachments and observerships. 
+
+ 
+
+All ISEC KL and SSEC employees also receive an annual performance appraisal, with evaluation of their 
+
+performances based on established Key Performance Index. The evaluations are then used to guide 
+
+the discussions with employees on their development plans.  
+
+Figure 7: Performance Management and Appraisal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+18 
+
+ 
+
+Targets and Performance 
+
+Focus area  
+
+Perpetual target 
+
+FY2019 Performance  
+
+Training and Development   
+
+ 
+
+Continue with full appraisal and 
+
+performance review  
+
+Achieved 
+
+ 
+
+100% of employees from 
+
+both clinics have 
+
+received annual 
+
+performance review 
+
+from their supervisors. 
+
+ 
+
+7.3. Occupational Health and Safety  
+
+ 
+
+ 
+
+ISEC Healthcare is committed to providing and maintaining a safe environment for all employees, 
+
+patients and visitors. ISEC KL and SSEC have implemented required Health and Safety polices which 
+
+are in compliance to Ministry of Health and Infection Control Precautions and Occupational Safety &amp; 
+
+Health Act 1994, as detailed in Table 5. 
+
+Table 5: List of Occupational Health and Safety Policy 
+
+Facility 
+
+Management and 
+
+Safety Policy 
+
+Facility and 
+
+Environment 
+
+Inspection 
+
+Policy 
+
+Emergency Plan  
+
+Fire Safety 
+
+Policy  
+
+Personal 
+
+Protection 
+
+Equipment 
+
+(“PPE”) policy 
+
+This policy comprises 
+
+guidelines on proper 
+
+facility management 
+
+and safe practices 
+
+which includes 
+
+handling and 
+
+disposal of clinical 
+
+waste, measures to 
+
+enhance physical 
+
+security of buildings 
+
+and conducting 
+
+facility inspections.  
+
+ 
+
+Employees are 
+
+required to report 
+
+any unsafe acts, 
+
+conditions as well as 
+
+occupational 
+
+injuries.   
+
+This policy 
+
+provides 
+
+guidelines on 
+
+ensuring safety 
+
+of patients, 
+
+their families, 
+
+staff and 
+
+visitors. It also 
+
+covers facility 
+
+inspection on 
+
+entrances and 
+
+exits; cleanings; 
+
+Common 
+
+Electrical Safety 
+
+Measurement 
+
+and Medical 
+
+gases storage. 
+
+This policy 
+
+outlines the 
+
+actions to be 
+
+taken in the 
+
+event of 
+
+emergencies 
+
+such as 
+
+unpredicted 
+
+power supply, 
+
+natural 
+
+disasters and 
+
+internal 
+
+disasters such 
+
+as building 
+
+structural 
+
+collapse, 
+
+explosion, fire, 
+
+floods, chemical 
+
+spills and bomb 
+
+threat. 
+
+This policy 
+
+outlines the 
+
+roles and 
+
+responsibilities 
+
+of 
+
+Management 
+
+and employees 
+
+in line with 
+
+best fire safety 
+
+practices. This 
+
+is to secure the 
+
+safety and 
+
+wellbeing of 
+
+everyone 
+
+within ISEC 
+
+Healthcare. 
+
+This policy applies 
+
+to all staff on the 
+
+use of PPE as part 
+
+of standard and 
+
+transmission-
+
+based 
+
+precautions, what 
+
+PPE is available, 
+
+where to access it, 
+
+as well as to 
+
+ensure staff 
+
+understand how 
+
+to safely put on 
+
+and remove PPE. 
+
+ 
+
+Various safety practices are also carried out routinely at ISEC KL and SSEC to promote health and safety 
+
+awareness and ensure employees’ general wellbeing.  
+
+
+
+
+19 
+
+ 
+
+Table 6: Occupational Health and Safety practices 
+
+Practices to Ensure Occupational Health and Safety  
+
+ 
+
+Emergency 
+
+preparedness  
+
+• Participate in annual fire drills held by landlord at ISEC KL  
+
+ 
+
+Routine 
+
+checks and 
+
+inspections  
+
+• Yearly air particle checks in ISEC KL and SSEC’s Operating 
+
+Theatres 
+
+• Annual water sampling test for tap water and water 
+
+dispenser at ISEC KL 
+
+ 
+
+Employee 
+
+wellbeing  
+
+• Free influenza vaccination for employees at ISEC KL and SSEC  
+
+ 
+
+Audits   
+
+• Audits are conducted once every two years by Ministry of 
+
+Health for renewal of medical certification. 
+
+ 
+
+Targets and Performance 
+
+Focus area  
+
+Perpetual target 
+
+FY2019 Performance  
+
+Occurrences of work-related 
+
+safety incidents  
+
+Zero cases of work-related injuries, 
+
+accidents and fatalities 
+
+Achieved 
+
+ 
+
+Absentee Rate8 
+
+FY2018 
+
+FY2019  
+
+Male 
+
+0.37% 
+
+0.14% 
+
+Female 
+
+1.50% 
+
+1.53% 
+
+Total  
+
+1.25% 
+
+1.23% 
+
+ 
+
+8. Governance: Corporate Governance  
+
+Stakeholders place their trust in an organisation to conduct its business responsibly to achieve long-
+
+term and stable growth. Effective corporate governance is vital in managing the risks and 
+
+opportunities faced by the organisation. Under the stewardship of the Board, the corporate 
+
+governance framework serves to guide the Group in conducting businesses responsibly and to steer 
+
+away from any potential improprieties while enhancing our reputation and credibility to all 
+
+stakeholders. ISEC Healthcare has a suite of policies which guide all employees on appropriate 
+
+business conduct. These include Policy for Securities Trading, Policy for Interested Persons Transaction 
+
+as well as the Whistleblowing Policy.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 Absentee rate refers to percentage of total days of absence (medical, hospitalisation and emergency leave) 
+
+over total days scheduled for work per year. No absence due to work-related injuries (excluding minor first-aid 
+
+level injuries) was reported in both FY2018 and FY2019.  
+
+
+
+
+
+
+
+
+
+
+20 
+
+ 
+
+Figure 8: ISEC Healthcare’s Vision, Mission and Values 
+
+ 
+
+For more details on our Corporate Governance principles and practices, please refer to ISEC 
+
+Healthcare’s 2019 Annual Report, “Report on Corporate Governance” section.  
+
+ 
+
+Targets and Performance  
+
+Focus area  
+
+Perpetual target 
+
+FY2019 Performance  
+
+Corporate Governance and 
+
+Regulatory Compliance  
+
+Zero reportable cases of non-
+
+compliance in relation to the Code of 
+
+Corporate Governance practices (on a 
+
+comply-or-explain basis), as well as 
+
+other regulatory requirements 
+
+Achieved 
+
+ 
+
+To the best of our 
+
+knowledge, we are 
+
+not aware of any non-
+
+compliance with the 
+
+Code of Corporate 
+
+Governance 2018 in 
+
+FY2019. 
+
+ 
+
+8.1. Enterprise Risk Management  
+
+Effective risk management is fundamental for ISEC 
+
+Healthcare to achieve continued success in our business 
+
+operations. ISEC Healthcare’s Risk Governance and 
+
+Internal Controls Framework Manual was designed to 
+
+align risk governance and internal control framework 
+
+with the strategic vision and objectives of the Group. 
+
+The Management is required to adhere strictly to the 
+
+various risk management policies set out in the manual. 
+
+(Figure 9).  
+
+ 
+
+
+
+- Code of Ethics 
+
+- Risk Appetite and Risk Tolerance 
+
+Guidance  
+
+- Authority and Risk Control Matrix  
+
+- Key Control Activities 
+
+- Key Reporting and monitoring 
+
+Activities  
+
+ 
+
+Figure 9: Risk Governance and Internal Control 
+
+Framework Manual Content 
+
+
+21 
+
+ 
+
+8.2. Protection of Personal Data and Security of Information 
+
+With rising cyber security threats and potential breach 
+
+of personal data privacy, it is imperative for ISEC 
+
+Healthcare to have in place a robust IT framework to 
+
+mitigate these risks. Guided by the principles of 
+
+Malaysia’s Personal Data Protection Act (“PDPA”), the 
+
+Group has in place a PDPA policy which is applicable 
+
+across ISEC KL’s and SSEC’s employees. ISEC 
+
+Healthcare’s corporate headquarters also fully 
+
+complies with the Personal Data Protection Act in 
+
+Singapore.  
+
+The designated Data Protection Officer (“DPO”) based 
+
+in ISEC KL ensures compliance with the PDPA policy 
+
+across all clinics in Malaysia. Any queries or requests 
+
+from individuals in relation to ISEC’s data protection 
+
+policies, practices or grievances regarding potential 
+
+breaches can be filed through email to the DPO.  
+
+Doctors are granted access to their patients’ medical records on a need-to-know basis. ISEC Healthcare 
+
+has also established various IT controls and procedures to safeguard its systems against cyber security 
+
+threats. The IT team ensures that systems and servers undergo regular update and maintenance, 
+
+equipped with firewalls and antivirus software.  
+
+During the staff induction, all employees at ISEC KL and SSEC are required to read and sign off on the 
+
+PDPA policy. Throughout the year, good practices will be shared among clinics; for example, proper 
+
+disposal of personal information and physical security measures such as ensuring door of Medical 
+
+Record Room closed at all times. Additionally, certificates and posters displayed assures patients that 
+
+ISEC KL and SSEC are in full compliance with PDPA. 
+
+Employees are kept abreast of the latest regulatory requirements through relevant courses conducted 
+
+by the Department of Protection of Personal Data in Malaysia.  
+
+ 
+
+Targets and Performance  
+
+Focus area  
+
+Perpetual target 
+
+FY2019 Performance  
+
+Customer Privacy  
+
+Zero substantiated breaches of 
+
+customer privacy and no leaks, thefts 
+
+or losses of customer data 
+
+Achieved 
+
+ 
+
+In FY2019, there were 
+
+no known complaints 
+
+concerning 
+
+breaches 
+
+of customer privacy 
+
+and no known cases of 
+
+identified leaks, thefts 
+
+or losses of customer 
+
+data.  
+
+ 
+
+ 
+
+
+
+Figure 10: The seven principles of Malaysia's PDPA 
+
+Act 2010 
+
+
+22 
+
+ 
+
+9. Environment: Caring for the Environment 
+
+ 
+
+9.1. Energy and Carbon Footprint  
+
+For medical clinics, energy security is extremely critical for ensuring service quality and patient safety. 
+
+It is required by law that facilities such as operating theatres and drug storage have to be air 
+
+conditioned 24/7. Over 600 surgeries are conducted every month at both clinics which leads to 
+
+significant energy demand for the medical facilities. We have an Uninterruptible Power Supply (UPS) 
+
+to provide a continuous power supply for equipment even during a power failure and to protect it 
+
+against power surges. In the event of a power outage, the UPS will supply energy from its battery until 
+
+the generator set kicks in.  
+
+Despite the necessity for energy consumption for our operations, ISEC KL aims to adopt energy-saving 
+
+initiatives where possible to reduce our environmental footprint. Since FY2017, energy consumption 
+
+has been optimised by replacing conventional light bulbs with Light Emitting Diode (“LED”) lights in 
+
+ISEC KL.  In FY2019, 26% of the bulbs in ISEC KL have been replaced with LED lights. SSEC has also 
+
+embarked on this initiative in mid-FY2019. Upon the completion of this initiative, the clinics shall 
+
+explore the installation of motion sensors to further lower energy consumption. 
+
+ 
+
+Performance 
+
+In FY2019, 428,579 kWh (FY20189: 399,811 kWh) of electrical energy was consumed, equivalent to 
+
+energy consumption of 95 Malaysians in a year10. The 7% increase in energy consumption from FY2018 
+
+levels was due to the increase in the number of surgeries conducted and patients served by our 
+
+additional new full-time specialist doctors recruited over the two years. Additionally, operating hours 
+
+were extended beyond 5:30 pm on certain days to ensure that patients receive the required 
+
+treatments.  
+
+ 
+
+9.2. Waste Management  
+
+ 
+
+ 
+
+As a healthcare provider, waste management is paramount as improper management of medical 
+
+waste can pose major health and environmental risks to employees, patients and the general public. 
+
+ISEC KL and SSEC follow a stringent set of Standard Operating Procedures (“SOPs”), as listed in Table 
+
+7 on the management of waste. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 FY2018 energy consumption is restated to include SSEC Melaka’s consumption to allow like-for-like comparison 
+
+with FY2019.  
+
+10  This information is based on Malaysia Energy Statistics Handbook 2018 which reports an average of 
+
+consumption of 4,533 kWh per Malaysian in 2016. 
+
+
+
+
+
+
+23 
+
+ 
+
+Table 7: SOPs on Waste Handling, Storage and Disposal  
+
+Waste Handling 
+
+Waste Storage 
+
+Waste Disposal 
+
+• Manual handling of waste 
+
+bags should be minimised 
+
+wherever possible. 
+
+• All clinical waste bags to be 
+
+handled by the neck of the 
+
+bag only. 
+
+• They should be transported 
+
+via internal routes which 
+
+minimise contact with 
+
+patient care areas.  
+
+• Only dedicated vehicles 
+
+should be used for 
+
+transportation of clinical 
+
+waste.  
+
+• Biohazard waste should be 
+
+stored in a designated area 
+
+separated from general 
+
+waste. 
+
+• Colour-coded waste disposal 
+
+bags and containers are 
+
+used to ensure proper 
+
+segregation of waste, safe 
+
+handling and transportation. 
+
+• Waste containers to remain 
+
+closed at all times, 
+
+preventing release of toxic 
+
+chemicals into the 
+
+atmosphere in the form of 
+
+vapours, aerosols or gases. 
+
+• Waste storage will be 
+
+subjected to monitoring and 
+
+reviews  
+
+• Only Ministry of Health 
+
+Malaysia (“MOH”) certified 
+
+third-party waste 
+
+contractors are engaged to 
+
+collect and dispose clinical 
+
+waste. 
+
+• Contractors should be 
+
+contacted to arrange for 
+
+collection when the waste 
+
+bins are about two-third full, 
+
+if this occurs before the 
+
+routine collection roster.  
+
+• More trips to be arranged 
+
+when more waste is 
+
+generated 
+
+ 
+
+In addition, the Group continues to advocate reduce, reuse and recycle (“3Rs”) behaviour among its 
+
+patients. For instance, ISEC KL has extended its “bag-free Saturdays” to “bag-free every day”. Under 
+
+such campaign, patients are encouraged to bring their own bags for their medications. Should patients 
+
+require a bag, only paper bags are given out in both clinics. Plastic bags will only be used when an ice 
+
+packs are given to patients.  
+
+ 
+
+Performance 
+
+In FY2019, ISEC KL generated 3,234 kg (FY2018 11: 3,011 kg) of clinical waste, all of which were 
+
+incinerated by certified third-party contractors. Recycling bins are also provided in patient waiting 
+
+areas to promote recycling efforts. In FY2019, ISEC KL has recycled more than 10kg of paper and boxes 
+
+per week.  
+
+ 
+
+ 
+
+ 
+
+11 FY2018 clinical waste data is restated to include SSEC Melaka’s data to allow like-for-like comparison with 
+
+FY2019.  
+
+
+24 
+
+ 
+
+10. GRI Content Index  
+
+ 
+
+GRI Standard 
+
+Disclosure  
+
+Disclosure 
+
+Page Reference or Reason for Omission  
+
+GRI 102: General Disclosures 2016 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-3 
+
+Location of headquarters 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-4 
+
+Location of operations 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-5 
+
+Ownership and legal form 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-6 
+
+Markets served 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-7 
+
+Scale of the organisation 
+
+About ISEC Healthcare Ltd. 
+
+Page 2 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+Employee Demographics 
+
+Page 14 
+
+102-9 
+
+Supply chain 
+
+Supply Chains of ISEC KL and 
+
+SSEC 
+
+Page 14 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply chain 
+
+There were no significant changes to the 
+
+organisation or its supply chain. 
+
+102-11 
+
+Precautionary principle or 
+
+approach 
+
+Enterprise Risk Management 
+
+Page 20 
+
+102-12 
+
+External initiatives 
+
+Not applicable 
+
+102-13 
+
+Membership of associations 
+
+About ISEC Healthcare Ltd. 
+
+Page 3 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+Board Statement 
+
+ 
+
+Page 3 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+Corporate Governance  
+
+Page 20 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Sustainability Governance 
+
+Corporate Governance 
+
+Page 4 
+
+Page 19 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+2019 Annual Report  
+
+Page 17 
+
+102-23 
+
+Chair of the highest governance 
+
+body 
+
+2019 Annual Report  
+
+Page 21 
+
+102-24 
+
+Nominating and selecting the 
+
+highest governance body 
+
+2019 Annual Report  
+
+Page 22 
+
+102-25 
+
+Conflicts of interest 
+
+2019 Annual Report  
+
+Page 18 
+
+102-32 
+
+Highest governance body’s role in 
+
+sustainability reporting 
+
+Board Statement;  
+
+Sustainability Governance 
+
+Page 3 
+
+Page 4 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+Page 5 
+
+
+25 
+
+ 
+
+GRI Standard 
+
+Disclosure  
+
+Disclosure 
+
+Page Reference or Reason for Omission  
+
+GRI 102: General Disclosures 2016 
+
+102-41 
+
+Collective bargaining agreements 
+
+None of ISEC Healthcare’s employees are 
+
+covered by collective bargaining 
+
+agreements.   
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+Page 5 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+Page 5 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+Page 5 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial statements 
+
+2019 Annual Report  
+
+Page 74 
+
+102-46 
+
+Defining report content and topic 
+
+boundaries 
+
+About the Report 
+
+Page 3 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+Page 7 
+
+102-48 
+
+Restatements of information 
+
+FY2018 data were restated to include SSEC 
+
+for Employee Demographics, Occupational 
+
+Health and Safety, Energy and Carbon 
+
+Footprint  
+
+102-49 
+
+Changes in reporting 
+
+About the Report 
+
+Page 3 
+
+102-50 
+
+Reporting period 
+
+About the Report 
+
+Page 3 
+
+102-51 
+
+Date of most recent report 
+
+Published and announced on 9 May 2019 
+
+102-52 
+
+Reporting cycle 
+
+ Annual  
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+ 2019 Annual Report  
+
+Corporate 
+
+Information  
+
+102-54 
+
+Claims of reporting in accordance 
+
+with the GRI Standards 
+
+About the Report 
+
+Page 3 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+Page 24 
+
+102-56 
+
+External assurance 
+
+ISEC Healthcare has not sought external 
+
+assurance for this report, but will consider 
+
+it for future reports. 
+
+ 
+
+GRI Standard  
+
+Disclosure 
+
+Disclosure 
+
+Page Reference or Reason for 
+
+Omission  
+
+Material matters 
+
+Excellent Service Quality  
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Excellent Service Quality Page 12 
+
+
+26 
+
+ 
+
+GRI Standard  
+
+Disclosure 
+
+Disclosure 
+
+Page Reference or Reason for 
+
+Omission  
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Excellent Service Quality Page 13 
+
+GRI 416: 
+
+Customer 
+
+Health and 
+
+Safety 2016 
+
+416-2 
+
+Incidents of non-compliance 
+
+concerning the health 
+
+and safety impacts of products 
+
+and services 
+
+Excellent Service Quality Page 13 
+
+Occupational Health and Safety  
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+ 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Occupational Health 
+
+and Safety 
+
+Page 18 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Occupational Health 
+
+and Safety 
+
+Page 19 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 2016 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational diseases, 
+
+lost days, and absenteeism, and 
+
+number of work-related 
+
+fatalities 
+
+Occupational Health 
+
+and Safety 
+
+Page 19 
+
+Training and Development 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+ 
+
+ 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Training and 
+
+Development 
+
+Page 16 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Training and 
+
+Development  
+
+Page 17 
+
+GRI 404: 
+
+Training and 
+
+Development 
+
+2016 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular performance 
+
+and career development reviews 
+
+Training and 
+
+Development 
+
+Page 18 
+
+Corporate Governance  
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Corporate Governance  
+
+Page 19 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Corporate Governance 
+
+Page 20 
+
+Security of Information and Patient Privacy   
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Protection of Personal 
+
+Data and Security of 
+
+Information 
+
+Page 21 
+
+
+27 
+
+ 
+
+GRI Standard  
+
+Disclosure 
+
+Disclosure 
+
+Page Reference or Reason for 
+
+Omission  
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Protection of Personal 
+
+Data and Security of 
+
+Information 
+
+Page 21 
+
+ 
+
+GRI 418: 
+
+Customer 
+
+Privacy 2016 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses of 
+
+customer data 
+
+Protection of Personal 
+
+Data and Security of 
+
+Information 
+
+Page 21 
+
+ 
+
+Additional Matters 
+
+Energy and Carbon Footprint 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Energy and Carbon 
+
+Footprint  
+
+Page 22 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Energy and Carbon 
+
+Footprint  
+
+Page 22 
+
+GRI 302: 
+
+Energy 2016 
+
+302-1 
+
+Energy consumption within the 
+
+organization 
+
+Energy and Carbon 
+
+Footprint  
+
+Page 22 
+
+Waste Management  
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+About the Report;  
+
+Materiality Assessment  
+
+Page 3 
+
+Page 7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+Waste Management 
+
+Page 22 
+
+ 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Waste Management 
+
+Page 23 
+
+ 
+
+GRI 306: 
+
+Effluents and 
+
+Waste 2016 
+
+306-2 
+
+Waste by type and disposal 
+
+Method 
+
+Waste Management  
+
+Page 23 
+
+ 
+
+ 
+
+ 
+

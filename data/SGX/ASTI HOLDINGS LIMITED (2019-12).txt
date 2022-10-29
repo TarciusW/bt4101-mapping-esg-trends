@@ -1,0 +1,760 @@
+ASTI
+:
+INDUSTRY
+4.0
+CHALLENGES & CHANGES
+Sustainability
+Report 2019
+ASTI Holdings Limited
+
+Content Page
+1.
+Board Statement .
+2.
+About this Report ..
+2.1.
+Reporting Scope and Period
+2.2.
+Framework.
+2.3.
+Feedback.
+2
+3.
+ Sustainability Governance
+3.1.
+Sustainability Strategy
+2
+3.2.
+Sustainability Governance Structure
+3
+3.3.
+ Stakeholder Engagement.
+Materiality Assessment .
+4.
+.5
+4.1.
+Overview of Material Factors.
+4.2.
+Environmental...
+6
+4.2.1.
+Energy and Emissions...
+6
+4.3.
+Economic.
+4.3.1.
+Economic Performance..
+4.4.
+Social
+4.4.1.
+Talent Attraction and Retention ..
+4.4.2.
+Training and Education .
+.9
+4.4.3.
+Occupational Health and Safety..
+10
+4.4.4.
+Supplier Assessment .
+.11
+4.4.5.
+Compliance with Laws and Regulations.
+.12
+4.4.6.
+Environmental Compliance .
+.12
+4.4.7.
+Cyber security
+.13
+4.5.
+Governance.
+14
+4.5.1.
+Anti-corruption .-
+14
+4.5.2.
+Corporate Governance.
+15
+
+1.
+Board Statement
+We are pleased to present our third Sustainability Report for the financial year ended 31
+December 2019 ("FY2019"). As with previous years, we are committed to the topic of
+sustainability and would like to share our progress pertaining to sustainability over the year,
+as well as our approach, practices and performance around relevant material factors.
+ASTI provides an integrated range of services with regards to the semiconductor industry.
+With the growing expectations and concerns with regards to sustainability from various
+stakeholders, we believe our business goes beyond simply providing these services and
+understand that the consideration of sustainability cannot be left out in strategic decisions.
+As such, we endeavour to maintain and improve current sustainability practices and are
+committed to have sustainability as a key consideration in all strategic decisions. By
+engaging with our stakeholders and assessing material factors, we have updated our
+material factors and identified 11 material factors for FY2019 which helped shaped our
+sustainability strategy and set time-based targets.
+Since the start of the COVID-19 outbreak, we have progressively implemented a series of
+measures to ensure the well-being of our stakeholders. We will do our utmost to keep our
+staff, customers, and visitors safe while maintain ongoing communications on COVID-19
+updates and how we continue to strengthen our measures. This will ensure that we continue
+to deliver products and services to our valued customers, with minimal disruptions to our
+operations.
+We seek to grow our role in sustainability and are sure that this will help enhance our quality
+of life while protecting our planet. We look forward to working with you and welcome you
+on our journey to sustainability.
+2.
+About this Report
+2.1.
+Reporting Scope and Period
+This report, published annually, covers the company's policies, practices, initiatives,
+performance and goals in relation to material Environmental, Social and Governance ("ESG")
+factors for the period of 1 January to 31 December 2019 and includes data and information
+from said period relating to ASTI, its subsidiaries and their services and products.
+Our operations are located in Southeast Asia, Greater China, the United States of America
+and the United Kingdom. However, we have decided to focus our scope of this report on
+Telford's business operations in Singapore as they are currently the most material to ASTI
+due to being headquartered in Singapore and we believe that Telford has the highest impact
+on sustainability with 8 factory locations collectively with a headcount of over 3,500.
+2.2.
+Framework
+This report is written in compliance with the requirements of SGX-ST Listing Rules 711A and
+711B and has been prepared with reference to the Global Reporting Initiative ("GRI")
+Standards
+1Sustainability Report FY2019
+
+This report references the following topic-specific disclosures:
+GRI Standards
+Disclosure
+ 201 Economic Performance
+201-1
+ 205 Anti-corruption
+205-3
+302 Energy
+302-1, 302-3
+ 305 Emissions
+305-1, 305-4
+ 307 Environmental Compliance
+ 307-1
+401 Employment
+401-1, 401-2
+ 403 Occupational Health and Safety
+403-2, 403-9, 403-10
+ 404 Training and Education
+404-1, 404-2
+ 414 Supplier Social Assessment
+414-1
+ 418 Customer Privacy
+418-1
+ 419 Socioeconomic Compliance
+ 419-1
+2.3.
+Feedback
+For any enquires, comments or feedback regarding both our sustainability performance and
+ inaugural sustainability report, please send them to enquiries@astigp.com.
+3.
+Sustainability Governance
+3.1.
+ Sustainability Strategy
+ASTI strives to continually deliver world-class services to our customers to help them
+optimise their resource utilisation. As such, it is important that sustainability is considered in
+our strategic decisions as expectations for sustainable development is growing.
+2Sustainability Report FY2019
+
+3.2.
+Sustainability Governance Structure
+Board
+Sustainability Steering Committee ("Ssc")
+Comprises of senior members of:
+Administration
+Finance
+Human Resources
+Information Technology
+Sustainability Task Force ("STF")
+Sustainability Steering Committee ("ssc")
+Our sustainability strategy is headed by our Sustainability Steering Committee ("SSC"). The SSC
+provides strong direction coupled with an effective sustainability governance framework to identify,
+assess and manage the ESG issues that are important to us and our stakeholders.
+The SSc is represented by senior members of the Administration, Finance, Human Resources and
+Information Technology divisions at ASTI. They provide advice and assistance to the Board in
+ensuring that policies and procedures related to ESG issues are aligned with ASTI's business strategy.
+Sustainability Task Force ("STF")
+The SSC is supported by the STF, which is responsible for driving sustainability initiatives and
+programmes across ASTI.
+Board of Directors (the "Board")
+The Board monitors and evaluates sustainability performance against peer companies in order to
+improve performance and to identify areas of improvement. The Board also conducts reviews of the
+company's approach to sustainability from the identified gaps as compared to peer companies so
+that ASTI will be in a better position to execute targeted actions to address the gaps.
+3 | Sustainability Report FY2019
+
+3.3.
+Stakeholder Engagement
+We strongly believe that stakeholders are an integral part of our sustainability efforts, as
+such; it is of utmost importance that we engage with our stakeholders to gain valuable
+insights and understand the ESG issues that they are most concerned with, helping to shape
+our sustainability strategy and grow our business sustainably. Our approach to stakeholder
+engagement is as follows:
+Frequency of
+Key
+Key Topics of Concern
+Mode of Engagement
+Engagement and FY19
+Stakeholders
+Highlights
+Media releases
+Financial Results
+Ad-hoc
+Business
+SGX's announcements
+Quarterly
+performance and
+Investors and
+ Annual general meeting
+Shareholders
+outlook
+("AGM") for
+Annually
+Corporate
+shareholders
+Annual report
+governance
+Annually
+Employees
+Career development
+Employees are briefed
+Employee
+on the handbook during
+engagement
+on boarding. Softcopy of
+Staff bonding
+ handbook is available on
+Health and safety
+a hard disk drive for
+Company handbook
+employees when
+requested. An
+acknowledgement form
+is signed when
+employees read the
+ handbook.
+New employee
+First week of work
+orientation
+Employees are given an
+Trainings
+ average of 3 training
+hours per year
+Whistle blowing policy
+Ad-hoc
+Customers
+Customer
+Ad-hoc tour of premises
+Customer visits
+satisfaction
+for customers
+Quality of facilities
+Factory visits by
+Ad-hoc tour of factories
+customers
+and services
+for customers
+Health and safety
+Surveys conducted and
+Impacts on the
+Customer satisfaction
+customer engagement
+environment and
+survey
+for customers
+society
+throughout the year
+Suppliers
+ Supplier selection
+Ability to make
+Prior to supplier
+prompt payments
+process
+selection
+Business
+ Supplier assessment
+Annually
+performance and
+Meeting with suppliers
+outlook
+to discuss better ways of
+Ad-hoc
+production/distribution
+4Sustainability Report FY2019
+
+4.
+Materiality Assessment
+Annually, the Board conducts an exercise, involving members of ASTI's senior management
+team, to review the relevance of ASTI's material factors in order to identify if there has been
+any shift in priorities among stakeholders and examine any emerging areas of concern. This
+was especially important this year as there were many changes in the organisation. As such,
+we have engaged an external consultant to assist management with the development of the
+sustainability report.
+The identification of material issues involved conducting research on global and local trends
+in our industry and material topics identified by our peers and industry best practices. In
+FY2019, we have identified 12 material topics reflective of our business directions, as
+compared to the 9 reported material topics in FY2018. This is due to a combination of the
+sustainability practices in ASTI maturing and our desire to put sustainability at the forefront
+of our strategic decision making.
+We will continue to assess these material topics on regular basis to ensure their relevance
+and importance to our business.
+4.1.
+Overview of Material Factors
+For each material topic, table below shows the corresponding topic specific GRI standards
+ and relevant United Nations Sustainable Development Goals ("UNSDG"s).
+Material Factors
+Relevant Topic-specific GRI Standards
+Relevant UNSDGs
+M
+Energy and
+GRI 302: Energy 2016
+G
+Emissions
+GRI 305: Emissions 2016
+Economic
+GRI 201: Economic Performance 2016
+Performance
+M
+Talent Attraction and
+GRI 401: Employment 2016
+Retention
+M
+Training and
+GRI 404: Training and Education 2016
+Education
+Occupational Health
+GRI 403: Occupational Health and
+and Safety
+Safety 2016
+TM
+GRI 414: Supplier Social Assessment
+Supplier Assessment
+2016
+TI
+Compliance with
+GRI 419: Socioeconomic Compliance
+Laws and
+2016
+Regulations
+5 | Sustainability Report FY2019
+
+Material Factors
+Relevant Topic-specific GRI Standards
+Relevant UNSDGs
+Environmental
+GRI 307: Environmental Compliance
+Compliance
+2016
+GRI 410: Security Practices 2016
+Cyber security
+GRI 418: Customer Privacy 2016
+Anti-corruption
+GRI 205: Anti-corruption 2016
+Corporate
+GRI 205: Anti-corruption 2016
+Governance
+Impact of COVID-19 on Material Factors
+Globally, manufacturing industries have taken a major hit from the COVID-19 outbreak. The
+disruptions posed by the outbreak could affect the achievement of the ESG targets for FY2020. We
+will continue to assess the uncertainties of cOVID-19 on our operations, and the targets for FY2020
+will be closely monitored against this assessment and adjusted, if necessary, to reflect the latest
+developments of the pandemic.
+4.2.
+Environmental
+4.2.1.
+Energy and Emissions
+A large portion of our operation costs are attributed to electricity usage in the
+manufacturing process. We recognise that an increase in electricity usage also leads to an
+ increase in greenhouse gas ("GHG") emissions. As such, there is a focus on both energy and
+emissions this year.
+It is also to our belief that improving our energy and emissions performance will lead to
+benefits for our organisation by maximising usage of energy sources, reducing both
+consumption and cost.
+We acknowledge our responsibility to reduce environmental impacts of our business
+operations and commit to minimise our environmental footprints through sustainable
+ practices and initiatives.
+Management Approach
+ASTI places great emphasis on improving energy and emissions performance through energy
+reduction initiatives, for example, increasing the usage of shared office spaces and increasing the
+awareness among employees on the importance of environmental sustainability and the part they
+can play by reducing their energy and emissions consumption.
+Regular monitoring of our energy consumption is conducted in areas such as equipment
+manufacturing, heating, ventilation and air conditioning by implementing a robust monitoring
+system. With implementation of energy monitoring initiatives, we have seen a reduction in
+operational costs.
+6 | Sustainability Report FY2019
+
+Performance Data
+Actual Performance
+% change
+from
+FY2019
+FY2018 to
+FY2018
+FY2019
+Target
+FY2019
+Energy
+Energy Consumption
+269,379
+293,222
++8.8%
+To
+(KWh)
+Energy Intensity
+maintain
+305.76
+281.00
++8.1%
+intensity
+KWh/m2
+within
+Emissions'
+GHG Emissions - Scope 2
+112.86
+122.08
++8.1%
+10% of
+(tc02e)
+FY2018
+GHG Emissions Intensity
+0.118
+0.127
++7.6%
+levels
+(tCO2e/m2)
+Energy intensity and GHG emissions intensity has increased by approximately 8.1% and 7.6%
+respectively from FY2018 to FY2019 due to an increase in sales. This increase is within target of
+maintaining intensity within 10% of FY2018 levels.
+Targets
+Maintain energy and GHG intensity within 10% of FY2019's levels.
+4.3.
+Economic
+4.3.1.
+Economic Performance
+It is our belief that in order to deliver value for all our stakeholders, particularly our
+shareholders, we have to focus on maintaining a strong financial position by carrying out our
+operations in a responsible manner and building resilience throughout our business
+operations for long-term sustainable growth.
+Our financial performance for FY2019 can be found in the Financial Highlights section and
+Appendix 2 - Audited Financial Statements of the Annual Report, to be released in due
+course.
+4.4.
+Social
+4.4.1. Talent Attraction and Retention
+We pride ourselves on our highly motivated and engaged workforce. Our success depends
+on the commitment of our workforce. We are commitment to equal and fair employment
+opportunities as we believe in employing diverse talent which is required for growth and
+ innovation in our business.
+1 This is based on 2018 Grid Emission Factor of 0.4188 kg CO / kWh
+7 | Sustainability Report FY2019
+
+Management Approach
+All our employees are dedicated to deliver the best customer experience, products and services to
+our stakeholders. We collect, track and monitor our human resources (HR) data, including overtime,
+vacation balances and the number of training days on a regular basis. We believe in a transparent
+talent acquisition system. We offer our employees a competitive compensation and a range of other
+benefits. We do not discriminate during our recruitment process and ensure to adopt fair practices
+for all the deserving candidates including persons with disabilities offering remuneration as per
+market standards.
+We also learn from the employees who leave the company through the exit interviews where we
+gather feedback and comments. It gives us some key insights on improvement in our recruitment
+and talent retention system. Our career development initiatives focus on providing all our
+employees with a clear line of sight of their career growth in ASTI.
+We strive to promote a culture of continuous performance appraisal for all job grades, encouraging
+constructive and open communication between managers and their staff.
+These initiatives provide clear insight to our employees to take ownership of their careers and
+progress with acquired skill sets. Our employee annual appraisals are based on the career
+development framework. We believe in more engaging appraisal system where a discussion with
+employee is initiated on their personal development and long-term goals. Our full-time employees
+are provided with benefits which include health care coverage, parental leave and retirement plans.
+There were no part-time employees at ASTI Holdings in FY2019
+Performance Data
+FY2018
+FY2019
+New employees hired, during
+9
+6
+the year
+By gender:
+Female
+5 (56%)
+-
+2 (33%)
+Male
+4 (44%)
+4 (67%)
+By age
+Below 30 years old
+3 (33%)
+-
+2 (33%)
+6 (67%)
+Between 30 to 50
+3 (50%)
+years old
+Above 50 years old
+0
+1 (17%)
+Employee turnover, during the
+0
+3 (6.25%)
+year
+Total employees, by year end*
+52
+45
+By gender:
+Female
+31 (60%)
+25 (63%)
+21 (40%)
+Male
+.
+20 (37%)
+By age:
+6 (12%)
+Below 30 years old
+.
+3 (6%)
+24 (46%)
+Between 30 to 50 years
+21 (47%)
+old
+Above 50 years old
+22 (42%)
+21 (47%)
+*Included transferring out of employees due to divesture of STI Group during the year.
+8Sustainability Report FY2019
+
+Targets
+ASTI's turnover rate (6.25%) for FY2019 is above industry average of 1.6%2; however, this is due to
+the one-time divesture of STI Group.
+For FY2020, ASTI will continue to target to have a turnover rate lower than the industry average of
+that year.
+By reviewing our employee retention strategies ASTI hopes to increase the retention rates therefore
+decrease the turnover rate in 2020.
+4.4.2. Training and Education
+Our success depends on the right pool of talent in the organisation, as such, we believe that
+constantly upgrading and refreshing the skills of our employees keeps us in the forefront of
+the industry
+Management Approach
+Our HR department assesses the current and future skills requirements for our business operations
+and design learning and development programmes to meet these requirements. These programmes
+are tailored to meet the needs of employees and enhance their personal and professional
+development. Our on-site training programmes in latest technology updates allow us to stay on the
+forefront of the industry.
+There are special training programmes for the Senior Management to identify and groom promising
+ individuals as part of our succession planning.
+We monitor the training needs and progress of our employees on regular basis; this helps them to
+take ownership of their career development.
+Performance Data
+In FY2019, the employees were given an average of 3 training hours each. There was no change in
+average training hours per employee from FY2018 to FY2019. In FY2018, total training hours used to
+be split between management (92%), exempt employees (6%) and non-exempt employees (1%),
+however in FY2019, only management receive training as some employees who were supposed to
+ attend training have left in FY2019. New joiners will attend training in FY2020.
+Targets
+For FY2020, we will set our target to provide an average of 3 hours of training to our employees.
+2 1.6% is based on an average from 2019 Q1-Q3 manufacturing industry turnover rate, Ministry of Manpower
+9I Sustainability Report FY2019
+
+4.4.3. Occupational Health and Safety
+Keeping our employees safe is our top priority as we as we believe that our employees
+deserve a safe workplace environment. We are in adherence to global and industrial
+standards and guidelines while providing safe and positive working environment to our
+employees.
+Management Approach
+ASTI has a workplace health and safety committee to promote health and safety initiatives and
+programmes. The committee comprises of management and employee representatives who work
+together to identify any health and safety issues in the workplace, develop and implement corrective
+and preventive action plan. The committee also holds meetings on a regular basis and provides
+recommendations to improve health, safety and working conditions at ASTI.
+There are also established processes to measure and monitor our occupational health and safety
+performance. We have maintained standard operating procedures via a safety handbook which all
+our employees and contractors comply with to ensure safe work practices and provided emergency
+response training and regular health & safety training to our employees. This helps our employees
+identify health and safety hazards and respond to incidents such as accidents, injuries and health
+hazards.
+Fire drills are conducted twice a year to ensure that our employees are familiar with emergency
+procedures during a fire. During our fire drills, all employees and contractors are trained to identify
+and operate fire extinguishers placed in various locations within our premises. Regular inspections
+on fire extinguishers are conducted and signed off. We have displayed emergency evacuation plan in
+our premises which is visible to all our employees and occupants. They are instructed to follow the
+evacuation plan during an emergency.
+Regular maintenance and quality check are carried out on our machines, equipment and work areas
+within our premises for any health and safety risks. Our health & safety team conducts safety drills
+to identify any potential hazards and to monitor the effectiveness of local risk control implemented.
+We have put in place measures to reduce noise and air pollution within and outside our
+manufacturing plants. For example, compressed air guns in our manufacturing plants are used in
+short intervals and regular maintenance and inspections of the compressors are carried out in order
+to cut noise and air pollution. We have displayed signage to use Personal Protective Equipment
+(PPEs) to prevent noise pollution in local languages at high noise areas.
+With the emergence of cOVID-19, we have implemented a series of measures to maintain a safe
+working environment for our employees. Some of the measures include, among other things, travel
+restrictions to countries of operations, on-going communications between management and staff,
+provision of face masks on premise, and safe distancing among employees.
+Performance Data
+With zero reported workplace fatalities and zero major accidents among our employees in FY2o19
+we have hereby achieved our target set for zero workplace fatalities/ injuries for FY2019.
+10 | Sustainability Report FY2019
+
+Targets
+ASTI enjoys a good track record of zero workplace injuries and fatalities and would like to continue
+having it in the future. As such, ASTI's FY2020 goal will be to continue achieve zero workplace
+fatalities and injuries.
+4.4.4. Supplier Assessment
+Our suppliers form an important part of our value chain as they contribute to our
+sustainability goals and business success. Sustainable procurement is important to ASTI for
+us to continue to value add to our stakeholders by maintaining transparency in our value
+chain and ensuring smooth sailing, high quality and on-time production and delivery of our
+products.
+Management Approach
+We carry out due diligence of all our suppliers based on our strict requirements in terms of
+sustainable practices, quality and pricing where we ensure that our suppliers deliver top-quality raw
+materials and products.
+The suppliers who work with us are required to abide by our values and standards and conduct their
+business in an ethical, legal and sustainable manner in addition to meeting the requirements of
+relevant laws and regulations, such as the Restriction of Hazardous Substances (RoHS) Directive,
+which includes a CE-marking directive3.
+We continuously monitor and update our supplier selection process and ensure that only the best
+raw materials are used in the production process. Our current suppliers of raw materials for our
+production of equipment are monitored on a regular basis based on their performance. Any supplier
+that fails to meet the expected quality and delivery requirement is removed from the list of raw
+material suppliers.
+Performance Data
+There were no new suppliers engaged in FY2019. As per the target set for FY2019, ASTI ensured that
+all our suppliers complied with the requirements of the Quality Management System IS0 9001:2015
+and monitors their performance in yearly basis with regards to product quality, delivery and
+response to complaints.
+Targets
+For FY2020, our target would be to ensure that all suppliers comply with the applicable IS0
+standards (e.g. IS09001:2015)
+3 "CE" is as an abbreviation of Conformite Europeenne (European Conformity)
+11 | Sustainability Report FY2019
+
+4.4.5. Compliance with Laws and Regulations
+Compliance with the applicable laws and regulations forms one of the most important pillars
+for sustainable growth and is an essential component of corporate governance in any
+organisation. Our reputation is what it is today because we strive to comply with relevant
+laws.
+Management Approach
+ASTI constantly keeps abreast with changes in the evolving regulatory landscape and has various
+procedures and risk management standards in place. We ensure that all our employees adhere to
+company's values to act with integrity and conduct business in accordance with the highest ethical
+standards.
+Performance Data
+There were zero incidents of non-compliance with laws and regulations in FY2019, as such, the
+FY2019 target was met.
+Targets
+With zero incidents of non-compliance with laws and regulations in FY2019, we have achieved our
+goal set for FY2019 and would like to continue achieving zero incidents of non-compliance with laws
+and regulations for FY2020.
+4.4.6.Environmental Compliance
+Environmental laws in Singapore manage externalities caused by air, water, land and noise
+pollution. ASTI strives for full legal and regulatory compliance, which includes not only
+socioeconomic regulations, but also environmental laws to maintain licence to operate in al
+our locations.
+Management Approach
+Our sites in Singapore are subjected to environmental laws and regulations set by the National
+Environmental Agency (NEA), the Public Utilities Board (PUB) and the Singapore Civil Defence Force
+(SCDF). We keep ourselves updated with any new regulations on environmental compliance which is
+applicable to our business, so that we identify and manage our regulatory risks beforehand.
+Performance Data
+There were zero incidents of non-compliance with environmental compliance in FY2019, as such; the
+target for FY2019 was met.
+Targets
+With zero incidents of non-compliance with environmental laws and regulations in FY2019, we have
+achieved our goal set for FY2019 and would like to continue achieving zero incidents of non-
+compliance with environmental laws and regulations for FY2020.
+12ISustainability Report FY2019
+
+4.4.7. Cyber security
+Cyber security is a key emerging threat in Singapore, as such; we strive to ensure our
+defences against such breaches are sufficient in order to protect our and our stakeholders'
+interests.
+Management Approach
+Cyber security is handled by ASTI's IT department which have routinely updated ASTI's Active
+Antivirus Server to protect all of ASTI's clients' PCs and servers. They also handle an annual health
+check for IT Infrastructure including Servers and Devices (Firewall, VPN Device and Wireless Router).
+During this session, the IT department will update the relevant firmware and related important
+patches. These updates and checks reduce the risk for the devices and servers to have loop holes or
+weakness in security.
+In ASTI, users are made to update their password annually to give them an opportunity to reset their
+password and reduce the possibility of their account being accessed by unauthorised people who
+may know their password.
+Other controls include data access rights to particular data folders in the data server only being
+assigned to authorised users. ASTI has a good and reputable firewall which is constantly updated.
+There is daily back up in place in any case of any breaches such as ransomware; we can easily
+reinstall the data from our backup tape. Normal employees have limited access to the server. In any
+case of malware, there will lower chance of disrupting the data and OS of the server. The company
+website is hosted by external party and not ASTI's own server. This reduces the possibility of hacking
+into ASTI's office server. Lastly, ASTI outsourced email services to Microsoft who possesses an
+advanced scanning system to scan all emails for possible virus and malware. This reduced ASTI's
+cyber security risk significantly as normally the first point of intrusion is through email.
+Performance Data
+There were zero incidents of cyber security breaches in FY2019
+Targets
+There were no cyber security breaches in FY2019 and we continue to target for zero cyber security
+breaches in FY2020.
+13 | Sustainability Report FY2019
+
+4.5.
+Governance
+4.5.1. Anti-corruption
+In ASTI, we do not condone financial crime and are constantly on the looking out for any tell-
+tale signs of corruption which leads to dishonest business practices such as conflict of
+interests, accepting gifts, insider information etc.
+Management Approach
+ASTI has robust policies around anti-corruption. All employees are required to abide by the Code of
+Conduct and policies on corruption within the Group. During employee orientation, all employees go
+through mandatory induction programme, where they are briefed on the Code of Conduct, which
+includes information on workplace ethics and the whistle-blowing policy. We encourage our
+employees to raise their concerns regarding suspected fraud, corruption, dishonest practices or
+other similar matters in a very secured and responsible manner. Any suspicious practices or
+inappropriate activities in the workplace are reported immediately by our workforce to the Head of
+Human Resources ("HR") and/or any member of the Executive Committee in a fair, respectful and
+timely manner. ASTI takes disciplinary action on the employee who is found guilty of fraud,
+ dishonesty or criminal conduct.
+Performance Data
+There were zero incidents of corruption in FY2019, as such; the target for FY2019 was met.
+Targets
+With zero incidents of non-compliance with anti-corruption in FY2019, we have achieved our goal
+set for FY2019 and would like to continue achieving zero incidents of non-compliance with anti-
+corruption for FY2020.
+14 | Sustainability Report FY2019
+
+4.5.2. Corporate Governance
+We strive to have good corporate governance to ensure transparency and accountability at
+all levels of our company to protect and enhance value for our stakeholders. We recognise
+that good corporate governance processes are essential for enhancing corporate
+sustainability. To promote ethical behaviour, employees are always required to adhere to
+the Group's policies and procedures. Our corporate governance practices are set out in
+Appendix 1 - Corporate Governance Report of the Annual Report for FY2019, to be released
+in due course.
+Management Approach
+We perform periodic review of our overall corporate governance in order to progressively
+strengthen our structure and practices. The most recent review was performed in 2019 and we have
+identified the following plans, such as further enhancements to:
+Existing governance practices involving conduct and culture
+Delegations of authority
+Director independence and board composition
+-
+Corporate governance related disclosures in the annual report
+In addition, by the end of FY2020, we aim to further enhance the transparency and accountability to
+our stakeholders by updating governance policies and documentation such as:
+Code of Conduct (for Board)
+Director Conflict of Interest Policy
+-
+ Board Diversity Policy
+Any deviation from the recommended guidelines under the Code of Corporate Governance will be
+disclosed in our Annual Report for FY2019, to be released in due course.
+Performance Data
+ In FY2019, there were no incidents of non-compliance with relevant laws and regulations or conflicts
+of interest.
+Targets
+We will continue to strive for zero incidents of non-compliance with relevant laws and regulations or
+conflicts of interest for the upcoming year.
+15 | Sustainability Report FY2019
+

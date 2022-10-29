@@ -1,0 +1,4194 @@
+
+ 
+
+
+
+
+CONTENTS 
+
+ 
+
+Pg 1 CEO’s Message  
+
+Pg 3 Welcome and Readers Guide 
+
+Pg 4 About Hyflux 
+
+Pg 8 Our Material Issues 
+
+Pg 10 Stakeholder Engagement 
+
+Pg 13 Our Environment 
+
+Pg 22 Governance and Risk Management 
+
+Pg 26 Our People 
+
+Pg 34 Our Community 
+
+Pg 37 GRI Content Index 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We are committed to delivering sustainable and innovative 
+
+environmental solutions for municipalities and industries 
+
+worldwide to address the global resource challenges. 
+
+ 
+
+VISION 
+
+ 
+
+To be the leading company the world seeks for innovative and effective environmental 
+
+solutions 
+
+ 
+
+MISSION 
+
+ 
+
+To provide efficient and cost-effective solutions to meet our clients’ needs through 
+
+innovation and technological advancement 
+
+ 
+
+ 
+
+
+1 
+
+ 
+
+CEO’S MESSAGE 
+
+ 
+
+Dear Stakeholders,   
+
+ 
+
+The financial year ending 31 December 2017 was an extremely difficult year for 
+
+Hyflux Ltd (Hyflux or the Group). We reported our first annual operating loss of 
+
+S$115.6 million in FY2017, due to depressed electricity prices which adversely 
+
+impacted Tuaspring Integrated Water and Power Project (IWPP)’s financial 
+
+performance. The prolonged weakness in the Singapore power market 
+
+continued into 2018 as a result of excess take-or-pay gas in the market 
+
+committed by all the power generation companies, and a lower than projected 
+
+energy demand in the Singapore market. These losses have gradually weakened 
+
+the Group’s balance sheet and its perceived ability to raise new financing. The 
+
+weak power market has also impacted the Group’s ability to divest the Tuaspring 
+
+plant, the largest asset on our balance sheet. In our capital-intensive industry, 
+
+recycling capital through adopting an asset light strategy is a critical element of 
+
+our business model. 
+
+ 
+
+On 22 May 2018, in order to preserve value for stakeholders and reposition 
+
+ourselves for the long term, we proactively and voluntarily applied for a court 
+
+supervised liabilities reorganisation. The reorganisation process is arduous given 
+
+the complexity of our business and the large number of stakeholders involved.  
+
+Through the process so far, we are grateful for the support of our stakeholders, 
+
+including the offtakers of our operating assets, as well as existing clients who 
+
+continue to award us with new projects. Barely five months into the 
+
+reorganisation process, in mid-October 2018, we announced the signing of a 
+
+restructuring agreement with SM Investment Pte Ltd, an Indonesian consortium 
+
+comprising the Salim and Medco Groups, keen on investing in Hyflux. We are 
+
+currently making headway in our discussions on formulating a reorganisation 
+
+plan for our stakeholders to preserve Hyflux’s assets and value, and we are 
+
+hopeful that we will secure the necessary support from all stakeholders in the 
+
+coming months.  
+
+ 
+
+Throughout this process, the Hyflux Board of Directors continue to be fully 
+
+committed to sustainability. We continue to instil good sustainability practices 
+
+in all our business operations and processes during this challenging time in view 
+
+of a long-term growth objective. There is a need to continually inject good 
+
+Environmental, Social and Governmental (ESG) practices in our ongoing projects 
+
+to ensure efficient and fair practices.   
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+In this year’s report, we are adopting the Global Reporting Standards (GRI) 
+
+“Core” which supersede the previous GRI G4 Guidelines. To ensure that we are 
+
+reviewing our sustainability standards, we have performed a re-evaluation of 
+
+our material issues for FY2017 on page 8 where we have outlined our key 
+
+sustainability metrics in FY2017. 
+
+ 
+
+In line with global initiatives to combat climate change, the Singapore 
+
+government announced an initial carbon tax of S$5 per tonne of greenhouse 
+
+emission on large direct emitters from 2019 to 2023. While this upcoming 
+
+regulation will impact our Tuaspring Power Plant and TuasOne Waste-to-Energy 
+
+(WTE) in Singapore, our efforts and technological initiatives towards minimising 
+
+environmental impact across all our facilities and operations over the years will 
+
+position us well for these regulatory changes. 
+
+ 
+
+At the core of our business are our resilient employees who have shouldered 
+
+extra responsibilities without additional compensation or benefits during this 
+
+challenging reorganisation period. They are our greatest asset and their safety 
+
+is of utmost priority to Hyflux. Health and safety polices are strictly adhered to 
+
+by all employees and contractors as we stay committed to ensure that our plants 
+
+and operation sites are accident-free. We will continue to uphold safety 
+
+standards to maintain a good safety record. We will continue to invest in our 
+
+employees’ training and development to enhance and value-add to their 
+
+capabilities. 
+
+ 
+
+Delivering innovative and sustainable environmental solutions to the world has 
+
+always been and will remain core to Hyflux’s business. We continue to strike a 
+
+balance between business, social and environmental objectives as we position 
+
+ourselves more strongly for the future.  As always, we remain mindful of Hyflux’s 
+
+role as a responsible corporate citizen and to treat with care, the environment 
+
+in which we operate.  
+
+ 
+
+Ms Olivia Lum 
+
+Executive Chairman and Group Chief Executive Officer 
+
+
+3 
+
+ 
+
+WELCOME AND READERS GUIDE  
+
+ 
+
+In FY2016, in support of the sustainability reporting initiative by the Singapore Exchange 
+
+(SGX), Hyflux Ltd published our inaugural sustainability report a year ahead of mandatory 
+
+requirement. FY2017 marks our second sustainability report. In this report, Hyflux continues 
+
+to highlight critical sustainability data and how some processes have been refined during the 
+
+year. Hyflux is dedicated to achieving sustainability objectives through maintaining high 
+
+workplace safety standards, creating sustainable environmental solutions, developing 
+
+people, and giving back to the community.  
+
+ 
+
+SCOPE OF THIS REPORT 
+
+ 
+
+Our sustainability report covers data and relevant activities in FY2017 in the Group’s key 
+
+markets in Singapore, China, the Middle East and Africa where we exercise operational 
+
+control. Data is not available in some markets at this point in time. For FY2017, we have 
+
+produced the report in accordance with the Global Reporting Standards (GRI) “Core” which 
+
+supersede the GRI G4 Guidelines. The GRI Content Index can be found on page 37 of this 
+
+report.   
+
+ 
+
+AVAILABILITY 
+
+ 
+
+This sustainability report is available online on our website at www.hyflux.com.  
+
+ 
+
+We have not printed any copy as part of cost cutting and eco-friendly measures. 
+
+ 
+
+FEEDBACK 
+
+ 
+
+Hyflux listens to our stakeholders. We welcome your feedback on this report at 
+
+investor@hyflux.com.  
+
+ 
+
+ 
+
+
+4 
+
+ 
+
+ABOUT HYFLUX 
+
+ 
+
+As a global provider of sustainable solutions, the Hyflux Group is committed to resource 
+
+optimisation and sustainable development. A specialist in water treatment and among the 
+
+top global desalination plant providers, Hyflux is distinctive in its ability to address the 
+
+challenges at every point of the water value chain. The Group has expanded its offerings to 
+
+include power generation and waste-to-energy.  
+
+ 
+
+Headquartered and listed in Singapore, the Group employs over 1,800 employees worldwide. 
+
+Hyflux's track record spans across Asia, the Middle East and Africa. It includes one of the 
+
+world’s largest seawater reverse osmosis desalination plants in Algeria and Asia’s first 
+
+Integrated Water and Power Project in Singapore. 
+
+ 
+
+ 
+
+CORE CAPABILITIES ACROSS THE VALUE CHAIN 
+
+ 
+
+Fully Integrated Solutions Provider 
+
+ 
+
+ 
+
+ 
+
+ENGINEERING, PROCUREMENT AND CONSTRUCTION (EPC)  
+
+ 
+
+The development of large-scale desalination, power and waste-to-energy plants lies at the 
+
+core of Hyflux’s business. Depending on the client’s tender specifications, such construction 
+
+projects are done on an EPC, Build-Operate-Transfer (BOT) or Build-Own-Operate (BOO) 
+
+basis. The TuasOne WTE Plant marks an important milestone for the Group as it widens the 
+
+Group’s capabilities in the total sustainable environmental solution space.  
+
+ 
+
+ 
+
+Research &amp; 
+
+Development
+
+Project Origination/
+
+Market Access
+
+Design &amp; Process 
+
+Engineering
+
+Membrane 
+
+Manufacturing
+
+Engineering, 
+
+Procurement &amp; 
+
+Construction
+
+Operations &amp; 
+
+Maintenance
+
+
+5 
+
+ 
+
+OPERATIONS AND MAINTENANCE (O&amp;M)  
+
+ 
+
+Hyflux operates water, wastewater, water recycling, desalination and power plants 
+
+worldwide. As the Group actively pursues more projects worldwide, coupled with the 
+
+completion of Qurayyat Independent Water Project (IWP) and the TuasOne WTE Plant, we 
+
+expect our O&amp;M contribution to grow in the years to come.   
+
+ 
+
+ 
+
+GEOGRAPHICAL PRESENCE  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Singspring Desalination Plant, Singapore 
+
+ 
+
+The SingSpring Desalination Plant at Tuas is Singapore’s first seawater desalination plant and 
+
+it meets approximately 10% of the nation’s water needs. Under a 20-year build-own-operate 
+
+arrangement with PUB, the plant produces 136,380 million cubic metres per day (m3/day) of 
+
+potable water, enough to fill about 55 Olympic size swimming pools. It adopts reverse osmosis 
+
+technology with semi-permeable membranes. The plant was one of PUB’s pioneering public-
+
+private partnership initiatives and was completed three months ahead of schedule in 
+
+September 2005. The project financing deal was awarded the Euromoney Asia Pacific Water 
+
+Deal of the Year in 2003. This award set a new benchmark in terms of scope as well as 
+
+complexity of execution in the growing market of privately financed water projects. It also 
+
+won Distinction at the Global Water Awards 2006. 
+
+
+
+
+
+
+6 
+
+ 
+
+ 
+
+Tuaspring Integrated Water &amp; Power Project (IWPP), Singapore  
+
+ 
+
+The Tuaspring IWPP is Singapore’s second and largest seawater desalination plant. It is Asia’s 
+
+first IWPP, with desalination capacity of 318,500 m3/day and an on-site 411 megawatt (MW) 
+
+combined cycle gas turbine power plant to supply power to the desalination plant and to the 
+
+National Electricity Market of Singapore. Together with the SingSpring Desalination Plant, it 
+
+can meet up to 25% of the country’s water needs. It won Distinction at the Global Water 
+
+Awards 2014. For water and energy efficiency initiatives, please refer to page 18. 
+
+ 
+
+Magtaa Desalination Plant, Algeria  
+
+ 
+
+With a designed capacity of 500,000 m3/day, the project is one of the world’s largest 
+
+ultrafiltration and reverse osmosis desalination plants. The Group won the bid amidst intense 
+
+global competition with top international players shortly after winning the 200,000 m3/day 
+
+Souk Tleta desalination project in October 2006. This landmark win has helped the Group 
+
+surge ahead in the global water landscape. It has won the Global Water Intelligence (GWI) 
+
+Commendation Award for Desalination Deal of the Year in 2010 and the GWI Commendation 
+
+Award for Desalination Plant of the Year in 2015. 
+
+ 
+
+Souk Tleta Desalination Plant, Algeria 
+
+ 
+
+The Souk Tleta Desalination Plant is a joint venture project with Malakoff AlDjazair Desal Sdn 
+
+Bhd and Algerian Energy Company, the state-owned company handling power and water 
+
+privatisation exercises in Algeria. It marks the Group’s entry into the water treatment market 
+
+in Algeria and the Middle East North Africa region. 
+
+ 
+
+The plant, which is situated just 50 m from the coast, produces water for both the state-
+
+owned water entity and national oil company of Algeria.  
+
+ 
+
+ 
+
+Tianjin Dagang Desalination Plant, People’s Republic of China (PRC) 
+
+ 
+
+The Tianjin Dagang Desalination Plant is the largest membrane-based seawater desalination 
+
+plant in the PRC and one of the world’s most northern large-scale desalination plants. It 
+
+utilises the Group’s proprietary Kristal® polymeric ultrafiltration membranes for the pre-
+
+treatment process, and a double-pass reverse osmosis process to produce water for Tianjin’s 
+
+petrochemical industries. 
+
+ 
+
+Sited next to the existing Dagang power plant, the Tianjin Dagang Desalination Plant derives 
+
+its feed water from the cooling water discharge of the power plant. With the intake water 
+
+being 5°C warmer than the ambient temperature, lower osmotic pressure is required during 
+
+the treatment process, resulting in lower energy consumption and higher efficiency levels. 
+
+The plant’s modular design has also enabled the delivery of water on specification only three 
+
+months from testing and commissioning. 
+
+ 
+
+ 
+
+
+7 
+
+ 
+
+PROJECTS UNDER DEVELOPMENT/ TESTING AND COMMISSIONING 
+
+ 
+
+Qurayyat Independent Water Project (IWP), Sultanate of Oman  
+
+ 
+
+The Group was formally awarded the project from the Oman Power and Water Procurement 
+
+Company (OPWP) following intense global competition. Qurayyat IWP employs reverse 
+
+osmosis technology and has a designed capacity of 200,000 m3/day. Upon completing the 
+
+final stages of testing and commissioning, desalinated water from the plant will be supplied 
+
+to OPWP under a 20-year water purchase agreement, during which Hyflux will also provide 
+
+O&amp;M services to the plant.  
+
+ 
+
+Tuasone Waste-To-Energy (WTE), Singapore 
+
+ 
+
+TuasOne WTE Plant, scheduled for completion in 2019, is Singapore’s sixth and largest WTE 
+
+plant. Designed to process 3,600 tonnes of waste per day and generate 120 MW of clean and 
+
+renewable electricity, the TuasOne WTE Plant will have one of the best land utilisation factors 
+
+in terms of incineration capacity per unit floor area and will also be one of the most efficient 
+
+in terms of energy recovery per unit waste incinerated in the world. For more information on 
+
+environment impact reduction, please refer to page 19. 
+
+ 
+
+ 
+
+Ain Sokhna Integrated Water &amp; Power Project (IWPP), Egypt  
+
+ 
+
+Commissioned by the General Authority for the Suez Canal Economic Zone (SCZone), the plant 
+
+is designed to produce 150,000 m3 of desalinated water per day and generate 457 MW of 
+
+power when completed. Contract negotiations for the project are ongoing.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+8 
+
+ 
+
+OUR MATERIAL ISSUES 
+
+ 
+
+For this sustainability report, we reviewed our material issues from the previous year and have 
+
+conducted a comprehensive materiality analysis to identify and prioritise the environmental, 
+
+social, economic and governance issues important to our internal and external stakeholders. 
+
+Similar to our approach in FY2016, we considered the following factors: risk and regulatory 
+
+requirements, commitments and processes, and relevant issues reported by industry and 
+
+professional associations for our sector. This process is aligned with the GRI Standards (Core) 
+
+framework. 
+
+ 
+
+In FY2017, we have included 10 key material issues, identified through an interactive 
+
+workshop to prioritise sustainability issues relevant to our business.  
+
+ 
+
+We aim to continue to conduct annual reviews of our material issues, as we recognise that 
+
+their materiality may evolve over time. To ensure that we proactively manage our 
+
+sustainability performance, we seek to integrate material environmental and social issues 
+
+from across the organisation into our business approach.   
+
+ 
+
+ 
+
+KEY MATERIAL ISSUES AND UNITED NATIONS SUSTAINABLE 
+
+DEVELOPMENT GOALS 
+
+ 
+
+The key material issues identified as integral to our business are outlined in five key areas 
+
+below and have been used to define the content of this report. We have also identified how 
+
+some of our key focus areas and efforts relate to the United Nations Sustainable Development 
+
+Goals:  
+
+ 
+
+Our Environment 
+
+ 
+
+KEY MATERIAL ISSUES 
+
+RELEVANT SUPPORTING SDGS 
+
+ Water use and reduction 
+
+ Energy efficiency and climate change 
+
+ Air emissions 
+
+ Waste and effluents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+9 
+
+ 
+
+Governance and Risk Management 
+
+ 
+
+KEY MATERIAL ISSUES 
+
+RELEVANT SUPPORTING SDGS 
+
+ Fair and ethical operating practices 
+
+ 
+
+ 
+
+ 
+
+Our People 
+
+ 
+
+KEY MATERIAL ISSUES 
+
+RELEVANT SUPPORTING SDGS 
+
+ Occupational safety and health 
+
+ Talent retention and development 
+
+ Diversity and equal opportunity 
+
+ 
+
+ 
+
+ 
+
+Our Community 
+
+ 
+
+KEY MATERIAL ISSUES 
+
+RELEVANT SUPPORTING SDGS 
+
+ Impact on and communication with local 
+
+communities 
+
+ 
+
+ 
+
+ 
+
+Economic Performance 
+
+ 
+
+KEY MATERIAL ISSUES 
+
+RELEVANT SUPPORTING SDGS 
+
+ Economic and financial contributions to 
+
+the business and its stakeholders (refer to 
+
+page 2 of Hyflux’s annual report FY2017 
+
+for group financial highlights, pages 22-26 
+
+for operating review and pages 59-143 for 
+
+financial statements) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+WHERE DO THESE IMPACTS OCCUR? 
+
+ 
+
+With the exception of talent retention and development as well as diversity and equal 
+
+opportunity which are internally focused, all of the above key material issues have an impact 
+
+on the organisation, internally and externally. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+In FY2017, we reviewed our formal stakeholder mapping exercise to continue identifying our 
+
+key stakeholders across our value chain. Hyflux believes in engaging in a continuous, two-way 
+
+dialogue with our key stakeholders to improve our decision-making process and how we 
+
+assess material environmental and social issues.   
+
+ 
+
+OUR KEY STAKEHOLDERS 
+
+FORMS OF ENGAGEMENT 
+
+KEY TOPICS 
+
+Investment community 
+
+and shareholders 
+
+ Results briefings and quarterly 
+
+earnings call  
+
+ Annual General Meetings and 
+
+Extraordinary General 
+
+Meetings  
+
+ One-on-one meetings and 
+
+investor conferences 
+
+ Site visits 
+
+ Bilateral communication 
+
+ Investor mailbox 
+
+ SGX announcements and press 
+
+releases 
+
+ 
+
+ Financial results 
+
+ Key developments 
+
+ Investor relations 
+
+Clients for municipal 
+
+projects 
+
+ Regular meetings 
+
+ Presentations  
+
+ Tradeshows 
+
+ Site visits  
+
+ Website 
+
+ Bilateral communication 
+
+ Events 
+
+ Operational efficiency 
+
+ Cost-competitiveness 
+
+ Business 
+
+opportunities 
+
+ Environmental and 
+
+social impact 
+
+ Technological 
+
+innovation 
+
+ 
+
+Regulatory and Municipal 
+
+Bodies  
+
+ Forums and dialogues 
+
+ Tradeshows 
+
+ Networking events 
+
+ Roundtable discussions 
+
+ Site visits  
+
+ Seminars  
+
+ Bilateral communication 
+
+ Briefings and consultation 
+
+ Human capital 
+
+development 
+
+ Health, safety and 
+
+compliance  
+
+ Environmental and 
+
+social impacts 
+
+ Regulatory industry 
+
+trend 
+
+ 
+
+ 
+
+
+11 
+
+ 
+
+OUR KEY STAKEHOLDERS 
+
+FORMS OF ENGAGEMENT 
+
+KEY TOPICS 
+
+Trade Associations 
+
+ Association Of Process Industry 
+
+ Hong Kong Electronics &amp; 
+
+Technologies Association 
+
+(HKETA) 
+
+ Membrane Industry Association 
+
+of China (中国膜工业协会) 
+
+ Singapore Business Federation 
+
+ Singapore National Employers 
+
+Federation (SNEF) 
+
+ Singapore Structural Steel 
+
+Society 
+
+ Singapore Water Association 
+
+ The Singapore Chamber of 
+
+Commerce (Hong Kong) 
+
+ 
+
+ Industry updates, 
+
+dialogues and issues 
+
+Business Partners 
+
+(Suppliers and 
+
+Distributors) 
+
+ Tradeshows 
+
+ Site inspection 
+
+ Distributor training programmes 
+
+ Business needs and 
+
+viability 
+
+ Information access 
+
+ Product 
+
+specifications 
+
+ 
+
+Employees 
+
+ Quarterly CEO conversation 
+
+ Performance appraisals  
+
+ Seminars and training sessions, 
+
+including orientation program 
+
+for new staff 
+
+ Intranet communication  
+
+ Safety briefings (for on-site 
+
+employees) 
+
+ Career development 
+
+ Staff welfare  
+
+ Health and safety 
+
+ Staff bonding 
+
+ Company strategic 
+
+direction and 
+
+operational 
+
+performance 
+
+ 
+
+Media 
+
+ Regular communication with 
+
+relevant journalists 
+
+ Media releases and briefings 
+
+ Hyflux’s latest 
+
+developments 
+
+ Financial results 
+
+ 
+
+Local Community  
+
+ Community engagement 
+
+activities  
+
+ Blood donation drives twice a 
+
+year 
+
+ Community projects 
+
+ Local welfare 
+
+organisations 
+
+ Environmental care 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+12 
+
+ 
+
+STAKEHOLDERS ENGAGEMENT DURING THE 
+
+REORGANISATION EXERCISE 
+
+ 
+
+Hyflux acknowledges the support of our stakeholders and remains committed to engaging 
+
+our stakeholders during this period of financial reorganisation. In line with our commitment 
+
+to uphold corporate transparency, we have maintained open channels of communication to 
+
+provide stakeholders with regular updates on the development of this exercise.  
+
+ 
+
+OUR KEY STAKEHOLDERS 
+
+FORMS OF ENGAGEMENT 
+
+Investment community  
+
+and stakeholders 
+
+ Website – financial reorganisation section with  FAQ 
+
+updates on the reorganisation process 
+
+ Support centre hotline for queries on the reorganisation 
+
+process 
+
+ Townhall meetings 
+
+ Regular announcements, affidavits of financial updates and 
+
+court updates 
+
+ Email communication 
+
+ 
+
+Employees 
+
+ CEO conversations and updates 
+
+ Intranet communication  
+
+ Engagement with senior management and heads of 
+
+departments 
+
+ 
+
+Media 
+
+ Media releases 
+
+ Email and phone communication 
+
+ Press conferences 
+
+ 
+
+ 
+
+ 
+
+
+13 
+
+ 
+
+OUR ENVIRONMENT  
+
+ 
+
+PERFORMANCE OVERVIEW 
+
+ 
+
+As a global provider of sustainable solutions, managing the environmental impact of our 
+
+activities and operations is an integral part of Hyflux’s business processes. We are committed 
+
+to reducing our environmental impact through compliance with applicable environmental 
+
+obligations, preventing pollution, reducing waste and continually improving our 
+
+environmental performance. Hyflux exercises a precautionary approach in managing its 
+
+environmental impact. Data in this sustainability report covers: 
+
+ 
+
+1. O&amp;M projects (power and desalination plants): Tuaspring IWPP (Singapore), 
+
+SingSpring Desalination Plant (Singapore) and Tianjin Dagang Desalination Plant 
+
+(China)  
+
+2. EPC projects: TuasOne WTE Project (Singapore) in construction phase and Qurayyat 
+
+IWP (Oman) in testing and commissioning phase 
+
+3. Corporate offices in Singapore: Hyflux Innovation Centre, Hyflux Building and Tuas 
+
+Manufacturing Hub  
+
+ 
+
+ISO 14001 guidelines on environmental management systems govern all of Hyflux’s 
+
+operations, and all construction sites are ISO 14001 certified. Before the commencement of 
+
+any construction project, all necessary due-diligence in the form of Environmental Impact 
+
+Assessments (EIAs) and /or Environmental, Social and Health Impact Assessments (ESHIA) are 
+
+carried out. Close monitoring and follow-ups are conducted throughout the construction 
+
+phase until project completion.  
+
+ 
+
+WATER USE AND REDUCTION [Disclosure 303 – 1] 
+
+ 
+
+The Group’s core business is in water treatment solutions. We are committed to providing 
+
+clean and stable supplies of water to communities around the world.  
+
+ 
+
+Performance 
+
+ 
+
+In FY2017, total water withdrawal at our desalination plants, EPC projects, and corporate 
+
+offices was 436 million m3. More than 99% of total water withdrawal was from surface water1 
+
+which was used for our desalination and power plant operations2. Approximately 40% of the 
+
+seawater withdrawn for desalination was recovered through the reverse osmosis process.  
+
+ 
+
+The increase in water withdrawal from FY2016 to FY2017 was mainly due to the additional 
+
+three months of reporting and tracking period for Tuaspring Power Plant which began 
+
+commercial operations in March 2016. Increase in construction activities for TuasOne WTE 
+
+ 
+
+1 Surface water includes water from wetlands, rivers, lakes, and oceans 
+
+2 Desalination and power plant operations refer to data from Hyflux’s O&amp;M Projects: Tuaspring IWPP 
+
+(Singapore), SingSpring Desalination Plant (Singapore) and Tianjin Dagang Desalination Plant (China) 
+
+
+
+
+
+
+
+
+
+
+14 
+
+ 
+
+and testing and commissioning activities at Qurayyat IWP contributed to the overall increase 
+
+in water withdrawal as well. 
+
+ 
+
+ENERGY EFFICIENCY AND CLIMATE CHANGE  
+
+[Disclosure 302 – 1, 305 – 1, 305 – 2] 
+
+ 
+
+Our energy consumption and greenhouse gas emissions emanate primarily from our 
+
+desalination and power plant operations, as well as our construction projects. 
+
+ 
+
+Performance – Energy Consumption 
+
+ 
+
+In FY2017, Hyflux’s total energy consumption was 1.34 million gigajoules (GJ) compared to 
+
+1.18 million GJ in FY2016.  
+
+ 
+
+Electricity used for desalination and power operations amounted to approximately 87% of 
+
+Hyflux’s total energy consumption. Diesel and fuel oil used to operate generators and cranes 
+
+at our construction projects accounted for approximately 12% of total energy consumption, 
+
+while operations at corporate facilities made up the rest. Total energy consumption from 
+
+FY2016 to FY2017 increased about 13% due to higher construction activities at TuasOne WTE 
+
+and Qurayyat IWP, increased desalination activities in Singspring and Tuaspring as well as the 
+
+additional three months reporting period for Tuaspring Power Plant which began commercial 
+
+operations in March 2016. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+222
+
+313
+
+338
+
+436
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+FY14
+
+FY15
+
+FY16
+
+FY17
+
+million m3
+
+WATER WITHDRAWAL FOR DESALINATION PLANTS, EPC PROJECTS AND CORPORATE OFFICES  
+
+ FY2014                         FY2015                       FY2016                     FY2017 
+
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Given the high energy requirement of desalination, Hyflux has constantly invested in new 
+
+technologies and equipment to improve energy efficiency of our plants. This is evident from 
+
+the lower electricity consumption per m3 of desalinated water produced by our newer plants 
+
+as compared to our older plants. 
+
+ 
+
+Compliance with Mandatory Energy Management Practices 
+
+ 
+
+Since 2014, Hyflux’s two desalination plants in Singapore, the Singspring Desalination Plant 
+
+and Tuaspring IWPP, have been in full compliance with the National Environmental Agency’s 
+
+(NEA) Energy Conservation Act. As per the requirements of the act, we report the energy use 
+
+of the plants periodically and submit an annual Energy Efficiency Improvement Plan for each 
+
+plant. We have also appointed an external qualified energy manager for the compliance of 
+
+NEA regulations to monitor and review the operations in both plants. 
+
+ 
+
+Other energy saving measures such as steam turbine condenser optimisation equipment 
+
+among others were implemented to improve energy consumption across our plants. Such 
+
+energy management initiatives are part of our continuous pursuit of resource efficient 
+
+solutions.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+292,920 
+
+304,202 
+
+241,428 
+
+269,528 
+
+ -
+
+ 50,000
+
+ 100,000
+
+ 150,000
+
+ 200,000
+
+ 250,000
+
+ 300,000
+
+ 350,000
+
+FY14
+
+FY15
+
+FY16
+
+FY17
+
+Breakdown of Energy Consumption 
+
+FY2017 
+
+Desalination and Power Plant 
+
+87.3% 
+
+Construction 
+
+12.0% 
+
+Corporate Facilities 
+
+0.7% 
+
+TOTAL ELECTRICITY CONSUMPTION FOR DESALINATION PLANTS 
+
+MWh 
+
+ FY2014                         FY2015                      FY2016                     FY2017 
+
+
+16 
+
+ 
+
+Energy Management at Hyflux Innovation Centre 
+
+ 
+
+Recognised for its model of innovative environmental design and construction, Hyflux 
+
+Innovation Centre received the BCA Green Mark Platinum Award in FY2012. The building 
+
+features environmentally sustainable designs such as a solar-powered gym and a grey 
+
+water recycling system that utilises Hyflux’s proprietary Kristal® polymeric ultrafiltration 
+
+membranes. Extensive usage of environmental and friendly sustainable materials are used 
+
+within the development as well.  
+
+ 
+
+These innovative measures meet the stringent criteria set by the Building and Construction 
+
+Authority of Singapore and lower energy consumption by approximately 30% and conserve 
+
+about 15.6 million litres of water a year.  
+
+ 
+
+For energy saving purposes, all common areas such as lift landings are also fitted with motion 
+
+sensor lightings. 
+
+ 
+
+Performance – Greenhouse Gas Emissions 
+
+ 
+
+Scope 1 Greenhouse Gas (GHG) emissions generated per megawatt hour (MWh) of electricity 
+
+remained at approximately 0.37 tonnes in FY2016 and FY2017.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+A significant proportion of GHG emissions in the Group can be attributed to the combustion 
+
+of natural gas and diesel used to generate electricity at the Tuaspring Power Plant. Hyflux 
+
+generated about 747.5 thousand tonnes of Scope 1 GHG emissions in FY20173 , an 11.3% 
+
+increase from FY2016. This is due to the additional three months reporting period for 
+
+Tuaspring IWPP in FY2017 compared to FY2016. The level of emissions is in line with industry 
+
+standards. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Source of fuel caloric values: GHG Protocol’s Emission Factors from Cross-Sector Tools (April 2014 version). 
+
+671,538
+
+747,593
+
+620,000
+
+640,000
+
+660,000
+
+680,000
+
+700,000
+
+720,000
+
+740,000
+
+760,000
+
+2016
+
+2017
+
+TOTAL SCOPE 1 GHG EMISSIONS 
+
+ 
+
+ 
+
+tonnes 
+
+ FY2016                                          FY2017 
+
+  FY2016                                    FY2017 
+
+
+17 
+
+ 
+
+Scope 2 GHG emissions from electricity consumption increased approximately 8% from 
+
+approximately 132.3 thousand tonnes in FY2016 to approximately 143.4 thousand tonnes of 
+
+carbon dioxide in FY2017. The increase is attributed to the increase in desalination operations 
+
+and construction activities in FY2017. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+132,321
+
+143,390
+
+126,000
+
+128,000
+
+130,000
+
+132,000
+
+134,000
+
+136,000
+
+138,000
+
+140,000
+
+142,000
+
+144,000
+
+146,000
+
+FY2 0 1 6
+
+FY2 0 1 7
+
+TOTAL SCOPE 2 GHG EMISSIONS 
+
+ 
+
+tonnes 
+
+ FY2016                               FY2017 
+
+
+18 
+
+ 
+
+ 
+
+ 
+
+Tuaspring Integrated Water and Power Project 
+
+ 
+
+ 
+
+ 
+
+ Tuaspring IWPP, Singapore 
+
+ 
+
+To reduce water consumption and increase energy efficiency, Hyflux employs technologies 
+
+and processes to optimise operations. 
+
+ 
+
+Water Reduction Initiatives  
+
+ 
+
+ First industrial plant to be awarded the ABC (Active, Beautiful, Clean) Waters 
+
+certification by PUB, Singapore’s National Water Agency.  
+
+ A bio-retention basin collects and filters surface rain water from 11% of the plant’s 
+
+total site area for reuse in landscape irrigation.  
+
+ 
+
+Energy Reduction Initiatives  
+
+ 
+
+ Compact design to reduce energy footprint per m3 of desalinated water produced. 
+
+ Use of proprietary Kristal® polymeric ultrafiltration membranes, high efficiency 
+
+motors and advanced energy recovery technology to lower energy consumption. 
+
+ Plant architecture designed to take advantage of natural sunlight and sea breeze for 
+
+lighting and cooling respectively. 
+
+ Energy efficiency studies are conducted regularly on equipment and operating 
+
+processes to ensure optimal efficiency and energy reduction. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+19 
+
+ 
+
+ 
+
+ 
+
+TuasOne Waste-to-Energy Plant 
+
+ 
+
+ 
+
+ 
+
+                                                      Ongoing construction of TuasOne WTE Plant,Singapore 
+
+ 
+
+Ensuring Proper Discharge of Air Emissions 
+
+ 
+
+The plant will have a dedicated flue gas treatment system to ensure that air emissions 
+
+discharged comply with more stringent Environmental Protection &amp; Management (Air 
+
+Impurities) Regulations which was implemented since 1 June 2015. The tighter emission 
+
+standards mandated by Singapore’s National Environmental Agency include a new daily 
+
+site-average limit for sulphur dioxide (SO2), aimed at regulating SO2 emissions from 
+
+combustion sources. 
+
+ 
+
+The main processes encompassed by the flue gas treatment system are:  
+
+ Selective non-catalytic reduction to reduce NOx concentration in the flue gas 
+
+ Dry catalytic fabric filter system to remove dust particles, acidic and other gaseous 
+
+pollutants 
+
+ 
+
+Minimising the Environmental Impact of Construction  
+
+ 
+
+Environmental Control Measures are in place to ensure silted water runoff from the 
+
+construction site are treated before being discharged into the public drainage system. 
+
+Monitored by real-time CCTV cameras located near the discharge outlets, alerts will be 
+
+triggered when muddy flows are captured. This is to ensure compliance with the Total 
+
+Suspended Solids (TSS) standard for discharges. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+20 
+
+ 
+
+AIR EMISSIONS [Disclosure 305 – 7] 
+
+ 
+
+Hyflux’s nitrogen oxides (NOx) and sulphur dioxide (SO2) emissions are carefully managed 
+
+across our operations worldwide. We aim to meet all regulatory standards in the jurisdictions 
+
+in which our plants operate, and strive to achieve international best practice.  
+
+ 
+
+NOx emissions4 lowered to approximately 310.3 tonnes in FY2017 from approximately 327.0 
+
+tonnes in FY20165. SO2 emissions stayed relatively similar at 0.4 tonnes in FY2017 and FY2016.  
+
+ 
+
+Compliance with Mandatory Air Emissions Limits 
+
+ 
+
+Source emissions tests are conducted annually at the Tuaspring Power Plant to determine the 
+
+concentration levels of particulate mass (PM), nitrogen oxides (NOx), carbon monoxide (CO) 
+
+and sulphur dioxide (SO2).  
+
+ 
+
+The emissions from the plant are in strict compliance with regulatory limits stipulated in the 
+
+Environmental Protection and Management Act, EPMA 2008 (Air Impurities) Regulations 
+
+2001.  
+
+ 
+
+WASTE AND EFFLUENTS [Disclosure 306-2] 
+
+ 
+
+Desalination Operations 
+
+ 
+
+Large volumes of seawater are used in Hyflux’s reverse osmosis desalination plants to produce 
+
+potable water. High-concentration brine and backwash wastewater, by-products of 
+
+desalination, are discharged back into the sea. Before release, online analysers installed in the 
+
+outfall pipe measure discharge flow rate, dissolved oxygen, turbidity, conductivity, free 
+
+chlorine, temperature and pH. These parameters are monitored continuously by a SCADA6 
+
+system to ensure they fall within allowable limits.  
+
+ 
+
+Samples are also sent regularly to external consultants to measure suspended solids and 
+
+chlorine levels, ensuring all parameters are within regulatory allowance limits. In Singapore, 
+
+all parameters listed in NEA water quality standards of Trade Effluent Discharge to 
+
+Watercourse are also tested, in accordance with regulatory allowable limits. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 Air emissions data is based on measurements made at the Tuaspring Power Plant 
+
+5 NOx emissions in FY2016 was tracked from April to December 2016 
+
+6 SCADA refers to supervisory control and data acquisition, a computer system used for gathering and 
+
+analysing real time data 
+
+
+21 
+
+ 
+
+Construction Projects 
+
+ 
+
+The main types of waste generated at Hyflux’s construction projects include scrap metal, 
+
+wood and small amounts of boiler slag. In addition, some waste such as ash, soil and sludge 
+
+wastes are collected and treated before being sent to landfills. Non-hazardous waste 
+
+generated increased from approximately 770 tonnes in FY2016 to approximately 2,936 
+
+tonnes in FY2017, mainly due to higher construction activities at TuasOne WTE project in 
+
+Singapore and the disposal of temporary structures in the testing and commissioning 
+
+activities at Qurayyat IWP in Oman.  
+
+ 
+
+Corporate Facilities 
+
+ 
+
+Hyflux’s corporate facilities produce mainly domestic and municipal waste, which we work 
+
+with local municipalities to recycle. Non-recyclable waste is treated and disposed of according 
+
+to local regulatory requirements. 
+
+  
+
+WASTE 
+
+DISPOSAL 
+
+METHOD 
+
+FY2016 
+
+FY2017 
+
+TOTAL WEIGHT 
+
+OF WASTE 
+
+ (TONNES) 
+
+PERCENTAGE 
+
+OF 
+
+HAZARDOUS 
+
+WASTE 
+
+TOTAL WEIGHT 
+
+OF WASTE 
+
+(TONNES) 
+
+PERCENTAGE 
+
+OF 
+
+HAZARDOUS 
+
+WASTE 
+
+Recycled waste 
+
+89 
+
+ 
+
+66%  
+
+[Mainly from 
+
+construction at 
+
+Qurayyat IWP7] 
+
+373 
+
+ 
+
+0% 
+
+Incineration  
+
+ 
+
+468 
+
+[Mostly generated 
+
+at TuasOne WTE 
+
+Construction Site8] 
+
+0% 
+
+1603 
+
+[Mostly generated 
+
+at TuasOne WTE 
+
+Construction Site] 
+
+0% 
+
+Landfill 
+
+ 
+
+271 
+
+[Mostly generated 
+
+at Qurayyat IWP 
+
+Construction Site] 
+
+0% 
+
+960 
+
+[Mostly generated 
+
+at Qurayyat IWP 
+
+Construction Site] 
+
+0% 
+
+On-site storage 
+
+[Generated at 
+
+SingSpring 
+
+Desalination Plant 
+
+and Tuaspring 
+
+IWPP’s lab 
+
+facilities9] 
+
+0.06 
+
+100% 
+
+[disposed via 
+
+waste disposal 
+
+contractor] 
+
+0.07 
+
+100% 
+
+[disposed via 
+
+waste disposal 
+
+contractor] 
+
+ 
+
+ 
+
+ 
+
+7 During construction stages, waste generated includes used engine oil and glass reinforced plastic pipes waste 
+
+8 TuasOne WTE waste was tracked from May to December 2016 
+
+9 Lab waste contains caustic substances, sulphuric acid and other chemicals 
+
+
+22 
+
+ 
+
+GOVERNANCE AND RISK MANAGEMENT 
+
+ 
+
+COMPLIANCE [Disclosure 102-18] 
+
+ 
+
+Hyflux believes that good corporate governance is non-negotiable. We are committed to 
+
+achieving high standards of corporate governance and processes that will enhance the 
+
+Group’s effectiveness and ensure the appropriate degree of accountability and transparency 
+
+to increase long-term value. Hyflux adheres to the principles and guidelines of the Singapore 
+
+Code of Corporate Governance issued by the Monetary Authority of Singapore and believes 
+
+that this forms a sound platform for supporting good corporate governance practices.  
+
+ 
+
+Sustainability Governance Structure 
+
+ 
+
+ 
+
+ 
+
+The Board is the Company’s highest governance body that provides general oversight of the 
+
+Group’s activities and is collectively responsible for the Group’s overall strategic direction. 
+
+The Board provides leadership and guidance on corporate strategies, risk policies, corporate 
+
+governance, business directions and performance objectives. To execute its responsibilities, 
+
+the Board delegates specific functions to various Committees, namely, Audit Committee (AC), 
+
+Nominating Committee, Remuneration Committee, Risk Management Committee (RMC) and 
+
+Investment Committee. These Board Committees function within clearly defined terms of 
+
+reference, which are reviewed on a regular basis. The Board is updated on developments 
+
+around sustainability and has reviewed Hyflux’s material environmental, social and 
+
+governance issues. 
+
+ 
+
+In May 2018, the Board advised management to seek advice from professional firms to assess 
+
+the Group’s financial situation. After a review of the financial status of the Group in 
+
+consultation with its advisors, and in the light of the current market situation, the Group 
+
+
+
+
+
+
+23 
+
+ 
+
+voluntarily and pro-actively commenced a court-supervised financial reorganisation process 
+
+by filing for statutory moratorium under Section 211(B) of the Companies Act for five of its 
+
+entities, in order to preserve value for stakeholders.  
+
+ 
+
+RISK MANAGEMENT [Disclosure 102-11] 
+
+ 
+
+The Board recognises the importance of maintaining a sound system of risk management and 
+
+internal control to safeguard stakeholders’ interests and the Group’s assets, and to manage 
+
+risks. The AC and the RMC oversee and ensure that such a system is appropriately 
+
+implemented and monitored.  
+
+ 
+
+The risk management and internal control processes framework are intended to provide 
+
+reasonable but not absolute assurance against material misstatements or loss, to safeguard 
+
+assets and maintenance of proper accounting records, reliability of financial information, 
+
+compliance with appropriate legislations, regulations and best practices, and the 
+
+identification and containment of business risks. 
+
+ 
+
+The RMC framework consists of five Directors and its primary functions are: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To review with management and sometimes with external consultants on areas of risk 
+
+that may affect the viability and smooth operations of the Group, as well as 
+
+management's risk mitigation efforts.
+
+To direct and work with management to develop and review policies and processes to 
+
+address and manage identified areas of risk in a systematic and structured manner.
+
+To make recommendations to the Board in relation to business risks that may affect the 
+
+Group, as and when these may arise.
+
+
+24 
+
+ 
+
+FAIR AND ETHICAL OPERATING PRACTICES [Disclosure 102-16, 102-17] 
+
+ 
+
+Code of Ethics and Conduct  
+
+ 
+
+The Group has an internal Code of Ethics and Conduct in place that covers aspects such as 
+
+anti-corruption and bribery, securities purchase guidelines and conflict of interest. The code 
+
+which is readily accessible through Hyflux’s intranet requires all employees to conduct 
+
+business legally, fairly and with integrity in order to ensure high standards of business 
+
+integrity and compliance with relevant regulations. 
+
+ 
+
+Anti-Corruption and Bribery 
+
+ 
+
+Hyflux adopts a zero tolerance policy towards bribery and corruption and is committed to 
+
+acting professionally, fairly and with integrity in all our business dealings and relationships. 
+
+The Group has a worldwide policy on bribery and prevention of corruption in which any act 
+
+of giving or accepting gratification to or from third parties is prohibited. Risk assessments are 
+
+conducted across the Group as part of the annual internal audit programme to ensure 
+
+compliance. 
+
+ 
+
+An Ethics and Ethical Behaviour course is conducted annually by the Internal Audit 
+
+department to ensure that employees are aware of the common ethical risks and the 
+
+consequences associated with such actions. During the training, employees engage in group 
+
+discussions on case studies and scenarios that pose ethical risks to reinforce the importance 
+
+of ethical behaviour. In addition, reviews on internal procedures and policies are also done 
+
+periodically to ensure adequate controls are in place.  
+
+ 
+
+Whistle-Blowing Policy 
+
+ 
+
+Hyflux’s confidential communication programme encourages employees to promptly report 
+
+a breach or suspected breach of a law, regulation, company policy or other alleged 
+
+irregularities without fear of reprisals, provided such concerns are not raised in bad faith. 
+
+ 
+
+The policy is made available to all employees on Hyflux’s intranet and allows concerns to be 
+
+raised to their line manager, management or various Audit Committee members in 
+
+confidence. Reports on any concerns will be submitted by the Internal Audit department to 
+
+the Audit Committee Members.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+25 
+
+ 
+
+SUSTAINABLE PROCUREMENT [Disclosure 102-9] 
+
+ 
+
+Hyflux recognises the importance and impact of sustainable procurement on the 
+
+organisation, society and the environment. As part of our sustainable supply chain 
+
+management, Hyflux has in place a comprehensive process to work with business partners in 
+
+our supply value chain in a fair and ethical manner, to procure equipment and material which 
+
+comply with technical specifications in all our projects.  
+
+ 
+
+Our Supply Chain 
+
+ 
+
+Hyflux works with a broad range of local and foreign suppliers for the different segments of 
+
+our businesses. The Group’s main suppliers consist of industrial component suppliers for our 
+
+plants, raw material suppliers for production purposes, as well as contractors for general and 
+
+specialised professional services in our projects.  
+
+ 
+
+Hyflux periodically qualifies and appraises the suitability of our suppliers based on a supplier 
+
+scorecard. Suppliers are assessed technically and commercially on their project track record, 
+
+experience and quality among other evaluation criteria. The due diligence process may 
+
+include financial audits, operational risk assessments, and visits to suppliers’ premises and 
+
+reference project sites. Some of our partners do implement their own sustainability practices. 
+
+In general, suppliers with ISO 9001, ISO 14001 and OHAS 18001 certifications are preferred. 
+
+We monitor our suppliers’ and service providers’ compliance with applicable laws, 
+
+regulations, contractual requirements, as well as their quality, human factors, and safety 
+
+standards. To mitigate concentration risk and to ensure sustainable supply streams, Hyflux 
+
+procures from a broad pool of suppliers and service providers. 
+
+ 
+
+ SUPPLY CHAIN UPDATES DURING MORATORIUM [Disclosure 102-10] 
+
+ 
+
+Since May 2018, we have been working closely with our financial advisers to assess the 
+
+position of all suppliers within the context of our future cash flow needs and a future 
+
+reorganisation plan involving all stakeholders, including affected and critical suppliers. As 
+
+Hyflux procures from a broad pool of suppliers and service providers, our critical supply 
+
+stream is continuously assessed to maintain a stable supply. However, there were instances 
+
+where we experienced disruptions due to payment delays at the TuasOne WTE project which 
+
+required attention and further reassessment.  We continue to work closely with our critical 
+
+suppliers for equipment and materials to ensure the completion of our on-going projects, and 
+
+day to day business operations. Hyflux continues to apply the same stringent standards in the 
+
+assessment of quality and suitability of new suppliers during the moratorium.  
+
+ 
+
+ 
+
+ 
+
+
+26 
+
+ 
+
+ OUR PEOPLE 
+
+ 
+
+ 
+
+ 
+
+With more than 1800 employees worldwide, Hyflux is committed to ensuring a safe and 
+
+inclusive workplace for our people at all times. 
+
+ 
+
+OCCUPATIONAL SAFETY AND HEALTH 
+
+ 
+
+Safety is a core value for Hyflux and we are strongly committed to keeping all our plants and 
+
+worksites safe and accident-free for our employees.  
+
+ 
+
+GROUP QUALITY, ENVIRONMENTAL, HEALTH AND SAFETY (QEHS) POLICY  
+
+ 
+
+The Group-wide QEHS policy is applied across all of Hyflux’s operations, services, products, 
+
+activities and projects worldwide. The policy is reviewed annually and from FY2016, energy 
+
+management was included when Tuaspring Power Plant was commissioned. The 
+
+implementation of the policy ensures compliance with applicable quality, environmental, and 
+
+health and safety legal requirements and regulations.   
+
+ 
+
+HOW WE MANAGE SAFETY 
+
+ 
+
+The Group is committed to set and comply with its own health and safety standards across all 
+
+operations, and business unit heads are responsible for ensuring health and safety 
+
+management systems are implemented and complied with on the ground.  
+
+ 
+
+QEHS objectives and performance are monitored and reviewed by the QEHS Management 
+
+Committee. The Group seeks to make continuous safety improvements through the sharing 
+
+of insights gathered from health and safety-related incidents and risks. 
+
+ 
+
+QEHS Committee meetings are also held monthly at all sites for the project manager to 
+
+communicate with key stakeholders on QEHS matters and for performance to be reported.  
+
+ 
+
+REGULAR AUDITS AND CERTIFICATION 
+
+ 
+
+In July 2017, Hyflux passed the annual BS OHSAS 18001:2007 surveillance audit, a testimony 
+
+of our full compliance with international standards for occupational health and safety. The 
+
+bizSAFE Star certification was again awarded to Hyflux from the Singapore Workplace Safety 
+
+and Health Council, recognising our sustained efforts towards promoting good workplace 
+
+safety conditions. 
+
+ 
+
+Safe practices at all of Hyflux’s plants and operations are implemented, practised, 
+
+documented and improved. Regular audits by independent parties are conducted at all sites 
+
+to evaluate the effectiveness and maturity level of Hyflux’s occupational safety and health 
+
+management system. For example, in May and December 2017, Hyflux completed the 
+
+Construction Safety Audit Scoring System (ConSass) conducted by an independent auditor at 
+
+
+
+
+
+
+27 
+
+ 
+
+the TuasOne WTE Plant. Such evaluations are essential to help the Group better allocate 
+
+resources to improve safety and health standards on its sites.  
+
+ 
+
+HEALTH AND SAFETY TRAINING FOR ALL EMPLOYEES 
+
+ 
+
+At Hyflux, we recognise the role employees play in workplace safety and the importance of 
+
+instilling a culture of proactive individual involvement, personal accountability and continuous 
+
+improvement amongst employees. Training for health and safety is an ongoing effort which 
+
+includes day-to-day safety sharing tips, workshops, toolbox sessions and masterclasses, to 
+
+equip employees with relevant technical knowledge, safety awareness and Hyflux’s values for 
+
+a safe working environment. Mandatory in-house QEHS management system training is also 
+
+provided to all supervisory personnel for projects.  Contract workers and all new workplace 
+
+staff also attend a QEHS induction training to ensure they are trained in proper safety practices 
+
+before starting work. For employees engaged in high-risk work, monthly training sessions and 
+
+refresher courses are conducted. 
+
+ 
+
+At project sites, health and safety practices are reinforced in the following ways.  
+
+ 
+
+i. 
+
+Weekly mass QEHS talk – QEHS officer communication and consultation with all at site 
+
+ii. 
+
+Monthly QEHS committee meeting – project manager communicates with 
+
+representatives of all project stakeholders in resolving QEHS matters and grievances  
+
+iii. 
+
+Monthly QEHS committee inspection – QEHS inspection by project manager of all 
+
+stakeholders’ on-site behaviour and facilities. Areas for improvement are identified.  
+
+ 
+
+All staff on Hyflux sites are also made aware of Emergency Preparedness and Response 
+
+procedures and evacuation plans in cases of non-routine incidents, accidents and emergency 
+
+situations.  
+
+ 
+
+ 
+
+Health, Safety and Environmental (HSE) Day 
+
+ 
+
+ 
+
+ 
+
+                                                                                                                                                            Emergency response drills at Tuaspring IWPP 
+
+ 
+
+Health, Safety and Environmental Day is organised annually at Hyflux’s plants. Through 
+
+emergency response drills and quizzes, employees are equipped with the relevant technical 
+
+knowledge and safety awareness to respond swiftly to potential emergency scenarios. 
+
+ 
+
+ 
+
+
+
+
+
+
+28 
+
+ 
+
+FORMAL WORKER REPRESENTATION  
+
+ 
+
+All our employees at our EPC sites and Singapore corporate offices are represented in formal 
+
+joint management-worker health and safety committees that monitor occupational health 
+
+and safety issues.   
+
+ 
+
+CONTRACTORS  
+
+ 
+
+Hyflux’s contractors are expected to align with the Group’s high expectations of workplace 
+
+safety and health. To ensure compliance, certain conditions are stipulated and made known 
+
+to all contractors during the pre-contract stage.  
+
+ 
+
+SAFETY PERFORMANCE [Disclosure 403-2] 
+
+ 
+
+In FY2017, we have again achieved zero fatalities across our construction sites and operations. 
+
+Hyflux is also proud to achieve “4 Million Safe Man-Hours” at our Qurayyat IWP. 
+
+ 
+
+Non-fatal workplace injuries in Singapore involved five male employees and one female 
+
+employee, resulting in 107 and 29 lost days respectively. Total number of man hours worked 
+
+was 4,453,082. In Algeria and Oman, three male employees were involved in non-fatal 
+
+workplace injuries resulting in 162 lost days. Total number of man hours worked was 
+
+4,047,231.  
+
+ 
+
+Of the injuries sustained, about 33.3% were sprains and strains, about 22.2% were fractures, 
+
+about 22.2% were caused by foreign particles in eyes, about 11.1% were due to contusions 
+
+while lacerated cuts accounted for the remaining injuries. 
+
+ 
+
+In FY2017, for operations in Singapore, Algeria and Oman, Hyflux’s accident frequency rate 
+
+(AFR) was 1.3 and 0.7 respectively.  The accident severity rate (ASR) in Singapore was 30.5 
+
+while the ASR was 40.0 in Algeria and Oman.  The Group’s overall AFR saw an improvement 
+
+from 2.3 to 1.1, while the Group’s overall ASR maintained at 35.0.  
+
+ 
+
+ 
+
+ACCIDENT FREQUENCY RATE (AFR) 10 
+
+FY2016 
+
+FY2017 
+
+Singapore 
+
+3.6 
+
+1.3 
+
+Algeria and Oman 
+
+0.9 
+
+0.7 
+
+Group 
+
+2.3 
+
+1.1 
+
+ 
+
+ 
+
+ 
+
+10 Accident Frequency Rate (AFR) = (No. of Workplace Accidents Reported/Total No. of Man-hours worked) x 
+
+1,000, 000 
+
+
+29 
+
+ 
+
+ACCIDENT SEVERITY RATE (ASR)11 
+
+FY2016 
+
+FY2017 
+
+Singapore 
+
+49.3 
+
+30.5 
+
+Algeria and Oman 
+
+18.4 
+
+40.0 
+
+Group 
+
+35.0 
+
+35.0 
+
+ 
+
+ 
+
+OUR EMPLOYEES 
+
+ 
+
+Hyflux has over 1800 employees based 
+
+in our offices and sites worldwide. In 
+
+two 
+
+of 
+
+our 
+
+largest 
+
+workforces 
+
+worldwide, 27.3% of our employees in 
+
+Singapore are in full-time permanent 
+
+positions while 100% of our employees 
+
+in China are in full-time permanent 
+
+positions. 
+
+ 
+
+ 
+
+Diversity and Equal Opportunity 
+
+ 
+
+In accordance with Fair Employment Practices espoused by the Tripartite Alliance for Fair and 
+
+Progressive Employment Practices (TAFEP), Hyflux provides equal employment opportunities 
+
+regardless of gender or age. For instance, we have assigned female engineers to overseas 
+
+projects in Algeria.  The Company also offers re-employment to employees who have reached 
+
+retirement age. Hyflux’s commitment to progressive employment practices is further 
+
+demonstrated by our involvement in the Human Capital Partnership with TAFEP and the 
+
+Ministry of Manpower in Singapore which is geared towards enhancing local workforce 
+
+competitiveness. 
+
+ 
+
+Hyflux is also a participant in the Workforce Singapore Career Support Programme (CSP). The 
+
+CSP encourages employers to offer suitable job opportunities to eligible Singaporean 
+
+professionals, managers, executives and technicians who have been unemployed for at least 
+
+six months, and to tap on the wealth of experience they bring to the workplace. Currently, we 
+
+have four employees under this programme and will continue to leverage it as a channel for 
+
+recruitment.  
+
+ 
+
+Gender Diversity in Hyflux [Disclosure 405-1] 
+
+ 
+
+In Singapore, two out of five key management committee members are female, 35.1% of 
+
+senior management employees and 35.9% of non-senior management employees are female. 
+
+While we have strived to achieve gender diversity throughout our employee categories, the 
+
+ 
+
+11 Accident Severity Rate (ASR) = (No. of Man-Days lost to Workplace Accidents/Total No. of Man-hours 
+
+worked) x 1,000, 000. ASR excludes fatalities.  
+
+81.7%
+
+7.9%
+
+5.8%
+
+4.6%
+
+SINGAPORE
+
+CHINA
+
+ALGERIA 
+
+OMAN
+
+BREAKDOWN OF WORKFORCE BY 
+
+GEOGRAPHY
+
+
+30 
+
+ 
+
+category of non-executive employees is male-dominated as the jobscopes are physically-
+
+intensive. These jobscopes include the construction work at our manufacturing plants and 
+
+production lines, which are not traditional career choices for females.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Talent Development 
+
+ 
+
+PERFORMANCE REVIEW [Disclosure 404-3] 
+
+ 
+
+Our people play a vital role in the development of Hyflux’s business. Performance appraisals 
+
+are conducted annually at Hyflux to better understand our employees’ development. All 
+
+corporate employees are evaluated by their managers and given feedback on their strengths 
+
+60%
+
+64.9%
+
+64.5%
+
+99.6%
+
+40%
+
+35.1%
+
+35.5%
+
+0.4%
+
+KEY MANAGEMENT
+
+SENIOR 
+
+MANAGEMENT
+
+EXECUTIVE 
+
+EMPLOYEES
+
+NON-EXECUTIVE 
+
+EMPLOYEES
+
+BREAKDOWN OF GENDER BY EMPLOYEE CATEGORY
+
+Male
+
+Female
+
+20.6%
+
+36.2%
+
+20%
+
+64.9%
+
+65.7%
+
+62.2%
+
+80%
+
+35.1%
+
+13.7%
+
+1.6%
+
+KEY MANAGEMENT
+
+SENIOR MANGEMENT
+
+EXECUTIVE 
+
+EMPLOYEES
+
+NON-EXECUTIVE 
+
+EMPLOYEES
+
+BREAKDOWN OF AGE GROUP BY EMPLOYEE CATEGORY
+
+Under 30 years old
+
+30 - 50 years old
+
+Over 50 years old
+
+
+31 
+
+ 
+
+and areas for improvement. Employees’ career progression, key performance indicators and 
+
+rewards are also openly discussed and determined at this annual appraisal. A training needs 
+
+analysis is also conducted to identify skill gaps so that employees can thereafter be provided 
+
+with the suitable coaching and training sessions tailored to help improve their performance.  
+
+ 
+
+LEARNING AND DEVELOPMENT [Disclosure 404-1] 
+
+ 
+
+Hyflux’s learning and development practices are based on ISO 9001 standards. In FY2017, 
+
+training hours per employee improved from 25.5 hours to approximately 28.1 hours, 
+
+exceeding ISO’s target of 16 hours per employee. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+At Hyflux, we believe in nurturing the full potential of our employees, by providing 
+
+opportunities to develop their careers and capabilities, regardless of age, gender or 
+
+ethnicity through training courses, on-the-job training, job rotations, overseas postings and 
+
+mentorship. An in-house training academy led by dedicated personnel manages the 
+
+customised training needs of our employees.  
+
+ 
+
+Courses in the following categories are made available to all corporate employees:
+
+ 
+
+On top of the courses designed in-house, employees are also encouraged to attend courses 
+
+organised by external organisations to continually improve their skills and capabilities relevant 
+
+to their job scopes.    
+
+ 
+
+Talent Acquisition  
+
+ 
+
+In Singapore, Hyflux participates in the national effort to groom talents from the community 
+
+and contribute to the progress of the economy. We have engaged in government initiatives 
+
+such as the Singapore-Industry Scholarship (SgIS), Young Talent Programme Scholarship (YTP) 
+
+and the SkillsFuture Earn and Learn Programme. Upon graduation, students from the SgIS 
+
+Scholarship and YTP programme join Hyflux and undergo a rigorous management trainee 
+
+programme, aimed at nurturing their leadership ability. The SkillsFuture Earn and Learn 
+
+AVERAGE TRAINING HOURS PER EMPLOYEE IN FY2017
+
+28.1
+
+Executive 
+
+employee: 
+
+30.9
+
+Senior 
+
+management:
+
+11.3
+
+Male 
+
+employee: 
+
+34.5
+
+Female
+
+employee: 
+
+16.4
+
+Orientation 
+
+Series
+
+Personal 
+
+Effectiveness 
+
+Series
+
+Managerial 
+
+Series
+
+Internal Subject 
+
+Matter Expert 
+
+Series
+
+Technical 
+
+Lecture Series
+
+
+32 
+
+ 
+
+Programme is a work-learn programme to support fresh graduates’ transition into the 
+
+workforce where participants are trained in industry-relevant skills through an 18-month job 
+
+attachment. In total, more than 10 employees were recruited through these programmes and 
+
+initiatives. 
+
+ 
+
+Talent Retention  
+
+ 
+
+Hyflux places great emphasis on building our bench strength to bring the Group into its next 
+
+phase of growth. With global operations spanning the Middle East, Africa, Latin America and 
+
+Asia, Hyflux encourages Singapore-based employees to move geographically to gain a deeper 
+
+understanding of overseas markets, develop their leadership capabilities and foster global 
+
+mindsets.  
+
+ 
+
+Localisation is another important pillar for our overseas operations and expansion. Locally-
+
+recruited staff are encouraged to take on key roles, as they can add value with their local 
+
+socio-political and cultural insights. While recruitment is typically limited to Singapore-based 
+
+students, the Hyflux Internship Programme was opened to students in Oman for the past two 
+
+years to attract young local talents to join Hyflux at the Qurayyat IWP.  
+
+ 
+
+The Company has also introduced Flexible Work Arrangement which enables employees to 
+
+achieve greater work-life balance, improve staff morale and productivity while enabling the 
+
+organisation to motivate and retain valued employees. Common arrangements include tele-
+
+commuting, staggered working hours and part-time work arrangement.  
+
+ 
+
+Welfare 
+
+ 
+
+Hyflux’s employee policies, including leave entitlements, meet all requirements of the 
+
+Employment Act (Singapore).  
+
+ 
+
+A healthy worker is a productive worker. To encourage our employees to embark on a healthy 
+
+lifestyle, Hyflux organised various health-related talks as well as lunchtime fitness classes. 
+
+Hyflux also provides a fully-equipped gym, free fruits and snacks in its corporate headquarters 
+
+for the benefit of employees.  
+
+ 
+
+Lunch talks covering topics such as financial management and healthy-living are organised to 
+
+promote an open platform for information sharing. Lunch is also provided during these events 
+
+to allow opportunities for networking amongst colleagues from different work functions. 
+
+Festive bazaars are also organised for our employees to enjoy promotions and shop for 
+
+curated products conveniently.  
+
+ 
+
+More employee benefits including introduction of birthday leave, reimbursement of 
+
+professional membership fees, increased cash bonuses for long serving employees, 
+
+reimbursement of quarterly team bonding expenditure and enhancement of employees’ 
+
+outpatient medical plans will be rolled out in FY2018.  
+
+ 
+
+
+33 
+
+ 
+
+As Hyflux progresses through the reorganisation process, it is critical to keep our internal 
+
+stakeholders updated and informed. Our management team continues to work closely with 
+
+employees to review and streamline work processes to improve workflow and boost 
+
+productivity.  
+
+ 
+
+ 
+
+
+34 
+
+ 
+
+OUR COMMUNITY 
+
+ 
+
+ 
+
+ 
+
+CREATING POSITIVE IMPACTS ON OUR LOCAL COMMUNITY  
+
+[Disclosure 413-1] 
+
+ 
+
+Raising Eco-Consciousness 
+
+ 
+
+Leveraging our technical expertise in water filtration technologies, Hyflux has been supporting 
+
+Wildlife Reserve Singapore (WRS) in their “Go Green For Wildlife” campaign since FY2016. As 
+
+part of the project, Hyflux developed and installed a total of 27 customised potable water 
+
+dispensers across all four WRS parks including the Singapore Zoo, River Safari, Night Safari 
+
+and Jurong Bird Park, to encourage park guests to use refillable bottles. Equipped with infra-
+
+red sensors that automatically dispense water, the dispensers are fitted with screen counters 
+
+which show the number of single-use plastic bottles saved daily. More than a million plastic 
+
+bottles have been saved since the launch of the campaign. In addition, in conjunction with 
+
+the campaign, Hyflux and WRS produced a co-branded high quality refillable bottle, made 
+
+from Tritan™ copolyester, a BPA-free and shatter-resistant material, which is available for sale 
+
+in WRS’ retail outlets.  
+
+ 
+
+In addition, Hyflux specially designed an environmental awareness e-learning course for 
+
+employees to have a better understanding of how they can make a difference to the 
+
+environment. 
+
+ 
+
+Community Programmes 
+
+ 
+
+Hyflux also supported various community programmes in Singapore. In partnership with the 
+
+Singapore Red Cross Society, we organised two public blood donation drives at our corporate 
+
+headquarters in Singapore in FY2017. 182 staff responded to the cause and a total of 135 units 
+
+of blood were collected.  
+
+ 
+
+Hyflux supported the National Reading Movement through two initiatives by National Library 
+
+Board. The WondeRead Box Programme saw our employees selecting and packing books that 
+
+benefited 35 underprivileged children. At the “Read to Others” programme, Hyflux’s 
+
+employees spent a meaningful morning interacting and reading to seniors at the Lion's Home 
+
+for the Elder. 
+
+ 
+
+Hyflux has also directed our community efforts towards health-related causes. In support of 
+
+TOUCH Diabetes Cycling Fundraising, Hyflux sponsored a total of 100 litres of water to the 27 
+
+cyclists who cycled a distance of 85km to raise funds for diabetic patients. The mix of cyclists 
+
+included patients living with diabetes and family members of diabetic patients. Separately, 
+
+Hyflux also sponsored a booth at the World Diabetes Day event organised by the Diabetic 
+
+Society of Singapore held on 12 November 2017 at Suntec Convention Centre. 
+
+ 
+
+ 
+
+
+
+
+
+
+35 
+
+ 
+
+Educational Site Visits 
+
+ 
+
+In FY2017, Hyflux hosted more than 20 educational site visits at our Tuaspring IWPP for 
+
+schools, educational institutions, ministries and government-linked bodies. During the visits, 
+
+our O&amp;M employees showcased the systems and technology behind the desalination process, 
+
+as well as the Singapore approach to water resource management. 
+
+ 
+
+SCHOOLS AND EDUCATIONAL INSTITUTIONS 
+
+SINGAPORE 
+
+ Ministry of Education School Cluster, North Zone 8 
+
+ Nanyang Polytechnic 
+
+ NUS Business School 
+
+ Republic Polytechnic 
+
+ Singapore Institute of Management 
+
+ Singapore Polytechnic 
+
+ Temasek Foundation International Water Leaders Programme 
+
+INTERNATIONAL 
+
+ NTPC School of Business, India 
+
+ 
+
+GOVERNMENT AND GOVERNMENT-LINKED BODIES 
+
+SINGAPORE 
+
+ Chinese Development Assistance Council  
+
+ Civil Service College 
+
+ Public Utilities Board 
+
+ Urban Redevelopment Authority 
+
+INTERNATIONAL 
+
+ Chiba Prefectual Water Works Bureau 
+
+ Embassy of the Arab Republic of Egypt in Singapore 
+
+ Iskandar Regional Development Authority 
+
+ Kinmen County Waterworks 
+
+ Korea Agency for Infrastructure Technology Advancement 
+
+ Korea Water and Wastewater works Association 
+
+ Ministry of Land, Infrastructure &amp; Transportation, Korea 
+
+
+36 
+
+ 
+
+ Ministry of Planning and Finance, Myanmar 
+
+ Myanmar Investment Commission 
+
+ Saline Water Conversion Corporation 
+
+ Water Resources Bureau, Tainan City Government 
+
+ 
+
+ 
+
+Community Investments 
+
+ 
+
+MAY 2017 
+
+ North West Community Development Council, for Club-100@North 
+
+West Fundraising Golf 2017  
+
+ 
+
+JUNE 2017 
+
+ To Singapore Water Association (SWA), for SWA Golf 2017 in 
+
+conjunction with Singapore International Water Week  
+
+ To Singapore Investors Association Singapore, to pledge and support 
+
+corporate governance  
+
+ 
+
+JULY 2017 
+
+ To Singapore-Industry Scholarship (SgIS Scholarship)  
+
+OCTOBER 2017 
+
+ To  HCA Hospice, for HCA Hospice Charity Golf 2017   
+
+NOVEMBER 
+
+2017 
+
+ To TOUCH Diabetes, for TOUCH Diabetes Cycling Fundraising  
+
+ To Diabetic Society of Singapore, for World Diabetes Day 2017 
+
+ 
+
+In FY2017, a total contribution of $41,405 in kind/cash was made by Hyflux towards 
+
+community investments in Singapore.   
+
+ 
+
+While we strive to have a positive impact on our communities, we are mindful of the need to 
+
+balance this objective and operate in a prudent and sustainable manner. We will continue to 
+
+develop a sustainable model for community investments and programmes, and look into 
+
+nurturing the spirit of giving amongst our employees, encouraging our employees to 
+
+volunteer and to take part in meaningful community projects and initiatives which are aligned 
+
+with our company’s values. In addition, we will also encourage our employees to embark on 
+
+skills-based volunteering wherever applicable, so that they can make use of their skills and 
+
+knowledge to benefit the community. 
+
+ 
+
+ 
+
+
+37 
+
+ 
+
+FY2017 GRI Content Index 
+
+ 
+
+This report is prepared in accordance with the GRI Standards (Core Option) 
+
+ 
+
+GENERAL STANDARD DISCLOSURES  
+
+GRI 
+
+Standard 
+
+Disclosures 
+
+Disclosure Title 
+
+Section Reference 
+
+Page 
+
+Reference 
+
+Organisational Profile  
+
+102-1 
+
+Name of the organisation 
+
+Welcome and Readers Guide 
+
+Pg 3 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+About Hyflux 
+
+Pg 4 
+
+102-3 
+
+Location of headquarters 
+
+About Hyflux 
+
+Pg 4 
+
+102-4 
+
+Location of operations 
+
+Geographical Presence 
+
+Pg 5 
+
+102-5 
+
+Ownership and legal form 
+
+About Hyflux 
+
+Pg 4 
+
+102-6 
+
+Markets served 
+
+Geographical Presence 
+
+Pg 5 
+
+102-7 
+
+Scale of the organisation 
+
+About Hyflux 
+
+Pg 4 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+Our People &gt; Our Employees 
+
+Pg 29 
+
+102-9 
+
+Supply chain  
+
+Sustainable Procurement  
+
+Pg 25 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain  
+
+Sustainable Procurement  
+
+&gt; Supply Chain Updates during 
+
+Moratorium 
+
+Pg 25 
+
+102-11 
+
+Precautionary Principle or 
+
+approach  
+
+Governance and Risk 
+
+Management 
+
+Pg 22 - 23 
+
+102-12 
+
+External initiatives  
+
+Our Community 
+
+Pg 34 
+
+102-13 
+
+Membership of associations 
+
+Stakeholder Engagement 
+
+Pg 10 - 11 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+CEO’s Message 
+
+Pg 1 - 2 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, standards, 
+
+and norms of behaviour 
+
+Fair and Ethical Operating 
+
+Practices 
+
+Pg 24 
+
+102-17 
+
+Mechanisms for advice and 
+
+concerns about ethics 
+
+Fair and Ethical Operating 
+
+Practices 
+
+Pg 24 
+
+ 
+
+ 
+
+
+38 
+
+ 
+
+GRI 
+
+Standard 
+
+Disclosures 
+
+Disclosure Title 
+
+Section Reference 
+
+Page 
+
+Reference 
+
+Governance 
+
+102-18 
+
+Governance structure  
+
+Governance and Risk 
+
+Management &gt; Compliance 
+
+Pg 22 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+Pg 10 - 11 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+N.A 
+
+N.A 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+Pg 10 - 11 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+Pg 10 - 11 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+Pg 10 - 11 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Please refer to Hyflux Annual 
+
+Report 2017 
+
+N.A 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries  
+
+Our Material Issues 
+
+Pg 8 
+
+102-47 
+
+List of material topics 
+
+Our Material Issues &gt; Key 
+
+Material Issues and United 
+
+Nations Sustainable 
+
+Development Goals 
+
+Pg 8 - 9  
+
+102-48 
+
+Restatements of information 
+
+N.A 
+
+There are no restatements of 
+
+information in this report 
+
+N.A 
+
+102-49 
+
+Changes in reporting 
+
+Welcome and Readers Guide &gt; 
+
+Scope of this report 
+
+Pg 3 
+
+102-50 
+
+Reporting period 
+
+Welcome and Readers Guide &gt; 
+
+Scope of this report   
+
+(This report is published 
+
+annually and covers the same 
+
+period as the financial year of 
+
+the company, i.e. January - 
+
+December 2017) 
+
+Pg 3 
+
+102-51 
+
+Date of most recent report 
+
+Welcome and Readers Guide  
+
+(Our last sustainability report 
+
+was published in May 2017) 
+
+Pg 3 
+
+102-52 
+
+Reporting cycle 
+
+Welcome and Readers Guide &gt; 
+
+Scope of this report   
+
+Pg 3 
+
+
+39 
+
+ 
+
+GRI 
+
+Standard 
+
+Disclosures 
+
+Disclosure Title 
+
+Section Reference 
+
+Page 
+
+Reference 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+Welcome and Readers Guide &gt; 
+
+Feedback 
+
+Pg 3 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+Welcome and Readers Guide &gt; 
+
+Scope of this report   
+
+Pg 3 
+
+102-55 
+
+GRI content index 
+
+FY2017 GRI content index 
+
+Pg 37 
+
+102-56 
+
+External assurance 
+
+N.A 
+
+N.A 
+
+ECONOMIC DISCLOSURES   
+
+Economic Performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+Please refer to Hyflux Annual 
+
+Report 2017 
+
+N.A 
+
+Anti-Corruption 
+
+205-2 
+
+Communication and training 
+
+about anti-corruption policies 
+
+and procedures 
+
+Fair and Ethical Operating 
+
+Practices &gt; Anti-Corruption 
+
+and Bribery 
+
+Pg 24 
+
+ENVIRONMENTAL DISCLOSURES   
+
+Energy 
+
+302-1 
+
+Energy consumption within 
+
+the organisation 
+
+Our Environment &gt; Energy 
+
+Efficiency and Climate Change  
+
+Pg 14 
+
+Water 
+
+303-1 
+
+Water withdrawal by source 
+
+Our Environment &gt; Water Use 
+
+And Reduction 
+
+Pg 13 
+
+Emissions 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+emissions 
+
+Our Environment &gt;  Energy 
+
+Efficiency and Climate change  
+
+Pg 16 
+
+305-2 
+
+Energy indirect (Scope 2) GHG 
+
+emissions 
+
+Our Environment &gt;  Energy 
+
+Efficiency and Climate change 
+
+Pg 17 
+
+305-7 
+
+Nitrogen oxides (NOX), sulfur 
+
+oxides (SOX), and other 
+
+significant air emissions 
+
+Our Environment &gt; Air 
+
+Emissions 
+
+Pg 20 
+
+Effluents and Waste 
+
+306-2 
+
+Waste by type and disposal 
+
+method 
+
+Our Environment &gt; Waste and 
+
+Effluents 
+
+Pg 20 - 21 
+
+ 
+
+ 
+
+
+40 
+
+ 
+
+GRI 
+
+Standard 
+
+Disclosures 
+
+Disclosure Title 
+
+Section Reference 
+
+Page 
+
+Reference 
+
+SOCIAL DISCLOSURES   
+
+Occupational Health and Safety 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational diseases, 
+
+lost days, and absenteeism, 
+
+and number of work-related 
+
+fatalities 
+
+Our People &gt; Safety 
+
+Performance 
+
+Pg 28 - 29 
+
+Training and Education 
+
+404-1 
+
+Average hours of training per 
+
+year per employee 
+
+Our People &gt; Learning and 
+
+Development 
+
+Pg 31 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular performance 
+
+and career development 
+
+reviews 
+
+Our People &gt; Performance 
+
+Review 
+
+Pg 30 - 31 
+
+Diversity and Equal Opportunities 
+
+405-1 
+
+Diversity of governance bodies 
+
+and employees 
+
+Our People &gt; Gender Diversity 
+
+in Hyflux 
+
+Pg 29 - 30 
+
+Local Communities 
+
+413-1 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+Our Community &gt; Creating 
+
+Positive Impacts on our Local 
+
+Community 
+
+Pg 34 
+
+ 
+

@@ -1,0 +1,4540 @@
+
+ 
+
+ 
+
+ 
+
+Focused on Stability, 
+
+Staying on Strategy 
+
+Sustainability Report 2020 
+
+ 
+
+ 
+
+
+
+
+1 
+
+ 
+
+Contents 
+
+Board Statement ......................................................................................................................... 2 
+
+About the Report ......................................................................................................................... 4 
+
+About EC World REIT .................................................................................................................. 5 
+
+Our Sustainability Approach ........................................................................................................ 9 
+
+Sustainability Commitment ....................................................................................................... 9 
+
+Sustainability Governance ........................................................................................................ 9 
+
+Stakeholder Engagement ......................................................................................................... 9 
+
+Our Response to COVID-19 .......................................................................................................12 
+
+Governance ...............................................................................................................................16 
+
+Risk Management ...................................................................................................................16 
+
+Ethics and Integrity .................................................................................................................17 
+
+Whistle-blowing ......................................................................................................................18 
+
+Regulatory Compliance ...........................................................................................................19 
+
+Our Business .............................................................................................................................22 
+
+Quality of Assets .....................................................................................................................22 
+
+Product Innovation..................................................................................................................27 
+
+Our People ................................................................................................................................30 
+
+Profile of Our Workforce ..........................................................................................................30 
+
+Workplace Health and Safety ..................................................................................................31 
+
+Our Environment ........................................................................................................................36 
+
+Energy Use and Greenhouse Gas (GHG) emissions ................................................................36 
+
+GRI Content Index ......................................................................................................................42 
+
+ 
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+Board Statement 
+
+ 
+
+Dear Stakeholders,  
+
+Welcome to our fourth sustainability report for EC World Real Estate Investment Trust (“EC World 
+
+REIT” or the “REIT”). This report, as prepared by EC World Asset Management Pte. Ltd. (“ECWAM” 
+
+or the “Manager”) with the Board’s guidance, features our Environmental, Social and Governance 
+
+(“ESG”) performance from 1 January to 31 December 2020 (“FY2020”).  
+
+This year, the COVID-19 pandemic proved to be a potentially severe threat to the global economy. 
+
+Against this challenging backdrop, EC World REIT remains committed to our efforts in minimising the 
+
+impact of COVID-19 on our operations through our business continuity plans. As the well-being of 
+
+our stakeholders remains our utmost priority, we have various health and safety measures in place 
+
+to protect our people and partners. As a show of togetherness and solidarity with our stakeholders, 
+
+the key management personnel (i.e. Chief Executive Officer, Chief Investment Officer and Deputy 
+
+Chief Financial Officer) of the Manager took a 10% remuneration reduction from April 2020 to June 
+
+2020. Similarly, fees for board directors of the Manager were also reduced by 10% for the 3-month 
+
+period from April 2020 to June 2020. We do not foresee any COVID-19 related material impacts to 
+
+our financial strength in 2020 and beyond, and believe EC World REIT continues to be well-placed to 
+
+manage our sustainability strategy and support our people and partners in every way possible. In this 
+
+year’s report, we have included an “Our Response to COVID-19” section on page 12 which details 
+
+our COVID-19 mitigation strategy. 
+
+Despite COVID-19 implications in 2020, sustainability remains a core tenet to EC World REIT’s 
+
+business, and we continue to make progress across the ESG factors material to our operations. 
+
+ECWAM continues to integrate sustainability into EC World REIT’s strategic formulation through our 
+
+top-down governance structure and framework with the Board’s support. The Board is also informed 
+
+of any material ESG findings and the measures by the senior management. This management 
+
+approach has been endorsed by Forchn Holdings Group Co. Ltd. (“the Sponsor”).  
+
+Responsible corporate governance continues to be at the forefront of our operational strategy as we 
+
+continue to uphold a credible and established governance framework. Our comprehensive suite of 
+
+policies covers all relevant governance aspects, from risk management to whistle-blowing, that 
+
+enables the REIT to identify, examine, and prevent any misbehaviour and negligence. We continue 
+
+to express transparency and credibility to our stakeholders and society via prompt updates and 
+
+circulars (refer to Stakeholder Engagement on Page 9 for more information).  
+
+EC World REIT also recognises the importance of reducing our business’ impact on the environment, 
+
+where one of our focus areas is on energy use and greenhouse gas (GHG) emissions. We continue 
+
+to keep a close eye on our energy use across our assets, adopt energy-efficient lighting, explore the 
+
+use of renewable solar technologies to reduce our reliance on the local electricity grid, and promote 
+
+energy conservation in our employees and tenants. Apart from energy use, EC World REIT has also 
+
+taken steps to manage its water use, waste generation, and emissions of other air pollutants.   
+
+ 
+
+
+3 
+
+ 
+
+In the social realm, the REIT continues to provide a safe and healthy workplace to our stakeholders. 
+
+This year, there were zero fatalities, work-related injuries nor work-related ill health cases for EC 
+
+World REIT’s workers in both China and Singapore. We have also organised the annual fire drill in our 
+
+China properties to ensure that all relevant personnel are equipped with emergency response 
+
+knowledge. Despite the advent of COVID-19 this year, the REIT has continuously put resources into 
+
+product innovation, some of EC World REIT’s properties have also undergone upgrading projects to 
+
+improve our asset quality standards and create a comfortable environment for our tenants. 
+
+We are grateful for the generous support from the Sponsor and all stakeholders in our sustainability 
+
+journey, and we look forward to continuing our advancements in the sustainability space in the 
+
+coming year and beyond.  
+
+ 
+
+Yours sincerely,  
+
+Mr Goh Toh Sim  
+
+on behalf of the Board of EC World Asset Management Pte. Ltd.  
+
+  
+
+
+4 
+
+ 
+
+About the Report 
+
+This report has been prepared in accordance with the internationally recognised GRI Standards: Core 
+
+option and GRI’s Construction and Real Estate Sector Supplement. The Manager also ensures that 
+
+sustainability reporting practices at the REIT comply with SGX-ST Listing Manual Rules 711(A) and 
+
+711(B). External assurance has not been obtained for this reporting period, though we will consider 
+
+doing so as our sustainability reporting journey advances. For questions, suggestions, and feedback 
+
+related to sustainability matters, please send them to Ms Sabrina Tay, Senior Manager (Investor 
+
+Relations) at ir@ecwreit.com.  
+
+Reporting Scope 
+
+This report covers ESG data and practices of EC World REIT for FY2020. 3-year ESG trend analyses 
+
+will be presented with the ESG performance data from FY2018 to FY2020, wherever applicable. The 
+
+reporting scope for FY2020 remains the same as in FY2019, covering our eight properties in China 
+
+and our Corporate Office in Singapore. 
+
+Singapore 
+
+Hangzhou, China 
+
+Wuhan, China 
+
+9 Raffles Place #45-02 
+
+Republic Plaza, Singapore 
+
+(Corporate Office) 
+
+1. Fu Heng Warehouse 
+
+2. Fuzhou E-Commerce 
+
+3. Stage 1 Properties of Bei 
+
+Gang Logistics 
+
+4. Hengde Logistics 
+
+5. Chongxian Port 
+
+Investment 
+
+6. Chongxian Port Logistics 
+
+7. Fu Zhuo Industrial 
+
+8. Wuhan Meiluote 
+
+ Reporting Scope by Geographical Locations in FY2020 
+
+FY2020 Highlights 
+
+ 
+
+Zero non-compliance issues 
+
+ 
+
+No non-compliances with 
+
+environmental and 
+
+socioeconomic laws and 
+
+regulations 
+
+ 
+
+Zero work-related injuries  
+
+ 
+
+No work-related injuries in 
+
+2020 that resulted in staff 
+
+disability or fatality 
+
+ 
+
+Rain 
+
+and 
+
+Sewage 
+
+Pipe 
+
+Network 
+
+Reconstruction 
+
+Project 
+
+ 
+
+Improving 
+
+our 
+
+pipeline 
+
+network, 
+
+increasing 
+
+the 
+
+efficiency 
+
+of 
+
+utilising 
+
+repurposed 
+
+rainwater 
+
+and 
+
+reducing costs of municipal 
+
+sewage treatment.  
+
+ 
+
+Fuzhou E-Commerce 
+
+Photovoltaic Project 
+
+ 
+
+Installation of photovoltaic 
+
+panels in Fuzhou E-
+
+Commerce facility, removing 
+
+air pollution and reducing 
+
+reliance on the grid for 
+
+electricity 
+
+
+
+
+
+
+
+
+
+
+5 
+
+ 
+
+About EC World REIT 
+
+ 
+
+Overview of EC World REIT 
+
+EC World REIT is a Singapore Real Estate Investment Trust (REIT), with a strategy to invest principally, 
+
+directly or indirectly in a diversified portfolio of income-producing real estates. The real estates are 
+
+primarily used for e-commerce, supply-chain management and logistics purposes, as well as real 
+
+estate-related assets, with an initial geographical focus on the People’s Republic of China (the “PRC”). 
+
+The Manager is a wholly-owned subsidiary of the Sponsor – Forchn Holdings Group Co. Ltd. Yuntong 
+
+Property Management Co. Ltd., also a wholly-owned subsidiary of the Sponsor, is the property 
+
+manager (“Property Manager”) for the properties in China.  
+
+1 
+
+ 
+
+EC World REIT’s Structure 
+
+ 
+
+1 As at 31 December 2020. Includes Units held by the Manager. 
+
+
+
+
+6 
+
+ 
+
+ 
+
+EC World REIT’s Vision and Mission 
+
+EC World REIT primarily leases assets in E-Commerce Logistics Facilities, Port Logistics Facilities 
+
+and Specialised Logistics Facilities. The REIT strives to provide our stakeholders and unitholders with 
+
+sustained value generation through enhancement of our assets. This overarching aim has been 
+
+integrated into the REIT’s vision and mission as below: 
+
+ 
+
+ 
+
+Properties of EC World REIT 
+
+ 
+
+ 
+
+
+
+Vision 
+
+ 
+
+EC World REIT aims to be the premier e-
+
+commerce and specialised logistics REIT 
+
+in Asia and strives to create long-term 
+
+value for all of our stakeholders by 
+
+capturing opportunities driven by the fast 
+
+growing e-commerce and specialised 
+
+logistics sectors. 
+
+
+
+Mission 
+
+ 
+
+• Deliver stable, sustainable and growing 
+
+distributions to our unitholders  
+
+• Grow and diversify our portfolio through 
+
+yield accretive acquisitions  
+
+• Offer a differentiated and high-quality 
+
+asset portfolio  
+
+• Adopt active asset management 
+
+strategies to enhance performance and 
+
+value of our properties 
+
+
+
+
+7 
+
+ 
+
+Supply Chain Management 
+
+As a REIT focusing on logistics and e-commerce, EC World REIT is always cognisant of the 
+
+importance of supply chain management in the organisation’s reputation and success. Hence, the 
+
+Manager at EC World REIT strives to actively and responsibly manage the supply chain, with an 
+
+emphasis on procuring materials sustainably.  
+
+EC REIT adopts a twofold evaluation to achieve procurement that maximises benefits for EC World 
+
+REIT and our stakeholders. The products and services our long-term suppliers provide will be 
+
+assessed accordingly, while our short-term suppliers are required to acknowledge and abide by 
+
+terms and conditions related to sustainability considerations. We believe this evaluation will prevent 
+
+inappropriate behaviour and safeguard our stakeholders’ interests.  
+
+  
+
+EC World REIT’s Product Fulfilment Cycle 
+
+EC World REIT asset portfolio is strategic and fulfils critical sections in the supply chain of the e-
+
+commerce and specialised logistics business. The figure below illustrates the role of our different 
+
+asset types. 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+8 
+
+ 
+
+Tenancy Mix and Types of Assets 
+
+As of 31 December 2020, there were a total of 28 different tenants across the portfolio that 
+
+contributed to gross rental income. Figures below show the breakdown of tenancy according to trade 
+
+sector by net lettable area and by valuation. We also present the breakdown of tenancy according to 
+
+trade sector, weighted on gross revenue contribution in 2020. For more information, please refer to 
+
+our Annual Report 2020.  
+
+ 
+
+ 
+
+Tenancy Mix and asset type (breakdown by net lettable area) as of 31 December 2020 
+
+ 
+
+Breakdown of tenancy according to trade sector, weighted on gross revenue contribution in 2020 
+
+25.6%
+
+49.7%
+
+24.7%
+
+By Net Lettable Area
+
+Port Logistics
+
+E-Commerce
+
+Specialised Logistics
+
+40.0%
+
+41.8%
+
+18.2%
+
+By Valuation
+
+Port Logistics
+
+E-Commerce Logistics
+
+Specialized Logistics
+
+37%
+
+27%
+
+23%
+
+12%
+
+1%
+
+By trade sector
+
+Delivery, logistics and distribution
+
+E-commerce services
+
+Others*
+
+Industrial
+
+Trading
+
+Total: 960,461 sq m 
+
+Total: RMB 8.0 b / S$1.6 b 
+
+*Others include Telecommmunication sectors, conglomerates and human resources 
+
+sector 
+
+
+9 
+
+ 
+
+Our Sustainability Approach 
+
+Sustainability Commitment 
+
+As EC World REIT continues to expand its portfolio of assets, the Manager recognises the importance of sustainability as a key business 
+
+driver and a critical component of the REIT’s success. As such, EC World REIT’s sustainable ESG framework, as well as ESG initiatives and 
+
+projects, are incorporated into the REIT’s daily operations. The Manager also seeks to enhance sustainability awareness among our 
+
+stakeholders and unitholders by organising internal training and external advocacy campaigns. With the Sponsor’s continued support and 
+
+our established rapport with our stakeholders, the Manager looks forward to further improving EC World REIT’s sustainability performance 
+
+in the years ahead.  
+
+Sustainability Governance 
+
+At EC World REIT, our Executive Director and Chief Executive Officer Mr Goh Toh Sim leads the assessment of the REIT’s ESG policies and 
+
+practices. The senior management of the Manager and Property Manager facilitate this evaluation and drive these sustainability practices 
+
+and initiatives within the properties held by the REIT.  
+
+Stakeholder Engagement  
+
+The Manager believes that fostering quality stakeholder relationships is key to achieving the goal of sustainable long-term value creation for 
+
+all. As such, the Manager frequently engages with our stakeholders to understand their concerns and respond appropriately. 
+
+ Stakeholders 
+
+Goals 
+
+Mode 
+
+Frequency 
+
+Stakeholders' Concerns 
+
+Our Response 
+
+Unitholders 
+
+Provide clear 
+
+and accurate 
+
+information to the 
+
+investing public 
+
+through timely          
+
+communication    
+
+Telephone calls  
+
+ Ad-hoc 
+
+· Financial performance  
+
+· Outlook and growth   
+
+· Regulatory compliance  
+
+ 
+
+· Proactive investor outreach 
+
+programme 
+
+· Timely communication through 
+
+SGXnet and website  
+
+· Adoption and adaption of relevant 
+
+policies and procedures such as      
+
+Enterprise Risk Management 
+
+(“ERM”), corporate governance 
+
+policies    
+
+Email correspondence 
+
+ Ad-hoc 
+
+AGM/EGM (if 
+
+necessary)  
+
+Annually for 
+
+AGM  
+
+Face-to-face  
+
+Ad-hoc 
+
+Conferences  
+
+Ad-hoc 
+
+Site Visits  
+
+As and when 
+
+required  
+
+Social Media  
+
+As and when 
+
+required  
+
+Corporate Website  
+
+As and when 
+
+required  
+
+Announcements on 
+
+SGX-ST 
+
+At least quarterly 
+
+
+10 
+
+ 
+
+Employees 
+
+and Workers 
+
+Provide a holistic 
+
+and   inclusive 
+
+environment with 
+
+enhanced well-
+
+being and 
+
+productivity, with 
+
+potential for 
+
+growth and self-
+
+development 
+
+Weekly staff meeting   
+
+Weekly  
+
+· Competitive 
+
+remuneration 
+
+· Personal career growth 
+
+ 
+
+· Adoption of competitive 
+
+compensation and benefits 
+
+programme 
+
+ 
+
+Email correspondence 
+
+Ad-hoc 
+
+Open discussion 
+
+ Ad-hoc 
+
+Annual          
+
+performance appraisal  
+
+Annually 
+
+Instant         
+
+messaging apps 
+
+Ad-hoc  
+
+Tenants 
+
+Provide a 
+
+comfortable, 
+
+safe, secured 
+
+and clean work 
+
+environment for 
+
+our tenants   
+
+Telephone calls  
+
+Daily 
+
+· Competitive rental 
+
+· Responsiveness to 
+
+requests and feedback   
+
+· Active discussions on a regular 
+
+basis   
+
+Emails  
+
+Ad-hoc 
+
+Face-to-face 
+
+engagements 
+
+Ad-hoc 
+
+Real-time problem 
+
+solving  
+
+As and when 
+
+needed  
+
+Suppliers 
+
+Secure reliable 
+
+supply chain  
+
+Emails 
+
+Ad-hoc 
+
+· Delay/default in payment  · Prompt processing of payment 
+
+Local 
+
+Communities 
+
+Create a 
+
+comfortable, 
+
+safe, secured 
+
+and clean 
+
+environment in 
+
+the work areas 
+
+Community 
+
+participation activities 
+
+such as cleaning  
+
+Ad-hoc  
+
+· Pollution 
+
+· Traffic jams 
+
+· Trash  
+
+· Promptly responding to the needs 
+
+of the community and neighbours  
+
+Government 
+
+Compliance with 
+
+relevant       
+
+government 
+
+policies, rules 
+
+and regulations   
+
+External       
+
+consultations 
+
+Ad-hoc 
+
+· Compliance with local 
+
+laws and            
+
+regulations 
+
+· Internal Compliance Senior 
+
+Manager  
+
+· External legal consultants  
+
+Meetings/ emails 
+
+Ad-hoc 
+
+Non-profit     
+
+organisations 
+
+Actively seek 
+
+donation drives 
+
+in local 
+
+communities, 
+
+lend a helping 
+
+hand, monetary 
+
+donation 
+
+Emails 
+
+Ad-hoc 
+
+· Contributions to local     
+
+communities 
+
+· Responsible and ethical 
+
+business practices  
+
+· Evaluation of sponsorship 
+
+opportunities that are in line with 
+
+REIT’s ESG efforts and goals 
+
+Sending        employee      
+
+volunteer groups 
+
+As and when 
+
+needed  
+
+
+11 
+
+ 
+
+Materiality Assessment 
+
+The Manager undertook EC World REIT’s first materiality assessment with assistance from an external 
+
+consultant in June 2018. This evaluation comprised four steps and involved key stakeholders from 
+
+various departments within the REIT. Through this exercise, three material and two additional matters 
+
+were determined.  
+
+ 
+
+In FY2020, the Board confirmed the continued relevance of the material matters identified and agreed 
+
+to continue the disclosure of the two additional reporting matters that are relevant to our business. 
+
+Please refer to the figure below for a full list of the REIT’s material matters and additional matters. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+12 
+
+ 
+
+Our Response to COVID-19 
+
+ 
+
+The COVID-19 crisis has significantly impacted the global economy and created uncertainties in 
+
+many business operations. However, as EC World REIT’s properties cater largely to the e-commerce 
+
+logistics sector, our business is less exposed to the impacts of COVID-19 compared to businesses 
+
+with operations that rely largely on human traffic.  
+
+As soon as practically possible, our existing Business Continuity Plans (BCPs) were activated 
+
+promptly by the Manager and the Property Managers in Singapore and China respectively to ensure 
+
+minimal disruption to our business while keeping our employees safe. When restrictions were relaxed 
+
+and the economy gradually opened in both countries, COVID-19-specific guidelines as described 
+
+below were implemented as our employees gradually returned to the workplace. 
+
+ 
+
+China: COVID-19 Prevention and Control Scheme 
+
+EC World REIT’s eight property assets are situated in the Zhejiang and Hubei Provinces of China, 
+
+a country that bore the brunt in the early months of the pandemic. As part of the Chinese 
+
+Government’s strategy to contain the spread of COVID-19 in February, the Spring Break Holiday 
+
+in Zhejiang was extended by more than a week by the Zhejiang Provincial Government. This 
+
+created a slowdown of tenants’ operations at the REIT’s seven Hangzhou assets due to a shorter 
+
+operational period and a shortage of employees that resulted from a government-imposed 
+
+quarantine period for returning workers. Meanwhile, due to a strict lockdown in Wuhan (in Hubei 
+
+Province) from 23 January to 22 March 2020, the operations at Wuhan Meiluote was also 
+
+significantly impacted as tenants were unable to resume business. Since then, the operations at 
+
+ECW REIT’s assets have received the necessary permits to restart operations, and lease activities 
+
+at the Property Manager level have become fully operational since May 2020.  
+
+The COVID-19 Prevention and Control Scheme, designed in accordance with the national COVID-
+
+19 regulations and guidelines, covers all eight REIT assets in China. Under this scheme, a 
+
+Prevention and Control Committee consisting of the CEO, CFO and Property Managers has been 
+
+set up who oversee the local Prevention and Control Teams in each property asset. Each local 
+
+team is required to ensure sufficient manpower to oversee the implementation of the Scheme’s 
+
+guidelines in the logistics parks and ensuring all stakeholders, including tenants and employees, 
+
+follow the safe distancing and personal hygiene guidelines in place.  
+
+As far as possible, guests and visitors are not allowed to enter the property management areas, 
+
+and goods sent by suppliers are sent to designated storage areas before tenants are notified to 
+
+pick up, thereby minimising physical contact. Areas more prone to unhygienic conditions such as 
+
+waste management areas of the logistic parks follow a twice-daily disinfection schedule, and 
+
+special designated collection bins are set aside for bio-waste such as masks and gloves to be 
+
+disposed of by the relevant local health authority. 
+
+ 
+
+
+13 
+
+ 
+
+Singapore: COVID-19 Safe Management Measures Plan 
+
+ 
+
+When the local lockdown period was lifted in June 2020, the Manager implemented the COVID-19 
+
+Safe Management Measures Plan in line with Ministry of Manpower guidelines to provide a safe 
+
+working environment in EC World Asset Management and minimise risks of further outbreaks. The 
+
+Plan includes detailed instruction on safe distancing measures, split operations with a maximum 
+
+number of staff allowed in the office at any one time, and measures to manage suspected cases if 
+
+any. Visiting contractors, suppliers and customers are also required to sign a health and travel 
+
+declaration form and abide by our safe distancing guidelines.  
+
+ 
+
+ 
+
+Safe distancing markers in meeting rooms and office pantry in the Singapore office 
+
+ 
+
+ 
+
+It is expected that more time will be needed for EC World REIT’s assets to resume at full operational 
+
+capacity and for business demand to return to pre-COVID-19 levels given the uncertainty of the global 
+
+COVID-19 situation. The Manager continues to keep close communication with our property 
+
+management staff to understand the on-ground situation. Barring any adverse deterioration in the 
+
+current situation, the Manager does not expect any long-term material impact on the operations of 
+
+EC World REIT. 
+
+Our combined efforts have enabled us to navigate through the global crisis smoothly, protect the 
+
+health and safety of our stakeholders, and maintain compliance with all regulations in the countries 
+
+in which we operate without any breaches. We further explain our mitigation strategies to minimise 
+
+the impact of COVID-19 on our stakeholders in the sections below. 
+
+ 
+
+Employees 
+
+The Manager, together with the Property Manager and Forchn Holdings Group Co., Ltd., the sponsor 
+
+of EC World REIT (the “Sponsor”), are doing our best to ensure the safety of our employees, and the 
+
+REIT has spared no costs when it comes to safeguarding the health, jobs and livelihoods of our people. 
+
+At the Group-level, including all the assets and offices of EC World REIT and the Sponsor, several 
+
+safe distancing and hygiene measures were implemented to ensure the well-being of all staff. Daily 
+
+temperature measurements are conducted for all employees working on-site, and staff were advised 
+
+
+
+
+
+
+14 
+
+ 
+
+to avoid crowded places during the Spring Break Holidays. Advisories and frequent reminders from 
+
+the local authorities were also disseminated to remind staff of the importance of personal hygiene.  
+
+ 
+
+ 
+
+Examples of posters and information disseminated by local authorities for employees 
+
+ 
+
+In Singapore, the Manager first initiated a work-split arrangement, followed by a full Work From Home 
+
+(WFH) scheme during the local lockdown period. Computer hardware and software (including anti-
+
+virus software, video conferencing equipment and relevant interface) were up-to-date, providing 
+
+employees with the capacity to transition into a WFH environment seamlessly. These virtual platforms 
+
+allowed for all business operations, including additional employee training sessions conducted online 
+
+for staff looking to improve their skillsets, to carry on as usual. To further safeguard our employees’ 
+
+well-being, the Manager ensured that employee medical insurance coverage included the cost of 
+
+COVID-19 treatment at a selected panel of medical centres. EC World REIT also ensured clear 
+
+communication channels through email and WhatsApp and provided consistent updates on the 
+
+evolving COVID-19 situation. 
+
+When employees returned to the office, a box of surgical-grade masks and hand sanitisers was 
+
+provided for each employee. An excess supply of masks is also available in the office, and hand 
+
+sanitisers are placed in common areas such as the reception lobby and the general office. Staff are 
+
+also required to sign in and out at reception and check body temperatures twice daily. EC World also 
+
+benefited under the Singapore government’s Jobs Support Scheme payouts, enabling the Manager 
+
+to provide our employees with additional wage support during this period of economic uncertainty.  
+
+In China, after the lockdown periods stipulated by the government, employees have been allowed to 
+
+return to work subject to the provision of health declarations as declared on the national Health Code 
+
+mobile application. The Health Code algorithm assigns different QR code colours to users based on 
+
+medical records and travel history to indicate the risk level of contracting COVID-19; persons with 
+
+red and yellow codes are required to isolate for 14 and 7 days respectively before returning to work.  
+
+ 
+
+
+
+
+
+
+15 
+
+ 
+
+ 
+
+ 
+
+Description of the QR colour code for individuals 
+
+Employees are also required to adhere to the safe distancing and personal hygiene guidelines as 
+
+outlined under the COVID-19 Prevention and Control Scheme. 
+
+ 
+
+Tenants 
+
+One of the first actions of Management was to assess the rate of recovery for our tenants’ operation 
+
+during 1H2020 and survey our tenants to better understand the implications of COVID-19 on their 
+
+operations. As a result of these proactive measures, Management realised that a significant number 
+
+of tenants (and in the case of assets under a master lease arrangement, the sub-tenants) were facing 
+
+difficulties, and hence provided cash rental rebates amounting to approximately RMB 19.7 million 
+
+(before VAT) to tenants under EC World’s portfolio in April. EC World REIT believes that these rebates 
+
+have helped tenants tide through economic hardships in the face of COVID-19. We also provided our 
+
+tenants with masks and hand sanitisers and will continue to support our tenants in every way we can.  
+
+ 
+
+Community 
+
+As we face this trying period together, EC World REIT has also rendered its support to the local 
+
+community in Singapore. Mr. Zhang Guobiao, in his capacity as Chairman of ECWAM and the 
+
+ultimate owner of the Sponsor, contributed essential medical supplies and personal protective 
+
+equipment to Singapore. The donation included 5000 surgical-grade protective coveralls, 5000 
+
+overalls for non-surgery use, and 500,000 face masks.  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+16 
+
+ 
+
+Governance 
+
+ 
+
+Risk Management 
+
+ 
+
+In EC World REIT and its subsidiaries (“EC World REIT Group”), robust risk management ranging 
+
+from risk identification to response and reporting is a core responsibility. The Manager takes a 
+
+prudent and precautionary approach to manage and monitor exposed risks that may potentially have 
+
+a material impact on the strategy and operations across EC World REIT Group. 
+
+The Board executes risk governance across the Group with the help of the Audit and Risk Committee 
+
+(the “ARC”). The Board’s responsibilities include determining EC World REIT Group’s risk appetite, 
+
+overseeing the Manager’s Enterprise Risk Management (“ERM”) Framework, reviewing EC World 
+
+REIT Group’s risk profile, material risks and mitigation strategies on a regular basis, and overseeing 
+
+risk management policies and procedures.  
+
+The Manager adopts the ERM Framework as illustrated below for risk management. Please refer to 
+
+EC World REIT’s Annual Report 2020 to understand more about our risk management approach.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+17 
+
+ 
+
+Ethics and Integrity 
+
+At EC World REIT, the Manager is responsible for maintaining the integrity and reputation of our 
+
+business. All employees are required to comply with applicable laws and regulations, code of conduct, 
+
+and internal ethical standards. EC World REIT does not tolerate any unethical behaviour and takes 
+
+disciplinary actions without hesitation where necessitated. Regarding cross-boundary transactions, 
+
+the Manager also requires employees to abide by the laws and regulations in our operating countries.  
+
+ 
+
+When it comes to conflicts of interest, the Manager implements policies to identify and manage any 
+
+potential cases between the Manager, its directors, and employees. Standard procedures in place 
+
+include internal mediation and disclosure with the consent of the affected party.  
+
+ 
+
+All employees under the Manager are expected to abide by the following provisions:  
+
+ 
+
+01 
+
+ 
+
+Act with integrity, competence, diligence, respect and in an ethical 
+
+manner with the public, clients, prospective clients, employers, 
+
+employees, colleagues in the investment profession, and other 
+
+participants in the global capital markets. 
+
+02 
+
+ 
+
+Place the integrity of the investment profession and the interests of 
+
+clients above their personal interests. 
+
+03 
+
+ 
+
+Use reasonable care and exercise independent professional 
+
+judgement when conducting investment analysis, making investment 
+
+recommendations, taking investment actions, and engaging in other 
+
+professional activities. 
+
+04 
+
+ 
+
+Practice and encourage others to practice professionally and ethically 
+
+that will reflect credit on themselves and the profession. 
+
+05 
+
+ 
+
+Promote the integrity and viability of the global capital markets for the 
+
+ultimate benefit of society. 
+
+06 
+
+ 
+
+Maintain and improve their professional competence and strive to 
+
+maintain and enhance the expertise of other investment professionals. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+18 
+
+ 
+
+Whistle-blowing 
+
+EC World REIT has in place a whistle-blowing policy that complements its internal risk management 
+
+strategy and protects the whistle-blower’s identity and prevents them from receiving unfair treatment 
+
+as a result, including discrimination, retaliation, harassment or reprisal of any kind. All employees are 
+
+encouraged to report concerns and possible ethical breaches such as fraud, corruption, bribery or 
+
+blackmail, criminal offences, non-compliance with legal or regulatory requirements, miscarriage of 
+
+justice, health and safety threats and risks. Concerns raised by a whistle-blower will undergo 
+
+independent investigations, follow-up plans and corrective actions to protect our business.  
+
+ 
+
+01 
+
+02 
+
+03 
+
+04 
+
+05 
+
+Any person 
+
+may report 
+
+allegations of 
+
+suspected 
+
+serious 
+
+misconduct or 
+
+any breach or 
+
+suspected 
+
+breach of law 
+
+or regulation, 
+
+which may 
+
+adversely 
+
+impact the 
+
+Company, 
+
+unitholders, 
+
+employees, 
+
+investors or the 
+
+public at large. 
+
+Acts of 
+
+misconduct 
+
+may be 
+
+disclosed in 
+
+writing, by 
+
+telephone or in- 
+
+person. 
+
+However, all 
+
+reports are 
+
+encouraged to 
+
+be made in 
+
+writing to 
+
+ensure a clear 
+
+understanding 
+
+of the issues 
+
+raised. 
+
+All misconduct 
+
+must be 
+
+reported 
+
+directly to the 
+
+Compliance 
+
+Officer who will 
+
+report to the 
+
+ARC Chairman 
+
+in writing, 
+
+telephone or in-
+
+person, 
+
+whichever is 
+
+appropriate. 
+
+The whistle-
+
+blower shall be 
+
+expected to 
+
+prove the truth 
+
+of an allegation 
+
+and to 
+
+demonstrate 
+
+sufficiency on 
+
+grounds for 
+
+concern. 
+
+All employees 
+
+shall refer to 
+
+the Company’s 
+
+whistle-blowing 
+
+policy for 
+
+details and 
+
+procedures in 
+
+reporting 
+
+misconduct. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+General whistle-blowing procedures for employees 
+
+ 
+
+ 
+
+
+19 
+
+ 
+
+Regulatory Compliance 
+
+ 
+
+ 
+
+ 
+
+Why this material topic and its boundary 
+
+ 
+
+Complying with the regulations and laws is a prerequisite for EC World 
+
+REIT to be reputable, profitable, and sustainable in the long term. In 
+
+instances of non-compliance, the REIT may be impacted by fines or 
+
+punitive measures that can affect its operations and limit revenue 
+
+generation. The Board of the Manager and its employees may also be 
+
+subject to a significant number of fines or even imprisonment. 
+
+ 
+
+The topic covers EC World REIT and its subsidiaries. 
+
+ 
+
+ 
+
+ 
+
+Responsibilities 
+
+ 
+
+The Board and Key Management Personnel of the Manager are 
+
+accountable for the compliance and the organisation-wide ethical 
+
+culture of EC World REIT. 
+
+ 
+
+ 
+
+Grievance Mechanism 
+
+ 
+
+When it comes to complaints handling, the Manager takes charge of 
+
+timely, fair, and thorough investigation and response to all claims, 
+
+regardless of the degree of justification. In cases of whistle-blowing, the 
+
+REIT issues a set of rules that prohibits employees from following up 
+
+with the reporter regarding the issue, confronting the reporter, or 
+
+spreading any words regarding the reporter that could be used against 
+
+the Manager as an admission of liability. 
+
+ 
+
+ 
+
+Evaluation 
+
+ 
+
+An annual external audit and quarterly internal audits are conducted to 
+
+test the effectiveness of policies regarding regulatory compliance. 
+
+ 
+
+EC World further engages an external consultant to assist in 
+
+compliance matters and enhance regulatory framework and practices 
+
+within the REIT / Manager. The external consultant also reports directly 
+
+to the Board quarterly. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+20 
+
+ 
+
+Policies 
+
+At EC World REIT, we have adopted a diverse range of policies on regulatory compliance as 
+
+described below. 
+
+ 
+
+
+
+
+
+
+21 
+
+ 
+
+ 
+
+ 
+
+Practices 
+
+The Manager manages EC World REIT’s regulatory compliance based on the Compliance Manual, 
+
+Internal Delegation of Authority (DOA) and Office Automation system. Periodic training is provided 
+
+by the Manager to its Directors and employees to ensure that they are updated and aware of 
+
+applicable anti-money laundering and terrorist financing regulations. 
+
+ 
+
+Procedures/Processes Summary 
+
+Compliance Manual 
+
+The Compliance Manual is the principal resource to assist employees in 
+
+understanding and demonstrating compliance with laws and regulations 
+
+applicable to the Manager.  
+
+Internal DOA 
+
+The Delegation of Authority is established for subdivision and sub-allocation 
+
+of powers to make a business decision for the EC World REIT to achieve 
+
+effective results as well as maintain a high standard of corporate 
+
+governance. 
+
+Office Automation 
+
+Approval System 
+
+Office Automation Approval System is deployed in the subsidiaries of EC 
+
+World REIT, to reduce manual processes and provide a consistent 
+
+framework for daily operational decision making as well as provide mobility 
+
+and good corporate governance. 
+
+ 
+
+ 
+
+Perpetual Target 
+
+Zero major compliance issues 
+
+Achieved. 
+
+ 
+
+In FY2020, EC World REIT complied with the 
+
+environmental and socioeconomic laws and 
+
+regulations. 
+
+ 
+
+ 
+
+
+22 
+
+ 
+
+Our Business 
+
+Quality of Assets 
+
+ 
+
+ 
+
+Why this material topic and its boundary 
+
+ 
+
+A building’s rental rate, tenant attraction and retention rates, property 
+
+valuation, and synergy with the surroundings depend significantly on the 
+
+quality of its assets. As such, identifying and maintaining quality assets is 
+
+a key pillar of EC World REIT’s real estate investment strategy. Quality 
+
+property management not only improves our tenants’ leasing experience, 
+
+but also generates sustainable returns to unitholders via competitive rental 
+
+rates at our properties, and creates a positive impact on local 
+
+communities.  
+
+ 
+
+This topic covers all our eight properties in China.  
+
+ 
+
+ 
+
+Responsibilities 
+
+ 
+
+The Board of Directors, Mr Goh Toh Sim (Chief Executive Officer and 
+
+Executive Director), and Mr Teo Kah Ming (Investment and Asset 
+
+Management) oversee the management of quality of assets. 
+
+ 
+
+ 
+
+Grievance Mechanism 
+
+ 
+
+When tenants experience any property-related issues during the lease 
+
+term, they can report the problem to the Property Manager, who may then 
+
+escalate the issue to the Manager’s asset management department on a 
+
+case-by-case basis. The asset management department and the project 
+
+department will then conduct an on-site investigation to address the issue. 
+
+ 
+
+ 
+
+Evaluation 
+
+ 
+
+Quarterly internal audits, annual external audits on our ISO9001 Quality 
+
+Management System, and annual tenant surveys.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+23 
+
+ 
+
+Policies 
+
+To manage the quality of our assets and services, EC World REIT has implemented four 
+
+comprehensive standards, as detailed below, for all projects covering equipment and property. EC 
+
+World REIT has reviewed these standards in 2020 to ensure their continued relevance to our 
+
+operations. 
+
+ 
+
+Property 
+
+Management 
+
+Standards 
+
+ 
+
+Established to strengthen the management of EC World REIT’s real 
+
+estate, scientifically carry out the transfer, supervision and post-
+
+evaluation of investment project assets, achieve investment 
+
+objectives, maximise investment benefits, and promote the rapid 
+
+development of EC World REIT. 
+
+Equipment 
+
+Assets 
+
+Management 
+
+Standards 
+
+ 
+
+Formulated to strengthen the management of the equipment assets 
+
+of EC World REIT and ensure the completeness, safety, reasonable 
+
+and practical use of the equipment assets.   
+
+Asset Security 
+
+Management 
+
+Standards 
+
+ 
+
+Internally developed to:  
+
+a) strengthen the effectiveness and safety of asset management 
+
+function;  
+
+b) comprehensive security management of the rented units, 
+
+property managers;  
+
+c) comprehensive prevention of various types of safety accidents, 
+
+natural disasters; and  
+
+d) protection of the company’s business orders and assets 
+
+Fixed Assets 
+
+Security 
+
+Management 
+
+Standards 
+
+ 
+
+Internally formulated to strengthen the management of fixed assets 
+
+of EC World REIT and ensure the completeness, safety, reasonable 
+
+and adequate use of the fixed assets. 
+
+ 
+
+Practices 
+
+The Manager at EC World REIT oversees asset quality, ensuring that our stakeholders’ expectations 
+
+and interests are protected. The Manager also collaborates with the Property Manager to conduct 
+
+timely and efficient asset maintenance. 
+
+EC World REIT continually assesses the necessity for improvements that can be made to our assets, 
+
+facilities and equipment to improve resource utilisation and efficiency. The processes we take for 
+
+asset quality assessments include:  
+
+ 
+
+• 
+
+Assess the type of tenants and tenants' products that we want to attract 
+
+• 
+
+Perform annual reviews of property upkeep requirements 
+
+
+24 
+
+ 
+
+• 
+
+Determine the best environment and equipment to offer tenants such that supplies are 
+
+loaded/unloaded and stored in optimal conditions 
+
+• 
+
+Evaluate the expected commercial impacts of decisions by budgeting and forecasting 
+
+• 
+
+Establish what is required to reduce and eliminate pollution 
+
+ 
+
+ 
+
+In order to ensure the quality of our facilities and equipment, EC World REIT conducts regular 
+
+maintenance and annual inspections by the Maintenance Units across properties to fulfil the local 
+
+and national asset management standards as demonstrated in the table below.  
+
+ 
+
+Equipment name 
+
+Frequency 
+
+Elevators 
+
+Biweekly – Monthly (depending on facility) 
+
+Fire equipment (including fire alarm 
+
+systems, water sprinkler systems, 
+
+building ventilators, fire extinguishers, 
+
+emergency telephones, etc.) 
+
+Weekly to semi-annually (depending on system or 
+
+equipment) 
+
+ 
+
+In addition, we also carried out annual tenant surveys at Chongxian Port Logistics and Chongxian 
+
+Port Investment, Stage 1 Properties of Bei Gang Logistics, Fu Heng Warehouse and Fuzhou E-
+
+Commerce facilities in FY2020. These surveys cover several components of a tenant’s experience in 
+
+our buildings, including customer hotline responsiveness, front desk customer service, industrial park 
+
+maintenance, responsiveness, hygiene condition, and security. Tenants can also provide other 
+
+comments and suggestions via this channel.  
+
+ 
+
+Performance 
+
+Our facilities have received several accolades in recognition of our investment into enhancing our 
+
+assets. Chongxian Port Investment has received the “AAAAA” Logistics Enterprise Award by the 
+
+China Federation of Logistics and Purchasing, as well as the "Trustworthy and Creditable" Enterprise 
+
+Award by the Market Supervision and Administration Bureau of Yuhang District in Hangzhou. Further 
+
+to that, the EC World REIT office in Singapore has also obtained the BCA Green Mark Award (Office 
+
+Interior), which assesses office spaces based on their energy and water efficiency, sustainable 
+
+management and operations, and indoor environmental quality.  
+
+Chongxian Port Investment, and Hengde Logistics have also been externally audited against the 
+
+ISO9001:2015 quality management system standards, certifying the establishment, maintenance, 
+
+and validity of the management system at these operations.  
+
+This year, our annual tenant survey results have been generally satisfactory across the assessed 
+
+facilities. There were also some comments and suggestions raised by some of the respondents, which 
+
+we have taken note of and will address accordingly in the coming year.  
+
+ 
+
+
+25 
+
+ 
+
+Perpetual Target 
+
+1. New/renewed leases at rental rates equal to or above 
+
+the rental rate of the current property.  
+
+Not met 
+
+2.  Perform maintenance and inspection of the assets as 
+
+per national and local standards. 
+
+Achieved 
+
+ 
+
+In FY2020, we achieved 74% of new/renewed leases at rental rates equal to or above the current 
+
+property. This is mainly due to the economic situation as impacted by COVID-19. Though we were 
+
+not able to meet our 100% target in FY2020, we will endeavour to optimise the portfolio to meet this 
+
+target in the next reporting year should the situation allows. 
+
+ 
+
+ 
+
+
+26 
+
+ 
+
+Rain and Sewage Pipe Network Reconstruction Project in Hangzhou Chongxian Port Area 
+
+ 
+
+The Hangzhou Municipal Government, the regulator for urban drainage and sewage treatment in 
+
+Hangzhou, has recently strengthened its requirements, requiring all enterprises in the area to divert 
+
+rain and sewage efficiently and to discharge all sewage into the municipal pipe network. In view of 
+
+this development and as part of our continuous efforts to maintain good quality assets, EC World 
+
+conducted inspections and reformed the drainage and sewage pipeline networks in our Chongxian 
+
+Port Investment and Stage 1 Properties of Beigang Logistics in 2019 and 2020. This will allow for 
+
+better reutilisation of diverted rainwater to be used as natural landscape water or urban municipal 
+
+water for spraying roads, and also improve the efficiency and reduce costs of municipal sewage 
+
+treatment.  
+
+ 
+
+Initial inspections of our pipelines detected several issues that arose as a result of the natural 
+
+settlement of the foundation and the passage of heavy-duty vehicles on the roads in the area. As 
+
+such, several rectifications were made to the network, including excavation of sections of the 
+
+pipeline network that were damaged or deformed, flushing out the network to ensure no blockages, 
+
+and re-adjusting the connection of the outlet to the municipal sewage pipe network. All excavated 
+
+roads were restored to their original condition and the project was a success, ultimately ensuring 
+
+that the pipeline network met the regulatory requirements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Excavation and replacement works of drainage pipes in the Beigang facility 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+27 
+
+ 
+
+Product Innovation 
+
+ 
+
+ 
+
+Why this material topic and its boundary 
+
+ 
+
+EC World REIT values the importance of innovation in attracting new 
+
+tenants and improving client relationships, especially in the real estate 
+
+sector. At EC World REIT, we take initiative and foster innovation in the 
+
+structure of rental lease and services, flexibility in the building’s 
+
+aesthetics and fixtures, availability of space for leasing, as well as in our 
+
+customer service.  
+
+ 
+
+Innovation takes place across all our properties, including the corporate 
+
+office in Singapore. 
+
+ 
+
+ 
+
+Responsibilities 
+
+ 
+
+The Engineering Department at the Property Manager works closely 
+
+with the Investment and Asset Management Department of the 
+
+Manager in implementing innovation initiatives at EC World REIT. 
+
+ 
+
+ 
+
+Grievance Mechanism 
+
+ 
+
+The Engineering Department at the Property Manager welcomes any 
+
+ideas or feedback regarding innovation from all employees. These 
+
+suggestions will be submitted to the General Manager for review and 
+
+approval. 
+
+ 
+
+ 
+
+Evaluation 
+
+ 
+
+While product innovation in itself cannot be evaluated, the success of 
+
+our innovation strategies can be reflected in other material matters. For 
+
+example, product innovation can enhance the quality of assets, improve 
+
+workplace health and safety, increase the tenant retention rate, and 
+
+boost energy efficiency.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+28 
+
+ 
+
+Policies and Practices 
+
+As product innovation offers a competitive advantage in the market and contributes to its business 
+
+sustainability, EC World REIT ensures regular communications between the Property Manager, the 
+
+tenants, and other departments for product innovation identification and creation. After identified 
+
+projects proposed by the Property Manager are approved by the General Manager, a dedicated 
+
+Asset Department then implements these asset transformations or upgrades, using funds set aside 
+
+every year for improving identified assets. 
+
+To stimulate and promote innovation in our organisation, the Manager has also formulated an 
+
+incentive policy. Employees who bring positive economic, environmental, or social values via 
+
+innovation in their work or projects will be rewarded.  
+
+From the perspective of customer needs, EC World REIT adds value to the relationship with our 
+
+customers by innovating the customer experience and providing customised services for our tenants. 
+
+Recognising that tenants have different requirements, EC World REIT provides information regarding 
+
+the labour service companies registered in the park at no additional charge, allowing customers to 
+
+identify and connect with the service best suited to their needs. We also upgrade the dormitories 
+
+within our facilities according to tenant needs. To better assist our tenants in their logistic needs, we 
+
+are also looking to increase the accessibility of logistics equipment leasing in the future. 
+
+ 
+
+Performance 
+
+As part of the Manager and Property Manager’s continuous endeavours to explore new innovative 
+
+products and services to complement our logistics operations, some upgrading projects we 
+
+undertook in FY2020 include the automatic voltage stabilisation project of Hengde Logistics fire gas 
+
+system and the installation of exhaust fans in Fuzhou Warehouse and Fu Heng Warehouse (see case 
+
+study below for more information). 
+
+EC World REIT is also in the process of installing photovoltaic panels to the roof of our Fuzhou facility, 
+
+which will translate to significant energy savings. The solar panels are currently under construction 
+
+and are targeted for completion by May 2021. (see the case study under the “Our Environment – 
+
+Energy Use and GHG Emissions” section for more information). 
+
+Overall, these improvements bring about excellent efficiency improvements to our tenants’ logistics 
+
+operations, and they will help to enhance our stakeholder relationships in the long run.   
+
+ 
+
+ 
+
+FY2020 Target 
+
+Upgrading 1-2 property 
+
+features annually 
+
+Achieved 
+
+ 
+
+ 
+
+
+29 
+
+ 
+
+Increasing tenant comfort in Fu Heng Warehouse and Fuzhou E-Commerce facilities 
+
+ 
+
+In Hangzhou city, the summer temperatures are high, and this is further exacerbated in indoor 
+
+areas, creating a potentially stuffy, humid working environment. The Property Managers at Fu Heng 
+
+Warehouse and Fuzhou E-Commerce have recognised this effect in the two properties and the 
+
+adverse impact this may have on the long-term health and well-being of tenants and other relevant 
+
+personnel who work in the space.  
+
+ 
+
+As such, with the aim to improve ventilation in the warehouses, exhaust fans on the top floors of 
+
+these two assets were installed in FY2020. Temperature measures before and after installation 
+
+have shown an average decrease of 4-5 degrees Celsius, thereby increasing customer comfort 
+
+and preventing adverse impacts such as heat exhaustion.  
+
+ 
+
+ 
+
+An interior and exterior look at the installed ventilation fans 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+30 
+
+ 
+
+Our People 
+
+Profile of Our Workforce 
+
+ 
+
+EC World REIT’s long-term success depends on a healthy, diverse, and competent workforce. Due 
+
+to the nature of our business, workers under the Property Manager located in China, accounting for 
+
+a significant portion of our workforce, are defined as non-employees under the REIT. The REIT’s direct 
+
+employees are under the responsibility of the Manager located in Singapore. There were also no part-
+
+time or temporary employees in Singapore in 2019 nor 2020.  
+
+In Singapore, the number of full-time/permanent employees fell slightly in FY2020, due to natural 
+
+accretions and turnovers. There was a fall in the number of staff of property manager in China due to 
+
+changes in the organisational structure which resulted in the relocation of manpower to other sister 
+
+companies and outsourcing of non-core activities. 
+
+Details of our workforce can be found in the graphs below.  
+
+ 
+
+ 
+
+*Staff under the Property Manager in China are defined as non-employee workers in EC World REIT. 
+
+8
+
+8
+
+5
+
+10
+
+9
+
+7
+
+FY2018
+
+FY2019
+
+FY2020
+
+Number of Full-time/Permanent employees in Singapore 
+
+(staff of Manager)
+
+Male
+
+Female
+
+25
+
+17
+
+4
+
+20
+
+17
+
+8
+
+2018
+
+2019
+
+2020
+
+Number of workers in China (staff of Property Manager)
+
+Male
+
+Female
+
+
+31 
+
+ 
+
+Workplace Health and Safety 
+
+ 
+
+ 
+
+Why this material topic and its boundary 
+
+ 
+
+Workplace health and safety concerns all stakeholders of EC World 
+
+REIT, with the potential to significantly impact business continuity and 
+
+the well-being of our employees, visitors, and customers. When 
+
+management of health and safety is weak, an organisation may face 
+
+legal liability, damage its business profitability, and lose its 
+
+competency in the market. As such, to protect our stakeholders, the 
+
+Manager sets and implements rigorous procedures regarding health 
+
+and safety at the workplace. 
+
+ 
+
+The Manager at EC World REIT stresses the importance of workplace 
+
+health and safety across all departments.  
+
+ 
+
+ 
+
+ 
+
+Responsibilities 
+
+ 
+
+The Board, Senior Management, the Compliance &amp; Risk Management 
+
+Department, and the HR Department oversee and monitor workplace 
+
+health and safety both in the REIT’s assets and at the Manager’s 
+
+operational premises.  
+
+ 
+
+ 
+
+Grievance Mechanism 
+
+ 
+
+Employees under both the Manager and Property Manager are 
+
+encouraged to immediately report any incidents or potential risks 
+
+regarding workplace health and safety via our Whistle-blowing Policy.  
+
+ 
+
+ 
+
+ 
+
+Evaluation 
+
+ 
+
+Multiple internal audits are conducted annually to identify and correct 
+
+potential misbehaviour and issues. 
+
+ 
+
+A monthly report is also recorded and sent to the Board/Senior 
+
+Management. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+32 
+
+ 
+
+Policies 
+
+EC World REIT ensures our operations are conducted in accordance with the relevant workplace 
+
+health and safety regulations in the countries we operate in. 
+
+ 
+
+Singapore 
+
+China 
+
+Workplace Safety and Health 
+
+(WSH) Act 
+
+Work Safety Law 
+
+Guideline of China Occupational 
+
+Safety and Health Management 
+
+System 
+
+The WSH Act is a legislation 
+
+that covers the safety, health 
+
+and welfare of persons at 
+
+work. The WSH Act requires 
+
+stakeholders to take 
+
+reasonably practicable 
+
+measures to ensure the safety 
+
+and health of workers and 
+
+contributes to creating a 
+
+safety culture in the 
+
+workplace. 
+
+The Work Safety Law is a 
+
+national legislation that 
+
+creates an obligation for 
+
+employers in China to 
+
+provide a safe and healthy 
+
+working environment for 
+
+employees by establishing a 
+
+comprehensive health and 
+
+safety program and protects 
+
+workers from accidents in 
+
+the workplace. 
+
+This standard stipulates the 
+
+principles and general requirements 
+
+for the establishment, maintenance 
+
+and evaluation of the standardized 
+
+management system for enterprise 
+
+safety production. It also outlines the 
+
+responsibilities of on-site safety risk 
+
+control and risk management in 
+
+implementing proper emergency and 
+
+accident management procedures. 
+
+ 
+
+Additionally, the Property Manager sets comprehensive safety management policies and procedures 
+
+at our assets in China. These range from the roles and responsibilities of a work safety committee, 
+
+work safety meeting arrangements, special equipment safety management, fire safety, safety 
+
+education and training, electricity use, management of hazardous items and more. 
+
+  
+
+Practices 
+
+Our workplace health and safety practices are guided by a standard operating procedure – 
+
+Workplace Health and Safety Promotion Plan. Its objectives are outlined as follows.  
+
+ 
+
+Workplace Health and Safety Promotion Plan 
+
+EC World REIT promotes a healthy and safe workplace by: 
+
+• 
+
+Inspecting and checking workplace surroundings  
+
+• 
+
+Training employees on safety awareness  
+
+• 
+
+Regular engagement of employees through talks and feedback sessions  
+
+• 
+
+Investigation of incidents  
+
+• 
+
+Maintenance of incident records  
+
+• 
+
+Fire/safety drills  
+
+• 
+
+Banners to promote workplace health and safety  
+
+ 
+
+
+33 
+
+ 
+
+ 
+
+Hazard Identification and Risk Assessments 
+
+The Environmental and Safety Department and Safety Steering Committee from the Property 
+
+Manager of each facility collaborate to confirm compliance with Health and Safety Management 
+
+System as well as relevant regulations. Risk assessments and internal audits are also conducted 
+
+annually. The following case study details an example of how a hazard identification framework is 
+
+implemented in two of EC World REIT’s facilities. 
+
+ 
+
+Hazard identification at Chongxian Port Investment and Chongxian Port Logistics 
+
+ 
+
+Workplace Safety Committee. Comprising the management and representatives from various 
+
+departments of the sole tenant (Fu Gang Supply Chain), the Committee oversees and monitors 
+
+the health and safety policies, performance, and targets. The Committee meets quarterly to 
+
+summarise the health and safety practices in operations at Chongxian Port Investment and 
+
+Chongxian Port Logistics. Every month, the Committee also holds a firm-wide meeting with key 
+
+Environment, Health, and Safety (EHS) personnel to ensure effective implementation of the health 
+
+and safety standards.  
+
+ 
+
+Hazard Identification and Risk Assessment. Led by the Workplace Safety Committee, hazard 
+
+identification involves processes such as the investigation of key devices and equipment, the 
+
+examination of electricity and fire suppression systems, inspections of seasonal-related risks. 
+
+Based on the relative hazard potential identified from the risk assessment, the tenant conducts the 
+
+relevant investigation method (see below diagram for further details).  
+
+ 
+
+ 
+
+ 
+
+When any hazards are detected, workers can report such hazards to their respective departmental 
+
+leaders at Fu Gang Supply Chain. For general hazards, departments involved need to plan the 
+
+
+
+
+34 
+
+ 
+
+corrective actions within 24 hours. For significant or major hazards, the workplace safety 
+
+committee shall assess and report immediately. The workplace safety office and the firm’s 
+
+management will monitor a major or significant hazard until it is eliminated. A reward and 
+
+consequence system has been established for hazard identification, and no reprisals against the 
+
+reporters will be tolerated.  
+
+ 
+
+Incident Investigation. At Chongxian Port Investment and Chongxian Port Logistics, work-
+
+related incidents are categorised into three severity levels based on the seriousness of impact to 
+
+human health, direct and indirect economic loss, and degree of environmental pollution. Apart from 
+
+documenting essential information such the location and date, the investigation process will also 
+
+entail reviewing the associated hazards that resulted in the incident (e.g. defects in personal 
+
+protective equipment) to prevent any future occurrences. 
+
+ 
+
+ 
+
+Occupational Health Services 
+
+The well-being of employees is one of EC World REIT’s primary concerns. The REIT sponsors 
+
+employees with an annual medical health check-up; in our China facilities, the Property Manager also 
+
+arranges transport where necessary to professionally certified screening centres. While a health 
+
+expert is usually invited annually at the medical screening centre to give both occupational health 
+
+and general wellbeing advice to our employees, this initiative was not carried out this year due to 
+
+COVID-19, but we hope to resume these wellbeing talks when the situation allows. 
+
+ 
+
+Worker Training and Consultation on Occupational Health and Safety 
+
+Training on occupational health and safety (OHS) is aligned with governmental regulations and is 
+
+compulsory for all employees. All incoming employees will also undergo a safety training programme 
+
+to familiarise themselves with handling electrical items in the office pantry, safety guidelines for using 
+
+the ladder, emergency exits and fire extinguishers and proper handling of heavy or bulky items. In the 
+
+Singapore office, a health and safety office tour is also arranged for new employees. These trainings 
+
+were not conducted in FY2020 as there were no new employees for the year. 
+
+Contractor staff must attend a safety briefing and acknowledge safety agreements before 
+
+commencing work. For special equipment operators such as electricians, the REIT requires the 
+
+provision of relevant certificates and training records before engaging them for work.  
+
+In China, staff meetings within EC REIT’s working groups are also held weekly to gather any feedback 
+
+regarding occupational health and safety in our daily operations. Any concerns and feedback will 
+
+then be conveyed to management. 
+
+Prevention and Mitigation of OHS Impacts 
+
+We conduct frequent workplace inspections to provide a safe work environment for the employees. 
+
+Various workplace inspections at our China assets include daily inspections of electrical rooms, 
+
+biweekly and quarterly lift maintenance, monthly checks on fire suppression systems, and canteen 
+
+work checks. Should any issues detected or occurred, timely maintenance and repair works will be 
+
+arranged and documented.  
+
+ 
+
+ 
+
+
+35 
+
+ 
+
+Promotion of Worker Health 
+
+Apart from employees’ occupational health and safety, EC World REIT also endeavours to promote 
+
+workers’ overall health and well-being. In the Singapore office, the Manager organises welfare events 
+
+such as fruit sessions. At the China assets, the Property Manager provides sports utilities and 
+
+frequently holds mass sports events. In 2020 however, due to the unprecedented impacts of COVID-
+
+19, the Manager and Property Manager were unable to carry out such activities due to safe distancing 
+
+measures in place, and the Manager and Property Manager look forward to resuming such sessions 
+
+in the future. 
+
+ 
+
+2020 SGX Bull Charge Run 
+
+ 
+
+SGX Bull Charge is a corporate charity initiative that rallies Singapore’s financial community 
+
+and listed companies to support the needs of underprivileged children and families, persons 
+
+with disabilities. This year, the Manager was a Bronze Bull Sponsor for the Charity Run 
+
+segment of the event. 
+
+ 
+
+While the Charity Run has been held as a physical running event for the past 16 years, it was 
+
+instead transformed into a two-week fundraiser to protect the well-being of participants due 
+
+to COVID-19. This did not dampen the spirits of ECWAM employees, as participants ran at 
+
+their own pace and space over the fundraising period.  
+
+ 
+
+Performance 
+
+In FY2020, EC World REIT recorded zero fatalities as a result of work-related injuries, as well as zero 
+
+high-consequence work-related injuries2 and zero recordable work-related injuries for both workers 
+
+in China and employees in Singapore. No cases of recordable work-related ill health or fatality as a 
+
+result of work-related ill health were recorded either. 
+
+ 
+
+FY2020 Targets 
+
+0 work-related injuries 
+
+that resulted in staff 
+
+permanent disability or 
+
+fatality 
+
+Achieved 
+
+Conduct annual fire 
+
+safety drill 
+
+Achieved 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 As defined by GRI 403 2018 Standard, high-consequence work-related injury refers to work-related injury 
+
+that results in a fatality or an injury from which the worker cannot, does not, or is not expected to recover fully 
+
+to pre-injury health status within 6 months. 
+
+
+36 
+
+ 
+
+Our Environment 
+
+Energy Use and Greenhouse Gas (GHG) emissions 
+
+  
+
+ 
+
+Why this material topic and its boundary 
+
+ 
+
+Energy use and its associated GHG emissions directly contribute to 
+
+climate change. As a responsible organisation, we are fully aware of 
+
+our duty to protect the environment and combat global warming by 
+
+maximising the energy efficiency across our properties.  
+
+ 
+
+This report includes the total energy use and GHG emissions data 
+
+generated from the properties under the REIT’s operational control. 
+
+Scope 1 (direct GHG emissions) and Scope 2 (energy indirect GHG 
+
+emissions) are both reported.  
+
+  
+
+ 
+
+Responsibilities 
+
+ 
+
+Mr Teo Kah Ming (Vice President, Investment and Asset 
+
+Management) oversee the energy-saving initiatives and the 
+
+corresponding emissions which are undertaken by the Property 
+
+Manager in China.   
+
+  
+
+  
+
+ 
+
+ 
+
+Grievance Mechanism 
+
+ 
+
+Employees are encouraged to report any excessive or inefficient 
+
+energy use to the Property Manager.  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Evaluation 
+
+ 
+
+The Manager evaluates energy usage and GHG emissions based on 
+
+the number of energy initiatives and energy-saving awareness across 
+
+our properties.  
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+37 
+
+ 
+
+Policy 
+
+In China, our properties meet the Energy Conservation Law, which is China’s national regulation on 
+
+energy and emissions.  
+
+  
+
+Practices 
+
+EC World REIT tracks energy usage trends systematically, by generating an energy usage analysis 
+
+report every month. Based on the review, the Manager implements the most practical energy-saving 
+
+initiatives which can tackle significant sources of energy use and emissions across our properties.  
+
+To increase general awareness of energy conservation, relevant training and education are also 
+
+conducted for relevant personnel. EC World REIT also takes steps to increase environmental 
+
+awareness in our lessees. 
+
+In FY2020, EC World REIT continued our initiative of switching our lighting systems to more energy-
+
+efficient LED options. To fully utilise the useful lifespan of the lightings, we have been implementing 
+
+this progressively in batches. In public areas, we have also been replacing lights with energy-saving 
+
+or voice-control lights and reducing night lighting use where reasonable. 
+
+This year, a total of 650 light bulbs were replaced with LED lights, resulting in a combined estimated 
+
+energy saving of 61,838 kWh annually.  
+
+ 
+
+Property 
+
+Number of 
+
+replaced LED 
+
+light bulbs 
+
+Estimated 
+
+energy savings 
+
+(kWh/year) 
+
+Hengde Logistics 
+
+350 
+
+27,466 
+
+Fu Heng Warehouse 
+
+52 
+
+9,110 
+
+Fuzhou E-Commerce 
+
+110 
+
+19,200 
+
+Stage 1 Properties of Bei Gang 
+
+Logistics 
+
+138 
+
+6,062 
+
+ 
+
+ 
+
+
+38 
+
+ 
+
+FY2020 Performance3 
+
+At EC World REIT, only Chongxian Port Investment has fuel consumption (and Scope 1 GHG 
+
+emissions). Unless otherwise stated, the denominator used in intensity figures in this report is the 
+
+sum of the total net lettable area across our properties in China and the floor area of the corporate 
+
+office in Singapore within each year’s reporting scope. 
+
+In FY2020, EC World REIT’s fuel consumption, related Scope 1 GHG emissions and corresponding 
+
+intensity decreased as compared to FY2019. While this was in part due to the COVID-19 pandemic 
+
+that resulted in a slowdown of operations, the reduction in the usage of forklifts that require fuel to 
+
+operate has also contributed to the reduction in energy consumed. On the other hand, electricity 
+
+consumption, related Scope 2 GHG emissions, and its corresponding intensity have increased, 
+
+mainly due to the new cold room facility that was set up in Fuzhou E-Commerce last year. 
+
+ 
+
+Total Energy Consumption 
+
+Fuel Consumption 
+
+Electricity  
+
+Consumption 
+
+1409.2 TJ 
+
+Diesel 
+
+255.4 TJ 
+
+21,356 MWh 
+
+Motor Gasoline 
+
+1076.9 TJ 
+
+ 
+
+GHG Emissions 
+
+(Scope 1) 
+
+93.6 ktCo2e 
+
+GHG Emissions 
+
+(Scope 2) 
+
+17.2 ktCo2e 
+
+ 
+
+ 
+
+ 
+
+3 GHG emissions are calculated following the requirements and principles of Greenhouse Gas Protocol. Scope 
+
+1 emission factors are sourced from the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. Scope 
+
+2 emission factors are sourced from relevant official documents from Singapore and China. 
+
+
+39 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*FY2018 electricity consumption data for Fu Heng Warehouse is an estimated figure. 
+
+ 
+
+496.2
+
+1492.9
+
+1076.9
+
+984.7
+
+1302.9
+
+255.4
+
+2.0
+
+2.9
+
+1.4
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+0.0
+
+1000.0
+
+2000.0
+
+3000.0
+
+4000.0
+
+FY2018
+
+FY2019
+
+FY2020
+
+Energy intensity (GJ/m2)
+
+Fuel consumption (TJ)
+
+Fuel consumption within EC World REIT from FY2018-FY2020
+
+Motor Gasoline Consumption (TJ)
+
+Diesel Consumption (TJ)
+
+Total Energy Intensity (GJ/m2)
+
+16818
+
+18371
+
+21356
+
+22.5
+
+19.1
+
+22.2
+
+17.0
+
+18.0
+
+19.0
+
+20.0
+
+21.0
+
+22.0
+
+23.0
+
+15000
+
+16500
+
+18000
+
+19500
+
+21000
+
+22500
+
+FY2018
+
+FY2019
+
+FY2020
+
+Electricity Intensity (kWh/m2)
+
+Electricity consumption (MWh)
+
+Electricity Consumption within EC World REIT from FY2018* - FY2020
+
+Electricity Consumption (MWh)
+
+Electricity intensity (kWh/m2)
+
+
+40 
+
+ 
+
+  
+
+ 
+
+ 
+
+FY2022 Target 
+
+EC World REIT aims to reduce its total energy 
+
+consumption from the properties under its 
+
+operation control gradually over the next five 
+
+years (with FY2017 being the baseline) 
+
+In progress 
+
+ 
+
+ Since 2017, EC World 
+
+REIT has achieved an 
+
+overall reduction of 29% in 
+
+its total energy 
+
+consumption across its 
+
+properties. We look 
+
+forward to continual 
+
+improvement of this target, 
+
+and are on track towards 
+
+meeting this target next 
+
+year too, as we continue to 
+
+explore more energy 
+
+efficient options in our 
+
+business operations. 
+
+ 
+
+ 
+
+ 
+
+143.8
+
+208.1
+
+97.4
+
+FY2018
+
+FY2019
+
+FY2020
+
+Scope 1 GHG Emission Intensity 
+
+(kg/m2)
+
+18.2
+
+15.4
+
+17.9
+
+FY2018
+
+FY2019
+
+FY2020
+
+Scope 2 GHG Emission Intensity 
+
+(kg/m2)
+
+1982.0
+
+1541.4
+
+2861.9
+
+1409.2
+
+0.0
+
+500.0
+
+1000.0
+
+1500.0
+
+2000.0
+
+2500.0
+
+3000.0
+
+3500.0
+
+FY2017
+
+FY2018
+
+FY2019
+
+FY2020
+
+Total Energy Consumption (TJ)
+
+
+41 
+
+ 
+
+Fuzhou E-Commerce Photovoltaic Project 
+
+ 
+
+Solar energy is a vast and clean form of renewable energy, and photovoltaic systems harness the 
+
+sun’s energy in the form of light and radiation and convert it into usable electricity. The Fuzhou E-
+
+Commerce Photovoltaic Project is a collaboration between EC World REIT and Hangzhou Sunny 
+
+Energy Science and Technology Co. Ltd, a key producer for photovoltaic (PV) products and PV 
+
+systems in China to install photovoltaic panels on the rooftops of a building within the Fuzhou E-
+
+Commerce facility. 
+
+ 
+
+This project commenced in early 2020 and is scheduled to be connected to the grid for power 
+
+generation by the first half of 2021. Based on the geographical location of the property and roofing 
+
+conditions, it is estimated that this photovoltaic system can generate an average of 2.4 million kWh 
+
+of electricity annually. 
+
+ 
+
+Considerations of which building to install these solar panels on is also expected to bring about 
+
+other advantages, such as reducing indoor temperatures of the warehouse of which it is housed 
+
+above by 3-5 degrees Celsius. The photovoltaic system also offsets some of the electricity 
+
+generated from non-renewable sources, indirectly reducing secondary impacts such as air 
+
+pollution.  
+
+ 
+
+Projected energy saving and emissions reduction  
+
+(Fuzhou E-Commerce Photovoltaic Project) 
+
+Name 
+
+Average reduction 
+
+(tonnes/year) 
+
+Standard coal usage 
+
+960.6 
+
+Carbon dust emissions 
+
+653.2 
+
+Carbon dioxide emissions 
+
+2394.3 
+
+Sulfur dioxide emissions 
+
+72.04 
+
+Nitrogen oxide emissions 
+
+36.02 
+
+ 
+
+ 
+
+ 
+
+Solar panels in the installation process at the Fuzhou Commerce property 
+
+
+
+
+
+
+42 
+
+ 
+
+GRI Content Index 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+General Disclosures  
+
+GRI 102:    
+
+General       
+
+Disclosures 
+
+2016  
+
+Organisational profile  
+
+102-1  
+
+Name of the organisation  
+
+About the Report  4 
+
+102-2  
+
+Activities, brands, products, and 
+
+services  
+
+About EC World  
+
+5-7 
+
+102-3  
+
+Location of headquarters  
+
+About EC World  
+
+5-7 
+
+102-4  
+
+Location of operations  
+
+About EC World  
+
+5-7 
+
+102-5  
+
+Ownership and legal form  
+
+About EC World  
+
+5-7 
+
+102-6  
+
+Markets served  
+
+About EC World  
+
+5-7 
+
+102-7  
+
+Scale of the organisation  
+
+About EC World  
+
+5-7 
+
+102-8  
+
+Information on employees and other 
+
+workers  
+
+Our People  
+
+30 
+
+102-9  
+
+Supply chain  
+
+Supply Chain 
+
+Management  
+
+7 
+
+102-10  
+
+Significant changes to the organisation 
+
+and its supply chain  
+
+About EC World  
+
+5-7 
+
+102-11  
+
+Precautionary Principle or approach  
+
+Risk Management  16 
+
+102-12  
+
+External initiatives  
+
+About EC World  
+
+5-7 
+
+102-13  
+
+Membership of associations  
+
+About EC World  
+
+5-7 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision maker  Board Statement  2-3 
+
+
+43 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+ 
+
+102-16  
+
+Values, principles, standards, and 
+
+norms of behaviour  
+
+Ethics and 
+
+Integrity  
+
+17 
+
+Governance 
+
+102-18  
+
+Governance structure  
+
+Governance  
+
+16-21 
+
+Stakeholder engagement 
+
+102-40  
+
+List of stakeholder groups  
+
+Stakeholder      
+
+Engagement  
+
+9 
+
+102-41  
+
+Collective bargaining agreements  
+
+EC World REIT 
+
+does not have any 
+
+collective 
+
+bargaining 
+
+agreements  
+
+N.A. 
+
+102-42  
+
+Identifying and selecting stakeholders  Stakeholder      
+
+Engagement  
+
+9 
+
+102-43  
+
+Approach to stakeholder engagement  Stakeholder      
+
+Engagement  
+
+9 
+
+102-44 
+
+Key topics and concerns raised  
+
+Stakeholder      
+
+Engagement  
+
+9 
+
+GRI 102:    
+
+General       
+
+Disclosures 
+
+2016   
+
+Reporting practice  
+
+102-45  
+
+Entities included in the consolidated    
+
+financial statements  
+
+About the Report  4 
+
+102-46  
+
+Defining report content and topic    
+
+Boundaries  
+
+About the Report  4 
+
+102-47 
+
+List of material topics  
+
+Materiality         
+
+Assessment  
+
+11 
+
+
+44 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+102-48  
+
+Restatements of information  
+
+There are no 
+
+restatements of 
+
+information in this 
+
+Report.  
+
+N.A. 
+
+102-49 
+
+Changes in reporting  
+
+About the Report  4 
+
+102-50 
+
+Reporting period  
+
+About the Report  4 
+
+102-51  
+
+Date of most recent report  
+
+31 May 2020 
+
+N.A. 
+
+102-52 
+
+Reporting cycle  
+
+About the Report  4 
+
+102-53  
+
+Contact point for questions regarding 
+
+the report  
+
+About the Report  4 
+
+102-54  
+
+Claims of reporting in accordance with 
+
+the GRI Standards  
+
+About the Report  4 
+
+102-55 
+
+GRI content index  
+
+GRI Content Index  42-47 
+
+102-56  
+
+External assurance  
+
+Not sought 
+
+N.A. 
+
+Topic-specific GRI Standard Disclosures  
+
+Category: Economic 
+
+Product Innovation (Value-added Service) 
+
+GRI 103:    
+
+General       
+
+Disclosures 
+
+2016   
+
+103-1  
+
+Explanation of the material topic and 
+
+its Boundary  
+
+Product 
+
+Innovation  
+
+27 
+
+103-2  
+
+The management approach and its 
+
+components  
+
+Product 
+
+Innovation  
+
+27 
+
+103-3  
+
+Evaluation of the management 
+
+approach  
+
+Product 
+
+Innovation  
+
+27 
+
+Category: Environmental 
+
+Energy Use and GHG Emissions 
+
+GRI 103:    
+
+General       
+
+103-1  
+
+Explanation of the material topic and 
+
+its Boundary  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+
+45 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+Disclosures 
+
+2016    
+
+103-2  
+
+The management approach and its 
+
+components  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+103-3  
+
+Evaluation of the management 
+
+approach  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+GRI 302:      
+
+Energy 2016  
+
+302-1  
+
+Energy consumption within the             
+
+organisation  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+302-3  
+
+Energy intensity  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+GRI 305:    
+
+Emissions 2016   
+
+305-2  
+
+Energy indirect (Scope 2) GHG 
+
+emissions  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+305-4  
+
+GHG emissions intensity  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+GRI G4 Sector 
+
+Disclosure: 
+
+Construction 
+
+and Real Estate  
+
+CRE-3  
+
+Greenhouse gas emissions intensity 
+
+from buildings  
+
+Energy Use and 
+
+GHG Emissions  
+
+36-41 
+
+Category: Social 
+
+Workplace Health and Safety 
+
+GRI 103:    
+
+General       
+
+Disclosures 
+
+2016   
+
+103-1  
+
+Explanation of the material topic and 
+
+its Boundary  
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+103-2  
+
+The management approach and its 
+
+components  
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+103-3  
+
+Evaluation of the management 
+
+approach  
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+GRI 403:      
+
+Occupational 
+
+Health and 
+
+Safety 2018   
+
+403-1 
+
+Occupational health and safety 
+
+management system 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-2 
+
+Hazard identification, risk assessment, 
+
+and incident investigation 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+
+46 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+403-3 
+
+Occupational health services 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-4 
+
+Worker participation, consultation, and 
+
+communication on occupational health 
+
+and safety  
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-5 
+
+Worker training on occupational health 
+
+and safety 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-6 
+
+Promotion of worker health 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-7 
+
+Prevention and mitigation of 
+
+occupational health and safety impacts 
+
+directly linked by business 
+
+relationships 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-9 
+
+Work-related injuries 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+403-10 
+
+Work-related ill health 
+
+Workplace Health 
+
+and Safety 
+
+31-35 
+
+Category: Social 
+
+Quality of Assets 
+
+GRI 103:    
+
+General       
+
+Disclosures 
+
+2016   
+
+103-1  
+
+Explanation of the material topic and 
+
+its Boundary  
+
+Quality of Assets 
+
+22-26 
+
+103-2  
+
+The management approach and its 
+
+components  
+
+Quality of Assets 
+
+22-26 
+
+103-3  
+
+Evaluation of the management 
+
+approach  
+
+Quality of Assets 
+
+22-26 
+
+GRI G4 Sector 
+
+Disclosure: 
+
+Construction 
+
+and Real Estate  
+
+CRE-8  
+
+Type and number of sustainability            
+
+certification, rating and labeling 
+
+schemes for new construction, 
+
+management, occupation and 
+
+redevelopment  
+
+Quality of Assets 
+
+22-26 
+
+
+47 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page    
+
+Reference  
+
+Category: Governance 
+
+Regulatory Compliance 
+
+GRI 103:    
+
+General       
+
+Disclosures 
+
+2016   
+
+103-1  
+
+Explanation of the material topic and 
+
+its Boundary  
+
+Regulatory     
+
+Compliance 
+
+19-21 
+
+103-2  
+
+The management approach and its 
+
+components  
+
+Regulatory     
+
+Compliance 
+
+19-21 
+
+103-3  
+
+Evaluation of the management 
+
+approach  
+
+Regulatory     
+
+Compliance 
+
+19-21 
+
+GRI307:       
+
+Environmental 
+
+Compliance 
+
+2016 &amp;         
+
+GRI 419:             
+
+Socioeconomic 
+
+Compliance 
+
+2016  
+
+307-1  
+
+Non-compliance with environmental 
+
+laws and regulations  
+
+Regulatory     
+
+Compliance 
+
+19-21 
+
+419-1  
+
+Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area  
+
+Regulatory     
+
+Compliance 
+
+19-21 
+
+ 
+

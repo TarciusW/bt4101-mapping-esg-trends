@@ -1,0 +1,3297 @@
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+CONTENTS 
+
+BOARD’S STATEMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ABOUT THIS REPORT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+OUR SUSTAINABILITY STATEMENT  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+OUR SUSTAINABILITY MANAGEMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+MATERIALITY ASSESSMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+MATERIAL TOPICS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 - 8 
+
+ECONOMIC 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 - 10 
+
+ENVIRONMENTAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 - 13 
+
+SOCIAL  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 - 17 
+
+GOVERNANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17 - 19 
+
+GRI CONTENT INDEX 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 - 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+1 
+
+ 
+
+Board’s Statement 
+
+ 
+
+Dear Stakeholders, 
+
+The Board of Directors (the “Board”) of V2Y Corporation Limited (formerly known as Synagie Corporation Ltd.) 
+
+(“V2Y” or “Company”, and together with its subsidiaries, the “Group” and “we”) is pleased to present the 
+
+sustainability report for the financial year ended 31 December 2020 (“FY2020”). 
+
+In FY2020, the Group has completed the disposal of e-Commerce business which includes e-Commerce enabler 
+
+and logistics business (including the technology and business solutions). Following the disposal, the Group has 
+
+been actively seeking opportunities to expand the Insurtech Business.  
+
+The Group is partnering with leading computer manufacturers and distributors to, among others, bundle or 
+
+package the Group's accidental damage protection solutions and third-party administration services in major 
+
+government tenders for the supply of laptops and tablets. In addition, we are exploring partnerships with various 
+
+consumer electronics and mobile phone chain stores to further expand distribution channels for our mobile 
+
+phone screen protection insurance products.  
+
+The Group continues to integrate sustainability practices into the business whilst creating long-term value for 
+
+the key stakeholders. We review and determine the sustainability factors which are material to our business and 
+
+oversee the management of the sustainability issues by tracking the Group’s sustainability efforts and focus on 
+
+our commitment to working alongside with our valued stakeholders to build a sustainable business. 
+
+FY2020 was indeed a challenging year for businesses in Singapore and the rest of the world as the global 
+
+economy was affected by the COVID-19 pandemic outbreak. V2Y was also affected by the pandemic outbreak 
+
+as the Group saw some near-term impact to Insurtech business during the COVID-19 period, with a slowdown 
+
+in renewal of contracts by customers. However, the Group remains positive for the long-term outlook in this 
+
+industry as the world moves to increased digitalisation post-COVID-19 and digital adoption has taken a quantum 
+
+leap as the consumers moved dramatically toward online channels. 
+
+It is our belief that building a sustainable business is important to our continued success and that we must be 
+
+fully accountable for the impacts related to our environment, social and governance. We have taken into 
+
+considerations our sustainability matters into the Group’s strategy formulations. This can be proven by our 
+
+efforts to minimise our carbon footprint though environment conservation initiatives such as encouraging waste 
+
+reducing practices through 3Rs (Reduce, Reuse and Recycle) awareness and education in our workplace. In 
+
+addition, we also work towards providing a safe and conducive working environment for our employees by 
+
+cultivating a sense of responsibility for health, safety and well-being throughout the Group. In view of the 
+
+ongoing COVID-19 pandemic, we protect the health and safety of our employees by allowing them to return to 
+
+the office on a team rotation basis and encourage them to continue working from home, where possible.  
+
+On behalf of the Board, I would like to take this opportunity to express our appreciation to our dedicated staff 
+
+and stakeholders for their continuous support and effort in helping us towards a more sustainable future. 
+
+For and on behalf of the Board of Directors  
+
+Ong Shen Chieh (Wang Shengjie) 
+
+Executive Director and Chief Executive Officer 
+
+V2Y Corporation Ltd. 
+
+27 April 2021 
+
+
+
+
+ 
+
+2 
+
+ 
+
+About This Report 
+
+Scope of the report 
+
+This Sustainability Report reviews our strategy, approach and sustainability performance for the 12-month 
+
+period from 1 January 2020 to 31 December 2020 with the primary focus on environmental, social and 
+
+governance (“ESG”) and economic aspects and initiatives undertaken that had impacted the material ESG factors. 
+
+Unless otherwise stated, the objective, approach, performance and targets of the sustainability topics shall cover 
+
+the Group’s Insurtech business in Singapore. 
+
+Reporting Framework 
+
+This Sustainability Report has been prepared in compliance with Rule 711B of the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Catalist Rules and with reference to the internationally recognised Global Reporting 
+
+Initiative (“GRI”) Standards – Core Option.  
+
+Report Content and Quality  
+
+This Sustainability Report aims to provide stakeholders with an overview of the Group’s initiatives and strategies 
+
+in relation to sustainability issues. Through this, we aim to address the key concerns and issues of our 
+
+stakeholders. To ensure the quality of the content in this Sustainability Report, we have applied GRI’s principles 
+
+of accuracy, balance, clarity, comparability, reliability and timeliness. All the data presented in this Sustainability 
+
+Report are presented in internationally accepted measurement units. Financial figures are presented in 
+
+Singapore Dollars unless otherwise stated.  
+
+Availability 
+
+This Sustainability Report is only available in PDF format and can be downloaded from the SGXNet and on the 
+
+Company’s website https://v2y.si/investor_relations/.  
+
+As part of our ongoing efforts in improving the coverage of our sustainability practices, we welcome stakeholders 
+
+to submit their questions or feedback on any aspect of our sustainability performance to Sustain@V2Y.si.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+3 
+
+ 
+
+Our Sustainability Statement 
+
+Our Vision 
+
+To create sustainable commerce and champion positive change.  
+
+Our Mission 
+
+To partner our customers through adding values to their products and creating exceptional post-sales service 
+
+experience, to achieve profitability and to create a sustainable business together. 
+
+Our Sustainability Management 
+
+Our Board is the highest governing body overseeing our sustainability agenda and journey, which is operationally 
+
+driven by the Executive Director/ Chief Executive Officer (“CEO”). He is supported by Group Financial Controller, 
+
+who works with the respective Department Heads and middle management team, as set out below. 
+
+ 
+
+ 
+
+ 
+
+Our Board shall oversee and provide overall guidance to management on the Company’s policies, strategies 
+
+and programmes related to matters of sustainability and corporate social responsibility.  This includes, but not 
+
+limited to, matters related to environment, local community, human rights, supply chains, customer feedback 
+
+and philanthropy. The management shall set and review the goals established with respect to sustainability 
+
+matters and monitor the Company’s performance and progress. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Board of Directors
+
+
+
+
+
+
+
+Executive Director/ 
+
+CEO
+
+
+
+
+
+
+
+Group Financial 
+
+Controller
+
+
+
+
+
+
+
+Sales/PD
+
+
+
+
+
+
+
+Operations
+
+
+
+
+
+
+
+Finance &amp; Human Resource
+
+
+ 
+
+4 
+
+ 
+
+Stakeholder Engagement 
+
+Our approaches to sustainability is supported by our commitment to create long-term sustainable value for our 
+
+stakeholders. We value the feedback arising from our stakeholder engagements as it has helped strengthen the 
+
+relevance of our reporting and approach to managing the Company’s material issues. As such, we engaged with 
+
+our key stakeholders through various platforms to allow us to obtain valuable and relevant inputs. Our key 
+
+stakeholders include our customers, employees, insurers, shareholders, regulators and the community at large.  
+
+We have collated and summarised the key concerns and interests raised by our stakeholders as follows: 
+
+Stakeholder 
+
+Engagement 
+
+channels 
+
+Frequency 
+
+Key areas of concern 
+
+Employees 
+
+Code of Conduct 
+
+and Group’s 
+
+policies 
+
+Perpetual 
+
+▪ Work environment safety and welfare; 
+
+and 
+
+▪ COVID-19 Safe Management 
+
+Measures at workplace 
+
+Performance 
+
+appraisal 
+
+Annual 
+
+▪ Areas of improvement;  
+
+▪ Good merit-based compensation 
+
+system; and  
+
+▪ Creation of effective development 
+
+plan 
+
+Training and 
+
+development 
+
+Ad-hoc 
+
+▪ Professional knowledge and 
+
+compliance; 
+
+▪ Career progression; and 
+
+▪ Learning and growth opportunities 
+
+Insurers 
+
+V2Y’s network 
+
+Perpetual 
+
+▪ Establishing and maintaining strong 
+
+business with accredited insurers; and 
+
+▪ Prompt payment cycles 
+
+End Users 
+
+Feedback 
+
+Annual 
+
+Timely and quality customer service 
+
+Shareholders 
+
+Annual report and 
+
+sustainability 
+
+report 
+
+Annual 
+
+▪ Financial performance and position; 
+
+▪ Business strategy and outlook; and 
+
+▪ Sustainability of business 
+
+Announcements 
+
+on SGXNet 
+
+Ad-hoc 
+
+Timeliness, completeness and accuracy 
+
+of announcements 
+
+Media releases 
+
+Ad-hoc 
+
+Timeliness, completeness and accuracy 
+
+of media releases 
+
+Regulators 
+
+Correspondence 
+
+and meetings with 
+
+government 
+
+agencies and 
+
+statutory bodies,  
+
+participation on 
+
+industry and local 
+
+councils  
+
+collaborations 
+
+Ad-hoc 
+
+▪ Regulatory compliance 
+
+▪ Good governance  
+
+▪ Safety at work 
+
+Community 
+
+Sustainability 
+
+report 
+
+Annual 
+
+▪ Corporate social conduct; 
+
+▪ Safe and sustainable environment; 
+
+and 
+
+▪ Public health and communicable 
+
+diseases. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+5 
+
+ 
+
+Materiality Assessment 
+
+We have performed a materiality analysis to identify, prioritise and validate the economic, governance, social, 
+
+and environmental issues that are relatively important to our business and stakeholders through various 
+
+channels of communication and feedback received. The analysis allows us to assess and prioritise stakeholders’ 
+
+needs and assists us to allocate our resources more efficiently to create long-term value for all our stakeholders. 
+
+First of all, we conducted a comparative analysis of sustainability issues identified by global initiatives and 
+
+concerns raised by the stakeholders. These issues were then discussed and prioritised in accordance with the 
+
+level of materiality to the Group. Each issue was then prioritised on a scale of ‘1 to 10’ as shown in the table 
+
+below. After the preliminary materiality matrix was developed, we proceeded to validate it through 
+
+engagements with the different groups of stakeholders. 
+
+Our review focuses on economic, governance, social and environmental aspects with 9 identified material topics. 
+
+For each material topic, we report on its relevance to our business and stakeholders, and the measures put in 
+
+place to address it. Going forward, we will continually re-evaluate and review our material ESG topics with our 
+
+stakeholders to ensure they remain relevant in the business environment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Product and service 
+
+quality
+
+Create economic 
+
+value
+
+Risk Management
+
+Ethics and business 
+
+conduct
+
+Talent attraction 
+
+and retention
+
+Training and 
+
+development
+
+Occupational 
+
+health and safety
+
+Waste management
+
+Energy and water 
+
+efficiency
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+10
+
+IMPORTANCE TO OUR STAKEHOLDERS
+
+SIGNIFICANCE TO OUR BUSINESS
+
+Economic
+
+Governance
+
+Social
+
+Environmental
+
+
+ 
+
+6 
+
+ 
+
+Material Topics 
+
+Topic 
+
+Why is this material for us and stakeholders 
+
+How we are addressing the issue 
+
+Economic Aspect 
+
+Creating 
+
+economic value 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In order to build a business with sustainable 
+
+growth prospects, we have to ensure 
+
+continuous creation of economic value for our 
+
+valued stakeholders.  
+
+ 
+
+Consistent and strong financial performance 
+
+drives shareholder value amid challenging 
+
+operating environments.  
+
+ 
+
+We seek to create long-term economic 
+
+value for our stakeholders through 
+
+building a sustainable business and brand 
+
+through the expansion of our Insurtech 
+
+business model. In addition, we will 
+
+develop and launch more innovative 
+
+insurance products. 
+
+Product 
+
+and 
+
+service quality 
+
+ 
+
+ 
+
+It has always been our commitment to build a 
+
+reputation for quality and to exceed our 
+
+customer’s expectations. We believe that by 
+
+providing the best products and services that 
+
+meet or exceed our customer expectations will 
+
+result in customer satisfaction and at the same 
+
+time we could build a sustainable business 
+
+relationship with them. 
+
+ 
+
+ 
+
+We value the feedback given by the 
+
+customers. Their feedback is a resource 
+
+for enhancing customer experience and to 
+
+further improve on our products and 
+
+services offering in order to meet their 
+
+needs and expectations. 
+
+ 
+
+ 
+
+Environmental Aspect 
+
+Waste 
+
+management 
+
+ 
+
+ 
+
+ 
+
+Waste management is crucial as the waste 
+
+production in Singapore has been increasing 
+
+every year. 
+
+ 
+
+We understand the importance of everyone’s 
+
+role in protecting the environment and to 
+
+minimise 
+
+waste. 
+
+Therefore, 
+
+we 
+
+have 
+
+integrated waste management into our 
+
+operations to minimise our environmental 
+
+impact.  
+
+ 
+
+We are committed to protect the 
+
+environment 
+
+by 
+
+promoting 
+
+environmental-friendly practices in the 
+
+Group. The Group encourages waste 
+
+reducing 
+
+practices 
+
+through 
+
+its 
+
+3Rs 
+
+(Reduce, Reuse and Recycle) awareness 
+
+and education initiatives.  
+
+Energy 
+
+and 
+
+water 
+
+efficiency 
+
+ 
+
+ 
+
+We 
+
+are 
+
+committed 
+
+towards 
+
+energy 
+
+conservation which is in line with Singapore’s 
+
+initiatives in reducing its carbon footprint by 
+
+encouraging lower energy consumption. 
+
+ 
+
+Despite our direct ecological footprint being 
+
+relatively small, we are taking reasonable 
+
+steps to minimise energy consumption 
+
+through improving overall energy efficiency of 
+
+the Group. 
+
+We have undertaken methods to improve 
+
+energy efficiency by using motion-
+
+triggered 
+
+lightings, 
+
+maintaining 
+
+air-
+
+conditioner temperature at 25 degrees 
+
+Celsius and the use of energy-efficient 
+
+Light-emitting diode (LED) light bulbs at 
+
+our office. 
+
+ 
+
+In addition, we have been constantly 
+
+monitoring 
+
+and 
+
+measuring 
+
+the 
+
+effectiveness of our effort towards 
+
+minimising 
+
+energy 
+
+and 
+
+water 
+
+consumption at our office. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+7 
+
+ 
+
+Topic 
+
+Why is this material for us and stakeholders 
+
+How we are addressing the issue 
+
+Social Aspect 
+
+Talent 
+
+attraction and 
+
+retention  
+
+ 
+
+ 
+
+Great talents are scarce and it has been a 
+
+challenge to attract talents that fit into the 
+
+Group’s culture and structure. Retaining 
+
+talents is another challenge faced by our 
+
+management. 
+
+ 
+
+Nevertheless, we employ people with relevant 
+
+skills and experience to fit in their roles and 
+
+responsibilities based on merit and valuable 
+
+industry experience. We also retain existing 
+
+talents as we greatly value their contributions 
+
+and loyalty towards the Group. 
+
+ 
+
+We retain existing talents and as well as 
+
+attract 
+
+new 
+
+talents 
+
+by 
+
+providing 
+
+attractive remuneration, staff benefit 
+
+and welfare, as well as the opportunity to 
+
+develop. 
+
+ 
+
+Employees are given flexible working 
+
+schedule to help them meet their 
+
+demands in both their professional and 
+
+personal lives.  
+
+ 
+
+In addition, the Group ensure that all our 
+
+employees are treated fairly, with 
+
+respect and dignity, regardless of their 
+
+gender, race, nationality and religion.  
+
+ 
+
+ 
+
+Occupational 
+
+health 
+
+and 
+
+safety 
+
+ 
+
+ 
+
+We recognise the importance of a healthy and 
+
+safe workplace is essential in upholding 
+
+corporate image, greater staff retention, 
+
+regulatory 
+
+compliance, 
+
+lower 
+
+level 
+
+of 
+
+absenteeism 
+
+and 
+
+better 
+
+cognitive 
+
+performance. 
+
+We ensure that the safety of our 
+
+employees are protected. We cultivate a 
+
+sense of responsibility for health, safety 
+
+and well-being throughout the Group by 
+
+constantly reminding our employees on 
+
+workplace safety awareness. 
+
+ 
+
+Furthermore, due to the ongoing COVID-
+
+19 pandemic, the Company allows our 
+
+employees to work from home, where 
+
+possible for safety concern. 
+
+ 
+
+ 
+
+Training and 
+
+development 
+
+ 
+
+ 
+
+Continuous training and upgrading for all our 
+
+employees is important to our success. We 
+
+constantly provide learning and development 
+
+resources opportunities for our employees to 
+
+develop the right competencies and skills. 
+
+ 
+
+We also understand the importance of training 
+
+and development to better equip our 
+
+employees with the skills and knowledge 
+
+required 
+
+to 
+
+discharge 
+
+their 
+
+roles 
+
+and 
+
+responsibilities as well as to contribute towards 
+
+our goal to maintain a long-term sustainable 
+
+business. 
+
+We conduct formal and systematic 
+
+performance appraisals annually to 
+
+identify gaps in knowledge and gather 
+
+feedback from employees. In addition, it 
+
+also allows us to communicate with our 
+
+employees to better understand their 
+
+needs and work out effective solutions to 
+
+bridge the knowledge gaps through 
+
+specialised training and development 
+
+plans. 
+
+ 
+
+In FY2020, due to the COVID-19 
+
+pandemic, there were lesser training 
+
+courses to attend. However, we will 
+
+continue to source and invest in training 
+
+and development for our employees in 
+
+FY2021. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+8 
+
+ 
+
+Topic 
+
+Why is this material for us and stakeholders 
+
+How we are addressing the issue 
+
+Governance Aspect 
+
+Ethics 
+
+and 
+
+business 
+
+conduct 
+
+ 
+
+ 
+
+To maintain good corporate governance, we 
+
+understand that the appropriate people, 
+
+processes and structures are important to 
+
+direct and manage the business and affairs of 
+
+the Group. With strong corporate governance, 
+
+we could maximise long-term shareholder 
+
+value, while taking into account the interests of 
+
+other stakeholders. 
+
+ 
+
+We establish our corporate image based on the 
+
+foundation of good ethics and business 
+
+conduct. 
+
+ 
+
+ 
+
+We do not tolerate corruption and fraud 
+
+in any form. We have established zero 
+
+tolerance towards corruption and fraud 
+
+and this is evident in our formalised Code 
+
+of Business Ethics and Conduct policy, 
+
+which is made available to all employees. 
+
+We hold ourselves to the highest 
+
+standards and maintain a strong stance 
+
+against bribery and corruption. 
+
+ 
+
+We 
+
+have 
+
+also 
+
+put 
+
+in 
+
+place 
+
+a 
+
+whistleblowing policy which provides a 
+
+mechanism for employees to report any 
+
+wrong-doing within the Group relating to 
+
+unlawful conduct and malpractices in the 
+
+workplace. 
+
+Our 
+
+accessible 
+
+and 
+
+independent whistleblowing channels, 
+
+including direct access to the Audit 
+
+Committee Chairman, allow employees 
+
+to report any suspected wrongdoings in 
+
+good 
+
+faith 
+
+and 
+
+in 
+
+confidence. 
+
+Furthermore, 
+
+our 
+
+open-door 
+
+policy 
+
+culture also provides employees with 
+
+channels to escalate any suspected 
+
+wrongdoings to the management. 
+
+ 
+
+In addition, we have also established a 
+
+privacy policy on our corporate website 
+
+to provide transparency on our handling 
+
+of confidential customer data. 
+
+ 
+
+Risk 
+
+management 
+
+ 
+
+Enterprise risk management is the process of 
+
+identifying and addressing methodically the 
+
+potential events that represent risks to the 
+
+achievement of strategic objectives, or to 
+
+opportunities to gain competitive advantage. 
+
+ 
+
+At V2Y, we promote risk management culture 
+
+through establishing processes to identify and 
+
+evaluate our risks, as well as monitoring and 
+
+reporting to the Board the status and 
+
+effectiveness of risks mitigation measures and 
+
+strategy implementation. 
+
+ 
+
+Management of risks and threats is important  
+
+as our operations involve collection of large 
+
+volume of customer’s personal data. 
+
+ 
+
+We carry out enterprise risk review 
+
+annually to ensure that we account for 
+
+new risks that arise as we seek new 
+
+business opportunities. We will continue 
+
+monitoring to ensure that the risks are 
+
+kept within our risk appetite and 
+
+implement suitable risk responses. 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+9 
+
+ 
+
+Economic 
+
+Objective 
+
+Our aim is to innovate our Insurtech business through the use of technology innovation and create affordable 
+
+insurance experiences that is unlike the traditional insurance, as well as creating long-term economic value for 
+
+our stakeholders. 
+
+Approach 
+
+(a) Creating Economic Value 
+
+At V2Y, we believe that to be a sustainable business in the long term, we should not solely focus on profits. In 
+
+order to build a business that has sustainable long-term growth prospects, we have to ensure continuous 
+
+creation of economic value for our valued stakeholders. We create long-term economic value for our 
+
+stakeholders and adopt strategies through the following: 
+
+Innovative of Insurtech business model 
+
+Following the disposal of the e-commerce business segment in November 2020, the Group is looking to expand 
+
+our Insurtech business by providing third-party administration services and value-added services for our 
+
+multinational customers in the computer, communications and consumer electronics sector in other countries 
+
+such as India and Japan.  
+
+We have over ten years of experience in providing regional third-party administration solutions for extended 
+
+warranty and accidental damage protection services, and after-sales support and call centre services. Our 
+
+customers include Fortune 500 companies in the computer, communication and consumer electronics or 3C 
+
+sector. We have provided services to our corporate customers from countries across Asia including Singapore, 
+
+Indonesia, Malaysia, Philippines, South Korea and Thailand, as well as Hong Kong. 
+
+We are engaged by our corporate customers and we serve as an administrative intermediary between our 
+
+corporate customers and the insurance partners, reducing the administrative burden borne by both of them. 
+
+We enable the extended warranty value chain by allowing manufacturers and retailers to outsource vital 
+
+processes for their extended warranty programmes. We offer a range of products for our customer such as 
+
+Kiasu.Me, Smart Care, Smart Care Plus, Extended Care and Replacement Care. Kiasu.Me is an insurance that 
+
+protects our customer’s new smartphone for one accidental screen damage for a period of 12 months upon 
+
+activation. In 2021, Kiasu.Me was rebranded as Smart Care as part of our initiative to streamline our product 
+
+category. Smart Care extends its coverage for screen damage to include other accidental damages such as in the 
+
+event of lightning, flood, burglary or theft via forcible entry, armed robbery, liquid or damage by providing repair 
+
+or replacement options. 
+
+Leveraging on our technology platform and ecosystem, the Group is looking to expand our Insurtech business 
+
+by extending existing offerings and new products to our brand partners, channel partners and end consumers. 
+
+The Group remains positive for the long-term outlook in this industry as the world moves toward increased 
+
+digitalisation post COVID-19. The COVID-19 pandemic is accelerating the rise of digital world and there is 
+
+increased demand and usage of electronic devices following the new societal activities such as working from 
+
+home and distant learning. As such, we believe that with the increased usage of electronic devices, it could 
+
+eventually boost our existing insurance product sales. 
+
+According to an article written by McKinsey &amp; Company1, Insurtech have emerged in the insurance space where 
+
+investments have grown rapidly. $140 million was invested annually in 2011, $270 million in 2013, and $2.7 
+
+billion in 2015. The article also highlighted that, based on the analysis from Panorama Insurtech, it shows that 
+
+ 
+
+1 https://www.mckinsey.com/industries/financial-services/our-insights/insurtech-the-threat-that-inspires# 
+
+
+ 
+
+10 
+
+ 
+
+despite the US has been the pioneering market for Insurtech, Asia-Pacific region accounts for only 14 percent of 
+
+the Insurtech but this is expected to be the fastest growing region in the coming years.  
+
+ 
+
+(b) Product and Customer Service Quality 
+
+It has always been our commitment to build a reputation for quality and to exceed our customer’s expectations. 
+
+We believe that by providing the best products and services that meet or exceed our customer expectations will 
+
+result in customer satisfaction and at the same time, build a sustainable business relationship with them. We 
+
+understand the importance of customers’ feedback on their experience with our products and services. 
+
+Therefore, we have a dedicated Operation Team and Claim Specialist to address customers’ queries and 
+
+feedback. Feedback and comments received by our customers are collected for future improvements in our 
+
+business model. In addition, we have established key performance indicators for our customer service staff to 
+
+monitor response rate to customers’ concerns and feedback.  
+
+ 
+
+Our Group’s performance 
+
+Economic Value  
+
+Generated by V2Y 
+
+ 
+
+Total Assets 
+
+Total Equity 
+
+$1.77m* 
+
+$4.6m* 
+
+$2.85m* 
+
+Total revenue in FY2020 
+
+ 
+
+Value of V2Y’s total assets  
+
+as at 31 December 2020 
+
+Value of V2Y’s total equity  
+
+as at 31 December 2020 
+
+*The performance above exclude contribution from discontinued operations. 
+
+Economic Performance in FY2020 
+
+FY2020 Target 
+
+Performance Update 
+
+Increase the number of Brand Partners and 
+
+optimise 
+
+product mix 
+
+Not applicable as it is related to the disposed e-commerce 
+
+group. 
+
+Expand our Big Data analytics capabilities and 
+
+geographical influence 
+
+Not applicable as it is related to the disposed e-commerce 
+
+group. 
+
+Launch more innovative insurance products 
+
+• Launched new insurance products - Smart Care 
+
+Ultimate and Smart Care Essential in early 2021. 
+
+• We have carried out market survey, product feasibility 
+
+studies, planning, design, pricing and development 
+
+prior to the launch of our new insurance products. 
+
+Economic Target for FY2021 
+
+FY2021 Target 
+
+Action plan 
+
+To continue launching more innovative 
+
+insurance products 
+
+We wish to develop and launch more innovative products 
+
+and services through our extensive market research. 
+
+To increase customer base for existing and 
+
+newly launched products 
+
+To devise marketing strategy and collaboration with 
+
+brand partners to promote introduction and sales of 
+
+existing and new Insurtech products. 
+
+
+
+
+
+
+
+
+ 
+
+11 
+
+ 
+
+Environmental 
+
+Objective 
+
+We seek to be an environmentally aware and socially responsible corporation through integration of eco-friendly 
+
+practices in our corporate strategies and decisions to minimise our ecological footprint. 
+
+Approach 
+
+With the disposal of e-Commerce business, V2Y engages mainly in Insurtech business and our direct 
+
+environmental impact comprises of electrical usage and water usage at our office. Despite our direct ecological 
+
+footprint being relatively small, we are committed to mitigate climate change and conserve resources by 
+
+continuing monitoring our electricity and water usage to ensure that the resources are consumed on the need-
+
+to and optimised basis. 
+
+(a) Waste Management 
+
+V2Y values the importance of protecting the environment by promoting environmental friendly practices in the 
+
+Group. The Group encourages waste reducing practices through its 3Rs (Reduce, Reuse and Recycle) awareness 
+
+and education initiatives. As we are in the Insurtech business, majority of the waste created by our operations 
+
+is paper. In response to our national vision towards becoming a Zero Waste Nation and a Leading Green Economy, 
+
+we are continuously exploring ways to integrate the value of 3Rs in our daily operations by reducing the usage 
+
+of paper and implementing paperless initiatives. 
+
+In FY2020, we have extended our corporate effort towards waste management by reducing paper usage through 
+
+double-sided printing and reuse paper with single side printing. Besides that, we have implemented paperless 
+
+operating environment by issuing e-invoice and e-statement to our customers. We also encourage e-payment 
+
+in our daily operations. Through this efforts, we managed to reduce our office paper consumption. In FY2020, 
+
+we consumed only 38.54kg of papers as compared to 250kg of papers in FY2019. In addition, we recycle used 
+
+toner cartridge and papers through recycling vendors. We also encourage our staffs to use recyclable items to 
+
+reduce plastic waste, such as carry a reusable lunchbox and cutlery, reusable bottle and paper bag.  
+
+We believe that our efforts in overall waste management would not be 
+
+possible without the corporate-wide efforts to comply to our waste 
+
+management policies and procedures to ensure waste is properly 
+
+segregated. We will continue to explore ways to extend our 
+
+commitment to create a paper-less operating environment and to be a 
+
+sustainable corporate. 
+
+ 
+
+ 
+
+(b) Energy and Water Efficiency 
+
+The Group endeavours to maximise our energy conservation efforts and reduce 
+
+water wastage to minimise our ecological footprint. We have undertaken methods 
+
+to improve energy efficiency by using motion-triggered lightings, maintaining air-
+
+conditioner temperature at 25 degrees Celsius and using energy-efficient Light-
+
+emitting diode (LED) light bulbs at our office. We have been constantly measuring 
+
+the effectiveness of our efforts toward minimising energy and water consumption 
+
+at our office. Aside from closely monitoring of our monthly utility consumption, we 
+
+also made efforts to spread awareness and strongly encourage our employees to 
+
+adopt good electricity and water saving habits by switching off lights and power 
+
+points that are not in use, and stopping a running water tap. 
+
+ 
+
+
+
+
+
+
+ 
+
+12 
+
+ 
+
+Our Performance 
+
+In FY2020, all environmental laws and regulations in the jurisdictions we operate in were adhered to and there 
+
+were no fines or penalties incurred related to any non-compliance with environmental laws and regulations. 
+
+ 
+
+Our electricity consumption for office are as follows:  
+
+ 
+
+ 
+
+Our water consumption for office are as follows: 
+
+ 
+
+52386
+
+13042
+
+0
+
+10000
+
+20000
+
+30000
+
+40000
+
+50000
+
+60000
+
+Total Consumption
+
+Electricity usage at our office in 2019 and 2020
+
+FY2019
+
+FY2020
+
+*The Group shared the office with the 
+
+disposed companies from Apr to Oct 2020.
+
+110.90 
+
+46.20 
+
+ -
+
+ 20.00
+
+ 40.00
+
+ 60.00
+
+ 80.00
+
+ 100.00
+
+ 120.00
+
+Total Consumption
+
+Water usage at our office in 2019 and 2020
+
+FY2019
+
+FY2020
+
+*The Group shared the office with the 
+
+disposed companies from Apr to Oct 2020.
+
+(Cu M) 
+
+(kWh) 
+
+
+ 
+
+13 
+
+ 
+
+ 
+
+In comparison to FY2019 performance, our electricity usage at our office has decreased from 52,386 kWh to 
+
+13,042 kWh, mainly due to work from home arrangement as well as the shift to an office of a smaller size. As for 
+
+our water usage, there was a decrease of usage from 111 Cu M in FY2019 to 46 Cu M in FY2020 mainly due to 
+
+decrease of headcount in office during the COVID-19 period.  
+
+Environmental Performance in FY2020 
+
+FY2020 Target 
+
+Performance Update 
+
+Find an optimal, cost-effective and feasible way to 
+
+monitor and track amount of packaging material and 
+
+paper used and seek ways to reduce amount of 
+
+waste by 5% by 2021  
+
+Not applicable as it is related to the disposed e-
+
+commerce group. 
+
+Improve electricity and water efficiency by 2%  
+
+Our electricity efficiency has been improved by 64% 
+
+from 52,386 kWh usage in FY2019 to 13,042 kWh in 
+
+FY2020 due to the circuit breaker period where our 
+
+office operated at minimal level and switching to 
+
+smaller unit office. Our office consumed lower water 
+
+in FY2020 at 46 Cu M as compared with 111 Cu M in 
+
+FY2019 due to minimal staff working in office during 
+
+the COVID-19 period. 
+
+Environmental Target for FY2021 
+
+FY2021 Target 
+
+Action plan 
+
+Maintain zero fines and penalties incurred for non-
+
+compliance to the environmental law and 
+
+regulations 
+
+Adhere to the environmental laws and regulations 
+
+as set by the authorities. 
+
+Continue to improve electricity and water efficiency 
+
+Setting a baseline on electricity and water 
+
+consumption based on existing scale of business and 
+
+employee 
+
+working 
+
+arrangement 
+
+for 
+
+future 
+
+performance measurement. 
+
+ 
+
+ 
+
+ 
+
+6.52
+
+3.3
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+FY 2019
+
+FY2020
+
+Water usage per employee
+
+3081.53
+
+931.57
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+FY 2019
+
+FY 2020
+
+Electricity usage per 
+
+employee
+
+# Based on total number of 17 employees in FY2019 and 14 employees in FY2020.  
+
+(Cu M) 
+
+(kWh) 
+
+
+ 
+
+14 
+
+ 
+
+Social 
+
+Objective 
+
+Corporate citizenship is a core component of our corporate responsibility strategy and we commit to conduct 
+
+our business in a way that is ethical, friendly and beneficial to community. 
+
+Approach 
+
+We believe that every employee plays an important role in our Company. We achieve success by promoting a 
+
+collaborative working environment. We value the importance of our employees to ensure the sustainability of 
+
+our business in the long term. As such, we have taken initiatives such as putting in place ethical labour practices, 
+
+appreciating and rewarding our employees’ contribution to the Group as well as prioritising their health and 
+
+safety above all. At V2Y, we show care and support for each other. 
+
+(a) Talent Attraction and Retention 
+
+Competitive and equitable remuneration 
+
+To meet our business objectives, we strive to hire and retain talent who will enable us to maintain our 
+
+competitive edge and expand in the market. At V2Y, talent is nurtured and rewarded. Our employees are 
+
+engaged, challenged and empowered to perform to their highest potential. We also attract talents with 
+
+competitive and equitable remuneration, staff benefit and welfare, as well as the opportunity to grow and 
+
+develop. 
+
+We are aware that employing the right people with necessary talents that suit the Group’s culture and structure 
+
+can be a challenge. Therefore, we are also committed to retain existing talent as we greatly value their 
+
+contributions and loyalty towards our Company. 
+
+To retain existing talents and as well as to attract new talents, we provide all our employees with equal 
+
+opportunities in terms of equitable remuneration, promotion and training on a meritocratic basis. We conduct 
+
+formal and systematic performance appraisals annually to ensures that performance expectations, as well as 
+
+results, are clearly communicated and discussed. The results of performance appraisals are also taken into 
+
+account for their annual salary review. By doing so, it motivates our employee as their performance are 
+
+rewarded based on our fair merit-based compensation system. Any expectations or results for the following year 
+
+will also be clearly communicated to the employees during the appraisal. 
+
+In order to remain competitive as well as in line with the manpower regulations, we review our salary range of 
+
+our employees on periodic basis.  
+
+Employee benefits and welfare 
+
+All our employees are full time employees and are given flexible working schedule where they are allowed to 
+
+vary their daily work start and end times to help them meet their demands in both professional and personal 
+
+lives. We believe that giving our employees the freedom to work on flexible hours will boost employee 
+
+satisfaction.  
+
+We also adopt all benefits and welfare practices which conforms to the manpower legislations. In addition, our 
+
+employees are given benefits and welfare such as outpatient/ dental expenses reimbursement, travel expenses 
+
+claim and entertainment expenses reimbursement for managerial levels. 
+
+Human rights and freedom of association 
+
+We respect the principles of freedom of association, the right to collective bargaining, non-discrimination and 
+
+harassment, meritocratic and progressive human resource practices, and advocates the elimination of forced or 
+
+child labour. All employees under the Group are entitled to practise freedom of association within the regulatory 
+
+limits of jurisdiction. 
+
+
+ 
+
+15 
+
+ 
+
+Diversity 
+
+At V2Y, we believe that workplace diversity is the fundamental to professional and organisational development. 
+
+We give great workplace diversity and equal opportunities to all our employees. The Group is committed to 
+
+ensure that all our employees are treated fairly, with respect and dignity, regardless of their gender, race, 
+
+nationality and religion. We value everyone’s differences and learn from each other regardless of cultural 
+
+background and bring those differences into the workplace to broaden experience and knowledge.  
+
+ 
+
+Our hiring procedures are fair, merit-based and non-discriminative. We recruit employees based on their skills, 
+
+experience and ability to perform the job regardless of their race, gender, ethnicity, personality, age, education 
+
+and background. We adopt a firm stance against human rights infringement and discrimination to ensure a 
+
+conducive work environment for our employees. 
+
+ 
+
+(b) Occupational Health and Safety 
+
+ 
+
+We recognise the importance of workplace free of occupational health and safety hazards is essential in 
+
+upholding corporate image, greater staff retention, regulatory compliance, lower level of absenteeism and 
+
+better cognitive performance. 
+
+We cultivate a sense of responsibility for health, safety and well-being throughout the Group. To ensure that 
+
+our employees adhere to the safety practices, workplace safety awareness and training are provided to all 
+
+employees. In addition, fire extinguishers and first aid kits are placed at accessible locations in our office to 
+
+safeguard against fire hazards. Moreover, fire drills are conducted regularly and our employees are trained on 
+
+handling the fire extinguishers. All of our fire extinguishers are sent for annual servicing. Our employees are 
+
+always reminded to keep the work premises clean, dry and free from physical hazard to avoid incidents of slips, 
+
+trips and falls. They are also reminded to ensure that all equipment is turned off when not in use and at the end 
+
+of each day.  
+
+Due to the ongoing COVID-19 pandemic globally and locally, the Group has taken prompt measures that are 
+
+aligned with the government’s advisories to minimise the risk of infection. To protect our employees from the 
+
+COVID-19 pandemic, we allow our employees to return to the office on a team rotation basis and encouraged 
+
+our employees to continue working from home, where possible. We have also implemented COVID-19 safety 
+
+measures such as social distancing and other health and safety measures as prescribed by the authorities at our 
+
+workplace. In addition, we continue to encourage meeting to be conducted virtually via video or voice 
+
+conferencing applications for all internal and external meeting, as we endeavour to do our part to protect the 
+
+health and safety of our employees, customers, and the communities around us. We will continue to monitor 
+
+closely on the situation of COVID-19 and follow the advisories given by the Ministry of Health and other 
+
+government agencies. 
+
+All our employees are covered under basic medical insurance and benefits programme, which insures them 
+
+against any injury or illness that requires medical, surgical or hospital treatment, sustained in the course of 
+
+employment.  
+
+(c) Training and Development 
+
+V2Y strongly believes that continuous training and upgrading for all our employees is crucial to our success. We 
+
+constantly provide learning and development resources opportunities for our employees to develop the right 
+
+competencies and skills through external, internal courses and on-the-job training.  This will enable us to stay 
+
+relevant in the industry and at the same time improves our employees’ confidence and morale. 
+
+In FY2020, due to the COVID-19 pandemic, there were lesser training courses to attend. However, we managed 
+
+to send 4 employees to attend the following training and development programmes and exam held by reputable 
+
+training organisations as follows: 
+
+ 
+
+
+ 
+
+16 
+
+ 
+
+ 
+
+Course Programme 
+
+Training service provider 
+
+Number of employees 
+
+General Insurance related 
+
+Great Eastern General Insurance 
+
+Limited 
+
+1 
+
+General Insurance related 
+
+Etiqa Insurance Pte. Ltd. 
+
+1 
+
+Commercial General Insurance 
+
+Singapore College of Insurance 
+
+2 
+
+ 
+
+We are pleased to report that in FY2020, we managed to clock over 32 hours in training and development.   
+
+ 
+
+We understand the importance of training and development to equip our employees with the skills and 
+
+knowledge required to discharge their roles and responsibilities as well as to contribute towards our goal to 
+
+maintain a long-term sustainable business. 
+
+We conduct formal and systematic performance appraisals annually for all our employees to identify gaps in 
+
+knowledge and gather feedback from employees. In addition, it also allows us to communicate with our 
+
+employees to better understand their needs and work out effective solutions to bridge the knowledge gaps 
+
+through specialised training and development plans specially designed for them. Furthermore, with proper 
+
+training plans, we will eventually invest in the right training and development programmes for the right 
+
+employees.  
+
+Our Performance 
+
+In FY2020, there were no incidents of severe or fatal workplace injuries. We complied with manpower 
+
+regulations and there were no reported incidents of child labour, forced or compulsory labour and discrimination 
+
+in the reporting year. 
+
+Our employee statistics are as follow: 
+
+ 
+
+In FY2020, we employed 5 new employees and 8 employees resigned. 9 (64%) employees are male and 5 
+
+(36%) employees are female. Most of our employees are aged between 31 to 50 years old which is 76% of our 
+
+manpower. 
+
+Social Performance in FY2020 
+
+FY2020 Target 
+
+Performance Update 
+
+Extend certain staff benefits that were exclusive to 
+
+Singapore’s operation to employees in overseas 
+
+operations.  
+
+Not applicable as it is related to the disposed e-
+
+commerce group. 
+
+Extending insurance coverage to employees in 
+
+overseas operations.  
+
+Not applicable as it is related to the disposed e-
+
+commerce group. 
+
+Provide more learning and development 
+
+opportunities for employees by involving employees 
+
+in industry conventions and seminars. 
+
+Due to COVID-19 pandemic, most of the seminars 
+
+and training were unable to be attended physically, 
+
+64%
+
+36%
+
+Employees per gender
+
+Male
+
+Female
+
+76%
+
+24%
+
+Employees per age group
+
+31 to 50
+
+50 and above
+
+
+ 
+
+17 
+
+ 
+
+management could only send staff for certain web-
+
+based training and exam.  
+
+Social Target for FY2021  
+
+FY2021 Target 
+
+Action Plan 
+
+To continue providing training and development 
+
+courses for employees 
+
+Employees will be enrolled to work related classes 
+
+such as Microsoft Office and insurance seminar.   
+
+To maintain zero workplace incident reported 
+
+Monitor and reduce any safety and health risks at 
+
+workplace. 
+
+ 
+
+Governance 
+
+Objective 
+
+We seek to establish our corporate image based on the foundation for good ethics and business conduct and 
+
+our commitment to transparency and accountability to stakeholders.  
+
+Approach 
+
+(a) Corporate Governance, Business Ethics and Anti-Corruption 
+
+We believe that corporate governance is the foundation to promote a sustainable business. To build a sound 
+
+corporate governance, we understand that appropriate people, processes and structures are important to direct 
+
+and manage the business and affairs of the Group. With corporate governance in place, we could maximise long-
+
+term shareholder value, while taking into account of the interests of other stakeholders. We conduct our 
+
+business with good ethics and efficient manner whilst adhering to the principles and guidelines of the Singapore 
+
+Code of Corporate Governance 2018 and other applicable laws and regulations. 
+
+Our Board and board committees comprise of directors with appropriate educational background, professional 
+
+qualifications, and are equipped with core competencies such as accounting or finance, business or management 
+
+experience, industry knowledge, legal and strategic planning experience. Our Board and board committees have 
+
+an appropriate balance diversity of skills, experience, gender and knowledge of the industry. With balance 
+
+diversity of Board and board committees, we could make quality decision-making with a wider range of 
+
+perceptions and experience.  
+
+We have incorporated our sustainability matters into the Group’s strategy formulations. Our Board meets at 
+
+least twice a year to review and evaluate the key activities and business strategies of the Group. 
+
+Key information of our Directors are available at the Board of Directors section of Annual Report. 
+
+To foster trust and building confidence in our stakeholders and investors, we conduct our business through the 
+
+application of ethical business practices. Management and all our employees are expected to understand, 
+
+internalise and abide to the formulated Code of Conduct (“Code”) which sets out the guidelines and practices. 
+
+The Code is found in our Staff Handbook, which is provided to all new employees during their orientation. 
+
+
+ 
+
+18 
+
+ 
+
+Anti-corruption 
+
+V2Y does not tolerate corruption and fraud in any form. We have 
+
+established zero tolerance towards corruption and fraud and this is 
+
+evident in our formalised Code of Business Ethics and Conduct policy, 
+
+which is made available to all employees. We hold ourselves to the 
+
+highest standards and maintain a strong stance against bribery and 
+
+corruption. We always emphasise on ethical business conduct to all 
+
+our employees and we expect them to uphold high ethical standards 
+
+in accordance with the expectations set out in the Code of Business 
+
+Ethics and Conduct policy. Formal disciplinary proceedings will be 
+
+given to employees for any unethical conduct or malpractice relating 
+
+to corruption or fraud. We are dedicated in conducting ourselves with 
+
+utmost integrity. 
+
+Whistleblowing 
+
+V2Y has put in place a whistleblowing policy which provides a 
+
+mechanism for employees to report any wrong-doing within the Group 
+
+relating to unlawful conduct and malpractices in the workplace. Our 
+
+accessible and independent whistleblowing channel, including direct 
+
+access to the Audit Committee Chairman, allow employees to report 
+
+any suspected wrongdoings in good faith and in confidence. We view 
+
+any harassment or victimisation (including informal pressures) towards 
+
+the whistle-blower seriously, and will take appropriate action to 
+
+protect those who raise a concern in good faith. In addition, our open-
+
+door policy also provides employees with channels to escalate any 
+
+suspected wrongdoings to the management. 
+
+Data protection and information confidentiality 
+
+Due to the nature of our business, we view data protection and 
+
+information confidentiality seriously. We are committed to protect 
+
+our customers’ data and ensure that the information provided is 
+
+always kept secured. In order to build our customers’ confidence 
+
+towards us and to better serve them, we collect our customers’ 
+
+personal data and anonymised data through several channels. This 
+
+include upon registration for product activation or  purchase any of 
+
+our services, etc. As we understand that earning and keeping users’ 
+
+and customer trust is critical in the sustainability of our business, 
+
+we have established our privacy policy on our corporate website to 
+
+show our transparency and accountability to our stakeholders. Our 
+
+privacy policy covers the following aspect of data protection: 
+
+▪ 
+
+Explains the types of information we collect; 
+
+▪ 
+
+When was the consent given for our collection of personal data; 
+
+▪ 
+
+When do we retain and use personal data; 
+
+▪ 
+
+When do we disclose personal data; 
+
+▪ 
+
+Importance of providing us accurate and complete personal data; 
+
+▪ 
+
+Opt-out procedure; and 
+
+▪ 
+
+Queries in relation to our privacy policy. 
+
+Apart from making our privacy policy available to public through our corporate website, we have put in place 
+
+reasonable security measures to protect personal data such as password protection, encryption, locked and 
+
+
+
+
+
+
+
+
+ 
+
+19 
+
+ 
+
+restricted access to only our authorised personnel on a need-to-know basis, and retaining personal data not 
+
+longer than the necessary to fulfil the purposes of collection. 
+
+We are committed to protect our stakeholders’ personal data and respecting their privacy through our 
+
+compliance with the Personal Data Protection Act 2012.  
+
+(b) Enterprise Risk Management  
+
+Enterprise risk management is the process of identifying and addressing methodically the potential events that 
+
+represent risks to the achievement of strategic objectives, or to opportunities to gain competitive advantage. 
+
+At V2Y, we promote risk management culture through having processes in place to identify and evaluate our 
+
+risks, as well as monitoring and reporting to the Board the status and effectiveness of risks mitigation measures 
+
+and strategy implementation. 
+
+Management of risks and threats is important as our operations involve the collection of large volume of 
+
+customer’s personal data. Furthermore, the constant flux of the business environment has fuelled a heightened 
+
+need for organisations to identify, measure, prioritise and respond to the risks that threaten business objectives 
+
+and operations. We are prudent in managing our risk-reward relationship. We carry out enterprise risk review 
+
+annually to ensure that we account for new risks that arise as we seek new business opportunities. We will 
+
+continue to monitor to ensure that the risks are kept within our risk appetite and implement suitable risk 
+
+responses.  
+
+Our Performance 
+
+We have established a good corporate culture within the Group through our corporate governance and anti-
+
+corruption programme. In FY2020, there is no incident of employee dismissal or disciplinary case for corruption 
+
+and fraud. Furthermore, there was no whistleblowing report received against bribery and corruption in our 
+
+business dealings, dishonest practices or other improprieties in the workplace. 
+
+For the reporting period, we have complied with listing requirements and legal regulations and there were no 
+
+fines or penalties levied on us for non-compliances.  
+
+Governance Performance in FY2020 
+
+FY2020 Target 
+
+Performance Update 
+
+Zero incidents of bribery or corruptions  
+
+Achieved. There was no reported incident of bribery 
+
+or corruption. 
+
+Zero non-compliance breaches  
+
+Achieved. There was no reported case for non-
+
+compliance breaches. 
+
+Zero complaints received relating to breaches of 
+
+customer privacy  
+
+Achieved. There were no complaints received 
+
+relating to breaches of customer privacy. 
+
+Governance Target for FY2021 
+
+FY2021 Target 
+
+Action plan 
+
+Zero incidents of bribery or corruptions  
+
+To continue our zero tolerance towards bribery and 
+
+corruptions. 
+
+Zero non-compliance breaches  
+
+To continue our zero tolerance towards non-
+
+compliance breaches. 
+
+Zero complaints received relating to breaches of 
+
+customer privacy  
+
+To continue putting our effort and commitment 
+
+towards protecting our customer personal data with 
+
+zero complaints receive relating to breaches of 
+
+customer privacy. 
+
+
+ 
+
+20 
+
+ 
+
+GRI Content Index 
+
+GRI Standards 
+
+Disclosure 
+
+No.  
+
+Disclosure Title 
+
+Page Reference and Reasons for 
+
+Omission, if applicable 
+
+1. 
+
+Organisational 
+
+profile 
+
+102-1 
+
+Name of the organization 
+
+Page 1 
+
+102-2 
+
+Activities, brands, products, and services 
+
+Annual Report (“AR”) 2020 - Corporate 
+
+Profile 
+
+102-3 
+
+Location of headquarters 
+
+AR 2020 - Corporate Profile 
+
+102-4 
+
+Location of operations 
+
+AR 2020 - Corporate Profile 
+
+102-5 
+
+Ownership and legal form 
+
+AR 2020 – Statistics of Shareholdings 
+
+102-6 
+
+Markets served 
+
+AR 2020 - Corporate Profile 
+
+AR 2020 - Notes to Financial 
+
+Statements (Segmental Information) 
+
+102-7 
+
+Scale of the organization 
+
+AR 2020 - Financial Review 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+Page 16 
+
+102-9 
+
+Supply chain 
+
+AR 2020 - Chairman’s Message 
+
+AR 2020 - CEO’s Message 
+
+102-10 
+
+Significant changes to the organization 
+
+and its supply chain 
+
+AR 2020 - Corporate Profile 
+
+AR 2020 - Chairman’s Message 
+
+AR 2020 - CEO’s Message 
+
+ 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Page 17 
+
+102-12 
+
+External initiatives 
+
+Not applicable 
+
+2. Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Page 1 
+
+3. Ethics and 
+
+integrity 
+
+102-16 
+
+Values, principles, standards, and norms 
+
+of behaviour 
+
+Page 3 
+
+ 
+
+4. Governance 
+
+102-18 
+
+Governance structure 
+
+Page 3 
+
+5. Stakeholder 
+
+engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Page 4 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not applicable 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Page 4 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Page 4 
+
+102-44 
+
+Key topics and concerns raised 
+
+Page 4 
+
+6. Reporting 
+
+practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+AR 2020 - Corporate Structure 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+Page 2 
+
+102-47 
+
+List of material topics 
+
+Page 5 
+
+102-50 
+
+Reporting period 
+
+Page 2 
+
+102-51 
+
+Date of most recent report 
+
+30 May 2020 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions regarding the 
+
+report 
+
+Page 2 
+
+102-54 
+
+Claims of reporting in accordance with 
+
+the GRI Standards 
+
+Page 2 
+
+102-55 
+
+GRI content index 
+
+Page 21-22 
+
+102-56 
+
+External assurance 
+
+No external assurance sought for this 
+
+sustainability report 
+
+ 
+
+ 
+
+
+ 
+
+21 
+
+ 
+
+ 
+
+GRI Standards 
+
+Disclosure 
+
+No.  
+
+Disclosure Title 
+
+Page Reference and Reasons for 
+
+Omission, if applicable 
+
+GRI201: 
+
+Economic 
+
+Performance 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+AR 2020 - Consolidated Statement of 
+
+Profit or Loss and Other 
+
+Comprehensive Income 
+
+GRI 205: Anti-
+
+Corruption 
+
+205-2 
+
+Communication and training about anti-
+
+corruption policies and procedures 
+
+Page 18 
+
+205-3 
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+Page 19 
+
+GRI 302: Energy 
+
+302-1 
+
+Energy consumption within the 
+
+organisation 
+
+Page 12 
+
+GRI 303: Water 
+
+303-5 
+
+Water consumption 
+
+Page 13 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Page 12 
+
+GRI 401: 
+
+Employment 
+
+401-1 
+
+New employee hires and employee 
+
+turnover 
+
+Page 16 
+
+401-2 
+
+Benefits provided to full-time 
+
+employees that are not provided to 
+
+temporary or part-time employees 
+
+Page 15 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+403-5 
+
+Worker training on occupational health 
+
+and safety 
+
+Page 16 
+
+GRI 404: 
+
+Training and 
+
+Education 
+
+404-2 
+
+Programs for upgrading employee skills 
+
+and transition assistance programs 
+
+Page 16 
+
+404-3 
+
+Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews 
+
+Page 17 
+
+GRI 405: 
+
+Diversity and 
+
+Equal 
+
+Opportunity 
+
+405-1 
+
+Diversity of governance bodies and 
+
+employees 
+
+Page 17 
+
+GRI 418: 
+
+Customer 
+
+Privacy 
+
+418-01 
+
+Substantiated complaints concerning 
+
+breaches of customer privacy and losses 
+
+of customer data 
+
+Page 19 
+
+ 
+

@@ -1,0 +1,4223 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY
+
+REPORT
+
+2019
+
+
+
+
+
+
+CONTENTS
+
+01 
+
+About This Report
+
+02 
+
+About Far East Orchard
+
+04 
+
+Board Statement
+
+05 
+
+Commitment to Sustainability
+
+06 
+
+Sustainability Governance
+
+07 
+
+Key Stakeholder Engagement
+
+08 
+
+Materiality Assessment 
+
+09 
+
+Material Factors – Economic and Environmental 
+
+09 
+
+Economic Performance
+
+09 
+
+Anti-competitive Behaviour
+
+10 
+
+Environmental Compliance
+
+12 
+
+Material Factors – Social
+
+12 
+
+Occupational Health and Safety
+
+14 
+
+Training and Education
+
+17 
+
+Customer Health and Safety
+
+19 
+
+Service Quality
+
+22 
+
+Material Factors – Governance
+
+22 
+
+Customer Privacy
+
+22 
+
+Corporate Governance
+
+25 
+
+GRI Content Index
+
+
+ABOUT  
+
+THIS REPORT
+
+Far East Orchard Limited’s (“Far East Orchard” or the 
+
+“Company”, and together with its subsidiaries, the “Group”) 
+
+Sustainability Report (“SR”) for the financial year ended 31 
+
+December 2019 (“FY2019”) aims to provide its stakeholders 
+
+with a holistic overview of the Group’s Economic and 
+
+Environmental, Social and Governance (“ESG”) initiatives 
+
+and how they are embedded into its operations as part of 
+
+its efforts to build a sustainable business.
+
+This report is prepared in accordance with the Global 
+
+Reporting Initiative (“GRI”) Standards 2016: Core option, 
+
+the global standard for sustainability reporting, and with 
+
+reference to the Singapore Exchange Securities Trading 
+
+As the Group’s sustainability efforts mature, management 
+
+will consider including other overseas operations in 
+
+the reporting scope of future reports and seek external 
+
+independent assurance. The Group has not sought external 
+
+independent assurance for this reporting period. 
+
+As part of the Group’s environmental conservation efforts, 
+
+no copies of this report were printed. An electronic version 
+
+may be viewed at or downloaded from Far East Orchard’s 
+
+corporate website (www.fareastorchard.com.sg).
+
+IN-SCOPE PROPERTIES
+
+HOSPITALITY
+
+PROPERTY
+
+SINGAPORE
+
+SINGAPORE
+
+UNITED KINGDOM
+
+Hotels
+
+• AMOY
+
+• Oasia Hotel Downtown
+
+• Oasia Hotel Novena
+
+• Orchard Rendezvous 
+
+Hotel, Singapore
+
+• Rendezvous Hotel 
+
+Singapore at Bras Basah
+
+• The Elizabeth Hotel
+
+• The Outpost Hotel 
+
+Sentosa
+
+• Quincy Hotel
+
+• Village Hotel Albert Court
+
+• Village Hotel Bugis
+
+• Village Hotel Changi
+
+• Village Hotel Katong
+
+• Village Hotel Sentosa
+
+Serviced Residences
+
+• Far East Plaza Residences
+
+• Oasia Residence, 
+
+Singapore
+
+• Orchard Parksuites
+
+• Orchard Scotts 
+
+Residences
+
+• Regency House
+
+• Village Residence Clarke 
+
+Quay
+
+• Village Residence 
+
+Hougang
+
+• Village Residence 
+
+Robertson Quay
+
+• Village Residence West 
+
+Coast
+
+Development Properties
+
+• SBF Center
+
+• Woods Square
+
+Development Property
+
+• Westminster Fire Station
+
+Investment Properties 
+
+(PBSA)
+
+• Harbour Court, Bristol
+
+• Hollingbury House, 
+
+Brighton
+
+• Portland Green Student 
+
+Village, Newcastle upon 
+
+Tyne
+
+ Bryson Court
+
+ Marshall Court
+
+ Newton Court
+
+ Rosedale Court
+
+ Turner Court
+
+• St Lawrence House, 
+
+Bristol
+
+• The Glassworks, Liverpool
+
+Figure 1: In-scope Properties
+
+1 Two of the ESG factors identified as material to Far East Orchard – Service Quality and Corporate Governance, are not part of the GRI topic-specific standards 
+
+and are excluded from the GRI Content Index.
+
+2 Excludes properties added to the Group’s portfolio in the quarter ended 31 December 2019 – The Elements and The Foundry.
+
+Limited Listing Rules 711A and 711B. Please refer to the GRI 
+
+Content Index included at the end of this report for the 
+
+relevant disclosures.1
+
+The scope of this SR was expanded to include five new 
+
+properties added to the Group’s portfolio in 2019.2 This 
+
+includes two hotels under management in Singapore 
+
+– The Outpost Hotel Sentosa and Village Hotel Sentosa, 
+
+which were opened in April 2019 and three purpose-built 
+
+student accommodation (“PBSA”) properties in the United 
+
+Kingdom (“UK”) acquired in March 2019, namely Harbour 
+
+Court, St Lawrence House and The Glassworks.
+
+CONTACT US
+
+Far East Orchard seeks to continuously enhance its 
+
+sustainability practices and reporting, in accordance with 
+
+the GRI Reporting Principles for defining report quality 
+
+(accuracy, balance, clarity, comparability, reliability and 
+
+timeliness). It welcomes questions or suggestions pertaining 
+
+to this SR, which may be sent to ir@fareastorchard.com.sg.
+
+Sustainability Report 2019
+
+01
+
+
+ABOUT  
+
+FAR EAST ORCHARD
+
+
+
+
+
+
+
+Figure 2: Community Engagement at Far East Orchard
+
+Far East Orchard is a property developer, hospitality assets 
+
+owner and operator with a diversified property investment 
+
+portfolio comprising PBSA and medical suites. It is listed on 
+
+the Mainboard of the Singapore Exchange and is a member 
+
+of Far East Organization, Singapore’s largest private 
+
+property developer.
+
+Established since 1967, Far East Orchard has developed 
+
+residential, commercial, hospitality and PBSA properties in 
+
+Australia, Malaysia, Singapore and the UK.  It is currently 
+
+redeveloping the former Westminster Fire Station located 
+
+in the City of Westminster, London, UK, into a mixed-use 
+
+development comprising residential apartments and a 
+
+restaurant.
+
+Expanding into the complementary businesses of hospitality 
+
+management and healthcare real estate since 2012, 
+
+the Group’s hospitality arm – Far East Hospitality – now 
+
+owns more than 10 hospitality assets and manages over 
+
+95 properties with more than 15,500 rooms in Australia, 
+
+Denmark, Germany, Hungary, Malaysia, New Zealand and 
+
+Singapore. Together with Far East Organization, Far East 
+
+Hospitality’s maiden project in Ariake, Tokyo, Japan – Far 
+
+East Village Hotel Ariake – is currently under development.
+
+In 2015, Far East Orchard diversified its real estate portfolio 
+
+to include PBSA properties in the UK. Today, it has a PBSA 
+
+portfolio in the UK comprising 3,260 beds in the cities of 
+
+Brighton, Bristol, Leeds, Liverpool, Newcastle upon Tyne 
+
+and Sheffield. The Group also holds a portfolio of purpose-
+
+built medical suites for lease and for sale in Singapore's 
+
+premier medical hub in Novena.
+
+VALUES IN MOTION
+
+Far East Orchard’s core values are Business with Grace, 
+
+Unity, Integrity, Love and Diligence. In line with these 
+
+values, it provides employees with opportunities to 
+
+contribute to charitable causes supported by the Group. 
+
+Volunteer activities are conducted during and outside 
+
+of office hours, reflecting both corporate and personal 
+
+commitment in contributing to the causes.
+
+In FY2019, the Group continued to build on its momentum 
+
+of initiatives embarked on in prior years to reach out 
+
+to the less fortunate and underprivileged in the local 
+
+communities.
+
+FAMILIES
+
+CHILDREN AND YOUTHS
+
+SENIOR CITIZENS
+
+• “Build-a-Hamper 
+
+Shopping 
+
+Challenge” 
+
+where 
+
+employees 
+
+imparted 
+
+budgeting 
+
+and 
+
+financial 
+
+management skills to beneficiaries by creating a 
+
+hamper together
+
+• Equine-assisted therapy and learning sessions for at-
+
+risk persons
+
+• Meal distributions
+
+• Minor home repair works in Singapore
+
+• Partnered Habitat for Humanity to build simple homes 
+
+in Batam, Indonesia
+
+• Packing and distribution 
+
+of exam-care packs
+
+• Karaoke sessions
+
+• Monthly Bingo games
+
+• Morning exercises sessions
+
+Far East Orchard Limited
+
+02
+
+
+
+
+
+
+ABOUT  
+
+FAR EAST ORCHARD
+
+3 Includes employees supervised by the Group’s hospitality management arm but employed by the owner of the in-scope properties and excludes 
+
+employees hired by the Group's joint venture – TFE Hotels.
+
+Figure 3: Workforce Statistics as at 31 December 2019
+
+Female
+
+649
+
+Male
+
+519
+
+167
+
+482
+
+150
+
+369
+
+Permanent
+
+Singaporean
+
+≤ 30 Years
+
+Malaysian
+
+31 to 40 Years
+
+Chinese
+
+41 to 50 Years
+
+Filipino
+
+≥ 51 Years
+
+Others
+
+Temporary
+
+50%
+
+27%
+
+17%
+
+4% 2%
+
+NATIONALITY
+
+40%
+
+29%
+
+18%
+
+13%
+
+AGE GROUP
+
+EMPOWERING OUR PEOPLE
+
+The Group is committed to attracting, developing and 
+
+retaining a diverse and inclusive workforce to ensure 
+
+both its people and the organisation thrives in a global 
+
+marketplace. To that end, the Human Resources team 
+
+continues to foster cross-functional connections, support 
+
+mentoring and networking opportunities, and provides 
+
+professional and leadership development opportunities for 
+
+its employees.
+
+As at 31 December 2019, the Group employs 1,168 staff 
+
+members3, including the 126 or 11% who are covered by 
+
+collective bargaining agreements.
+
+Sustainability Report 2019
+
+03
+
+
+
+
+BOARD  
+
+STATEMENT
+
+
+
+
+
+The Outpost Hotel Sentosa, Singapore
+
+Hollingbury House, Brighton, United Kingdom
+
+DEAR STAKEHOLDERS,
+
+To ensure the long-term success of the Group, we have 
+
+intensified our efforts to incorporate sustainability goals 
+
+into our strategies and operations in 2019. We believe 
+
+that building a sustainable business goes beyond the 
+
+financials, and involves managing ESG issues that arise in 
+
+the course of our operations.
+
+By setting the tone from the top, we seek to create 
+
+a sustainability-focused culture. At the Board level, 
+
+sustainability issues have been and will continue to 
+
+be considered in the development of the Group’s 
+
+strategy. With the help of the Audit &amp; Risk Committee 
+
+and Management Risk &amp; Sustainability Committee, 
+
+sustainability-related risks and opportunities across 
+
+various business functions were assessed in 2019. 
+
+As a Board, we are also involved in the materiality analysis 
+
+to identify ESG factors that are important to our key 
+
+stakeholders and/or significant to our business. Working 
+
+closely with management, we will ensure that the Group’s 
+
+material ESG factors are monitored and managed 
+
+appropriately. For the benefit of our stakeholders, we 
+
+will also continue to inculcate good reporting habits to 
+
+enhance our sustainability reporting.
+
+Sustainability is a continuous journey. We look forward 
+
+to continuing our efforts to build a sustainable business 
+
+model that creates long-term value for the Group, while 
+
+generating positive economic, environmental and social 
+
+returns for the communities in our areas of operations.
+
+The Board of Directors
+
+18 March 2020
+
+
+
+
+
+Harbour Court, Bristol, United Kingdom
+
+Far East Orchard Limited
+
+04
+
+
+
+
+
+
+COMMITMENT  
+
+TO SUSTAINABILITY
+
+Guided by its core values, Far East Orchard remains 
+
+committed to being a responsible corporate citizen by 
+
+embedding sustainability in its operations. This entails 
+
+ensuring that the needs and concerns of the Group’s 
+
+key stakeholders are taken into consideration in the 
+
+development and execution of its business strategies. 
+
+The Group adopts processes that are environmentally 
+
+responsible 
+
+and 
+
+resource-efficient 
+
+in 
+
+its 
+
+business 
+
+operations.
+
+SUSTAINABILITY IN SUPPLY CHAIN
+
+The Group has extended its pledge to sustainable business 
+
+practices across its supply chain, from subsidiaries to 
+
+suppliers. It encourages its business partners to be 
+
+
+
+
+
+SUSTAINABILITY
+
+VISION
+
+A trusted property and hospitality 
+
+group with sustainable business 
+
+practices that will benefit future 
+
+generations
+
+SUSTAINABILITY
+
+MISSION
+
+Delivering long-term value by 
+
+upholding a high standard of 
+
+corporate governance and ethical 
+
+behaviour; nurturing a culture 
+
+of sustainability and adopting 
+
+responsible business practices 
+
+which consider environmental and 
+
+social impacts
+
+socially and environmentally responsible. To manage the 
+
+ESG impact on its business operations, Far East Orchard 
+
+incorporates eco-conscious construction processes in its 
+
+projects and properties and encourages contractors to 
+
+source for raw materials from sustainable sources.
+
+The Group is committed to the continuous incorporation 
+
+and improvement of ESG aspects in its supply chain as 
+
+its sustainability efforts progressively mature. The Group 
+
+is extending its pledge of sustainable business practices 
+
+across its supply chain, from subsidiaries to suppliers, and 
+
+aims to educate stakeholders across its supply chain about 
+
+its sustainability efforts.
+
+Sustainability Report 2019
+
+05
+
+
+SUSTAINABILITY  
+
+GOVERNANCE
+
+Testament to its commitment to sustainability, Far East 
+
+Orchard has in place a sustainability governance structure 
+
+to identify, drive and execute sustainability initiatives across 
+
+the Group.
+
+• Collectively responsible 
+
+for the long-term 
+
+success of the Group
+
+• Provides strategic 
+
+direction and specifically 
+
+considers sustainability 
+
+issues as part of its 
+
+strategic formulation
+
+• Determine material ESG 
+
+factors and ensure that 
+
+they are monitored and 
+
+managed
+
+• Maintains oversight of all 
+
+sustainability initiatives 
+
+• Assists the Board 
+
+in fulfilling its 
+
+responsibilities for the 
+
+Group's
+
+ Financial and 
+
+sustainability 
+
+reporting
+
+ Management of 
+
+material financial, 
+
+operational, 
+
+compliance, 
+
+information 
+
+technology and 
+
+workplace safety 
+
+and health risks 
+
+to safeguard 
+
+stakeholders' 
+
+interests and the 
+
+Group's assets
+
+• Chaired by the Group 
+
+Chief Executive 
+
+Officer, and includes 
+
+representatives from 
+
+various business 
+
+divisions and key 
+
+functions
+
+• Supports the ARC, 
+
+ensuring effective 
+
+integration into the 
+
+Group’s business 
+
+operations and 
+
+corporate objectives
+
+• Drives the overall 
+
+sustainability agenda 
+
+and allocates resources 
+
+to support and achieve 
+
+underlying initiatives
+
+• Reviews all policies and 
+
+procedures relating 
+
+to ESG issues on an 
+
+ongoing basis
+
+• Assists in risk 
+
+management and 
+
+sustainability efforts
+
+• Implement 
+
+sustainability-related 
+
+initiatives cascaded from 
+
+the MRSC, ensuring a 
+
+clear and consistent 
+
+approach across the 
+
+Group
+
+• Provide regular updates 
+
+to the MRSC
+
+
+
+THE BOARD OF 
+
+DIRECTORS
+
+
+
+AUDIT &amp; RISK 
+
+COMMITTEE
+
+("ARC")
+
+
+
+MANAGEMENT 
+
+RISK &amp; 
+
+SUSTAINABILITY 
+
+COMMITTEE
+
+("MRSC")
+
+
+
+BUSINESS 
+
+DIVISIONS
+
+Figure 4: Sustainability Governance Structure and Roles and Responsibilities
+
+Far East Orchard Limited
+
+06
+
+
+KEY STAKEHOLDER  
+
+ENGAGEMENT
+
+Far East Orchard recognises that effective stakeholder 
+
+engagement allows it to better anticipate and manage 
+
+challenges. This is done via meaningful two-way 
+
+communication with key stakeholders to understand and 
+
+address their concerns while sharing about the Group’s 
+
+efforts to build a sustainable long-term business. A mix 
+
+of formal and informal channels of communication was 
+
+KEY STAKEHOLDERS
+
+MODES OF ENGAGEMENT
+
+Shareholders
+
+• Quarterly financial reporting
+
+• Announcements/news releases on corporate actions and developments
+
+• Annual General Meetings
+
+• Corporate website
+
+• Analyst meetings
+
+• Roadshows
+
+• Queries to Investor Relations team
+
+The Board
+
+• Induction and orientation programmes for new Board members
+
+• Ongoing communication
+
+• Board meetings
+
+• Site visits
+
+Employees
+
+• Orientation programmes
+
+• Ongoing staff communication
+
+• Training programmes
+
+• Team bonding and recreational activities
+
+• Annual colleague engagement surveys
+
+• Performance and career development reviews
+
+Customers
+
+• Customer satisfaction surveys
+
+• Guest comment cards
+
+• Priority guest programme
+
+• Websites
+
+Business Partners
+
+• Meetings
+
+• On-site visits
+
+• Industry gatherings
+
+Figure 5: Key Stakeholder Engagement Initiatives
+
+adopted to engage key stakeholders with a significant 
+
+influence on and interest in the Group’s business. 
+
+Building on this stakeholder engagement, the Group 
+
+considers key stakeholders’ interests in the development of 
+
+its strategy, striving to balance their interests with its business 
+
+objectives.
+
+Sustainability Report 2019
+
+07
+
+
+
+
+MATERIALITY  
+
+ASSESSMENT
+
+The Group applied GRI’s Principles for defining report 
+
+content to identify material ESG topics that are relevant to 
+
+Far East Orchard’s business and its key stakeholders.
+
+A materiality refreshment exercise, including a peer 
+
+benchmarking analysis and consultations with internal 
+
+stakeholders, was conducted in 2019 to ensure the 
+
+continued relevance of the identified material ESG factors. 
+
+
+
+
+
+
+
+
+
+
+
+• Customer Health  
+
+and Safety
+
+• Occupational Health  
+
+and Safety
+
+• Service Quality
+
+• Corporate Governance
+
+• Economic Performance
+
+• Anti-competitive 
+
+Behaviour
+
+• Environmental 
+
+Compliance
+
+• Training and Education
+
+• Customer Privacy
+
+Significance of economic, environmental, social and governance impacts to the business
+
+Influence on stakeholders’ assessments and decisions
+
+Medium
+
+Medium
+
+Low
+
+Low
+
+High
+
+High
+
+Figure 6: Materiality Matrix
+
+The material ESG topics for Far East Orchard remained 
+
+unchanged for the reporting period.
+
+These ESG topics were subsequently endorsed by Far 
+
+East Orchard’s management and Board. To ensure that 
+
+the Group captures the most relevant topics, it will 
+
+continuously review and assess the materiality of these ESG 
+
+topics identified on an ongoing basis.
+
+Far East Orchard Limited
+
+08
+
+
+
+
+MATERIAL FACTORS –  
+
+ECONOMIC AND ENVIRONMENTAL
+
+1. ECONOMIC PERFORMANCE
+
+The Group registered revenue of S$156.1 million in FY2019, 
+
+an increase from S$150.9 million a year ago. Profit attributable 
+
+to equity holders for FY2019 was S$26.0 million, compared 
+
+to S$32.9 million a year ago.
+
+Details of Far East Orchard’s FY2019 financial performance 
+
+are listed in the following sections in its 2019 Annual Report:
+
+• Chairman’s Statement
+
+• CEO’s Message
+
+• 5-Year Financial Highlights
+
+• Financial Report
+
+The Group is committed to delivering sustainable growth 
+
+for its stakeholders over the long term. Notwithstanding 
+
+the volatile macroeconomic and business environment, 
+
+it strives to sustain its momentum to grow recurring 
+
+income streams. Far East Orchard will also pursue suitable 
+
+investment and development projects while exploring 
+
+capital recycling opportunities into higher-yielding assets 
+
+to unlock greater value for all shareholders.
+
+2. ANTI-COMPETITIVE BEHAVIOUR
+
+It is the Group’s policy to conduct business fairly and 
+
+ethically in the markets it operates in. Without exception 
+
+to this policy, Far East Orchard consistently strives towards 
+
+the highest standards of professional values and integrity, 
+
+including the non-tolerance of anti-competitive behaviour. 
+
+It takes legal compliance very seriously and does not 
+
+condone or sanction any anti-competitive conduct by 
+
+employees.
+
+Maintaining the Highest Level of Ethics
+
+Far East Orchard has and continues to routinely review and 
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+No violations of the Competition Act 
+
+and CCCS guidelines
+
+• Outline the expectations of employees in relation to compliance with 
+
+competition laws during orientation programmes
+
+• Provide appropriate training and refresher courses for all employees that 
+
+deal directly with any of Far East Orchard’s competitors
+
+• Encourage reporting of any suspected anti-competitive conduct to relevant 
+
+parties (e.g. risk management and compliance personnel) and/or external 
+
+regulatory agencies
+
+• Build a culture that encourages employees to immediately inform the 
+
+Group's Head of Legal when they become aware of any behaviour, work 
+
+practice or documents that appear to be inconsistent with the Group’s 
+
+Competition Compliance Manual
+
+In FY2019, there were no confirmed violations of the Competition Act and CCCS' guidelines apart from 
+
+the CCCS Infringement Decision issued in January 2019 against the Company’s subsidiary for infringing 
+
+conduct which took place before 30 June 2015.
+
+implement rigorous compliance and training programmes 
+
+to ensure that its business practices are and continue to be 
+
+fully compliant with all applicable laws. 
+
+Some of the measures which have been and continue to be 
+
+adopted includes:
+
+• Incorporating a session on compliance with competition 
+
+law as part of the orientation programme for new 
+
+employees
+
+• Educating the Group’s employees and improving 
+
+their understanding of prohibited behaviour and anti-
+
+competitive practices. A Competition Law Compliance 
+
+Manual is part of the Employee Handbook which is 
+
+given to all new hires and made available to all existing 
+
+employees
+
+• Arranging annual legal briefings conducted by external 
+
+competition lawyers on competition law for employees
+
+• Conducting in-house quarterly briefings on competition 
+
+law for sales and marketing employees
+
+• Putting in place internal processes to monitor continuous 
+
+compliance and reinforce adherence with the Competition 
+
+Act (Cap.50B) of Singapore (the "Competition Act") 
+
+• Evaluating reported incidents of non-compliance with 
+
+the Competition Act and guidelines by the Competition 
+
+and Consumer Commission of Singapore (“CCCS”) and 
+
+investigations by relevant authorities against the Group 
+
+for anti-competitive behaviour, if any
+
+• Reviewing legal contracts and agreements to ascertain 
+
+the absence of anti-competitive behaviour
+
+To ensure the continued growth of its business in a principled 
+
+and ethical manner, Far East Orchard will continue to adhere 
+
+strictly to all applicable laws.
+
+Sustainability Report 2019
+
+09
+
+
+MATERIAL FACTORS –  
+
+ECONOMIC AND ENVIRONMENTAL
+
+3. ENVIRONMENTAL COMPLIANCE
+
+Far East Orchard keeps abreast of best-in-class practices 
+
+relevant to its businesses. As a developer, it strives to develop 
+
+properties that incorporate eco-conscious designs and 
+
+features. For its hospitality business and property investment 
+
+businesses, the Group works together with its partners to 
+
+adopt environmentally friendly practices. 
+
+To ensure compliance with regulatory requirements, internal 
+
+checks are conducted regularly to detect and rectify non-
+
+compliant practices. The Group also monitors notices and 
+
+complaints issued by local authorities for non-compliance 
+
+with environmental regulations. Further, all employees have 
+
+access to an internal reporting channel to report any form of 
+
+non-compliance to management.
+
+WOODS SQUARE
+
+WESTMINSTER FIRE STATION
+
+PBSA PROPERTIES
+
+• Obtained Building and 
+
+Construction Authority Green 
+
+Mark Gold Plus Certification
+
+• Use of sustainable materials and 
+
+environmentally friendly products 
+
+certified under the Singapore 
+
+Green Labelling Scheme during 
+
+the construction process and final 
+
+material finishes
+
+• Installation of solar photovoltaic 
+
+modules to harvest energy for the 
+
+site office
+
+• Use of solar powered lightings for 
+
+the guardhouses
+
+• Incorporation of programmable 
+
+timer controls for lighting in 
+
+common areas and energy-saving 
+
+light fittings
+
+• Installation of energy-saving lift 
+
+system with an in-built sleep 
+
+function that is activated when the 
+
+system is not in use for a period of 
+
+time
+
+• Installation of water fittings that 
+
+are certified under the Water 
+
+Efficiency Labelling Scheme
+
+• Fit-out of toilets with light motion 
+
+sensors and sensor taps
+
+• Provision of recycling bins to 
+
+encourage tenants and end users 
+
+to recycle
+
+Ongoing Initiatives 
+
+• Designed to achieve a “Very 
+
+Good” to “Excellent” Building 
+
+Research Establishment 
+
+Environmental Assessment 
+
+Method (“BREEAM”) rating
+
+• Collaboration with suppliers 
+
+and manufacturers with 
+
+environmentally friendly 
+
+certifications, including:
+
+ Forest Stewardship Council 
+
+ Programme for the 
+
+Endorsement of Forest 
+
+Certification 
+
+ Water Regulations Advisory 
+
+Scheme
+
+ ISO 14000 and 9000 and 
+
+energy efficient appliances
+
+• Introduction of sustainable 
+
+biodiverse landscaping in the 
+
+courtyard
+
+• Installation of photovoltaic panels 
+
+on the roof
+
+Planned Initiatives for the Future
+
+• Record energy consumption via 
+
+the Building Management System. 
+
+Data may be reviewed and used 
+
+to promote energy reduction 
+
+initiatives
+
+• Compliance with the 2013 
+
+Building Regulations Approved 
+
+Document L2A: Conservation of 
+
+Fuel and Power in New Buildings 
+
+other than Dwellings, including a 
+
+10% overall energy reduction 
+
+• Installation of combined heat and 
+
+power units
+
+• Installation of LED lighting 
+
+• Adherence to a Waste 
+
+Management and Recycling Policy 
+
+• The in-scope PBSA properties 
+
+have achieved the following 
+
+ratings:
+
+ BREEAM ratings 
+
+ Excellent: 2 properties
+
+ Very Good: 4 properties 
+
+ Energy Performance 
+
+Certificates ratings:
+
+ B: 2 properties
+
+ C: 1 property
+
+We will work towards improving 
+
+the ratings of the properties
+
+In 2019, the Group completed the development of Hollingbury 
+
+House, a 195-bed PBSA property in Brighton, UK. In Singapore, 
+
+the development of Woods Square, an integrated office 
+
+development jointly developed with Far East Organization and 
+
+Sekisui House, Ltd, was completed in February 2020.
+
+The Group is currently redeveloping the former Westminster 
+
+Fire Station located in London, UK, into a mixed-use 
+
+development comprising residential apartments and a 
+
+restaurant.
+
+To ensure that environmental issues are addressed, the 
+
+Group enforced the following measures for its development 
+
+and investment properties: 
+
+Far East Orchard Limited
+
+10
+
+
+
+
+MATERIAL FACTORS –  
+
+ECONOMIC AND ENVIRONMENTAL
+
+Environmental Accolades
+
+The Group’s hospitality properties under management 
+
+achieved the following accolades from the Building and 
+
+WOODS SQUARE
+
+WESTMINSTER FIRE STATION
+
+PBSA PROPERTIES
+
+• Encourage tenants and owners 
+
+to use environmentally friendly 
+
+materials for renovation and 
+
+interior fitting-out works and 
+
+adopt energy-saving initiatives in 
+
+their daily operations
+
+• Provision of adequate bicycle 
+
+parking lots to encourage cycling
+
+• Use of energy efficient systems 
+
+including low energy lighting 
+
+controlled by photocells and time 
+
+clocks and light wells
+
+• Use of a central boiler plant 
+
+for heating to reduce gas 
+
+consumption instead of individual 
+
+apartment boilers
+
+• Provision of a complimentary 
+
+25-year membership of car club 
+
+and bicycle storage facilities to 
+
+minimise private car ownership 
+
+and encourage cycling
+
+PROPERTY
+
+CERTIFICATION
+
+Oasia Hotel Downtown
+
+Green Mark Certified
+
+Rendezvous Hotel Singapore at Bras Basah
+
+Green Mark Gold
+
+The Outpost Hotel Sentosa
+
+Green Mark Certified
+
+Village Hotel Albert Court
+
+Green Mark Platinum
+
+Village Hotel Sentosa
+
+Green Mark Certified
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+No significant fines and non-monetary 
+
+sanctions for non-compliance with 
+
+environmental laws and/or regulations
+
+• Conduct regular reviews of policies and internal checks to ensure 
+
+environmental compliance
+
+• Conduct environmental impact assessments for property development 
+
+projects prior to construction and establish appropriate mitigation measures
+
+In FY2019, there were no significant fines and non-monetary sanctions for non-compliance with environmental 
+
+laws and/or regulations.
+
+Construction Authority as a result of its efforts to reduce the 
+
+environmental impact of its operations: 
+
+Sustainability Report 2019
+
+11
+
+
+
+
+4. OCCUPATIONAL HEALTH AND SAFETY
+
+Recognising that employees form the backbone of the 
+
+Group, Far East Orchard prioritises workplace safety and 
+
+health (“WSH”) and strives to provide its employees with 
+
+MATERIAL FACTORS –  
+
+SOCIAL
+
+KEY INITIATIVES
+
+Policies
+
+• Adopt safe working practices that are in line with national and international safety 
+
+regulations
+
+• Provide employees with safe and well-maintained tools and equipment
+
+• Provide training to all employees to enhance their competence and awareness on WSH 
+
+requirements
+
+• Annual pledge to acknowledge and comply with the Group’s Safety Commitment, outlined 
+
+in the Employee Handbook
+
+• Review of WSH Policy and objectives at least once a year
+
+• Requirement for all engaged main contractors to be Occupational Health and Safety 
+
+Assessment Series ("OHSAS") 18001 certified or an equivalent of a well-recognised standard 
+
+for safety management system
+
+Reinforcements
+
+• Daily morning brief on WSH for hospitality employees 
+
+• Fortnightly circulation of reminders about WSH to all employees to increase awareness 
+
+and impart safe work habits
+
+• Conduct quarterly cluster WSH meetings
+
+• Conduct annual WSH risk assessments to proactively identify hazardous activities and 
+
+workspaces, and put mitigation measures in place
+
+• Conduct emergency drills for potentially hazardous situations, including, but not limited 
+
+to power failures, medical emergencies, fires and lift entrapments, at least twice a year
+
+• Conduct table-top exercise with local authorities to prepare for lone wolf terrorist attacks
+
+• Annual review of the Group’s risk register with new incidents to be updated and shared 
+
+across properties
+
+Appointed WSH 
+
+Personnel
+
+• Maintain recognised WSH management system
+
+• Appointment of a WSH representative with at least a bizSAFE Level 2 certificate, to be 
+
+responsible for handling WSH matters and implementation of WSH policies at each 
+
+property
+
+• Formation of Company Emergency Response Teams who are equipped with safety 
+
+equipment to perform emergency responses
+
+• Engagement of certified Fire Safety Managers to evaluate the fire safety measures deployed 
+
+within the in-scope hospitality properties
+
+Figure 7: Occupational Health and Safety Key Initiatives
+
+a safe and conducive work environment. Key initiatives 
+
+undertaken by the Group are outlined in Figure 7.
+
+Far East Orchard Limited
+
+12
+
+
+
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+In 2019, the Group participated in the Nanyang 
+
+Technological University-WSH Institute (“NTU-WSHI”) 
+
+Research Collaboration Project to identify key success 
+
+factors in the inculcation of WSH ownership amongst its 
+
+staff members. The aim is to engender greater industry 
+
+ownership, drive mindset changes and improve WSH 
+
+practices.
+
+Commitment to Safety
+
+In its pursuit of high WSH standards, the Group also 
+
+monitors and evaluates “near-misses” in addition to the 
+
+mandatory reportable incidents. Lessons learnt are shared 
+
+with all employees to increase awareness and prevent 
+
+reoccurrences. 
+
+A breakdown of the Group’s FY2019 health and safety 
+
+performance is shown in Figure 8.
+
+Figure 8: Occupational Health and Safety Indicators
+
+
+
+19.1
+
+Accident  
+
+Severity Rate  
+
+(“ASR”)
+
+Per million  
+
+man-hours 
+
+worked
+
+
+
+ZERO
+
+Workplace 
+
+Fatalities
+
+
+
+50.0
+
+Workplace 
+
+Injuries
+
+
+
+ZERO
+
+Occupational 
+
+Disease Cases
+
+
+
+1.7
+
+Accident  
+
+Frequency Rate 
+
+(“AFR”)
+
+Per million  
+
+man-hours  
+
+worked
+
+FY2020 TARGETS
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+Zero cases of workplace fatalities
+
+• Conduct regular safety trainings
+
+• Collaborate with local authorities to organise emergency drills for potentially 
+
+hazardous situations 
+
+• Incorporate suitable interventions proposed by the NTU-WSHI Research 
+
+Collaboration Project 
+
+• Quarterly WSH Committee meetings, where representatives from each 
+
+property share about common incidences, causes and preventive measures
+
+• Organise two roadshows at every hospitality property to promote WSH
+
+Improvement to AFR and ASR
+
+Reduce the number of workplace 
+
+injuries by 25%
+
+In FY2019, Far East Orchard maintained its zero workplace fatalities and occupational disease cases record. 
+
+The Group’s efforts to create a safe working environment for its employees were also reflected in the lower 
+
+number of workplace injuries of 50.0 in FY2019. Far East Orchard maintained its AFR at 1.7 per million man-
+
+hours year-on-year, while its ASR improved to 19.1 per million man-hours worked in FY2019.
+
+Sustainability Report 2019
+
+13
+
+
+
+
+5. TRAINING AND EDUCATION
+
+Far East Orchard’s commitment to the development of its 
+
+employees is underscored by its belief that building the 
+
+capabilities of its employees allows it to retain its competitive 
+
+edge and enhance its brand profile.
+
+Far East Orchard has cultivated a learning culture where 
+
+employees feel valued, motivated and confident. In turn, 
+
+this enhances overall performance and productivity, while 
+
+reducing employee turnover. This reduction in employee 
+
+turnover further contributes to operational efficiency 
+
+The Group’s designated L&amp;PD team monitors and evaluates 
+
+the development of its employees. This is done through the 
+
+Learning Management System, which records the impact 
+
+of training programmes on employees and reviews training 
+
+investment in terms of time and cost on a monthly basis.
+
+In line with SkillsFuture and Workforce Singapore, the Group’s core training 
+
+modules and programmes centres around customer service and enhancement of 
+
+employees’ technical skills
+
+All employees are trained in leadership skills beginning with self-leadership at the 
+
+rank and file level. This allows the Group to drive and sustain success with an aligned 
+
+approach towards financial performance and an “Acts of Grace” work culture for 
+
+both employees and customers
+
+Launched in 2018 and further enhanced in 2019, the Group’s Managers Development 
+
+Programme focuses on the development of its future leaders by equipping them with 
+
+the knowledge, skills and ability to lead
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+
+
+
+
+
+
+FUNCTIONAL 
+
+AND TECHNICAL 
+
+SKILLS
+
+LEADERSHIP 
+
+SKILLS
+
+MANAGERS 
+
+DEVELOPMENT
+
+Figure 9: Holistic Employee Development Approach
+
+and higher service standards, which increases customer 
+
+satisfaction.
+
+The Group’s strong focus on developing a learning and 
+
+people development (“L&amp;PD") strategy has helped establish 
+
+Far East Orchard as an employer of choice for hospitality 
+
+graduates and other potential employees. A holistic 
+
+approach towards the development of its employees is in 
+
+place and outlined in Figure 9.
+
+The effectiveness of training programmes is also measured 
+
+through post-training evaluation and observation of any 
+
+on-the-job transfer of learning. Training programmes are 
+
+reviewed and modified quarterly to ensure relevance to 
+
+business needs, the changing environment and employee 
+
+profiles.
+
+Far East Orchard Limited
+
+14
+
+
+
+
+
+
+In FY2019, the Group’s employees received a total of 
+
+119,146 hours of training. A breakdown by gender is set out 
+
+in Figure 10.
+
+In line with general workforce trends, the Group will embark 
+
+on a job redesign initiative and has realigned its training and 
+
+education target to 80 hours per annum for FY2020. 
+
+Figure 10: Average Training Hours by Gender in FY2019
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+
+
+
+
+
+
+99.9
+
+hours
+
+Per Male Employee
+
+100.0
+
+hours
+
+Per Employee
+
+100.1
+
+hours
+
+Per Female Employee
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+80 hours of training per employee per 
+
+annum
+
+• Conduct training for employees via varied modes of learning
+
+• Roll out compulsory e-learning courses 
+
+In FY2019, each employee underwent 100.0 hours of training, an improvement from 95.2 hours in the previous 
+
+year. The Group will continue to work towards equipping its employees with the necessary knowledge and 
+
+skills, as well as elevate their competencies.
+
+Sustainability Report 2019
+
+15
+
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+4 Excluding employees on prolonged leave and new hires that have been with the Group for less than three months.
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+100% of full-time employees to 
+
+receive regular performance and 
+
+career development reviews4
+
+• Inculcate a culture of continuous performance management at all levels, 
+
+encouraging effective ongoing conversations and feedback between 
+
+managers and their direct reports throughout the year
+
+Figure 11: Performance Management Process
+
+• Set individual goals 
+
+that are aligned 
+
+to the Group’s 
+
+vision, mission and 
+
+business goals
+
+• Update 
+
+achievements 
+
+in eAppraisal 
+
+form
+
+• Initiate 
+
+dialogues 
+
+and feedback 
+
+between 
+
+employee and 
+
+immediate 
+
+supervisor
+
+• Receive 
+
+and record 
+
+performance 
+
+feedback via 
+
+eAppraisal form
+
+• Review and update 
+
+achievements
+
+• Complete and 
+
+submit eAppraisal 
+
+form
+
+
+
+GOAL  
+
+MANAGEMENT
+
+Jan – Apr
+
+
+
+CONTINUOUS 
+
+PERFORMANCE 
+
+MANAGEMENT
+
+Throughout the year
+
+
+
+ANNUAL 
+
+PERFORMANCE 
+
+REVIEW &amp; 
+
+APPRAISAL
+
+Nov – Dec
+
+In FY2019, 100% of full-time employees received regular performance and career development reviews.4
+
+Performance Management and Talent Development
+
+Far East Orchard has in place a continuous performance 
+
+management process to formally evaluate employees’ 
+
+achievements against the agreed goals set at the beginning 
+
+of the year. 
+
+Throughout the year, managers and team members are 
+
+encouraged to have performance-related conversations to 
+
+support employees in achieving the set goals. 
+
+The Annual Performance Review conducted at the end of 
+
+the year, serves to review the employees’ achievements 
+
+and overall contributions to the Group for the year. It also 
+
+serves as an avenue for employees to discuss their career 
+
+aspirations, strengths and development needs.
+
+Far East Orchard Limited
+
+16
+
+
+
+
+
+
+22
+
+Individual Awards &amp; 
+
+1 Special Mention
+
+For displaying 
+
+“Honesty”, “Bravery” 
+
+and “Vigilance”
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+Figure 12: Far East Hospitality Security Awards
+
+6. CUSTOMER HEALTH AND SAFETY
+
+As a property developer, hospitality assets owner and 
+
+operator with a diversified property investment portfolio, Far 
+
+East Orchard is committed to providing its customers with a 
+
+safe and healthy environment.
+
+The Group has identified potential risks, established 
+
+mitigating safety measures, and set up Standard Operating 
+
+Procedures (“SOPs”) which are regularly updated to ensure 
+
+that its employees are well-equipped and prepared to 
+
+respond appropriately and promptly in various situations.
+
+Hospitality
+
+Comprehensive measures undertaken to ensure the health 
+
+and safety of hotel guests on-site include:
+
+• Conducting operations and internal compliance audits 
+
+with remedial actions taken immediately, if gaps are 
+
+identified
+
+• Conducting regular and detailed maintenance checks on 
+
+equipment and facilities, including occasional inspections 
+
+from local authorities
+
+• Identifying and mitigating hazards that customers may 
+
+encounter at an early stage e.g. devising a pool rescue plan
+
+• Equipping buildings with closed-circuit televisions
+
+Property Development
+
+Upholding its commitment to ensure the health and safety 
+
+of occupants in properties developed by the Group, Far East 
+
+Orchard chooses to work with contractors and suppliers 
+
+that have health and safety-related accreditations in the 
+
+various operating jurisdictions. 
+
+The Group only works with companies that voluntarily 
+
+register with the Considerate Constructors Scheme and 
+
+agree to abide by the Code of Considerate Practice. These 
+
+
+
+9
+
+“Hotel Security 
+
+Excellence” Awards
+
+For achieving the 
+
+SS545:2009 Singapore 
+
+Standard for Hotel 
+
+Security
+
+2
+
+“Hotel Security”  
+
+Awards
+
+For establishing good 
+
+security measures 
+
+based on SS545:2009 
+
+standards
+
+• Programming guest room keys for lift access to designated 
+
+floors only
+
+• Training employees to handle Automated External 
+
+Defibrillators
+
+• Training employees to handle reported cases of infectious 
+
+diseases (e.g. chicken pox) and render medical assistance 
+
+for minor injuries
+
+• Accompanying guests to nearby clinics or hospitals 
+
+where medical assistance is sought
+
+• Ensuring that all guest incidents are recorded and 
+
+reported to the duty manager and a risk assessment is 
+
+conducted as a preventive measure
+
+• Making service recovery and courtesy calls to guests to 
+
+check on their well-being after an incident
+
+• Enrolling employees who handle food in Food Safety and 
+
+Hygiene courses
+
+The Group’s commitment to a high standard of security 
+
+was recognised at the 2019 Annual Hotel Security Awards 
+
+Presentation Ceremony, organised by the Singapore Hotel 
+
+Association ("SHA"), National Crime Prevention Council and 
+
+the Singapore Police Force.
+
+guidelines are designed to encourage best practice beyond 
+
+statutory requirements. For its overseas developments, Far 
+
+East Orchard works with relevant partners to comply with 
+
+occupational health and safety management systems such 
+
+as the OHSAS 18001. 
+
+Further, all site safety matters during the development are 
+
+monitored closely and regularly through site meetings and 
+
+daily briefing sessions. 
+
+Sustainability Report 2019
+
+17
+
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+Property Investment
+
+Far East Orchard has a PBSA portfolio of 3,260 beds in the 
+
+UK across 11 properties and five cities. To maintain a high 
+
+level of customer health and safety across the Group’s 
+
+operations, Far East Orchard works closely with its UK 
+
+partner to provide a centralised function and perform 
+
+periodic audits for all properties.
+
+At each of the Group’s PBSA property, there is a health and 
+
+safety committee to manage health and safety matters, 
+
+with guiding policies and SOPs in place. These include: 
+
+• Site Security Plan and Policy
+
+• Health and Safety Procedures 
+
+• Emergency Response Plan
+
+• Managing Accidents and Near Misses Policy
+
+• Fire Drill and Evacuation Policy
+
+• Incident Management and Escalation Policy
+
+FY2020 TARGETS
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+No fines for safety breaches
+
+• Adopt best practices in the industry 
+
+• Encourage a strong internal culture of sharing or reporting of any potential 
+
+safety breaches or unsafe work practices observed within the hotel premises 
+
+or at construction sites
+
+• Introduce an internal “stop-work” initiative until a rectification or remediation 
+
+plan is in place to address the unsafe practice
+
+• Update existing feedback channels to seek specific inputs on health and 
+
+safety at hotel premises or at construction sites
+
+• Maintain regular engagement and contact with local health and safety 
+
+regulatory agencies to obtain updates on regulatory changes
+
+Improve 
+
+safety 
+
+processes 
+
+and 
+
+inculcate a strong safety-first culture 
+
+across businesses
+
+• Increase employee training for customer health and safety matters
+
+• Conduct management walkabouts to provide an additional perspective 
+
+and uncover “blind spots” with regard to potential hazards within the hotel 
+
+premises or at construction sites
+
+• Illegal Drugs and Alcohol Policy
+
+• Student Guests and Visitors Policy
+
+• Student Welfare and Mental Health Policy
+
+Students are encouraged to take ownership to ensure 
+
+their own safety. Prior to their arrival, they are required to 
+
+complete an online safety induction exercise. A Student 
+
+Handbook which includes a section on safety information 
+
+is issued to all students. During the year, students are kept 
+
+abreast of health and safety matters via email newsletters 
+
+and notice boards in the properties.
+
+A well-being strategy is also in place to monitor and engage 
+
+students, aimed at helping them adjust to the student 
+
+accommodation property and university life.
+
+In FY2019, there were no fines for safety breaches and safety processes were improved to complement and 
+
+unify a safety culture across business divisions.
+
+Far East Orchard Limited
+
+18
+
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+7. SERVICE QUALITY
+
+Far East Hospitality’s focus on service quality provides 
+
+it with opportunities to gain a sustainable competitive 
+
+advantage and the confidence of its customers in a 
+
+highly competitive industry. The Group drives continuous 
+
+Other initiatives to build a service-oriented workplace 
+
+include:
+
+Figure 13: Two-pronged Service Quality Approach
+
+Figure 14: Key Workplace Initiatives and Programmes
+
+• Regular reviews and updating of SOPs for service 
+
+delivery to meet customers’ evolving expectations
+
+• Conducting on-the-job trainings or communication 
+
+sessions for relevant roles and departments
+
+• Updating Service Quality Audit survey questions to 
+
+ensure a matched assessment
+
+EMPLOYEE OF  
+
+THE MONTH
+
+To recognise employees 
+
+who have received excellent 
+
+reviews from guests for 
+
+their service delivery
+
+HALL OF EXCELLENCE
+
+Annual programme to reward 
+
+employees who have delivered 
+
+extraordinary service to customers 
+
+over the year and act as a role 
+
+model for their colleagues
+
+PARTICIPATION IN 
+
+INDUSTRY SERVICE 
+
+EXCELLENCE AWARDS 
+
+AND ACCOLADES
+
+Employees are nominated for 
+
+industry service excellence awards
+
+• Daily trainings for Far East Hospitality employees on 
+
+service quality, guided by the Group’s "Acts of Grace" 
+
+service values
+
+• Bi-annual mystery Service Quality Audits by a select 
+
+pool of surveyors to assess the delivery of services in 
+
+accordance with SOPs and the effectiveness of training
+
+• Track and monitor customers’ feedback via the internal 
+
+hospitality management software and social media or 
+
+digital platforms such as TripAdvisor
+
+• Recognise employees who perform beyond expectations
+
+
+
+PROCESS 
+
+QUALITY
+
+
+
+DELIVERY 
+
+QUALITY
+
+improvement and seeks to differentiate itself via its service 
+
+delivery to resonate with both new and existing customers. 
+
+Service quality delivered to customers is measured using a 
+
+two-pronged approach:
+
+Sustainability Report 2019
+
+19
+
+
+
+
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+As a member of the SHA and Association of Rooms Division 
+
+Executives (Singapore) and a Collaborative Partner of the 
+
+Singapore Tourism Board, Far East Hospitality benefits 
+
+from industry insights and learning about best practices 
+
+via networking events and publications. This information is 
+
+used to strengthen the Group’s service quality standards and 
+
+operational excellence.
+
+Since 2016, Far East Hospitality has engaged an independent 
+
+external consultant to assess the quality of service delivered 
+
+to its customers. Working with management, the external 
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+CEI Survey: 83.0%
+
+• Conduct open service audits twice a year, to complement the existing 
+
+mystery audits, to ensure consistency in service delivery
+
+• Explore and execute new engagement activities involving guests and staff 
+
+on a quarterly basis to enhance service experience and guest engagement
+
+• Encourage staff participation in industry awards
+
+• Regular monitoring of service performance through an online portal and 
+
+ensure responses by management to both positive and negative feedback
+
+consultant has developed a Customer Engagement Index 
+
+(“CEI”) target for the Group, which is benchmarked against 
+
+the industry. A corresponding survey to measure the Group’s 
+
+CEI score is conducted annually. 
+
+The key areas of the measurement are:
+
+• Overall satisfaction level
+
+• Customer's likelihood to return in the future
+
+• Likelihood to recommend to others
+
+• Our brand vs others in the market
+
+In FY2019, Far East Hospitality exceeded its target of 82.5% for the CEI Survey. 
+
+Far East Orchard Limited
+
+20
+
+
+MATERIAL FACTORS – 
+
+SOCIAL
+
+Hospitality Awards
+
+In 2019, Far East Hospitality’s employees, hotels and serviced 
+
+residences received more than 300 accolades awarded by 
+
+AWARDS
+
+DESCRIPTION
+
+Excellent Service Award 2019 by SHA
+
+• 17 Outstanding Star Winners
+
+• 76 Star Winners
+
+• 88 Gold Winners
+
+• 83 Silver Winners
+
+• 8 EXSA Champion Organisation Awards
+
+To recognise individuals who have gone beyond the call 
+
+of duty in delivering exceptional service and creating 
+
+memorable experiences for guests
+
+The National Kindness Award 2019 by the Singapore Kindness Movement and SHA
+
+19 Service Gold Awards
+
+To recognise service staff in the hotel industry who displayed 
+
+exemplary service and gracious behaviour during their 
+
+course of work
+
+Employee of the Year Award 2019 by Food, Drinks and Allied Workers’ Union, National Trades Union Congress and SHA
+
+11 Winners
+
+To recognise individual employees’ excellent performance 
+
+and commendable service
+
+SHA Best Department Awards 2019
+
+• Best Front Office Department, Superior Hotel 
+
+• Best Housekeeping Department, Superior Hotel
+
+To recognise best in class amongst the hotel industry 
+
+in Singapore across four departments – Front Office, 
+
+Concierge, Reservations and Housekeeping, by category of 
+
+hotels (Luxury, Deluxe, Superior)
+
+HR Vendors of the Year Awards 2019
+
+• Best Serviced Apartment Company, Gold 
+
+• Best Business Hotel, Silver 
+
+• Best Business Hotel, Bronze
+
+To recognise organisations which supply the best quality 
+
+corporate accommodations, facilities and the best level of 
+
+service to their corporate clients
+
+HRM Asia Readers’ Choice Awards 2019
+
+Best Serviced Residence Property, Gold
+
+To recognise vital partners to the HR profession and industry 
+
+in the region
+
+Travel Weekly Asia Readers’ Choice Awards 2019
+
+Best Serviced Residence Property, Asia Pacific
+
+To recognise outstanding travel players who have made a 
+
+mark in their areas of expertise
+
+Ctrip Awards 2019
+
+Most Recommended Award
+
+(Awarded to 1 property)
+
+To acknowledge leaders in the hospitality and tourism 
+
+industry who have directly and positively contributed to the 
+
+Chinese travel market
+
+TripAdvisor Awards
+
+• Top 25 Hotels for Service, 1st 
+
+(Awarded to 1 property)
+
+• Travellers Choice  
+
+(Awarded to 3 properties)
+
+• Certificate of Excellence  
+
+(Awarded to 15 properties)
+
+To recognise the best tourism establishments in terms of 
+
+service, quality, customer satisfaction and more, across 
+
+a range of categories, based on millions of reviews and 
+
+opinions from travellers from around the world
+
+Figure 15: Key Hospitality Awards Received in FY2019
+
+various industry bodies. A list of key awards won during the 
+
+year is presented in Figure 15.
+
+Sustainability Report 2019
+
+21
+
+
+8. CUSTOMER PRIVACY
+
+Far East Orchard is committed to safeguarding its customers’ 
+
+personal information, and maintaining the privacy and security 
+
+of data in relation to its business operations. Customers can 
+
+trust that their personal data is being collected, handled, and 
+
+protected in a responsible and secure manner. The Group 
+
+does not divulge or sell personal information to third parties 
+
+for marketing or promotional purposes. In particular, the 
+
+personal data of guests who stay at the hotels and serviced 
+
+residences operated by the Group is collected, used and 
+
+disclosed strictly for registration and stay purposes only. 
+
+Managing Personal Data
+
+Key initiatives to uphold customer privacy include:
+
+• Appointment of data protection officers (“DPOs”) for 
+
+each business unit. The DPOs maintain and monitor 
+
+each business unit’s compliance with the relevant data 
+
+protection legislation
+
+9. CORPORATE GOVERNANCE
+
+Far East Orchard is committed to good corporate governance, 
+
+accountability and transparency in all its endeavours. It 
+
+observes a high standard of corporate conduct, integral to 
+
+ensuring the sustainability of its business and performance as 
+
+well as safeguarding stakeholders’ interests and maximising 
+
+long-term stakeholder value.
+
+MATERIAL FACTORS –
+
+GOVERNANCE
+
+FY2020 TARGET
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+No 
+
+substantiated 
+
+complaints 
+
+concerning breaches of customer 
+
+privacy and loss of customer data 
+
+that resulted in fines by the PDPC
+
+• Educate employees on data privacy regulations and their role in compliance
+
+• Regular review of business processes to facilitate compliance with data 
+
+privacy regulations
+
+• Training by external counsel to educate employees
+
+• Corporate Governance 
+
+Policies Manual
+
+• Employee Handbook
+
+• Code of Conduct
+
+• Enterprise Risk Management 
+
+Manual
+
+• Securities Trading Policy
+
+• Whistle-blowing Policy
+
+• Delegation of Authority 
+
+Matrix
+
+• Periodic internal and external 
+
+audits
+
+• Quarterly circular to Board 
+
+and employees on Securities 
+
+Trading Policy
+
+
+
+
+
+GUIDING 
+
+POLICIES
+
+INTERNAL 
+
+CONTROLS
+
+Figure 16: Corporate Policies and Internal Controls
+
+• Regular monitoring of business processes and security 
+
+procedures to assess and ensure compliance with 
+
+relevant data protection laws including the Do Not Call 
+
+Registry
+
+• Assembling a data inventory map in 2019 to facilitate 
+
+effective record management
+
+• Taking measures to comply with the advisory guidelines 
+
+relating to National Registration Identity Card and other 
+
+national identification numbers issued by Singapore’s 
+
+Personal Data Protection Commission ("PDPC")
+
+• Periodic reviews and updates to manuals and policies 
+
+to ensure relevancy, including the Information Security 
+
+and Management Policy, Privacy Policy and a manual 
+
+for employees to inculcate awareness of, and facilitate 
+
+compliance with, applicable data protection laws
+
+In FY2019, there were no substantiated complaints concerning breaches of customer privacy and loss of 
+
+customer data that resulted in fines by the PDPC.
+
+The Group has established corporate policies and internal 
+
+controls to ensure compliance with the relevant laws and 
+
+regulations which are presented in Figure 16.
+
+Far East Orchard Limited
+
+22
+
+
+
+
+The Group was awarded the “Best Managed Board” at the 
+
+Singapore Corporate Awards 2019. The award recognises 
+
+companies with good overall corporate governance as 
+
+reflected in its board and committee structure, board 
+
+composition and accountability, board functions and 
+
+performance orientation among other factors.
+
+Far East Orchard also made its debut on the SGX Fast Track 
+
+programme in 2019. The programme was launched by the 
+
+Singapore Exchange Regulation ("SGX RegCo") in April 2018 
+
+to recognise companies which have upheld high corporate 
+
+governance standards and maintained a good compliance 
+
+track record. The Group will be a constituent of the SGX 
+
+Fast Track programme until the next review cycle in 2021. 
+
+The incentive comes in the form of prioritised clearance for 
+
+Recognition of Good Corporate Governance Practices 
+
+MATERIAL FACTORS – 
+
+GOVERNANCE
+
+
+
+
+
+Figure 17: Corporate Governance Accolades Received in FY2019
+
+
+
+BEST MANAGED  
+
+BOARD,  
+
+SILVER AWARD
+
+Mid-market  
+
+capitalisation Category
+
+Singapore Corporate  
+
+Awards 2019
+
+INCLUSION IN 
+
+SGX FAST TRACK 
+
+PROGRAMME FOR 
+
+2020 AND 2021
+
+The programme was 
+
+launched by SGX to 
+
+recognise companies 
+
+with good corporate 
+
+governance
+
+RANKED  
+
+AMONG TOP 10%  
+
+SGX-LISTED FIRMS
+
+Ranked 55 out of 578 
+
+companies in the 
+
+Singapore Governance 
+
+and Transparency 
+
+Index 2019
+
+In FY2019, there were neither any lapses with SGX rule requirements resulting in SGX reprimands nor any 
+
+confirmed incidents of bribery or corruption involving employees.
+
+all submissions of corporate actions to SGX RegCo. These 
+
+include circulars, requests for waiver and applications for 
+
+share placement.
+
+Far East Orchard was ranked among the top 10% of 
+
+companies listed on the SGX according to the Singapore 
+
+Governance and Transparency Index (“SGTI”) 2019. The 
+
+SGTI is the leading index for assessing corporate governance 
+
+practices of Singapore-listed companies and published 
+
+annually.
+
+The Group’s corporate governance practices are detailed 
+
+in its 2019 Annual Report with specific reference to 
+
+the principles and provisions of the Code of Corporate 
+
+Governance 2018.
+
+Sustainability Report 2019
+
+23
+
+
+
+
+
+
+FY2020 TARGETS
+
+KEY INITIATIVES TO BE CONTINUED/ IMPLEMENTED
+
+No lapses with SGX rule requirements 
+
+resulting in SGX reprimands
+
+• Participate in seminars, dialogues, round-table discussions and consultations 
+
+with SGX, to understand and track any new listing rules and keep abreast of 
+
+any penalties issued against other SGX-listed companies
+
+• Maintain and track new listing rules or updates
+
+• Maintain and centralise all communication and correspondence with SGX 
+
+(and any other relevant regulatory authorities), to monitor and track all 
+
+inquiries, feedback, and responses and to maintain a consistent response in 
+
+each correspondence
+
+• Continue the practice of mandatory Annual Declaration on Conflict of 
+
+Interest to declare potential interests so they may be appropriately managed
+
+No confirmed incidents of bribery or 
+
+corruption involving employees
+
+• Mandatory Annual Declaration on Conflict of Interest to declare potential 
+
+interests so they may be appropriately managed
+
+• Annual confirmation by employees to agree to comply with the guidelines 
+
+and policies contained in the Code of Conduct. These include conduct 
+
+on “Giving/ Offering Gifts and Other Inducements” and “Receiving Gifts 
+
+and Lavish Entertainment”
+
+• Continual update of the Code of Conduct which is made available to all 
+
+employees via the intranet
+
+MATERIAL FACTORS – 
+
+GOVERNANCE
+
+Far East Orchard Limited
+
+24
+
+
+GRI CONTENT INDEX
+
+GRI STANDARDS 2016
+
+DISCLOSURE TITLE
+
+PAGE REFERENCE &amp; REMARKS
+
+GRI 102: General Disclosures 2016
+
+ORGANISATIONAL PROFILE
+
+102-1
+
+Name of the organisation
+
+Pg 1
+
+102-2
+
+Activities, brands, products and services
+
+Pg 2
+
+102-3
+
+Location of headquarters
+
+Pg 2
+
+102-4
+
+Location of operations
+
+Pg 2
+
+102-5
+
+Ownership and legal form
+
+Pg 2
+
+102-6
+
+Markets served
+
+Pg 2
+
+102-7
+
+Scale of the organisation
+
+Pg 3
+
+102-8
+
+Information on employees and other workers
+
+Pg 3
+
+102-9
+
+Supply chain
+
+Pg 5
+
+102-10
+
+Significant changes to organisation and its supply chain
+
+Not applicable
+
+102-11
+
+Precautionary Principle or approach
+
+2019 Annual Report: Pg 45 - 49
+
+102-12
+
+External initiatives
+
+Pg 5
+
+102-13
+
+Membership of associations
+
+Pg 20
+
+STRATEGY
+
+102-14
+
+Statement from senior decision-maker
+
+Pg 4
+
+ETHICS AND INTEGRITY
+
+102-16
+
+Values, principles, standards, and norms of behaviour
+
+Pg 2
+
+GOVERNANCE
+
+102-18
+
+Governance structure
+
+Pg 6
+
+STAKEHOLDER ENGAGEMENT
+
+102-40
+
+List of stakeholder groups
+
+Pg 7
+
+102-41
+
+Collective bargaining agreements
+
+Pg 3
+
+102-42
+
+Identifying and selecting stakeholders
+
+Pg 7
+
+102-43
+
+Approach to stakeholder engagement
+
+Pg 7
+
+102-44
+
+Key topics and concerns raised
+
+Pg 8
+
+REPORTING PRACTICE
+
+102-45
+
+Entities included in the consolidated financial 
+
+statements
+
+2019 Annual Report: Pg 154
+
+102-46
+
+Defining report content and topic Boundaries
+
+Pg 1, 8
+
+102-47
+
+List of material topics
+
+Pg 8
+
+102-48
+
+Restatements of information
+
+Not applicable
+
+102-49
+
+Changes in reporting
+
+Not applicable
+
+102-50
+
+Reporting period
+
+Pg 1
+
+102-51
+
+Date of most recent report
+
+18 March 2019 – 
+
+2018 Sustainability Report
+
+102-52
+
+Reporting cycle
+
+Pg 1
+
+102-53
+
+Contact point for questions regarding the report
+
+Pg 1
+
+102-54
+
+Claims of reporting in accordance with the GRI 
+
+Standards
+
+Pg 1
+
+102-55
+
+GRI content index
+
+Pg 25 - 27
+
+102-56
+
+External assurance
+
+Pg 1
+
+Sustainability Report 2019
+
+25
+
+
+GRI CONTENT INDEX
+
+GRI STANDARDS 2016
+
+DISCLOSURE TITLE
+
+PAGE REFERENCE &amp; REMARKS
+
+GRI 103: Management Approach 2016
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Economic Performance
+
+Pg 9
+
+2019 Annual Report: Pg 6 - 7, 10 - 13, 
+
+61 - 155
+
+Anti-competitive Behaviour
+
+Pg 9
+
+Environmental Compliance
+
+Pg 10 - 11
+
+Occupational Health and Safety
+
+Pg 12 - 13
+
+Training and Education 
+
+Pg 14 - 16
+
+Customer Health and Safety
+
+Pg 17 - 18
+
+Service Quality
+
+Pg 19 - 21
+
+Customer Privacy
+
+Pg 22
+
+Corporate Governance
+
+Pg 22 - 24
+
+103-2
+
+The management approach and its components
+
+103-3
+
+Evaluation of the management approach
+
+Material Topics
+
+ECONOMIC PERFORMANCE
+
+201-1
+
+Direct economic value generated and distributed
+
+Pg 9
+
+2019 Annual Report: Pg 6 - 7, 10 - 13, 
+
+61 - 155
+
+ANTI-COMPETITIVE BEHAVIOUR
+
+206-1
+
+Legal actions for anti-competitive behaviour, anti-trust, 
+
+and monopoly practices
+
+Pg 9
+
+ENVIRONMENTAL COMPLIANCE
+
+307-1
+
+Non-compliance with environmental laws and 
+
+regulations
+
+Pg 11
+
+OCCUPATIONAL HEALTH AND SAFETY
+
+403-2
+
+Types of injury and rates of injury, occupational 
+
+diseases, lost days, and absenteeism, and number of 
+
+work-related fatalities
+
+Pg 13
+
+TRAINING AND EDUCATION
+
+404-1
+
+Average hours of training per year per employee
+
+Pg 15
+
+404-3
+
+Percentage of employees receiving regular 
+
+performance and career development reviews
+
+Pg 16
+
+CUSTOMER HEALTH AND SAFETY
+
+416-2
+
+Incidents of non-compliance concerning the health 
+
+and safety impacts of products and services
+
+ Pg 18
+
+CUSTOMER PRIVACY
+
+418-1
+
+Substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data
+
+ Pg 22
+
+Far East Orchard Limited
+
+26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+www.fareastorchard.com.sg
+
+Registration No. 196700511H
+
+1 Tanglin Road #05-01
+
+Orchard Rendezvous Hotel, Singapore
+
+Singapore 247905
+
+T (65) 6833 6688
+
+F (65) 6738 8085
+

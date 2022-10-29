@@ -1,0 +1,5418 @@
+
+ 
+
+
+
+
+1 
+
+ 
+
+Table of Contents 
+
+1. About Penguin International Limited .............................................................................................................................................. 2 
+
+2. About the Report ........................................................................................................................................................................... 3 
+
+3. Highlights for FY2017 ..................................................................................................................................................................... 4 
+
+4. Approach to Sustainability .............................................................................................................................................................. 6 
+
+a. Sustainability Governance .......................................................................................................................................................... 6 
+
+Board Statement ................................................................................................................................................................................ 6 
+
+b. Stakeholder Engagement ............................................................................................................................................................ 7 
+
+c. Materiality Assessment ............................................................................................................................................................... 9 
+
+d. Sustainability Strategy .............................................................................................................................................................. 13 
+
+5. Economic Resilience ..................................................................................................................................................................... 18 
+
+6. Our People, Our Assets ................................................................................................................................................................. 19 
+
+a. Staff Demographics .................................................................................................................................................................. 19 
+
+b. Workplace Diversity and Fairness ............................................................................................................................................. 20 
+
+7. Safety ........................................................................................................................................................................................... 24 
+
+a. Safety on board our vessels for crew and passengers ................................................................................................................ 24 
+
+b. Safety – Occupational health and safety in our shipyards .......................................................................................................... 29 
+
+8. Environment ................................................................................................................................................................................ 32 
+
+a. 
+
+Energy Consumption Management and Greenhouse Gas (GHG) Emissions ........................................................................... 32 
+
+b. 
+
+Vessel Emissions .................................................................................................................................................................. 35 
+
+9. Corporate Governance ................................................................................................................................................................. 36 
+
+GRI Content Index ............................................................................................................................................................................ 39 
+
+ 
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+1. About Penguin International Limited 
+
+Penguin International Limited (“Penguin”) is a Singapore home-grown, publicly listed designer-builder-owner-
+
+operator of aluminium high-speed marine craft. The company was incorporated in 1976 and listed on SGX in 
+
+1997. 
+
+Since 1995, we have delivered more than 150 aluminium vessels to ship owners around the world, including 
+
+some 120 of our proprietary-designed Flex offshore crewboats and armoured security boats (“Flex Fighters”). 
+
+According to data compiled by IHS Sea-web, a database that captures all International Maritime Organisation 
+
+(“IMO”)-registered vessels worldwide, Penguin is the world’s most prolific builder of mid-sized, multi-role 
+
+crewboats/security boats for the offshore and maritime security industries. In some markets, the Flex brand has 
+
+become the industry standard. 
+
+Our shipyards in Singapore and Batam operate a self-funded build-for-stock programme that comprises 
+
+crewboats and security boats. In addition, our shipyards undertake owner-specific build-to-order as well as 
+
+repair and conversion projects involving a variety of high-speed craft, including luxury yachts, firefighting search-
+
+and-rescue vessels, passenger ferries and patrol craft.  
+
+In addition to shipbuilding, Penguin also operates a fleet of Flex crewboats (through its wholly-owned Pelican 
+
+group) and passenger ferries that serve a myriad of clientele in Southeast Asia and beyond, including ExxonMobil, 
+
+Shell and Singapore government agencies. 
+
+Our vessels are well maintained and professionally manned by our in-house ship management team, backed by 
+
+our two shipyards. We prize safety over profit and we abide by international standards on Health, Safety and 
+
+the Environment. 
+
+FIGURE 1: PENGUIN'S PRODUCTS AND SERVICES 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3 
+
+ 
+
+2. About the Report  
+
+We are pleased to present our inaugural sustainability report prepared in accordance with the Global Reporting 
+
+Initiative (“GRI”) Standards – Core reporting requirements and the SGX-ST Mainboard Listing Rule 711(B). 
+
+This report attempts to encapsulate Economic, Environmental, Social and Governance (“EESG”) material matters 
+
+which impact our business performance and key stakeholders across two business segments: (i) Ferry and 
+
+charter services and (ii) Shipbuilding and ship repair in Singapore, Indonesia (primarily Batam) and Malaysia 
+
+(primarily offshore) from 1 January 2017 to 31 December 2017 (“FY2017”), with 1 January 2016 to 31 December 
+
+2016 (“FY2016”) being the year of comparison.  
+
+Penguin has not sought external assurance on the disclosures made but will consider doing it as our reporting 
+
+matures over time.  As we embark on our sustainability journey, we look forward to your continued support and 
+
+appreciate any comments, feedback or queries. Please address them to Sustainability Report Committee, at 
+
+sr@penguin.com.sg. For more information on Penguin, please visit our website at www.penguin.com.sg. 
+
+ 
+
+ 
+
+
+4 
+
+ 
+
+3. Highlights for FY2017 
+
+ 
+
+ 
+
+ 
+
+
+
+
+5 
+
+ 
+
+The Penguin Sustainability Statement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+“As a global citizen, we believe in conducting our business in a sustainable and socially 
+
+responsible manner. We believe that sustainability helps us achieve our full potential to 
+
+become the world’s leading provider of aluminium fast craft.” 
+
+ 
+
+Our activities are aimed at creating value for all our stakeholders - Employees, Investors, 
+
+Customers and the Communities in which we operate. 
+
+ 
+
+
+
+
+6 
+
+ 
+
+4. Approach to Sustainability 
+
+Despite the harshest environmental conditions, Antarctic Penguins are among nature’s great survivors. They are 
+
+able to stand strong against the odds because they work closely together to conserve heat, hunt for food and 
+
+find shelter. Their success also stems from their unique ability to dive deeper and adapt to crushing water 
+
+pressures to exploit food sources better than their competitors.  
+
+Similarly, we at Penguin International Limited have encountered numerous challenges, from global financial 
+
+crises to rapid changes in the market landscape. Despite the odds, we have stood strong and continued to 
+
+pursue sustainable growth. We draw our strength from the collective efforts of our management and employees. 
+
+We have been able to capture new opportunities while managing sustainability (environmental, social and 
+
+economic) in the midst of intense global competition and tougher maritime regulation. This resilience largely 
+
+stems from our conservative management style and unique capabilities as an integrated designer-builder-
+
+owner-operator of high-speed aluminium vessels.  
+
+a. Sustainability Governance 
+
+Our Board of Directors (“The Board”) is responsible for the oversight of our sustainability strategy and 
+
+management of critical sustainability matters. Directly under the Board is the Sustainability Committee, 
+
+consisting of our Managing Director and our Finance and Administration Director. 
+
+The Committee ensures the implementation of the sustainability strategy and evaluation of the progress against 
+
+the commitments. The implementation of sustainability is then delegated to relevant departments and unit 
+
+heads. With regular discussions and updates, the Sustainability Committee provides inputs and monitors 
+
+progress to identify further areas for improvement. 
+
+The Board reviews and comments on the overall enterprise risk management process, which takes into account 
+
+sustainability topics. This process takes place yearly in our Board Meeting where sustainability topics and 
+
+impacts, risks and opportunities are discussed, ensuring that sustainability is integrated into our day-to-day 
+
+operations. For more information on overall Corporate Governance, please refer to Pages 25 to 35 of our FY2017 
+
+Annual Report. 
+
+FIGURE 2: PENGUIN'S SUSTAINABILITY GOVERNANCE STRUCTURE  
+
+Board Statement 
+
+This report is the demonstration of our commitment to create 
+
+sustainable value for all of our stakeholders; our employees, 
+
+investors, customers and the communities at large. 
+
+The Board together with the Sustainability Committee have 
+
+identified relevant and material Economic, Environmental, 
+
+Social and Governance (EESG) matters and will ensure that the 
+
+management and monitoring of these issues are integrated 
+
+into everyday business operation. 
+
+As we continue on our sustainability journey, we urge our 
+
+stakeholders to share our Group’s commitment to 
+
+transparency to work towards a common goal of improving 
+
+the economic, environmental and social well-being of the 
+
+communities we operate in. 
+
+
+
+
+7 
+
+ 
+
+b. Stakeholder Engagement 
+
+ 
+
+Penguin regards engaging our stakeholders as a part of our core corporate responsibility. We are attuned to our stakeholders’ key concerns and we 
+
+try our best to respond to their expectations while keeping the company’s best interests in mind. Interaction with stakeholders takes place across 
+
+Penguin’s integrated business operations. For more information on our stakeholders and engagement platforms, please refer to Figure 3 below.   
+
+ 
+
+FIGURE 3: PENGUIN'S APPROACH TO STAKEHOLDER ENGAGEMENT 
+
+Stakeholder 
+
+Groups 
+
+Key Concerns/Interests 
+
+Raised by Stakeholder 
+
+Groups 
+
+Penguin’s Response 
+
+Methods of Engagement 
+
+Frequency of 
+
+Engagement 
+
+Employees, 
+
+Workers and 
+
+Crew Members 
+
+• Fair and inclusive 
+
+workplace  
+
+• Safe working 
+
+environment  
+
+• Career progression and 
+
+personal development 
+
+• Practicing an open-door culture  
+
+• Ensuring timely feedback and interaction with 
+
+employees to ensure alignment of 
+
+expectations between both parties 
+
+• Establishing robust Health and Safety 
+
+management system  
+
+• Ensuring consistency in Human Resource 
+
+Policies across the operating countries to be 
+
+in compliance with the prevailing labour laws   
+
+Appraisals  
+
+Annually  
+
+Memo update from 
+
+Managing Director  
+
+Quarterly  
+
+Safety toolbox meetings  
+
+Daily 
+
+Training and workshops 
+
+on skills upgrading 
+
+As and when 
+
+required 
+
+Clients 
+
+Provision of consistent 
+
+and good quality products 
+
+and services from Penguin 
+
+• Building long-term relationships with clients 
+
+to ensure continued growth of the business  
+
+• Gathering feedback from clients to align 
+
+expectations and to further improve on 
+
+services 
+
+Regular client visits in 
+
+Singapore and overseas    
+
+ 
+
+Monthly and 
+
+quarterly 
+
+Meetings and 
+
+discussions  
+
+ 
+
+As and when 
+
+required 
+
+ 
+
+Shareholders and 
+
+Investors 
+
+Consensus for Penguin’s 
+
+vision and future growth 
+
+• Transparent and timely disclosure of financial 
+
+information and corporate news through 
+
+company website and SGXnet.  
+
+Annual General Meeting 
+
+(AGM)  
+
+Annually  
+
+Annual Report  
+
+Annually  
+
+
+8 
+
+ 
+
+Stakeholder 
+
+Groups 
+
+Key Concerns/Interests 
+
+Raised by Stakeholder 
+
+Groups 
+
+Penguin’s Response 
+
+Methods of Engagement 
+
+Frequency of 
+
+Engagement 
+
+while achieving 
+
+sustainable returns  
+
+• Having a dedicated channel via our website 
+
+for Investor Relations-related questions and 
+
+feedback  
+
+ 
+
+Financial news and 
+
+announcements  
+
+As and when 
+
+required  
+
+Suppliers and 
+
+subcontractors  
+
+Continued use of services, 
+
+opportunities for more 
+
+cooperation in various 
+
+areas of production, 
+
+facility development, 
+
+manpower and 
+
+technology 
+
+• Clear communication on Penguin’s 
+
+expectations of service quality and health and 
+
+safety requirements for suppliers and 
+
+subcontractors.  
+
+• Monitoring procedure in place to ensure 
+
+compliance by suppliers and subcontractors 
+
+Performance evaluation  
+
+Annually 
+
+Safety meetings with 
+
+subcontractors 
+
+Monthly 
+
+On-site engagement with 
+
+employees  
+
+Daily  
+
+Ad-hoc meetings  
+
+As and when 
+
+required  
+
+Regulators  
+
+Compliance to relevant 
+
+laws and regulatory 
+
+requirements across all 
+
+operating countries  
+
+• Adopting sustainable practices and complying 
+
+to workplace health and safety, environment 
+
+and socio-economic standards  
+
+Meetings and 
+
+discussions with relevant 
+
+authorities  
+
+As and when 
+
+required  
+
+Local 
+
+Communities 
+
+ 
+
+Singapore:  
+
+Provision of services 
+
+contributing to public 
+
+safety and security 
+
+• Supporting vessels for national defence and 
+
+emergencies 
+
+• Contributing to various charity organisations 
+
+and community outreach programmes 
+
+Involvement in 
+
+emergency evacuation 
+
+exercises  
+
+As and when 
+
+required 
+
+Sponsorships and 
+
+donations 
+
+Ongoing  
+
+Batam: 
+
+Provision of a safe, 
+
+healthy and liveable 
+
+community in vicinity of 
+
+shipyards  
+
+• Maintaining a healthy symbiotic relationship 
+
+with local communities through provision of a 
+
+safe, clean and healthy environment 
+
+• Contributing indirect economic value through 
+
+local job creation  and other economic 
+
+opportunities for communities in vicinity of 
+
+shipyard  
+
+Volunteering activities  
+
+Monetary and in-kind 
+
+donations 
+
+Periodic   
+
+
+9 
+
+ 
+
+c. Materiality Assessment 
+
+ 
+
+To identify the core matters for Sustainability Report 2017, in September 2017 we conducted a materiality 
+
+assessment facilitated by independent sustainability advisors. The assessment process involved four steps as 
+
+depicted in Figure 4 below.  
+
+ 
+
+FIGURE 4: FOUR-STEP MATERIALITY ASSESSMENT PROCESS 
+
+ 
+
+Through the voting processes, six material sustainability matters were prioritised for FY2017 according to their 
+
+importance and relevance to our business by representatives from all business units and departments. After the 
+
+discussions, the key management team decided to select three additional matters for reporting, taking into 
+
+consideration the sustainability context for our industry, while ensuring adequate disclosure of information on 
+
+how Penguin creates sustainable value for its stakeholders. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+10 
+
+ 
+
+FIGURE 5: PENGUIN’S MATERIALITY MATRIX 
+
+ 
+
+FIGURE 6: MAPPING OF PENGUIN'S MATERIAL AND ADDITIONAL MATTERS FOR REPORTING TO GRI TOPICS 
+
+Six Material Matters Prioritised for Reporting 
+
+ 
+
+Material 
+
+Matters 
+
+Category 
+
+Description 
+
+GRI Topics 
+
+Page 
+
+1 
+
+Economic 
+
+Resilience  
+
+Economic 
+
+Practicing prudent financial management 
+
+and diversifying into non-oil markets in 
+
+order to explore new opportunities 
+
+GRI 201 Economic 
+
+Performance 
+
+18 
+
+2 
+
+Energy 
+
+Consumption 
+
+Management 
+
+Environment 
+
+Operational use and management of 
+
+energy (non-renewable sources or 
+
+renewable sources) and Penguin's efforts 
+
+in managing the emission of greenhouse 
+
+gases from direct sources (Scope 1: Fossil 
+
+fuels used) and indirect sources (Scope 2: 
+
+Electricity bought). 
+
+GRI 302 Energy 
+
+32 
+
+3 
+
+Vessel 
+
+Emission 
+
+Environment 
+
+Company’s effort to prevent 
+
+deterioration of air quality resulting from 
+
+pollutants released during:  
+
+− Shipyard operations 
+
+− Chartering and ferry services 
+
+GRI 305 Emissions 
+
+35 
+
+4 
+
+Safety  
+
+Social 
+
+Safety on Board 
+
+Provide for and promote the health and 
+
+safety of passengers and crew 
+
+GRI 403 
+
+Occupational 
+
+Health and Safety 
+
+24 
+
+Occupational Health and Safety at 
+
+Shipyards 
+
+29 
+
+
+
+
+11 
+
+ 
+
+Ensuring a safe and healthy working 
+
+environment for workers both on land 
+
+and at sea, as measured by recordable 
+
+incidents/fatalities/lost-
+
+days/absenteeism /etc. 
+
+5 
+
+Regulatory 
+
+Compliance  
+
+Governance 
+
+Compliance to all maritime laws and 
+
+other business-related regulations 
+
+• GRI 307 
+
+Environmental 
+
+Compliance  
+
+• GRI 416 
+
+Customer 
+
+Health and 
+
+Safety  
+
+• GRI 419 
+
+Socioeconomic 
+
+Compliance 
+
+36 
+
+6 
+
+Business 
+
+Ethics 
+
+Governance 
+
+Practising, communicating and training 
+
+Penguin's employees on ethical business 
+
+policies such as anti-corruption, anti-
+
+competitive behaviour, anti-fraud, anti-
+
+trust and ethical practices 
+
+GRI 205 Anti-
+
+corruption  
+
+37 
+
+ 
+
+Additional Matters Prioritised for Reporting 
+
+ 
+
+Additional 
+
+Matters 
+
+Category 
+
+Description 
+
+Rationale for 
+
+reporting 
+
+GRI Topics 
+
+Page 
+
+7 
+
+Product 
+
+Quality &amp; 
+
+Stewardship 
+
+Social 
+
+Ensure compliance to 
+
+highest quality 
+
+standards and 
+
+continuous effort to 
+
+control product carbon 
+
+footprint through 
+
+innovative and 
+
+responsible product 
+
+usage and its disposal 
+
+Product quality and 
+
+stewardship are key 
+
+drivers for our 
+
+sustainability 
+
+initiatives.  
+
+Non-GRI Topic 
+
+Specific 
+
+Disclosure 
+
+15,26 
+
+&amp; 32 
+
+8 
+
+Workplace 
+
+Diversity, 
+
+Fairness and 
+
+Retention 
+
+Social 
+
+Provide equal 
+
+employment 
+
+opportunities, upholding 
+
+fair remuneration 
+
+practices, treatment and 
+
+retention of all 
+
+employees and 
+
+contractors regardless 
+
+of ethnicity, age or 
+
+gender. 
+
+To show 
+
+commitment to 
+
+Penguin’s motto of 
+
+“Our People, Our 
+
+Assets” 
+
+ 
+
+• GRI 401 
+
+Employment 
+
+• GRI 404 
+
+Training and 
+
+Education 
+
+• GRI 405-2 
+
+Diversity and 
+
+Equal 
+
+Opportunity 
+
+20 
+
+9 
+
+Greenhouse 
+
+Gas (GHG) 
+
+Emissions 
+
+Environ-
+
+ment 
+
+Please see “Energy 
+
+Consumption 
+
+Management” 
+
+GHG emissions is a 
+
+subject of 
+
+international 
+
+GRI 305 
+
+Emissions 
+
+32 
+
+
+12 
+
+ 
+
+commitment under 
+
+the Paris climate 
+
+agreement. 
+
+Singapore in 
+
+particular is 
+
+committed to reduce 
+
+emissions intensity 
+
+by 36% from 2005 
+
+levels by 2030. It is 
+
+therefore critical for 
+
+Penguin to 
+
+demonstrate our 
+
+contribution to the 
+
+nation’s collective 
+
+effort in managing 
+
+the GHG intensity.  
+
+
+13 
+
+ 
+
+d. Sustainability Strategy  
+
+ 
+
+Our strategy comprises of three fundamental elements:  
+
+• Economic Resilience: Penguin endeavours to survive and thrive in an industry beset with crises through 
+
+prudent financial management and sensible diversification strategy. While maintaining our core 
+
+capabilities, diversification into new product and geographical markets has opened up new 
+
+opportunities, enabling Penguin to stay ahead of its competitors. 
+
+• “Our People, Our Assets”: We respect and care for our people and we seek to unleash their full 
+
+potential by:  
+
+o Encouraging an open communication system;  
+
+o Safeguarding health and safety of all our employees, workers and subcontractors;  
+
+o Adopting fair employment practices to attract and retain the best talents;  
+
+o Ensuring equal opportunities and recognition for workers and office staff. 
+
+• Integrated Sustainability: Penguin believes that sustainable practices should be an intrinsic part of our 
+
+everyday business operations.  
+
+ 
+
+We adopt an integrated sustainability strategy where key sustainability initiatives are an inherent part of daily operations and integrated across the 
+
+organisation’s value chain and supply chain. Figure 8 below shows how our material matters identified from the materiality assessment process are 
+
+managed in an integrated way in Penguin. While the sustainability practices mapped have been established and communicated to our employees, 
+
+performance measurement systems for some initiatives are still underway and are expected to be in place as Penguin internalises sustainability 
+
+principles at a deeper level during its long-term sustainability reporting journey. 
+
+FIGURE 8: MATERIAL MATTERS MAPPED ACROSS PENGUIN'S VALUE CHAIN 
+
+ 
+
+ 
+
+ 
+
+Regulatory 
+
+Compliance 
+
+We comply with all maritime laws and other business-related regulations such as: The Maritime and Port Authority of 
+
+Singapore (MPA) regulations, International Maritime Organisation (IMO), Marine Pollution (MARPOL), International 
+
+Convention for the Safety of Life at Sea (SOLAS), Maritime Labour Convention (MLC), Accounting and Corporate Regulatory 
+
+Authority (ACRA) regulations, Ministry of Manpower (MOM) regulations and National Environmental Agency (NEA) 
+
+regulations, respective flag state requirements, etc.  
+
+Business Ethics 
+
+• We strictly comply with the Singapore Code of Corporate Governance 2012. In addition, we have implemented best 
+
+practices in anti-corruption measures as follows: 
+
+
+
+  FIGURE 7: PENGUIN'S SUSTAINABILITY STRATEGY 
+
+
+
+
+14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+o Whistle blowing policy: the hotline is published on Penguin’s website. All complaints are channelled directly to the 
+
+Chairman of the Audit Committee for further investigation.  
+
+o Anti–corruption policies: The following Human Resource policies are in place to mitigate the risk of corruption.  
+
+▪ Private business interests’ policy: all employees are required to disclose to human resource department on their 
+
+private business interests, including changes from time to time.  
+
+▪ Insider trading 
+
+▪ Code of ethics 
+
+▪ Conflict of interest 
+
+Economic  
+
+Resilience 
+
+• Prudent financial management 
+
+• Sensible diversification strategy into markets, e.g. Fire Fighting Search-and-Rescue Vessels 
+
+• Maintain and grow core capabilities 
+
+Safety  
+
+• Ensuring build quality and compliance to 
+
+class requirements 
+
+ 
+
+• Daily safety toolbox meetings with 
+
+workers and monthly safety 
+
+meetings with subcontractors 
+
+• Safety Award system 
+
+• Penguin ensures staff are well 
+
+equipped with skillsets and 
+
+necessary certification, e.g.: 
+
+o All shipyard employees to 
+
+undergo mandatory training 
+
+course (SSIC) before 
+
+commencing shipyard repairs 
+
+and works 
+
+o Receive situational training 
+
+when a special skillset is 
+
+needed (welding, fire 
+
+watchmen training, etc.) 
+
+o Induction training 
+
+• Follow Workplace Safety and 
+
+Health (WSH) guidelines on 
+
+management of hazardous 
+
+chemicals program  
+
+• Vessels safety meeting 
+
+• Comply with best practices 
+
+and certification on safety at 
+
+sea including:  
+
+o The International 
+
+Convention for the Safety 
+
+of Life at Sea (SOLAS) 
+
+o  International Convention 
+
+on Standards of Training, 
+
+Certification and Watch 
+
+keeping for Seafarers 
+
+(STCW) 
+
+o International Safety 
+
+Management Code  
+
+o Passenger Ship Safety 
+
+Certificate  
+
+• Proper Personal Protective 
+
+Equipment (PPE) prior to work 
+
+(both workers and 
+
+subcontractors) 
+
+ 
+
+
+
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• Annual audiometric test 
+
+conducted for individual shipyard 
+
+employees and workers and 
+
+noise monitoring conducted once 
+
+every three years   
+
+• Proper PPE prior to work (both 
+
+workers and subcontractors) 
+
+Workplace 
+
+Diversity, 
+
+Fairness and 
+
+Retention  
+
+Penguin is a signatory to Singapore’s Tripartite Alliance for Fair &amp; Progressive Employment Practices (TAFEP)’s Employers’ 
+
+Pledge of Fair Employment Practices. The five key principles as outlined below. 
+
+• Recruit and select on the basis of merit regardless of age, race, gender, religion, marital status and family 
+
+responsibilities, or disability.   
+
+• Treat employees fairly and with respect and put in place progressive human resource management systems. The 
+
+grievance procedure as set out in dispute resolution policy allows employees to voice out in situations where they 
+
+feel they are being unfairly treated. 
+
+• Provide employees with equal opportunities to be considered for training and development based on their strengths 
+
+and needs, to help them achieve their full potential.   
+
+• Reward employees fairly based on their ability, performance, contribution and experience.  
+
+• Comply with the labour laws. We comply with both Singapore, Malaysia and Indonesia labour laws. Where there are 
+
+variances between local regulations and company’s Human Resource policies, we comply with the more stringent 
+
+requirements.  
+
+Product Quality 
+
+&amp; Stewardship  
+
+Over the years, Penguin has conducted various pilot projects to enhance efficient 
+
+resources usage. For example, Penguin pioneered in using Baudouin Engines – fishing 
+
+boat engines for crew-boats. The innovation has resulted in significant improvements 
+
+in fuel-efficiency and the product has become very popular with our clients in Thailand.  
+
+The company is also exploring other alternative fuel sources such as Liquefied Natural 
+
+Gas (LNG) for our crewboats. 
+
+ 
+
+Besides innovative projects, 
+
+Penguin also focuses on practical 
+
+energy management practices 
+
+such as tracking and recording of 
+
+fuel consumption on daily basis, 
+
+and conducting regular meetings 
+
+with clients to review fuel 
+
+consumption and investigate 
+
+irregularities, if any 
+
+ 
+
+ 
+
+ 
+
+
+
+
+16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Energy 
+
+Consumption 
+
+Management 
+
+&amp; 
+
+Greenhouse 
+
+Gas (GHG) 
+
+Emissions 
+
+• Using fuel efficient engines during 
+
+crewboat design  
+
+• Using lighter equipment to reduce the 
+
+weight of the ship  
+
+• Improving vessels’ hullforms to reduce 
+
+hull resistance thus reducing fuel 
+
+consumption 
+
+• Installing auto on-off function to 
+
+save electricity for common 
+
+facility such as security light 
+
+• Replacing LED lights at new 
+
+facilities 
+
+ 
+
+• Implementing fuel 
+
+consumption tracking and 
+
+management system:  
+
+o 
+
+All Pelican crewboats 
+
+already have flow meters 
+
+installed. In late 2017, 
+
+Penguin firmed up plans to 
+
+install Electronic Fuel 
+
+Management Systems 
+
+(EFMS) on board its own 
+
+and third-party newbuild 
+
+crewboats and security 
+
+boats, which will enable 
+
+remote access to real-time 
+
+fuel consumption data. 
+
+o 
+
+Daily reports on 
+
+consumption (to 
+
+complement EFMS reports 
+
+in FY2018) 
+
+o 
+
+Work closely with external 
+
+design partners to review 
+
+hullforms and seek out 
+
+improvements. 
+
+Vessel Emissions 
+
+• Using engines that are in compliance 
+
+with IMO tier 2 NOx emission standards 
+
+• Using the green passport1 and 
+
+“Supplier’s Declaration of Conformity2” 
+
+to keep track of materials (e.g. 
+
+• Monitoring and reducing GHG 
+
+emissions and highly toxic air 
+
+pollutants (e.g. sulphur dioxide, 
+
+lead and carbon monoxide) from 
+
+welding and lifting operations, 
+
+• Low sulphur content diesel 
+
+usage in overseas crewboat 
+
+operations; ultra-low sulphur 
+
+content diesel used in 
+
+domestic ferry operations 
+
+ 
+
+1 The Green Passport is a document accompanying the ship throughout its working life and which contains an inventory of all materials potentially hazardous to human health or the environment, 
+
+used in the construction of the vessel. The passport is useful during both major repairs as well as during final breaking of the vessel at the end of its life when those in charge will know which 
+
+materials are to be handled with caution and for disposal. 
+
+2 Shipyards will also obtain from upstream suppliers in the shipbuilding supply chain a ‘Supplier’s Declaration of Conformity’, with the present Rules and associated Material Declarations for each 
+
+structural element, equipment, machinery and coatings fitted on board. 
+
+
+
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+structural elements, equipment, 
+
+machinery and coatings fitted on board) 
+
+that are potentially hazardous to the 
+
+environment and human health 
+
+ 
+
+e.g. use of MIG welding that 
+
+result in lower fumes and 
+
+emissions 
+
+• Moving high emission activities 
+
+indoor, employing proper fume 
+
+collection and capture system 
+
+• Penguin is exploring the use 
+
+of alternative energy sources 
+
+for its newbuild projects. 
+
+ 
+
+
+
+
+18 
+
+ 
+
+5. Economic Resilience 
+
+Our unique capabilities as an integrated designer-builder-owner-operator of high-speed aluminium vessels is a 
+
+key competitive advantage that allows us to capture new opportunities amidst uncertainties in the shipping 
+
+industry. In particular, we have taken a pragmatic and economically sensible approach towards designing and 
+
+building ships, with the aim of constantly seeking to improve their operational efficiency and profitability. 
+
+Furthermore, we have pursued growth in new, non-traditional markets such as Fire Fighting Search-and-Rescue 
+
+Vessels and patrol boats, while actively seeking out more build-to-order projects across different industries. 
+
+Our strong balance sheet, which is the result of our prudent financial management, also enables us to quickly 
+
+and easily capitalise on new project and investment opportunities. 
+
+That is why Penguin has remained economically sustainable even during the recent downturn in the oil and gas 
+
+industry, which impacted the company’s profitability in FY2016 but did not affect its ability to survive and thrive 
+
+in the crisis. In FY2017, the company’s fortunes turned around and generated a group revenue of $85.4 million, 
+
+which was a 155% increase from FY2016 ($33.4 million). 
+
+Apart from ensuring our own economic sustainability, we also believe in building a viable and strong “eco-
+
+system” in our community among Singapore-based suppliers and subcontractors, as well as local residents in 
+
+our various bases of operations. Our business activities have spurred local job creation and produced a multiplier 
+
+effect on the extended community beyond the confines of our workplace. 
+
+Penguin also strives to maintain healthy relationships with communities in our operating countries. In Batam, 
+
+for example, we are regular supporters of the local community and we have sponsored various development 
+
+activities in a nearby fishing village (e.g., bridge and orphanage construction). Over in Singapore, since 2014, we 
+
+have been contributing regularly to non-profit organisations such as Young Men's Christian Association (YMCA), 
+
+Life Community Services Society and other community outreach programmes. 
+
+ 
+
+Financial year 
+
+FY2016 
+
+S$’000 
+
+FY2017 
+
+S$’000 
+
+Percentage 
+
+increase (%) 
+
+Economic Value Generated by Penguin 
+
+(Revenue)  
+
+33,405 
+
+85,351 
+
+155 
+
+Economic Value 
+
+Distributed to 
+
+Others  
+
+Operating Costs 
+
+13,223 
+
+59,659 
+
+351 
+
+Employee Wages and 
+
+Benefits 
+
+12,478 
+
+14,101 
+
+13 
+
+Capital Providers 
+
+2,075 
+
+230 
+
+-893 
+
+Government 
+
+156 
+
+973 
+
+525 
+
+Communities 
+
+1.03 
+
+6.16 
+
+497 
+
+Economic Value Retained by Penguin 
+
+5,473 
+
+10,381 
+
+100 
+
+ 
+
+3 Dividends to shareholders were paid out in FY2016. 
+
+
+19 
+
+ 
+
+6. Our People, Our Assets 
+
+At the core of our sustainability strategy, our people are our greatest assets. With more than 400 employees 
+
+(including crew) located across Singapore, Indonesia and Malaysia, Penguin aims to create a culturally diverse, 
+
+fair and inclusive workplace.  
+
+a. Staff Demographics 
+
+Amidst the industry downturn, our workforce remained relatively stable throughout the period. We experienced 
+
+a brief headcount reduction in April 2016 due to a decline in shipbuilding activities. Our business has since 
+
+recovered and our headcount has grown, from 358 in FY2016 to 425 in FY2017. The majority of our workforce 
+
+comprises employees in offices, shipyards and on-board crew members, who are employed on a full-time and 
+
+permanent basis. Part-time/temporary staff comprise only 7% of our total workforce. The breakdown is shown 
+
+in Figure 9 below. 
+
+ 
+
+FIGURE 9: EMPLOYMENT BREAKDOWN BY GENDER, EMPLOYMENT CONTRACT, TYPE AND REGION 
+
+ 
+
+ 
+
+By Employment Contract 
+
+ 
+
+FY2016 
+
+FY2017 
+
+Region 
+
+Permanent  
+
+Temporary  
+
+Permanent  
+
+Temporary  
+
+Singapore 
+
+263 
+
+0 
+
+306 
+
+0 
+
+Indonesia 
+
+4 
+
+204 
+
+6 
+
+31 
+
+Malaysia  
+
+71 
+
+0 
+
+82 
+
+0 
+
+ 
+
+ 
+
+4 Majority of our Indonesian employees are working full time on a two year contract which are renewed subject to satisfactory performance 
+
+evaluation. They are entitled to the same welfare and benefits as for full time staff. For SR purpose, they are classified as “Temporary”. This 
+
+arrangement ensures the fair treatment of our people while at the same time allowing the company to have flexibility in resource planning, to 
+
+meet the fluctuating market demand. 
+
+
+
+
+20 
+
+ 
+
+By Employment Type 
+
+ 
+
+FY2016 
+
+FY2017 
+
+Region 
+
+Full time 
+
+Part time 
+
+Full time 
+
+Part time 
+
+Singapore 
+
+263 
+
+0 
+
+306 
+
+0 
+
+Indonesia 
+
+24 
+
+0 
+
+37 
+
+0 
+
+Malaysia  
+
+71 
+
+0 
+
+82 
+
+0 
+
+ 
+
+Penguin has made efforts to promote a more gender-balanced workforce. While the marine and offshore 
+
+industry is traditionally male-dominated, Penguin is proud to have a female Executive Director on our Board of 
+
+Directors, and female employees in traditionally male-dominant roles such as ship design and ship repair. In 
+
+FY2017, we also recruited four female Design Engineers for our Design and Engineering team. 
+
+ 
+
+b. Workplace Diversity and Fairness 
+
+ Policies and Practices 
+
+Being a signatory to TAFEP since 2014, we strictly follow 
+
+to the five principles of fair employment where hiring 
+
+practices are fair, merit-based and non-discriminatory. 
+
+Fair employment practices also allows us to attract 
+
+people of the right calibre and retain the best talents. 
+
+We also practice an open door policy where employees 
+
+have access to and are encouraged to raise workplace 
+
+concerns to senior management regarding their jobs 
+
+and 
+
+responsibilities. 
+
+Communication 
+
+from 
+
+top 
+
+management regarding company strategies and 
+
+directions are done regularly as well. Figure 10 
+
+summarises the comprehensive policies in place which 
+
+ensures a fair and diverse working environment at 
+
+Penguin. We commit to uphold the highest standards 
+
+as prescribed and strive towards the target of zero 
+
+incidents of discrimination.  
+
+ 
+
+FIGURE 10: PENGUIN’S HUMAN RESOURCE (HR) POLICIES AND PROCEDURES  
+
+Policy 
+
+Objective 
+
+Description 
+
+Fair 
+
+Employment 
+
+Practices 
+
+Outlines various supporting policies and 
+
+procedures on fair employment practices 
+
+and non-discrimination, to ensure 
+
+fairness and diversity at Penguin  
+
+Fair employment practices which ensures 
+
+non-discrimination in the workplace and 
+
+sets guidelines on recruitment, appraisals, 
+
+training and development, increment, 
+
+promotions and terminations 
+
+Policy Statement 
+
+Penguin is committed to Fair Employment Practices 
+
+and does not discriminate against any person based 
+
+on his or her:  
+
+• 
+
+Race 
+
+• 
+
+Religion 
+
+• 
+
+Gender 
+
+• 
+
+Age 
+
+• 
+
+Marital status 
+
+• 
+
+Family responsibilities 
+
+• 
+
+Nationality 
+
+• 
+
+Ancestry 
+
+• 
+
+Disability 
+
+• 
+
+Medical condition 
+
+ 
+
+We value and respect each and every employee and 
+
+are committed to training, developing, rewarding and 
+
+promoting employees based on their merits as 
+
+individuals and as team players. 
+
+ 
+
+
+21 
+
+ 
+
+Dispute 
+
+Resolutions 
+
+Upholds fair and honest treatment of 
+
+each employee in all aspects of 
+
+employment 
+
+A reporting channel which addresses 
+
+grievances raised concerning 
+
+dissatisfactions in employment or 
+
+treatment by management or other 
+
+employees. This policy sets out the 
+
+recommended procedures and 
+
+responsibilities to resolve the problems, 
+
+concerns and disagreements 
+
+Harassment  
+
+Ensures a work environment free from all 
+
+forms of discrimination including 
+
+harassment from supervisors, co-workers, 
+
+vendors or customer of Penguin  
+
+Sets out the expected conduct and 
+
+responsibilities of employee and manager 
+
+and lists our procedures when an employee 
+
+makes a harassment claim and follow-up 
+
+actions by management 
+
+Performance 
+
+Management  
+
+Through the use of performance 
+
+evaluation as a tool to evaluate 
+
+effectiveness and adequacy of job 
+
+performance  
+
+Ensures periodic evaluation of each 
+
+employee by respective supervisor to 
+
+monitor individual development and 
+
+performance on the job. 
+
+ 
+
+ 
+
+FIGURE 11: FY2017 WORKFORCE DIVERSITY BY NATIONALITY AND AGE GROUP 
+
+ 
+
+ 
+
+In addition to compliance with relevant laws and regulations, we have a procedure in place to ensure that the 
+
+Group’s labour policy and practices are applied consistently across all operating countries. Our staff enjoy a 
+
+range of welfare and employment benefits, depending on their level of employment.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+22 
+
+ 
+
+Employment Benefits 
+
+All full-time employees enjoy a range of employment benefits from health care insurance5, disability coverage, 
+
+parental leave and retirement provision.  
+
+Training and Development 
+
+We actively promote training and development for all of our staff. Onshore staff undergo training whenever 
+
+there is a change in policies; for example, training on Personal Data Protection Act (PDPA) in July 2017. Seafarers 
+
+are required to obtain relevant certificate of proficiency such as emergency, Standards of Training, Certification 
+
+and Watchkeeping (STCW) for Seafarers and first aid and are routinely encouraged to increase their skillsets and 
+
+get higher certifications to move from Able Bodied Seamen (AB)6 to higher ranks. Similarly, shipyard workers 
+
+undergo both mandatory induction and situational training as they develop their careers in Penguin.  
+
+Performance Appraisals 
+
+Penguin makes no distinction between foreign workers and office staff in awarding recognition and allocating 
+
+annual bonuses. This is particularly unique among shipyards in Singapore. In compliance with the Performance 
+
+Management policy under our HR Manual, annual appraisals have been conducted for 100% our employees in 
+
+FY2016 and FY2017. Performance appraisal methods differ based on employment category and skillsets. For 
+
+onshore staff, the process begins with assessment by supervisors and endorsed by the General Manager. For 
+
+crew members working on board, they are assessed by their Master and endorsed by the Crewing 
+
+Officer/Manager. The offshore crew members who work on engagement basis are assessed over the contractual 
+
+period.  
+
+ 
+
+Performance  
+
+In FY2017, we had a total of 109 new hires and 42 cessations. At Penguin, we believe in employing the best-
+
+qualified and most suitable candidate for any given job. We make a conscious effort to promote age and gender 
+
+diversity. We have partnered with Employment and Employability Institute (e2i) to hire more Singaporeans and 
+
+Permanent Residents (PR) to strengthen our Singaporean core. Through this partnership, we have also actively 
+
+reached out to Singaporean Professionals, Managers, Executives and Technicians (PMETs) who have been 
+
+retrenched or are looking for new job opportunities. We also welcome elderly employees to apply for suitable 
+
+positions. 
+
+For employee turnover, we seek to analyse root causes for voluntary cessations. Most common reason cited by 
+
+foreign workers is a desire to return home to their families. For local employees, reasons include a career change 
+
+or a higher salary from another company. Involuntary cessations are initiated by the company in the form of 
+
+disciplinary dismissal or contractual termination. Figure 12 showcases the breakdown of new hires and turnover 
+
+in FY2017.  
+
+ 
+
+ 
+
+ 
+
+5 As stipulated by respective regulatory bodies in operating countries; including, Ministry of Manpower (MOM) in Singapore, Badan Penyelenggara 
+
+Jaminan Sosial in Indonesia and Social Security Organisation (SOSCO) in Malaysia  
+
+6 Able Seamen (AB) are certified after undergoing training in approved sea-going training ships who have served eighteen months in ships 
+
+
+23 
+
+ 
+
+FIGURE 12: FY2017 NEW HIRE AND TURNOVER BY GENDER, AGE GROUP AND REGION 
+
+ 
+
+ 
+
+ 
+
+Note: Turnover is calculated as a percentage of staff on payroll as of 31 December 2017  
+
+Case Study: Old is Gold at Penguin  
+
+At Penguin, we are constantly on the lookout for the right people who are best suited to our business needs. 
+
+As such we welcome and appreciate elderly employees, as we believe that their experience would be a 
+
+valuable asset to our growing workforce. Several employees were hired when they were over 60 years old. In 
+
+FY2017, we recruited a 64-year-old employee for a managerial position. In addition, one of our Shipyard 
+
+Deputy Managers, who joined us in 2013, turns 67 this year and remains a bastion of our production team. 
+
+ 
+
+In addition, we have several long-service staff who have been with us since our early days and have 
+
+contributed to the growth of Penguin over the years.  As at 31 December 2017, we have 17 employees who 
+
+have worked with us for more than 15 years. Our longest service employee began his career in 1980 and 2017 
+
+marks his 37th year of service. This also makes him our oldest employee at the age of 71!  
+
+97
+
+12
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+Male
+
+Female
+
+Gender
+
+Number of Employees
+
+2.8%
+
+23%
+
+36
+
+68
+
+5
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+&lt;30
+
+30-50
+
+&gt;50
+
+Age Group (Years old)
+
+Number of Employees
+
+1.2%
+
+16%
+
+8.4%
+
+74
+
+19
+
+16
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+Singapore Indonesia Malaysia
+
+Region
+
+Number of Employees
+
+17%
+
+3.7%
+
+4.4%
+
+35
+
+7
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+Male
+
+Female
+
+Gender
+
+Number of Employees
+
+8.2%
+
+1.6%
+
+13
+
+16
+
+13
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+&lt;30
+
+30-50
+
+&gt;50
+
+Age Group (Years old)
+
+Number of Employees
+
+3.1%
+
+3.8%
+
+3.1%
+
+31
+
+6
+
+5
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+Singapore Indonesia Malaysia
+
+Region
+
+Number of Employees
+
+7.3%
+
+1.4%
+
+1.2%
+
+New Hires  
+
+ 
+
+Turnover 
+
+ 
+
+
+24 
+
+ 
+
+7. Safety  
+
+a. Safety on board our vessels for crew and passengers  
+
+Policies and practices  
+
+The Deputy General Manager, supported by Health, Safety and Environment (HSE) Manager oversees and 
+
+enforces safe practices in vessel operations to protect the life and health of our passengers, crew, general public 
+
+and the environment. On board our vessels, the Masters are responsible for ensuring compliance with 
+
+Environment, Health and Safety (ESH) management system as showcased in Figure 13. We also follow Oil and 
+
+Gas Producer (OGP) standards7 and work towards the goal of zero incidents, no harm to people, property and 
+
+the environment. 
+
+FIGURE 13: OVERVIEW OF POLICIES FOR SAFETY ON BOARD FOR CREW AND PASSENGERS 
+
+Policy 
+
+Objective 
+
+Description 
+
+Safety and 
+
+Environment 
+
+Policy 
+
+Statement  
+
+ 
+
+Provide safe and accident-free 
+
+work environment for our 
+
+employees through compliance 
+
+with relevant codes and 
+
+exercised through safe 
+
+practices in vessel operations  
+
+A comprehensive set of policies which guides Penguin 
+
+and all stakeholders on managing various aspects of 
+
+vessel operations (safety, risk assessment, navigation, 
+
+environmental impact assessment and internal audits) 
+
+and their impacts to employees, vessel, the public and 
+
+environment 
+
+Stop Work 
+
+Authority 
+
+Policy 
+
+Protects health and safety of  
+
+employees, co-workers and 
+
+third party personnel and 
+
+surrounding environment 
+
+The policy empowers everyone with the authority to 
+
+stop any unsafe work or operation they encounter in 
+
+the workplace. 
+
+Navigation 
+
+Policy  
+
+Sets out the responsibility of 
+
+the Master which ensures safe 
+
+navigation of vessel and 
+
+protection of vessel, crew, 
+
+cargo and surrounding 
+
+environment from harm 
+
+A set of compliance guidelines to relevant regulations 
+
+such as Collision Regulations, applicable Government 
+
+routing requirements and international rules which 
+
+places safe navigation above all other considerations 
+
+Drug and 
+
+Alcohol Policy 
+
+Statement  
+
+Provide a safe, healthy and 
+
+productive working 
+
+environment for all employees, 
+
+suppliers and visitors 
+
+Describes Pelican’s support towards prohibition of drug 
+
+and alcohol and substance abuse  
+
+ 
+
+FIGURE 14: WORKPLACE SAFETY AND HEALTH INITIATIVES – ON BOARD 
+
+Workplace Safety and Health Initiatives 
+
+Identifying risks  
+
+• Regular maintenance of risk register as stipulated under on-board safety 
+
+management system and ensure that all control measures are implemented 
+
+prior to any work activity on board vessels 
+
+Promoting and 
+
+communicating a no-
+
+• In-house training for crew members  
+
+• Ad-hoc safety training on ferries  
+
+ 
+
+7 Oil and Gas Producers (OGP): https://www.iogp.org/oil-and-gas-safety/ 
+
+
+25 
+
+ 
+
+blame safety culture 
+
+to all stakeholders  
+
+• Inaugural Safety campaign for all crew in ferries and crewboats  
+
+Collaborating with 
+
+external 
+
+stakeholders  
+
+• Took part in MPA’s annual emergency preparedness exercise (FEREX 2016) 
+
+which aimed to test readiness to respond to ferry mishaps in Singapore’s 
+
+waters.  
+
+• Annual ship to shore exercises conducted in accordance with International 
+
+Safety Management (ISM) to identify possible unsafe acts and conditions  
+
+Ensuring 
+
+effectiveness of 
+
+systems, policies and 
+
+actions  
+
+• Regular internal and external audit by third-party certification bodies 
+
+ensuring compliance to elements stated in International Safety Management 
+
+(ISM) Code, International Ship and Port Facility Security (ISPS) Code and 
+
+Maritime Labour Convention (MLC) Code  
+
+• Findings from audit compiled and analysed to deter weakness in the system  
+
+• Grievance reporting channels  
+
+Engaging with 
+
+stakeholders  
+
+• Engaging with stakeholders through survey forms, gather feedback face-to-
+
+face or through email  
+
+ 
+
+To ensure that any non-compliance and control lapses get to be identified as soon as possible, Penguin has 
+
+various reporting channels for different stakeholders as summarised in Figure 15. 
+
+FIGURE 15: GRIEVANCE MECHANISM REPORTING PROCESS 
+
+Stakeholders 
+
+Reporting Channel 
+
+Person-in-charge 
+
+Process to address and resolve 
+
+Crew 
+
+• Master’s Health, 
+
+Safety, Security and 
+
+Environment (HSSE) 
+
+Review 
+
+• Shipboard Meeting 
+
+• Board Complaint Form 
+
+• Non-conformity form 
+
+Based on the nature of 
+
+the grievance raised, it 
+
+will be directed to the 
+
+relevant person-in-
+
+charge (PIC) 
+
+• Verbal feedback is to be 
+
+resolved informally.  
+
+• For more serious cases, 
+
+investigation may be 
+
+conducted by the relevant 
+
+PIC 
+
+• All feedback is consolidated 
+
+and presented during yearly 
+
+management review 
+
+meeting, checking for any 
+
+repeat cases 
+
+Operation staff 
+
+Email 
+
+Telephone 
+
+Face-to-face 
+
+Passenger 
+
+ 
+
+In FY2017, there were several cases raised through the grievance channels which were concerns regarding on-
+
+board working environment, salary, welfare and benefits. Penguin has been actively following up with the 
+
+feedback raised and taking the best efforts to improve working environment on-board and welfare and benefits 
+
+for our crew members. In the subsequent HSSE Review, Penguin will look to see if there have been positive 
+
+changes and strive to provide the best for our crew members and passengers.  
+
+Performance 
+
+Safety statistics for fleet operations are collated for management review every month and reported to the Board, 
+
+quarterly. We uphold a no-blame safety culture and we target zero fatalities, zero lost work day cases, zero 
+
+restricted work day cases and zero medical treatment cases. While we are working hard towards achieving these 
+
+targets, unfortunately, human nature is unpredictable and occasionally, incidents still occur. The key is to 
+
+
+26 
+
+ 
+
+respond swiftly, establish root causes, learn from the incidents and seek to prevent a recurrence. In FY2016 and 
+
+FY2017, there were two reportable incidents in each year. 
+
+In FY2016, both incidents were due to slips and falls - one due to slippery flooring and the other due to a trip 
+
+hazard posed by a mooring rope. In a prompt response to these incidents, we have changed the floor covering 
+
+of the affected vessel during docking in the first incident and issued timely reminders to our crew to use proper 
+
+access methods to enter vessels in the second incident. 
+
+In FY2017, one shipyard employee sustained injuries from knocking against a pipe bracket while working in the 
+
+engine room, while a crew member was scalded by hot water during offshore cargo transfer. For the first 
+
+incident, we took prompt corrective actions to change the position of the pipe bracket and wrap up sharp 
+
+corners on board all vessels under construction, while for the second incident, which occurred offshore, our 
+
+ship management team issued a fleet-wide memo to all crew members to ensure that containers, especially 
+
+liquid containers, are clearly labelled and appropriate warning signs attached before any ship-to-ship transfer is 
+
+carried out.  
+
+While the number of accidents remains unchanged, our Incident Frequency Rate (IFR) has improved from 3.4 in 
+
+FY2016 to 2.9 in FY2017, as our fleet size increased, which led to an increase in total man-hours worked from 
+
+589,044 hours in FY2016 to 668,736 hours in FY2017. 
+
+ 
+
+FIGURE 16: FY2016 AND FY2017 SAFETY STATISTICS - VESSEL OPERATIONS 
+
+FY2016 
+
+FY2017 
+
+Reportable 
+
+Incidents8 
+
+Reportable 
+
+Incident 
+
+Frequency Rate 
+
+(IFR)9 
+
+Reportable 
+
+Incident 
+
+Severity Rate 
+
+(ISR)10 
+
+Reportable 
+
+Incidents 
+
+Reportable 
+
+Incident 
+
+Frequency 
+
+Rate (IFR) 
+
+Reportable 
+
+Incident Severity 
+
+Rate (ISR) 
+
+2 
+
+3.4 
+
+0 
+
+2 
+
+2.99 
+
+0 
+
+ 
+
+Case Study: Providing the best for our crew and passengers 
+
+ 
+
+In accordance with the Maritime Labour Convention (MLC) 2006 regulation, all new vessels above 500 gross 
+
+tons (volumetric space) must meet minimum stipulated living spaces for crew accommodation and offer 
+
+natural lighting and other basic crew amenities. Though this requirement is not applicable to Penguin’s 
+
+crewboats - which are all below 500 gross tons - Penguin took the initiative to design and build an MLC 2006-
+
+certified crewboat based on its new-and-improved Flex-42X hullform. The new vessel, “Pelican Calm”, is the 
+
+world’s first mid-sized crewboat that is MLC 2006-certified. She is currently on a long-term charter to 
+
+ExxonMobil in Malaysia. 
+
+ 
+
+8 Reportable incidents include fatalities, lost work day cases, restricted work day cases and medical treatment cases, not including first aid cases 
+
+9 Reportable Incident Frequency Rate (IFR) is calculated as the total number of reportable incidents per 1 million man-hours worked 
+
+10 Reportable Incident Severity Rate (ISR) is calculated as the total number of medical leave days taken consolidated from the reportable incidents 
+
+per 1 million work hours 
+
+
+27 
+
+ 
+
+ 
+
+Being a member of the Association of Regional Ferry Operators, Penguin also works closely with ferry 
+
+operators and MPA to promote best practice in industry safety standards and foster closer collaboration 
+
+between ferry operators, shipbuilders and the regulator, MPA.  
+
+ 
+
+Above: Penguin is a regular participant in local emergency and military exercises. In one recent exercise, 
+
+Penguin contributed ferries and a VIP boat to a major multi-agency drill involving MPA, the Singapore Civil 
+
+Defence Force (SCDF), the Police Coast Guard, the Republic of Singapore Navy and other ferry operators. 
+
+ 
+
+Above: Adhoc training on the use of stretcher and Cardiopulmonary Resuscitation (CPR) conducted in May 
+
+2017 by office staff to all crew on board vessels docked at Penguin Shipyard in Tuas. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28 
+
+ 
+
+Pelican Gallant to the rescue! 
+
+Pelican Offshore Services is a wholly owned crewboat-owning subsidiary of Penguin International Limited. 
+
+ 
+
+On 2 May 2018 at around 0610 hrs, one of Pelican’s crewboats, “Pelican Gallant”, was transporting workers 
+
+to an offshore location in Malaysia when one of the Able Bodied Seamen (AB) on board spotted a flare and 
+
+thick smoke billowing from a small vessel about two nautical miles away. 
+
+ 
+
+The crew member immediately reported the incident to the Officer-On-Watch and the Master. Through the 
+
+public address system, the Master announced to his crew and passengers that they were changing course to 
+
+render assistance to a distressed vessel.  
+
+  
+
+At 0625 hrs, “Pelican Gallant” arrived on the scene of a wooden fishing boat engulfed in flames. Using the 
+
+vessel’s main fire pump, the Master and crew formed a fire fighting team to rescue the fishermen on board. 
+
+Fifteen minutes later, the fire was promptly extinguished and the fishermen were transferred to another 
+
+fishing boat. “Pelican Gallant” then proceeded on to her intended destination. 
+
+  
+
+Penguin commended the Master and crew of “Pelican Gallant” for their initiative and display of bravery. 
+
+Although the fishing boat could not be salvaged as the fire had burnt through most of it, all the fishermen 
+
+escaped unscathed. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+29 
+
+ 
+
+b. Safety – Occupational health and safety in our shipyards 
+
+Policies and practices  
+
+A dedicated Workplace Safety and Health (WSH) committee that is headed by a General Manager and supported 
+
+by Safety Manager and Safety Coordinator, oversees the workplace health and safety at our shipyards. The 
+
+Committee ensures that safety practices are cascaded down to various unit heads ranging from Yard, Project, 
+
+Quality Assurance (QA) and Engineering departments. We consider safety and health matters as a business 
+
+priority and strive to prevent all unacceptable risks in our operations, upholding our commitment towards zero 
+
+reportable incidents. Figures 17 and 18 showcase the policies applicable to our shipyards as well as the relevant 
+
+initiatives.  
+
+ 
+
+FIGURE 17: OVERVIEW OF POLICIES FOR OCCUPATIONAL HEALTH AND SAFETY AT SHIPYARDS 
+
+Policy 
+
+Objective 
+
+Description 
+
+Harmonised 
+
+Safety Policy – 
+
+Workforce 
+
+Safety &amp; Health 
+
+Policy 
+
+ 
+
+Ensures vessel construction and 
+
+repair activities are conducted in a 
+
+safe and environmentally 
+
+responsible manner through 
+
+compliance with all applicable 
+
+legislations, regulations, code of 
+
+practices and standards. 
+
+The policy includes a set of procedures for 
+
+Workplace Safety and Health Management System 
+
+(WSHMS) and WSH Policy and Responsibilities. It 
+
+sets out the safe work procedures covering all forms 
+
+of activities at both shipyards as well as the various 
+
+responsibilities of all stakeholders involved 
+
+Harmonised 
+
+Drug Policy 
+
+Ensures provision and 
+
+maintenance of a safe, healthy and 
+
+productive working environment 
+
+for all employees. At no time shall 
+
+any employee be under the 
+
+influence of alcohol or drugs. 
+
+• Penguin has zero tolerance towards abuse of 
+
+drugs or alcohol by any employee, subcontractor 
+
+or other person whilst under the employment or 
+
+contract of the Company and its subsidiaries.  
+
+• Comprises of guidelines and disciplinary actions 
+
+which may result from any non-compliance of the 
+
+policy 
+
+ 
+
+FIGURE 18: WORKPLACE SAFETY AND HEALTH (WSH) INITIATIVES – SHIPYARD 
+
+Workplace Safety and Health Initiatives 
+
+Identifying risks  
+
+• Regular maintenance of risk register and ensure that all control measures are 
+
+implemented prior to any work activity at both shipyards 
+
+ 
+
+Promoting and 
+
+communicating a no-
+
+blame safety culture 
+
+to all stakeholders  
+
+Subcontractors who provide manpower are subjected to the same health and safety 
+
+standards as set out in the terms and condition of their contract. 
+
+ 
+
+Mandatory training - Shipyard Safety Instruction Course (SSIC) 
+
+• All staff are equipped with relevant skillsets and appropriate certifications.  
+
+o Mandatory Shipyard Safety Instruction Course (SSIC) is conducted for all before 
+
+entering shipyards or commencing of any works   
+
+o Yard Safety Orientation for all yard employees, subcontractors within the first 
+
+week of commencement of employment or work 
+
+ 
+
+
+30 
+
+ 
+
+Ad-hoc and situational training 
+
+All workers in both shipyards who require additional skills or qualification to perform 
+
+specific scope of work are sent for training, such as Mobile Elevating Work Platforms 
+
+(MEWP) and forklifts operation, erecting scaffolding, welding and fire watchman 
+
+responsibilities. 
+
+Safety Meetings 
+
+• Daily Safety Toolbox Meeting for all shipyard employees, workers and 
+
+subcontractors 
+
+• Monthly safety meetings are held to reinforce compliance and constantly 
+
+ensuring safety awareness for all working at shipyard 
+
+ 
+
+Safety Awards  
+
+• Monthly Safe Workers Award held to recognise workers with excellent WSH 
+
+performance. Workers nominated by project managers or supervisors (or through 
+
+self-nomination) will be monitored for one to two weeks before being conferred 
+
+the award. 
+
+Ensuring 
+
+effectiveness of 
+
+systems, policies and 
+
+actions  
+
+• Daily routine safety inspection to ensure compliance of statutory requirements 
+
+• Monthly inspections by WSH committee 
+
+• Statutory maintenance for equipment and machineries in bi-yearly, yearly and 
+
+monthly intervals 
+
+• Regular Safety and Health Management Systems (SHMS) audit conducted by 
+
+Ministry of Manpower (MOM) to review Workplace Safety Health Management 
+
+Systems (WSHMS), Risk Assessment (RA), Safety Promotional and Environmental 
+
+Management programmes. Audit recommendations from are acted on timely 
+
+basis to improve shipyard processes.  
+
+Obtaining 
+
+certifications 
+
+• Annual certification for Gas Meter Calibration 
+
+• Annual tests of Fire-fighting systems  
+
+• BizSafe certification conducted once every three years  
+
+ 
+
+Case Study: New implementation of Gangway Tagboard Display system 
+
+ 
+
+To facilitate the purpose of headcount during emergency evacuations and rescue, Penguin has implemented 
+
+a Gangway Tagboard Display System which accounts for the number of working personnel on a particular 
+
+vessel or present inside the subjected confined area at any one time. All yard personnel including 
+
+subcontractors are issued with their respective dual passes, 'G' and 'C' tags. Before boarding the vessel, the 
+
+'G' tag is to be displayed on the Gangway Tagboard (left) and 'C' tag on the permit display board of any 
+
+confined space (right) with valid entry permit before entering the subject confined space. From the displayed 
+
+tags, we are able to account for the number of personnel working on board or present within a confined 
+
+space.  
+
+ 
+
+ 
+
+
+31 
+
+ 
+
+ 
+
+ 
+
+Performance 
+
+Our reporting process of safety statistics at shipyards are in line with reporting process for vessels, following the 
+
+same frequency. We align ourselves to the Workforce Safety and Health (Shipbuilding and Ship Repair) 
+
+Regulations 2008. In FY2017, there were a total of four reportable incidents which were due to workplace 
+
+accidents where employees sustained minor cuts, sprains and fractures during work. In FY2016, there were no 
+
+reportable incidents. The increase in the number of reportable incidents reflects an increase in shipyard 
+
+activities in FY2017, following a lull in FY2016 
+
+We analyse each and every incident to identify the root cause and ensure corrective actions are in place to 
+
+prevent re-occurrence and enhance our overall risk mitigation and management system. Through continuous 
+
+promotion of a safety culture and more stringent inspections, we are working towards a zero-incident work 
+
+environment. 
+
+ 
+
+FIGURE 19: FY2016 AND FY2017 SAFETY STATISTICS – SHIPYARD  
+
+Country 
+
+FY2016 
+
+FY2017 
+
+Reportable 
+
+Incidents 
+
+Reportable 
+
+Incident 
+
+Frequency 
+
+Rate (IFR) 
+
+Reportable 
+
+Incident 
+
+Severity Rate 
+
+(ISR) 
+
+Reportable 
+
+Incidents 
+
+Reportable 
+
+Incident 
+
+Frequency 
+
+Rate (IFR) 
+
+Reportable 
+
+Incident 
+
+Severity Rate 
+
+(ISR) 
+
+Singapore 
+
+0 
+
+0 
+
+0 
+
+4 
+
+5.81 
+
+42.57 
+
+Batam 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+ 
+
+ 
+
+
+
+
+
+
+32 
+
+ 
+
+8. Environment  
+
+a. Energy Consumption Management and Greenhouse Gas (GHG) Emissions 
+
+Policies and practices  
+
+Besides social considerations, Penguin also makes a conscious effort to manage the environmental impact 
+
+created by our operations. While a formal policy on energy management is not yet in place, the practice of 
+
+monitoring our energy consumption is a regular practice. The fuel consumption for our vessels in particular is 
+
+recorded and tracked on daily basis. Any irregularities are identified and explained. Our Planned Maintenance 
+
+System, which follows the engine markers’ recommendations closely, are carried out diligently to ensure engine 
+
+optimal performance and efficiency.  
+
+In addition to operational energy efficiency, we also strive to create more energy efficient products through 
+
+research and development. One of the success stories is the usage in Penguin’s Flex crewboats of Baudouin 
+
+engines, which were previously used primarily on fishing boats and passenger ferries in Europe. Baudouin 
+
+engines, though still conventionally diesel powered, are smaller, lighter and more fuel efficient than the 
+
+Cummins engines that Penguin had previously installed on their Flex crewboats. Significantly, the smaller-and-
+
+lighter Baudouin engines produced the same speed as the larger-and-heavier Cummins engines.  
+
+The idea resulted in meaningful improvements in fuel efficiency, as evidenced by their popularity among oil 
+
+majors in Thailand and Malaysia. While seeking out lighter equipment and materials to further improve the fuel 
+
+efficiency of our Flex designs, we are also actively exploring the use of alternative energy sources for our 
+
+newbuilds.  
+
+As a designer, builder, owner and operator of high-speed aluminium vessels with a strong balance sheet, 
+
+Penguin is well-positioned to lead the industry in the commercialisation of alternative-fuelled vessels for 
+
+Singapore and beyond.  
+
+Performance - Shipyards 
+
+At our shipyards, the energy consumption includes direct energy from fuel and electricity purchased from the 
+
+grid. The top three fuels consumed are diesel, lubricant (lube oil) and waste oil used in operation of heavy 
+
+machinery, fork lifts and motor vehicles respectively, in our Tuas and Batam shipyards. During the year, total 
+
+energy consumed increased by 16% due to the increase in projects and operations at both our shipyards.  Our 
+
+total energy consumption from fuel and purchased electricity was at 9,924 GJ (Figure 21), translating to a total 
+
+of 1,281 tonnes of Scope 1 and Scope 2 CO2 emissions11 (Figure 23) combined.    
+
+We measure and manage our energy intensity by both quantity of material usage and number of working hours. 
+
+It is to take into account the different energy intensities of different phases of ship fabrication and different 
+
+activities at shipyards. For example, in general, the plate cutting phase takes relatively less energy to process a 
+
+larger quantity of material, as compared to welding. Ship repair activities require more man hour and consume 
+
+ 
+
+11 Emission factors were derived from the 2006 Intergovernmental Panel on Climate Change (IPCC) Guidelines for National Greenhouse Gas 
+
+Inventories 
+
+
+33 
+
+ 
+
+more energy while use fewer material.  There was an improvement in both intensities by tonnage of aluminium12 
+
+and by man hours in FY2017 as demonstrated in Figure 21. 
+
+FIGURE 20: FUEL AND ELECTRICITY CONSUMPTION – SHIPYARDS 
+
+ 
+
+FIGURE 21: TOTAL ENERGY CONSUMPTION AND INTENSITY – SHIPYARDS  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 Aluminium tonnage is calculated based on the total aluminum ordered and delivered for the respective year. This takes into account both usage 
+
+and wastage of aluminium. 
+
+1,213
+
+1,250
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+1600
+
+FY2016
+
+FY2017
+
+Electrcity Consumption (MWh)
+
+4,180
+
+5,423
+
+0
+
+1000
+
+2000
+
+3000
+
+4000
+
+5000
+
+6000
+
+FY2016
+
+FY2017
+
+Fuel Consumption (GJ)
+
+8,549
+
+9,924
+
+13.2
+
+11.7
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+FY2016
+
+FY2017
+
+Total energy consumption (GJ)
+
+Energy Intensity per '000 manhours (GJ / '000 manhours)
+
+Total Energy Consumption (GJ)
+
+Energy Intensity by manhours
+
+(GJ / '000 manhours)
+
+8,549
+
+9,924
+
+135.0
+
+33.9
+
+0.00
+
+20.00
+
+40.00
+
+60.00
+
+80.00
+
+100.00
+
+120.00
+
+140.00
+
+160.00
+
+0
+
+2000
+
+4000
+
+6000
+
+8000
+
+10000
+
+12000
+
+FY2016
+
+FY2017
+
+Total energy consumption (GJ)
+
+Energy Intensity per ton of aluminium (GJ / ton)
+
+Total Energy Consumption (GJ)
+
+Energy Intensity by tonnage of aluminium
+
+(GJ / ton)
+
+
+34 
+
+ 
+
+FIGURE 22: DIRECT (SCOPE 1) AND ENERGY INDIRECT (SCOPE 2) GHG EMISSIONS – SHIPYARDS  
+
+ 
+
+ 
+
+FIGURE 23: TOTAL GHG EMISSIONS AND INTENSITY – SHIPYARDS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+311
+
+403
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+FY2016
+
+FY2017
+
+Direct (Scope 1) GHG Emissions 
+
+(tonnes CO2)
+
+851
+
+879
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+FY2016
+
+FY2017
+
+Energy Indirect (Scope 2) GHG Emissions 
+
+(tonnes CO2)
+
+1,161
+
+1,282
+
+1.79
+
+1.52
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+1.20
+
+1.40
+
+1.60
+
+1.80
+
+2.00
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+FY2016
+
+FY2017
+
+Total  GHG Emissions (tonnes CO2)
+
+Emission Intensity by '000 manhours
+
+(tonnes CO2 / '000 manhours)
+
+Total GHG Emissions (tonnes CO2)
+
+GHG Emissions Intensity by '000 manhours
+
+(tonnes CO2 / '000 manhours)
+
+1,161
+
+1,282
+
+18.34
+
+4.38
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+16
+
+18
+
+20
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+FY2016
+
+FY2017
+
+Total  GHG Emissions (tonnes CO2)
+
+Emission Intensity by tonnage of aluminium
+
+(tonnes CO2 / ton)
+
+Total GHG Emissions (tonnes CO2)
+
+GHG Emissions Intensity
+
+by tonnage of aluminium 
+
+(tonnes CO2 / ton)
+
+
+35 
+
+ 
+
+Performance – Vessel Operations 
+
+For our vessels, we only use Marine Diesel Oil (MDO). It is the sole source of energy on board and results in only 
+
+Direct Scope 1 emissions. A total of 44,147 GJ of MDO was consumed in FY2017 translating to 3,287 tonnes of 
+
+CO2 emissions13.  
+
+The significant increase in MDO consumed is attributed to the increase in fleet size of 30 managed in FY2017 as 
+
+compared to 20 in FY2016. Even though MDO used on board Penguin’s vessels are provided by the charterers, 
+
+we have a fuel consumption tracking system which reports daily fuel consumption with use of a flow meter to 
+
+identify any irregularities at the soonest. In addition, our planned maintenance schedule ensures that our 
+
+engines operate as recommended by the engine makers to ensure optimal performance. Thus, this regulates 
+
+fuel usage which also leads to the management of vessel emissions explained in the next section.  
+
+ 
+
+FIGURE 24: TOTAL FUEL CONSUMPTION AND GHG EMISSIONS AND INTENSITIES – VESSELS 
+
+ 
+
+b. Vessel Emissions  
+
+Marine Fuel Sulphur Limit under MARPOL Annex VI states that sulphur content of any fuel oil used on board 
+
+outside an Emission Control Area (ECA)14 is to be reduced from 3.5% in 2012 to 0.50% on and after 1 January 
+
+202015. Penguin has achieved this standard ahead of time as we use low sulphur content diesel in crew boat 
+
+operations (maximum of 0.35% sulphur content) and ultra-low sulphur content diesel (0.005%) for our domestic 
+
+ 
+
+13 As extracted from European Commission: Quantification of emissions from ships associated with ship movements between ports in the European 
+
+Community, emission factor of MDO is 3179 kg/tonne fuel   
+
+14 The ECA established include the Baltic Sea area, North Sea area, North American area and United States Caribbean Sea area of which Penguin’s 
+
+vessels do not cross into these areas.  
+
+15 Marine and Port Authority of Singapore is a party to the Annex IV of the International Convention for the Prevention of Pollution from Ships 
+
+(MARPOL 73/78) and subscribes to all regulations therein.  
+
+36,323
+
+44,147
+
+11.13
+
+10.46
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+14
+
+0
+
+5000
+
+10000
+
+15000
+
+20000
+
+25000
+
+30000
+
+35000
+
+40000
+
+45000
+
+50000
+
+FY2016
+
+FY2017
+
+Total energy consumption (GJ)
+
+Energy Intensity by running hours (GJ / running hour)
+
+Total Energy Consumption (GJ)
+
+Energy Intensity by running hours
+
+(GJ / running hour)
+
+2,704
+
+3,287
+
+0.83
+
+0.78
+
+0.0
+
+0.1
+
+0.2
+
+0.3
+
+0.4
+
+0.5
+
+0.6
+
+0.7
+
+0.8
+
+0.9
+
+1.0
+
+0
+
+500
+
+1000
+
+1500
+
+2000
+
+2500
+
+3000
+
+3500
+
+FY2016
+
+FY2017
+
+Total GHG Emissions (tonne CO2)
+
+GHG Emissions Intensity by running hours
+
+(tCO2 / running hour)
+
+Total GHG Emissions (tonnes CO2)
+
+GHG Emissions Intensity by running hours
+
+(tCO2 / running hour)
+
+
+36 
+
+ 
+
+ferry operations. Figure 25 shows the breakdown of NOx, SOx and Particulate Matter (PM) emitted from the use 
+
+of MDO in our vessels16. 
+
+FIGURE 25: SIGNIFICANT17 AIR EMISSIONS FROM VESSEL OPERATIONS  
+
+Air emissions (tonnes) 
+
+FY2016 
+
+FY2017 
+
+NOx 
+
+53.6 
+
+65.2 
+
+SOx 
+
+45.9 
+
+55.8 
+
+PM 
+
+5.18 
+
+6.30 
+
+ 
+
+9. Corporate Governance 
+
+Regulatory Compliance 
+
+Compliance Management Operating System  
+
+Penguin is committed to fully complying with all legal and other requirements that are applicable to our activities, 
+
+products and services. These requirements include the relevant Primary Legislative Status (Acts) passed by the 
+
+Parliament, the Subsidiary Legislations (Regulations, Notifications and Orders) issued by the relevant 
+
+governmental agencies, and the applicable Singapore Standards and Codes of Practice. Organisations should 
+
+also comply with the relevant industrial standards and codes. 
+
+To enable compliance, Penguin identifies all the legal and other requirements, applicable to our activities, 
+
+products or services. Policies and procedures are then established, implemented and maintained for identifying 
+
+and accessing the legal and other Safety, Health and Environment (HSE) requirements that are applicable to us. 
+
+The policies and procedures undergo regular reviews by General Manager to ensure its continued relevance to 
+
+our business operations.  
+
+Presently, there is no dedicated Compliance team in Penguin. Instead, each function within our organisation is 
+
+responsible for monitoring and reporting compliance matters relevant to their function. These information on 
+
+legal and other requirements are communicated to respective functions, and our business partners such as 
+
+suppliers and subcontractors. 
+
+ 
+
+Performance 
+
+In FY2016, there were three cases of non-compliances which resulted in two fines and a verbal warning from 
+
+relevant authorities. As disclosed in Figure 26, we have promptly taken corrective actions and were glad to 
+
+achieve zero cases of non-compliance in FY2017. We strive to be well-informed of changes in regulatory 
+
+environment so as to maintain this track record.  
+
+ 
+
+16 Emission factors obtained from the Third IMO Greenhouse Gas Study 2014 from international shipping. For more information, the report is 
+
+accessible at: 
+
+http://www.imo.org/en/OurWork/Environment/PollutionPrevention/AirPollution/Documents/Third%20Greenhouse%20Gas%20Study/GHG3%20E
+
+xecutive%20Summary%20and%20Report.pdf 
+
+17 MDO comprises of mainly hydrocarbons whose combustion results in the release of NOx, SOx and PM as stated in Third IMO Greenhouse Gas 
+
+Study 2014. (See Footnote 16) 
+
+
+37 
+
+ 
+
+FIGURE 26: FY2016 LIST OF NON-COMPLIANCE AND CORRECTIVE ACTIONS TAKEN 
+
+Category 
+
+Description of FY2016 non-compliance cases Corrective actions taken by Penguin  
+
+Customer Health and 
+
+Safety  
+
+In FY2016, a crew was found operating a 
+
+vessel without a valid manning license, 
+
+resulting in a fine of $150. 
+
+• Crew was immediately sent to 
+
+apply for the relevant license 
+
+• For all subsequent operations, 
+
+licenses will be checked before 
+
+the crew is allowed to operate 
+
+the vessel 
+
+Environment 
+
+Mosquito breeding detected in stored tyres 
+
+located at a new fabrication workshop, 
+
+resulting in a fine of $200. 
+
+• Immediate removal of all 
+
+potential breeding areas 
+
+• Fogging is conducted every two 
+
+weeks by third-party pest 
+
+control operators 
+
+Vessel grounded in Labuan Marine 
+
+Recreation Park on 18 Aug 2016 had 
+
+unintentionally deviated from the passage 
+
+plan. The incident was reported to Labuan 
+
+Marine Department. 
+
+ 
+
+A verbal warning was given, due to slight 
+
+damage sustained by rocks and not corals. 
+
+• Penguin promptly sent out an 
+
+alert to its fleet, along with a 
+
+reminder and warning 
+
+• Safety circular comprising 
+
+lessons issued 
+
+ 
+
+Business Ethics  
+
+Fundamental Standard  
+
+Ethical business conduct is core to our business operations. We comply strictly with the Code of Corporate 
+
+Governance 2012 and strive to meet our target of zero lapses with the Code. At Penguin, we have a robust 
+
+business ethics framework with anti-corruption policies in place (Figure 27) that aims to mitigate risk of possible 
+
+improprieties18. All employees of Penguin including full-time, part-time and contract employees are encouraged 
+
+to report, should there be any concerns about possible improprieties in matters of financial reporting or other 
+
+matters, without the fear of retaliatory actions. The Audit Committee is responsible for maintaining, reviewing 
+
+and updating this policy. Should there be any revisions or amendments made, all employees will be notified in 
+
+writing by the Human Resource Department. Figure 28 summarises the procedures for the receipt, retention 
+
+and treatment of every complaint raised. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18 Possible Improprieties refers to any activity, breach of business conduct and ethics or omission by an Employee of the Group; or any concerns 
+
+regarding accounting or auditing matters, internal controls or internal accounting controls and other operational matters that are questionable or 
+
+not in accordance with generally accepted accounting practices or trade practices prescribed by the Group 
+
+
+38 
+
+ 
+
+FIGURE 27: ANTI-CORRUPTION POLICIES 
+
+ 
+
+* Conflict of Interest Policy is applicable for purchasing department on all purchasing decisions 
+
+ 
+
+FIGURE 28: PENGUIN'S WHISTLE BLOWING POLICY 
+
+1. Submission of Complaint 
+
+2. Receipt of Complaint 
+
+• The complaint shall be lodged in person or in 
+
+writing with the Chairman of the AC providing 
+
+personal particulars to allegations so as to trigger 
+
+follow-up questions and investigations 
+
+• The identity of the complainant shall be 
+
+confidential where possible 
+
+• Upon receipt of any complaint, the AC may conduct 
+
+its own investigation or review where Internal 
+
+Auditor (IA) may be involved in relevant 
+
+investigations, taking appropriate actions in the 
+
+best interests of the Group 
+
+• All complaints received will be maintained in a 
+
+Complaints Register for documentation purposes 
+
+and made available for inspection upon any 
+
+request by investigating authorities  
+
+3. Review and Investigation of Complaint 
+
+4. Frivolous or Malicious Complaints 
+
+• For investigations or reviews conducted by AC, 
+
+they will be responsible for informing the 
+
+complainant of the likely timeline for a final 
+
+response and notify them of any actions taken 
+
+where required  
+
+• For any complaints filed frivolously, in bad faith, in 
+
+abuse of these policies and procedures, with 
+
+malicious or mischievous intent will not be 
+
+protected by this document  
+
+• Administrative or disciplinary actions (may include 
+
+termination of employment or contract) may ensue  
+
+ 
+
+Performance 
+
+In FY2016 and FY2017, we are proud to announce that we have zero reported cases of anti-corruption. Penguin 
+
+has zero tolerance towards any forms of corruption or financial improprieties and this message is clearly 
+
+communicated to all employees. From the signing of the letter of appointment, employees are informed of the 
+
+policies and the communication is further reinforced during their mandatory orientation upon commencement.  
+
+
+
+
+39 
+
+ 
+
+GRI Content Index  
+
+GRI Standard 
+
+Disclosure 
+
+Reference 
+
+Disclosure 
+
+Location or reason for omission 
+
+GRI 101: Foundation 2017 [There are no disclosures in this section] 
+
+GRI 102: General Disclosures 2017 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-2 
+
+Activities, brands, products, and services 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-3 
+
+Location of headquarters 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-4 
+
+Location of operations 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-5 
+
+Ownership and legal form 
+
+About Penguin International 
+
+Limited 
+
+Annual Report  
+
+Pg. 2 
+
+ 
+
+Pg. 10-11 
+
+102-6 
+
+Markets served 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-7 
+
+Scale of the organisation 
+
+About Penguin International 
+
+Limited 
+
+Pg. 2 
+
+102-8 
+
+Information on employees and other workers 
+
+Highlights for FY2017;  
+
+Staff Demographics 
+
+Pg. 4 
+
+Pg. 19-20 
+
+102-9 
+
+Supply chain 
+
+Sustainability Strategy 
+
+Pg. 13-17 
+
+102-10 
+
+Significant changes to the organisation and its supply 
+
+chain 
+
+Sustainability Strategy  
+
+Pg. 13-17 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Corporate Governance;  
+
+Annual Report  
+
+Pg. 37 
+
+Pg. 31 
+
+102-12 
+
+External initiatives 
+
+Not applicable  
+
+102-13 
+
+Membership of associations 
+
+Key memberships include Association of Regional 
+
+Ferry Operators (ARFO), Association of Singapore 
+
+Marine Industries (ASMI), Singapore Shipping 
+
+Association (SSA) and Singapore National 
+
+Employers Federation (SNEF) 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Board Statement 
+
+Pg. 6 
+
+Ethic and Integrity 
+
+102-16 
+
+Values, principles, standards, and norms of 
+
+behaviour 
+
+Highlights for FY2017;  
+
+Corporate Governance 
+
+Pg. 5 
+
+Pg. 36-38 
+
+102-17 
+
+Mechanisms for advice and concerns about ethics 
+
+Corporate Governance; 
+
+Annual Report  
+
+Pg. 37-38 
+
+Pg. 33 
+
+Governance 
+
+102-18 
+
+Governance Structure 
+
+Sustainability Governance 
+
+Pg. 6 
+
+102-22 
+
+Composition of the highest governance body and its 
+
+committees 
+
+Annual Report  
+
+Pg. 25-27 
+
+102-23 
+
+Chair of the highest governance body  
+
+Annual Report  
+
+Pg. 27-28 
+
+102-24 
+
+Nominating and selecting the highest governance 
+
+body  
+
+Annual Report  
+
+Pg. 26 
+
+102-26 
+
+Role of highest governance body in setting purpose, 
+
+values and strategy  
+
+Board Statement; 
+
+Annual Report  
+
+Pg. 6 
+
+Pg. 25 
+
+102-29 
+
+Identifying and managing economic, environmental, 
+
+and social impacts  
+
+Board Statement 
+
+Pg. 6 
+
+
+40 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Reference 
+
+Disclosure 
+
+Location or reason for omission 
+
+102-32 
+
+Highest governance body’s role in sustainability 
+
+reporting 
+
+Sustainability Governance 
+
+Pg. 6 
+
+102-35 
+
+Remuneration policies  
+
+Annual Report  
+
+Pg. 30-31 
+
+102-36 
+
+Process for determining remuneration  
+
+Annual Report  
+
+Pg. 30-31 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement  
+
+Pg. 7-8 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not applicable as Penguin International Limited is 
+
+not unionised 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholder Engagement 
+
+Pg. 7-8 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholder Engagement 
+
+Pg. 7-8 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+Pg. 7-8 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the consolidated financial 
+
+Annual Report  
+
+Pg. 51, 53 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+About the Report 
+
+Pg. 3 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+102-48 
+
+Restatement of information 
+
+This is Penguin’s Inaugural Sustainability Report 
+
+102-49 
+
+Changes in reporting 
+
+This is Penguin’s Inaugural Sustainability Report 
+
+102-50 
+
+Reporting period 
+
+1 January 2017 – 31 December 2017 
+
+102-51 
+
+Date of most recent report 
+
+This is Penguin’s Inaugural Sustainability Report 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+About the Report 
+
+Pg. 3 
+
+102-54 
+
+Claims of reporting in accordance with the GRI 
+
+Standards 
+
+About the Report 
+
+Pg. 3 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+Pg. 39-42 
+
+102-56 
+
+External assurance 
+
+Penguin has not sought external assurance for 
+
+this inaugural report.  
+
+ 
+
+ 
+
+ 
+
+
+41 
+
+ 
+
+ 
+
+Material matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Description 
+
+Location or reason for omission 
+
+Product Quality and Stewardship 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy 
+
+Pg. 13-17 
+
+103-3 
+
+Evaluation of the management approach 
+
+Sustainability Strategy 
+
+Pg. 13-17 
+
+Economic Resilience  
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Economic Resilience 
+
+Pg. 14 
+
+Pg. 18 
+
+103-3 
+
+Evaluation of the management approach 
+
+Sustainability Strategy 
+
+Pg. 14 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+Economic Resilience 
+
+Pg. 18 
+
+Business Ethics 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Corporate Governance 
+
+Pg. 13 
+
+Pg. 37-38 
+
+103-3 
+
+Evaluation of the management approach 
+
+Corporate Governance 
+
+Pg. 37-38 
+
+GRI 205: Anti- 
+
+Corruption 2016 
+
+205-2 
+
+Communications and training about anti-
+
+corruption policies and procedures 
+
+Corporate Governance 
+
+Pg. 38 
+
+205-3 
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+Corporate Governance 
+
+Pg. 38 
+
+Regulatory Compliance  
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Corporate Governance 
+
+Pg. 13 
+
+Pg. 36-37 
+
+103-3 
+
+Evaluation of the management approach 
+
+Corporate Governance 
+
+Pg. 36-37 
+
+GRI 307: Environmental 
+
+Compliance 2016 
+
+307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Corporate Governance 
+
+Pg. 36-37 
+
+GRI 416: Customer 
+
+Health and Safety 2016 
+
+416-2 
+
+Incidents of non-compliance concerning 
+
+the health and safety impacts of products 
+
+and services 
+
+Corporate Governance 
+
+Pg. 36-37 
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance 2016 
+
+419-1 
+
+Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area 
+
+Corporate Governance 
+
+Pg. 36-37 
+
+Energy Consumption Management 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Energy Consumption 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 16 
+
+Pg. 32-35 
+
+103-3 
+
+Evaluation of the management approach 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 32-35 
+
+
+42 
+
+ 
+
+Material matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Description 
+
+Location or reason for omission 
+
+GRI 302: Energy 2016 
+
+302-1 
+
+Energy consumption within the 
+
+organisation 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 32-33, 35 
+
+302-3 
+
+Energy Intensity 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 33, 35 
+
+Greenhouse Gas (GHG) Emissions 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Energy Consumption 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 16 
+
+Pg. 32-35 
+
+103-3 
+
+Evaluation of the management approach 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 32-35 
+
+GRI 305: Emissions 
+
+2016 
+
+305-1 
+
+Direct (Scope 1) GHG emissions 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 32, 34 
+
+305-2 
+
+Energy indirect greenhouse gas (GHG) 
+
+emissions (Scope 2) 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 32, 34 
+
+305-4 
+
+GHG emissions intensity 
+
+Energy Consumption; 
+
+Management and GHG 
+
+Emissions 
+
+Pg. 34 
+
+Vessel Emissions 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Vessel Emissions 
+
+Pg. 16-17 
+
+Pg. 35-36 
+
+103-3 
+
+Evaluation of the management approach 
+
+Vessel Emissions 
+
+Pg. 35-36 
+
+GRI 305: Emissions 
+
+2016 
+
+305-7 
+
+Nitrogen oxides (NOX), sulphur oxides 
+
+(SOX), and other significant air emissions 
+
+Vessel Emissions 
+
+Pg. 36 
+
+Workplace Diversity, Fairness and Retention 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Workplace Diversity and 
+
+Fairness 
+
+Pg. 15 
+
+Pg. 20-23 
+
+103-3 
+
+Evaluation of the management approach 
+
+Workplace Diversity and 
+
+Fairness 
+
+Pg. 20-23 
+
+GRI 401: Employment 
+
+2016 
+
+ 
+
+401-1 
+
+New employee hires and employee 
+
+turnovers 
+
+Workplace Diversity and 
+
+Fairness 
+
+Pg. 22-23 
+
+401-2 
+
+Benefits provided to full- time employees 
+
+that are not provided to temporary or 
+
+part- time employees 
+
+Workplace Diversity and 
+
+Fairness 
+
+Pg. 21-22 
+
+GRI 404: Training and 
+
+Education 2016 
+
+404-3 
+
+Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews 
+
+Workplace Diversity and 
+
+Fairness 
+
+Pg. 22 
+
+GRI 405: Diversity and 
+
+Equal Opportunity  
+
+2016 
+
+405-2 
+
+Ratio of basic salary and remuneration of 
+
+women to men 
+
+Due to the nature of our industry, many of the 
+
+positions are filled by male personnel, the 
+
+average data in this case will not be reflective. 
+
+
+43 
+
+ 
+
+Material matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Description 
+
+Location or reason for omission 
+
+Safety (Safety on Board for Crew and Passengers and Occupational Health and Safety at Shipyards) 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary 
+
+Materiality Assessment 
+
+Pg. 9-12 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Strategy; 
+
+Safety 
+
+Pg. 14-15 
+
+Pg. 24-31 
+
+103-3 
+
+Evaluation of the management approach 
+
+Safety 
+
+Pg. 24-31 
+
+GRI 403: Occupational 
+
+Health and Safety 2016 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work- 
+
+related fatalities 
+
+Safety 
+
+Pg. 25-26, 31 
+
+ 
+
+ 
+

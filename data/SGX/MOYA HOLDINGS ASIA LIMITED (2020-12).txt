@@ -1,0 +1,4038 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Incorporated in the Republic of Singapore)
+
+Company Registration No. 201301085G
+
+65 Chulia Street
+
+OCBC Centre #37-08
+
+Singapore 049513
+
+Tel +65 6365 0652 
+
+Fax +65 6365 1025
+
+Website: www.moyaasia.com
+
+Email: enquiry@moyaasia.com
+
+SUSTAINABILITY REPORT 2020
+
+
+
+
+
+
+
+
+
+
+
+STEADFAST
+
+SUSTAINABILITY 
+
+IN UNPRECEDENTED TIMES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chairman and CEO Statement
+
+01
+
+Sustainability Management
+
+04
+
+Stakeholder Engagement
+
+06
+
+Materiality Assessment
+
+08
+
+Environmental Protection
+
+13
+
+Social Responsibility
+
+16
+
+Regulatory Compliance
+
+23
+
+Notes to the Sustainability Report
+
+24
+
+GRI Index
+
+25
+
+Copyright and Disclaimers
+
+26
+
+TABLE OF
+
+CONTENTS
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+01
+
+DEAR STAKEHOLDERS,
+
+On behalf of the board of directors (“Board”) of Moya Holdings Asia Limited (the “Company” or “Moya”), and 
+
+together with its subsidiaries, (the “Group”), we are pleased to present you with the Company’s Sustainability 
+
+Report (“Report”) for the financial year ended 31 December (“FY”) 2020.
+
+COVID-19: AN UNPRECEDENTED SUSTAINABILITY CHALLENGE
+
+Since the first reported COVID-19 outbreak at the end of 2019, the world and Indonesia continued to grapple 
+
+with a monumental challenge in 2020. As of 10 May 2021, approximately 1.71 million people have been infected 
+
+with COVID-19 in Indonesia. While 1.47 million people have recovered, 46,842 deaths were recorded.1 The World 
+
+Bank has estimated that Indonesia’s GDP contracted by a substantial 2.2% in 2020. In response, the Indonesian 
+
+government disbursed a total of IDR 579.8 trillion in 2020, representing about 3.8 percent of GDP, as part of an 
+
+ongoing national economic recovery program.2 This pandemic is an unprecedented sustainability challenge 
+
+in every sense.
+
+CHAIRMAN AND CEO 
+
+STATEMENT
+
+1 World Health Organization Coronavirus (COVID-19) Dashboard, 10 May 2021 
+
+ 
+
+https://covid19.who.int/
+
+2 International Monetary Fund – Policy Tracker 
+
+ 
+
+https://www.imf.org/en/Topics/imf-and-covid19/Policy-Responses-to-COVID-19#I
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Chairman Kuntoro Mangkusubroto
+
+CEO Mohammad Syahrial
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+02
+
+With the virus mutating into new strains, the world continues to be confronted with a most formidable and 
+
+mortal enemy.3 In the face of this, we are very heartened to see that the world’s best scientists, institutions 
+
+and governments have galvanised themselves to create COVID-19 vaccines in record time. The Indonesian 
+
+government is targeting COVID-19 vaccinations for 181.5 million people, about two-thirds of the population. As 
+
+of 17 May 2021, approximately 9 million people have been fully vaccinated.4 Daily infection rates have started 
+
+to fall from a peak of 14,000 a day to less than 6,000 a day.5 This is a tremendous effort by the Indonesian 
+
+government, which will underpin the country’s steady recovery from the pandemic. We have pledged our full 
+
+support to the Indonesian government in fighting and overcoming this pandemic.
+
+CLIMATE RED ALERT
+
+Amidst the pandemic, the world and Indonesia continue to face many environmental challenges. The World 
+
+Meteorological Report 2020 noted several worrisome climate records in the year, such as increased greenhouse 
+
+gases concentrations, third warmest year in history, and extreme weather conditions.6 Jakarta was affected by 
+
+severe floods at the start of 2020, which also disrupted electricity supply to the city.7
+
+As the climate crisis will slowly but surely impact our water business, the Group is doing its small part by 
+
+committing to reducing our greenhouse gas emissions and carbon footprint with each passing year.
+
+STEADFAST BY OUR PEOPLE
+
+All these public health, climate and economic crises are individually extremely challenging – when they 
+
+converge, humanity may be faced with an existential threat. We must pool all our best minds, communities, 
+
+institutions and governments to vanquish these threats to our people and planet.  In this regard, the Group’s 
+
+business philosophy is, more than ever, a compass for sustainability – everything that matters, is about people. 
+
+Our management re-assessed the Group’s ESG materiality factors for 2020, such that the people-centric issues 
+
+received our priority attention. As a result, Occupation Health and Safety (GRI 403), Local Community (GRI 
+
+413), Socioeconomic Compliance (GRI 419), and Employment (GRI 401) were factors which were elevated in 
+
+our materiality assessment. Our major concerns centred around the safety of our staff as well as the security 
+
+of their employment with the Group.
+
+Our community commitments were not disrupted and were in fact increased. The total number of our 
+
+community service engagements went from 78 to 103 in 2020. We installed public wash basins in multiple public 
+
+locations such as bus-stops to enable the public to commute in a cleaner environment. We also contributed 
+
+water facilities to public kitchens which served emergency hospitals that were built during the height of the 
+
+COVID-19 outbreak. One of our larger community projects includes the river widening projects by PT Aetra Air 
+
+Jakarta (“AAJ”) to help reduce flooding in the Buaran area. In 2020, we also sponsored our first scholarship 
+
+awards to children of Moya’s employees seeking further education in areas that would aid our operations in 
+
+the future.
+
+CHAIRMAN AND CEO 
+
+STATEMENT
+
+3 United States Centers for Disease Control and Prevention
+
+ 
+
+https://www.cdc.gov/coronavirus/2019-ncov/index.html
+
+4 Jakarta’s COVID-19 Response Team, 17 May 2021
+
+ 
+
+https://corona.jakarta.go.id/en
+
+5 Reuters COVID-19 Tracker – Indonesia, 10 May 2021
+
+ 
+
+https://graphics.reuters.com/world-coronavirus-tracker-and-maps/countries-and-territories/indonesia/
+
+6 “State of the Global Climate 2020” – World Meteorological Report
+
+ 
+
+https://public.wmo.int/en/our-mandate/climate/wmo-statement-state-of-global-climate#:~:text=The%20global%20mean%20
+
+temperature%20for,data%20sets%20(Figure%201).
+
+7 Environmental Disasters in 2020
+
+ 
+
+https://www.aa.com.tr/en/environment/environmental-disasters-across-world-in-2020/2082912#
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+03
+
+SUSTAINABLE SAFE OPERATIONS
+
+More than a year from the onset of COVID-19, extensive and strict safety protocols have become the norm in our 
+
+Group. Safe-distancing, remote-working, temperature-screening, contact-tracing, routine work-place sanitising, 
+
+and the use of face masks have all become basic workplace practices. With only 25% of our workforce on 
+
+rotational onsite shift, we have effectively controlled the risk of COVID-19 infections in our operations. In addition, 
+
+we augmented our human resource policy so that we can provide basic healthcare to our employees such 
+
+as free health kits, vitamins and meals. We also ensured that there is practical health education and timely 
+
+information flow across our organisation.
+
+In the densely populated city of Jakarta in which we operate, and like the experience of many large 
+
+organisations, we could not completely protect our staff from COVID-19 infections. However, with strict preventive 
+
+and reactive safety procedures and resources firmly in place, we were able to keep our overall staff exposure 
+
+to COVID-19 infection to under 10% of our total workforce.
+
+STAKEHOLDERS IMPACTS
+
+Our customers and suppliers were not spared by COVID-19. Our commercial and industrial customers 
+
+experienced a sharp decline in their business, which had a knock-on effect on their level of water consumption. 
+
+In these circumstances, management worked closely with customers to resolve their difficulties such as cashflow 
+
+management.
+
+A substantial portion of our overseas suppliers faced shipping delays during the year. Supply chains are 
+
+gradually returning to normal. These disruptions necessitated that the Group seek alternative supply sources, 
+
+which will help to improve our business continuity.
+
+FORGING AHEAD IN OUR CAPACITY
+
+Despite the pandemic, it is critical that the Group forges ahead in providing clean water across Jakarta, so 
+
+that we can steadily help communities reduce the usage of groundwater – an age-old practice in Indonesia 
+
+which has caused significant environmental damage. Importantly, clean water contributes to general hygiene 
+
+and health in the communities and can help reduce the risk of widespread diseases.
+
+In 2020, the Group significantly expanded its operations through the acquisition of Obor Infrastructure Pte. Ltd 
+
+and its subsidiaries, bringing approximately 4,600 litres per second (“lps”) to serve over 2 million population 
+
+in part of Western Jakarta and Tangerang area. The Group’s subsidiary, PT Tirta Kencana Cahaya Mandiri 
+
+(“TKCM”), which supplies clean water to the Tangerang Regency area, also saw its capacity increase from 
+
+1,300 lps to 1,600 lps.
+
+We are also gratified that the Group’s IDR 417 Billion West Semarang Water Supply project, under 
+
+PT Air Semarang Barat (“ASB”), received a “Highly Commended” recognition at the Global Water Awards 
+
+2020 ceremony. ASB commenced commercial operations on 22 May 2021.
+
+A key lesson from the pandemic is the importance of technology. We are committed to continually invest in 
+
+sustainable technologies, especially in our water treatment operations. In February 2020, we further completed 
+
+two new cutting-edge sludge treatment units.
+
+PLEDGE AND APPRECIATION
+
+It is vital that the Group stays steadfast and vigilant through this unprecedented sustainability crisis. This can 
+
+only be accomplished with the strength and cohesion of our team and our families, and the support of all our 
+
+external stakeholders. We would also like to record our appreciation, respect and support to healthcare workers, 
+
+who have, and continue to make immense sacrifices for the nation. We would like to express our heartfelt 
+
+appreciation to our management, staff and partners who have contributed directly and indirectly to this report.
+
+Last but not least, we wish to express our deepest condolences to those who have lost their loved ones to 
+
+COVID-19. We must strive forward and overcome this pandemic together, so that their loss will not be in vain.
+
+CHAIRMAN AND CEO 
+
+STATEMENT
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+04
+
+Chart 1.  Sustainability Organisation Chart
+
+SUSTAINABILITY DIVISION
+
+Moya’s Sustainability strategy is directed by the Board following comprehensive inputs from management’s 
+
+stakeholders engagements. The strategy is then operationalised and fine-tuned through the Sustainability Task 
+
+Force on an ongoing basis. The Sustainability Task Force was formed in FY2017 and has been restructured and 
+
+augmented over the past years.
+
+The Sustainability Task Force is made up of members from the following divisions:
+
+• 
+
+Environmental Protection
+
+• 
+
+Safety, Health, and Compliance
+
+• 
+
+Talent, Human Resource &amp; Labour Practices
+
+• 
+
+Supply Chain &amp; Responsible Procurement
+
+The Sustainability Task Force is headed by Mohamad Selim, CEO of Moya Indonesia Holdings Pte. Ltd. (a wholly 
+
+owned subsidiary of the Company), and assisted by expert external advisors.
+
+SUSTAINABILITY 
+
+MANAGEMENT
+
+
+
+
+
+Audit 
+
+Committee
+
+
+
+
+
+Environmental 
+
+Protection
+
+
+
+
+
+Nominating 
+
+Committee
+
+
+
+
+
+Safety, 
+
+Health and 
+
+Compliance
+
+
+
+
+
+Board of 
+
+Directors
+
+
+
+
+
+Remuneration 
+
+Committee
+
+
+
+
+
+Talent, 
+
+Human 
+
+Resources 
+
+&amp; Labor 
+
+Practices
+
+
+
+
+
+Sustainability 
+
+Task Force
+
+
+
+
+
+Supply 
+
+Chain &amp; 
+
+Responsible 
+
+Procurement
+
+
+
+
+
+GRI 
+
+Sustainability 
+
+Reporting 
+
+Advisers
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+05
+
+SUSTAINABILITY MANAGEMENT: OUR APPROACH
+
+In addition to the economic and financial factors impacting shareholders, Moya undertakes a thorough 
+
+assessment of the material Environmental, Social and Governance (ESG) factors which affect key stakeholders.
+
+Moya’s Sustainability Management Approach is based on two tenets which inform and drive our ESG 
+
+performance – (I) Objectives and (II) Operations.
+
+I. 
+
+OBJECTIVES
+
+Allocate the Group’s resources in an efficient and timely manner (i) to sustain and enhance the Group’s 
+
+positive ESG impacts and (ii) to minimise detrimental impacts.
+
+II. 
+
+OPERATIONS
+
+• 
+
+Identify our key stakeholders and consider how we can collaborate to advance our sustainability 
+
+strategy.
+
+• 
+
+Actively engage with our key stakeholders in the material ESG topics across multiple communication 
+
+platforms.
+
+• 
+
+Continual development and improvement of current polices and reporting procedures.
+
+• 
+
+Review latest data gathering methods in accordance with management criteria, and in compliance 
+
+with international standards to inform management decisions.
+
+• 
+
+Review of past and current sustainability performance with a combination of qualitative and 
+
+quantitative data.
+
+• 
+
+Adopt an innovative perspective to the development of long-term plans and targets.
+
+• 
+
+Improve on the speed and scale of delivery to mitigate adverse impacts caused.
+
+• 
+
+Ongoing investments in our human resource, with an aim to holistically improve our staff.
+
+• 
+
+Training of contractors to educate them on material ESG topics.
+
+THE GRI STANDARDS
+
+To maintain continuity with previous years’ reports, the FY2020 sustainability report is prepared with reference 
+
+to the GRI standards. This report builds upon last year’s performances to provide context to our efforts towards 
+
+our long-term sustainability goals.
+
+We have chosen to report using the GRI standards as it is internationally renowned and is a widely accepted 
+
+reporting framework among the world’s largest corporations. More importantly, the GRI standards are continually 
+
+reviewed and refreshed to maintain relevancy to the ever-changing issues surrounding sustainability, The GRI 
+
+standards framework maintain an expansive scope of reporting surrounding major economic, social, and 
+
+environmental issues.
+
+Material ESG topics identified are assessed and presented with data, where available. Reference to specific 
+
+GRI standard and disclosures are mentioned throughout the report.
+
+SUSTAINABILITY 
+
+MANAGEMENT
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+06
+
+Moya has identified six key stakeholders which are Investors, Customers, Employees, Communities, Suppliers, 
+
+Government and Regulators. As with previous years, we have maintained close relations with all our key 
+
+stakeholder groups through active engagements such as conferences, focus group discussions, interviews, 
+
+and surveys. This allows Moya to accomplish an ongoing conversation with the stakeholders, enabling Moya 
+
+to identify, plan and minimise sustainability-related risks. In 2020, COVID-19 clearly dominated the concerns 
+
+of all stakeholders and the Group endeavoured to support all stakeholder groups in navigating through the 
+
+pandemic.
+
+Evaluation of areas of interests are reflected in the table below.
+
+KEY STAKEHOLDERS
+
+ENGAGEMENT METHODS
+
+TOPICS OF INTEREST
+
+
+
+INVESTORS
+
+• Timely financial results and updates 
+
+through announcements, business 
+
+developments, press releases and 
+
+other relevant disclosures via SGXNet 
+
+and Company’s website
+
+• Investor and Analyst briefings
+
+• Annual General Meeting and 
+
+Extraordinary General Meeting
+
+• Impact of COVID-19 on operations and 
+
+financial results
+
+• Transparency in reporting
+
+• Sound and well-thought-out 
+
+governance practices
+
+• Sustained profitability and enhanced 
+
+value-added shareholder returns
+
+
+
+CUSTOMERS
+
+• Customer satisfaction surveys
+
+• Regular Meetings with Drinking 
+
+Water Customer Committee (Komite 
+
+Pelanggan Air Minum)
+
+• Direct outreach with customers
+
+• Impact of COVID-19 on severely 
+
+affected industries
+
+• Affordable and high-quality water 
+
+supply
+
+• Reasonable pricing for services 
+
+received
+
+• Release of new products and services
+
+• Improved engagement of company to 
+
+queries and complaints
+
+
+
+EMPLOYEES
+
+• Internal communication meetings
+
+• Training and development 
+
+programmes
+
+• Performance appraisals and career 
+
+development initiatives
+
+• Employment questionnaires
+
+• Employee gathering
+
+• Internal media and online 
+
+communications
+
+• Operational changes due to the 
+
+COVID-19 pandemic
+
+• Response to COVID-19 infections and 
+
+basic healthcare
+
+• Fair and equitable treatment
+
+• Learning via T&amp;D programmes to 
+
+enhance skill sets
+
+• Health and safety practices
+
+• Market-competitive wages, 
+
+remuneration and corporate benefits
+
+• Progressive and innovative working 
+
+culture
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+07
+
+KEY STAKEHOLDERS
+
+ENGAGEMENT METHODS
+
+TOPICS OF INTEREST
+
+
+
+COMMUNITIES
+
+• Maintenance of direct communication 
+
+channels
+
+• Community outreach efforts
+
+• Impact of the COVID-19 pandemic on 
+
+the economic situation and health of 
+
+the communities
+
+• Positive engagement of company to 
+
+local conditions
+
+• Improved living conditions directly due 
+
+to company actions and outreach
+
+
+
+GOVERNMENT AND 
+
+REGULATORS
+
+• Meetings and dialogue sessions with 
+
+government bodies
+
+• Meetings and round table discussions 
+
+with industrial bodies and interest 
+
+groups
+
+• Implementation of government 
+
+regulations to control the spread of 
+
+COVID-19 and new variants
+
+• Compliance with all relevant laws and 
+
+regulations
+
+• Strict adherence to pandemic control 
+
+regulations
+
+• Discussions of economic policies to 
+
+mitigate the economic impact of the 
+
+ongoing pandemic
+
+
+
+SUPPLIERS
+
+• Operational reviews
+
+• Outreach to new supply sources
+
+• Impact of the ongoing pandemic on 
+
+supply chains
+
+• Management of supply disruptions
+
+• Expansion of the supplier network
+
+• Fair and respectful treatment
+
+• Responsible procurement practices
+
+• Fulfilment and adherence to 
+
+contractual obligations such as 
+
+payments
+
+Table 1. Stakeholder Engagement
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+08
+
+The material ESG factors have been identified by the Sustainability Task Force through the major issues 
+
+highlighted by stakeholders during the engagement process. The material ESG factors identified remain similar 
+
+to those in previous years in line with the stability of the structure of our business. The set of material ESG factors 
+
+determined in this robust manner ensures relevancy and accuracy.
+
+The Sustainability Task Force assessed and ranked the material ESG factors based on the urgency and scale, 
+
+and it advised management to deploy the Group’s resources accordingly. There was a significant re-ordering 
+
+of the Group’s priorities towards material ESG factors compared to previous years, as we focused on our people 
+
+during the ongoing pandemic. Many social material factors were elevated in our assessments. Occupational 
+
+Health and Safety became the Group’s top ESG concern.
+
+SUSTAINABILITY 
+
+FOCUS AREAS
+
+MATERIAL FACTORS  
+
+(GRI STANDARDS)
+
+RANKING OF 
+
+IMPORTANCE
+
+OWNERSHIP BY IMMEDIATE DEPARTMENT
+
+
+
+ECONOMIC
+
+GRI 205
+
+Anti-Corruption 
+
+2016
+
+10
+
+Internal Control Division
+
+
+
+ENVIRONMENT
+
+GRI 302
+
+Energy 2016
+
+9
+
+Operational Division
+
+GRI 303
+
+Water and Effluents 
+
+2018
+
+2
+
+Operational Division
+
+GRI 305
+
+Emissions 2016
+
+7
+
+Operational Division
+
+GRI 306
+
+Effluents and Waste 
+
+2020
+
+6
+
+Operational Division
+
+GRI 307
+
+Environmental 
+
+Compliance 2016
+
+5
+
+Quality Health Safety and Environmental 
+
+(QHSE) Divisions
+
+
+
+SOCIAL
+
+GRI 401
+
+Employment 2016
+
+8
+
+Human Resource and General Affair Division
+
+GRI 403
+
+Occupation Health 
+
+and Safety 2018
+
+1
+
+Quality Health Safety and Environmental 
+
+(QHSE) Divisions
+
+GRI 404
+
+Training and 
+
+Education 2016
+
+11
+
+Human Resource and General Affair Division
+
+GRI 405
+
+Diversity and Equal 
+
+Opportunity 2016
+
+12
+
+Human Resource and General Affair Division
+
+GRI 413
+
+Local Community 
+
+2016
+
+3
+
+Corporate Secretary
+
+GRI 419
+
+Socioeconomic 
+
+Compliance 2016
+
+4
+
+Governance Relation, License, Human 
+
+Resource and General Affair Division
+
+Table 2. Materiality Assessment
+
+MATERIALITY 
+
+ASSESSMENT
+
+HIGH
+
+HIGH
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+09
+
+
+
+MATERIALITY 
+
+ASSESSMENT
+
+UNITED NATIONS SUSTAINABLE DEVELOPMENT GOALS
+
+5 GENDER  
+
+EQUALITY
+
+6 CLEAN WATER 
+
+AND SANITATION
+
+8 DECENT WORK 
+
+AND ECONOMIC 
+
+GROWTH
+
+13 CLIMATE  
+
+ACTION
+
+16 PEACE, JUSTICE 
+
+AND STRONG 
+
+INSTITUTIONS
+
+GRI STANDARDS
+
+• GRI 405
+
+• GRI 303
+
+• GRI 306
+
+• GRI 401
+
+• GRI 403
+
+• GRI 404
+
+• GRI 413
+
+• GRI 302
+
+• GRI 305
+
+• GRI 205
+
+• GRI 307
+
+• GRI 419
+
+Table 3. GRI Standards congruence with United Nations Sustainable Development Goals
+
+Table 4. Materiality Matrix to showcase the Group’s resource prioritisation
+
+Importance to Stakeholders
+
+Significance of impact
+
+• GRI 303 – Water
+
+• GRI 307 – Environmental 
+
+compliance
+
+• GRI 306 – Effluents and 
+
+Wastes
+
+• GRI 403 – Occupational 
+
+Health and Safety
+
+• GRI 205 – Anti-corruption
+
+• GRI 302 – Energy
+
+• GRI 305 – Emissions
+
+• GRI 413 – Local 
+
+Communities
+
+• GRI 419 – Socioeconomic 
+
+compliance
+
+• GRI 401 – Employment
+
+• GRI 404 – Training and 
+
+Education
+
+• GRI 405 – Diversity and 
+
+Equal Opportunity
+
+LOW
+
+LOW
+
+MEDIUM
+
+HIGH
+
+MEDIUM
+
+HIGH
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+10
+
+ECONOMIC IMPACT OF COVID-19
+
+President Joko Widodo issued a public health emergency decree on 31 March 2020, whereby extensive 
+
+movement restrictions, business and school closures were mandated. Indonesia has also closed its borders to 
+
+international travel, except in special cases. At this time, Indonesia had in place a partial lockdown whereby 
+
+public and commercial activities were restricted to certain hours of the day. These measures are critical to 
+
+prevent the catastrophic spread of COVID-19 in the country. Inevitably, the pandemic control measures had 
+
+major economic consequences across the country. The Group’s management promptly organised its teams 
+
+to work closely with customers and suppliers to tide through the difficult period together.
+
+Impact on Customers
+
+As a result of the lockdowns and border closure, business activities of commercial and industrial customers 
+
+served by the Group decreased and sales volume to these sectors dropped. However, due to an increased 
+
+hygiene awareness during the pandemic, there was an increase in sales volume in the residential sector.
+
+Nonetheless, with a widespread business contraction in the country, many of our customers had to delay their 
+
+bill payments to us, which caused some temporary cashflow disruptions. As restrictions eased in the second 
+
+half of the year, our collections improved. As of 31 December 2020, Moya has managed to maintain a positive 
+
+operating cash flow. With prudent financial management and the support of our banks, we have managed to 
+
+stabilise our business with our customers.
+
+Impact on Suppliers
+
+The COVID-19 pandemic has disrupted businesses and supply chains globally. Several of our suppliers were 
+
+not able to ship out their products in time during the year. In 2020, 60% of Moya’s overseas suppliers faced 
+
+shipping delays, which in turn slowed down some of our operations. In addition, protocols implemented by the 
+
+government also restricted operations in the field. These delays resulted in the rescheduling of various projects, 
+
+such as the construction of Water Treatment Plant-7 at PT Moya Tangerang (“MT”) which was delayed by four 
+
+months, and an uprating project at TKCM, which was delayed by 2 months.
+
+In addition, our management responded by actively sourcing for alternative supply sources. For locally 
+
+sourced materials, alternative suppliers were found for all resources required by the Group. As for imported 
+
+resources, most were requested and received early in the year and had little impact. These actions have been 
+
+incorporated into our business continuity policies and will serve the Group well in the long term.
+
+OCCUPATIONAL HEALTH AND SAFETY (GRI 403)
+
+COVID-19 Safety and Security Measures
+
+In the densely populated city of Jakarta in which we operate, and like the experience of many large 
+
+organisations, we could not completely protect our staff from COVID-19 infections. However, with prompt action 
+
+and strict implementation of safety measures since the onset of COVID-19, we were able to contain the COVID-19 
+
+infection rate to less than 10% of our total workforce. No staff was terminated for any COVID-19-related issues.
+
+The Group mobilised its health, safety, and operational security plan to protect its workforce and water treatment 
+
+facilities at the beginning of the COVID-19 outbreak in Indonesia. Our safety and security policies were then 
+
+expanded in line with the Guidelines for COVID-19 Prevention and Control in the Office and Industrial Workplaces 
+
+issued by the Minister of Health of the Republic of Indonesia.
+
+MATERIALITY 
+
+ASSESSMENT
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+11
+
+
+
+
+
+
+
+
+
+MATERIALITY 
+
+ASSESSMENT
+
+MOYA COVID-19 CONTROL MEASURES IN THE WORKPLACE
+
+Maintaining office 
+
+capacity at 25%
+
+Employees 
+
+taking public 
+
+transportation to 
+
+work to change 
+
+their clothes 
+
+upon arrival.
+
+Employees that 
+
+were on business 
+
+trips must self-
+
+quarantine for 7 
+
+days and show 
+
+their rapid test 
+
+results to HR &amp; 
+
+QHSE if they wish 
+
+to continue their 
+
+office activity.
+
+Splitting operation 
+
+divisions into 
+
+small groups
+
+Proper health 
+
+screening before 
+
+entering work sites 
+
+and temperature 
+
+to be taken before, 
+
+during, and 
+
+after work.
+
+Table 5. Covid-19 measures
+
+Figure 1. Covid-19 safety measures
+
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+12
+
+MATERIALITY 
+
+ASSESSMENT
+
+Several of Moya’s operations which interface with the public at large expose our staff to health and safety 
+
+risks. Management has developed strict ‘health and safety’ protocols when dealing with the public across the 
+
+Group. These initiatives undergo periodic reviews to ensure their operational relevance and effectiveness. These 
+
+measures help to safeguard our employees while providing assurance to our customers.
+
+Apart from these measures, Moya expanded its healthcare to employees to include the provision of free medical 
+
+masks, hand sanitizers, and hand wash while they were onsite. Routine workplace cleaning and disinfection 
+
+were also carried out to maintain a safe hygienic environment.
+
+COVID-19 rapid tests were also done regularly on employees to further ensure their safety. Any positive cases 
+
+detected among our staff would be immediately followed-up by tracing, monitoring, Polymerase Chain Reaction 
+
+(PCR) tests, and medical treatment. As an additional protection for our employees, Moya is also gradually 
+
+rolling out vaccinations for our workers and their families.
+
+Work-Related Safety
+
+For the third consecutive year, Moya has managed to prevent any work-related fatalities. The established 
+
+Occupational Safety and Health Management Committee (P2K3) has full authority regarding the management 
+
+of Occupational Health and Safety (“OHS”) and the environment, and are striving to further improve the 
+
+performance and reliability of OHS and Environmental management systems.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+TARGETS
+
+FY2020 
+
+PERFORMANCE
+
+FY2021 
+
+TARGETS
+
+GRI 403-9: WORK-RELATED INJURIES
+
+Number of Injuries
+
+2
+
+Zero work related 
+
+injuries or fatalities
+
+3
+
+Zero work related 
+
+injuries or fatalities
+
+Number of Fatalities
+
+0
+
+0
+
+Lost time Injury Rate
+
+0.68
+
+1.09
+
+Lost time Severity Rate
+
+3.75
+
+0.00
+
+Table 6. Number of safety incidents
+
+
+13
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+WATER AND EFFLUENTS (GRI 303)
+
+With climate change becoming an increasingly serious issue, water resources are severely affected in many 
+
+parts of the world. In areas like Jakarta, which are prone to annual floods, water security becomes a more 
+
+pressing concern.
+
+Water being a vital resource to both the community as well as to nature, Moya is fully committed to reducing 
+
+the various adverse environmental, social, and economical impact of our operations by investing in the latest 
+
+technologies. As one of the leading water suppliers in Indonesia, Moya sets strict standards by adhering closely 
+
+to all government regulations and compliances regarding the withdrawal of water from designated sources.
+
+In 2020, facing the sudden COVID-19 pandemic, there was an increase in water consumption by affected 
+
+communities, as well as for temporary facilities such as hospitals and service kitchens. Moya provided 
+
+emergency water supplies to many pandemic-hit areas. Coupled with the acquisition of TKCM and PT Traya 
+
+Tirta Cisadane (“TTC”), these events resulted in a surge in water withdrawal and consumption in 2020. 
+
+FISCAL YEAR
+
+VOLUME OF WATER WITHDRAWN (LITRES)
+
+2017
+
+389,431,057
+
+2018
+
+409,715,753
+
+2019
+
+415,858,704
+
+2020
+
+567,652,391
+
+Table 7. Volume of water withdrawn
+
+WATER TREATMENT PLANT
+
+MAXIMUM PERMITTED WITHDRAWAL (litres per second)
+
+Acuatico Air Indonesia
+
+85
+
+Aetra Air Tangerang
+
+900
+
+Aetra Air Jakarta
+
+10,200
+
+Moya Tangerang
+
+1,500
+
+Moya Bekasi Jaya
+
+1,300
+
+Traya Tirta Cisadane
+
+3,500
+
+Tirta Kencana Cahaya Mandiri
+
+1,700
+
+Table 8. Water body withdrawal limit
+
+COMPLIANCE WITH STATUTORY WATER WITHDRAWAL LIMITS
+
+FY2020 TARGET
+
+FY2020 PERFORMANCE
+
+FY2021 TARGET
+
+Maintain zero breaches
+
+Zero incident
+
+Maintain zero breaches
+
+Table 9. Water body withdrawal compliance
+
+ENVIRONMENTAL 
+
+PROTECTION
+
+
+14
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+EFFLUENTS AND WASTE (GRI 306)
+
+The process of water purification produces effluents and waste as an inevitable by-product. As these discharges 
+
+contain chemicals that could be harmful to the environment and the health of local communities, Moya invests 
+
+heavily in the proper treatment and disposal of the sludge generated from its water treatment plants. Sludge 
+
+processors are installed in all of our water treatment plants.
+
+Through rigorous water quality testing and operational reviews, Moya ensures that the water produced by our 
+
+water treatment plants meet all the required standards. Staff training and technical competence is fundamental 
+
+to our water production. Our staff undergoes extensive training and education to highlight any potential 
+
+improvements after each operational review. All these processes help ensure that Moya strictly complies with 
+
+extensive operational rules and regulations on water quality and overall waste management.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2017 
+
+PERFORMANCE
+
+FY2018 
+
+PERFORMANCE
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+PERFORMANCE
+
+GRI STANDARD 306: EFFLUENTS &amp; WASTE
+
+Total Weight of 
+
+Sludge Waste (Tons)
+
+17,596
+
+39,950
+
+21,707
+
+54,587
+
+Table 10. Amount of sludge produced
+
+In February 2020, Moya completed the construction of two sludge treatment units at TTC and TKCM. These 
+
+sludge treatment units feature cutting-edge sludge dewatering systems. The sludge produced by these systems 
+
+are safely chemically treated and prepared for safe disposal. In addition, water recovery tanks are installed 
+
+to reduce water loss during production, as well as recycling the water produced, further reducing the impact 
+
+on the environment.
+
+Such new systems can result in additional operating costs. Moya is actively switching to environmentally-friendly 
+
+and energy-saving technologies and educating our workers on the importance of energy conservation.
+
+ENVIRONMENTAL 
+
+PROTECTION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sludge 
+
+Collection 
+
+tub
+
+Conveyor 
+
+and sludge 
+
+reservoir
+
+Stock Pile
+
+Sludge 
+
+Mixing 
+
+Tank
+
+Chemical 
+
+injection 
+
+pumps
+
+Panel 
+
+Decanter
+
+Screw 
+
+pumps/
+
+sludge
+
+
+
+
+
+Figure 2: Sludge treatment unit
+
+
+15
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+ENERGY AND EMISSION (GRI 302, 305)
+
+Moya experienced a considerable surge in energy consumption and greenhouse gas (“GHG”) emissions from 
+
+2019 to 2020. This was due primarily to the consolidation of figures from major new acquisitions of TKCM and 
+
+TTC. Moya’s energy consumption mainly comes from the treatment and processing of raw water. The inclusion 
+
+of TKCM and TTC plants increased our water consumption by 37%, causing the surge in energy and emissions in 
+
+2020.  Management is actively studying various ways to rationalise energy consumption and reduce emissions 
+
+in the new subsidiaries.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2018 
+
+PERFORMANCE
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+PERFORMANCE
+
+GRI 305-1 – DIRECT (SCOPE 1) GHG EMISSIONS
+
+GHG emissions 
+
+(Tons)
+
+86,286
+
+97,048
+
+133,039
+
+GRI 302-1 – ENERGY CONSUMPTION WITHIN THE ORGANISATION
+
+Energy consumption 
+
+(Giga Joule)
+
+348,322
+
+391,850
+
+537,197
+
+GRI 302-3 – ENERGY INTENSITY
+
+Energy intensity 
+
+Mega Joule per 
+
+Revenue (S$)
+
+2.46
+
+2.46
+
+3.07
+
+Table 11. Energy Consumption &amp; Greenhouse Gas Emissions (“GHG”)
+
+Note: Moya’s GHG emissions are mainly attributed to electricity usage. Electricity is purchased from Indonesia Power, 
+
+(Indonesian state-owned electricity utility company).
+
+ENVIRONMENTAL 
+
+PROTECTION
+
+
+16
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+EQUAL OPPORTUNITY EMPLOYER (GRI 405)
+
+Gender equality and minority representation in our workforce enables the influx of fresh and creative ideas 
+
+across the organisation. The Group endeavours to provide equal career opportunities to all staff, in recognition 
+
+of their skills and job performance.
+
+We placed emphasis on human resource practices which enable our staff to develop their careers in an open 
+
+and enriching environment. The numerous career opportunities available at Moya allows individuals to reach 
+
+their best professional potential in the industry.
+
+This inclusive and growth-oriented culture helps boost employee satisfaction and confidence, which is reflected 
+
+in our low staff turnover rates, rising revenues, and profitability in 2020.
+
+GRI STANDARD  
+
+AND DISCLOSURES
+
+FY2019 
+
+PERMANENT 
+
+EMPLOYEES
+
+FY2020 
+
+PERMANENT 
+
+EMPLOYEES
+
+FY2019 
+
+TEMPORARY 
+
+EMPLOYEES
+
+FY2020 
+
+TEMPORARY 
+
+EMPLOYEES
+
+GRI 405-1: DIVERSITY OF GOVERNANCE BODIES AND EMPLOYEES
+
+Male
+
+1,019
+
+1,004
+
+42
+
+41
+
+Female
+
+195
+
+244
+
+6
+
+9
+
+Total
+
+1,214
+
+1,248
+
+48
+
+50
+
+Table 12. Number of employees by gender
+
+DIVISIONS
+
+FY2019 
+
+PERCENTAGE OF 
+
+TOTAL PERMANENT 
+
+MALE WORKFORCE
+
+FY2020 
+
+PERCENTAGE OF 
+
+TOTAL PERMANENT 
+
+MALE WORKFORCE
+
+FY2019 
+
+PERCENTAGE OF 
+
+TOTAL PERMANENT 
+
+FEMALE WORKFORCE
+
+FY2020 
+
+PERCENTAGE OF 
+
+TOTAL PERMANENT 
+
+FEMALE WORKFORCE
+
+Board of Directors of 
+
+the Company and 
+
+Subsidiaries
+
+2%
+
+2%
+
+2%
+
+2%
+
+Operational
+
+70%
+
+73%
+
+42%
+
+39%
+
+Office
+
+24%
+
+17%
+
+52%
+
+54%
+
+Project
+
+4%
+
+8%
+
+4%
+
+5%
+
+Table 13. Percentage of employees by division
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+17
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+EMPLOYEE REPRESENTATION CHART
+
+ No. of Employees
+
+400
+
+350
+
+300
+
+250
+
+200
+
+150
+
+100
+
+50
+
+0
+
+&gt;56
+
+
+
+
+
+51-55
+
+
+
+
+
+46-50
+
+
+
+
+
+41-45
+
+
+
+
+
+36-40
+
+
+
+
+
+31-35
+
+
+
+
+
+26-30
+
+
+
+
+
+21-25
+
+
+
+
+
+ Figure 2. Number of employees by age
+
+TRAINING AND BENEFITS
+
+To ensure that our workforce stays relevant and competitive, especially during the COVID-19 period, Moya 
+
+constantly provides training for its employees. Classes, workshops, and talks conducted by industry experts 
+
+help bolster both soft and hard skills in our employees. Utilising innovative training methodologies, we are able 
+
+to cater to the differing needs of our employees at various levels of operations. As we continue to attract and 
+
+nurture young and promising talents, we also develop professional training programs for our senior staff. A 
+
+well-trained workforce will drive the Group’s growth.
+
+HUMAN RESOURCE 
+
+DEVELOPMENT
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+PERFORMANCE
+
+FY2021 
+
+TARGETS
+
+GRI STANDARD 404: AVERAGE HOURS OF TRAINING PER YEAR PER EMPLOYEE
+
+Total hours of training
+
+35,590
+
+7,788
+
+11,560
+
+Average hours of training 
+
+per employee
+
+28.2
+
+6*
+
+9
+
+Table 14. Hours of training provided
+
+*The target of 15.85 average hours of training in 2020 was not met due to COVID-19 pandemic.
+
+SOCIAL
+
+RESPONSIBILITY
+
+Number of employees by age
+
+
+18
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+Amidst the COVID-19 pandemic in 2020, fewer training sessions were conducted, and each session had to 
+
+accommodate a smaller group of employees to ensure safe distancing. Despite the reduced training hours, 
+
+Moya endeavoured to ensure that sufficient training was provided to staff involved in critical operations. We 
+
+plan to re-establish our training targets as soon as it is safe for our employees to return to classroom training.
+
+TYPE OF 
+
+TRAINING
+
+FOCUS
+
+TRAINER
+
+HOURS 
+
+PER SESSION
+
+NUMBER OF 
+
+SESSIONS
+
+GRI 404-2: PROGRAMS FOR UPGRADING EMPLOYEE SKILLS AND TRANSITION ASSISTANCE PROGRAMS
+
+Internal Training
+
+Hard Skills
+
+Internal
+
+6
+
+Dependent on 
+
+training material
+
+In-house Training
+
+Soft and Hard
+
+External
+
+9
+
+External Training
+
+Soft and Hard
+
+External
+
+13
+
+Sharing Session
+
+Experience-based
+
+Internal
+
+4
+
+Table 15. type of training
+
+In order to attract and retain the best talents in the industry, Moya offers a comprehensive remuneration 
+
+scheme, which includes competitive wages and a range of non-monetary benefits. These benefits include 
+
+medical coverage (Please refer to Occupational Health and Safety Segment) and annual leave. Understanding 
+
+the financial impact Covid-19 has had on people, Moya has elected not to make any changes to our current 
+
+schemes.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+TARGET
+
+FY2020 
+
+PERFORMANCE
+
+FY2021 
+
+TARGET
+
+GRI 401-1: EMPLOYEE TURNOVER
+
+Employee turnover rate
+
+5.2%
+
+Maintain 
+
+employee turnover 
+
+rate below 10% 
+
+based on Moya’s 
+
+Quality Objective 
+
+Policy
+
+2.3%
+
+Maintain 
+
+employee turnover 
+
+rate below 10% 
+
+based on Moya’s 
+
+Quality Objective 
+
+Policy
+
+Table 16. Employee turnover rate
+
+LOCAL COMMUNITIES (GRI 413)
+
+Local communities in which we operate are a major stakeholder for the Group, especially during the pandemic. 
+
+Development of local communities is a classic demonstration of the circular economy in our business.
+
+During the construction of a water treatment plant in West Semarang, 40% of employees consisted of workers 
+
+from local communities. On top of that, Moya has engaged local communities through a myriad of programs 
+
+in line with our Corporate Social Responsibility (“CSR”) pillars.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2019
+
+PERFORMANCE
+
+FY2020
+
+PERFORMANCE
+
+FY2021 
+
+TARGETS
+
+GRI 413-1: LOCAL COMMUNITIES
+
+Number of implemented 
+
+local community 
+
+engagement
+
+78
+
+103
+
+Continue supporting local 
+
+community engagement 
+
+with different organizations 
+
+and encouraging staff 
+
+volunteerism
+
+Table 17. Number of CSR activities conducted
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+19
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+In 2020, Moya further provided clean water connections to several schools, mosque, less fortunate communities, 
+
+as well as public facilities. We believe that having access to clean water should be a basic right and these 
+
+connections help to reinforce the culture towards clean water usage.
+
+During the pandemic, the community faces an increasing need for clean water. AAJ has helped to provide 
+
+clean water to 40 public washing stands. These stands, located at bus stops, allows passengers to wash their 
+
+hands before and after their commute and helps to promote community hygiene. AAJ also helps to supply 
+
+water to public kitchens serving various Emergency Hospitals set up in light of the COVID-19 pandemic.
+
+
+
+
+
+
+
+Figure 3. Pictures with beneficiaries of CSR activities
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PROVIDING ACCESS 
+
+TO CLEAN WATER
+
+NATURE  
+
+CONSERVATION
+
+EDUCATION
+
+DONATION 
+
+
+20
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+COMMUNITY EDUCATION
+
+Moya believes that education is one of the best gifts to the community. In 2020, as Aetra Air Tangerang ongoing 
+
+cause to support the education of local communities, 10 sets of computers along with a server was donated 
+
+to SMP Negeri 1 Jayanti. This is aimed at improving the learning experience for the students and to spur their 
+
+desire for knowledge and development.
+
+
+
+
+
+Figure 4. Donation of computers
+
+In an effort to further improve both the welfare and competency of our workforce, Moya has established 
+
+an education program for our employees and their children. In 2020, we founded the ‘MOYA ACADEMY’ in 
+
+collaboration with Politeknik Harapan Bersama, Tegal, which provides scholarships to those who wish to further 
+
+their studies and contribute back to Moya and society in the future. This supports students who wish to pursue 
+
+mechanical and electrical engineering degrees, which are qualifications that are fundamental to Moya’s water 
+
+treatment operations.
+
+DONATIONS
+
+The pandemic and lockdowns affected the livelihoods of many households in Indonesia. This was especially felt 
+
+in Jakarta due to the high rate of infections in a densely populated city. Coupled with lockdowns in a high-cost 
+
+city, many families experienced financial hardship in Jakarta.
+
+In light of this, AAJ and MT made several donations to various charity organisations to support their efforts to 
+
+deliver aid to many hard-hit communities. 
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+
+Figure 5. Scholarship recipients’ graduation ceremony
+
+
+21
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+DONATIONS MADE
+
+AGENCY
+
+1
+
+150 Food Aid Packs
+
+Indonesian Red Cross
+
+2
+
+20,000 Food Packages
+
+Indonesian Red Cross
+
+3
+
+100 Food Aid Packs
+
+Criminal Investigation Agency
+
+4
+
+100 Food Aid Packs
+
+PAM Jaya
+
+5
+
+1,000 Personal Protective Equipment
+
+Tangerang District Hospital
+
+6
+
+Disinfectant Spray Equipment
+
+Regional Disaster Management Agency
+
+Table 18. Donations Made by Moya
+
+The areas around Jakarta were also hit by a major flood at the start of 2020. The flood severely impacted the 
+
+community as it also disrupted the supply of electricity. Through channels such as the East Jakarta Mayor and 
+
+DKI Provincial Government, Moya made donations in the form of food aid packs as well as monetary donations 
+
+in an effort to alleviate the damage caused by the floods.
+
+
+
+
+
+
+
+
+
+Figure 6. Donations made during COVID-19
+
+SOCIAL
+
+RESPONSIBILITY
+
+NATURE CONSERVATION
+
+Through river widening projects, AAJ has managed to help reduce flooding in Buaran for its surrounding 
+
+residence. Flooding not only damages properties in the area, disrupts people’s lives, but also causes 
+
+contamination in the water supply which the residents heavily rely on. This project exemplifies Moya’s 
+
+commitment to the provision of clean water and their care and concern to the local communities. The widening 
+
+projects in 2020 has helped ease flooding in areas affecting approximately 3,900 residents in 13 different 
+
+suburbs.
+
+
+22
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+CASE STUDY 1: PLANTING A GREENER TOMORROW
+
+In 2020, Moya has identified the importance of maintaining nature’s greenery, especially in 
+
+our areas of operation. As nature’s own filtration system, a healthy forest system can help 
+
+filter sediments and various other pollutants, preventing them from reaching the water 
+
+bodies, which results in cleaner water.
+
+In September 2020, as part of the Nature Conservation arm of Moya’s CSR, AAJ partnered 
+
+with the Natural Green Lestari Foundation to plant 1600 tree roots along the conservation 
+
+areas in Sukabumi. The seeds planted consisted of nutmeg, clove, banyan, and coconut 
+
+trees, and were planted along the upper banks of the Cikaso river.
+
+In October 2020, Moya partnered with management of the Cidurian River Basin to plant 
+
+fruit trees along the Pasar Baru Dams. The aim of this project was to bolster the sustainability 
+
+of the rivers.
+
+
+
+Figure 7. Tree planting project
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+23
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+ANTI-CORRUPTION (GRI 205)
+
+As one of the leaders in our field, Moya upholds its reputation as an ethical, transparent, and equitable 
+
+organisation in all our business dealings. Our zero-tolerance policy towards corruption allows us to establish 
+
+a trusting relationship with all our stakeholders. Stringent monitoring and enforcement processes are in place 
+
+to ensure Moya’s unwavering commitment to the highest standards of compliance with all applicable laws 
+
+and regulations.
+
+REGULATORY COMPLIANCE (GRI 205, 307 AND 419)
+
+Moya’s Board and management sets a clear “tone-from-the-top” policy on regulatory compliance. Any form 
+
+of regulatory breaches in the Group must be addressed and eliminated as they may cause environmental, 
+
+operational, financial, and reputational damage. Moya maintains an open dialogue with all relevant law 
+
+enforcement and government agencies at all levels, to ensure a strong working relationship with the governing 
+
+bodies in service of our industry and country.
+
+As a public-listed entity on the Singapore Exchange, we adhere to all listing rules, together with all other relevant 
+
+laws and regulations in Singapore, including the Securities and Futures Act (Chapter 289) of Singapore, the 
+
+Companies Act (Chapter 50), and the Income Tax Act (Chapter 134). Additionally, we also practice a corporate 
+
+governance framework in accordance with the 2018 Code of Corporate Governance of Singapore, wherein 
+
+we implement extensive risk management processes.
+
+Please refer to the Company’s annual report FY2020 (“2020 Annual Report”) for more details on the Group’s 
+
+corporate governance practices in the Corporate Governance Report.
+
+GRI STANDARD AND 
+
+DISCLOSURES
+
+FY2018 
+
+PERFORMANCE
+
+FY2019 
+
+PERFORMANCE
+
+FY2020 
+
+PERFORMANCE
+
+FY2021 
+
+TARGETS
+
+GRI 205-3: ANTI-CORRUPTION
+
+Confirmed incidents 
+
+of corruption and 
+
+actions taken
+
+Zero incidents
+
+Zero incidents
+
+Zero incidents
+
+Maintain zero 
+
+incidents
+
+GRI 307-1: ENVIRONMENTAL COMPLIANCE
+
+Significant fines 
+
+and non-monetary 
+
+sanctions for 
+
+non-compliance 
+
+with environmental 
+
+laws/regulations
+
+Zero incidents
+
+Zero incidents
+
+Zero incidents
+
+Maintain zero 
+
+incidents
+
+GRI 419-1: SOCIOECONOMIC COMPLIANCE
+
+Significant fines 
+
+and non-monetary 
+
+sanctions for 
+
+non-compliance 
+
+with laws/regulations 
+
+in the social and 
+
+economic areas
+
+Zero incidents
+
+Zero incidents
+
+Zero incidents
+
+Maintain zero 
+
+incidents
+
+Table 19. Regulatory compliance performance
+
+REGULATORY 
+
+COMPLIANCE
+
+
+24
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+STATUTORY REQUIREMENTS
+
+This report is prepared in accordance to Rules 711A and 711B of the Singapore Exchange Securities Trading 
+
+Limited Listing Manual Section B: Rules of Catalist (“Catalist Rules”) as well as Practice Note 7F of the Catalist 
+
+Rules
+
+REPORTING FRAMEWORK
+
+This report is prepared with reference to the GRI Standards. This is to be read in conjunction with the Company’s 
+
+2020 Annual Report. Accordingly, the Global Reporting Initiative shall be notified of this report.
+
+Additional corporate information is available on our website at http://www.moyaasia.com.
+
+DATA DISCLOSURES
+
+The reporting scope in FY2020 focuses on maintaining readability to the works of Moya, and highlights the 
+
+impacts of our efforts to improve on the influence of our sustainability report. The reporting scope covers Moya’s 
+
+business operations in Indonesia and ESG performance year-on-year.
+
+All data are reported in good faith and to the best of our knowledge.
+
+No external assurance has been obtained for this report.
+
+FEEDBACK
+
+We welcome all feedback to help us improve our sustainability report, policies, and practices.
+
+Please send your comments or feedback to http://www.moyaasia.com.
+
+NOTES TO 
+
+THE SUSTAINABILITY REPORT
+
+
+25
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+GRI STANDARDS 2020
+
+REFERENCE/DESCRIPTION
+
+REFERENCE/DESCRIPTION
+
+MATERIAL TOPIC
+
+ANTI-CORRUPTION
+
+205-3
+
+Confirmed incidents of corruption and actions 
+
+taken
+
+Regulatory Compliance
+
+ENERGY
+
+302-1
+
+Energy consumption within the organisation
+
+Environmental Protection
+
+302-3
+
+Energy intensity
+
+Environmental Protection
+
+WATER AND EFFLUENTS
+
+303-3
+
+Water withdrawal
+
+Environmental Protection
+
+EMISSION
+
+305-1
+
+Direct (scope 1) GHG emissions
+
+Environmental Protection
+
+EFFLUENTS AND WASTE
+
+306-2
+
+Waste by type and disposal method
+
+Environmental Protection
+
+ENVIRONMENTAL COMPLIANCE
+
+307-1
+
+Non-compliance with environmental laws and 
+
+regulations
+
+Regulatory Compliance
+
+EMPLOYMENT
+
+401-1
+
+Employee turnover
+
+Social Responsibility
+
+OCCUPATIONAL HEALTH AND SAFETY
+
+403-9
+
+Work related Injuries
+
+Social Responsibility
+
+TRAINING AND EDUCATION
+
+404-1
+
+Average hours of training per year per employee
+
+Social Responsibility
+
+404-2
+
+Programs for upgrading employee skills and 
+
+transition assistance programs
+
+Social Responsibility
+
+DIVERSITY AND EQUAL OPPORTUNITIES
+
+405-1
+
+Diversity of governance bodies and employees
+
+Social Responsibility
+
+LOCAL COMMUNITIES
+
+413-1
+
+Operations with local community engagement, 
+
+impact assessments, and development programs
+
+Social Responsibility
+
+SOCIO-ECONOMIC COMPLIANCE
+
+419-1
+
+Non-compliance with laws and regulations in the 
+
+social and economic area
+
+Regulatory Compliance
+
+GRI INDEX 
+
+
+26
+
+ MOYA HOLDINGS ASIA LIMITED SUSTAINABILITY REPORT 2020 
+
+©2021 Moya Holdings Asia Limited 
+
+All rights reserved. Reproduction and dissemination of material contained in this sustainability report for educational 
+
+or other non-commercial purposes are authorised without any prior written permission from the copyright holders 
+
+provided the source is fully acknowledged. Reproduction of material for resale or other commercial is prohibited without 
+
+written permission of the copyright holders. Hyperlinks for non-Moya websites do not imply any official endorsement 
+
+of or responsibility for the opinions, ideas, data or products presented at these locations, or guarantee the validity of 
+
+the information provided.  The sole purpose of such links is to indicate further information available on related topics. 
+
+Where translations have been made in other languages, the English version shall prevail if any discrepancy arises 
+
+between our versions. 
+
+This report has been prepared by the Company and its contents have been reviewed by the Company’s sponsor, 
+
+ZICO Capital Pte. Ltd. (the “Sponsor”), in accordance with Rule 226(2)(b) of the Singapore Exchange Securities Trading 
+
+Limited (“SGX-ST”) Listing Manual Section B: Rules of Catalist. 
+
+This report has not been examined or approved by the SGX-ST and the SGX-ST assumes no responsibility for the 
+
+contents of this report, including the correctness of any of the statements or opinions made or reports contained in 
+
+this report. 
+
+The contact person for the Sponsor is Ms Alice Ng, Director of Continuing Sponsorship, ZICO Capital Pte. Ltd. at 
+
+8 Robinson Road, #09-00 ASO Building, Singapore 048544, Telephone: (65) 6636 4201.
+
+COPYRIGHT AND 
+
+DISCLAIMERS
+

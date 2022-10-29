@@ -1,0 +1,2064 @@
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT 2018 
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+2 
+
+ 
+
+Table of Contents 
+
+ 
+
+About this Report ......................................................................................................................... 3 
+
+About New Silkroutes Group .......................................................................................................... 4 
+
+Sustainability Board Statement ...................................................................................................... 5 
+
+Sustainability at NSG .................................................................................................................... 6 
+
+Stakeholder Engagement .............................................................................................................. 8 
+
+Materiality Assessment ................................................................................................................. 9 
+
+Economic .................................................................................................................................. 10 
+
+Economic Performance ............................................................................................................ 10 
+
+Market Presence ..................................................................................................................... 11 
+
+Social ....................................................................................................................................... 12 
+
+Customer Health and Safety ..................................................................................................... 12 
+
+Marketing and Labelling ........................................................................................................... 13 
+
+Customer Privacy .................................................................................................................... 14 
+
+GRI Content Index ..................................................................................................................... 15 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+3 
+
+ 
+
+About this Report 
+
+[GRI 102-1 | 102-46 | 102-50 | 102-52 | 102-53 | 102-54 | 102-56] 
+
+ 
+
+The New Silkroutes Group Limited (“NSG”) is delighted to present our inaugural annual Sustainability 
+
+Report for the financial year ended June 2018 (“FY2018”). We have prepared the report in accordance 
+
+with the Global Reporting Initiative Standards: Core option (“GRI Standards”) – the international standard 
+
+for sustainability reporting, and with reference to the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) Listing Rules 711A and 711B. For further information on the relevant references, please refer 
+
+to the GRI Content Index at the end of this report. 
+
+Report content and topic boundaries 
+
+This report details our Environmental, Social and Governance (“ESG”) performance for FY2018 (1 July 
+
+2017 to 30 June 2018) and covers the operations of NSG’s healthcare division in Singapore, and our 
+
+energy division. We will consider including other overseas operations in the reporting scope of future 
+
+reports as our sustainability efforts continuously mature. 
+
+With the implementation of sustainability reporting requirements by the Singapore Exchange, the 
+
+sustainability of our business practices, together with the transparent disclosure of our performance in 
+
+sustainability and related ESG issues, has gained greater impetus. This report thus documents our 
+
+consideration of and approach towards sustainability issues and demonstrates our commitment towards 
+
+being a sustainable and responsible organisation. The content of this report adheres to the following 
+
+reporting principles prescribed by the GRI Standards:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+NSG has not sought external assurance for this report, although the organisation may consider doing so 
+
+for subsequent reporting periods in its drive for continuous improvement.   
+
+Contact 
+
+We are fully committed to listening to our stakeholders and welcome any feedback on our sustainability 
+
+performance or any aspect of our report. Please write to: ipr@newsilkroutes.org 
+
+ 
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+4 
+
+ 
+
+About New Silkroutes Group 
+
+[GRI 102-2 | 102-3 | 102-4 | 102-5 | 102-6 | 102-7 | 102-8] 
+
+ 
+
+ 
+
+ 
+
+NSG is an investment holding company listed on 
+
+the Mainboard of the Singapore Exchange 
+
+Securities Trading Limited. NSG, together with its 
+
+subsidiaries, (the “Group”), operates in the 
+
+healthcare 
+
+and 
+
+energy 
+
+sector 
+
+and 
+
+is 
+
+headquartered in Singapore.  
+
+NSG’s healthcare division, through our subsidiary 
+
+Healthsciences International Pte. Ltd. (“HSI”), 
+
+owns and operates primary medical care and 
+
+dental clinics in Singapore, and also has a team 
+
+that specialises in hospital development and 
+
+management, with a focus in Southeast Asia and 
+
+China. HSI owns 11 clinics in Singapore, which 
+
+consists of two traditional Chinese medicine 
+
+(TCM) clinics, eight dental clinics and one dental 
+
+specialist clinics.  
+
+NSG's energy division, through our oil trading 
+
+subsidiary International Energy Group Pte. Ltd. 
+
+(“IEG”), conducts physical oil trades in the key 
+
+markets of Southeast Asia and North Asia, and 
+
+charters and operates its own fleet of vessels to 
+
+support the necessary logistics. We serve oil 
+
+distributors, retailers, wholesalers and other 
+
+commodity traders, with customers from South 
+
+Korea, Singapore, Cambodia, Myanmar, Hong 
+
+Kong, United Arab Emirates and United Kingdom. 
+
+ 
+
+Scale of our organisation 
+
+ 
+
+Total Operations 
+
+11 clinics 
+
+1 energy operation 
+
+ 
+
+Total Employees 
+
+64 
+
+ 
+
+Male: 15  
+
+Permanent: 15 
+
+Temporary: 0 
+
+ 
+
+Female: 49 
+
+Permanent: 48 
+
+Temporary: 1 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+5 
+
+ 
+
+Sustainability Board Statement 
+
+[GRI 102-14]  
+
+ 
+
+Dear Stakeholders,  
+
+As NSG embarks on its sustainability journey, we are delighted to share with you our inaugural 
+
+Sustainability Report. Prepared in accordance with the GRI Standards 2016 (Core Option), this report 
+
+outlines our efforts in embedding sustainable business practices across our healthcare and energy divisions.  
+
+Our Sustainability Vision   
+
+At NSG, sustainability is highly regarded by the Board and top management as key to maintaining our long-
+
+term success, and we have collectively considered Environmental, Social and Governance (ESG) issues in 
+
+the formulation of our business strategy. We believe in the Group’s ability to leverage our core 
+
+competencies in ways that both contributes to social inclusion and generates long-term economic 
+
+opportunities, and are committed to creating an organisational culture which values sustainable business 
+
+practices.  
+
+Through a robust stakeholder engagement process, we have identified several ESG issues that are material 
+
+to both our business and our stakeholders. They are namely: Economic Performance, Customer Health and 
+
+Safety, Marketing and Labelling, and Customer Privacy. We also identified Market Presence as an emerging 
+
+issue that could be given subsequent attention further to our expansion. Setting the tone from the top, we 
+
+assume ultimate responsibility for reporting and overseeing the management and monitoring of these 
+
+material issues. 
+
+Our Sustainability Performance  
+
+As a Group, NSG has directly generated a positive economic value of US$693 million over the reporting 
+
+period, of which US$692 million is distributed as operating costs, and employee wages and benefits among 
+
+other societal contributions. We have recorded zero incidents in topics considered material to our 
+
+stakeholders and business operations, including breaches in marketing and labelling standards, or 
+
+standards to maintain the health, safety and data privacy of our patients and customers. We intend to 
+
+maintain our performance in FY2019, and in the customer health and safety category, to derive indicators 
+
+to monitor our performance in a more specific manner. In the customer privacy arena, NSG will look to 
+
+strengthen existing cyber security measures with additional IT enhancements to further safeguard our 
+
+performance.  
+
+Our Sustainability Commitment  
+
+Going forward, NSG will continue to identify, manage and address our material ESG issues. We pledge to 
+
+review them on an ongoing basis, taking into account the business environment, our business objectives 
+
+and stakeholders’ feedback. The Group is in the process of finalising an organisational-wide Enterprise Risk 
+
+Management (ERM) framework, which takes into account the ESG topics outlined in this report. The 
+
+continuous integration of sustainability measures into our strategy and operations will be complemented 
+
+by quality disclosures so as to provide our stakeholders with a holistic view of both our financial and non-
+
+financial performance. We are on track in building a resilient and sustainable business committed to creating 
+
+long-term value for all our stakeholders.  
+
+ 
+
+Mr Ho Sheng  
+
+Non-Executive Chairman 
+
+ 
+
+ 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+6 
+
+ 
+
+Sustainability at NSG 
+
+[GRI 102-9 | 102-11 |102-12 | 102-13 | 102-16 | 102-18]
+
+NSG is committed to conducting our business 
+
+in a responsible manner as we embark on our 
+
+sustainability journey. We acknowledge our 
+
+role 
+
+in 
+
+minimising 
+
+and 
+
+mitigating 
+
+environmental and social impacts from our 
+
+business operations by adopting relevant risk 
+
+management procedures across our divisions. 
+
+The Group is in the process of finalising our 
+
+Enterprise Risk Management (ERM) framework 
+
+for the ongoing identification, assessment and 
+
+management of risk exposures to our business 
+
+operations. The sustainability topics outlined in 
+
+this report would be an integral part of the 
+
+overall framework. 
+
+ 
+
+ 
+
+Vision and Mission 
+
+As NSG’s healthcare division, HSI envisages 
+
+the organisation to be a leading integrated 
+
+healthcare provider in Asia that places patients 
+
+and community interests before self.  
+
+To achieve this end, our mission is to positively 
+
+impact lives and the community through 
+
+excellent care. We value our patients and 
+
+caregivers by treating those we serve, and 
+
+each other, with compassion, dignity and 
+
+respect. We achieve excellence by acting with 
+
+integrity and striving for the highest quality 
+
+care and service. 
+
+At IEG, NSG’s energy division, sustainability is 
+
+not only a strategy but a way of doing business 
+
+where all employees and business partners 
+
+embrace the highest standards in trading 
+
+execution. We place a great emphasis on the 
+
+most critical issues we face globally, even as 
+
+we assess the impact of our business at the 
+
+local level. We make sure environmental 
+
+concerns are managed and the communities of 
+
+where we work and the biodiversity around 
+
+them are protected. 
+
+Sustainability governance  
+
+At NSG, we are committed to maintaining high 
+
+standards of corporate governance across all 
+
+functions of our organisation. We strive to put 
+
+in place a robust governance framework to 
+
+maintain 
+
+integrity, 
+
+accountability, 
+
+and 
+
+transparency in our operations. 
+
+As the highest governing body of the Group, 
+
+the Board is in charge of overseeing all ESG 
+
+factors and sustainability-related matters of 
+
+the organisation.  Please refer to page 13-24 
+
+of our annual report for corporate governance 
+
+report for our governance structure. NSG is 
+
+also committed to achieving the highest 
+
+standards in accordance with the principles 
+
+and guidelines of the Code of Corporate 
+
+Governance 2012 (the “Code”).  
+
+ 
+
+Supply Chain 
+
+At HSI, we procure drugs, dental and 
+
+orthodontic appliances and consumables from 
+
+pharmaceutical companies or authorised third-
+
+party distributors.  Our clinics practice first-in-
+
+first-out 
+
+as 
+
+our 
+
+inventory 
+
+management 
+
+process, and we check expiry dates before 
+
+dispensation or usage of products.  
+
+ 
+
+ 
+
+At IEG, our supply chain elements are 
+
+determined by Incoterms, a set of rules 
+
+published by the International Chamber of 
+
+Commerce defining the responsibilities of 
+
+sellers and buyers for the delivery of goods 
+
+under sales contracts.  
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+7 
+
+ 
+
+As a business involved in the trading of oil 
+
+products, 
+
+our 
+
+supply 
+
+chain 
+
+is 
+
+typically 
+
+positioned between the refineries and the end-
+
+users. IEG only conducts business with 
+
+terminals, facilities and ship-owners that 
+
+follow adequate maintenance procedures, and 
+
+specifically hire superintendents to oversee 
+
+our operations as part of our emphasis on 
+
+safety. As a responsible commodity industry 
+
+player, we have established measures to 
+
+prevent the harmful effects of our oil product 
+
+shipments 
+
+through 
+
+the 
+
+appointment 
+
+of 
+
+inspectors for every transaction, working with 
+
+reputable suppliers and ship-owners, and 
+
+ensuring relevant parties in the supply chains 
+
+take precautions as per guidelines of their 
+
+respective product material safety data sheets.  
+
+Our team is committed to the establishment of 
+
+efficient and safe models of supply of oil 
+
+products, which, along with our innovations in 
+
+the supply of products, makes us well-
+
+positioned to meet both the needs of our 
+
+customers today and in the future.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+External Initiatives 
+
+On a group level, NSG is a member of the 
+
+Singapore 
+
+Business 
+
+Federation. 
+
+All 
+
+professionals practising in our clinics under 
+
+HSI are required to be registered and comply 
+
+with the Codes and Conduct and guidelines of 
+
+their respective professional bodies listed 
+
+below: 
+
+• 
+
+Singapore Medical Council 
+
+• 
+
+Singapore Dental Council 
+
+• 
+
+Traditional Chinese Medicine Practitioners 
+
+Board 
+
+ 
+
+IEG apply the regulations and guidelines of 
+
+global organisations regulating the commodity 
+
+industry, including:  
+
+• 
+
+Declaration 
+
+of 
+
+the 
+
+United 
+
+Nations 
+
+Conference on the Human Environment, 
+
+Stockholm (1972); 
+
+• 
+
+International Convention on Civil Liability 
+
+for Oil Pollution Damage, (1975); 
+
+• 
+
+Convention on Civil Liability for Damages 
+
+Resulting from Activities Dangerous to the 
+
+Environment, (1993); 
+
+• 
+
+Convention for the Prevention of Marine 
+
+Pollution from Land-Based Sources, Paris 
+
+(1974);  
+
+• 
+
+UN Convention on the Law of the Sea, 
+
+(1982) 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+8 
+
+ 
+
+Stakeholder Engagement 
+
+[GRI 102-40 | 102-42 | 102-43 | 102-44] 
+
+ 
+
+NSG recognises the importance of meaningful two-way engagement with its stakeholders to understand 
+
+their concerns and interests. We are committed to identifying issues most important to our stakeholders 
+
+and addressing their concerns in the formulation of our business strategies and policies.  
+
+We identified and selected our key stakeholders based on importance, representation, responsibility, 
+
+dependency, and proximity to our business. The table below showcases our stakeholder engagement 
+
+mechanisms. 
+
+We continuously seek to improve stakeholder engagement by enhancing our communication channels 
+
+and embedding their valuable feedback into our strategy. 
+
+Stakeholder 
+
+Frequency of 
+
+Engagement 
+
+Modes of Engagement 
+
+Shareholders 
+
+Annually/Quarterly/ 
+
+Ad hoc 
+
+Quarterly financial results 
+
+Annual and Extraordinary general meeting 
+
+Investor relations contact 
+
+Media release 
+
+Top Management 
+
+Quarterly/Ad hoc 
+
+Board meetings 
+
+Management meetings 
+
+Customers 
+
+Ad hoc 
+
+Front line team members 
+
+Electronic feedback channel via website 
+
+Emails 
+
+Phone calls 
+
+Employees 
+
+Annually/Ad hoc 
+
+Emails 
+
+Annual appraisals 
+
+Regular dialogue 
+
+Sessions with senior management 
+
+Suppliers 
+
+Ad hoc 
+
+Feedback via email 
+
+Phone calls 
+
+Regulators 
+
+Annually/Ad hoc 
+
+Annual inspection 
+
+Regulatory guidelines 
+
+Emails 
+
+Phone calls 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+9 
+
+ 
+
+Materiality Assessment 
+
+[GRI 102-46 | 102-47 | 103-1] 
+
+ 
+
+To identify material Environment, Social, and Governance (“ESG”) topics for NSG, the organisation 
+
+considered a reasonable estimation of economic, environmental and/or social impacts and the interests 
+
+and expectations of our stakeholders. It also conducted internal discussions with employees from 
+
+departments that acted as proxies to the various stakeholder groups. While we identified eight topics as 
+
+being relevant for the Group, five of the topics were prioritised for disclosure in this reporting period. 
+
+These ESG topics were subsequently endorsed by NSG’s management and board. 
+
+Category 
+
+ Topic 
+
+Sub-topic 
+
+Aspect 
+
+Boundary1 
+
+Applicable Divisions 
+
+HSI 
+
+IEG 
+
+Economic 
+
+Economic 
+
+Performance 
+
+201-1: Direct 
+
+economic value 
+
+generated and 
+
+distributed 
+
+Within 
+
+Organisation 
+
+√ 
+
+√ 
+
+Market 
+
+Presence 
+
+202-2: Proportion 
+
+of senior 
+
+management hired 
+
+from the local 
+
+community 
+
+Within 
+
+Organisation 
+
+√ 
+
+√ 
+
+Social 
+
+Customer 
+
+Health and 
+
+Safety  
+
+416-2: Incidents of 
+
+non-compliance 
+
+concerning the 
+
+health and safety 
+
+impacts of products 
+
+and services 
+
+Within 
+
+Organisation 
+
+√ 
+
+N/A 
+
+Marketing 
+
+and 
+
+Labelling  
+
+417-2: Incidents of 
+
+non-compliance 
+
+concerning product 
+
+and service 
+
+information and 
+
+labelling  
+
+Within 
+
+Organisation 
+
+√ 
+
+N/A 
+
+417-3: Incidents of 
+
+non-compliance 
+
+concerning 
+
+marketing 
+
+communications  
+
+Within 
+
+Organisation 
+
+√ 
+
+N/A 
+
+Customer 
+
+Privacy  
+
+418-1: 
+
+Substantiated 
+
+complaints 
+
+concerning 
+
+breaches of 
+
+customer privacy 
+
+and losses of 
+
+customer data  
+
+Within 
+
+Organisation 
+
+√ 
+
+√ 
+
+ 
+
+1 Aspect Boundary is a description of where the impacts occur for a material topic and the organisation’s involvement with 
+
+those impacts. Organisations might be involved with impacts either through their own activities or as a result of their business 
+
+relationships with other entities.  
+
+ 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+Draft – For Internal Use Only 
+
+10 
+
+ 
+
+Economic 
+
+Economic Performance 
+
+[GRI 103-1| 103-2 | 103-3 | 201-1] 
+
+ 
+
+Why is this a material issue? 
+
+The measurement of our economic and financial performance is a basic and fundamental indication of 
+
+how we as an organisation has created wealth for our stakeholders, especially our investors and 
+
+shareholders. We strive to continuously enhance our financial performance and create long-term value 
+
+for our investors and stakeholders. 
+
+Management approach 
+
+While NSG’s overall financial performance in FY2018 is moderated by one-off expenses, including writing 
+
+off of receivables and professional fees for corporate exercises, our core business divisions in healthcare 
+
+and energy have contributed to positive economic value to our stakeholders for the reporting period.  
+
+Following an organisational strategic review in FY2018, NSG decided to fine-tune our business strategy 
+
+to focus on healthcare and energy as core businesses.  Besides the acquisition of new clinics in 
+
+Singapore, FY2018 also saw the group setting its sights overseas for economic expansion.  We have 
+
+entered talks with Vietnam-based Egroup Education Group Joint Stock Company for a new dental joint-
+
+venture in Hanoi, and are also considering acquisition plans in China. The group is confident that our 
+
+plans to strengthen our healthcare division will bear fruit in the coming years and contribute significantly 
+
+to profitability going forward. 
+
+FY2018 Performance  
+
+The table below highlights the financial performance of two NSG’s major business divisions in 2018, HSI 
+
+and IEG. More information on our financial performance as a Group is disclosed in our 2018 Annual 
+
+Report.  
+
+ 
+
+HSI 
+
+IEG 
+
+Direct Economic Value 
+
+Generated2 
+
+(US$ ‘000) 
+
+6,404 
+
+686,129 
+
+Economic Value Distributed3 
+
+(US$ ‘000) 
+
+6,078 
+
+685,996 
+
+Economic Value Retained4 
+
+(US$ ‘000) 
+
+326 
+
+133 
+
+ 
+
+ 
+
+ 
+
+2 Direct economic value generated typically refers to the revenue generated by the organisation for the reporting period  
+
+3 Economic value distributed typically refers to the sum of operating costs, employee wages and benefits, payments to 
+
+providers of capital, payments to government by country and community investments 
+
+4 Economic value retained refers to the value of direct economic value generated less economic value distributed. 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+11 
+
+ 
+
+Market Presence  
+
+ 
+
+ 
+
+The Group has identified Market Presence, defined in the GRI Standards as covering an organisation’s 
+
+contribution to economic development in the local areas or communities where it operates, as an 
+
+emerging priority in its materiality analysis. With the Group poised for regional expansion through our 
+
+plans for acquisitions in Vietnam and China, including local community members in the management 
+
+team of our regional footprint would increase economic benefits to the local community and enhance 
+
+local human capital. Such market presence could also improve our organisation’s ability to understand 
+
+local needs and enhance our expansion strategy. Going forward, NSG will explore ways to strengthen 
+
+its presence among local communities in Vietnam and China through the adoption of best practices in 
+
+hiring and remuneration.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+12 
+
+ 
+
+Social 
+
+Customer Health and Safety 
+
+[GRI 103-1 |103-2 | 103-3 | 416-1] 
+
+ 
+
+ 
+
+Why is this a material issue? 
+
+The safety and wellbeing of HSI’s patients is a top priority for NSG. As a provider of health and medical-
+
+related products and services, our service and performance can have a direct impact on the health and 
+
+safety of our patients, making this topic especially material to our organisation. We strive at NSG to not 
+
+just meet the intended functions of our services and products to our patients, but to exceed their 
+
+expectations and provide the highest standards of care and treatment. 
+
+Our management approach  
+
+HSI adhere strictly to government regulations such as the Private Hospitals and Medical Clinics Act, 
+
+Medicine Act and Health Products Act. Our clinics maintain strict adherence to these government 
+
+regulations by observing a comprehensive set of standard operating procedures (“SOPs”) which follows 
+
+clinical best practices, including clinic workflows and codes of conducts for clinical assistants. Our 
+
+procedures are reviewed annually by the department heads, with required approvals by the Chief 
+
+Executive Officer for new or changes to SOPs. We also ensure that our clinical staff are well-trained, 
+
+and all new staff will receive orientation and on-the-job training by Clinic Heads. Monthly audits will be 
+
+conducted to ensure compliance. Cases studies and industry incidences are shared with clinicians and 
+
+frontline staff as occurred as reminders on patient safety and adherence to safe clinical practices. 
+
+FY2018 performance and targets 
+
+In FY2018, the organisation has not identified any non-compliance with regulations and/or voluntary 
+
+codes concerning the health and safety impacts of its products and services. Going forward, we aim to 
+
+maintain our record for FY2019. We also aim to establish a baseline for FY2019 and derive indicators 
+
+relating to safety in the workplace. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+13 
+
+ 
+
+Marketing and Labelling  
+
+[GRI 103-1 |103-2 | 103-3 | 417-2 | 417-3] 
+
+ 
+
+ 
+
+Why is this a material issue? 
+
+NSG is committed to the fair and responsible marketing of its products and services to its customers 
+
+and stakeholders, including the transparent communication of the economic, environmental and social 
+
+impacts of its brands, products and services.  Any breach of marketing and labelling standards for our 
+
+healthcare division could potentially also lead to customer health and safety issues, which is why the 
+
+Group places a material emphasis on this topic.  
+
+Our management approach 
+
+All professionals practising in our clinics under HSI are required to be registered and comply with the 
+
+Codes and Conduct and guidelines of their respective professional bodies, including those of the 
+
+Singapore Medical Council, the Singapore Dental Council and the Traditional Chinese Medicine 
+
+Practitioners Board, each with their respective guidelines on ethical advertising. All medical practitioners 
+
+are also required to conform to the Advertising Guidelines made pursuant to the Private Hospitals and 
+
+Medical Clinics Act (PHMCA) or the new Healthcare Services Bill.  
+
+FY2018 performance and targets 
+
+In FY2018, the organisation has not identified any incidents of non-compliance with regulations resulting 
+
+in a fine/penalty, a warning, or with voluntary codes related to product and service information and 
+
+labelling, and with matters related to marketing communications, including advertising, promotion and 
+
+sponsorship. Going forward, we aim to continue to comply with the rules within the PHMCA and Codes 
+
+and Conduct and guidelines established by the professional bodies. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+14 
+
+ 
+
+Customer Privacy 
+
+[GRI 103-1 |103-2 | 103-3 | 418-1] 
+
+ 
+
+ 
+
+Why is this a material issue? 
+
+The safeguarding of our customers’ private information is of paramount importance to NSG, especially 
+
+when the organisation deals with information as sensitive as the health data of its patients. Therefore, 
+
+the continued success of the Group’s performance is dependent on us maintaining the highest standards 
+
+of how our customers’ personal data is being collected, handled and protected, and we are committed 
+
+to doing so in relation to our business operations.  
+
+Our management approach 
+
+To meet NSG’s obligations under the Personal Data Protection Act (PDPA), NSG issued a notice to all 
+
+employees in 2018 regarding their obligations and roles under the Act as NSG staff. The notice 
+
+introduced the Group’s Privacy and Personal Data Protection Policies, which laid out our position and 
+
+guidelines on the collection of personal data from our existing and prospective customers, business 
+
+associates and employees, among others, and how we protect the use of these data. Additionally, our 
+
+clinical SOPs also included guidelines for clinical assistants to safeguard patients’ confidentiality.  
+
+NSG takes the adherence of these policies very seriously and all staff has been notified of the potential 
+
+of disciplinary action in the event of a breach. To ensure enforcement, we have appointed a dedicated 
+
+Data Protection Officer, which can be reached at dpo@newsilkroutes.org.  
+
+FY2018 performance and targets 
+
+In FY2018, the organisation has not received any substantiated complaints concerning breaches of 
+
+customer privacy from outside parties, regulatory bodies, nor recorded any incidents of leaks, thefts, or 
+
+losses of customer data.   
+
+Going forward, we aim to maintain our record for FY 2019. We will continue to work with our vendor to 
+
+ensure adequate cyber security over our patient database, including exploring the installation of 
+
+additional IT security enhancements such as user IDs and passwords, user access control, automatic 
+
+lock-out of unattended computers, etc. We also intend to establish a company intranet, or equivalent, 
+
+to facilitate sharing of our Privacy and Personal Data Protection policy documents with all employees.  
+
+
+
+
+
+
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+15 
+
+ 
+
+GRI Content Index 
+
+GRI 
+
+STANDARD 
+
+DISCLOSURE 
+
+PAGE 
+
+NUMBER(S) 
+
+OMISSION 
+
+GENERAL DISCLOSURE 
+
+GRI 102:  
+
+General 
+
+Disclosures 
+
+2016 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation 
+
+3  
+
+- 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+4 
+
+- 
+
+102-3 
+
+Location of headquarters 
+
+4 
+
+- 
+
+102-4 
+
+Location of operations 
+
+4 
+
+- 
+
+102-5 
+
+Ownership and legal form 
+
+Page 2 of 
+
+NSG’s FY2018 
+
+Annual Report 
+
+- 
+
+102-6 
+
+Markets served 
+
+4 
+
+- 
+
+102-7 
+
+Scale of the organisation 
+
+4 
+
+- 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+4 
+
+- 
+
+102-9 
+
+Supply chain 
+
+6 
+
+- 
+
+102-10 
+
+Significant changes to organisation 
+
+and its supply chain 
+
+Not applicable 
+
+This is our 
+
+inaugural report 
+
+102-11 
+
+Precautionary Principle or approach 
+
+6 
+
+- 
+
+102-12 
+
+External initiatives 
+
+7 
+
+- 
+
+102-13 
+
+Membership of associations 
+
+7 
+
+- 
+
+Strategy  
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+5 
+
+- 
+
+Ethics And Integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+6 
+
+- 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+6 
+
+- 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+8 
+
+ 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not applicable 
+
+We do not have 
+
+employee unions 
+
+in our business 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+8 
+
+- 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+8 
+
+- 
+
+102-44 
+
+Key topics and concerns raised  
+
+9 
+
+- 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial statements 
+
+Page 75 &amp; 76 
+
+of NSG’s 
+
+FY2018 Annual 
+
+Report 
+
+ 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+3 
+
+ 
+
+102-47 
+
+List all material topics 
+
+9 
+
+ 
+
+102-48 
+
+Restatements of information 
+
+Not applicable 
+
+This is our 
+
+inaugural report 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable 
+
+This is our 
+
+inaugural report 
+
+102-50 
+
+Reporting period 
+
+3 
+
+- 
+
+102-51 
+
+Date of the most recent report 
+
+Not applicable 
+
+This is our 
+
+inaugural report 
+
+102-52 
+
+Reporting cycle 
+
+3 
+
+- 
+
+
+ 
+
+New Silkroutes Group Limited | Sustainability Report FY 2018 
+
+ 
+
+16 
+
+ 
+
+GRI 
+
+STANDARD 
+
+DISCLOSURE 
+
+PAGE 
+
+NUMBER(S) 
+
+OMISSION 
+
+102-53 
+
+Contact point for questions 
+
+regarding this report 
+
+3 
+
+- 
+
+102-54 
+
+Claims of reporting in accordance 
+
+with the GRI Standards 
+
+3 
+
+- 
+
+102-55 
+
+GRI content index 
+
+15, 16 
+
+- 
+
+102-56 
+
+External assurance 
+
+3 
+
+- 
+
+MATERIAL TOPICS 
+
+ECONOMIC 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+10 
+
+- 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+10 
+
+- 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+10 
+
+- 
+
+GRI 201: 
+
+Economic 
+
+Performance 
+
+2016 
+
+201-1 
+
+Direct economic value generated 
+
+and distributed 
+
+10 
+
+- 
+
+SOCIAL 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+12 
+
+- 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+12 
+
+- 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+12 
+
+- 
+
+GRI 416: 
+
+Customer 
+
+Health and 
+
+Safety 2016 
+
+416-1 
+
+Incidents of non-compliance 
+
+concerning the health and safety 
+
+impacts of products and services 
+
+12 
+
+- 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+13 
+
+- 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+13 
+
+- 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+13 
+
+- 
+
+GRI 417: 
+
+Marketing 
+
+and 
+
+Labelling 
+
+2016 
+
+417-2 
+
+Incidents of non-compliance 
+
+concerning product and service 
+
+information and labelling 
+
+13 
+
+- 
+
+417-3 
+
+Incidents of non-compliance 
+
+concerning marketing 
+
+communications  
+
+13 
+
+- 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+14 
+
+- 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+14 
+
+- 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+14 
+
+- 
+
+GRI 418: 
+
+Customer 
+
+Privacy 
+
+2016 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of customer 
+
+privacy and losses of customer 
+
+data  
+
+14 
+
+- 
+
+ 
+
+ 
+
+ 
+

@@ -1,0 +1,7620 @@
+
+SUSTAINABILITY 
+
+REPORT 
+
+
+
+
+
+
+CONTENTS
+
+01
+
+About This Sustainability Report
+
+02
+
+CEO’s Statement
+
+03
+
+Board Statement
+
+04
+
+Corporate Profile
+
+05
+
+Materiality
+
+09
+
+Stakeholder Engagement
+
+11
+
+Governance
+
+13
+
+Economic Performance
+
+14
+
+Environment
+
+21
+
+Health and Safety
+
+23
+
+Product and Service Quality
+
+25
+
+People
+
+29
+
+Community
+
+31
+
+Sustainability Performance Data
+
+35
+
+GRI Content Index 
+
+41
+
+Independent Limited Assurance Report
+
+Cover: V on Shenton • UIC Building
+
+
+
+
+ABOUT THIS 
+
+SUSTAINABILITY REPORT
+
+
+
+This is the 3rd sustainability report published by United 
+
+Industrial Corporation Limited (“UIC” or the “Company”, 
+
+and together with its group of companies, the “Group”). 
+
+This report provides data and information on our efforts 
+
+toward managing our material Environmental, Social 
+
+and Governance (“ESG”) issues. 
+
+The UIC Sustainability Report 2019 (“SR2019”) covers 
+
+ESG performance data from our core business 
+
+operations in Singapore including commercial offices, 
+
+retail properties, development projects, information 
+
+technology business and head office in Singapore 
+
+from 1 January 2019 to 31 December 2019. This report 
+
+excludes overseas investments in China and the 
+
+United Kingdom, as well as our hospitality business and 
+
+development projects where we do not have direct 
+
+operational control.
+
+REPORTING STANDARDS AND PRINCIPLES
+
+The SR2019 has been prepared in accordance with 
+
+the Global Reporting Initiative (GRI) Standards: Core 
+
+Option, and with reference to GRI’s Construction and 
+
+Real Estate Sector Disclosures. The report complies with 
+
+the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) Listing Rules (711A and 711B), Sustainability 
+
+Reporting Guide. 
+
+GRI’s reporting principles were applied for defining 
+
+SR2019’s report content and quality. The report content 
+
+was determined using the GRI principles of stakeholder 
+
+inclusiveness, materiality, sustainability context and 
+
+completeness. GRI principles of accuracy, balance, 
+
+clarity, comparability, reliability and timeliness were 
+
+duly considered to ensure the quality of information 
+
+in the report.
+
+For the first time in this report, our material ESG topics 
+
+were mapped against the UN Sustainable Development 
+
+Goals (“SDGs”) to indicate how our sustainability efforts 
+
+contribute to sustainable development. The Company is 
+
+committed to continued integration of the SDGs into our 
+
+reporting process for future sustainability reports. Our 
+
+greenhouse gas (“GHG”) emissions were measured by 
+
+referring to the GHG Protocol.
+
+RESTATEMENTS
+
+Please refer to page 34 for information about the 
+
+restatements.
+
+EXTERNAL ASSURANCE
+
+This is the second year we have obtained independent 
+
+assurance. KPMG LLP has provided independent 
+
+assurance on specific sustainability data contained 
+
+in this report. For more details, see the Independent 
+
+Limited Assurance Report on page 41.
+
+REPORT AVAILABILITY
+
+SR2019, as well as past sustainability reports, are 
+
+available on our website www.uic.com.sg in PDF form for 
+
+browsing or downloading. In line with our environmental 
+
+conservation policy, hard copies of this report will not 
+
+be printed.
+
+CONTACT
+
+For feedback and suggestions, please contact us by 
+
+writing to sustainability@uic.com.sg.
+
+
+
+
+
+UIC Building reception
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+01
+
+
+CEO’S 
+
+STATEMENT
+
+
+
+In 2019, we reviewed our sustainability topics to focus our 
+
+efforts on mitigating UIC’s most material ESG risks. In our 
+
+materiality review, we also considered the UN SDGs to 
+
+identify the most relevant targets for UIC . Starting with this 
+
+report, we have integrated the SDGs into our sustainability 
+
+reporting process which will help us measure and 
+
+manage our contribution to sustainable development. 
+
+Our sustainability priorities are economic performance, 
+
+operating energy efficiency, workplace health and 
+
+safety, employee training and regulatory compliance,in 
+
+the operation and management of our commercial 
+
+buildings, retail malls and subsidiary information 
+
+technology business. 
+
+We support Singapore’s Climate Action Plan which 
+
+includes a goal to achieve Building and Construction 
+
+Authority (“BCA”) Green Mark for 80% of all buildings 
+
+in Singapore. As part of our commitment to combat 
+
+climate change, we target to achieve BCA Green Mark 
+
+certification by 2030 for all our commercial buildings 
+
+and retail malls which account for most of our energy 
+
+consumption and carbon dioxide (CO2) emissions. 
+
+In addition, we are also committed to improving our 
+
+buildings’ energy efficiency to cut GHG emissions. 
+
+Our ability to attract and retain talent is vital for the 
+
+success of our business. We are committed to building 
+
+a highly engaged, motivated and productive workforce. 
+
+We regularly invest in our people’s professional 
+
+and personal development by providing training 
+
+opportunities. 
+
+We remain committed to supporting the local community 
+
+through various corporate social responsibility initiatives 
+
+involving charitable causes and social enterprises with 
+
+employee engagement. 
+
+Finally, building and maintaining sustainable and high-
+
+quality spaces for our customers and tenants remain 
+
+key drivers of UIC’s economic growth. 
+
+On behalf of the Board of Directors of UIC, I invite you to 
+
+read this report to learn more about our sustainability 
+
+practices and efforts towards building a sustainable 
+
+business environment for Singapore. 
+
+LIM HOCK SAN 
+
+President/CEO 
+
+May 2020 
+
+
+
+
+
+
+
+We support Singapore’s 
+
+Climate Action Plan which 
+
+includes a goal to achieve 
+
+Building and Construction 
+
+Authority (“BCA”) Green 
+
+Mark for 80% of all 
+
+buildings in Singapore.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+02
+
+
+
+
+BOARD 
+
+STATEMENT 
+
+UIC recognises that the Company needs to consider the ecological, social and economic environment when 
+
+operating a business as they are essential for creating long-term values for the Company. UIC is committed 
+
+to incorporating sustainability in its business strategy and operations whilst it endeavours to uphold high 
+
+standards of corporate governance. 
+
+The UIC’s Board of Directors (“Board”) considers sustainability issues as part of its strategic business plans, 
+
+determines the material ESG factors, and oversees the management and monitoring of material sustainability 
+
+issues and proactive tracking of performance indicators.
+
+The Company’s annual sustainability reports are approved by the Board. 
+
+The Gateway
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+03
+
+
+
+
+CORPORATE 
+
+PROFILE
+
+UIC is a leading real estate company listed 
+
+since 1971. The Company’s diversified portfolio 
+
+comprises commercial investment properties, 
+
+residential development properties, hotels and 
+
+IT services.
+
+UIC acquired Singapore Land Limited in 1990 
+
+and expanded its portfolio of prime commercial 
+
+assets which currently includes 2.5 million 
+
+square feet of office space and 1 million square 
+
+feet of retail space in Singapore. The Company 
+
+also owns several overseas investment assets in 
+
+China and the United Kingdom.
+
+As a 50% owned subsidiary of UOL Group Limited 
+
+(“UOL”), UIC is committed to leveraging on its 
+
+strength to drive sustainable growth for our 
+
+shareholders and stakeholders.
+
+Please refer to UIC’s Annual Report 2019 for the 
+
+detailed information about the Group’s business 
+
+activities.
+
+Marina Square Shopping Mall
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+04
+
+
+
+
+MATERIALITY
+
+
+
+It is fundamental to our sustainability strategy that material 
+
+sustainability issues which are identified, prioritized and 
+
+reported here are those of concern to stakeholders 
+
+and which reflect the Company’s significant economic, 
+
+environmental and social impacts.
+
+Our material sustainability topics were first mapped in 
+
+2017 in a materiality assessment workshop attended 
+
+by the senior management team and representatives 
+
+of various business functions. In 2019, the Company 
+
+reviewed and refreshed these issues in a materiality 
+
+assessment workshop conducted by an external expert. 
+
+We considered megatrends in sustainability, emerging 
+
+issues affecting our industry and reporting by peers in 
+
+our evaluation of material topics. A materiality survey 
+
+was done to gather internal stakeholders’ views to 
+
+prioritise the material ESG issues for sustainability 
+
+reporting. This exercise helped us produce a materiality 
+
+matrix that reflects our priority issues.
+
+Materiality Matrix
+
+Influence on stakeholder assessments and decisions
+
+Significance of economic, environmental and social impacts
+
+Employee Turnover
+
+Employee Training
+
+Data 
+
+Privacy
+
+Product 
+
+Quality
+
+Regulatory 
+
+Compliance
+
+Occupational 
+
+Health &amp; Safety
+
+Water
+
+Climate Change
+
+Energy
+
+Anti-Corruption
+
+Economic 
+
+Performance
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+05
+
+
+MATERIALITY
+
+
+
+MATERIAL TOPIC BOUNDARIES, MANAGEMENT APPROACH AND TARGETS
+
+
+
+Material Topic
+
+Where the Impact 
+
+is material
+
+UIC’s Involvement
+
+Management 
+
+Approach
+
+Targets
+
+Economic 
+
+Performance
+
+The Group
+
+Direct
+
+Create long-
+
+term value for 
+
+stakeholders
+
+Maintain steady 
+
+recurring returns on 
+
+investments and 
+
+sustainable growth 
+
+of the business
+
+Anti-Corruption
+
+The Group
+
+Direct
+
+Maintain zero 
+
+tolerance for fraud 
+
+and unethical 
+
+behaviour
+
+Maintain zero 
+
+incident of 
+
+corruption
+
+Energy 
+
+Consumption
+
+Buildings and 
+
+Development 
+
+projects
+
+Direct / Through 
+
+contractor 
+
+relationships
+
+Adopt energy 
+
+efficiency measures 
+
+in buildings and 
+
+development 
+
+projects
+
+Achieve Green Mark 
+
+certifications for all 
+
+existing buildings by 
+
+2030
+
+Climate Change
+
+Buildings and 
+
+Development 
+
+projects
+
+Direct / Through 
+
+contractor 
+
+relationships
+
+Minimise and 
+
+mitigate greenhouse 
+
+gas emissions 
+
+from buildings and 
+
+during construction
+
+Achieve Green Mark 
+
+certifications for all 
+
+existing buildings by 
+
+2030
+
+Water Use
+
+Buildings and 
+
+Development 
+
+projects
+
+Direct / Through 
+
+contractor 
+
+relationships
+
+Adopt water 
+
+efficiency measures 
+
+in buildings and 
+
+construction
+
+Achieve Green Mark 
+
+certifications for all 
+
+existing buildings by 
+
+2030
+
+Health and Safety
+
+Buildings and 
+
+Development 
+
+projects
+
+Direct / Through 
+
+contractor 
+
+relationships
+
+Strict compliance 
+
+with workplace 
+
+safety and health 
+
+regulations and 
+
+procedures
+
+Achieve zero 
+
+accident at 
+
+workplace and 
+
+project sites
+
+Employee Turnover
+
+The Group
+
+Direct
+
+Hire, develop and 
+
+retain the right 
+
+talent
+
+Achieve 12% or 
+
+lower average 
+
+annual voluntary 
+
+turnover rate
+
+Employee Training
+
+The Group
+
+Direct
+
+Provide 
+
+opportunities for 
+
+individual learning 
+
+and development
+
+Achieve at least 10 
+
+training hours per 
+
+employee
+
+Data Privacy
+
+The Group
+
+Direct
+
+Compliance with 
+
+Personal Data 
+
+Protection Act 
+
+(PDPA) rules and 
+
+regulations
+
+Maintain zero 
+
+incident of data 
+
+privacy breaches or 
+
+infringements
+
+Regulatory 
+
+Compliance
+
+The Group
+
+Direct / Through 
+
+contractor 
+
+relationships
+
+Compliance 
+
+with applicable 
+
+socioeconomic and 
+
+environmental laws
+
+Maintain no breach 
+
+or violation of 
+
+existing laws and 
+
+regulations
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+06
+
+
+MATERIALITY
+
+
+
+OUR CONTRIBUTION TO THE SUSTAINABLE DEVELOPMENT GOALS (SDG)
+
+As an integral part of the 2030 Agenda for Sustainable Development adopted by the United Nations Member States 
+
+(UN) in 2015, the SDGs provide a holistic approach to achieving sustainable development. The 17 Goals and 169 
+
+targets aim to address a range of global challenges.
+
+UIC is committed to supporting sustainable development by aligning our material ESG factors with the following 
+
+SDGs to monitor, mark and reflect our present and future contributions. 
+
+
+
+Material ESG 
+
+Factors
+
+GRI 
+
+Standards
+
+SDG 
+
+Targets
+
+SDGs
+
+Economic 
+
+Performance
+
+GRI 201: Economic 
+
+Performance 2016
+
+8.2 Achieve higher levels of economic 
+
+productivity through diversification, 
+
+technological upgrading and innovation, 
+
+including through a focus on high-value 
+
+added and labour-intensive sectors
+
+Anti-Corruption
+
+GRI 205: Anti-Corruption 
+
+2016
+
+16.5 Substantially reduce corruption and 
+
+bribery in all their forms
+
+16.6 Develop effective, accountable and 
+
+transparent institutions at all levels
+
+Energy 
+
+Consumption
+
+GRI 302: Energy 2016
+
+CRE1: Building Energy 
+
+Intensity
+
+7.3 By 2030, double the global rate of 
+
+improvement in energy efficiency
+
+9.4 By 2030, upgrade infrastructure and retrofit 
+
+industries to make them sustainable, with 
+
+increased resource-use efficiency and greater 
+
+adoption of clean and environmentally sound 
+
+technologies and industrial processes, with all 
+
+countries taking action in accordance with 
+
+their respective capabilities
+
+Climate Change
+
+GRI 305: Emissions 2016
+
+Greenhouse Gas
+
+CRE3: Emissions 
+
+Intensity from Buildings
+
+CRE4: Greenhouse Gas 
+
+Emissions Intensity from 
+
+New Construction and 
+
+Redevelopment Activity
+
+13.1 Strengthen resilience and adaptive 
+
+capacity to climate-related hazards and 
+
+natural disasters in all countries
+
+Water Use
+
+GRI 303: Water 2016
+
+CRE2: Building Water 
+
+Intensity
+
+6.4 By 2030, substantially increase water-
+
+use efficiency across all sectors and ensure 
+
+sustainable withdrawals and supply of 
+
+freshwater to address water scarcity and 
+
+substantially reduce the number of people 
+
+suffering from water scarcity
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+07
+
+
+
+
+Material ESG 
+
+Factors
+
+GRI 
+
+Standards
+
+SDG 
+
+Targets
+
+SDGs
+
+Health and Safety
+
+GRI 403: Occupational 
+
+Health and Safety 2016
+
+GRI 416: Customer 
+
+Health and Safety 2016
+
+8.8 Protect labour rights and promote safe and 
+
+secure working environments for all workers, 
+
+including migrant workers, in particular, women 
+
+migrants, and those in precarious employment
+
+Employee Turnover
+
+GRI 401: Employment 
+
+2016
+
+8.5 By 2030, achieve full and productive 
+
+employment and decent work for all women 
+
+and men, including for young people and 
+
+persons with disabilities, and equal pay for 
+
+work of equal value
+
+Employee Training
+
+GRI 404: Training and 
+
+Education 2016
+
+8.5 By 2030, achieve full and productive 
+
+employment and decent work for all women 
+
+and men, including for young people and 
+
+persons with disabilities, and equal pay for 
+
+work of equal value
+
+Product Quality
+
+CRE8: Type and Number 
+
+of Sustainability 
+
+Certification, Rating 
+
+and Labeling Schemes 
+
+for New Construction, 
+
+Management, 
+
+Occupation and 
+
+Redevelopment
+
+12.2 By 2030, achieve the sustainable 
+
+management and efficient use of natural 
+
+resources
+
+Regulatory 
+
+Compliance
+
+GRI 307: Environmental 
+
+Compliance 2016
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance 2016
+
+16.3 Promote the rule of law at the national 
+
+and international levels and ensure equal 
+
+access to justice for all
+
+16.6 Develop effective, accountable and 
+
+transparent institutions at all levels
+
+MATERIALITY
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+08
+
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+
+
+Building a relationship with our stakeholders based on 
+
+trust is a crucial driver for the success in our business. 
+
+At UIC, stakeholder engagement is an integral part 
+
+of our sustainability strategy. Through constructive 
+
+engagement, the Company seeks to understand and 
+
+respond to our stakeholders’ views, concerns and 
+
+expectations.
+
+For the purpose of reporting, primary stakeholders 
+
+were first identified through a materiality assessment 
+
+workshop in 2017. Our primary stakeholders are entities 
+
+or individuals who may be significantly affected by our 
+
+business activities; or whose actions can potentially 
+
+affect our operations. UIC’s primary stakeholders include 
+
+our business partners, customers, tenants, employees, 
+
+regulators, investors and local communities.
+
+The Company interacts with our stakeholders through 
+
+various channels, both formal and informal. No 
+
+particular stakeholder group was specifically engaged 
+
+for the preparation of this report. However, insights 
+
+gained from our interactions with stakeholders were 
+
+prudently taken into consideration.
+
+Presented below is an overview of how we engage with 
+
+our stakeholders:
+
+
+
+Stakeholders
+
+Engagement Channel and Frequency
+
+Key Topics and Concerns
+
+Customers
+
+(home buyers, tenants 
+
+and shoppers)
+
+• Tenants: building management service 
+
+visits, networking sessions, email and phone 
+
+communications
+
+Frequency: Ad hoc
+
+• Business growth
+
+• Building management 
+
+services 
+
+• Car Parking
+
+• Building’s security and 
+
+cleanliness issues 
+
+• Homebuyers: dedicated customer service 
+
+teams, email and phone communications
+
+Frequency: Ad hoc
+
+• Quality and workmanship
+
+• Timely completion
+
+• Prompt resolution of 
+
+complaints
+
+• Project updates
+
+• Shoppers: Customer service counter and 
+
+loyalty programmes
+
+Frequency: Ongoing
+
+• Family-friendly facilities
+
+• Cleanliness
+
+• Accessibility for Persons with 
+
+Disabilities
+
+• Access to public transport
+
+• General public: Corporate website, email and 
+
+phone communications
+
+Frequency: Ad hoc
+
+• General feedback and 
+
+enquiries on products and 
+
+services offered, sustainability 
+
+issues, and PDPA complaints
+
+Contractors and 
+
+Suppliers
+
+• Bi-weekly meetings with contractors 
+
+• Weekly/daily site visits
+
+• Email and phone communications
+
+Frequency: Ongoing
+
+• Fair selection
+
+• Technical specifications and 
+
+guidance
+
+• Sharing of best practices
+
+• Timely payments
+
+Employees
+
+• Regular department meetings
+
+• Periodic management meetings
+
+• Training and workshops
+
+• Annual performance reviews
+
+• Company events and get-togethers such as 
+
+staff luncheon 
+
+Frequency: Ongoing
+
+• Fair employment policies
+
+• Personal development and 
+
+career growth
+
+• Work-life balance
+
+• Teamwork
+
+• Welfare
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+09
+
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+
+
+
+
+Stakeholders
+
+Engagement Channel and Frequency
+
+Key Topics and Concerns
+
+Regulators
+
+• Briefings
+
+• Site inspections
+
+• Application for permits
+
+• Renewal of government approvals
+
+• Consultations with statutory bodies
+
+Frequency: Ongoing 
+
+• Compliance with 
+
+environmental, health and 
+
+safety regulations
+
+• Green buildings
+
+• Productivity and quality
+
+• Innovation
+
+• Public safety
+
+Investors
+
+• Annual General Meeting
+
+• Announcements released on SGX website
+
+• Annual Report
+
+• Corporate website
+
+• Press releases
+
+Frequency:Ongoing
+
+• Return on investments
+
+• Good governance
+
+• Business growth
+
+• Risk management
+
+Communities
+
+• Ad hoc meetings
+
+• Feedback channel
+
+• Employee volunteering
+
+• Donations
+
+• Media releases
+
+• Communication material  
+
+(Flyers / Posters / Banners)
+
+Frequency: Ad hoc
+
+• Support for community 
+
+causes
+
+• Protection from noise and 
+
+dust from construction
+
+• Public safety
+
+MEMBERSHIPS
+
+UIC engages with several industry associations and trade bodies through active memberships. Some of these include:
+
+• Chartered Institute of Management Accountants
+
+• Fire Safety Managers’ Association
+
+• Institute of Singapore Chartered Accountants
+
+• Real Estate Developers’ Association of Singapore
+
+• Real Estate Information System
+
+• Singapore Academy of Law
+
+• Singapore Business Federation
+
+• Singapore Chinese Chamber of Commerce &amp; Industry
+
+• Singapore Green Building Council
+
+• Singapore National Employers Federation
+
+• The Institute of Internal Auditors
+
+• The Singapore Institute of Directors 
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+10
+
+
+GOVERNANCE
+
+
+
+In 2019, the Code of Corporate Governance 2018 (“2018 
+
+Code”) and accompanying Practice Guidance was 
+
+issued by the Monetary Authority of Singapore (“MAS”). 
+
+The 2018 Code supersedes the Code of Corporate 
+
+Governance 2012. UIC’s Annual Report 2019 is available 
+
+on its corporate website with detailed information about 
+
+UIC’s corporate governance structure and policies.
+
+The Board has oversight of the sustainability issues 
+
+through the Audit Committee (“AC”) and the Risk 
+
+Management Committee (“RMC”). The AC, through 
+
+the RMC, identifies and prioritises material ESG factors 
+
+and monitors performance. The Sustainability Steering 
+
+Committee (“SSC”) is headed by the President/
+
+CEO and supported by the operational Sustainability 
+
+Working Committee (“SWC”). The SSC is responsible for 
+
+implementing sustainability plans and strategies and 
+
+reports to the RMC. Representatives from various business 
+
+units and relevant functions are dedicated to collecting 
+
+and validating data for sustainability reporting.
+
+RISK MANAGEMENT 
+
+Managing social and environmental risks is part of our 
+
+overall risk management framework. We support the 
+
+precautionary principle by implementing proactive 
+
+measures to avoid and mitigate the negative impacts 
+
+of our operations.
+
+Under our Occupational Health and Safety (“OHS”) 
+
+management system, we maintain a risk register that 
+
+outlines the potential OHS risks present in the organisation. 
+
+We believe that building a risk-aware culture is essential 
+
+to reducing incidents at the workplace.
+
+REGULATORY COMPLIANCE
+
+The Group is committed to conducting its business 
+
+lawfully 
+
+and 
+
+in 
+
+compliance 
+
+with 
+
+applicable 
+
+regulations. The Legal, Human Resource and Corporate 
+
+Communications teams, through the various heads 
+
+of departments, are responsible for ensuring that 
+
+our employees are kept informed of relevant laws 
+
+and regulations as well as internal policies to avoid 
+
+breaches. All employees are also reminded of the 
+
+Group’s “Code of Conduct”, “Whistle-blowing Policy”, 
+
+“Anti-Bribery and Anti-Corruption Policy”, “Conflict of 
+
+Interest and Insider Trading” policies through periodic 
+
+internal communications.
+
+In 2019, there were no incidences of regulatory non-
+
+compliance with socio-economic or environmental 
+
+regulations. 
+
+ANTI-BRIBERY AND ANTI-CORRUPTION
+
+The Company takes a zero-tolerance position against 
+
+fraud and corruption. Our Anti-Bribery and anti-
+
+Corruption (“ABC”) policy is aimed at maintaining zero-
+
+tolerance toward dishonest and fraudulent behaviours 
+
+at all levels. The policy is included in the Company’s 
+
+“Code of Conduct” to emphasise the importance of 
+
+adherence to the highest standards of trustworthy and 
+
+ethical behaviour expected of our employees in all 
+
+interactions. 
+
+All new employees duly briefed on our ABC policy are 
+
+required to declare any conflict of interest upon joining 
+
+the company. The ABC policy is also communicated to 
+
+our suppliers, contractors, and business partners.
+
+Fraud and corruption risks are under the purview of the 
+
+Company’s RMC. Internal controls have been established 
+
+at an operational level to reduce opportunities for fraud 
+
+and corruption. 
+
+ 
+
+In 2019, there were no incidents of corruption at UIC.
+
+
+
+UIC Group 
+
+Board of Directors
+
+Audit 
+
+Committee
+
+Risk Management 
+
+Committee
+
+Sustainability Steering 
+
+Committee
+
+Sustainability Working 
+
+Committee
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+11
+
+
+GOVERNANCE
+
+
+
+ANTI-COMPETITION
+
+At UIC, we place a strong emphasis on fair competition. 
+
+We comply with Singapore’s Competition Act. There 
+
+were no cases of legal actions for anti-competitive 
+
+behaviour, anti-trust, and monopoly practices against 
+
+UIC in the reported period.
+
+WHISTLE-BLOWING POLICY
+
+We have implemented a “Whistle-blowing Policy” to 
+
+provide employees and external parties a confidential, 
+
+neutral and independent channel to report or feedback 
+
+their concerns in matters related to the Group. The “Whistle-
+
+blowing Policy” is listed on the Company’s corporate 
+
+website at www.uic.com.sg/whistle-blowing-policy. 
+
+All new employee orientation briefings cover the whistle-
+
+blowing procedures. All whistle-blowing cases received 
+
+through designated channels will be reported to the AC. 
+
+ 
+
+ETHICAL MARKETING
+
+Across the Group, we follow the principles of ethical 
+
+marketing of our products and services for the sales of 
+
+residential projects and commercial leasing activities. We 
+
+provide product-related information with transparency 
+
+to help customers make informed decisions. We adhere 
+
+to the Singapore Code of Advertising Practice and 
+
+relevant applicable rules and regulations. 
+
+In 2019, there were no incidents of non-compliance 
+
+concerning our marketing practices.
+
+PERSONAL DATA PROTECTION
+
+The Company is committed to ensuring customer 
+
+privacy and personal data protection. We comply with 
+
+Singapore’s Personal Data Protection Act (“PDPA”) 
+
+and guidelines issued by the Personal Data Protection 
+
+Commission (“PDPC”) to manage and protect personal 
+
+information relating to our customers, shareholders, 
+
+prospects, employees and business partners. Our 
+
+Personal Data Protection Policy requires our employees 
+
+to ensure personal data is only collected, used, stored 
+
+and disposed off in accordance with the PDPA and the 
+
+relevant data privacy laws and guidelines. 
+
+In 2019, the Company received four complaints from 
+
+the PDPC, two of which submitted by visitors to one of 
+
+our commercial buildings concerned the handling 
+
+of personal data by outsourced security personnel, 
+
+following the PDPC’s implementation of the new advisory 
+
+guidelines in respect of NRIC and other national 
+
+identification numbers on 1 September 2019. The 
+
+Company explained to PDPC the lapses and remedial 
+
+actions taken by its outsourced security and no further 
+
+queries were received from PDPC. The remaining two 
+
+cases involving handling of personal data by our staff 
+
+have been officially closed following the Company’s 
+
+confirmation that all necessary measures have been 
+
+taken to ensure compliance with PDPA and PDPC 
+
+guidelines.
+
+Consequently, the Company had stepped up its efforts 
+
+to comply with the PDPA and PDPC guidelines through 
+
+various initiatives by December 2019, including:
+
+a) Comprehensive PDPA training of the Group’s 
+
+Data Protecton Officers (DPOs) and related data 
+
+protection representatives of relevant business units;
+
+b) Raising awareness of nine PDPA principles and 
+
+guidelines among Company’s employees through 
+
+internal campaigns;
+
+c) Reviewing and establishment of internal workflows 
+
+and procedures concerning the collection, usage, 
+
+storage and disposal of personal data, to comply 
+
+with the PDPA and PDPC guidelines.
+
+The 
+
+Company’s 
+
+“Personal 
+
+Data 
+
+Protection 
+
+Policy” is available on our corporate website at  
+
+www.uic.com.sg/disclaimer-privacy-policy.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+12
+
+
+
+
+
+
+ECONOMIC 
+
+PERFORMANCE
+
+
+
+UIC is committed to creating sustainable economic 
+
+value 
+
+for 
+
+our 
+
+shareholders 
+
+and 
+
+stakeholders. 
+
+Conducting business in a sustainable manner and 
+
+generating stable recurring revenue streams have been 
+
+core business directives of the Company. 
+
+We provide detailed information outlining the Group’s 
+
+financial 
+
+performance, 
+
+management 
+
+reviews, 
+
+corporate governance and risk management systems 
+
+in our Annual Reports. Data extracted from our financial 
+
+statement is presented below in line with the GRI 
+
+Standards disclosure requirements. 
+
+INDIRECT ECONOMIC PERFORMANCE
+
+The Group contributes to the economy of Singapore 
+
+by creating homes, providing office and retail spaces, 
+
+creating jobs for employees engaged, as well as 
+
+through the taxes paid to the government. 
+
+Our indirect economic contributions are also through 
+
+our supply chain. We engage local contractors and 
+
+suppliers for our property development and building 
+
+management, which indirectly generate jobs and 
+
+incomes. 
+
+ECONOMIC PERFORMANCE SUMMARY
+
+
+
+2017
+
+2018
+
+2019
+
+Revenue ($m)
+
+1,292
+
+657
+
+789
+
+Patmi ($m)
+
+305
+
+317
+
+605
+
+Gearing ratio
+
+5
+
+3
+
+5
+
+Return on equity (%)
+
+5
+
+5
+
+8
+
+Total assets ($m)
+
+8,252
+
+8,416
+
+9,025
+
+Earnings per share (cents)
+
+21.4
+
+22.1
+
+42.2
+
+Further information on UIC’s business activities and performance can be found in our Annual Report 2019.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+13
+
+
+ENVIRONMENT
+
+
+
+Our policy is to minimise the impact of our business 
+
+operations on the environment. We are committed to 
+
+supporting the transition to a low-carbon economy as 
+
+envisioned by the Paris Agreement and the UN SDGs. 
+
+Besides regulatory compliance, our efforts focus on 
+
+proactively measuring, monitoring and mitigating 
+
+significant ecological impacts. Our material environmental 
+
+topics include energy consumption, CO2 emissions and 
+
+water use. The environmental performance data relating 
+
+to our corporate office, retail and commercial buildings, 
+
+development projects and information technology 
+
+business are presented in this chapter.
+
+The Company adheres to national environmental 
+
+standards applicable to our businesses. We also strive 
+
+to adopt international environmental management 
+
+system standards such as the ISO 14001. In 2019, 
+
+West Mall was awarded ISO14001:2015 (Property and 
+
+Facility Management for Shopping Mall) for its efforts 
+
+in meeting the ISO standards for the Environmental 
+
+Management System.
+
+CLIMATE CHANGE
+
+In line with the Paris Agreement on climate change, UIC 
+
+is committed to supporting both national and global 
+
+efforts aimed at limiting the rise in global temperature 
+
+to well below 2 degrees Celsius, while striving to limit the 
+
+increase to 1.5 degrees. 
+
+In 2018, UIC made the ‘Singapore Climate Action 
+
+Pledge’ to support the Year of Climate Action declared 
+
+by the Singapore’s Ministry of the Environment and 
+
+Water Resources. As part of our climate action pledge, 
+
+we have commenced on the replacement of LED 
+
+luminaires for our corporate offices in 2019 and will strive 
+
+for all our investment properties to be BCA Green Mark 
+
+certified by 2030. 
+
+Our subsidiary, Alprop Pte Ltd., which owns and manages 
+
+West Mall had partially attained its 2018 climate action 
+
+goals with 3% reduction in terms of CO2 emission and 
+
+energy consumptions in 2019, against the initial 5% 
+
+reduction target set. Water use however, increased in 
+
+2019 as compared to 2018 due to increased water 
+
+used for cooling the mall’s centralised air-conditioning 
+
+system as a result of higher ambient temperatures 
+
+during several months of the year.
+
+At the operational level, driving energy efficiency during 
+
+construction and in building management remains our 
+
+core priority to limit CO2 emissions linked to our business.
+
+Energy Use – Corporate Office
+
+Note: Energy refers to purchased electricity consumption.
+
+* Our corporate office sits within Clifford Centre (Level 22 and 24) and 
+
+forms a subset of the building energy and GHG emissions reported.
+
+* Above data of 150 MWh energy use in 2018 was an approximated 
+
+figure based on the actual 74.9 MWh energy use recorded from 20 
+
+Jul – 31 Dec 2018.
+
+160
+
+545
+
+500
+
+505
+
+510
+
+515
+
+520
+
+525
+
+530
+
+535
+
+540
+
+150
+
+140
+
+130
+
+MWh
+
+GJ
+
+120
+
+110
+
+100
+
+2018
+
+2019
+
+
+
+
+
+150
+
+539
+
+542
+
+151
+
+GHG Emissions – Corporate Office
+
+65.0
+
+tonnes CO2
+
+60.0
+
+55.0
+
+50.0
+
+• Our corporate office sits within Clifford Centre (Level 22 and 24) and 
+
+forms a subset of the building energy and GHG emissions reported.
+
+• Above data of 62.8 tonnes CO2 emissions in 2018 was an 
+
+approximated figure based on the actual 74.9 MWh energy use 
+
+recorded from 20 Jul – 31 Dec 2018. 
+
+2018
+
+2019
+
+
+
+
+
+62.8
+
+63.1
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+14
+
+
+
+
+
+
+ENVIRONMENT
+
+
+
+GHG EMISSIONS
+
+Our approach is to minimise emissions intensity through 
+
+energy efficiency measures in project development 
+
+and building management. We track and report CO2 
+
+emissions resulting from the use of electricity across 
+
+our corporate office, buildings (retail and commercial), 
+
+development projects and information technology 
+
+business, and diesel consumed at our development 
+
+project sites. 
+
+In 2019, the total GHG emissions for both commercial 
+
+and retail buildings was 29,383 tonnes of CO2 with a 
+
+GHG emissions intensity of 64.9kg of CO2/m2. 
+
+29,383
+
+28,245
+
+27,973
+
+GHG Emissions (Absolute) – Buildings
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+35,000
+
+20,000
+
+30,000
+
+15,000
+
+5,000
+
+25,000
+
+10,000
+
+0
+
+tonnes CO2
+
+2017
+
+2018
+
+2019
+
+10,331
+
+9,767
+
+10,463
+
+17,642
+
+18,478
+
+18,920
+
+Buildings (Total)
+
+GHG Emissions (Intensity) – Buildings
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+80.0
+
+60.0
+
+30.0
+
+70.0
+
+40.0
+
+50.0
+
+20.0
+
+10.0
+
+0.0
+
+kg CO2/m2
+
+2017
+
+2018
+
+2019
+
+70.2
+
+64.9
+
+65.5
+
+62.4
+
+69.3
+
+61.8
+
+58.1
+
+60.8
+
+62.3
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+15
+
+
+
+
+
+
+ENVIRONMENT
+
+
+
+ENERGY EFFICIENCY
+
+The buildings and construction sector accounted for 
+
+36% of energy use and 39% of energy and process-
+
+related CO2 emissions in 2018, according to the 2019 
+
+Global Status Report for Buildings and Construction. A 
+
+major source of energy use and emissions by buildings 
+
+is electricity.
+
+In Singapore, natural gas, a relatively cleaner source 
+
+compared with coal, is the primary fuel for generating 
+
+electricity by power generation companies. Our 
+
+approach is to pursue energy efficiency measures 
+
+such as using passive and low-energy designs to 
+
+minimise energy intensity from the commercial and 
+
+retail properties we manage. For example, our BCA 
+
+Green Mark certified buildings in Singapore promote 
+
+sustainable designs and operational practices that 
+
+contribute to better energy efficiency.
+
+In 2019, we commenced the switch to sustainable 
+
+energy-saving lightings in few of our commercial 
+
+buildings. 
+
+Cooling 
+
+towers 
+
+and 
+
+air-conditioning 
+
+systems were also upgraded progressively in these 
+
+buildings to promote efficient electricity consumptions.  
+
+The total energy (electricity) consumed in both retail 
+
+and commercial buildings was 70,161MWh, with a 
+
+building energy intensity of 155KWh/m2. 
+
+Electricity Use (Absolute) – Buildings 
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+80,000
+
+50,000
+
+70,000
+
+40,000
+
+20,000
+
+60,000
+
+30,000
+
+10,000
+
+0
+
+MWh
+
+2017
+
+2018
+
+2019
+
+24,383
+
+41,638
+
+44,078
+
+45,177
+
+23,300
+
+24,984
+
+70,161
+
+67,378
+
+66,021
+
+Electricity Use (Intensity) – Buildings 
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+Buildings (Total)
+
+180
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+120
+
+140
+
+160
+
+kWh/m2
+
+2017
+
+2018
+
+2019
+
+149
+
+155
+
+168
+
+145
+
+149
+
+156
+
+137
+
+146
+
+163
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+16
+
+
+
+
+
+
+ENVIRONMENT
+
+
+
+Energy Use (Absolute) – Buildings 
+
+Buildings (Retail) GJ
+
+Buildings (Commercial) GJ
+
+Note: Energy refers to purchased electricity consumption.
+
+300,000
+
+200,000
+
+100,000
+
+250,000
+
+150,000
+
+50,000
+
+0
+
+GJ
+
+2017
+
+2018
+
+2019
+
+87,779
+
+83,880
+
+89,944
+
+149,897
+
+158,681
+
+162,638
+
+252,582
+
+242,561
+
+237,676
+
+Energy Use (Intensity) – Buildings 
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+Buildings (Total)
+
+Note: Energy refers to purchased electricity consumption.
+
+0.70
+
+0.50
+
+0.20
+
+0.60
+
+0.30
+
+0.40
+
+0.10
+
+0.00
+
+GJ/m2
+
+2017
+
+2018
+
+2019
+
+0.49
+
+0.52
+
+0.52
+
+0.54
+
+0.56
+
+0.59
+
+0.56
+
+0.60
+
+0.54
+
+Despite energy conservation efforts, energy use in 
+
+2019 witnessed slight increase in most buildings under 
+
+the Group. Besides the reduced efficiency caused 
+
+by a faulty chiller at Marina Square Shopping Mall 
+
+which was subsequently rectified towards the end of 
+
+the year, a few of our office buildings also recorded 
+
+higher electricity consumptions due to extended air-
+
+conditioning hours beyond normal office hours, at the 
+
+requests of buildings’ tenants.
+
+Referencing past years’ data, the Group is able to 
+
+mark the electricity consumption trend of commercial 
+
+buildings. Our target is to reduce electricity intensity of 
+
+our commercial buildings by 8% by 2025, using 2015 as 
+
+the base year. 
+
+From 2020 onwards, we plan to commence the 
+
+monitoring and analysis of electricity usage trends of 
+
+all our commercial buildings, so as to formulate further 
+
+energy saving initiatives. We target to maintain the 
+
+electricity intensity at 149 KWh/m2 in 2020.
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+17
+
+
+ENVIRONMENT
+
+
+
+WATER
+
+Water stress is one of the emerging sustainability issues 
+
+worldwide. Singapore, in particular, is vulnerable to water 
+
+stress due to the lack of natural freshwater resources. 
+
+Therefore, the prudent use of water and wastewater 
+
+recycling are essential aspects of our environmental 
+
+strategy. Our approach is to reduce water use intensity 
+
+in our buildings and construction.
+
+Our Green Mark certified buildings are equipped 
+
+with an array of water-efficient features and fittings. 
+
+Since 2018, we have implemented various water-
+
+saving initiatives at our buildings to help reduce water 
+
+consumptions. Installations of water efficient taps and 
+
+upgrading of the washroom amentities such as auto 
+
+sensors and flush valves were examples of on-going 
+
+sustainability initiatives
+
+In 2019, the total water consumption in both retail and 
+
+commercial buildings was 533,000 m3, with a building 
+
+water intensity of 1.18m3/m2. The overall water use at our 
+
+retail malls and commercial buildings were marginally 
+
+higher than previous year. Generally, 2019 proved to be 
+
+one of the hottest years on record in Singapore, with the 
+
+annual mean temperature hitting 28.4 °C. This has led to 
+
+increased water use for cooling down chiller units of the 
+
+buildings’ air-conditioning systems for most office buildings. 
+
+Consequently, we aim to commence a water conservation 
+
+awareness programme for our commercial buildings’ 
+
+tenants in 2020. Our target is to achieve a water intensity of 
+
+1.14 m3/m2 for all our commercial buildings by 2025. From 
+
+2020 onwards, our target is to ensure that water intensity 
+
+does not exceed the 2019 level while developing further 
+
+initiatives to meet our 2025 target.
+
+489
+
+500
+
+533
+
+Water Use (Absolute) – Buildings
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+600
+
+400
+
+500
+
+300
+
+200
+
+100
+
+0
+
+thousand m3
+
+2017
+
+2018
+
+2019
+
+170
+
+145
+
+146
+
+319
+
+355
+
+387
+
+Buildings (Total)
+
+Water Use (Intensity) – Buildings
+
+Buildings (Retail)
+
+Buildings (Commercial)
+
+1.40
+
+1.00
+
+0.40
+
+1.20
+
+0.60
+
+0.80
+
+0.20
+
+0.00
+
+m3/m2
+
+2017
+
+2018
+
+2019
+
+1.05
+
+1.08
+
+1.10
+
+1.17
+
+1.00
+
+1.10
+
+1.27
+
+0.98
+
+1.18
+
+WASTE MANAGEMENT
+
+Waste is generated in our commercial buildings and 
+
+retail malls primarily by tenants and visitors. Almost 
+
+all of the waste generated from our premises is non-
+
+hazardous. All the waste generated is disposed of by 
+
+licensed waste management companies. 
+
+Building Waste
+
+In managing our buildings, we ensure that the waste 
+
+generated by our tenants and visitors to our retail premises 
+
+is responsibly managed and disposed of. Waste is collected 
+
+and stored in designated bins and disposed of through 
+
+licensed waste recycling and management companies.
+
+While we currently do not report waste management data, 
+
+we endeavor to establish an efficient and environment-
+
+friendly waste management and reporting system. With 
+
+more accurate reporting, we strive to engage our retail 
+
+and office tenants in active waste reduction and recycling. 
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+18
+
+
+ENVIRONMENT
+
+
+
+
+
+
+
+
+
+Energy Use (Absolute &amp; Intensity) 
+
+– Development Projects
+
+20,000
+
+14,000
+
+18,000
+
+12,000
+
+8,000
+
+6,000
+
+4,000
+
+2,000
+
+16,000
+
+10,000
+
+0
+
+0.60
+
+0.40
+
+0.10
+
+0.50
+
+0.20
+
+0.30
+
+0.00
+
+GJ
+
+GJ/value of work completed ($’000)
+
+2017
+
+2018
+
+2019
+
+18,799
+
+11,244
+
+17,665
+
+Note: Energy refers to purchased electricity consumption and fuel 
+
+(diesel).
+
+DEVELOPMENT PROJECTS
+
+We require all main contractors to maintain the ISO 
+
+14001 or an equivalent certification to ensure a robust 
+
+environmental management system.
+
+For this report, we included only one development project 
+
+for 2019 as compared with seven in 2018, and six in 2017. 
+
+The development project in 2019 refers to The Tre Ver, of 
+
+which UIC owns 50% interest in a joint venture with UOL. 
+
+GHG Emissions (Absolute &amp; Intensity) 
+
+– Development Projects
+
+2,000
+
+1,200
+
+400
+
+1,800
+
+1,000
+
+200
+
+1,600
+
+800
+
+1,400
+
+600
+
+0
+
+45.0
+
+35.0
+
+10.0
+
+20.0
+
+40.0
+
+15.0
+
+25.0
+
+30.0
+
+5.0
+
+0.0
+
+tonnes CO2e
+
+kg CO2e by value of work completed ($’000)
+
+2017
+
+2018
+
+2019
+
+
+
+
+
+
+
+1,757
+
+1,386
+
+833
+
+11.1
+
+22.4
+
+38.8
+
+0.52
+
+0.29
+
+0.12
+
+Water Use (Absolute &amp; Intensity) 
+
+– Development Projects
+
+
+
+
+
+
+
+30,000
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+180.0
+
+100.0
+
+140.0
+
+60.0
+
+160.0
+
+80.0
+
+120.0
+
+40.0
+
+20.0
+
+0.0
+
+thousand m3
+
+m3 by value of work completed ($’000)
+
+2017
+
+2018
+
+2019
+
+55
+
+164.9
+
+0.9
+
+0.001
+
+17
+
+26,149
+
+
+
+The Tre Ver
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+19
+
+
+ENVIRONMENT
+
+
+
+Energy Use – UICT
+
+GHG Emissions – UICT
+
+Water Use – UICT
+
+Note: Energy refers to purchased electricity consumption. 
+
+INFORMATION TECHNOLOGY BUSINESS
+
+Our subsidiary UIC Technologies Pte Ltd (“UICT”) offers 
+
+solutions in systems integrations, general information 
+
+technology services, payroll software and human 
+
+resource outsourcing services. UICT is an accredited 
+
+Microsoft Cloud Platform (Azure) Gold partner, Microsoft 
+
+Cloud Productivity (Office 365) Gold partner, HP Enterprise 
+
+Platinum partner and DELL Platinum partner.
+
+UICT closely monitors energy consumption and the 
+
+CO2 emissions associated with the use of electricity 
+
+to identify opportunities for reducing its environmental 
+
+footprint. 
+
+UICT’s energy use is mainly attributed to electricity 
+
+required for office lightings, air-conditioning system, as 
+
+well as the operations of computers, servers, copiers 
+
+and relevant office equipment. It was encouraging to 
+
+note that UICT experienced a 20.7% reduction in its 
+
+electricity consumption in 2019 due to the switch of 
+
+40% of its existing office lightings to more sustainable 
+
+energy-saving LED lights. The remaining lightings will be 
+
+progressively changed in phases from 2020 onwards.
+
+The 18.3% increase in water consumption at UICT could 
+
+be attributed to the intensified usage of the newly-
+
+installated water dispenser, and a major office deep-
+
+cleaning exercise. The new water dispenser lowered 
+
+the Company’s reliance on bottled water purchase for 
+
+in-house training classes conducted for clients, and 
+
+promoted better general health for UICT staff.
+
+ENVIRONMENTAL COMPLIANCE
+
+Compliance with the applicable environmental health 
+
+and safety regulations throughout our operations is 
+
+crucial for our reputation and uninterrupted business 
+
+operation. In development projects, we require our 
+
+contractors to comply with the relevant rules and 
+
+regulations relating to environmental issues such as 
+
+noise, vector control and wastewater discharge.
+
+In 2019, there were no reportable incidents of significant 
+
+non-compliance with environmental laws.
+
+300.0
+
+200.0
+
+100.0
+
+250.0
+
+150.0
+
+50.0
+
+0.0
+
+1,200
+
+800
+
+200
+
+1,000
+
+400
+
+600
+
+0
+
+MWh
+
+GJ
+
+2018
+
+2019
+
+
+
+
+
+1,004
+
+794
+
+279
+
+221
+
+105
+
+95
+
+110
+
+100
+
+90
+
+85
+
+80
+
+tonnes CO2
+
+2018
+
+2019
+
+
+
+
+
+107.9
+
+92.4
+
+115.0
+
+105.0
+
+95.0
+
+110.0
+
+100.0
+
+90.0
+
+85.0
+
+m3
+
+2018
+
+2019
+
+
+
+
+
+93.7
+
+110.9
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+20
+
+
+HEALTH 
+
+AND SAFETY
+
+
+
+We believe the health and safety of our employees, 
+
+tenants, contractors, customers, guests and visitors to 
+
+our buildings and workers at our development sites 
+
+are our top priorities. We are committed to promoting 
+
+a culture of workplace safety and health across our 
+
+business operations. 
+
+Taking preventive measures to safeguard against 
+
+accidents are essential to our health and safety practices. 
+
+UIC’s senior management regularly reviews the health 
+
+and safety performance across our businesses. Besides 
+
+periodic reviews and evaluations of our operations and 
+
+systems, we also conduct annual audits on our properties 
+
+to ensure compliance with legal requirements.
+
+In Singapore, we follow bizSAFE, a five-step national 
+
+programme to help companies build up capabilities 
+
+in addressing workplace safety, health and security. In 
+
+2019, we renewed our bizSAFE Level 3 certification for 
+
+Marina Square Shopping Mall. For UIC Building, our 
+
+facility management services provider has attained 
+
+bizSAFE Level Star, the highest level achievable for 
+
+certification by bizSAFE.
+
+We have implemented a comprehensive OHS policy to 
+
+prevent accidents and minimise health and safety risks 
+
+at project sites as well as for the buildings we manage.
+
+BUILDINGS
+
+Emergency Response Teams are set up in the buildings 
+
+we manage to prepare employees for emergencies. 
+
+We have implemented the necessary measures to ensure 
+
+the fire safety of the properties under our management. 
+
+The buildings are fitted out with advanced fire control 
+
+equipment. We organise periodic fire drills to raise the 
+
+fire safety awareness of our buildings’ occupants and to 
+
+evaluate the readiness of our fire fighting teams in the 
+
+event of an emergency. We have established standard 
+
+operating procedures and training for our building 
+
+management employees and occupants to ensure an 
+
+orderly response to fire emergencies.
+
+Preventive maintenance and inspection of all lifts and 
+
+escalators in our buildings are conducted regularly to 
+
+keep them reliable and safe for use.
+
+We also ensure the highest levels of cleanliness and 
+
+hygiene in the common areas of the buildings under our 
+
+management. The health and safety of the tenants and 
+
+visitors to the buildings we manage are our top priorities.
+
+UIC regularly tracks the safety performance of its buildings 
+
+and review its OHS policy and practices. In 2019, there were 
+
+no fatal or non-fatal injuries, and there were no reported 
+
+incidents of occupational diseases. The number of lost 
+
+days was ten during the year, which was a continuation 
+
+from a reported injury in 2018. Currently, we do not report 
+
+AFR and ASR for buildings as we do not track man-hours 
+
+worked for our employees and contractors.
+
+Please refer to Sustainability Performance Data on page 
+
+31 for more details.
+
+DEVELOPMENT PROJECTS
+
+As developers, we understand that project sites are 
+
+prone to accidents and present workplace safety and 
+
+health hazards. Our approach is to adhere strictly to 
+
+statutory regulations and our OHS policy and practices, 
+
+in order to maintain healthy, safe and zero-accident 
+
+workplaces for our projects under constructions. 
+
+We require all main contractors to hold the OHSAS 
+
+18001 or an equivalent certification to ensure a robust 
+
+occupational health and safety management system. 
+
+Our contractors are engaged through weekly meetings 
+
+where safety reports, safety challenges and preventive 
+
+actions were reviewed and discussed. We strongly 
+
+encourage our contractors to report on all near-
+
+misses incidents so that preventive measures can be 
+
+taken proactively to promote a strong health &amp; safety 
+
+culture. By regulatory requirement, external safety audits 
+
+are conducted twice yearly. The auditor’s reports are 
+
+reviewed by our consultants and are submitted to the 
+
+Ministry of Manpower for their necessary action, if any.
+
+To promote safe practices at our development projects, 
+
+we engaged our contractors and sub-contractors by 
+
+reviewing and simplifying the work processes with the 
+
+objective of reducing or eliminating all safety issues on site.
+
+We had only one active development project in 2019. 
+
+There were no fatal injuries during the year. The target 
+
+set for 2019 was zero recordable incidents at both 
+
+workplace and project sites. However, only the target for 
+
+workplace has been achieved, as there was one non-
+
+fatal injury at the project sites that resulted in 42 lost 
+
+man days. The total number of man-hours worked at the 
+
+project sites in 2019 was 387,540.
+
+Please refer to Sustainability Performance Data on page 
+
+31 for more details.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+21
+
+
+
+
+
+
+HEALTH 
+
+AND SAFETY
+
+
+
+Accident Frequency Rate (AFR) 
+
+– Development Projects
+
+Accident Severity Rate (ASR) 
+
+– Development Projects
+
+REGULATORY COMPLIANCE
+
+In 2019, UIC had no incidents of non-compliance with laws, codes and regulations concerning health and safety 
+
+at buildings and development projects. 
+
+2.0
+
+0.0
+
+0.8
+
+0.4
+
+1.2
+
+1.6
+
+0.2
+
+1.0
+
+0.6
+
+1.4
+
+1.8
+
+Number of workplace accidents per 
+
+million manhours worked
+
+2018
+
+2017
+
+2019
+
+2018
+
+2017
+
+2019
+
+0.2
+
+2.1
+
+1.5
+
+24.3
+
+1.7
+
+72.9
+
+80.0
+
+40.0
+
+60.0
+
+20.0
+
+70.0
+
+30.0
+
+50.0
+
+10.0
+
+0.0
+
+Number of hours lost to workplace 
+
+accidents per million manhours worked 
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+22
+
+
+PRODUCT AND 
+
+SERVICE QUALITY
+
+
+
+As a diversified real estate company, UIC focuses 
+
+on developing high-quality retail, commercial and 
+
+residential properties. We apply sustainability principles 
+
+and implement quality standards in buildings under 
+
+our management, as well as throughout the life cycle 
+
+of our development projects. We take a comprehensive 
+
+approach to deliver quality, from the design and 
+
+development of resilient and environment-friendly 
+
+buildings to the provision of comfort and convenience 
+
+for residents, tenants and other users.
+
+Quality standards and sustainability guidelines are 
+
+carefully incorporated, starting from the planning and 
+
+design stage through to the construction and building 
+
+operation and management. We adhere to high 
+
+standards of architectural design and workmanship on, 
+
+structural, electrical and mechanical works. 
+
+Our residential development projects below were conferred the respective awards:
+
+
+
+Project Name
+
+Award Name
+
+Award Category
+
+Avenue South Residence
+
+PropertyGuru Asia Property Awards 
+
+Grand Final 2019
+
+• Country Winner – Best High Rise Condo 
+
+Interior Design (Asia)
+
+International Property Awards 
+
+(Asia Pacific) 2019
+
+• Winner – Residential High-rise 
+
+Architecture Singapore
+
+The Clement Canopy
+
+PropertyGuru Asia Property Awards 
+
+Grand Final 2019
+
+• Country Winner – Best High Rise Condo 
+
+Architectural Design (Asia)
+
+• Country Winner – Best Condo 
+
+Landscape Architectural Design (Asia)
+
+EdgeProp Singapore Excellence 
+
+Awards 2019
+
+• Innovation Excellence Award 
+
+(Completed – Residential)
+
+• Landscape Excellence Award – 
+
+Developer &amp; Architect  
+
+(Completed – Residential)
+
+Providing best in class customer service is our business 
+
+priority. We are committed to delivering high levels 
+
+of customer service and addressing complaints 
+
+satisfactorily. In 2019, there were no incidents of non-
+
+compliance concerning the health and safety impacts 
+
+of our products and services.
+
+GREEN BUILDING
+
+We are guided by Singapore’s “BCA Green Mark” 
+
+certification scheme, a green building rating system 
+
+established by BCA to evaluate a building for its 
+
+environmental impact and performance. Wherever 
+
+possible, UIC aligns its existing buildings’ facilities, 
+
+design and operation practices against the established 
+
+framework in the pursuit of improving its overall 
+
+environmental performance.
+
+Our BCA Green Mark certified properties’ sustainability 
+
+features include climate responsive designs, energy 
+
+and water efficiency, sustainable construction materials, 
+
+efficient waste management systems and good indoor 
+
+air quality. 
+
+All our new development projects are also subject 
+
+to BCA’s Construction Quality Assessment System 
+
+(CONQUAS) and buildability score. Our target for all 
+
+new development projects is to achieve a minimum 
+
+Green Mark Gold certification.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+23
+
+
+PRODUCT AND 
+
+SERVICE QUALITY
+
+
+
+The following list details the BCA Green Mark certified buildings under the Group:
+
+BCA GREEN MARK AWARDS
+
+
+
+Property
+
+Category
+
+Year
+
+West Mall
+
+BCA Green Mark Gold 
+
+Re-certified in 2019
+
+UIC Building
+
+BCA Green Mark Gold Plus
+
+Re-certified in 2019
+
+Stamford Court
+
+BCA Green Mark Platinum
+
+Awarded in 2019
+
+Singapore Land Tower
+
+BCA Green Mark Gold Plus
+
+Awarded in 2019
+
+By 2030, we target to attain BCA Green Mark certifications for all commercial buildings and retail malls owned by 
+
+the Group.
+
+
+
+
+
+
+
+
+
+West Mall
+
+UIC Building
+
+Stamford 
+
+Court
+
+Singapore 
+
+Land Tower
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+24
+
+
+PEOPLE
+
+
+
+Our employees are our most valuable assets. Our 
+
+talent strategy is closely aligned to our business 
+
+strategy and focused on attracting and hiring the right 
+
+talent, developing organization capabilities, effectively 
+
+engaging, retaining and motivating our diverse teams of 
+
+talented employees to achieve long-term business goals.
+
+We are committed to providing a safe and healthy 
+
+work environment for our employees and cultivating 
+
+a productive and inclusive organizational culture with 
+
+open communication, mutual respect, teamwork and 
+
+collaboration.
+
+EMPLOYMENT
+
+The UIC Group employed 344 full-time employees as at 
+
+31 December 2019. Our property business accounted 
+
+for 63% of the total headcount with the remainder 
+
+employment in our information technology business. 
+
+DIVERSITY AND INCLUSION
+
+Diversity and inclusion is an integral part of our business 
+
+practices and we value and foster diversity in our 
+
+workforce. We bring together talented and committed 
+
+people with diverse perspectives – people who can 
+
+challenge one another’s thinking and can approach 
+
+problems collectively from multiple points of view.
+
+We will continue to examine our systems to enable 
+
+considerations for diversity and inclusion, check our 
+
+decision-making processes to surface potential biases, 
+
+and thrive to become consciously inclusive when 
+
+making critical talent and business decisions.
+
+We promote diversity and inclusion at the workplace. 
+
+Women are well represented in our workforce with a 
+
+share of 49%.
+
+Percentage of Employees per Employment 
+
+Category by Gender
+
+
+
+Male
+
+Female
+
+Senior Management (%)
+
+55%
+
+45%
+
+Executives (%)
+
+48%
+
+52%
+
+Non-executives (%)
+
+57%
+
+43%
+
+TALENT MANAGEMENT
+
+Our talent management practices focus on analyzing 
+
+talent gaps for the present and the future, providing 
+
+developmental opportunities for employees to realize 
+
+their full potential and building talent bench strength to 
+
+succeed critical roles and senior leadership positions in 
+
+the organization.
+
+EMPLOYEE ENGAGEMENT
+
+Employee engagement has increasingly emerged as 
+
+an important factor for business success, and as part 
+
+of the Group’s efforts to engage our employees, various 
+
+employee engagement activities were organized in 
+
+2019 to foster and cultivate a cohesive work environment. 
+
+We organized events such as Movie Night, Bowling Night 
+
+and Staff Appreciation Lunch where employees enjoyed 
+
+treats and social mingling outside the office. Internally, 
+
+to promote inter-department interactions, collaboration 
+
+and team building, “UIC End of Year Trivia” and “Colour 
+
+Me” series of employee activities successfully brought 
+
+people closer together as well.
+
+
+
+UIC employees happily posing for a group photo “in stripes”.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+25
+
+
+PEOPLE
+
+
+
+Employee Training Hours (per Employee by Category and Gender)
+
+
+
+2017
+
+2018
+
+2019
+
+Management Level
+
+Male
+
+Female
+
+Male
+
+Female
+
+Male
+
+Female
+
+Overall
+
+7.6
+
+7.3
+
+6.0
+
+5.5
+
+16.6
+
+16.4
+
+1
+
+Senior Management 
+
+25.6
+
+8.1
+
+15.4
+
+13.9
+
+37.7
+
+26.8
+
+2
+
+Executives
+
+9
+
+11.1
+
+6.7
+
+7.1
+
+20.9
+
+17.2
+
+3
+
+Non-executives
+
+5.4
+
+0.3
+
+3.3
+
+0
+
+3.8
+
+11.4
+
+Average Training Hours Per Employee
+
+18.0
+
+10.0
+
+14.0
+
+6.0
+
+16.0
+
+8.0
+
+12.0
+
+4.0
+
+2.0
+
+0.0
+
+Average hours per full-time employee
+
+2018
+
+2017
+
+2019
+
+
+
+
+
+
+
+5.8
+
+7.5
+
+16.5
+
+Voluntary Turnover Rate (Property Business)
+
+18.0
+
+10.0
+
+14.0
+
+6.0
+
+16.0
+
+8.0
+
+12.0
+
+4.0
+
+2.0
+
+0.0
+
+%
+
+2018
+
+2017
+
+2019
+
+
+
+
+
+
+
+13.8
+
+11.9
+
+11.1
+
+TRAINING
+
+To enhance UIC’s organizational capabilities and 
+
+the personal growth of our employees, we sponsor 
+
+curriculums that build leadership and management 
+
+skills besides the usual technical and functional training.
+
+We aim to maximize the value of learning and 
+
+development investments through conducting training 
+
+needs analysis, effective engagement with training 
+
+providers, establishing a structured process to evaluate 
+
+training effectiveness, capitalizing on training subsidies 
+
+and grants provided by the government, leveraging on 
+
+online resources and educational platforms to deliver 
+
+learning solutions designed to optimize business and 
+
+customer outcomes.
+
+
+
+UIC employees attending lunchtime workshop in-house.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+26
+
+
+PEOPLE
+
+
+
+In 2019, the Company implemented the SAP system for 
+
+better enterprise resource planning, as well as E-Leave 
+
+and E-Payslip systems where employees were extensively 
+
+trained for proficiency in these systems. As a result, there 
+
+was a synthetic spike in the increase of total training hours.
+
+Our commitment and investment in learning and 
+
+development serve as the foundation for our employees’ 
+
+career development. In alignment with our corporate 
+
+business strategy, the Company is also committed to 
+
+fostering a learning culture within the organization. Our 
+
+Turnover Rate (Property Business)
+
+
+
+2017
+
+2018
+
+2019
+
+Property – Voluntary (%)*
+
+11.9
+
+13.8
+
+11.1
+
+National industry average  
+
+(Real Estate Services) (%)**
+
+32.4
+
+30.0
+
+30.0
+
+Property – Voluntary &amp; Involuntary (%)
+
+12.7
+
+25.8
+
+17.6
+
+* Relates to voluntary turnover to property business only, to align with Ministry of Manpower benchmarking exercise
+
+** Source: Ministry of Manpower, Singapore (2020) Average Monthly Resignation Rate by Industry and Occupational Group
+
+ongoing target is to achieve at least 10 training hours 
+
+per employee per annum.
+
+HIRING AND TURNOVER
+
+In 2019, voluntary turnover rate for the property business 
+
+was 11.1%, as compared to the 13.8% in 2018, which was 
+
+well below national industry average for real estate services.
+
+As a Group, UIC hired 45 new employees in 2019, of 
+
+which 42% were women. Employee turnover for the year 
+
+was recorded as 16.5%, inclusive of both voluntary and 
+
+involuntary turnover.
+
+
+
+Male
+
+Female
+
+No. of New Hire
+
+26
+
+19
+
+New Hire Rate
+
+15%
+
+11%
+
+No. of Turnover (voluntary  
+
+&amp; involuntary)
+
+31
+
+26
+
+Turnover Rate
+
+18%
+
+15%
+
+* The rates are reported based on total number of employee for that 
+
+category, as at 31 Dec 2019
+
+
+
+Under 30 
+
+years
+
+30-50 
+
+years
+
+Over 50 
+
+years
+
+No. of New Hire
+
+8
+
+33
+
+4
+
+New Hire Rate
+
+35%
+
+21%
+
+2%
+
+No. of Turnover 
+
+(voluntary  
+
+&amp; involuntary)
+
+9
+
+31
+
+17
+
+Turnover Rate
+
+39%
+
+20%
+
+10%
+
+* The rates are reported based on total number of employee for that 
+
+category, as at 31 Dec 2019
+
+Employee Turnover Rate
+
+10.0
+
+20.0
+
+25.0
+
+5.0
+
+15.0
+
+0.0
+
+%
+
+2018
+
+2017
+
+2019
+
+
+
+
+
+
+
+20.6
+
+13.4
+
+16.5
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+27
+
+
+
+
+
+
+PEOPLE
+
+
+
+Through our employee engagement programs, learning 
+
+and development opportunities, and cohesive work 
+
+environment, we target to achieve a 12% or lower average 
+
+annual voluntary turnover rate for property business.
+
+PERFORMANCE MANAGEMENT
+
+Our performance management system serves as 
+
+an essential tool for the Company in building a high 
+
+performance corporate culture, where respective 
+
+managers are held accountable for their ultimate 
+
+performance achieved through clear goal-setting, 
+
+coaching and feedback. 
+
+Employees are expected to deliver strong and sustained 
+
+performance, measured by the achievement of their 
+
+goals and the demonstration of desired behaviours to 
+
+achieve these goals. All full-time employees participate 
+
+in 
+
+annual 
+
+performance 
+
+appraisals 
+
+conducted 
+
+objectively and transparently. The Company provides 
+
+rewards and compensation in commensuration with 
+
+employees’ performance.
+
+SOCIAL SECURITY
+
+All 
+
+our 
+
+Singaporean 
+
+and 
+
+Permanent 
+
+Resident 
+
+employees are covered by the Central Provident 
+
+Fund (CPF), which is a comprehensive social security 
+
+savings plan managed by the CPF Board under the 
+
+Ministry of Manpower. The CPF, a comprehensive social 
+
+security plan, helps employees to fund their retirement, 
+
+healthcare, home ownership, family protection and 
+
+asset enhancement.
+
+RE-EMPLOYMENT
+
+The UIC Group supports the rehiring of retiring 
+
+employees beyond the statutory retirement age of 62 
+
+years. We offer re-employment contracts on an annual 
+
+renewal basis to eligible employees who continue to 
+
+utilize their skills and expertise, enabling them to stay 
+
+productive in the workforce. In 2019, we re-employed 16 
+
+retiring employees. 
+
+HUMAN RIGHTS
+
+Non-discrimination
+
+Our approach is to promote a diverse and inclusive 
+
+workplace culture based on merit and performance. 
+
+UIC, a signatory to the Tripartite Alliance for Fair 
+
+Employment Practices (TAFEP) pledge, is committed to 
+
+applying fair, responsible and progressive employment 
+
+practices in all our interactions with employees internally 
+
+and dealings with external stakeholders.
+
+In 2019, there were no incidents of discrimination.
+
+Freedom of Association
+
+We respect our employees’ right to join a lawful 
+
+labour union. As of 31 December 2019, 22% of our 
+
+employees were represented by Singapore Industrial 
+
+and Services Employees’ Union (SISEU) and Union of 
+
+Security Employees (USE) and they were covered by the 
+
+respective Collective Bargaining Agreements.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+28
+
+
+
+
+
+
+
+
+COMMUNITY
+
+
+
+As the Group strives towards good corporate citizenship, 2019 saw our participation in several 
+
+community initiatives throughout the year, for the benefit of the underprivileged and marginalized people in 
+
+society. In partnership with various local organisations, we supported social programmes through volunteering, 
+
+fundraising and donations.
+
+Our Corporate Social Responsibility (CSR) program lined up several events in 2019, engaging employees’ 
+
+involvement and participation in volunteering their services. We registered a total of 118 volunteer hours during 
+
+the year from two main activities.
+
+
+
+
+
+In August, 12 employees of UIC lent their 
+
+hands to help with meal preparations 
+
+at the Willing Hearts, a non-affliated 
+
+charity 
+
+which 
+
+prepares, 
+
+cooks 
+
+and 
+
+distributes approximately 6,500 meals to 
+
+the less-privileged beneficiaries island-
+
+wide. It was tiring yet fun and fulfilling 
+
+for the group of volunteers made up of 
+
+executives, non-executives, as well as 
+
+senior management staff. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+29
+
+
+
+
+
+
+
+
+COMMUNITY
+
+
+
+The “Blossom Day Out @ The Gardens” 
+
+excursion to Gardens By the Bay in 
+
+September was arranged for 14 UIC 
+
+volunteers and 25 seniors from Blossom 
+
+Seeds Senior Activity Centre, to foster 
+
+active 
+
+association 
+
+with 
+
+the 
+
+senior 
+
+community, as well as to promote active 
+
+aging and harmonious living. This special 
+
+hot September day ended with laughters, 
+
+new friendships and greater bonding 
+
+among colleagues.
+
+
+
+
+
+
+
+
+
+
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+30
+
+
+SUSTAINABILITY 
+
+PERFORMANCE DATA
+
+
+
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT 
+
+UNIT
+
+2017
+
+2018
+
+2019
+
+ENVIRONMENTAL
+
+Electricity Use
+
+Corporate Office^
+
+MWh
+
+–
+
+150
+
+151
+
+Buildings (Retail)
+
+MWh
+
+24,383
+
+23,300
+
+24,984 
+
+Buildings (Commercial)*
+
+MWh
+
+41,638
+
+44,078
+
+45,177 
+
+Buildings (Total – Retail &amp; Commerical)*
+
+MWh
+
+66,021
+
+67,378
+
+70,161
+
+Development Projects 
+
+MWh
+
+2,321
+
+501
+
+0
+
+UIC Technology
+
+MWh
+
+–
+
+279
+
+221
+
+Fuel Consumption
+
+Development Projects (Diesel)
+
+L
+
+289,136
+
+439,136
+
+311,300
+
+Energy Use
+
+Corporate Office^
+
+GJ 
+
+–
+
+539
+
+542
+
+Buildings (Retail)
+
+GJ
+
+87,779
+
+83,880
+
+89,944
+
+Buildings (Commercial)* 
+
+GJ
+
+149,897
+
+158,681
+
+162,638
+
+Buildings (Total – Retail &amp; Commerical)*
+
+GJ
+
+237,676
+
+242,561
+
+252,582
+
+Development Projects
+
+GJ
+
+18,799
+
+17,665
+
+11,244
+
+UIC Technology
+
+GJ
+
+–
+
+1,004
+
+794
+
+Electricity Use Intensity
+
+Buildings (Retail)
+
+kWh/m2
+
+163
+
+156
+
+168
+
+Building (Retail)
+
+m2
+
+149,131
+
+149,131
+
+149,131
+
+Buildings (Commercial)*
+
+kWh/m2
+
+137
+
+145
+
+149
+
+Buildings (Commercial)*
+
+m2
+
+303,760
+
+303,760
+
+303,760
+
+Buildings (Total – Retail &amp; Commerical)*
+
+kWh/m2
+
+146
+
+149
+
+155
+
+Energy Use Intensity
+
+Buildings (Retail)
+
+GJ/m2
+
+0.59
+
+0.56
+
+0.60
+
+Buildings (Commercial)*
+
+GJ/m2
+
+0.49
+
+0.52
+
+0.54
+
+Buildings (Total– Retail &amp; Commerical)*
+
+GJ/m2
+
+0.52
+
+0.54
+
+0.56
+
+Development Projects
+
+GJ/value of work 
+
+completed ($'000)
+
+0.12
+
+0.29
+
+0.52
+
+Development Projects
+
+Value of work 
+
+completed ($'000)
+
+158,621
+
+61,981
+
+21,491
+
+GHG Emissions
+
+Corporate Office^
+
+tonnes CO2
+
+–
+
+62.8
+
+63.1
+
+Buildings (Retail)*
+
+tonnes CO2
+
+10,331
+
+9,767
+
+10,463
+
+Buildings (Commercial)* 
+
+tonnes CO2
+
+17,642
+
+18,478
+
+18,920
+
+Buildings (Total – Retail &amp; Commerical)*
+
+tonnes CO2
+
+27,973
+
+28,245
+
+29,383
+
+Development Projects*
+
+tonnes CO2e
+
+1,757
+
+1,386
+
+833
+
+ – Scope 1 emissions
+
+tonnes CO2e
+
+774
+
+1,176
+
+833
+
+ – Scope 2 emissions* 
+
+tonnes CO2e
+
+983
+
+210
+
+0
+
+UIC Technology
+
+tonnes CO2
+
+–
+
+107.9
+
+92.4
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+31
+
+
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT 
+
+UNIT
+
+2017
+
+2018
+
+2019
+
+GHG Emissions Intensity
+
+Buildings (Retail)
+
+kg CO2/m2
+
+69.3
+
+65.5
+
+70.2
+
+Buildings (Commercial)*
+
+kg CO2/m2
+
+58.1
+
+60.8
+
+62.3 
+
+Buildings (Total – Retail &amp; Commerical)*
+
+kg CO2/m2
+
+61.8
+
+62.4
+
+64.9
+
+Development Projects*
+
+kg CO2e by value 
+
+of work completed 
+
+($'000)
+
+11.1
+
+22.4
+
+38.8
+
+Water Use
+
+Buildings (Retail)
+
+thousand m3
+
+170
+
+145
+
+146 
+
+Buildings (Commercial)*
+
+thousand m3
+
+319
+
+355
+
+387 
+
+Buildings (Total – Retail &amp; Commerical)*
+
+thousand m3
+
+489
+
+500
+
+533
+
+Development Projects
+
+thousand m3
+
+26,149
+
+55
+
+17
+
+UIC Technology
+
+m3
+
+–
+
+93.7
+
+110.9
+
+Water Use Intensity
+
+Buildings (Retail)
+
+m3/m2
+
+1.10
+
+1.00
+
+0.98
+
+Buildings (Commercial)*
+
+m3/m2
+
+1.05
+
+1.17
+
+1.27
+
+Buildings (Total – Retail &amp; Commerical)*
+
+m3/m2
+
+1.08
+
+1.10
+
+1.18
+
+Development Projects
+
+m3 by value of 
+
+work completed 
+
+($'000)
+
+164.9
+
+0.9
+
+0.001
+
+SOCIAL
+
+Workplace Safety and Health
+
+Accident Frequency Rate (AFR)
+
+Development Projects
+
+Number of 
+
+workplace 
+
+accidents per 
+
+million manhours 
+
+worked
+
+0.2
+
+1.5
+
+1.7
+
+Accident Severity Rate (ASR)
+
+Development Projects
+
+Number of hours 
+
+lost to workplace 
+
+accidents per 
+
+million manhours 
+
+worked
+
+2.1
+
+24.3
+
+72.9
+
+Fatalities
+
+Corporate Office 
+
+Number
+
+–
+
+0
+
+0
+
+Buildings – Employees
+
+Number
+
+0
+
+1
+
+0
+
+Buildings – Contractors
+
+Number
+
+–
+
+0
+
+0
+
+Development Projects – Main-contractors 
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects – Sub-contractors
+
+Number
+
+0
+
+0
+
+SUSTAINABILITY 
+
+PERFORMANCE DATA
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+32
+
+
+SUSTAINABILITY 
+
+PERFORMANCE DATA
+
+
+
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT 
+
+UNIT
+
+2017
+
+2018
+
+2019
+
+No. of Non-Fatal Workplace Injuries
+
+Corporate Office 
+
+Number
+
+–
+
+0
+
+0
+
+Buildings – Employees
+
+Number
+
+2
+
+4
+
+0
+
+Buildings – Contractors
+
+Number
+
+–
+
+0
+
+0
+
+Buildings – Tenants, Visitors
+
+Number
+
+9
+
+5
+
+0
+
+Development Projects – Main-contractors 
+
+Number
+
+1
+
+2
+
+0
+
+Development Projects – Sub-contractors
+
+Number
+
+1
+
+1
+
+Occupational Diseases
+
+Corporate Office 
+
+Number
+
+–
+
+0
+
+0
+
+Buildings – Employees
+
+Number
+
+0
+
+0
+
+0
+
+Buildings – Contractors
+
+Number
+
+–
+
+0
+
+0
+
+Development Projects – Main-contractors 
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects – Sub-contractors
+
+Number
+
+0
+
+0
+
+No. of lost days
+
+Corporate Office 
+
+Number
+
+–
+
+0
+
+0
+
+Buildings – Employees#
+
+Number
+
+59
+
+6,074
+
+10
+
+Buildings – Contractors
+
+Number
+
+–
+
+0
+
+0
+
+Development Projects – Main-contractors 
+
+Number
+
+11
+
+35
+
+0
+
+Development Projects – Sub-contractors
+
+Number
+
+15
+
+42
+
+Number of Man Hours Worked
+
+Development Projects – Main-contractors 
+
+Number
+
+3,424,422
+
+1,187,131
+
+188,364
+
+Development Projects – Sub-contractors
+
+Number
+
+869,996
+
+387,540
+
+Public, Tenants and Visitors Safety
+
+Buildings (Retail)
+
+Number
+
+9
+
+5
+
+0
+
+Buildings (Commercial)
+
+Number
+
+0
+
+Development Projects
+
+Number
+
+–
+
+–
+
+0
+
+Employees
+
+Full-time employees
+
+Number
+
+–
+
+356
+
+344
+
+Full-time employees – Property
+
+Number
+
+–
+
+225
+
+216
+
+Full-time employees – UICT
+
+Number
+
+–
+
+131
+
+128
+
+Part-time employees 
+
+Number
+
+–
+
+0
+
+1
+
+Part-time employees – Property
+
+Number
+
+–
+
+0
+
+1
+
+Part-time employees – UICT
+
+Number
+
+–
+
+0
+
+0
+
+Permanent employees 
+
+Number
+
+–
+
+335
+
+324
+
+Permanent employees – Property
+
+Number
+
+–
+
+219
+
+206
+
+Permanent employees – UICT
+
+Number
+
+–
+
+116
+
+118
+
+Temporary employees
+
+Number
+
+–
+
+21
+
+0
+
+Temporary employees – Property
+
+Number
+
+–
+
+6
+
+0
+
+Temporary employees – UICT
+
+Number
+
+–
+
+15
+
+0
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+33
+
+
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT 
+
+UNIT
+
+2017
+
+2018
+
+2019
+
+Fixed-term contract employees 
+
+Number
+
+–
+
+21
+
+Fixed-term contract employees – Property
+
+Number
+
+–
+
+11
+
+Fixed-term contract employees – UICT
+
+Number
+
+–
+
+10
+
+New hires
+
+Number
+
+19
+
+43
+
+45
+
+Female employees
+
+%
+
+40
+
+49
+
+49
+
+Female managers 
+
+%
+
+–
+
+–
+
+56
+
+Female HODs
+
+%
+
+–
+
+–
+
+48
+
+Average training hours per employee
+
+Average hours per 
+
+full-time employee
+
+7.5
+
+5.8
+
+16.5
+
+Annual employee turnover rate 
+
+%
+
+13.4
+
+20.6
+
+16.5
+
+ECONOMIC PERFORMANCE ($’000)
+
+Revenue
+
+$m 
+
+1,292 
+
+657 
+
+789 
+
+PATMI
+
+$m 
+
+305 
+
+317 
+
+605 
+
+Gearing ratio
+
+ 
+
+5 
+
+3 
+
+5 
+
+Retun on equity 
+
+% 
+
+5 
+
+5 
+
+8 
+
+Total assets 
+
+$m 
+
+8,252
+
+8,416
+
+9,025 
+
+Earnings per share
+
+cents 
+
+21.4
+
+22.1
+
+42.2 
+
+SUSTAINABILITY 
+
+PERFORMANCE DATA
+
+
+
+Restatements:
+
+^ 
+
+Electricity, energy and GHG emissions data for Corporate Office for 2018 were restated to show comparable year-to-year consumption data. The 
+
+data was extrapolated based on 74.9MWh electricity consumed in the period of 20 Jul – 31 Dec 2018.
+
+* 
+
+Electricity, energy, GHG emissions and water data (absolute and intensity) for commercial buildings for 2017 and 2018 were restated to exclude 
+
+Novena Square ( a 20:80 joint venture between UIC and UOL ). The GHG emissions data for 2017 was also restated using the 2016 electricity grid 
+
+emission factor from the Energy Market Authority (EMA).
+
+# 
+
+No. of man days lost in 2018 was restated to exclude Public Holidays.
+
+Notes:
+
+1. 
+
+Buildings (Retail) refer to Marina Square Mall (excluding Marina Square Hotels) and West Mall.
+
+2. 
+
+Buildings (Commercial) refer to Clifford Centre, Singapore Land Tower, SGX Centre, The Gateway, Stamford Court, Abacus Plaza, Tampines Plaza 
+
+and UIC Building (since 2018). 
+
+3. 
+
+There was one (6) development projects in 2017, seven (7) in 2018, and one (6) in 2019. The development project in 2019 refers to The Tre Ver, a 
+
+50:50 joint venture with UOL. 
+
+4. 
+
+Energy refers to purchased electricity consumption. For development projects, energy data also includes fuel (diesel) consumption. 
+
+5. 
+
+Our corporate office sits within Clifford Centre (Level 22 and 24) and forms a subset of the building energy and GHG emissions reported. 
+
+6. 
+
+GHG emissions calculations are based on the Greenhouse Gas (GHG) Protocol. GHG emissions for purchased electricity refer to carbon dioxide 
+
+gas (CO2). Singapore electricity grid emission factor from 2016 to 2018 was used to derive CO2 emissions; GHG emissions for diesel refer to CO2, 
+
+CH4 and N2O. Greenhouse Gas Protocol Emission Factors from Cross Sector Tools, March 2017 were used to derive CO2e emissions.
+
+7. 
+
+Water used at all our properties is from municipal sources.
+
+8. 
+
+Water data for Corporate Office is unavailable, as water is not separately metered. 
+
+9. 
+
+Environmental data for all Buildings includes general water consumption of common toilets and pantries, as well as central air-conditioning 
+
+systems, except for individual tenant’s office equipment electricity usage. Environment data for SGX Centre represents UIC Group’s 48.6% 
+
+ownership share of the property.
+
+10. Intensity calculations for all Buildings use Gross Floor Area (GFA) as the denominator. We adopt BCA’s definition for Gross Floor Area (GFA). All 
+
+covered floor areas of a building, except otherwise exempted, and uncovered areas for commercial uses, are deemed the gross floor area of 
+
+the building. Generally, car parks are excluded from GFA computation.
+
+11. For development projects, 100% of the environmental data was reported. Intensity calculations use value of work completed as the denominator.
+
+12. Calculation formula: AFR = (No. of Injuries / Total Man Hours) x 1,000,000, ASR = (Lost of Man Day / Total Man Hours) x 1,000,000
+
+13. AFR and ASR reported for development projects include main contractors’ and subcontractors’ hours. UIC does not track total man-hours 
+
+worked for our employees and contractors based at our buildings, and are therefore currently unable to disclose the AFR and ASR.
+
+14. Average training hours per employee = Total training hours for the year / Number of employees as at 31 Dec.
+
+15. For employee data in 2018, temporary and fixed-term employees were reported under one category.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+34
+
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+Global Reporting Initiative (GRI) Content Index 
+
+‘In accordance’ – Core
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+GRI 101: Foundation 2016
+
+General Disclosures
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+2016
+
+Organisational Profile
+
+102-1 
+
+Name of the organisation
+
+About this Sustainability 
+
+Report, pg 1
+
+102-2 
+
+Activities, brands, products, and services
+
+Corporate Profile, pg 4
+
+102-3 
+
+Location of headquarters
+
+About this Sustainability 
+
+Report, pg 1
+
+102-4 
+
+Location of operations
+
+AR, pg 16-34
+
+102-5 
+
+Ownership and legal form
+
+Corporate Profile, pg 4
+
+102-6 
+
+Markets served
+
+AR, pg 16-34
+
+102-7 
+
+Scale of the organisation
+
+People, pg 25
+
+AR, pg 69-70
+
+102-8 
+
+Information on employees and other workers
+
+People, pg 25
+
+102-9 
+
+Supply chain
+
+Stakeholder 
+
+Engagement, pg 9 -10
+
+102-10 Significant changes to the organisation and its 
+
+supply chain
+
+No significant changes
+
+102-11 Precautionary Principle or approach
+
+Governance, pg 11
+
+Environment, pg 14
+
+102-12 External initiatives
+
+About this Sustainability 
+
+Report, pg 1
+
+Governance, pg 11-12
+
+Environment, pg 14,19
+
+Health and Safety, pg 21
+
+Product and Service 
+
+Quality, pg 23-24
+
+102-13 Membership of associations
+
+Stakeholder 
+
+Engagement, pg 10
+
+Strategy
+
+102-14 Statement from senior decision-maker
+
+CEO’s Statement, pg 2
+
+Ethics and Integrity
+
+102-16 Values, principles, standards and norms of 
+
+behaviour
+
+Board Statement, pg 3
+
+Governance, pg 11-12
+
+People, pg 25
+
+Governance
+
+102-18 Governance structure
+
+Governance, pg 11
+
+AR, pg 37-55
+
+102-19 Delegating authority
+
+Governance, pg 11
+
+102-20 Executive-level responsibility for economic, 
+
+environmental, and social topics
+
+Governance, pg 11
+
+102-21 Consulting stakeholders on economic, 
+
+environmental, and social topics
+
+Governance, pg 11
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+35
+
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+2016
+
+102-22 Composition of the highest governance body and 
+
+its committees
+
+AR, pg 37-55
+
+102-23 Chair of the highest governance body
+
+AR, pg 37-55
+
+102-24 Nominating and selecting the highest governance 
+
+body
+
+AR, pg 37-55
+
+102-25 Conflicts of interest
+
+AR, pg 37-55
+
+102-26 Role of highest governance body in setting 
+
+purpose, values, and strategy
+
+AR, pg 37-55
+
+102-28 Evaluating the highest governance body’s 
+
+performance
+
+AR, pg 37-55
+
+102-29 Identifying and managing economic, 
+
+environmental, and social impacts
+
+AR, pg 37-55
+
+102-30 Effectiveness of risk management processes
+
+AR, pg 37-55
+
+102-31 Review of economic, environmental, and social 
+
+topics
+
+Governance, pg 11
+
+102-32 Highest governance body’s role in sustainability 
+
+reporting
+
+Governance, pg 11
+
+Stakeholder Engagement
+
+102-40 List of stakeholder groups
+
+Stakeholder 
+
+Engagement, pg 9-10
+
+102-41 Collective bargaining agreements
+
+People, pg 28
+
+102-42 Identifying and selecting stakeholders
+
+Stakeholder 
+
+Engagement, pg 9-10
+
+102-43 Approach to stakeholder engagement 
+
+Stakeholder 
+
+Engagement, pg 9-10
+
+102-44 Key topics and concerns raised
+
+Stakeholder 
+
+Engagement, pg 9-10
+
+Reporting Practice
+
+102-45 Entities included in the consolidated financial 
+
+statements
+
+About this Sustainability 
+
+Report, pg 1
+
+AR, pg 161-165
+
+102-46 Defining report content and topic Boundaries
+
+About this Sustainability 
+
+Report, pg 1
+
+Materiality, pg 6
+
+102-47 List of material topics
+
+Materiality, pg 5-6
+
+102-48 Restatements of information
+
+About this Sustainability 
+
+Report, pg 1
+
+102-49 Changes in reporting
+
+About this Sustainability 
+
+Report, pg 1
+
+102-50 Reporting period
+
+About this Sustainability 
+
+Report, pg 1
+
+102-51 Date of most recent report
+
+Published on 31 May 
+
+2019
+
+102-52 Reporting cycle
+
+About this Sustainability 
+
+Report, pg 1
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+36
+
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+2016
+
+102-53 Contact point for questions regarding the report
+
+About this Sustainability 
+
+Report, pg 1
+
+102-54 Claims of reporting in accordance with the GRI 
+
+Standards
+
+About this Sustainability 
+
+Report, pg 1
+
+102-55 GRI Content Index
+
+GRI Content Index,  
+
+pg 35-40
+
+102-56 External assurance
+
+Independent Limited 
+
+Assurance Report,  
+
+pg 41-43
+
+Economic Performance
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Economic Performance, 
+
+pg 13
+
+103-3 
+
+Evaluation of the management approach
+
+Economic Performance, 
+
+pg 13
+
+GRI 201: Economic 
+
+Performance 2016
+
+201-1 
+
+Direct economic value generated and distributed
+
+Economic Performance, 
+
+pg 13
+
+AR, pg 69-74
+
+Anti-corruption
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Governance, pg 11
+
+103-3 
+
+Evaluation of the management approach
+
+Governance, pg 11
+
+GRI 205: Anti-corruption 
+
+2016
+
+205-3 
+
+Confirmed incidents of corruption and actions 
+
+taken
+
+Governance, pg 11
+
+Anti-Competitive Behaviour
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Governance, pg 12
+
+103-2 
+
+The management approach and its components
+
+Governance, pg 12
+
+103-3 
+
+Evaluation of the management approach
+
+Governance, pg 12
+
+GRI 206: Anti-Competitive 
+
+Behaviour
+
+206-1 
+
+Legal actions for anti-competitive behaviour, anti-
+
+trust, and monopoly practices
+
+Governance, pg 12
+
+Energy
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Environment, pg 14, 
+
+16-17,19-20
+
+103-3 
+
+Evaluation of the management approach
+
+Environment, pg 14, 
+
+16-17,19-20
+
+GRI 302: Energy 2016
+
+302-1 
+
+Energy consumption within the organisation
+
+Environment, pg 14, 
+
+16-17,20
+
+302-2 
+
+Energy consumption outside of the organisation
+
+Environment, pg 19
+
+302-3 
+
+Energy intensity
+
+Environment, pg 16-17,19
+
+302-4 
+
+Reduction of energy consumption
+
+Environment, pg 14, 
+
+16-17,19-20
+
+GRI Construction and 
+
+Real Estate Sector 
+
+Disclosures
+
+CRE1 
+
+Building energy intensity
+
+Environment, pg 16-17
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+37
+
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+Water
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Environment, pg 14, 18-20
+
+103-3 
+
+Evaluation of the management approach
+
+Environment, pg 14, 18-20
+
+GRI 303: Water 2016  
+
+GRI Construction and 
+
+Real Estate Sector 
+
+Disclosures
+
+303-1 
+
+Water withdrawal by source
+
+Environment, pg 14, 18-20
+
+CRE2 
+
+Building Water intensity
+
+Environment, pg 18
+
+Emissions
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Environment, pg 14-15, 
+
+19-20
+
+103-3 
+
+Evaluation of the management approach
+
+Environment, pg 14-15, 20
+
+GRI 305: Emissions 2016
+
+305-1 
+
+Direct (Scope 1) GHG emissions                                                                      Environment, pg 19
+
+305-2 
+
+Energy indirect (Scope 2) GHG emissions
+
+Environment, pg 14-15, 20
+
+305-4 
+
+GHG emission intensity
+
+Environment, pg 15,19
+
+Environmental Compliance
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Environment, pg 20
+
+103-3 
+
+Evaluation of the management approach
+
+Environment, pg 20
+
+GRI 307:
+
+Environmental 
+
+Compliance 2016
+
+307-1 
+
+Non-compliance with environmental laws and 
+
+regulations
+
+Environment, pg 20
+
+Supplier Environmental Assessment
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Stakeholder 
+
+Engagement, pg 9
+
+Environment, pg19
+
+103-3 
+
+Evaluation of the management approach
+
+Stakeholder 
+
+Engagement, pg 9
+
+Environment, pg19
+
+GRI 308: Supplier 
+
+Environmental 
+
+Assessment 2016
+
+308-1 
+
+New suppliers that were screened using 
+
+environmental criteria
+
+Environment, pg19
+
+Product Quality
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Product and Service 
+
+Quality, pg 23-24
+
+103-3 
+
+Evaluation of the management approach
+
+Product and Service 
+
+Quality, pg 23-24
+
+GRI Construction
+
+and Real Estate Sector 
+
+Disclosures
+
+CRE8 
+
+Type and number of sustainability certification, 
+
+rating and labelling schemes for new construction, 
+
+Management, occupation and redevelopment
+
+Product and Service 
+
+Quality, pg 23-24
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+38
+
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+Employment
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+People, pg 25-28
+
+103-3 
+
+Evaluation of the management approach
+
+People, pg 25-28
+
+GRI 401: Employment 
+
+2016
+
+401-1 
+
+New employee hires and employee turnover
+
+People, pg 25-28
+
+401-2 
+
+Benefits provided to full-time employees that are not 
+
+provided to temporary or part-time employees
+
+Life insurance is not 
+
+provided to temporary 
+
+staff.
+
+Occupational Health and Safety
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Health and Safety,  
+
+pg 21-22
+
+103-3 
+
+Evaluation of the management approach
+
+Health and Safety,  
+
+pg 21-22
+
+GRI 403: Occupational 
+
+Health and Safety 2016
+
+403-2 
+
+Types of injury and rates of injury, occupational 
+
+diseases, lost days, and absenteeism, and number 
+
+of work-related fatalities 
+
+Health and Safety,  
+
+pg 21-22
+
+Training and Education
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+People, pg 25-28
+
+103-3 
+
+Evaluation of the management approach
+
+People, pg 25-28
+
+GRI 404: Training and 
+
+Education 2016
+
+404-1 
+
+Average hours of training per year per employee
+
+People, pg 26
+
+404-2 
+
+Programs for upgrading employee skills and 
+
+transition assistance programs
+
+People, pg 26-27
+
+404-3 
+
+Percentage of employees receiving regular 
+
+performance and career development reviews
+
+People, pg 28
+
+Diversity and Equal Opportunity
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+People, pg 25
+
+103-2 
+
+The management approach and its components
+
+People, pg 25
+
+103-3 
+
+Evaluation of the management approach
+
+People, pg 25
+
+GRI 405: Diversity and 
+
+Equal Opportunity 2016
+
+405-1 
+
+Diversity of governance bodies and employees
+
+People, pg 25
+
+Non-discrimination
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+People, pg 28
+
+103-2 
+
+The management approach and its components
+
+People, pg 28
+
+103-3 
+
+Evaluation of the management approach
+
+People, pg 28
+
+GRI 406:  
+
+Non-discrimination 2016
+
+406-1 
+
+Incidents of discrimination and corrective actions 
+
+taken
+
+People, pg 28
+
+Local Communities
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Community, pg 29-30
+
+103-2 
+
+The management approach and its components
+
+Community, pg 29-30
+
+103-3 
+
+Evaluation of the management approach
+
+Community, pg 29-30
+
+GRI 413: Local 
+
+Communities 2016
+
+413-1 
+
+Operations with local community engagement, 
+
+impact assessments and development 
+
+programmes
+
+Community, pg 29-30
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+39
+
+
+GRI CONTENT 
+
+INDEX 
+
+
+
+
+
+GRI Standard
+
+Disclosure
+
+Page Number, and/or 
+
+Reference
+
+Supplier Social Assessment
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Health and Safety, pg 21
+
+103-2 
+
+The management approach and its components
+
+Stakeholder 
+
+Engagement, pg 9
+
+Health and Safety, pg 21
+
+103-3 
+
+Evaluation of the management approach
+
+Stakeholder 
+
+Engagement, pg 9
+
+Health and Safety, pg 21
+
+GRI 414: Supplier Social 
+
+Assessment 2016
+
+414-1 
+
+New suppliers that were screened using social 
+
+criteria
+
+Health and Safety, pg 21
+
+Customer Health &amp; Safety
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Product and Service 
+
+Quality, pg 23-24
+
+103-3 
+
+Evaluation of the management approach
+
+Product and Service 
+
+Quality, pg 23-24
+
+GRI 416: Customer 
+
+Health and Safety 2016
+
+416-2 
+
+Incidents of noncompliance concerning the health 
+
+and safety impacts of products and services
+
+Product and Service 
+
+Quality, pg 23
+
+Marketing and Labelling
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Governance, pg 12
+
+103-2 
+
+The management approach and its components
+
+Governance, pg 12
+
+103-3 
+
+Evaluation of the management approach
+
+Governance, pg 12
+
+GRI 417: Marketing and 
+
+Labelling
+
+417-3 
+
+Incidents of non-compliance concerning marketing 
+
+communications
+
+Governance, pg 12
+
+Customer Privacy
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Governance, pg 12
+
+103-3 
+
+Evaluation of the management approach
+
+Governance, pg 12
+
+GRI 418: Customer 
+
+Privacy
+
+418-1 
+
+Substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data
+
+Governance, pg 12
+
+Socio-economic Compliance
+
+GRI 103: Management 
+
+Approach 2016
+
+103-1 
+
+Explanation of the material topic and its Boundary
+
+Materiality, pg 6
+
+103-2 
+
+The management approach and its components
+
+Governance, pg 11
+
+103-3 
+
+Evaluation of the management approach
+
+Governance, pg 11
+
+GRI 419: Socio-
+
+economic Compliance 
+
+2016
+
+419-1 
+
+Non-compliance with laws and regulations in the 
+
+social and economic area
+
+Governance, pg 11
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+40
+
+
+INDEPENDENT LIMITED 
+
+ASSURANCE REPORT
+
+
+
+To the Directors of UIC Ltd
+
+CONCLUSION
+
+We were engaged by the Board of Directors of United 
+
+Industrial Corporation Limited (“UIC”, or the “Company”, 
+
+and together with its group of companies, the “Group”) 
+
+to provide limited assurance on the accompanying 
+
+UIC Sustainability Report 2019 for the year ended 31 
+
+December 2019 (the “Report”), and the selected Global 
+
+Reporting Initiative Sustainability Reporting Standards 
+
+disclosures (Selected GRI Disclosures) as identified below.
+
+Based on the evidence we obtained from the procedures 
+
+performed as described in the Auditors’ Responsibilities 
+
+section of our report, nothing has come to our attention 
+
+that causes us to believe that:
+
+(a) the Report has not described the sustainability 
+
+practices on a comply-or-explain basis with 
+
+reference to the following components as listed 
+
+under Rule 711B of the Singapore Exchange’s 
+
+(SGX) Listing Manual;
+
+ 
+
+– Material environmental, social and governance 
+
+factors;
+
+ 
+
+– Policies, practices and performance;
+
+ 
+
+– Targets;
+
+ 
+
+– Sustainability reporting framework; and
+
+ 
+
+– Board statement; and
+
+(b) the Selected GRI Disclosures as identified in the 
+
+table below, are not calculated, in all material 
+
+respects, in accordance with the relevant topic-
+
+specific disclosures requirements in the GRI 
+
+Standards.
+
+
+
+
+
+
+
+Material topic
+
+GRI Standards topic – specific 
+
+disclosure
+
+Selected GRI Disclosures for 2019
+
+Energy
+
+GRI 302-1
+
+Energy consumption 
+
+within the organisation
+
+Buildings (Total – Retail and Commercial): 70,161 MWh
+
+UICT: 221 MWh
+
+GRI 302-3
+
+Energy intensity
+
+Buildings (Total – Retail and Commercial): 155 KWh/m²
+
+Water
+
+GRI 303-1
+
+Water withdrawal by 
+
+source
+
+Buildings (Total – Retail and Commercial): 533,000 m³
+
+UICT: 110.9 m³
+
+GRI CRE 2
+
+Water Intensity
+
+Buildings (Total – Retail and Commercial): 1.18 m³/m²
+
+Emissions
+
+GRI 305-2
+
+Energy Indirect (Scope 
+
+2) GHG emissions
+
+Buildings (Total – Retail and Commercial):  
+
+29,383 tonnesCO2
+
+UICT: 92.4 tonnesCO2
+
+GRI 305-4
+
+GHG emissions intensity
+
+Buildings (Total – Retail and Commercial):  
+
+64.9 kgCO2/m²
+
+Training and 
+
+education
+
+GRI 404-1
+
+Average hours of 
+
+training per year per 
+
+employee
+
+Group
+
+Male
+
+Female
+
+Senior Management
+
+37.7
+
+26.8
+
+Executive
+
+20.9
+
+17.2
+
+Non-executive
+
+3.8
+
+11.4
+
+Overall
+
+16.6
+
+16.4
+
+Workplace 
+
+Health and 
+
+Safety
+
+GRI 403-2
+
+Work-related injuries 
+
+and fatalities
+
+Buildings 
+
+(Total – 
+
+Retail and 
+
+Commercial)
+
+Number of Work-related Fatalities
+
+0
+
+Number of Non-fatal Work-related 
+
+Injuries
+
+0
+
+Number of Lost Days
+
+10
+
+Accident Frequency Rate (AFR)
+
+NA
+
+Accident Severity Rate (ASR)
+
+NA
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+41
+
+
+INDEPENDENT LIMITED 
+
+ASSURANCE REPORT
+
+
+
+BASIS FOR CONCLUSION
+
+We conducted our limited assurance engagement in 
+
+accordance with Singapore Standard on Assurance 
+
+Engagement 3000 Assurance Engagements other than 
+
+Audits or Reviews of Historical Financial Information 
+
+(SSAE 3000). Our responsibilities are further described in 
+
+the Auditors’ Responsibilities section of our report.
+
+We have complied with the independence and other 
+
+ethical requirements of the Accounting and Corporate 
+
+Regulatory Authority (ACRA) Code of Professional 
+
+Conduct and Ethics for Public Accountants and 
+
+Accounting Entities (ACRA Code), which is founded 
+
+on fundamental principles of integrity, objectivity, 
+
+professional competence and due care, confidentiality 
+
+and professional behaviour.
+
+Our firm applies Singapore Standard on Quality Control 
+
+1 and, accordingly, maintains a comprehensive system 
+
+of quality control including documented policies 
+
+and procedures regarding compliance with ethical 
+
+requirements, professional standards and applicable 
+
+legal and regulatory requirements.
+
+RESPONSIBILITIES OF MANAGEMENT
+
+Management is responsible for: 
+
+– preparing and presenting the Report in accordance 
+
+with the GRI Standards and Rule 711B of the SGX 
+
+Listing Manual, and the information and assertions 
+
+contained within it; 
+
+– determining UIC’s objectives in respect of sustainable 
+
+development performance and reporting, including 
+
+the identification of stakeholders and material issues; 
+
+– establishing and maintaining appropriate internal 
+
+control systems that enable the preparation and 
+
+presentation of the Report and the selected GRI 
+
+disclosures that are free from material misstatement, 
+
+whether due to fraud or error; 
+
+– preventing and detecting fraud and for identifying 
+
+and ensuring that the Company complies with laws 
+
+and regulations applicable to its activities; and
+
+– ensuring that staff involved with the preparation 
+
+and presentation of the Report are properly trained, 
+
+information systems are properly updated and that 
+
+any changes in reporting encompass all significant 
+
+reporting units.
+
+The directors’ responsibilities include overseeing the 
+
+Company’s sustainability reporting process.
+
+AUDITORS’ RESPONSIBILITIES
+
+Our responsibility is to carry out a limited assurance 
+
+engagement in accordance with SSAE 3000 and to 
+
+express a conclusion based on the work performed. 
+
+SSAE 3000 requires that we plan and perform the 
+
+engagement to obtain limited assurance about 
+
+whether the Report is free from material misstatement. 
+
+The extent of our work performed depends on our 
+
+professional judgement and our assessment of the 
+
+engagement risk. 
+
+A limited assurance engagement consists of making 
+
+inquiries, primarily of persons responsible for the 
+
+preparation of information presented in the Report, 
+
+and applying analytical and other evidence gathering 
+
+procedures, as appropriate. These procedures included:
+
+– Inquiries of management to gain an understanding 
+
+of UIC’s processes for determining the material issues 
+
+for UIC’s key stakeholder groups;
+
+– Interviews with senior management and relevant 
+
+staff at group level and selected business unit level 
+
+concerning sustainability strategy and policies for 
+
+material issues, and the implementation of these 
+
+across the business;
+
+– Interviews with relevant staff at the corporate and 
+
+business unit level responsible for providing the 
+
+information in the Report;
+
+– Visits to offices and data centres operating in 
+
+Singapore selected on the basis of a risk analysis 
+
+including the consideration of both quantitative 
+
+and qualitative criteria;
+
+– Inquiries of the design and implementation of the 
+
+systems and methods used to collect and report on 
+
+the GRI Disclosures, including the aggregation of the 
+
+reported information;
+
+– Comparison of the GRI Disclosures presented in the 
+
+Report to corresponding information in the relevant 
+
+underlying sources to determine whether all the 
+
+relevant information contained in such underlying 
+
+sources has been appropriately included in the GRI 
+
+Disclosures; and
+
+– Reading of the information presented in the Report 
+
+to determine whether it is in line with our overall 
+
+knowledge of, and experience with, the sustainability 
+
+performance of the Company.
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+42
+
+
+The procedures performed in a limited assurance 
+
+engagement vary in nature and timing from, and 
+
+are less in extent than for, a reasonable assurance 
+
+engagement. Consequently, the level of assurance 
+
+obtained in a limited assurance engagement is 
+
+substantially lower than the assurance that would 
+
+have been obtained had a reasonable assurance 
+
+engagement been performed.
+
+Due to the inherent limitations of any internal control 
+
+structure it is possible that errors or irregularities in the 
+
+information presented in the Report may occur and 
+
+not be detected. Our engagement is not designed to 
+
+detect all weaknesses in the internal controls over the 
+
+preparation and presentation of the Report, as the 
+
+engagement has not been performed continuously 
+
+throughout the period and the procedures performed 
+
+were undertaken on a test basis.
+
+RESTRICTION ON USE
+
+This report has been prepared for the Directors of UIC Ltd 
+
+for the purpose of providing an assurance conclusion 
+
+on the Report and Selected GRI Disclosures and may 
+
+not be suitable for another purpose. We disclaim any 
+
+assumption of responsibility for any reliance on this 
+
+report, to any person other than the Directors of UIC 
+
+Ltd, or for any other purpose than that for which it was 
+
+prepared.
+
+KPMG LLP
+
+Public Accountants and
+
+Chartered Accountants
+
+Singapore
+
+15 May 2020
+
+INDEPENDENT LIMITED 
+
+ASSURANCE REPORT
+
+
+
+UNITED INDUSTRIAL CORPORATION LIMITED
+
+SUSTAINABILITY REPORT 2019
+
+43
+
+
+Company Registration No. 196300181E
+
+Incorporated in Singapore
+
+24 Raffles Place #22-01/06,
+
+Clifford Centre,
+
+Singapore 048621
+
+Tel: (65) 6220 1352 | Fax: (65) 6224 0278
+
+www.uic.com.sg
+

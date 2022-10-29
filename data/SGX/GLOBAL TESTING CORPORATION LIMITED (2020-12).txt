@@ -1,0 +1,1052 @@
+
+ 
+
+ 
+
+ 
+
+GLOBAL TESTING CORPORATION LIMITED 
+
+120 ROBINSON ROAD #08-01, SINGAPORE 068913 
+
+ 
+
+
+
+SUSTAINABILITY 
+
+REPORT 
+
+2020 
+
+
+ 
+
+ 
+
+ 1 
+
+ 
+
+Contents 
+
+ 
+
+ABOUT THE REPORT ........................................................................................................... 2 
+
+CONTACT US ........................................................................................................................ 2 
+
+ABOUT US .............................................................................................................................. 3 
+
+BOARD STATEMENT............................................................................................................ 4 
+
+SUSTAINABILITY APPROACH ......................................................................................... 5 
+
+STAKEHOLDER ENGAGEMENT .......................................................................................... 5 
+
+MATERIALITY ASSESSMENT ............................................................................................. 6 
+
+CLIENT SATISFACTION ..................................................................................................... 7 
+
+OUR APPROACH .................................................................................................................. 7 
+
+ENVIRONMENTAL, HEALTH AND SAFETY MANAGEMENT ...................................... 8 
+
+OUR APPROACH .................................................................................................................. 8 
+
+FY2020 OCCUPATIONAL HEALTH AND SAFETY PERFORMANCE ................................. 9 
+
+HUMAN CAPITAL DEVELOPMENT ..................................................................................10 
+
+OUR APPROACH .................................................................................................................10 
+
+FY2020 PERFORMANCE .....................................................................................................11 
+
+GRI CONTENT INDEX ........................................................................................................14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 2 
+
+ABOUT THE REPORT 
+
+The Sustainability Report ("SR") of Global Testing Corporation Limited ("GTCL" or the "Group") has been 
+
+prepared in accordance with the Global Reporting Initiatives (“GRI”) Standards: Core option. 
+
+Organisations are required to comply with all reporting requirements in GRI 101: Foundation and GRI 
+
+102: General Disclosures under this well-renowned global standard. All reporting requirements in GRI 
+
+103: Management Approach should also be observed for each selected material topic. For further 
+
+information, please refer to the GRI Content Index included at the end of this report. 
+
+The report is prepared annually to provide a comprehensive overview of the strategies implemented to 
+
+achieve sustainability-related goals. The Group seeks to be transparent through their environmental, 
+
+social, and governance (“ESG”) disclosure on issues considered most material to stakeholders. This 
+
+report covers the sustainability performance of our operations for the financial year ended 31 December 
+
+2020 (“FY2020”), unless stated otherwise. 
+
+GTCL follows the guidance outlined in the four Reporting Principles to ensure that the content of this SR 
+
+meets the expectations of the GRI Standards. 
+
+ 
+
+Figure 1: Reporting Principles as defined by the GRI Standards 
+
+GTCL has not sought external independent assurance during this financial reporting period and will 
+
+consider doing so as sustainability reporting efforts mature. 
+
+ 
+
+CONTACT US  
+
+GTCL seeks to continuously improve on the coverage of our sustainability initiatives and the resulting 
+
+report. Please contact us so that we may address any concerns and feedback in regards to this report. 
+
+ 
+
+120 Robinson Road #08-01, Singapore 068913 
+
+Tel.: (886) 3-598-7168 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 3 
+
+ABOUT US 
+
+Founded in 1988, GTCL is an independent testing services company in the Asia-Pacific region. It has 
+
+been listed on the SGX Mainboard since 24 August 2005. The Group mainly performs testing services 
+
+including wafer sorting and final testing to the semiconductor industry, with a focus on logic and mixed-
+
+signal semiconductors used in consumer electronics and communication devices. 
+
+ 
+
+The Group continues to expand its testing capability and has established its niche in the provision of 
+
+wafer testing services to the automotive devices industry, which is generally known to have more 
+
+stringent quality and technical requirements as compared to other types of wafers.  
+
+As part of its testing services, the Group offers test programme development, conversion and 
+
+optimisation services, load board and probe card design. It also leases its testers to its customers for 
+
+trial and pilot testing services on an ad hoc basis.  
+
+The Group’s experience in handling large testing volumes coupled with its strong engineering capability 
+
+has resulted in a satisfactory yield rate through providing effective solutions to customers. Our 
+
+commitment to our stakeholders remains solid as we promote interdepartmental collaboration to 
+
+enhance communication efforts and decision making progress with our customers.  
+
+ 
+
+In GTCL, we believe in getting things right the first time and in that spirit, we strive to present our best 
+
+work to our customers. 
+
+ 
+
+ 
+
+Figure 2: GTCL's Long-term Vision 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 4 
+
+BOARD STATEMENT  
+
+Dear Esteemed Stakeholders, 
+
+We, the Board of Directors ("Board") of GTCL, are pleased to present our sustainability report for FY2020, 
+
+which will be published through SGXNet. 
+
+We believe that merging sustainability in our business strategy is fundamental to achieving continuous 
+
+success, and we are fully committed to cultivate a corporate culture that values sustainable business 
+
+practices. 
+
+The Board is devoted to assuring and boosting our stakeholders’ interest through the incorporation of 
+
+their viewpoints in responsible ESG business management. We build lasting relationships with our 
+
+stakeholders by initiating regularly planned dialogues. 
+
+GTCL recognises the impact of sustainability to business strategy and success in the long run. Risks and 
+
+opportunities must be exceptionally managed along with meeting the economic, environmental, and 
+
+social demands on a sound governance foundation. Our robust governance framework strives to 
+
+maintain integrity, transparency, accountability and discipline throughout our business activities. We 
+
+are confident to play a big role in environmental preservation, social inclusion and accomplishing 
+
+financial milestones by establishing a clear tone from the top. GTCL’s dedication to drive environmental 
+
+stewardship and fostering safe working conditions for employees to thrive in is evident as we continue 
+
+to align goals towards that direction. 
+
+ 
+
+Figure 3: GTCL’s Governance Framework 
+
+Under the Board’s strong leadership and guidance, the management will continue to strengthen our 
+
+performance by integrating material ESG factors in our business operations. We seek to develop a more 
+
+sustainable business in the interest of our stakeholders and the community. 
+
+We at GTCL would like to extend our gratitude to you for your continued faith in us, as we enhance our 
+
+efforts to build a better future for all of our stakeholders.  
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 5 
+
+SUSTAINABILITY APPROACH 
+
+STAKEHOLDER ENGAGEMENT  
+
+Our stakeholders are fundamental to ensuring long-term sustainable growth for the Group. GTCL 
+
+recognises the importance of consistently embedding ESG factors into our business operations to meet 
+
+the expectations and interests of our stakeholders. 
+
+GTCL consistently engages with our stakeholders through different channels during FY2020. We firmly 
+
+believe that communication is paramount to ensure that discussions around our sustainability initiatives 
+
+can be exchanged effectively. Currently, we conduct workshops, surveys and external audits to evaluate 
+
+our business operations, as well as to ensure compliance with rules and regulations. We are confident 
+
+that this approach will provide alignment with our stakeholders as we work towards reaching our 
+
+operational, reporting and organisational objectives. 
+
+ 
+
+Figure 4: GTCL’s Stakeholder Engagement Plan 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 6 
+
+MATERIALITY ASSESSMENT 
+
+GTCL conducted its fourth materiality assessment to identify the ESG topics material to the Group and 
+
+our stakeholders in 2020. The materiality assessment was conducted with the help of an external 
+
+consultant, and we will continue to seek their services in the future. 
+
+We also revised our ESG indicators for GRI 403 (Occupational Health and Safety), as the GRI Standards 
+
+was revised to maintain relevance and usability in the sustainability reporting front. 
+
+ 
+
+Figure 5: List of ESG Indicators 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 7 
+
+CLIENT SATISFACTION  
+
+OUR APPROACH 
+
+The Group conducts a yearly customer satisfaction survey with our primary customer lines, which 
+
+comprises of probing and final testing. The annual survey is prepared in accordance with the ISO 
+
+programme ISO9001 and IATF16949 standard of the Customer Satisfaction Survey Handling Procedure.  
+
+We promise to provide the best service to our clients by recruiting competent management and having 
+
+the most customer-oriented support team. In addition, we are committed to delivering shorter 
+
+turnaround time to customers through our superior wafer probing and final testing capabilities. We also 
+
+have a sophisticated infrastructure to support our customers' advanced equipment along with the latest 
+
+technologies to meet their needs and achieve consistently high yields. 
+
+FY2020 PERFORMANCE 
+
+In 2020, we received an overall rating of "Good” from our clients, maintaining our track record from 
+
+previous years. Our ability to meet project outcomes and contribute value to their organisations satisfied 
+
+consumer expectations and provided them with a quality experience, thereby earning the trust they 
+
+placed in GTCL. 
+
+Moving ahead, GTCL aims to achieve an overall rating of "Excellent", where we deliver enhanced quality 
+
+that provides higher satisfaction to the customers. 
+
+ 
+
+Figure 6: GTCL’s FY2020 Client Satisfaction Survey Results 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 8 
+
+ENVIRONMENTAL, HEALTH AND SAFETY MANAGEMENT  
+
+OUR APPROACH  
+
+GTCL sincerely believes that our employees are the foundation for the Group's long-term success. The 
+
+efforts below illustrate GTCL's commitment to providing a safe and secure working environment in order 
+
+to increase productivity and morale. 
+
+GTCL ensures that our Environmental, Safety and Health (“ESH”) Policy is aligned with the ISO 
+
+programme ISO-14001 and OHSAS 18001. We conduct regular training for all employees under the ESH 
+
+management system to minimise workplace hazards and improve operational performance. Regular 
+
+review and improvement in accordance with the international standards and environmental 
+
+management systems requirements is fundamental in ensuring our business's viability in the long run.  
+
+ 
+
+Figure 7: GTCL's Approach to Occupational Health and Safety 
+
+Our employees are protected against reprisal, work-related hazards and dangerous situations. If 
+
+employees are in the office, they should report the hazards to both their immediate supervisor and OHS 
+
+officer with detailed explanations. However if they are not in the office, they should first report the 
+
+hazards to the police prior to notifying their immediate supervisor and OHS officer.  
+
+Besides going through regular training, employees also receive safety reminders to ensure that they are 
+
+aware of potential risks and know how to protect themselves. Furthermore, in the event of an incident, 
+
+the OHS officer would work with employees and their immediate supervisor to identify its root cause. 
+
+This will ensure that similiar incidents can be prevented in the future by taking practical steps to draft 
+
+corrective action plans. 
+
+In 2020, no warnings and penalties were issued by the government to the Group. GTCL remains 
+
+confident that our OHS guidelines, set within the organisation are of the highest standards.  
+
+
+
+
+ 
+
+ 
+
+ 9 
+
+FY2020 OCCUPATIONAL HEALTH AND SAFETY PERFORMANCE 
+
+In 2020, there were no fatalities due to work-related injuries, 4 of high-consequence work-related 
+
+injuries and 1 recordable work-related injury. 
+
+The figure below shows our occupational health and safety performance in FY2020, with reference to 
+
+work-related injuries. 
+
+ 
+
+Figure 8: GTCL’s FY2020 Occupational Health and Safety Performance Statistics 
+
+In addition, the figure below reflects the full breakdown of GTCL's work-related hazards that posed a 
+
+risk of high-consequence injury and the action plans to eliminate these hazards. It is imperative to the 
+
+Group that we actively track and improve efficiency and safety standards in the workplace. 
+
+ 
+
+Figure 9: GTCL's Work-Related Hazards that Posed a Risk of High-Consequence Injury 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 10 
+
+HUMAN CAPITAL DEVELOPMENT  
+
+OUR APPROACH 
+
+AT GTCL, we believe that every employee should possess the skills and knowledge that are essential to 
+
+sustain our business growth. The Group is committed to providing each employee with abundant training 
+
+and development opportunities to strengthen their skills in the face of ever-changing situations. 
+
+Our employees are a critical component to the company's success. GTCL strives to meet the needs of 
+
+'Employee Learning and Development', ‘Organisational Growth’ and 'Company Policy' across our entire 
+
+business operations, comprising of manufacturing, quality control, research and development, 
+
+distribution, language training and, general management. 
+
+We incorporate a variety of educational programmes to satisfy organisational, departmental and 
+
+individual training needs.  With a three-pronged strategy on training, education and development, the 
+
+Group aims to elevate individual and collective performances to achieve our long-term vision.  
+
+All new employees will be placed under a mentorship programme to attend professional training 
+
+according to their job scope, facilitating a smooth integration into our working environment. On top of 
+
+designing employee training and development blueprint based on each position’s skill requirement, the 
+
+Group also provides on-the-job training or external training when required. Furthermore, management 
+
+courses are provided to facilitate personal growth and development in areas such as social skills, 
+
+leadership and management skills, etc. Lastly, aligned with organisational development and strategic 
+
+planning, we conduct specialised training courses to improve the overall human resources quality. 
+
+ 
+
+ 
+
+Figure 10: GTCL's Approach to Training and Education 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 11 
+
+ 
+
+FY2020 PERFORMANCE 
+
+GTCL remains committed to diversity and inclusion, with a particular focus on ensuring that all 
+
+employees regardless of gender or job title, have access to training. In 2020, GTCL was able to retain 
+
+a gender-balanced employee profile. 
+
+ 
+
+Figure 11: GTCL's Employee Gender Profile 
+
+Each GTCL employee contributes significantly to the long-term success of business performance and 
+
+culture. Hence, continuous and comprehensive development of their performance capabilities is 
+
+essential to drive the success of the Group. However, due to the COVID-19 global pandemic, many 
+
+training sessions were cancelled to be aligned with strict social distancing measures. Therefore, only a 
+
+total of 9,052 training hours was recorded for this year, resulting in a significant decrease in the average 
+
+training hours per employees compared to FY2019. The figure below captures the trend for the average 
+
+number of training hours per employee, over the span of four years. 
+
+ 
+
+Figure 12: GTCL’s Average Training Hours per Employee from 2017 to 2020 
+
+
+
+
+
+
+ 
+
+ 
+
+ 12 
+
+The figure below provides a breakdown of the training hours by employees’ gender and job position for 
+
+FY2020. 
+
+ 
+
+Figure 13: GTCL’s Average Training Hours per Employee by Gender and Job Position 
+
+ 
+
+ 
+
+Figure 14: GTCL’s FY2021 Target for Average Training Hours per Employee 
+
+GTCL plans to maintain the average training hours per employee and continue to provide our employees 
+
+with the requisite expertise and industry-specific skills for improving their competency level. 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 13 
+
+All employess should receive frequent performance assessments to help with their personal growth, 
+
+contribute to skill management and improve human capital within the organisation. This is particularly 
+
+true for management, who is entrusted with a great deal of responsibility in the organisation's oversight 
+
+and operations. Both employees and their appraisers have been made aware of the performance 
+
+assessment requirements. 
+
+The management team in FY2020 consisted of 49 people, 43 of whom were men and 6 of whom were 
+
+women. 100% of the overall management received monthly performance assessment, which helped the 
+
+company meet its strategic objectives through guiding our employees in order to achieve our goals. 
+
+Beyond the management team, all employees received reulgar performance and career development 
+
+evaluations in FY2020, which is a significant improvement from FY2019. 
+
+GTCL intends to continue providing monthly performance and career growth reviews for all employees 
+
+as we progress into the coming year. 
+
+ 
+
+Figure 15: GTCL’s FY2021 Target for the Number of Regular Performance and Career Development Reviews Provided 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 14 
+
+GRI CONTENT INDEX  
+
+GRI Standard 2016 
+
+Disclosure Title 
+
+Page Reference &amp; Remarks 
+
+GRI 102: GENERAL DISCLOSURE 2016 
+
+ORGANISATIONAL PROFILE 
+
+102-1 
+
+Name of the organisation 
+
+Pg [2]  
+
+102-2 
+
+Activities, brands, products and services 
+
+Pg [3]  
+
+102-3 
+
+Location of headquarters 
+
+GTCL’s Corporate Website 
+
+102-4 
+
+Location of operations 
+
+GTCL’s Corporate Website 
+
+102-5 
+
+Ownership and legal form 
+
+GTCL’s Corporate Website 
+
+102-6 
+
+Markets served 
+
+Pg [3]  
+
+102-7 
+
+Scale of the organisation 
+
+GTCL's Corporate Website 
+
+102-8 
+
+Information on employees and other workers 
+
+Pg [10-11] 
+
+102-9 
+
+Supply Chain 
+
+GTCL's Corporate Website 
+
+102-10 
+
+Significant changes to organisation and its 
+
+supply chain 
+
+Not Applicable 
+
+102-11 
+
+Precautionary principle or approach 
+
+Pg [4] 
+
+102-12 
+
+External Initiatives 
+
+GTCL's Corporate Website 
+
+102-13 
+
+Membership of associations 
+
+GTCL's Corporate Website 
+
+STRATEGY 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Pg [4] 
+
+ETHICS AND INTEGRITY 
+
+102-16 
+
+Values, principles, standards, and norms of 
+
+behaviour 
+
+Pg [4] 
+
+GOVERNANCE 
+
+102-18 
+
+Governance structure 
+
+2020 Annual Report: Corporate 
+
+Governance Report 
+
+STAKEHOLDER ENGAGEMENT 
+
+102-40 
+
+List of stakeholder groups 
+
+Pg [5] 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not Applicable 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Pg [5] 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Pg [5] 
+
+102-44 
+
+Key topics and concerns raised  
+
+Pg [5] 
+
+REPORTING PRACTICE 
+
+102-45 
+
+Entities included in the consolidated financial 
+
+statements 
+
+2020 Annual Report 
+
+102-46 
+
+Defining report content and topic Boundaries 
+
+Pg [6] 
+
+102-47 
+
+List of material topics 
+
+Pg [6] 
+
+102-48 
+
+Restatements of information 
+
+Not Applicable 
+
+102-49 
+
+Changes in reporting 
+
+Not Applicable 
+
+102-50 
+
+Reporting period 
+
+Pg [2] 
+
+102-51 
+
+Date of most recent report 
+
+Sustainability Report FY2019 
+
+102-52 
+
+Reporting cycle 
+
+Pg [2] 
+
+102-53 
+
+Contact point for questions regarding the 
+
+report 
+
+Pg [2] 
+
+102-54 
+
+Claims of reporting in accordance with the GRI 
+
+Standards 
+
+Pg [2] 
+
+102-55 
+
+GRI Content Index 
+
+Pg [14-15] 
+
+102-56 
+
+External assurance 
+
+Pg [2] 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 15 
+
+GRI Standard 2016 
+
+Disclosure Title 
+
+Page Reference &amp; Remarks 
+
+GRI 103: MANAGEMENT APPROACH 2016 
+
+103-1 
+
+Explanation of the material topic and its 
+
+boundary 
+
+Customer Satisfaction 
+
+Pg [7] 
+
+ 
+
+Occupational Health and Safety 
+
+Pg [8] 
+
+ 
+
+Training and Education 
+
+Pg [10] 
+
+103-2 
+
+The 
+
+management 
+
+approach 
+
+and 
+
+its 
+
+components 
+
+103-3 
+
+Evaluation of the management approach 
+
+MATERIAL TOPICS 
+
+GRI 403: OCCUPATIONAL HEALTH AND SAFETY 2018 
+
+403-1 
+
+Occupational health and safety management 
+
+system 
+
+Pg [8-9] 
+
+403-2 
+
+Hazard identification, risk assessment, and 
+
+incident investigation 
+
+Pg [8-9] 
+
+403-3 
+
+Occupational health services 
+
+Pg [8-9] 
+
+403-4 
+
+Worker 
+
+participation, 
+
+consultation, 
+
+and 
+
+communication on occupational health and 
+
+safety 
+
+Pg [8-9] 
+
+403-5 
+
+Worker training on occupational health and 
+
+safety 
+
+Pg [8-9] 
+
+403-6 
+
+Promotion of worker health 
+
+Pg [8-9] 
+
+403-7 
+
+Prevention and mitigation of occupational 
+
+health and safety impacts directly linked by 
+
+business relationships 
+
+Pg [8-9] 
+
+403-9 
+
+Work-related injuries 
+
+Pg [8-9] 
+
+GRI 404: TRAINING AND EDUCATION 2016 
+
+404-1 
+
+Average hours of training per year per 
+
+employee 
+
+Pg [10-13] 
+
+404-3 
+
+Percentage of employees receiving regular 
+
+performance 
+
+and 
+
+career 
+
+development 
+
+reviews 
+
+Pg [10-13] 
+
+CUSTOMER SATISFACTION 
+
+- 
+
+Customer service satisfaction survey result  
+
+Pg [7] 
+
+ 
+
+ 
+
+ 
+

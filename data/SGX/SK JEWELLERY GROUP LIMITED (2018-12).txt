@@ -1,0 +1,1385 @@
+SK
+JEWELLERY GROUP
+SUSTAINABILITY
+REPORT 2018
+
+02 SUSTAINABILITY REPORT 2018
+CONTENTS
+CEO'S STATEMENT
+4
+ABOUT THIS REPORT
+6
+ORGANISATIONAL PROFILE
+8
+GOVERNANCE
+1.
+ Sustainability Approach
+14
+2.
+ Supply Chain Management
+15
+3.
+ Stakeholders Engagement
+16
+4.
+Materiality Matrix
+17
+5.
+Membership of Association
+19
+6.
+Corporate Governance
+20
+7.
+Conflict of Interest Policy
+20
+8.
+Dealing In Securities Policy
+21
+9.
+ Fraud and Whistleblowing Policy
+21
+ECONOMIC
+1.
+Anti-corruption and Anti-money Laundering Policies
+22
+ENVIRONMENTAL
+1.
+Energy Management
+23
+EMPLOYEE DEVELOPMENT AND DIVERSITY
+1.
+Employee Welfare
+24
+2.
+Diversity and Equal Opportunity
+26
+3.
+Training and Education
+28
+COMMUNITY
+1.
+Customers Privacy
+29
+GRI CONTENT INDEX
+30
+ This sustainability report ("Report") has been prepared by SK Jewellery Group Limited (the "Company") and has been reviewed by the Company's sponsor,
+United Overseas Bank Limited (the "Sponsor") for compliance with Rules 226(2)(b) and 753(2) of the Singapore Exchange Securities Trading Limited (the
+ "SGX-ST") Listing Manual Section B: Rules of Catalist. This Report has not been examined or approved by the SGX-ST. The SGX-ST assumes no responsibility
+for the contents of this Report, including the correctness of any of the statements or opinions made or reports contained in this Report. The contact person
+for the Sponsor is Mr Lim Hoon Khiat, Director, Equity Capital Markets, who can be contacted at 80 Raffles Place, #03-03 UOB Plaza 1, Singapore 048624,
+Telephone: +65 6533 9898.
+
+03 SUSTAINABILITY REPORT 2018
+V
+
+04 SUSTAINABILITY REPORT 2018
+CEOSSTATEMENT
+"Our commitment towards
+running a responsible
+business requires a delicate
+balancing of the long-term
+interests of our employees,
+planet, and profitability."
+Mr Lim Yong Sheng
+Executive Director & Group CEO
+Dear Stakeholders,
+As the leading jewellery retailer in Singapore, SK Jewellery Group Limited ("SKG",
+and together with its subsidiaries, the "Group") strives to create long-term value
+for its stakeholders. In 2018, SKG released its inaugural Sustainability Report,
+which shared the Group's current practices of embedding sustainability within its
+day-to-day operations. Our commitment towards running a responsible business
+requires a delicate balancing of the long-term interests of our employees, planet,
+and profitability. This year's report aims to highlight the Group's on-going progress
+in its sustainability efforts, as well as its near-term strategies and long-term
+ approaches to sustainability.
+The first key pillar of our sustainability strategy revolves around understanding
+SKG's economic viability, with our customers being our key stakeholders. Over
+the last 10 years, we have witnessed a mass shift towards new digital technology
+
+05 SUSTAINABILITY REPORT 2018
+in consumer purchasing patterns, which is rapidly transforming the jewellery
+business landscape. We believe long-term business sustainability requires
+investment towards digital technologies, and to adopt a digital first mind-set in
+all our business efforts to drive growth. Specifically, we are focusing efforts in
+our e-commerce platform, and also adopting digital transformation of our core
+operationalprocesses.
+In addition, one of the key facets of the Group's business sustainability is centred
+on building our status as an international brand, championed through Love & Co.
+bridal jewellery collections. We are heavily investing efforts in the Thailand and the
+People's Republic of China ("PRC") markets, to focus on encapsulating a share of
+the increasing affluence and rising disposable incomes of the millennial customers
+there. I am pleased to share that in September 2018, we opened our fourth Love & Co.
+outlet in the PRC, and are heavily bolstering brand building efforts in Thailand.
+The social pillar is focused on the wellness, and improvement of the quality of life
+of our direct community. To reach out and make a difference towards the less
+privileged, we have partnered with Radin Mas Community Centre. Project Sayang,
+a goodwill initiative, seeks to improve the quality of life of low-income households.
+Our employees readily volunteered to help deliver food,necessities, and household
+appliances to these families, and we aim to drive this initiative forward as an
+example of how companies can seek to improve inclusive growth within the local
+community. We have recently concluded our third series of volunteering in April
+2019, and will continue to explore opportunities within the social sphere.
+Our final pillar focuses on our employees, who make all the difference towards
+our drive for success. We want to encourage lifelong learning, and prepare our
+employees for the fast-changing environment of the retail landscape. Therefore,
+we identify high-performing staff, and place them on training courses to further
+develop their expertise.
+On behalf of the Board, I would like to reiterate the Group's commitment towards
+building a sustainable business. We invite you, our key stakeholders, to join us on
+this journey, and share your views with us on our sustainability journey.
+
+06 SUSTAINABILITY REPORT 2018
+ABOUTTHISREPORT
+REPORTING PERIOD AND SCOPE
+This is SK Jewellery Group Limited's (the "Company" and
+together with its subsidiaries, the "Group" or "we" or "us"
+or "our") second sustainability report for the financial year
+("FY") ended 31 December 2018. This report covers data
+and information from 1 January 2018 to 31 December 2018
+pertaining to Singapore context and discusses the Company's
+achievements and performance towards Environmental, Social
+and Governance ("ESG") issues
+The Group's sustainability report is prepared in compliance
+with the requirements of Rules 711A and 711B of the Singapore
+Exchange Securities Trading Limited ("SGX-ST") Listing
+Manual Section B: Rules of Catalist ("Catalist Rules") and the
+Global Reporting Initiative ("GRI") reporting guidelines,"Core"
+Option.
+REPORT BACKGROUND
+Our Board of Directors (the "Board") recognises the
+importance of the sustainability in the Group's business
+operations and performance. The Board continues to manage
+the Group's sustainability direction, which sustainability efforts
+are led by our Sustainability Steering Committee that ensures
+Universal Standards
+Topic-specific GRI Standards
+N
+FOUNDATION
+VIRONMENTAL
+GRI
+GRI
+GRI
+GRI
+GRI
+GRI
+200
+300
+101
+102
+103
+400
+Starting point
+To report
+To report the
+Select from thesc
+for using the GRI
+contextual
+management
+e to report specific disclosures for each material topic
+Standards
+ information about
+approach for each
+ an organization
+material topic
+that sustainability practices are embedded in the business
+We have prepared this report using the international reporting
+operations and that sustainability goals are aligned with the
+framework, GRI Standards: "Core" option, the latest set of
+Group's overall strategic business direction. Therefore, the
+standards issued by the GRl Global Sustainability Standards
+Group published its first sustainability report for FY2017 and
+Board. We adopted the GRI reporting framework, for its
+we continue to communicate with our stakeholders on the
+robust regime and detailed guidance on which offers an
+Group's achievements and targets for FY2019.
+internationally-recognised benchmark for the disclosure
+of governance approaches, the environmental, social and
+This report will continue to discuss the challenges and material
+economic performance and impacts on organisation.
+ issues that are important to our stakeholders and our strategy in
+addressing and managing these challenges and issues, and lastly,
+REPORTING PRINCIPLES
+ how the Group has performed in terms of our key performance
+The Group continues to adhere to the GRI Reporting Principles
+indicators as compared to the Group's performance in FY2017.
+for the definition of the report's content, disclosures and
+
+07 SUSTAINABILITY REPORT 2018
+ABOUTTHIS
+REPORT
+sustainability reporting practices and the management
+ACCESSIBILITY
+approaches relating to information relating to the Group.
+In line with our sustainability efforts, we only released this report
+The report contains consolidated environmental and social
+in electronic edition (pdf format) and it is available for download
+performance data for the Group and the data is reported in
+via our website at https://www.skjewellerygroup.com
+good faith and to the best of our knowledge. The GRI Content
+Index can be found on pages 30-31 of this report.
+No external assurance has been sought for this report,
+CONTACT
+however, we rely on our internal process to verify the accuracy
+We welcome stakeholders' feedback and suggestions as part of
+of the ESG, economic performance data and information
+our continued efforts to improve our sustainability journey. If
+presented in this report. The Group will review the option of
+you have any questions about this report, you can reach us at
+seeking external assurance in the future
+feedback@SKJewellery.com.
+
+08 SUSTAINABILITY REPORT 2018
+ORGANISATIONALPROFILE
+Headquartered in Singapore and founded in 1991, we are listed on the Catalist of the SGX
+ST since 20 August 2015. We have an established presence of over 20 years in Singapore and
+over a decade in Malaysia. We have one of the largest networks, with more than 60 retail
+stores strategically situated in prime shopping malls in Singapore, Malaysia, the People's
+Republic of China ("PRC") and Thailand.
+OUR BRAND STORY
+We are a leading premier jeweller, recognised for brilliant craftsmanship, signature
+expressions and timeless quality. Our aim is to add a touch of sparkle to your brilliance
+through providing an exclusive range of pieces that you will cherish forever.
+MILESTONES
+1991
+Founding of
+1996
+Soo Kee Jewellery
+Introduced White
+Gold and Diamond
+1999
+Jewellery
+Exclusive distributorship
+of Brilliant Rose
+2005
+Retail jewellery products
+on Krisshop and Skyshop
+2006
+Singapore First Diamond
+Christmas Tree
+2007
+Launch of Untitled Black,
+with Wykidd Song
+2008 .
+Chairperson of
+You are a Star!
+Soo Kee Christmas
+Singapore Jewel Fest
+2009
+Inaugural launch of
+2010
+Polaris Ice Diamond
+Launch of Mine to Mine
+Exclusive distributorship
+Private Collection
+ of Versace Fine Jewellery
+2013
+Brilliant Rose Eternal
+2015
+Love Collection
+Top brand 2015 Winner in
+Gold and Jewellery category
+2016
+by Influential Brands
+ SK Jewellery won Intellectual Property
+Office of Singapore's ("IPOS") award for
+Trade Mark Portfolio
+2017
+ SK Jewellery awarded
+2018
+"Retailer of the Year" at
+Joint-venture with Aurora Design Co. Ltd ("Aurora"), a
+Jewellery News Asia ("JNA")
+leading retailer of gold ornament and fine jewellery in
+Bangkok, Thailand
+Opening of four retail outlets in Shanghai and Shenzhen
+
+09 SUSTAINABILITY REPORT 2018
+The Group offers an extensive range of jewellery products and mementoes through our
+Soo Kee Jewellery, SK Jewellery and Love C Co. brands. We offer delicate, elegant luxury
+jewellery pieces, targeting confident, contemporary women with delicate and discerning
+tastes. Our products and offerings collections predominantly showcase premium diamonds,
+coupled with gold or platinum settings whereas our contemporary jewellery showcases
+precious gemstones and pearls.
+Each of our brands carries a unique identity, with distinctive branding, marketing efforts
+and product offerings and we are the exclusive distributor in Singapore and Malaysia for the
+ distinctive Brilliant Rose brand.
+The Group offers an array of fashionable jewellery and mementoes for a wide range of
+consumers. Our SK Jewellery's exclusive distributorship of the ALLOVE brand of diamonds
+pushes the boundaries in diamond-cutting techniques with an all-new 81-facet in Singapore
+and Malaysia, and the innovative Dancing Star and Star Carat collections as well as the SK
+999 Pure Gold collection, showcasing bridal jewellery, sculpted art pieces, commemorative
+gold bars and coins.
+rder engagement rings
+ and wedding bands.
+
+010 SUSTAINABILITY REPORT 2018
+OUR MISSION
+We pride ourselves on being a visionary company, striving to
+continually challenge ourselves and going beyond to meet the
+ever-evolving needs and aspirations of smart, modern and
+ globally-minded customers in Asia.
+OUR VISION
+We are committed to an active and progressive approach in
+everything we set out to do. We look ahead and move towards
+our goals and objectives, with confidence and belief.
+OUR CORE VALUES
+CUSTOMER-CENTRIC
+We celebrate the aspirations and desires of smart, modern and
+globally-minded customers for creativity and self-expression.
+ SMART DETERMINATION
+We harness our experience, knowledge and capabilities to
+ continually meet ever-changing needs.
+CREATIVE INNOVATION
+We embrace creativity and innovation to go beyond and inspire
+
+011 SUSTAINABILITY REPORT 2018
+ORGANISATIONALPROFILE
+OVE & CO
+SK
+JEWELLER
+Adam
+SKa
+SOOKEE
+shutterstr,ck
+
+012 SUSTAINABILITY REPORT 2018
+ORGANISATIONALPROFILE
+THAILAND
+VE & CO
+CentralWorld
+1st Floor, Beacon 3 Zone,
+SINGAPORE
+MALAYSIA
+ 999/9 Rama 1 Road
+Pathunwan, Bangkok
+CENTRAL
+Gurney Plaza
++6622645978
+ION Orchard
+Lot 170-G-47A, 10250 Penang
+2 Orchard Turn
+Tel: +604 227 6911
+CentralPlaza Rama 3
+#B2-64 ION Orchard
+1st Floor, 79 Sathupradit Road,
+Johor Bahru City Square
+Singapore 238801
+Yannawa, Bangkok
+Tel: 6509 8633
+J1-02 Level 1, 80000 Johor
++6620613591
+Bahru
+ Plaza Singapura
+Tel: +607 221 3633
+CHINA
+68 Orchard Road
+#01-07 Plaza Singapura
+ One Utama Shopping Centre
+Lot G138, 47800 Petaling Jaya
+Singapore 238839
+Tel: +603 7733 6266
+Tel: 6835 7533
++86 0755 88601813
+Vivo City
+Sunway Pyramid
+L#13
+1 Harbourfront Walk
+Lot 1.75, 47500 Petaling Jaya
++83
+#01-145/146 Vivo City
+Tel: +603 5613 0633
+-2
+Singapore 098585
++86 021 63390563
+Tel: 6376 9033
+The Gardens , Midvalley City
+#Lot F-239A 59200
+WEST
+ Kuala Lumpur
+1192
++86 021 50756833
+Jem
+Tel: +603 2282 5633
+ 50 Jurong Gateway Road
+The Mall, Mid Valley Southkey
+#01-47
+268
+ Singapore 608549
+Lot G-061, 80150 Johor Bahru
+L1
+Tel: 6734 8033
+Tel: +607 338 4322
++86 021 63590098
+SK
+SOOKEE
+JEWELLERY
+SINGAPORE
+SINGAPORE
+CENTRAL
+CENTRAL
+Bugis
+ION Orchard
+200 Victoria Street
+2 Orchard Turn
+#01-24 Parco Bugis
+#B2-66 ION Orchard
+Junction
+Singapore 238801
+Singapore 188024
+Tel: 6509 8533
+Tel: 6337 2933
+Vivo City
+NORTH
+1 Harbourfront Walk
+Nex
+#01-27A Vivo City
+ 23 Serangoon Central
+Singapore 098585
+#01-41 Nex
+Tel: 6376 9433
+Singapore 556083
+Tel: 6634 4733
+WEST
+Jurong Point
+1 Jurong West Central 2
+#01-64/65 Jurong Point
+Shpg Ctr
+Singapore 648886
+Tel: 6791 0233
+
+013 SUSTAINABILITY REPORT 2018
+SK
+Compass One
+#01-19B Lot 1 Shopper's Mall
+ Dataran Pahlawan Melaka
+1 Sengkang Square
+Singapore 689812
+ Megamall
+#01-42 Compass One
+Tel: 6769 2433
+Lot G-006 e BX-003A
+Singapore 545078
+Upper Ground Floor @ Lower
+Tel: 6386 9633
+IMM Building
+Ground Floor
+JEWELLERY
+2 Jurong East Street 21
+Jalan Merdeka, Bandar Hilir
+Hougang Mall
+#01-26/27 IMM Building
+75000 Melaka
+SINGAPORE
+90 Hougang Avenue 10
+Singapore 609601
+Tel: +606 283 6633
+#01-22/23/24 Hougang Mall
+Tel: 6569 3733
+CENTRAL
+Singapore 538766
+AEON Bkt Tinggi
+Bugis Junction
+Tel: 6288 0433
+Jurong Point
+Lot G33 No.1
+200 Victoria Street
+1 Jurong West Central 2
+ Persiaran Batu Nilam 1/KS6
+#01-34/35 Parco Bugis Junction
+#01-29/29A Jurong Point Shpg
+Junction 8
+Bandar Bukit Tinggi 2
+ 9 Bishan Place
+Singapore 188024
+Ctr
+41200 Klang, Selangor
+Tel: 6337 1233
+#01-43 Junction 8
+Singapore 648886
+Tel: +603 3326 2933
+Singapore 579837
+Tel: 6792 2933
+ION Orchard
+Tel: 6250 5033
+Paradigm Mall
+2 Orchard Turn
+Jurong Point
+Lot GF07
+#B2-61 ION Orchard
+63 Jurong West Central 1
+Northpoint
+ No. 1, JIn SS 7/26A, Kelana Jaya
+Singapore 238801
+ 930 Yishun Avenue 2
+#01-53/54 and #01-83/84 The
+47301 Petaling Jaya, Selangor
+Tel: 6509 8733
+#01-27 Northpoint Shpg Ctr
+Centris
+Tel: +603 7887 9733
+Singapore 769098
+Singapore 648886
+Lucky Plaza
+Tel: 6759 2733
+Tel: 6794 3133
+ 304 Orchard Road #01-
+Sunway Pyramid
+56/57/58/59
+Northpoint City
+The Clementi Mall
+Lot LG2.149
+Lucky Plaza
+1 Northpoint Drive #01-179/180
+3155 C'Wealth Ave West
+ No.3, JIn PJS 11/15, Bandar
+Singapore 238863
+Northpoint City
+#03-43/44/45 The Clementi
+Sunway,
+Tel: 6733 5233
+Mall
+Singapore 768019
+ 46150 Petaling Jaya, Selangor
+Singapore 129588
+Tel : 6484 2033
+Tel: +603 5631 9033
+People's Park Complex
+Tel : 6570 3133
+1 Park Road
+ Serangoon Nex
+Sunway Velocity Mall
+#01-52 People's Park Complex
+ 23 Serangoon Central
+MALAYSIA
+Lot G48, Lingkaran SV,
+Singapore 059108
+#B1-60/61
+Jalan Peel, Maluri
+Tel: 6538 0933
+Singapore 556083
+AEON Bukit Indah
+ 55100 Kuala Lumpur
+Tel: 6634 4533
+Lot G31
+Tel: +603 92029363
+Plaza Singapura
+ No 8 Jalan Indah 15/2 Bukit Indah
+68 Orchard Road
+Waterway Point
+ 81200 Johor
+AEON Ipoh Station 18
+#01-27/27A Plaza Singapura
+83 Puggol Centre #01-48
+Tel: +607 236 6933
+Lot G15
+Waterway Point
+Singapore 238839
+ No 2 Susuran Stesen 18,
+Tel: 6336 1033
+Singapore 828761
+City Square
+Station
+Tel : 6385 9633
+Lot J1-04
+18 31650 Ipoh, Perak, Malaysia
+Tiong Bahru Plaza
+ 108 Jalan Wong Ah Fook
+Tel: +605 322 0633
+302 Tiong Bahru Rd #01-148
+80000 Johor
+Tiong Bahru Plaza
+EAST
+Tel: +607 221 6933
+Plaza Gurney
+ Singapore 168732
+Bedok Mall
+Lot 170-G-46A
+Tel: 6254 5733
+311 New Upper Changi Road
+City Square
+Persiaran Gurney
+#01-42/43/44 Bedok Mall
+Lot M1-02
+10250 Penang
+Vivo City
+Singapore 467360
+108 Jalan Wong Ah Fook
+Tel:+6 04 229 1633
+1 Harbourfront Walk
+Tel: 64478733
+80000 Johor
+#02-180 Vivo City
+Tel: +607 223 7933
+Singapore 098585
+Changi Airport T3
+Tel: 6376 8033
+Departure Check-in Hall Ctrl
+KSL City
+#02-84 Changi Airport T3
+Lot G-32
+Singapore 819663
+ No.32 Jalan Seladang ,Taman
+NORTH
+Tel: 6242 3433
+Abad
+AMK Hub
+ 80250 Johor
+53 Ang Mo Kio Avenue 3
+Tampines Mall
+Tel: +607 3331 933
+#B1-11 AMK Hub
+4 Tampines Central 5
+Singapore 569933
+#01-19/20 Tampines Mall
+ AEON Bandaraya Melaka
+Tel: 6554 1433
+Singapore 529510
+Lot G75
+Tel: 6260 0133
+ No 2 Jalan Lagenda, Taman
+Causeway Point
+I-Lagenda
+1 Woodlands Square
+#01-K01 Causeway Point
+75400 Melaka
+WEST
+Tel: +606 283 9933
+Singapore 738099
+Choa Chu Kang Lot 1
+Tel: 6893 7533
+21 Choa Chu Kang Avenue 4
+
+014 SUSTAINABILITY REPORT 2018
+GOVERNANCE
+SUSTAINABILITY APPROACH
+Firstly, we seek to understand the concerns and opinions of our key stakeholders
+through various engagement activities which will be explained in the next section
+of the report. Subsequently, we strive to design a framework which will incorporate
+their needs and expectations together with the ESG factors identified and present
+them in this report. Through this process, we will build mutually beneficial
+relationship which will benefit the Group.
+BOArd OF
+Oversees and manages the direction, approach and
+DIRECTORS
+performance of sustainability of the Group.
+("BOARD")
+SUSTAINABILITY
+STEERING
+Provides and oversees the Group's sustainability practices
+ and communicates to the Board for any updates.
+COMMITTEE
+ Steering Committee Members
+ Non-Executive Chairman
+ Executive Director and Group CEO
+  Executive Director and Group COO
+Chief Financial Officer
+Comprises data owners from various department who
+SUSTAINABILITY
+are responsible for the sustainability performance of their
+TASK FORCE
+respective departments.
+
+015 SUSTAINABILITY REPORT 2018
+SUPPLY CHAIN MANAGEMENT
+We believe that focusing on product responsibility is essential at the start of the supply chain of products. Through
+responsible management of supply chain, key stakeholders of our business, in particular our customers, will establish
+confidence in our products, enhanced satisfaction and long term relationship with our business.
+The Group main purchases were diamonds and gold and continue to purchase high quality diamonds and gold.
+To ensure our products are at highest level of quality and safety for our customers and to encourage sustainable
+business practices, we continue to assess the quality of our suppliers, based on their experience, expertise, quality and
+past performance that we have with these selected suppliers.
+In our approach to sustainable and responsible business practices, we actively monitor and ensure that our suppliers
+comply with the relevant regulations such as Best Practice Principles (BPP) of De Beers, Responsible Jewellery Council
+(RJC), World Diamond Council (WDC) and World Jewellery Confederation (CIBJO).
+We monitor compliance measures implemented by our suppliers such as know-your-customer checks to establish
+identity ownership in ensuring diamonds sourced are conflict-free, and uphold responsible and ethical practices
+within the industry.
+The Group generally does not put itself in long-term exclusive agreements with any of our suppliers as
+this provides us with the opportunity and flexibility to evaluate and select other suppliers in accordance with the
+Group's policy and criteria as mentioned above.
+
+016 SUSTAINABILITY REPORT 2018
+STAKEHOLDERS ENGAGEMENT
+An important starting point in our sustainability journey is to identify our
+stakeholders and material aspects relevant to our business. The interests and
+requirements of key stakeholders are also taken into account when formulating
+corporate strategies. These key stakeholders include, but are not limited to,
+investors, customers, employees and the community. We adopt both formal
+and informal channels of communication to understand the needs of key
+stakeholders, and incorporate these into our corporate strategies to achieve
+mutually beneficial relationships.
+The figure below sets out our engagement with our stakeholders:
+INVESTORS
+USTOMERS
+COMMUNITIES
+SK JEWELLERY GROUP
+EMPLOYEES
+BOARD OF DIRECTORS
+GOVERNMENT
+PARTNERS
+ENGAGEMENT ACTIVITIES
+STAKEHOLDER GROUP
+ STAKEHOLDER EXPECTATIONS
+CUSTOMERS
+ Feedback channels
+Excellent customer service and good quality products
+ Email queries
+and offerings
+BUSINESS PARTNERS
+ Regular dialogue sessions
+Trustworthy, excellent and cohesive working relationships
+Established channels of
+communications
+EMPLOYEES
+ Induction programme
+Staff rights and welfare, personal development,
+Performance appraisals
+conducive working environment
+ Training and development
+INVESTORS
+ Annual reports
+ Annual general meetings
+Profitability, transparency, timely reporting.
+ SGXNet announcements
+fair purchasing practices
+ Informal discussions
+GOVERNMENT
+ Meetings and dialogue sessions
+Environmental-friendly business approach, compliance
+with relevant rules and regulations, timely reporting and
+Regular reports
+resolution of issues
+COMMUNITIES
+ Corporate giving and activities
+ Engagement with community
+Helping the underprivileged, giving and contributing
+back to the society
+projects and charities
+
+017 SUSTAINABILITY REPORT 2018
+G O V ER N A N C E
+MATERIALITY MATRIX
+Through active engagement with our stakeholders, we have evaluated and identified
+factors which would have significant economic, environmental and social impacts and
+are material to the organisation and stakeholders.. Based on the feedback and reviews
+gathered, we continue to report on the five material topics previously identified and
+disclosed in FY2018. A detailed explanation on the factors, together with its performance
+indicators and targets were discussed in the subsequent sections of this report.
+MATERIALITY MATRIX
+Dive
+Cus
+Privacy
+Equal Opportuni
+SIGNIFICANCE OF ECONOMIC, ENVIRONMENTAL AND SOCIAL IMPACT
+SELECTED SUSTAINABILITY TOPICS
+ Anti-Corruption
+Energy
+ Diversity and Equal Opportunity
+ Training and Education
+Customer Privacy
+
+
+
+019 SUSTAINABILITY REPORT 2018
+MEMBERSHIP OF ASSOCIATION
+The Group is actively involved in projects, dialogues and is committed in several industry
+associations. We aim to maintain positive working relationship with these associations and
+strengthen our capabilities in order to deliver excellent service to our consumers who trusted in us.
+SINGAPORE JEWELLERSASSOCIATION (SJA)- MEMBER SINCE 1991
+We are an Executive Committee Member of the Singapore Jewellers Association (SJA)
+*
+INGAPORE JEWELLERS ASSOCIATION
+which is the only non-profit organisation representing jewellery operators in Singapore.
+Currently, there are about 360 corporate members which include most of the reputable
+and long-established jewellers in Singapore.
+DIAMOND EXCHANGE OF SINGAPORE (DES)- MEMBER SINCE 2OO3
+The Diamond Exchange of Singapore (DES) is the consolidated voice of the diamond
+industry in Singapore. It provides regulation and support for the members and help
+maintain professional and ethical standards in the trade so as to reinforce consumer
+confidence in diamonds and jewellery. It is an affiliate member of the World Federation of
+DIAMOND EXCHANGE
+Diamonds Bourses (WFDB) since 1980 and the members are bound by the high standards
+OFSINGAPORE
+ of the WFDB trading rules and code of business practice
+SINGAPORE BULLION MARKET ASSOCIATION (SMBA) - MEMBER SINCE 2016
+SMBA is a non-profit organisation established to represent the interests of industry
+SBMA
+stakeholders of the precious metals market. As a member, we engage with other industry,
+governmental and non-governmental players regularly, and strive to build Singapore into a
+global precious metals trading hub.
+SINGAPORE BUSINESS FEDERATION (SBF) - MEMBER SINCE 2014
+SBF is a business board championing the interests of the Singapore business community
+SINGAPORE
+BUSINESS
+in the areas of trade, investment, and industrial relations. It represents the interests of
+FEDERATION
+25,800 companies, as well as key local and foreign business chambers.
+CASETRUST - CERTIFIED SINCE 2015
+CaseTrust
+We are a member of CaseTrust, the accreditation arm of the Consumers Association of
+Singapore (CASE), Singapore's de facto standard for fair and transparent trading standards.
+BeSu
+This represents our commitment to high quality business practices.
+AWARDS AND ACCREDITATIONS
+Our Group has received various awards and accreditations, which include:
+ JNA Award - Retailer of the Year 2017 (450 outlets and below);
+ii.
+ JNA Award -- Outstanding Enterprise of the Year 2016 (ASEAN Category);
+ ii. JMA International Jewelry Design Competition 2016; and
+iv.WIPO-IPOS Award 2016 - IPOS Award for Trade Mark Portfolio.
+
+020 SUSTAINABILITY REPORT 2018
+GOVERNANCE
+CORPORATE GOVERNANCE
+We remain committed to good corporate governance practices through adequate controls and policies and procedures
+in place to guide employees, safeguard against fraud and protect the interests of our stakeholders. For instance,
+we adhere to the principles and guidelines set out in the Code of Corporate Governance 2012 (the "Code"), where
+appropriate. These principles and guidelines serves as a basis and guideline to the Board's commitment in having
+effective corporate practices to safeguard against fraud and dubious financial transactions, with the aim of protecting
+shareholders' interests and to promote confidence from our shareholders, which plays a vital role in the Group's long
+term success.
+The Group recognises the importance of, and is committed to ensuring a healthy and safe working environment
+for our employees. As such, we place emphasis on accountability, being transparent and conduct our business in
+an ethical manner. Employees of the Group are expected to exhibit highest standards of integrity and trust in all
+business relationships and dealings, at all times.
+In order to achieve the above, the Group has established policies for conflict of interest, insider trading and
+ fraud and whistleblowing.
+CONFLICT OF INTEREST POLICY
+The Group has established a conflict of interest policy to guide our employees in identifying potential and or actual
+conflict of interest from the daily operations and how management deals with such confirmed incidence of conflict of
+interest. Conflict of interest is defined broadly in the policy to refer to any situation where an employee has a personal
+interest that is sufficient to influence, or appears to influence, the objective exercise of his official duties. The conflict of
+interest policy will require employees to declare real or perceived conflicts of interests in accordance with documented
+procedures and to comply with the actions recommended by our management to address such conflicts.
+All of our key management personnel, including but not limited to our Executive Directors and Executive Officers, have
+to complete annual declaration of conflict of interest to the Board.
+
+D21 SUSTAINABILITY REPORT 201&
+DEALING IN SECURITIES POLICY
+The Group has adopted a policy whereby the Directors and employees of the Group are prohibited from dealing in the
+securities of the Company while in possession of price-sensitive information as well as during the period commencing
+one (1) month before the announcement of the Group's full year results and two (2) weeks before the announcement
+of the first, second and third quarter results until the said results announcement has been made. The Directors and
+employees of the Group are to refrain from dealing in the Company's securities on short-term considerations.
+The Directors and employees of the Group are also required to adhere to the provisions of the Securities and Futures
+Act, Companies Act, Chapter 50 of Singapore, the SGX-ST Listing Manual Section B: Rules of Catalist ("Catalist Rules")
+and any other relevant regulations with regard to their securities transactions.
+Directors and employees of the Group are also expected to observe insider trading laws at all times even when dealing
+with securities within the permitted trading period.
+|
+FRAUD AND WHISTLEBLOWING POLICY
+The Group adopts a fraud and whistle-blowing policy which demonstrates the Group's zero tolerance towards
+dishonesty and corrupt practices. This policy provides a transparent channel of communication for employees and
+external parties to raise in confidence, to report any possible improprieties in financial reporting, fraud, corruption,
+bribery, and any non-compliance with laws and regulations without fear of reprisal. A dedicated secured email address
+ has been set up to allow whistle blowers to contact the chairman of the Audit Committee of the Company directly.
+In FY2018, there were no lapses with requirements under the Catalist Rules leading to reprimands from the SGX-ST,
+and there were no whistle-blowing reports received.
+
+022 SUSTAINABILITY REPORT 2018
+ECONOMIC
+ANTI-CORRUPTION AND ANTI-MONEY LAUNDERING POLICIES
+INDICATOR
+TARGET 2018
+PERFORMANCE 2018
+TARGET 2019
+Confirmed incidents of
+Zero confirmed
+Zero confirmed
+Zero confirmed
+corruption and money
+incidents of corruption and
+incidents of corruption and
+incidents of corruption and
+money laundering
+money laundering
+ laundering and actions taken
+money laundering
+The Group strives to maintain the highest standards in our business
+verify the quality and authenticity of the diamonds as well as the
+operations which safeguards shareholders' interest in the Group.
+diamonds supply documentations.
+Integrity and honesty are the basic values that we hope to embed
+in our daily operations. The code of conduct and ethics policy are
+In FY2018, there were no confirmed incidents of corruption and
+established in the Employee Handbook and reiterated to employees
+money laundering. The Group will continue to assess our internal
+through email communication. Any forms of malpractices such as
+controls relating to corruption and we hope to maintain zero
+giving and or accepting bribes and money laundering are strictly
+confirmed incidents of corruption and money laundering for the
+prohibited within the Group. Our employees are provided with
+ subsequent sustainability reports.
+an avenue to report incidents of fraud or malpractice to their
+immediate supervisor or any of our Executive Directors or Executive
+Officers. Any confirmed instances of such malpractices would be
+ handled accordingly.
+We have implemented the anti-money laundering procedures
+which are aligned with the Financial Action Task Force to prevent
+money laundering cases.Cash sales transactions above SGD 20,000
+are required to file a completed Form NP 759, with particulars of
+the consumer, to the Suspicious Transaction Reporting Office and
+submit a Cash Transaction Report.
+A preliminary investigation will be conducted by management
+on suspected illegalities, dishonesty or improper activities to
+determine whether further investigation or disciplinary action is
+necessary or the matter should be escalated to the local authorities.
+In the Group, apart from delivering the best diamonds to our
+consumers, we aim to be transparent about the diamonds origin
+and authenticity. Concerns that may arise such as utilising synthetic
+diamonds to pass off as authentic diamonds, mixing goods to
+disguise country of origin were addressed by the Group through
+our combined effort with our audit team to rigorously review and
+
+023 SUSTAINABILITY REPORT 2018
+ENVLRONMENTAL
+OUR ENVIRONMENT
+The Group views environment as one of the key sustainable factor for future generations to come. As
+such, we promote environmental protection and sustainable development in our daily operations. From
+the Group's perspective, we advocate environmental protection through our waste management and
+conserving energy by minimising energy usage when not in used.
+ENERGY VANAGEMEN
+ Our main energy consumption comes from purchased grid electricity.
+The Group's performance for 2017 and 2018 includes both Singapore and Malaysia offices and outlets.
+INDICATOR
+PERFORMANCE 2017
+TARGET 2018
+PERFORMANCE 2018
+TARGET 2019
+ Maintain building energy
+Head Office --
+About 664 mWh
+About 912 mWh
+ Maintain building energy
+Building Energy Intensity
+(0.21 mWh per sqm)
+ intensity at equal or
+(0.18 mWh per sqm)
+intensity at equal or
+ below 2017 intensity for
+ below 2018 intensity for
+head office and outlets
+ head office and outlets
+About 1,103 mWh
+Outlets --
+About 1,116 mWh
+Building Energy Intensity
+(0.45 mWh per sqm)
+(0.45 mWh per sqm)
+The Group's approach relating to energy management involves In FY2018, the head office has embarked on the building
+reducing consumption when not in use and monitoring usage.
+management system that monitors the building's ventilation
+We strongly encourage employees to switch off lights and
+and regulates the office temperature to ensure comfort and
+air-conditioning in offices when they are not in use. Additionally,
+to reduce overall energy consumption. For example, the
+installation of motion sensor lighting in public areas of the head
+head office adopted the use of doubled glazed glass panels
+office has helped to conserve electricity.
+to prevent ultraviolet and infrared radiation from entering,
+hoping to reduce the indoor temperature. The reduction of
+ultraviolet and infrared radiation will reduce the electricity
+air-conditioning accounts.The Group have collaborated with district
+consumption of air-conditioners.
+cooling systems developer and service provider Keppel DHCS that
+can save energy consumption of up to 40%1 when compared to
+buildings with conventional in-building chilled water production.
+Source 1 : http://www.kepcorp.com
+
+024 SUSTAINABILITY REPORT 201
+EMPLOYEEDEVELOPMENT
+AND DIVERSITY
+PEOPLE
+Employees are crucial to our progress and growth and we recognise the importance of attracting and
+retaining talents within the Group.
+EMPLOYEE WELFARE
+We advocate fair employment practices and we recruit and select employees based on merits,
+treat them fairly and with due respect, allow equal opportunities for training and development,
+reward our employees according to their performances and abilities, as well as to abide with
+the relevant laws and regulations.
+The Group provides competitive benefits to the full-time employees which are in line with market
+practices. These benefits include Central Provident Fund, annual leave, insurance coverage,
+medical benefits, maternity and paternity leave in accordance with the recommendations of the
+Ministry of Manpower of Singapore.
+A strategic reward system is put in place to recognise top performing employees that have made
+contributions to the Group. Dedicated, loyal and performing employees were also granted
+Long Service Awards to show the Group's appreciation towards employees who served the Group with
+dedication. This award also signifies the employee in playing a vital role to help the Group in achieving its
+corporate milestones.
+In FY2018, we have given the following awards to the employees for the recognition of
+loyal and excellent performance :
+1. Long service awards ranging from 5 years to 20 years to 52 employees;
+2. Top sales awards to 20 employees; and
+3. Excellent attendance awards to 87 employees.
+
+HETY
+
+026 SUSTAINABILITY REPORT 2018
+DIVERSITY AND EQUAL OPPORTUNITY
+The Group advocates equal opportunity to all employees, regardless of gender, race, marital status, religion
+and age and discourages discrimination. An employee's career growth will be based on fair work practices and
+remuneration based on the individual employee's performance without discrimination. To ensure that the
+Group continues to provide exceptional customer service and is able to serve our customers at different age
+groups, we value diversity and recruit dynamic individuals from diverse backgrounds. We want our business
+to benefit from opportunities provided by our employees' diverse experience and perspective. In FY2018,
+there was no incident of discrimination reported.
+COMPOSITION OF WORKFORCE
+FROM BOTH SINGAPORE AND MALAYSIA
+OFFICE AND OUTLETS
+FY2017
+FY2018
+WORKFORCE BY GENDER
+WoRKFoRCE BY
+GENDER
+ BREAKDOWN BY GENDER
+Male
+Male
+33.6%
+34.6%
+Female
+Female
+65.4%
+66.4%
+FY2017
+FY2018
+WoRKFoRCE BY
+WoRKFoRCE BY
+AGE GROUP
+AGE GROUP
+>50
+BREAKDOWN BY AGE
+>50
+6.8%
+7.4%
+<30
+30 - 50
+50.5%
+45.3%
+<30
+30 - 50
+47.3%
+42.7%
+
+027 SUSTAINABILITY REPORT 2018
+FY2017
+FY2018
+WORKFORCE BY
+WORKFORCE BY
+EMPLOYMENT CATEGORY
+EMPLOYMENT CATEGORY
+BREAKDOWN BY
+EMPLOYMENT CATEGORY
+Executives
+Executives
+27.4%
+26.2%
+Junior Staff
+Junior Staff
+61.6%
+Middle
+60.1%
+Manageme
+Middle
+Management
+8.9%
+Senior
+Senior
+Management
+Management
+1.4%
+2.0%
+BREAKDOWN BY GENDER DIVERSITY BY EMPLOYMENT CATEGORY
+FY2017
+FY2018
+GENDER DIVERSITY BY EMPLOYMENT CATEGORY
+GENDER DIVERSITY BY EMPLOYMENT CATEGORY
+80.0%
+80.0%
+70.0%
+70.0%
+60.0%
+60.0%
+50.0%
+39.9%
+50.0%
+1.6%
+40.0%
+40.0%
+30.0%
+30.0%
+20.0%
+20.0%
+10.0%
+10.0%
+16.6%
+5.4%
+7.0%
+0.6%
+1.1%
+20.0%
+0.0%
+0.0%
+0.8%
+5.3%
+20.2%
+0.9%
+3.5%
+7.4%
+20.0%
+FEMALE
+MALE
+In FY2018, the Group did not have any temporary employees.
+The Board currently comprises seven Directors, one of whom is female. This is recommended under
+the Code, which is to provide appropriate gender diversity within the Board for holistic and balanced
+decision-making.
+
+028 SUSTAINABILITY REPORT 2018
+GOIDSAIESTRANING
+TRAINING AND EDUCATION
+INDICATOR
+PERFORMANCE 2017
+TARGET 2018
+PERFORMANCE 2018
+TARGET 2019
+5,783 hours
+To increase training
+Total training hours
+7,344 hours
+To increase training
+hours by 10%
+hours by 10%
+As the Group believes in upgrading one's skills, a dedicated team of personnel had been
+ formed to conduct training courses relating to daily operations such as customer service, sales
+techniques, product knowledge and leadership. These training courses are designed to support
+employees at various levels and across all functions to facilitate their daily work and business
+operations. For instance, our retail staff have received customer service training, a training
+program designed to ensure consistent execution of our service strategies, when they first
+joined the Group with at least 3 training sessions for each retail staff on an annual basis.
+The average training hours each employee received in FY2017 and FY2018 was 15.38 hours
+and 20.86 hours, respectively for both Singapore and Malaysia staff.
+In FY2018, all our employees received an annual performance appraisal, during which their
+learning needs were assessed, strengths were highlighted and improvement points were
+conveyed to the employees. In FY2019, we aim to continue to provide all eligible employees
+with an annual performance appraisals to sharpen their skills.
+
+029 SUSTAINABILITY REPORT 2018
+COMMUNITY
+CUSTOMERS PRIVACY
+INDICATOR
+TARGET 2018
+PERFORMANCE 2017
+PERFORMANCE2018
+TARGET 2019
+Continue to improve
+ Substantiated and/or
+No substantiated and/or
+No substantiated and/or
+Continue to improve
+confirmed violations the
+ data privacy and data
+confirmed violations the
+confirmed violations of
+data privacy and data
+PDPA
+Personal Data Protection
+PDPA
+management practices
+management practices
+Act("PDPA") in
+Singapore
+To have a designated
+compliance officer
+to monitor PDPA
+compliance
+In the environment that the Group operates in, personal data privacy is one of the key concern for our
+customers and also, the public. We have implemented certain measures to protect our customer's data
+and data is only released strictly on a need-to-know basis. Advertising or marketing messages are only
+sent with a customer's prior approval.
+The Group strictly abides with the PDPA and we review the PDPA on a frequent basis. The Group targets
+to improve the process of managing IT security with the IT department to minimise the possibility of
+leaking customer's data.
+The Group has assigned the Head of the IT department to be the Data Protection Officer to conduct
+ quarterly meetings and training on PDPA compliance and implement robust digital system to safeguard
+customer's data protection.
+ In FY2018, there was no substantiated violation and/or confirmed violations of the PDPA.
+
+030 SUSTAINABILITY REPORT 2018
+GRICONTENTINDEX
+This report has been prepared in accordance with the GRI Content Index (Core Option)
+GENERAL STANDARD DISCLOSURE
+PAGE REFERENCE AND REASONS FOR
+(OMISSION,IF APPLICABLE)
+ORGANISATIONAL PROFILE
+102-1
+NAME OF THE ORGANIZATION
+PAGE 6
+102-2
+ACTIVITIES, BRANDS,PRODUCTS,AND SERVICES
+PAGE 9
+102-3
+LOCATION OF HEADQUARTERS
+PAGE 8
+102-4
+LOCATION OF OPERATIONS
+PAGE 8,12, 13
+OWNERSHIP AND LEGAL FORM
+102-5
+PAGE 8
+102-6
+MARKETS SERVED
+PAGE 8
+102-7
+SCALE OF THE ORGANIZATION
+PAGE 8,9,11
+& 48 (FY2018 ANNUAL REPORT)
+102-8
+INFORMATION ON EMPLOYEES AND OTHER WORKERS
+PAGE 26
+102-9
+SUPPLY CHAIN
+PAGE 15
+102-10
+SIGNIFICANT CHANGES
+TO THE ORGANIZATION AND ITS SUPPLY CHAIN
+NONE
+102-11
+PRECAUTIONARY PRINCIPLE OR APPROACH
+PAGE 14
+102-12
+EXTERNAL INITIATIVES
+PAGE 15
+102-13
+MEMBERSHIP OF ASSOCIATIONS
+PAGE 19
+STRATEGY
+102-14
+STATEMENT FROM SENIOR DECISION-MAKER
+PAGE 4
+ETHICS AND INTEGRITY
+102-16
+VALUES, PRINCIPLES, STANDARDS,
+PAGE 10
+ANDNORMSOFBEHAVIOUR
+GOVERNANCE
+102-18
+GOVERNANCE STRUCTURE
+PAGE 14
+STAKEHOLDER ENGAGEMENT
+102-40
+LIST OF STAKEHOLDER GROUPS
+PAGE 16
+102-41
+COLLECTIVE BARGAINING AGREEMENTS
+NONE
+102-42
+IDENTIFYING AND SELECTING STAKEHOLDERS
+PAGE 16
+102-43
+APPROACH TO STAKEHOLDER ENGAGEMENT
+PAGE 16
+102-44
+KEY TOPICS AND CONCERNS RAISED
+PAGE 17
+REPORTING PRACTICE
+102-45
+ENTITIES INCLUDED
+IN THE CONSOLIDATED FINANCIAL STATEMENTS
+PAGE 6 (FY2018 ANNUAL REPORT)
+102-46
+DEFINING REPORT CONTENT AND TOPIC BOUNDARIES
+PAGE 6
+102-47
+LISTOF MATERIALTOPICS
+PAGE 17
+102-48
+RESTATEMENTSOFINFORMATION
+ Information on energy consumption and
+composition of workforce in FY2017 has been
+restated after including Malaysia office and
+outlets operation, which is not expected to
+ have any material impact on Sustainability
+Report 2017.
+102-49
+CHANGES IN REPORTING
+NOT APPLICABLE
+102-50
+REPORTING PERIOD
+PAGE 6
+102-51
+DATE OF MOST RECENT REPORT
+15 NOVEMBER 2018
+102-52
+REPORTING CYCLE
+PAGE 6
+102-53
+CONTACT POINT FOR
+PAGE 7
+QUESTIONS REGARDING THE REPORT
+102-54
+CLAIMS OF REPORTING IN ACCORDANCE
+PAGE 6
+WITH THE GRI STANDARDS
+
+031 SUSTAINABILITY REPORT 2018
+GRICONTENTINDEX
+GENERAL STANDARD DISCLOSURE
+PAGE REFERENCE AND
+REASONS FOR (OMISSION,
+IF APPLICABLE)
+102-55
+GRICONTENT INDEX
+ PAGE 30-31
+102-56
+EXTERNAL ASSURANCE
+PAGE 7
+103-1
+EXPLANATION OF THE MATERIALTOPIC AND ITS BOUNDARY
+PAGE 17
+103-2
+THE MANAGEMENT APPROACH AND ITS COMPONENTS
+PAGE 14
+103-3
+EVALUATION OF THE MANAGEMENT APPROACH
+PAGE 14
+MATERIAL TOPICS
+TOPIC: ANTI-CORRUPTION
+205-1
+OPERATIONS ASSESSED FOR RISKS RELATED TO CORRUPTION
+PAGE 22
+205-2
+COMMUNICATION AND TRAINING ABOUT
+ANTI-CORRUPTIONPOLICIES AND PROCEDURES
+PAGE 20,21
+205-3
+CONFIRMED INCIDENTS OF CORRUPTION
+AND ACTIONS TAKEN
+PAGE 22
+TOPIC: ENERGY
+302-1
+ENERGY CONSUMPTION WITHIN THE ORGANIZATION
+PAGE 23
+TOPIC: TRAINING AND EDUCATION
+404-1
+AVERAGE HOURS OF TRAINING PER YEAR PER EMPLOYEE
+PAGE 28
+404-2
+PROGRAMS FOR UPGRADING EMPLOYEE SKILLS AND
+TRANSITION ASSISTANCE PROGRAMS
+ PAGE 28
+404-3
+PERCENTAGE OF EMPLOYEES RECEIVING REGULAR
+PERFORMANCE AND CAREER DEVELOPMENT REVIEWS
+PAGE 28
+TOPIC: DIVERSITY AND EQUAL OPPORTUNITY
+405-1
+DIVERSITY OF GOVERNANCE BODIES AND EMPLOYEES
+PAGE 26, 27
+TOPIC: CUSTOMER PRIVACY
+418-1
+ SUBSTANTIATED COMPLAINTS CONCERNING BREACHES OF
+CUSTOMER PRIVACY AND LOSSES OF CUSTOMER DATA
+PAGE 29
+Note: The Group takes a phased approach to the adoption of GRI indicators at "Core" Option and will review the relevance of indicators marked as
+Not Applicable to its operations annually.
+

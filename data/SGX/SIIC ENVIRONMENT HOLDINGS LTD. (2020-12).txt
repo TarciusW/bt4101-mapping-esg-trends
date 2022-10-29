@@ -1,0 +1,6172 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+SIIC Environment Holdings Ltd. 
+
+Sustainability Report 2020 
+
+ 
+
+
+ 
+
+ 
+
+Table of Contents 
+
+ 
+
+1. About this Report................................................................................................... 1 
+
+1.1 Reporting Scope .............................................................................................. 1 
+
+1.2 Reporting Guideline ......................................................................................... 1 
+
+1.3 Disclaimer of the Report .................................................................................. 1 
+
+1.4 Access and Feedback ...................................................................................... 1 
+
+2. About SIIC Environment ........................................................................................ 2 
+
+2.1 Overview .......................................................................................................... 2 
+
+2.2 Business Outlook ............................................................................................. 2 
+
+3. Corporate Governance .......................................................................................... 3 
+
+3.1 Sustainability Governance Structure ................................................................ 3 
+
+3.2 Board Statement .............................................................................................. 3 
+
+3.3 Stakeholder Engagement ................................................................................ 4 
+
+3.4 Materiality Assessment .................................................................................... 4 
+
+3.5 Compliance Management and Anti-Corruption............................................... 11 
+
+4. Environment ........................................................................................................ 13 
+
+4.1 Environmental Management Overview .......................................................... 13 
+
+4.2 Wastewater and Air Emissions Management  ................................................ 13 
+
+4.2.1 Wastewater Management ........................................................................ 14 
+
+4.2.2 Air Pollutant Emission Management ........................................................ 15 
+
+4.2.3 Greenhouse Gas Emission Management and Climate Change Action .... 18 
+
+4.3 Hazardous and Non-Hazardous Waste Management .................................... 18 
+
+4.3.1 Hazardous Waste Management .............................................................. 18 
+
+4.3.2 Non-Hazardous Waste Management ....................................................... 19 
+
+4.4 Resource Consumption Management ............................................................ 20 
+
+4.4.1 Chemical and Energy Consumption ........................................................ 20 
+
+4.4.2 Water Consumption ................................................................................. 21 
+
+4.4.3 Green Office ............................................................................................ 23 
+
+4.5 Environmental Performance Data  ................................................................. 24 
+
+4.5.1 Wastewater Treatment Business Line ..................................................... 24 
+
+4.5.2 Water Supply Business Line .................................................................... 28 
+
+4.5.3 Sludge Treatment Business Line  ............................................................ 30 
+
+4.5.4 Waste Incineration Business Line ............................................................ 33 
+
+5. Social .................................................................................................................. 36 
+
+5.1 Service Quality and Standards ....................................................................... 36 
+
+
+ 
+
+ 
+
+5.1.1 Safeguarding Water Quality and Sanitation ............................................. 36 
+
+5.1.2 Enhancing Customer Satisfaction ............................................................ 37 
+
+5.1.3 Research and Development .................................................................... 37 
+
+5.2 Supply Chain Management ............................................................................ 38 
+
+5.3 Occupational Health and Safety ..................................................................... 39 
+
+5.4 Employment Management and Employee Welfare ........................................ 44 
+
+5.4.1 Employment and Labour Practices .......................................................... 44 
+
+5.4.2 Employee Compensation and Benefits .................................................... 46 
+
+5.4.3 Training and Development ...................................................................... 48 
+
+5.5 Giving Back to Community ............................................................................. 50 
+
+5.5.1 Protecting the Environment ..................................................................... 50 
+
+5.5.2 Conducting Community Service .............................................................. 51 
+
+6. Featured Chapter: With Solidarity, We Forge Ahead ........................................... 53 
+
+6.1 Swift Response and Employee Protection  .................................................... 53 
+
+6.2 Working Together to Support Local Communities  ......................................... 54 
+
+6.3 Combatting Flood and Safeguarding Livelihoods ........................................... 57 
+
+Appendix: Hong Kong Stock Exchange ESG Reporting Guide Content Index ......... 59 
+
+ 
+
+
+1 
+
+ 
+
+1. About this Report 
+
+This Sustainability Report (“Report”) aims to provide investors and related 
+
+stakeholders with disclosures pertaining to the environmental, social, and governance 
+
+(“ESG”) performance of SIIC Environment Holdings Ltd. (together with its subsidiaries, 
+
+collectively “SIIC Environment”, the “Company” or “we”). 
+
+1.1 Reporting Scope 
+
+Reporting Period: Unless otherwise specified, this Report covers the period from 1 
+
+January 2020 to 31 December 2020 (“Reporting Period”). 
+
+Business Scope: This Report covers the Company’s headquarters, as well as projects 
+
+that were in operation during the Reporting Period at the Company’s major business 
+
+units, including SIIC Environment Holdings (Wuhan) Co., Ltd. (“Central BU”), Nanfang 
+
+Water Co., Ltd. (“South BU”), SIIC Environment Holdings (Weifang) Co., Ltd. (“North 
+
+BU”), Longjiang Environmental Protection Group Co., Ltd. (“Northeast BU”), Fudan 
+
+Water Engineering and Technology Co., Ltd. (“East BU”), Waste Incineration 
+
+Division, and Ranhill Water (Hong Kong) Ltd. (“Ranhill Water”). 
+
+1.2 Reporting Guideline 
+
+This Report is prepared in accordance with the “Comply or Explain” provisions and the 
+
+Materiality, Quantitative, Balance, and Consistency principles of the ESG Reporting 
+
+Guide set out in Appendix 27 to the Rules Governing the Listing of Securities (the 
+
+“Hong Kong Listing Rules”) on The Stock Exchange of Hong Kong Limited (“SEHK”). 
+
+In addition, this report is prepared by taking reference from the guidance under the 
+
+Sustainability Reporting Guide set out as Practice Note 7.6 of the Listing Manual of the 
+
+Singapore Exchange Securities Trading Limited (“SGX”), and is prepared with 
+
+reference to the internationally recognised Global Reporting Initiative (GRI) Standards, 
+
+which represents the global best practices for reporting on a range of economic, 
+
+environmental, and social impacts. We seek to adhere to the above reporting 
+
+frameworks’ generic sustainability considerations, general principles and indicators, 
+
+and applied them to report our sustainability policies, practices, performance, and 
+
+targets on our activities. In order to fully understand the Company’s ESG performance, 
+
+this Report should be read in conjunction with the Corporate Governance Report within 
+
+the Company’s Annual Report for the financial year ended 31 December 2020. 
+
+1.3 Disclaimer of the Report 
+
+This Report presents the Company’s sustainability philosophy, actions, and 
+
+achievements during the Reporting Period. The Company’s Board (“Board”) of 
+
+Directors (“Directors”) is responsible for the reliability, truthfulness, objectivity, and 
+
+completeness of the content of this Report. We recorded the ESG data in an online 
+
+ESG data collection system and have verified the data internally before external 
+
+reporting. 
+
+This Report is published in both English and Traditional Chinese. Should there be any 
+
+discrepancy between the two versions, the English version shall prevail. 
+
+1.4 Access and Feedback 
+
+This Report is available at the HKEx News website of the Hong Kong Exchanges and 
+
+Clearing Limited (www.hkexnews.hk), the website of the SGX-ST (www.sgx.com) and 
+
+the official website of the Company (www.siicenv.com). 
+
+We welcome all stakeholders to provide valuable comments and suggestions in 
+
+
+2 
+
+ 
+
+relation to this Report by contacting us at: info@siicenv.com. 
+
+ 
+
+2. About SIIC Environment 
+
+2.1 Overview 
+
+SIIC Environment is one of the leading investors and operators in the environmental 
+
+industry in the People’s Republic of China (“PRC”). We engage in wastewater 
+
+treatment, water supply, sludge treatment, solid waste incineration, and other 
+
+environmental related businesses.  
+
+As of the end of 2020, the Company holds over 200 wastewater treatment and water 
+
+supply projects with a total design capacity of around 13 million tonnes/day, as well as 
+
+8 waste incineration power generation projects and 10 sludge treatment projects, 
+
+across 19 provinces and municipalities in China. Our water projects and sludge 
+
+treatment services are offered and managed through the Central BU, South BU, North 
+
+BU, Northeast BU, and East BU. Our waste incineration power generation business is 
+
+managed by the Waste Incineration Division. Ranhill Water mainly carries out industrial 
+
+wastewater treatment and other public utility services.  
+
+2.2 Business Outlook 
+
+2021 is the opening year of China’s 14th Five-Year Plan, which emphasises the 
+
+importance of actions against climate change. The country has also announced its 
+
+goal of achieving peak carbon dioxide (“CO2”) emissions by 2030 and carbon neutrality 
+
+by 2060. We fully support these goals by encouraging the use of renewable energy 
+
+across our operations and further developing the waste incineration power generation 
+
+business, which helps reduce the amount of carbon emissions generated from fossil 
+
+fuel usage.   
+
+Following the Yangtze River Delta Regional Integrated Development Plan set out in 
+
+the 14th Five-Year Plan, the Company will focus on the wastewater and waste 
+
+incineration business in the Yangtze River Economic Belt, seizing the development 
+
+trends of the environmental protection industry. Our benchmark waste incineration 
+
+power plant in the Yangtze River Delta region – Shanghai Baoshan Renewable Energy 
+
+Utilisation Centre Project, is expected to commence operation in 2022, with a total 
+
+design capacity of up to 3,800 tonnes/day. 
+
+The Company’s businesses have fully recovered from the impacts of the COVID-19 
+
+pandemic. Under the new normal formed to prevent and monitor the pandemic, we will 
+
+continue to explore new business models, increase R&amp;D activities and proactively 
+
+search for new opportunities in the field of environmental protection in the future. 
+
+ 
+
+ 
+
+
+3 
+
+ 
+
+3. Corporate Governance 
+
+At SIIC Environment, we fully recognise the importance of good corporate governance 
+
+in protecting shareholders’ interests and enhancing corporate performance and 
+
+accountability. We are committed to establishing corporate governance practices in 
+
+line with the principles, provisions, and recommendations of the Code of Corporate 
+
+Governance 2018 issued by the Monetary Authority of Singapore under Singapore’s 
+
+Ministry of Finance and the applicable provisions of the Corporate Governance Code 
+
+set out in Appendix 14 to the Hong Kong Listing Rules. 
+
+3.1 Sustainability Governance Structure 
+
+The Board is the top governance body for SIIC Environment’s sustainable 
+
+development and is responsible for determining the Company’s ESG-related risks, 
+
+ensuring the effectiveness of ESG risk management and internal control systems, 
+
+periodically reviewing the Company’s sustainability performance, and continuing to 
+
+improve the Company’s sustainability related work.  
+
+The Board delegates to its Risk and Investment Management Committee (“RIMC”) to 
+
+participate in the development of ESG management approach and policies and 
+
+oversee the implementation of ESG-related work plans. The RIMC provides strategic 
+
+advice to the Board on identifying key stakeholder groups, managing any material ESG 
+
+issues, setting ESG targets, and tracking progress against the targets. The Risk 
+
+Committee and senior management regularly review the Company's operations to 
+
+identify areas with significant risks, including ESG-related risks, and develop 
+
+appropriate measures to control and mitigate those risks. Our internal auditors assist 
+
+the RIMC in assessing whether the Company's internal controls are adequate, 
+
+effective, and performing as intended. 
+
+The Company’s ESG working group (“ESG Working Group”) forms the next level of 
+
+our sustainability governance structure. The ESG Working Group comprises senior 
+
+management and employees from various departments who possess good 
+
+understanding of the Company’s operations and relevant ESG matters. The ESG 
+
+Working Group is responsible for preparing the Company’s annual sustainability 
+
+reports, including coordinating stakeholder engagement in materiality assessments of 
+
+the ESG issues, and liaising with designated personnel in charge of ESG-related 
+
+matters from the business units within the reporting scope to collect and validate ESG 
+
+data within the Reporting Period. 
+
+3.2 Board Statement 
+
+The Board considers ESG issues as part of its strategic formulation and takes overall 
+
+responsibility for the Company’s ESG strategy and reporting. The Board has identified 
+
+and evaluated material ESG factors, oversees the management and monitoring of 
+
+these factors, and continues to actively seek sustainable development opportunities 
+
+for the Company. 
+
+During the Reporting Period, the Company’s Directors actively participated in the 
+
+materiality assessment of relevant ESG issues, prioritising the issues based on their 
+
+level of impact to the Company's business. The assessment results were combined 
+
+with opinions from other stakeholder groups to identify issues with high level of 
+
+materiality, which will be the focus of our future ESG work. 
+
+The Board manages ESG risks and opportunities in line with the Company’s business 
+
+strategy, regulatory changes, and industry trends, and continues to improve the ESG 
+
+
+4 
+
+ 
+
+target setting and tracking mechanism to enhance the Company’s ESG performance. 
+
+3.3 Stakeholder Engagement 
+
+The Company recognises the importance of establishing and maintaining effective 
+
+communication with external stakeholders to understand and address their needs and 
+
+concerns in a timely manner. We have identified eight external stakeholder groups that 
+
+are key to the Company’s business and operations, and have developed engagement 
+
+channels tailored to each group. 
+
+Stakeholders 
+
+Methods of Communication 
+
+Shareholders and Investors 
+
+Annual reports, quarterly results, interim reports, 
+
+public announcements, circulars, press releases, 
+
+annual and extraordinary general meetings, non-
+
+deal roadshows, individual and group meetings 
+
+Employees 
+
+Company meetings and departmental meetings, 
+
+annual staff meetings, questionnaires, internal 
+
+emails 
+
+Customers 
+
+Customer meetings, customer satisfaction surveys, 
+
+on-site visits 
+
+Business Partners and 
+
+Suppliers 
+
+Partner meetings, questionnaires, seminars, on-
+
+site visits 
+
+Industry Associations and 
+
+NGOs 
+
+Industry conferences, company website, official 
+
+reports, online communication, offline surveys 
+
+Local Communities and the 
+
+Public 
+
+Volunteer activities, public hearings, open houses, 
+
+on-site visits  
+
+Media 
+
+Press releases, interviews, and announcements 
+
+Government and 
+
+Regulators 
+
+Government meetings, supervision, assessments, 
+
+questionnaires, on-site visits 
+
+3.4 Materiality Assessment  
+
+To perform a more comprehensive assessment of the material ESG issues that 
+
+different stakeholder groups of the Company are concerned with, we invited internal 
+
+and external stakeholders to participate in the 2020 materiality assessment online 
+
+survey. An independent sustainability consultant was engaged to assist us in 
+
+conducting the assessment. The assessment process and results are shown in the 
+
+diagram and matrix below. The Board has reviewed and noted the materiality 
+
+assessment results, and this Report will focus on disclosing and discussing relevant 
+
+and material ESG issues. 
+
+
+5 
+
+ 
+
+ 
+
+A total of 450 stakeholders participated in the survey and the results were shown in 
+
+the matrix and table below, where the ESG issues are categorised based on levels of 
+
+materiality. 
+
+ 
+
+
+
+1. Identify key stakeholder groups: We identified ten stakeholder groups that have 
+
+medium/high influence and medium/high dependence on the Company, who are invited to 
+
+participate in the materiality assessment.
+
+
+
+
+
+2. Establish material ESG issue database: Based on the requirements of SEHK and 
+
+SGX, GRI Standards, the Company's business characteristics, and practices of peer 
+
+companies, we compiled a list of material ESG issues to be included in the stakeholder 
+
+survey.  
+
+
+
+
+
+3. Conduct online stakeholder survey: We invited the stakeholder groups, including the 
+
+Directors and senior management of the Company and the external stakeholder groups to 
+
+assess the materiality of each ESG issue through an online questionnaire survey. 
+
+
+
+
+
+4. Survey result analysis: A materiality matrix was formed based on quantitative analysis 
+
+of the survey results. The two-dimensional matrix maps the material ESG issues based on 
+
+the perceived importance to stakeholders and the significance to the Company. 
+
+
+
+
+
+5. Board's confirmation: The Board confirms the materiality assessment results, where a 
+
+total of nine ESG issues were identified as having the highest importance to stakeholders 
+
+and to the Company, and will be the focus of this Report's disclosure. 
+
+
+
+
+6 
+
+ 
+
+Subject Area 
+
+High-level 
+
+Materiality 
+
+Medium-level 
+
+Materiality 
+
+Low-level 
+
+Materiality 
+
+Environment 1. Emissions, 
+
+discharges and 
+
+waste management 
+
+2. Resource 
+
+efficiency 
+
+4. Clean water and 
+
+sanitation 
+
+5. Environmental 
+
+impact management 
+
+6. Promotion of 
+
+environmental 
+
+protection concepts 
+
+3. Greenhouse gas 
+
+emission 
+
+management and 
+
+climate change 
+
+action 
+
+Employment 
+
+and Labour 
+
+Practices 
+
+9. Occupational 
+
+health and safety 
+
+11. Labour 
+
+standards 
+
+7. Equal opportunity 
+
+and employee rights 
+
+8. Employee 
+
+compensation and 
+
+benefits 
+
+10. Employee 
+
+training and 
+
+development 
+
+- 
+
+Operating 
+
+Practices 
+
+13. Service quality 
+
+and standards 
+
+16. Anti-corruption 
+
+17. Compliance 
+
+management 
+
+12. Supply chain 
+
+sustainability 
+
+management 
+
+14. Consumer rights 
+
+and privacy 
+
+protection 
+
+15. Intellectual 
+
+property rights 
+
+protection 
+
+18. R&amp;D and 
+
+innovation 
+
+19. Economic 
+
+performance 
+
+20. Community 
+
+engagement and 
+
+investment 
+
+21. Rights of 
+
+indigenous 
+
+peoples  
+
+
+7 
+
+ 
+
+As shown in the table below, for issues newly identified as highly material in the 2020 assessment, we have set respective long-term targets; for 
+
+issues that remain highly material from past assessments, such as clean water and sanitation, service quality and standards, and occupational 
+
+health and safety, we have reviewed and updated the previously set targets based on the Company’s actual operation and growth strategy, so 
+
+that these targets can continue to apply for the forthcoming year.   
+
+In 2019, we developed short- and medium-term targets related to environmental, social, and governance aspects, including providing customers 
+
+with high-quality municipal services related to water supply and treatment, sludge treatment, and waste incineration under the premise of meeting 
+
+relevant laws and regulations, and further enhancing cooperation with local governments. In 2020, our project companies maintained high quality 
+
+in the municipal services they provide, and further utilised technical expertise and scale advantages to actively engage in and support local 
+
+government’s municipal wastewater treatment efforts.  
+
+Subject Area Issues with High-
+
+level of 
+
+Materiality 
+
+Corresponding 
+
+Chapter 
+
+Long-Term Targets 
+
+2020 Progress 
+
+Overachievements/ 
+
+Shortfalls 
+
+Environment Emissions, 
+
+discharges, and 
+
+waste 
+
+management 
+
+ 
+
+4.2 Wastewater 
+
+and Air Emissions 
+
+Management 
+
+4.3 Hazardous 
+
+and Non-
+
+Hazardous Waste 
+
+Management 
+
+Actively and continuously 
+
+exploring opportunities to 
+
+minimise our adverse 
+
+impact on the 
+
+environment. 
+
+Improving treatment 
+
+processes and upgrading 
+
+facilities to ensure full 
+
+compliance with relevant 
+
+environmental laws and 
+
+regulations. 
+
+Progress steadily towards 
+
+the target. 
+
+Resource 
+
+efficiency* 
+
+4.4 Resource 
+
+Consumption 
+
+Management 
+
+Enhancing consumption 
+
+efficiency for water, 
+
+energy, chemical, and 
+
+other resources during 
+
+production and office 
+
+activities; promote 
+
+intelligent management 
+
+system and support the 
+
+development of urban 
+
+smart water 
+
+infrastructure. 
+
+Setting qualitative and 
+
+quantitative targets 
+
+regarding water, 
+
+electricity, and chemical 
+
+consumption at project 
+
+companies; incorporating 
+
+resource efficiency 
+
+considerations into 
+
+project companies’ 
+
+performance review and 
+
+developing reward 
+
+Through effective 
+
+resource management 
+
+measures, some project 
+
+companies surpassed the 
+
+targets and generated 
+
+considerable amount of 
+
+resource savings.  
+
+
+8 
+
+ 
+
+systems.  
+
+Clean water and 
+
+sanitation 
+
+4.4.2 Water 
+
+Consumption 
+
+5.1.1 
+
+Safeguarding 
+
+Water Quality and 
+
+Sanitation 
+
+ 
+
+Meeting public demand 
+
+for high-quality water 
+
+through the adherence to 
+
+higher treatment 
+
+requirements. 
+
+Implementing 
+
+comprehensive water 
+
+quality monitoring 
+
+mechanism and 
+
+enhancing emergency 
+
+preparedness for water 
+
+quality incidents. 
+
+Some water supply 
+
+projects may experience 
+
+seasonal fluctuations in 
+
+water supply, and some 
+
+may face safety concerns 
+
+regarding single pipeline 
+
+water transmission. The 
+
+projects have developed 
+
+mechanisms to manage 
+
+these challenges. 
+
+Environmental 
+
+impact 
+
+management 
+
+4. Environment 
+
+Standardising our 
+
+approach to 
+
+environmental 
+
+management, refining our 
+
+environmental 
+
+management systems, 
+
+implementing our 
+
+environmental 
+
+management strategy, 
+
+and ensuring full 
+
+compliance with 
+
+regulatory requirements. 
+
+Continuously improving 
+
+management of air and 
+
+water emissions, 
+
+hazardous and non-
+
+hazardous waste, and 
+
+resource consumption; 
+
+setting qualitative and 
+
+quantitative 
+
+environmental targets at 
+
+project companies. 
+
+Progress steadily towards 
+
+the target. 
+
+Employment 
+
+and Labour 
+
+Practices 
+
+Occupational 
+
+health and safety 
+
+5.3 Occupational 
+
+Health and Safety 
+
+Providing our employees 
+
+with a safe working 
+
+environment which 
+
+includes, among other 
+
+things, providing 
+
+adequate protective 
+
+clothing and gear, 
+
+providing safety 
+
+Conducting safety 
+
+training and emergency 
+
+drills targeted at 
+
+employees of different job 
+
+functions; providing 
+
+occupational health 
+
+check-ups for employees. 
+
+Number of lost days due 
+
+to work injury significantly 
+
+decreased in 2020.  
+
+There were one 
+
+production safety accident 
+
+and one other accident in 
+
+2020. The business units 
+
+involved promptly 
+
+
+9 
+
+ 
+
+education and training, 
+
+and having dedicated 
+
+safety management 
+
+personnel. 
+
+investigated the accidents 
+
+and implemented 
+
+preventive measures, 
+
+while working with the 
+
+family members of the 
+
+deceased employees to 
+
+handle the aftermath of 
+
+the accidents. 
+
+Labour standards* 
+
+5.4.1 Employment 
+
+and Labour 
+
+Practices 
+
+Maintaining zero forced 
+
+labour and child labour 
+
+case in compliance with 
+
+Chinese laws; ensuring 
+
+thorough protection of 
+
+employees’ rights and 
+
+interests related to labour 
+
+practices and 
+
+employment. 
+
+Strictly adhering to labour 
+
+laws and regulations and 
+
+maintaining 
+
+comprehensive labour 
+
+management systems. 
+
+The Company maintained 
+
+zero cases of forced 
+
+labour and child labour in 
+
+2020 in compliance with 
+
+Chinese laws. 
+
+Operating 
+
+Practices 
+
+Service quality 
+
+and standards 
+
+5.1 Service 
+
+Quality and 
+
+Standards 
+
+Delivering outstanding 
+
+product and service 
+
+quality as a commitment 
+
+to our customers. 
+
+Ensuring quality water 
+
+supply; promptly handling 
+
+customer complaints; 
+
+investing in R&amp;D to help 
+
+improve service quality. 
+
+Progress steadily towards 
+
+the target. 
+
+Anti-corruption* 
+
+ 
+
+3.5 Compliance 
+
+Management and 
+
+Anti-Corruption 
+
+Maintaining zero case 
+
+regarding corrupt 
+
+practices brought against 
+
+the Company and its 
+
+employees; fostering a 
+
+culture of integrity among 
+
+employees. 
+
+Implementing 
+
+comprehensive 
+
+whistleblowing policy; 
+
+organising anti-corruption 
+
+training for staff and 
+
+management personnel. 
+
+There were no concluded 
+
+legal cases regarding 
+
+corrupt practices brought 
+
+against the Company and 
+
+its employees in 2020. 
+
+Compliance 
+
+management 
+
+3.5 Compliance 
+
+Management and 
+
+Anti-Corruption 
+
+Tightening internal control 
+
+management, enhancing 
+
+relevant training we 
+
+Business units and 
+
+project companies 
+
+implementing internal 
+
+ Progress steadily 
+
+towards the target. 
+
+
+10 
+
+ 
+
+4. Environment 
+
+5. Social 
+
+provide to our employees, 
+
+and strengthening our 
+
+audits and inspections. 
+
+policies to ensure 
+
+compliance with ESG-
+
+related laws and 
+
+regulations; the 
+
+Company’s Audit 
+
+Committee and RIMC 
+
+effectively carrying out 
+
+risk evaluation and 
+
+management activities. 
+
+*Issues newly identified as highly material in the 2020 materiality assessment. 
+
+ 
+
+ 
+
+
+11 
+
+ 
+
+3.5 Compliance Management and Anti-Corruption  
+
+The Company attaches great importance to conducting business operations in 
+
+accordance with the relevant laws and regulations, and diligently manages the impact 
+
+of our operations on the environment and society.   
+
+The operation of the Company’s projects strictly adheres to the applicable 
+
+environmental protection standards and requirements. The business units and their 
+
+project companies have developed internal policies on managing wastewater 
+
+discharge, air emissions, resource consumption, and other environmental impacts. We 
+
+strive to comply with the laws and regulations associated with our social responsibilities 
+
+by implementing policies and standards on anti-corruption, service quality, supply 
+
+chain management, health and safety, employment and labour practices, and 
+
+community investment.  
+
+The Company’s Audit Committee and RIMC oversee regular inspections, evaluate and 
+
+manage risks arising from our operations, and ensure the effectiveness of key internal 
+
+controls. The two committees report findings to the Board for review. Through these 
+
+processes, we monitor implementation of our policies and compliance with regulatory 
+
+requirements or applicable laws. 
+
+The Company places a strong emphasis on corporate integrity and honesty. We abide 
+
+by laws and regulations related to bribery, extortion, fraud, and money laundering such 
+
+as the Criminal Law of the PRC, Anti-Money Laundering Law of the PRC, Anti-Unfair 
+
+Competition Law of the PRC, and Prevention of Corruption Act of Singapore. During 
+
+the Reporting Period, there were no legal cases regarding corrupt practices brought 
+
+against the Company or its employees, and no reported incidents of non-compliance 
+
+with laws and regulations related to bribery, extortion, fraud, and money laundering. 
+
+The Company has implemented the internal Fraud and Whistleblowing Policy to 
+
+facilitate the development of controls that aid in the detection and prevention of fraud, 
+
+and this policy provides a framework by which directors, officers, employees, and 
+
+external parties may raise concerns in confidence about wrongdoing, malpractice or 
+
+possible irregularity within the Company. The policy specifies the actions constituting 
+
+fraud, reporting procedures, complaint handling process, investigation responsibilities, 
+
+and terms on confidentiality and whistle-blower protection. The policy applies to all of 
+
+the Company’s stakeholders as well as new and existing business partners.  
+
+Upon discovering or suspecting fraudulent activity, employees will immediately contact 
+
+the Audit Committee, Executive Directors, or the management. The Company 
+
+conducts investigation to determine if the reported irregularity constitutes fraud. If the 
+
+investigation substantiates that fraudulent activities have occurred, the case will be 
+
+reported to designated personnel according to different conditions, and if appropriate, 
+
+to the Board through the Audit Committee. 
+
+When noticing acts of wrongdoing and malpractice, employees can report in writing to 
+
+the Audit Committee, Executive Directors, or the management of the Company and 
+
+deliver the report in person, by mail or by email. Upon receiving a report, the Company 
+
+will coordinate relevant resources to investigate and handle the reported case in 
+
+accordance with the Fraud and Whistleblowing Policy, and report the investigation 
+
+results to the Board as appropriate. We take proper measures to protect whistle-
+
+blowers from reprisals; retaliation against the whistle-blowers for raising concerns over 
+
+alleged wrongful act will not be tolerated.  
+
+
+12 
+
+ 
+
+Our business units have also implemented policies and measures to prevent and 
+
+handle corrupt practices and established internal reporting system for such behaviour. 
+
+Some business units regard employee integrity as one of the key evaluation criteria 
+
+when selecting essential management personnel, while others conduct regular internal 
+
+and external audits, as well as audits targeted at key management personnel. During 
+
+the Reporting Period, the business units organised various training events to cultivate 
+
+an ethical workplace culture and instil integrity into our business practices. In addition, 
+
+in October 2020, senior management of the Company participated in the Listed Entity 
+
+Director Core Programme organised by the Singapore Institute of Directors. The 
+
+attendees received systematic training on topics including directors' duties and legal 
+
+obligations, risk management, and corporate governance, and enhanced the 
+
+awareness of maintaining business integrity and legal compliance.   
+
+ 
+
+Figure 1 The East BU launched the "Integrity Education" theme month event and organised employees 
+
+to participate in systematic learning programmes to develop better understanding of the importance of 
+
+integrity education. 
+
+ 
+
+Figure 2 The South BU invited legal experts to provide anti-corruption training for management 
+
+personnel and staff. 
+
+
+
+
+
+
+13 
+
+ 
+
+4. Environment 
+
+4.1 Environmental Management Overview 
+
+As a leading investor and operator in the environmental industry in China, SIIC 
+
+Environment is committed to protecting the planet, conserving the environment, and 
+
+preserving natural resources. We have developed and implemented relevant internal 
+
+policies to properly manage the potential impacts of our operational activities on the 
+
+environment, in accordance with the Environmental Protection Law of the PRC, 
+
+Atmospheric Pollution Prevention and Control Law of the PRC, Water Pollution 
+
+Prevention and Control Law of the PRC, Law of the PRC on the Prevention and Control 
+
+of Environment Pollution Caused by Solid Wastes, and other laws and regulations 
+
+related to air emissions such as waste gas and greenhouse gas (“GHG”)  emissions, 
+
+wastewater discharge, and hazardous and non-hazardous solid waste disposal.  
+
+Our business units and their project companies have respectively adopted measures 
+
+for environmental impact prevention and mitigation, to avoid imposing negative 
+
+impacts on the environment and the local community during business operations.  
+
+The business units have established internal policies such as the Environmental 
+
+Protection Management System in Project Operation and the Management System for 
+
+Environmental Factor Identification and Evaluation. The Environmental Protection 
+
+Management System in Project Operation details the management and control of 
+
+waste generation and resource consumption during production activities, including 
+
+responsibilities of designated personnel and departments and standard work 
+
+procedures; it also stipulates that the project companies should have response plans 
+
+in place for equipment malfunction, hazardous materials incident, and other 
+
+emergencies. The Management System for Environmental Factor Identification and 
+
+Evaluation outlines procedures to identify, evaluate, and update major environmental 
+
+factors relevant to business operations, such as air emissions and wastewater 
+
+discharge, and develop corresponding measures to control their environmental and 
+
+social impacts; each project company updates the environmental factor list at the 
+
+beginning of each year.   
+
+Each business unit’s project companies have also taken proactive actions to minimise 
+
+daily impacts on the environment and natural resources and some have set both 
+
+qualitative and quantitative emission, waste reduction, and resource efficiency targets 
+
+that are particular to the projects. Through regular environmental sampling and testing, 
+
+continuous advancement in treatment techniques, equipment maintenance and 
+
+upgrade, resource recycling, and other measures, the project companies manage their 
+
+emissions in accordance with the national or local emission standards. 
+
+4.2 Wastewater and Air Emissions Management  
+
+When managing wastewater discharge and air emissions during business operations, 
+
+our project companies strictly follow relevant discharge standards such as the 
+
+Emission Standards for Odour Pollutants (GB14554-1993), Discharge Standard of 
+
+Pollutants 
+
+for 
+
+Municipal 
+
+Wastewater 
+
+Treatment 
+
+Plants 
+
+(GB18918-2002), 
+
+Environmental Quality Standards for Surface Water (GB3838-2002), and Standard for 
+
+Pollution Control on the Municipal Solid Waste Incineration (GB18485-2014) to 
+
+safeguard environmental health and sanitation. During the Reporting Period, there 
+
+were no cases of non-compliance with the above-mentioned standards and laws and 
+
+regulations related to discharge into water and land and air emissions.  
+
+
+14 
+
+ 
+
+4.2.1 Wastewater Management 
+
+The majority of wastewater produced as a result of the Company’s business operations 
+
+comes from our wastewater treatment business, with main pollutants including 
+
+chemical oxygen demand (“COD”), biochemical oxygen demand (“BOD”), ammonia 
+
+nitrogen, total nitrogen, total phosphorus, and suspended solids. To improve the 
+
+removal rate of COD, BOD, ammonia nitrogen, and total nitrogen, we optimise the 
+
+process parameters of the biochemical treatment system, such as dissolved oxygen 
+
+content, sludge age, return flow, and other key parameters. In addition, to increase the 
+
+removal rate of hard COD, we have also adopted advanced treatment technologies 
+
+such as ozone catalytic oxidation, third-generation Fenton catalytic oxidation, and 
+
+activated carbon adsorption. In particular, the third-generation Fenton catalytic 
+
+oxidation process possesses the advantages of stable output, low operating cost, and 
+
+high system stability. We also effectively reduce the total phosphorus and suspended 
+
+solids content of the effluent through treatment processes such as coagulation, 
+
+dissolved air flotation, and filtration. For effluent with stricter denitrification 
+
+requirements, we utilise nitrification and denitrification filtration processes to effectively 
+
+improve the total nitrogen removal rate. As a result, compared to the 2019 level, our 
+
+wastewater treatment projects have collectively reduced the concentration of COD and 
+
+ammonia nitrogen in the wastewater discharged by 4.60% and 16.99%, respectively. 
+
+In 2020, some of our wastewater treatment plants (“WWTPs”) have been upgraded 
+
+and have a more stringent effluent quality that meet higher standards, such as the 
+
+superior Class I Standard A and Quasi Grade IV. 
+
+ 
+
+Figure 3 During the Reporting Period, our Yongxin County Industry Development Zone Comprehensive 
+
+WWTP Project engaged the Fenton treatment system, further increasing COD removal rate. 
+
+Case study: To increase pollutant removal efficiency, the Jiangxi Province Yihuang 
+
+Industrial Park WWTP Project 1st Phase engaged in the denitrification deep-bed 
+
+filtration process, which combines physical filtration and biological denitrification and 
+
+exhibits high reaction efficiency and strong adaptability to changes in water quality and 
+
+quantity while achieving high land efficiency. It was estimated that the addition of this 
+
+
+
+
+15 
+
+ 
+
+treatment process helped increase total nitrogen removal by 5mg/L, further reducing 
+
+the wastewater’s environmental impact. 
+
+ 
+
+Figure 4 Denitrification deep-bed filtration unit at our Jiangxi Province Yihuang Industrial Park WWTP 
+
+Project. 
+
+In order to meet national and local standards at all times, the business units have 
+
+formulated internal control metrics and corresponding measures for the project 
+
+companies to follow, such as quantitative emission targets and pollutant concentration 
+
+in the effluent. To achieve these targets, the project companies conduct daily water 
+
+quality sampling and monitoring at each treatment stage and promptly adjust treatment 
+
+process based on the sampling results, and carry out regular equipment maintenance 
+
+and upgrade to optimise treatment efficiency. In addition, some project companies 
+
+have established quantitative emission reduction targets based on their own business 
+
+operations along with actions plans, to ensure compliance with the national and local 
+
+standards. 
+
+Case study: The Company’s Wuhan Economy and Technology Development Zone 
+
+WWTP Project 1st Phase set the target of reducing the concentration of major 
+
+pollutants such as COD and ammonia nitrogen in discharged water by 5% compared 
+
+to 2019. Through measures such as adjusting process parameters, enhancing 
+
+equipment maintenance, strengthening staff training, and clearly defining roles and 
+
+responsibilities, the project company was able to surpass its targets and achieved 
+
+more than 10% reduction in the concentration of major pollutants in 2020.   
+
+For wastewater generated during waste incineration, we apply treatment processes 
+
+including pre-treatment for large debris removal, anaerobic digestion, external 
+
+membrane bioreactor (MBR) treatment, ultrafiltration, and nanofiltration to effectively 
+
+remove COD, ammonia nitrogen, and other pollutants from the wastewater. During the 
+
+Reporting Period, all treated water met the Class I Standard B specified in the 
+
+Discharge Standard of Pollutants for Municipal Wastewater Treatment Plants 
+
+(GB18918-2002). 
+
+4.2.2 Air Pollutant Emission Management 
+
+Major air pollutants produced from our business operations include odorous gas such 
+
+as hydrogen sulphide and ammonia gas from wastewater and sludge treatment, as 
+
+well as sulphur oxides, nitrogen oxides, dioxins, carbon monoxide, and smoke from 
+
+the waste incineration process. These emissions, if not adequately managed, could 
+
+pollute the air and endanger human health. 
+
+To reduce air emissions and mitigate the impact of odorous gas on the environment, 
+
+we apply covers to key treatment units where odorous gas tends to concentrate, collect 
+
+
+
+
+16 
+
+ 
+
+the gas, and utilise biological, chemical, and physical treatment methods to remove 
+
+odour before the gas is released into the atmosphere. Some of the treatment 
+
+techniques adopted by the project companies include biofiltration, plasma 
+
+deodorisation, and activated carbon adsorption. We also plant air-purifying plants 
+
+around the facilities to help mitigate impacts of odorous gas on the surrounding 
+
+community.  
+
+Case study: To prevent the environmental impact of odorous gas generated from the 
+
+wastewater treatment process, the Qingpu Second WWTP Project applies covers to 
+
+seal the treatment units with odour generation, such as the screening unit, grit chamber, 
+
+primary settling tank, anaerobic tank, anoxic tank, and sludge dewatering unit. The 
+
+odorous gas is then collected and pumped to nearby deodorisation tower for further 
+
+treatment.  
+
+ 
+
+ 
+
+ 
+
+Figure 5 The coarse screening unit, and sludge dewatering unit at Qingpu Second WWTP Project. 
+
+Case study: To reduce the emission of odorous gas, the project companies have 
+
+installed odour treatment systems, which utilise microbial deodorisation technology to 
+
+remove ammonia, hydrogen sulphide, mercaptan, thioether, and other odorous 
+
+substances from the gas. The gas is released into the atmosphere after the 
+
+concentration of odorous substances drops below relevant standards, effectively 
+
+lowering its impact to the surrounding environment. In addition, the project companies 
+
+regularly monitor the pollutant concentration at the inlets and outlets of the odour 
+
+treatment systems. The monitoring results suggest that the concentration or 
+
+discharged quantity of the pollutants is much lower than the relevant national standards, 
+
+and the odour treatment systems exhibit ammonia and hydrogen sulphide removal 
+
+rates of approximately 60% and 80%, respectively.  
+
+
+
+
+
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 6 Odour treatment systems at our Hanxi WWTP (left) and Fengxian West WWTP (right). 
+
+Case study: To fulfil the purpose of air purification, the Harbin City Hulan District Old 
+
+Town Second WWTP Project utilises plasma deodorisation process to oxidise and 
+
+degrade ammonia, hydrogen sulphide, and other pollutants, as well as effectively 
+
+remove suspended colloids in the air. 
+
+ 
+
+ 
+
+ 
+
+Figure 7 Fine-screen deodorisation facility at our Harbin City Hulan District Old Town Second WWTP 
+
+Project. 
+
+To achieve full compliance with emission standards in the Standard for Pollution 
+
+Control on the Municipal Solid Waste Incineration (GB18485-2014) for our waste 
+
+incineration business, we treat flue gas with a combination of chemical and physical 
+
+techniques such as semi-dry desulphurisation, activated carbon adsorption for heavy 
+
+metal and organics removal, bag filtration for dust removal, and selective non-catalytic 
+
+reduction (SNCR) for the removal of nitrogen oxides. 
+
+In addition, our water supply projects that use liquid chlorine in the disinfecting process 
+
+run the risk of leaking chlorine gas, which could bring negative impact towards air 
+
+
+
+
+
+
+
+
+
+
+18 
+
+ 
+
+quality and human health.  To prevent such accidents, the project companies have 
+
+installed alarm systems for leakage detection at the chlorination room and conduct 
+
+weekly tests to ensure the alarm functions properly. The projects have also installed 
+
+chlorine gas absorption devices to mitigate impacts in case of a leak incident and 
+
+perform regular maintenance to ensure the devices function effectively. In 2020, there 
+
+was no leakage incident in the Company’s water supply business. 
+
+4.2.3 Greenhouse Gas Emission Management and Climate Change Action 
+
+During the Reporting Period, our direct (scope 1) GHG emissions mainly came from 
+
+waste incineration, and indirect (scope 2) GHG emissions primarily resulted from 
+
+purchased electricity consumption. To promote green, low-carbon development and 
+
+take actions against climate change, besides adopting energy saving measures during 
+
+production activities, we have also installed solar panels and planted trees at the 
+
+project sites in order to offset our GHG emissions. In 2020, we used 1,713,670 kWh of 
+
+electricity produced from the solar panels, reducing CO2 emission by 1,436.06 tonnes 
+
+compared to coal-fired power generation1. We have also planted a total of 26,733 trees 
+
+at the project sites, which helps offset 614.86 tonnes of CO2 per year2. 
+
+4.3 Hazardous and Non-Hazardous Waste Management 
+
+With respect to managing and disposing of hazardous and non-hazardous waste, our 
+
+project companies strictly follow the requirements of the Disposal of Sludge from 
+
+Municipal Wastewater Treatment Plant - Quality of Sludge Used in Land Improvement 
+
+(GB/T24600-2009), Disposal of Sludge from Municipal Wastewater Treatment Plant - 
+
+Quality of Sludge Used in Gardens or Parks (GB/T23486-2009), Control Standards of 
+
+Pollutants in Sludge for Agricultural Use (GB4284-2018), Disposal of Sludge from 
+
+Municipal Wastewater Treatment Plant - Quality of Sludge Used in Separate 
+
+Incineration (GB/T24602-2009) and other applicable standards. During the Reporting 
+
+Period, there were no non-compliance cases regarding these standards and relevant 
+
+laws and regulations. 
+
+4.3.1 Hazardous Waste Management  
+
+During the Reporting Period, the hazardous waste generated from our wastewater 
+
+treatment, water supply, and sludge treatment businesses mainly include small 
+
+amounts of hazardous sludge, laboratory waste liquids, waste motor oil, and empty 
+
+reagent container. All hazardous waste was stored at designated areas before being 
+
+collected and handled by certified third-party waste handlers. To reduce generation of 
+
+hazardous waste such as laboratory waste liquids, the project companies strictly 
+
+followed standard laboratory procedures and adopted advanced technologies to 
+
+increase process efficiency and minimise waste generation. We also recycle and reuse 
+
+waste motor oil as lubricant for valves, nuts and bolts, and other parts. 
+
+Case study: Our Jiutai District Yingcheng WWTP and Jiutai Development District 
+
+Kalun WWTP in Changchun City, Jilin Province use laboratory robots to carry out 
+
+laboratory work, which decreases the volume of laboratory utensils required, improves 
+
+operation accuracy, and reduces the amount of samples and chemicals needed, 
+
+ 
+
+1 Calculation for CO2 offsets referenced coefficients from the China Power Industry Annual 
+
+Development Report issued by the China Electricity Council in 2020. 
+
+2 CO2 offsets were calculated using the methodology outlined in the Guidelines to Account for 
+
+and Report on Greenhouse Gas Emissions and Removals for Buildings (Commercial, 
+
+Residential or Institutional Purposes) in Hong Kong (2010 Edition) published by the 
+
+Environmental Protection Department and the Electrical and Mechanical Services Department.   
+
+
+19 
+
+ 
+
+resulting in a reduction of laboratory waste liquid generation. 
+
+ 
+
+Figure 8 Laboratory robots used at our WWTPs. 
+
+Fly ash and used activated carbon are two major types of hazardous waste generated 
+
+in our waste incineration business. Fly ash produced from domestic waste incineration 
+
+is solidified with cement and chelating agents before being transported to landfills for 
+
+disposal while the used activated carbon from flue gas treatment is handled by certified 
+
+waste handlers or fed back into the waste incinerator for processing in accordance with 
+
+local environmental regulations. Certified third party companies are in charge of 
+
+handling small volumes of waste mineral oil, laboratory waste liquids, and waste 
+
+batteries.  
+
+4.3.2 Non-Hazardous Waste Management  
+
+The main non-hazardous waste includes regular sludge 3  generated from our 
+
+wastewater treatment, water supply, and sludge treatment businesses, as well as slag 
+
+produced from waste incineration. To reduce sludge generation, we apply mechanical 
+
+dewatering process such as filter pressing and centrifuging to reduce the sludge’s 
+
+water content and therefore its volume. Some project companies engage an additional 
+
+low temperature drying or similar desiccation process after dewatering to further 
+
+reduce the sludge’s water content. A portion of the regular sludge produced is disposed 
+
+at local landfills, while the rest is recycled and reused on-site for landscaping, or 
+
+collected by third-party companies, where the sludge is repurposed into fertilisers and 
+
+construction materials, used for mining pits restoration, or incinerated for power and 
+
+heat generation.  
+
+ 
+
+3 In this Report, regular sludge is defined as the sludge that is not listed in the Directory of 
+
+National Hazardous Wastes (2016 Revision) published by the Ministry of Ecology and 
+
+Environment of the PRC, the National Development and Reform Commission of the PRC and 
+
+the Ministry of Public Security of the PRC. 
+
+
+
+
+20 
+
+ 
+
+ 
+
+ 
+
+Figure 9 At the Wuhan City Huangpi District Panlongcheng WWTP Project 1st Phase, the sludge is 
+
+fermented at high temperature and digested by earthworms to form earthworm manure and earthworm 
+
+products, which are sold to the local agriculture bureau and community. 
+
+To improve the utilization rate of the slag recycling generated from our waste 
+
+incineration business, the slag undergoes crushing and screening processes before 
+
+realising integrated use. In 2020, a total of 79,583 tonnes of slag was reused by our 
+
+waste incineration projects, a 3% increase from 2019. 
+
+Other non-hazardous waste such as domestic waste, packaging materials, and 
+
+screening waste and grits from wastewater treatment are mainly collected and handled 
+
+by local environmental sanitation departments. To reduce domestic waste generation, 
+
+we promote efficient use of office supplies and work on reducing food waste at our 
+
+canteens. 
+
+4.4 Resource Consumption Management 
+
+To promote efficient use of energy, water, chemicals, and other resources during our 
+
+production activities, the business units have established internal policies and best 
+
+practices to help project companies improve resource efficiency. For example, the 
+
+Production and Operation Cost Management System specifies that under the premise 
+
+of guaranteeing the quality of production activities, project companies should set 
+
+annual targets regarding unit of electricity, chemical, and water consumption, regularly 
+
+track resource consumption status to ensure target fulfilment, and learn from the best 
+
+practices from national and international peer companies regarding resource efficiency. 
+
+The business units also include resource efficiency as one of the evaluation criteria in 
+
+the project companies’ seasonal and annual performance review, where the best-
+
+performing companies are rewarded, further incentivising the project companies to 
+
+develop innovative resource conservation measures. Based on the policies set by the 
+
+business units, the project companies develop their own systems and standards for 
+
+chemical, energy, and water consumption management, depending on the nature and 
+
+needs of individual projects.  
+
+4.4.1 Chemical and Energy Consumption 
+
+To improve chemical use efficiency, our wastewater treatment and water supply 
+
+projects closely monitor influent and effluent quality to promptly adjust chemical 
+
+addition and minimise waste. For example, we adjust coagulant addition based on 
+
+factors such as total phosphorous content and suspended solids concentration in the 
+
+effluent, and disinfectant addition based on residual chlorine concentration in the 
+
+effluent.  
+
+The project companies have also adopted measures to improve energy efficiency of 
+
+
+
+
+
+
+21 
+
+ 
+
+equipment and facilities, such as installing frequency converter on water pumps and 
+
+air blowers, conducting regular maintenance for energy-intensive equipment, adjusting 
+
+the number of operating equipment based on real-time water quality monitoring results. 
+
+Through these measures, along with activities on fostering energy saving behaviours 
+
+among employees, our project companies were able to fulfil or surpass the energy 
+
+consumption targets established for the Reporting Period. 
+
+Case study: During the Reporting Period, our Zhejiang Province Chemical Raw 
+
+Material Site Linhai Park WWTP Project 1st Phase and Supporting Pipeline Network 
+
+Project set a target of reducing electricity consumption per tonne of water treated by 
+
+10%, compared to the 2019 level. The project subsequently took series of steps to 
+
+achieve this target, including implementing energy metering for individual equipment 
+
+for key systems and equipment, maintaining or upgrading energy-intensive equipment, 
+
+developing specialised forms to track actual electricity consumption against the target, 
+
+and holding regular meetings to identify energy efficiency issues and establishing 
+
+corrective measures. As a result, the project company reduced electricity consumption 
+
+per tonne of water treated by 13.5% in 2020, outperforming the previously set target. 
+
+We also promote the use of renewable energy among our project companies. Our 
+
+Jiamusi City WWTP Sludge Disposal Project and Mudanjiang City WWTP Sludge 
+
+Disposal Project use biogas produced from anaerobic digestion during the sludge 
+
+treatment process to supply energy for daily operations, helping conserve natural gas 
+
+and other non-renewable energy resources. A total of 1,912,544 m3 of biogas was 
+
+used during the Reporting Period. In addition, we convert waste into energy through 
+
+domestic waste incineration power generation, an integrated resource utilisation 
+
+method encouraged by the state. A portion of the electricity generated by incineration 
+
+supplements our Waste Incineration Division’s daily energy consumption, and the rest 
+
+is exported to the power grid. During the Reporting Period, we used 22,210,133 kWh 
+
+of electricity produced from waste incineration.  
+
+4.4.2 Water Consumption 
+
+Our project companies establish annual water consumption targets and develop 
+
+corresponding measures to improve water efficiency and reduce freshwater 
+
+consumption. Used water from plant operations and effluent from the wastewater 
+
+treatment process are mainly reused for landscaping, equipment cooling, facility 
+
+cleaning, and chemical preparation purposes. We further enhance water efficiency by 
+
+regularly inspecting pipelines for water leakage, conducting equipment maintenance 
+
+and upgrades, adopting water-efficient faucets and toilets, installing flow metres on 
+
+main pipelines, and through employee education. During the Reporting Period, our 
+
+project companies recycled and reused a total of 32,820,187 tonnes of water, a close 
+
+to 9% increase from the 2019 level.   
+
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 10 Nanyang City Baihenan WWTP Project  uses recycled water for on-site landscaping. 
+
+ 
+
+ 
+
+Figure 11 Pudixia WWTP Project uses recycled water for street cleaning. 
+
+Case study: During the Reporting Period, our Chenzhou City WWTP Project took 
+
+systematic actions to realise its goal of reducing 10% of purchased freshwater usage 
+
+compared to the 2019 level. For landscaping purposes, the project prohibited 
+
+freshwater use while promoting the use of rainwater and reclaimed water, and adopted 
+
+water-efficient irrigation methods such as drip irrigation. To minimise water waste due 
+
+to equipment or facility issues, the project conducted regular inspection and 
+
+maintenance of water supply facilities and the pipe network, especially the pre-buried 
+
+pipes, and promptly resolved the problems identified to prevent resource waste 
+
+resulted from dripping and leaking. 
+
+While the majority of our projects do not have issue in sourcing water fit for production 
+
+and operation purposes, a few of our water supply projects may experience 
+
+fluctuations in water supply due to seasonal variations and drought-related issues and 
+
+have developed countermeasures should such issues arise. For example, projects that 
+
+source water from nearby rivers relocate the water inlet from the riverbank to the centre 
+
+of the channel during dry seasons; projects that source water from groundwater wells 
+
+enhance well maintenance and increase well cleaning depth to meet water use 
+
+demands from our clients during drought seasons. In addition, for our water diversion 
+
+project, the sheer distance of water transportation and the single pipeline transmission 
+
+system may pose safety concerns. To guarantee the quantity and quality of water 
+
+supply, the project maintains close contact with source water provider to ensure the 
+
+timeliness of water transfer, and has established a pipeline inspection and 
+
+management system to minimise safety risks associated with single pipeline water 
+
+delivery. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+23 
+
+ 
+
+4.4.3 Green Office 
+
+In daily office activities, we follow the principles of green operation and encourage 
+
+employees to save water, electricity, paper, and other resources, implement waste 
+
+sorting and recycling, and use environmentally friendly office supplies. For example, 
+
+we display resource conservation signage in office spaces and restrooms, promote 
+
+paperless solutions to office tasks, standardise procurement procedure for office 
+
+supplies to minimise unnecessary purchase, and remind employees to switch off lights, 
+
+computers, and air conditioning upon leaving the office.  Through these actions, we 
+
+hope to increase resource efficiency and reduce our environmental footprint during 
+
+daily office activities while generating cost savings. 
+
+
+24 
+
+ 
+
+4.5 Environmental Performance Data 1 
+
+4.5.1 Wastewater Treatment Business Line 
+
+Emissions  
+
+Emission Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Air Pollutants 
+
+Ammonia gas 
+
+/ 
+
+In 
+
+compliance 
+
+In 
+
+compliance 
+
+In 
+
+compliance 
+
+Hydrogen sulphide 
+
+/ 
+
+In 
+
+compliance 
+
+In 
+
+compliance 
+
+In 
+
+compliance 
+
+Greenhouse gases 
+
+Indirect emissions 
+
+(Scope 2) 2 
+
+tonnes CO2e 
+
+462,574.93  
+
+406,119.08 
+
+372,838.86 
+
+Wastewater 
+
+Wastewater 
+
+tonnes 
+
+2,376,508,851.82  
+
+2,371,773,168.72 
+
+1,941,010,660.44 
+
+COD 
+
+tonnes 
+
+49,697.03  
+
+51,992.19 
+
+48,984.42 
+
+BOD 
+
+tonnes 
+
+12,602.84  
+
+12,581.52 
+
+Not reported 
+
+Total suspended 
+
+solids 
+
+tonnes 
+
+16,868.23  
+
+15,514.21 
+
+15,407.80 
+
+Ammonia nitrogen 
+
+tonnes 
+
+1,862.43  
+
+2,239.06 
+
+2,438.65 
+
+Hazardous wastes 3 
+
+Hazardous sludge 4 
+
+tonnes 
+
+3,163.53  
+
+1,729.83 
+
+1,318.82 
+
+ 
+
+1 Due to the characteristics of the Company’s business operations, air pollutant emissions and direct greenhouse gas emissions (Scope 1) are not material to 
+
+the wastewater treatment, sludge treatment and water supply business lines. Therefore, these emissions are only disclosed for the waste incineration business 
+
+line.   
+
+2 Scope 2 emissions were calculated using the 2011–2012 Regional Power Grid Average CO2 Emission Factors in China guideline published by the National 
+
+Development and Reform Commission of the PRC. Scope 2 emissions were from purchased electricity consumption during the Reporting Period. 
+
+3 Hazardous wastes were defined according to the Directory of National Hazardous Wastes (2016 Revision) published by the Ministry of Ecology and 
+
+Environment of the PRC. 
+
+4 The project company's downstream hazardous waste disposal unit temporarily halted operation between September 2019 and April 2020, resulting in a 
+
+backlog of hazardous sludge in the project company’s system without external discharge. After the hazardous waste disposal unit resumed operation in April 
+
+2020, a portion of backlogged hazardous sludge from 2019 was discharged and disposed. Therefore hazardous sludge discharge increased in 2020 compared 
+
+to 2019. 
+
+
+25 
+
+ 
+
+Other hazardous 
+
+wastes 5 
+
+tonnes 
+
+71.22  
+
+54.65 
+
+18.33 
+
+Non-hazardous wastes 
+
+Regular sludge 
+
+tonnes 
+
+1,375,615.88  
+
+1,332,828.95 
+
+1,231,067.12 
+
+Other non-
+
+hazardous wastes 6 
+
+tonnes 
+
+33,827.00  
+
+32,811.08 
+
+7,960.29 
+
+Initiatives and processes to reduce emissions/discharges 
+
+Initiatives and 
+
+processes 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Trees 
+
+Number of trees 
+
+able to reach at least 
+
+five metres in height  
+
+trees 
+
+21,352  
+
+19,410 
+
+15,493 
+
+Amount of CO2 
+
+offset 7 
+
+tonnes CO2 
+
+491.10  
+
+446.43 
+
+356.34 
+
+Wastewater 
+
+treatment 
+
+COD reduced after 
+
+treatment 
+
+tonnes 
+
+456,736.07  
+
+462,068.12 
+
+420,543.34 
+
+BOD reduced after 
+
+treatment 
+
+tonnes 
+
+199,400.50  
+
+207,316.00 
+
+164,218.72 
+
+Ammonia nitrogen 
+
+reduced after 
+
+treatment 
+
+tonnes 
+
+47,917.17  
+
+61,734.51 
+
+39,629.93 
+
+Water recycling 
+
+Recycled water used  tonnes 
+
+32,123,475.00  
+
+29,358,613.80 
+
+86,783,725.00  
+
+Reclaimed water 
+
+supply 
+
+Reclaimed water 
+
+produced 
+
+tonnes 
+
+23,614,106.13  
+
+25,459,359.00 
+
+Not reported 
+
+Sludge recycling 
+
+Regular sludge 
+
+reused 
+
+tonnes 
+
+838,375.04  
+
+792,519.45 
+
+412,110.66 
+
+ 
+
+5 Other hazardous wastes mainly include laboratory waste liquids, waste motor oil, and a small quantity of waste reagent bottles and other hazardous waste. 
+
+6 Other non-hazardous wastes mainly include screening waste and grit, domestic waste, packaging cardboard box, and a small quantity of chemical packaging 
+
+and other non-hazardous wastes. 
+
+7 CO2 offsets were calculated using the methodology outlined in the Guidelines to Account for and Report on Greenhouse Gas Emissions and Removals for 
+
+Buildings (Commercial, Residential or Institutional Purposes) in Hong Kong (2010 Edition) published by the Environmental Protection Department and the 
+
+Electrical and Mechanical Services Department. 
+
+
+26 
+
+ 
+
+Use of Resources 
+
+Resource Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Energy 
+
+consumption 
+
+Direct 
+
+energy 
+
+Petrol 
+
+litres 
+
+161,941.35  
+
+147,526.07 
+
+294,007.94 
+
+litres/tonnes of 
+
+daily 
+
+design capacity 
+
+0.02  
+
+0.02 
+
+0.04 
+
+Diesel 
+
+litres 
+
+41,156.70  
+
+53,413.85 
+
+83,521.86 
+
+litres/tonnes of 
+
+daily 
+
+design capacity 
+
+0.005  
+
+0.01 
+
+0.01 
+
+Natural gas 
+
+cubic metres 
+
+260,527.54  
+
+236,004.09 
+
+183,688.00 
+
+cubic 
+
+metres/tonnes of 
+
+daily design 
+
+capacity 
+
+0.03  
+
+0.03 
+
+0.03 
+
+Renewable energy 
+
+(solar) 
+
+kilowatt hours 
+
+1,713,670.00  
+
+1,816,574.50 
+
+943,698.30 
+
+kilowatt 
+
+hours/tonnes of 
+
+daily design 
+
+capacity 
+
+0.22  
+
+0.25 
+
+0.14 
+
+Indirect 
+
+energy 
+
+Purchased electricity 
+
+kilowatt hours 
+
+681,160,652.92  
+
+621,803,352.05 
+
+536,579,325.09 
+
+kilowatt 
+
+hours/tonnes of 
+
+daily design 
+
+capacity 
+
+86.73  
+
+85.65 
+
+81.52 
+
+Water consumption  
+
+Purchased 
+
+freshwater 
+
+tonnes 
+
+2,008,736.21  
+
+1,700,259.74 
+
+1,088,317.75 
+
+Water consumption 
+
+intensity 
+
+tonnes/tonnes of 
+
+daily 
+
+design capacity 
+
+0.26  
+
+0.23 
+
+0.17 
+
+
+27 
+
+ 
+
+Raw materials 
+
+consumption 
+
+Disinfectants 8 
+
+tonnes 
+
+34,570.92  
+
+16,386.95 
+
+Not reported 
+
+Adsorbents 
+
+tonnes 
+
+1,951.29  
+
+1,967.63 
+
+1,092.04 
+
+Carbon sources 
+
+tonnes 
+
+67,068.03  
+
+521,778.67 
+
+27,651.81 
+
+Coagulants and 
+
+flocculants 
+
+tonnes 
+
+150,330.38  
+
+150,914.01 
+
+252,072.74 
+
+Acid-base regulators 
+
+tonnes 
+
+12,284.01  
+
+10,006.91 
+
+15,556.42 
+
+Other raw materials 9 tonnes 
+
+25,956.75  
+
+24,544.76 
+
+Not reported 
+
+ 
+
+8 During the Reporting Period, disinfectant addition increased significantly due to factors such as COVID-19 impacts and water quality fluctuations. 
+
+9 Other raw materials mainly include ferrous sulphate, hydrochloric acid, lime, liquid oxygen, PAC, PAFC, and NS-A Reagent. 
+
+
+28 
+
+ 
+
+4.5.2 Water Supply Business Line 
+
+Emissions 
+
+Emission Type1 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Greenhouse gases 
+
+Indirect emissions 
+
+(Scope 2) 2 
+
+tonnes CO2e 
+
+92,949.99 
+
+79,866.07 
+
+78,798.62 
+
+Wastewater 
+
+Wastewater 
+
+tonnes 
+
+16,353,578.99 
+
+20,131,104.41 
+
+18,524,475.20 
+
+Non-hazardous wastes 
+
+Regular sludge 
+
+tonnes 
+
+17,723.00  
+
+15,892.00 
+
+17,305.00 
+
+Other non-hazardous 
+
+wastes 3 
+
+tonnes 
+
+55.70 
+
+66.80 
+
+289.00 
+
+Initiatives and processes to reduce emissions/discharges 
+
+Initiatives and processes 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Trees 
+
+Number of trees able 
+
+to reach at least five 
+
+metres in height  
+
+trees 
+
+3,543  
+
+3,567  
+
+3,448  
+
+Amount of CO2 offset 
+
+tonnes CO2 
+
+81.49  
+
+82.04 
+
+79.30 
+
+Water recycling 
+
+Recycled water used 
+
+tonnes 
+
+360,000.00 
+
+422,000.00 
+
+2,018,900.00 
+
+Sludge recycling 
+
+Regular sludge reused 
+
+tonnes 
+
+2,860.00 
+
+5,000.00 
+
+Not reported 
+
+Use of Resources 
+
+Resource Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Energy 
+
+consumption  
+
+Direct 
+
+energy 
+
+Petrol 
+
+litres 
+
+6,545.50 
+
+Not reported 
+
+Not reported 
+
+litres/tonnes of 
+
+daily 
+
+design capacity 
+
+0.004 
+
+Not reported 
+
+Not reported 
+
+Purchased electricity 
+
+kilowatt hours 
+
+122,085,123.39 
+
+123,100,846.99 
+
+116,524,195.00 
+
+ 
+
+1 Hazardous waste is not material to the water supply business line and is therefore not disclosed. 
+
+2 Scope 2 emissions were calculated using the 2011–2012 Regional Power Grid Average CO2 Emission Factors in China guideline published by the National 
+
+Development and Reform Commission of the PRC. Scope 2 emissions were from purchased electricity consumption during the Reporting Period. 
+
+3 Other non-hazardous wastes generated in 2020 mainly include domestic waste and packaging cardboard box. 
+
+
+29 
+
+ 
+
+Indirect 
+
+energy 
+
+kilowatt 
+
+hours/tonnes of 
+
+daily design 
+
+capacity 
+
+70.37 
+
+ 
+
+76.70 
+
+71.71 
+
+Water consumption 
+
+Surface water 
+
+tonnes 
+
+362,798,921.00 
+
+323,909,897.42 
+
+363,747,118.00 
+
+Groundwater 
+
+tonnes 
+
+70,318,538.00 
+
+67,200,076.00 
+
+2,527,707.00 
+
+Water consumption 
+
+intensity 
+
+tonnes/tonnes of 
+
+daily design 
+
+capacity 
+
+249.64 
+
+ 
+
+243.68 
+
+225.40 
+
+Raw materials 
+
+consumption 
+
+Disinfectants 
+
+tonnes 
+
+2,875.32 
+
+2,895.94 
+
+Not reported 
+
+Coagulants and 
+
+flocculants 
+
+tonnes 
+
+4,072.28 
+
+4,830.91 
+
+4,795.17 
+
+Water purification 
+
+agents4 
+
+tonnes 
+
+3,875.18 
+
+2,383.01* 
+
+Not reported 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 During the Reporting Period, we refined the collection scope and method for water purification agents. To match this adjustment and to ensure comparability 
+
+of data collected over the years, we adjusted the 2019 data, as denoted by “*”. 
+
+
+30 
+
+ 
+
+4.5.3 Sludge Treatment Business Line 1 
+
+Emissions 
+
+Emission Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Air Pollutants 2 
+
+Ammonia gas 
+
+/ 
+
+In compliance 
+
+In compliance 
+
+In compliance 
+
+Hydrogen sulphide 
+
+/ 
+
+In compliance 
+
+In compliance 
+
+In compliance 
+
+Greenhouse gases 
+
+Indirect emissions 
+
+(Scope 2)3 
+
+tonnes CO2e 
+
+10,622.54  
+
+12,658.03 
+
+13,265.23 
+
+Hazardous wastes 
+
+Other hazardous 
+
+wastes 4 
+
+tonnes 
+
+3.19  
+
+2.85 
+
+0.86 
+
+Non-hazardous wastes 
+
+Regular sludge 
+
+tonnes 
+
+240,835.05  
+
+200,092.88 
+
+116,052.21 
+
+Other non-hazardous 
+
+wastes5 
+
+tonnes 
+
+234.69  
+
+233.00 
+
+Not reported 
+
+Initiatives and processes to reduce emissions/discharges 
+
+Initiatives and 
+
+processes 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Trees 
+
+Number of trees able 
+
+to reach at least five 
+
+metres in height 
+
+trees 
+
+1,720  
+
+240 
+
+70 
+
+Amount of CO2 offset 
+
+tonnes CO2 
+
+39.56  
+
+5.52 
+
+1.61 
+
+Water recycling 
+
+Recycled water used 
+
+tonnes 
+
+116,835.00  
+
+116,100.00 
+
+35,040.00 
+
+Sludge recycling 
+
+Regular sludge reused tonnes 
+
+201,037.43  
+
+164,925.43 
+
+30,047.46 
+
+Use of Resources 
+
+ 
+
+1 Since wastewater generated from the sludge treatment process is treated in-house and reused at the sludge treatment plant or discharged to the WWTP that 
+
+belongs to the same project company for treatment, the discharge of wastewater is not material to the sludge treatment business line and is therefore not 
+
+disclosed. 
+
+2 Since some sludge treatment projects are not equipped with quantitative data monitoring systems, this table discloses the sludge treatment business line’s 
+
+performance on air pollutant emissions by evaluating whether the emissions met the local emission standards. 
+
+3 Scope 2 emissions were calculated using the 2011–2012 Regional Power Grid Average CO2 Emission Factors in China guideline published by the National 
+
+Development and Reform Commission of the PRC. Scope 2 emissions were from purchased electricity consumption during the Reporting Period. 
+
+4 Other hazardous wastes in 2020 mainly include waste motor oil and laboratory waste liquids. 
+
+5 Other non-hazardous wastes in 2020 mainly include domestic waste and screening waste and grit. 
+
+
+31 
+
+ 
+
+Resource Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Energy 
+
+consumption 
+
+Direct 
+
+energy 
+
+Diesel 
+
+litres 
+
+371,457.10  
+
+334,103.13 
+
+223,719.71 
+
+litres/tonnes of 
+
+daily design 
+
+capacity 
+
+202.98 
+
+182.57 
+
+141.59 
+
+Natural gas 6 
+
+cubic metres 
+
+118,520.78  
+
+209,017.00 
+
+251,533.42 
+
+cubic 
+
+metres/tonnes of 
+
+daily design 
+
+capacity 
+
+64.77  
+
+114.22 
+
+159.20 
+
+Renewable energy 
+
+(biogas) 
+
+cubic metres 
+
+1,912,544.00  
+
+2,248,032.00 
+
+924,974.00 
+
+cubic 
+
+metres/tonnes of 
+
+daily design 
+
+capacity 
+
+1,045.11  
+
+1,228.43 
+
+585.43 
+
+Indirect 
+
+energy 
+
+Purchased electricity 
+
+kilowatt hours 
+
+13,719,816.00  
+
+16,607,310.00 
+
+18,920,238.82 
+
+kilowatt 
+
+hours/tonnes of 
+
+daily design 
+
+capacity 
+
+7,497.17  
+
+ 
+
+9,075.03 
+
+11,974.83 
+
+Water consumption 
+
+Purchased freshwater 
+
+7 
+
+tonnes 
+
+12,553.00  
+
+19,058.00 
+
+88,640.34 
+
+Water consumption 
+
+intensity 
+
+tonnes/tonnes of 
+
+daily 
+
+design capacity 
+
+6.86 
+
+10.41 
+
+56.10 
+
+Raw materials 
+
+consumption 
+
+Straw 
+
+tonnes 
+
+30,875.17  
+
+33,620.77 
+
+31,155.90 
+
+Rice husk 
+
+tonnes 
+
+26,825.85  
+
+25,250.77 
+
+23,287.00 
+
+ 
+
+6 During the Reporting Period, as a result of enhanced energy efficiency during production activities and higher organic matter content and biogas output of the 
+
+sludge, natural gas consumption was reduced at the project companies compared to 2019.    
+
+7 During the Reporting Period, project companies increased the usage of recycled water and therefore purchased freshwater consumption decreased compared 
+
+to 2019. 
+
+
+32 
+
+ 
+
+Other raw materials8 
+
+tonnes 
+
+5,384.15  
+
+Not reported 
+
+Not reported 
+
+ 
+
+ 
+
+8 Other raw materials mainly include corncob and wood chips. 
+
+
+33 
+
+ 
+
+4.5.4 Waste Incineration Business Line 
+
+Emissions 
+
+Emission Type 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Air pollutants 1 
+
+NOx 
+
+tonnes 
+
+250.75  
+
+226.29 
+
+182.47 
+
+SOx 
+
+tonnes 
+
+44.52  
+
+43.95 
+
+23.06 
+
+CO 
+
+tonnes 
+
+12.55  
+
+15.58 
+
+4.85 
+
+Smoke 
+
+tonnes 
+
+6.09  
+
+7.17 
+
+7.93 
+
+Dioxins 2 
+
+/ 
+
+In compliance 
+
+In compliance 
+
+In compliance 
+
+Greenhouse gases 
+
+Direct emissions 
+
+(Scope 1)3 
+
+tonnes CO2 
+
+86,491.26  
+
+93,013.65 
+
+64,067.22 
+
+Indirect emissions 
+
+(Scope 2)4 
+
+tonnes CO2e 
+
+430.95  
+
+151.03 
+
+19.66 
+
+Wastewater 
+
+Wastewater 
+
+tonnes 
+
+254,677.00  
+
+166,777.77 
+
+125,318.00 
+
+COD 
+
+tonnes 
+
+14.91  
+
+13.92 
+
+8.64 
+
+Ammonia nitrogen 
+
+tonnes 
+
+1.30  
+
+1.04 
+
+0.56 
+
+Hazardous wastes 
+
+Used activated 
+
+carbon from treatment 
+
+of waste gases 
+
+generated during 
+
+waste incineration 
+
+tonnes 
+
+152.39  
+
+156.96 
+
+77.51 
+
+Fly ash from domestic 
+
+waste incineration 
+
+tonnes 
+
+7,424.64  
+
+6,572.72 
+
+3,273.30 
+
+ 
+
+1 Air pollutants only include those generated from waste incineration during the Reporting Period. 
+
+2 During the Reporting Period, dioxins emission did not violate the local emission standards of the project operation site. 
+
+3 Scope 1 emissions were calculated using the Greenhouse Gas Accounting Tool for Chinese Cities (Pilot Version 1.0) published by the Greenhouse Gas 
+
+Protocol. Scope 1 emissions were generated from waste incineration during the Reporting Period. 
+
+4 Scope 2 emissions were calculated using the 2011–2012 Regional Power Grid Average CO2 Emission Factors in China guideline published by the National 
+
+Development and Reform Commission of the PRC. Scope 2 emissions were from purchased electricity consumption during the Reporting Period. As a result 
+
+of maintenance of equipment such as incinerators and generator sets during the Reporting Period, there was a significant increase in purchased electricity 
+
+consumption, resulting in an increase in Scope 2 emissions.  
+
+
+34 
+
+ 
+
+Other hazardous 
+
+wastes 5 
+
+tonnes 
+
+6.75  
+
+2.25 
+
+Not reported 
+
+Non-hazardous waste 
+
+Slag 
+
+tonnes 
+
+82,978.00 
+
+74,681.00 
+
+39,735.00 
+
+Initiatives and processes to reduce emissions/discharges 
+
+Initiatives and processes 
+
+Indicator 
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Trees 
+
+Number of trees able 
+
+to reach at least five 
+
+metres in height 
+
+trees 
+
+118  
+
+17 
+
+17 
+
+Amount of CO2 offset  
+
+tonnes CO2 
+
+2.71  
+
+0.39 
+
+0.39 
+
+Water recycling 
+
+Recycled water used 
+
+tonnes 
+
+219,877.00  
+
+216,778.00 
+
+332,613.00 
+
+Electricity generation 
+
+from waste incineration 
+
+Electricity generated 
+
+kilowatt hours 
+
+113,133,332.26  
+
+116,624,780.00 
+
+82,429,730.00 
+
+Waste recycling/reuse 
+
+Slag reused  
+
+tonnes 
+
+79,583.00  
+
+77,335.00 
+
+29,738.00 
+
+Use of Resources 
+
+Resource Type 
+
+Indicator  
+
+Unit 
+
+2020 
+
+2019 
+
+2018 
+
+Energy 
+
+consumption 
+
+Direct 
+
+Energy  
+
+Diesel6 
+
+litres  
+
+386,647.29 
+
+242,320.15 
+
+84,939.81 
+
+litres/tonnes of 
+
+daily design 
+
+capacity 
+
+386.65 
+
+242.32 
+
+121.34 
+
+Indirect 
+
+Energy 
+
+Purchased electricity7 
+
+kilowatt hours 
+
+608,741.00 
+
+222,800.00 
+
+37,400.00 
+
+kilowatt 
+
+hours/tonnes of 
+
+daily design 
+
+capacity  
+
+608.74 
+
+222.80 
+
+53.43 
+
+ 
+
+5 Other hazardous wastes include waste lead batteries, laboratory waste liquids, waste mineral oil, materials contaminated by waste mineral oil and laboratory 
+
+waste liquids. 
+
+6 During the Reporting Period, a portion of the incinerated waste came from stale landfill waste, which had low calorific value. A larger amount of diesel was 
+
+needed to maintain appropriate environmental temperature. 
+
+7 During the Reporting Period, there was a significant increase in purchased electricity consumption due to the maintenance of equipment such as incinerators 
+
+and generator sets. 
+
+
+35 
+
+ 
+
+Water consumption 
+
+Purchased freshwater 
+
+tonnes 
+
+679,588.00 
+
+696,814.00 
+
+425,959.00 
+
+Water consumption 
+
+intensity 
+
+tonnes/tonnes of 
+
+daily design 
+
+capacity 
+
+679.59 
+
+696.81 
+
+608.51 
+
+
+36 
+
+ 
+
+5. Social 
+
+5.1 Service Quality and Standards 
+
+SIIC Environment strives to deliver high-quality services to our customers. Our 
+
+business activities strictly comply with relevant laws, regulations, and standards 
+
+related to product and service health and safety, such as the Discharge Standard of 
+
+Pollutants for Municipal Wastewater Treatment Plant (GB18918-2002), Standards for 
+
+Drinking Water Quality (GB5749-2006), City Water Supply Quality Standard (CJ/T206-
+
+2005), and Standard for Pollution Control on the Municipal Solid Waste Incineration 
+
+(GB18485-2014). We also abide by the Advertising Law of the PRC, the Trademark 
+
+Law of the PRC, the Patent Law of the PRC, and other laws and regulations on 
+
+advertising, labelling, and privacy matters related to our products and services, and 
+
+there were no reported incidents of non-compliance during the Reporting Period.  
+
+Based on the characteristics of the Company’s governance structure, we require the 
+
+business units to establish internal management systems and standard operating 
+
+procedures according to the nature of their operations to ensure safe and quality 
+
+production at the project companies. For example, for our water projects, the business 
+
+units have established the Internal Control Manual for Water Quality Testing and 
+
+Operation Management or similar policies, which specifies the process and 
+
+responsible departments for handling water quality incidents, threshold values for 
+
+controlled water quality parameters, water quality monitoring approaches and 
+
+protocols, and water quality-related appraisal system for project companies and its 
+
+employees. For sludge treatment projects, we designate relevant personnel to conduct 
+
+regular inspections and surveys with our customers on sludge treated by our sludge 
+
+treatment plants to ensure the treated sludge meets relevant standards. The Dazhou 
+
+City Municipal Household Waste Incineration Power Generation Project 1st Phase from 
+
+our Waste Incineration Division has developed the Environmental Monitoring Plan, 
+
+which specifies the monitoring location, parameter, frequency, and method for waste 
+
+gas, wastewater, noise, groundwater, soil, solidified fly ash, and slag, guaranteeing 
+
+that the emissions meet the relevant environmental standards. 
+
+5.1.1 Safeguarding Water Quality and Sanitation 
+
+To guarantee the quality of drinking water provided to our customers and safeguard 
+
+public health and sanitation, the project companies follow a comprehensive water 
+
+quality monitoring mechanism and promptly upgrade facilities and processes in 
+
+accordance with changes in national and local standards. The water projects follow a 
+
+three-level water quality monitoring and assurance system, consisting of continuous 
+
+monitoring of influent and effluent by networked instruments for typical water quality 
+
+parameters, daily water quality testing by on-site laboratory staff, as well as seasonal 
+
+sampling and testing of influent, effluent, and sludge by certified third parties.  
+
+All water supply and wastewater treatment companies are equipped with water quality 
+
+warning systems and have established corresponding emergency response plans. In 
+
+particular, extreme weather events can bring challenges to our water projects, which 
+
+may be of greater concern over time as climate change increases the intensity and 
+
+frequency of such events. In response, our project companies have developed coping 
+
+mechanisms for extreme weather episodes such as flood, typhoon, and extreme cold. 
+
+During heavy rainfall events, we ensure the WWTPs operate at full capacity to prevent 
+
+wastewater overflow that may contaminate natural water bodies; for freezing 
+
+
+37 
+
+ 
+
+temperatures, the plants insulate key equipment and pipelines to ensure their normal 
+
+operation.   
+
+5.1.2 Enhancing Customer Satisfaction 
+
+SIIC Environment maintains a project management system and operational 
+
+management procedures applicable to the Company as a whole. We hold quarterly 
+
+meetings where our business operations report to the headquarters about their 
+
+operational performance, significant fluctuations of water input and water supply, and 
+
+material incidents. Interactions at these meetings help us identify opportunities to 
+
+improve our service quality and enhance customer satisfaction.  
+
+Customer feedbacks are crucial in helping the Company to improve service quality. 
+
+We provide multiple channels for customers to express their questions and concerns 
+
+regarding our services, such as customer satisfaction survey, email of the Company’s 
+
+headquarter, message box on the project companies’ websites, official WeChat 
+
+accounts, and service hotlines. In the event that a customer files a complaint related 
+
+to our services, we first determine the nature of the complaint and identify responsible 
+
+personnel, carry out investigations and promptly resolve the issue, conduct customer 
+
+service follow-up, and afterwards review the complaint case and update the existing 
+
+management system if necessary, to prevent recurrence of such issue. During the 
+
+Reporting Period, we received 9 service-related customer complaints. The complaints 
+
+were mainly about low water pressure or no water caused by temporary leakage of the 
+
+pipe network as a result of external construction, and water quality issues caused by 
+
+temporary increase in turbidity due to pipe network maintenance. The responsible 
+
+departments promptly carried out maintenance service at the customers’ sites to solve 
+
+the problems and conducted service satisfaction follow-ups in a timely manner, which 
+
+showed all customers were satisfied with our handling of the complaints. 
+
+To ensure the security of customer information and protect customer privacy, at our 
+
+Central BU, we standardise management procedures for the uploading, transfer, and 
+
+search of customer data, and utilise password protection and data backup to further 
+
+enhance information security. From the technical dimension, we strengthen the 
+
+maintenance of critical hardware and software and reinforce technological solutions to 
+
+prevent data breach, information theft, and unauthorised access to the system. In 
+
+addition, we provide relevant training for employees from sales, system maintenance, 
+
+and other departments that handle customer information, to increase their awareness 
+
+of customer data protection and information security.  
+
+5.1.3 Research and Development 
+
+In 2020, despite unprecedented challenges posed by the COVID-19 pandemic, the 
+
+Company continued to invest in R&amp;D programmes on top of guaranteeing our normal 
+
+operations, as we believe technological advancement and innovation help improve our 
+
+service quality and overall competitiveness. During the Reporting Period, our 
+
+expenditure on research activities amounted to approximately RMB 1.50 million. We 
+
+actively seek opportunities to partner with educational and research institutions to 
+
+enhance our research capabilities, and explore new development paths that combine 
+
+production, research, and education. During research and development activities, we 
+
+register, maintain, and protect our patents and will seek legal assistance in cases of 
+
+intellectual property violations. Our business units organise training courses as needed 
+
+to familiarise employees with the Trademark Law of the PRC, the Patent Law of the 
+
+PRC, and other relevant laws and regulations, in order to increase employee 
+
+awareness of intellectual property rights protection and equip them with legal 
+
+
+38 
+
+ 
+
+knowledge to safeguard the legitimate rights and interests of the Company. 
+
+Case study: On July 30, 2020, the Northeast BU held the establishment ceremony for 
+
+its Cold-Climate Water Environment Technology Academic Committee as well as the 
+
+opening ceremony of its R&amp;D Centre Phase II. The establishment of the Academic 
+
+Committee is a milestone event for us to gather academic strength and improve R&amp;D 
+
+capabilities in cold-climate water environment technology, and help drive the 
+
+development of water industry in cold climates and quality improvement of China's 
+
+urban water environment. The successful commissioning of the R&amp;D Centre Phase II 
+
+will accelerate the application and transformation of our scientific research and 
+
+industrial technology, better contributing to the development of ecological civilisation. 
+
+ 
+
+ 
+
+Figure 12 The establishment ceremony for Cold-Climate Water Environment Technology Academic 
+
+Committee and the opening ceremony of the R&amp;D Centre Phase II held at the Northeast BU. 
+
+5.2 Supply Chain Management 
+
+In addition to properly managing environmental and social risks during our own 
+
+business activities, the Company also strives to cascade sustainability into our supply 
+
+chain. We have formulated internal policies regarding supplier management and 
+
+evaluation that specify our expectations and requirements towards suppliers’ 
+
+environmental and social performance. 
+
+During the procurement stage, the Company adheres to the Bidding Law of the PRC, 
+
+the Regulation on the Implementation of the Bidding Law of the PRC and other relevant 
+
+laws and regulations to maintain a fair, open, and transparent bidding process. Upon 
+
+assessing all other factors, we prioritise establishing a business partnership with the 
+
+suppliers demonstrating sustainability in their products and services, thereby 
+
+communicating values of green and sustainable development to our suppliers.  
+
+The business units have established the Procurement Management System, Project 
+
+Company On-site Procurement Management System, Contract Management Protocol, 
+
+and similar policies to manage the procurement process. In general, supplier 
+
+evaluation during the procurement process involves a background check for supplier’s 
+
+qualification and certification documents, on-site assessment at the supplier’s 
+
+production site, comprehensive supplier evaluation by the functional departments, and 
+
+final review by the management. 
+
+To better identify potential environmental and social risks associated with suppliers’ 
+
+operations, the business units have implemented a series of practices when evaluating 
+
+suppliers’ eligibility for establishing business partnership with SIIC Environment, for 
+
+example, examining the production and operation qualifications of water purification 
+
+agent manufacturers, especially the safety production licence for hazardous chemicals, 
+
+so as to prevent pollution incidents resulting from illegal or improper production 
+
+
+
+
+
+
+39 
+
+ 
+
+activities, gatherings publicly available information from the National Enterprise Credits 
+
+Information Publicity System and other platforms to evaluate suppliers’ social risks and 
+
+requiring suppliers to provide proof of certifications such as ISO 9001 (international 
+
+standard for quality management system), ISO 14001 (international standard for 
+
+environmental 
+
+management 
+
+system), 
+
+and 
+
+other 
+
+internationally 
+
+recognised 
+
+certifications related to occupational health and safety (“OHS”), and requiring new 
+
+suppliers to provide the Environmental Impact Assessment Report and Environmental 
+
+Impact Assessment Acceptance Report as part of the selection criteria. 
+
+For existing suppliers, we have included, terms related to the supplier’s environmental 
+
+and social responsibilities in the contracts, such as adhering to relevant safety and 
+
+environmental protection rules, protecting intellectual property, promptly paying the 
+
+wages of its employees, and prohibiting bribery. In addition, we conduct routine and 
+
+spontaneous on-site inspections, ratings, and evaluations of suppliers’ performance to 
+
+ensure they continue to provide high-quality products and services while fulfilling 
+
+sustainability-related responsibilities.  
+
+ 
+
+Figure 13 Supplier distribution by geographical region during the Reporting Period. 
+
+5.3 Occupational Health and Safety 
+
+SIIC Environment continues to pursue higher safety standards in production activities 
+
+and business operations, and regards employee health and safety as top priority. We 
+
+strictly comply with the Law of the PRC on Work Safety, Law of the PRC on the 
+
+Prevention and Control of Occupational Diseases and other laws and regulations 
+
+related to providing a safe working environment and protecting employees from 
+
+occupational hazards. Projects of our business units have implemented or are in the 
+
+process of adopting the Occupational Health and Safety Assessment Series (OHSAS 
+
+18001).   
+
+From a supervisory perspective, the Company adheres to national standards such as 
+
+the Measures for the Supervision and Administration of Employers’ Occupational 
+
+Health Surveillance and Regulations on the Reporting, Investigation and Disposition 
+
+of Work Safety Accidents. We conduct comprehensive due diligence and internal 
+
+audits for existing and potential projects’ entry and exit. The mechanisms of production 
+
+safety in our workplace are based on three main aspects, as illustrated in the diagram 
+
+below. Our business units have incorporated these mechanisms when developing 
+
+safety management systems to ensure safe production at the project companies.  
+
+2673
+
+36
+
+Mainland China
+
+Other Locations
+
+
+40 
+
+ 
+
+ 
+
+To strengthen safety management systems, the Company has established specialist 
+
+teams that are responsible for coordinating, planning, organising, developing, and 
+
+promoting health and safety matters. The Company's headquarter has established a 
+
+safety production team, which holds regular meetings every quarter to monitor the 
+
+latest status of production safety at the business units. Meanwhile, the Company 
+
+appoints relevant board member to oversee the routine and spontaneous production 
+
+safety inspections carried out every quarter by the Company's headquarter on the 
+
+project companies from each business unit. In addition, depending on the nature of 
+
+their production activities, the business units have developed internal policies to 
+
+standardise and streamline safety management at the project companies. For example, 
+
+our Ranhill Water business unit has formed a safety committee at the business unit 
+
+level and requires each project company to establish safety teams; the business unit 
+
+conducts semi-annual safety assessments of the project companies in accordance 
+
+with its Safe Production Management System, which also details the management of 
+
+production and equipment safety, the management of safety briefings and meetings, 
+
+rules on safety inspection, and the handling of safety incidents. For external suppliers 
+
+or interested parties that need to enter the Company’s production area, we provide 
+
+documents such as the Stakeholder Safety Management System, Safety Risk 
+
+Notification Card or Outside Personnel Safety Notification Letter for them to observe 
+
+to ensure our safety management system can be accurately communicated to external 
+
+parties entering the project area. 
+
+Strengthening safety 
+
+management systems
+
+Enhancing employee 
+
+safety education
+
+Improving employees’ 
+
+emergency 
+
+preparedness
+
+
+41 
+
+ 
+
+ 
+
+ 
+
+Figure 14 The Company’s headquarter carried out production safety inspection at the project companies. 
+
+In addition, in accordance with the requirements specified in the safety management 
+
+systems, we provide personal protective equipment to employees in specialist and 
+
+technical positions and conduct regular quality checks on the equipment. The 
+
+equipment is required to meet applicable national and industrial standards with respect 
+
+to their design, manufacturing, installation, and usage. We also conduct routine 
+
+production safety inspection, seasonal inspection, pre-holiday inspection, and other 
+
+types of inspection to minimise and eliminate safety risks and prevent the occurrence 
+
+of occupational diseases.  
+
+The Company organises various forms of safety education to enhance safety 
+
+awareness among employees, foster a culture of workplace safety, and ensure high 
+
+quality production. The business units have developed safety training management 
+
+systems. The safety trainings centre around different themes including the "three level" 
+
+of safety education for new employees, routine safety education for production teams, 
+
+safety training for employees in specialist positions, the "three new" safety training 
+
+(new processes, new technologies, and new equipment), safety training in preparation 
+
+for changes in job function, and safety accident education. Topics covered at these 
+
+training events include OHS laws and regulations and the Company’s policies, 
+
+knowledge on using safety equipment, emergency response measures, and other 
+
+relevant information.  
+
+To improve employees’ emergency preparedness, we organise annual emergency 
+
+drills to equip employees with necessary knowledge and skills to properly respond to 
+
+fire, water quality incidents, and other emergencies. For employees whose work may 
+
+pose potential health threats, we provide annual occupational health check-ups in 
+
+addition to the general check-ups.  
+
+In 2020, a total of 4,636 employees spent a total of 20,833 hours in training that related 
+
+to occupational health and safety standards.  
+
+
+
+
+42 
+
+ 
+
+ 
+
+ 
+
+Figure 15 Fire drill held at our Waste Incineration Division (left) and the East BU (right). 
+
+ 
+
+ 
+
+Figure 16 Chlorine leakage drill held at our Central BU (left), and confined space safety training held at 
+
+our North BU (right). 
+
+ 
+
+ 
+
+Figure 17 Employees from Ranhill Water participated in local industrial hygiene training (left). The South 
+
+BU organised CPR and first aid training (right). 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43 
+
+ 
+
+ 
+
+ 
+
+Figure 18 Safety warning signs (left) and lifebuoy rings (right) at the production sites of our North BU. 
+
+We have standardised our safety accident reporting procedures to ensure the 
+
+accidents are reported to supervisory personnel and regulatory authorities in a timely 
+
+manner. We submit reports to regulatory authorities on a regular basis to disclose 
+
+results of our self-assessments on OHS hazards. Recommendations provided by 
+
+regulatory authorities lay a foundation for us to further improve our safety standards. 
+
+During the Reporting Period, there were no reported incidents of non-compliance 
+
+regarding laws and regulations related to occupational health and safety; a total of 23 
+
+days were lost due to work injury and there were two incidents of work-related fatality. 
+
+After the incidents occurred, the business units immediately set up safety accident 
+
+response team and investigation team to investigate the incidents and carried out 
+
+comprehensive safety hazard inspections at the project companies to prevent the 
+
+recurrence of similar incidents. At the same time, the business units promptly 
+
+coordinated with local hospitals, public security, civil affairs, and other institutions to 
+
+work with the family members of the deceased employees to properly handle the 
+
+aftermath of the incidents. Within prescribed time period, the business units filed work 
+
+injury report to apply for appropriate compensations for the deceased employees. 
+
+Table 1 Number and rate of work-related fatalities occurred in each of the past three years. 
+
+  
+
+2020 
+
+2019 
+
+2018 
+
+Number of work-related fatalities 
+
+2 
+
+0 
+
+0 
+
+Rate of work-related fatality (per 100 
+
+employees) 
+
+0.033 
+
+0 
+
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Rate of work-related fatality (per 100 employees) = (Number of fatalities as a result of work-
+
+related injury / Number of employees) * 100 
+
+
+
+
+
+
+44 
+
+ 
+
+5.4 Employment Management and Employee Welfare 
+
+Our people play a valuable role in driving SIIC Environment’s sustainable development. 
+
+The Company protects employees’ legitimate rights and interests, and is committed to 
+
+laying a solid foundation for the long-term development and happiness of every 
+
+employee. 
+
+5.4.1 Employment and Labour Practices 
+
+The Company embraces a people-oriented management philosophy and values the 
+
+legitimate rights and interests of its employees. We strictly comply with the Labour Law 
+
+of the PRC, Labour Contract Law of the PRC, Regulation on the Implementation of the 
+
+Labour Contract Law of the PRC, Employment Act of Singapore, Employment of 
+
+Foreign Manpower Act of Singapore, and other laws and regulations related to 
+
+compensation and dismissal, recruitment and promotion, working hours, rest periods, 
+
+equal opportunity, diversity, anti-discrimination, and other benefits and welfare. At the 
+
+same time, the Company abides by the recognised human rights laws and regulations 
+
+of the countries and regions where it operates. We respect our employees, listen to 
+
+their voices, and bear no discriminations towards gender, age, disability, religion, 
+
+national origin, sexual orientation, etc. The Company encourages the business units 
+
+to join trade unions, which protect the rights of employees and provide relevant 
+
+trainings. We actively consider the diversity of the management and Board members, 
+
+and are committed to creating an equal, harmonious, open, and inclusive work 
+
+environment for all. During the Reporting Period, we did not receive complaints related 
+
+to employee rights and interests. 
+
+Regarding child labour and forced labour, the Company adopts a zero-tolerance 
+
+attitude towards these practices, and we abide by relevant laws and regulations such 
+
+as the Labour Law of the PRC and Provisions on the Prohibition of Using Child Labour. 
+
+During the recruitment process, we verify applicants’ identity and employment eligibility 
+
+to prevent child labour. We establish labour relations with employees on an equal and 
+
+voluntary basis, and do not sign unlawful agreement or contract with employees or 
+
+retain their identity documents. If forced labour is identified, employees can report 
+
+directly to local labour supervision groups. If cases of child labour or forced labour do 
+
+occur, we take immediate action to eliminate such practices, and review and improve 
+
+our employment management systems to prevent future violations. During the 
+
+recruitment process, in light of the actual situation, the Company offers appropriate 
+
+positions for and gives priorities to candidates with special needs. Currently the 
+
+Company employs four disabled individuals. 
+
+We pay close attention to labour issues of potential and existing business partners and 
+
+conduct due diligence or internal audits as appropriate to ensure the legal rights of our 
+
+employees. During the Reporting Period, there were no non-compliance cases 
+
+regarding the above laws and regulations. 
+
+The Company has established a comprehensive human resource management 
+
+system and has implemented associated policies across all business units, to ensure 
+
+thorough protection of employees’ rights and interests related to labour practices and 
+
+employment. These labour policies have been properly communicated to all 
+
+employees of the Company, both in and outside Mainland China. 
+
+ 
+
+Compensation: Remuneration Management System 
+
+ 
+
+Dismissal and promotion: Change Management System 
+
+ 
+
+Recruitment, equal opportunity, diversity, and anti-discrimination: Recruitment 
+
+
+45 
+
+ 
+
+Management System, Employee Relations Management Measures 
+
+ 
+
+Working hours: Attendance Management System 
+
+ 
+
+Rest periods: Leave Management System 
+
+ 
+
+As on 31 December 2020, the Company had 6,039 full-time employees, and no part-
+
+time employee. A breakdown of our employees by gender, age group, and 
+
+geographical region is shown below: 
+
+ 
+
+ 
+
+ 
+
+Figure 19 Employee statistics. 
+
+A breakdown of our employee turnover rate by gender, age group, and geographical 
+
+region is shown below: 
+
+72%
+
+28%
+
+Male
+
+Female
+
+14%
+
+65%
+
+21%
+
+&lt;30
+
+30-50
+
+&gt;50
+
+6025
+
+14
+
+Mainland China
+
+Other Locations
+
+
+46 
+
+ 
+
+ 
+
+Figure 20 Employee turnover rate statistics. 
+
+5.4.2 Employee Compensation and Benefits 
+
+We provide employees with comprehensive and competitive compensation and 
+
+benefits packages. On the basis of ensuring full compliance with the national and local 
+
+minimum wage standards, we offer competitive remuneration and bonuses in 
+
+accordance with the requirements outlined in the Employee Benefits Management 
+
+System, Leave Management System and other internal policies, and provide 
+
+employees with medical allowances, regular physical examinations, paternity and 
+
+maternity leave, marriage leave, personal accident insurance as well as retirement 
+
+benefits. Depending on the actual situation, the project companies also provide 
+
+additional compensation for nightshift employees and distribute employee allowances 
+
+in summer for coping with the hot weather. Our employee manuals set out clear 
+
+policies and codes of conduct for office procedures, reporting duty, attendance, 
+
+performance appraisals, rewards and penalties, compensation and benefits as well as 
+
+training and employee rights. At the same time, to enable our employees to work with 
+
+peace of mind, we pay attention to employees’ families undergoing hardships and will 
+
+provide support to those in need. 
+
+During the Reporting Period, our business units and project companies organised a 
+
+variety of sports games and recreational activities to improve employee well-being and 
+
+help them achieve better work-life balance. 
+
+3.7%
+
+4.3%
+
+9.3%
+
+2.9%
+
+3.2%
+
+3.8%
+
+14.3%
+
+Male
+
+Female
+
+&lt;30
+
+30-50
+
+&gt;50
+
+Mainland China
+
+Other Locations
+
+
+47 
+
+ 
+
+ 
+
+ 
+
+Figure 21 Project companies from Ranhill Water organised various activities for the annual gathering in 
+
+January 2020 (left), and organised a hiking event in August to improve employee well-being and 
+
+dedication (right). 
+
+ 
+
+Figure 22 The East BU held a large-scale family event themed "Strive to be a young master of 
+
+environmental protection" in August 2020, to enhance parent-child relationships and foster children's 
+
+understanding of wastewater treatment process and awareness of environment protection. 
+
+ 
+
+Figure 23 In September 2020, the Central BU arranged a patriotic education film viewing event for its 
+
+employees. 
+
+
+
+
+
+
+
+
+
+
+
+
+48 
+
+ 
+
+5.4.3 Training and Development  
+
+The business units have developed the Training Management System, Training 
+
+Management Measures, and similar internal policies regarding employee training 
+
+management based on the nature and needs of their business operations, and 
+
+organise diverse training programmes for employees. We offer targeted training for 
+
+different categories of employees, such as personnel in managerial positions, 
+
+specialists and technicians, employees transferring to new positions, and new 
+
+employees, to continue to develop well-rounded talent and facilitate employees’ career 
+
+development. We encourage employees to attend different kinds of education and 
+
+training programmes, and grant time off for employees who need to prepare for 
+
+professional examinations. To enhance training effectiveness, our training 
+
+programmes take on various forms such as inter-departmental exchange programmes, 
+
+position rotations, lectures, and skillset competitions. We conduct evaluations to 
+
+assess training efficacy when an employee completes a training programme and we 
+
+evaluate the evaluation results in the annual employee performance review.  During 
+
+the Reporting Period, 84.6% of the total workforce, or 5,108 employees received 
+
+43,900.5 hours of training, as shown in the graphs below. The average training hours 
+
+per employee were approximately 7.3 hours. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 24 Percentage of employees trained by employee category  and average training hours 
+
+completed per employee
+
+
+
+ 
+
+Figure 25 Percentage of employees trained by gender (male: 69.9%, female: 30.1%) 5 and average 
+
+training hours completed per employee. During the Reporting Period, 81.8% of male employees and 
+
+91.8% of female employees participated in training activities. 
+
+ 
+
+ Percentage of employee trained = No. of employees in the specified category (e.g., employee 
+
+category, gender etc.) who took part in training / Total No. of employees who took part in training. 
+
+0.9%
+
+6.2%
+
+72.2%
+
+16.7%
+
+4.0%
+
+Senior Management
+
+Middle-management
+
+Cadres
+
+General Staff
+
+Technical Staff
+
+Others
+
+
+
+
+49 
+
+ 
+
+ 
+
+ 
+
+Figure 26 During the Reporting Period, projects companies from the South BU organised professional 
+
+skill competition (left) and annual “Must-Knows” professional skill training (right). 
+
+ 
+
+Figure 27 From September to December 2020, the Central BU launched an in-house training 
+
+programme on reserve talent management; a total of 37 trainees completed nine online courses. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+50 
+
+ 
+
+5.5 Giving Back to Community 
+
+As a responsible corporate citizen, SIIC Environment is dedicated to solving the most 
+
+pressing needs of the society and actively engages in public welfare activities in the 
+
+fields of environmental protection, poverty alleviation, education, and more. During 
+
+community engagement activities, we abide by the Charity Law of the PRC and follow 
+
+the principles of legality, voluntariness, and honesty, and utilise our industry expertise 
+
+to help conserve natural resources, prevent and mitigate pollution, and work with the 
+
+public to create an eco-friendly society. During the Reporting Period, we invested over 
+
+RMB 0.66 million and 1,511.5 hours of volunteer services in different community 
+
+engagement activities. 
+
+5.5.1 Protecting the Environment 
+
+As a company dedicated to water and environmental protection businesses, SIIC 
+
+Environment has always concentrated on its core mission of promoting concepts of 
+
+environmental protection and resource conservation. Internally, we work to enhance 
+
+our employees’ environmental awareness by distributing environment and natural 
+
+resource related publications, conducting corporate culture training, and organising 
+
+environmental-themed seminars and knowledge contests. For external stakeholders 
+
+such as our investors and the public, we continue to communicate our corporate 
+
+philosophy through various channels such as public reports, business open houses, 
+
+community outreach and public welfare activities, and social media platforms. During 
+
+the Reporting Period, the Company carried out diverse activities engaging different 
+
+sectors of the community, including organising field trips for students to our WWTPs, 
+
+planting trees in the communities we serve, and fostering water conservation 
+
+awareness among our customers.  
+
+Case Study: In 2020, Wuhan City Huangpi District Xinwuhu Water Plant carried out a 
+
+series of community-wide source water conservation programmes, to actively respond 
+
+to local government’s call of enhancing county-level awareness and action towards 
+
+water conservation. The plant invited local media to the site to shoot a short water 
+
+conservation-themed film, which introduces the production process of drinking water 
+
+to community members, increasing their awareness of the preciousness of water 
+
+resources and the importance of water conservation. In addition, employees of the 
+
+plant went into local communities and distributed brochures and flyers on source water 
+
+protection to the public. 
+
+ 
+
+ 
+
+Figure 28 Wuhan City Huangpi District Xinwuhu Water Plant invited local media to shoot water 
+
+conservation-themed film on-site (left), and distributed flyers on source water protection to community 
+
+members (right). 
+
+ 
+
+ 
+
+
+
+
+
+
+51 
+
+ 
+
+Case Study: During the Reporting Period, our South BU’s project company organised 
+
+tree-planting event to further raise employee awareness of creating a greener and 
+
+better living environment.  
+
+ 
+
+ 
+
+Figure 29 Project company from the South BU organised tree-planting event. 
+
+5.5.2 Conducting Community Service 
+
+Besides environmental protection related events, we also invest in other public welfare 
+
+activities and direct available corporate resources to help people and communities in 
+
+need. In 2020, our employees from different business units participated in various 
+
+volunteering events aiming at providing better services for customers, helping 
+
+impoverished households, supporting local students, and more.  
+
+Case Study: During the Reporting Period, the North BU’s “Water for All” volunteer 
+
+service team carried out a total of 24 community activities, such as customer home 
+
+visits to provide convenience services, service-related Q&amp;A, water bill inquiries, and 
+
+water-related business transaction. The team was elected as the "Best Volunteer 
+
+Service Organisation" in 2020 in the annual citywide volunteer service campaign held 
+
+in Weifang City, Shandong Province. The business unit also actively engaged in 
+
+Qingzhou City’s poverty alleviation programmes, such as purchasing apples from the 
+
+City’s Huzhai Modern Agricultural Demonstration Park to help increase local farmers’ 
+
+income by means of poverty alleviation through consumption. Our efforts received 
+
+wide recognition from the public and local government. 
+
+
+
+
+
+
+52 
+
+ 
+
+ 
+
+ 
+
+Figure 30 The North BU provided convenience services for customers in local communities (left), and 
+
+engaged in poverty alleviation activities (right). 
+
+Case Study: To support local students attending the 2020 National College Entrance 
+
+Examination, our water supply and wastewater treatment projects in Suiping County, 
+
+Henan Province organised employees to set up service stations near the test centres. 
+
+Our employees distributed complimentary bottled water and supplements to students, 
+
+and provided water and sunshade umbrellas for traffic police on duty to help them cope 
+
+with the hot weather.  
+
+ 
+
+Figure 31 Our projects in Suiping County, Henan Province distributed bottled water and supplements to 
+
+students attending the National College Entrance Examination. 
+
+Case Study: Our Xinxiang City Sludge Treatment and Disposal Project in Henan 
+
+Province is located next to a livestock farm in the same community. The odour 
+
+generated from the farm’s operations brought negative impacts to local residents’ 
+
+everyday life. In order to foster community harmony, the project utilised its expertise to 
+
+help the farm retrofit its equipment and improve water quality free of charge, enhancing 
+
+the quality of life of the residents and helping create a harmonious and pleasant 
+
+community environment. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+53 
+
+ 
+
+6. Featured Chapter: With Solidarity, We Forge Ahead  
+
+2020 was an unusual year. Faced with the sudden outbreak of the COVID-19 
+
+pandemic and the flooding disaster in Southern China, the Chinese people united as 
+
+one and responded with solidarity. Every member of the Chinese society had made 
+
+contributions to coping with the unprecedented challenges. As a responsible company, 
+
+SIIC Environment was determined to fully fulfil its corporate social responsibility. 
+
+Facing the pandemic, we quickly established a comprehensive response mechanism 
+
+to protect the health and safety of our employees and help the community win the 
+
+battle against the pandemic. In the face of the flooding disaster, we stood firm against 
+
+the odds and ensured residents’ water safety. In the future, with its determined and 
+
+committed employees, SIIC Environment will continue to leverage its industry 
+
+expertise and contribute to safeguarding people's livelihood and the environment. 
+
+6.1 Swift Response and Employee Protection  
+
+During the COVID-19 outbreak, in response to the shortage of pandemic prevention 
+
+and medical supplies, the Company quickly deployed manpower, financial resources, 
+
+and material support to help the society in coping with the pandemic. In total, we 
+
+coordinated the procurement of over 77,500 masks and out of which 25,500 N95 
+
+masks, and provided medicines such as chloroquine, live combined bifidobacterium, 
+
+lactobacillus and enterococcus capsules, and Jingyin solution. In addition, under the 
+
+coordination of the Embassy of the PRC in Singapore, our employees from the 
+
+Company’s headquarter also actively procured and prepared pandemic prevention 
+
+supplies through various channels to support the anti-pandemic battle in China. During 
+
+the Reporting Period, we contributed a total of 3,895 hours and approximately RMB 
+
+1.62 million to anti-pandemic activities. 
+
+When the pandemic hit, SIIC Environment made it a priority to ensure the health and 
+
+safety of its employees. We promptly procured pandemic prevention materials and 
+
+closely monitored the health condition of employees and their families. In the early 
+
+stage of the pandemic, the Company purchased and deployed pandemic prevention 
+
+supplies through multiple channels, provided employees with personal protective 
+
+materials such as masks, disinfectants, protective clothing, and goggles, and adopted 
+
+measures such as adjusting employees’ work schedule and arranging transportation 
+
+for employee commuting to effectively reduce the risk of cross-infection. 
+
+The Company strictly implemented the national and local government's requirements 
+
+for pandemic prevention and control to ensure normal business operation and create 
+
+a safe work environment for employees. The Company established emergency 
+
+response teams at the headquarter, regional office, and project levels, and formulated 
+
+polices such as the COVID 19 Prevention and Control Work Plan and the COVID 19 
+
+Prevention and Control Emergency Plan which clarified the responsibilities of the 
+
+prevention and control team and laid out detailed prevention and control measures. 
+
+We categorised pandemic-related emergencies by level of severity and outlined 
+
+response processes for each level, therefore ensuring the health and safety of 
+
+employees and steady business recovery. 
+
+Being at the forefront of the anti-pandemic battle, the Central BU had been paying 
+
+close attention to the pandemic since its onset and strived to protect the health and 
+
+safety of its employees. At the height of the pandemic, all business units and the 
+
+Company’s headquarter provided unconditional support to the Central BU; employees 
+
+and their families could report any difficulties to the Company at any time. All members 
+
+
+54 
+
+ 
+
+of the Company stood as one and forged through hardships together. To boost 
+
+employee morale as they overcame various challenges posed by COVID-19, the North 
+
+BU held an exhibition themed "Fighting the pandemic with solidarity, maintaining 
+
+quality production with dedication”, to showcase employees’ anti-pandemic art works 
+
+and help keep the workforce engaged and motivated. 
+
+ 
+
+Figure 32 Anti-pandemic-themed art exhibition held at our North BU. 
+
+6.2 Working Together to Support Local Communities  
+
+SIIC Environment’s business activities are closely linked to people’s everyday life, and 
+
+we are well aware of the importance of being able to provide reliable and stable water 
+
+supply, wastewater management, and other services to our customers and community 
+
+members. During the pandemic outbreak, it became out top priority to promptly resolve 
+
+water service-related issues encountered by customers. Our water service hotline 
+
+remained open 24/7, and we launched online services to efficiently process and 
+
+respond to customer requests. For project companies engaged in frontline anti-
+
+pandemic activities, we strengthened water quality testing and adjusted treatment 
+
+processes as needed to ensure the water quality met relevant standards. At the same 
+
+time, the Company provided pandemic prevention supplies and support to local 
+
+communities and other sectors of the society in need to overcome challenges together.  
+
+In the early stage of the COVID-19 outbreak, despite facing the challenges of 
+
+manpower and resource shortage, the project companies of our Central BU 
+
+participated in and successfully completed the tasks of mobile cabin hospital 
+
+construction. To guarantee effluent quality, the project companies closely monitored 
+
+water quality through networked instruments, tested for key water quality indicators on 
+
+a daily basis, and increased the dosage of disinfectants added. Wastewater from the 
+
+mobile cabin hospitals was disinfected twice and safely discharged through fixed 
+
+routes to designated locations. In terms of ensuring local water supply, the business 
+
+unit arranged for all branch offices to be on standby 24/7, while making sure the 
+
+customer service hotline remained accessible and effective in processing customer 
+
+inquiries and repair requests. Customers were also able to pay water bills and submit 
+
+inquiries through mobile platforms such as WeChat and Alipay, without going outside 
+
+of their homes which might increase the risk of exposure to the coronavirus. Upon 
+
+learning some residents were experiencing difficulties in acquiring vegetables and 
+
+other necessities, the project companies promptly donated vegetables and other 
+
+
+
+
+55 
+
+ 
+
+supplies to the local community. 
+
+ 
+
+ 
+
+Figure 33 Wuhan Economic and Technological Development Zone WWTP Project 1st Phase donated 
+
+vegetables and supplies to the local community. 
+
+Over the course of the anti-pandemic battle, to relieve the pressure of pandemic 
+
+prevention and control in surrounding villages and communities, employees from the 
+
+Ningbo Hangzhouwan New District WWTP Project under our East BU volunteered at 
+
+the COVID-19 checkpoints at the entrances of villages and communities. Our 
+
+employees worked with the community staff to implement comprehensive pandemic 
+
+prevention and control measures such as checking body temperature of residents and 
+
+visitors, together safeguarding the health and safety of the local community. In addition, 
+
+upon learning that nearby companies were experiencing disinfectant shortages, our 
+
+Pinghu City Eastern WWTP Project donated sodium hypochlorite, a commonly used 
+
+agent at WWTPs to these companies for pandemic prevention and control. The Pinghu 
+
+Dongpian project learned that surrounding companies lacked disinfectants and 
+
+provided them with sodium hypochlorite for free. 
+
+ 
+
+ 
+
+Figure 34 Volunteering at COVID-19 checkpoints to implement pandemic prevention and control 
+
+measures and answer residents’ inquiries. 
+
+As the number of blood donations in Shenzhen City dropped drastically due to the 
+
+pandemic, the blood stock could no longer meet clinical demand. In response, 
+
+members of our South BU actively participated in local blood donation drives. In 
+
+addition, to help out farmers whose product sales were negatively impacted by the 
+
+pandemic, the business unit purchased fruits from Nanpo Village, Guangxi Province to 
+
+secure local farmers’ source of income in times of difficulty. In addition, the project 
+
+companies responded to the call of the local communities and organised employees 
+
+
+
+
+
+
+
+
+
+
+56 
+
+ 
+
+to carry out voluntary services, such as conducting body temperature checks for local 
+
+residents in protective clothing. 
+
+ 
+
+ 
+
+Figure 35 Employees from the South BU participated in blood donation drive (left) and conducted body 
+
+temperature checks for local residents (right). 
+
+Our Northeast BU closely monitored the quality of the incoming source water, promptly 
+
+adjusted process parameters and adopted supplementary disinfection measures, and 
+
+strictly managed the disinfection process to guarantee that the concentration of faecal 
+
+coliforms in the effluent met relevant standards. In addition, the business unit made 
+
+the public commitment that in cases of unpaid bills, there would be no pressing for 
+
+payment or service suspension, to minimise the economic burden customers might 
+
+already be shouldering due to the pandemic.  
+
+On top of guaranteeing water supply for local residents, our North BU focussed 
+
+particularly on key anti-pandemic groups such as local hospitals, medical equipment 
+
+manufacturers, and heat and gas suppliers and secured their access to clean water. 
+
+For local schools, the business unit offered around-the-clock service support, and 
+
+promptly compiled and distributed the Advice on Water Safety for Schools to provide 
+
+guidance on drinking water precautions, ensuring health and safety of teachers and 
+
+students as classes resumed. Towards the end of 2020, when a new wave of COVID-
+
+19 hit Dalian City, our employees engaged in community volunteer activities, helping 
+
+implement disease prevention and control measures and distributing groceries to the 
+
+residents. Their efforts received wide recognition from local communities.     
+
+
+
+
+
+
+57 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure 36 Our employee participating in anti-pandemic volunteer services in local communities (left), and 
+
+thank you letter from local communities in recognition of our employees’ volunteer work (right). 
+
+6.3 Combatting Flood and Safeguarding Livelihoods  
+
+In July 2020, the middle and lower reaches of the Yangtze River experienced 7 rounds 
+
+of heavy rainfall, and our projects along the Yangtze River faced serious challenges. 
+
+The water levels of our Xinwuhu Water Plant and Qianchuan WWTP in Huangpi District 
+
+of Wuhan City had been rising daily, endangering the safety of our employees on duty, 
+
+operation safety of the water plant, and drinking water safety of 800,000 people in 
+
+southern Huangpi.  
+
+The project company launched an emergency plan and carried out comprehensive 
+
+arrangement and preparation in emergency rescue and safe production. On July 11, 
+
+as the water level of the Yangtze River exceeded the warning threshold, in order to 
+
+ensure the safety of Wuhan City, the city’s flood control headquarter decided to flood 
+
+the Tianxing Island. Under the unified dispatch of the government, all residents 
+
+evacuated the island and only three water pump room operators from the Xinwuhu 
+
+Water Plant stayed. To guarantee employee safety and the stable operation of 
+
+equipment and facilities, the Company immediately reported the situation to the 
+
+superior department and held overnight emergency meeting. The water plant 
+
+successfully implemented measures for safe operation under high water levels the 
+
+following day with respect to engineering, operation, and maintenance, which ensured 
+
+the stable operation of the pump room under partially flooded condition.  
+
+Disruptions to land transportation brought challenges to the transportation of spare 
+
+parts for operation activities and necessities for living on the island. After discussing 
+
+with local water affairs experts and experienced shipping personnel, leveraging on our 
+
+on-site experience, we worked out a water transportation route from the island to 
+
+Xinwuhu Water Plant, securing the transportation of personnel and supplies to and 
+
+from the island. In such a difficult time, we rose to the challenges and strived to protect 
+
+the drinking water safety of 800,000 people in southern Huangpi, showcasing the 
+
+dedication and strong sense of responsibility of every member at SIIC Environment. 
+
+
+
+
+
+
+58 
+
+ 
+
+ 
+
+ 
+
+Figure 37 Transportation of supplies and personnel between Xinwuhu Water Plant and Tianxing Island 
+
+(left); stable operation of the water pump room in the morning sun amidst the flood (right).
+
+
+
+
+
+
+59 
+
+ 
+
+Appendix: Hong Kong Stock Exchange ESG Reporting Guide Content Index 
+
+General 
+
+Disclosures 
+
+and Key 
+
+Performance 
+
+Indicators 
+
+(KPIs) 
+
+ 
+
+Description 
+
+ 
+
+Relevant Section 
+
+ 
+
+Page 
+
+Number 
+
+Environmental 
+
+Aspect A1：Emissions 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to air and greenhouse gas emissions, 
+
+discharges into water and land, and generation of hazardous and non-
+
+hazardous waste. 
+
+4.1 Environmental 
+
+Management Overview, 
+
+4.2 Wastewater and Air 
+
+Emissions Management, 
+
+4.3 Hazardous and Non-
+
+Hazardous Waste 
+
+Management 
+
+13-20 
+
+KPI A1.1 
+
+The types of emissions and respective emissions data. 
+
+4.5 Environmental 
+
+Performance Data 
+
+24-35 
+
+KPI A1.2 
+
+Greenhouse gas emissions in total (in tonnes) and, where appropriate, 
+
+intensity (e.g. per unit of production volume, per facility). 
+
+KPI A1.3 
+
+Total hazardous waste produced (in tonnes) and, where appropriate, 
+
+intensity (e.g. per unit of production volume, per facility). 
+
+KPI A1.4 
+
+Total non-hazardous waste produced (in tonnes) and, where appropriate, 
+
+intensity (e.g. per unit of production volume, per facility). 
+
+KPI A1.5 
+
+Description of measures to mitigate emissions and results achieved. 
+
+4.2 Wastewater and Air 
+
+Emissions Management 
+
+13-18 
+
+KPI A1.6 
+
+Description of how hazardous and non-hazardous wastes are handled, 
+
+reduction initiatives and results achieved. 
+
+4.3 Hazardous and Non-
+
+Hazardous Waste 
+
+Management 
+
+18-20 
+
+Aspect A2：Use of Resources 
+
+
+60 
+
+ 
+
+General 
+
+Disclosure 
+
+Policies on the efficient use of resources, including energy, water and other 
+
+raw materials. 
+
+4.4 Resource Consumption 
+
+Management 
+
+20-23 
+
+KPI A2.1 
+
+Direct and/or indirect energy consumption by type (e.g. electricity, gas or oil) 
+
+in total (kWh in ’000s) and intensity (e.g. per unit of production volume, per 
+
+facility). 
+
+4.5 Environmental 
+
+Performance Data 
+
+24-35 
+
+KPI A2.2 
+
+Water consumption in total and intensity (e.g. per unit of production volume, 
+
+per facility). 
+
+KPI A2.3 
+
+Description of energy use efficiency initiatives and results achieved. 
+
+4.4.1 Chemical and Energy 
+
+Consumption 
+
+20-21 
+
+KPI A2.4 
+
+Description of whether there are any issues in sourcing water that is fit for 
+
+purpose, water efficiency initiatives and results achieved. 
+
+4.4.2 Water Consumption  
+
+21-22 
+
+KPI A2.5 
+
+Total packaging material used for finished products (in tonnes) and, if 
+
+applicable, with reference to per unit produced. 
+
+Not Applicable (the Company’s business 
+
+activities mainly involve providing services 
+
+and do not involve products)   
+
+Aspect A3：The Environment and Natural Resources 
+
+General 
+
+Disclosure 
+
+Policies on minimizing the issuer’s significant impact on the environment 
+
+and natural resources. 
+
+4.1 Environmental 
+
+Management Overview 
+
+13 
+
+KPI A3.1 
+
+Description of the significant impacts of activities on the environment and 
+
+natural resources and the actions taken to manage them. 
+
+4.2 Wastewater and Air 
+
+Emissions Management, 
+
+4.3 Hazardous and Non-
+
+Hazardous Waste 
+
+Management, 
+
+4.4 Resource Consumption 
+
+Management 
+
+13-23 
+
+Social 
+
+Aspect B1：Employment 
+
+
+61 
+
+ 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to compensation and dismissal, recruitment 
+
+and promotion, working hours, rest periods, equal opportunity, diversity, 
+
+antidiscrimination, and other benefits and welfare. 
+
+5.4.1 Employment and 
+
+Labour Practices, 
+
+5.4.2 Employee 
+
+Compensation and Benefits 
+
+44-47 
+
+KPI B1.1 
+
+Total workforce by gender, employment type, age group and geographical 
+
+region. 
+
+5.4.1 Employment and 
+
+Labour Practices 
+
+45 
+
+KPI B1.2 
+
+Employee turnover rate by gender, age group and geographical region. 
+
+46 
+
+Aspect B2：Health and Safety 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to providing a safe working environment and 
+
+protecting employees from occupational hazards. 
+
+5.3 Occupational Health 
+
+and Safety  
+
+ 
+
+ 
+
+39-43 
+
+KPI B2.1 
+
+Number and rate of work-related fatalities. 
+
+43 
+
+KPI B2.2 
+
+Lost days due to work injury. 
+
+43 
+
+KPI B2.3 
+
+Description of occupational health and safety measures adopted, how they 
+
+are implemented and monitored. 
+
+39-43 
+
+Aspect B3：Development and Training 
+
+General 
+
+Disclosure 
+
+Policies on improving employees’ knowledge and skills for discharging 
+
+duties at work. Description of training activities. 
+
+5.4.3 Training and 
+
+Development 
+
+48-49 
+
+KPI B3.1 
+
+The percentage of employees trained by gender and employee category 
+
+(e.g. senior management, middle management). 
+
+48 
+
+KPI B3.2 
+
+The average training hours completed per employee by gender and 
+
+employee category. 
+
+Aspect B4：Labour Standards 
+
+
+62 
+
+ 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to preventing child and forced labour. 
+
+5.4.1 Employment and 
+
+Labour Practices 
+
+ 
+
+44 
+
+ 
+
+KPI B4.1 
+
+Description of measures to review employment practices to avoid child and 
+
+forced labour. 
+
+KPI B4.2 
+
+Description of steps taken to eliminate such practices when discovered. 
+
+Aspect B5：Supply Chain Management 
+
+General 
+
+Disclosure 
+
+Policies on managing environmental and social risks of the supply chain. 
+
+5.2 Supply Chain 
+
+Management 
+
+38-39 
+
+KPI B5.1 
+
+Number of suppliers by geographical region. 
+
+39 
+
+KPI B5.2 
+
+Description of practices relating to engaging suppliers, number of suppliers 
+
+where the practices are being implemented, how they are implemented and 
+
+monitored. 
+
+38-39 
+
+Aspect B6：Product Responsibility 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to health and safety, advertising, labelling and 
+
+privacy matters relating to products and services provided and methods of 
+
+redress. 
+
+5.1 Service Quality and 
+
+Standards 
+
+36-38 
+
+KPI B6.1 
+
+Percentage of total products sold or shipped subject to recalls for safety and 
+
+health reasons. 
+
+Not Applicable (the Company’s business 
+
+activities mainly involve providing services 
+
+and do not involve products)   
+
+KPI B6.2 
+
+Number of products and service related complaints received and how they 
+
+are dealt with. 
+
+5.1.2 Enhancing Customer 
+
+Satisfaction  
+
+37 
+
+KPI B6.3 
+
+Description of practices relating to observing and protecting intellectual 
+
+property rights. 
+
+5.1.3 Research and 
+
+Development 
+
+37-38 
+
+
+63 
+
+ 
+
+KPI B6.4 
+
+Description of quality assurance process and recall procedures. 
+
+5.1.1 Safeguarding Water 
+
+Quality and Sanitation 
+
+36-37 
+
+KPI B6.5 
+
+Description of consumer data protection and privacy policies, how they are 
+
+implemented and monitored. 
+
+5.1.2 Enhancing Customer 
+
+Satisfaction 
+
+37 
+
+Aspect B7：Anti-corruption 
+
+General 
+
+Disclosure 
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and regulations that have a significant 
+
+impact on the issuer relating to bribery, extortion, fraud and money 
+
+laundering. 
+
+3.5 Compliance 
+
+Management and Anti-
+
+Corruption 
+
+11-12 
+
+ 
+
+KPI B7.1 
+
+Number of concluded legal cases regarding corrupt practices brought 
+
+against the issuer or its employees during the reporting period and the 
+
+outcomes of the cases. 
+
+KPI B7.2 
+
+Description of preventive measures and whistle-blowing procedures, how 
+
+they are implemented and monitored. 
+
+Aspect B8：Community Investment 
+
+General 
+
+Disclosure 
+
+Policies on community engagement to understand the needs of the 
+
+communities where the issuer operates and to ensure its activities take into 
+
+consideration the communities’ interests. 
+
+5.5 Giving Back to 
+
+Community 
+
+50-52 
+
+KPI B8.1 
+
+Focus areas of contribution (e.g. education, environmental concerns, labour 
+
+needs, health, culture, sport). 
+
+50-52 
+
+KPI B8.2 
+
+Resources contributed (e.g. money or time) to the focus area. 
+
+50 
+
+ 
+
+ 
+
+ 
+

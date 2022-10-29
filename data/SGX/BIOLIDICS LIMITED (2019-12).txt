@@ -1,0 +1,1362 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+BIOLIDICS LIMITED  
+
+SUSTAINABILITY REPORT 
+
+For the financial year ended 31 December 2019 
+
+
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+1 
+
+ 
+
+ 
+
+
+
+Contents 
+
+Board Statement ..................................................................................................................................... 2 
+
+About this Report .................................................................................................................................... 3 
+
+Materiality Assessment ........................................................................................................................... 4 
+
+Stakeholders’ Engagement ..................................................................................................................... 5 
+
+Economic Performance ........................................................................................................................... 6 
+
+Social and Environmental ....................................................................................................................... 6 
+
+Occupational Health and Safety (including Effluents and Waste) ...................................................... 6 
+
+Social ....................................................................................................................................................... 7 
+
+Talent Retention (including Training and Education) ......................................................................... 7 
+
+Research and Development/Innovation ........................................................................................... 10 
+
+Product Quality and Safety ............................................................................................................... 11 
+
+Governance ........................................................................................................................................... 12 
+
+Socioeconomic Compliance .............................................................................................................. 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This report has been prepared by Biolidics Limited (“Biolidics” or the “Company”, and together with its subsidiaries, the 
+
+“Group”) and has been reviewed by the Company’s sponsor, United Overseas Bank Limited (the “Sponsor”), for compliance 
+
+with Rules 226(2)(b) and 753(2) of the Singapore Exchange Securities Trading Limited (the “SGX-ST”) Listing Manual Section 
+
+B: Rules of Catalist. This report has not been examined or approved by the SGX-ST. The SGX-ST assumes no responsibility for 
+
+the contents of this report, including the correctness of any of the statements or opinions made or reports contained in this 
+
+report. The contact person for the Sponsor is Mr. Lim Hoon Khiat, Director, Equity Capital Markets, who can be contacted at 
+
+80 Raffles Place, #03-03 UOB Plaza 1, Singapore 048624, telephone: +65 6533 9898. 
+
+ 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+2 
+
+ 
+
+ 
+
+
+
+Board Statement 
+
+The board of directors (the “Board”) of Biolidics is pleased to present our inaugural sustainability 
+
+report (the “Report”) for the financial year ended 31 December 2019 (“FY2019”). 
+
+Listed on the Catalist Board of the Singapore Exchange Securities Trading Limited (“SGX-ST”) on 19 
+
+December 2018, Biolidics is a precision medicine medical technology company with a focus in 
+
+developing a portfolio of innovative diagnostic solutions to lower healthcare costs and improve clinical 
+
+outcomes.  
+
+The Board recognises the importance of sustainability and considers environmental, social and 
+
+governance (“ESG”) factors in its decision making, while focusing on areas which are most relevant to 
+
+our business. We have formalised our sustainability approach by conducting our first materiality 
+
+assessment to identify areas of focus in our sustainability efforts in FY2019 and developing 
+
+performance indicators and targets for the current financial year ending 31 December 2020 
+
+(“FY2020”).  
+
+The global COVID-19 pandemic has had a significant impact on the global economy and businesses, 
+
+and it has inevitably brought more attention to the healthcare industry. Due to the rapidly evolving 
+
+nature of the COVID-19 pandemic and as more information and discoveries from researches and 
+
+studies conducted become available, companies involved in the development, supply and distribution 
+
+of COVID-19 related products are required to keep pace with the latest developments and ensure that 
+
+their products stay relevant. We are committed to grow sustainably as a forward-looking company 
+
+covering our approach and performance in sustainability as we continue to actively explore 
+
+collaborations and partnerships for the development and commercialisation of new technologies and 
+
+products related to COVID-19 and our liquid biopsy business. 
+
+This Report is prepared in accordance with the Listing Manual Section B: Rules of Catalist of the SGX-
+
+ST (“Catalist Rules”) and with reference to the Global Reporting Initiative (“GRI”) Standards. This 
+
+Report serves as a platform for Biolidics to formally communicate our sustainability approach on our 
+
+practices, performance and targets in relation to our sustainability efforts for FY2019 with our 
+
+stakeholders. 
+
+ 
+
+Board of Directors 
+
+Biolidics Limited  
+
+ 
+
+ 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+3 
+
+ 
+
+ 
+
+
+
+About this Report 
+
+This is Biolidics’ first sustainability report.  
+
+The scope of this Report focuses on the Company’s key business activities in Singapore. Information 
+
+disclosed in this Report reflects our ESG efforts and encapsulates our commitment to grow sustainably 
+
+as a forward-looking company covering our approach and performance in sustainability for FY2019. 
+
+This Report is prepared in accordance with the requirements of Practice Note 7F: Sustainability 
+
+Reporting Guide of the Catalist Rules and with reference to the GRI Standards. The GRI standards were 
+
+chosen because they are one of the most commonly used frameworks, and therefore, familiar to our 
+
+readers and the “with reference to” option was chosen. This Report references the following topic-
+
+specific disclosures: 
+
+▪ 
+
+Disclosure 102-8 a and c from GRI 102: General Disclosures 2016  
+
+▪ 
+
+Disclosure 201-1 a from GRI 201: Economic Performance 2016 
+
+▪ 
+
+Disclosure 401-1 a and b from GRI 401: Employment 2016 
+
+▪ 
+
+Disclosure 403-2 a, b and c from GRI 403: Occupational Health and Safety 2016 
+
+▪ 
+
+Disclosure 404-1 a and 404-2 a from GRI 404: Training and Education 2016 
+
+▪ 
+
+Disclosure 419-1 b from GRI 419: Socioeconomic Compliance 2016 
+
+Biolidics strives to continuously refine our sustainability strategy and practices. We greatly welcome 
+
+your feedback and comments regarding this Report. You can reach us at support@biolidics.com. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+4 
+
+ 
+
+ 
+
+
+
+Materiality Assessment 
+
+Biolidics conducted a materiality assessment exercise, referencing the GRI Standards (2016) 
+
+Materiality Principle. The objective of the exercise was to identify, prioritise and validate ESG factors 
+
+that are significant to business operations and of interest to our key stakeholders. 
+
+With the facilitation of an external consultant, we considered trends and current themes and areas of 
+
+concern in the healthcare industry. Through peer benchmarking as well as taking into consideration 
+
+the sustainability trends in Singapore and globally, we have shortlisted and identified 6 material 
+
+factors. These factors were deemed material to Biolidics as they play an important role in our business 
+
+operations. 
+
+The following table depicts our material factors for FY2019. 
+
+ Material Factors 
+
+Sustainability Aspects 
+
+For Detailed Information  
+
+Economic Performance 
+
+ 
+
+Refer to the Company’s annual 
+
+report for FY2019 (“FY2019 Annual 
+
+Report”) 
+
+▪ 
+
+Operations and Financial 
+
+Review (Pages 8-10) 
+
+▪ 
+
+Financial Statements (Pages 
+
+48-96) 
+
+ 
+
+Occupational Health and Safety 
+
+(including Effluents and Waste) 
+
+ 
+
+Refer to this Report, Pages 6-7 
+
+Talent 
+
+Retention 
+
+(including 
+
+Training and Education) 
+
+ 
+
+Refer to this Report, Pages 7-10 
+
+Research and 
+
+Development/Innovation 
+
+ 
+
+Refer to this Report, Pages 10-11 
+
+Product Quality and Safety 
+
+ 
+
+Refer to this Report, Pages 11-12 
+
+Socioeconomic Compliance 
+
+ 
+
+Refer to this Report, Pages 12-13 
+
+Legend:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Economic 
+
+Environmental 
+
+Social 
+
+Governance 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+5 
+
+ 
+
+ 
+
+
+
+Stakeholders’ Engagement 
+
+Biolidics recognises that communicating with our stakeholders allows us to further develop and refine 
+
+our business strategies and respond quickly and effectively to their concerns and needs. Stakeholders’ 
+
+engagement is carried out through various communication channels and methods as depicted in the 
+
+table below:  
+
+Stakeholders 
+
+Key Topics and Concerns  
+
+Engagement Methods 
+
+Frequency of 
+
+Engagement 
+
+Customers 
+
+▪ Quality of products and 
+
+services 
+
+▪ Customer needs 
+
+▪ User experience 
+
+▪ Contact form on 
+
+Biolidics’ website 
+
+▪ Product promotions 
+
+▪ Customer and 
+
+technical support 
+
+When applicable 
+
+Technology 
+
+partners 
+
+▪ Market and industry 
+
+trends 
+
+▪ Long-term partnership 
+
+▪ Regular meetings and 
+
+follow ups 
+
+▪ Partner support 
+
+channel 
+
+▪ Technical updates 
+
+Throughout the 
+
+year 
+
+Employees 
+
+▪ Training and 
+
+development of 
+
+employees 
+
+▪ Recruitment and 
+
+retention of skilled 
+
+employees 
+
+▪ Well-being of 
+
+employees 
+
+▪ Regular meetings and 
+
+briefings 
+
+▪ Employee performance 
+
+review 
+
+▪ Training programmes 
+
+Throughout the 
+
+year 
+
+Governments and 
+
+regulators 
+
+▪ Compliance with laws 
+
+and regulations 
+
+▪ Meetings and 
+
+consultations 
+
+▪ License applications 
+
+and regulatory filings 
+
+▪ Responding to 
+
+requests for 
+
+information (e.g.  
+
+through surveys) 
+
+Throughout the 
+
+year 
+
+Shareholders 
+
+▪ Biolidics’ financial 
+
+performance 
+
+▪ Good corporate 
+
+governance 
+
+▪ Sustainable business 
+
+growth 
+
+▪ Annual general 
+
+meetings 
+
+▪ Announcements of 
+
+material information, 
+
+including financial 
+
+performance, through 
+
+SGXNET and Biolidics’ 
+
+website 
+
+Periodically 
+
+ 
+
+ 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+6 
+
+ 
+
+ 
+
+
+
+Economic Performance 
+
+For more information regarding our economic performance for FY2019, please refer to the Operations 
+
+and Financial Review section (Pages 8 to 10) and Financial Statements section (Pages 48 to 96) of our 
+
+FY2019 Annual Report.  
+
+Social and Environmental 
+
+Occupational Health and Safety (including Effluents and Waste) 
+
+FY2019 Performance 
+
+• 
+
+In FY2019, there were no workplace injuries or fatalities.  
+
+FY2020 Targets 
+
+• 
+
+Maintain zero fatalities and workplace injuries in FY2020 
+
+ 
+
+Occupational Health and Safety 
+
+Biolidics recognises that a workplace that fosters a safety and healthy environment is important in 
+
+ensuring that employees are safe, healthy, satisfied and engaged at work. Committed employees are 
+
+imperative for Biolidics to achieve our growth objectives; and hence, we engage with our workforce 
+
+to continuously innovate and improve our technology.  
+
+Safety is of utmost importance to Biolidics. Our activities currently require the controlled use of 
+
+potentially harmful biological materials and chemicals such as cancer cell lines and formaldehyde. 
+
+There is a risk of accidental contamination or injury to employees or third parties from the handling, 
+
+use and disposal of these materials and chemicals. Therefore, having a strong safety culture in the 
+
+workplace is key to protecting our people. The minimisation of safety-related issues will also translate 
+
+to a reduction in business disruption and protect our reputation. 
+
+Proper treatment and disposal of biological waste is also essential to Biolidics to prevent any potential 
+
+contamination or injury to employees or third parties. Hence, we comply with the following policies 
+
+and processes: 
+
+• 
+
+Guidelines from Ministry of Health (“MOH”), Singapore; 
+
+• 
+
+Workplace Safety and Health Act, Chapter 354A of Singapore (the "Workplace Safety and Health 
+
+Act") and the regulations thereunder; 
+
+• 
+
+Environmental Public Health Act, Chapter 95 of Singapore (the “Environmental Public Health Act 
+
+(Toxic Industrial Waste) Regulations”) and the regulations thereunder; 
+
+• 
+
+Guidelines from MOH: Biosafety and Biosecurity Manual, Housekeeping and General 
+
+Maintenance, Decontamination and waste management; and  
+
+• 
+
+Workplace Safety and Health Act.  
+
+Biolidics also provides regular training to educate our employees on the potential health and safety 
+
+risks hazards in the work environment, and the proper precautions to take to prevent any accidents.  
+
+In FY2019, Biolidics’ absenteeism rates for male and female employees were at an average of 5.7 days 
+
+and 8.1 days per annum respectively, and the average absenteeism rate for all employees was at 6.8 
+
+days per annum.  
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+7 
+
+ 
+
+ 
+
+
+
+In FY2019, we are proud to report that there were no cases of work-related injury and fatalities for all 
+
+employees. We aim to maintain zero fatalities and zero workplace injuries in FY2020.  
+
+Effluents and Waste 
+
+At Biolidics, we maintain our duty to dispose our waste responsibly, especially toxic waste as it can 
+
+cause harm to the environment and the health and safety of people.  
+
+We adhere to the Environmental Public Health Act (Toxic Industrial Waste) Regulations which require 
+
+all our authorised waste collectors to be licensed. The license will be granted on the condition that: 
+
+▪ 
+
+The toxic waste treatment, storage and disposal facility owned by the collector is in a suitable 
+
+industrial area outside water catchment; 
+
+▪ 
+
+The types and quantities of toxic wastes are commensurate with the treatment processes and 
+
+disposal facilities; and  
+
+▪ 
+
+Adequate measures such as containment areas, leak detection and warning devices, proper 
+
+emergency action plans, neutralising agents, handling gear, absorbent material, etc. are provided 
+
+to prevent and mitigate any accidental release of the toxic wastes. 
+
+Social 
+
+Talent Retention (including Training and Education) 
+
+FY2019 Performance  
+
+• 
+
+In FY2019, our employees achieved an average of 23 training hours. However, not all 
+
+permanent employees completed at least 20 hours of training per year.1 
+
+FY2020 Targets 
+
+• 
+
+All permanent employees to complete at least 20 hours of training per year, in order to 
+
+achieve the adequate level of training for their scope of work.  
+
+ 
+
+At Biolidics, we believe that technically skilled professionals are central and crucial for our business to 
+
+remain relevant in today’s changing landscape. To achieve this, we aim to develop and retain 
+
+competent employees and provide an inclusive and nurturing work culture to ensure the quality of 
+
+our business operations. We have regular townhall meetings for our leadership team to provide 
+
+updates to our employees as well as to understand our employees’ needs. 
+
+Furthermore, we have the Biolidics Performance Share Plan (the “Plan”) where the primary objective 
+
+of the Plan is to retain employees whose contributions are essential to the well-being and success of 
+
+Biolidics, and to give recognition to outstanding employees who have contributed to the growth of 
+
+our Company. Eligible participants under the Plan will have the opportunity to participate in the equity 
+
+of Biolidics, therefore inculcating a stronger sense of identity with our long-term success. This will help 
+
+in promoting organisational commitment, dedication and loyalty of these employees to Biolidics.  
+
+ 
+
+1 The average hours of training per employee per year – by employee category for senior management level 
+
+has taken into consideration employees who has not worked for the full year in Biolidics. 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+8 
+
+ 
+
+ 
+
+
+
+In FY2019, Biolidics’ workforce totalled 222, male and female employees representing 54% and 46% 
+
+of the employee base respectively. For FY2019, the average monthly new employee rate and the 
+
+average monthly employee turnover rate was at 4.2%.  
+
+FY2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Biolidics’ workforce in FY2019 comprises entirely permanent and full-time employees in Singapore. 
+
+7
+
+11
+
+4
+
+Total number of employees - by age 
+
+group
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+12
+
+10
+
+Total number of employees - by gender
+
+Male
+
+Female
+
+2
+
+6
+
+3
+
+New employee hire - by age group
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+5
+
+6
+
+New employee hire - by gender 
+
+Male
+
+Female
+
+4
+
+7
+
+0
+
+Turnover - by age group
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+6
+
+5
+
+Turnover - by gender 
+
+Male
+
+Female
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+9 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+Training and Education 
+
+Biolidics believes in investing and strengthening our employees’ technical, functional and behavioural 
+
+competencies in line with their job requirements and career aspirations. This is done by providing 
+
+learning and development opportunities to our employees. These opportunities can be in the form of 
+
+on-the-job training, internal trainings and continuing education programmes.   
+
+We have developed a standard operating procedure within the ISO 13485:20163 framework to identify 
+
+training needs, execute training programs and maintain records of training to ensure proper 
+
+assignment of job functions to our employees.  
+
+Any additional training needs are identified and reviewed annually, and we encourage our employees 
+
+to acquire new skills and keep abreast of developments in their respective fields. Employees are given 
+
+opportunities to attend external courses or trainings that are relevant or will assist in their scope of 
+
+work. Employees are also encouraged to further their studies and funding support may be provided 
+
+to them on a case-by-case basis. We monitor training progress by maintaining training records for all 
+
+our employees. 
+
+Masterclass on Liquid Biopsy 
+
+ 
+
+In July 2019, Biolidics held a 3-hour masterclass for our employees and other stakeholders to give 
+
+an introduction and improve the technical knowledge on the basic terminologies, concepts and 
+
+framework around cancer diagnostics liquid biopsy.  
+
+ 
+
+Topics covered in the masterclass include: 
+
+1. Cancer patient journey from a diagnostics perspective  
+
+2. Introduction to liquid biopsy  
+
+3. Clinical assay validations and regulatory frameworks 
+
+ 
+
+We hope to conduct similar training programs in FY2020. 
+
+ 
+
+In FY2019, our employees achieved an average of 234 training hours. 
+
+ 
+
+3 ISO 13485:2016 – Medical devices – Quality management systems – Requirements for regulatory purposes 
+
+4 Number has been rounded up 
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+10 
+
+ 
+
+ 
+
+
+
+ 
+
+5 
+
+In FY2020, we strive to have all permanent employees complete at least 20 hours of training. 
+
+Research and Development/Innovation 
+
+FY2019 Performance 
+
+• 
+
+In FY2019, Biolidics entered into collaborations with several partners, which include Hunan 
+
+Agen Medicine Laboratory Technology Co., Ltd., Hangzhou Normal University and Agency 
+
+for Science, Technology and Research’s Genome Institute of Singapore, among others 
+
+FY2020 Targets 
+
+• 
+
+Further enhance collaboration with new and existing partners 
+
+• 
+
+Enter collaboration with new partners for identified objectives 
+
+ 
+
+Biolidics’ ability to identify and develop innovative technology and products has contributed to the 
+
+development and growth of the Company.  Biolidics strives to utilise its novel, patented technology to 
+
+create a platform technology in cancer diagnostics which may enable applications throughout various 
+
+stages of a patient's cancer journey - from cancer screening and staging to personalised treatment, 
+
+and post-cancer monitoring. At the same time, Biolidics seeks to identify and develop third party 
+
+technologies and know-hows with a focus in developing a portfolio of innovative diagnostic solutions 
+
+to lower healthcare costs and improve clinical outcomes. 
+
+Biolidics’ policy on our innovation/invention and patent protection provides a foundation to exhibit 
+
+the organic technological innovation capabilities of our Company and highlight the technical 
+
+capabilities of our Company for joint technical development projects with our technology partners. 
+
+We encourage members of our technical team to provide innovation/invention disclosures when an 
+
+innovation/invention can be potentially patented.  
+
+In FY2020, we aim to enter and further enhance our strategic collaborations with our existing and new 
+
+partners with the objective to strengthen our Company’s innovative expertise and product portfolio.  
+
+ 
+
+5 The average hours of training per employee per year – by employee category for senior management level has 
+
+taken into consideration employees who has not worked for the full year in Biolidics. 
+
+ 
+
+25.4
+
+18.1
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+Male
+
+Female
+
+Hours
+
+Average hours of training per employee 
+
+per year - by gender 
+
+
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+11 
+
+ 
+
+ 
+
+
+
+Product Quality and Safety 
+
+FY2019 Performance  
+
+• 
+
+Customer satisfaction survey: 87.5% of customers6 are satisfied with the ClearCell® FX1 
+
+System 
+
+• 
+
+Product quality: 100% pass rate for ClearCell® FX1 System prior to release. There were 1.39% 
+
+of CTChip® FRI biochip failure due to leaky chip 
+
+• 
+
+Customer feedback response time: 100% customer feedbacks/complaints acknowledged 
+
+within 7 days 
+
+• 
+
+Corrective action preventive action (“CAPA”) response time: Exceptions of QR19-0005 Homing 
+
+Pin Misalignment (Evotech) missed by 4 days and QR19-006 Front Panel Ribs Issue (NYMU) 
+
+missed by 6 days 
+
+• 
+
+Field safety corrective action: zero product recalls 
+
+FY2020 Targets 
+
+• 
+
+Customer satisfaction survey: 80% of customers are satisfied with the ClearCell® FX1 System 
+
+• 
+
+Product quality: 100% pass rate for ClearCell® FX1 System prior to release. Less than 5% 
+
+CTChip® FRI biochip failure due to leaky chip 
+
+• 
+
+Customer feedback response time: 100% customer feedbacks/complaints to be acknowledged 
+
+within 7 days 
+
+• 
+
+CAPA response time: CAPA investigation to be completed within 1 month and implementation 
+
+of proposed CAPA actions within 3 months 
+
+• 
+
+Field safety corrective action: To achieve zero product recall 
+
+ 
+
+Biolidics takes product quality and safety seriously. Providing products that meet the required quality 
+
+and safety standards is part of our top priority. By maintaining a high product quality and safety, 
+
+Biolidics also minimises the risk of injury to users and thus, reduces the risk of a product liability claim. 
+
+A product liability lawsuit (which may result in the recall of products or termination of existing 
+
+agreements by business partners) could damage Biolidics’ reputation, operations and financial 
+
+performance. 
+
+We are governed by the policies of ISO 13485: 2016 Quality Management System and the guidelines 
+
+on procedures for the control of records and documents, resource management, product realisation 
+
+and the monitoring of processes. The following processes are monitored by Biolidics: 
+
+▪ 
+
+Annual internal audit; 
+
+▪ 
+
+Engage external auditors to conduct annual audit of quality management system to ensure 
+
+compliance to ISO 13485: 2016; 
+
+▪ 
+
+Annual audits of contract manufacturers; 
+
+▪ 
+
+Supplier evaluations with annual re-assessment done; 
+
+▪ 
+
+Investigation of non-conforming products, and establishing relevant corrective and preventive 
+
+actions; 
+
+▪ 
+
+Quality report log used to track feedback/complaints for products; 
+
+▪ 
+
+Standardised design and development process to evaluate product’s safety and performance; and  
+
+ 
+
+6 The survey conducted for our ISO audit in 2019 was for the review period between 1 June 2018 to 31 March 
+
+2019.   
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+12 
+
+ 
+
+ 
+
+
+
+▪ 
+
+Design and process risk management plans done for all official products under the ISO 13485 
+
+framework. 
+
+Constant quality reporting and CAPA are used to monitor and address any non-conformances of our 
+
+products. Regular management meetings are also conducted to review quality objectives and 
+
+outstanding non-conformance issues. 
+
+Governance 
+
+Maintaining public trust is of utmost priority to any company; and Biolidics is committed to upholding 
+
+high ethical standards and integrity in its operations, complying with all laws and regulations in its 
+
+location of operations. 
+
+Socioeconomic Compliance 
+
+ 
+
+FY2019 Performance 
+
+• 
+
+Zero instance of non-compliance with laws and regulations in the social and economic area 
+
+FY2020 Targets 
+
+• 
+
+Zero non-compliance with laws and regulations in the social and economic area 
+
+• 
+
+Continue to conduct social and economic compliance training for all new hires in FY2020 
+
+ 
+
+Biolidics’ products and business activities are regulated by various laws and regulations governing 
+
+medical devices in the countries it markets and sell its products in. Biolidics is subjected to extensive 
+
+supervision by governments and other agencies in various aspects of our operations, including 
+
+licensing and certification requirements, product registration requirements, quality and safety 
+
+standards, periodic renewal and reassessment procedures. Any breach of applicable laws and 
+
+regulations may cause disruptions to operations and fines in any particular jurisdiction; hence it is 
+
+important for Biolidics to comply with various laws and regulations in the social and economic area.  
+
+Biolidics is committed to providing innovative high-quality biomedical products and services that meet 
+
+or exceed the expectations of its customers. Biolidics aims to do so by: 
+
+• 
+
+Meeting and complying with all regulatory requirements of the countries where the product 
+
+is being sold as per the ISO 13485:2016 requirements; 
+
+• 
+
+Maintaining the effectiveness of our Quality System and Risk Management in line with ISO 
+
+13485:2016 requirements;  
+
+• 
+
+Maintaining a shared quality vision and a focus on continuous improvement to our products, 
+
+processes and services (including delivery); 
+
+• 
+
+Understanding the requirements and meeting the needs of our partners and customers;  
+
+• 
+
+Training employees in the delivery of quality products and services; and 
+
+• 
+
+Providing a competent, ethical and fiscally sound management team to ensure growth and 
+
+long-term stability.  
+
+To ensure that our employees are aware of the relevant regulatory requirements, we have made the 
+
+above activities part of the employee training program.  
+
+
+ 
+
+Sustainability Report 
+
+For the financial year ended 31 December 2019 
+
+ 
+
+13 
+
+ 
+
+ 
+
+
+
+In FY2019, we are proud to report that there were zero instances of non-compliance with laws and 
+
+regulations in the social and economic area. In FY2020, we aim to continue to have zero non-
+
+compliance with laws and regulations in the social and economic area and to continue providing 
+
+socioeconomic compliance training for all new hires.  
+

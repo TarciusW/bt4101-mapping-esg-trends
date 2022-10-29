@@ -1,0 +1,3746 @@
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DYNA-MAC SUSTAINABILITY REPORT 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+2 
+
+CONTENT 
+
+ 
+
+ 
+
+CONTENT ....................................................................................................................... 2 
+
+INTRODUCTION ............................................................................................................. 3 
+
+About Dyna-Mac .......................................................................................................... 3 
+
+BOARD STATEMENT ..................................................................................................... 4 
+
+About the Report.......................................................................................................... 5 
+
+Our Approach .............................................................................................................. 6 
+
+Sustainability Leadership ......................................................................................... 6 
+
+Stakeholder Engagement ......................................................................................... 7 
+
+Materiality Assessment ............................................................................................ 8 
+
+CORPORATE GOVERNANCE ..................................................................................... 10 
+
+OUR PEOPLE ............................................................................................................... 12 
+
+FAIR EMPLOYMENT PRACTICES............................................................................... 13 
+
+HEALTH AND SAFETY ................................................................................................. 15 
+
+ENERGY AND CARBON FOOTPRINT ......................................................................... 23 
+
+WASTE AND EFFLUENTS MANAGEMENT ................................................................ 27 
+
+GRI CONTENT INDEX .................................................................................................. 29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3 
+
+INTRODUCTION 
+
+ 
+
+About Dyna-Mac 
+
+Headquartered in Singapore and listed on the Mainboard of the Singapore 
+
+Exchange, Dyna-Mac Holdings Ltd. and its subsidiaries (“Dyna-Mac” or 
+
+“Group”) is a global leader in the detailed engineering, fabrication and 
+
+construction of offshore floating production storage offloading (FPSO) and 
+
+floating storage offloading (FSO) topside modules as well as onshore plants 
+
+and other sub-sea products for the oil and gas industries. 
+
+ 
+
+Corporate Vision &amp; Mission 
+
+A global leader in providing reliable, affordable products and services of unsurpassed 
+
+quality for the oil &amp; gas industries. 
+
+We will achieve this by upholding the highest levels of quality, safety, reliability and 
+
+service excellence. 
+
+ 
+
+Corporate Core Values 
+
+Our core values support the vision, shape the culture and chart the direction of the Group. 
+
+Putting these values into practice creates benefits for customers, employees, partners 
+
+and the communities we serve. 
+
+• 
+
+Integrity 
+
+• 
+
+Customer Focus 
+
+• 
+
+People Development 
+
+• 
+
+Health, Safety and Environment 
+
+• 
+
+Positive Attitude 
+
+• 
+
+Teamwork 
+
+ 
+
+ 
+
+ 
+
+
+
+
+4 
+
+BOARD STATEMENT 
+
+ 
+
+At Dyna-Mac, sustainability means building businesses that deliver long-
+
+term shareholder value and growth. In order to achieve this, we aim to adopt 
+
+a disciplined and accountable approach founded on high standards of 
+
+corporate governance and integrity. 
+
+The Board of Directors (“Board”) incorporates long-term consideration of environmental, 
+
+social and governance (“ESG”) issues when formulating Dyna-Mac’s sustainability 
+
+strategies. In doing so, we strive to create value for our shareholders, as well as 
+
+customers, employees, suppliers, contractors, partners and the communities in which we 
+
+operate in. 
+
+In the process of formulating our sustainability report, the Board recognises the 
+
+importance of sustainability practices and how it can benefit our business operations and 
+
+performance, and oversees the identification of ESG material topics that are pertinent to 
+
+our business and aligns with our long-term business targets.  
+
+Through the development of this report, the Board works closely with the Management 
+
+for the monitoring and management of these ESG material topics.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+5 
+
+About the Report 
+
+Dyna-Mac demonstrates our commitment to sustainability through our inaugural 
+
+sustainability report (“Sustainability Report”) for the period 1 January 2017 to 31 
+
+December 2017 (“FY2017”). The report focuses on our sustainability strategies and 
+
+covers our ESG performance across our operations in Singapore for FY2017 with prior 
+
+year ended 31 December 2016 (“FY2016”) performance included for comparison, where 
+
+possible. It aims to provide an overview of our approach, performance and targets for our 
+
+key sustainability areas. 
+
+The report is based on the principles and requirements in the Sustainability Reporting 
+
+Guide of the Singapore Exchange Securities Limited (“SGX-ST”) and has been prepared 
+
+in accordance with the Global Reporting Initiative Standards: Core option.  
+
+This Sustainability Report, containing the primary components as set out in Rule 711B, 
+
+is issued with the approval of the Board. 
+
+ 
+
+In line with the Company’s commitment to environmental sustainability, no hardcopies of 
+
+this report have been printed. The report can be viewed on our website: http://www.dyna-
+
+mac.com/sustainability/sustainability-reports/. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+6 
+
+Our Approach 
+
+ 
+
+Sustainability Leadership 
+
+At Dyna-Mac, sustainability leadership starts with a tone at the top. We 
+
+believe that every individual in Dyna-Mac plays an important role in ensuring 
+
+that sustainability is embedded deeply within everything we do. To that end, 
+
+we have taken steps to put in place a systematic monitoring and reporting 
+
+process. 
+
+We are committed to conduct our business in a responsible and sustainable manner. A 
+
+Sustainability Steering Committee comprising senior management was set up to drive 
+
+sustainability efforts within the Group. It is supported by a Sustainability Working 
+
+Committee comprising the various heads of department who gather and verify the 
+
+performance data, as well as introduce initiatives to drive the management of our material 
+
+issues. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Summary of Roles &amp; Responsibilities 
+
+Board of Directors 
+
+Sustainability Steering 
+
+Committee  
+
+(Senior Management) (“SSC”) 
+
+Sustainability Working 
+
+Committee 
+
+(Heads of Departments) (“SWC”) 
+
+ 
+
+• Ultimate accountability for integration 
+
+of sustainability within Dyna-Mac, 
+
+setting tone at the top 
+
+ 
+
+• Oversees 
+
+sustainability 
+
+matters, 
+
+strategies and performance 
+
+ 
+
+Departments 
+
+(Employees &amp; Workers) 
+
+• Advises and supports the Board on 
+
+sustainability matters, strategies and 
+
+policies  
+
+ 
+
+• Overall management and monitoring 
+
+of sustainability performance and 
+
+targets 
+
+ 
+
+• Reports sustainability performance to 
+
+SSC 
+
+ 
+
+• Communicates and provides training 
+
+on 
+
+sustainability, 
+
+policies 
+
+and 
+
+initiatives to each department 
+
+• Reports 
+
+department 
+
+sustainability 
+
+performance to SWC 
+
+ 
+
+• Implement sustainability initiatives 
+
+and 
+
+provide 
+
+feedback 
+
+on 
+
+improvements 
+
+ 
+
+
+7 
+
+Stakeholder Engagement 
+
+Dyna-Mac constantly strives to create value for all our stakeholders. Regular engagement is critical for us to understand 
+
+their needs and key concerns so that we can work towards addressing them.  
+
+Effective stakeholder engagement is critical to ensuring Dyna-Mac’s continued success as it allows us to be responsive to their evolving needs. We 
+
+interact with them regularly and a summary of their key interests and the Company’s engagement approach are presented in the table below. 
+
+Dyna-Mac’s Stakeholder Engagement 
+
+Key Stakeholder Groups 
+
+How we engage them? 
+
+ 
+
+ 
+
+What are their key concerns? 
+
+Employees 
+
+• 
+
+Meetings, calls and conferences 
+
+• 
+
+Interviews and surveys 
+
+• 
+
+Trainings and courses 
+
+• 
+
+Newsletters and campaigns 
+
+• 
+
+Policies and procedures 
+
+• 
+
+Appreciation dinners and other festive events 
+
+• 
+
+Vision, strategy and direction 
+
+• 
+
+Training and development 
+
+• 
+
+Occupational health and safety 
+
+• 
+
+Equal opportunities 
+
+• 
+
+Fair remuneration and progression 
+
+• 
+
+Job stability 
+
+Customers 
+
+• 
+
+Meetings, calls and conferences 
+
+• 
+
+Site visits 
+
+• 
+
+Feedbacks channels 
+
+• 
+
+Product and service quality 
+
+• 
+
+Innovation 
+
+• 
+
+Occupational health and safety 
+
+Investors 
+
+• 
+
+Dedicated Investor Relations 
+
+• 
+
+Annual General Meetings, meetings, calls, conferences 
+
+• 
+
+Annual Reports 
+
+• 
+
+Financial information, SGX announcements and circulars 
+
+• 
+
+Corporate website 
+
+• 
+
+Vision, strategy and direction 
+
+• 
+
+Economic performance 
+
+• 
+
+Corporate governance 
+
+Vendors 
+
+• 
+
+Meetings, calls and conferences 
+
+• 
+
+Interview and surveys 
+
+• 
+
+Site visits 
+
+• 
+
+Trainings and courses 
+
+• 
+
+Occupational health and safety 
+
+• 
+
+Corporate governance 
+
+• 
+
+Compliance 
+
+ 
+
+Communities 
+
+• 
+
+Corporate website 
+
+• 
+
+Annual Reports 
+
+• 
+
+SGX announcements 
+
+• 
+
+Community involvement activities 
+
+• 
+
+Social responsibility and impact 
+
+• 
+
+Environmental impact (Air, Water, Waste, Noise etc.) 
+
+Government and Regulators 
+
+• 
+
+Meetings, calls and briefings 
+
+• 
+
+Site visits 
+
+• 
+
+Industry networking functions 
+
+• 
+
+Corporate governance 
+
+• 
+
+Compliance 
+
+• 
+
+Socioeconomic, environmental impact 
+
+• 
+
+Business collaboration and investment 
+
+• 
+
+Sharing of industry best practices 
+
+
+8 
+
+Materiality Assessment 
+
+Prioritising sustainability topics is a critical process for us as it sets out the 
+
+areas that we must focus on as an organisation. It also enables us to 
+
+systematically report on matters that impact Dyna-Mac and its 
+
+stakeholders most. To do that, our Sustainability Steering Committee 
+
+embarked on a formalised Materiality Assessment process in 2017.  
+
+In 2017, a materiality assessment workshop was held to identify significant 
+
+sustainability matters that impact our business activities and its external stakeholders. 
+
+Arising from the exercise, the Board and Management determined five key 
+
+sustainability matters to be of highest priority to the Group’s sustainability risks and 
+
+opportunities and the Board is satisfied with the relevance of the selected matters to 
+
+its business strategy and performance. 
+
+ 
+
+A 
+
+Identification and 
+
+Analysis 
+
+B 
+
+Evaluation and 
+
+Prioritisation 
+
+C 
+
+Validation and 
+
+Assimilation 
+
+We 
+
+work 
+
+closely 
+
+with 
+
+an 
+
+independent 
+
+team 
+
+of 
+
+sustainability consultants on a 
+
+list of potential sustainability 
+
+matters identified through: 
+
+ 
+
+• 
+
+Analysis of trends and 
+
+developments pertinent to 
+
+Dyna-Mac and the industry 
+
+it operates in 
+
+ 
+
+• 
+
+Analysis 
+
+of 
+
+commonly 
+
+reported 
+
+sustainability 
+
+matters 
+
+amongst 
+
+Dyna-
+
+Mac’s peer groups and 
+
+leading 
+
+reporters 
+
+in 
+
+Singapore 
+
+ 
+
+• 
+
+Internal 
+
+stakeholder 
+
+interviews and focus group 
+
+discussions with members 
+
+of 
+
+our 
+
+Sustainability 
+
+Steering Committee 
+
+ 
+
+Members of our Sustainability 
+
+Steering Committee individually 
+
+evaluated the list of potential 
+
+sustainability 
+
+matters 
+
+and 
+
+participated in a formalised 
+
+Materiality 
+
+Assessment 
+
+workshop.  
+
+An 
+
+anonymous 
+
+electronic 
+
+voting exercise was conducted 
+
+to prioritise the sustainability 
+
+matters 
+
+that 
+
+are 
+
+deemed 
+
+significant to both Dyna-Mac 
+
+and its external stakeholders. 
+
+ 
+
+Our 
+
+Sustainability 
+
+Steering 
+
+Committee 
+
+reviewed 
+
+Dyna-
+
+Mac’s Materiality Matrix and 
+
+selected 5 key sustainability 
+
+matters ranked as significant to 
+
+both Dyna-Mac and its external 
+
+stakeholders, for reporting. 
+
+The process and the results 
+
+were presented to Dyna-Mac’s 
+
+Board of Directors for their 
+
+validation and approval. 
+
+ 
+
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No. 
+
+Material Sustainability Matter 
+
+Category 
+
+Mapped GRI Standards Topics 
+
+1 
+
+Corporate governance 
+
+Governance 
+
+GRI 102: General Disclosure 
+
+(Governance) 
+
+GRI 307: Environmental Compliance 
+
+GRI 419: Socioeconomic Compliance 
+
+GRI 205: Anti-Corruption 
+
+2 
+
+Fair employment practices 
+
+Social 
+
+GRI 401: Employment 
+
+GRI 404: Training and Education 
+
+GRI 406: Non-discrimination 
+
+3 
+
+Health and safety 
+
+Social 
+
+GRI 403: Occupational Health and Safety 
+
+4 
+
+Energy and carbon footprint 
+
+Environment 
+
+GRI 302: Energy 
+
+GRI 305: Emissions 
+
+5 
+
+Waste and effluents 
+
+management 
+
+Environment 
+
+GRI 306: Effluent and Waste 
+
+
+
+
+10 
+
+CORPORATE GOVERNANCE 
+
+ 
+
+At Dyna-Mac, we are committed to conducting our business ethically and 
+
+in compliance with all applicable legal and industry requirements. We are 
+
+guided by our Vision, Core Values and Code of Conduct that have been 
+
+implemented to govern the actions and behaviours of our employees. 
+
+We are committed to a high standard of corporate governance to ensure sustainable 
+
+growth to safeguard the interest of our shareholders and stakeholders. Through 
+
+effective corporate practices and policies, we are able to protect and enhance the 
+
+interests of our shareholders and ensure the collective long-term success of the 
+
+Group. 
+
+ 
+
+Throughout FY2017, we continued to adhere to the principles and guidelines set out 
+
+in the Code of Corporate Governance 2012. The corporate governance processes and 
+
+practices adopted by the Group can be found in the Corporate Governance Report on 
+
+pages 20 to 30 of the Annual Report 2017. In 2017, there were no incidences of non-
+
+compliance to legal and regulatory requirements resulting in significant fines or 
+
+sanctions. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Code of Conduct 
+
+►
+
+Rules and guidance on how employees 
+
+of 
+
+Dyna-Mac 
+
+should 
+
+conduct 
+
+themselves professionally to uphold our 
+
+reputation. 
+
+ 
+
+Anti-Corruption / Anti-Bribery / 
+
+Gifts, Hospitality and 
+
+Entertainment Policy 
+
+►
+
+Rules and guidance for employees to 
+
+follow in situations of doubt and enable 
+
+the right decisions to be made to avoid 
+
+cases of bribery or corruption. 
+
+ 
+
+Whistle-blowing Policy 
+
+►
+
+Processes 
+
+and 
+
+procedures 
+
+for 
+
+stakeholders to report incidences of 
+
+wrongdoing without fear of reprisal, 
+
+discrimination or other consequences. 
+
+ 
+
+
+
+            Relevant Policies 
+
+
+
+
+
+            Relevant Practices 
+
+
+
+Communication 
+
+►
+
+All new employees are made aware of our 
+
+Code of Conduct and other corporate 
+
+policies. Refresher trainings and courses 
+
+are conducted periodically  for employees. 
+
+ 
+
+Regulatory Compliance 
+
+►
+
+We strive towards full compliance with all 
+
+applicable laws and regulations and work 
+
+closely with government agencies and 
+
+regulators (e.g. National Environment 
+
+Agency, Singapore Civil Defence Force, 
+
+Maritime and Port Authority of Singapore, 
+
+Ministry of Manpower). 
+
+ 
+
+
+
+
+11 
+
+Risk Management 
+
+ 
+
+The Group believes that risk management is an integral part of good corporate 
+
+governance and has in place an Enterprise Risk Management Framework to manage 
+
+its risk exposure. We have conducted an Enterprise Strategy and Risk Assessment 
+
+Exercise to identify, filter, assess and compile our enterprise strategies and key risks, 
+
+as well as to assess our general control environment. Through this exercise, the 
+
+Management works closely with the Board to better align, manage and increase Dyna-
+
+Mac’s resilience to emerging scenarios and environments. 
+
+ 
+
+For more information on Corporate Governance, please refer to our Annual Report 
+
+2017, available online at http://investor.dyna-mac.com/ar.html. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+12 
+
+OUR PEOPLE 
+
+ 
+
+Our people come from different beginnings. As at the end of 2017, we 
+
+have 611 employees in Singapore. Of these, 88% were males and 12% 
+
+were females.  
+
+Employee Profile1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 For the purposes of this Sustainability Report, employee data and information relates to Dyna-Mac’s operations in Singapore only. 
+
+12%
+
+88%
+
+2017
+
+Total Employees, by 
+
+Gender
+
+Female
+
+Male
+
+30%
+
+54%
+
+14%
+
+2%
+
+2017
+
+Total Employees, by 
+
+Age Group
+
+16 to 30
+
+31 to 45
+
+46 to 60
+
+61 &amp; above
+
+59%
+
+33%
+
+7%
+
+1%
+
+2017
+
+Total Employees, by 
+
+Employment Category
+
+Senior Management
+
+Managerial
+
+Executive
+
+Non-Executive/Workers
+
+
+13 
+
+FAIR EMPLOYMENT PRACTICES 
+
+ 
+
+Our employees and workers are the heart of our business operations. We 
+
+recruit and reward our people on a meritocratic basis and advocate an 
+
+inclusive workplace built on mutual respect and trust. 
+
+We believe that building a diverse and inclusive work environment is increasingly 
+
+important to boost the morale and productivity of our employees. We value our 
+
+employees and are committed to human resource policies that help us attract, retain 
+
+and grow talent. Equality and meritocracy are values that impact employee satisfaction 
+
+and retention, and ultimately achieving sustained value creation for our stakeholders.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Tripartite Alliance for Fair and 
+
+Progressive Employment 
+
+Practices (TAFEP) 
+
+As a signatory under TAFEP, our human 
+
+resource (HR) policies mirror that of the 5 
+
+Principles of Fair Employment Practices set 
+
+out in TAFEP: 
+
+a.
+
+Recruit and select on the basis of merit 
+
+(such as skills, experience or ability to 
+
+perform the job) regardless of age, race, 
+
+gender, religion, marital status and 
+
+family responsibilities, or disability. 
+
+ 
+
+b.
+
+Treat your employees fairly and with 
+
+respect and put in place progressive 
+
+human resource management systems. 
+
+ 
+
+c.
+
+Provide 
+
+employees 
+
+with 
+
+equal 
+
+opportunities to be considered for 
+
+training and development based on 
+
+their strengths and needs, to help them 
+
+achieve their full potential. 
+
+ 
+
+d.
+
+Reward your employees fairly based on 
+
+their ability, performance, contribution 
+
+and experience. 
+
+ 
+
+e.
+
+Comply with the labour laws and abide 
+
+by the Tripartite Guidelines on Fair 
+
+Employment Practices. 
+
+ 
+
+
+
+            Relevant Policies 
+
+
+
+
+
+            Relevant Practices 
+
+
+
+Employment Benefits 
+
+►
+
+We offer a range of employment benefits 
+
+for our employees. This comprises leave-
+
+related benefits, medical and insurance 
+
+benefits, etc. 
+
+ 
+
+Employee Welfare 
+
+►
+
+We engage with our employees and 
+
+provide various platforms for team bonding 
+
+during the year. This includes luncheons, 
+
+festive celebrations, staff appreciation and 
+
+recognition awards, etc. 
+
+ 
+
+Grievance Mechanism for 
+
+Employees 
+
+►
+
+Processes and procedures for employees 
+
+to report incidences without fear of 
+
+reprisal, 
+
+discrimination 
+
+or 
+
+other 
+
+consequences. 
+
+ 
+
+ 
+
+
+
+
+14 
+
+Talent Retention, Development and Diversity 
+
+ 
+
+We are committed to developing a competent, diverse and engaged workforce that 
+
+will deliver product quality and service excellence. This is supported by our Code of 
+
+Conduct, which sets the tone of the Company’s stance against discrimination on any 
+
+basis, including ethnicity, nationality, gender, religious beliefs, or age.  
+
+ 
+
+Dyna-Mac is also a signatory to the Tripartite Alliance for Fair Employment Practices 
+
+(TAFEP). Our human resource policies mirror the five principles of fair employment 
+
+practices set out in TAFEP to provide equal employment opportunities and all our 
+
+employees receive performance appraisals and career development reviews annually. 
+
+Our employee retention strategy focuses on career development, employee welfare 
+
+and employee engagement.  We have in place a grievance mechanism for employees 
+
+to report incidences without fear of reprisal, discrimination or other consequences.  
+
+Due to the nature of our business and the manpower requirements of our projects in 
+
+FY2017, our voluntary attrition rate was 19%, which is below the national industry 
+
+average of 21.6%2, reflecting that the strategies we have in place are supportive of 
+
+retaining employees. 
+
+ 
+
+ 
+
+Headcount 
+
+No. of New 
+
+Hires 
+
+New Hire 
+
+Rate 
+
+No. of 
+
+Voluntary 
+
+Attrition 
+
+Voluntary 
+
+Attrition 
+
+Rate 
+
+Breakdown by Gender 
+
+ 
+
+ 
+
+ 
+
+Female 
+
+75 
+
+22 
+
+29% 
+
+16 
+
+21% 
+
+Male 
+
+536 
+
+132 
+
+25% 
+
+103 
+
+19% 
+
+Total 
+
+611 
+
+154 
+
+25% 
+
+119 
+
+19% 
+
+Breakdown by Age Group 
+
+ 
+
+ 
+
+ 
+
+16 to 30 
+
+185 
+
+68 
+
+37% 
+
+50 
+
+27% 
+
+31 to 45 
+
+333 
+
+61 
+
+18% 
+
+60 
+
+18% 
+
+46 to 60 
+
+83 
+
+23 
+
+28% 
+
+9 
+
+11% 
+
+61 &amp; above 
+
+10 
+
+2 
+
+20% 
+
+0 
+
+0% 
+
+Total 
+
+611 
+
+154 
+
+25% 
+
+119 
+
+19% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 Ministry of Manpower, Labour Market Report 2017 
+
+
+15 
+
+Dyna-Mac also provides opportunities for employees to develop and refine their skills 
+
+and knowledge. Our employees receive regular or ad-hoc training, depending on the 
+
+skills enhancement that is required and all new staff are required to attend an 
+
+orientation programme that provides guidance on our policies and practices. 
+
+ 
+
+In FY2017, our employees received a total of 2,7993 training hours with an annual 
+
+average of 4.6 hours for males and 4.2 hours for females. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 The training hours exclude in-house safety training courses conducted. 
+
+Average Training Hours, by Gender 
+
+4.6
+
+4.2
+
+2017
+
+Average Training Hours (hrs)
+
+Male
+
+Female
+
+
+16 
+
+HEALTH AND SAFETY 
+
+ 
+
+Dyna-Mac is committed to ensuring an excellent safety and health culture 
+
+among all at all times. To achieve this, we strive to provide a safe and 
+
+conducive work environment for our employees, customers and 
+
+subcontractors by instilling a culture of pro-active individual involvement, 
+
+personal accountability and continuous improvement. 
+
+Health and safety is a key business challenge and risk in our industry. Upholding good 
+
+safety standards is paramount in protecting our employees from harm and boosting 
+
+our stakeholders’ confidence in our organisation and we have implemented measures 
+
+for the improvement of health and safety performance. These measures include 
+
+requiring all new employees to attend a safety induction training as part of their 
+
+orientation programme, and raising awareness through exhibitions and emergency 
+
+drills. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Occupational Health and Safety (OHS) Policy 
+
+Dyna-Mac is fully committed to: 
+
+ 
+
+1.
+
+Ensure a high level of personnnel safety and safe working environment. 
+
+ 
+
+2.
+
+Achieve continual improvement in OHS Management System and performance. 
+
+ 
+
+3.
+
+Comply with applicable legal and other requirements for the prevention on injury and ill-
+
+health. 
+
+ 
+
+4.
+
+Implement risk management and provide sufficient and appropriate resources to support its 
+
+implementation. 
+
+ 
+
+5.
+
+Stop all unsafe action and condition. 
+
+ 
+
+6.
+
+Communicate to all persons on their individual OHS obligations. 
+
+ 
+
+7.
+
+Ensure the availability of this policy to all interested parties. 
+
+ 
+
+
+
+            Relevant Policies 
+
+
+
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Workplace Health and Safety Framework 
+
+
+
+ 
+
+Dyna-Mac subscribes to the National Workplace Safety and Health 2017 vision and strategy co-drafted 
+
+by the WSH Council and the Ministry of Manpower in Singapore. To achieve this, we have a framework 
+
+comprising 3 strategic thrusts, supported by an annual work plan to manage key safety risks.  
+
+ 
+
+ 
+
+Fitness to Work Policy 
+
+ 
+
+•
+
+Dyna-Mac is committed to protecting workers from harm and provides health benefits, 
+
+conducts pre-employment and periodic medical / clinical examinations for symptoms of 
+
+exposure to workplace hazards. 
+
+ 
+
+ 
+
+Control of Work Policy 
+
+ 
+
+•
+
+Dyna-Mac is committed to control all activities at the workplace in a safe manner by managing 
+
+all risks, assessing and providing control measures, and implementing safe work procedures 
+
+to hazardous activities and ensure communication to all concerned. 
+
+ 
+
+
+
+            Relevant Policies (cont’d.) 
+
+
+
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+            Relevant Practices 
+
+
+
+Health, Safety, Environment Management System (HSEMS) 
+
+►
+
+Our HSEMS, as detailed in our Occupational Health, Safety &amp; Environment Manual (OHSEM), is 
+
+established, implemented and maintained through various levels of authority. Underpinned by our OHS 
+
+Policy and Environmental Policy, the OHSEM contains 25 elements. We audit annually the 
+
+effectiveness of our system and objectives are set for continuous improvement and relevance to 
+
+regulations. Our HSEMS is in conformance with the requirements set forth by OHSAS18001:2007. 
+
+ 
+
+As we are seeking to be ISO14001-certified, we are presently performing an internal ISO14001 Gap 
+
+Analysis Audit to assess our progress. 
+
+ 
+
+Awareness and Training 
+
+15 Life Saving Rules (LSR) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Corridor 
+
+
+
+ 
+
+
+
+Our 15 LSRs seek to raise awareness of 
+
+hazardous activities at the workplace and 
+
+encourage 
+
+individuals 
+
+to 
+
+protect 
+
+themselves 
+
+and 
+
+others 
+
+by 
+
+active 
+
+participation and intervention. Compliance 
+
+with these rules is mandatory while 
+
+working in our  premises. 
+
+o 
+
+To enhance the safety awareness at the yard, we 
+
+have set up a Safety Corridor at the entrance 
+
+where workers pass by every day. The corridor 
+
+showcases the 15 LSRs and pictorial step-by-
+
+step guides detailed in Dyna-Mac’s Standard 
+
+Work 
+
+Procedures 
+
+(SWPs) 
+
+for 
+
+ease 
+
+of 
+
+understanding. For example, some of our SWPs 
+
+include:  
+
+o 
+
+Hot work 
+
+o 
+
+Grit blasting 
+
+o 
+
+Lock out tag out 
+
+o 
+
+Handling storage of chemical 
+
+o 
+
+Radiography 
+
+o 
+
+Working at height 
+
+o 
+
+Hand and powered tools 
+
+ 
+
+ 
+
+
+
+
+19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ Relevant Practices (cont’d.) 
+
+
+
+Embedded Health and Safety Culture 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Partnerships with Stakeholders 
+
+►
+
+We encourage collaboration with our clients on HSE matters. This includes inviting them to attend our 
+
+safety committee meetings and management walkabouts to look out for areas for improvement. All in 
+
+all, we seek to foster a knowledge-sharing relationship towards continuous improvements. 
+
+ 
+
+
+
+HSE messages are embedded in our daily operations. Mandatory briefings and toolbox talks are 
+
+conducted before activities are performed. For high-risk activities, workers are provided with 
+
+demonstrations and practical training. 
+
+ 
+
+
+
+
+20 
+
+ 
+
+Case Study  
+
+Emergency preparedness at Dyna-Mac 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our in-house emergency response team (ERT) is trained to react and respond to any emergency. For the first 
+
+half of 2017, we conducted three successful emergency drills: 
+
+ 
+
+1.  Initial structure collapse rescue drill (January) for project Culzean FSO 
+
+ 
+
+2.  Yard fire-fighting and rescue drill (March) conducted to demonstrate effective fire suppression 
+
+procedures for acetylene cylinder gas fire 
+
+ 
+
+3.  Fire and rescue drill (July) to demonstrate swift and efficient effort in emergency situation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+21 
+
+In 2017, a total of 601 employees, 1,838 contractors and 699 visitors and customers 
+
+underwent safety induction training in our yards in Singapore while 5,189 employee 
+
+participants attended in-house safety training courses covering topics that included 
+
+confined space, hot work, working at height, electrical, lifting, risk management, 
+
+environmental, first aid, health and hygiene, emergency response as well as courses 
+
+directly related to their work environment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+        Targets and Performance 
+
+         Target 
+
+2017 Performance 
+
+Status 
+
+ 
+
+Zero lost time incidents of injuries 
+
+Achieved 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our goal has always been to achieve zero lost time incidents of injuries and remain 
+
+accident free. Dyna-Mac is pleased to report that we have achieved our target in 
+
+FY2017. 
+
+ 
+
+
+
+
+
+
+22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+23 
+
+ENERGY AND CARBON FOOTPRINT 
+
+ 
+
+At Dyna-Mac, we recognise that our business operations have an impact 
+
+on the environment. We are committed towards environmental protection 
+
+and constantly work towards minimising our environmental impact to 
+
+ensure sustainable business development. We strive towards operating 
+
+in a sustainable manner so that we can continue delivering quality service 
+
+and products to our clients. Within Dyna-Mac, we have a core focus in 
+
+nurturing a culture of environmental consciousness among our 
+
+employees, partners, clients and the communities we operate in. 
+
+ 
+
+Managing our energy consumption and carbon emissions is a key focus area for Dyna-
+
+Mac and we have implemented several good practices to reduce energy consumption. 
+
+The health of our planet is important for the quality of life and survival of all 
+
+stakeholders and future generations to come. The environment is also a critical 
+
+external force that impacts our business decisions and operations. At Dyna-Mac, 
+
+energy consumed is mainly fuel and electricity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Environment Policy 
+
+Dyna-Mac is fully committed to: 
+
+ 
+
+1.
+
+Ensure the prevention of any pollution including noise pollution. 
+
+ 
+
+2.
+
+Protect the environment and all persons working under the control of the organisation. 
+
+ 
+
+3.
+
+Achieve continual improvement in environmental management and its performance. 
+
+ 
+
+4.
+
+Comply with all applicable legislations and other environmental requirements to which the 
+
+organisation subscribes and relating to its environmental aspects. 
+
+
+
+            Relevant Policy 
+
+
+
+
+24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+            Relevant Practices 
+
+
+
+Environmental Risk Identification 
+
+►
+
+Energy use and carbon emissions is a key aspect in our environmental risk identification. We  
+
+regularly assess our environmental impact based on significance, likelihood and consequence, and 
+
+our controls and practices are designed to minimise our impact. 
+
+ 
+
+Energy Reduction Initiatives 
+
+Dyna-Mac is committed to reducing its energy consumption and carbon footprint. Our initiatives 
+
+currently include the use of: 
+
+►
+
+Inverter type welding machine – 90% of our welding machines are inverter type DC welding 
+
+machines and this translates to 50% savings in energy consumption per set compared to AC 
+
+welding machines. 
+
+ 
+
+►
+
+Electric forklifts – all our forklifts used indoors are electric and this translates to 10 Litre/Hour of 
+
+diesel usage reduction. 
+
+ 
+
+►
+
+Electric compressors – all compressors in Dyna-Mac premises in Gul Road are electric and this 
+
+translates to 156 Litre/Hour of diesel usage reduction. 
+
+ 
+
+►
+
+LED lighting in premises – Dyna-Mac is currently in the process of changing lights on our premises 
+
+to LED lightings, which will translate into approximately 75% reduction in energy consumption. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+25 
+
+Fuel consumption 
+
+Fuel consumption was mainly in the form of diesel oil used to operate Dyna-Mac’s 
+
+vehicles and machinery. During FY2017, a total of 2.9 TJ of direct energy was 
+
+consumed which directly translates to 220.0 tonnes of CO2 emitted.4 The decrease by 
+
+86.9% from FY2016 levels was due to a decrease in business activities in FY2017 and 
+
+as a result of Dyna-Mac’s energy reduction initiatives. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 Scope 1 GHG emissions are emissions from sources that are owned or controlled by the organisation. In the scope of reporting, this relates to 
+
+diesel oil consumed and it is expressed in tonnes of CO2. 
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+2016
+
+2017
+
+Direct Energy Consumption (TJ)
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+1,600
+
+1,800
+
+2016
+
+2017
+
+7
+
+Direct (Scope 1) GHG Emissions (tonnes CO2)
+
+1,675.5
+
+220.0
+
+22.6                2.9 
+
+ 
+
+ 
+
+
+26 
+
+Electricity consumption 
+
+In FY2017, Dyna-Mac’s total electrical energy consumption decreased by 54.2% to 
+
+3.74 MWh compared to 8.2 MWh in FY2016, corresponding to a decrease in CO2 
+
+emitted to 1,569.9 tonnes of CO2.5 This is due to a decrease in business activities in 
+
+FY2017. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 Scope 2 GHG emissions are emissions that result from the generation of purchased or acquired electricity, heating, cooling, and steam consumed 
+
+by the organisation. In the scope of reporting, this only relates to purchased electricity and is expressed in tonnes of CO2. In Singapore, the emission 
+
+factor used is the grid emission factors for 2017 which is the latest estimate, obtained from “2017 Singapore Energy Statistics” published by the 
+
+Energy Market Authority of Singapore in 2017. 
+
+0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+3,000
+
+3,500
+
+4,000
+
+2016
+
+2017
+
+
+
+Energy Indirect (Scope 2) GHG Emissions (tonnes CO2) 
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+7
+
+8
+
+9
+
+2016
+
+2017
+
+8.2
+
+3.7
+
+1,569.9 
+
+
+
+Electrical Energy Consumption (MWh) 
+
+3,429.6 
+
+
+27 
+
+WASTE AND EFFLUENTS MANAGEMENT 
+
+ 
+
+We recognise that proper waste management is crucial for us to protect the 
+
+environment and for the health and safety of the communities we operate in. Managing 
+
+the proper disposal of waste is especially important for our industry. In shifting towards 
+
+the adoption of the 3Rs (Reduce, Reuse, Recycle), we are also able to reap cost 
+
+savings for our business. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Environmental Protection Procedure 
+
+As set out in our OHSEM, we focus on three aspects: 
+
+Minimising Waste 
+
+Control of Dangerous and 
+
+Harmful Materials 
+
+Disposal Modes 
+
+All 
+
+staff 
+
+– 
+
+ranging 
+
+from 
+
+procurement, 
+
+planning 
+
+and 
+
+stores, are encouraged to cut 
+
+down on the amount of waste 
+
+generated 
+
+during 
+
+our 
+
+operations. 
+
+This 
+
+includes 
+
+returning excess quantities of 
+
+products for future use. 
+
+All staff are trained to be 
+
+familiar 
+
+with 
+
+hazardous 
+
+materials 
+
+and 
+
+undertake 
+
+precautions to safeguard the 
+
+environment.  
+
+Our Standard Work Procedures 
+
+(SWPs) set out the procedures 
+
+for disposing waste at Dyna-
+
+Mac. These include disposal 
+
+modes for: 
+
+• 
+
+Scrap Metal 
+
+• 
+
+General Rubbish 
+
+• 
+
+Waste Wood 
+
+• 
+
+Blasting Grit  
+
+• 
+
+Hydro test Water/ 
+
+Corrosion Inhibitors 
+
+• 
+
+Acids, Corrosives and 
+
+Other Dangerous 
+
+Substance 
+
+• 
+
+Paints and Solvents 
+
+• 
+
+Ionising Radiations 
+
+• 
+
+Oil &amp; Hydraulic Fluids 
+
+• 
+
+Waste Segregation 
+
+ 
+
+Waste and Resource Management Initiatives 
+
+Dyna-Mac is committed to prudent waste and resource management.  Our initiatives currently include 
+
+the use of: 
+
+► Waste segregation and recycling programme 
+
+► Control and monitoring of welding consumables 
+
+► Control and monitoring of chemical usage 
+
+► Standard Work Procedures (SWPs) for welding to minimise re-work 
+
+► SWPs for blasting to minimise air pollution and enable controlled collection of dust 
+
+► Expended electrode to be returned to store for recycling and in exchange of new electrode 
+
+► Diesel storage facility has a dip tray to collect residues and leakages during fuel transfer 
+
+► Used chemical/contaminated water to be collected and sent to licensed waste management 
+
+contractor for disposal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+            Relevant Practices 
+
+
+
+
+28 
+
+        Targets and Performance 
+
+         Target 
+
+2017 Performance 
+
+Status 
+
+ 
+
+By 2017, achieve a scrap margin of 
+
+below 15%. 
+
+ 
+
+Achieved 
+
+ 
+
+Waste mainly relates to general waste and scrap metal. In FY2017, a total of 803.1 
+
+tonnes of non-hazardous waste was disposed. Due to a decrease in business activities 
+
+during the year and as a result of Dyna-Mac’s waste reduction initiatives, we have 
+
+achieved a 65% decrease of total waste disposed from FY2016 levels. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+32.8%
+
+38.4%
+
+67.2%
+
+61.6%
+
+0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+2016
+
+2017
+
+Weight of waste (tonnes)
+
+Non-hazardous waste disposed,
+
+by disposal methods
+
+Recycling
+
+Incineration
+
+2,294.6
+
+803.1
+
+
+
+
+29 
+
+GRI CONTENT INDEX 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRI Standards Disclosures 
+
+Reference(s) or Reasons for Omission (if applicable) 
+
+General Disclosures 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation 
+
+SR: p3 
+
+102-2 
+
+Activities, brands, products, and services 
+
+SR: p3 
+
+AR: p102-103 
+
+102-3 
+
+Location of headquarters 
+
+SR: p3 
+
+102-4 
+
+Location of operations 
+
+SR: p3 
+
+AR: p1 
+
+102-5 
+
+Ownership and legal form 
+
+AR: p2, 37 
+
+102-6 
+
+Markets served 
+
+AR: p1, 102-103 
+
+102-7 
+
+Scale of the organisation 
+
+SR: p13 
+
+AR: p10, 32  
+
+102-8 
+
+Information on employees and other workers 
+
+SR: p13 
+
+102-10 
+
+Significant changes to the organisation and its supply 
+
+chain 
+
+AR: p6-8, 11 
+
+102-11 
+
+Precautionary principle or approach 
+
+SR: p12 
+
+AR: p25-27 
+
+102-12 
+
+External initiatives 
+
+SR: p14 
+
+AR: p35 
+
+102-13 
+
+Membership of associations 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+SR: p5 
+
+Ethic and Integrity 
+
+102-16 
+
+Values, principles, standards, and norms of behaviour 
+
+SR: p4 
+
+AR: p1 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+SR: p7 
+
+AR: p12 – 17, 20 - 28 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+SR: p8 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+SR: p8 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+SR: p8 
+
+102-44 
+
+Key topics and concerns raised 
+
+SR: p8 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the consolidated financial 
+
+statements 
+
+AR: p102-103 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+SR: p8-10 
+
+102-47 
+
+List of material topics 
+
+SR: p10 
+
+102-48 
+
+Restatement of information 
+
+Not applicable. 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable. 
+
+102-50 
+
+Reporting period 
+
+SR: p6 
+
+102-51 
+
+Date of most recent report 
+
+Not applicable. 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+http://www.dyna-mac.com/contact-us 
+
+102-54 
+
+Claims of reporting in accordance with the GRI 
+
+Standards 
+
+SR: p6 
+
+102-55 
+
+GRI content index 
+
+SR: p30-31 
+
+102-56 
+
+External assurance 
+
+External assurance has not been sought for this report. 
+
+
+30 
+
+ 
+
+GRI Standards Disclosures 
+
+ 
+
+Reference(s) or Reasons for Omission (if applicable) 
+
+Material Topic: Corporate Governance 
+
+Management Approach 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+SR: p11-12 
+
+AR: p20-30 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+Topic-specific Disclosures 
+
+205-3 
+
+Confirmed incidents of corruption and actions taken 
+
+SR: p11 
+
+307-1 
+
+Non-compliance with environmental laws and 
+
+regulations 
+
+419-1 
+
+Non-compliance with laws and regulations in the 
+
+social and economic area 
+
+Material Topic: Energy and Carbon Footprint  
+
+Management Approach  
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+SR: p24-27 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+Topic-specific Disclosures 
+
+302-1 
+
+Energy consumption within the organisation 
+
+SR: p24-27 
+
+305-1 
+
+Direct (Scope 1) GHG emissions 
+
+305-2 
+
+Energy indirect (Scope 2) GHG emissions 
+
+Material Topic: Waste and Effluent Management 
+
+Management Approach  
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+SR: p28-29 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+Topic-specific Disclosures 
+
+306-2 
+
+Waste by type and disposal method 
+
+SR: p28-29 
+
+Material Topic: Health and Safety 
+
+Management Approach 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+SR: p17-23 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+Topic-specific Disclosures 
+
+403-2 
+
+Types of injury and rates of injury, occupational 
+
+diseases, lost days, and absenteeism, and number of 
+
+work-related fatalities 
+
+SR: p17-23 
+
+Material Topic: Employment Practices 
+
+Management Approach 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+SR: p14-16 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+Topic-specific Disclosures 
+
+404-1 
+
+Average hours of training per year per employees 
+
+SR: p16 
+
+ 
+
+ 
+

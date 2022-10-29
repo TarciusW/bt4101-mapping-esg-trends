@@ -1,0 +1,9398 @@
+
+SingPost Sustainability Report 2020/21
+
+1
+
+
+
+Sustainability Report
+
+FY 2020/21
+
+STRONGER FOR
+
+THE FUTURE
+
+
+SingPost Sustainability Report 2020/21
+
+2
+
+Corporate 
+
+• Board Statement 
+
+• Sustainability at SingPost at a Glance 
+
+• About the Report
+
+• About SingPost
+
+3
+
+3
+
+4
+
+5
+
+6
+
+Sustainability at SingPost
+
+• Sustainability Governance
+
+• Stakeholder Engagement
+
+• Materiality Assessment
+
+• POST For the Future - Sustainability framework
+
+• Our Response to COVID-19
+
+7
+
+7
+
+8
+
+9
+
+10
+
+11
+
+Operational Excellence
+
+• Our People
+
+• Compliance with Laws and Regulations
+
+• Ethics, Anti-Bribery and Corruption
+
+• Data Security and Privacy
+
+• Business Continuity Planning
+
+20
+
+21
+
+24
+
+27
+
+29
+
+34
+
+Societal Responsibility
+
+• Responsible Supply Chain
+
+• Customer Satisfaction
+
+• Community Investment
+
+37
+
+38
+
+41
+
+46
+
+Appendices
+
+• Energy and GHG Emissions Methodology
+
+• GRI Content Index
+
+52
+
+52
+
+54
+
+Transformational Growth
+
+• Product and Service Innovation
+
+48
+
+49
+
+Planet Positive
+
+• Energy Consumption and Associated 
+
+    Greenhouse Gas Emissions
+
+15
+
+16
+
+Contents
+
+
+SingPost Sustainability Report 2020/21
+
+3
+
+Board Statement
+
+Dear Stakeholders, 
+
+The financial year ended 31 Mar 2021, served as a 
+
+timely reminder that sustainability continues to be a 
+
+focus that needs to be urgently addressed even amidst 
+
+global changes brought about by the unprecedented 
+
+COVID-19 pandemic.
+
+While SingPost's postal and logistics operations 
+
+were affected by global supply chain disruptions, the 
+
+organisation remains proactive on business continuity 
+
+planning and management. Our business continuity 
+
+frameworks allowed us to establish mitigative 
+
+measures promptly, thereby minimising the impact of 
+
+the pandemic on our business. We continue to prioritise 
+
+the health and safety of our stakeholders and have 
+
+implemented management guidelines to ensure that 
+
+all employees across our Group functions and business 
+
+units are able to carry out their duties safely. As a result 
+
+of these efforts, we were able to ensure the continuity 
+
+of our operations in a safe manner.
+
+Recognising the growing importance of Environmental, 
+
+Social and Governance ("ESG") factors that are integral 
+
+to the overall long term viability of the Company, 
+
+SingPost seeks to incorporate ESG considerations 
+
+into its strategies that provide long term benefits to 
+
+all stakeholders. ESG strategy and execution is best 
+
+led from the Board level, so that internal players and 
+
+all stakeholders recognise its importance and impact 
+
+on business practices. Toward this end, a Board 
+
+Sustainability Committee, reporting to the Board of 
+
+Directors, was established in February 2021 to work 
+
+with Management in helping accelerate the Company’s 
+
+ESG transformation and journey.  A dedicated 
+
+Sustainability function was also established to lead and 
+
+coordinate ESG efforts Group-wide. 
+
+On the Environment front, we have progressed in our 
+
+endeavours to reduce energy usage in our operations, 
+
+having completed two phases of the retrofitting of light 
+
+fixtures with LED lamps across all SingPost facilities 
+
+during the financial year; we are also working to install 
+
+solar photovoltaic systems and carrying out chiller 
+
+upgrades and pilot tests with electric vehicles, all in a 
+
+bid to minimise our carbon footprint and impact on the 
+
+environment. We understand the need to evaluate our 
+
+climate risks and opportunities, and will be working on 
+
+scenario-planning to build on our long-term resilience 
+
+to mitigate these risks as we move towards a low 
+
+carbon economy.
+
+From a governance standpoint, we continue to uphold 
+
+the highest levels of business conduct and integrity 
+
+across our operations. To do so, we have rolled out 
+
+new e-learning training modules for our employees 
+
+to increase general compliance knowledge and 
+
+continually instil ethical behaviour in all.
+
+SingPost continues to use our business as a force for 
+
+good through collaborating with like-minded partners 
+
+such as Temasek Foundation and carrying out nation-
+
+wide community initiatives like Masks Sewn with Love, 
+
+to help the vulnerable in our community during these 
+
+periods of uncertainty. 
+
+While SingPost strives to continuously improve upon 
+
+our sustainability efforts and stay relevant in the 
+
+evolving urban logistics and eCommerce landscape, we 
+
+also seek to ensure business resiliency, deliver greater 
+
+value to our stakeholders, and protect the planet for 
+
+future generations. As we ride out the various impacts 
+
+of COVID-19 this year, sustainabiity remains at the 
+
+forefront of everything we do.
+
+We thank all our stakeholders for their continued 
+
+support and look forward to forging new partnerships 
+
+with them as we seek to create solutions that will 
+
+positively impact SingPost, our community and           
+
+the planet.
+
+102-14
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+4
+
+Sustainability at SingPost 
+
+at a Glance 
+
+
+
+102-7
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Completed 
+
+Phases 1 &amp; 2 of LED light 
+
+retrofitting across all 
+
+SingPost buildings
+
+11% decrease in 
+
+Scope 1 greenhouse gas 
+
+(“GHG”) emissions
+
+19% decrease in 
+
+Scope 2 greenhouse gas 
+
+(“GHG”) emissions
+
+Refreshed
+
+uniforms for frontliners
+
+0 cases of corruption 
+
+or unethical behaviour
+
+0 significant fines and 
+
+non-monetary sanctions
+
+Launched
+
+PostPal smart 
+
+letterbox pilot in 
+
+December 2020
+
+Planet Positive
+
+Passed 
+
+IMDA Quality of Service (“QoS”) 
+
+Standards from January to December 
+
+2020
+
+111
+
+post office staff received the EXSA 
+
+award, of which there were 37 Star, 15 
+
+Gold and 59 Silver
+
+S$168,000
+
+raised for Community Chest through 
+
+sale of Asia's first charity stamps
+
+Redesigned 
+
+operational workflows 
+
+for our warehousing and 
+
+fulfilment business
+
+S$1,404.7 mil  
+
+revenue for FY2020/21
+
+S$79.3 mil   
+
+profit on operating 
+
+activities for FY2020/21
+
+Up to 3 million    
+
+mail items a day
+
+17  
+
+markets served in 
+
+FY2020/21
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+5
+
+About the Report
+
+SingPost’s fourth Sustainability Report outlines our commitment 
+
+towards sustainability by highlighting how it has been integrated 
+
+into our management, policies and business operations. The 
+
+main intent is to communicate our sustainability agenda and 
+
+performance for the year to all our stakeholders. For a more 
+
+holistic and detailed overview of SingPost’s financial performance, 
+
+this report should be read in conjunction with SingPost Annual 
+
+Report FY2020/21.
+
+Sustainability reporting is performed on an annual 
+
+basis, with our last report published in August 2020. 
+
+The reporting period of this report covers 1 April 
+
+2020 to 31 March 2021 (“FY2020/21”), with historical 
+
+performance data included for comparison, 
+
+where available. Unless otherwise stated, the 
+
+sustainability data and information presented in this 
+
+report relates to our three key business segments in 
+
+Singapore – Post &amp; Parcel, Logistics and Property. 
+
+We hope to expand our reporting scope to include 
+
+our overseas operations in future, where relevant.
+
+The report is aligned and prepared according to the Global 
+
+Reporting Initiative (“GRI”) Standards: Core Option. We selected 
+
+the GRI Standards for our sustainability reporting framework as 
+
+they are internationally recognised as one of the leading global 
+
+standards in reporting on an organisation's sustainability impacts. 
+
+More information on the GRI Standards disclosures selected for
+
+reporting are provided in the GRI Content Index on Page 54.
+
+SingPost has not sought third-party verification and external 
+
+assurance for all information disclosed and highlighted in this 
+
+report. However, we continue to adopt a phased approach to our 
+
+reporting and will consider seeking external assurance as our 
+
+sustainability reporting matures over time.
+
+This report has been prepared in accordance with the SGX-ST 
+
+Listing Rules 711A and 711B and draws on the guidance set out in 
+
+Practice Note 7.6. 
+
+We seek to continuously improve upon all aspects of our 
+
+sustainability journey, including our approach, processes and 
+
+performance. As such, all feedback from our stakeholders are 
+
+welcome. Please address any comments and feedback you may 
+
+have to csr@singpost.com.
+
+BUSINESS 
+
+SEGMENT
+
+OPERATIONS
+
+Post &amp; Parcel
+
+• Airmail Transit Centre*
+
+• Mail deliveries
+
+• Post Offices
+
+• Regional Delivery Bases*
+
+• SingPost Centre*
+
+   - Corporate Headquarters
+
+   - Data Centre
+
+   - Mail Processing Centre
+
+   - Delivery Base
+
+   - General Post Office
+
+   - Leased retail stores
+
+Logistics
+
+• SingPost Regional eCommerce
+
+   Logistics Hub*
+
+• FPS Global Logistics
+
+• Quantium Solutions
+
+   - Regional eCommerce Logistics Hub
+
+   - 20 Gul Way*
+
+• Lock+Store*
+
+Property
+
+The following presents a list of 
+
+SingPost's major properties:
+
+• Alexandra Post Office
+
+• Bukit Panjang Post Office
+
+• Killiney Road Post Office
+
+• MacPherson Post Office
+
+• Pasir Panjang Post Office
+
+• Serangoon Garden Post Office
+
+• Simpang Bedok Post Office
+
+• Tanglin Post Office
+
+• 3B Toh Guan Road East
+
+*Other properties include those marked 
+
+out in asterisks as above.
+
+REPORTING SCOPE 
+
+REPORTING FRAMEWORK 
+
+FEEDBACK
+
+With sustainability at the core of SingPost’s business, 
+
+we reiterate our commitment towards sustainability 
+
+through the release of our fourth Sustainability Report.
+
+Throughout the report, tags are provided at the 
+
+side for clarity when a disclosure is aligned with 
+
+specific GRI disclosure(s). Each tag will comprise 
+
+a standard and its relevant disclosure.
+
+An example is provided below:
+
+XXX-YY
+
+Standard #
+
+Disclosure #
+
+
+
+
+
+
+
+
+
+102-54
+
+102-56
+
+102-53
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+102-50
+
+102-51
+
+102-52
+
+
+SingPost Sustainability Report 2020/21
+
+6
+
+About SingPost 
+
+From a humble single mail office in the 
+
+19th century, SingPost has grown into an 
+
+international organisation with operations in 
+
+17 markets worldwide. 
+
+With 56 post offices, 7 delivery bases, 300 Self-service Automated
+
+Machines ("SAM") and several online portals, SingPost owns one
+
+of the largest retail distribution networks in Singapore. SingPost
+
+was listed on the Main Board of the SGX-ST on 13 May 2003 and
+
+as at 31 March 2021, our largest shareholders are Singapore
+
+Telecommunications Limited (22%) and Alibaba Investment
+
+Limited (14.6%). 
+
+As SingPost delivers reliable and affordable services to all 
+
+Singaporeans with a focus on sustainable growth, we will strive 
+
+to continue providing innovative mail and logistics solutions in 
+
+Singapore and around the world. This is done with the vision of 
+
+becoming a global leader in eCommerce logistics and trusted
+
+communications in mind.
+
+We are guided by our core values as we embark on our journey 
+
+to seek continuous growth in the urban logistics and eCommerce 
+
+landscape. 
+
+POST &amp; PARCEL
+
+LOGISTICS
+
+PROPERTY
+
+Freight forwarding
+
+eCommerce
+
+As the designated Public 
+
+Postal Licensee in Singapore, 
+
+we are committed to our 
+
+service obligations. We offer 
+
+reliable and quality domestic 
+
+and international postal 
+
+services, and end-to-end 
+
+mail solutions. We have 
+
+a wide network of touch 
+
+points, with 56 post offices, 
+
+7 delivery bases, 300 self-
+
+service automated machinese 
+
+("SAM") kiosks, 801 posting 
+
+boxes and over 9,700 
+
+POPStation lockers across 
+
+140 locations in Singapore.
+
+We offer end-to-end 
+
+eCommerce logistics solutions 
+
+to tap the growing eCommerce 
+
+market in Asia Pacific. Through 
+
+our subsidiaries Quantium 
+
+Solutions, Famous Holdings 
+
+and General Storage Company, 
+
+we provide diverse logistics 
+
+solutions covering freight, 
+
+warehousing, self-storage, 
+
+domestic and international 
+
+distribution and delivery 
+
+services.
+
+We provide end-to-end 
+
+solutions across the 
+
+eCommerce value chain, 
+
+including eCommerce 
+
+technology solutions to 
+
+leading international brands, 
+
+creating and managing 
+
+enterprise-grade online 
+
+stores, digital marketing 
+
+and customer logistics care 
+
+under our subsidiary SP 
+
+eCommerce. 
+
+Property comprises 
+
+commercial property, 
+
+including the SingPost Centre 
+
+and eCommerce Logistics Hub 
+
+as well as the self storage 
+
+business Lock+Store.
+
+SingPost's Business Segments
+
+SingPost Sustainability Report 2020/21
+
+6
+
+102-2
+
+102-5
+
+CORE
+
+VALUES
+
+T
+
+o
+
+t
+
+a
+
+l 
+
+C
+
+u
+
+s
+
+t
+
+o
+
+m
+
+e
+
+r
+
+T
+
+o
+
+p
+
+ 
+
+E
+
+x
+
+e
+
+c
+
+u
+
+t
+
+i
+
+o
+
+n
+
+O
+
+n
+
+e
+
+ 
+
+T
+
+e
+
+a
+
+m
+
+T
+
+r
+
+a
+
+n
+
+s
+
+f
+
+o
+
+r
+
+m
+
+a
+
+t
+
+i
+
+o
+
+n
+
+T
+
+r
+
+u
+
+s
+
+t
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+7
+
+Sustainability at 
+
+SingPost
+
+With SingPost playing a significant role of being a trusted postal
+
+service provider in Singapore, it is of utmost importance for ESG 
+
+principles to be embedded in all segments of our business. To 
+
+ensure value-creation for all our stakeholders, we strive to conduct 
+
+our business in a sustainable and efficient manner to bring greater 
+
+convenience to our customers, build on trust and ultimately create 
+
+long-term value for our stakeholders.
+
+At SingPost, all matters related to sustainability are governed     
+
+and managed across various levels in the organisation. 
+
+A Board Sustainability Committee ("BSC") that reports to the 
+
+Board of Directors, was established in February 2021. The Board 
+
+Sustainability Committee works hand-in-hand with Management 
+
+to accelerate the Company's ESG transformation and journey. The 
+
+BSC sets the overall direction for the Company's ESG strategy with 
+
+execution through the Group CEO and supported by a dedicated 
+
+Sustainability function to drive and co-ordinate ESG efforts at a 
+
+Group-wide level.
+
+The Board Sustainability Committee's ("BSC") main role is to 
+
+have oversight of the implementation of the SingPost Purpose 
+
+Statement which will serve to guide the Company’s actions and 
+
+SUSTAINABILITY GOVERNANCE 
+
+Every SingPoster is accountable for the 
+
+sustainability of SingPost and the world around us.
+
+Board of
+
+Directors
+
+Board Sustainability
+
+Committee
+
+Sustainability
+
+Department
+
+Relevant Business / 
+
+Support Unit Working 
+
+Groups
+
+Group CEO
+
+Head of Sustainability
+
+behaviours towards the sustainability of the business. It will assist 
+
+the Board in providing counsel, guidance and governance of the 
+
+Company’s strategies, frameworks and programmes related to 
+
+ESG. It reports to the Board in respect of ESG material matters 
+
+with a view of managing the risks of factors that may erode or 
+
+challenge the sustainability of SingPost’s business in the context of 
+
+the SingPost Purpose Statement.
+
+Overseen by the Head of Sustainability in consultation with a 
+
+Sustainability Management Committee comprising key senior 
+
+management team members, the implementation of various 
+
+sustainability initiatives throughout the organisation is
+
+conducted by the relevant businesses supported by the 
+
+Sustainability department.
+
+102-18
+
+102-19
+
+102-20
+
+102-26
+
+102-32
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+8
+
+UNIVERSAL POSTAL UNION
+
+A specialised agency of the 
+
+United Nations that coordinates 
+
+postal policies among member 
+
+nations, in addition to the 
+
+worldwide postal system
+
+LOCAL COMMUNITIES / 
+
+CHARITABLE ORGANISATIONS
+
+Charitable organisations and the 
+
+disadvantaged in the communities 
+
+in which we operate
+
+SHAREHOLDERS
+
+Institutional investors, equity
+
+analysts, retail investors,
+
+Securities Investors Association
+
+of Singapore
+
+EMPLOYEES / OTHER 
+
+WORKERS
+
+Including contract and
+
+temporary workers
+
+TRADE UNION
+
+Union of Telecoms 
+
+Employees of Singapore 
+
+(“UTES“)
+
+GOVERNMENT / REGULATORS
+
+Infocomm Media Development 
+
+Authority, Singapore Exchange, 
+
+Ministry of Manpower, National 
+
+Environment Agency, etc
+
+CUSTOMERS
+
+Corporates, retail customers, 
+
+general public
+
+SUPPLIERS
+
+Airlines, international 
+
+postal agencies, delivery 
+
+partners, etc
+
+PARTNERS
+
+Business and other partners
+
+To ensure that the concerns and needs of our stakeholders 
+
+are heard and addressed, SingPost has established various 
+
+engagement channels for efficient communications and 
+
+engagement with respective stakeholders. 
+
+ 
+
+Formal materiality assessment exercises involving our internal
+
+and external stakeholders were conducted in FY2017/18 and
+
+FY2018/19 respectively to determine specific ESG topics that
+
+matter to them. The resulting material topics identified through
+
+these engagements as well as our other channels continue
+
+to influence SingPost’s sustainability efforts and initiatives. 
+
+The basis for and methods of engagement with our stakeholders, 
+
+as well as their key areas of focus for each stakeholder can be 
+
+found in pages 76 to 80 of our Annual Report 2020/21.
+
+Current information and updates to any SingPost-related matters 
+
+are communicated regularly to our stakeholders through our 
+
+corporate website – www.singpost.com. Furthermore, SingPost’s 
+
+corporate website has a dedicated “Contact Us” section which 
+
+offers various public touchpoints, such as a hotline, live chat 
+
+and a feedback section. There are also separate sections that 
+
+are provided to engage different audience segments such as 
+
+our customers, media and investors. Apart from our corporate 
+
+website and contact channels, SingPost is present on social 
+
+media platforms such as LinkedIn, Facebook and Instagram, that 
+
+is easily accessible by members of the public as well.
+
+STAKEHOLDER ENGAGEMENT 
+
+Forging relationships with our stakeholders 
+
+help us align our priorities on matters that 
+
+affect them most.
+
+SingPost Sustainability Report 2020/21
+
+8
+
+102-40
+
+102-42
+
+102-43
+
+102-44
+
+102-46
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+9
+
+With a fast changing environment, new challenges presented by the pandemic and other emerging trends such as the pressing need for 
+
+more climate action by companies, we will be embarking on a third stakeholder engagement exercise and materiality review. The results 
+
+and findings will be published next year in our SingPost Sustainability Report 2021/22 with a refreshed strategy, metrics and targets 
+
+focusing on areas where we can create the most impact. 
+
+MATERIALITY ASSESSMENT 
+
+Material ESG matters are defined as sustainability topics which reflect our significant ESG impacts and will substantially influence our 
+
+stakeholders’ decision-making process. Conducting a materiality assessment enables SingPost to identify the ESG matters which are 
+
+significant to SingPost. The following presents a summary of our materiality process. 
+
+Identification
+
+External Stakeholder 
+
+Engagement
+
+FY2017/18
+
+FY2018/19
+
+FY2019/20 and FY2020/21
+
+Prioritisation
+
+Validation
+
+A comprehensive list of potential material sustainability 
+
+matters was drawn up, taking into account insights from 
+
+internal stakeholder engagements (including consideration 
+
+of the interests and concerns of external stakeholders), and 
+
+benchmarking of industry peers' and key customers' ESG factors. 
+
+Cross-functional interviews and focus group discussions were 
+
+conducted with the management to refine the list of potential 
+
+material sustainability matters.
+
+We connected with several investors, 
+
+customers and the trade union for their 
+
+inputs on the sustainability matters that 
+
+are important to them in their capacity 
+
+as an external stakeholder of SingPost.
+
+Their inputs resulted in two new 
+
+material ESG matters for reporting.
+
+The new list of sustainability matters 
+
+was presented to the Board for 
+
+validation and approval. 
+
+In subsequent reporting periods, 
+
+reviews will be done to ensure 
+
+continued relevance to SingPost's 
+
+business and operations.
+
+In FY2019/20 and FY2020/21, we 
+
+continue to report on these material 
+
+ESG matters, which remain relevant for 
+
+reporting. The material ESG matters 
+
+reported for FY2020/21 are still relevant 
+
+and will remain unchanged from 
+
+FY2019/20.
+
+Materiality assessment workshops were conducted with 
+
+the management, followed by an anonymous electronic 
+
+voting exercise by the management on 24 potential material 
+
+sustainability matters.
+
+The results were plotted on a materiality matrix that displays 
+
+each matter's position relative to the degree of impact to both 
+
+internal and external stakeholders.
+
+A total of six key material sustainability matters were selected by 
+
+top management for reporting. The result was presented to the 
+
+Board for validation and approval.
+
+ESG MATERIAL MATTERS
+
+Compliance with Laws and Regulations
+
+Energy Consumption and Associated 
+
+Greenhouse Gas Emissions
+
+Ethics, Anti-Bribery and Corruption
+
+Responsible Supply Chain
+
+Data Security and Privacy
+
+Customer Satisfaction
+
+Business Continuity Planning
+
+Product and Service Innovation
+
+ADDITIONAL ESG MATTERS
+
+Our People
+
+Community
+
+Investment
+
+102-47
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+10
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability at SingPost is delivered through four interconnected and inter-linking pillars – Planet Positive, Operational Excellence, 
+
+Societal Responsibility, and Transformational Growth. This framework supports and strengthens the execution of our Future of Post 
+
+strategy1 , and guides us on the areas to focus on and empowers us to work towards a more sustainable future. 
+
+Planet
+
+Positive
+
+Operational
+
+Execellence
+
+Societal
+
+Responsibility
+
+Transformational
+
+Growth
+
+We care about 
+
+the lives of all 
+
+stakeholders 
+
+and go the extra 
+
+mile to deliver 
+
+value to them.
+
+We care about 
+
+sustaining a 
+
+liveable planet 
+
+for all future 
+
+generations.
+
+We care about doing the right things the right way, across our entire value chain.
+
+We care about the distribution of sustainable economic value and the important 
+
+role we play in transforming the markets we operate in.
+
+
+
+
+
+P  
+
+lanet
+
+Positive
+
+O
+
+perational
+
+Excellence
+
+S
+
+ocietal
+
+Responsibility
+
+T
+
+ransformational
+
+Growth
+
+ESG MATTERS 
+
+Our pillars provide 
+
+an outline for our 
+
+Sustainability Report. 
+
+Under each pillar, we 
+
+disclose on a number 
+
+of relevant material 
+
+ESG matters that are 
+
+significant to us and 
+
+our stakeholders. 
+
+Energy 
+
+Consumption 
+
+and Associated 
+
+Greenhouse Gas 
+
+Emissions
+
+Our People#
+
+Ethics,           
+
+Anti-Bribery    
+
+and Corruption
+
+Compliance 
+
+with Laws and 
+
+Regulations
+
+Data Security 
+
+and Privacy
+
+Business 
+
+Continuity 
+
+Planning
+
+Responsible 
+
+Supply Chain
+
+Customer 
+
+Satisfaction
+
+Community 
+
+Investment#
+
+Product and 
+
+Service Innovation
+
+# Not identified as a material 
+
+ESG matter but reported 
+
+additionally
+
+ 1 For more information on our Future of Post Strategy, please refer to SingPost 
+
+Annual Report FY2019/20.
+
+SingPost Sustainability Report 2020/21
+
+10
+
+
+SingPost Sustainability Report 2020/21
+
+11
+
+In the past year, we saw how the COVID-19 pandemic 
+
+impacted our lives and caused changes to daily living. 
+
+As SingPost continues being a trusted postal network in 
+
+Singapore through the safe delivery of mail and parcels, 
+
+we are also committed to putting people at the heart of 
+
+what we do, and we are always #HereWithYou.
+
+The past year has been a tumultuous one for all. In SingPost, 
+
+despite the challenges we face, we continually focus our resources 
+
+and operations to make sure that mail and parcels keep moving, as 
+
+our services become more essential than ever. Although we foresaw 
+
+some delivery delays during the “Circuit Breaker” lockdown period, 
+
+we ensured that our customers were made aware of potential 
+
+delays, and we would like to express our gratitude to them for their 
+
+understanding and support as we continue to work hard to ensure 
+
+all post and packages get to everyone safely.
+
+There was a total of 11 COVID-19 cases within SingPost, of which 
+
+10 were SingPost’s employees and one being a contractor, which 
+
+formed the COVID-19 cluster in SingPost Centre in March/April 
+
+2020. When this cluster was detected, operations ceased for 
+
+Weathering
+
+the Storm with You
+
+OUR RESPONSE 
+
+TO COVID-19
+
+SingPost is a large organisation, and it is paramount that there is smooth coordination across all its functions and business units, especially 
+
+in case of unexpected situations. When the COVID-19 pandemic first reared its head in early 2020, the Pandemic Task Force (“PTF”) was 
+
+promptly and proactively activated in parallel with the government’s formation of the Multi-Ministry Taskforce, with the main objective of 
+
+steering the Group’s proactive management of the pandemic.
+
+The key personnel of the PTF include the PTF Leader as nominated by the Business Continuity Management Council (“BCMC”), the PTF 
+
+Coordinator as nominated by Group Workplace Safety and Health (“Group WSH”), the Business Continuity Manager and representatives 
+
+from all business units and Group functions. The roles and responsibilities of members are outlined in SingPost’s Pandemic 
+
+Management Framework. 
+
+Rolled out in October 2020, SingPost’s Pandemic Management Framework defines the structure around the management of COVID-19 
+
+at the workplace, including the roles and responsibilities of the members in the Pandemic Task Force, as well as the action plan for the 
+
+pandemic, which is to activate each business unit.
+
+ACTIVATING THE PANDEMIC TASK FORCE
+
+OUR CHANGE MAKERS
+
+• Group WSH Committee
+
+• Pandemic Task Force (“PTF”)
+
+• Business Continuity Management
+
+   Council (“BCMC”)
+
+• Crisis Management Team (“CMT”)
+
+OUR MANAGEMENT TOOLS
+
+• Pandemic Management Framework
+
+• Return to Work Guidelines
+
+approximately three days as we proceeded with deep cleaning of the 
+
+affected areas. We continued to support employees affected by the 
+
+cluster, providing meals and basic necessities for them during their 
+
+quarantine stays, and are committed to doing the same should such 
+
+situations reoccur in future.
+
+Enforcement measures have been stepped up across all our 
+
+facilities and remain so. Overall, there have been no safety breaches 
+
+that have warranted complete stoppage of operations in the 
+
+reporting year.
+
+
+SingPost Sustainability Report 2020/21
+
+12
+
+In the months of April and May 2020, Singapore went into a “Circuit Breaker” lockdown period to curb the number of COVID-19 
+
+transmissions within the country. As the postal service is an essential service, SingPost continued to operate during this period, with 
+
+some adjustments to our services announced on our website to provide clarity to consumers. 24 of our 56 post offices across our network 
+
+remained in operations and continued to provide essential services including postal services, bill payments and government services.
+
+As far as possible, our employees worked from home. We continued to upskill our frontliners during this period as they acquired new 
+
+knowledge through virtual learning programmes completed on e-learning platforms and through videoconferencing. These virtual trainings 
+
+have increased our staff’s digital savviness and prepared them to adopt our on-going tech-enabled innovations, thus enabling SingPost to 
+
+be more resilient in the future. Some of these courses include:
+
+1. SkillsFuture for Digital Workplace (Digital Literacy for Local Postman)
+
+2. Employment Act &amp; Performance Plan 101 (Supervisory Skills)
+
+3. Supercharge your Digital Skills (Digital Literacy for Foreign Postman)
+
+4. WSQ Facilitate Effective Work Teams (Supervisory Skills)
+
+5. Professional Image &amp; Etiquette for Effective Communication (Service Excellence for Service Ambassadors)
+
+As employees gradually returned to work post-Circuit Breaker, SingPost formulated the Return To Work Guidelines based on recommended 
+
+regulations posed by relevant authorities which serves to support SingPost’s internal business continuity and pandemic management. 
+
+It outlines several guidelines for workplaces and employees to adhere to regarding safe management measures as stipulated by the 
+
+Ministry of Manpower, as well as evacuation steps to take for relevant onsite personnel in the case of any unwell or suspected cases. 
+
+These measures include strict team segregation, working from home arrangements where possible, set-up of alternate work sites such 
+
+as operation areas/stations, daily temperature checks, reminders on personal hygiene practices and travel and health declarations. When 
+
+COVID-19 cases are detected within our facilities, such as the internal COVID-19 cluster in SingPost Centre in March/April 2020 that 
+
+emerged from the organisation’s contracted staff, it is in our Standard Operating Procedures and in accordance with the Ministry of Health’s 
+
+directives to proceed with deep-cleaning of the affected areas. 
+
+PROVIDING ESSENTIAL SERVICES DURING THE MONTHS OF
+
+CIRCUIT BREAKER
+
+PROVIDING A SAFE ENVIRONMENT FOR EMPLOYEES TO CARRY OUT 
+
+THEIR DUTIES
+
+For our operational facilities, our staff are segregated by zones to prevent cross-contamination, and we enforce strict restrictions on cross 
+
+deployment between post offices and logistics bases. SingPost has also appointed Safe Management Officers (“SMOs”) who are responsible 
+
+for checking the effectiveness of the safe distancing measures across its offices, logistics hub and
+
+other facilities. 
+
+SingPost also sought to ensure that our Malaysian employees were supported during this difficult period. Since Malaysia’s first Movement 
+
+Control Order in mid-March 2020, we have provided accommodation urgently required by our Malaysian employees who were stranded.
+
+Safe management and safe distancing measures implemented across our post offices and working facilities
+
+
+
+
+
+
+
+
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+13
+
+Customer well-being is a key priority, and SingPost has modified its operating procedures with the safety of the customer in mind. Apart 
+
+from safe management measures implemented and enforced in our post offices in accordance with government advisories, additional 
+
+precautions were taken at all operational sites, such as the use of gloves during the handling of letters and parcels at all points along the 
+
+delivery chain, and contactless mail/parcel delivery to customers’ doorsteps. To further increase convenience for our customers, up to 
+
+three delivery attempts will be made for each parcel if the recipient is not at home, and alternative redelivery options are also enabled if 
+
+modes of contact are provided.
+
+SINGPOST REMAINS ADAPTABLE TO ENSURE CUSTOMER EXPERIENCE
+
+IS NOT COMPROMISED
+
+As landlord of SingPost Centre Mall, to tide our mall tenants through this difficult time, some of the tenants’ support measures provided 
+
+include grant of rental rebates, obtaining property tax rebate reimbursements from the government, and allowing tenants to utilise security 
+
+deposits for rental payment. Other additional support measures include encouraging the food and beverage tenants to tap on our social 
+
+media platforms and extending our carpark’s grace period to support delivery drivers and food-order pick-ups.
+
+As the majority of our products are locally sourced, there was minimal disruption to our operations, although we have optimised our supply 
+
+chain by decentralising some elements and rationalising our supply base where possible.
+
+SingPost takes the health of its vendors and contracted staff under its management operations seriously. When the COVID-19 cluster of 
+
+contracted staff in SingPost Centre was identified, safe distancing measures and other COVID-19 guidelines were tightened significantly 
+
+across all SingPost’s premises. All appointed Safe Management Officers (“SMOs”) together with Workplace Safety &amp; Health team continue 
+
+to conduct frequent checks to ensure that all personnel, whether they are a contractor or an employee, abide by the safe management 
+
+measures (“SMM”) implemented within the premises. Vendors are reminded on Personal Protective Equipment (“PPE”) requirements when 
+
+working in SingPost premises and PPE supplies are provided to contractors if they are not yet equipped with the right supplies. 
+
+As a forward-looking organisation, SingPost recognises the potential long-lasting impacts of COVID-19 on our operations, and will continue 
+
+to implement measures to safeguard our supply chain and minimise future disruptions. Following this, SingPost is looking to ensure that 
+
+key safety measures, such as requirements for a contracted company to monitor the health of their staff, are written into contractual 
+
+obligations with our vendors. 
+
+STANDING IN SOLIDARITY WITH OUR TENANTS
+
+SECURING OUR SUPPLY CHAIN IN THE FACE OF COVID-19
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+14
+
+Even as the COVID-19 situation remained 
+
+largely under control, with a low number 
+
+of community cases in Singapore during 
+
+the reporting year, preventive measures 
+
+are still in place with emphasis on safe 
+
+distancing measures. Being physically 
+
+distanced and not being able to meet with 
+
+our loved ones as frequently shows the 
+
+importance of close-knitted relationships 
+
+and family ties. During this period of 
+
+uncertainty, SingPost reached out to the 
+
+community and lent a hand to those in need 
+
+by working with various organisations to 
+
+implement new initiatives. 
+
+In April 2020, SingPost partnered with Masks Sewn with Love, a community initiative to sew 
+
+reusable cloth masks for Singapore. These masks were sewn by community volunteers and 
+
+distributed to vulnerable groups across the nation, including shelters and homes, cleaners 
+
+and vulnerable families. By August 2020, mask donations crossed more than 250,000, 
+
+five times the original target, and more than 70% were sent via SingPost’s posting boxes 
+
+islandwide. Additionally, SingPost stepped forward during the Circuit Breaker to help in the 
+
+collection of home-sewn masks by volunteers and consolidated them for distribution 
+
+to beneficiaries. 
+
+EVEN IN THE FACE OF UNCERTAINTY, SINGPOST 
+
+WILL ALWAYS BE #HEREWITHYOU
+
+MASKS SEWN WITH LOVE
+
+
+
+In the past year, SingPost collaborated 
+
+with Temasek Foundation on the nation-
+
+wide distribution of hand sanitisers as part 
+
+of its Stay Prepared initiative to support 
+
+the Singapore community during the 
+
+COVID-19 outbreak. Pamphlets containing 
+
+information on hand hygiene were delivered 
+
+to households across Singapore to inform 
+
+residents about the collection of hand 
+
+sanitisers. SingPost also sponsored the 
+
+shipments of 33 cartons of donations to 
+
+families of migrant workers in Singapore, 
+
+as well as envelopes and stamps for Tzu 
+
+Chi’s mask initiative.
+
+
+
+
+
+Recognising some resultant loss of 
+
+income/employment faced by the local 
+
+community, temporary positions were 
+
+also offered to workers displaced in 
+
+the aviation and hospitality sectors to 
+
+contribute towards the increased volumes 
+
+SingPost experienced during the peak of 
+
+the pandemic. 
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+15
+
+PLANET
+
+POSITIVE
+
+11%
+
+19%
+
+COMPLETED
+
+We care about sustaining a liveable planet 
+
+for all future generations to thrive in.
+
+Delivering a sustainable future can only begin with the place that matters most 
+
+to all of us. For us to remain sustainable in the long-term, we recognise the 
+
+great importance of environmental sustainability and the unique position we 
+
+are in to drive society’s transition to a circular, low carbon economy. 
+
+DECREASE IN SCOPE 1 GREENHOUSE 
+
+GAS EMISSIONS FROM FY2019/20
+
+DECREASE IN SCOPE 2 GREENHOUSE 
+
+GAS EMISSIONS FROM FY2019/20
+
+PHASES 1 AND 2 OF LED LIGHT 
+
+RETROFITTING ACROSS ALL 
+
+SINGPOST BUILDINGS
+
+ESG MATTERS IN THIS PILLAR
+
+Energy Consumption and Associated
+
+Greenhouse Gas Emissions
+
+
+
+
+
+“WE ALL PLAY A 
+
+PART IN SUSTAINING 
+
+THE PLANET 
+
+FOR FUTURE 
+
+GENERATIONS.”
+
+Ismadiana Binte Samsudin, 
+
+Inspector of Post (Parcel, 
+
+Next Day Delivery)
+
+
+
+
+SingPost Sustainability Report 2020/21
+
+16
+
+ENERGY CONSUMPTION 
+
+AND ASSOCIATED GREENHOUSE
+
+GAS EMISSIONS
+
+Enroute to Low Carbon
+
+Future Target
+
+FY2020/21 Progress and Peformance
+
+By FY2029/30, reduce absolute GHG emissions2  by 35%, from 
+
+FY2018/19 baseline level   
+
+On track 
+
+SingPost has currently reduced its absolute Scope 1 and 2 
+
+GHG emissions collectively by 28% from FY2018/19 baseline 
+
+level.
+
+In FY2020/21, the COVID-19 pandemic has led to an 
+
+extraordinary reduction in energy use and its corresponding 
+
+carbon emissions due to reduced business activities for a few 
+
+properties during Singapore’s “Circuit Breaker” period. As 
+
+operations normalise over time, we expect that our energy 
+
+reductions will better reflect our deliberate energy efficiency 
+
+initiatives.
+
+Scope 1 and Scope 2 GHG Emissions (tonnes CO2e)
+
+FY2020/21
+
+FY2019/20
+
+5,000
+
+Direct [Scope 1] GHG Emissions (tCo2e) 
+
+Energy Indirect [Scope 2] GHG Emissions (tCo2)
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+FY2029/30 TARGET
+
+15,684.5 tonnesCO2e
+
+OUR CHANGE MAKERS
+
+Environment Committee
+
+• Made up of representatives across our operations, the 
+
+committee oversees environmental stewardship in the 
+
+Group. Fuel and energy consumption are managed and 
+
+monitored by the various operating units such as the 
+
+conveyance and delivery teams in Post &amp; Parcel, Famous 
+
+Holdings and the Property division.
+
+OUR MANAGEMENT TOOLS
+
+Environmental Policy
+
+• The policy articulates our primary environmental 
+
+objectives which focus on operational, fleet and building 
+
+efficiency and stakeholder collaboration. 
+
+
+
+ 2 Direct (Scope 1) and Energy Indirect (Scope 2) GHG emissions in Singapore.
+
+OUR TARGETS
+
+
+SingPost Sustainability Report 2020/21
+
+17
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Environmental Management
+
+WE CAN ONLY DELIVER IN THE 
+
+FUTURE IF WE START DELIVERING 
+
+FOR THE FUTURE, TODAY.
+
+Our Environmental Policy articulates our primary environmental 
+
+objectives and commitments around four thrusts as described 
+
+below. We undertake periodic reviews of this Policy to ensure the 
+
+continued alignment of our environmental objectives and targets 
+
+with SingPost’s sustainability strategy which will undergo review 
+
+in FY2021/22.
+
+Aligning with global and local ambitions to reduce GHG emissions, we set a long-term target of 35% reduction in our absolute GHG 
+
+emissions from FY2018/19 baseline level by FY2029/30. In FY2020/21, we continue to collaborate with stakeholders and drive initiatives that 
+
+aim to improve our environmental performance: 
+
+Collaborating with 
+
+Stakeholders
+
+Operational Efficiency
+
+Fleet Efficiency
+
+Building Efficiency
+
+We aim to work closely with 
+
+our investors, customers, 
+
+suppliers, business 
+
+partners and regulators to 
+
+establish environmentally 
+
+sustainable and responsible 
+
+business practices.
+
+We commit to base 
+
+our operations on key 
+
+principles of international 
+
+environmental management 
+
+system standards and 
+
+achieve resource efficiency 
+
+through the optimisation of 
+
+resources in our
+
+value chain.
+
+We aim to apply innovative 
+
+solutions to optimise fleet 
+
+routes, upgrade our fleets 
+
+to more efficient models, 
+
+explore alternative fuel 
+
+options, encourage fuel-
+
+saving driving habits and 
+
+implement initiatives to 
+
+reduce delivery trips.
+
+We are dedicated towards 
+
+energy efficiency in our 
+
+sites and facilities, by 
+
+exploring and utilising 
+
+alternative energy sources 
+
+in place of grid electricity, 
+
+achieving and maintaining 
+
+green building certification 
+
+for new sites/facilities and 
+
+progressively refurbishing 
+
+older sites/facilities.
+
+KEY ACTIVITIES IN FY2020/21
+
+Light-emitting diode 
+
+(“LED”) fittings
+
+Two phases of light fittings replacement with LED lamps has been completed across all SingPost 
+
+facilities and locations as of December 2020. This transition towards LED lamps has shown potential 
+
+for great energy savings – our largest hubs at SingPost Centre, Regional eCommerce Logistics Hub 
+
+and Kallang Delivery Base are projected to achieve energy savings of 2,102,053 kWh annually – the 
+
+equivalent of powering up 5,313 four-room HDB flats in Singapore in a year3. 
+
+Waste management
+
+ReCYCLE is a nationwide e-waste recycling initiative with our partner Singapore Telecommunications 
+
+Limited (“Singtel”). Unwanted electronic devices can be dropped off into the ReCYCLE bins at 
+
+selected Singtel Shop and Singtel Exclusive Retailer outlets and post offices, as well as other partner 
+
+locations. Alternatively, members of the public can also ask for a ReCYCLE envelope from any Singtel 
+
+Shop and Singtel Exclusive Retailer outlets, and post offices, and mail their unwanted mobile device 
+
+and accessories at no charge as postage is waived. 
+
+The programme collected 21,815 kg of e-waste islandwide in FY2020/21. 
+
+Raising awareness
+
+All individuals have a shared responsibility to make a difference in protecting our environment. 
+
+SingPost encourages its employees to play their part through a series of communication tools 
+
+and events. 
+
+As an organisation, SingPost has also been supporting Earth Hour since 2013. As part of our annual 
+
+Earth Hour observance, the SingPost Centre switched off all facade lights and non-essential lighting 
+
+for an hour in the last week of March 2021 as a symbol of commitment towards our planet.
+
+Installation of solar 
+
+photovoltaic (“PV”) 
+
+systems
+
+These power systems are designed to supply usable solar power by means of solar panels. While 
+
+COVID-19 has delayed this project in the reporting year, we have invited tenders for our two largest 
+
+buildings, Singapore Post Centre and Regional eCommerce Logistics Hub, and will be selecting our 
+
+PV vendor in early FY2021/22.
+
+Pilot test with electric 
+
+vehicles (“EV”)
+
+Being committed to sustainability and in line with the government’s plan to phase out new diesel cars 
+
+by 2025, SingPost strives to reduce our environmental footprint by exploring a move towards the use 
+
+of EVs. We are currently in the process of purchasing new EVs and aim to implement them into our 
+
+delivery fleets in the near future. 
+
+Chiller upgrading
+
+Chiller systems, which provide ventilation and air-conditioning, make up a significant portion of energy 
+
+consumption within a building. We are currently assessing our chiller performance ratings and working 
+
+with vendors to maintain equipment efficiency while exploring chiller upgrades.
+
+Appendices
+
+ 3 The Singapore Energy Statistics 2020 Report states that the average 4-room HDB 
+
+flat consumed 395.6 kWh/month from Jan-July 2020.
+
+
+SingPost Sustainability Report 2020/21
+
+18
+
+Please refer to the Appendices on Page 52 for details regarding the 
+
+calculation methodology, as well as the scope and boundaries used, 
+
+for both fuel and electricity consumption.
+
+Performance
+
+Indicators 
+
+ Energy and GHG Emissions4
+
+FY2018/19
+
+FY2019/20
+
+FY2020/21
+
+Fuel Consumption
+
+Post &amp; Parcel (TJ)
+
+36
+
+37
+
+34
+
+Logistics (TJ)
+
+15
+
+13
+
+10
+
+Total Fuel Consumption (TJ) 
+
+51
+
+50
+
+44
+
+Electricity Consumption
+
+Post &amp; Parcel (MWh)
+
+38,076
+
+32,6784
+
+26,424
+
+Logistics (MWh)
+
+9,612
+
+9,5134
+
+8,680
+
+Others5  (MWh)
+
+406
+
+341
+
+402
+
+Total Electricity Consumption (MWh)
+
+48,093
+
+42,5324
+
+35,506
+
+Total Electricity Consumption (TJ)
+
+173
+
+1534
+
+128
+
+Total Energy Consumption within SingPost
+
+Total Energy Consumption within 
+
+SingPost (TJ)
+
+224
+
+2034
+
+172
+
+Direct (Scope 1) GHG Emissions
+
+Post &amp; Parcel (tCO2e)
+
+2,676
+
+2,7164
+
+2,534
+
+Logistics (tCO2e)
+
+1,136
+
+983
+
+749
+
+Total Direct (Scope 1) GHG Emissions 
+
+(tCO2e)
+
+3,812
+
+3,6994
+
+3,283
+
+Energy Indirect (Scope 2) GHG Emissions
+
+Post &amp; Parcel (tCO2)
+
+15,961
+
+13,6864
+
+10,794
+
+Logistics (tCO2)
+
+4,029
+
+3,9844
+
+3,546
+
+Others5 (tCO2)
+
+170
+
+143
+
+164
+
+Total Energy Indirect (Scope 2) GHG 
+
+Emissions (tCO2)
+
+20,160
+
+17,8124
+
+14,504
+
+Total Direct (Scope 1) and Energy Indirect (Scope 2) GHG Emissions
+
+Total Direct (Scope 1) and Energy 
+
+Indirect (Scope 2) GHG Emissions 
+
+(tCO2e)
+
+23,972
+
+21,5114
+
+17,787
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+ 302-1
+
+ 305-1
+
+ 305-2
+
+Appendices
+
+ 4 Restatements were made for FY2019/20 data to reflect greater accuracy. Please 
+
+refer to the Appendices for more information. 
+
+5 Others refer to SingPost's properties which have been leased out as well as 
+
+properties under Group Technology.
+
+
+SingPost Sustainability Report 2020/21
+
+19
+
+Across our business operations, we utilise 
+
+motor gasoline and diesel oil for vehicles 
+
+and equipment. A significant portion 
+
+relates to fuel consumption of our own 
+
+fleet and leased vehicles. 
+
+Electricity is utilised for our leased 
+
+spaces and properties owned and under 
+
+SingPost’s operational control. Our 
+
+two largest buildings are the Regional 
+
+eCommerce Logistics Hub, an automated 
+
+parcel sorting and warehousing facility, 
+
+and SingPost Centre.
+
+In FY2020/21, our total energy indirect (Scope 2) GHG emissions decreased by approximately 
+
+19% as compared to the prior reporting year. This is mainly attributed to the significant 
+
+reduction in electricity consumed in SingPost Centre of 24% compared to FY2019/20 due to 
+
+a significant reduction of activities as a result of Singapore’s “Circuit Breaker” as well as 
+
+slow resumption of activities in 2020. Other factors include the reduction of activities in the 
+
+Airmail Transit Centre and closure of offices in Lock + Store during the “Circuit Breaker”, 
+
+as well as the completion of replacement and installation of LED lights across our facilities 
+
+this year.
+
+In FY2020/21, there was a decrease in our total direct (Scope 1) emissions by approximately 
+
+11% from FY2019/20. This is mainly attributed to a reduction in in-house post and parcel 
+
+conveyance and deliveries made. Due to the COVID-19 pandemic and the resulting 
+
+Movement Control Order imposed in Malaysia, postmen living in Malaysia were unable to 
+
+return to Singapore for work; as a result, delivery vehicles were driven, and fuel was paid by 
+
+outsourced partners (Scope 3 emissions).
+
+FLEET FUEL CONSUMPTION 
+
+AND ASSOCIATED SCOPE 1 GHG 
+
+EMISSIONS
+
+ELECTRICITY CONSUMPTION 
+
+AND ASSOCIATED SCOPE 2 GHG 
+
+EMISSIONS
+
+Fuel Consumption (TJ)
+
+Direct (Scope 1) GHG Emissions
+
+(tCO2e)
+
+52
+
+50
+
+48
+
+46
+
+44
+
+42
+
+40
+
+4400
+
+4200
+
+4000
+
+3800
+
+3600
+
+3400
+
+3200
+
+3000
+
+FY2018/19
+
+Fuel Consumption
+
+Direct (Scope 1) GHG Emissions
+
+FY2019/20
+
+FY2020/21
+
+
+
+
+
+
+
+
+
+
+
+
+
+3,812
+
+3,699
+
+3,283
+
+51
+
+50
+
+44
+
+FUEL CONSUMPTION &amp; DIRECT (SCOPE 1) 
+
+GHG EMISSIONS
+
+
+
+Electricity Consumption (TJ)
+
+Indirect (Scope 2) GHG 
+
+Emissions (tCO2)
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+FY2018/19
+
+Electricity Consumption (TJ)
+
+Indirect (Scope 2) GHG Emissions (tCo2)
+
+FY2019/20
+
+FY2020/21
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20,160
+
+17,812
+
+14,504
+
+173
+
+153
+
+128
+
+ELECTRICITY CONSUMPTION &amp; ENERGY 
+
+INDIRECT (SCOPE 2) GHG EMISSIONS
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+20
+
+OPERATIONAL
+
+EXCELLENCE
+
+0
+
+We care about doing the right things 
+
+the right way, across all levels of our 
+
+value chain.
+
+The SingPost story has a heritage dating back to the founding of Singapore in 
+
+1819. We recognise that future-proofing this success would not be possible 
+
+without the trust of our stakeholders and our people’s commitment towards 
+
+excellence. Underpinned by the highest standards of corporate governance, 
+
+we adopt best-in-class practices that reflect our obligation towards 
+
+accountability, transparency and safeguarding of our stakeholders’ interests. 
+
+SIGNIFICANT FINES AND          
+
+NON-MONETARY 
+
+SANCTIONS
+
+Our People #
+
+# Not identified as a material ESG matter but 
+
+reported additionally
+
+Business Continuity Planning
+
+Data Security and Privacy
+
+Compliance with Laws
+
+and Regulations
+
+Ethics, Anti-Bribery 
+
+and Corruption
+
+
+
+“WE CONTINUALLY 
+
+WORK TO BE DOING 
+
+THE RIGHT THINGS THE 
+
+RIGHT WAY BECAUSE
+
+YOUR TRUST IN US 
+
+MATTERS”
+
+Saharuddin Bin Samad,
+
+Branch Manager
+
+(Post Office Network)
+
+ESG MATTERS IN THIS PILLAR
+
+DISASTER RECOVERY 
+
+EXERCISES
+
+CONDUCTED FOR
+
+CRITICAL IT SYSTEMS
+
+0
+
+CASES OF CORRUPTION OR
+
+UNETHICAL BEHAVIOUR
+
+
+SingPost Sustainability Report 2020/21
+
+21
+
+OUR PEOPLE
+
+Our achievements and sustained success over the century would not 
+
+have been possible without our people. Today, SingPost comprises a 
+
+4,057 strong family in Singapore. We believe in the benefits of having 
+
+a diverse workforce and bring together employees from varying 
+
+backgrounds and career stages.
+
+Our People
+
+As a signatory to the Employers’ Pledge of Fair Employment 
+
+Practices by the Tripartite Alliance for Fair &amp; Progressive 
+
+Employment Practices (“TAFEP”), we strive to adopt fair and 
+
+progressive practices on employment. From recruitment to 
+
+development and reward of our talents, meritocracy is one of the 
+
+key values we uphold at SingPost.
+
+Employees hired at SingPost are subject to background screening 
+
+and reference checks to ensure hiring processes are robust. 
+
+Additionally, front-liners in our post offices undergo mandatory 
+
+training to improve service quality and their professional image. 
+
+They are also required to pass necessary regulatory screenings and 
+
+background checks under relevant institutions.
+
+SingPost’s strategy to empower all our employees to take pride 
+
+in carrying out their work is encapsulated within our PRIDE 
+
+Framework. As we continue on our transformation journey, it is 
+
+important for us to develop a learning organisation by balancing 
+
+the needs of today while future-proofing for tomorrow. The 
+
+five objectives outlined under this framework are integral to 
+
+transforming the way we work and remain resilient in a 
+
+changing world. 
+
+We remain committed to building leadership capabilities at the 
+
+middle management level through our accelerated development 
+
+programme, iLEAD and Manager Effectiveness Programmes 
+
+in our efforts to grow our own timber, strengthen our talent 
+
+bench strength and build a pipeline of successors. Through this 
+
+programme, we have been able to offer career progression to more 
+
+than 77% of our talent pool.
+
+WE OFFER OUR PEOPLE A WORKPLACE BUILT ON 
+
+TRUST AND MUTUAL RESPECT
+
+WE ENSURE OUR EMPLOYEES MEET THE MINIMUM 
+
+REQUIREMENTS
+
+WE INVEST IN DEVELOPING OUR PEOPLE AND 
+
+ACCOMPANY THEM THROUGH THEIR CAREER 
+
+JOURNEYS
+
+OUR CHANGE MAKERS
+
+• Human Resources
+
+OUR MANAGEMENT TOOLS
+
+• PRIDE Framework
+
+• iLead accelerated development programme
+
+• Learning and development platform
+
+People are at the Heart of SingPost
+
+
+SingPost Sustainability Report 2020/21
+
+22
+
+Besides building leadership capabilities, 
+
+we also aid our employees in their personal 
+
+and professional growth. Adapting to the 
+
+new normal of “working from home”, 
+
+SingPost introduced LinkedIn Learning 
+
+in 2020, an on-demand learning solution 
+
+designed to offer access to expert 
+
+content across a wide range of personal 
+
+effectiveness, as well as, business and 
+
+leadership skill areas at the convenience 
+
+of our employees’ own schedules. 
+
+Furthermore, compulsory online interactive 
+
+training modules such as the Dangerous 
+
+Goods Regulations (“DGR”), Personal Data 
+
+Protection Act 2012 (“PDPA”) and Group 
+
+Code of Conduct, among many others, are 
+
+SingPost PRIDE Framework
+
+Providing top talent 
+
+across the Group
+
+For talent pool and 
+
+leadership bench 
+
+strength, and succession 
+
+pipeline
+
+Rewarding for 
+
+performance
+
+For a high-performance 
+
+culture to achieve 
+
+business results
+
+Instilling a lean HR 
+
+operating system 
+
+For scalable and 
+
+efficient processes 
+
+through leveraging 
+
+technology
+
+Developing and growing 
+
+our talent 
+
+For enhanced 
+
+managerial and 
+
+talent capability, and 
+
+opportunities for growth
+
+Engaging every 
+
+employee in our 
+
+transformation
+
+For high engagement 
+
+and organisational drive
+
+KEY ACTIVITIES IN FY2020/21
+
+Best Ambassador of the Year Awards
+
+Best Ambassador of the Year (“BAOY”) is SingPost’s annual awards event held in October to coincide with the World Post Day as we 
+
+recognise exemplary members of our SingPost family who consistently demonstrate our core values, delight and positively impact 
+
+our customers. 
+
+Sense of Pride in Donning New Uniforms
+
+In conjunction with World Post Day on 9 October 2020, and as the final phase in a year-long 
+
+refresh of SingPost’s frontline image, SingPost launched a series of new uniforms for over 1000 
+
+uniformed staff members across the company. This is the first full redesign of postal uniforms 
+
+since 2011. As a nod to SingPost’s 163 years of history, this suite of garments features SingPost’s 
+
+corporate colours, in strong distinct blocks that represents the organisation’s energetic force and 
+
+the bold and bright vision we have as we usher in a new era of transformation. 
+
+In designing these refreshed uniforms, we consulted our staff and incorporated considerations 
+
+that prioritised practicality and comfort in their respective roles while bringing across a 
+
+contemporary feel. For our postmen, these considerations resulted in the use of lightweight 
+
+materials, the feature of several prominent reflective strips designed with safety on the roads 
+
+in mind, and also the incorporation of ventilation flaps with an inner mesh on the back to 
+
+ensure that the postman remains cool and well-ventilated as they carry out their work. Apart 
+
+from postmen and postwomen, our SpeedPost parcel ambassadors, postal workers within our 
+
+processing facility and all operational supervisors have also been issued new uniforms. 
+
+In parallel with the uniform launch, we also created our first-ever collection of Digital Lookbooks 
+
+and Uniform Guides and held a photo contest for our uniformed team members. Overall, 
+
+SingPost hopes that our staff will feel a sense of pride in donning their new uniforms and 
+
+continue to perform their duties with the goal of providing quality services for all our customers.
+
+assigned to employees in order to embed a 
+
+strong compliance culture. 
+
+As one of the first few unionised companies 
+
+in the Trade and Connectivity sector, we 
+
+sealed our commitment to upskill our 
+
+frontline workers through the formation 
+
+of the Company Training Committee 
+
+(“CTC”) in 2019 to help strengthen training, 
+
+heighten productivity and enhance 
+
+capabilities of our employees in an 
+
+ever-evolving logistics and eCommerce 
+
+landscape. In FY2020/21, in line with CTC 
+
+goals of strengthening skills and adapting 
+
+to COVID-19’s measures, SingPost made 
+
+steady progress in upskilling our postal 
+
+frontline staff in the areas of digital 
+
+readiness, with the use of smart device 
+
+applications as well as service excellence 
+
+modules while supervisors undergo 
+
+training on driving performance and 
+
+managing effective work teams.  Working 
+
+with various service partners, our post 
+
+office front-liners too underwent specially 
+
+designed and curated virtual trainings 
+
+which include the Workforce Skills 
+
+Qualifications’ (“WSQ”) Professional Image 
+
+and Etiquette for Effective Communications 
+
+training.  Since the launch of CTC, SingPost 
+
+has successfully upskilled more than 
+
+900 frontliners.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+
+
+
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+23
+
+ANNEX - KEY FEATURES OF THE NEW POSTMAN UNIFORM
+
+
+
+Velcro name tags
+
+Easy to put on, does not drop 
+
+easily during work
+
+Foldable sleeves
+
+To create a smart short-
+
+sleeve look
+
+Side-seam pocket
+
+Safety boots
+
+Adjustable Velcro strap
+
+Inner chest pocket
+
+Reflective safety strips
+
+Improves visibility of postmen 
+
+while they are on the road
+
+Back of shirt
+
+Ventilation flaps ensure postmen 
+
+stay cool and well-ventilated
+
+65% Polyster  |  35% Viscose
+
+  Key features :
+
+  • Breathable material
+
+  • Light weight
+
+  • Does not crease easily
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Our Employees6                   
+
+FY2018/19
+
+FY2019/20
+
+FY2020/21
+
+Total number of employees
+
+All
+
+4,165
+
+4,184
+
+4,057
+
+Percentage of employees, by gender
+
+Male
+
+52%
+
+52%
+
+50%
+
+Female
+
+48%
+
+48%
+
+50%
+
+Total number and percentage of employees, by employment contract and gender [GRI 102-8a]
+
+Permanent employees
+
+2,724
+
+2,757
+
+2,592
+
+Male
+
+68%
+
+67%
+
+65%
+
+Female
+
+32%
+
+33%
+
+35%
+
+Contract employees
+
+1,441
+
+1,427
+
+1,465
+
+Male
+
+23%
+
+22%
+
+25%
+
+Female
+
+77%
+
+78%
+
+75%
+
+Total number and percentage of employees, by employment type and gender [GRI 102-8c]
+
+Full-time employees
+
+3,186
+
+3,206
+
+3,115
+
+Male
+
+65%
+
+64%
+
+62%
+
+Female
+
+35%
+
+36%
+
+38%
+
+Part-time employees
+
+979
+
+978
+
+942
+
+Male
+
+12%
+
+12%
+
+12%
+
+Female
+
+88%
+
+88%
+
+88%
+
+102-7
+
+102-8
+
+Appendices
+
+ 6 There was a restatement of numbers to accurately capture all headcount
+
+per the reporting scope.
+
+
+SingPost Sustainability Report 2020/21
+
+24
+
+Going above and beyond regulatory 
+
+compliance is important to us as it reinforces 
+
+our fundamentals: to be a law-abiding 
+
+corporate citizen and fulfil our duties to the 
+
+communities we serve, and to serve the best 
+
+interests of all our stakeholders. 
+
+COMPLIANCE 
+
+WITH LAWS AND 
+
+REGULATIONS
+
+OUR CHANGE MAKERS
+
+• Audit Committee (“AC”)
+
+• Board Risk and Technology Committee (“BRTC”)
+
+• Local Compliance Function
+
+• Group Compliance Function
+
+OUR MANAGEMENT TOOLS
+
+Our internal policies that cover several levels of oversight 
+
+and focus on different enterprise-level functions, 
+
+including:
+
+  • Board Oversight
+
+  • Employee Conduct
+
+  • Vendor Relationships
+
+  • Workplace Safety
+
+See below for a complete list of policies.
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+No significant fines or non-monetary sanctions relating to 
+
+non-compliance with laws and regulations
+
+IMDA regulates SingPost’s postal performance by setting 
+
+Quality of Service (“QoS”) standards for letter deliveries. 
+
+For the January-March and October-December periods, 
+
+SingPost met QoS standards for  the delivery of Local and 
+
+International Basic Letters (IMDA suspended the Quality 
+
+of Service standards for postal services from March to 
+
+September 2020 due to the COVID-19 pandemic). Please 
+
+see the “Customer Satisfaction” section of our report for 
+
+more details on our QoS performance.
+
+There were no significant fines or non-monetary sanctions 
+
+in the reporting year.
+
+307-1
+
+416-2
+
+417-3
+
+417-2
+
+419-1
+
+OUR TARGETS
+
+Going Beyond
+
+Compliance
+
+SingPost Sustainability Report 2020/21
+
+24
+
+
+SingPost Sustainability Report 2020/21
+
+25
+
+As Singapore’s designated Public Postal 
+
+Licensee, SingPost has the responsibility 
+
+to uphold the highest levels of business 
+
+conduct and integrity across our 
+
+operations. SingPost’s robust suite of 
+
+internal corporate governance policies and 
+
+procedures serve to guard SingPost against 
+
+any potential incidence of non-compliance. 
+
+The significance of various types of non-
+
+compliance is determined by a heat map, 
+
+where the incident is mapped based on 
+
+likelihood of occurrence and magnitude 
+
+SingPost’s internal governance policies function as an effective tool that enables us to comply with the relevant laws and regulations we 
+
+are tied to. As a large organisation with diverse operations, we are bound by various regulations, both local and international; beyond 
+
+compliance to these law enforcement tools, we go the extra mile to serve the best interests of all our stakeholders.
+
+BEING COMPLIANT IS OUR FOUNDATION FOR SUCCESS
+
+of impact to produce a final residual risk 
+
+rating that determines the significance of 
+
+the breach.
+
+To strengthen the effectiveness of the 
+
+compliance function within SingPost 
+
+Group, the Group Compliance Function was 
+
+established to oversee and monitor the 
+
+Compliance Risk Management and control 
+
+systems. In tandem, the Group Compliance 
+
+Charter (“GCC”) has been rolled out 
+
+to define the scope of the Compliance 
+
+Function and the methodology behind 
+
+compliance risk management. To further 
+
+strengthen compliance at SingPost, the 
+
+Local Compliance Function (“LCF”)  and 
+
+Privacy Liaison (“PL”) perform supporting 
+
+roles towards the Group Compliance on 
+
+compliance areas across the Group.
+
+We continue to regularly monitor and 
+
+evaluate our key business activities for 
+
+continual improvement. 
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Compliance with Laws 
+
+and Regulations
+
+EFFECTIVE CORPORATE 
+
+GOVERNANCE CULTIVATES 
+
+A COMPANY CULTURE 
+
+OF INTEGRITY AND 
+
+ACCOUNTABILITY
+
+Board Oversight
+
+Employee Conduct
+
+Vendor Relationships
+
+Workplace Safety
+
+• Board Renewal &amp;
+
+   Tenure Policy
+
+• Code of Business Conduct 
+
+   and Ethics
+
+• Policy on Diversity and 
+
+   Inclusivity
+
+• Policy on Professional 
+
+   Development of Directors
+
+• Securities Trading Policy
+
+• Anti-Bribery and Corruption 
+
+   (“ABC”) Policy
+
+• Code of Conduct
+
+• Personal Data
+
+   Protection Policy
+
+• Whistle-Blowing Policy
+
+• Supplier Code of Conduct
+
+• Group Procurement Policy
+
+• Workplace Safety &amp;
+
+   Health Policy
+
+• Work Injury Compensation 
+
+   Policy
+
+• Business Continuity
+
+   Management Policy
+
+SingPost’s Internal Management Policies (Non-Exhaustive)
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+26
+
+As a postal and logistics operator with a global reach, it is key for SingPost to be kept 
+
+up to date on current international sanctions due to their potential large impacts on the 
+
+logistics industry. 
+
+SingPost’s Group Compliance Function broadcasts an updated list of sanctioned countries 
+
+monthly, based on several international sanctions lists. This is to ensure that no SingPost 
+
+subsidiary, affiliate or business unit books sales with consignees or agents that deal 
+
+with a port or destination that is sanctioned. SingPost aims to reduce and achieve zero 
+
+transactions with the countries as far as possible.
+
+In this reporting year, as part of our commitment to go beyond and keep abreast of global 
+
+developments, SingPost has bought access rights to industry-standard data platforms 
+
+that provide real-time information on international statutes on sanctions, privacy 
+
+regulations and oversight. All these activities reduce the risk of supply chain disruptions, 
+
+as well as our involvement with undesirable third parties.
+
+KEEPING UPDATED WITH INTERNATIONAL SANCTIONS
+
+Sanction Regimes/Lists that SingPost 
+
+Group Draws Reference from Include:
+
+• Office of Foreign Asset Control  
+
+   (“OFAC”) Sanctions List
+
+• Singapore Customs Sanctioned 
+
+   Lists (implementation of the 
+
+   Resolutions passed by 
+
+   the United Nations Security 
+
+   Council (“UNSC”) in Singapore’s 
+
+   domestic laws)
+
+• United Nations Security Council
+
+   Consolidated List
+
+• Financial Action Task Force’s 
+
+   High-risk and other
+
+   monitored jurisdictions
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Examples of Regulations that SingPost Adheres to:
+
+Relevant Legislation 
+
+(including but not limited to)
+
+Singapore Exchange Regulations (“SGX RegCo”)
+
+As a publicly listed company, SingPost is subjected to SGX RegCo, a wholly-owned subsidiary of Singapore 
+
+Exchange ("SGX") that undertakes all frontline regulatory functions to uphold a fair, orderly and 
+
+transparent marketplace. SingPost’s governance policies form the backbone of our robust internal control 
+
+system to ensure that our operations comply with SGX Listing Rules. 
+
+• SGX Listing Rules
+
+Postal Regulations
+
+IMDA regulates SingPost’s performance by setting Quality of Service (“QoS”) standards for deliveries, and 
+
+our targets are to meet or exceed these standards. 
+
+The Company is required to submit quarterly reports regarding its service quality to the IMDA. Monthly 
+
+letter tests and audits are conducted by appointed independent assessors to measure these service 
+
+standards and the results are submitted to the IMDA. IMDA announces the results of SingPost’s QoS 
+
+performance each year.
+
+SingPost’s Postal QoS standards remain one of the most stringent in the world, with delivery standards of 
+
+100% for basic letters and registered letters posted by the second working day.
+
+• Postal Services Act (Cap 237A)
+
+• Postal License
+
+• Postal Services Regulations
+
+• Postal Services Operations Code
+
+• Postal Competition Code
+
+Anti-Corruption Regulations
+
+We are committed to conducting our businesses with utmost integrity, transparency and honesty, as well 
+
+as implementing and enforcing effective systems to counter bribery and corruption. Recognising that any 
+
+lapses has a direct bearing on our reputation and loss of confidence from our stakeholders, we continually 
+
+strengthen our systems in line with the applicable legislations.
+
+• Prevention of Corruption Act (“PCA”) 
+
+• Penal Code
+
+• Corruption, Drug Trafficking and 
+
+   Other Serious Crimes (Confiscation 
+
+   of Benefits) Act
+
+• UK Bribery Act (“Bribery Act 2010”) 
+
+• US Foreign Corrupt Practices Act 
+
+   of 1977 (“FCPA”)
+
+Data Protection and Privacy Regulations
+
+The workflow and processes of our operations is consistently reviewed by our legal, compliance and 
+
+operation teams to ensure the security of our data. Our internal Privacy Policy provides information 
+
+relating to collection, use, and disclosure of personal data. In addition, our PDPA Handbook provides 
+
+information on SingPost’s framework of compliance to PDPA and is made available through SingPost’s 
+
+intranet, “SPhere”.
+
+• General Data Protection Regulation EU 
+
+   regulation 2016/679 (“GDPR”) 
+
+• Personal Data Protection Act
+
+   2012 (“PDPA”)
+
+Workplace Safety &amp; Health Regulations
+
+We are committed to providing a healthy and safe work environment for our staff, and we seek to perform 
+
+beyond regulatory requirements to protect their rights and welfare. Our Group Workplace Safety &amp; 
+
+Health (“WSH”) Policy and Work Injury Compensation (“WIC”) Policy are set in line with relevant acts and 
+
+legislations, outlining our commitment towards a safety culture of zero accidents, injuries or damage to 
+
+the assets and human resources of SingPost.
+
+• Employment Act
+
+• Retirement &amp; Re-employment Act
+
+• Workplace Safety &amp; Health 
+
+   (“WSH”) Act
+
+• Work Injury Compensation (“WIC”) Act 
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+27
+
+Our stakeholders place their trust in us to 
+
+do good and it matters that this trust is not 
+
+misplaced. We remain steadfast in upholding 
+
+our business ethics and integrity to the 
+
+highest levels, and adopt a zero tolerance 
+
+stance for fraud, corruption and unethical 
+
+actions, We also strive to work with 
+
+like-minded individuals and entities who 
+
+resonate with our values and sustainable 
+
+development objectives.
+
+Honesty, Our Best Policy
+
+ETHICS, 
+
+ANTI-BRIBERY AND 
+
+CORRUPTION
+
+OUR CHANGE MAKERS
+
+• Audit Committee (“AC”)
+
+• Board Risk and Technology Committee (“BRTC”)
+
+• Ethics Committee
+
+OUR MANAGEMENT TOOLS
+
+• Anti-Bribery &amp; Corruption Policy
+
+• Anti-Money Laundering and Countering the Financing 
+
+   of Terrorism Policy
+
+• Code of Business Conduct and Ethics
+
+• Code of Conduct
+
+• Enterprise Risk Management Framework
+
+• Policy on Directors’ Conflicts of Interest
+
+• Supplier Code of Conduct
+
+• Whistle-blowing Policy
+
+• Securities Trading Policy
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+Uphold anti-corruption and ethical behaviour
+
+There were zero cases of corruption and unethical behaviour.
+
+Communication and training about anti-corruption policies 
+
+and procedures
+
+Annual anti-bribery and corruption compliance declaration 
+
+exercise conducted for 99.9% of all employees
+
+205-2
+
+205-3
+
+OUR TARGETS
+
+SingPost Sustainability Report 2020/21
+
+27
+
+
+SingPost Sustainability Report 2020/21
+
+28
+
+Ethics,
+
+Anti-bribery and 
+
+Corruption 
+
+OUR CORE VALUES FOSTER AND UNDERPIN A CULTURE 
+
+OF OPENNESS, TRUST AND ACCOUNTABILITY
+
+IT IS IMPORTANT TO US THAT WE MANAGE RISKS THAT MAY 
+
+COMPROMISE OUR VALUES AND INDEPENDENCE
+
+T
+
+o
+
+t
+
+a
+
+l 
+
+C
+
+u
+
+s
+
+t
+
+o
+
+m
+
+e
+
+r
+
+T
+
+o
+
+p
+
+ 
+
+E
+
+x
+
+e
+
+c
+
+u
+
+t
+
+i
+
+o
+
+n
+
+O
+
+n
+
+e
+
+ 
+
+T
+
+e
+
+a
+
+m
+
+T
+
+r
+
+a
+
+n
+
+s
+
+f
+
+o
+
+r
+
+m
+
+a
+
+t
+
+i
+
+o
+
+n
+
+T
+
+r
+
+u
+
+s
+
+t
+
+CORE
+
+VALUES
+
+SingPost’s Employee Code of Conduct 
+
+(“COC”) sets out the principles to guide 
+
+SingPost Group Employees (including all 
+
+employees of SingPost and its subsidiaries) 
+
+in carrying out their duties and 
+
+responsibilities to the highest standards 
+
+of personal and corporate integrity. The 
+
+COC also covers and references the Anti-
+
+Bribery and Corruption Policy. Compliance 
+
+to the COC is mandatory, and a declaration 
+
+exercise is carried out annually where 
+
+all employees are required to read and 
+
+endorse their understanding of the 
+
+provisions lined out in the policy.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+102-16
+
+In accordance with the COC, our employees 
+
+are required to disclose any conflict 
+
+of interest as soon as they identify a 
+
+possibility, and where possible, before 
+
+they engage in the conduct in question. 
+
+They are required to make declarations 
+
+annually and to provide updates where 
+
+appropriate. Guidelines relating to 
+
+entertainment, receipt and offer of gifts are 
+
+also established. Moreover, our employees 
+
+are required to ensure that all business 
+
+dealings and decisions are legitimately 
+
+made for the interest of SingPost and 
+
+are not conducted under any improper 
+
+influence or advantage. 
+
+To ensure that SingPost’s zero tolerance 
+
+stance towards fraud, corruption and 
+
+unethical actions is adhered to, relevant 
+
+policies and procedures are made 
+
+accessible to all our employees via the 
+
+company intranet. For new employees, 
+
+training modules that introduce them to the 
+
+company’s COC are part of the onboarding 
+
+process, and they are required to read and 
+
+endorse the COC in writing.
+
+OUR STAKEHOLDERS ARE EMPOWERED TO DRIVE OUR ETHICAL CULTURE 
+
+Our Whistle-Blowing Policy sets out 
+
+the guidelines under which our internal 
+
+and external stakeholders are able to 
+
+raise concerns about possible matters 
+
+of improprieties or wrongdoings in 
+
+confidence. All whistle-blowing reports 
+
+received will be investigated promptly, 
+
+professionally, fairly and honestly. Where 
+
+appropriate, the matter will be escalated to 
+
+the relevant law enforcement 
+
+authorities for their investigation 
+
+and further action. Findings from the 
+
+investigations and the follow-up actions 
+
+taken or to be taken will be reported to
+
+the SingPost Audit Committee.
+
+To align with our Anti-Money Laundering 
+
+policy, we conduct proper due diligence 
+
+on any company that SingPost will be 
+
+establishing a business relationship 
+
+KEY ACTIVITIES IN FY2020/21
+
+Instilling Ethical Knowledge and Behaviour in our Employees
+
+It is important for SingPost to ensure that all employees are aware of the Employee Code of Conduct and adhere to the appropriate 
+
+behaviour set out therein. During the COVID-19 pandemic and resulting circuit breaker, SingPost launched three internal e-learning 
+
+modules on the Group’s e-learning platform that cover the Group Privacy Foundation, PDPA for Singapore Employees and Anti-Money 
+
+Laundering, with a fourth module on Anti-Bribery and Corruption still in development. These e-learning modules aim to promote 
+
+awareness on ethical behaviour and contribute to maintaining a positive corporate culture in the workplace. We plan to roll out more 
+
+training materials including other internal governance topics such as Anti-Competition in due course.  
+
+
+
+
+
+
+
+Screenshots of the Anti-Money Laundering module that incorporates scenario-based questionnaires, interactive learning 
+
+and a final assessment to test employee knowledge and understanding of the topic taught
+
+102-17
+
+with or has an established business 
+
+relationship that involves the transfer or 
+
+receipt of funds. Any suspicious transaction 
+
+or red flag that has been determined 
+
+will be escalated to Group Compliance 
+
+immediately. Furthermore, as part of 
+
+record-keeping, employees are obliged to 
+
+maintain records of proper due 
+
+diligence undertaken.
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+29
+
+Today, we live in a digital age. As data grows, so do the risks involved. 
+
+Cyberattacks, data fraud and theft continue to rank highly in their 
+
+likelihood and impact on shaping the world’s risk landscape7.  It is 
+
+thus a business imperative for us to dutifully protect our corporate 
+
+data and that of our stakeholders with the highest standards of data 
+
+security and privacy.
+
+Safeguarding a Digital World
+
+DATA 
+
+SECURITY AND 
+
+PRIVACY
+
+OUR CHANGE MAKERS
+
+• The Board Risk &amp; Technology Committee has oversight    
+
+   of risk management
+
+• Group Chief Information Officer, Group Data Protection 
+
+   Officer, as well as all departments are responsible for 
+
+   integrating the approach in daily operations
+
+OUR MANAGEMENT TOOLS
+
+• Enterprise Risk Management Framework
+
+• Information Classification and Handling Policy 
+
+• Information Security Policy
+
+• Group Privacy Foundation
+
+• Group Personal Data Protection Policy
+
+• Cybersecurity Framework
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+Uphold the highest standards of data privacy protection8
+
+One personal data breach was reported to and verified by the 
+
+Group Data Protection Officer (“GDPO”). GDPO confirmed 
+
+that adequate remediation has been undertaken and follow 
+
+up measures have been implemented to mitigate similar 
+
+occurrence in the future.
+
+   Compliance with the Personal Data Protection Act (“PDPA”)
+
+SingPost has fully complied with the PDPA during the 
+
+reporting year.
+
+418-1
+
+OUR TARGETS
+
+SingPost Sustainability Report 2020/21
+
+29
+
+7 World Economic Forum, “The Global Risks Report 2021”
+
+8 The perpetual target has been rephrased to better reflect SingPost’s performance. 
+
+
+SingPost Sustainability Report 2020/21
+
+30
+
+Data Security 
+
+HAVING THE RIGHT PEOPLE TO PROTECT
+
+OUR ASSETS
+
+STRENGTHENING DATA INTEGRITY AND 
+
+PROTECTION IS PARAMOUNT IN A DIGITAL AGE
+
+The Board Risk and Technology Committee (“BRTC”), which 
+
+comprises directors with competencies in risk management and 
+
+technology, provides oversight with respect to risk management 
+
+and technology in implementing the business strategies of the 
+
+Group. Supporting the BRTC is the Group Technology division, 
+
+which handles the day-to-day operations with regards to SingPost’s 
+
+information system.
+
+Cybersecurity is one of our top risk concerns due to digitisation 
+
+and increased use of the internet in our business space leading to 
+
+increased exposure to cyber risks. We are committed to protect our 
+
+customer’s personal data, build our resilience in data security and 
+
+improve our response to cyber threats. We also seek to minimise 
+
+the potential impact of any incident and to recover from it as 
+
+quickly as possible.
+
+Our Group Information Security Policy provides guiding principles 
+
+and key controls to identify threats, protect, detect, respond to 
+
+cyber-attacks and recover from incidents. As part of SingPost’s 
+
+Enterprise Risk Management (“ERM”) Framework, our data 
+
+security policies and manuals are communicated to all employees. 
+
+These policies are reviewed yearly, and updated where necessary, 
+
+to ensure continual relevance regulations and industry practices. 
+
+Furthermore, we have adopted the US National Institute of 
+
+Standards and Technology (“NIST”) Cybersecurity Framework and 
+
+leveraged on it to outline our framework, with efforts focusing on 
+
+Process, Technology and People, as illustrated in the figure below. 
+
+P
+
+E
+
+O
+
+P
+
+L
+
+E
+
+T
+
+E
+
+C
+
+H
+
+N
+
+O
+
+L
+
+O
+
+G
+
+Y
+
+P
+
+R
+
+O
+
+C
+
+E
+
+S
+
+S
+
+Identify
+
+Review our Cybersecurity General Controls and 
+
+identify area of improvement on security operations.
+
+Implement risk-based vulnerability management 
+
+programmes to improve our cyber risk prioritisation 
+
+and mitigation.
+
+•
+
+•
+
+Implement security protection 
+
+initiatives covering Group-wide 
+
+assets and subsidiaries to 
+
+strengthen the cyber resilience of 
+
+our processes    and technology.
+
+•
+
+Put in place surveillance and 
+
+24/7 security monitoring, 
+
+including actively taking down 
+
+malicious online sites.
+
+•
+
+Protect
+
+Conduct Group-wide critical system 
+
+Disaster Recovery exercise to ensure 
+
+that our systems and people are 
+
+adequately prepared to perform 
+
+recovery procedures.
+
+•
+
+Recovery
+
+Detect
+
+Ensure that adequate resources are 
+
+in place to respond to incidents.
+
+•
+
+Respond
+
+Technology
+
+Our Group Technology ("GT") division constantly 
+
+reviews SingPost's cybersecurity threat landscape 
+
+and identiﬁes new technology to improve our 
+
+security operations. External consultants are also 
+
+engaged to provide feedback on our cybersecurity 
+
+readiness. Security experts also conduct an annual 
+
+vulnerability assessment and performs security 
+
+monitoring 24/7.
+
+People
+
+Every staff has a role to play in our cybersecurity 
+
+defence. As most cyber attacks occur due to human 
+
+errors, we place strong emphasis in educating and 
+
+evaluating our staff in their awareness towards 
+
+cybersecurity.
+
+Process
+
+Our Group Technology division conducts regular 
+
+reviews of the Group's cybersecurity environment to 
+
+identify new approaches and methods in improving 
+
+our cybersecurity threat management processes, 
+
+which includes the ﬁve elements of the NIST 
+
+Cybersecurity Framework, as shown in the diagram 
+
+on the left.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+31
+
+SURVIVING IN THE COVID-19 DIGITAL LANDSCAPE
+
+WE ENSURE THAT WE HAVE THE RIGHT 
+
+PROCESSES IN PLACE
+
+With an increase in alternative work arrangements due to the COVID-19 pandemic, there has been a growth in internet traffic which 
+
+presents higher risks for cyberattacks, phishing and scams. In response to this, SingPost has been working with our partners to actively 
+
+take down phishing and fraudulent sites, while strengthening our perimeter controls, as well as our detection and response capabilities. 
+
+Furthermore, SingPost has been working closely with authorities such as the Singapore Police Force in its nation-wide effort to thwart 
+
+cybercrimes, as well as receiving timely information on cyber threats. In FY2020/21, all data security findings have been rectified. 
+
+As cyber threats evolve, SingPost will continue to build on our cyber 
+
+resilience and prepare our people to defend our business. We work 
+
+with key stakeholders to deploy various means to monitor, measure 
+
+and review our systems, as well as stress-test our response across 
+
+different scenarios. These include:
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Element
+
+Processes
+
+1. Identify
+
+We engage in rigorous internal and external audits on our information systems annually.
+
+• We constantly review our Cybersecurity General Controls and identify areas to improve our security operations, with the help 
+
+of Group Internal Audit. Scope of audit is reviewed annually following the organisation risk landscapes and to address any 
+
+emerging threat.
+
+• External consultants are engaged to assess and provide feedback on our Cybersecurity readiness. Its cybersecurity subject 
+
+matter experts conduct stress-testing security controls of our critical systems and review their compliance to Group Policy 
+
+and regulatory requirements.
+
+• Internally, we continue to implement a comprehensive threat and vulnerability management programme, strengthen our 
+
+cybersecurity hygiene and further invest into layered defence capabilities.   
+
+2. Protect
+
+We organise initiatives to increase employees’ awareness on data security.
+
+• We organise bi-monthly gamified security awareness programmes for our employees on Information Security via the 
+
+e-learning platform, which is further supplemented by a broad-based awareness programme with targeted phishing 
+
+campaigns.
+
+• Unlike our spear phishing exercise which was conducted by external agency for top management in the last financial year, our 
+
+spear phishing exercises are conducted in-house and was extended to all employees in FY2020/21.
+
+3. Detect
+
+We review the cybersecurity threat landscape in tandem with our security posture to identify new approaches and methods 
+
+to improve our cybersecurity resilience.
+
+• We engage Bitsight, a cybersecurity ratings company, for a data-driven measurement of our cybersecurity performance 
+
+and monitor our ratings every quarter to keep it within our target range. Should ratings fall, we will take the necessary 
+
+improvement actions based on the recommendations provided by Bitsight.
+
+• Cybersecurity cuts across entire Group businesses, we provide regular updates to senior management and risk committees to 
+
+keep them updated on key development of Cybersecurity program as well as cyber threat landscapes and incidents in relation 
+
+to the Group. 
+
+4. Respond
+
+We focus on building our capability in responding to IT disasters.
+
+• We engage Managed Security Services to provide round the clock monitoring of the Group’s resources and alerting the 
+
+Cybersecurity team to take the necessary actions on identified threats.
+
+• Our Crisis Management Team ensures that our people and systems are well prepared to respond to incidents through 
+
+trainings such as the Disaster Recovery and Tabletop exercises.
+
+• We also have in place a Data Breach Management Plan that sets out the policies and procedures for all employees and agents 
+
+of SingPost to respond to personal data breaches promptly and effectively (see “Data Privacy” section for more details).
+
+5. Recover
+
+While we continue to strengthen our cybersecurity capabilities, we also focus on improving our people-process in effectively 
+
+responding to cybersecurity incidents via regular exercise and awareness programs.
+
+• We conduct an annual Disaster Recovery exercise for critical information systems across the SingPost organisation to 
+
+simulate most types of IT disaster situations, as well as stress test our data and IT system recovery processes.
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+32
+
+Data Privacy
+
+GREAT EMPHASIS IS PLACED ON RESPECTING THE 
+
+PRIVACY RIGHTS OF ALL OUR STAKEHOLDERS
+
+FRAMEWORKS SET A STRONG BACKBONE 
+
+FOR DATA PRIVACY REGULATION IN OUR 
+
+ORGANISATION
+
+SingPost respects the privacy of our stakeholders and hence we 
+
+treat privacy and security issues with great importance. We have in 
+
+place policies and processes to handle data with appropriate care. 
+
+This includes continuous attention and dedication to the protection 
+
+of Personal Data that we process. 
+
+To ensure SingPost’s data privacy compliance in the markets we 
+
+operate in, SingPost has access to industry-standard resources 
+
+that provide real-time information and data on international privacy 
+
+regulations and oversight. These resources also enable us to:
+
+SingPost’s Group Privacy Foundation is a framework that sets 
+
+Group-wide minimum privacy standards for the handling of 
+
+personal data at SingPost, its relevant affiliates and subsidiaries. 
+
+The policy consists of corporate guidelines regarding the 
+
+processing of personal data at SingPost, with each SingPost-
+
+affiliated entity being responsible for implementing and adhering to 
+
+these Guidelines as well as any other local legal requirements.
+
+• Conduct research and tracking of latest data protection 
+
+developments in markets where SingPost is operating in
+
+• Track legislation and regulations relating to data 
+
+protection, including news, legal research and opinion
+
+• Compare global data protection standards
+
+• Download readily available templates pertaining to data 
+
+protection for use
+
+GROUP PRIVACY FOUNDATION
+
+Transparacy and Lawfulness
+
+Purpose Limitation
+
+Accuracy
+
+•
+
+•
+
+•
+
+Storage Limitation
+
+Data Subject Rights
+
+Data Security
+
+Transfer of Personal Data to Third Parties
+
+•
+
+•
+
+•
+
+•
+
+Group Privacy Principles
+
+Principles in Compliance
+
+Policies and 
+
+Procedures
+
+System and Database 
+
+Inventory
+
+Training
+
+Monitoring and
+
+Audits
+
+Enforcement and 
+
+Disciplinary Actions
+
+Management Action 
+
+Plans
+
+Board (through Board Risk and 
+
+Technology Committee)
+
+Group Privacy Programme 
+
+Management
+
+Group Data Protection Ofﬁce
+
+GOVERNANCE STRUCTURE
+
+SingPost Privacy 
+
+Liaisons / Data 
+
+Protection Ofﬁcer
+
+SingPost Group 
+
+Afﬁliates
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+33
+
+In Singapore, the legislated Personal Data Protection Act (“PDPA”) is an additional local legal requirement to the Group Privacy Foundation, 
+
+a baseline data protection law that governs the collection and use of personal data. SingPost’s PDPA Policy is thus established with the 
+
+PDPA as the backbone. This Policy sets out specific guidelines that employees are required to comply with and provides employees with an 
+
+understanding of the PDPA’s impact on operational activities. Specifically, the PDPA details nine Data Protection Provisions that employees 
+
+must follow, as well as the processes involved in the event of a PDPA investigation.
+
+The complexity of the cybersecurity environment today suggests that even organisations with the best cybersecurity frameworks may 
+
+eventually be susceptible to a breach. To strengthen our cybersecurity against data breaches, SingPost has in place a robust Data Breach 
+
+Management Plan that provides a response framework for employees and relevant agents of SingPost to respond to any personal or 
+
+corporate data breach promptly and effectively. It also serves to contain and mitigate any adverse consequences, as well as implement 
+
+solutions to prevent future occurrences. 
+
+In the event of any data breach (or potential incidents of data breach), employees are required to report to the Data Protection Officer 
+
+immediately, who will then decide if any actual or suspected data breach should be escalated to the Data Breach Response Team. Key 
+
+elements in managing a data breach include containment and recovery, an assessment of the risks and impact, notification of the data 
+
+breach to stakeholders and affected individuals (including Personal Data Protection Commission (“PDPC”) if necessary) and an evaluation 
+
+and response. All details of the incident are logged in an incident tracking table and tracked in real-time, while the incident will be closely 
+
+monitored by the respective parties until the issue reaches a closure.
+
+Our employees are consistently reminded of the importance of data security and privacy and are equipped with a good understanding of 
+
+data protection and how it applies to the workplace.  
+
+It is essential for our employees to demonstrate knowledge and competence of the guidelines set out in SingPost’s Group Privacy 
+
+Foundation and PDPA Policy. To enhance employee learning of these essential guidelines, we have designed and updated our mandatory 
+
+e-learning modules on these specific topics (see “Ethics, Anti-Bribery and Corruption” section in this report for more details). In addition to 
+
+e-learning as a channel, SingPost has also reached out to all appointed Privacy Liaisons for business and support units to conduct training 
+
+through live videos or email as appropriate.
+
+9 Data Protection Provisions of the PDPA Policy
+
+Collection, Use and Disclosure of 
+
+Personal Data
+
+Care of Personal Data
+
+Accountability to Individuals
+
+Notification
+
+Consent
+
+Purpose Limitation
+
+Protection
+
+Accuracy
+
+Retention
+
+Transfer
+
+Access and Correction
+
+Accountability
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+PROACTIVELY PREPARING FOR POTENTIAL DATA BREACHES
+
+A CONCERTED EFFORT WHERE EVERY EMPLOYEE IS AWARE AND ACCOUNTABLE
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+34
+
+OUR CHANGE MAKERS
+
+• Crisis Management Team 
+
+• Department Heads
+
+OUR MANAGEMENT TOOLS
+
+• Business Continuity Management Framework
+
+• Emergency Response
+
+• Enterprise Risk Management Framework
+
+• IT Disaster Recovery
+
+• Workplace Safety &amp; Health Policy
+
+BUSINESS 
+
+CONTINUITY 
+
+PLANNING
+
+As the global risks intensify in scale and become more systemic in 
+
+nature, it is vital for us to remain vigilant, enhance our readiness and 
+
+continually build resilience. Prudent business continuity planning 
+
+enables us to manage risks and establish mitigative measures to 
+
+safeguard against disruptive impacts. This is necessary for quick 
+
+recovery of our critical functions so that we can continue to deliver the 
+
+exceptional service that our stakeholders are familiar with.
+
+Anticipating What’s in Store
+
+SingPost Sustainability Report 2020/21
+
+34
+
+Perpetual
+
+FY2020/21 Progress and Performance
+
+Strengthen governance and instil the Business Continuity 
+
+culture within the organisation
+
+With the Business Continuity Management Committee meeting 
+
+every quarter, and having a documented BCM framework 
+
+as well as BCP templates, the Group continues to build 
+
+upon the existing Business Continuity Culture through the 
+
+implementation of training programmes to equip employees 
+
+with the knowledge and skillset required to collectively manage 
+
+the Group’s BCM.
+
+In addition, the implementation of the BCP exercises is 
+
+currently in progress.
+
+Conduct disaster recovery exercises for critical IT
+
+systems yearly
+
+SingPost has successfully conducted disaster recovery 
+
+exercises for critical IT systems in the financial year.
+
+OUR TARGETS
+
+
+SingPost Sustainability Report 2020/21
+
+35
+
+BUSINESS CONTINUITY
+
+MANAGEMENT APPROACH
+
+Business 
+
+Continuity Planning 
+
+RISK MANAGEMENT IS A CONTINUOUS, ITERATIVE 
+
+AND INTEGRATED PROCESS
+
+WE ENSURE OPERATIONAL READINESS THROUGH 
+
+BUSINESS CONTINUITY
+
+Risks come in various forms and from different sources. Some 
+
+risks can be eliminated, some may be accepted, some can 
+
+be mitigated by transferring the risks or via action plans, and 
+
+managed as part of our business model. Our risk management 
+
+strategy involves assessing and balancing risk probabilities, 
+
+preparing for reasonable contingencies while minimising 
+
+precautionary expenditure or activity. We adopt a top-down 
+
+as well as bottom-up approach. The Group’s Enterprise Risk 
+
+Management (“ERM”) framework is modelled largely on ISO 
+
+31000:2018 Risk Management – Principles and Guidelines, and 
+
+covers the key strategic, operational, financial, compliance and 
+
+information technology risks facing the Group. The ERM framework 
+
+is supported by appropriate risk policies, procedures and provides 
+
+guidance to the Group’s various business units and support units 
+
+on managing risks. More information on risk management and 
+
+internal controls can be found in our Annual Report, pages 82-89. 
+
+Our Business Continuity Management Council with Business 
+
+Continuity Management Framework serves to drive business 
+
+continuity plan (“BCP”) efforts across the organisation, in order to 
+
+ensure minimal disruptions of our operations and a quick recovery 
+
+and continuation of critical business and operational functions. The 
+
+framework provides a direction and guidance in the implementation 
+
+of a Business Continuity Management (“BCM”) programme across 
+
+the Group. The resulting BCM programme provides a guiding 
+
+principle to the formation of a Business Continuity Plan within 
+
+business units or support units in the Group. While developing 
+
+our Business Continuity Management Framework, we referenced 
+
+the Business Continuity Management System (ISO 22301:2019), 
+
+which comprises the policy, structure, programme and process, 
+
+notification and activation process when crisis occur, as well as 
+
+programme management (as shown in the figure above).
+
+Board of Directors
+
+Chair (GCEO)
+
+Support Units
+
+Postal Business Unit
+
+Overseas
+
+Subsidiaries
+
+Crisis Management Team
+
+(Management Committee)
+
+Project Sponsor - 
+
+Postal
+
+(CEO,Pos Svcs &amp; SG)
+
+Project Sponsor - 
+
+Corporate Service
+
+(GCFO)
+
+Project Sponsor -
+
+e-Commerce &amp; 
+
+Overseas
+
+CEO, CourierPlease
+
+Secretariat
+
+BC Manager
+
+Deputy Chair
+
+(GCFO)
+
+BUSINESS CONTINUITY MANAGEMENT 
+
+COMMITTEE (“BCMC”) STRUCTURE
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+102-11
+
+ Business Continuity Management 
+
+Policy Statement
+
+Guideline 
+
+Principles
+
+Vision 
+
+Objectives 
+
+Commitment
+
+Business Continuity 
+
+Plans
+
+BCM Framework
+
+Activation
+
+Activation
+
+Master Crisis 
+
+Management 
+
+Directives
+
+Emergency 
+
+Response Plan 
+
+Owner: Property
+
+Pandemic, Haze, 
+
+Health related 
+
+Framework 
+
+Owner: WSH
+
+Crisis 
+
+Communications 
+
+Directives 
+
+Owner: Brand &amp; 
+
+Communications
+
+IT Disaster 
+
+Recovery Plan 
+
+Owner: Group 
+
+Technology
+
+Contingency Plans
+
+Structure, 
+
+Programme &amp; 
+
+Processes, 
+
+Notification &amp; 
+
+Activation
+
+Policy
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+36
+
+PROCESS IN DEVELOPING AND
+
+REVIEWING BCPs
+
+WE ENSURE THE EFFECTIVENESS OF OUR BCP 
+
+PROCESSES
+
+Systems are in place for our operations to respond to incidents, 
+
+crises and threats when they occur. We have contingency plans for 
+
+a broad swathe of scenarios including emergencies, pandemics and 
+
+security threats, as well as other forms of disruptions that might 
+
+occur in the course of our business and operations.
+
+In addition to operational response plans, we have also set out
+
+processes to communicate to our stakeholders in an open manner. 
+
+We communicate timely accounts of all incidents and the progress of 
+
+the recovery efforts that are being carried out to our stakeholders. 
+
+While the Board Risk and Technology Committee oversees BCP 
+
+strategy and progress, the Internal Audit function reviews the 
+
+BCP strategy and its implementation. Our crisis management and 
+
+communication plans are reviewed and refined regularly, as well 
+
+as updated in our BCPs. To enable our teams to respond to crises 
+
+in an organised and efficient manner, as well as expedite recovery 
+
+processes, all BCPs are periodically tested, documented and 
+
+maintained. While the implementation of the Exercise Programme 
+
+training is still underway, the remaining processes have their 
+
+respective trainings conducted for the relevant employees.
+
+STAYING RESILIENT DURING 
+
+COVID-19 PANDEMIC
+
+Before the COVID-19 pandemic hit 
+
+Singapore, SingPost’s BCM framework 
+
+underwent revision and improvements. 
+
+The thorough preparation that the 
+
+Group underwent proved its worth 
+
+when a number of our employees 
+
+were infected with COVID-19. In 
+
+response, our Crisis Management Team 
+
+formed under the BCM framework 
+
+was activated to drive the BCPs. At 
+
+the same time, our multi-divisional 
+
+SingPost COVID-19 Task Force was 
+
+formed in March 2020 according to our 
+
+BCM framework to manage the impact 
+
+of the pandemic. Please refer to “Our 
+
+Response to COVID-19” section for 
+
+more information on our COVID-19
+
+Task Force.
+
+KEY ACTIVITIES IN FY2020/21
+
+Business Continuity Leadership Training
+
+The aim of this training is to help senior management understand the critical business 
+
+functions, resources, interdependencies, prioritisation and determining their impacts 
+
+to the business. It also serves to remind them about their roles and responsibilities, 
+
+as well as to understand the key objectives of the Business Continuity Management 
+
+System (“BCMS”) and the main challenges attributed to it. Through the training, 
+
+participants will be able to better understand the BCM framework and carry out their 
+
+roles and responsibilities effectively.
+
+Business Impact Analysis Webinar Training
+
+Targeted at the Business Continuity Representatives, the training aims to help 
+
+participants to understand their roles and responsibilities with respect to the various 
+
+plans in place. It also helps the representatives to understand Business Impact 
+
+Analysis, and how they should use the Business Impact Analysis template as part of 
+
+their role in SingPost’s BCMS.
+
+Business Continuity Plan (“BCP”) Webinar Training
+
+As a follow through from the Business Impact Analysis Webinar Training, this BCP 
+
+course trains the Business Continuity Representatives to translate the information 
+
+in the Business Impact Analysis into Business Continuity Plans. In the course of 
+
+establishing the BCP, participants will learn to identify SingPost’s recovery strategies 
+
+and determine the appropriate strategy that the respective department should adopt. 
+
+In addition, recovery tasks, resources and requirements will have to be determined 
+
+by these representatives in order to support the organisation’s business continuity 
+
+objectives. Coupled with the understanding of their roles, they will then be able to use 
+
+and complete SingPost’s BCP template as part of the required  documentation process.
+
+Exercise
+
+Programme
+
+ Business
+
+Continuity Plans
+
+and Procedures
+
+ Business
+
+Continuity  Strategy 
+
+and Solutions
+
+ Business
+
+Analysis and Risk
+
+Assessment
+
+Performance 
+
+Evaluation, 
+
+Internal Audit and 
+
+Improvements
+
+OPERATIONAL
+
+PLANNING &amp;
+
+CONTROL
+
+SingPost Sustainability Report 2020/21
+
+36
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+37
+
+PASSED 
+
+111
+
+S$168,000
+
+IMDA QUALITY OF SERVICE ("QoS") 
+
+STANDARDS FROM JANUARY TO 
+
+DECEMBER 2020
+
+POST OFFICE STAFF RECEIVED THE EXSA 
+
+AWARD, OF WHICH THERE WERE 
+
+37 STAR, 15 GOLD AND 59 SILVER
+
+RAISED FOR COMMUNITY CHEST 
+
+THROUGH LAUNCH OF ASIA’S FIRST 
+
+CHARITY STAMPS
+
+Community Investment #
+
+# Not identified as a material ESG matter but reported 
+
+additionally
+
+Responsible Supply Chain
+
+Customer Satisfaction
+
+ESG MATTERS IN THIS PILLAR
+
+
+
+
+
+SOCIETAL
+
+RESPONSIBILITY
+
+We care about the lives of our 
+
+stakeholders and go the extra mile to 
+
+deliver value to them.
+
+In sustaining value creation to the people and communities we serve, we must 
+
+first ensure that our value chain is one that is responsible and resilient.
+
+“GOING BEYOND PROFITS 
+
+FOR OVER 160 YEARS, WE 
+
+CONTINUE TO BUILD
+
+RESILIENCY AND TO 
+
+CREATE VALUE TO THE 
+
+COMMUNITIES WE 
+
+SERVE”.
+
+Ng Mee Geok,
+
+Operations Executive 
+
+(Philatelic &amp; Stamps)
+
+
+
+
+SingPost Sustainability Report 2020/21
+
+38
+
+RESPONSIBLE 
+
+SUPPLY CHAIN
+
+We want to connect the world sustainably and link up with 
+
+stakeholders across our value chain to build a sustainable future. We 
+
+envisage a world where people of today are freed from the chains of 
+
+forced labour and modern slavery; where generations of tomorrow 
+
+are freed from the chains of a degraded environment left behind. As a 
+
+crucial player in the global postal, logistics and eCommerce sectors, 
+
+we too recognise our importance in shaping a responsible supply 
+
+chain with our partners.
+
+OUR CHANGE MAKERS
+
+• Group Procurement 
+
+OUR MANAGEMENT TOOLS
+
+• Group Procurement Policy
+
+• SingPost Purchasing Manual
+
+• Supplier Code of Conduct
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+Screen selected suppliers on health, safety and 
+
+environmental criteria
+
+Efforts for on-site screening of suppliers were limited given 
+
+the COVID-19 circumstance. All new suppliers with tenders 
+
+above a pricing threshold were assessed against the 
+
+requirements of Supplier Code of Conduct which includes 
+
+ESG criteria. 
+
+OUR TARGETS
+
+A World Without Chains
+
+SingPost Sustainability Report 2020/21
+
+38
+
+
+SingPost Sustainability Report 2020/21
+
+39
+
+Responsible Supply Chain 
+
+RESPONSIBILITY STARTS FROM THE WAY WE MAKE DECISIONS
+
+SingPost’s Group Procurement function is pivotal in our supply chain management and works closely with other business users and 
+
+stakeholders to source as well as procure goods and services in the most cost effective and timely manner. The function is responsible for 
+
+establishing the provisions detailed in the Group Procurement Policy, providing oversight over the sourcing and purchasing processes of the 
+
+organisation. It also ensures that the contractual terms and conditions for the procurement comply with the standards in the terms 
+
+of contract. 
+
+The SingPost Purchasing Manual continues to be the main document that sets out the objectives, approach, key principles and procedures 
+
+for the sourcing and acquisition of goods and services to support the Group’s immediate and strategic needs. The Group Procurement 
+
+Policy and Purchasing Manual commit all directors and employees who are involved with the procurement of goods  and services to follow 
+
+the key principles of:
+
+•  Able to support operational needs
+
+•  Uphold all regulatory and legal requirements
+
+•  Accountable, transparent and auditable
+
+•  Ethical
+
+•  Environmentally- friendly
+
+•  Able to uphold social responsibility
+
+•  Economically viable
+
+•  Capable of being managed from a risk perspective
+
+•  Capable of being improved continuously
+
+•  Giving a fair and equitable treatment to vendors who are supplying the goods and services
+
+SingPost is working with consultants to digitise and streamline its procurement process on a web-based platform, from selection and 
+
+due diligence of potential suppliers to monitoring of procurement activities. This platform will facilitate sustainability-related elements, 
+
+such as more detailed environmental and social screening, to be enhanced at the due diligence stage. As more functions are implemented 
+
+in the platform in time to come, SingPost will also look to integrate the above objectives listed in the Purchasing Manual into the digital 
+
+procurement process.
+
+As our suppliers are mostly based in Singapore, there were minimal disruptions to our supplies during the COVID-19 pandemic. Supply 
+
+chain includes contractors, distributors and professional services such as consultancy. 
+
+ 
+
+102-9
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+40
+
+WE WORK WITH LIKE-MINDED ENTITIES TO PROPEL THE AGENDA FOR
+
+SUSTAINABLE DEVELOPMENT 
+
+The SingPost Supplier Code of Conduct is key to our supplier management approach, and references the Ten Principles of the 
+
+United Nations (“UN”) Global Compact around Human Rights, Labour, Environment and Anti-Corruption. The Code ensures that the 
+
+values and principles that impact our business practices are also embedded in our supply chain, and addresses the following key 
+
+sustainability agendas:
+
+The Supplier Code of Conduct is publicly available on our website, and the organisation conducts on-site assessments based on a 
+
+risk-based approach to assess the adherence of selected suppliers to the Supplier Code of Conduct. The selection of suppliers assessed is 
+
+prioritised using a risk-based criteria such as the size of the vendor’s business and the industry in which they operate, and we expect that 
+
+these assessments will be further streamlined with the integration of the digital procurement platform in 2021. Any shortcomings detected 
+
+in the vendor assessments are addressed on a case-by-case basis depending on the severity of observations. SingPost continues to engage 
+
+its contractors to raise awareness on the importance of adhering to the Code, as well as explore ways to ensure stricter compliance across 
+
+all our suppliers. With regards to the on-site assessments on our suppliers’ adherence to the Supplier Code of Conduct, we have postponed 
+
+most assessments in FY2020/21 due to the COVID-19 pandemic, and prioritised higher risk vendors when conducting these checks
+
+this year.
+
+Against the challenging circumstances posed by the COVID-19 crisis on the postal delivery landscape, SingPost has adapted quickly to 
+
+secure our supply chain. Please find details on our efforts to mitigate the COVID-19 impacts for our suppliers under the “Our Response to 
+
+COVID-19” section (page 11) of the Sustainability Report.
+
+308-1
+
+414-1
+
+• Suppliers shall be honest and 
+
+transparent
+
+• Suppliers are strictly prohibited to 
+
+engage in corruption or bribery
+
+• Any potential conflict of interests 
+
+between a supplier and SingPost 
+
+must be disclosed 
+
+• Suppliers’ businesses adhere to 
+
+applicable laws and regulations
+
+• Suppliers’ financial and business   
+
+records are accurately maintained
+
+• Fair competition is practised
+
+• Suppliers must provide a safe and 
+
+healthy workplace conducive for 
+
+physical well-being
+
+• Suppliers shall ensure employees 
+
+are physically fit for work
+
+• Suppliers shall establish 
+
+environmentally-friendly and   
+
+sustainable initiatives
+
+• Suppliers must avoid use of 
+
+hazardous materials or polluting 
+
+activities
+
+• Suppliers shall implement robust 
+
+plans to mitigate effects of 
+
+business disruptions to protect 
+
+employees well-being and the 
+
+environment
+
+• Suppliers must maintain a 
+
+meritocratic working environment 
+
+to provide equal opportunities
+
+• Suppliers shall respect personal     
+
+dignity, privacy and rights
+
+• Suppliers shall ensure no child or    
+
+forced labour
+
+SUPPLIER
+
+CODE OF
+
+CONDUCT
+
+ETHICAL STANDARDS
+
+LAWS AND REGULATIONS
+
+HEALTH AND SAFETY
+
+ENVIRONMENT
+
+BUSINESS CONTINUITY PLAN
+
+HUMAN RIGHTS, DISCRIMINATION
+
+AND LABOUR STANDARDS
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+41
+
+CUSTOMER 
+
+SATISFACTION
+
+At SingPost, customers’ experience and satisfaction is what motivates 
+
+and drives our business forward. As they are of utmost importance 
+
+in contributing towards success of our business, we strive to go the 
+
+extra mile to make every delivery count. SingPost is committed to 
+
+addressing the needs and concerns of all our customers to provide 
+
+them with a positive experience in all our engagements.
+
+OUR CHANGE MAKERS
+
+• Customer Experience Team
+
+• Business units and departments across the 
+
+   whole organisation
+
+OUR MANAGEMENT TOOLS
+
+• Customer Experience Framework
+
+Perpetual Target 
+
+FY2020/21 Progress and Performance
+
+Meet or exceed IMDA’s Quality of Service (“QoS”) standards 
+
+for deliveries.
+
+Passed QoS standards from January 2020 to December 
+
+2020 with no penalty imposition.
+
+Fleet management system to be implemented in FY2021/22.
+
+Refer to the case study below on the implementation of our 
+
+Fleet Management System this reporting year.
+
+OUR TARGETS
+
+Every Delivery Counts
+
+Customer Experience
+
+DEVELOPING THE BEST EXPERIENCE FOR OUR CUSTOMERS
+
+SERVING THE CUSTOMER EACH STEP OF THE WAY
+
+To provide a positive experience for all customers and ensure that their feedbacks are heard, SingPost formed the Customer Experience 
+
+(“CX”) team in 2019. The CX team, which comprises three main pillars – Customer Insights, User Interface/Experience and Service 
+
+Excellence, engages in design, analytics and strategic implementation work related to building better customer experiences and 
+
+satisfaction across all digital as well as non-digital customer touchpoints. The CX team works closely with our co-drivers from the Service 
+
+Quality, Customer Service, Product, Sales, Operations and Technology business units to enhance products, processes and systems that 
+
+directly or indirectly contribute to the experience of our customers. 
+
+Striving to ensure customer satisfaction through all our engagements, SingPost is committed to maintaining the highest quality service 
+
+standards. As the designated Public Postal Licensee in Singapore, we are entrusted with the responsibility to ensure our business 
+
+operations meet the Quality of Service (“QoS”) standards set by the IMDA.
+
+To provide top-grade services and address the needs of each customer, our End-to-End Customer Touchpoints diagram illustrates the 
+
+various solutions we provide at each step of our value chain. For our eCommerce business, our ezyCommerce platform serves as an 
+
+end-to-end solution that integrates the entire process from parcel shipments, to storage and to fulfilment and delivery via a cloud-based 
+
+platform for customers. In addition, ezy2Ship is our online shipment management system which builds upon SingPost's delivery solutions 
+
+and streamlines bulk delivery processes. These solutions allow for increased flexibility and unlimited scale for the business customer,  
+
+while freeing up time for them to focus on their own growth.
+
+
+SingPost Sustainability Report 2020/21
+
+42
+
+SingPost End-to-End 
+
+Customer Touchpoints 
+
+*Services to some countries have been disrupted by the COVID pandemic with updates communicated to our customers via the SingPost 
+
+website on a regular basis: https://www.singpost.com/covid-19-updates/international-postal-services-updates 
+
+102-2
+
+1. Frontline 
+
+Touchpoints: 
+
+Your first and 
+
+trusted point of 
+
+contact
+
+2. Demand 
+
+Generation:
+
+Driving 
+
+revenue for our 
+
+customers
+
+3. Logistics 
+
+Solutions: 
+
+Taking your 
+
+business 
+
+across borders
+
+4. Mailing and 
+
+Returns: 
+
+Fulfilling your 
+
+last-mile 
+
+mailing needs
+
+5. Customer Feedback 
+
+Channels: Making 
+
+sure your voices are 
+
+heard
+
+Frontline 
+
+Touchpoints
+
+Demand 
+
+Generation
+
+Connectivity
+
+Last-Mile 
+
+Delivery
+
+Warehouse
+
+Return 
+
+Network
+
+Cross-Border
+
+Our post office and Post and Parcel frontliners are 
+
+trained to serve customers of different needs to 
+
+ensure their needs are met.
+
+We provide front-end and demand generation 
+
+solutions to help drive revenue for our business 
+
+customers.
+
+Our hotline, feedback 
+
+form on the website, 
+
+email and whistle-
+
+blowing channels are 
+
+available platforms for us 
+
+to hear the suggestions 
+
+and grievances from 
+
+the public which we will 
+
+act upon according to 
+
+our Standard Operating 
+
+Procedure.
+
+In addition, our dedicated 
+
+account managers 
+
+support our business 
+
+customers throughout 
+
+their customer journey 
+
+with us.
+
+We provide visibility to our customers 
+
+thoughout the logistics supply chain through                       
+
+Order Management System ("OMS"), Warehouse 
+
+Management System ("WMS") and Transport 
+
+Management System ("TMS") capabilities.
+
+Our motto “Every Delivery Counts” applies to all 
+
+deliveries we make to ensure the satisfaction of 
+
+our end customers.
+
+We fulfil our customers’ needs by providing 
+
+integrated warehouse solutions, with pick-and-
+
+pack capabilities across the Asia-Pacific region.
+
+We strive to create an efficient return network of 
+
+postage from end customers to businesses, while 
+
+ensuring an economical viable cost structure for 
+
+businesses.
+
+We provide our customers with cross-border 
+
+solutions for over 220 countries and 
+
+territories worldwide*.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+43
+
+1. FRONT-END SOLUTIONS: YOUR FIRST AND TRUSTED POINT OF CONTACT
+
+2. DEMAND-GENERATION: DRIVING REVENUE TO OUR CUSTOMERS
+
+3. LOGISTICS SOLUTIONS: TAKING YOUR BUSINESS ACROSS BORDERS
+
+SingPost is highly committed to serving our people. We believe that our service goes beyond just delivering parcels and packages, but also 
+
+to provide professional quality service tailored for every customer.  
+
+To date, we have a total of 56 Post Offices (“PO”) offering over 100 services that cover both postal and non-postal services. POPStations 
+
+(Pick Own Parcel Stations) have been installed at 140 convenient locations island-wide to allow customers to self-collect their parcels and 
+
+eCommerce purchases. To bring our services closer to communities and aid in convenience, our 300 Self-service Automated Machines 
+
+(“SAM”) started as kiosks operating beyond working hours of our post offices so that individuals can engage in services such as paying 
+
+their bills, fines, top-ups, purchase stamps and weigh packages among many others. Due to the rise in digital technology, we leverage the 
+
+increased usage of smartphones today, by extending our SAM machines from physical kiosks into multi-channels (e.g. web and mobile) to 
+
+make our services accessible anytime and anywhere.
+
+Commitment to our customers will always be our priority. As such, we have implemented a company-wide programme – Customers 
+
+First. Our frontline personnel undergo various training programmes conducted for our employees that aim to inculcate a conscientious 
+
+mindset and behaviour, both of which translate to quality service standards for all our staff. Please see the People section on page 21 of our 
+
+Sustainability Report for more details on employee trainings.
+
+SingPost also has an internal campaign, ‘Every Delivery Counts’, which was launched to ensure that the pride and service excellence 
+
+mentality is embedded across all of our operations. In terms of evaluation, the Net Promoter Score serves to measure and monitor the 
+
+performance of our services. Additionally, we have developed training roadmaps as well as learning and development programmes, such as 
+
+Powerhour training workshop and Leadership Café to upskill our employees' competencies and enable them to deliver the best service. 
+
+To help businesses expand and reach out 
+
+to a global market, SingPost eCommerce 
+
+provides our business customers with end-
+
+to-end solutions. We leverage our existing 
+
+tools and knowledge on demand-generation 
+
+which includes admail, digital marketing, 
+
+frontend development and website 
+
+management, in a bid to drive increased 
+
+revenues for our customers. In doing so, we 
+
+also tap on the use of online platforms to 
+
+aid in the creation and management 
+
+of stores. 
+
+To allow our business customers to expand their business globally, SingPost groups offers a wide range of solutions that includes 
+
+warehousing, fulfilment and shipping solutions around the world. We tap on the use of internal tools – OMS, WMS and TMS, which helps 
+
+in streamlining internal operations at SingPost. This enables our customers to stay updated and provide visibility for them throughout the 
+
+logistics supply chain.
+
+ 
+
+Internally, we seek to maximise our efficiencies and find new ways to enhance our logistics capabilities. SingPost is currently building up a 
+
+dashboard to enhance the tracking of parcel deliveries. This dashboard provides a platform which enables a holistic view of all end-to-end 
+
+operations and delivery services, and aids in the planning and forecasting of future operations though generation of trends and projections. 
+
+In addition, the dashboard is able to measure and track manpower, equipment, safety incidents, delivery volume and fulfilment, and review 
+
+Key Performance Indicators (“KPI”). 
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+44
+
+4. MAILING AND RETURNS: FULFILLING YOUR LAST-MILE MAILING NEEDS
+
+5. CUSTOMER HOTLINE AND FEEDBACK CHANNELS: MAKING SURE YOUR VOICES ARE HEARD
+
+To ensure efficiency of our services across the entire delivery chain, we recognise the importance of managing our internal logistics well. 
+
+This includes manpower, equipment, safety incident(s), delivery volume and fulfilment, and reviewing of our KPIs. To measure delivery 
+
+performance, our Customer Experience Team works closely with our Domestic Post Products Team to pinpoint relevant concerns faced by 
+
+our customers. Through the identification of these key issues, both teams then implement systemic changes to capture the root causes and 
+
+initiatives to address these gaps.
+
+SingPost highly values our postmen and recognises that their performance and interaction with customers play a huge role in enhancing 
+
+customer experience. We strive to bring out the best performance of each postman and increase job satisfaction through rewarding them 
+
+based on their daily delivery KPIs. In addition, instead of relying on KPIs and compliance with work procedures to measure the performance 
+
+of our postmen, a company-wide recognition platform was launched for postmen who have gone beyond regular duties to fulfil the interests 
+
+of our customers. We also recognise and celebrate the efforts and dedication of our exemplary postmen through various initiatives 
+
+including ‘Postman of the Month’ and ‘Celebrate Service Month’.
+
+On the customer front, to ensure customers are kept up-to-date on their parcel delivery status, we tap on the use of digital tools such as 
+
+the ‘Parcel Estimated Time of Arrival (“ETA”)’ software and other scanning applications. In FY2020/21, SingPost launched a new SingPost 
+
+Mobile App where customers can download on their mobile devices, providing a one-stop platform for all customer needs. Further details 
+
+on the application can be found under ‘Key Activities in FY2020/21’.
+
+As at the end of FY2020/21, SingPost is working to roll out our Fleet Management System (“FMS”), a digitalised system that tracks our 
+
+fleet of vehicles with map visualisation and application support. We are currently in the midst of training our personnel in the usage of the 
+
+digitalised system, and we hope to optimise our use of resources and logistics when the FMS is fully implemented and integrated into our 
+
+management operations. 
+
+Customer and employee feedback is highly valued at SingPost, enabling us to better understand and address stakeholder concerns through 
+
+implementing new initiatives. SingPost uses various engagement channels to engage with our stakeholders. Apart from hotlines, feedback 
+
+form on our website, email and whistle-blowing channels, we have launched the online chat on our website in 2019. In FY2020/21, as part 
+
+of the new SingPost Mobile App, feedback can also be provided via this channel. The various engagement channels, customer service and 
+
+contact center operations are maintained by our Customer Service Team, which seeks to ensure all concerns and enquiries are addressed 
+
+at the front line. We seek to address all enquiries within the day itself and address the issue the following day, regardless of where the 
+
+enquirer is from. This is achieved through complying with a workflow procedure implemented for each respective feedback channel.  
+
+At SingPost, we conduct the Voice of Customer (“VOC”) survey to better understand customer experience. The VOC survey measures our 
+
+annual business-to-business (“B2B”) customer experience over the lifetime of a corporate customer, and monthly business-to-consumer 
+
+(“B2C”) customer experience over a specific event or transaction. The VOC survey covers the first to last mile of the delivery process – from 
+
+physical post office, to call centers and finally to the postman. Various surveys are performed at each of these touchpoints to understand 
+
+our customer’s experience. In addition, SingPost is also tapping on digital intercept surveys via SingPost’s website and mobile app 
+
+platforms, and corresponds with our customers on social media platforms. In the next financial year, we plan to adopt the use of a CX score 
+
+methodology alongside the Net Promoter Score “NPS” that is currently being utilised to enhance the quantification of our customer loyalty 
+
+metrics and ensure their appropriateness and relevance across all our business units. Quality of Service ("QoS") standards reports are 
+
+submitted to IMDA for assessment on a quarterly basis. 
+
+ 
+
+We conduct frequent evaluations across all key customer touchpoints and key operational metrics such as postal-related grievances and 
+
+SAM machine downtimes, which are consolidated and circulated to management monthly. Moving forward, as we seek to further focus 
+
+on customer experience, digital communications and innovation, we will explore new areas of touchpoints, digital infrastructures and 
+
+surveying of customer profiles to enrich our customer insights, which will aid in the reinvention of our business.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+45
+
+KEY ACTIVITIES IN FY2020/21
+
+Fleet Management System 
+
+(“FMS”)
+
+As at the end of FY2020/21, SingPost started working on our very own Fleet 
+
+Management System (“FMS”) which we intend to roll out in FY2021/22. The FMS can 
+
+track our fleet of vehicles with map visualisation and application support. We aim to 
+
+optimise SingPost’s use of resources and logistics on the transportation side as it can 
+
+not only track vehicles, but also identify how our vehicles are currently being utilised 
+
+as well as how many vehicles SingPost needs to efficiently deliver our goods. 
+
+The FMS will be integrated into our existing Control Tower established in FY2019/20 
+
+to aid in consolidation of all data across SingPost, from operations to items delivered. 
+
+As both the Control Tower and FMS has yet to be integrated, a review utilisation of 
+
+SingPost’s fleet will be conducted at a later stage and updates to our FMS will be 
+
+highlighted in next year’s report.
+
+Enhanced SingPost Mobile 
+
+Application
+
+In November 2020, SingPost unveiled enhanced features in the SingPost mobile 
+
+application. The application now includes more intuitive features, such as a 
+
+customisable profile for quick access, and a more streamlined design, including 
+
+added security with Face and Touch ID log-ins. It acts as a one-stop-shop for 
+
+customer’s delivery needs, updates and perks, which we aim to enhance customer’s 
+
+experience and convenience, ensuring that all their needs and queries can be 
+
+addressed in the same platform. 
+
+Excellence Service Awards 
+
+(“EXSA”) 2020
+
+Launched in 1994 by the Association of Singapore Attractions and Enterprise 
+
+Singapore, EXSA is a national award which provides recognition for individuals 
+
+who have gone beyond their call of duty and provided both exceptional service and 
+
+experiences for customers. SingPost is proud to announce that in 2020, many of our 
+
+staff have clinched this award. A total of 111 post office staff received the EXSA award, 
+
+of which 37 were Star, 15 were Gold and 59 were Silver.  
+
+
+
+
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+46
+
+COMMUNITY 
+
+INVESTMENT
+
+Community investment plays a central role in our sustainability 
+
+agenda. Through various community efforts implemented, we believe 
+
+in going beyond the business and empowering the communities in 
+
+which we operate in. As we continue to be a good steward of our 
+
+postal heritage and uphold our brand reputation of being a trusted 
+
+intermediary with our stakeholders, we hope to drive a positive 
+
+change in the community and touch the lives of many through 
+
+fostering and strengthening our relationship with people from all 
+
+walks of life.
+
+OUR CHANGE MAKERS
+
+• Group Brand and Communications 
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+1 major charity campaign or initiative each year 
+
+Launch of charity stamp issuance on World Kindness
+
+Day 2020
+
+OUR TARGETS
+
+Delivering Value to Our Communities
+
+Community Investment 
+
+TOUCHING THE LIVES OF THE COMMUNITY
+
+As a trusted postal service provider with over 160 years of history, SingPost is dedicated to serving the community. With the aim of creating 
+
+shared value for the community, we are guided by our community investment policy, which focuses on three key areas of importance to 
+
+SingPost – Community Support, Heritage Preservation and Environmental Sustainability. Please refer to page 15 for more details of our 
+
+efforts on Environmental Sustainability. 
+
+SingPost's Community Focus Areas
+
+COMMUNITY
+
+SUPPORT
+
+ENVIRONMENTAL
+
+SUSTAINABILITY
+
+PRESERVING
+
+HERITAGE
+
+
+SingPost Sustainability Report 2020/21
+
+47
+
+SUPPORTING OUR COMMUNITIES
+
+PHILANTHROPY
+
+SingPost constantly seeks new opportunities to invest our resources in meaningful initiatives for the community. During this pandemic 
+
+outbreak, our delivery network undertook various COVID-19 related initiatives to help tide the community over this difficult period. We 
+
+supported Masks Sewn with Love, an islandwide initiative for volunteers to sew and donate masks to vulnerable groups. Hand-sewn masks 
+
+were collected through posting boxes and consolidated for distribution by SingPost to beneficiaries such as children and the elderly. Over 
+
+180,000 masks were collected and delivered through SingPost. We partnered Temasek Foundation on its distribution of hand sanitisers 
+
+as part of its Stay Prepared initiative, delivering pamphlets containing information on hygiene and collection details to all households 
+
+in Singapore. SingPost also sponsored the shipment of donations to families of migrant workers suffering from COVID-19, as well as 
+
+envelopes and postage for Tzu Chi’s mask initiative. 
+
+Due to the pandemic outbreak and necessary safe management measures, our Programme Silver – a community-support programme 
+
+launched in FY2018/19 that aims to help address issues arising from Singapore’s ageing population – was put on hiatus for the safety of   
+
+our community.
+
+We continue to contribute to the community through cash and in-kind donations. Our major charity initiative, a charity stamp issue, was 
+
+introduced, raising S$168,000 which was donated to Community Chest in support of MINDS (see Key Activity feature).
+
+SingPost has been a partner of Community Chest’s employee payroll donation matching programme, SHARE, since 2004, and contributed 
+
+about S$10,000 in the year. We also helped our charity partner AMKFSC Community Services raise funds with the placement of donation 
+
+tins in Post Offices to collect public donations. SingPost continues to support the annual UTES – U Care Bursary awards, contributing 
+
+S$80,000 towards bursaries for 243 children, including 103 children of our employees.
+
+SingPost's Launch of Asia's First Charity Stamps
+
+SingPost launched Asia’s first charity stamps on 13 November 2020, World Kindness Day, featuring designs drawn by four special 
+
+needs students from the Movement for the Intellectually Disabled of Singapore (“MINDS”). Sales proceeds of the stamps were 
+
+donated to Community Chest in support of MINDS, with SingPost matching donations on a dollar-for-dollar basis. With a total 
+
+of 70,000 stamps issued, as well as SingPost’s matching donation, the charity stamp initiative raised a total of S$168,000 for 
+
+Community Chest. 
+
+The stamps were launched by President Halimah Yacob. As a gesture of support, the Istana agreed to affix the charity stamps on all 
+
+seasons’ greetings sent via mail from the President’s Office during the 2020 year-end festive period.
+
+As part of our ongoing commitment towards an inclusive society, SingPost also hired three MINDS trainees to positions within our 
+
+mail processing operations and will continue to work with MINDS to train and employ prospective candidates to augment 
+
+our operations.
+
+
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+48
+
+TRANSFORMATIONAL
+
+GROWTH
+
+LAUNCHED
+
+REDESIGNED
+
+We care about the distribution 
+
+of sustainable economic value 
+
+and the important role we play 
+
+in transforming the markets we 
+
+operate in.
+
+We see the importance of building an efficient and all-rounded 
+
+postal service for the communities we serve. At SingPost, we 
+
+recognise the ever-changing business landscape and challenges 
+
+that come along. In sustaining long-term value creation for the 
+
+people and communities we serve, we must continuously innovate 
+
+to maintain a competitive edge as well as provide better products 
+
+and services to meet customer expectations. 
+
+POSTPAL SMART LETTERBOX PILOT
+
+IN DECEMBER 2020
+
+OPERATIONAL WORKFLOWS
+
+FOR OUR WAREHOUSING AND
+
+FULFILMENT BUSINESS
+
+Product and Service Innovation
+
+ESG MATTERS IN THIS PILLAR
+
+“WE SEEK TO 
+
+CONTINUALLY IMPROVE 
+
+AND INNOVATE BECAUSE 
+
+WE PLAY AN IMPORTANT 
+
+ROLE IN HELPING 
+
+OUR CUSTOMERS AND 
+
+PARTNERS SUCCEED”
+
+Mageswaran A/L Arumugam, 
+
+Postman (Woodlands
+
+Delivery Base)
+
+
+
+
+
+
+
+
+SingPost Sustainability Report 2020/21
+
+49
+
+PRODUCT 
+
+AND SERVICE 
+
+INNOVATION
+
+Innovation is at the heart of SingPost’s transformation strategy as 
+
+we enhance our adaptability and resilience in the face of a changing 
+
+business landscape. We believe that innovation will boost productivity 
+
+and efficiency within our organisation and bring about quality 
+
+enhancements to our products and services.
+
+OUR CHANGE MAKERS
+
+•  Digital Team
+
+•  Product and Innovation Teams Across Business Units
+
+Perpetual Target
+
+FY2020/21 Progress and Performance
+
+Continue to improve, explore and launch new initiatives in 
+
+our product and service offerings
+
+Launch of PostPal smart letterbox pilot
+
+Innovating for the Customer
+
+Improving Operational Efficiencies
+
+SingPost develops and improves its product and service offerings on 
+
+a regular basis, harnessing state-of-the-art technology to create new 
+
+solutions. 
+
+This year, SingPost officially launched its PostPal smart letterbox 
+
+pilot at two Housing Development Board  ("HDB") blocks at Clementi 
+
+in Singapore (refer to the PostPal case study below) and unveiled 
+
+enhanced features in the SingPost mobile application (see more details 
+
+under the “Customer Satisfaction” section of this Report).
+
+SingPost regularly evaluates the effectiveness of our new initiatives by 
+
+monitoring indicators such as service levels, system responsiveness and 
+
+customer satisfaction. We seek to continue improving our product and 
+
+service offerings on a regular basis.
+
+SmartPost, the digitalisation of SingPost’s postal operations, is a suite 
+
+of technological solutions that aims to raise postal service quality and 
+
+enhance operational efficiency with the use of technologies such as 
+
+Robotics and Near Field Communication ("NFC") tags. 
+
+Machine learning, AI and data analytic technologies have also been 
+
+utilised in the design of this last mile infrastructure as well as 
+
+optimising our operational fleet network. As these technologies are 
+
+increasingly weaved into our operations, we upskill our people and 
+
+ensure that our employees have the technical skillset to support the 
+
+data infrastructure as part of our future pipeline.
+
+OUR TARGETS
+
+The Future of Post
+
+Product and Service Innovation
+
+HARNESSING THE POWER OF TECHNOLOGY TO CREATE AN UNPARALLELED CUSTOMER EXPERIENCE
+
+Digital transformation is the future. SingPost views innovation as key to adapting to the everchanging needs of our stakeholders, and we 
+
+embrace digital technologies to keep up with emerging customer demands and pursuit of efficiency. These strategies are governed by 
+
+our Digital Team, who deliver several cross-functional projects and ensure a seamless migration of physical infrastructure into the digital 
+
+space, paving a path for the future and beyond.
+
+First showcased in September 2019, SingPost’s Future of Post vision represents a significant milestone in Singapore’s postal 
+
+history and is envisaged to transform the nation’s postal system in the next five years. Our digital solutions are built upon the 
+
+reliable and affordable postal services we have provided in Singapore for the past 163 years and look to contribute to Singapore’s 
+
+Smart Nation vision by bringing about new powerful solutions. As a steward of the environment, SingPost also taps on its 
+
+digital capabilities to increase resource efficiency across its product and service offerings. Our innovations such as PostPal also 
+
+contribute to the reduction of carbon emissions from our delivery fleet due to fewer redeliveries required. 
+
+POSTAL
+
+
+SingPost Sustainability Report 2020/21
+
+50
+
+CAPTURING OPPORTUNITIES AMIDST A GLOBAL SUPPLY CHAIN DISRUPTION
+
+TRANSFORMING THROUGH TECHNOLOGICAL ENHANCEMENTS
+
+MAKING WAY FOR FUTURE DEVELOPMENTS
+
+This year, eCommerce logistics saw a surge in demand due to movement restriction imposed by governments globally to curb 
+
+the spread of COVID-19. Quantium Solutions’ ("QS") campaign management capabilities provided our eCommerce customers 
+
+with a more efficient, versatile and scalable solution to meet such surges in demand. On the international cross-border front, 
+
+we experienced logistics challenges such as air freight connectivity issues to and from Changi Airport. To resolve this, QS  
+
+pivoted towards alternative cross-border solutions enabling minimal disruptions to our customer. 
+
+The same level of adaptability was seen in FPS Global Logistics (“FPS”), SingPost’s freight forwarding subsidiary. This year, 
+
+despite massive reductions to capacity, global equipment shortage, record-high freight rates and port congestions in the face 
+
+of the pandemic, FPS teams across our global network took an entrepreneurial approach to secure capacity and equipment; 
+
+and capture opportunities, all of which allowed FPS to emerge stronger despite the unprecedented operating environment.
+
+As part of SingPost’s overarching re-engineering strategy, we aim to enhance our value by investing in technologies to 
+
+improve efficiencies and enhance our business capabilities. This is exemplified by CouriersPlease (“CP”), one of Australia’s 
+
+leading parcel delivery services, and a subsidiary of SingPost, CP is in the midst of transforming from a traditional parcel 
+
+delivery service into a technology-enabled eCommerce courier company by investing in a range of technology and operational 
+
+enhancements and service initiatives designed to strengthen its customer value proposition. These include the implementation 
+
+of automated sortation, deployment of a new route optimisation application as well as the launch of a self-serve returns portal, 
+
+all of which aim to deliver faster, efficient and reliable service to consumers. 
+
+Recognising that the logistics sector is a major contributor of Australia’s overall carbon emissions, CP commenced an 
+
+environmental strategy to achieve carbon neutrality by 2030. In 2020, CP received LowCO2 Certification from the Carbon 
+
+Reduction Institute. As a result of CouriersPlease’s efforts to improve the environmental impact of their business mode, the 
+
+organisation received the Sustainability Innovation Award as part of the Vendors in Partnership ("VIP") Awards, an industry 
+
+celebration for solution providers who are powering the retail ecosystem.
+
+In the year ahead, SingPost eCommerce Logistics will continue to capitalise on the accelerated eCommerce growth across 
+
+the Asia-Pacific. As we continue to re-engineer our current processes to further enhance customer experience, efficiency and 
+
+scalability, we also aim to expand our warehouse fulfilment footprint in the region and strengthen our capabilities to meet 
+
+growing customer demand. A new cross-border digital platform will also be rolled out to accelerate onboardings, improve 
+
+operations and enhance data visibility to drive business decisions. 
+
+SingPost eCommerce Logistics will also continue to expand into the Business to Business to Consumer (“B2B2C”) space 
+
+on the back of strong demand. With the eCommerce volume surge brought on by COVID-19, there is now further impetus 
+
+for businesses to look for both B2B and B2C capabilities from a single provider. This B2B2C business model is a relatively 
+
+untapped space that presents much potential and SingPost is exploring opportunities to build a strong, integrated network that 
+
+can fulfil both B2B and B2C requirements within Singapore and the wider Asia-Pacific region.
+
+To this end, SingPost acquired a minority stake in Freight Management Holdings ("FMH"), a leading fourth-party logistics 
+
+business in Australia providing integrated, technology-enabled supply chain and distribution solutions. This investment 
+
+allows SingPost to further capitalise on the growing eCommerce segment in Australia while scaling up our B2B2C logistics 
+
+capabilities. Overall, we are well-positioned to build a strong, integrated B2B2C network that can fulfil both B2B and B2C 
+
+requirements for customers within Singapore as well as the wider Asia-Pacific region, especially Australia which is evolving 
+
+into a second home market for the Group.
+
+LOGISTICS
+
+SingPost’s transformation into a leader in eCommerce Logistics in recent years has allowed this business segment to prosper. 
+
+Key to our transformation strategy was a re-alignment of the product-and-service portfolio with increased emphasis on 
+
+simplification, adaptability and customer focus. We have taken an agile approach to capture growth. Coupled with operational 
+
+and process enhancements, these efforts have translated into improved profitability. This is especially critical in a time 
+
+where COVID-19 has presented both risks and opportunities. Major disruptions in global supply chains and logistics network 
+
+arose but we also saw a boom in demand for both domestic in-country and international cross-border eCommerce logistics 
+
+solutions. This required SingPost to be innovative and adaptable to ensure minimal impact to our customers.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+51
+
+FY2020/21 INITIATIVE
+
+POSTPAL – SINGPOST’S NEXT GENERATION SMART LETTERBOX
+
+As SingPost’s latest postal innovation, the PostPal smart letterbox is able to dispense letters as well as postal packages 
+
+conveniently, securely and efficiently. PostPal is a part of SingPost’s Future of Post vision to build a delivery system and 
+
+infrastructure to transform traditional letter boxes into a cutting-edge digital system to meet the future needs of postal 
+
+landscape. In December 2020, the one-year public trial for PostPal was successfully launched at Block 202 Clementi Ave 6 
+
+followed by a second PostPal rolled out in a neighbouring block a month later in January 2021.
+
+PostPal is equipped with an auto-sorting mechanism capable of accurately sorting and storing mail for individual households 
+
+reducing the postman’s burden or manual sorting as well as helping him save time. It is also customizable and is able to adjust 
+
+to the mail profile of individual blocks. Auto-sorting functionality greatly minimises misdeliveries. The resulting improvement 
+
+in efficiency, also translates to carbon emission reduction. The keyless feature of PostPal also means that residents can 
+
+retrieve their mail by using the SingPost Mobile App in a convenient and secure way, eliminating the need to use a key to 
+
+access traditional letter boxes. Residents using the SingPost app will no longer need to periodically “blind-check” their 
+
+letterboxes, as they will receive mobile notifications whenever mail addressed to them have been delivered to their block’s 
+
+PostPal. The app will also be able to check the exact number of mail items pending collection at any point in time. 
+
+Since the launch of PostPal, SingPost has received positive feedback from stakeholders and is in the process of implementing 
+
+some suggestions from the public including an improved collection door for ease of access, enhanced QR scanner and 
+
+software tweaks. We will continue collecting and evaluating feedback from customers, the insights of which will allow SingPost 
+
+to improve upon this pilot and ultimately serve our customers better.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+Keyless, convenient and safe
+
+Residents will be able to retrieve their mail by scanning a unique QR 
+
+code dynamically generated by the SingPost app at their PostPal. This 
+
+QR code veriﬁcation process is easy-to-use, convenient, and 
+
+eliminates the need to manually unlock and lock letterboxes using a 
+
+key that can be lost or duplicated. Residents can also use the app to 
+
+authorise trusted individuals to collect mail on their behalf.
+
+Mail receipt notifications
+
+Residents using the SingPost app will no longer need to 
+
+periodically "blind-check" their letterboxes, as they will 
+
+receive mobile notiﬁcations whenever mail addressed to their 
+
+residence is deposited within their PostPal. The app will also 
+
+be able to check the exact number of mail items pending 
+
+collection at any point in time.
+
+Customisable
+
+Storage modules within PostPal 
+
+can be easily adjusted to the mail 
+
+proﬁle of individual residential 
+
+blocks.
+
+Auto-sorting
+
+Each PostPal is 
+
+equipped with an 
+
+auto-sorting machine 
+
+capable of accurately 
+
+arranging and storing 
+
+mail for individual 
+
+residences. This greatly 
+
+minimises misdeliveries 
+
+due to human error 
+
+while signiﬁcantly 
+
+relieving the postman's 
+
+daily burden.
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+52
+
+APPENDICES
+
+Energy and GHG Emissions 
+
+Methodology 
+
+Total energy consumption within SingPost, reported by segment (i.e. Post &amp; Parcel, Logistics, Others)
+
+•  Fuel consumption: Total fuel consumption within SingPost, expressed in joules or multiples. This includes motor gasoline and
+
+    diesel oil used for vehicles owned or under SingPost’s operational control and excludes subcontractors’ operations.
+
+•  Electricity consumption: Total electricity consumption within SingPost, expressed in watt-hours, joules or multiples. This includes 
+
+    electricity used for leased space, buildings owned and under SingPost’s operational control, and excludes tenant space.
+
+103-1
+
+102-49
+
+102-48
+
+102-46
+
+302-1
+
+103-2
+
+305-1
+
+103-3
+
+305-2
+
+ENERGY CONSUMPTION WITHIN SINGPOST
+
+Note: Restatements were made for some of FY2019/20’s data to reflect greater accuracy, as detailed below:
+
+•  Electricity consumption in the Post &amp; Parcel segment has been updated to reflect a correction made to the consumption amount for 
+
+    SingPost Centre which previously excluded the retail segment and included tenants’ consumption, as well as to the consumption amount 
+
+    at one of our Regional Delivery Bases.
+
+•  Electricity consumption in the Logistics segment has been updated to include electricity consumption from the Lock+Store subsidiary. 
+
+The following presents the scope and boundaries across the financial years for both fuel and electricity consumption:
+
+FY2018/19
+
+FY2019/20
+
+FY2020/21
+
+Post &amp; Parcel
+
+Airmail Transit Centre 
+
+Mail deliveries 
+
+Post Offices (56)*
+
+*Excluding General Post Office. 
+
+Temporary closure of Thomson Post 
+
+Office due to renovation works in Q4.
+
+Post Offices (55)*
+
+*Excluding General Post Office. 
+
+Post Offices (56)*
+
+*Excluding General Post Office. 
+
+Regional Delivery Bases (7)
+
+SingPost Centre
+
+•  Corporate Headquarters
+
+•  Data Centre
+
+•  Mail Processing Centre
+
+•  Delivery Base
+
+•  General Post Office
+
+•  Leased retail stores
+
+SP Parcels activities and locations*
+
+*In FY2018/19, SP Parcels was moved from the Logistics segment to the Post &amp; Parcel segment
+
+Logistics
+
+SingPost Regional eCommerce Logistics Hub
+
+FPS Global Logistics activities and locations (3)
+
+Quantium Solutions activities 
+
+and locations (3)*
+
+• Regional eCommerce 
+
+Logistics Hub
+
+• 70 ALPS Avenue**
+
+• 20 Gul Way***
+
+*Excluding Airmail Transit Centre.
+
+**Closure of operations at 70 ALPS 
+
+Avenue in Q3.
+
+***Commencement of operations at 20 
+
+Gul Way in Q1.
+
+Quantium Solutions activities and locations (2)*
+
+• Regional eCommerce Logistics Hub
+
+• 20 Gul Way
+
+*Excluding Airmail Transit Centre. 
+
+Lock+Store activities and locations (13)
+
+Others
+
+Group technology offsites (2)
+
+Properties leased out (2)
+
+
+SingPost Sustainability Report 2020/21
+
+53
+
+Greenhouse gas (“GHG”) refers to gas that contributes to the greenhouse effect by absorbing infrared radiation. SingPost adopts the use 
+
+of the GHG Protocol Corporate Accounting and Reporting Standard and accounts for its direct (Scope 1) and energy indirect (Scope 2) GHG 
+
+emissions using the operational control criteria. 
+
+•  Direct (Scope 1) GHG emissions: GHG emissions from combustion of fuel used for vehicles and equipment owned or under SingPost’s 
+
+operational control. Carbon dioxide (CO2), methane (CH4) and nitrous oxide (N2O) were included in the GHG emissions calculation and 
+
+expressed in carbon dioxide equivalents (CO2e).
+
+GHG emissions were calculated using the default emissions factors from the 2006 Intergovernmental Panel on Climate Change ("IPCC") 
+
+Guidelines for National Greenhouse Gas Inventories and the respective global warming potential ("GWP") on a 100-year time horizon from 
+
+the 2014 IPCC Fifth Assessment Report.
+
+EMA’s methodologies for the compilation of the GEF are based on the United Nations Framework Convention on Climate Change 
+
+("UNFCCC") Clean Development Mechanism ("CDM") Methodological Tool. The GEF measures the average CO2 emissions emitted per 
+
+unit net electricity generated. It is calculated using the Average Operating Margin ("OM") method, the generation-weighted average CO2 
+
+emissions per unit of net electricity generation of all generating power plants serving the electricity grid. (Source: EMA)
+
+Note: Restatements were made for some of FY2019/20’s data to reflect greater accuracy, as detailed below:
+
+•   Direct (Scope 1) emissions in the Post &amp; Parcel segment has been updated to reflect a correction made to the amount of gas/diesel oil in 
+
+SingPost Centre.
+
+• Energy Indirect (Scope 2) emissions in the Post &amp; Parcel segment has been updated to reflect a correction made to the consumption 
+
+amount for SingPost Centre which previously excluded the retail segment and included tenants’ consumption, as well as to the 
+
+consumption amount at one of our Regional Delivery Bases.
+
+• Energy Indirect (Scope 2) emissions in the Logistics segment has been updated to include electricity consumption from the          
+
+Lock+Store subsidiary. 
+
+•  Energy indirect (Scope 2) GHG emissions: GHG emissions that result from the generation of purchased electricity used for offices 
+
+and buildings owned or under SingPost’s operational control and excludes tenant space. Carbon dioxide (CO2) is included in the GHG 
+
+emissions calculation.
+
+GHG emissions were calculated using the grid emissions factors ("GEF") sourced from the Singapore Energy Statistics, the Energy Market 
+
+Authority’s ("EMA") annual publication on energy statistics in Singapore.
+
+GREENHOUSE GAS (“GHG”) EMISSIONS
+
+Type of Combustion
+
+Emissions Source
+
+Emissions Factor
+
+Unit
+
+References
+
+Mobile Combustion
+
+Motor Gasoline
+
+70.92
+
+tonnes CO2e/TJ
+
+2006 IPCC Guidelines for 
+
+National Greenhouse Gas 
+
+Inventories
+
+2014 IPCC Fifth Assess-
+
+ment Report (AR5)
+
+Gas/Diesel Oil
+
+75.24
+
+tonnes CO2e/TJ
+
+Stationary
+
+Combustion
+
+Gas/Diesel Oil
+
+74.34
+
+tonnes CO2e/TJ
+
+Emissions Source
+
+SingPost’s Reporting 
+
+Year
+
+Emissions Factor
+
+Unit
+
+References
+
+Electricity Generation
+
+(Singapore Grid)
+
+FY2018/19
+
+0.4192
+
+kgCO2/kWh
+
+EMA, Singapore GEF 2017
+
+FY2019/20
+
+0.4188
+
+kgCO2/kWh
+
+EMA, Singapore GEF 2018
+
+FY2020/21
+
+0.4085
+
+kgCO2/kWh
+
+EMA, Singapore GEF 2019
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+54
+
+GRI Standards
+
+GRI Standards Disclosures
+
+Responses and/or References
+
+Identified Omissions 
+
+and Reasons for 
+
+Omissions
+
+GRI 102 (2016): 
+
+General 
+
+Disclosures
+
+Organisational Profile
+
+102-1
+
+Name of the organisation
+
+Singapore Post Limited
+
+-
+
+102-2
+
+Activities, brands, products, and services
+
+AR: 24-32, 202, 209-215
+
+SR: 6
+
+W: Our Businesses
+
+-
+
+102-3
+
+Location of headquarters
+
+Singapore
+
+-
+
+102-4
+
+Location of operations
+
+AR: 207-215
+
+SR: 5
+
+-
+
+102-5
+
+Ownership and legal form
+
+AR: 35, 174-179, 226-227
+
+SR: 6
+
+-
+
+102-6
+
+Markets served
+
+AR: 207-215
+
+-
+
+102-7
+
+Scale of the organisation
+
+AR: 43-44 
+
+SR: 23
+
+W: Business Solutions 
+
+-
+
+102-8
+
+Information on employees and other 
+
+workers
+
+SR: 23
+
+-
+
+102-9
+
+Supply chain
+
+SR: 38-40
+
+-
+
+102-10
+
+Significant changes to the organisation and 
+
+its supply chain
+
+AR: 10-13, 24-32, 36-39, 
+
+141-145, 150-153
+
+SR: 3, 11-13
+
+-
+
+102-11
+
+Precautionary Principle or approach
+
+AR: 52-54, 66-68, 82-89
+
+SR: 30, 34-36
+
+-
+
+102-12
+
+External initiatives
+
+AR: 76-82
+
+SR: 8, 21
+
+-
+
+102-13
+
+Membership of associations
+
+AR: 76-82
+
+-
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+AR: 10-13
+
+SR: 3
+
+-
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of 
+
+behavior
+
+SR: 27-28,
+
+-
+
+102-17
+
+Mechanisms for advice and concerns about 
+
+ethics 
+
+AR: 69-70
+
+SR: 28
+
+W: Whistleblowing 
+
+-
+
+The GRI Content Index summarises the GRI Standards Disclosures mapped across our material ESG topics. References are also provided 
+
+to direct readers to the key pages within this Sustainability Report and SingPost’s Annual Report FY2020/21, which can be found on the 
+
+SingPost website at https://www.singpost.com/about-us/investor-relations/annual-reports. 
+
+The full GRI Standards is available on the GRI website at https://www.globalreporting.org/standards.
+
+GRI Content Index
+
+Legend :
+
+AR: SingPost Annual Report FY2020/21 SR: SingPost Sustainability Report FY2020/21 W: SingPost Corporate Website
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+55
+
+GRI Standards
+
+GRI Standards Disclosures
+
+Responses and/or References
+
+Identified Omissions 
+
+and Reasons for 
+
+Omissions
+
+GRI 102 (2016): 
+
+General 
+
+Disclosures
+
+Governance
+
+102-18
+
+Governance structure
+
+AR: 52-55, 83-84
+
+SR: 7
+
+-
+
+102-19
+
+Delegating authority  
+
+AR: 51-55, 66-70, 83-84
+
+SR: 7
+
+-
+
+102-20
+
+Executive-level responsibility for economic, 
+
+environmental and social topics
+
+SR: 7
+
+-
+
+102-22
+
+Composition of the highest governance body 
+
+and its committees
+
+AR: 16-19, 52-55, 218-225
+
+-
+
+102-23
+
+Chair of the highest governance body
+
+AR: 16, 57-60
+
+-
+
+102-24
+
+Nominating and selecting the highest 
+
+governance body
+
+AR: 60-62
+
+-
+
+102-25
+
+Conflicts of interest
+
+AR: 52, 55-62, 69-70,
+
+       218-225
+
+-
+
+102-26
+
+Role of the highest governance body in 
+
+setting purpose, values, and strategy
+
+AR: 51-55
+
+SR: 7
+
+-
+
+102-27
+
+Collective knowledge of highest governance 
+
+body
+
+AR: 56
+
+-
+
+102-28
+
+Evaluating the highest governance body’s 
+
+performance
+
+AR: 55, 60-62
+
+-
+
+102-30
+
+Effectiveness of risk management processes 
+
+AR: 51-55, 66-68, 83-84
+
+-
+
+102-32
+
+Highest governance body’s role in 
+
+sustainability reporting
+
+SR: 7
+
+-
+
+102-35
+
+Remuneration policies
+
+AR: 54, 62-66, 97-101
+
+-
+
+102-36
+
+Process for determining remuneration
+
+AR: 54, 62-66, 97-101
+
+-
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+AR: 76-80
+
+SR: 8
+
+-
+
+102-41
+
+Collective bargaining agreements
+
+Over 50% of our permanent 
+
+staff are covered by 
+
+collective bargaining 
+
+agreement. 
+
+-
+
+102-42
+
+Identifying and selecting stakeholders
+
+AR: 76-80
+
+SR: 8
+
+102-43
+
+Approach to stakeholder engagement
+
+AR: 76-80
+
+SR: 8
+
+-
+
+102-44
+
+Key topics and concerns raised
+
+AR: 76-80
+
+SR: 8
+
+-
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+AR: 208-215
+
+-
+
+102-46
+
+Defining report content and topic boundaries
+
+AR: 76-80
+
+SR: 5, 9
+
+-
+
+102-47
+
+List of material topics
+
+SR: 9
+
+-
+
+102-48
+
+Restatements of information
+
+SR: 18, 23
+
+-
+
+102-49
+
+Changes in reporting
+
+SR: 52-53
+
+-
+
+102-50
+
+Reporting period
+
+SR: 5
+
+-
+
+102-51
+
+Date of most recent report
+
+SR: 5
+
+-
+
+102-52
+
+Reporting cycle
+
+SR: 5
+
+-
+
+102-53
+
+Contact point for questions regarding the 
+
+report
+
+SR: 5
+
+-
+
+102-54
+
+Claims of reporting in accordance with the 
+
+GRI Standards
+
+SR: 5
+
+-
+
+102-55
+
+GRI content index
+
+SR: 54-57
+
+-
+
+102-56
+
+External assurance
+
+SR: 5
+
+-
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+56
+
+Topic-specific Disclosures
+
+GRI Standards
+
+GRI Standards Disclosures
+
+Responses and/or 
+
+References
+
+Identified Omissions 
+
+and Reasons for 
+
+Omissions 
+
+Material Matter: Energy Consumption and Associated Greenhouse Gas Emissions  
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 15-19, 52-53
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 15-19, 52-53
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 15-19, 52-53
+
+-
+
+GRI 302 (2016): 
+
+Energy 
+
+302-1
+
+Energy consumption within the organisation
+
+SR: 18
+
+-
+
+GRI 305 (2016): 
+
+Emissions 
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+SR: 19
+
+-
+
+305-2
+
+Energy indirect (Scope 2) GHG emissions
+
+SR: 19
+
+-
+
+Material Matter: Compliance with Laws and Regulations  
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 24-26
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 24-26
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 24-26
+
+-
+
+GRI 307 (2016): 
+
+Environmental 
+
+Compliance
+
+307-1
+
+Non-compliance with environmental 
+
+laws and regulations
+
+SR: 24
+
+-
+
+GRI 416 (2016): 
+
+Customer Health 
+
+and Safety 
+
+416-2
+
+Incidents of non-compliance concerning the 
+
+health and safety impacts of products 
+
+and services
+
+SR: 24
+
+-
+
+GRI 417 (2016): 
+
+Marketing and 
+
+Labeling
+
+417-2
+
+Incidents of non-compliance concerning product 
+
+and service information and labeling
+
+SR: 24
+
+-
+
+417-3
+
+Incidents of non-compliance concerning 
+
+marketing communications
+
+SR: 24
+
+-
+
+GRI 419 (2016): 
+
+Socioeconomic 
+
+Compliance
+
+419-1
+
+Non-compliance with laws and regulations in the 
+
+social and economic area
+
+SR: 24
+
+-
+
+Material Matter: Ethics, Anti-bribery and Corruption    
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 27-28
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 27-28
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 27-28
+
+-
+
+GRI 205 (2016): 
+
+Anti-corruption
+
+205-2
+
+Communication and training about
+
+anti-corruption policies and procedures
+
+SR: 27
+
+-
+
+205-3
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+SR: 27
+
+-
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+57
+
+GRI Standards
+
+GRI Standards Disclosures
+
+Responses and/or 
+
+References
+
+Identified Omissions 
+
+and Reasons for 
+
+Omissions 
+
+Material Matter: Data Security and Privacy
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 29-33
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 29-33
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 29-33
+
+-
+
+GRI 418 (2016): 
+
+Customer Privacy
+
+418-1
+
+Substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data 
+
+SR: 29
+
+-
+
+Material Matter: Business Continuity Planning   
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 34-36
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 34-36
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 34-36
+
+-
+
+Material Matter: Responsible Supply Chain
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 38-40
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 38-40
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 38-40
+
+-
+
+GRI 308 (2016): 
+
+Supplier 
+
+Environmental 
+
+Assessment
+
+308-1
+
+New suppliers that were screened using 
+
+environmental criteria   
+
+SR: 38
+
+-
+
+GRI 414 (2016): 
+
+Supplier Social 
+
+Assessment
+
+414-1
+
+New suppliers that were screened using 
+
+social criteria
+
+SR: 38
+
+-
+
+Material Matter: Customer Satisfaction
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 41-45
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 41-45
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 41-45
+
+-
+
+Material Matter: Product and Service Innovation 
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic and its boundary
+
+SR: 49-51
+
+-
+
+103-2
+
+The management approach and its components
+
+SR: 49-51
+
+-
+
+103-3
+
+Evaluation of the management approach
+
+SR: 49-51
+
+-
+
+Corporate
+
+Sustainability at SingPost 
+
+Planet Positive
+
+Operational Excellence
+
+Societal Responsibility
+
+Transformational Growth
+
+Appendices
+
+
+SingPost Sustainability Report 2020/21
+
+58
+
+
+
+SINGAPORE POST LIMITED
+
+Co. Reg. No. 199201623M
+
+Registered Office:10 Eunos Road 8,
+
+Singapore Post Centre, Singapore 408600
+
+www.singpost.com
+

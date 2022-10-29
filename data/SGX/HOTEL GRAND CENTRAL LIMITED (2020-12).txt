@@ -1,0 +1,5371 @@
+
+SUSTAINABILITY
+
+R E P O R T
+
+2 0 2 0
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+
+
+Contents 
+
+1. Corporate Profile .................................................................................................................................................... 1 
+
+2. About the Report ................................................................................................................................................... 2 
+
+3. Approach to Sustainability ..................................................................................................................................... 2 
+
+4. Board Statement .................................................................................................................................................... 3 
+
+5. Stakeholder Engagement ....................................................................................................................................... 3 
+
+6. Materiality and Contributions to SDGs .................................................................................................................. 5 
+
+7. Our COVID-19 Response ........................................................................................................................................ 6 
+
+8. Advocating Proper Business Conducts and Ethics ................................................................................................. 8 
+
+8.1 Business Ethics and Anti-corruption ................................................................................................................ 8 
+
+8.2 Security of Personal Data and Information ...................................................................................................... 9 
+
+9 Ensuring Fair Employment Practices ..................................................................................................................... 10 
+
+9.1 Profile of our Workforce ................................................................................................................................ 10 
+
+9.2 Employment Practices and Benefits .............................................................................................................. 14 
+
+10. Providing a Healthy and Safe Environment for All ............................................................................................. 14 
+
+11. Managing the Use of Our Natural Resources .................................................................................................... 18 
+
+11.1 Energy Consumption and GHG Emissions .................................................................................................... 19 
+
+11.2 Water Consumption Management .............................................................................................................. 21 
+
+11.3 Waste Management ..................................................................................................................................... 23 
+
+12. GRI Content Index .............................................................................................................................................. 26 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+1 
+
+ 
+
+
+
+1. Corporate Profile 
+
+Incorporated on 13 June 1968 and listed on the Singapore Stock Exchange since 1978, Hotel Grand Central Limited 
+
+(“HGC” or “the Group”) is an established hotel owner and operator with a regional presence. As of 31 December 2020, 
+
+the Group possesses 14 wholly-owned hotels and five wholly-owned investment properties across Singapore, Australia, 
+
+New Zealand, China, and Malaysia. Additionally, the Group owns five associated hotels in Malaysia.  
+
+ 
+
+Figure 1: List of HGC’s operations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+2 
+
+ 
+
+
+
+2. About the Report 
+
+We are proud to present our 2020 Sustainability Report that marks our fourth year of reporting on our sustainability 
+
+efforts and performance.  This report is developed in compliance with the sustainability reporting requirements set 
+
+out in SGX-ST Listing Rules 711A and 711B and Practice Note 7.6 and in accordance with the internationally recognized 
+
+framework, the Global Reporting Initiatives (“GRI”) Standards: Core Option.   
+
+By adopting the GRI Standards, HGC is able to communicate our sustainability impacts in transparent, consistent and 
+
+comparable way. The GRI Content Index on Pages 25 to  28 provides an at-a-glance view of our GRI adopted disclosures 
+
+and facilitates the navigation of this report. 
+
+Unless otherwise stated, this report covers HGC’s sustainability, economic and financial performancefor the financial 
+
+period from 1 January 2020 to 31 December 2020. For comparative purposes, we disclose prior year performance of 
+
+the key indicators where possible. We have yet to sought external assurance for our sustainability information, 
+
+however, the senior management of HGC has worked together to ensure the accuracy and reliability of the information 
+
+communicated.   
+
+Our reporting scope covers nine (9) wholly-owned hotels in Singapore, Australia and New Zealand. The full list of the 
+
+hotels covered in this Sustainability Report is in Table 1. 
+
+Table 1: List of Operations within SR2020 Reporting Scope 
+
+Singapore 
+
+ 
+
+Australia 
+
+ 
+
+New Zealand 
+
+ 
+
+1. Hotel Grand Central 
+
+2. Hotel Chancellor @ 
+
+Orchard 
+
+3. Hotel Grand Chancellor, Adelaide 
+
+4. Hotel Grand Chancellor, Brisbane 
+
+5. Hotel Grand Chancellor, Hobart 
+
+6. Hotel Grand Chancellor, Townsville 
+
+7. Hotel Grand Chancellor, Launceston 
+
+8. Hotel Grand Chancellor, Melbourne 
+
+9. James Cook Hotel Grand 
+
+Chancellor Wellington 
+
+(“JCHGC”) 
+
+ 
+
+3. Approach to Sustainability  
+
+HGC is committed to managing its social and environmental footprint while striving to create and maintain high 
+
+economic values and returns. 
+
+HGC’s sustainability management approach is adapted for each sustainability matter. At the Group level, we set group-
+
+wide policies in Corporate Governance and Human Resources. The management team at the hotels is responsible for 
+
+setting targets, implementing sustainability practices, and monitoring data security, environmental, health, and safety 
+
+locally. Ms Tan Hwa Lian (Executive Director) oversees the Group’s overall sustainability performance and reports  to 
+
+the Board annually.  
+
+ 
+
+ Table 2: Management Approach for Material Matters 
+
+Material Matter  
+
+Management Approach 
+
+Business Ethics and Anti-
+
+Corruption 
+
+All hotels are required to comply with the Group’s Code of Conduct and Anti-
+
+Corruption policies. 
+
+Security of Information 
+
+Compliance with the local Personal Data Protection Act is managed by the 
+
+hotels’ management and reported to Singapore's Executive Director. 
+
+Health and Safety 
+
+These matters are managed locally by hotels’ management. 
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+3 
+
+ 
+
+
+
+ 
+
+Material Matter  
+
+Management Approach 
+
+Energy Consumption and 
+
+Greenhouse Gas (“GHG”) 
+
+Emissions 
+
+ 
+
+ 
+
+These matters are managed locally by hotels’ management. 
+
+Water Consumption 
+
+Management 
+
+Waste Management 
+
+Additional Matter 
+
+Management Approach 
+
+Employment Practices 
+
+All hotels are required to comply with Group Workplace Diversity and 
+
+Harassment policy and Employee Handbook. Further, each hotel has its Human 
+
+Resource policy, designed to consider local labour market conditions and local 
+
+labour law and regulations. 
+
+ 
+
+4. Board Statement 
+
+ The Board considers sustainability issues as part of the Group’s strategy formulation and monitors overall 
+
+sustainability performance. Each year the Board conducts a materiality review to identify and prioritize the most 
+
+relevant ESG issues, taking into account the impact each issue has on HGC and its stakeholders.  
+
+This year, the COVID-19 has affected every sector globally, and undeniably, hotels are one of the hardest-hit industries. 
+
+The unprecedented crisis has impacted almost every part of our business operations, from room occupancy and 
+
+staffing arrangements to food and beverages provisioning. As the economy recovers, we will strive to keep our 
+
+employees safe and manage evolving customer expectations through the “new normal” lens. 
+
+Nevertheless, the Board endorsed the continued relevance of six material ESG topics and an additional matter for 
+
+reporting identified in FY2017. The implementation of sustainability practices is delegated to the Management. 
+
+Annually, the Management reports to the Board on sustainability performances and any significant changes in the 
+
+policies and practices. 
+
+ 
+
+5. Stakeholder Engagement 
+
+The long-term growth and success of HGC hinge on regular interactions with our key stakeholders. The feedback 
+
+received helps HGC better understand their concerns and formulate appropriate responses to address them. The table 
+
+below summarises the key stakeholder groups’ interests and HGC’s responses.  
+
+ 
+
+Table 3: HGC Stakeholder Engagement Method 
+
+Key Stakeholder 
+
+Groups 
+
+Interests of Stakeholder 
+
+Groups 
+
+Hotel Grand Central’s 
+
+Response 
+
+Methods of 
+
+Engagement 
+
+Frequency of 
+
+Engagement 
+
+ 
+
+Hotel Guests 
+
+ 
+
+Guest satisfaction 
+
+ 
+
+Provision of a safe and 
+
+healthy environment for 
+
+all 
+
+ 
+
+Refurbishments and 
+
+upgrading of facilities 
+
+ 
+
+Additional cleaning efforts 
+
+triggered by COVID-19 
+
+ 
+
+Feedback forms 
+
+Ongoing 
+
+Face-to-face 
+
+meetings/Online 
+
+reviews and 
+
+surveys via 
+
+Revinate 
+
+ 
+
+Ongoing 
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+4 
+
+ 
+
+
+
+Key Stakeholder 
+
+Groups 
+
+Interests of Stakeholder 
+
+Groups 
+
+Hotel Grand Central’s 
+
+Response 
+
+Methods of 
+
+Engagement 
+
+Frequency of 
+
+Engagement 
+
+ 
+
+Employees 
+
+ 
+
+Workplace health and 
+
+safety 
+
+ 
+
+Working environment 
+
+ 
+
+Team morale 
+
+ 
+
+Fair employment 
+
+practices 
+
+ 
+
+Active employee 
+
+engagement 
+
+ 
+
+Timely review and 
+
+resolution of matters 
+
+raised by employees 
+
+ 
+
+The employee of the 
+
+month programme 
+
+ 
+
+Star cards to reward extra 
+
+efforts 
+
+Face-to-face 
+
+consultations and 
+
+feedback 
+
+Ongoing 
+
+Committee 
+
+Meetings 
+
+Monthly 
+
+Quarterly General 
+
+Meeting 
+
+Quarterly 
+
+Shareholders and 
+
+the Investment 
+
+Community 
+
+ 
+
+Financial performance 
+
+ 
+
+Growth prospects and 
+
+business outlook 
+
+ 
+
+Sustainable value 
+
+ 
+
+Timely and consistent 
+
+disclosure of hotel 
+
+operations and 
+
+performance to assist 
+
+shareholders in 
+
+investment decisions 
+
+Annual General 
+
+Meeting 
+
+Annually 
+
+ 
+
+Quarterly Report 
+
+Quarterly 
+
+Organized visits 
+
+from Directors 
+
+Thrice a year 
+
+ 
+
+Suppliers 
+
+ 
+
+Long-term and strong 
+
+business relationship 
+
+ 
+
+Feedback on quality of 
+
+services provided 
+
+ 
+
+Communicate and align 
+
+expectations between 
+
+HGC and suppliers 
+
+Meetings 
+
+Ongoing 
+
+Email and phone 
+
+call 
+
+correspondence 
+
+Ongoing and as 
+
+and when 
+
+required upon 
+
+end of contract 
+
+ 
+
+Business Partners 
+
+ 
+
+Consolidated effort to 
+
+improve the hospitality 
+
+sector 
+
+ 
+
+Networking and exchange 
+
+of information with 
+
+various business partners 
+
+at industry events 
+
+Attendance in 
+
+meetings hosted 
+
+by economic 
+
+development 
+
+agency 
+
+Quarterly (NZ) 
+
+Meetings 
+
+Ongoing 
+
+Email and phone 
+
+call 
+
+correspondence 
+
+Ongoing 
+
+ 
+
+Regulators 
+
+ 
+
+Compliance with relevant 
+
+laws and legislation across 
+
+countries of operation 
+
+ 
+
+Qualified and experienced 
+
+maintenance team to 
+
+ensure regular checks and 
+
+maintenance work are 
+
+conducted 
+
+ 
+
+Stay abreast of changes in 
+
+any regulations 
+
+ 
+
+Completion of annual 
+
+building warrant of fitness 
+
+License application 
+
+and renewal (i.e. 
+
+liquor) 
+
+Annual 
+
+Onsite inspection 
+
+As and when 
+
+required by 
+
+regulatory 
+
+bodies 
+
+ 
+
+Local Communities 
+
+ 
+
+Improve relations and ties 
+
+in the communities HGC 
+
+operates in 
+
+ 
+
+Support to Zealandia 
+
+ 
+
+Support of Mary Potter 
+
+Hospice  
+
+ 
+
+Support Department of 
+
+Conservation at 
+
+Matiu/Somes Island  
+
+ 
+
+Support of KCA with 
+
+donations of food not 
+
+consumed on the buffet 
+
+ 
+
+Regular involvement in 
+
+the local scene and 
+
+environment 
+
+ 
+
+$2.00 for every room 
+
+night booked via our 
+
+website is donated to 
+
+Zealandia 
+
+ 
+
+Provide staff to help with 
+
+Mary Potter hospice 
+
+collection days and other 
+
+fundraising activities 
+
+ 
+
+Staff provide volunteer 
+
+hours to help with the 
+
+upkeep of the Island – 
+
+usually three times per 
+
+year 
+
+Employee 
+
+volunteerism 
+
+Annual  
+
+(Australia / NZ) 
+
+Support towards 
+
+Earth Hour 
+
+Annual 
+
+ 
+
+Monetary and in-
+
+kind donation 
+
+(food and 
+
+clothing) 
+
+Ongoing 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+5 
+
+ 
+
+
+
+Key Stakeholder 
+
+Groups 
+
+Interests of Stakeholder 
+
+Groups 
+
+Hotel Grand Central’s 
+
+Response 
+
+Methods of 
+
+Engagement 
+
+Frequency of 
+
+Engagement 
+
+ 
+
+Unused food from the 
+
+buffet is frozen and 
+
+collected by KCA for 
+
+distribution to families in 
+
+need 
+
+ 
+
+6. Materiality and Contributions to SDGs 
+
+To prepare for HGC’s fourth Sustainability Report for the financial year ended 31 December 2020, an independent 
+
+consultant facilitated a materiality review that comprised interviews with the senior management teams and a review 
+
+of the emerging global and industry trends. Besides, the Management informally sought different stakeholders' views 
+
+on ESG issues that matter to them through regular engagement. The Management and the Board validated the 
+
+continued relevance of the six (6) material ESG matters and an additional matter for reporting identified in 2017.   
+
+Acknowledging that sustainability is a local priority and calls for global action, HGC further aligned its ESG targets with 
+
+the relevant UN Sustainable Development Goals (“SDGs”) as shown in Table 4.   
+
+ 
+
+Table 4: Alignment of HGC’s Sustainability Matters with relevant SDGs 
+
+Material Matters 
+
+Alignment to SDGs 
+
+Relevant GRI Standards 
+
+Business Ethics and Anti-corruption 
+
+ 
+
+ 
+
+ 
+
+GRI 205: Anti-corruption 2016 
+
+Security of Information 
+
+ 
+
+ 
+
+ 
+
+GRI 418: Customer Privacy 2016 
+
+Health and Safety 
+
+ 
+
+ 
+
+ 
+
+GRI 403: Occupational Health and Safety 2018 
+
+GRI 416: Customer Health and Safety 2016 
+
+Energy Consumption and 
+
+Greenhouse Gas (“GHG”) Emissions 
+
+ 
+
+ 
+
+ 
+
+GRI 302: Energy 2016 
+
+GRI 305: Emissions 2016 
+
+Water Consumption Management 
+
+ 
+
+ 
+
+ 
+
+GRI 303: Water and Effluents 2018 
+
+Waste Management 
+
+ 
+
+ 
+
+ 
+
+GRI 306: Effluents and Waste 2016 
+
+Additional Matter 
+
+Alignment to SDGs 
+
+Relevant GRI Standards 
+
+Employment Practices 
+
+ 
+
+ 
+
+ 
+
+GRI 401: Employment 2016 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+6 
+
+ 
+
+
+
+7. Our COVID-19 Response  
+
+2020 saw the emergence of an unprecedented global public health crisis, during which COVID-19 disrupted the 
+
+economy, governments, and society. Strategies to flatten the COVID-19 curve such as lockdowns, stay-at-home 
+
+orders and travel restrictions have significantly impacted the tourism and hospitality industry. The pandemic hit us 
+
+hard; nevertheless, HGC has learnt to operate differently and adapt to the new normal.  
+
+We want to remain of service to the broader society during these challenging times. In Singapore, Hotel Chancellor 
+
+@ Orchard, was used to house unaffected workers from high-risk dormitories at the height of COVID-19. 
+
+Subsequently, Chancellor @ Orchard serves as a stipulated hotel for people returning to Singapore to serve their 
+
+Stay-Home Notices (“SHN”). In Australia, Hotel Grand Chancellor Brisbane and Hotel Grand Chancellor Adelaide 
+
+operate as COVID-19 medi-hotels, which serve to accommodate those who have tested positive to COVID-19. On the 
+
+other hand, Hotel Grand Chancellor Melbourne contracted with the State of Victoria to act as a government 
+
+quarantine facility for returning international travellers from 13 April 2020 to 14 September 2020. Regrettably, the 
+
+contract has ended due to difficulties in obtaining public liability insurance for COVID-related events.  
+
+We focus on protecting our employees, hotel guests and other stakeholders through health and safety measures in 
+
+strict compliance with local regulatory requirements. As a testament to our efforts, there are no breaches of COVID-
+
+19  to date. Our responses to COVID-19 for the affected key stakeholders are as follows. 
+
+Key 
+
+Stakeholders 
+
+Singapore 
+
+Australia 
+
+New Zealand 
+
+Hotel guests 
+
+ 
+
+ At Hotel Chancellor @ 
+
+Orchard, we established a 
+
+call centre to answer guest’s 
+
+needs on a 24/7 basis 
+
+ Daily calls to check on guest’s 
+
+health and their needs  
+
+ Disinfectants and sanitizers 
+
+used around the hotel have 
+
+active ingredients that 
+
+National Environmental 
+
+Agency (“NEA”) recommends 
+
+ Hotel Grand Central was SG 
+
+Clean certified as of June 
+
+2020 and staycation 
+
+approved as of December 
+
+2020 
+
+ COVID-19 Safe Plan was 
+
+established in strict 
+
+compliance with regulatory 
+
+requirements to ensure a 
+
+safe environment  
+
+ Modified hotel guest 
+
+experience such as removal 
+
+of guest room collaterals and 
+
+intermittent closures of 
+
+restaurants  
+
+ Impose minimal or no 
+
+penalty to those who need 
+
+to cancel or postpone events 
+
+due to physical restrictions 
+
+or financial difficulties  
+
+ Timely updates on hotel 
+
+website to reflect current 
+
+alert levels and shares the 
+
+measures in place to 
+
+protect guests 
+
+ 
+
+Digital compendium 
+
+updated to provide guests 
+
+with current information 
+
+and increased cleaning 
+
+frequency across premises 
+
+ 
+
+No cancellation fees 
+
+charged or provide refunds 
+
+for prepaid 
+
+accommodations 
+
+ 
+
+Modified hotel guest 
+
+experience such as table 
+
+menus have been provided 
+
+in lieu of buffet dining 
+
+Employees 
+
+ 
+
+Personal Protective 
+
+Equipment (PPE) provided 
+
+to protect our employees 
+
+and minimize the risk of 
+
+COVID-19 transmission 
+
+ 
+
+Enhanced job security and 
+
+improved staff retention 
+
+due to the Foreign Worker 
+
+Levy Rebate (received 
+
+more than S$53,000) and 
+
+Jobs Support Scheme 
+
+(received over S$1.4 
+
+ Employees were provided 
+
+financial security via 
+
+Government’s JobKeeper 
+
+assistance and ongoing 
+
+employment via State 
+
+Governmane quarantine  
+
+ Formal risk assessment and 
+
+operational changes were 
+
+enacted to consider COVID-
+
+19 exposure risks 
+
+ COVID-19 Safe Plan was 
+
+established in strict 
+
+ 
+
+Received government 
+
+wage subsidies to ensure 
+
+job security  
+
+ 
+
+Personal Protective 
+
+Equipment (PPE) provided 
+
+to protect our employees 
+
+and minimize the risk of 
+
+COVID-19 transmission  
+
+ 
+
+Provided employee 
+
+training onsite and off-site 
+
+on the new  
+
+ 
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+7 
+
+ 
+
+
+
+Key 
+
+Stakeholders 
+
+Singapore 
+
+Australia 
+
+New Zealand 
+
+million) provided by the 
+
+Singapore Government 
+
+compliance with regulatory 
+
+requirements to ensure a 
+
+safe environment 
+
+ PPE provided to protect our 
+
+employees and minimize the 
+
+risk of COVID-19 
+
+transmission  
+
+ Provided health and safety 
+
+training such as mental 
+
+health training 
+
+ Departmental distancing was 
+
+introduced to mitigate the 
+
+risk of cross-contamination 
+
+in case of outbreaks 
+
+Suppliers and 
+
+business 
+
+partners 
+
+ Service contracts and 
+
+expenses were re-evaluated 
+
+to be in line with the 
+
+business changes 
+
+ 
+
+ Service contracts and 
+
+expenses were re-evaluated 
+
+to be in line with the 
+
+business changes 
+
+ Sourcing from alternate 
+
+suppliers to avoid supply 
+
+chain disruptions 
+
+ Continuous engagement 
+
+with suppliers to ensure 
+
+compliance with the Hotel’s 
+
+COVID-19 Safe Plan and to 
+
+understand their risk 
+
+mitigation or insurance in 
+
+place 
+
+ 
+
+Reduced rent charged to 
+
+spa operator given the 
+
+financial difficulties faced 
+
+during COVID-19 
+
+Local 
+
+communities 
+
+ Decant site for migrant 
+
+workers 
+
+ Converted HCO to a 
+
+Government Quarantine 
+
+Facility and for guests to 
+
+serve their SHN 
+
+ 
+
+ Hotel Grand Chancellor 
+
+Melbourne attained high 
+
+recognition for supporting 
+
+social welfare, particularly 
+
+from July to September 
+
+when it became a Hot Hotel 
+
+providing housing to those 
+
+contracting COVID-19 from 
+
+within the disadvantaged 
+
+public housing community 
+
+ Hotel Grand Chancellor 
+
+Adelaide provides added 
+
+services to repatriating 
+
+Australians to create a 
+
+welcoming stay and promote 
+
+good mental health 
+
+ 
+
+Distributed perishable 
+
+food to staff and 
+
+residents within the 
+
+vicinity at the beginning 
+
+of the lockdown 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+8 
+
+ 
+
+
+
+HGC short-term strategies to chart a path to recovery 
+
+Coming off the worst year for tourism and hospitality, there is minimal optimism in the industry's recovery. The 
+
+expectations that pre-COVID-19 levels of tourism and hospitality demand will not bounce back before 20231 
+
+provided us with an opportunity to reshape our efforts and strategies with more considerations to sustainability, 
+
+innovation and long-term economic resilience.  
+
+Singapore 
+
+Australia 
+
+New Zealand 
+
+ 
+
+Continue serving as SHN- 
+
+dedicated facility 
+
+ 
+
+Accept local staycation 
+
+bookings with various safety 
+
+management measures in 
+
+place 
+
+ 
+
+Hotel Grand Chancellor Melbourne 
+
+has created strong relationships with 
+
+the State Government partners, 
+
+creating further opportunities to 
+
+provide quarantine services in 2021. 
+
+It will be essential for building 
+
+resilience through the diversification 
+
+of income. 
+
+ 
+
+Hotel Grand Chancellor will continue 
+
+to provide medi-hotel services until 
+
+we are either no longer required or 
+
+until market conditions resume to an 
+
+improved position 
+
+ 
+
+Restaurants and conference rooms 
+
+remain closed until minimum 
+
+business levels recover to reduce 
+
+expenses 
+
+ 
+
+The hotels remain ready 
+
+to accept international 
+
+travellers as soon as the 
+
+borders open 
+
+ 
+
+In-house and external 
+
+staff training continues 
+
+ 
+
+Manage staff levels 
+
+accordingly 
+
+ 
+
+Work with conference 
+
+organizers to organize 
+
+small group events or 
+
+assist in facilitating 
+
+hybrid conferences 
+
+All employees will receive the COVID-19 vaccination on a specific timeline for each hotel as state-by-state 
+
+regulations differ 
+
+8. Advocating Proper Business Conducts and Ethics 
+
+8.1 Business Ethics and Anti-corruption 
+
+The Group aspires to achieve the highest standards of corporate governance to safeguard our reputation and the 
+
+stakeholders’ interests. As the post-COVID-19 travel demand is expected to rebound slowly over the years, it is crucial 
+
+for us to compete innovatively and ethically.  
+
+HGC has several policies and procedures designed to provide a firm foundation for a trusted and respected business 
+
+enterprise. All employees are required to acknowledge and sign off on the ethical principles set out in the HGC’s 
+
+Employee Handbook upon their official work commencement date. These policies are reviewed regularly to ensure 
+
+relevance and effective implementation. We communicate any changes or updates to all employees promptly and 
+
+accordingly via meetings or emails. 
+
+At HGC, we are cognisant of the importance of creating and maintaining a strong compliance culture. We have zero-
+
+tolerance when it comes to fraud, bribery, corruption or any internal policies violations. All misconducts will be 
+
+deliberately investigated, and disciplinary actions will be taken for severe offences.   
+
+In FY2020, we are proud to note that zero confirmed incidents of corruption were reported through the whistleblowing 
+
+channels, and we will continually strive to maintain the performance.  
+
+ 
+
+ 
+
+1 McKinsey &amp; Company, (2020): Hospitality and COVID-19  
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+9 
+
+ 
+
+
+
+Table 5: Policies on Business Ethics and Anti-Corruption 
+
+Policy 
+
+Summary 
+
+Boundary 
+
+Code of Conduct 
+
+The Code sets out HGC’s expectations of 
+
+employees on performing their duties responsibly 
+
+and professionally, promoting and protecting our 
+
+brand reputation, and resolving conflicts 
+
+properly. 
+
+Group-level 
+
+Policy on Whistle Blowing 
+
+This group-wide policy provides an avenue for 
+
+employees and third-parties to report in 
+
+confidence, without fear of reprisals, concerns 
+
+about possible improprieties in financial 
+
+reporting or other matters. 
+
+Group-level 
+
+ 
+
+8.2 Security of Personal Data and Information 
+
+With our increasing reliance and dependence on digital technologies in our business, the importance of data security 
+
+can never be overstated. At HGC, we establish data security with strict compliance to stringent information security 
+
+and personal data protection regulations. We have in place the Respective Standard Operating Procedures (“SOPs”)  
+
+to govern the collection, usage, disclosure, storage and access to personal information at all hotels. These details can 
+
+include personal particulars, credit card information, employee’s personal information and vendor price agreements. 
+
+We also comply strictly with record-keeping laws and credit card security standards set by merchant banks.  
+
+With the increased need to record and trace guest information for COVID-19 purposes, Singapore hotels continue to 
+
+be guided by the Confidentiality policy on guests’ medical conditions. In line with the government’s request, the policy 
+
+guides the hotel employees to regard confidentiality during contact tracing exercises. This policy is integrated into 
+
+HGC’s Code of Conduct which is communicated to employees during the induction programme. As the world gradually 
+
+recovers from the pandemic, we foresee the need for contact tracing for some time and will roll out this policy across 
+
+the Group progressively.  
+
+HGC recognises that the threat of cyber-attacks, such as credit card fraud, is growing. We continually review and 
+
+update our credit card policy to reflect the latest trends and the necessary precautions. Any changes in the policy is 
+
+communicated to the employees via our ongoing staff training. We also continue to provide employee training on data 
+
+privacy and information security best practices for the year in review. Those who frequently handle personal data 
+
+were provided with additional training to minimize the exposure to cyber risks. 
+
+The local data protection officers oversee all data privacy and information security matters in their respective country 
+
+to ensure compliance with the relevant Acts detailed in Table 6 and 7.  
+
+Table 6: Applicable Personal Data Protection Act by Country That We Comply With 
+
+New Zealand 
+
+Australia 
+
+Singapore 
+
+Privacy Act 1993 
+
+Privacy Act 1988 
+
+Personal Data Protection Act 2012 
+
+ 
+
+Table 7: Policy on Security of Information 
+
+Policy 
+
+Summary 
+
+Boundary 
+
+Privacy Policy 
+
+Sets out the procedures of collection and use of 
+
+information; storage, access and retention of 
+
+personal information; compliance; source of 
+
+information regarding security of information 
+
+Group-wide 
+
+ 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+10 
+
+ 
+
+
+
+46%
+
+54%
+
+FY2018
+
+946
+
+52%
+
+48%
+
+FY2019
+
+Male
+
+Female
+
+929
+
+46%
+
+54%
+
+FY2020
+
+719
+
+We have a dedicated and highly skilled third-party service provider to oversee our server controls. Information can 
+
+only be accessed by the designated person-in-charge on a need-to-know basis and requires the General Manager’s 
+
+authorisation. Our Information Technology (“IT”) consultants regularly update our internal servers, email exchange 
+
+systems and Windows System and ensure that adequate firewall, anti-virus and malware products have been installed 
+
+to minimise any potential breaches.  
+
+In FY2020, there have been no substantiated complaints concerning customer privacy breaches and loss of customer 
+
+data at all our hotels. We aim to maintain this performance in FY2021. 
+
+9 Ensuring Fair Employment Practices 
+
+ 
+
+9.1 Profile of our Workforce 
+
+Overall, our total workforce has decreased from 929 in FY2019 to 719 in FY2020. We are pleased to have achieved 
+
+almost a 1:1 ratio of male and female employees by the end of FY2020. These figures indicate that HGC has a relatively 
+
+stable and gender-balanced workforce in the last three years.  
+
+ 
+
+Figure 2: Breakdown of Employees by Gender 
+
+ 
+
+ 
+
+Case Study: Enhanced data security infrastructure and culture in light of COVID-19 
+
+ 
+
+As COVID-19 reshapes the world into the “new normal”, 
+
+information technology on which we long depended becomes 
+
+more vital. By taking steps to enhance data security and 
+
+cybersecurity, HGC can reduce the risk of business disruption and 
+
+develop greater business resilience in the “new normal”.  
+
+ 
+
+In FY2020, we have installed new servers and firewalls to enhance 
+
+network security and inhibit any external disruptions. For those 
+
+who needed to work from home, the hotels operated on a 
+
+clustering approach with secure VPN clusters.  
+
+ 
+
+Effective implementation needs to be paired with organisational awareness and capacity building.  
+
+To further strengthen data security awareness during lockdowns, we regularly communicate with and remind our 
+
+employees of data privacy and information security via emails and social media. Ongoing training programmes are 
+
+also continuously provided to develop internal competencies in handling personal information.  
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+11 
+
+ 
+
+
+
+ 
+
+Figure 3: Breakdown of Employees by Region 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TABLE 8: BREAKDOWN OF EMPLOYEES BY EMPLOYMENT CONTRACT AND EMPLOYMENT TYPE 
+
+ 
+
+During this tough time, we understand that employees are concerned about job security and livelihood. Wherever 
+
+possible, we hire staff on a permanent basis. Permanent staff currently make up 86% of our workforce in FY2020. 
+
+There is a 50-50 split between full-time and part-time staff this year.  
+
+This year, large-scale events such as banquets, conferences, or restaurant services are affected due to restrictions for 
+
+gathering and social distancing. Thus, the total part-time staff has reduced from 486 to 353, with Singapore having 
+
+zero part-time employees. Nevertheless, there are still more than 50% part-time staff in the New Zealand and Australia 
+
+workforce as the hotels served as medi-hotels and quarantine facilities during the year. 
+
+There were also a significant number of non-employees who are involved in fulfilling our roles as medi-hotels and 
+
+quarantine facilities. More than 100 non-employees including government department representatives, medical staff 
+
+and cleaning teams had supported us during this period.  
+
+ 
+
+2 New Zealand’s data has been restated to reflect the correct breakdown by contract type.  
+
+3 All temporary employees at Singapore are contracted on a temporary basis and work part-time. Although they are directly hired by the 
+
+hotels, they are not included in the total workforce numbers as well as in tabulation of new hire and turnover rates.  
+
+By Employment Contract 
+
+Region 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Permanent 
+
+Temporary 
+
+Permanent 
+
+Temporary 
+
+ Permanent Temporary 
+
+Australia 
+
+535 
+
+120 
+
+524 
+
+122 
+
+423 
+
+90 
+
+New Zealand2 
+
+144 
+
+4 
+
+141 
+
+10 
+
+106 
+
+14 
+
+Singapore3 
+
+143 
+
+21 
+
+132 
+
+19 
+
+86 
+
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+By Employment Type 
+
+Region 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Full-time 
+
+Part-time 
+
+Full-time 
+
+Part-time 
+
+  Full-time 
+
+ Part-time 
+
+Australia 
+
+320 
+
+335 
+
+252 
+
+394 
+
+219 
+
+261 
+
+New Zealand 
+
+72 
+
+76 
+
+78 
+
+73 
+
+61 
+
+59 
+
+Singapore3 
+
+143 
+
+21 
+
+132 
+
+19 
+
+86 
+
+0 
+
+
+
+929 
+
+70%
+
+16%
+
+14%
+
+FY2019
+
+Australia
+
+New Zealand
+
+Singapore
+
+
+
+946 
+
+69%
+
+16%
+
+15%
+
+FY2018
+
+
+
+719 
+
+84%
+
+14%
+
+FY2020
+
+2% 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+12 
+
+ 
+
+
+
+86%
+
+14%
+
+FY2019
+
+Permanent
+
+Contract
+
+87%
+
+13%
+
+FY2018
+
+50%
+
+50%
+
+FY2019
+
+Full-time
+
+Part-time
+
+57%
+
+43%
+
+FY2018
+
+86%
+
+14%
+
+FY2020
+
+53%
+
+47%
+
+FY2020
+
+719
+
+ 
+
+Figure 4: Breakdown of Employees by Employment Contract and Employment Type 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 International Labour Organization (2021): COVID-19 and the World of Work 7th Edition 
+
+COVID-19 Highlight : Government Payroll Subsidies 
+
+ 
+
+Following lockdowns, border closures and travel bans, employees in the tourism and hospitality industry are 
+
+significantly impacted as most of them cannot carry out their jobs.  New annual estimates confirm that labour 
+
+markets around the world were disrupted in 2020 on a historically unprecedented scale. In 2020, 8.8% of global 
+
+working hours were lost relative to the fourth quarter of 2019, equivalent to 255 million full-time jobs. 4 
+
+ 
+
+With the help of the local governments, we are able to keep employee jobs secure despite the economic challenges. 
+
+In New Zealand, there has been no international travel since March 2020, and international guests make up 
+
+approximately 20% of our revenue. JCHGC received  wage subsidies from the local government that allowed us to 
+
+retain employees as we suffer reduced business due to COVID-19.  
+
+ 
+
+In Australia, our employees are provided with financial security via the government’s payroll subsidy scheme, the 
+
+JobKeeper. The Government’s JobKeeper Payment is designed to help keep more Australians in jobs and support 
+
+businesses affected by the significant economic impact of the coronavirus. All hotels in Australia were eligible and 
+
+received the JobKeeper payment from its inception in March until the end of 2020. 
+
+ 
+
+These subsidies had a significant positive impact on our business continuity and kept our employees engaged 
+
+without major redundancies or dismissals.  
+
+946 
+
+929 
+
+946 
+
+929 
+
+719 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+13 
+
+ 
+
+
+
+Figure 5: FY2020 New Hire and Turnover Rate 
+
+Total New Hires in FY2020: 157 
+
+Total New Hire Rate: 22% 
+
+ 
+
+Total Turnovers in FY2020: 361 
+
+Total Turnover Rate: 50% 
+
+ 
+
+Note: Total new hire and total turnover rate is calculated as a percentage of staff on payroll as of 31 December 2020.  
+
+In FY2020, the total turnover rate is 50%, with a higher turnover rate recorded in female employees than male 
+
+employees. Due to the COVID-19 pandemic, all hotels have experienced a high turnover rate relative to the local 
+
+workforce strength. Singapore has the highest turnover rate at 65%, relative to the workforce size at year end of 86 
+
+employees. On the other hand, Australia and New Zealand have a turnover rate of 47% and 54% respectively. 
+
+Nevertheless, in absolute numbers, Australia has contributed the majority number of turnovers at 66% of total 
+
+turnovers.  
+
+Our total workforce strength has shrunk by 23% to 719 this year. This is mainly contributed by the lower new hire rate 
+
+as well as the higher turnover rate. Despite the decrease, we effectively planned and managed our employee strength 
+
+to avoid huge disruption to our operations. We anticipate the size of workforce to gradually return to the normal level 
+
+as the economy recovers.  
+
+ 
+
+ 
+
+ 
+
+54%
+
+46%
+
+By Gender
+
+Male
+
+Female
+
+68%
+
+22%
+
+10%
+
+By Region
+
+Australia
+
+New Zealand
+
+Singapore
+
+62%
+
+30%
+
+8%
+
+By Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+47%
+
+53%
+
+By Gender
+
+Male
+
+Female
+
+66%
+
+18%
+
+16%
+
+By Region
+
+Australia
+
+New Zealand
+
+Singapore
+
+52%
+
+40%
+
+8%
+
+By Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+14 
+
+ 
+
+
+
+9.2 Employment Practices and Benefits 
+
+We value our employees and aspire to provide an inclusive and safe environment to voice out their thoughts 
+
+comfortably and raise their concerns effectively. We established policies, procedures and grievance mechanisms to 
+
+protect employees’ rights, provide growth opportunities and facilitate concerns resolution.   
+
+Table 9: Policy on Employment Practices and Benefits 
+
+Policy 
+
+Summary 
+
+Boundary 
+
+Workplace Diversity and 
+
+Harassment Policy 
+
+ 
+
+Includes strict guidelines on prevention of 
+
+workplace harassment, discrimination and 
+
+bullying  
+
+ 
+
+Covers procedures for complaints and 
+
+feedback through formal and informal 
+
+resolution processes 
+
+ 
+
+All employees are required to sign off and 
+
+abide by all provisions set out in the policy. 
+
+Group-level 
+
+To help our employees reach their full potential in personal and professional development, we have a two-pronged 
+
+approach to employee training and development. Employees receive a structured training programme upon induction, 
+
+on-the-job training and specific upskilling sessions on relevant topics whenever needed. A meritocratic performance 
+
+appraisal is held at the end of the probationary period and annually to keep our employees motivated and enthusiastic 
+
+at all times. We also encourage two-way communication between the employee and the manager to allow transparent 
+
+feedback on improvement areas and communicate personal reviews and job-related concerns.  
+
+At HGC, employees share the same benefits regardless of race, colour, religion, age, gender, sexual preference, and 
+
+disability. We offer an extensive list of employment benefits ranging from healthcare, parental leave to retirement 
+
+provisions for our full-time employees. Please refer to Table 4 of our 2017 sustainability report for more details.  
+
+10. Providing a Healthy and Safe Environment for All 
+
+With thousands of guests within our premises and employees working across our hotels, providing a healthy and safe 
+
+environment for all is critical. We have established a robust occupational health and safety management system with 
+
+relevant policies, standards and monitoring processes in place across the Group. Our health and safety management 
+
+system is overseen by the respective local Health and Safety Committee with strict compliance with relevant local laws 
+
+and regulation while adopting leading workplace health and safety (“WHS”) practices where possible. For the year in 
+
+review, we are proud to note zero incidents of non-compliance concerning the health and safety impacts of our 
+
+services.  
+
+Australia and New Zealand  
+
+In Australia and New Zealand, the local Health and Safety Committee is comprised of senior management, employee 
+
+representatives from each operational department, WHS Officers, and Human Resources personnel. The Health and 
+
+Safety Committee monitors and oversees the health and safety management system which is guided by the Health 
+
+and Safety Policy, First Aid Policy and Procedure, Drugs and Alcohol in the Workplace Policy and Crisis Management 
+
+Plan. This year, HGC took efforts to address the importance of mental health and wellbeing. In September 2020, 
+
+JCHGC’s Health and Safety Policy incorporated wellbeing and has been renamed to Health, Safety and Wellbeing Policy.  
+
+The changes are promptly communicated to all employees and relevant training will be provided where necessary. 
+
+Any health and safety incidents identified by the employees can be reported via the Incident Reporting Channel of any 
+
+HGC hotels. Employees are also encouraged to raise feedback regarding workplace safety hazards and concerns 
+
+through the channel. The Health and Safety Commmittee will deliberately investigate the incidents to identify the 
+
+rootcause and determine the corrective actions. The Committee meets on a monthly basis to review risk assessments, 
+
+injury incident reports and discuss the action plans and improvement areas.  
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+15 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To ensure continuous improvement of the occupational health and safety management system, we also conduct 
+
+annual internal and external audits to examine the robustness of our health and safety system, with an emphasis on 
+
+emergency response procedures. To prevent reoccurrences of incidents, the internal audit team reviews the measures 
+
+taken by the Committee in response to the event and verifies that relevant risks have been addressed.  
+
+Various Practices on Occupational Health and Safety Practices  
+
+ 
+
+Undertake health and safety risk assessments associated with various tasks 
+
+ 
+
+Mandatory induction training (first aid, emergency preparedness /evacuation, chemical handling, safe 
+
+disposal of rubbish/sharps) and ad-hoc training (sudden outbreak of disease and terrorist incident) 
+
+ 
+
+Department training on skillsets specific to the scope of work including manual handling and safe work 
+
+method statements (“SWMS”) 
+
+ 
+
+Enforce usage of Personal Protective Equipment (“PPE”) 
+
+ 
+
+Installation of Lone Worker Device (duress alarms) (Australia) 
+
+ 
+
+Rehabilitation support and arrangement of suitable duties to employees who have sustained injuries at 
+
+work 
+
+ 
+
+Ensure compliance to certification requirements such as first aid, chemical handling and pool management 
+
+ 
+
+COVID-19 Highlight : Keeping Our Employees Safe  
+
+At the dawn of the unprecedented crisis, we took immediate measures to protect our employees from the exposure 
+
+to and infection with the COVID-19. HGC adopted infection prevent and control strategies via risk assessments, 
+
+emergency response plan, safe working practices and PPE to prevent employee exposures. 
+
+For our hotels who continue operations such as Hotel Grand Chancellor Melbourne, HGC practices good hygiene 
+
+practices to protect against COVID-19. These includes provide and promote hand sanitizer stations, ensure adequate 
+
+supplies of hand soap and paper towels, hourly cleaning and disinfection, and replace high-touch communal items 
+
+with alternatives. Our employees are trained by third-party infection control specialists in gowning, de-gowning and 
+
+disposal of full PPE through the formal training provided by the Australian Government Department of Health and the 
+
+Victorian State Government.   
+
+We also establish systems that ensure proper physical distancing and limit workplace attendance. To minimise the 
+
+build-up of employees waiting time to enter and exit the workplace, we practice staggered start times across all 
+
+departments within the hotel. All employees are required to enter or exit through the designated employee entry/exit 
+
+point. Upon entry, all employees must undergo temperature check and complete a health questionnaire to ensure 
+
+that they are fit for work.  
+
+For hotels that serve as medi-hotels such as Hotel Grand Chancellor 
+
+Adelaide, all employees are provided with PPE, training and support 
+
+from the South Australia (“SA”) Health department. As a medi-
+
+hotel, it is required to have a COVID Marshal on site at all times. The 
+
+COVID Marshal ensures that all persons on-site are adhering to the 
+
+COVID-19 Safe Plan and procedures, including registering 
+
+attendance, undertaking health screening, wearing a mask, 
+
+ensuring social distancing and correct hygiene practices are being 
+
+followed. With all these practices, we are proud to be listed as a 
+
+finalist in the SA Health COVID Safe Awards under the category of 
+
+Pubs, Hotels, Wineries and Breweries. 
+
+A contingency plan is in place to ensure effective and timely management in the event of a confirmed case at the 
+
+hotels, covering measures such as strict contact tracing and immediate isolation of potentially infected person. We 
+
+are grateful to note that there are no confirmed COVID-19 cases among our employees to date.  
+
+
+
+Front of House (FOH) employees at Hotel 
+
+Grand Chancellor Adelaide donned in full PPE  
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+16 
+
+ 
+
+
+
+Singapore 
+
+In Singapore, a Workplace Health and Safety Committee which include key staff members, from Operations, 
+
+Housekeeping and Kitchen oversees and conducts risk assessments relevant to their work activities.  The Committee 
+
+ensures necessary controls are developed for every safety hazard identified. The risk register is reviewed once every 
+
+three years in accordance to the Workplace Safety and Health (“WSH”) Act mandated by the Ministry of Manpower. 
+
+We also have an internal Fire Safety Committee comprising trained fire wardens, firefighters, and a Company Response 
+
+Team (“CERT”). Our committee members attend relevant trainings to keep abreast of regulatory changes. For any 
+
+concerns regarding health and safety, our stakeholders (e.g., employees, contractors, visitors) can report through the 
+
+whistleblowing channels administered and managed by the Executive Director.  
+
+Various Practices on Occupational Health and Safety  
+
+ 
+
+Routine checks on health and safety facilities conducted twice a month  
+
+ 
+
+Mandatory training for internal fire safety committee on first aid and emergency response 
+
+ 
+
+Fire drills conducted twice a year for hotel guests and employees  
+
+ 
+
+Maintain appropriate fire certificates  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Case Study: Protecting our employees and our guests 
+
+As a hotel operator with a regional presence, our highest priority is provide our employees and our guests with a 
+
+safe and healthy environment. Hotel Chancellor @ Orchard practices various infection control and prevention 
+
+measures to minimise the exposure to COVID-19.  NEA recommended disinfections and sanitizers are provided 
+
+around the hotels for our guests and our employees. We also increased the frequency of cleaning and sanitizing 
+
+the common areas, including the lobby, lifts, washrooms and various high-touch areas such as the door handles 
+
+and lift buttons.  
+
+For any rooms that occupied confirmed cases, we engaged a professional cleaning company to perform a deep 
+
+disinfection of the room, corridor, hotel lobby and the lift(s) used. The room wil be reopened for use only 24 hours 
+
+post-disinfection. For all other rooms, industrial grade spraying was done by maintenance staff in full PPE before 
+
+housekeeping enters to conduct cleaning. All employees are provided with PPE and adequate training on proper 
+
+use and disposal.   
+
+To ensure our guests feel comfortable while serving their SHN, we offer additional services or schedules such as:  
+
+ 
+
+Daily calls to check on guest’s health and their needs  
+
+ 
+
+Established a call center to answer guest’s needs on a 24/7 basis 
+
+ 
+
+Arranged daily outdoor time within the hotel premise for guests to stretch and do some physical exercises 
+
+for 20 minutes a day per pax 
+
+ 
+
+Hired barber on a weekly basis for basic haircut services 
+
+ 
+
+Established a system for smoking guests to have smoke breaks twice a day 
+
+ 
+
+Guest in need of money can seek assistance from our security personnels and be escorted to nearest ATMs 
+
+to withdraw money 
+
+ 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+17 
+
+ 
+
+
+
+Performance 
+
+Employees  
+
+This year, we began reporting against the revised GRI 403: Ocupational Health and Safety 2018 standards. Moving 
+
+forward, health and safety data5 will be tracked against the metrics shown in Table 10 below.  
+
+There were a total of 29 work-related injuries recorded across the three regions, most of which arose from minor 
+
+accidents. There were no fatalities and high-consequence6 work-related injuries recorded.  
+
+Prior to COVID-19, large-scale events and banquets were held across hotels in Australia and New Zealand. Due to the 
+
+fast-paced nature of these events, the hotels generally record higher work-related injury rates7. Additionally, minor 
+
+accidents would also arise from housekeeping and kitchen duties as well. The main types of injuries sustained include 
+
+sprains, strains, bruises, cuts and burns. Appropriate follow-up actions were implemented to minimise such risks.  
+
+Training and re-training on safe work procedures comprising correct postures and techniques during cleaning, cooking 
+
+and lifting, as well as chemicals handling, and procedures to isolate prior to maintenance were held to prevent injuries 
+
+from recurring. First aid kits are also readily available across the hotels for employees to administer as well.  
+
+In Singapore, the two hotels only provide breakfast and conference services. During the year, there was an injury case 
+
+where the chef accidentally burnt his fingers while cooking. Follow-up actions have since been taken where employees 
+
+are reminded of safe work practices in the kitchen and to always exercise caution while on duty.   
+
+During the year, incidents were reviewed during the monthly WHS committee meetings at each hotel. The committee 
+
+ensures that corrective actions have been undertaken and aims to continually improve safety awareness across the 
+
+hotels.  
+
+Table 10: FY2020 Work-related injuries for employees 
+
+ 
+
+Fatalities 
+
+Recordable work-
+
+related injuries  
+
+High-consequence 
+
+work-related injuries 
+
+Number of hours 
+
+worked 
+
+ 
+
+Number  
+
+Rate 
+
+Number  
+
+Rate 
+
+Number  
+
+Rate  
+
+Australia 
+
+0 
+
+0 
+
+11 
+
+30 
+
+0 
+
+0 
+
+324,896 
+
+New Zealand 
+
+0 
+
+0 
+
+17 
+
+148 
+
+0 
+
+0 
+
+532,955 
+
+Singapore  
+
+0 
+
+0 
+
+1 
+
+3 
+
+0 
+
+0 
+
+115,040 
+
+ 
+
+Workers who are non-emloyees 
+
+Workers who are non-employees whose work or workplace is controlled by the organisation. This includes workers 
+
+who provide cleaning, security and laundry services to the hotels which are hired through third-party service providers. 
+
+There were no workers hired across Singapore and New Zealand hotels. There were zero fatalities, work-related 
+
+injuries across the 115,699 hours clocked by our workers during the year.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 Safety metrics such as lost day rate and absentee rate will no longer be tracked with the transition to the revised 
+
+GRI 403 standards.  
+
+6 Injury which individual cannot/not expected to recover fully to pre-injury health within six months 
+
+7 Based on International Labor Organisation (ILO) Standards, recordable work-related injury is calculated as the total 
+
+number of recordable work-related injuries divided by the total number of hours worked by employees in the 
+
+reference group during the year, multiplied by 1,000,000. 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+18 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+New Zealand has passed a law to transition to net-zero carbon emissions by 2050 as part of its efforts to tackle 
+
+climate change. Emissions needs to be cut by more than 30% from the 2005 levels by 2030 to align ambition with a 
+
+1.5C global warming limit. With that urgency, New Zealand Government has further committed to reach 100% 
+
+renewable energy by 2035.  
+
+ 
+
+JCHGC is conscious that it needs to start planning now to gradually transition and contribute to the carbon reduction 
+
+and renewable energy target. Based on data provided by Ecotricity, 4 billion kilograms of CO2 is still emitted from 
+
+electricity in New Zealand each year, and the main sources of emissions are from coal, gas and geothermal. That is 
+
+why JCHGC procures electricy from Meridian Energy, who generates electricity from 100% renewable sources – 
+
+water, wind and sun. Besides that, we also generate some of our energy through rooftop solar panels to further 
+
+lower our carbon footprint. 
+
+ 
+
+We are happy to note that our carbon footprint per guest room has reduced from 3.75 tCO2e/room to 3.57 
+
+tCO2e/room and we will continue to explore ways to contribute to the nation’s carbon reduction target by 2030. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+11. Managing the Use of Our Natural Resources 
+
+HGC aspires to manage and reduce its environmental footprint through waste reduction, energy efficiency and water 
+
+conservation. We have in place environmental-related policies and procedures to manage and promote sound 
+
+environmental practices in our operations. At JCHGC, we continue to be guided by the Environment and Social 
+
+Sustainability Policy on energy conservation, waste management, water conservation, sustainable procurement and 
+
+social responsibility. On the other hand, Hotel Grand Chancellor Adelaide has the Environmental Policy to outline its 
+
+approach towards reducing carbon footprint through various environmental initiatives and programmes.  We have 
+
+strict SOPs on energy, water use, and proper waste management to guide day-to-day operations for all other hotels.  
+
+ 
+
+Case Study: Alignment with Government’s Net Zero Commitment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+19 
+
+ 
+
+
+
+11.1 Energy Consumption and GHG Emissions 
+
+ 
+
+Various Practices on Energy Consumption and GHG Emissions 
+
+  Australia 
+
+Energy Efficiency Initiatives   
+
+ 
+
+Replace and upgrade existing equipment, chillers and 
+
+cooling tower to maximise energy efficiency  
+
+ 
+
+Recommission Building Management System (“BMS”) 
+
+for more accurate control over the building’s cooling  
+
+ 
+
+Regular maintenance of plant and equipment  
+
+ 
+
+Use of motion-detecting thermostats and timers to 
+
+operate HVAC systems 
+
+ 
+
+Use of variable-frequency drive pumps to reduce 
+
+the energy required to circulate water  
+
+ 
+
+Shut down of air-conditioning units during low 
+
+occupancy seasons 
+
+ 
+
+Reduce unnecessary lighting within hotel rooms 
+
+Performance monitoring  
+
+Training and Awareness  
+
+ 
+
+Benchmark electricity consumption against similar-
+
+sized hotels and other HGC hotels 
+
+ 
+
+Mandatory induction training for new employees 
+
+on environmental policy and energy-saving habits  
+
+ 
+
+New Zealand  
+
+Energy Efficiency Initiatives   
+
+Training and Awareness  
+
+ 
+
+Ongoing replacement of traditional light bulbs with 
+
+LED  
+
+ 
+
+Replace and upgrade aged hotel equipment such as 
+
+kitchen equipment, lifts, compressor and coolers   
+
+ 
+
+Encourage guests to opt for ‘Eco’ Room Service, 
+
+which promotes overall conservation of 
+
+resources  
+
+Performance Monitoring  
+
+ 
+
+Benchmark electricity consumption and GHG emissions against regional average in EarthCheck 
+
+ 
+
+Singapore  
+
+Energy Efficiency Initiatives   
+
+ 
+
+All our buildings have received green mark certification in recognition for their environmentally friendly 
+
+design and construction 
+
+ 
+
+Reduce air-conditioning temperatures at low traffic times  
+
+ 
+
+Emphasize energy-saving habits  
+
+ 
+
+Use of hot and cold drinking water dispensers in all guest rooms to reduce electricity consumption and one-
+
+time plastic bottles 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+20 
+
+ 
+
+
+
+Fuel Consumption 
+
+In FY2020, fuel consumption only incurred in Singapore hotels, HGC Launceston and JCHGC in New Zealand; including 
+
+natural gas in kitchens across these hotels and motor gasoline used by vehicles8 owned by HGC Launceston and JCHGC. 
+
+HGC Launceston also used alternative fuels such as biofuels for the company vehicles. The remaining hotels did not 
+
+consume fuel in FY2020.  
+
+A total of 8,211.7 GJ of direct energy was consumed, translating to 437.8 tonnes of carbon dioxide equivalent 
+
+(“tCO2e”)9 of Scope 1 emissions. The total fuel consumption and Scope 1 emission have reduced compared to FY2019 
+
+of 13,519 GJ and 730 tonnes respectively, mainly due to business restrictions and lockdown.   
+
+ 
+
+Figure 6: Direct Energy Consumption &amp; Intensity (Left) and Direct (Scope 1) GHG Emissions &amp; Intensity (Right) 
+
+ 
+
+ 
+
+Note: Due to the low amount of natural gas used in Australia, energy (0.08 GJ) and emissions (3.9kg) are not visible on the charts based on the scale used.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 The cars are provided for senior executives (General Manager and Sales Director) at the hotels.  
+
+9 Emissions disclosed here are Scope 1 GHG emissions which come from sources that are owned or controlled by Hotel Grand Central. This relates 
+
+to diesel oil, natural gas and motor gasoline and is expressed in tonnes of CO2. For New Zealand, emission factors are obtained from the 
+
+“Guidance for Voluntary Corporate Greenhouse Gas Reporting – 2016”, published by the Ministry for the Environment, New Zealand. For 
+
+Australia, the source of emission factors is the “National Greenhouse Accounts Factors 2020”, compiled by the Department of the Environment 
+
+and Energy, Australia. For Singapore, emission factors were adopted from IPCC Emission Factor Database 2006 and the Singapore Energy 
+
+Statistics 2020 published by Energy Market Authority.  
+
+1.2
+
+1.2
+
+0.8
+
+2.2
+
+2.1
+
+0.0
+
+40.6
+
+37.3
+
+28.4
+
+0.0
+
+5.0
+
+10.0
+
+15.0
+
+20.0
+
+25.0
+
+30.0
+
+35.0
+
+40.0
+
+45.0
+
+50.0
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+14,000
+
+16,000
+
+FY2018
+
+FY2019
+
+FY2020
+
+Energy Intensity (GJ/Guest Room)
+
+Direct Energy Consumption (GJ)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Intensity (SG)
+
+Intensity (AUS)
+
+Intensity (NZ)
+
+19%
+
+7%
+
+74%
+
+6%
+
+18%
+
+76%
+
+8,211
+
+93%
+
+7%
+
+6%
+
+7%
+
+17%
+
+18%
+
+76%
+
+75%
+
+0.06
+
+0.07
+
+0.04
+
+0.11
+
+0.11
+
+2.2
+
+2.0
+
+1.5
+
+0.00
+
+0.50
+
+1.00
+
+1.50
+
+2.00
+
+2.50
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+FY2018
+
+FY2019
+
+FY2020
+
+Direct (Scope 1) GHG Emissions Intensity
+
+(tCO2e / guest room)
+
+Direct (Scope 1) GHG Emissions (tCO2e)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Intensity (SG)
+
+Intensity (AUS)
+
+Intensity (NZ)
+
+438
+
+92%
+
+8%
+
+14,371 
+
+13,519 
+
+778 
+
+730 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+21 
+
+ 
+
+
+
+Electricity Consumption  
+
+In FY2020, the total electricity consumption at HGC decreased to 20,280 MWh from the level in FY2019. The GHG 
+
+emissions is at 6,753 tonnes of carbon dioxide equivalent (“CO2e”). 
+
+Figure 7: Electricity Consumption &amp; Intensity (Left) and Indirect (Scope 2) GHG Emissions &amp; Intensity (Right) 
+
+ 
+
+ 
+
+11.2 Water Consumption Management 
+
+ 
+
+Various Practices on Water Consumption Management 
+
+  Australia 
+
+Water-saving initiatives 
+
+ Monitoring and Review 
+
+ 
+
+Install equipment with water-saving features such as low 
+
+flow showerheads, water flow restrictors and water-
+
+efficient equipment 
+
+ 
+
+Regular maintenance of equipment including pool, 
+
+chillers and cooling towers 
+
+ 
+
+Weekly meter readings to monitor water 
+
+consumption and detect leaks or irregularities 
+
+ 
+
+Training and Awareness 
+
+ 
+
+Increase awareness amongst guests  
+
+o Green Cleaning Policy where guests can choose not to have their rooms serviced daily  
+
+o Encourage guests to hang towels dry instead of replacing daily 
+
+ 
+
+Induction Program where new employees familiarise themselves with the Environmental Policy 
+
+ 
+
+7.8
+
+8.4
+
+6.9
+
+13.7
+
+13.5
+
+9.5
+
+19.4
+
+17.5
+
+13.3
+
+0.0
+
+5.0
+
+10.0
+
+15.0
+
+20.0
+
+25.0
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+30,000
+
+FY2018
+
+FY2019
+
+FY2020
+
+Electrical Energy Intensity
+
+(MWh/Guest Room)
+
+Electricity Consumption (MWh)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Intensity (SG)
+
+Intensity (AUS)
+
+Intensity (NZ)
+
+27,313
+
+23%
+
+60%
+
+17%
+
+27,539
+
+21%
+
+60%
+
+19%
+
+20,280
+
+26%
+
+57%
+
+18%
+
+3.3
+
+3.5
+
+2.8
+
+6.3
+
+6.2
+
+3.6
+
+1.9
+
+1.7
+
+1.0
+
+0.0
+
+1.0
+
+2.0
+
+3.0
+
+4.0
+
+5.0
+
+6.0
+
+7.0
+
+8.0
+
+9.0
+
+10.0
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+FY2018
+
+FY2019
+
+FY2020
+
+Indirect (Scope 2) GHG Emissions Intensity
+
+(tonnes CO2e / guest room)
+
+Indirect (Scope 2) GHG Emissions (tonnes CO2e)
+
+Singapore
+
+Australia
+
+New Zealand
+
+Intensity (SG)
+
+Intensity (AUS)
+
+Intensity (NZ)
+
+10,605
+
+23%
+
+72%
+
+5%
+
+25%
+
+71%
+
+4%
+
+10,614
+
+
+
+31% 
+
+64% 
+
+4% 
+
+6,753 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+22 
+
+ 
+
+
+
+Various Practices on Water Consumption Management 
+
+New Zealand  
+
+Water-saving initiatives 
+
+Training and Awareness  
+
+ 
+
+Install equipment with water-saving features 
+
+o Low flow showerheads 
+
+o Dual flush toilets in guest rooms 
+
+ 
+
+On-the-job training provided for Kitchen and 
+
+Housekeeping staff on minimizing water 
+
+usage 
+
+Performance Monitoring  
+
+ 
+
+Benchmark water consumption against regional average in EarthCheck 
+
+ 
+
+Singapore  
+
+Water-saving initiatives 
+
+Monitoring and Review 
+
+ 
+
+As part of Green Mark certification, all bathroom fittings 
+
+and cisterns installed have a minimally two-tick rating 
+
+under the WELS10 to ensure optimal water use efficiency 
+
+ 
+
+Use of non-potable water only for landscaping in our 
+
+hotels 
+
+ 
+
+Use of an internal monitoring system to 
+
+detect and prevent leaks in the building  
+
+ 
+
+Monthly review of utility bills and inspections 
+
+of premises 
+
+ 
+
+ 
+
+Water scarcity has been a long-overdue global issue, yet our operations significantly depend on a regular water supply. 
+
+At HGC, we withdraw water from the municipal water sources for cooking, housekeeping duties, laundry, daily use in 
+
+hotel equipment and regular maintenance across all hotels. For us, sustainable water management means optimizing 
+
+water usage and not negatively impacting the shared resource.  
+
+We have in place water monitoring systems and water-saving initiatives to bolster sustainable water management 
+
+practices. We also encourage our stakeholders, such as our guests and employees, to use water efficiently at our 
+
+premises.  
+
+Water consumption decreased from 249,172 m3 in FY2019 to 182,706 m3 in FY2020. This is primarily due to the low 
+
+occupancy rate during the lockdown for all the operating countries as well as our water management and saving 
+
+initiatives. We aim to conserve water and improve the water efficiency across our operations in the forthcoming years. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 The Water Efficiency Labelling Scheme (WELS) is a mandatory scheme introduced by the Public Utilities Board (PUB) to inform consumers of 
+
+promoting water the use of the water-efficient system. More information on WELS can be obtained from 
+
+https://www.pub.gov.sg/Documents/WELS_Brochure_English.pdf 
+
+
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+23 
+
+ 
+
+
+
+Figure 8: Water Consumption by Operating Countries 
+
+ 
+
+ 
+
+11.3 Waste Management 
+
+HGC continues to improve its waste management progressively to respond to the society’s widespread concerns over 
+
+the hospitality sector's waste generation. We promote and practice the 3R’s (“Reduce, Reuse, Recycle”) across our 
+
+hotels. Proper recycling systems are installed to collect non-hazardous recyclables; including, cardboard, paper, plastic, 
+
+and glass. We also recycle and compost some hazardous wastes11 such as cooking oil and grease traps, following 
+
+relevant safety protocols. Third-party contractors are engaged to handle both hazardous and non-hazardous waste 
+
+disposal across all three countries.  
+
+Various Practices on Waste Management 
+
+  Australia 
+
+Waste management initiative  
+
+Training and Awareness 
+
+ 
+
+Routine checks on waste bins for proper waste 
+
+segregation to limit the costly collection of general 
+
+waste bins by contractors to three times a week 
+
+ 
+
+Proper disposal of organic waste by third-party 
+
+contractors 
+
+ 
+
+Onsite conversion of food waste to fertilizer through 
+
+Pulpmaster food waste recycling system 
+
+ 
+
+Recycling of cooking oil instead of direct disposal 
+
+ 
+
+Reduction in use of single-use containers for 
+
+conferences and functions 
+
+ 
+
+Recycling of all paper and cardboard products 
+
+ 
+
+Training of all employees with potential to 
+
+encounter contaminated waste on correct 
+
+handling and disposal  
+
+ 
+
+ 
+
+ 
+
+11 Grease trap has been classified as a hazardous waste as defined by Hazardous Waste in Australia 2017 published by the Department of 
+
+Environment and Energy. Please refer to https://www.environment.gov.au/system/files/resources/291b8289-29d8-4fc1-90ce-
+
+1f44e09913f7/files/hazardous-waste-australia-2017.pdf for more details. 
+
+29%
+
+35%
+
+31%
+
+58%
+
+53%
+
+60%
+
+13%
+
+11%
+
+9%
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+FY2018
+
+FY2019
+
+FY2020
+
+Volume of Water Consumption ('000 
+
+m3)
+
+Singapore
+
+Australia
+
+New Zealand
+
+236
+
+249
+
+183
+
+
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+24 
+
+ 
+
+
+
+Various Practices on Waste Management 
+
+New Zealand  
+
+Waste management initiative 
+
+Training and Awareness  
+
+ 
+
+Regular inspections to ensure waste management 
+
+practices are implemented and executed 
+
+ 
+
+Dedicated hotel Green Team working with hotel 
+
+staff for wider waste minimization awareness 
+
+Benchmarking  
+
+ 
+
+Benchmark waste diverted to landfill against regional average in EarthCheck 
+
+ 
+
+Singapore  
+
+Waste management initiative  
+
+ 
+
+Reduce single-use plastic through installation of water and soap dispenser systems installed in hotel rooms 
+
+ 
+
+Where possible, paper waste generated from day to day activities is recycled by an external contractor 
+
+ 
+
+Waste generated from coffee is donated to a local organic farm for the purpose of reuse as compost 
+
+ 
+
+In FY2020, HGC recorded a 22% decrease in total waste generated, mainly due to the decrease of business activities 
+
+during the year. For hazardous waste, 92% of waste was diverted from landfills, disposed of through means of recycling, 
+
+composting and reuse. For non-hazardous waste, 41% of the waste was diverted from landfills, a 11% decrease in 
+
+absolute weight from FY2019. Moving forward, HGC remains committed to proper waste management through 
+
+exploring alternative disposal methods and lowering the amount of waste diverted to landfills in Australia and New 
+
+Zealand. In Singapore, most of the general waste is sent for incineration. We look towards strengthening recycling 
+
+efforts across hotels.  
+
+ 
+
+Figure 9: Total Waste Generated Categorized by Disposal Methods 
+
+ 
+
+21.9
+
+18.3
+
+2.1
+
+20.6
+
+18.1
+
+15.2
+
+1.5
+
+1.5
+
+1.5
+
+1.0
+
+1.0
+
+1.0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+FY2018
+
+FY2019
+
+FY2020
+
+Total Waste (Tonnes)
+
+Hazardous Waste
+
+Recycling
+
+Composting
+
+Landfill
+
+Reuse
+
+Others
+
+
+
+
+
+47% 
+
+46% 
+
+4% 3% 
+
+
+
+49% 
+
+
+
+46% 
+
+
+
+3% 
+
+
+
+2% 
+
+38.9 
+
+45.0 
+
+ 
+
+11% 
+
+76% 
+
+8% 5% 
+
+19.8 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+25 
+
+ 
+
+
+
+ 
+
+266
+
+242
+
+131
+
+101
+
+109
+
+79
+
+681
+
+617
+
+549
+
+220
+
+224
+
+157
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1000
+
+1200
+
+1400
+
+FY2018
+
+FY2019
+
+FY2020
+
+Total Waste (Tonnes)
+
+Non-Hazardous Waste
+
+Recycling
+
+Composting
+
+Landfill
+
+Incineration
+
+Others
+
+1,192
+
+1,268
+
+935
+
+14% 
+
+8% 
+
+59% 
+
+17% 
+
+2% 
+
+20% 
+
+9% 
+
+52% 
+
+19% 
+
+21% 
+
+8% 
+
+54% 
+
+17% 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+26 
+
+ 
+
+
+
+12. GRI Content Index 
+
+General Standard Disclosures 
+
+GRI Standard  
+
+Description 
+
+Section of Report and / or Explanation for 
+
+Omission 
+
+Page 
+
+Reference 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+Organizational profile  
+
+102-1 
+
+Name of the organization 
+
+Corporate Profile 
+
+1 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+Corporate Profile 
+
+1 
+
+102-3 
+
+Location of headquarters 
+
+Corporate Profile 
+
+1 
+
+102-4 
+
+Location of operations 
+
+Corporate Profile 
+
+1 
+
+102-5 
+
+Ownership and legal form 
+
+Corporate Profile 
+
+1 
+
+102-6 
+
+Markets served 
+
+Corporate Profile 
+
+1 
+
+102-7 
+
+Scale of the organization 
+
+Corporate Profile 
+
+Profile of our Workforce  
+
+1 
+
+10-12 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+Profile of our Workforce 
+
+10-12 
+
+102-9 
+
+Supply chain 
+
+We aim to procure locally where possible. 
+
+We procure from a list of approved suppliers and 
+
+contractors which range from providing electricity and gas 
+
+supplies, housekeeping (linen, bedding, towels, amenities), 
+
+cleaning 
+
+supplies, 
+
+lift 
+
+maintenance 
+
+works, 
+
+waste 
+
+management and food supplies (including dry goods, 
+
+frozen meals and vegetables). We also engage with service 
+
+providers of online booking platforms, marketing and use 
+
+of audio visual equipment for events. 
+
+102-10 
+
+Significant changes to the 
+
+organization and its supply chain 
+
+COVID-19 has taught us to be resilient and versatile in our 
+
+business model and operations. Despite the business 
+
+restrictions on hospitality industry, some of our hotels 
+
+served as a medi-hotel for returned travellers.  
+
+ 
+
+There are no significant changes to HGC’s supply chain. 
+
+However, suppliers are re-evaluated across the hotels for 
+
+effective cost management.  
+
+102-11 
+
+Precautionary Principle or 
+
+Approach 
+
+Annual Report 2020 
+
+18-20 
+
+102-12 
+
+External Initiatives 
+
+HGC James Cook participates in external initiatives 
+
+including economic initiatives, the New Zealand 
+
+Marketing Campaign Contribution governed by 
+
+Wellington Regional Economic Development and annual 
+
+benchmarking submissions governed by EarthCheck 
+
+Australia 
+
+102-13 
+
+Membership of Associations 
+
+Our hotels hold key memberships in regions and countries 
+
+they are located in. 
+
+ 
+
+Australia 
+
+Adelaide: Australian Hotels Association (South Australian 
+
+Branch) (AHA SA), South Australian Tourism Industry 
+
+Council (SATIC), Business SA – Chamber of Commerce and 
+
+Industry South Australia and Adelaide West End 
+
+Association  
+
+ 
+
+Launceston and Hobart: Tourism Industry Council 
+
+Tasmania, Tourism Northern Tasmania and Business 
+
+Event Tasmania 
+
+ 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+27 
+
+ 
+
+
+
+Launceston: Australia Tourism Exchange, Launceston 
+
+Chamber of Commerce and Star Ratings Australia 
+
+ 
+
+Melbourne: Australia Hotels Association Accommodation 
+
+Division, Accommodation Association Australia 
+
+ 
+
+Brisbane and Townsville: Queensland Hotels Association 
+
+ 
+
+Hobart: Tourism Industry Council Tasmania (TICT), 
+
+Tasmanian Hospitality Association (THA), Business Event 
+
+Tasmania (BET)  
+
+ 
+
+Townsville: Queensland Tourism Industry Council (QTIC), 
+
+Townsville Enterprise  
+
+ 
+
+ 
+
+New Zealand  
+
+James Cook: Wellington Chamber of Commerce, Tourism 
+
+Export Council New Zealand (TECNZ),Tourism Industry 
+
+EarthCheck  
+
+ 
+
+Singapore 
+
+Singapore: Singapore Hotel Association (SHA) 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+Board Statement  
+
+3 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+Business Ethics and Anti-corruption 
+
+8 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Approach to Sustainability 
+
+2 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement  
+
+3-5 
+
+102-41 
+
+Collective bargaining agreements 
+
+4% of HGC’s employees are covered under collective 
+
+bargaining agreements 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+3-5 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+3-5 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+3-5 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial statements 
+
+Annual Report 2020 
+
+102 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+About the Report 
+
+Materiality and Contributions to SDGs 
+
+2 
+
+5 
+
+102-47 
+
+List of material topics 
+
+Materiality and Contributions to SDGs 
+
+5 
+
+102-48 
+
+Restatements of information 
+
+Profile of our Workforce 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+Managing Use of our Natural Resources 
+
+10-12 
+
+14-18 
+
+ 
+
+19-24 
+
+102-49 
+
+Changes in reporting 
+
+About the Report 
+
+2 
+
+102-50 
+
+Reporting period 
+
+About the Report 
+
+2 
+
+102-51 
+
+Date of most recent report 
+
+27 May 2020 
+
+102-52 
+
+Reporting cycle 
+
+Annually 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+hltan@ghihotels.com 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+28 
+
+ 
+
+
+
+102-54 
+
+Claims of reporting in accordance 
+
+with the GRI Standards 
+
+About the Report 
+
+2 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+25-28 
+
+102-56 
+
+External assurance 
+
+This report has not been externally assured. HGC may 
+
+explore external assurance as reporting matures. 
+
+Material Topics 
+
+GRI Topic-specific 
+
+Disclosure 
+
+Description 
+
+Section of Report and / or Explanation for 
+
+Omission 
+
+Page 
+
+Reference 
+
+Business Ethics and Anti-corruption 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Business Ethics and Anti-Corruption 
+
+2-3 
+
+8-9 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Business Ethics and Anti-Corruption  
+
+2-3 
+
+8-9 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Business Ethics and Anti-Corruption 
+
+8-9 
+
+GRI 205: Anti-
+
+corruption 2016 
+
+205-3 
+
+Confirmed incidents of corruption 
+
+and actions taken 
+
+Business Ethics and Anti-Corruption 
+
+8 
+
+Security of Information 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Security of Personal Data and Information 
+
+2-3 
+
+9-10 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Security of Personal Data and Information 
+
+2-3 
+
+9-10 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Security of Personal Data and Information 
+
+9-10 
+
+GRI 418: 
+
+Customer Privacy 
+
+2016 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of customer 
+
+privacy and losses of customer 
+
+data 
+
+Security of Personal Data and Information 
+
+10 
+
+Health and Safety  
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+ 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+2-3 
+
+14-17 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+2-3 
+
+14-17 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+GRI 403: 
+
+Occupational 
+
+Health and Safety 
+
+20118 
+
+403-1 
+
+Occupational health and safety 
+
+management system 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-2 
+
+Hazard identification, risk 
+
+assessment, and incident 
+
+investigation 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-3 
+
+Occupational health services  
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-4 
+
+Worker participation, 
+
+consultation, and communication 
+
+on occupational health and safety 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-5 
+
+Worker training on occupational 
+
+health and safety 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-6 
+
+Promotion of worker health 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+403-7 
+
+Prevention and mitigation of 
+
+occupational health and safety 
+
+impacts directly linked by business 
+
+relationships 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14-17 
+
+
+HOTEL GRAND CENTRAL LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+29 
+
+ 
+
+
+
+403-9 
+
+Work-related injuries 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+17 
+
+GRI 416: 
+
+Customer Health 
+
+and Safety 2016 
+
+416-2 
+
+Incidents of non-compliance 
+
+concerning the health and safety 
+
+impacts of products and services 
+
+Providing a Healthy and Safe Environment 
+
+for All 
+
+14 
+
+Energy, GHG Emissions and Alternate Energy Sources 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Energy Consumption and GHG Emissions 
+
+2-3 
+
+18-21 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Energy Consumption and GHG Emissions 
+
+2-3 
+
+18-21 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Energy Consumption and GHG Emissions 
+
+18-21 
+
+GRI 302: Energy 
+
+2016 
+
+302-1 
+
+Energy consumption within the 
+
+organization 
+
+Energy Consumption and GHG Emissions 
+
+20-21 
+
+302-3 
+
+Energy Intensity  
+
+Energy Consumption and GHG Emissions 
+
+20-21 
+
+GRI 305: 
+
+Emissions 2016 
+
+305-1 
+
+Direct (Scope 1) GHG emissions 
+
+Energy Consumption and GHG Emissions 
+
+20 
+
+305-2 
+
+Energy indirect (Scope 2) GHG 
+
+emissions 
+
+Energy Consumption and GHG Emissions 
+
+21 
+
+305-4 
+
+GHG emissions intensity 
+
+Energy Consumption and GHG Emissions 
+
+20-21 
+
+Water Consumption Management 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Water Consumption Management 
+
+2-3 
+
+21-23 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Water Consumption Management 
+
+2-3 
+
+21-23 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Water Consumption Management 
+
+21-23 
+
+GRI 303: Water 
+
+2016 
+
+303-1 
+
+Water withdrawal by source 
+
+Water Consumption Management 
+
+21-23 
+
+Waste Management 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Waste Management 
+
+2-3 
+
+23-25 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Waste Management 
+
+2-3 
+
+23-25 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Waste Management 
+
+23-25 
+
+GRI 306: Effluents 
+
+and Waste 2016 
+
+306-2 
+
+Waste by type and disposal 
+
+method 
+
+Waste Management  
+
+23-25 
+
+Additional Topics 
+
+Employment Practices 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+ 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundary 
+
+Approach to Sustainability; 
+
+Employment Practices and Benefits 
+
+2-3 
+
+14 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Approach to Sustainability; 
+
+Employment Practices and Benefits 
+
+2-3 
+
+14 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Employment Practices and Benefits 
+
+14 
+
+GRI 401: 
+
+Employment 2016 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Profile of our Workforce 
+
+13 
+
+401-2 
+
+Benefits provided to full-time 
+
+employees that are not provided 
+
+to temporary or part-time 
+
+employees 
+
+Employment Practices and Benefits 
+
+ 
+
+14 
+
+ 
+

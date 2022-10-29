@@ -1,0 +1,2791 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+HUATIONG GLOBAL LIMITED 
+
+ 
+
+2019 
+
+ 
+
+SUSTAINABILITY REPORT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Date: 29 May 2020 
+
+ 
+
+
+
+
+ 2 
+
+ 
+
+Table of Contents 
+
+ 
+
+Message From The Chairman................................................................................................................. 3 
+
+About This Report .................................................................................................................................. 4 
+
+Report Methodology ........................................................................................................................... 4 
+
+Report Scope  ...................................................................................................................................... 4 
+
+Report Contact and Feedback ............................................................................................................. 4 
+
+About Our Group .................................................................................................................................... 5 
+
+Corporate Profile ................................................................................................................................. 5 
+
+Corporate Structure  ........................................................................................................................... 6 
+
+Supply Chain ........................................................................................................................................ 6 
+
+Awards, Certificates and Memberships of Association ...................................................................... 7  
+
+Our Approach to Sustainability  ............................................................................................................. 8 
+
+Sustainability Approach ...................................................................................................................... 8 
+
+Corporate Governance ........................................................................................................................ 8 
+
+Code of Conduct .................................................................................................................................. 8 
+
+Declaration of Conflict of Interest....................................................................................................... 8  
+
+Whistle-Blowing Policy ........................................................................................................................ 9 
+
+Enterprise Risk Management Framework .......................................................................................... 9 
+
+Stakeholders Engagement  .................................................................................................................. 10 
+
+ESG Factors  .......................................................................................................................................... 11 
+
+Water and Energy Consumption  ...................................................................................................... 12 
+
+Waste Disposal and Management .................................................................................................... 14 
+
+Employment  ..................................................................................................................................... 17 
+
+Occupational Health and Safety........................................................................................................ 21 
+
+Training and Education ..................................................................................................................... 24  
+
+GRI Content Index  ............................................................................................................................... 26 
+
+ 
+
+
+3 
+
+ 
+
+MESSAGE FROM THE CHAIRMAN 
+
+ 
+
+Dear Stakeholders,  
+
+On behalf of the Board of Directors (“Board”), I am pleased to present our Sustainability Report (“SR”) 
+
+for Huationg Global Limited (“Huationg” and together with our subsidiaries, the “Group”) for the 
+
+financial year ended 31 December 2019 (“FY2019”). 
+
+This report aims to communicate our Group’s strong commitment and good corporate governance. It 
+
+also includes accessible information on Huationg’s on-going efforts to its sustainability approach. The 
+
+Board is committed to sustainability as part of our business operations and fully supports the adoption 
+
+of the Singapore Exchange Securities Trading Limited (the “SGX-ST”) sustainability reporting guidelines 
+
+for all listed companies. 
+
+The Group recognises the importance of maintaining a sustainable business with our stakeholders and 
+
+have identified relevant Environmental, Social and Governance (ESG) factors. Our Board oversees our 
+
+overall sustainability direction and strategies, while our management provides regular updates to the 
+
+Board.  
+
+As we prepare this sustainability report, the global COVID-19 pandemic situation is evolving. Since 
+
+January 2020, our Group has implemented Business Continuity Plan and implemented swift protocols 
+
+in our operations. Further to the implementation of Circuit Breaker measures with effect from 7 April 
+
+2020, most of the construction works for our Group’s ongoing projects have been suspended. 
+
+However, we have arranged for employees to work from home for certain key functions and to 
+
+periodically attend to construction sites for essential activities, such as vector controls, earth control 
+
+and safety measures.  
+
+The year 2020 promises to be a dynamic and fluid situation where sustainability issues and risks are 
+
+constantly changing, the Board sees this as an on-going journey where we continue to evaluate 
+
+material ESG factors relevant to our business. 
+
+ 
+
+Mr. Ng Hai Liong 
+
+Executive Chairman 
+
+ 
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 4 
+
+ 
+
+ABOUT THIS REPORT 
+
+REPORT METHODOLOGY 
+
+This Report is prepared in accordance with Rules 711A and 711B of the SGX-ST Listing Manual Section 
+
+B: Rules of Catalist (“Catalist Rules”) and the Global Reporting Initiative (“GRI”) Standards 
+
+Sustainability Reporting Guidelines 2016 - Core Option and its reporting principles.  
+
+We have adopted the GRI reporting framework for its robust regime and detailed guidance on which 
+
+offers an internationally-recognised benchmark for the disclosure of governance approaches, the 
+
+environmental, social and economic performance and impacts on organisations. The GRI content 
+
+index and relevant references are provided at the end of this report.  
+
+Reporting boundaries: 
+
+ 
+
+ 
+
+REPORT SCOPE 
+
+This report covers the period from 1 January 2019 to 31 December 2019, which is in line with our 
+
+Group’s financial year ended 31 December 2019). Our Group has not sought any external assurance 
+
+for this sustainability report. This report is provided in PDF format only and is available for download 
+
+on our website at http://www.huationg-global.com and at SGXNet. 
+
+ 
+
+REPORT CONTACT AND FEEDBACK 
+
+We value your feedback as part of our continued efforts to improve our sustainability efforts and we 
+
+encourage you to contact us through the following channels:  
+
+ In writing to: 
+
+Huationg Global Limited  
+
+No. 9 Benoi Crescent  
+
+Singapore 629972  
+
+ 
+
+ Via our contact page at http://www.huationg-global.com./contact.html 
+
+ 
+
+Materiality
+
+Focusing on issues that impact business growth and are of utmost 
+
+impotance to stakeholders.
+
+Stakeholders 
+
+Inclusiveness
+
+Responding to stakeholder expectations and interest.
+
+Sustainability 
+
+Context
+
+Persenting performance in the wider context of sustainability.
+
+Completeness
+
+Including all information that is of significant economic, enviornmental, 
+
+social and governance impact to enable stakeholders to assess our 
+
+Group's performance.
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 5 
+
+ 
+
+ABOUT OUR GROUP 
+
+CORPORATE PROFILE 
+
+Our Group is one of the leading civil engineering service providers, with over 30 years of presence and 
+
+track record in large infrastructure projects in Singapore. We have been listed on the Catalist of the 
+
+SGX-ST since 9 December 2014. Our Group's businesses can be categorised into three main segments: 
+
+ 
+
+ 
+
+ 
+
+
+
+Civil Engineering Services
+
+We provide a full range of civil engineering services from earthworks, 
+
+infrastructure works, external works, demolition and excavation works, site 
+
+clearance, drainage works, reinforcing bar installation, formwork, concrete 
+
+installation, backfill and compaction to final handover.
+
+
+
+Inland Logistics Support
+
+We provide inland logistics support through the provision of a wide range 
+
+of construction equipment, including, among others, tipper trucks, 
+
+compactors, excavators, concrete pumps. 
+
+
+
+Sale of Constuction Materials
+
+We sell construction materials such as sand and granite aggregates, recycled 
+
+concrete aggregates and Liquefied Stabilised Soil ("LSS"). We also manufacture 
+
+and supply LSS, a self-flowable, self-compacting and self-leveling alternative to 
+
+conventional compacted fill.
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 6 
+
+ 
+
+CORPORATE STRUCTURE 
+
+ 
+
+ 
+
+ 
+
+SUPPLY CHAIN 
+
+Our Group is committed to sustainable growth and shared value creation. We aim to build a 
+
+sustainable supply chain by working closely with our partners, suppliers and subcontractors to explore 
+
+means to enhance efficiency and productivity. 
+
+We have been working to improve our supply chain by carefully selecting key suppliers and 
+
+subcontractors through our supplier selection process. Quality checks will be conducted on our key 
+
+suppliers before we engage them to ensure that these suppliers meet our quality standards, social 
+
+and environmental principles. The criteria that we examine our key suppliers includes the quality of 
+
+the products and services provided, financial health, reputation in the industry and market, and 
+
+sustainability efforts undertaken by our suppliers and subcontractors such as effective health and 
+
+safety system, environmental management and ethical conduct. This supplier selection process also 
+
+ensures that we provide equal and fair treatment to all our suppliers and subcontractors. 
+
+We also recognise the importance of performing periodic checks and assessments for our existing 
+
+suppliers to ensure that the products and services provided by them have maintained its quality 
+
+consistently and are in alignment with our business requirements and sustainability objectives. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+Huationg Global 
+
+Limited
+
+
+
+100%
+
+Soil Engineering Pte 
+
+Ltd
+
+
+
+100%
+
+Huationg Contractor 
+
+Pte Ltd
+
+
+
+100%
+
+Banyan Capital Pte 
+
+Ltd
+
+
+
+33.3%
+
+Golden Empire-
+
+Huationg Pte Ltd
+
+
+
+75%
+
+HT Equipment Pte 
+
+Ltd
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 7 
+
+ 
+
+AWARDS, CERTIFICATES AND MEMBERSHIPS OF ASSOCIATION 
+
+As a testament to our commitment towards maintaining high standards of environmental, safety 
+
+compliance and management, our Group has received numerous awards and accreditations. 
+
+Amongst others, those awarded or valid in FY2019 are as follows: 
+
+ 
+
+BizSAFE Level Star Certificate 
+
+ 
+
+BCA Green and Gracious Builder Award 
+
+ 
+
+ISO 9001: 2015  
+
+ 
+
+ISO 14001:2015 
+
+ 
+
+ISO-SS 506 Part 1:2009 BS OHSAS 18001: 2007  
+
+ 
+
+Certificate of Achievement - Safe Man Hours - DRSW Project 
+
+Some subsidiaries of our Group are registered with Singapore Contractors Association Ltd under the 
+
+following trade registrations:  
+
+ 
+
+CS01 - Road Works, Pipe and Cable Installation, Road Instatement and Maintenance; 
+
+ 
+
+CS03 - Concreting; 
+
+ 
+
+CS10 - Demolition; and 
+
+ 
+
+CS11 - Soil Investigation, Stabilisation and Earthwork Services.  
+
+These subsidiaries are admitted to the Registry of Singapore List of Trade Subcontractors.  
+
+ 
+
+In addition, we support the objective of Waste Management &amp; Recycling Association of Singapore (the 
+
+“WMRAS”) to promote recycling in order to create a more sustainable living environment. One of our 
+
+subsidiary is also an ordinary member of the WMRAS.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 8 
+
+ 
+
+OUR APPROACH TO SUSTAINABILITY 
+
+SUSTAINABILITY APPROACH 
+
+Under the leadership of our Board, we integrate sustainability principles into our businesses. Our 
+
+Board oversees our sustainability direction, strategies and is supported by our management team. The 
+
+management monitors our Group’s sustainability performances and reports to our Board on a regular 
+
+basis. This ensures that our Group’s business objectives are in line with our commitments to 
+
+sustainable development.  
+
+We actively engage our key stakeholders to understand their needs and address their concerns. This 
+
+helps us build mutual beneficial relationships with our stakeholders and generate sustainable value 
+
+for them in the long-run. 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+Our Group is committed to conduct our business activities in a socially and environmentally 
+
+sustainable matter. We understand the importance of good corporate governance, greater 
+
+transparency and accountability in our businesses. We recognise that a high standard of corporate 
+
+governance and business conduct, is integral in ensuring the sustainability of our business and 
+
+performance, as well as safeguarding the interests and maximising long-term value for our 
+
+stakeholders.  
+
+Our Group have adopted a framework of corporate governance policies and practices in line with the 
+
+principles and provisions set out in the Code of Corporate Governance 2018 (the “2018 Code”). We 
+
+are committed to maintain good corporate governance by following the principles and provisions set 
+
+out in the 2018 Code. Details of our compliance to each of the principles and provisions listed in the 
+
+2018 Code are disclosed in the corporate governance report of our Annual Report. Any deviations 
+
+from the guidelines in the Code, if any, will be duly explained. 
+
+ 
+
+CODE OF CONDUCT 
+
+Our Group’s Code of Conduct is established in the Employees’ Handbook which is made known to all 
+
+our employees. It serves as a central guide and reference to our employees on our expectations and 
+
+principles of workplace behaviours. All employees are expected to fully comply with the Code of 
+
+Conduct.  
+
+ 
+
+DECLARATION OF CONFLICT OF INTEREST 
+
+Our Group have established a set of policy and procedures on declaration of potential conflict of 
+
+interests for our employees to abide by. All employees of our Group are required to declare and 
+
+disclose any situation where their private businesses or personal interests conflict with those of our 
+
+Group. 
+
+ 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 9 
+
+ 
+
+WHISTLE-BLOWING POLICY 
+
+Our Group has a whistle-blowing policy whereby employees may, in confidence, raise concerns about 
+
+possible irregularities in financial reporting and/or other matters, such as suspected fraud, corruption, 
+
+dishonest practices etc. The policy defines the processes clearly to ensure independent investigation 
+
+of such matters and permits whistle blowers to report directly via email to any of the Whistle-Blowing 
+
+Committee members. 
+
+Our whistle-blowing policy also defines the processes clearly to give insights to our employees on the 
+
+types of incidents that are reportable. A copy of our whistle-blowing policy can be found in our 
+
+Employee Handbook, which is made known to all our employees. 
+
+The Whistle-Blowing Committee comprises of all members of the Audit Committee, of which all are 
+
+Non-Executive and Independent Directors. The whistle-blowing committee will direct an independent 
+
+investigation to be conducted on the complaint when received. The Audit Committee (the “AC”) has 
+
+the power to conduct or authorise investigations into any matter within the AC’s scope of 
+
+responsibility, and if it deems appropriate, may engage independent advisors at the Company’s 
+
+expense for the purpose of resolving the complaint. Findings from any investigations shall be reported 
+
+to the AC for their further action. 
+
+ 
+
+ENTERPRISE RISK MANAGEMENT FRAMEWORK 
+
+Our Group strives for sustainable business growth through strict corporate governance compliance 
+
+and risk management practices. Risk management is a vital aspect of our business activities and 
+
+decision-making process.  
+
+An Enterprise Risk Management (“ERM”) framework was established to identify, manage and mitigate 
+
+any significant risks of our Group, as well as to capture opportunities that our Group can potentially 
+
+leverage on to meet our business objectives.  The Risk Committee, comprising our Chief Executive 
+
+Officer as the Chairman and 3 independent directors as members, oversees the risk management of 
+
+our Group. Regular reviews on our Group’s strategic, financial, operational and compliance risks are 
+
+carried out through a precautionary approach.  
+
+The ERM framework includes half-yearly internal reports to our Board regarding current and emerging 
+
+risks and mitigating measures our Group has in place. This enables us to be vigilant and prepared while 
+
+managing recognised risks in an efficient and structured manner.  
+
+ 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 10 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+We actively engage our key stakeholders through various channels to understand their concerns in 
+
+order to align the business interest and ultimately to generate sustainable value in the long-run. The 
+
+stakeholders have been identified as those who are impacted by the Group’s business and operations 
+
+and those who are able to impact the Group’s business and operations. Six stakeholders groups have 
+
+been identified through an assessment of their significance to the business operations. The key topics 
+
+and the engagement platforms are as follows:  
+
+Stakeholders 
+
+Key Topics 
+
+Engagement Platform 
+
+Employees 
+
+ 
+
+Occupational health and safety 
+
+ 
+
+Fair employment practices and 
+
+compensation 
+
+ 
+
+Training &amp; development 
+
+ 
+
+Performance 
+
+ 
+
+Employee Handbook 
+
+ 
+
+Trainings 
+
+ 
+
+Performance appraisals 
+
+ 
+
+Grievance / feedback channels 
+
+ 
+
+Internal communication through 
+
+emails 
+
+ 
+
+Team bonding activities 
+
+ 
+
+Annual appreciation dinner 
+
+ 
+
+Staff exit interviews 
+
+Customers 
+
+ 
+
+Product / Service quality 
+
+ 
+
+Project timeliness, requirements and 
+
+specifications 
+
+ 
+
+Workplace safety 
+
+ 
+
+Information and data security 
+
+ 
+
+Feedback on completed projects 
+
+ 
+
+Regular meetings 
+
+ 
+
+Feedback channels such as email 
+
+and telephone communications 
+
+ 
+
+Corporate website 
+
+ 
+
+Site visits 
+
+ 
+
+Suppliers/ 
+
+Consultants/ 
+
+Subcontractors  
+
+ 
+
+Product / Service quality 
+
+ 
+
+Project timeliness, requirements and 
+
+specifications 
+
+ 
+
+Workplace safety 
+
+ 
+
+ 
+
+ 
+
+Regular meetings 
+
+ 
+
+Timely feedback regarding 
+
+material/services provided 
+
+ 
+
+Site visits 
+
+Shareholders 
+
+&amp; Investors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business strategy and directions 
+
+ 
+
+Financial performance 
+
+ 
+
+Dividend pay-out 
+
+ 
+
+Shareholders' meetings 
+
+ 
+
+SGX announcements  
+
+ 
+
+Corporate website and email 
+
+Government &amp; 
+
+Regulators 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Corporate governance 
+
+ 
+
+Compliance with rules and regulations 
+
+ 
+
+Sharing of industry best practices 
+
+ 
+
+Government publication / 
+
+written communication 
+
+ 
+
+Industry networking functions 
+
+ 
+
+Seminars conducted by the 
+
+regulators 
+
+Community  
+
+ 
+
+Clean and safe environment for the 
+
+community 
+
+ 
+
+Keep neighbours informed of possible 
+
+disruption in their lives 
+
+ 
+
+Green and gracious environment 
+
+ 
+
+Meetings 
+
+ 
+
+Notices 
+
+ 
+
+Charity events 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 11 
+
+ 
+
+ESG Factors 
+
+In addition to constant engagements with our stakeholders, our ERM procedures are in place to 
+
+identify, assess and evaluate the sustainability risks which are applicable to the material ESG topics. 
+
+Our material topics will continue to be reviewed on an annual basis, taking into account the various 
+
+stakeholders’ feedback as well as their relevance and materiality to the business, strategy and 
+
+business model.  
+
+For FY2019, we looked into the following material topics for continuous disclosure: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Water and 
+
+Energy 
+
+Consumption
+
+
+
+
+
+Waste 
+
+Disposal and 
+
+Management
+
+
+
+
+
+Employment
+
+
+
+
+
+Occupational 
+
+Health and 
+
+Safety
+
+
+
+
+
+Training and 
+
+Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 12 
+
+ 
+
+WATER AND ENERGY CONSUMPTION 
+
+Environmental sustainability is one of the key tenets to construction industries worldwide and our 
+
+Group recognises how we can contribute positively and tackle issues such as water scarcity and global 
+
+warming.  
+
+Water scarcity has increasingly become a prominent global environmental issue that our stakeholders 
+
+are concerned with. The availability of fresh water is a growing challenge as the world’s population 
+
+increases and developing economies continue to grow. With rain patterns changing due to climate 
+
+change, the stability of water supplies is likely to become a more pressing concern every year.  
+
+A considerable amount of energy is required to run our operations involving construction activities. 
+
+We recognise the importance of our role in managing energy consumption to promote environmental 
+
+sustainability and cost savings. 
+
+ 
+
+Management Approach and Performance 
+
+Water Consumption 
+
+Our Group minimises the use of fresh water by using alternatives, 
+
+such as recycled water, processed sewage water and rain water for 
+
+our business processes whenever possible. For example, we recycle 
+
+water from earth control measures plant for wheel washing bay, dust 
+
+control, cleaning of amenities, washing of muddy water shoes and 
+
+planting. We encourage our employees and customers to cultivate 
+
+water-saving habits by raising awareness on the importance of water 
+
+conservation. Our offices use water efficient fittings that come with 
+
+half-flush mechanism and self-release water taps. 
+
+ 
+
+Electricity Consumption 
+
+We adopt the usage of energy efficient equipment and incorporate 
+
+eco-friendly practices in our business such as energy efficient 
+
+lightings, inverter air conditioning systems and appliances endorsed 
+
+with “Green Label”. We encourage our employees to switch off lights 
+
+and electrical appliances in the office when not in use. Regular 
+
+maintenance of our equipment was conducted to optimise energy 
+
+efficiency.  
+
+ 
+
+
+
+
+
+
+
+Washing of muddy water 
+
+shoe using recycled water 
+
+
+
+
+
+
+
+Reminders to switch off 
+
+lights 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 13 
+
+ 
+
+ 
+
+Our Group had also adopted several on-
+
+going green initiatives to reduce its 
+
+carbon 
+
+footprint. 
+
+Some 
+
+initiatives 
+
+include the selection of other electrical 
+
+power supply such as AC Grid power 
+
+supply and the installation of solar panel 
+
+system to supply clean power for our 
+
+site equipment such as total suspended 
+
+solids monitoring devices, CCTV and 
+
+noise monitoring system.   
+
+Our Group has supported Earth Hour 2019 by 
+
+doing our part in following the ‘Lights Off 
+
+Schedule’ for our site offices and HQ 
+
+premise. We ensure that all non-essential 
+
+electric lights were switched off between 
+
+12.30pm to 1.30pm from 25 to 29 March 
+
+2019. We have also sent out broadcasts to 
+
+educate our employees on the efforts to help 
+
+the planet. For instance, our employees were 
+
+educated on how to implement the Reduce, 
+
+Reuse and Recycle (“3Rs”) initiatives in their 
+
+daily work operations, energy saving tips on 
+
+using less air-conditioning and the benefits of 
+
+car-pooling. 
+
+ 
+
+The following table shows the water and electricity consumption for FY2019 and FY2018. The increase 
+
+in water and electricity consumption was mainly due to new accounts activated during the second half 
+
+year of 2018 as well as the first half year of 2019. This is in line with our project requirement. 
+
+Water and Electricity Consumption 
+
+FY2019 
+
+FY2018 
+
+Water Consumption (Cubic Meter) 
+
+98,780 
+
+89,000 
+
+Electricity Consumption (kWH) 
+
+990,750 
+
+933,820 
+
+ 
+
+Target 
+
+We will continue to monitor the level of water and electricity consumption in FY2020 as we seek to 
+
+find new initiatives to improve efficiency in water and energy management and reduce overall 
+
+consumption rate.  
+
+ 
+
+ 
+
+
+
+
+
+Earth Hour 2019 
+
+
+
+
+
+
+
+Use of solar sources for site CCTV 
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 14 
+
+ 
+
+WASTE DISPOSAL AND MANAGEMENT 
+
+Proper and efficient waste disposal and management remain as one of the key environmental 
+
+challenges in Singapore’s construction sector. We believe in building a greener future and creating a 
+
+friendlier environment for our stakeholders. Our Group is committed to manage and minimise the 
+
+impact of our business operations on the environment by actively minimising waste produced during 
+
+our operations.  
+
+ 
+
+Management Approach and Performance 
+
+Our approach to waste management starts with using natural resources wisely and efficiently, 
+
+accompanied with the conservation of energy and water. The Group minimises waste through 
+
+reducing, reusing and recycling. 
+
+Since 2004, we have been recycling construction waste and aggregates to produce recycled concrete 
+
+aggregates, which are typically used for road construction or trench backfilling.  
+
+We also manufacture and supply Liquefied Soil Stabilizer (“LSS”), a self-flowable, self-compacting and 
+
+self-levelling alternative to conventional compacted fill. LSS, the environmentally friendly material can 
+
+be use as non-structural fill for buildings and other structures, as well as for backfill in utility and road 
+
+construction. LSS reuses soil that has been excavated in construction projects and which would 
+
+otherwise be discarded as waste. Compared to conventional compacted fill, LSS also has its advantage 
+
+of being excavated again easily. Such practice serves to reduce the environmental impact with 
+
+decreased dependence on non-recyclable materials. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Usage of pre-cast to minimise rebar 
+
+or concrete use 
+
+
+
+
+
+
+
+Use of sustainable material LSS for slope 
+
+protection 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 15 
+
+ 
+
+ 
+
+Our Group has a detailed policy and procedure for waste 
+
+disposal and management, including a “Reduce, Reuse 
+
+and Recycle (“3Rs”) Programme” which is stated in our 
+
+Green Gracious Best Practices (“GGBS”) Operations 
+
+Manual, and is disseminated to all our employees.  
+
+We have ongoing programmes to raise awareness and 
+
+encourage the employees and contractors to participate 
+
+in 
+
+our 
+
+3Rs 
+
+Programme 
+
+and 
+
+responsible 
+
+waste 
+
+management initiatives. Through GGBS Awareness Quiz, 
+
+we monitor our employees’ awareness on the GGBP and 
+
+improve their knowledge and competency on the GGBS.   
+
+To reduce construction waste and increase productivity, our Group always actively research on 
+
+efficient process for our operations. Amongst others, some of the initiatives the Group continuously 
+
+adopted are:  
+
+ 
+
+Adoption of system formwork for its better casting quality and productivity, shorter 
+
+assembling and dismantling time, environmental friendly due to its reusability and safer to 
+
+use when compared to the conventional formwork; and 
+
+ 
+
+Adoption of pre-fabricated RC drains for easy installation, higher structural and architectural 
+
+standards and less concrete wastage at site when compared to the conventional cast-in-situ 
+
+drains. 
+
+ 
+
+Adoption of high efficiency screener technology to separate rocks, soil, stones and rebar for 
+
+reuse. The tier 3 engine ensures lower fuel consumption, thus reducing carbon footprint. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Workers taking the GGBS 
+
+Awareness Quiz 
+
+
+
+
+
+
+
+Secretion of Soils/Rock/Stones/Rebar for reuse  
+
+by our High Efficiency Screener 
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 16 
+
+ 
+
+ 
+
+At project sites, visible recycling bins are placed at designated areas for proper segregation of wastes. 
+
+Material such as timber and metal are reused at our site where possible or otherwise, sent for 
+
+recycling. Other non-recyclable construction wastes are disposed according to the relevant disposal 
+
+guidelines. Other construction wastes are collected by licensed contractors. Construction wastes 
+
+collected by these contractors will be segregated accordingly at their respective yards before being 
+
+transported to government landfills or incinerators.  
+
+Our sites have been using recycled and sustainable materials for non-structural applications such as 
+
+making signages using excess rebars, timber and concrete, and making helmet racks, shoe racks using 
+
+excess metal poles. We reuse safety helmets as flowerpots.  
+
+ 
+
+Our suppliers and subcontractors also play a role in helping us achieve our sustainability efforts. This, 
+
+we have included the Green and Gracious Builder Scheme as one of the considerations during 
+
+selection of suppliers and subcontractors. Our supplier evaluation form include scoring for suppliers’ 
+
+Environmental, Health and Safety performance.  
+
+Our Group is certified as operating an environmental management system which conforms to the 
+
+requirements of ISO 14001:2015 in the scope of providing building construction and civil engineering 
+
+services as well as the production and delivery of LSS. Our Group also received the Green and Gracious 
+
+Builder Award from the Building and Construction Authority (“BCA”).  
+
+ 
+
+Target 
+
+Our Group aim to continue to find new initiatives to improve the effectiveness in waste disposal 
+
+management. We will also continue to encourage and remind our employees to constantly practice 
+
+the current initiatives in place. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+Reuse safety helmet 
+
+as flowerpots 
+
+
+
+Using S-hook made from 
+
+recycle metal rods 
+
+
+
+
+
+
+
+Empty Hydraulic Drum cut and 
+
+recycled to use as BBQ grill 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 17 
+
+ 
+
+EMPLOYMENT 
+
+Attracting and retaining a diversified talent pool helps to bring in different ideas and perspectives into 
+
+the organisation and in turn encourage innovation and growth. Our employees serve as a vital point 
+
+of contact between our customers and our management. Thus, employees are our key assets and 
+
+human capital investment is one of the factors which we have identified.  
+
+ 
+
+Management Approach and Performance 
+
+In order to attract and retain talents, we cultivate a working environment which promotes workplace 
+
+inclusivity, diversity and equal employment opportunities. Our Group has a comprehensive Human 
+
+Resource (“HR”) Policy in growing our human capital and enhancing employees’ overall performance. 
+
+The policy covers key areas such as staff recruitment and selection, remuneration and benefits, 
+
+performance appraisals, career development and training, safety and security and cessation of 
+
+employment.  
+
+ 
+
+Fair Employment Practices 
+
+We reference our HR practices to the Fair and Progressive Employment Practices formulated by 
+
+Singapore Tripartite Alliance which comprises the Ministry of Manpower (the “MOM”), Singapore 
+
+National Employers Federation and National Trades Union Congress. We are strong advocates for fair 
+
+employment practices. We recruit and select employees based on their merits, treat them fairly and 
+
+offer equal opportunities for training and development. An employee performance appraisal will be 
+
+conducted annually to evaluate employees with respect to their performance on their job and their 
+
+potential for development. Our Employee Handbook is in place and shared to all our employees, which 
+
+allows for greater transparency of HR practices in our Group.  
+
+ 
+
+Open Communication and Timely Feedback 
+
+To 
+
+better 
+
+understand 
+
+employees’ 
+
+concern 
+
+and 
+
+expectations, we communicate with them regularly, 
+
+through platforms such as departmental and project 
+
+meetings, performance reviews and tea sessions. Through 
+
+performance reviews and exit interviews, we gather 
+
+feedbacks from our employees for the continuous 
+
+improvement of our organisation. Through open and 
+
+effective communications with our employees, we 
+
+establish a common understanding and promote an 
+
+inclusive work environment based on mutual trust and 
+
+respect. This is key to improving the effectiveness and 
+
+efficiency of our business operations and management.  
+
+ 
+
+ 
+
+
+
+Feedback / Suggestion box for site 
+
+personnel to submit improvement 
+
+ideas for the site or other concerns 
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 18 
+
+ 
+
+ 
+
+Work Environment 
+
+Ensuring our employees’ health and well-being is our responsibility. We are committed to achieve this 
+
+by providing our employees with a secure and conductive working environment. Therefore, we 
+
+regularly monitor our performance in these areas and 
+
+periodically review our policies so that we provide the 
+
+best for our employees.  
+
+To provide work life balance and a healthy lifestyle for 
+
+our employees, we have a fitness gym and badminton 
+
+courts located at our Headquarter where our 
+
+employees can enjoy a change of pace by working out 
+
+or playing a game of badminton with their colleagues. 
+
+We occasionally organise company events so that our 
+
+employees can enjoy bonding time together. Some of 
+
+the events we had in 2019 include the Oktoberfest and 
+
+celebration for Christmas, Annual Dinner where our 
+
+employees had meals and fun together.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We embrace the philosophy of giving back to 
+
+the 
+
+community 
+
+by 
+
+encouraging 
+
+active 
+
+involvement in the charity events. In 2019, 
+
+amongst others, we took part in Walk for our 
+
+Children, a charity event - organised by 
+
+Singapore Children's Society, where our 
+
+employees had a 2km walk together with their 
+
+families and colleagues.  
+
+We 
+
+have 
+
+implemented 
+
+measures 
+
+for 
+
+employees who are unwell to stay at home as 
+
+a precautionary measure.  
+
+ 
+
+ 
+
+
+
+
+
+
+
+Charity event: Walk for our Children 
+
+
+
+Fitness gym 
+
+
+
+
+
+
+
+Oktoberfest 
+
+
+
+
+
+
+
+
+
+
+
+Annual dinner (lucky draw winner) 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 19 
+
+ 
+
+ 
+
+Workforce Diversity 
+
+We promote diversity and inclusivity in our workforce as we recognise the importance of having an 
+
+all-inclusive work environment where employees accept diversity and eliminate discrimination. With 
+
+dynamic individuals from diverse backgrounds, we are able to gather exceptional contributions, 
+
+opinions and feedback necessary to our sustained growth. 
+
+Employees by Age Groups 
+
+The table and chart below show the proportion of our employees in different age groups. There is an 
+
+increase in our workforces for FY2019, but we maintained a similar percentage of employees in each 
+
+age group as compared to FY2018. 
+
+ 
+
+ 
+
+Gender Diversity by Employment Category 
+
+The table and chart below show the proportion of males and females in our workforce profile. There 
+
+is an increase in percentage of females in our workforce for FY2019 as compared to FY2018. Given the 
+
+nature of construction industry which involves laborious work, our employee gender mix comprises 
+
+of a much larger proportion of male employees.   
+
+As at 31 December 2019: 
+
+ 
+
+25.6%
+
+64.7%
+
+9.6%
+
+FY2019
+
+&lt; 30 years old
+
+30-50 years old
+
+&gt; 50 years old
+
+24.8%
+
+64.9%
+
+10.3%
+
+FY2018
+
+&lt; 30 years old
+
+30-50 years old
+
+&gt; 50 years old
+
+84.8%
+
+15.2%
+
+Senior Management and 
+
+Managerial Staff
+
+Male
+
+Female
+
+95.8%
+
+4.2%
+
+Non_Managerial Staff
+
+Male
+
+Female
+
+95.5%
+
+4.5%
+
+Overall
+
+Male
+
+Female
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 20 
+
+ 
+
+ 
+
+As at 31 December 2018:  
+
+ 
+
+ 
+
+Target 
+
+In FY2020, our Group will continue to practice fair recruitment and selection process for our 
+
+employees, maintain open communication and perform periodical reviews for employees to ensure 
+
+that career advancements are rewarded in a fair and just manner. We will also continue to take care 
+
+of our employees’ health and well-being and promote work life balance and health lifestyle for our 
+
+employees. 
+
+ 
+
+78.9%
+
+21.1%
+
+Senior Management and 
+
+Managerial Staff
+
+Males
+
+Females
+
+95.9%
+
+4.1%
+
+Non-Managerial Staff
+
+Males
+
+Females
+
+95.6%
+
+4.4%
+
+Overall
+
+Males
+
+Females
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 21 
+
+ 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+People are our greatest assets and their health and safety are of utmost importance to us. We are 
+
+responsible and obligated to provide them with a safe and healthy environment for our employees, 
+
+subcontractors and customers. The health and well-being of our people ultimately affect our Group’s 
+
+goals and objectives.  
+
+ 
+
+Management Approach and Performance 
+
+Safety starts with a set of cohesive occupational health and safety strategy that requires a safety-
+
+oriented management culture. Our management approach to workplace safety and health 
+
+management is full adherence to the legislative requirement and adopting recommended industry 
+
+standards and guidelines. Our Workplace Safety and Health (“WSH”) policy sets out safety measures 
+
+and risk management guidelines for WSH Hazards in Construction Industries. Our Quality 
+
+Environmental Health and Safety steering committee oversees and monitors the implementation and 
+
+maintenance of our WSH policies and practices. 
+
+Construction companies have higher risk of workplace accident as compared to other industries.  As 
+
+such, it is essential to promote a range of Group-wide occupational health and safety activities that 
+
+include preventing workplace accidents by applying the required safety standards as well as 
+
+implementing additional measures tailored to the specific conditions of the sites. We also engage with 
+
+our contractors and consultants through risk reviews and monitoring of environmental, health and 
+
+safety matters.  
+
+Education and Prevention is the core of our WSH policy to minimise the number of accidents. We 
+
+closely monitor high risk activities, share near miss accidents that could lead to an accident.  
+
+We believe that safety awareness begins with understanding the work procedures and workplace 
+
+hazards. Employees must understand the safety rules and mandatory personal protective equipment 
+
+that helps to prevent injuries. All our workers must attend compulsory, regular safety and health 
+
+trainings that covers our WSH policy, highlights workplace hazards 
+
+and potential risk areas of accidents may occur and introduces our 
+
+Occupational Health and Safety measures. Trainings for specific 
+
+work activities, such as lifting, excavation, work at height, hot work 
+
+confined space, are provided as and when required. These trainings 
+
+help to embed safety into the culture and habits of our employees.  
+
+Biannual fire drill exercised are conducted on site as well as in as 
+
+part of emergency preparedness procedure to ensure our 
+
+employee are aware of the safety evacuation procedure. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Fire drill exercise 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 22 
+
+ 
+
+ 
+
+Frequent reminders are given to employees on workplace safety. Safety measures and occupational 
+
+health precautions are constantly conveyed to employees during the regular meetings such as daily 
+
+toolbox meetings to ensure maximum safety protection at worksites. We circulate the WSH alerts 
+
+issued by WSH Council to all the employees to remind them 
+
+the importance of workplace safety. The alerts keep the 
+
+Company and workers informed of recent WSH incidents 
+
+and highlight learning points and provide recommendations 
+
+on how similar incidents can be averted.  
+
+We are certified under OHSAS 18001:2007 in Occupational 
+
+Health and Safety Management. We also received BizSAFE 
+
+Level Star certificate in recognition of our ongoing 
+
+commitment and efforts to health and safety. Safety 
+
+recognition and certifications incentivise employees at 
+
+construction sites to maintain and improve the 
+
+standards of health and safety at the sites. 
+
+In 2019, we have in place additional safety protection measures at our worksites to prevent accidents 
+
+from occurring. They are, amongst others, exclusion zones were established to prohibit entry of non-
+
+authorised personnel, pedestrian walkway and vehicular paths are clearly segregated with barricades 
+
+to eliminate risk of accidents and anti-slip gloves are provided for handling glass. We also have 
+
+implemented the use of digital permit-to-work system for some of our projects. It is a versatile 
+
+platform where digital permit-to-work can be submitted, validated and approved through the 
+
+platform. Other than the benefit of it being more environmentally friendly than using paper form of 
+
+permits, the platform allows easier monitoring of safety processes on site as all key stakeholders have 
+
+real time access to the safety information on site. The digital permit-to-work system improves 
+
+productivity, compliance, and ultimately safety on construction sites. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As a result of our rigorous efforts to keep the workplace safe for our employees, we reported one 
+
+work-related accidents and no fatalities in FY2019. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Safety award to reward safe behaviour 
+
+
+
+Designated walkway  
+
+
+
+
+
+
+
+
+
+
+
+Anti-slip gloves for handling glass  
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 23 
+
+ 
+
+ 
+
+In view of the Covid-19, the Group had taken precautionary measures and implemented operational 
+
+protocols in its operations since January 2020 in response to the growing concerns over the Covid-19 
+
+outbreak. All employees who have been to countries with Covid-19 or came into close contact with a 
+
+person who have been to countries with Covid-19 were required to work from home for two weeks. 
+
+Our employees were spilt into teams to practise social distancing, with staggered lunch time and 
+
+working hours. Further to the implementation of Circuit Breaker measures by Ministry of Health, we 
+
+have arranged for employees to work from home for certain key functions. For the safety of our 
+
+employees, construction works for most ongoing projects are suspended. However, we have arranged 
+
+for employees to periodically attend to construction sites for the supervision of essential activities 
+
+including vector controls, earth control and safety measures. All precautionary measures are taken to 
+
+ensure the safety and well-being of our employees. 
+
+ 
+
+Target 
+
+Looking forward in FY2020, we aim to maintain our low rate of work-related accidents. We will also 
+
+continue to increase our state of preparedness in the event of any emergency and ensure a safe and 
+
+healthy working environment for our employees.  
+
+ 
+
+
+
+
+
+
+
+Safe distance practice 
+
+
+
+
+
+
+
+Sanitising toilet 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 24 
+
+ 
+
+TRAINING AND EDUCATION 
+
+Career development and employee training is crucial as it enhance productivity of all employees by 
+
+equipping them with the necessary skillset to perform their duties in an ever-changing environment. 
+
+Increased performance of the employees brings a greater positive impact to the Company.  
+
+ 
+
+Management Approach and Performance 
+
+New employees are engaged to our orientation 
+
+programmes where they learn about our Group’s key 
+
+policies. These programmes also help them to 
+
+familiarise themselves with our general working 
+
+environment, 
+
+corporate 
+
+culture, 
+
+and 
+
+service 
+
+knowledge as well as quality requirements. Workers 
+
+are briefed on the in-house safety rules and regulations 
+
+regularly and during their first day of induction.  
+
+On-the job trainings are provided by the employees’ 
+
+immediate supervisors, who share their experiences 
+
+and knowledge, provide guidance and advices, as well 
+
+as monitor performance of individual employee. Experienced workers are assigned to new worker as 
+
+part of our buddy system program.  
+
+We empower our staff with skills and experience through a range of learning and development 
+
+programmes coordinated by our Group’s Human Resource department or initialled by staff 
+
+themselves. We regularly send our employees to attend seminars, conferences and trainings to 
+
+improve their technical and functional skills, broaden their knowledge, and ultimately increase their 
+
+productivity and efficiency at work. Our BCA Approved Training and Testing Centre conducts courses 
+
+on hydraulic excavator operation. We will continue to impart knowledge and skills on handling the 
+
+machineries, so as to help the workers to improve their work productivity and quality.  
+
+In 2019, our employees attended the emergency readiness 
+
+seminar where they learn about how to respond to 
+
+different types of emergencies, such as evacuation 
+
+procedures and fire prevent tips. Our office staff also 
+
+attended the workplace safety training where they learn 
+
+about how to work in a safer office environment.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Office staff attending workplace 
+
+safety training 
+
+
+
+Training of Safe Use of Road Sweeper 
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 25 
+
+ 
+
+ 
+
+Some other courses attended by our employees in 2019 include, but not limited to workplace safety 
+
+and health course, confined space operation training, training on hydraulic excavating operations, 
+
+construction safety orientation course, hazmat transport driver permit course, ISO training workshop, 
+
+the Security of Payment Act related course, construction contract administration course, International 
+
+Financial Reporting Standards Masterclass 2019, project management courses, and occupational first 
+
+aid course. 
+
+ 
+
+Our employees have fulfilled more training hours in FY2019 as compared to FY2018. The average 
+
+training hours per employee for FY2019 and FY2018 are as follows. 
+
+ 
+
+Training 
+
+FY2019 
+
+FY2018 
+
+Average hours of training per employee 
+
+8.6 hours 
+
+6.5 hours 
+
+ 
+
+Target 
+
+Our Group aim to further improve the quality of our training courses and increase or maintain the 
+
+current level of training hours depending on the staff training needs so that our employees are 
+
+provided with the necessary competence and leadership to perform their work in a safe and efficient 
+
+manner.  
+
+ 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 26 
+
+ 
+
+GRI CONTENT INDEX 
+
+GRI  
+
+Standard 
+
+Disclosure 
+
+Page Reference / 
+
+Reason for Omission, 
+
+if any 
+
+GRI 102: General Disclosures 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation  
+
+Page 3 
+
+102-2 
+
+Activities, brands, products, and services 
+
+Page 5 
+
+102-3 
+
+Location of headquarters  
+
+Page 4 
+
+102-4 
+
+Location of operations 
+
+Page 4 
+
+102-5 
+
+Ownership and legal form  
+
+AR Section “Statistics 
+
+of Shareholdings” 
+
+102-6 
+
+Markets served 
+
+Page 5 
+
+102-7 
+
+Scale of the organisation 
+
+AR Section “Operating 
+
+and Financial Review” 
+
+102-8 
+
+Information on employees and other workers  
+
+Page 17-20 
+
+AR Section “Board of 
+
+Directors and Key 
+
+Executives” 
+
+102-9 
+
+Supply chain  
+
+Page 6 
+
+102-10 
+
+Significant changes to the organisation and its supply chain 
+
+Nil 
+
+102-11 
+
+Precautionary principle or approach  
+
+Page 8 
+
+102-12 
+
+External initiatives 
+
+Page 7, 10 &amp; 18 
+
+102-13 
+
+Membership of associations 
+
+Page 7 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision maker 
+
+Page 3 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, standards, and norms of behaviour 
+
+Page 3, 8 &amp; 9 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Page 8  
+
+AR Section “Corporate 
+
+Governance Report” 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Page 10 
+
+102-41 
+
+Collective bargaining agreements 
+
+Nil 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Page 10 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Page 10 
+
+102-44 
+
+Key topics and concerns raised 
+
+Page 11 
+
+Reporting Practice  
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+Page 6 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+Page 4 
+
+102-47 
+
+List of material topics 
+
+Page 11 
+
+102-48 
+
+Restatements of information 
+
+Nil 
+
+102-49 
+
+Changes in reporting 
+
+Nil 
+
+102-50 
+
+Reporting period 
+
+Page 4 
+
+ 
+
+
+SUSTAINABILITY REPORT 2019 | HUATIONG GLOBAL LIMITED 
+
+ 
+
+ 27 
+
+ 
+
+ 
+
+GRI  
+
+Standard 
+
+Disclosure 
+
+Page Reference / 
+
+Reason for Omission, 
+
+if any 
+
+Reporting Practice  
+
+102-51 
+
+Date of most recent report 
+
+30 May 2019 
+
+102-52 
+
+Reporting cycle 
+
+Page 4 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+Page 4 
+
+102-54 
+
+Claims of reporting in accordance with the GRI Standards 
+
+Page 4 
+
+102-55 
+
+GRI content index 
+
+Page 26-27 
+
+102-56 
+
+External assurance 
+
+Page 4 
+
+GRI 103: Management Approach  
+
+103-1  
+
+Explanation of the material topic and its boundaries 
+
+Page 8-10 &amp; 
+
+respective section of 
+
+the specific topics 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the management approach 
+
+ 
+
+SPECIFIC TOPICS 
+
+Environment 
+
+Energy 
+
+302-1 
+
+Energy consumption within the organisation 
+
+Page 12 
+
+Water 
+
+303-1 
+
+Water withdrawal by source 
+
+Page 12 
+
+Effluents and Waste 
+
+306-2 
+
+Waste by type and disposal method 
+
+Page 14 
+
+Social 
+
+Occupational Health and Safety 
+
+403-2 
+
+Types of injury and rates of injury, occupational diseases, 
+
+lost days, and absenteeism, and number of work-related 
+
+fatalities 
+
+ 
+
+ 
+
+Page 21-23 
+
+403-3 
+
+Workers with high incidence or high risk of diseases related 
+
+to their occupation 
+
+Training and Education 
+
+404-1 
+
+Average hours of training per year per employee 
+
+ 
+
+Page 24-25 
+
+404-2 
+
+Programs for upgrading employee skills and transition 
+
+assistance programs 
+
+Diversity and Equal Opportunity 
+
+405-1 
+
+Diversity of governance bodies and employees 
+
+Page 17-20 
+
+ 
+
+ 
+

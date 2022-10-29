@@ -1,0 +1,4368 @@
+
+
+
+2017年環境、社會與管治報告
+
+億仕登控股有限公司
+
+Incorporated in Singapore with limited liability
+
+(Singapore Stock code: I07.SI) (Hong Kong Stock code: 1656)
+
+於新加坡註冊成立的有限公司
+
+（新加坡股份代號：I07.SI）(香港股份代號：1656)
+
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE REPORT 2017
+
+ISDN HOLDINGS LIMITED
+
+
+
+
+
+
+TABLE OF
+
+CONTENTS
+
+I. Board Statement 董事會報告
+
+II. About ISDN 關於億仕登
+
+III. Reporting Period and Scope of the Report 報告期和報告範圍
+
+IV. Stakeholder Engagement 利益相關者參與
+
+V. Environmental Sustainability 環境可持續性
+
+VI. Social Sustainability 社會可持續性
+
+VII. Report Disclosure Index 報告披露指數
+
+01
+
+01
+
+02
+
+02
+
+06
+
+12
+
+23
+
+In case of any discrepancies between the English language version and the Chinese language version, the English version shall prevail.
+
+倘英文版與中文版有任何異議，既以英文版為準。
+
+
+一、	 董事會報告
+
+億仕登控股有限公司（「本公司」）及其自公司
+
+（統稱為「集團」）嚴格履行其各自的環境和社
+
+會責任。通過環境、社會及管治（「ESG」）報
+
+告，本集團向其利益相關者展示了集團在報告期
+
+內，可持續發展方面的進步表現。本報告是根據
+
+全球報告倡議 (「GRI」) 標準所編寫。
+
+本集團制定了可持續發展戰略，目標是向其利益
+
+相關者創造可持續價值，減小本集團對環境的影
+
+響。為了在整個集團實施可持續發展戰略，公司
+
+董事會（簡稱「董事會」）對確保集團的ESG政
+
+策之有效性負有最終責任。董事會成立了專責小
+
+組，負責管理集團各業務部門的ESG問題。集團
+
+還制定了專責人員，負責督促ESG相關政策的執
+
+行。集團還承諾不斷審查並調整期可持續發展戰
+
+略，以滿足其利益相關者日益變化的需求。有關
+
+集團在環境和社會方面的管理方法，可參見ESG
+
+報告的相關章節。集團認為，持續性對集團的長
+
+期發展非常重要。
+
+二、	 關於億仕登
+
+億仕登控股有限公司總部位於新加坡，是一家主
+
+要專注於運動控制、工業計算及其他專業工程解
+
+決方案的綜合工程解決方案供應商。集團的客戶
+
+主要為製造商和那些對精度控制有特別要求的產
+
+品和設備原始設計製造商。集團提供全範圍的工
+
+程服務，從概念、設計和開發到原型製作、生
+
+產、銷售和行銷以及售後工程技術保障。
+
+I.  
+
+Board Statement
+
+ISDN Holdings Limited (the “Company”) and 
+
+its subsidiaries (collectively, the “Group”) 
+
+stringently fulfil their environmental and social 
+
+responsibilities. Through this Environmental, 
+
+Social and Governance (“ESG”) report, the Group 
+
+demonstrates its progressive performance 
+
+in terms of sustainable development to its 
+
+stakeholders during the reporting period. This 
+
+report has been prepared in accordance with the 
+
+Global Reporting Initiatives (“GRI”) Standards.  
+
+The Group developed its sustainability strategy 
+
+with the goal to create sustainable values to its 
+
+stakeholders, and to lower the Group’s impact on 
+
+the environment. In order to carry out the Group’s 
+
+sustainability strategy from top to bottom, the 
+
+Board of Directors (the “Board”) of the Company 
+
+has ultimate responsibility for ensuring the 
+
+effectiveness of the Group’s ESG policies. The 
+
+Board established dedicated teams to manage 
+
+ESG issues within each business division of 
+
+the Group. Designated staff was assigned to 
+
+enforce and supervise the implementation of 
+
+the relevant ESG policies. The Group is also 
+
+committed to constantly reviewing and adjusting 
+
+its sustainability policies to satisfy the ever-
+
+changing needs of its stakeholders. Details of its 
+
+management approach in both the environmental 
+
+and social aspect can be found throughout 
+
+different sections of this ESG Report. The Group 
+
+believes sustainability is essential to the its long-
+
+term development.
+
+II.  
+
+About ISDN
+
+Headquartered in Singapore, ISDN Holdings 
+
+Limited is an integrated engineering solution 
+
+provider focusing on motion control, industrial 
+
+computing and other specialised engineering 
+
+solutions. The Group’s customers are primarily 
+
+manufacturers and original design manufacturers 
+
+of products and equipment that have specialised 
+
+requirements in precision controls. The Group 
+
+provides the full spectrum of engineering services 
+
+from conceptualisation, design &amp; development to 
+
+prototyping, production, sales &amp; marketing and 
+
+after sales engineering support.
+
+1 
+
+2017年環境、社會與管治報告
+
+
+ISDN’s vision is “To be the engineering solution 
+
+provider of choice focused on delivering innovative 
+
+and quality solutions to both its customers and 
+
+stakeholders”. To achieve its vision, the Group is 
+
+committed to doing the following:
+
+• 
+
+To be recognized as the leader in all the 
+
+markets it serves
+
+• 
+
+To continue to build enduring relationship of 
+
+trust with its customers and business partners
+
+• 
+
+To be an employer of choice that inspires and 
+
+rewards performance excellence
+
+• 
+
+To generate value for shareholders through 
+
+measured growth strategies in earnings and 
+
+distributions.
+
+• 
+
+To conserve the environment through the use of 
+
+technology for better resource management
+
+III. 
+
+Reporting Period and Scope of the 
+
+Report 
+
+This ESG Report covers the environmental 
+
+and social performance within the operational 
+
+boundaries of the Group that includes the Group’s 
+
+(i) business operation, which comprises sales and 
+
+administration offices in Singapore, Hong Kong, the 
+
+People’s Republic of China (the “PRC”), Malaysia, 
+
+Vietnam, Taiwan, Indonesia, and Thailand; and 
+
+(ii) manufacturing operation, which comprises 
+
+manufacturing plants and warehouses in Wujiang, 
+
+Suzhou, PRC. Notable change in the operational 
+
+scope would be the inclusion of the Group’s sales 
+
+offices in Taiwan, Indonesia, and Thailand, which 
+
+has previously been scoped out of its operational 
+
+boundaries. The reporting period is the Group’s 
+
+financial year dating from 1 January 2017 to 31 
+
+December 2017 (“FY2017”).
+
+IV. 
+
+Stakeholder Engagement
+
+With the goal to strengthen the sustainability 
+
+approach and performance of the Group, the Group 
+
+puts tremendous effort into listening to both its 
+
+internal and external stakeholders. The Group 
+
+actively collects feedback from its stakeholders 
+
+to maintain a high standard of sustainability 
+
+within the Group, while also building a trustful 
+
+and supportive relationship with them. The Group 
+
+connects with its stakeholders through their 
+
+preferred communication channels below.
+
+億仕登的願景是「成為客戶首選的工程解決方案
+
+供應商，專注於為客戶和其利益相關者提供創新
+
+和優質的解決方案」。為了實現這個願景，集團
+
+做出以下承諾：
+
+• 成為所有其服務市場的公認領導者
+
+• 繼續建立其與客戶和商業夥伴之間的持久信賴
+
+關係
+
+• 成為最佳僱主，激勵員工卓越的工作表現並予
+
+以獎勵
+
+• 通過勻稱的收益和分配增長型戰略，為利益相
+
+關者創造價值
+
+• 通過使用技術，更好的管理資源，以此來保護
+
+環境
+
+三、	 報告期和報告範圍	
+
+ESG報告涵蓋了集團運營範圍內的環境和社會表
+
+現；運營範圍主要保函集團的以下業務：（i）業
+
+務運營，包括新加坡、香港和中華人民共和國（
+
+簡稱「中國」）、馬來西亞、越南、臺灣、印尼
+
+和泰國的銷售辦事處和行政辦公室；（ii）製造業
+
+務,包括中國吳江區和蘇州市的製造廠和倉庫。運
+
+營範圍變化顯著的包括集團在臺灣、印尼和泰國
+
+的銷售辦事處，這幾處辦事處以前未被列入運營
+
+範圍。報告期即集團的財政年度，從2017年1月1
+
+日之2017年12月31日（「2017財政年度」）
+
+四、	 利益相關者參與
+
+為了鞏固可持續發展方法，提高集團的業績，本
+
+集團做出巨大努力去聆聽集團內外部利益相關者
+
+的意見。集團積極收集利益相關者的回饋，以在
+
+集團內維持一個可持續發展的方法，同時也在與
+
+利益相關者建立可以信賴和支持的關係。集團通
+
+過以下優先溝通渠道，保持與利益相關者的聯
+
+繫。
+
+2 
+
+Environmental, Social and Governance Report 2017
+
+
+Table 1 Communication with Stakeholders
+
+Stakeholders 
+
+利益相關者
+
+Expectations and Concerns 
+
+期望和關注點
+
+Communication Channels
+
+溝通渠道
+
+Government and regulatory authorities
+
+政府和監管機構
+
+-  Compliance with laws and 
+
+regulations
+
+-  遵守法律法規
+
+-  Support economic development
+
+-  支持經濟發展
+
+-  Supervision on compliance with 
+
+local laws and regulations
+
+-  監督是否遵守地方法律法規
+
+-  Routine reports
+
+-  例行報告
+
+Shareholders
+
+股東
+
+-  Return on investments
+
+-  投資回報率
+
+-  Corporate governance
+
+-  公司治理
+
+-  Business compliance
+
+-  業務合法性
+
+-  Regular reports and 
+
+announcements
+
+-  定期報告和公佈
+
+-  Regular general meetings
+
+-  定期召開股東大會
+
+-  Official website
+
+-  官方網站
+
+Employees
+
+員工
+
+-  Employees’ compensation and 
+
+benefits
+
+-  員工的薪酬福利
+
+-  Career development
+
+-  職業發展
+
+-  Health and safety in the working 
+
+environment
+
+-  工作環境的衛生與安全
+
+-  Performance reviews
+
+-  績效審查
+
+-  Regular meetings and trainings
+
+-  定期會議與培訓
+
+-  Emails, notice boards, hotline, 
+
+caring activities with management
+
+-  管理相關的電子郵件、佈告欄、熱
+
+線和關愛活動
+
+Customers
+
+客戶
+
+-  High quality products and services
+
+-  優質的產品和服務
+
+-  Protect customers’ rights
+
+-  保障客戶合法權益
+
+-  Customer satisfaction survey
+
+-  客戶滿意度調查
+
+-  Face-to-face meetings and on-site 
+
+visits
+
+-  面對面會議和實地探訪
+
+-  Customer service hotline and email
+
+-  客戶服務熱線和電子郵件
+
+Suppliers
+
+供應商
+
+-  Fair and open procurement
+
+-  公平公開的採購
+
+-  Win-win cooperation
+
+-  雙贏合作
+
+-  Open tendering
+
+-  公開招標
+
+-  Suppliers’ satisfactory assessment
+
+-  供應商滿意度評估
+
+-  Face-to-face meetings and on-site 
+
+visits
+
+-  面對面會議和實地探訪
+
+General public
+
+一般公眾
+
+-  Community involvement
+
+-  社區參與
+
+-  Business compliance
+
+-  業務合法性
+
+-  Environmental protection awareness
+
+-  環境保護意識
+
+-  Media conferences and responses 
+
+to enquiries
+
+-  媒體會議和問詢回應
+
+表1	與利益相關者的溝通
+
+3 
+
+2017年環境、社會與管治報告
+
+
+Materiality Assessment
+
+The Group undertakes annual review in identifying 
+
+and understanding its stakeholders’ main concerns 
+
+and material interests for the ESG Report. In 
+
+FY2017, the Group engaged its stakeholders 
+
+to conduct a materiality assessment survey. 
+
+Specifically, internal and external stakeholders 
+
+were selected based on their influence and 
+
+dependence on the Group. Stakeholders with high 
+
+level of influence and dependence on the Group 
+
+were selected and invited to express their views 
+
+and concerns on a list of sustainability issues via 
+
+an online survey. The results from the materiality 
+
+assessment survey were mapped and presented 
+
+below.
+
+Stakeholder Engagement Materiality Matrix
+
+
+
+1
+
+Air and greenhouse gas emissions 大氣和溫室氣體排放
+
+2
+
+Sewage treatment 污水處理 
+
+3
+
+Land use, pollution and restoration 土地使用、污染和恢復
+
+4
+
+Solid waste treatment 固體廢棄物處理
+
+5
+
+Energy use 能源使用
+
+6
+
+Water use 用水
+
+7
+
+Use of other raw/packaging materials 其他原材料/包裝材料的使用
+
+8
+
+Mitigation measures to protect natural resources 保護自然資源緩解措施
+
+9
+
+Composition of employees 員工組成 
+
+10
+
+Employee remuneration and benefits 員工薪資福利
+
+11
+
+Occupational health and safety 職業健康與安全
+
+12
+
+Employee development and training 僱員發展和培訓 
+
+13
+
+Preventing child and forced labour 防止童工和強制勞工
+
+重要性評估
+
+集團進行年度評審，確定並理解其利益相關者對
+
+於ESG報告的主要關注點和重大利益。2017財政
+
+年度，集團讓其利益相關者進行了一次重要性評
+
+估調查。具體方法為，根據對集團的影響和對集
+
+團的依賴程度，選擇內外部利益相關者。選出對
+
+集團影響程度和依賴程度高的利益相關者，並通
+
+過線上調查，邀請他們在一張可持續發展問題表
+
+上寫出自己的看法和問題。重要性評估調查結果
+
+如下圖所示：
+
+利益相關者重要性分析矩陣
+
+
+
+4 
+
+Environmental, Social and Governance Report 2017
+
+
+14
+
+Suppliers by geographical region 按地理位置劃分供應商
+
+15
+
+Selection of suppliers and assessment of their product/services 供應商選擇及其產品/服務評估
+
+16
+
+Environmental protection assessment of the suppliers 供應商的環保評估
+
+17
+
+Social risks assessment of the suppliers 供應商的社會風險評估
+
+18
+
+Procurement practices 採購行為
+
+19
+
+Health and safety relating to products/services 產品/服務相關的衛生安全
+
+20
+
+Customers’ satisfaction 客戶滿意度
+
+21
+
+Marketing and promotion 市場行銷及推廣
+
+22
+
+Observing and protecting intellectual property rights 遵守和保護知識財產權
+
+23
+
+Product quality assurance and recall percentage 產品品質保證和召回比例
+
+24
+
+Protection of consumer information and privacy 客戶資訊和隱私保護
+
+25
+
+Labelling relating to products/services 產品/服務標籤問題
+
+26
+
+Preventing bribery, extortion, fraud and money laundering 防止賄賂、勒索、敲詐和黑錢
+
+27
+
+Anti-corruption policies and whistle-blowing procedure 反腐敗政策和舉報程序
+
+28
+
+Understanding local communities' need 理解地方社區的需求
+
+29
+
+Public welfare and charity 公共福利和慈善
+
+With respect to this ESG Report, the Group 
+
+identifies “Customers’ satisfaction”, “Preventing 
+
+bribery, extortion, fraud and money laundering”, 
+
+“Occupational health and safety”, and “Protection 
+
+of consumer information and privacy” as issues 
+
+of highly important to both the Group and its 
+
+stakeholders. This review helped the Group in 
+
+meeting stakeholders’ expectation by prioritising 
+
+its sustainability issues and highlighting the 
+
+relevant material aspects.
+
+Stakeholders’ Feedback
+
+As the Group strives for excellence, stakeholders’ 
+
+feedback is always welcomed, especially on 
+
+topics listed as highly important in the materiality 
+
+assessment. Readers are also welcome to share 
+
+their views with the Group at info@isdnholdings.
+
+com or www.isdnholdings.com.
+
+在這份ESG報告中，集團認定，「客戶滿意度」
+
+、「防止賄賂、勒索、敲詐和黑錢」、「職業健
+
+康與安全」和「客戶資訊和隱私保護」這幾項，
+
+屬於對集團及其利益相關者都十分重要的事項。
+
+此次評審有助於集團通過對可持續發展問題進行
+
+優先排序，強調重要性相關方面等手段，滿足利
+
+益相關者的期望。
+
+利益相關者回饋
+
+集團追求卓越，因此歡迎利益相關者提出回
+
+饋，尤其是針對重要性評估中列為十分重要的
+
+話題。也歡迎讀者通過以下方式與集團分享您
+
+的觀點：info@isdnholdings.com 或 www.
+
+isdnholdings.com。
+
+5 
+
+2017年環境、社會與管治報告
+
+
+V. 
+
+ENVIRONMENTAL SUSTAINABILITY
+
+The Group is committed to ensuring long-term 
+
+environmental sustainability in places where 
+
+it operates. The Group stringently controls its 
+
+emissions and resource consumption through 
+
+implementation of the energy conservation 
+
+measures at its offices and manufacturing 
+
+factories. 
+
+This section primarily discloses the Group’s 
+
+policies, practices and quantitative data on 
+
+emissions, use of resources and the environment 
+
+and natural resources in FY2017.
+
+A.1. Emissions 
+
+The Group complied with all relevant local 
+
+environmental laws as set out in the countries 
+
+where the Group operates. In FY2017, the Group 
+
+found no disregard to influential laws relevant 
+
+to air or greenhouse gas emissions, discharging 
+
+contaminants to water or land, and hazardous or 
+
+non-hazardous wastes. 
+
+In FY2017, the Group’s greenhouse gas (“GHG”) 
+
+emissions under Scope 1 (Direct Emissions), 
+
+Scope 2 (Energy Indirect Emission), and Scope 
+
+3 (Other Indirect Emission) were 405 tonnes 
+
+carbon dioxide equivalent (“CO2e”), 1,551 tonnes 
+
+CO2e, and 102 tonnes CO2e respectively. The 
+
+Group’s total GHG emissions amounted to 2,058 
+
+tonnes CO2e, and the GHG intensity for the Group 
+
+was 7.04 tonnes CO2e/SGD (“Singapore Dollar”) 
+
+million. Other than GHG emissions, the Group 
+
+also generated 82 tonnes of non-hazardous 
+
+solid wastes (with an intensity of 0.28 tonnes/
+
+SGD million), and 17 tonnes of non-hazardous 
+
+wastewater (with an intensity of 0.05 tonnes/SGD 
+
+million) in its operations. The Group’s operation did 
+
+not generate any hazardous waste. The Group’s 
+
+total emissions is summarised in Table 2.
+
+五、	 環境可持續性
+
+本集團確保在其經營地長期的環境可持續性。本
+
+集團通過在其辦公室和製造工廠實施節能措施，
+
+嚴格控制其排放和資源消耗。 
+
+本節主要公佈本集團2017財政年度排放、資源利
+
+用和環境、自然資源方面的政策以及實踐和數量
+
+資料。
+
+A.1.	排放物	
+
+本集團遵守其經營所在地所有相關的地方環境法
+
+律。2017財政年度，本集團重視氣體、溫室氣體
+
+排放、水體或土地污染排放以及有害或無害廢棄
+
+物排放方面有影響力的法律。 
+
+2017財政年度，本集團分別排放范圍1（直接排
+
+放）、范圍2（能源間接排放）和范圍3（其他間
+
+接排放）溫室氣體（「GHG」）405噸、1,551噸
+
+和102噸二氧化碳當量（「CO2e」）。本集團溫
+
+室氣體排放總量達到了2,058噸（二氧化碳當量）
+
+，本集團溫室氣體集約度為7.04頓二氧化碳當量/
+
+百萬新元。除了溫室氣體排放，本集團在經營過
+
+程中還排放了82噸無害固體廢棄物（密度為0.28
+
+噸/百萬新加坡元）和17噸無害污水（密度為0.05
+
+噸/百萬新加坡元）。本集團經營過程中不排放有
+
+害污染物。表2所示為本集團總排放量。
+
+6 
+
+Environmental, Social and Governance Report 2017
+
+
+Table 2 Total Emissions by the Group in FY2017
+
+Emissions
+
+排放物
+
+Key Performance Indicator (KPI)
+
+關鍵業績指標
+
+Unit
+
+單位
+
+Amount
+
+總計
+
+*Intensity (Unit/ 
+
+SDG million)
+
+*密度（單位/一
+
+百萬新元）
+
+GHG Emissions
+
+溫室氣體排放
+
+Scope 1 (Direct Emission)
+
+范圍1（直接排放）
+
+tonnes CO2e
+
+噸二氧化碳
+
+405
+
+-
+
+Scope 2 (Energy Indirect Emission)
+
+范圍2（能源間接排放）
+
+tonnes CO2e
+
+噸二氧化碳
+
+1,551
+
+-
+
+**Scope 3 (Other Indirect Emission)
+
+**范圍3（其他間接排放）
+
+tonnes CO2e
+
+噸二氧化碳
+
+102
+
+-
+
+Total (Scope 1, 2 and 3)
+
+共計（范圍1、2和3）
+
+tonnes CO2e
+
+噸二氧化碳
+
+2,058
+
+7.04
+
+Non-hazardous Waste
+
+無害廢棄物
+
+Solid Waste
+
+固體廢棄物
+
+tonnes
+
+噸
+
+82
+
+0.28
+
+Wastewater
+
+污水
+
+tonnes
+
+噸
+
+17
+
+0.05
+
+*  Intensity was calculated by dividing the amount by 
+
+the Group’s FY2017 revenue of S$292.185 million
+
+**  The Group’s Scope 3 (Other Indirect Emissions) 
+
+includes only paper waste disposed at landfills
+
+Business Operation
+
+The Group is committed to environmental 
+
+protection in its daily operations. The Group has 
+
+established policies to reduce emissions coming 
+
+from the daily operation in the office. The specific 
+
+emissions generated were indirect greenhouse 
+
+gases emissions from use of electricity, and 
+
+municipal solid waste and wastewater generated 
+
+by the employees. The measures taken to reduce 
+
+electricity consumption in the office, and thus GHG 
+
+emissions from this business segment, are further 
+
+described in A.2.Use of Resources. 
+
+To reduce the amount of municipal solid waste 
+
+generated, the Group implemented the following 
+
+practices:
+
+• 
+
+Separate and recycle solid waste;
+
+• 
+
+Encourage employees to reduce use of 
+
+disposable items such as plastic tableware; and
+
+• 
+
+Advocate office stationeries reuse.
+
+Any non-recyclable municipal solid wastes 
+
+were collected and disposed by the property 
+
+management.
+
+表2	本集團2017財政年度總排放量
+
+*  根據本集團2017財政年度292.185百萬新元的收
+
+入計算出了密度。
+
+**  本集團范圍3類排放（其他間接排放）只包含
+
+填埋的廢紙。
+
+業務運營
+
+本集團在日常經營中注重環境保護。本集團出臺
+
+了旨在減少日常辦公經營中的排放的政策。具體
+
+產生的排放包括因使用電力所產生的間接性溫室
+
+氣體排放和員工產生的城市固體廢棄物和污水。
+
+在資源利用A.2章節中進一步說明了減少辦公室
+
+電力消耗以及該營業環節中的溫室氣體排放的措
+
+施。 
+
+為了減少城市固體廢棄物，本集團進行了以下實
+
+踐：
+
+• 分類和回收利用固體廢棄物；
+
+• 鼓勵員工減少一次性物品的使用，如塑膠餐
+
+具；並且
+
+• 提倡辦公文具重複利用。
+
+所有不可回收城市固體廢棄物都由物業管理回收
+
+處理。
+
+7 
+
+2017年環境、社會與管治報告
+
+
+Since the amount of wastewater generated 
+
+highly depends on the amount of water used, 
+
+the Group adopted specific measures to reduce 
+
+water consumption, which are further described 
+
+in A.2.Use of Resources. Municipal wastewater 
+
+was directly discharged into the property sewage 
+
+system.
+
+Manufacturing Operation
+
+In the manufacturing operation, the Group is very 
+
+prudent in controlling all discharges. Emissions 
+
+generated from the manufacturing production 
+
+process include air &amp; greenhouse gases, 
+
+wastewater, solid waste, and noise in FY2017. The 
+
+Group has established internal policies to control 
+
+and manage air &amp; GHG, wastewater, solid waste 
+
+and noise emissions.
+
+Air &amp; GHG Emissions
+
+Air emissions from this business segment include 
+
+volatile organic compound (“VOC”) generated 
+
+during the production process. In FY2017, the 
+
+Group had designated collection ducts to collect 
+
+VOC, which was first purified by the external 
+
+air purification unit in the ventilation system 
+
+before being released to the atmosphere. The 
+
+main source of GHGs in this business segment 
+
+came from the use of purchased electricity, 
+
+while petroleum and diesel fuel consumed in 
+
+vehicles and backup generators were also major 
+
+contributors to the Group’s GHG emissions. The 
+
+Group has established internal policies to reduce 
+
+energy use and thus the air and GHG emissions, 
+
+as further described in A.2.Use of Resources. The 
+
+Group’s business has complied with the Integrated 
+
+Emission Standard for Air Pollutants (《大氣污染物
+
+綜合排放標準》).
+
+Wastewater
+
+Wastewater produced in this business segment 
+
+includes domestic wastewater and industrial 
+
+wastewater. Wastewater in compliance with the 
+
+Integrated Emission Standard for Wastewater (
+
+《污水綜合排放標準》) was directly discharged 
+
+into the local sewerage system. As for industrial 
+
+wastewater, the Group assigned qualified 
+
+wastewater treatment company for its handling. 
+
+產生的污水很大程度取決於用水量，所以本集團
+
+已採用特殊措施減少用水，這一點在A.2資源利用
+
+章節中進一步說明。城市污水直接排放進入物業
+
+污水系統。
+
+製造業務
+
+在製造業務中，本集團積極控制其所有排
+
+放。2017財政年度，製造生產過程產生的排放包
+
+括廢氣和溫室氣體、污水、固體廢棄物和噪音。
+
+本集團出臺了內部政策，控制管理氣體和溫室氣
+
+體、污水、固體廢棄物和噪音排放。
+
+廢氣和溫室氣體排放
+
+本營業環節的廢氣排放包括生產過程中產生的揮
+
+發性有機化合物（「VOC」）。2017財政年度，
+
+本集團專門設置收集管道來收集揮發性有機化合
+
+物，在排放到大氣中之前先由通風系統中的外部
+
+空氣淨化裝置淨化。本營業環節的主要排放來源
+
+於電力的使用，另外車輛和備用發電機消耗的石
+
+油和柴油燃料也是溫室氣體排放的主要來源。本
+
+集團制定了政策，以此減少能源使用，以降低氣
+
+體和溫室氣體排放，這一點會在資源利用A.2中進
+
+一步說明。本集團的業務符合《大氣污染綜合排
+
+放標準》的要求。
+
+污水
+
+本營業環節產生的污水包括生活污水和工業污
+
+水。符合《污水綜合排放標準》規定的污水直接
+
+排放進當地污水系統。對於工業污水，本集團指
+
+定合格的污水處理公司處理。  
+
+8 
+
+Environmental, Social and Governance Report 2017
+
+
+Solid Wastes
+
+The solid wastes generated in this business 
+
+segment include domestic solid waste from 
+
+employee’s daily life and electronic wastes. 
+
+Domestic and electronic wastes were well 
+
+sorted, collected, and recycled by local waste 
+
+management company. Notably, the Group has 
+
+obtained the CE marking in electronic waste 
+
+handling as required for relevant export markets, 
+
+such as the European Union market.
+
+Noise
+
+Noise is mainly generated from the operation 
+
+of machinery and equipment during the 
+
+manufacturing process. According to the 
+
+monitoring results from the factory in FY2017, the 
+
+noise level complied with the Industrial Enterprise 
+
+Boundary Noise Emission Standards (《工業企業
+
+廠界環境雜訊排放標準》).
+
+In order to maintain a green production 
+
+environment, the Group regularly inspects and 
+
+monitors the environmental conditions of the 
+
+operation areas to ensure emissions generated by 
+
+the Group strictly comply with the local emission 
+
+standards at all times.
+
+A.2. Use of Resources
+
+The Group has complied with the relevant laws 
+
+and regulations in relation to the Group’s use of 
+
+resources during the reporting period. In FY2017, 
+
+the Group consumed electricity, petroleum, diesel 
+
+fuel, water, paper, and paper packaging materials. 
+
+The Group has established internal policies to 
+
+ensure the efficient use of resources.
+
+固體廢棄物
+
+本營業環節包含員工日常生活產生的生活固體廢
+
+棄物和電子廢棄物。生活和電子廢棄物由當地廢
+
+棄物管理公司妥善保存、收集和回收利用。值得
+
+注意的是，本集團在電子廢棄物處理方面按照
+
+相關出口市場，例如歐盟市場的要求取得了CE
+
+標誌。
+
+噪音
+
+噪音主要來源於製造過程中的機器和設備操作。
+
+根據2017財政年度工廠的監控結果，噪音等級符
+
+合《工業企業廠界環境雜訊排放標準》。
+
+為了維護綠色的生產環境，本集團定期檢查監控
+
+經營區域的環境條件，以確保本集團的排放完全
+
+滿足當地排放標準。
+
+A.2.資源利用
+
+本集團在報告期內遵守本集團資源使用相關的法
+
+律法規。2017財政年度，本集團使用電力、汽
+
+油、柴油燃料、水資源、紙張和紙類包裝材料。
+
+本集團建立了內部政策確保資源的有效使用。
+
+9 
+
+2017年環境、社會與管治報告
+
+
+Table 3 Total Use of Resources by the Group in 
+
+FY2017
+
+Use of Resources
+
+資源的利用
+
+Key Performance Indicator (KPI)
+
+關鍵業績指標（KPI）
+
+Unit
+
+單位
+
+Amount
+
+總計
+
+*Intensity (Unit/ SGD million)
+
+*密度（單位/一百萬新元）
+
+Energy
+
+能源
+
+Electricity
+
+電力
+
+kWh’000
+
+千個千瓦時
+
+2,292
+
+7.84
+
+Petroleum
+
+汽油
+
+Litres
+
+升
+
+162,673
+
+556.75
+
+Diesel Fuel
+
+柴油燃料
+
+Litres
+
+升
+
+8,999
+
+30.80
+
+Water
+
+水資源
+
+Water
+
+水資源
+
+m3
+
+立方米
+
+32,025
+
+109.61
+
+Paper
+
+紙張
+
+Paper
+
+紙張
+
+tonnes
+
+噸
+
+21
+
+0.07
+
+Packaging Materials
+
+包裝材料
+
+By Paper
+
+紙類
+
+tonnes
+
+噸
+
+76
+
+0.26
+
+*  Intensity was calculated by dividing the amount by 
+
+the Group’s FY2017 revenue of S$292.185 million
+
+Electricity
+
+The Group’s electricity consumption came from 
+
+regular operations of its offices and manufacturing 
+
+factories. In FY2017, the Group’s total electricity 
+
+consumption was 2,292 kWh’000 (with an intensity 
+
+of 7.84 kWh’000/SGD million). The Group also 
+
+requires its subsidiaries to stringently comply with 
+
+the Group’s energy saving policy.
+
+The Group started replacing traditional light bulbs 
+
+with electricity-saving ones as well as educated 
+
+its employees about energy conservation and 
+
+emission reductions. It is widely acknowledged 
+
+that the electricity consumption is inextricably 
+
+correlated with GHG emissions. As the Group 
+
+started reducing its electricity consumption, 
+
+the total GHG emissions would decline 
+
+correspondingly. To ensure the effective use 
+
+of electricity, the Group has implemented the 
+
+following practices:
+
+• 
+
+Turn off all idle lighting and air conditioning 
+
+system;
+
+• 
+
+Turn off computers at the end of the day
+
+• 
+
+Place energy saving reminder labels next to 
+
+switches;
+
+• 
+
+Clean office equipment (such as refrigerator, 
+
+air-conditioner) regularly;
+
+• 
+
+Replace old equipment with energy saving 
+
+equipment; and
+
+• 
+
+Set temperature of air conditioners according to 
+
+the season.
+
+表3	2017財政年度本集團資源總用量
+
+*  根據本集團2017財政年度292.185百萬新元的收
+
+入計算出了密度。
+
+電力
+
+本集團電力消耗主要來源於辦公室和製造工廠的
+
+定期運作。2017財政年度，本集團電力消耗總計
+
+為2,292 千個千瓦時 （密度為7.84 千個千瓦時百
+
+萬新加坡元）。此外，本集團還要求其子公司嚴
+
+格遵守本集團的節能政策。
+
+本集團用節能燈泡替換原來的電燈泡，並且教育
+
+員工節能減排。眾所周知，電力消耗與溫室氣體
+
+排放是密不可分的。本集團降低電耗的同時，溫
+
+室氣體排放總量也相應的降低。為了確保電力的
+
+有效使用，本集團進行以下實踐：
+
+• 關閉所有閒置電燈和空調系統；
+
+• 下班時關閉電腦
+
+• 在開關旁邊貼上節能標誌；
+
+• 定期清潔設備（如冰箱和空調）；
+
+• 用節能設備替換原來的設備；並且
+
+• 隨季節變化設置空調溫度。
+
+10 
+
+Environmental, Social and Governance Report 2017
+
+
+Energy
+
+The Group consumes petroleum in its vehicles and 
+
+diesel fuel in its back-up generator. In FY2017, the 
+
+amount of petroleum and diesel fuel consumed by 
+
+the Group were 162,673 litres (with an intensity of 
+
+556.75 litres/SGD million), and 8,999 litres (with an 
+
+intensity of 30.80 litres/SGD million) respectively. 
+
+To reduce the energy consumption during 
+
+operations and therefore address the challenge 
+
+of climate change, the Group highly encourages 
+
+energy saving through simple measures, such as 
+
+turning off all idle equipment and replacing highly 
+
+polluting vehicles with more environmentally-
+
+friendly ones  .
+
+Water
+
+The Group spares no efforts to educate its 
+
+employees on saving water. In FY2017, the Group 
+
+had no issues in sourcing water for its business 
+
+operation, and the total water consumption of the 
+
+Group was 32,025 m3 (with an intensity of 109.61 
+
+m3/SGD million). To further improve the utilisation 
+
+efficiency of water resources, the Group has 
+
+adopted the following practices:
+
+• 
+
+Place posters “Saving Water Resources” 
+
+in prominent places to encourage water 
+
+conservation;
+
+• 
+
+Fix dripping taps immediately to avoid further 
+
+leakage of the water supply system;
+
+• 
+
+Strengthen the inspection and maintenance on 
+
+water tap, water pipelines and water storage; 
+
+and
+
+• 
+
+Use water saving equipment.
+
+Packaging Materials
+
+The Group uses paper based packaging materials. 
+
+In FY2017, the amount of paper packaging 
+
+materials consumed by the Group was 76 tonnes 
+
+(with an intensity of 0.26 tonnes/SGD million). To 
+
+reduce the use of packaging materials, the Group 
+
+opts for simple packaging and packaging that can 
+
+be re-used easily.
+
+能源
+
+本集團汽油消耗來源於車輛，柴油消耗來源於備
+
+用發電機2017財政年度，本集團汽油和柴油燃料
+
+消耗分別達到162,673 升（集約度為556.75 升/百
+
+萬新加坡元）和8,999 升（密度為30.80 升/百萬
+
+新加坡元）。為了降低運行期間的能耗，從而應
+
+對氣候變化的挑戰，本集團積極鼓勵通過簡單的
+
+措施節約能源，例如關閉所有閒置的設備，用更
+
+環保的車輛替換高污染的車輛。
+
+水資源
+
+本集團竭盡全力教育員工節約用水。2017財政年
+
+度本集團沒有業務運作用水方面的問題，本集團
+
+用水量共計32,025立方米 （密度為109.61立方
+
+米、百萬新加坡元）。為了進一步提高水資源利
+
+用效率，本集團實施了以下實踐：
+
+• 在顯眼位置張貼「節約用水」的標語，鼓勵節
+
+約用水；
+
+• 及時關上水龍頭，避免供水系統漏水。
+
+• 加強水龍頭、水管和蓄水池的檢查和維護；以
+
+及
+
+• 使用節水設備。
+
+包裝材料
+
+本集團使用紙類包裝材料。2017財政年度，本集
+
+團紙質包裝材料用量達到76噸（密度為0.26噸/百
+
+萬新元）。為了減少紙類包裝材料的使用，本集
+
+團選擇簡單、易於二次利用的包裝。
+
+11 
+
+2017年環境、社會與管治報告
+
+
+A.3. The Environment and Natural Resources
+
+The main natural resource that the Group 
+
+Consumed was paper. In FY2017, the amount of 
+
+paper consumed by the Group was 21 tonnes (with 
+
+an intensity of 0.07 tonnes/SGD million). To ensure 
+
+more efficient use of paper, the Group has adopted 
+
+the following practices: 
+
+• 
+
+Think before print: posting reminders to avoid 
+
+unnecessary printing;
+
+• 
+
+Set duplex printing as the default mode for 
+
+most network printers;
+
+• 
+
+Distribute information through email or 
+
+electronic bulletin boards;
+
+• 
+
+Use environmentally friendly paper for printing 
+
+reports; and
+
+• 
+
+Use the back of old single-sided documents for 
+
+printing or as draft paper.
+
+VI. 
+
+SOCIAL SUSTAINABILITY
+
+EMPLOYMENT AND LABOUR PRACTICES
+
+B.1. Employment
+
+As at 31st December 2017, the total number of 
+
+employees of the Group was 809. ISDN believes 
+
+that its success in the engineering industry is 
+
+highly dependent on its employees; therefore, it has 
+
+devised a competitive compensation and benefit 
+
+package to attract, retain, and motivate employees. 
+
+Employees’ remuneration is commensurate 
+
+with their educational qualifications, industry 
+
+experience and interpersonal skills. Recruitment 
+
+of employees is based upon continual analysis of 
+
+human resource requirement in coping with the 
+
+Group’s business development. Salaries and wages 
+
+are reviewed annually based on performance 
+
+appraisals, qualifications, experience, position and 
+
+seniority.
+
+A.3.環境和自然資源
+
+本企業使用的主要自然資源為紙張。2017財政年
+
+度，本集團紙張用量達到21噸（密度為0.07噸/百
+
+萬新元）。為了更有效的使用紙張，本集團進行
+
+了以下實踐：  
+
+• 在列印前想清楚，張貼提示標誌，避免列印時
+
+浪費
+
+• 將大部分網路印表機設置為預設雙面列印。
+
+• 通過電子郵件或電子公告板分發資訊。
+
+• 列印報告時使用環保型紙張；並且
+
+• 再利用單面文件，用于列印或用作草稿紙。
+
+六、	 社會可持續性
+
+僱傭和勞務實踐
+
+B.1.	僱傭
+
+截至2017年12月31日，本集團員工總數為809
+
+人。億仕登認為其在工程行業的成功在很大程度
+
+上依賴於其員工；因此，其已設計出有競爭力的
+
+薪酬和福利待遇來吸引、留住並激勵員工。員工
+
+薪酬與員工教育資格、行業經驗及人際交往能力
+
+相稱。基於對人力資源關於處理集團業務發展這
+
+一要求的不斷分析來招聘員工。每年基於績效評
+
+估、資格、經驗、職位和資歷對薪水和工資進行
+
+審核。
+
+12 
+
+Environmental, Social and Governance Report 2017
+
+
+The Group provides equal opportunities for 
+
+employees in respect of recruitment, training and 
+
+development, job advancement, and remuneration 
+
+and benefits. The employees would not be 
+
+discriminated or deprived of such opportunities 
+
+on the basis of gender, ethnicity, religion, colour, 
+
+age, marital status, family status, pregnancy or 
+
+any other discrimination prohibited by applicable 
+
+laws. ISDN also appreciates cultural diversity in the 
+
+development of the Group, and therefore employs 
+
+people in a wide range of ages and ethnicities. 
+
+The Group believes that the exceptional working 
+
+experience, skill set and professional techniques 
+
+brought by the cultural diversity is of paramount 
+
+importance to the success of company and makes 
+
+for a friendly and harmonious workface by building 
+
+the trust among employees.
+
+Apart from the basic package, other benefits 
+
+including severance pay, mandatory/central 
+
+provident fund, employment compensation 
+
+insurance, medical insurance, unlimited times 
+
+doctor visit reimbursement, annual leaves, sick 
+
+leaves, additional remuneration and benefits to 
+
+reward and recognise performing employees 
+
+such as performance based bonus, commissions 
+
+and variable annual bonuses are provided 
+
+discretionarily as well. Besides, based on the 
+
+different job duties of employees, local travelling 
+
+(parking and petrol inclusive) allowance, mobile 
+
+phone allowance, overseas travelling and meals 
+
+allowance, and overtime taxi claim are included 
+
+in the total remuneration and benefit package for 
+
+employees. During the reporting period, the Group 
+
+was in compliance with the following laws and 
+
+regulations related to employment:
+
+本集團在員工的招聘、培訓和發展、職位晉升、
+
+報酬和福利方面為其提供平等機會。員工不會因
+
+為性別、種族、宗教、膚色、年齡、婚姻狀況、
+
+家庭狀況、懷孕或適用法律禁止的任何其他歧視
+
+而受歧視或被剝奪此類機會。億仕登同樣重視集
+
+團發展的文化多樣性，因此僱傭員工的年齡和種
+
+族範圍較為廣泛。本集團認為文化多樣性帶來的
+
+特殊的工作經驗、技能組合和專業技術對公司的
+
+成功來說至關重要，並且本集團通過在員工間建
+
+立信任，有助於確立友好和諧的工作面。
+
+除基本福利包以外，本集團也提供其他福利，包
+
+括離職金、強制性/中央公積金、員工賠償保險、
+
+醫療保險、無限次就醫報銷、年假、病假、 用來
+
+獎勵和認可執行員工的額外報酬及福利（如績效
+
+獎金、傭金、可變的年終分紅）。此外，基於員
+
+工不同的工作職責，員工的總報酬和福利待遇包
+
+括當地差旅（包含停車費和汽油費）補貼、手機
+
+電話費補貼、海外差旅和飲食補貼及加班打車費
+
+報銷。在報告期間，本集團符合以下與僱傭有關
+
+的法律法規：
+
+13 
+
+2017年環境、社會與管治報告
+
+
+Table 4. Employment Laws and Regulations the 
+
+Group was in Compliance with 
+
+Hong Kong 
+
+香港
+
+Employment Ordinance (Chapter 57 of the Laws of Hong Kong)
+
+《僱傭條例》（《香港法例》第57章）
+
+Mandatory Provident Fund Schemes Ordinance
+
+《強制性公積金計畫條例》
+
+People’s Republic of China
+
+中華人民共和國
+
+The Social Insurance Law of the PRC
+
+《中華人民共和國社會保險法》
+
+The Provisional Measures for Maternity Insurance of Employees of Corporations
+
+《企業職工生育保險暫行辦法》
+
+The Decisions on the Establishment of a Unified Program for Old-Aged Pension 
+
+Insurance of the State Council
+
+《國務院關於建立養老保險統一計畫的決定》
+
+The Decisions on the Establishment of the Medical Insurance Program for Urban 
+
+Workers of the State Council
+
+《國務院關於建立城鎮職工醫療保險計畫的決定》
+
+The Unemployment Insurance Measures
+
+《失業保險辦法》
+
+Singapore
+
+新加坡
+
+The Employment Act (Chapter 91) of Singapore (EA)
+
+《新加坡僱傭法（EA）》（第91章）
+
+Central Provident Fund Act
+
+《中央公積金法》
+
+Employment of Foreign Manpower Act (Chapter 91A) of Singapore (EFMA)
+
+《新加坡僱傭外籍勞工法（EFMA）》（第91A章）
+
+Malaysia
+
+馬來西亞
+
+Employment Act 1955 (“EA 1955”)
+
+《1955年僱傭法》（“EA 1955”）
+
+Industrial Relations Act 1967 (“IRA 1967”)
+
+《1967年勞資關係法》（“IRA 1967”）
+
+Trade Unions Act 1959 (“TUA 1959”)
+
+《1959年工會法》（“TUA 1959”）
+
+Employees Provident Fund Act 1991 (“EPF 1991”)
+
+《1991年員工公積金法》（“EPF 1991”）
+
+Employees’ Social Security Act 1969 (“SOCSO Act”)
+
+《1969年員工社會保障法》（“SOCSO法”）
+
+Vietnam
+
+越南
+
+The Labour Code
+
+《勞動法》
+
+表4本集團符合的僱傭法律法規
+
+14 
+
+Environmental, Social and Governance Report 2017
+
+
+B.2. Health and Safety
+
+The Group has established work safety policies 
+
+and procedures to ensure that its operations are 
+
+fully in compliance with the applicable work safety 
+
+laws and regulations on both local and national 
+
+levels. The Group is actively engaged in caring for 
+
+the wellbeing of its employees through adopting 
+
+various occupational health and safety trainings 
+
+and measures; specific instructions and guidelines 
+
+to ensure employees’ health and safety are well 
+
+developed and efficiently communicated to 
+
+maintain a healthy and safety working environment 
+
+for employees. The management of the Group is 
+
+also responsible for the overall health and safety 
+
+performance of employees to ensure work safety.  
+
+ 
+
+The Group was in compliance with the following 
+
+laws and regulation related to employees’ health 
+
+and safety during the reporting period:
+
+Table 5. Laws and Regulations related to 
+
+employees’ Health and Safety the Group was in 
+
+Compliance with 
+
+Hong Kong
+
+香港
+
+Occupational Safety and Health Ordinance, Chapter 509
+
+《職業安全及健康條例》第509章
+
+Employees' Compensation Ordinance, Chapter 282
+
+《員工補償條例》第282章
+
+People’s Republic of China
+
+中華人民共和國
+
+Production Safety Law of the PRC
+
+《中華人民共和國安全生產法》
+
+Regulation of Insurance for Labor Injury
+
+《工傷保險條例》
+
+Singapore
+
+新加坡
+
+Workplace Safety and Health Act, Chapter 354A (WSHA)
+
+《工作場所安全和健康法（WSHA）》第354A章
+
+Work injury compensation is governed by the Work Injury Compensation Act, Chapter 354
+
+工傷賠償受《工傷賠償法》第354章管轄
+
+Malaysia
+
+馬來西亞
+
+Workmen’s Compensation Act 1952 (WCA 1952)
+
+《1952年勞工賠償法》 （WCA 1952）
+
+Occupational Safety and Health Act 1994 (OSHA 1994)
+
+《1994年職業安全與健康法》（OSHA 1994）
+
+Vietnam
+
+越南
+
+The Labour Code
+
+《勞動法《
+
+ 
+
+表5本集團符合的與員工健康和安全有關的法律法規
+
+B.2.	健康和安全
+
+本集團已建立安全生產政策和程序，以確保其
+
+操作完全符合適用的地方和國家級安全生產法
+
+律法規。本集團通過採取各種職業健康安全培訓
+
+和措施積極關心員工福利；確保員工健康和安全
+
+的具體指導和方針獲得良好發展和高效交流，
+
+以為員工保持健康安全的工作環境。本集團的管
+
+理層也負責員工的整體健康安全表現，以確保生
+
+產安全。  
+
+ 
+
+在報告期間，本集團符合以下與員工健康和安全
+
+有關的法律法規：
+
+15 
+
+2017年環境、社會與管治報告
+
+
+The Group has been providing health and safety 
+
+trainings, safety tips in internal communications 
+
+and briefings in the production plant that aim to 
+
+promote and enhance safety awareness among 
+
+employees. During the reporting period, there 
+
+was no incidence of work stoppages, labour 
+
+disputes, litigation, claims, administrative action or 
+
+arbitration against the Group. 
+
+B.3. Development and Training
+
+The Group regards employees as the most 
+
+valuable asset that allows the Group to produce 
+
+products of high quality. Therefore, a series of 
+
+formal trainings are provided on a regular basis to 
+
+ensure employees are equipped with professional 
+
+and qualified skill-set. Specifically, various training 
+
+programs are developed to enhance employees’ 
+
+knowledge and understanding on customer 
+
+handling skills, quality control standards, internal 
+
+policy, procedures and safety related issues.
+
+B.4. Labour Standards
+
+In FY2017, the Group was in compliance with 
+
+the related Employment Act, Labour Laws and 
+
+Employment Ordinance of the countries where 
+
+the Group operates in terms of employment 
+
+management, and there was no child nor forced 
+
+labour in the Group’s operations. The recruitment 
+
+mechanism of the Group is strictly in line with 
+
+the guidelines of the Group’s human resource 
+
+department. During the process, a recruitment 
+
+questionnaire is used to collect personal, 
+
+educational, and employment information 
+
+of job applicants. After all necessary data 
+
+related to employment is verified, the qualified 
+
+candidate would be hired in accordance to the 
+
+job requirement and employer’s expectation 
+
+and provided a healthy and sustainable work 
+
+environment. 
+
+本集團一直都在生產廠房內部交流和簡報中提供
+
+健康安全培訓和安全提示，旨在提高和增強員工
+
+的安全意識。在報告期間，並未發生停工事件或
+
+就本集團提出任何勞資糾紛、訴訟、索賠、行政
+
+訴訟或仲裁。
+
+B.3.	發展和培訓
+
+本集團將員工視為使集團能夠生產優質產品的最
+
+有價值的資產。因此，本集團定期提供一系列正
+
+式培訓以確保員工具備專業且合格的技能組合。
+
+本集團制定了各種培訓計劃以增強員工對客戶處
+
+理技能、品質控制標準、內部政策、程序及安全
+
+相關問題的瞭解和理解。
+
+B.4.	勞動規範
+
+2017財政年度，本集團符合其在開展業務的一
+
+些國家與雇傭管理有關的僱傭法、勞動法和僱傭
+
+條例，且本集團業務中沒有童工或強迫性勞工。
+
+本集團的招聘機制嚴格遵守其人力資源部門的指
+
+導。在此過程中，本集團使用招聘問卷來收集求
+
+職者的個人、教育和僱傭資訊。在核實所有與僱
+
+傭有關的必要資料後，本集團將按照工作要求和
+
+僱主期望聘用合格的候選人，並為其提供健康可
+
+持續的工作環境。  
+
+16 
+
+Environmental, Social and Governance Report 2017
+
+
+OPERATING PRACTICES
+
+B.5. Supply Chain Management
+
+As a socially responsible enterprise, it is critical for 
+
+the Group to maintain and manage a sustainable 
+
+and reliable supply chain that takes environmental 
+
+and societal impact into considerations. The Group 
+
+monitors the quality of its suppliers and supply 
+
+chain practices on a strict and regular basis.
+
+Procurement policy
+
+The Group recognises the importance of using 
+
+reputable suppliers who offer reliable, cost-
+
+effective and technologically advanced products 
+
+in order to meet the engineering needs of its 
+
+customers. With a broad customer base comprised 
+
+of industries such as medical equipment, robots, 
+
+mobile phones and transportation, the Group 
+
+typically selects suppliers based on the suitability 
+
+and value of components and parts and/or readily 
+
+available products they supply according to the 
+
+customers’ specifications. Furthermore, financial 
+
+reliability of suppliers, stable supply of products, 
+
+delivery time commitment, price stability and 
+
+market reputation of the quality of the products 
+
+are the critical selection criteria for the Group 
+
+to ensure its product quality. The suppliers are 
+
+being assessed based on factors including their 
+
+reputation, the quality of their products and their 
+
+receptiveness to feedbacks. Sourcing for supplies 
+
+generally executed by the subsidiary or branch 
+
+office where the related suppliers are located and 
+
+it usually takes place in the PRC, while the parent 
+
+companies of such suppliers are usually located in 
+
+Asia or North America. The Group maintains close 
+
+liaison with its suppliers to ensure they comply 
+
+with local environmental laws and regulations in 
+
+their country during operations and stick to their 
+
+corporate ethics such as prohibiting child labour.
+
+操作實踐
+
+B.5.	供應鏈管理
+
+作為一間負有社會責任的企業，維持並管理一條
+
+可持續且可靠的供應鏈（考慮環境和社會影響）
+
+對本集團來說至關重要。本集團嚴格並定期監測
+
+其供應商的品質和供應鏈實踐。
+
+採購政策
+
+本集團認識到使用信譽良好的供應商的重要性。
+
+這類供應商可提供可靠、高性價比和技術先進的
+
+產品來滿足客戶的工程需求。本集團擁有醫療設
+
+備、機器人、手機和交通運輸等行業組成的廣泛
+
+客戶群體，通常根據零部件的適用性和價值和/或
+
+根據客戶規格提供的現成產品來選擇供應商。此
+
+外，供應商的財務可靠性、產品供應穩定性、交
+
+貨時間承諾、價格穩定性和產品品質的市場聲譽
+
+是本集團確保產品品質的關鍵選擇標準。根據其
+
+聲譽、產品品質以及對回饋的接受能力等因素對
+
+供應商進行評估。通常由相關供應商所在地的子
+
+公司或分支機搆來採購物資。采購一般由相關供
+
+應商的所在地的子公司或分支機構執行。相關供
+
+應商通常位於中國，而他們的母公司通常位於亞
+
+洲或北美。本集團與供應商保持著緊密的聯繫，
+
+以確保其在運營過程中遵守相應國家的當地環境
+
+法律法規，並堅持企業道德規範，例如禁止童
+
+工。
+
+17 
+
+2017年環境、社會與管治報告
+
+
+Machinery and equipment maintenance
+
+The Group’s machinery and equipment are 
+
+primarily comprised of computer numerical control 
+
+(CNC) machines as well as sawing and milling 
+
+machines for die casting or stamping, and are 
+
+generally sourced from manufacturers in the PRC 
+
+and the United States. In order to maintain the 
+
+performance and functionality of the machine 
+
+and equipment, regular cleaning and maintenance 
+
+activities are carried out to ensure the production 
+
+will not be adversely affected. As a result, 
+
+customers and businesses would not be impacted 
+
+due to the insufficiency of machinery or equipment 
+
+failure. Given the firm and stable relationship 
+
+between the Group and its suppliers, the Group 
+
+did not experience any major difficulty in obtaining 
+
+adequate supplies for its production in FY2017.
+
+B.6. Product Responsibility 
+
+Customers’ satisfaction
+
+The engineering personnel is available to assist 
+
+customers with their complaints and products 
+
+related problems. Although no warranty is provided 
+
+to customers in case of a product fault that is 
+
+attributed to a part produced by the supplier, repair 
+
+service or replacement of the part will be provided 
+
+to the defective component or system. During the 
+
+reporting period, there were no product returns 
+
+or product quality issues or complaints from 
+
+customers.
+
+Quality control
+
+The Group strives to provide well-suited and 
+
+appropriate engineering solutions with quality 
+
+service that consistently meet or exceed 
+
+customers’ requirements. By focusing on the 
+
+needs and expectations of customers, improving 
+
+operations and services, introducing the latest 
+
+technology and products, developing the skills, 
+
+competency and commitment of its employees, 
+
+and establishing strategic relationships with its 
+
+suppliers, a strict quality assurance and control 
+
+system is established and in place to ensure 
+
+the consistency and quality of the engineering 
+
+solutions are in compliance with the standards of 
+
+the International Organisation for Standardisation.
+
+機器和設備維護
+
+本集團的機器及設備主要由電腦數控（CNC）機
+
+器以及用於壓鑄或衝壓的鋸床和銑床組成，一般
+
+來源於中國及美國的製造商。為了保持機器和設
+
+備的性能和功能，定期實施清潔和維護活動以確
+
+保生產不受負面影響。這樣一來，客戶和企業不
+
+會因為機器不足或設備故障而受影響。鑒於本集
+
+團與其供應商之間牢固穩定的關係，2017財政年
+
+度本集團並沒有遇到任何由於無法獲取生產充足
+
+的物資而導致的重大困難。
+
+B.6.	產品責任	
+
+客戶滿意度
+
+工程人員可協助客戶處理其投訴以及產品相關問
+
+題。針對供應商提供的部件導致產品出現故障的
+
+情況，雖然本集團不會給客戶提供絕對保證，但
+
+仍然會為缺陷零件或系統提供維修服務或為其更
+
+換部件。在報告期內，沒有出現產品退貨或產品
+
+品質問題或客戶投訴等問題。
+
+品質控制
+
+本集團致力於提供便利且合適的工程解決方案，
+
+並提供持續符合或超越客戶需求的優質服務。通
+
+過關注客戶的需求和期望、改進運營和服務、引
+
+入最新技術和產品、發展員工的技能、能力和承
+
+諾，並與供應商建立戰略合作關係，建立起了一
+
+套嚴格的品質保證和控制體系並執行到位，以確
+
+保工程解決方案的一致性和品質符合國際標準組
+
+織的標準。
+
+18 
+
+Environmental, Social and Governance Report 2017
+
+
+Table 6. List of International Organisation 
+
+Standard the Group is in Compliance with 
+
+Certification
+
+認證
+
+Recipient
+
+接收方
+
+Certified since
+
+認證開始日期
+
+Quality control area
+
+品質控制領域
+
+Issuing 
+
+organization
+
+簽發機構
+
+Expiry date
+
+到期日
+
+ISO 9001:2008
+
+Servo 
+
+Dynamics
+
+11 December 
+
+2000
+
+2000年12月
+
+11日
+
+Factory automation 
+
+solutions
+
+工廠自動化解決方案
+
+SGS United 
+
+Kingdom Ltd
+
+18 August 
+
+2018
+
+2018年8月
+
+18日
+
+ISO 9001:2008
+
+Precision 
+
+Motion
+
+11 December 
+
+2000
+
+2000年12月
+
+11日
+
+Factory automation
+
+Products
+
+工廠自動化
+
+產品
+
+SGS United 
+
+Kingdom Ltd
+
+18 August 
+
+2018
+
+2018年8月
+
+18日
+
+ISO 9001:2008
+
+Portwell
+
+11 December 
+
+2000
+
+2000年12月
+
+11日
+
+Industrial information 
+
+technology products
+
+工業資訊技術產品
+
+SGS United 
+
+Kingdom Ltd
+
+18 August 
+
+2018
+
+2018年8月
+
+18日
+
+ISO 9001:2008
+
+Dirak Asia
+
+11 December 
+
+2000
+
+2000年12月
+
+11日
+
+Industrial hardware 
+
+accessories
+
+工業五金配件
+
+SGS United 
+
+Kingdom Ltd
+
+18 August 
+
+2018
+
+2018年8月
+
+18日
+
+GB/T19001-2008
+
+ISO9001:2008
+
+Servo Suzhou
+
+蘇州鈞信中控
+
+自動化有限
+
+公司
+
+13 February 
+
+2015
+
+2015年2月13日
+
+Control series – 
+
+mechanical and 
+
+electrical equipment
+
+控制系列 – 機電設備
+
+Guardian 
+
+Independent 
+
+Certification Ltd
+
+12 February 
+
+2018
+
+2018年2月
+
+12日
+
+The Group’s procurement policy is to screen, 
+
+select, and assess quality suppliers for the 
+
+provision of the best available quality products 
+
+for its production. During the production process, 
+
+In-process quality assurance is implemented 
+
+throughout the production line of the engineering 
+
+solutions to ensure that defect is identified and 
+
+corrected at an early stage. All prototypes must 
+
+undergo a series of stress tests and simulation 
+
+runs to ensure that they meet the customers’ 
+
+specific requirements and needs. After the 
+
+engineering systems have been assembled, 
+
+another quality inspection will be performed 
+
+before they are packed and labelled according to 
+
+strict internal packing standards and delivered 
+
+to the customers. Moreover, as part of the total 
+
+quality management (TQM) approach, the Group’s 
+
+management has implemented continuous 
+
+improvement processes for its business 
+
+operations. These processes are designed to 
+
+improve all aspects of its operations including 
+
+internal controls that incorporate preferred 
+
+financial practices and procedures such as 
+
+inventory and accounts receivable management .
+
+表6國際組織標準清單	本集團符合
+
+本集團的採購政策是篩選、選擇和評估優質供應
+
+商，為其生產提供最優質的產品。在生產過程
+
+中，對工程解決方案的整個生產線實施過程品質
+
+保證，以確保在早期階段確定缺陷並加以糾正。
+
+所有原型必須經過一系列壓力測試和模擬運行，
+
+以確保其符合客戶的特定要求和需求。工程系統
+
+組裝好後，再進行另一次品質檢驗，然後按照嚴
+
+格的內部包裝標準進行包裝和貼標籤，最後再交
+
+付給客戶。此外，作為全面品質管制（TQM）方
+
+法的一部分，本集團的管理層已經為其業務運營
+
+實施了持續改進流程。這些流程旨在改善其運營
+
+的所有方面，包括納入首選財務慣例和程序的內
+
+部控制，如存貨和應收賬款管理。
+
+19 
+
+2017年環境、社會與管治報告
+
+
+Inventory control
+
+Enterprise resource planning (ERP) systems 
+
+are employed to track inventory levels to ensure 
+
+adequate levels of products are available. The 
+
+Group’s products are barcoded to enhance flow 
+
+tracking from the warehouses. Monthly stock 
+
+count at random locations are performed to verify 
+
+the accuracy of the inventory system, while a 
+
+complete stock check is performed annually to 
+
+ensure stable availability of raw materials and 
+
+products, and to minimise obsolete stocks in the 
+
+inventory . 
+
+Intellectual property
+
+The Group owns a number of trademarks, patents 
+
+and domain names in Singapore, PRC and Hong 
+
+Kong. During the reporting period, there was no 
+
+material infringement of the intellectual property 
+
+rights. The Group is confident that all effective 
+
+measures have been taken to prevent any 
+
+infringement of its own intellectual property rights.
+
+Consumer data protection
+
+In FY2017, the Group was in compliance with 
+
+the Personal Data (Privacy) Ordinance of Hong 
+
+Kong, the Personal Data Protection Act 2012 of 
+
+Singapore and the Personal Data Protection Act 
+
+2010 (“PDPA 2010”) of Malaysia. While company 
+
+computers and servers are protected with access 
+
+passwords, employees, in the meantime, are 
+
+instructed of their responsibility to ensure that 
+
+data should be collected, stored and handled 
+
+properly and securely, as well as the risks involved 
+
+with malpractice. The Group strictly abided by 
+
+the regulation in the collection, disclosure, usage, 
+
+retention, and storage of data to ensure data 
+
+integrity and safety during the year under review. 
+
+庫存管理
+
+企業資源規劃（ERP）系統用以跟蹤庫存水準，
+
+以確保隨時存有足夠產品。該集團的產品設有條
+
+碼，以加強從倉庫的流量跟蹤。選擇隨機地點進
+
+行月度盤貨，以驗證庫存系統的準確性，同時每
+
+年進行一次完整的庫存檢查，以確保原材料和產
+
+品的穩定供應，並減少庫存中的陳舊存貨。 
+
+知識產權
+
+本集團在新加坡、中國大陸以及香港地區擁有眾
+
+多商標、專利以及功能變數名稱。在報告期內，
+
+知識產權未受到任何實質性侵犯。本集團相信，
+
+已採取一切有效措施防止侵犯其所有的知識產
+
+權。
+
+客戶資料保護
+
+在2017財年，本集團遵循香港個人資料（隱私）
+
+準則，新加坡2012年個人資料保護法及馬來西亞
+
+2010年個人資料保護法（PDPA）。本集團的電
+
+腦和伺服器受到准入密碼保護。與此同時，員工
+
+既需按要求承擔確保資訊收集、儲存的責任，並
+
+將其安全得當地加以處理，也要承受怠忽職守帶
+
+來的風險。在審核年期間，本集團嚴格遵守資料
+
+收集、保密、使用、保留及存儲的準則以確保其
+
+完整性和安全性。  
+
+20 
+
+Environmental, Social and Governance Report 2017
+
+
+B.7. Anti-corruption
+
+In order to promote the highest standards of good 
+
+corporate practices and to support the value 
+
+of integrity and accountability, and to conduct 
+
+business in a transparent and honest manner, 
+
+the Group strictly adheres to the local laws and 
+
+regulations relating to anti-corruption and bribery, 
+
+irrespective of the area or country where the Group 
+
+conducts its business, such as the Prevention of 
+
+Corruption Act (Singapore) and the Prevention of 
+
+Bribery Ordinance (Chapter 201 of The Laws of 
+
+Hong Kong). ISDN has established confidential 
+
+channels for the reporting of bribery, extortion, 
+
+fraud, money laundering, conflict of interest, 
+
+criminal offences, illegal or injustice practices, 
+
+health or safety endangerment and concealment 
+
+behaviour. The whistle blower can file reports 
+
+without fear of reprisals or victimisation as they 
+
+will be treated with strict confidentiality. Various 
+
+channels have been established for this whistle 
+
+blowing policy such as direct communication to 
+
+superiors, email to any of the Group’s Managing 
+
+Director and President, or the Chairman of the 
+
+Audit Committee. What is more, post is also 
+
+available to allow a more convenient method for 
+
+concerns submission or reporting. All reported 
+
+cases will be investigated by the involvement of 
+
+the Group’s Audit Committee, and/or external or 
+
+internal auditor; and/or forensic professionals; 
+
+and/or the Police or Commercial Affairs 
+
+Department depending on the nature of the 
+
+concern raised or reported. The Group encourages 
+
+the whistle blower to identify himself/herself 
+
+when raising a concern or providing information 
+
+to facilitate investigation. The Group warrants 
+
+that any employee who makes a genuine report 
+
+will be treated fairly but mischievous or malicious 
+
+allegations will conversely lead to disciplinary 
+
+action in accordance with the Group Disciplinary 
+
+Procedures. During the reporting period, the Group 
+
+did not violate any laws or regulations regarding 
+
+corruption.
+
+COMMUNITY
+
+B.8. Community Investment
+
+In FY2017, there was no company-wide formal 
+
+policy on community investment in the Group. The 
+
+previous awards received by the Group have been 
+
+left to the board of directors for future references 
+
+in decision-making of community investment.
+
+B.7.	反腐敗
+
+為了提升良好合作實踐的最高標準，弘揚正直與
+
+問責的價值，同時以透明真誠的方式開展經營，
+
+本集團嚴格遵守與反腐敗和賄賂有關的地方法律
+
+法規，不論是否是本集團經營其業務的地區或國
+
+家，如《防止貪污法》(新加坡)和《防止賄賂條
+
+例》(香港法例第201章)。億仕登設立了關於彙
+
+報詐騙、腐敗、利益衝突、犯罪行為、違法不公
+
+舉措、健康安全受到危害、以及隱瞞行為等內容
+
+的機密渠道。揭發者無需擔心因提交報告而受到
+
+報復及傷害，他們將受到嚴格機密的處理。目前
+
+為揭發政策建立了多種渠道，例如直接與上級溝
+
+通、向集團管理領導、董事長以及審計委員會的
+
+主席發送電子郵件。郵寄對於那些對提交郵件或
+
+當面彙報有顧慮的人來說或者也是一種更為方便
+
+的方式。彙報的所有的案件都會受到集團審計委
+
+員會的調查，和/或員警、商業事務部的參與，
+
+這要看其牽扯出的或本身的性質。集團鼓勵揭發
+
+者在促進調查時自我檢舉，揭發關係或是提供資
+
+訊。本集團保證任何真誠彙報的員工都將得到公
+
+平對待。反之，凡是按照集團紀律程序作出任何
+
+惡作劇式或惡意指控將受到紀律處分。在報告期
+
+內，本集團沒有違反任何有關腐敗的法律法規。
+
+社會
+
+B.8.	社會投資
+
+在2017財年，本集團在社會投資方面，沒有正式 
+
+的 政策。本集團此前獲得的獎項已交由董事會，
+
+以便今後在社區投資決策方面做參考。
+
+21 
+
+2017年環境、社會與管治報告
+
+
+Table 7. List of Awards the Group obtained
+
+Award 
+
+獎項
+
+Recipient
+
+接收方
+
+Year(s) awarded
+
+獲獎年份
+
+Issuing organization
+
+簽發機構
+
+Singapore 1000 company – public 
+
+listed companies
+
+新加坡1000家公司-公開上市公司
+
+ISDN Holdings 
+
+Limited
+
+億仕登控股有限
+
+公司
+
+2008 to 2017
+
+2008年至2017年
+
+DP Information Group
+
+Year-to-year turnover growth rate 
+
+award – 1st place
+
+交易額增同比長率第一名
+
+Servo Dynamics
+
+2010
+
+Maxon Motor AG
+
+Supplier appreciation certificate
+
+供應商評價證書
+
+Servo Dynamics
+
+2012
+
+Manufacturing Integration 
+
+Technology Ltd
+
+ASEAN best over-achiever award
+
+東盟最佳表現獎
+
+Servo Dynamics
+
+2013
+
+Invensys
+
+FT1000: High-Growth Companies Asia 
+
+Pacific
+
+亞太地區高增長公司1000強
+
+ISDN Holdings 
+
+Limited 
+
+億仕登控股有限
+
+公司
+
+2018
+
+The Financial Times Limited
+
+表7公司所獲獎項清單
+
+22 
+
+Environmental, Social and Governance Report 2017
+
+
+VII. Report Disclosure INDEX
+
+HKEX ESG 
+
+Indicators
+
+HKEX	ESG指標
+
+GRI Standards and Disclosures
+
+GRI標準及披露
+
+Description
+
+說明
+
+Page
+
+頁碼
+
+Aspect A1 
+
+Emissions: 
+
+General 
+
+Disclosure
+
+A1方面排放：一
+
+般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 305:
+
+Emissions, and GRI 306: Effluents and Waste)
+
+GRI 305: Emissions: Management approach 
+
+disclosures guidance
+
+GRI 307: Environmental Compliance: 
+
+Disclosure 307-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 305：
+
+排放物和GRI 306：廢水和廢物共同使用）
+
+GRI 305: 排放物：管理方式 披露指南
+
+GRI 307: 環保合規：披露條款307-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant 
+
+impact on the issuer relating to air and 
+
+greenhouse gas emissions, discharges 
+
+into water and land, and generation of 
+
+hazardous and non-hazardous waste.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關空氣和溫室氣體排放、
+
+水土污水排放和危險及非危險廢物產生的
+
+發行者有重要影響的相關法律法規。
+
+6
+
+KPI A1.1
+
+GRI 305: Emissions: Disclosures 305-1, 305-2, 
+
+305-3, 305-6, and 305-7
+
+GRI 305: 排放物：披露條款第305-1、305-2
+
+、305-3、305-6和305-7條
+
+The types of emissions and respective 
+
+emission data. 
+
+排放類型和各類排放資料。
+
+6
+
+KPI A1.2   
+
+GRI 305: Emissions: Disclosures 305-1, 305-2, 
+
+305-3, 305-4
+
+GRI 305: 排放物：披露條款第305-1、305-2
+
+、305-3、305-4條
+
+Greenhouse gas emissions in total (in 
+
+tonnes) and, where appropriate, intensity 
+
+(e.g. per unit of production volume, per 
+
+facility).
+
+溫室氣體排放總量（噸），以及在適當
+
+的情況下，集約度（例如，每台設備單位
+
+產量）。
+
+6
+
+KPI A1.3   
+
+GRI 306: Effluents and Waste: Disclosure 
+
+306-2 (a)
+
+GRI 306: 廢水和廢物：披露條款306-2（a）
+
+Total hazardous waste produced (in 
+
+tonnes) and, where appropriate, intensity 
+
+(e.g. per unit of production volume, per 
+
+facility).
+
+產生危險廢物總量（噸），以及在適當的
+
+情況下，密度（例如，每台設備單位產
+
+量）。
+
+6
+
+KPI A1.4   
+
+GRI 306: Effluents and Waste: Disclosure 
+
+306-2 (b)
+
+GRI 306: 廢水和廢物：披露條款306-2（b）
+
+Total non-hazardous waste produced (in 
+
+tonnes) and, where appropriate, intensity 
+
+(e.g. per unit of production volume, per 
+
+facility).
+
+產生非危險廢物總量（噸），以及在適當
+
+的情況下，密度（例如，每台設備單位產
+
+量）。
+
+6
+
+KPI A1.5   
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (used together with GRI 305:
+
+Emissions)
+
+GRI 305: Emissions: Clause 1.2 and 
+
+Disclosure 305-5
+
+GRI103：管理方式：披露103-2（與GRI 305：
+
+排放物）
+
+GRI 305: 排放物：條款1.2和披露條款305-5
+
+Description of measures to mitigate 
+
+emissions and results achieved. 
+
+減少排放的措施說明和所獲成果。
+
+7
+
+七、	 報告披露指數
+
+23 
+
+2017年環境、社會與管治報告
+
+
+HKEX ESG 
+
+Indicators
+
+HKEX	ESG指標
+
+GRI Standards and Disclosures
+
+GRI標準及披露
+
+Description
+
+說明
+
+Page
+
+頁碼
+
+KPI A1.6   
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (used together with GRI 306:
+
+Effluents and Waste)
+
+GRI 306: Effluents and Waste: Disclosures 
+
+306-2 and 306-4
+
+GRI103：管理方式：披露103-2（與GRI 306：
+
+廢水和廢物共同使用）
+
+GRI 306: 廢水和廢物：披露條款306-2及306-4
+
+Description of how hazardous and non-
+
+hazardous wastes are handled, reduction 
+
+initiatives and results achieved.
+
+對危險和非危險廢物如何處理、減少措施
+
+和所獲成果的說明。
+
+7
+
+Aspect A2 Use 
+
+of Resources: 
+
+General 
+
+Disclosure
+
+A2方面資源利
+
+用：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 301:
+
+Materials, GRI 302: Energy, and GRI 303: 
+
+Water)
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 301：
+
+材料，GRI 302：能源，及GRI 303：水）
+
+Policies on the efficient use of resources, 
+
+including energy, water and other raw 
+
+materials.
+
+有效利用資源的政策，包括能源、水和其
+
+他原材料。
+
+9
+
+KPI A2.1
+
+GRI 302: Energy: Disclosures 302-1 and 302-3
+
+GRI 302: 能源：披露條款302-1及302-3
+
+Direct and/or indirect energy 
+
+consumption by type (e.g. electricity, gas 
+
+or oil) in total (kWh in ’000s) and intensity 
+
+(e.g. per unit of production volume, per 
+
+facility).
+
+分類型直接和/或間接的能源消耗總量
+
+（kWh ‘ 000s）（例如:電、氣或油）和
+
+密度（例如，每台設備單位產量）。
+
+10
+
+KPI A2.2
+
+Not covered by the GRI Standards
+
+GRI標準未包含
+
+Water consumption in total and intensity 
+
+(e.g. per unit of production volume, per 
+
+facility).
+
+用水總量和密度（例如，每台設備單位產
+
+量）。
+
+10
+
+KPI A2.3
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (used together with GRI 302:
+
+Energy)
+
+GRI 302: Energy: Disclosures 302-4 and 302-5
+
+GRI103：管理方式：披露103-2（與GRI 302：
+
+能源）
+
+GRI 302: 能源：披露條款302-4及302-5
+
+Description of energy use efficiency 
+
+initiatives and results achieved.
+
+說明能源使用效率措施及所獲成果。
+
+10
+
+KPI A2.4
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (used together with GRI 303:
+
+Water)
+
+GRI 303: Water: Disclosure 303-3
+
+GRI103：管理方式：披露103-2（與GRI 303：
+
+水）
+
+GRI 303: 水：披露條款303-3
+
+Description of whether there is any issue 
+
+in sourcing water that is fit for purpose, 
+
+water efficiency initiatives and results 
+
+achieved.
+
+說明尋找合適水源是否存在任何問題、節
+
+水效率措施及所獲成果。
+
+11
+
+KPI A2.5
+
+GRI 301: Materials: Disclosure 301-1
+
+GRI 301: 材料：披露條款301-1
+
+Total packaging material used for 
+
+finished products (in tonnes) and, if 
+
+applicable, with reference to per unit 
+
+produced.
+
+成品包裝材料總量（噸）以及，如適用，
+
+參考每單位產量。
+
+11
+
+24 
+
+Environmental, Social and Governance Report 2017
+
+
+HKEX ESG 
+
+Indicators
+
+HKEX	ESG指標
+
+GRI Standards and Disclosures
+
+GRI標準及披露
+
+Description
+
+說明
+
+Page
+
+頁碼
+
+Aspect A3 The 
+
+Environment 
+
+and Natural 
+
+Resources: 
+
+General 
+
+Disclosure
+
+A3方面 環境與
+
+自然資源：一般
+
+披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 301:
+
+Materials, GRI 302: Energy, GRI 303: Water, 
+
+GRI 304: Biodiversity, GRI 305: Emissions,
+
+and GRI 306: Effluents and Waste).
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 301：
+
+材料，GRI 302：能源，GRI 303：水，GRI 
+
+304：生物多樣性，GRI 305：排放物，
+
+和GRI 306：廢水和廢物）
+
+Policies on minimising the issuer’s 
+
+significant impact on the environment 
+
+and natural resources.
+
+減少發行者對環境與自然資源造成重大影
+
+響的政策。
+
+12
+
+KPI A3.1
+
+GRI 103: Management Approach: Disclosures 
+
+103-1 and 103-2 (used together with
+
+GRI 301: Materials, GRI 302: Energy, GRI 303: 
+
+Water, GRI 304: Biodiversity, GRI 305:
+
+Emissions, and GRI 306: Effluents and Waste)
+
+GRI 303: Water: Disclosure 303-2
+
+GRI 304: Biodiversity: Disclosure 304-2
+
+GRI 306: Effluents and Waste: Disclosures 
+
+306-3 (c) and 306-5
+
+GRI103：管理方式：披露條款103-1和103-2
+
+（與
+
+GRI 301: 材料，GRI 302：能源，GRI 303：
+
+水，GRI 304：生物多樣性，GRI 305：
+
+排放物和GRI 306：廢水和廢物共同使用）
+
+GRI 303: 水：披露條款303-2
+
+GRI 304: 生物多樣性：披露條款304-2
+
+GRI 306: 廢水和廢物：披露條款306-3（c）
+
+及306-5
+
+Description of the significant impacts of 
+
+activities on the environment and natural 
+
+resources and the actions taken to 
+
+manage them.
+
+說明對環境與自然資源有重要影響的活動
+
+以及採取的治理行動。
+
+12
+
+Aspect B1 
+
+Employment: 
+
+General 
+
+Disclosure
+
+B1方面僱用：一
+
+般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 202:
+
+Market Presence, GRI 401: Employment, GRI 
+
+405: Diversity and Equal Opportunity, GRI
+
+406: Non-discrimination)
+
+GRI 419: Socioeconomic Compliance: 
+
+Disclosure 419-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 202：
+
+市場活躍度，GRI 401：僱用，GRI 405：機會
+
+的多樣性和均等性，GRI
+
+406：非歧視原則）
+
+GRI 419: 社會經濟合規：披露條款419-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant 
+
+impact on the issuer relating to 
+
+compensation and dismissal, recruitment 
+
+and promotion, working hours, rest 
+
+periods, equal opportunity, diversity, anti-
+
+discrimination, and other benefits and 
+
+welfare.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關賠償金和免職、招聘和
+
+晉升、工作時間、休息時間、機會均等、
+
+多樣性、反歧視以及其他利益和福利的發
+
+行者有重要影響的相關法律法規。
+
+12
+
+25 
+
+2017年環境、社會與管治報告
+
+
+HKEX ESG 
+
+Indicators
+
+HKEX	ESG指標
+
+GRI Standards and Disclosures
+
+GRI標準及披露
+
+Description
+
+說明
+
+Page
+
+頁碼
+
+Aspect B2 
+
+Health and 
+
+Safety: General 
+
+Disclosure
+
+B2方面健康和安
+
+全：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 403:
+
+Occupational Health and Safety)
+
+GRI 419: Socioeconomic Compliance: 
+
+Disclosure 419-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 403：
+
+職業健康和安全）
+
+GRI 419: 社會經濟合規：披露條款419-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant impact 
+
+on the issuer relating to providing a safe 
+
+working environment and protecting 
+
+employees from occupational hazards.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關提供安全工作環境及保
+
+護員工免受職業危害的發行者有重要影響
+
+的相關法律法規。
+
+15
+
+Aspect B3 
+
+Development 
+
+and Training: 
+
+General 
+
+Disclosure
+
+B3方面開發與培
+
+訓：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 404:
+
+Training and Education)
+
+GRI 404: Training and Education: Disclosure 
+
+404-2 (a)
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 404：
+
+培訓和教育）
+
+GRI 404: 培訓和教育：披露條款404-2（a）
+
+Policies on improving employees' 
+
+knowledge and skills for discharging 
+
+duties at work. Description of training 
+
+activities. 
+
+關於提高員工在工作中履職的知識和技能
+
+的政策。培訓活動說明。
+
+16
+
+Aspect 
+
+B4 Labour 
+
+Standards: 
+
+General 
+
+Disclosure
+
+B4方面勞工標
+
+準：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 408:
+
+Child Labor and GRI 409: Forced or 
+
+Compulsory Labor)
+
+GRI 419: Socioeconomic Compliance: 
+
+Disclosure 419-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 408：
+
+童工和CRI 409：強迫或強制勞動）
+
+GRI 419: 社會經濟合規：披露條款419-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant impact 
+
+on the issuer relating to preventing child 
+
+and forced labour.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關防止童工和強迫勞動的
+
+發行者有重要影響的相關法律法規。
+
+16
+
+Aspect B5 
+
+Supply Chain 
+
+Management: 
+
+General 
+
+Disclosure
+
+B5方面供應鏈管
+
+理：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 308:
+
+Supplier Environmental Assessment and GRI 
+
+414: Supplier Social Assessment)
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 308：
+
+供應商環境評估和GRI 414：供應商環境評估）
+
+Policies on managing environmental and 
+
+social risks of the supply chain.
+
+管理供應鏈環境和社會風險政策。
+
+17
+
+26 
+
+Environmental, Social and Governance Report 2017
+
+
+HKEX ESG 
+
+Indicators
+
+HKEX	ESG指標
+
+GRI Standards and Disclosures
+
+GRI標準及披露
+
+Description
+
+說明
+
+Page
+
+頁碼
+
+Aspect B6 
+
+Product 
+
+Responsibility: 
+
+General 
+
+Disclosure
+
+B6方面產品責
+
+任：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 416:
+
+Customer Health and Safety, GRI 417: 
+
+Marketing and Labeling, and GRI 418: 
+
+Customer
+
+Privacy)
+
+GRI 416: Customer Health and Safety: 
+
+Disclosure 416-2
+
+GRI 417: Marketing and Labeling: Disclosures 
+
+417-2 and 417-3
+
+GRI 418: Customer Privacy: Disclosure 418-1
+
+GRI 419: Socioeconomic Compliance: 
+
+Disclosure 419-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 416：
+
+客戶健康與安全，GRI 417：行銷和標籤，及
+
+GRI 418：客戶
+
+隱私）
+
+GRI 416: 顧客健康與安全：披露條款416-2
+
+GRI 417: 行銷和標籤：披露條款417-2及417-3
+
+GRI 418: 客戶隱私：披露條款418-1
+
+GRI 419: 社會經濟合規：披露條款419-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant impact 
+
+on the issuer relating to health and 
+
+safety, advertising, labelling and privacy 
+
+matters relating to products and services 
+
+provided and methods of redress.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關健康與安全、廣告、標
+
+籤及與產品及服務有關的私隱事項及補
+
+救方法的發行者有重要影響的相關法律
+
+法規。
+
+18
+
+Aspect B7 
+
+Anti-corruption: 
+
+General 
+
+Disclosure
+
+B7方面反腐敗：
+
+一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 205:
+
+Anti-corruption)
+
+GRI 205 Anti-corruption: Disclosure 205-3
+
+GRI 419: Socioeconomic Compliance: 
+
+Disclosure 419-1
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 205：
+
+反腐敗）
+
+GRI 205 反腐敗：披露條款205-3
+
+GRI 419: 社會經濟合規：披露條款419-1
+
+Information on: 
+
+(a) the policies; and 
+
+(b) compliance with relevant laws and 
+
+regulations that have a significant impact 
+
+on the issuer relating to bribery, extortion, 
+
+fraud and money laundering.
+
+包括以下內容： 
+
+（a）政策；和 
+
+（b）遵守對有關防止賄賂、勒索、詐騙
+
+和洗錢的發行者有重要影響的相關法律
+
+法規。
+
+21
+
+Aspect B8 
+
+Community 
+
+Investment: 
+
+General 
+
+Disclosure
+
+B8方面社會投
+
+資：一般披露
+
+GRI 103: Management Approach: Disclosure 
+
+103-2 (c-i) (used together with GRI 413:
+
+Local Communities)
+
+GRI103：管理方式：披露條款103-2（c-i） 
+
+（與GRI 413：
+
+地方團體）
+
+Policies on community engagement 
+
+to understand the needs of the 
+
+communities where the issuer operates 
+
+and to ensure its activities take into 
+
+consideration the communities' interests.
+
+有關社區參與以理解發行者所經營之處的
+
+社區需求以及確保其活動考慮到社區利益
+
+的政策。
+
+21
+
+27 
+
+2017年環境、社會與管治報告
+
+
+
+
+
+
+
+

@@ -1,0 +1,2354 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability Report
+
+FY2020
+
+
+
+
+
+
+
+
+
+
+1  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+
+
+CONTENTS
+
+ABOUT THE REPORT 
+
+2
+
+FEEDBACK 
+
+2
+
+BOARD STATEMENT ON SUSTAINABILITY 
+
+3
+
+ABOUT THE GROUP 
+
+4
+
+GOVERNANCE STRUCTURE 
+
+5
+
+STRATEGIC APPROACH FOR SUSTAINABILITY 
+
+5
+
+STAKEHOLDER ENGAGEMENT 
+
+6
+
+MATERIALITY ASSESSMENT 
+
+7
+
+PROCUREMENT PRACTICES 
+
+8
+
+ENERGY 
+
+8
+
+WASTE 
+
+9
+
+ENVIRONMENTAL COMPLIANCE 
+
+9
+
+EMPLOYMENT 
+
+10
+
+TRAINING &amp; DEVELOPMENT 
+
+12
+
+OCCUPATIONAL HEALTH &amp; SAFETY 
+
+13
+
+ANTI-CORRUPTION 
+
+15
+
+GLOBAL REPORTING INITIATIVE (GRI) CONTENT INDEX 16
+
+
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  2
+
+We are fully committed to our stakeholders and we welcome feedback on any aspect of our sustainability 
+
+policies, processes and performance. Kindly address all feedback to ir@mencast.com.sg. Your feedback is vital to 
+
+us in achieving our goals to build a sustainable and thriving business. As an attempt to promote environmental 
+
+conservation, there will be no hard copies of this report.
+
+
+
+
+
+ABOUT THE REPORT
+
+FEEDBACK
+
+
+
+
+
+
+
+
+
+
+
+
+
+Reporting Boundary 
+
+As a guide, this report covers  
+
+operations and all subsidiaries for  
+
+which Mencast Holdings Ltd.  
+
+(“Mencast” or together with its subsidiaries,  
+
+the “Group”) has management control,  
+
+unless otherwise stated. It seeks to provide an 
+
+overview of our sustainability  
+
+practices, commitment, and performance  
+
+of the Group’s material Environmental,  
+
+Social and Governance  
+
+(“ESG”) topics. 
+
+Reporting Period &amp; Standard
+
+The reporting period is the same  
+
+as that of the financial year of the  
+
+Group (1 January 2020 to 31 December  
+
+2020 – FY2020). This report was prepared 
+
+in accordance with the Global Reporting 
+
+Initiative (“GRI”) Standards – “Core” reporting 
+
+requirements. The GRI Standards is the most 
+
+widely used and internationally accepted 
+
+sustainability reporting framework.  
+
+A GRI Index at the end of the report  
+
+specifies the location of the  
+
+relevant disclosures.
+
+Independent Assurance
+
+The ESG performance data presented  
+
+in the report have mainly been extracted  
+
+from internal information systems and  
+
+original records to ensure accuracy. The Group 
+
+has not sought external assurance for this 
+
+sustainability report but have relied on  
+
+internal verification to ensure the  
+
+accuracy of data.
+
+
+
+
+3  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Mencast Holdings Ltd. (“Mencast” or together with its subsidiaries, the “Group”) is pleased to issue its fourth 
+
+sustainability report prepared in accordance with the GRI Standards and in compliance with the SGX-ST guidelines 
+
+on sustainability reporting. 
+
+The Group endevours and is committed to continually consider material environmental, social and governance 
+
+topics as part of our core business strategy. The report seeks to present an accurate and even account of our 
+
+practices and performance in our quest to be a sustainable, responsible corporate citizen.
+
+The Board of Directors (“Board”) and senior management (“Management”) remains committed to establish and 
+
+maintain an effective Sustainability Management framework, which is supported by underlying internal controls, 
+
+risk management practices, clear accountability and reporting process. The Board evaluates and considers ESG 
+
+risks and opportunities relevant to the Group during the formulation of overall business strategy, objectives and 
+
+performance measurements. 
+
+The Sustainability Reporting (“SR”) Committee supports the Management in identifying the type of relevant ESG topics 
+
+caused by its day-to-day operations. Management then determines the materiality of the ESG topics based on the 
+
+level of significance of impact, and influence on stakeholder values, and the achievement of the Group’s strategic 
+
+objectives. The Board supports and approves the identification and assessment parameters of material ESG topics. 
+
+The ESG topics in this report have been reviewed and assessed by the Board and Management to be material and 
+
+relevant. The Board and Management shall continue to dedicate leadership and maintain a high standard of 
+
+sustainability governance to drive continuous and long-term growth for all its stakeholders. The Group will continue 
+
+to work towards a balanced disclosure on the management and monitoring of material ESG topics for continual 
+
+improvement.
+
+
+
+BOARD STATEMENT ON SUSTAINABILITY 
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  4
+
+Mencast Holdings Ltd. and its subsidiaries (“Mencast” or the “Group”) is a regional Engineering and Maintenance, 
+
+Repair and Overhaul (“MRO”) solutions provider. We also have a growing business in waste remediation, recycling 
+
+and manufactured products.
+
+Headquartered in Singapore, the Group was successfully listed in June 2008 as the first sponsor-approved listing 
+
+on Singapore’s SGX Catalist and later became the first such company to transfer to the SGX Mainboard. From its 
+
+establishment in 1981, the Group has grown into a leader in the manufacture and repair of propellers and stern 
+
+gear equipment and has built on its core competencies to steadily expand business into new areas. 
+
+Mencast constantly innovates to create customer value and drive sustainable business growth. In 2017, Mencast 
+
+Innovation Centre Pte. Ltd. (“MIC”) was established as an incubator that provides mentorship, facilities and 
+
+networking opportunities for growth companies synergistic with our Group. Mencast will continue to seek 
+
+technology driven growth opportunities in MRO, environmental remediation, manufacturing and the recycling of 
+
+waste products. 
+
+FOUR (4)  
+
+SERVICE PRINCIPLES
+
+SIX (6) 
+
+ PILLARS OF STRENGTH
+
+1. 
+
+We work hard to retain our technical expertise
+
+ 
+
+Customers partner with Mencast for the high standards we set ourselves. 
+
+We are continuously learning, sharpening our skills and striving to improve 
+
+ourselves to be the best possible partner to our customers.
+
+2. 
+
+We always seek solutions
+
+ 
+
+At Mencast, we are determined to find a solution to your problem. Our 
+
+flexibility, resourcefulness, and innovation approach equip us to anticipate, 
+
+avoid and overcome any obstacles you might face.
+
+3. 
+
+We look out for one another
+
+ 
+
+We believe in the value of teamwork and think of our Mencast team as a 
+
+family; someone we can count on and trust. Not just when things go wrong 
+
+but to share our successes too.
+
+4. 
+
+We focus on developing and maintaining long-term customer relationships
+
+ 
+
+We consider our customers to be our partners not just today, but in the long 
+
+run. We place our customers at the forefront of our business and make sure 
+
+that our industry relationships and commercial acumen inform our service 
+
+and capabilities.
+
+✓ 
+
+Commercially Minded/ 
+
+Corporate Ethos
+
+✓ 
+
+Full Engagement
+
+✓ 
+
+Responsiveness/Speed
+
+✓ 
+
+Superior Technical 
+
+Ability
+
+✓ 
+
+Resourceful/Solution 
+
+Oriented/Dependability
+
+✓ 
+
+Environmental 
+
+Championship
+
+Awards &amp; Certification 
+
+The Group aims to continuously seek business opportunities in line with our strategic growth and to deliver 
+
+value to our customers and stakeholders as we continue to explore and expand our business operations. Within 
+
+the industry, the Group upholds a reputation for quality and high standards in operations, as well as excellence 
+
+in operations management. In FY2020, we have attained, as well as continue to maintain various awards and 
+
+certifications, such as the following:
+
+• 
+
+ISO 9001 Certification – Quality Management Systems
+
+• 
+
+ISO 14001 Certification – Environmental Management System
+
+• 
+
+ISO 45001 Certification – Occupational Health &amp; Safety
+
+
+
+ABOUT THE GROUP
+
+
+
+
+5  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Sustainability is integrated into our business and embedded across various roles and functions. The SR Committee, 
+
+chaired by Mr Sim Soon Ngee Glenndle, our Executive Chairman and Chief Executive Officer (“CEO”), comprises 
+
+senior management of all businesses to provide an oversight on the integration of sustainability practices into 
+
+all aspects of the business. The Board maintains overall responsibility and ensure that sustainability matters are 
+
+considered as part of business strategy. There were no changes in the composition of the Committee since the first 
+
+year of reporting. 
+
+The Committee focuses on formulating, implementing and reviewing the Group’s sustainable policies and practices, 
+
+sustainability development programmes and initiatives. Periodic reviews are carried out at both the Committee and 
+
+business department level to ensure the effective implementation and that initiatives remain in line with the Group’s 
+
+strategic development. 
+
+Mencast firmly believes that while our businesses are driven by earnings, our action must also have a positive 
+
+impact on environment, employees and all other stakeholders in our value chain. In FY2020, with the help of an 
+
+Independent External Consultant (“Consultant”), the Group reviewed and defined our approach to sustainability 
+
+management. We have reviewed the four main aspects and existing non-financial topics for FY2020 reporting 
+
+disclosure. The Management concluded that these topics remain material to the sustainability of our economic 
+
+performance and business operations. As proposed by the Consultant, the Management incorporated one new topic 
+
+for disclosure – Waste (See Exhibit 1).
+
+Exhibit 1. An Overview of Our Approach to Sustainability Management
+
+Three main aspects 
+
+towards sustainability of our 
+
+economic performance and business 
+
+operations
+
+Economic Performance1
+
+Procurement Practices
+
+Environmental 
+
+Management
+
+Organisational 
+
+&amp; Relationship 
+
+Management
+
+Corporate 
+
+Governance &amp; Risk 
+
+Management2
+
+Energy
+
+Employment 
+
+Anti-Corruption 
+
+Waste
+
+Training &amp; 
+
+Development
+
+Environmental 
+
+Compliance
+
+Occupational Health 
+
+&amp; Safety 
+
+Supplier 
+
+Environmental 
+
+Assessment
+
+Our Materiality Assessment Process
+
+Supported by a systematic &amp; 
+
+interactive process to identify, 
+
+categorise and prioritise material 
+
+ESG topics
+
+Identify
+
+Define a list of 
+
+potential material 
+
+ESG topics
+
+Categorise
+
+Refine the list of 
+
+topics by clustering 
+
+them into categories 
+
+Prioritise 
+
+Engage SR 
+
+Committee for 
+
+feedback and 
+
+validation of each 
+
+topics based on 
+
+importance to 
+
+internal and external 
+
+stakeholders
+
+1. Please refer to Financial Statements of the Annual Report 2020 (“AR2020”).
+
+2. Please refer to the Corporate Governance section of the AR2020.
+
+
+
+
+
+GOVERNANCE STRUCTURE
+
+STRATEGIC APPROACH FOR SUSTAINABILITY
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  6
+
+Mencast recognises that knowing and understanding the demands and concerns of stakeholders is key to 
+
+sustainable growth and that regular engagement with stakeholders helps us to understand and establish material 
+
+areas of focus. The Group operates and maintains diverse communication channels and platforms to listen to 
+
+stakeholders’ requirements and opinions.
+
+Our stakeholders are those who have a considerable influence on our business, and whom our business has a 
+
+significant impact on. In FY2020, the SR Committee with the support of our Consultant has reviewed and 
+
+ascertained that employees, customers, shareholders, bankers, investors and business partners remained as our 
+
+key stakeholder groups (See Exhibit 2). 
+
+Exhibit 2. Our Key Stakeholder Groups
+
+Employees
+
+We recognise that our employees are fundamental 
+
+to the Group’s productivity and continuity. We aim to 
+
+nurture them well to increase their engagement and 
+
+contribution to the Group.
+
+Customers
+
+We strive to maximise our customers satisfaction, which 
+
+reflects sales and revenue. We ensure that we understand 
+
+our customers needs and expectations and we aim to 
+
+build long lasting relationships with our customers so that 
+
+they are likely to engage our services again.
+
+Shareholders, Bankers, and Investors
+
+We aim to maintain profitability in our Group and 
+
+maximise shareholders’ return. We also strive to 
+
+maintain corporate governance and improve level of 
+
+transparency through reporting and communication.
+
+Business Partners
+
+We work closely with our business partners/ 
+
+subcontractors to ensure that all our operations that 
+
+were carried out are in line with our sustainability 
+
+efforts and industry practices.
+
+Community 
+
+We work closely with our community and remain fully committed to continue procuring responsibly  
+
+while generating positive economic and social benefits for the local community we operate in.
+
+Membership of Associations
+
+Aspiring to widen our exposure to industry standards and collaborate within and beyond the industry to improve 
+
+on current sustainable practices, Mencast and its subsidiaries have joined and taken active participation in the 
+
+following industry associations:
+
+• 
+
+Singapore Business Federation
+
+• 
+
+Association of Singapore Marine Industries 
+
+• 
+
+Singapore Chinese Chamber of Commerce &amp; Industry
+
+• 
+
+Singapore National Employers Federation
+
+• 
+
+Commercial Diving Association (Singapore) – Mencast Subsea Pte. Ltd.
+
+• 
+
+Association of Diving Contractors (International) – Mencast Subsea Pte. Ltd.
+
+• 
+
+Industrial Rope Access Trade Association – Mencast Subsea Pte. Ltd.
+
+• 
+
+International Marine Contractors Association – Mencast Subsea Pte. Ltd.
+
+
+
+STAKEHOLDER ENGAGEMENT
+
+
+
+
+7  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Materiality with respect to sustainability reporting, as defined by GRI Standards, includes topics and indicators 
+
+that reflect the organisation’s significant economic, environmental, and social impacts; and would substantively 
+
+influence the assessments and decisions of stakeholders.
+
+Guided by our Consultant and having considered the topics of concerns and expectation of identified key 
+
+stakeholders, the SR Committee, together with the Management, have assessed and prioritised the material topics 
+
+to focus on for the Group, as well as targets and commitments.
+
+OUR TARGETS AND COMMITMENTS
+
+ECONOMIC
+
+
+
+ 
+
+Financial Performance
+
+• 
+
+To improve our internal efficiency and effectiveness in our existing 
+
+business and also, to leverage on our existing strengths for new business 
+
+opportunities.
+
+Procurement Practices
+
+• 
+
+Continue to collaborate with the right business partners and suppliers 
+
+to redesign our product offerings to reduce the negative impact on the 
+
+environment.
+
+ENVIRONMENTAL MANAGEMENT
+
+
+
+Energy 
+
+• 
+
+Maintain and achieve energy efficiency and a balance energy intensity 
+
+usage correlated with business growth.
+
+Waste
+
+• 
+
+Ensure waste treatment and disposal are in accordance with regulatory 
+
+requirements.
+
+Environmental Compliance
+
+• 
+
+Zero incidents of non-compliance.
+
+• 
+
+No significant fines or non-monetary sanctions for non-compliance with 
+
+environmental laws and regulations.
+
+ORGANISATIONAL &amp; RELATIONSHIP 
+
+MANAGEMENT
+
+
+
+ 
+
+Employment
+
+• 
+
+Continue to promote diversity and equal opportunity in the workplace.
+
+• 
+
+Comply with local labour regulations across our operations.
+
+Training and Education
+
+• 
+
+Achieve an average of 2 hours of training per employee annually.
+
+Occupational  
+
+Health and Safety
+
+• 
+
+Zero fatalities and/or workplace injuries.
+
+ 
+
+CORPORATE GOVERNANCE
+
+
+
+ 
+
+Anti-Corruption
+
+• 
+
+Zero incidents of bribery and corruption, including facilitation payment.
+
+• 
+
+Zero tolerance towards all forms of bribery and corruption.
+
+The material ESG topics were also reviewed by the Board and determined as being relevant. Moving forward, to 
+
+keep abreast of critical issues, the SR Committee, supporting the Board in its oversight, will continue to review 
+
+annually material ESG topics against the changing business environment, stakeholder opinions, and emerging 
+
+global and local trends.
+
+
+
+MATERIALITY ASSESSMENT
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  8
+
+ECONOMIC
+
+The Group firmly believes that the suppliers and subcontractors we engage are critical to creating positive economic 
+
+impact, thus enhancing stakeholder’s return. In this respect, the Group maintains a rigorous selection process in vendors 
+
+selection, which are based on the past track records and adherence to occupational health and safety standards.
+
+As we consider sustainability as one of the key factors in selecting a supplier, we evaluate the potential candidates 
+
+based on their sustainability performance and practices. Often, there would be a collaboration with business 
+
+partners and suppliers to redesign our product offerings to reduce the negative impact on the environment in this 
+
+area. For the purpose of this disclosure, we took into account the entities located in Singapore as the “significant 
+
+locations of operations”.
+
+Purchases from local material suppliers accounted for approximately 85% (FY2019*: 92%) of the total purchases in 
+
+FY2020. The remaining raw materials were procured from overseas suppliers as they were not available locally. 
+
+Currently, the use of foreign subcontractors and import purchases are kept to a minimum, and we remain fully 
+
+committed to continue procuring responsibly while generating positive economic and social benefit for the local 
+
+community we operate in.
+
+*restated due to disposal of 51% shareholdings in Mencast-KSE Pte. Ltd. (no longer a subsidiary)
+
+ENVIRONMENTAL MANAGEMENT
+
+To address global issues of resource scarcity and a changing climate, we recognise the importance of integrating 
+
+environmental considerations into the Group’s business decisions. We are committed to understanding, managing 
+
+and minimising our environmental footprint across our value chain, including our business operations, suppliers 
+
+and customers. Our environmental efforts are largely focused on maximising material utilisation and optimising 
+
+energy consumption. We will continue to strengthen our expertise in the areas of environmental programmes and 
+
+be selective about the strategic initiatives that will yield a greater positive impact in the future.
+
+In FY2020, the Group consumed approximately 8.89 million kWh of electricity, which comprises a mix of direct 
+
+and indirect sources of energy. There is a 28% increase of energy consumed as compared to FY2019 (FY2019 
+
+consumption: 6.92 million kWh of electricity). The increase was due to increase in Marine sector’s electricity 
+
+consumption, largely from premises rented out to tenants, dormitory, and temporary living quarters.
+
+Direct energy refers to primary sources of energy from our solar generation on site, whereas indirect energy is 
+
+electricity purchased from external suppliers – the grid. The comparison and breakdown of consumption by 
+
+respective businesses as follows:
+
+Business
+
+Energy Consumption (‘000 kWh)
+
+FY2020
+
+FY2019
+
+Offshore &amp; Engineering
+
+2,536
+
+2,617
+
+Marine
+
+4,985
+
+2,873
+
+Energy
+
+1,365
+
+1,430
+
+Total
+
+8,886
+
+6,920
+
+To improve energy efficiency, the Group will continue to optimise operations and processes; technological 
+
+improvements, including the adoption of more sustainable building designs and materials; and the use of energy-
+
+efficient equipment and devices.
+
+
+
+
+
+PROCUREMENT PRACTICES
+
+ENERGY
+
+
+
+
+9  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Waste management is critical for global sustainable development. The Group conscientiously monitor its discharges 
+
+into the environment and seek to reduce any ecological impact. It is thus vital to prioritise waste disposal methods, 
+
+such as recovery that minimise residual effects. As part of the Group’s waste management business, the Group 
+
+holds a valid Toxic Industrial Waste Collector’s Licence.
+
+In FY2020, total hazardous wastes collected has increased by 116% in volume (ton) as compared to FY2019 due to 
+
+its increasing demand from the Group’s waste management business. 
+
+All hazardous waste collected were treated and disposed by Mencast in compliance with:
+
+• 
+
+The Environmental Public Health (Toxic Industrial Waste) Regulations 1988
+
+• 
+
+Sewerage and Drainage Act, Chapter 294 and the Sewerage and Drainage (Trade Effluent) Regulations
+
+• 
+
+Singapore Standard SS 603: 2014 Code of Practice for Hazardous Waste Management 
+
+The hazardous wastes collected mainly consist of contaminated soil, slop oil, oil sludge, oily water, plating effluent 
+
+etc. These hazardous wastes were treated and disposed via the following methods:
+
+Waste directed to disposal by Landfill  
+
+and Water Treatment
+
+Waste diverted from disposal by Recovery
+
+Environmental compliance forms an integral part of the Group’s sustainability philosophy. With increased pressure 
+
+on corporations to be accountable for their environmental footprint and rising cost of natural resources, we 
+
+endeavour to not just comply but also integrate the best sustainability practices across business operations to 
+
+reduce adverse environmental impact on the ecosystem. 
+
+Over the years, the Group’s operations continue to conform to local environmental laws and regulations. The Group 
+
+maintains a zero tolerance for non-compliance and encourage our stakeholders to report any incidences via our 
+
+established whistle blowing channels. All employees of Mencast are encouraged to be proactive and forthcoming in 
+
+managing and reporting environmental related issues and complaints.
+
+In FY2020, there were no incidents of non-compliance and penalties pertaining to environmental-related issues. 
+
+The Board and Management continues to review and improve the current environmental management system and 
+
+practices and ensure that all our activities and operations comply with regulatory and customers’ requirements. 
+
+Moving Forward
+
+To maintain the highest standard of environmental compliance, our commitment and target, the Management will 
+
+continue to review and improve the current environmental management system and practices and ensure that all 
+
+our activities and operations comply with existing regulatory requirements. 
+
+
+
+
+
+WASTE
+
+ENVIRONMENTAL COMPLIANCE
+
+22%
+
+Recovery Oil
+
+Recovery
+
+Fertilizer
+
+18%
+
+16%
+
+54%
+
+11%
+
+Landfill Ash 
+
+after Treatment
+
+Discharge 
+
+to PUB
+
+49%
+
+7%
+
+23%
+
+FY2020
+
+FY2019
+
+FY2020
+
+FY2019
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  10
+
+ORGANISATIONAL &amp; RELATIONSHIP MANAGEMENT
+
+Our employees are one of our most valuable assets and the Group believes in and is committed to fair employment 
+
+practices, upholding human rights principles and investing in developing and training our people. We provide equal 
+
+opportunities to all employees without discrimination.
+
+As of 31 December 2020, we have a total of 339 full-time employees. 
+
+FY2020
+
+FY2019
+
+Total No. of Employees
+
+ 
+
+339
+
+ 
+
+368
+
+Distribution by Gender (%)
+
+ 
+
+ 
+
+ 
+
+88% 
+
+12%
+
+ 
+
+ 
+
+ 
+
+88% 
+
+12%
+
+Total No.
+
+Total No.
+
+New Hires
+
+39
+
+86
+
+80% of new hires in FY2020 were male due to the nature of 
+
+industry, compared to 78% in FY2019.
+
+Age Group
+
+&lt; 30 
+
+30 - 50
+
+&gt; 50
+
+&lt; 30 
+
+30 - 50
+
+&gt; 50
+
+Total No. of New Hire by Age Group
+
+10
+
+21
+
+8
+
+37
+
+37
+
+12
+
+% of New Hire by Age Group 
+
+25%
+
+54%
+
+21%
+
+43%
+
+43%
+
+14%
+
+Turnover
+
+Total No.
+
+Total No.
+
+68 
+
+98
+
+&lt; 30 
+
+30 - 50
+
+&gt; 50
+
+&lt; 30 
+
+30 - 50
+
+&gt; 50
+
+Total No. of Turnover by Age Group
+
+14
+
+40
+
+14
+
+35
+
+53
+
+10
+
+% of Turnover by Age Group
+
+21%
+
+58%
+
+21%
+
+36%
+
+54%
+
+10%
+
+We strive to foster an inclusive and performance driven work environment to attract, retain and develop our talents. 
+
+As an employer who advocates equal opportunity, the Group has instituted a fair system to ensure equal opportunities 
+
+and non-preferential treatment for all employees. There is no preference or prejudice towards religion, age, ethnicity, 
+
+any physical disability or gender. Employees are required to observe and adhere to all relevant policies and practices. 
+
+Due to the inherent nature of labour-intensive work and physically challenging working conditions, the majority of 
+
+our employees are male. Mencast makes a conscious effort to maintain diversity in the middle management, to 
+
+generate creativity and innovation and improve the organisation’s culture. There were no reported incidences of 
+
+discrimination raised by our employees in FY2020.
+
+Also, the Group has an open-door policy where employees are encouraged to speak-up or report grievances directly 
+
+to their superior, head of department, human resource department, chief executive officer and/or independent 
+
+directors. This is to reinforce our commitment to our employees to provide them with a workplace that is healthy, 
+
+safe and secure. Across our business segments, there were no workplace grievance cases reported in FY2020.
+
+
+
+EMPLOYMENT
+
+
+
+
+11  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Employee Remuneration and Benefit
+
+The Group recognises the valuable contribution of all employees. We strongly believe in fair remuneration and sets 
+
+packages which are competitive and sufficient to attract, retain and motivate personnel with adequate experience 
+
+and expertise to manage the business and operations of the Group. In setting remuneration packages, the Group 
+
+takes into account the regulatory requirements, salary, and employment conditions within the same industry and in 
+
+comparable companies. In FY2020, in addition to the competitive remuneration offered, we extended our employees 
+
+a set of benefits including but not limited to:
+
+Employment Benefits
+
+Descriptions
+
+Life Insurance 
+
+In the event that an employee becomes critically ill or permanently disabled, 
+
+their loved ones will receive a sum of money to provide them with financial 
+
+protection and coverage against risks.
+
+Medical Insurance
+
+Employees are reimbursed for outpatient treatments, surgery or 
+
+hospitalisation expenses covered under medical insurance.
+
+Disability Insurance
+
+Our employees are covered under personal accident insurance and work-
+
+related injury. For instance, the organisation will reimburse any rehabilitation 
+
+costs or monthly pay-outs for each case of disability.
+
+Parental Leave
+
+Both female and male employees are entitled to maternity leave and paternity 
+
+leave when applicable. We provide other leave benefits catering to our 
+
+employees’ children during the stages of infant care and childcare.
+
+In FY2020, the Group had a return-to-work rate of 100% and remained 
+
+employees of the Group for more than a year. The Group will continually 
+
+work towards building a pro-parent workplace through enhancing our Group 
+
+welfare practices and culture.
+
+Retirement Provision 
+
+For employees qualified for pension approaching the retirement age, the 
+
+government will provide them with monthly cash pay-outs from their CPF 
+
+contributions.
+
+Workers Dormitory and Canteen
+
+Workers are granted dormitory accommodation, coupled with basic necessities 
+
+such as proper sanitation and water.
+
+The Group is in full compliance with local labour regulations across our operations, as well as minimum wage laws, 
+
+where such laws exist. Being in an industry that is largely labour-intensive, we are dedicated to constantly reviewing 
+
+our employment policies, benefits and remuneration practices to ensure compliance with the updated employment 
+
+laws, to keep up with the best industry practices and to provide the optimal working conditions for our people. 
+
+Before the COVID-19 outbreak, the Group held company dinner on 10 January 2020 at 42A Premises. Subsequently, due 
+
+to safe distancing measures in place to reduce the risk of COVID-19, there were no recreation and welfare activity held.
+
+The Group continually cultivates a transparent and inclusive environment for all employees, as well as ensures a top-
+
+down approach to promote fair and ethical business dealings. Mencast maintains zero tolerance towards unethical 
+
+labour practices such as child labour, forced labour, slavery and human trafficking across all our operations.
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  12
+
+The Group recognises that employees need to stay informed and be updated in their skill sets in the ever-changing 
+
+work environment. To encourage and support our employees to develop their fullest potential and have a fulfilling 
+
+career, both on-the-job and ad-hoc trainings are made available to our employees. Employees are encouraged to 
+
+attend courses which are relevant to their work nature.
+
+In FY2020, the company has clocked a total of 931 hours in training (45% reduction in average hours of training 
+
+per employee). The reduction of training hours per employee were due to implementation of urgent measures to 
+
+manage COVID-19 pandemic in the workplace.
+
+FY2020
+
+FY2019
+
+Average Hours of Training  
+
+Per Employee
+
+ 
+
+6.47 hours
+
+11.71 hours
+
+Programmes for Upgrading Employee Skills and Transition Assistance
+
+The Group is committed to continue to allocate budget and plan skills upgrading to equip employees to meet 
+
+strategic targets of the Group. We believe that more skilled employees enhance Mencast’s human capital and 
+
+contribute to employees’ satisfaction, which will then enhance overall performance. 
+
+ 
+
+Training sessions to educate the employees on the technical skills and safety across different modes of operations, such as:
+
+• 
+
+WSQ Operate Boom Lift Course
+
+• 
+
+WSQ Respond to Fire and Hazmat Emergency
+
+• 
+
+Implement Incident Management Process
+
+• 
+
+Certificate in First Aid Course
+
+• 
+
+Apply Workplace Safety &amp; Health In Process Plant
+
+• 
+
+Occupational First Aid
+
+• 
+
+Hazmat Transport Driver Permit Course
+
+• 
+
+Safety Course for Ship Supplier Personnel
+
+• 
+
+Safe Management Officer Training
+
+• 
+
+SIC for Shipyard Workers (General Trade)
+
+• 
+
+Apply Workplace Safety &amp; Health in Metal Work
+
+• 
+
+Forklift Operator Course
+
+In FY2020, the Group has also piloted initiatives and automation programmes to boost productivity:
+
+• 
+
+COVID-19 Support: KR AI Temperature Monitoring Access Control Platform &amp; Software (Face Scanner Machine) 
+
+• 
+
+Installation of HR Software
+
+• 
+
+Purchases of new laptops and upgraded Microsoft 365 Business Standard as enhancement for employees to 
+
+be able to work from home.
+
+Performance and Career Development Review
+
+Performance and career development review of employees are performed during the performance appraisal 
+
+process. This process is conducted on an annual basis whereby there will be two-way communication and 
+
+engagement between supervisors and subordinates to assess the performance of the employee. Upon completion 
+
+of the appraisal process, consideration of career advancement such as promotion, quantum of salary increments, 
+
+and annual variable bonus will be determined based on the performance appraisal results. Employees are 
+
+assessed and remunerated fairly based on their experience, qualifications and performance. 
+
+In FY2020, 89% of total employees (those with more than one year service) received performance bonus and career 
+
+development review. 
+
+The Group shall continue to provide training and education opportunities through development programmes 
+
+wherever applicable and promote a conducive corporate environment where everyone could achieve their potential. 
+
+
+
+TRAINING &amp; DEVELOPMENT
+
+
+
+
+13  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Safety is an integral part of our business, and a key focus area for our board of directors and senior management. 
+
+Occupational Health &amp; Safety Management Framework
+
+In FY2020, the Group continue to be certified to 
+
+meet the Singapore standard for occupational 
+
+safety and health management system, as 
+
+well as ISO 45001 occupational health and 
+
+safety management system and ISO 14001 
+
+environmental management system.
+
+Processes are in place to identify, mitigate 
+
+and report risks and communicate best 
+
+practices across the Group, and we work with 
+
+our employees and stakeholders to ensure 
+
+that they understand our requirements and 
+
+expectations.
+
+Our safety management system continues 
+
+to be routinely audited by independent 
+
+consultants.
+
+Key Elements of Our Health &amp; Safety System
+
+To facilitate the physical supervision of the workplace safety and the relaying of Workplace Safety and Health 
+
+(“WSH”) related messages, each individual subsidiary has established its own Health, Safety and Environment 
+
+(“HSE”) Committee. The HSE Committee is headed by a Chairman appointed by the Director, typically a senior 
+
+personnel from the Operations or Production Department. They oversee the subsidiaries’ operations to ensure that 
+
+safety standards are upheld at all times and also up to industry leading practices.
+
+The Committee conducts regular and surprise inspections on their workers’ workplace safety. In addition, the 
+
+role and responsibilities of the HSE Committee includes reviewing, effectively implementing and reinforcing safety 
+
+standards and regulations to ensure all areas of safety are adequately covered. Committee meetings are conducted 
+
+minimally once a month to review safety inspection results, ensure corrective actions are taken promptly, as well 
+
+as coordinate and organise HSE campaigns. We also constantly seek feedback from non-committee members 
+
+regarding areas of improvement and all relevant HSE matters. We estimate nearly 100% of the workforce are 
+
+represented well as they have the right to participate fully in the establishment and implementation of occupational 
+
+health and safety policies, procedures, investigations and risk assessments.
+
+In FY2020, the Group continues to maintain a balanced proportion of managerial to non-managerial staff in the 
+
+committee. Moving forward, we will continue to maintain the ideal proportion and better facilitate workplace safety 
+
+with a less hierarchical organisation.
+
+Inherent Occupational Risk
+
+As a Group, we periodically assess the occupational injuries and diseases risks that may occur due to workplace 
+
+conditions. In FY2020, due to the nature of the work, we continue to consider the following as high-risk: 
+
+• 
+
+Decompression illness or Barotrauma - Adherence to accepted diving safety standards and dive exposure 
+
+tables; and
+
+• 
+
+Chemical Exposure – Provision of Personal Protective Equipment (“PPE”) and annual medical examinations.
+
+Findings from our risk assessments are considered in the determination of facility requirements, training 
+
+programmes and operational controls. The Group ensures each worker is well protected before the start of each 
+
+assignment, by documenting on the personal protective equipment record to ensure that each worker is sufficiently 
+
+equipped with protective gears. We have also developed a list of protocols and precautions for workers, to ensure 
+
+that their safety is fully covered in all areas of work.
+
+
+
+OCCUPATIONAL HEALTH &amp; SAFETY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Policy
+
+Checking  
+
+and Correction  
+
+Action
+
+Planning
+
+Continual 
+
+Improvement
+
+Implementation  
+
+and Operation
+
+Management 
+
+Review
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  14
+
+Workplace Health &amp; Safety Performance
+
+Category
+
+FY2020
+
+FY2019
+
+Total
+
+Total
+
+Death or Total Permanent Disabilities
+
+0
+
+0
+
+Reportable Injuries
+
+6
+
+2
+
+Occupational Disease
+
+0
+
+0
+
+In FY2020, a total of 151 man-days were loss due to injury, which had increased when compared with FY2019 (i.e.17 
+
+man-days). The main reason for the increase was due to 3 individuals with injuries that required a longer recovery 
+
+period. For each of these injuries reported, the Group Quality, Health &amp; Safety, Environmental (“QHSE”) Manager 
+
+had prepared an Investigation report, consisting of mainly the details of the accident, and a corrective action plan 
+
+such as conducting training and education to prevent similar injuries and workplace inspections to minimise the 
+
+likelihood of similar accidents occurring again. The Group has maintained zero occupational disease and fatality or 
+
+total permanent disabilities.
+
+Additionally, we ensure that our employees attend medical consultations for early detection. These medical 
+
+consultations include:
+
+• 
+
+Audiometry tests for employees exposed to excessive noise hazards; and
+
+• 
+
+Medical examinations for employees exposed to oil and tar.
+
+COVID-19 Compliance and Safety Measures
+
+The COVID-19 pandemic, an unprecedented event, has greatly impacted the global economy and businesses 
+
+worldwide. Mencast was also impacted during this period and in order to safeguard the health and safety of our 
+
+employees, customers and stakeholders, which was our main priority, we have initiated various measures. We 
+
+have established a Safety Management Committee at the onset of the pandemic, specifically to coordinate and 
+
+implement adequate Safe Management measures for all our business. The team is led by the appointed Safe 
+
+Management Officer (“SMO”) and supported by 7 Safe Distancing Officer (“SDO”) to ensure the safety management 
+
+measures are properly executed by all departments. 
+
+The safe management measures implemented were in accordance with guidelines and requirements issued by 
+
+Government agencies including Ministry of Health (“MOH”), Ministry of Manpower (“MOM”) and Ministry of Trade &amp; 
+
+Industry. The Group has ensured its compliance with the government advisories on COVID-19 restrictions such as 
+
+social distancing measures by embedding the practices into daily operations. Other mandatory measures have also 
+
+been implemented, such as twice a day temperature screening, split team and work-from home arrangements. 
+
+During FY2020, there were no non-compliance with the COVID-19 laws and regulations.
+
+For employees staying in dormitory, specific instructions and restricted movement orders were provided. A 
+
+dormitory leader was appointed to ensure that the safety management guidelines established were adhered to.
+
+Trainings and briefings were also conducted for all employees to ensure higher level of awareness of COVID-19 
+
+safety measures. Posters and notices on best practices of COVID-19 preventive measures were placed near the 
+
+entrance of premise, common areas and production area as a reminder for all employees.
+
+Moving forward, the Group shall strive to continue to maintain its health &amp; safety standards with continuous 
+
+improvement in its Operational Health and Safety processes and performance.
+
+
+
+
+15  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+CORPORATE GOVERNANCE
+
+Mencast is committed to uphold the highest standards of corporate governance and business integrity across its 
+
+business activities, which are essential for the long-term viability of the Group’s businesses and the enhancement 
+
+of shareholder’s value. The Board undertakes to investigate complaints of suspected fraud in an objective manner 
+
+and has put in place a whistle-blowing policy and procedures which provide employees with well-defined and 
+
+accessible channels within the Group, including a direct channel to the Audit Committee, for reporting suspected 
+
+bribery, corruption, dishonest practices or other similar matters.
+
+The policy aims to encourage the reporting of such matters in good faith, with the confidence that employees 
+
+making such reports will be treated fairly and, to the extent possible, be protected from reprisal. The policy and 
+
+its effectiveness will be reviewed by the Audit Committee periodically, with recommendations regarding updates or 
+
+amendments, if any, to be made to the Board as required. 
+
+In FY2020, there were no incidents of regulatory non-compliance across Mencast’s group of businesses. There were 
+
+also no reported incidents pertaining to whistle-blowing for this reporting period under review. The Group continues 
+
+to work towards reinforcing a full compliance culture.
+
+Moving Forward
+
+The Audit Committee continues to support the Board in its oversight of anti-corruption and is responsible for 
+
+driving the Group’s focus on implementing effective compliance and governance systems. At an operational level, 
+
+the respective department within the Group continues to be responsible to identify, self-assess the adequacy and 
+
+effectiveness of mitigating measures, and manage their financial, operational, information technology, compliance 
+
+and reputational related risks.
+
+Please refer to the Corporate Governance section of the annual report for more information.
+
+
+
+ANTI-CORRUPTION
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  16
+
+GLOBAL REPORTING INITIATIVE (GRI) CONTENT INDEX
+
+This report has been prepared in accordance with the GRI Standards: Core option
+
+Category
+
+Disclosure
+
+Description
+
+Page Reference and Remarks
+
+GRI 102:
+
+General
+
+Disclosures
+
+102-1 *
+
+Name of the
+
+organisation
+
+Cover Page
+
+102-2 *
+
+Activities, brands, products, 
+
+and services
+
+Refer to AR FY2020 – 
+
+Notes to The Finance Statement – Note 1
+
+102-3 *
+
+Location of
+
+headquarters
+
+42E Penjuru Road, Mencast Central,  
+
+Singapore 609161
+
+102-4 *
+
+Location of operations
+
+42E &amp; 42B Penjuru Road, Mencast Central,
+
+Singapore 609161/609163
+
+102-5 *
+
+Ownership and legal
+
+form
+
+Refer to AR FY2020 – Group Structure 
+
+102-6 *
+
+Markets served
+
+Refer to AR FY2020 – 
+
+Note 4 Revenue by Geographical Segment
+
+102-7 *
+
+Scale of the
+
+organisation
+
+Page 10
+
+102-8 *
+
+Information on
+
+employees and other workers
+
+Page 10
+
+102-9 *
+
+Supply chain
+
+Page 8
+
+102-10 *
+
+Significant changes to
+
+the organisation and its 
+
+supply chain
+
+No significant changes
+
+102-11 *
+
+Precautionary Principle
+
+or approach
+
+Page 5
+
+102-12 *
+
+External initiatives
+
+Page 4
+
+102-13 *
+
+Membership of
+
+associations
+
+Page 6
+
+GRI 102: Strategy
+
+102-14 *
+
+Statement from senior 
+
+decision-maker
+
+Refer to AR FY2020 – Chairman’s Message
+
+GRI 102:
+
+Ethics and
+
+Integrity
+
+102-16 *
+
+Values, principles,
+
+standards, and norms of 
+
+behaviour
+
+Page 4
+
+GRI 102:
+
+Governance
+
+102-18 *
+
+Governance structure
+
+Page 5 
+
+Refer to AR FY2020 – Corporate Governance and 
+
+Corporate Structure
+
+GRI 102:
+
+Stakeholder
+
+Engagement
+
+102-40 *
+
+List of stakeholder groups
+
+Page 6
+
+102-41 *
+
+Collective bargaining 
+
+agreements
+
+None
+
+102-42 *
+
+Identifying and selecting 
+
+stakeholders
+
+Page 6
+
+102-43 *
+
+Approach to stakeholder 
+
+engagement
+
+Page 6
+
+102-44 *
+
+Key topics and concerns 
+
+raised
+
+Page 7
+
+
+
+
+17  |  MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020
+
+Category
+
+Disclosure
+
+Description
+
+Page Reference and Remarks
+
+GRI 102:
+
+Reporting
+
+Practice
+
+102-45 *
+
+Entities included in the
+
+consolidated financial 
+
+statements
+
+Refer to AR FY2020 – 
+
+Notes to The Finance Statement – Note 16
+
+102-46 *
+
+Defining report content and 
+
+topic Boundaries
+
+Page 2
+
+102-47 *
+
+List of material topics
+
+Page 7
+
+102-48 *
+
+Restatements of information
+
+Page 8
+
+102-49 *
+
+Changes in reporting
+
+No significant changes from previous reporting 
+
+periods in the list of material topics and topic 
+
+boundaries.
+
+102-50 *
+
+Reporting period
+
+Page 2
+
+102-51 *
+
+Date of most recent report
+
+FY2019 Sustainability Report
+
+102-52 *
+
+Reporting cycle
+
+1 Jan 2020 to 31 Dec 2020
+
+102-53 *
+
+Contact point for
+
+questions regarding the 
+
+report
+
+Page 2
+
+102-54 *
+
+Claims of reporting in
+
+accordance with the
+
+GRI Standards
+
+Core option
+
+102-55 *
+
+GRI content index
+
+Page 16 - 18
+
+102-56 *
+
+External assurance
+
+The Group has not sought external assurance for 
+
+this sustainability report.
+
+GRI 302: 
+
+Energy
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 8
+
+302-1
+
+Energy consumption within 
+
+the organisation
+
+Page 8
+
+GRI 306:
+
+Waste
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 9 
+
+306-1
+
+Waste generation and 
+
+significant waste-related 
+
+impacts
+
+Page 9
+
+306-2
+
+Management of significant 
+
+waste-related impacts
+
+Page 9
+
+306-3
+
+Waste generated
+
+Page 9
+
+306-4
+
+Waste diverted from disposal
+
+Page 9
+
+306-5
+
+Waste directed to disposal
+
+Page 9
+
+GRI 307:
+
+Environmental
+
+Compliance
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 9
+
+307-1
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations
+
+Page 9
+
+
+
+
+MENCAST HOLDINGS LTD.  |  SUSTAINABILITY REPORT FY2020  |  18
+
+Category
+
+Disclosure
+
+Description
+
+Page Reference and Remarks
+
+GRI 401:
+
+Employment
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 10 - 11
+
+401-1
+
+New employee hires and 
+
+employee turnover
+
+Page 10 
+
+401-2
+
+Benefits provided to
+
+full-time employees that are 
+
+not provided to temporary or 
+
+part-time employees
+
+Page 11
+
+401-3
+
+Parental leave
+
+Page 11
+
+GRI 403: 
+
+Occupational  
+
+Health and 
+
+Safety
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 13 - 14
+
+403-1
+
+Occupational health and 
+
+safety management system
+
+Page 13 - 14
+
+403-2
+
+403-9
+
+Hazard identification, risk 
+
+assessment, and incident 
+
+investigation
+
+Work-related ill health
+
+Page 13
+
+GRI 404  
+
+Training  
+
+and Education
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 12
+
+404-1
+
+Average hours of training per 
+
+year per employee 
+
+Page 12
+
+404-2
+
+Programmes for upgrading 
+
+employee skills and transition 
+
+assistance programmes
+
+Page 12
+
+404-3
+
+Percentage of employees 
+
+receiving regular performance 
+
+and career development 
+
+reviews
+
+Page 12
+
+GRI 205 
+
+Anti-Corruption
+
+DMA
+
+Management approach 
+
+disclosures
+
+Page 15, 
+
+Refer to AR FY2020 – Corporate Governance
+
+205-3
+
+Confirmed incidents of 
+
+corruption and actions taken
+
+Page 15, 
+
+Refer to AR FY2020 – Corporate Governance
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42E Penjuru Road, Mencast Central,
+
+Singapore 609161
+
+T +65 6268 4331
+
+F +65 6264 4156
+
+W www.mencast.com.sg
+
+E ir@mencast.com.sg
+
+
+
+
+

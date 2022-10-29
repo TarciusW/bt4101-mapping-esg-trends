@@ -1,0 +1,8472 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY 
+
+REPORT2017
+
+
+
+F I R S T
+
+R E S O U R C E S
+
+L I M I T E D
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+02   CEO’s Message
+
+05   Targets and Progress
+
+06   About First Resources
+
+09 
+
+Corporate Governance and Ownership
+
+10 
+
+Our Presence
+
+12 
+
+Our Operations
+
+16   Our Approach to Sustainability
+
+18 
+
+No Deforestation, No Peat and No Exploitation
+
+21 
+
+Sustainability Management Structure
+
+22 
+
+Supply Chain Engagement and Traceability 
+
+24 
+
+Sustainable Palm Oil Certification
+
+26   Environmental Responsibility
+
+28 
+
+Forest Mapping and Protection
+
+32 
+
+Fire Prevention
+
+34 
+
+Reducing Carbon Emissions
+
+36 
+
+Peat Management
+
+37 
+
+Water Accountability
+
+38 
+
+Chemicals and Pesticide Usage
+
+40   Social Responsibility
+
+42 
+
+Community Engagement
+
+43 
+
+Community Investment
+
+45 
+
+Smallholders
+
+46 
+
+Working Conditions
+
+49 
+
+Health and Safety
+
+50   Base Data
+
+54   GRI Index
+
+62   Stakeholder Engagement Table
+
+64   About the Report
+
+65   Glossary
+
+67   Contact
+
+CONTENTS
+
+
+
+
+
+
+
+
+CEO’S
+
+MESSAGE
+
+
+
+
+
+Dear Stakeholders,
+
+It gives me great pleasure to update you on First Resources’ 
+
+sustainability performance, presenting what is now our 
+
+fourth Sustainability Report covering the financial years 2016  
+
+and 2017.
+
+In many respects, 2017 was a good year for our Group.  
+
+We achieved very healthy growth and productivity, and our 
+
+crops are recovering well from the after-effects of the 2014–
+
+2016 El Niño event, which blighted much of the previous 
+
+year’s harvest. This is important progress from a business 
+
+perspective as it is critical that we meet expectations for 
+
+profitability and revenue growth. However, it is equally 
+
+important for our long-term success to celebrate the great 
+
+strides we have taken in our sustainability efforts. This report 
+
+stands as a testament to the new levels we have reached in 
+
+this regard. 
+
+When our last report was released, we had just published 
+
+our NDPE Policy, and were only beginning to discover the full 
+
+weight of our commitments and the challenges they entail. For 
+
+this reason, I am extremely proud of what we have achieved 
+
+in the interim. Although we had implemented sustainability 
+
+activities in the past, our NDPE Policy has provided a higher 
+
+and clearer level of aspiration.
+
+In many respects, 2017 was 
+
+a good year for our Group. 
+
+We achieved very healthy 
+
+growth and productivity, and 
+
+our crops are recovering well 
+
+from the after-effects of the 
+
+2014–2016 El Niño event, 
+
+which blighted much of the 
+
+previous year’s harvest.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+2 
+
+
+We have embraced new approaches in key areas, including 
+
+labour standards and fire prevention, and have redoubled our 
+
+efforts and investment to ensure that we are always at the 
+
+forefront of best practice implementation. We have also made 
+
+headway in our attempt to reduce and mitigate greenhouse 
+
+gas emissions by committing substantial resources to build 
+
+methane capture technology into our mills. In addition, 
+
+we have invested heavily in community development 
+
+programmes to ensure that our neighbours reap the benefits 
+
+of oil palm development and continue to see our company as 
+
+a force for good.
+
+However, our biggest effort during the reporting period has 
+
+unquestionably been the screening of our existing land 
+
+bank to map out areas with important biodiversity values 
+
+and ecosystems using the High Conservation Value and 
+
+High Carbon Stock Approach methodologies. This aspect 
+
+of our work has fundamentally changed our business: we 
+
+now acknowledge that growing our business through new 
+
+greenfield plantings is not a sustainable strategy. While we 
+
+will certainly consider future opportunities to grow through 
+
+acquisitions, we also recognise a clear limit in our ability to 
+
+grow our land bank. 
+
+We now therefore focus our attention on increasing the 
+
+productivity of our existing land – a strategy that I believe 
+
+has exciting potential. Focusing on yield increases through 
+
+better agricultural practices, combined with an aggressive 
+
+replanting programme using the best planting materials, has 
+
+the potential to deliver superior and sustainable growth for 
+
+our business. I am also excited about opportunities to apply 
+
+new technology to enhance our plantations’ performance. 
+
+These include the monitoring of plant and soil health using 
+
+real time data, which will make further reductions in waste 
+
+and cost possible.
+
+These changes to our business have required a major shift in 
+
+our approach to growth – as well as a big change in mindset – 
+
+but I have no regrets. Robust NDPE policies are becoming the 
+
+norm in the industry, and I am glad that we had the foresight 
+
+to embrace it early. I am also very grateful for the support 
+
+that our commercial stakeholders have shown towards our 
+
+endeavours. Two years ago I said that sustainability was 
+
+becoming a non-negotiable premise for being successful 
+
+in the palm oil sector, and I remain convinced that this is  
+
+the case.
+
+The past few years have been a whirlwind, but I believe we 
+
+have made good progress during the journey. We may not 
+
+be quite as young and fast as we once were, but we have 
+
+emerged as a more mature and wiser organisation – ready 
+
+for a sustainable future in one of the world’s most exciting 
+
+industries. We will no doubt continue to face challenges, 
+
+but I am confident that we are now better prepared for what  
+
+lies ahead.
+
+Ciliandra Fangiono
+
+Chief Executive Officer
+
+First Resources Limited
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+3
+
+
+
+
+
+TARGETS
+
+AND PROGRESS
+
+TARGET
+
+STATUS AS OF DECEMBER 2017
+
+No development on HCS, HCV and peatland
+
+· Achieved
+
+· Such land has been carved out from the Group’s development 
+
+plans since July 2015
+
+· Completed 15 HCS assessments between 2015-2017, covering all 
+
+110,000 hectares of the Group’s development land bank
+
+No development without FPIC
+
+·  Achieved
+
+·   No new complaint on FPIC issues in the reporting period
+
+100% traceability to mills
+
+·   Achieved in 2017
+
+100% traceability to plantation
+
+·  Ongoing
+
+·  96% traceability achieved in 2017
+
+Zero fatalities
+
+·  Not achieved in 2016 and 2017
+
+ 
+
+Additional safety measures to prevent fatalities will be reviewed and 
+
+implemented
+
+Develop plans on GHG emissions reduction
+
+·    Ongoing
+
+·   Completed baseline GHG emissions calculations for our mills
+
+·   Commissioned the development of two additional methane capture 
+
+facilities for operation starting in 2019
+
+Develop plans to phase out paraquat
+
+·  Ongoing
+
+·   Trials to test the viability of alternatives are currently in place
+
+·   Target to progressively phase out usage by 2019
+
+Full ISPO certification
+
+·  Ongoing
+
+·   Target to achieve full certification by 2020
+
+Full RSPO certification
+
+·  Ongoing
+
+·   Target to achieve full certification by 2024 
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+5
+
+
+
+
+
+
+ABOUT
+
+FIRST RESOURCES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ABOUT 
+
+FIRST RESOURCES
+
+First Resources is a vertically integrated producer of crude 
+
+palm oil (CPO) and refined palm oil products. We manage 
+
+over 210,000 hectares of oil palm plantations across the 
+
+Indonesian provinces of Riau, East Kalimantan and West 
+
+Kalimantan, making our company one of the leading palm 
+
+oil producers in the region. First Resources is listed on the 
+
+Singapore Exchange (SGX).
+
+Our total planted area includes almost 30,000 hectares for 
+
+plasma schemes owned by smallholders. We also operate 
+
+15 palm oil mills, one kernel crushing plant, as well as 
+
+downstream businesses including two processing plants 
+
+in Indonesia. In addition to oil palm, we also manage over 
+
+6,319 hectares of rubber plantations in the East Kalimantan 
+
+province of Indonesia.
+
+Financial Position
+
+In 2017, our  revenue was USD 647.0 million, a 12.5% increase 
+
+from 2016 (USD 575.2 million), and our underlying net profit 
+
+rose 20.8% to USD 139.5 million (2016: USD 115.5 million). 
+
+This was a result of higher average selling prices and sales 
+
+volumes, in addition to significant productivity gains resulting 
+
+from an increase in mature planted areas and a recovery from 
+
+the effects of El Niño. In 2016, the Indonesian government’s 
+
+biodiesel mandate was the single biggest demand driver for 
+
+palm oil, injecting an incremental demand of approximately 
+
+1.7 million tonnes for the year. 
+
+Our Marketplace
+
+More than 90% of our 2016 and 2017 crude palm oil (CPO) 
+
+sales were domestic. This is mainly due to our integrated 
+
+business model, in which we process our own upstream 
+
+produce to make refined products and thereby capture 
+
+additional value for our plantations.
+
+The bulk of these refined products are sold to export markets 
+
+through intermediate trading houses. 
+
+UNDERLYING NET PROFIT
+
+REVENUE
+
+REVENUE AND UNDERLYING NET PROFIT
+
+(USD million)
+
+
+
+
+
+CPO SALES VOLUME
+
+Note:  “Underlying net profit” is net profit attributable to owners of the Company 
+
+adjusted to exclude net gains/losses arising from changes in fair value of  
+
+biological assets.
+
+REFINED PRODUCTS SALES VOLUME
+
+
+
+
+
+6%
+
+94%
+
+15%
+
+85%
+
+Note:  CPO sales include intersegment sales from plantations to the 
+
+processing plants. 
+
+EXPORT
+
+DOMESTIC
+
+700
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+615.5
+
+171.6
+
+453.7
+
+95.1
+
+575.2
+
+115.5
+
+647.0
+
+139.5
+
+2017
+
+2017
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+8 
+
+
+CORPORATE GOVERNANCE  
+
+AND OWNERSHIP
+
+First Resources has been listed on SGX since 2007. Eight 
+
+Capital Inc. holds 65% of our company shares, a further 12% 
+
+are held by two other substantial shareholders, while the rest 
+
+are held by the public.
+
+Board Composition
+
+The Board of Directors (the Board) works in accordance with 
+
+the recommendations of the Singapore Code of Corporate 
+
+Governance 2012. The Board is composed of eight members 
+
+and is led by an independent Chairman. There are five 
+
+independent directors, one of whom is a woman. 
+
+The primary functions of the Board are to manage the Group 
+
+in the best interests of shareholders and other stakeholders, 
+
+and to pursue the continual growth of shareholder value. 
+
+Beyond its statutory responsibilities, the Board is also 
+
+responsible for: 
+
+• 
+
+Reviewing and approving the Group’s business 
+
+strategies, key operational initiatives, annual budgets, 
+
+major investments, divestments and funding proposals.
+
+• 
+
+Ensuring that decisions and investments are consistent 
+
+with medium- and long-term strategic goals.
+
+• 
+
+Providing oversight by identifying the principal risks that 
+
+may affect the Group’s businesses and ensuring that 
+
+appropriate systems are in place to manage these risks.
+
+• 
+
+The Group’s corporate governance practices.
+
+The Board of First Resources is committed to sustainability. 
+
+The Board takes into consideration the material environmental, 
+
+social and governance factors identified for the Group in its 
+
+development of business strategies and operations. 
+
+Sustainability risk management is built into the Group’s risk 
+
+management structure, and remains under the purview of 
+
+the Board through the Audit Committee. Key sustainability 
+
+issues and risks, including environmental management, 
+
+labour management, and health and safety, are discussed 
+
+and deliberated during senior management meetings led by 
+
+our CEO. 
+
+The Board is updated quarterly on significant developments 
+
+and emerging issues relating to material sustainability risks 
+
+and concerns. As part of the Group’s risk management 
+
+process, key sustainability risks are included within the 
+
+Group’s risk registers. The overall findings are reported 
+
+to both the Audit Committee and the Board annually. The 
+
+Group’s business objectives, which incorporate the Group’s 
+
+sustainability policies, are translated into both quantitative and 
+
+qualitative performance targets and are cascaded throughout 
+
+the Group's operations.
+
+Code of Conduct, Whistleblowing, and 
+
+Grievance Procedure
+
+Our Code of Conduct provides general guidance for all First 
+
+Resources employees, including management. It outlines 
+
+corporate values and ethical standards that are in line with 
+
+the Group’s vision and mission. Areas covered under the 
+
+Code of Conduct include professionalism and work ethics, 
+
+conflicts of interest, political impartiality, anti-corruption and 
+
+zero tolerance on fraud. 
+
+All employees are required to comply with all applicable 
+
+country laws, regulations and legal requirements. Any breach 
+
+of the Code of Conduct can result in disciplinary action and 
+
+termination of employment. The Code of Conduct is shared 
+
+and communicated to all of our suppliers and other business 
+
+partners.
+
+First Resources has established a whistleblowing policy that 
+
+is overseen by the Board’s Audit Committee. The policy 
+
+guarantees that any stakeholder can confidentially raise 
+
+concerns about ethical breaches or improprieties. 
+
+Furthermore, our newly established grievance procedure 
+
+enables stakeholders to raise sustainability-related concerns 
+
+about our own operations, as well as those of our third party 
+
+suppliers and associated companies.
+
+Transparency
+
+Our emphasis on business transparency grows ever stronger 
+
+as we strive to meet the evolving needs and expectations our 
+
+stakeholders. 
+
+In addition to our annual report, we publish quarterly 
+
+shareholder reports that include detailed financial and 
+
+operational data. First Resources was an early adopter of the 
+
+global reporting initiative (GRI) in the palm oil industry and we 
+
+have reported our sustainability performance biennially since 
+
+2011. We will increase the frequency of our reporting and 
+
+publish an annual sustainability report starting this year.
+
+We launched our Sustainability Policy in July 2015 with a 
+
+commitment to provide regular updates on the implementation 
+
+of the policy to enable stakeholders to track our progress, 
+
+as well as data on traceability and updates on grievances 
+
+filed by stakeholders. So far, we have published five progress 
+
+reports. Starting in 2018, updates will be incorporated into 
+
+our annual sustainability report. 
+
+Every grievance filed is investigated and reported fairly 
+
+and transparently on our grievance tracker which can be 
+
+accessed on our Group website at www.first-resources.
+
+com/sustainability. Periodic updates will be provided on our 
+
+grievance cases.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+9
+
+
+OUR
+
+PRESENCE
+
+
+
+SINGAPORE
+
+PONTIANAK
+
+PEKANBARU
+
+JAKARTA
+
+BALIKPAPAN
+
+Sumatra
+
+Java
+
+Kalimantan
+
+Corporate
+
+Office
+
+Oil Palm
+
+Plantation /
+
+Land Bank
+
+Oil Palm
+
+Plantation
+
+with Mill
+
+Processing
+
+Plant
+
+Rubber
+
+Plantation /
+
+Land Bank
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+10 
+
+
+
+
+15 
+
+Palm oil mills
+
+2  
+
+Processing 
+
+plants
+
+6,319 
+
+hectares of  
+
+rubber plantations
+
+210,001 
+
+hectares of  
+
+oil palm  
+
+plantations
+
+Refining &amp; Biodiesel 
+
+combined capacity of 
+
+850,000 
+
+tonnes per annum
+
+Kernel crushing
+
+capacity of
+
+210,000 
+
+tonnes per annum
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+11
+
+
+OUR
+
+OPERATIONS
+
+
+
+FIELD PLANTING 
+
+After a year in the open field nurseries, seedlings in their 
+
+best conditions are transplanted to the estates and are 
+
+classified as immature palms.
+
+MILLING 
+
+We aim to transport harvested FFB to mills within a 24-
+
+hour window. This ensures that the FFB is milled with 
+
+minimal spoilage, another key control for maximising 
+
+CPO output and yield. The milling process involves the 
+
+separation of the fruitlets from the bunches and the 
+
+crushing of the fruitlets to obtain CPO and PK.
+
+PROCESSING 
+
+Through our refinery, fractionation, biodiesel and kernel 
+
+crushing plants, the CPO and PK are processed 
+
+into higher value palm-based products. This vertical 
+
+integration enables the Group to extract maximum 
+
+value out of our plantation assets.
+
+NURSERY CULTIVATION 
+
+Our palm oil seeds are produced in our dedicated seed 
+
+garden. The seeds are cultivated in our pre-nurseries 
+
+before they are transferred to our open field nurseries. 
+
+Seedling development is closely supervised and a 
+
+stringent culling process is observed.
+
+01
+
+02
+
+05
+
+06
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+12 
+
+
+
+
+UPKEEP 
+
+For the first three years, immature palms undergo an 
+
+intensive upkeep programme which involves fertilisation 
+
+and weeding. The upkeep programme for mature 
+
+palms is largely similar except for the lower frequency 
+
+of certain upkeep work. Our research station provides 
+
+specific agronomy recommendations based on trials 
+
+and tests done on each block of plantation.
+
+HARVESTING 
+
+Harvesting of FFB from the palms begin only when an 
+
+appropriate number of fruitlets start detaching from the 
+
+FFB, indicating optimal ripeness. Optimal ripeness is 
+
+critical in maximising CPO output and yield.
+
+SALES TO CUSTOMERS
+
+Our products are sold to both local and international markets. 
+
+Our product offerings are:
+
+•  Crude Palm Oil
+
+•  Refined Palm Oil Products
+
+•  Biodiesel
+
+•  Palm Kernel Products
+
+03
+
+04
+
+07
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+13
+
+
+OUR
+
+OPERATIONS
+
+Around 78% of our fresh fruit bunches (FFB) are cultivated in 
+
+Riau, where the majority of our mature plantations are located. 
+
+Our West Kalimantan estates are now reaching maturity and 
+
+contributed around 20% of the total FFB produced in 2017. 
+
+Our latest developments in East Kalimantan are primarily new 
+
+plantings, so their FFB contribution is minimal at around 2%. 
+
+In 2017, the Group produced approximately 3 million tonnes 
+
+of FFB (from both nucleus and plasma estates) and over 
+
+700,000 tonnes of CPO.
+
+PLASMA
+
+NUCLEUS
+
+Yields
+
+We are constantly working to enhance our productivity through 
+
+the implementation of best and sustainable management 
+
+practices. However, as in all agribusinesses, our yields and 
+
+extraction rates are dependent on a combination of complex 
+
+factors – including weather and climatic conditions, pests, 
+
+soil types, as well as agricultural practices such as fertilisation 
+
+and harvest efficiency.  
+
+Land and Production
+
+All First Resources plantations are located within the three 
+
+Indonesian provinces of Riau, West Kalimantan and East 
+
+Kalimantan. Our own plantations cover 180,000 hectares, 
+
+and we operate smallholder plasma schemes on another 
+
+30,000 hectares.
+
+Relatively few new plantings took place in 2016 and 2017 – 
+
+just 2,426 hectares in total. This is mainly due to our extensive  
+
+High Carbon Stock (HCS), High Conservation Value (HCV), 
+
+peat assessments and free, prior and informed consent 
+
+(FPIC) processes.
+
+PLANTED AREA
+
+(hectares)
+
+250,000
+
+200,000
+
+150,000
+
+100,000
+
+50,000
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+28,631
+
+165,936
+
+29,237
+
+178,338
+
+29,293
+
+179,398
+
+30,480
+
+179,521
+
+CPO EXTRACTION 
+
+RATE (%)
+
+FFB YIELD PER 
+
+MATURE HA (TONNES)
+
+FFB YIELD AND CPO EXTRACTION RATE
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+18.7
+
+22.8
+
+19.0
+
+22.7
+
+16.8
+
+22.5
+
+17.5
+
+22.2
+
+
+
+
+
+62%
+
+8%
+
+30%
+
+WEST KALIMANTAN
+
+RIAU
+
+EAST KALIMANTAN
+
+2017
+
+PLANTED AREA BY LOCATION
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+14 
+
+
+Our yields are now recovering from the effects of the 
+
+2014–2016 El Niño event, which affected harvests across 
+
+Southeast Asia in 2016. A large proportion of our crops 
+
+have now reached full maturity, and we expect continued 
+
+improvements as a further 16,000 hectares reach maturity 
+
+in 2018.
+
+ 
+
+Our nucleus plantations have historically delivered better yields 
+
+than our plasma smallholder plantations. We will continue to 
+
+share best management practices with our smallholders to 
+
+help them increase productivity.
+
+Mechanisation
+
+We are making significant investments to increase 
+
+mechanisation in the field. Mechanical fertiliser application is 
+
+already a standard practice at most of our estates in Riau and 
+
+Kalimantan, as are motorised vehicles that can operate inside 
+
+plantation blocks for FFB evacuation.
+
+ 
+
+We are also using the Micron Herbi Sprayer for weed control 
+
+across our estates, which enable us to minimise the handling 
+
+of chemicals and the concomitant toxicity risks.
+
+Enhanced Planting Materials 
+
+Our plantation management programme is driven by the 
+
+latest research and development. We have three facilities 
+
+across our operations, the First Resources Research Centre 
+
+based in Riau and two new research stations in West and 
+
+East Kalimantan. These centres focus on innovations that 
+
+target yield improvements, the mitigation of environmental 
+
+impacts and crop management.
+
+ 
+
+First Resources also invests in a number of breeding 
+
+programmes that are aimed at developing higher-yielding 
+
+planting material for our future planting and replanting 
+
+activities. One of our projects involves the use of advanced 
+
+biotechnology, where we are collaborating with a university 
+
+partner on research into marker-assisted oil palm breeding 
+
+selection. The benefit of using molecular/DNA markers over 
+
+conventional breeding procedures is that breeders can 
+
+screen many more plants at a very early stage, which can 
+
+save several years of laborious work in the development of 
+
+new crop varieties. This is particularly useful for crops like oil 
+
+palm, where it can take three to four years, or even more, for 
+
+a fruit phenotype to become fully apparent.
+
+ 
+
+Our seed production unit became operational in 2016 and 
+
+we will start using seeds from our own nursery with higher 
+
+yield potential for our own replanting needs. For 2018 we will 
+
+start rejuvenating our planted area by replanting around 800 
+
+hectares of old plantations.
+
+Downstream Operations
+
+We have added two new mills to our operations since 
+
+2015, opening one in West Kalimantan in 2016, and one 
+
+in East Kalimantan in 2017. In addition to our 15 palm oil 
+
+mills, we own and operate two processing plants in the Riau 
+
+province, one in Pelintung and one in the seafront Integrated 
+
+Processing Complex (IPC) in Dumai. These processing plants, 
+
+which have a combined annual capacity of 850,000 tonnes, 
+
+process CPO into products such as refined, bleached and 
+
+deodorised palm olein, stearin and palm-based biodiesel.
+
+The IPC also houses a kernel crushing plant and a jetty with 
+
+bulking facilities. The kernel crushing plant processes the 
+
+Group’s palm kernels into palm kernel oil and palm kernel 
+
+expeller, and has an annual crushing capacity of 210,000 
+
+tonnes (upgraded from 135,000 tonnes previously).
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUR APPROACH
+
+TO SUSTAINABILITY
+
+
+
+
+
+
+
+
+
+
+
+NO DEFORESTATION, NO PEAT
+
+AND NO EXPLOITATION
+
+Our Values
+
+Our core values guide everything we do. They direct our 
+
+corporate strategies and drive our business goals. We believe 
+
+in doing things right and with consideration for society and 
+
+the communities in which we operate.
+
+Loyalty: We are committed to growing our 
+
+business and fulfilling our obligations to our 
+
+stakeholders, including our employees, business 
+
+partners, customers and shareholders.
+
+Integrity: We are guided by strong corporate 
+
+governance and good business ethics to build a 
+
+foundation of trust, reliability and honesty.
+
+Diligence: We are focused on delivering results 
+
+and achieving our goals while maintaining high 
+
+standards throughout our operations.
+
+Persistence: We have a can-do attitude in facing 
+
+challenges and we seek to achieve industry best 
+
+practices in our operations.
+
+Care: We value relationships and we seek to 
+
+establish long-term partnerships with our people, 
+
+customers, suppliers and the communities we 
+
+operate in.
+
+Our No Deforestation, No Peat,  
+
+No Exploitation (NDPE) Policy
+
+As part of the launch of our ambitious Policy on Sustainable 
+
+Palm Oil in 2015, we made a public commitment to “No 
+
+Deforestation, No Peat and No Exploitation”. By codifying 
+
+our values and commitments on these issues, our NDPE 
+
+Policy has enabled us to take a more systematic approach 
+
+in communicating and engaging with our employees 
+
+and external stakeholders so that the Group’s mandate 
+
+is understood by all. Our efforts to ensure the effective 
+
+implementation of the Policy have continued throughout the 
+
+reporting period.
+
+Our NDPE Policy statement includes the following 
+
+commitments:
+
+Environmental management
+
+• 
+
+No development on HCS forests, HCV or peat areas.
+
+• 
+
+Adopt agronomic best practices to minimise our 
+
+environmental impact, which includes soil, waste and 
+
+pest management.
+
+• 
+
+Develop plans to progressively reduce greenhouse gas 
+
+emissions in our operations.
+
+• 
+
+Observe a strict zero-burning policy in new developments 
+
+and replanting areas.
+
+Community engagement and development
+
+• 
+
+Respect the rights of indigenous and local communities 
+
+to give or withhold their free, prior and informed consent 
+
+(FPIC) for the utilisation of land.
+
+• 
+
+Resolve conflicts in an open, transparent and consultative 
+
+manner.
+
+• 
+
+Drive positive socioeconomic impacts for people and 
+
+communities through job creation and investments 
+
+in plasma projects and community development 
+
+programmes.
+
+Employee relations and workplace
+
+• 
+
+Respect the workplace rights of all our employees, 
+
+including contract and casual workers.
+
+• 
+
+Prohibit the use of forced, trafficked or child labour, 
+
+and any discrimination, harassment or abuse of our 
+
+employees.
+
+• 
+
+Provide a safe and healthy workplace environment for all 
+
+our employees.
+
+Traceable and transparent supply chain
+
+• 
+
+Suspend sourcing from suppliers found to be engaged 
+
+in the development of HCS, HCV or peat areas, in the 
+
+use of fires during land preparations or in the exploitation 
+
+of local communities, and who do not take immediate 
+
+remedial actions.
+
+• 
+
+Maintain constant engagement with suppliers with the 
+
+aim of developing a responsible supply chain.
+
+• 
+
+Establish a traceable and transparent palm oil supply 
+
+chain.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+18 
+
+
+Response to and Impact of our NDPE 
+
+Policy
+
+Although our NDPE Policy had a significant initial impact on 
+
+the Group as it removed a sizeable plantable area from our 
+
+existing land bank, the response from our stakeholders has 
+
+been very encouraging. In general, investors, customers, 
+
+financial institution partners and many international NGOs 
+
+have applauded our commitments, recognising that the 
+
+Policy will deliver greater and more lasting value in the longer 
+
+term. Our ranking on the Zoological Society of London 
+
+(ZSL) Sustainable Palm Oil Transparency Initiative has also 
+
+improved tremendously, from an 18% score to a 62% score 
+
+since 2014. Beyond these positive responses, however, we 
+
+remain mindful of our ongoing task to translate our NDPE 
+
+commitments into action on the ground.
+
+We worked closely with four First Resources buyers that 
+
+undertook mill verification visits at our operations. During 
+
+these visits, the buyers focused on checking our subsidiaries’ 
+
+legal compliance, environmental standards and policies, 
+
+traceability of FFB/CPO, and labour practices including 
+
+health and safety policies, and grievance and whistleblowing 
+
+platforms. Plasma and community development programmes 
+
+were also scrutinised.
+
+We are pleased that the assessments resulted in positive 
+
+reports on our subsidiaries’ performance in these areas. 
+
+Reports of the site visits have been shared with management, 
+
+and where appropriate, recommendations for improvements 
+
+have been implemented accordingly. 
+
+First Resources sustainability teams have also found the visits 
+
+insightful, enabling us to exchange feedback and deepen our 
+
+understanding on new sustainability developments such as 
+
+traceability frameworks and supply chain audits.
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+19
+
+
+NO DEFORESTATION, NO PEAT
+
+AND NO EXPLOITATION
+
+Monitoring and Grievance Procedure
+
+We have two distinct complaints mechanisms: our 
+
+whistleblowing procedure and our grievance procedure. Both 
+
+mechanisms are open to external and internal stakeholders.
+
+Our whistleblowing procedure is designed to ensure that 
+
+employees and contractors have a safe, anonymous 
+
+and straightforward channel to alert us to concerns,  
+
+non-compliances or grievances. The system makes use of 
+
+easy-access tools, including anonymous complaints boxes 
+
+in estates, and SMS, phone and email services. Complaints 
+
+raised through these channels are generally handled locally, 
+
+but can be escalated where necessary. 
+
+We also have a grievance procedure in place for stakeholders 
+
+to register higher level concerns, particularly with regard to 
+
+our NDPE policy, such as those related, deforestation, land 
+
+disputes, human rights or general labour issues. 
+
+As much as we try to set up systems and procedures to 
+
+ensure our operations work in line with our NDPE Policy, we 
+
+recognise that there will always be some level of risk due 
+
+to the complexity of sustainability issues, especially those 
+
+involving communities and land rights. We therefore regard 
+
+our grievance procedure as a tool to help us monitor our 
+
+operations with the assistance of external stakeholders.
+
+In this context, our objective is to have stakeholders 
+
+approach us directly with their concerns so that these can be 
+
+escalated to the corporate level and investigated, remedied or 
+
+addressed at an early stage. We believe that we have learned 
+
+and benefitted as an organisation from every past grievance 
+
+filed, and we appreciate NGOs that have engaged positively 
+
+with us and helped us to address gaps in our operations.
+
+We have therefore revised the way we communicate with 
+
+our stakeholders about grievances. Our new approach is 
+
+designed to be more proactive and systematic, providing 
+
+summarised clarifications to concerns or complaints that 
+
+have been made known to us either through media reports, 
+
+stakeholder feedback, the Roundtable on Sustainable Palm 
+
+Oil (RSPO) complaints mechanism, or directly through our 
+
+own grievance procedure. The aim is to provide factual and 
+
+transparent information to all our stakeholders, regardless of 
+
+whether the Group has fallen short and needs to address 
+
+the gaps, or the concerns prove to be unsubstantiated. For 
+
+transparency purposes, these summarised clarifications are 
+
+available on our website.
+
+Investigation
+
+Verification
+
+Implementation and 
+
+monitoring
+
+Action plan
+
+GRIEVANCE PROCEDURE
+
+Preliminary validation
+
+Fact finding
+
+Is grievance valid?
+
+Complaint and evidence received from  
+
+stakeholders through media reports, whistle  
+
+blowing  or grievance mechanism
+
+Internal/external grievance
+
+Development of action plan
+
+Continuous engagement with 
+
+external parties (constructive 
+
+feedback provided)
+
+Internal
+
+Invalid
+
+Implementation &amp; monitoring  
+
+of progress
+
+Monitoring of progress
+
+Resolution/settlement
+
+Case closed
+
+Clarify with complainant 
+
+and close case with 
+
+explanation
+
+Documentation kept  
+
+for records
+
+External
+
+Valid
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+20 
+
+
+SUSTAINABILITY
+
+MANAGEMENT STRUCTURE
+
+CEO
+
+Head of Sustainability
+
+Regional
+
+Sustainablity
+
+Teams
+
+Sustainability 
+
+Systems, 
+
+Compliance and 
+
+Certification
+
+Sustainability 
+
+Strategy, Planning 
+
+and Implementation
+
+Stakeholder 
+
+Engagement and 
+
+Communications
+
+Supported by Regional 
+
+Operations Teams – upstream 
+
+and downstream
+
+We seek to maintain management systems and structures 
+
+that allow for the robust and effective implementation of 
+
+our sustainability policies. In addition to Board oversight, 
+
+sustainability issues are now regularly addressed in 
+
+quarterly senior management meetings. In addition, we 
+
+have integrated sustainability components throughout our 
+
+management systems. This has included incorporating 
+
+sustainability indicators into the key performance indicators 
+
+for our operations teams.  
+
+Our Head of Sustainability reports directly to the CEO and 
+
+is supported by a team of highly skilled experts. On the 
+
+ground, the regional operations teams provide regular cross-
+
+departmental updates on key issues – including hotspots and 
+
+fire incidents, the status of land clearing, and any incidents of 
+
+conflict with local communities – to the regional and corporate 
+
+sustainability teams.
+
+The sustainability team also makes extensive use of outside 
+
+expertise, especially in emerging areas of sustainability 
+
+knowledge and practice, such as the HCS Approach 
+
+assessments and participatory mapping.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+21
+
+
+Supplier Engagement
+
+• Educate and support suppliers by engaging 
+
+key suppliers to convey our sustainable goals, 
+
+developments and expectations
+
+Supply Chain Traceability
+
+• Encourage accountability of suppliers by 
+
+developing a traceable and transparent supply 
+
+chain
+
+Supplier Assessment
+
+• Influence behaviours of suppliers by including 
+
+sustainability criteria in supplier assessments
+
+Stakeholder Collaboration
+
+• Detect risks in our supply chain by working with 
+
+stakeholders through an established grievance 
+
+procedure
+
+FIRST RESOURCES SUSTAINABLE SUPPLY CHAIN FRAMEWORK
+
+SUPPLY CHAIN ENGAGEMENT
+
+AND TRACEABILITY
+
+One of the key commitments in our Sustainability Policy is 
+
+to ensure that our oil and refined products can be traced to 
+
+their origin – initially to the palm oil mill, but ultimately to the 
+
+plantation. Our goal is to create greater transparency in our 
+
+supply chain and, in the process, decouple our products from 
+
+the risk of deforestation and exploitation. 
+
+In 2017 we employed our Sustainable Supply Chain 
+
+Framework, a multi-pronged strategy comprising supplier 
+
+engagement, 
+
+stakeholder 
+
+collaboration, 
+
+supply 
+
+chain 
+
+traceability and supplier assessment.
+
+Supplier Engagement
+
+In 2015 we completed desktop assessments – including a 
+
+50-kilometre boundary mapping exercise - to determine 
+
+which of our mills have potential high-risk FFB sources due 
+
+to their proximity to protected forests and moratorium areas 
+
+designated by the local government. Over the last 18 months 
+
+we have focused on socialising our NDPE Policy with our 
+
+external suppliers. One-on-one meetings and group sessions 
+
+have been held at our various locations to help suppliers 
+
+understand our policies and the importance of aligning their 
+
+practices with our requirements. To date, all feedback from 
+
+participating suppliers has been supportive and constructive.
+
+Through constant dialogue with our suppliers, especially 
+
+smaller plantations, we hope to build a relationship of mutual 
+
+trust so that they feel confident in sharing information about 
+
+the challenges they face in meeting new sustainability 
+
+standards. A strong rapport with suppliers will strengthen our 
+
+ability to support them in their sustainability efforts without 
+
+compromising on our policies.  
+
+As we have yet to engage all our FFB suppliers, and as new 
+
+suppliers are constantly added to our list, we will continue our 
+
+outreach efforts throughout 2018, with particular focus on 
+
+the West and East Kalimantan regions. Risk assessments will 
+
+also be refreshed for all suppliers focusing on key risk factors, 
+
+such as proximity to forest areas, the peat moratorium, 
+
+fires and hotspots. Once this exercise is completed, we will 
+
+prioritise specific engagement programmes as required.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+22 
+
+
+
+
+Traceability
+
+For CPO to be fully traceable, First Resource requires the 
+
+company name, mill name, mill address and geographical 
+
+coordinates. Where any part of this information is incomplete, 
+
+CPO volumes from that particular supplier is treated as 
+
+“untraceable”, which does not mean that we do not know 
+
+the source but that they do not fulfil the criteria for what we 
+
+consider traceable. Our commercial team works closely with 
+
+our sustainability team to achieve our Group’s traceability 
+
+targets through active engagement with suppliers.
+
+By 2016, approximately 94% of the CPO processed by our 
+
+refineries was traceable to mills. In 2017, we purchased 
+
+6% of our CPO feedstock from external suppliers and we 
+
+managed to obtain all the necessary data to achieve 100% 
+
+traceability to mills.
+
+Of all the FFB processed in our mills in 2017, 93% came 
+
+from our own plantations and plasma schemes, while the 
+
+remaining 7% was sourced from third party suppliers. These 
+
+include independent smallholders, medium-sized outgrowers 
+
+and neighbouring plantation companies. Fruits are also 
+
+purchased from local traders who collect the fruits from the 
+
+surrounding area and sell them to the most convenient mill.
+
+As for traceability to plantations, in 2017 we made progress 
+
+on obtaining data required for tracing FFB sourced from 
+
+third parties. Taken together with the FFB supplies from 
+
+our nucleus and plasma plantations, 96% of our FFB was 
+
+traceable to estates.
+
+In addition, we have published a full list of  our CPO suppliers 
+
+on our website. We believe this will increase transparency 
+
+and help us mitigate the risk of policy non-compliance in our 
+
+supply chain. We have also shared our estate and plasma 
+
+maps with the RSPO.
+
+We assess our suppliers carefully as we need to ensure 
+
+that they can incorporate the requirements of our NDPE 
+
+policy without disruption in the supply chain. Through the 
+
+multi-pronged strategy outlined above, we hope to develop 
+
+a responsible supply chain that is in line with our Group’s 
+
+sustainability goals.
+
+2017
+
+2016
+
+TRACEABILITY STATUS
+
+% Traceability to mill
+
+% Traceability to plantation
+
+94%
+
+100%
+
+90%
+
+96%
+
+
+
+81%
+
+7%
+
+12%
+
+PLASMA
+
+NUCLEUS
+
+THIRD PARTIES
+
+FFB PROCESSED BY SOURCE
+
+2017
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+23
+
+
+Roundtable on Sustainable Palm Oil 
+
+(RSPO) 
+
+First Resources has been a member of the RSPO since 2008. 
+
+The RSPO is the leading global sustainability standard in palm 
+
+oil production and was developed as a partnership between 
+
+private sector stakeholders along the palm oil supply chain 
+
+and civil society organisations.
+
+We have completed audits for two mills in Riau. However, 
+
+we have not been able to complete the RSPO certification 
+
+process due to an outstanding complaint that was raised 
+
+through the RSPO Complaints System in 2011. As of April 
+
+2018, following First Resources’ proactive efforts to resolve 
+
+the complaint, the suspension has been lifted and we have 
+
+resumed the certification process for both mills with a target 
+
+for completion in 2018. We will work towards completing 
+
+certification for all First Resources mills by 2024. 
+
+Indonesia Sustainable Palm Oil (ISPO)
+
+ISPO is a government-led effort to create a system for 
+
+sustainable palm oil production and certification. Its aims 
+
+are to enhance Indonesia’s competitiveness in the global 
+
+palm oil market and reduce greenhouse gas emissions from 
+
+Indonesian oil palm plantations and operations. ISPO is a 
+
+mandatory certification scheme regulated by the Indonesian 
+
+Ministry of Agriculture.
+
+In December 2016, First Resources received an award from 
+
+the Indonesian Ministry of Agriculture for having the third 
+
+largest area covered by ISPO certification in Indonesia.  As 
+
+at 31 December 2017, eight of our units had achieved ISPO 
+
+certification, two additional units have completed audits and 
+
+we aim to complete ISPO certification for all our business 
+
+units by 2020.
+
+International Sustainability Carbon 
+
+Certification (ISCC)
+
+In addition to the RSPO and ISPO sustainability certification 
+
+schemes, we have also certified 27% of our operations 
+
+against the ISCC standard (See page 35).
+
+SUSTAINABLE PALM OIL  
+
+CERTIFICATION
+
+CERTIFICATION STATUS
+
+2014
+
+2015
+
+2016
+
+2017
+
+RSPO 
+
+-
+
+-
+
+-
+
+-
+
+ISPO
+
+27%
+
+43%
+
+43%
+
+43%
+
+Note: 
+
+The above reflects the Group’s certified nucleus area as a percentage of total nucleus area.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+24 
+
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+25
+
+
+
+
+
+
+ENVIRONMENTAL
+
+RESPONSIBILITY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+FOREST MAPPING
+
+AND PROTECTION
+
+Mapping High Carbon Stock Areas
+
+We have developed a broad-based land use planning 
+
+procedure as part of our commitment to halting deforestation. 
+
+This procedure is based on best practices and emerging 
+
+stakeholder-supported standards. We have ceased all 
+
+development of HCS forests as defined by the HCS Approach 
+
+Steering Group. 
+
+To ensure robust implementation of the HCS Approach, 
+
+we have ramped up our internal capacity and engaged 
+
+external experts. In 2015, we sent relevant teams for HCS 
+
+Approach Practitioner Training to guide them through the 
+
+implementation of the HCS assessment process and toolkit. 
+
+We have also engaged independent consultants to verify 
+
+HCS assessments.
+
+Since the introduction of our Policy, we have carried out a 
+
+total of 15 HCS assessments covering all 110,000 hectares of 
+
+our development land bank. These assessments took more 
+
+than two years to complete as extensive work was required 
+
+for ground truthing, patch analysis and initial consultations 
+
+with local communities. We have also conducted Rapid 
+
+Biodiversity Analysis (RBA) for seven of the concessions 
+
+where follow-up analyses were necessary. These analyses 
+
+helped to fine-tune the contours of our HCS areas.
+
+Approximately 20,000 hectares, or 20%, of our existing 
+
+development land bank are currently identified as “No-Go 
+
+Areas”. These are areas with potential HCS, HCV or peat 
+
+content, and have therefore been carved out from the Group’s 
+
+development plans, in accordance with our Sustainability 
+
+Policy.
+
+Our ongoing forest protection efforts will largely be centred 
+
+on ensuring internal compliance in relation to these No-Go 
+
+Areas. We have set up internal control procedures to mitigate 
+
+the risks of accidental non-compliance. We are also using 
+
+satellite imagery, updated on a monthly basis, to detect land-
+
+clearing activities on the ground.
+
+Based on our observations and ground checks we have 
+
+concluded that in most cases where deforestation and/or 
+
+degradation has occurred, it has been carried out by local 
+
+communities clearing land to support their livelihood and 
+
+subsistence farming. Not all communities are aware and 
+
+supportive of the HCS concept, and we see this as the 
+
+biggest challenge to the successful conservation of the HCS 
+
+areas that the Group has set aside from development.
+
+Protecting Endangered Species and HCV 
+
+Areas
+
+The conservation of biodiversity is a core aspect of responsible 
+
+agriculture and landscape planning. Indonesia has a rich 
+
+and immensely varied ecosystem and we acknowledge that 
+
+sustainable palm oil production has an important role to play 
+
+in protecting the habitats of rare and endangered species. Our 
+
+conservation priorities include forest sustainability, riverbank 
+
+integrity, water source preservation, soil health, ecosystem 
+
+vitality, and species preservation.
+
+As part of our commitment to the RSPO Principles and Criteria 
+
+(P&amp;C) and the NPP, all new developments undergo third-party 
+
+HCV assessments undertaken by an expert approved under 
+
+the HCV Licensed Assessor Scheme. Assessors evaluate 
+
+habitat quality, soil conditions, peat presence, river quality, 
+
+and community cultural identity. HCV assessments are made 
+
+publicly available on the RSPO website, as well as on the 
+
+HCV Resource Network portal.
+
+The Group currently has a combined 4,543 hectares of 
+
+identified HCV areas. These areas are not further developed 
+
+into oil palm plantations. We strive to protect HCV areas 
+
+and signboards are placed at strategic spots to highlight 
+
+these areas within our concessions. We have also formed 
+
+conservation taskforces at two of our concessions to monitor 
+
+the condition of their HCV areas more closely.
+
+We have introduced HCV awareness programmes at our 
+
+estates to educate workers and local communities about the 
+
+importance of biodiversity conservation. These programmes 
+
+inform and guide employees and communities on the 
+
+restrictions imposed on HCV areas. 
+
+We have also collaborated with local conservation agencies to 
+
+strengthen the management of rare and endangered species 
+
+found on our estates, and to educate local communities about 
+
+the importance of protecting wildlife. With assistance from 
+
+Balai Konservasi Sumber Daya Alam (BKSDA) a local NGO 
+
+and conservation agent, conservation taskforces have been 
+
+equipped and trained to undertake manual HCV monitoring, 
+
+the handling of orangutans and other wildlife species, and 
+
+the use of conservation software tools. These teams conduct 
+
+daily patrols and record their observations on local wildlife 
+
+species on a regular basis. In addition, cameras have been 
+
+installed to provide 24-hour monitoring. The results are 
+
+subsequently shared with our local conservation partners 
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+28 
+
+
+to gather feedback for improvements to our monitoring 
+
+processes. In one of our HCV areas, at PT. Limpah Sejahtera, 
+
+the taskforce identified new nests in 2017, which indicates a 
+
+thriving orangutan population. Through our monitoring, we 
+
+have found traces of wildlife including protected species in our  
+
+HCV areas.
+
+Rehabilitation works are being conducted to restore 
+
+degraded HCV areas back to their prior conditions. We 
+
+began reforestation work in the second half of 2016 in one 
+
+of our HCV areas, which had been damaged by fires during 
+
+encroachment activities by local communities. To date, more 
+
+than 4,500 trees have been planted in this HCV area, and 
+
+we are looking to cover up to 44 hectares in 2018. We will 
+
+continue reforestation across the remaining affected areas. 
+
+As part of the reforestation we are planting multi-purpose tree 
+
+species that carry economic value, such as Matoa (Pometia 
+
+sp.) and Durian (Durio sp.). 
+
+To protect coastal ecosystems, we are collaborating with 
+
+Pencinta Alam Bahari (Dumai Mangrove Centre) to develop 
+
+a mangrove-planting programme in our seafront integrated 
+
+processing complex. We have planted approximately 3,500 
+
+trees and we are now monitoring their health and growth.
+
+We have a policy against the hunting, injuring, possessing and 
+
+killing of rare and endangered wildlife within our plantations. 
+
+Any infringement of this policy results in disciplinary measures, 
+
+including termination of employment.
+
+
+
+Update on outstanding  
+
+HCV complaint 
+
+In 2010, Indonesian NGO Yayasan International 
+
+Animal Rescue Indonesia submitted a complaint 
+
+to the RSPO Complaints Panel concerning one 
+
+of our subsidiaries. The complaint claimed that 
+
+PT Limpah Sejahtera in West Kalimantan had 
+
+developed land without prior HCV assessment, 
+
+and that this had resulted in the destruction of 
+
+orangutan habitats.
+
+ 
+
+After its review, the Complaints Panel concluded 
+
+that even though PT Limpah Sejahtera had 
+
+conducted HCV assessments prior to its land 
+
+clearances, the assessments were insufficiently 
+
+adequate for determining HCV in the area. On 
+
+the recommendation of the Panel, PT Limpah 
+
+Sejahtera entered into the RSPO Remediation 
+
+and Compensation Procedure to estimate the 
+
+extent of HCV that could have been lost as  
+
+a result.
+
+ 
+
+As part of the procedure, the land use change 
+
+analysis for the concession has been completed 
+
+and the resulting compensation liability has been 
+
+determined by the RSPO. We look forward 
+
+to finalising a compensation project to make 
+
+good this liability and subsequently closing this 
+
+complaint case.
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+29
+
+
+FOREST MAPPING
+
+AND PROTECTION
+
+FAUNA IDENTIFIED IN FIRST RESOURCES’ AREAS OF OPERATION AS OF 2017 
+
+IUCN STATUS 
+
+SCIENTIFIC NAME
+
+COMMON NAME
+
+CRITICALLY ENDANGERED
+
+Buceros vigil
+
+Helmeted hornbill
+
+Manis javanica
+
+Sunda pangolin (Trenggiling)
+
+ENDANGERED
+
+Chitra indica
+
+Indian narrow-headed softshell turtle
+
+Hylobates agilis
+
+Agile gibbon (Owa ungko)
+
+Hylobates albibarbis
+
+Bornean white-bearded gibbon
+
+Hylobates muelleri
+
+Müller’s Bornean gibbon (owa owa)
+
+Meiglyptes tristis
+
+White-rumped woodpecker (Caladi batu)
+
+Nasalis larvatus
+
+Proboscis monkey (Bekantan)
+
+Pongo pygmaeus
+
+Bornean orangutan
+
+Presbytis melalophos
+
+Sumatran surili (Lutung Simpai)
+
+Sus verrucosus
+
+Javan warty pig (Babi Hutan)
+
+VULNERABLE
+
+Aonyx cinerea
+
+Asian small-clawed otter (Berang-berang air)
+
+Amblonyx cinereus
+
+Asian small-clawed otter (Berang-berang air)
+
+Cervus unicolor
+
+Sambar deer (Rusa)
+
+Helarctos malayanus
+
+Sun bear
+
+Leptoptilos javanicus
+
+Lesser adjutant (Bangau tong tong)
+
+Macaca nemestrina
+
+Southern pig-tailed macaque (beruk)
+
+Mulleripicus pulverulentus
+
+Great slaty woodpecker (Pelatuk kelabu besar)
+
+Naja hannah
+
+King cobra
+
+Nycticebus coucang
+
+Greater slow loris
+
+Petinomys vordermanni
+
+Vordermann’s flying squirrel (Bajing terbang pipi jingga)
+
+Presbytis frontata
+
+White-fronted langur (Lutung dahi putih)
+
+Ptilocichla leucogrammica
+
+Bornean wren-babbler (Berencet kalimantan)
+
+Pycnonotus zeylanicus  
+
+Straw-headed bulbul (Cucak rawa)
+
+Padda oryzivora
+
+Java sparrow
+
+Rusa unicolor
+
+Sambar deer (Rusa)
+
+Sus barbatus
+
+Bearded pig
+
+Tarsius bancanus
+
+Horsfield’s tarsier
+
+Tomistoma schlegelii
+
+False gharial
+
+Treron capellei
+
+Large green-pigeon
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+30 
+
+
+IUCN STATUS 
+
+SCIENTIFIC NAME
+
+COMMON NAME
+
+NEAR THREATENED 
+
+Anhinga melanogaster
+
+Oriental darter (Pecuk Ular)
+
+Anthracoceros malayanus
+
+Black hornbill (Kengkareng Hitam)
+
+Argusianus argus
+
+Great argus (Kuau Raja)
+
+Buceros rhinoceros
+
+Rhinoceros hornbill (Rangkong Badak)
+
+Calyptomena viridis
+
+Asian green broadbill (Madi hijau kecil)
+
+Cyornis turcosus
+
+Malaysian blue-flycatcher (Sikatan Melayu)
+
+Dinopium rafflesii
+
+Olive-backed woodpecker (Pelatuk raffles)
+
+Eurylaimus ochromalus
+
+Black-and-yellow broadbill
+
+Lophura ignita
+
+Bornean crested fireback (Sempidan biru)
+
+Lutra lutra
+
+Eurasian otter (Berang-berang)
+
+Megalaima rafflesii
+
+Red-crowned barbet (Takut tutut)
+
+Meiglyptes tukki
+
+Buff-necked woodpecker
+
+Otus rufescens
+
+Reddish scops-owl (Celepuk merah)
+
+Phaenicophaeus diardi
+
+Black-bellied malkoha (Kadalan Beruang)
+
+Psittacula longicauda
+
+Long-tailed parakeet (Betet ekor panjang)
+
+Ratufa bicolor
+
+Black giant squirrel (Bajing Dua Warna)
+
+Ratufa affinis cothurnata
+
+Giant squirrel
+
+Stachyris maculata
+
+Chestnut-rumped babbler
+
+Stachyris leucotis
+
+White-necked babbler (Tepus telinga-putih)
+
+Trachypithecus cristatus
+
+Silvered leaf-monkey (Lutung)
+
+
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+31
+
+
+We remain vigilant in our fire monitoring efforts and regularly 
+
+scrutinise our procedures to ensure that they are fully 
+
+operational at all times.
+
+ 
+
+In 2016, we launched our Integrated Fire Management (IFM) 
+
+programme, which comprises an in-depth workplan for fire 
+
+prevention, preparedness, response and recovery. Both 
+
+corporate headquarters and regional operations teams have 
+
+been heavily involved in the development and execution of 
+
+the workplan. We began the process by identifying high 
+
+risk and high priority areas, as well as the nearest water 
+
+sources at all our locations, and followed up by ensuring 
+
+appropriate measures were put in place on the ground. With 
+
+standard operating procedures (SOPs), mobilisation plans, 
+
+equipment, training, assessments and reviews, we socialised 
+
+the programme throughout the year to ensure that we are 
+
+equipped internally to focus on early detection and respond 
+
+rapidly to extinguish fires.
+
+ 
+
+In 2017, we began external engagement with local 
+
+communities. Given the complexity of varying land rights in 
+
+Indonesia, it is not uncommon that communities live in or 
+
+within close proximity to our concession areas, where fires 
+
+are mainly caused by illegal burning activities carried out by 
+
+these communities, who are engaged in small-scale farming. 
+
+Through our IFM programme we engage with communities 
+
+to raise awareness about fires risks and prevention. We also 
+
+include them in our fire training sessions, where they learn 
+
+best fire management practices.
+
+ 
+
+Even with good weather conditions in 2016 and 2017, we 
+
+intensified our firefighting team’s training programme during 
+
+the period to include more fire management and suppression 
+
+sessions. We have trained over 700 employees in a series 
+
+of firefighting programmes conducted across our estates in 
+
+Riau, West Kalimantan and East Kalimantan, and collectively 
+
+have around 1,500 firefighters assigned within our operations 
+
+to ensure fires are handled rapidly and adequately.
+
+ 
+
+Such measures have enabled us to successfully reduce the 
+
+incidence of fires over the past several years. Where fires 
+
+have occurred, we have managed to reduce their spread to 
+
+less than 1 hectare per incident.
+
+ 
+
+We have also been working to build fire prevention capacities 
+
+in our broader communities. This has included supporting 
+
+local government initiatives in Bengkalis, Riau Province, by 
+
+providing assistance on farming programmes and helping to 
+
+build infrastructure to block the drainage of canals to ensure 
+
+peatlands are kept moist.
+
+
+
+FIRE
+
+PREVENTION
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+32 
+
+
+Once hotspots are detected, on-the-
+
+ground verification is carried out, including 
+
+checks for the presence of smoke from 
+
+watch towers and sending fire-fighting 
+
+teams to the area.
+
+C
+
+In the case of a fire breakout, the 
+
+firefighting team will be mobilised 
+
+immediately and a police report will be 
+
+made for an investigation to be carried 
+
+out.
+
+D
+
+Fire Management and Monitoring Efforts
+
+We create Fire Danger Indices for risk 
+
+assessments. Fire risk levels are clearly 
+
+and prominently displayed in fire prone 
+
+areas during the hot and dry season to 
+
+remind workers to be vigilant.
+
+A
+
+We make use of satellite monitoring 
+
+by overlapping hotspots captured by 
+
+the satellite with our concession maps 
+
+to keep track of the situation on the 
+
+ground.
+
+B
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+33
+
+
+REDUCING CARBON
+
+EMISSIONS
+
+We recognise that climate change has severe and wide-
+
+ranging implications – for our planet’s biodiversity, for our 
+
+shared resources, for communities that have to adapt to 
+
+changing weather patterns, and for companies like ours that 
+
+are profoundly impacted by climatic conditions. We have 
+
+therefore made greenhouse gas (GHG) reduction a central 
+
+part of our Sustainability Policy and are developing plans to 
+
+progressively reduce our GHG emissions.
+
+Measuring our Carbon Footprint
+
+To create a baseline, and to enable us to benchmark against 
+
+our peers, we measure our GHG emissions using the 
+
+RSPO PalmGHG calculator, an informatics tool developed 
+
+in collaboration with scientists and stakeholders to assist 
+
+palm oil producers in quantifying GHG emissions from palm 
+
+oil mills and plantations. The PalmGHG tool calculates net 
+
+GHG emissions by adding the emissions released during 
+
+land clearing, crop production and crop processing and 
+
+subtracting from these emissions the sequestration of carbon 
+
+in the standing crop and in any conservation areas.
+
+In 2015, we completed the calculations for two mills, PT MSSP 
+
+and PT ATS that have been audited for RSPO certification.  
+
+We have also extended the calculations to all of our 15 mills  
+
+in the last two years, and these figures from a baseline 
+
+measure from which we will track our overall emissions 
+
+reduction progress.
+
+NET GHG EMISSIONS 
+
+(tonne CO2e per tonne CPO)
+
+Plantation 
+
+with palm  
+
+oil mill
+
+2015
+
+(PalmGHG 
+
+2.1.1)
+
+2016
+
+(PalmGHG 
+
+3.0.1)
+
+2017
+
+(PalmGHG 
+
+3.0.1)
+
+PT ATS
+
+1.27
+
+1.29
+
+1.22
+
+PT MSSP
+
+1.11
+
+0.64
+
+0.59
+
+For the two mills included in our calculations, we are 
+
+pleased to be able to report an overall combined reduction 
+
+in net carbon emissions of more than 55% since our first 
+
+benchmark in 2015. In terms of carbon per tonne of CPO 
+
+processed, PT MSSP recorded a 47% reduction, and PT ATS 
+
+a 4% reduction. The significant carbon savings in the case 
+
+of PT MSSP was due to the commencement of a methane 
+
+capture facility at its mill, that led to lower POME emissions.
+
+Reduction from Land Use Change
+
+ 
+
+In oil palm production, the biggest contribution to GHG 
+
+emissions derives from land use change, particularly 
+
+clearance of peatland and forest areas. With our new policy 
+
+of not developing on HCS using the HCS Approach and peat 
+
+areas of any depth, we believe our Group’s overall emissions 
+
+will be significantly reduced over the long term.
+
+ 
+
+For our existing plantations on peat, we will implement 
+
+best practices, ensuring groundwater levels are maintained 
+
+at optimal levels to prevent subsidence and carbon 
+
+dioxide emissions. To ensure the effectiveness of our peat 
+
+management strategy, we are monitoring peat subsidence 
+
+and ground water level in sampling locations, as well as 
+
+verifying our existing soil maps. (For more information, see 
+
+page 38).
+
+
+
+
+
+68%
+
+17%
+
+2%
+
+FERTILISER
+
+LAND CLEARING
+
+N2O
+
+GHG EMISSIONS BY SOURCE
+
+7%
+
+6%
+
+METHANE FROM POME
+
+FIELD FUEL USE
+
+MILL FUEL USE
+
+2017
+
+Note:  The above calculations are from two mills, PT MSSP and PT ATS, only.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+34 
+
+
+Reduction from Palm Oil Mill Effluent
+
+ 
+
+Apart from land use change, carbon emissions from palm 
+
+oil mill effluent (POME) – wastewater from FFB processing 
+
+– are the next largest source of GHG emissions in the 
+
+production of palm oil. If released untreated, POME emits 
+
+methane, a powerful GHG. However, POME can be captured 
+
+and used for electricity generation or flared. As part of our 
+
+GHG emission reduction strategy, we have progressively 
+
+established methane capture facilities at our mills.
+
+ 
+
+As at the end of 2017, we have established methane capture 
+
+facilities at three of our mills, and have commissioned 
+
+the construction of two more. These are expected to be 
+
+completed by mid-2019, and will help to significantly reduce 
+
+GHG emissions at our milling operations. Upon completion, 
+
+the estimated reduction in carbon for each palm oil mill will 
+
+be approximately 0.51 tonne C02e per tonne of CPO (ISCC 
+
+methodology).
+
+METHANE CAPTURE FACILITY
+
+2014
+
+2015
+
+2016
+
+2017
+
+Number of mills with 
+
+methane capture 
+
+facility
+
+1
+
+1
+
+2
+
+3
+
+International Sustainability Carbon 
+
+Certification (ISCC)
+
+As of 31 December 2017, 48,344 hectares of our nucleus 
+
+plantations are certified under the ISCC scheme – just 
+
+over 28% of our total plantation area. In addition, six of 
+
+the Group’s 15 palm oil mills and both our processing and 
+
+bulking facilities are ISCC certified. As a result, we are able 
+
+to provide customers with a fully traceable product under 
+
+the ISCC scheme. ISCC was developed for the certification 
+
+of biomass and bioenergy with orientations towards the 
+
+reduction of GHG emissions and non-development of HCS 
+
+and HCV land. ISCC certifications demonstrate compliance 
+
+with the European Union’s Renewable Energy Directives, and 
+
+certified products must provide emissions savings of at least 
+
+25% compared to fossil fuels.
+
+ISCC certified 
+
+48,344
+
+hectares
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+35
+
+
+PEAT
+
+MANAGEMENT
+
+Peatlands are carved out from our plans for new developments 
+
+in accordance with our NDPE Policy, and we have not carried 
+
+out any new plantings on peatland since the introduction of 
+
+our Sustainability Policy in 2015. For existing plantations on 
+
+peat, we are committed to ensuring that we maintain the 
+
+appropriate water level.
+
+ 
+
+As part of our fire prevention and management strategy for 
+
+peatland, we have established a specialised peat taskforce 
+
+that is focused on conducting detailed peat surveys and 
+
+assessments in selected estates that have peat areas. The 
+
+taskforce is led by our research and development department 
+
+and supported by our agronomy and sustainability 
+
+department. Experienced personnel have been recruited to 
+
+expand the skill sets in the taskforce, and specific training has 
+
+been provided to better equip them.
+
+ 
+
+We have begun implementing appropriate monitoring 
+
+and controls throughout our peatlands. To date we have 
+
+conducted soil surveys and peat assessment surveys for 20 
+
+estates and we target to complete this at a Group level by 
+
+mid-2019. The results from the peat surveys are being used 
+
+to enhance our water management plans in peat plantations. 
+
+We regularly record and monitor our piezometers and have 
+
+installed 10 automatic dataloggers to record data every 12 
+
+hours. To manage water tables and levels, we have started 
+
+building canals, water gates and bunds at selected estates. 
+
+Our peat taskforce continues to review our peat plantations 
+
+and implement best practices.
+
+ 
+
+Peatland protection, management and rehabilitation are key 
+
+topics in the sustainability debates and initiatives led by the 
+
+Indonesian government. As we observe the government’s 
+
+mounting efforts to protect carbon-rich peatlands and ensure 
+
+that best peatland management practices are put in place, 
+
+we will remain abreast of any changes to current regulations 
+
+that pertain to peatland and take all necessary steps to 
+
+ensure that we are always in compliance.
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+36 
+
+
+WATER
+
+ACCOUNTABILITY
+
+We use water for two main purposes: milling and nursery 
+
+irrigation. All water is drawn from local rivers or drilled wells. 
+
+In 2017, we used an average of 0.8 tonnes of water per tonne 
+
+of FFB processed. We will continue to maintain our levels to 
+
+be below 1.0 tonnes of water per tonne of FFB to ensure 
+
+efficiency and minimise waste. The reduction of water usage 
+
+was mainly driven by our Riau mills where great efforts have 
+
+been made to implement more robust controls to monitor 
+
+water usage, recycle waste water and, where possible, 
+
+reduce water requirements. In particular, we managed to 
+
+reduce water in the clarification station and kernel station.
+
+ 
+
+We are vigilant in seeking to reduce water usage, and to make 
+
+sure that effluents from our production sites do not impact on 
+
+the quality of local waterways. The majority of wastewater 
+
+from FFB processing, POME, is repurposed as a fertiliser. 
+
+For land application, we keep the biological oxygen demand 
+
+(BOD) level below the legal threshold of 5,000 ppm.
+
+ 
+
+At our one mill that does release effluents into the sea, the 
+
+BOD levels are well below the legal threshold of 100 ppm, 
+
+with average levels of 7.9 ppm.
+
+WATER USAGE AT MILLS
+
+(m3 per tonne of FFB processed)
+
+1.25
+
+1.00
+
+0.75
+
+0.50
+
+0.25
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+1.13
+
+1.11
+
+0.94
+
+0.80
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+37
+
+
+CHEMICALS AND 
+
+PESTICIDE USAGE
+
+We have implemented an integrated pest management 
+
+strategy and only use synthetic pesticides as a last resort. For 
+
+pest control, we use a combination of biological controls and 
+
+good agricultural practices. Since 2016, we have initiated 
+
+breeding projects in Riau and Kalimantan to increase the 
+
+barn owl population in our young estates and reduce our 
+
+dependence on pesticides.
+
+ 
+
+We have reduced the volume of pesticide we use over the 
+
+years. This is partly a result of a stronger focus on good 
+
+agricultural practice and the economical use of pesticide, 
+
+and partly a result of reduced development on peatland, 
+
+especially in West Kalimantan. In 2017 we increased our 
+
+pesticide usage temporarily to clear some excess weeds, 
+
+which were spreading as an unintended result of our past 
+
+fertilisation processes. Having prevented these weeds from 
+
+spreading, we have now ensured that the future application 
+
+of fertiliser will be more effective.
+
+ 
+
+Chemical usage in the field varies depending on total 
+
+new plantings as well as the total hectarage of immature 
+
+plantations. We expect our chemical usage for crop protection 
+
+and maintenance to diminish as our younger plantations 
+
+reach maturity.
+
+ 
+
+In previous reports we have provided data on our total 
+
+pesticide usage. To more accurately monitor the impact of 
+
+our use of pesticides, we will now also measure and report 
+
+on toxicity levels.
+
+TOXICITY 
+
+(per hectare)
+
+1,800
+
+1,600
+
+1,400
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+963
+
+1,147
+
+1,004
+
+1,422
+
+INORGANIC FERTILISER
+
+(tonnes per hectare)
+
+1.00
+
+0.90
+
+0.80
+
+0.70
+
+0.60
+
+0.50
+
+0.40
+
+0.30
+
+0.20
+
+0.10
+
+0.00
+
+2014
+
+2015
+
+2016
+
+2017
+
+0.87
+
+0.90
+
+0.90
+
+0.80
+
+Note:  Toxicity per hectare was calculated based on pesticides used in our 
+
+Riau and West Kalimantan estates.
+
+Paraquat Phase-out
+
+We understand that many stakeholders are concerned with 
+
+the use of paraquat as a pesticide due to its high toxicity levels 
+
+and the potential for its misuse and abuse. While we believe 
+
+that our safety precautions are adequate to prevent any 
+
+accidents or long-term damage, we wish to be responsive to 
+
+these concerns. We have therefore proceeded with trials on 
+
+alternative pesticides, and we are developing plans to phase 
+
+out the use of paraquat progressively by 2019.
+
+Fertiliser Usage
+
+We seek to use organic fertiliser derived from waste products 
+
+to the maximum extent possible. Currently, all POME and 
+
+empty fruit bunches are re-used as organic fertilisers in the 
+
+field.
+
+Fertiliser usage is highly dependent on the age profile of 
+
+plantations, with younger plantings requiring a higher input 
+
+of nutrients. While we are currently seeing higher levels of 
+
+inorganic fertiliser application where we have a younger 
+
+planting profile, we are achieving an overall reduction where 
+
+our plantations have a more mature profile.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+38 
+
+
+PESTICIDES USED  
+
+BY FIRST RESOURCES
+
+PESTICIDES
+
+ACTIVE INGREDIENT
+
+FUNGICIDE
+
+Mancozeb
+
+Copper Oxide
+
+HERBICIDE
+
+2,4-D-(dimethylamine/
+
+dimethylammonium)
+
+Fluroxypyr-meptyl
+
+Glyphosate (isopropylamine/
+
+isopropylammonium)
+
+Metsulfuron-methyl
+
+Paraquat
+
+Triclopur butotyl (triclopyr butoxy 
+
+ethyl ester)
+
+Indaziflam
+
+INSECTICIDE
+
+Amitraz
+
+Acephate
+
+Deltametrin
+
+Fibronil
+
+Carbaryl
+
+Carbofuran
+
+Carbosulfan
+
+Lambda Cyhalothrin
+
+Cypermethrin
+
+RODENTICIDE
+
+Brodifacoum
+
+Coumatetralyl
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+39
+
+
+
+
+
+
+SOCIAL
+
+RESPONSIBILITY
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+COMMUNITY  
+
+ENGAGEMENT
+
+
+
+Land rights, access and compensation are critical aspects of 
+
+our interaction with the communities in our areas of operation. 
+
+Settling these matters is an extremely complex process 
+
+in Indonesia, as it is necessary to navigate a multi-layered 
+
+set of national and provincial permit procedures, as well as 
+
+customary and indigenous land claims that may be undefined 
+
+or conflicting. In all cases, we make every effort to ensure that 
+
+we operate with respect for the rights of indigenous and local 
+
+communities to give or withhold their free, prior and informed 
+
+consent (FPIC) for development or conservation of land to 
+
+which they hold legal and customary rights.
+
+Land Compensation
+
+When our company is granted a location permit (Ijin Lokasi) 
+
+for a new development, we identify the local community and 
+
+conduct socialisation before commencing any operations. 
+
+The socialisation process usually covers a number of key 
+
+aspects. The community is informed about the company’s 
+
+permit and Government and company policies regarding 
+
+land compensation are explained, as are the development 
+
+plans, land valuation approaches, the process of verifying 
+
+land ownership and the requirements for proof of ownership. 
+
+Finally, procedures for land measurements and compensation 
+
+are mapped out.
+
+After socialisation, and the completion of the due diligence 
+
+process, compensation is made to communities who have 
+
+accepted the company’s offer for their land. All land transfers 
+
+are documented and witnessed by members of the local 
+
+government and community leaders.
+
+Conflict Resolution
+
+We support the responsible and peaceful resolution of 
+
+conflicts that arise due to our operations. Land disputes 
+
+involving questions over rightful land ownership are among 
+
+the common conflicts that we experience. We believe in 
+
+working with the relevant stakeholders through a process 
+
+that is agreed upon by all appropriate parties. We are 
+
+committed to resolving conflicts in an open, transparent and  
+
+consultative manner. 
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+42 
+
+
+Our license to operate depends on our ability to maintain 
+
+good relations with our communities: many of our neighbours 
+
+are also our employees, smallholders or suppliers. A large 
+
+proportion of these communities are located in isolated areas 
+
+that lack basic infrastructure and services, including clean 
+
+water, roads and education and employment opportunities. 
+
+We have therefore established an extensive CSR programme 
+
+that targets community growth through three focus areas: 
+
+education, infrastructure and healthcare. 
+
+Our Community Development Officers (CDOs) are the main 
+
+liaison between our company and community members. 
+
+CDO’s engage with local residents on a regular basis to build 
+
+relationships and scope out community members’ ambitions, 
+
+concerns and resources. A CDO’s typical tasks include 
+
+collecting data on living conditions and population numbers, 
+
+brainstorming new development ideas with community 
+
+members, designing and proposing new programmes to 
+
+regional managers and sustainability coordinators, and 
+
+implementing local projects. CDOs also act as ambassadors, 
+
+engaging with local government agencies and presenting 
+
+and explaining First Resources’ operational activities, 
+
+environmental initiatives and social programmes.
+
+Education
+
+First Resources recognises that education is fundamental for 
+
+community growth and wellbeing. We are therefore working 
+
+to increase access to quality formal education for both the 
+
+current and future generations of school-age children in our 
+
+communities. We currently manage 27 schools located within 
+
+our plantation estates. These include 11 kindergartens, 15 
+
+primary schools, two secondary schools and three high 
+
+schools. These institutions employ more than 250 teachers 
+
+and educate more than 2,500 students. The educational 
+
+practices adopted are similar to those at schools managed by 
+
+the local government. The Group contributes to the schools’ 
+
+facilities and teaching aids, such as furniture, computers, 
+
+electricity generators and books. 
+
+As Kalimantan is a new region for us, we are currently working 
+
+to establish and improve facilities in the area to ensure our 
+
+workers and their families are taken care of.
+
+All children of employees working on our estates are provided 
+
+with free education at our schools. In 2016 and 2017, we 
+
+allocated over Rp 5 billion (USD 375,000) for 952 students 
+
+across our operating areas. Scholarships were awarded to 
+
+high-scoring children from less privileged families, having 
+
+been selected by local education authorities.
+
+Teachers normally get a minimum wage based on Indonesian 
+
+regulations that differ from province to province. To motivate 
+
+teachers that work with our communities, and encourage a 
+
+higher standard of teaching, we offer additional incentives, 
+
+such as supplementary income, to more than 500 teachers 
+
+at elementary, primary and secondary school levels.
+
+In addition to awarding scholarships, the Group has 
+
+established an internship programme that is run in 
+
+collaboration with more than 30 Indonesian universities. The 
+
+programme offers students an opportunity to apply what 
+
+they have learned, expand their knowledge and benefit from 
+
+valuable on-the-job experience.
+
+COMMUNITY
+
+INVESTMENT
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+43
+
+
+COMMUNITY
+
+INVESTMENT
+
+Infrastructure
+
+Infrastructural developments foster economic opportunities 
+
+and can thereby boost living standards. As well as enabling 
+
+us to run our own operational activities more efficiently, 
+
+better infrastructure enables local communities, including 
+
+farmers, cooperatives, associations, businesses and local 
+
+government, to have better access to healthcare facilities, 
+
+educational facilities and markets. We consult local village 
+
+leaders on which infrastructure projects to support.
+
+Accessibility to roads, better road conditions and connecting 
+
+bridges will improve the mobility of rural communities and 
+
+support local economies. The roads servicing our operating 
+
+areas – which we share with local communities – are 
+
+maintained to minimise disruption to our operations as well 
+
+as to maintain strong links to the main transport network.
+
+In 2016 and 2017, we have placed greater emphasis on 
+
+improving infrastructure in our operating areas, with particular 
+
+focus on less developed regions in East and West Kalimantan. 
+
+
+
+Healthcare
+
+We have built more than 30 health clinics on our estates. 
+
+These are staffed with qualified medical professionals, 
+
+including at least one doctor and two nurses in each facility. 
+
+The primary purpose of the clinics is to service our employees 
+
+and their families, but they are also open to local community 
+
+members. The operating hours of our clinics are longer than 
+
+those of the health posts managed by local government. 
+
+Medical services such as immunisations for polio, measles 
+
+and tuberculosis are available to communities upon request.
+
+We have also established health-related community 
+
+programmes to improve the wellbeing of local residents 
+
+and increase their awareness about the benefits of healthy 
+
+living. Carried out in cooperation with local health authorities, 
+
+“Be Healthy with First Resources” includes treatments and 
+
+advice for children, pregnant women and the elderly, and also 
+
+coordinates blood donation programmes.
+
+Providing Access to Clean Water
+
+ 
+
+Infrastructure for delivering clean and potable water is 
+
+severely lacking in some of the communities located near 
+
+our operations. We have therefore made assisting villages 
+
+with this basic need a priority within the scope of our CSR 
+
+programme.
+
+ 
+
+Our efforts include the provision of clean water, new piping 
+
+and water tanks, as well as the construction of new water 
+
+wells for villages to ensure constant water flow. This initiative 
+
+reached six villages and benefitted over 400 families in 2016 
+
+and 2017.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+44 
+
+
+SMALLHOLDERS
+
+Palm oil operations are labour intensive, and new 
+
+developments are often in rural areas that may otherwise 
+
+offer few opportunities for local communities. For these 
+
+reasons, we firmly believe that commercial oil palm cultivation 
+
+can be a driver for socioeconomic development and poverty 
+
+alleviation, and we are committed to leading community 
+
+growth in areas where we are operationally present.
+
+Through the FPIC process, which is carried out before any 
+
+new development, we are able to identify communities that 
+
+are interested in partnering with us to develop plantations. We 
+
+work with indigenous and local communities through various 
+
+plasma scheme partnerships. In some of these schemes, 
+
+the company assists plasma smallholders to develop and 
+
+manage their plots until the trees reach a productive age, after 
+
+which the plots are then handed back to the smallholders for 
+
+management. In other partnership schemes, the company 
+
+assumes responsibility for developing and managing the 
+
+plasma plots on behalf of these smallholders, even after 
+
+maturity.
+
+Plasma smallholders profit by selling their harvests to 
+
+the company at government-determined prices. These 
+
+partnerships provide sustainable incomes for thousands of 
+
+smallholders, and this in turn directly impacts local economic 
+
+growth and living standards.
+
+By the end of 2017, we had partnered with more than 14,000 
+
+smallholders on 30,480 hectares of oil palm plantations, 
+
+representing 15% of the total plantation area managed by First 
+
+Resources. Our field officers provide practical training, quality 
+
+seed stock and advice on fertiliser and pesticide procurement 
+
+and usage. They also share new farming technologies, offer 
+
+assistance with land titling and coordinate transportation of 
+
+FFB to palm oil mills.
+
+In addition to implementing best practices at our own nucleus 
+
+estates, we are also committed to raising the sustainability 
+
+standards of our plasma farmers, as smallholders account for 
+
+more than 40% of Indonesia’s palm oil production.
+
+We encourage local enterprise by supporting small business 
+
+owners and farmers living within the vicinity of our operations. 
+
+We provide assistance in the cultivation of food crops such as 
+
+maize and vegetables. We also engage local transporters to 
+
+move our products, and local contractors for land preparation, 
+
+planting and other services that support our operations.
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+45
+
+
+
+
+FEMALE EMPLOYEES BY LEVEL 
+
+(%)
+
+12.0%
+
+10.0%
+
+8.0%
+
+6.0%
+
+4.0%
+
+2.0%
+
+0.0%
+
+SENIOR 
+
+MANAGEMENT
+
+WORKING
+
+CONDITIONS
+
+With more than 18,000 employees across our operations, 
+
+our workforce is the most valuable part of our company. We 
+
+are committed to being a responsible employer and investing 
+
+to ensure our people stay safe, healthy and motivated. We 
+
+believe this means providing continuous and appropriate 
+
+skills training, understanding our employees’ aspirations, 
+
+upholding and protecting their rights, and taking care of their 
+
+welfare by ensuring a safe working environment.
+
+Labour and human rights issues in the palm oil supply chain 
+
+are of increasing concern and remain an industry-wide 
+
+challenge. In response, we are renewing our focus on our 
+
+own labour practices and reviewing them to ensure they are 
+
+robust and fit for purpose in the current labour environment.
+
+In December 2017, we partnered with an existing stakeholder 
+
+to carry out a pilot study on a subsidiary in Riau. The objective 
+
+of the independent assessment was to specifically review our 
+
+labour practices and identify areas for improvement. The pilot 
+
+study focused on labour and human rights, compensation 
+
+and hours, as well as health and safety issues. We identified 
+
+a number of critical issues, including weaknesses in 
+
+our oversight of labour standards among our suppliers, 
+
+contractors and third parties. We also identified a need to 
+
+review existing arrangements with our contract workers 
+
+employed through our contractors, and to improve contract 
+
+terms for casual workers where necessary. These findings are 
+
+proving to be extremely valuable as we work to ensure that 
+
+our policy and practices become increasingly aligned.
+
+Equal Opportunities
+
+We are committed to offering job opportunities based on 
+
+competence, skills and experience – regardless of ethnicity, 
+
+race, religion, or gender. We treat all employees equally and 
+
+reward them fairly based on merit.
+
+Due to the manual nature of many oil palm cultivation and 
+
+processing procedures, most of our plantation and mill 
+
+workers are men. Male workers are typically assigned to 
+
+heavier physical tasks, for example harvesting and carrying 
+
+FFB to trucks for transportation. Women are typically assigned 
+
+tasks including weeding, fertilising and the collection of loose 
+
+fruits that have fallen to the ground. In Kalimantan we have 
+
+introduced motorised vehicles for FFB evacuation. This has 
+
+reduced our reliance on manual labour and consequently 
+
+female workers. Many of these women have been retained 
+
+as permanent employees within the organisation instead.
+
+
+
+49.8%
+
+1.2%
+
+38.6%
+
+PERMANENT EMPLOYEES BY 
+
+GEOGRAPHICAL LOCATION
+
+MIDDLE 
+
+MANAGEMENT
+
+WORKERS
+
+7.1
+
+6.5
+
+6.4
+
+6.1
+
+10.3
+
+10.9
+
+9.3
+
+8.2
+
+8.3
+
+9.7
+
+10.9
+
+9.4
+
+17
+
+16
+
+15
+
+14
+
+
+
+78.9%
+
+1.1%
+
+19.8%
+
+MIDDLE
+
+MANAGEMENT
+
+SENIOR
+
+MANAGEMENT
+
+WORKERS
+
+EMPLOYEES BY CATEGORY
+
+CONTRACT
+
+WORKERS
+
+10.3%
+
+2017
+
+2017
+
+0.2%
+
+0.2%
+
+RIAU
+
+JAKARTA
+
+WEST KALIMANTAN
+
+EAST KALIMANTAN
+
+SINGAPORE
+
+Note:  The aboe represents permanent employees only
+
+17
+
+16
+
+15
+
+14
+
+17
+
+16
+
+15
+
+14
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+46 
+
+
+Training and Development
+
+We enhance our performance in the long term by recruiting, 
+
+developing and retaining talented people. This is why 
+
+we continuously invest to improve our staff development 
+
+programmes and strengthen our human capital.
+
+Every year, the First Resources Learning Centre assesses the 
+
+training needs of our employees. Training is prioritised in line 
+
+with the Group’s business and operational requirements. We 
+
+have established regular training programmes that include 
+
+field assistant training, mill assistant training, administration 
+
+assistant training, and foreman training. Non-regular training 
+
+programmes are also provided on topics such as harvesting 
+
+management, fertilising management, e-plantation systems, 
+
+seven tools management, problem solving and decision 
+
+making. Training is provided by First Resources’ coaches 
+
+and specialist vendors, while continual on-the-job training 
+
+and mentorships are provided by managers and supervisors. 
+
+Since 2015, we have increased the number of training 
+
+programmes and doubled the number of training hours 
+
+provided.
+
+Our Learning Centre also runs five graduate training 
+
+programmes, for field assistants, palm oil mill assistants and 
+
+administration assistants. Spanning five to six months, these 
+
+programmes cover the technical, managerial and interactive 
+
+skills required to work in First Resources’ estates and palm 
+
+oil mills. 
+
+As part of our recruitment drive, we have formed partnerships 
+
+with universities in Java and Sumatra to provide internships 
+
+for undergraduates and vocational school students. Our 
+
+internship programme exposes students to administrative 
+
+duties, plantation activities and palm oil mill operations.
+
+Contract and Casual Workers
+
+The majority of our work force – around 80% – are permanent 
+
+workers in full-time employment. We do hire employees on 
+
+contractual basis, who may then be converted to permanent 
+
+status based on performance. To maintain efficient operations, 
+
+some of our workers, such as seasonal workers, security 
+
+guards and those needed for special construction projects, 
+
+are sourced through third party contractors. This occurs 
+
+mostly in Riau due to the close proximity of town workers 
+
+who are more inclined to undertake part time work. In the 
+
+more rural regions of Kalimantan, we have more permanent 
+
+workers and are currently working on improving their living 
+
+conditions to reduce turnover.
+
+Freedom of Association and Collective 
+
+Bargaining
+
+We support the freedom of all our employees to form 
+
+unions as a channel to communicate their expectations 
+
+and aspirations. Our labour union is part of the KSPSI (the 
+
+Workers’ Union Confederation).
+
+Each subsidiary and its labour union representatives have 
+
+agreed upon a Collective Labour Agreement that aims to 
+
+protect employees’ and employers’ rights and obligations. 
+
+All our employees are protected by the Collective Labour 
+
+Agreement, which covers industrial relations, working hours, 
+
+remuneration, out-of-post assignments and transfers, social 
+
+security and welfare, occupational health and safety, and 
+
+employment termination.
+
+We hold focus group discussions and meetings together with 
+
+labour unions at least once a year. These dialogues enable us 
+
+to take into consideration the aspirations of our employees 
+
+and solicit their suggestions, input and criticism.
+
+Employees are able to convey their aspirations through the 
+
+human resources department. The Group communicates all 
+
+changes related to employment via emails, circulars, or its 
+
+internal portal.
+
+WORKERS BY CONTRACT TYPE
+
+20,000
+
+18,000
+
+16,000
+
+14,000
+
+12,000
+
+10,000
+
+8,000
+
+6,000
+
+4,000
+
+2,000
+
+0
+
+2014
+
+2015
+
+2016
+
+2017
+
+2,313
+
+14,906
+
+2,729
+
+14,945
+
+3,649
+
+14,769
+
+2,441
+
+13,439
+
+PERMANENT WORKERS
+
+CONTRACT WORKERS
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+47
+
+
+WORKING
+
+CONDITIONS
+
+Minimum Wages and Benefits
+
+The minimum wage in Indonesia differs from province to 
+
+province as it is set by provincial and district authorities. 
+
+We comply with minimum wages as stipulated by the 
+
+local authority. Employees have variable components in 
+
+their remuneration that are linked to individual and Group 
+
+performance. We also provide additional benefits to our 
+
+employees, and the benefits received by permanent 
+
+employees differ from those received by non-permanent 
+
+employees.
+
+We keep records of all salaries and money paid to employees 
+
+and contractors. Payment records are acknowledged 
+
+by workers, and clarifications are provided to ensure 
+
+that payment calculations are understood. In addition, 
+
+First Resources pays an annual allowance to permanent 
+
+employees to celebrate festivals. For Muslims, we pay the 
+
+festivity allowance before Hari Raya, and for the rest of our 
+
+employees we pay the allowance at the end of the year.
+
+We aim to house all our employees and their families in a safe 
+
+and healthy living environment on our estates. In addition to 
+
+housing and sanitation, all employees have access to running 
+
+water, electricity, medical care, education, recreational 
+
+facilities and places of worship. Due to the expansion of 
+
+hectarage coming into maturity in West Kalimantan, we are 
+
+currently upgrading and building more housing facilities for 
+
+our employees.
+
+Forced and Child Labour
+
+In accordance with national labour laws and regulations, 
+
+the Group does not tolerate forced or bonded labour, or the 
+
+employment of under-aged children. Our recruitment policies, 
+
+work practices and procedures ensure that all employees 
+
+are above 18 years of age, and that they understand their 
+
+rights and obligations. We actively monitor that children do 
+
+not assist their parents on our estates, as this practice is 
+
+common in many parts of Indonesia. Constant reminders are 
+
+sent to all workers and warnings are issued to those who 
+
+violate our policies. Individuals who continue violating these 
+
+policies face termination.
+
+We provide daycare facilities at our plantations, and have 
+
+recently completed the construction of additional facilities 
+
+to expand our childcare capacity. Employees are required to 
+
+leave their children at these centres before they begin work. 
+
+We have also provided bus services to students in selected 
+
+estates to encourage workers to send their children to 
+
+schools.
+
+
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+48 
+
+
+HEALTH AND
+
+SAFETY
+
+We are committed to providing a safe and healthy working 
+
+environment for all our employees.
+
+We have medical teams in every operational area to support 
+
+the health of our employees and their families. Our medical 
+
+teams conduct routine check-ups and deliver various health 
+
+programmes that aim to increase awareness about the 
+
+benefits of a healthy lifestyle. These include healthy living tips, 
+
+health education, and counselling related to chronic diseases.
+
+Prevention of Accidents
+
+We have progressively implemented an Occupational 
+
+Health and Safety (OHS) Management System across our 
+
+estates. The OHS Management System complies with local 
+
+regulations, including hazard identification and prevention, 
+
+risk assessment and management, programme evaluation 
+
+and continuous management system improvement.
+
+Our Health &amp; Safety Committees, which comprise 
+
+management and staff representatives, are responsible 
+
+for identifying potential hazards, evaluating these potential 
+
+hazards, recommending corrective actions, following up 
+
+on implemented recommendations, providing employees 
+
+with education and training, and developing a grievance 
+
+mechanism. In addition, we maintain an Emergency 
+
+Response Team (ERT) on standby to attend to any immediate 
+
+health and safety-related crisis.
+
+Health and safety topics are presented to employees and 
+
+discussed daily in morning meetings. In addition, we have 
+
+OHS manuals and procedures, working instructions, first aid 
+
+practices, emergency responses and other health and safety 
+
+activities to ensure all employees are aware of the health and 
+
+safety risks related to their jobs. OHS considerations are also 
+
+incorporated into the Collective Labour Agreement with the 
+
+workers’ union. These include provisions for equipping estate 
+
+workers with personal protective equipment (PPE) and the 
+
+establishment of Health &amp; Safety Committees.
+
+We aim to reduce accidents, injuries and fatalities in our 
+
+operations. All work-related accidents are recorded and 
+
+evaluated. Recommendations are then implemented to 
+
+prevent or reduce the reoccurrence of similar incidents. We 
+
+are pleased to record a significant accident reduction in 
+
+Riau of around 40% over the past five years due to vigilant 
+
+socialisation of safety practices. We will be exploring the 
+
+causes of increases in Kalimantan, where accidents appear 
+
+to be on the rise, and will adopt similar approaches as in Riau.
+
+ 
+
+The main hazards in plantations are falling sharp fronds 
+
+and bunches during the harvesting process, and sharp 
+
+fronds on the ground. These are associated with relatively 
+
+short-term injuries such as cuts and thorn-pricks, so our 
+
+severity rate remains consistently low. To minimise the risk 
+
+of injury, all harvesters are provided with safety helmets, 
+
+gloves and boots. Hazards in palm oil mills include overhead 
+
+sling conveyors, slippery floors, hot steam and loud noises. 
+
+Workers are regularly reminded to be vigilant and are briefed 
+
+during daily shift meetings on any potential health and safety 
+
+issues (e.g. risk of fires).
+
+LOST TIME ACCIDENT RATE
+
+(per 1,000,000 man-hours)
+
+2014
+
+2015
+
+2016
+
+2017
+
+146.5
+
+139.2
+
+156.9
+
+100.8
+
+Note:
+
+1)  Lost time accident rate (LTAR) measures the productivity loss due to 
+
+accidents and is calculated as follows: accident rate x 1,000,000 man 
+
+hours divided by total working hours (number of employees x 173 hours x 
+
+12 months).
+
+2)  LTAR is recorded when an employee is given leave of absence from clinic 
+
+due to a workplace accident.
+
+3)  Data above are for our Riau operations only.
+
+Fatalities
+
+Although we make every effort to ensure that employees 
+
+are not hurt, we regret to report that a total of five deaths 
+
+occurred in our operations in the 2016–2017 period. Four of 
+
+these were traffic accidents in West Kalimantan and one was 
+
+an accident in a vehicle workshop in Riau. We are reviewing 
+
+the actions required to ensure that fatal accidents do not 
+
+occur in the future.
+
+NUMBER OF FATALITIES
+
+2014
+
+2015
+
+2016
+
+2017
+
+2
+
+3
+
+2
+
+3
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+49
+
+
+Economic
+
+Income statement
+
+(USD million)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Sales
+
+647.0
+
+575.2
+
+453.7
+
+615.5
+
+Profit before tax
+
+208.9
+
+183.1
+
+144.8
+
+251.9
+
+Net profit (underlying)
+
+139.5
+
+115.5
+
+95.1
+
+171.6
+
+Balance sheet
+
+(USD million)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Total assets
+
+1,731.0
+
+1,699.6
+
+1,568.2
+
+1,997.9
+
+Total liabilities
+
+708.8
+
+773.4
+
+793.8
+
+882.1
+
+Total equity
+
+1,022.2
+
+926.2
+
+774.4
+
+1,115.8
+
+Segmented sales adjusted to  
+
+exclude inter-segment sales
+
+(USD million)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Plantations and palm oil mills
+
+46.7
+
+76.8
+
+164.5
+
+209.3
+
+Refinery and processing
+
+600.3
+
+498.4
+
+289.2
+
+406.3
+
+Land and Production
+
+Oil palm plantations (hectares)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Total planted area
+
+210,001
+
+208,691
+
+207,575
+
+194,567
+
+Mature
+
+173,409
+
+158,597
+
+147,905
+
+132,220
+
+Immature
+
+36,592
+
+50,094
+
+59,670
+
+62,347
+
+Nucleus planted area
+
+179,521
+
+179,398
+
+178,338
+
+165,936
+
+Mature
+
+147,377
+
+136,798
+
+128,042
+
+114,377
+
+Immature
+
+32,144
+
+42,600
+
+50,296
+
+51,559
+
+Plasma planted area
+
+30,480
+
+29,293
+
+29,237
+
+28,631
+
+Mature
+
+26,032
+
+21,799
+
+19,863
+
+17,843
+
+Immature
+
+4,448
+
+7,494
+
+9,374
+
+10,788
+
+Palm oil mills
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Total
+
+15
+
+14
+
+13
+
+12
+
+Riau
+
+11
+
+11
+
+11
+
+10
+
+West Kalimantan
+
+3
+
+3
+
+2
+
+2
+
+East Kalimantan
+
+1
+
+-
+
+-
+
+-
+
+Production volume (tonnes)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Fresh fruit bunches (FFB) harvested
+
+3,037,842
+
+2,661,554
+
+2,804,606
+
+2,469,884
+
+FFB - Nucleus
+
+2,682,944
+
+2,367,767
+
+2,530,357
+
+2,212,006
+
+FFB – Plasma
+
+354,898
+
+293,787
+
+274,249
+
+257,878
+
+FFB purchased third parties
+
+236,566
+
+253,148
+
+291,093
+
+345,479
+
+Crude palm oil (CPO)
+
+702,368
+
+634,941
+
+687,248
+
+630,988
+
+Palm kernel (PK)
+
+170,664
+
+148,270
+
+160,021
+
+145,811
+
+BASE
+
+DATA
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+50 
+
+
+Productivity
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+FFB yield per mature hectare (tonnes)
+
+17.5
+
+16.8
+
+19.0
+
+18.7
+
+FFB yield – nucleus
+
+18.2
+
+17.3
+
+19.8
+
+19.3
+
+FFB yield – plasma
+
+13.6
+
+13.5
+
+13.8
+
+14.5
+
+CPO yield per mature hectare (tonnes)
+
+3.9
+
+3.8
+
+4.3
+
+4.3
+
+Extraction rate – crude palm oil (%)
+
+22.2
+
+22.5
+
+22.7
+
+22.8
+
+Extraction rate – palm kernel (%)
+
+5.4
+
+5.3
+
+5.3
+
+5.3
+
+FFB sources (%)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Nucleus
+
+81%
+
+81%
+
+81%
+
+78%
+
+Plasma
+
+12%
+
+10%
+
+9%
+
+9%
+
+Third parties
+
+7%
+
+9%
+
+10%
+
+12%
+
+Certification
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+ISPO certified – nucleus plantations (hectares)
+
+76,690
+
+76,690
+
+76,690
+
+44,237
+
+ISPO certified – palm oil mills
+
+8
+
+8
+
+8
+
+6
+
+ISCC certified – nucleus plantations (hectares)
+
+48,344
+
+48,344
+
+48,344
+
+48,344
+
+Environment
+
+Water consumption
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Water consumption at mills (m3 per tonne of FFB processed)
+
+0.80
+
+0.94
+
+1.11
+
+1.13
+
+Pesticides
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Toxicity per hectare
+
+1,422
+
+1,004
+
+1,147
+
+963
+
+Effluents
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+BOD levels river discharge (mg/L) 
+
+7.9
+
+5.8
+
+14.0
+
+-
+
+BOD levels land application (mg/L)
+
+Riau
+
+910
+
+831
+
+1,672
+
+1,365
+
+West Kalimantan
+
+1,854
+
+2,479
+
+2,363
+
+2,658
+
+Fertiliser type
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Inorganic fertiliser (tonnes)
+
+156,119
+
+170,279
+
+159,777
+
+143,561
+
+Empty fruit bunches (tonnes)
+
+449,497
+
+384,288
+
+496,324
+
+449,988
+
+Palm oil mill effluent (m3)
+
+2,057,817
+
+1,929,636
+
+2,039,305
+
+1,676,768
+
+Inorganic fertiliser (tonnes per hectare)
+
+0.80
+
+0.90
+
+0.90
+
+0.87
+
+Energy consumption from renewable sources
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Palm kernel shell (tonnes)
+
+126,376
+
+117,756
+
+126,403
+
+102,311
+
+Energy (gigajoules)
+
+2,627,352
+
+2,448,141
+
+2,627,908
+
+2,127,046
+
+Palm fibre (tonnes)
+
+393,799
+
+362,231
+
+386,832
+
+327,455
+
+Energy (gigajoules)
+
+7,773,599
+
+7,150,439
+
+7,636,075
+
+6,463,962
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+51
+
+
+Social
+
+Workplace
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Total employees
+
+18,418
+
+15,880
+
+17,674
+
+17,219
+
+Permanent
+
+14,769
+
+13,439
+
+14,945
+
+14,906
+
+Contract
+
+3,649
+
+2,441
+
+2,729
+
+2,313
+
+Permanent employees by geographical location
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Jakarta
+
+176
+
+159
+
+162
+
+158
+
+Riau
+
+7,350
+
+7,229
+
+8,186
+
+9,220
+
+West Kalimantan
+
+5,695
+
+5,027
+
+5,411
+
+4,451
+
+East Kalimantan
+
+1,520
+
+995
+
+1,161
+
+1,051
+
+Singapore
+
+28
+
+29
+
+25
+
+26
+
+Permanent employees by category
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Senior management
+
+42
+
+46
+
+47
+
+49
+
+Middle management
+
+195
+
+202
+
+225
+
+231
+
+Workers
+
+14,532
+
+13,191
+
+14,673
+
+14,626
+
+Permanent employees by gender
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Senior management - male
+
+39
+
+43
+
+44
+
+46
+
+Senior management - female
+
+3
+
+3
+
+3
+
+3
+
+Middle management - male
+
+175
+
+180
+
+204
+
+212
+
+Middle management - female
+
+20
+
+22
+
+21
+
+19
+
+Male workers
+
+13,326
+
+11,915
+
+13,075
+
+13,244
+
+Female workers
+
+1,206
+
+1,276
+
+1,598
+
+1,382
+
+Total male employees
+
+13,540
+
+12,138
+
+13,323
+
+13,502
+
+Total female employees
+
+1,229
+
+1,301
+
+1,622
+
+1,404
+
+Legal minimum wages for  
+
+plantations by region  
+
+(IDR per month)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Riau
+
+2,516,812
+
+2,325,000
+
+2,125,500
+
+1,875,000
+
+West Kalimantan - Sanggau
+
+1,973,425
+
+1,823,025
+
+1,675,000
+
+1,500,000
+
+West Kalimantan - Ketapang
+
+2,480,000
+
+2,110,000
+
+1,980,000
+
+1,812,000
+
+East Kalimantan - Kubar
+
+2,487,500
+
+2,287,926
+
+2,030,016
+
+1,920,000
+
+Training and development
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+No. of programmes
+
+120
+
+77
+
+102
+
+83
+
+No. of participants
+
+2,326
+
+1,979
+
+2,654
+
+1,742
+
+No. of training hours
+
+25,156
+
+10,248
+
+10,432
+
+12,740
+
+BASE
+
+DATA
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+52 
+
+
+Health and safety
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Fatalities
+
+3
+
+2
+
+3
+
+2
+
+Lost time accident rate (per 1,000,000 man-hours)
+
+Riau
+
+100.8
+
+156.9
+
+139.2
+
+146.5
+
+West Kalimantan
+
+61.9
+
+51.9
+
+-
+
+-
+
+East Kalimantan
+
+147.9
+
+23.2
+
+-
+
+-
+
+Severity rate
+
+Riau 
+
+2.4
+
+2.1
+
+-
+
+-
+
+West Kalimantan
+
+1.4
+
+1.4
+
+-
+
+-
+
+East Kalimantan
+
+1.2
+
+1.0
+
+-
+
+-
+
+Community
+
+Community development programmes (%)
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Culture, environment and health
+
+15
+
+23
+
+42
+
+42
+
+Education
+
+42
+
+37
+
+57
+
+57
+
+Economic development and others
+
+43
+
+40
+
+1
+
+1
+
+Education programme
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+No. of student scholarship recipients
+
+467
+
+334
+
+476
+
+476
+
+No. of teacher income supplement recipients
+
+279
+
+256
+
+259
+
+249
+
+No. of internship recipients
+
+315
+
+278
+
+315
+
+349
+
+Schools funded
+
+27
+
+27
+
+31
+
+31
+
+Health programme
+
+FY2017
+
+FY2016
+
+FY2015
+
+FY2014
+
+Clinics funded
+
+33
+
+33
+
+29
+
+29
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+53
+
+
+The Global Reporting Initiative (GRI) is a multi-stakeholder standard for sustainability reporting, providing guidance on 
+
+determining report content and indicators. GRI is the first and most widely adopted global standard for sustainability reporting 
+
+and has been designed to enhance the global comparability and quality of information on environmental and social impacts, 
+
+thereby enabling greater transparency and accountability of organisations. Sustainability reporting based on the GRI Standards 
+
+should provide a balanced and reasonable representation of an organisation’s positive and negative contributions towards the 
+
+goal of sustainable development.
+
+There are two options for preparing a report in accordance with the GRI Standards: Core and Comprehensive. This report has 
+
+been prepared in accordance with the GRI Standards: Core option.
+
+GRI 101: Foundation 2017
+
+GRI 102: General Disclosures 2017
+
+Disclosure
+
+Page or reason for omission
+
+Organisational Profile
+
+102-1 
+
+Name of organisation
+
+About First Resources 
+
+102-2
+
+Activities, brands, products, and services
+
+About First Resources 
+
+102-3
+
+Location of headquarters
+
+Contact 
+
+102-4
+
+Location of operations
+
+About First Resources 
+
+102-5
+
+Ownership and legal form
+
+Corporate governance and ownership 
+
+102-6
+
+Markets served
+
+Our marketplace 
+
+102-7
+
+Scale of the organisation
+
+About First Resources
+
+102-8
+
+Information on employees and other workers
+
+Working conditions
+
+102-9
+
+Supply chain
+
+Supply chain engagement and traceability
+
+102-10
+
+Significant changes to the organisation and its supply 
+
+chain
+
+No major changes in the reporting period
+
+102-11
+
+Precautionary Principle or approach
+
+Forest mapping and protection 
+
+Fire prevention
+
+Reducing carbon emission
+
+Community engagement 
+
+102-12
+
+External initiatives
+
+CEO’s message
+
+Targets and Progress
+
+Sustainable palm oil certification
+
+Reducing carbon emissions
+
+102-13
+
+Membership of associations
+
+CEO’s message
+
+Sustainable palm oil certification
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+CEO’s message
+
+102-15
+
+Key impacts, risks, and opportunities
+
+Our approach to sustainability
+
+About the report 2017
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of behaviour Corporate governance and ownership
+
+Our approach to sustainability 
+
+102-17
+
+Mechanisms for advice and concerns about ethics
+
+Corporate governance and ownership
+
+Our approach to sustainability
+
+GRI
+
+INDEX
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+54 
+
+
+Governance
+
+102-18
+
+Governance structure
+
+Corporate governance and ownership 
+
+Sustainability management structure
+
+102-19
+
+Delegating authority
+
+Sustainability management structure
+
+102-20
+
+Executive-level responsibility for economic, 
+
+environmental, and social topics
+
+Sustainability management structure
+
+102-21
+
+Consulting stakeholders on economic, environmental, 
+
+and social topics
+
+Our approach to sustainability
+
+Community engagement 
+
+Stakeholder engagement table
+
+102-22
+
+Composition of the highest governance body and its 
+
+committees
+
+Corporate governance and ownership 
+
+Annual Report 2017
+
+102-23
+
+Chair of the highest governance body
+
+Corporate governance and ownership 
+
+102-24
+
+Nominating and selecting the highest governance 
+
+body
+
+Annual Report 2017 
+
+102-25
+
+Conflicts of interest
+
+Annual Report 2017 
+
+102-26
+
+Role of highest governance body in setting purpose, 
+
+values, and strategy
+
+Corporate governance and ownership 
+
+Annual Report 2017 
+
+102-28
+
+Evaluating the highest governance body’s 
+
+performance
+
+Annual Report 2017 
+
+102-30
+
+Effectiveness of risk management processes
+
+Annual Report 2017 
+
+102-35
+
+Remuneration policies
+
+Annual Report 2017 
+
+102-36
+
+Process for determining remuneration
+
+Annual Report 2017 
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder engagement table
+
+102-41
+
+Collective bargaining agreements
+
+Freedom of association and collective bargaining 
+
+Note: Percentage of employees covered currently not 
+
+available
+
+102-42
+
+Identifying and selecting stakeholders
+
+Our No Deforestation, No Peat, No Exploitation 
+
+(NDPE) Policy
+
+Supply chain engagement and traceability
+
+Smallholders 
+
+102-43
+
+Approach to stakeholder engagement
+
+Supply chain engagement and traceability
+
+Smallholders 
+
+Stakeholder engagement table
+
+102-44
+
+Key topics and concerns raised
+
+Supply chain engagement and traceability
+
+Environmental responsibility
+
+Peat management 
+
+Chemicals and pesticide usage
+
+Community engagement
+
+Working conditions
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+55
+
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated financial 
+
+statements
+
+Annual Report 2017
+
+102-46
+
+Defining report content and topic Boundaries
+
+About the report
+
+102-47
+
+List of material topics
+
+About the report
+
+102-48
+
+Restatements of information
+
+About the report
+
+102-49
+
+Changes in reporting
+
+About the report
+
+102-50
+
+Reporting period
+
+About the report
+
+102-51
+
+Date of most recent report
+
+About the report
+
+102-52
+
+Reporting cycle
+
+About the report
+
+102-53
+
+Contact point for questions regarding the report
+
+Contact 
+
+102-54
+
+Claims of reporting in accordance with the GRI 
+
+Standards
+
+GRI index 
+
+102-55
+
+GRI content index
+
+GRI index
+
+102-56
+
+External assurance
+
+We have not engaged third party assurance
+
+About the report
+
+Material Topics
+
+GRI Standard
+
+Disclosure
+
+Page or reason for omission
+
+ECONOMIC
+
+Economic Performance
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1 
+
+Explanation of the material topic and its 
+
+Boundary
+
+About First Resources
+
+Annual Report 2017
+
+103-2
+
+The management approach and its 
+
+components
+
+Annual Report 2017
+
+103-3
+
+Evaluation of the management approach
+
+Annual Report 2017
+
+GRI 201: Economic 
+
+Performance 2017
+
+201-1
+
+Direct economic value generated and 
+
+distributed
+
+About First Resources
+
+Annual Report 2017
+
+Market Presence
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Minimum wages and benefits
+
+103-2
+
+The management approach and its 
+
+components
+
+Minimum wages and benefits
+
+103-3
+
+Evaluation of the management approach
+
+Minimum wages and benefits 
+
+GRI 202: Market 
+
+Presence 2017
+
+202-1
+
+Ratios of standard entry level wage by 
+
+gender compared to local minimum wage
+
+Minimum wages and benefits
+
+Base data – legal min wages for 
+
+plantations by region 
+
+GRI
+
+INDEX
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+56 
+
+
+Indirect Economic Impacts
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Social responsibility
+
+Smallholders
+
+103-2
+
+The management approach and its 
+
+components
+
+Social responsibility
+
+Smallholders
+
+103-3
+
+Evaluation of the management approach
+
+Social responsibility
+
+Smallholders 
+
+GRI 203: Indirect 
+
+Economic Impacts 
+
+2017
+
+203-1
+
+Infrastructure investments and services 
+
+supported
+
+Social responsibility
+
+Smallholders 
+
+Base data – community development 
+
+programmes (%) 
+
+203-2 
+
+Significant indirect economic impacts
+
+Social responsibility 
+
+Smallholders 
+
+Procurement Practices
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Supply chain engagement and traceability
+
+Smallholders
+
+103-2
+
+The management approach and its 
+
+components
+
+Supply chain engagement and traceability 
+
+Smallholders 
+
+103-3
+
+Evaluation of the management approach
+
+Supply chain engagement and traceability 
+
+Smallholders 
+
+Anti-corruption
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Code of Conduct, whistleblowing, and 
+
+grievance procedure 
+
+103-2
+
+The management approach and its 
+
+components
+
+Code of Conduct, whistleblowing, and 
+
+grievance procedure
+
+103-3
+
+Evaluation of the management approach
+
+Code of Conduct, whistleblowing, and 
+
+grievance procedure
+
+ENVIRONMENTAL
+
+Materials
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Our operations
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability
+
+Our operations
+
+103-3
+
+Evaluation of the management approach
+
+Our operations
+
+GRI 301: Materials 
+
+2017
+
+301-1
+
+Materials used by weight or volume
+
+Our operations 
+
+Water
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Environmental responsibility 
+
+Water accountability
+
+103-2
+
+The management approach and its 
+
+components
+
+Water accountability
+
+103-3
+
+Evaluation of the management approach
+
+Water accountability
+
+GRI 303: Water 
+
+2017
+
+303-1
+
+Water withdrawal by source
+
+Water accountability
+
+Base data – water consumption 
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+57
+
+
+Biodiversity
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Environmental responsibility
+
+103-2
+
+The management approach and its 
+
+components
+
+CEO’s message
+
+Our approach to sustainability
+
+Environmental responsibility
+
+103-3
+
+Evaluation of the management approach
+
+Environmental responsibility
+
+GRI 304: 
+
+Biodiversity 2017
+
+304-1
+
+Operational sites owned, leased, 
+
+managed in, or adjacent to, protected 
+
+areas and areas of high biodiversity value 
+
+outside protected areas
+
+Environmental responsibility
+
+304-2
+
+Significant impacts of activities, products, 
+
+and services on biodiversity
+
+Environmental responsibility
+
+304-3
+
+Habitats protected or restored
+
+Environmental responsibility
+
+304-4
+
+IUCN Red List species and national 
+
+conservation list species with habitats in 
+
+areas affected by operations
+
+Fauna identified in First Resources’ areas 
+
+of operation as of 2017
+
+Emissions
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Indonesia Sustainable Palm Oil (ISPO) 
+
+Reducing carbon emissions
+
+103-2
+
+The management approach and its 
+
+components
+
+Targets and progress 
+
+Our approach to sustainability 
+
+Reducing carbon emissions
+
+103-3
+
+Evaluation of the management approach
+
+Reducing carbon emissions
+
+GRI 305: Emissions 
+
+2017
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+Reducing carbon emissions
+
+305-2
+
+Energy indirect (Scope 2) GHG emissions
+
+Reducing carbon emissions
+
+305-3
+
+Other indirect (Scope 3) GHG emissions
+
+Reducing carbon emissions
+
+305-4
+
+GHG emissions intensity
+
+Reducing carbon emissions 
+
+305-5
+
+Reduction of GHG emissions
+
+Reducing carbon emissions
+
+Effluents and Waste
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Reducing carbon emissions 
+
+Water accountability
+
+103-2
+
+The management approach and its 
+
+components
+
+Reducing carbon emissions
+
+Fertiliser usage 
+
+Water accountability 
+
+103-3
+
+Evaluation of the management approach
+
+Reducing carbon emissions
+
+Water accountability 
+
+GRI 306: Effluents 
+
+and Waste 2017
+
+306-1
+
+Water discharge by quality and destination Water accountability 
+
+Base data – effluents 
+
+306-3
+
+Significant spills
+
+No significant spills
+
+Supplier Environmental Assessment
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Supply chain engagement and traceability
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability
+
+Supply chain engagement and traceability 
+
+103-3
+
+Evaluation of the management approach
+
+Supply chain engagement and traceability 
+
+GRI
+
+INDEX
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+58 
+
+
+SOCIAL
+
+Employment
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Working conditions 
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability 
+
+Working conditions
+
+Stakeholder engagement table
+
+103-3
+
+Evaluation of the management approach
+
+Working conditions
+
+GRI 401: 
+
+Employment 2017
+
+401-2
+
+Benefits provided to full-time employees 
+
+that are not provided to temporary or part-
+
+time employees
+
+Working conditions
+
+Labour/Management Relations
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Working conditions
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability
+
+Working conditions
+
+103-3
+
+Evaluation of the management approach
+
+Working conditions 
+
+Occupational Health and Safety
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Health and safety
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability
+
+Working conditions 
+
+Health and safety
+
+103-3
+
+Evaluation of the management approach
+
+Health and safety 
+
+GRI 403: 
+
+Occupational Health 
+
+and Safety 2017
+
+403-1
+
+Workers representation in formal joint 
+
+management-worker health and safety 
+
+committees
+
+Health and safety 
+
+403-2
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-related 
+
+fatalities
+
+Health and safety
+
+Base data – health and safety 
+
+Training and Education
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Training and development 
+
+103-2
+
+The management approach and its 
+
+components
+
+Training and development 
+
+103-3
+
+Evaluation of the management approach
+
+Training and development 
+
+GRI 404: Training 
+
+and Education  
+
+2017
+
+404-1
+
+Average hours of training per year per 
+
+employee
+
+Base data - training and development 
+
+404-2
+
+Programmes for upgrading employee skills 
+
+and transition assistance programmes
+
+Training and development 
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+59
+
+
+Diversity and Equal Opportunity
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Equal opportunities 
+
+103-2
+
+The management approach and its 
+
+components
+
+Code of Conduct, whistleblowing, and 
+
+grievance procedure 
+
+Our approach to sustainability 
+
+Equal opportunities 
+
+103-3
+
+Evaluation of the management approach
+
+Equal opportunities 
+
+GRI 405: Diversity 
+
+and Equal 
+
+Opportunity 2017
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+Board composition 
+
+Equal opportunities 
+
+Base data - permanent employees by 
+
+gender 
+
+Non-discrimination
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Equal opportunities 
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability 
+
+Equal opportunities 
+
+103-3
+
+Evaluation of the management approach
+
+Equal opportunities 
+
+Freedom of Association and Collective Bargaining
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Freedom of association and collective 
+
+bargaining 
+
+103-2
+
+The management approach and its 
+
+components
+
+Freedom of association and collective 
+
+bargaining 
+
+103-3
+
+Evaluation of the management approach
+
+Freedom of association and collective 
+
+bargaining 
+
+Child Labour
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Working conditions 
+
+Forced and child labour 
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability 
+
+Forced and child labour 
+
+103-3
+
+Evaluation of the management approach
+
+Forced and child labour 
+
+GRI 408: Child 
+
+Labour 2017
+
+408-1
+
+Operations and suppliers at significant risk 
+
+for incidents of child labour
+
+Forced and child labour 
+
+Forced or Compulsory Labour
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Working conditions 
+
+Forced and child labour 
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability 
+
+Forced and child labour 
+
+103-3
+
+Evaluation of the management approach
+
+Forced and child labour 
+
+GRI 409: Forced or 
+
+Compulsory Labour 
+
+2017
+
+409-1
+
+Operations and suppliers at significant 
+
+risk for incidents of forced or compulsory 
+
+labour
+
+Forced and child labour 
+
+GRI
+
+INDEX
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+60 
+
+
+Rights of Indigenous Peoples
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Community engagement 
+
+103-2
+
+The management approach and its 
+
+components
+
+Community engagement 
+
+Community investment
+
+103-3
+
+Evaluation of the management approach
+
+Community engagement
+
+Community investment
+
+GRI 411: Rights of 
+
+Indigenous Peoples 
+
+2017
+
+411-1
+
+Incidents of violations involving rights of 
+
+indigenous peoples
+
+Community engagement
+
+Human Rights Assessment
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Working conditions
+
+103-2
+
+The management approach and its 
+
+components
+
+Code of Conduct, whistleblowing, and 
+
+grievance procedure 
+
+Our approach to sustainability
+
+Working conditions 
+
+103-3
+
+Evaluation of the management approach
+
+Working conditions
+
+GRI 412: Human 
+
+Rights Assessment 
+
+2017
+
+412-1
+
+Operations that have been subject 
+
+to human rights reviews or impact 
+
+assessments
+
+Working conditions 
+
+Local Communities
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Community engagement
+
+Smallholders 
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability 
+
+Monitoring and grievance procedure
+
+Community engagement
+
+Smallholders 
+
+Stakeholder engagement table
+
+103-3
+
+Evaluation of the management approach
+
+Community engagement
+
+Smallholders 
+
+GRI 413: Local 
+
+Communities 2017
+
+413-1
+
+Operations with local community 
+
+engagement, impact assessments, and 
+
+development programs
+
+Fire prevention
+
+Community engagement
+
+Smallholders 
+
+413-2
+
+Operations with significant actual and 
+
+potential negative impacts on local 
+
+communities
+
+Community engagement
+
+Smallholders 
+
+Supplier Social Assessment
+
+GRI 103: 
+
+Management 
+
+Approach 2017
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Supply chain engagement and traceability
+
+103-2
+
+The management approach and its 
+
+components
+
+Our approach to sustainability
+
+Supply chain engagement and traceability 
+
+103-3
+
+Evaluation of the management approach
+
+Supply chain engagement and traceability
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+61
+
+
+STAKEHOLDER 
+
+ENGAGEMENT TABLE
+
+Stakeholders Method of Engagement Objective
+
+Frequency
+
+Communities
+
+Meetings with Community 
+
+Development Officers
+
+• Promoting development of sustainable oil 
+
+palm
+
+• Socialisation of sustainability policies
+
+• Identify community development programs 
+
+to meet local needs
+
+• At least four 
+
+times a year
+
+• Socialisation of fire prevention, 
+
+management and monitoring
+
+• Initiate FPIC processes with local 
+
+communities
+
+• Periodic
+
+• Periodic only 
+
+in new areas
+
+Customers
+
+Phone calls/meetings
+
+• Socialisation of sustainability policy and 
+
+traceability of our supply chain
+
+• Periodic
+
+Networking sessions held by 
+
+industry associations
+
+• Relationship building
+
+• Identifying business opportunities
+
+• Three to four 
+
+times a year
+
+Site assessments
+
+• To conduct site assessment 
+
+• To interview stakeholders of the site 
+
+(employees, communities)
+
+• To strengthen relations through support 
+
+and feedback on operations 
+
+• When 
+
+necessary
+
+Employees
+
+Internal portal and media 
+
+distribution
+
+• To keep employees updated on company 
+
+news and policies
+
+• All the time
+
+Performance review
+
+• Review employees’ performance and 
+
+receive feedback on job satisfaction
+
+• Twice a year
+
+Training and development
+
+• To strengthen human capital and long-term 
+
+performance
+
+• Regularly
+
+Labour Union
+
+Focus group discussion
+
+and meetings
+
+• To discuss cooperative labour issues
+
+• Once a year
+
+Regulatory 
+
+Bodies (including 
+
+Government)
+
+Reporting on compliance to local 
+
+and national regulations
+
+• Informing the regulatory bodies on our 
+
+compliance of applicable regulation/
+
+legislation
+
+• Once a year 
+
+by respective 
+
+regulatory 
+
+bodies
+
+Plasma Farmers
+
+Group meetings
+
+• To provide guidance on best plantation 
+
+management practices
+
+• Socialisation of sustainability standards 
+
+and practices
+
+• Quarterly 
+
+basis
+
+• At least once 
+
+a year
+
+Shareholders/ 
+
+Investors
+
+Annual General Meeting
+
+• Delivery of company performance, plans 
+
+and updates on industry
+
+• Seeking approval and feedback
+
+• Once a year
+
+Site visits
+
+• Delivery of company performances and 
+
+plans
+
+• Provide better understanding on 
+
+company’s operations
+
+• When 
+
+necessary
+
+Conferences/one-on-one 
+
+meetings/non-deal roadshows
+
+• Delivery of company performances, plans 
+
+and updates on industry
+
+• At least once 
+
+a year
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+62 
+
+
+Stakeholders Method of Engagement Objective
+
+Frequency
+
+Financial Institutions
+
+Meetings
+
+• To provide updates on Company’s 
+
+performance and plans to facilitate review
+
+• To provide updates on implementation of 
+
+our Sustainability Policy and certification 
+
+status of our operations
+
+• As and when 
+
+required
+
+Certification Bodies
+
+Site assessments 
+
+• To ensure compliance and review results
+
+• To conduct recertification audits
+
+• Once a year 
+
+per site
+
+Industry 
+
+Associations
+
+Meetings, gatherings and working 
+
+group discussion
+
+• To receive updates and provide feedback 
+
+on development and changes in policies
+
+• Monthly basis
+
+Suppliers and 
+
+Contractors
+
+Meetings
+
+• Explore business opportunities, working 
+
+contracts, tender exercises, traceability
+
+• Socialisation on company policies and 
+
+standards including traceability targets
+
+• As and when 
+
+required
+
+NGOs
+
+Working group discussions
+
+• Discuss overall sustainability standards, 
+
+strategy and implementation
+
+• Potential collaboration on landscape 
+
+conservation projects, reforestation, 
+
+HCV management and monitoring, fire 
+
+management and monitoring
+
+• As and when 
+
+required
+
+Media
+
+Press releases
+
+●	 Provide	update	on	performance	and	
+
+industry related information
+
+• Twice a year
+
+Interviews
+
+●	 Provide	update	on	performance	and	
+
+industry related information
+
+• When 
+
+necessary
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+63
+
+
+ABOUT  
+
+THE REPORT
+
+Materiality, Stakeholder Inclusiveness 
+
+and Sustainability Context
+
+The contents of this report have been determined based 
+
+on ongoing stakeholder dialogue and a review of issues 
+
+that are critical to First Resources. This report has been 
+
+prepared in accordance with the Global Reporting Initiative 
+
+(GRI) Standards: Core option. In developing this report, we 
+
+have worked with Helikonia, a consultancy with extensive 
+
+experience in palm oil disclosure. Together, we have reviewed 
+
+NGO and investor reports, as well as social media coverage. 
+
+We have also benchmarked and developed a gap analysis 
+
+of our report content against disclosure platforms such as 
+
+the Sustainable Palm Oil Transparency Toolkit (SPOTT) 
+
+developed by the Zoological Society of London, and the 
+
+RobecoSam Sustainability Assessment, as we see these as 
+
+a proxy to understanding the indicators expected by a broad 
+
+range of stakeholders. Finally, we have looked to peers in the 
+
+industry and have striven to ensure that the content of this 
+
+report meets best practice as compared to sector leaders.
+
+We have combined the insights gained from these external 
+
+frameworks with an internal consultation with our on-
+
+the-ground teams and senior management, including the 
+
+CEO. The issues identified were ranked on a scale 1–5 
+
+and collated into a matrix (see below). Unless specifically 
+
+noted, boundaries were considered to be First Resources’ 
+
+organisational boundaries.
+
+Throughout the report we seek to provide an appropriate 
+
+context for our performance, particularly in relation to the 
+
+unique social and environmental landscapes in Indonesia.
+
+Reporting Cycle and Approach to 
+
+Assurance
+
+Starting from this year, we will produce an annual sustainability 
+
+report as required by SGX. Our previous reports covered 
+
+2011, 2012-2013 and 2014-15. In addition, stakeholders 
+
+can review our annual RSPO Communications of Progress 
+
+published each year in Q3 at www.rspo.org/members/193/
+
+first-resources-limited 
+
+We have not engaged third party assurance, as we believe 
+
+that the in-depth assessments we are undertaking in material 
+
+areas such as HCS, HCV and FPIC, as well as documentation 
+
+on the RSPO website on our complaints handling, provide 
+
+stronger performance assurance than that which would be 
+
+possible by a traditional report assurance process. However, 
+
+we will collate feedback from stakeholders on whether third-
+
+party assurance is seen as valuable and helpful.
+
+Materiality Matrix for 2016/17
+
+Low
+
+High
+
+Importance to stakeholders
+
+Low
+
+High
+
+Importance to First Resources Ltd
+
+Smallholder
+
+Inclusiveness
+
+GHG Emission
+
+Other Certification
+
+Traceability &amp;
+
+Outgrower FFB
+
+New Plantings
+
+Waste &amp; Water
+
+Management
+
+Pest 
+
+Management
+
+Corruption
+
+Transparency
+
+RSPO Certification
+
+Deforestation/
+
+HCS/HCV
+
+Legal Regulatory
+
+Compliance
+
+Labour Conditions
+
+Peat
+
+Land &amp; HCV
+
+Conservation
+
+Land Conflict
+
+Resolution/FPIC
+
+NGO 
+
+Engagement
+
+Forest Fire
+
+Procedures
+
+CSR/Community
+
+Health and
+
+Safety
+
+Productivity
+
+Employee/Labour
+
+Retention
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+64 
+
+
+GLOSSARY
+
+Biodiversity
+
+The diversity (number and variety of species) of plant and animal life within a 
+
+region.
+
+Biological Oxygen Demand (BOD)
+
+The amount of oxygen used when organic matter undergoes decomposition 
+
+by micro-organisms. Testing for BOD is done to assess the amount of organic 
+
+matter in water.
+
+Carbon Dioxide Equivalents (CO2e)
+
+Carbon dioxide equivalents provide a universal standard of measurement against 
+
+which the impacts of releasing (or avoiding the release of) different greenhouse 
+
+gases can be evaluated.
+
+Effluents
+
+Water discharged from one source into a separate body of water, such as mill 
+
+process water.
+
+Extraction rate
+
+The amount of oil extracted from oil palm fruit at a mill. Crude palm oil (CPO) is 
+
+extracted from the flesh; palm kernel oil (PKO) from the nut.
+
+Empty fruit bunch (EFB)
+
+The remaining plant matter once the oil palm fruitlets have been removed. 
+
+Fresh fruit bunch (FFB)
+
+Bunch harvested from the oil palm tree. The weight of the fruit bunch ranges 
+
+between 10 kg to 40 kg depending on the size and age.
+
+Free, Prior and Informed Consent
+
+Principle that a community has a right to give or withhold its consent to proposed 
+
+projects that may affect the lands they customarily own, occupy or use.
+
+Global Reporting Initiative (GRI)
+
+A multi-stakeholder standard for sustainability reporting, providing guidance on 
+
+determining report content and indicators.
+
+High Conservation Values (HCV)
+
+The concept of High Conservation Value Forests (HCVF) was first developed 
+
+by the Forest Stewardship Council (FSC) in 1999 as their ninth principle. The 
+
+FSC defined HCVF as forests of outstanding and critical importance due to their 
+
+environmental, socio-economic and cultural biodiversity and landscape value.
+
+High Carbon Stock (HCS) 
+
+Approach 
+
+The HCS Approach is a practical methodology for distinguishing forest areas 
+
+that should be protected from degraded lands that may be developed. It is a 
+
+sequence of processes and assessments undertaken within two overarching 
+
+modules: a social requirements module, which focuses on respecting 
+
+communities’ rights to their lands; and an integration module, which includes 
+
+the FPIC and HCV processes. 
+
+International Labour 
+
+Organization (ILO)
+
+Is a tripartite world body representative of labour, management and government, 
+
+and is an agency of the United Nations. It disseminates labour information and 
+
+sets minimum international labour standards called “conventions”, offered to 
+
+member nations for adoption.
+
+Independent Director
+
+According to the Listing Manual of SGX, an independent director is one who 
+
+has no relationship with the company, its related corporations (i.e. a corporation 
+
+that is the company’s holding company, subsidiary or fellow subsidiary), its 10% 
+
+shareholders or its officers that could interfere, or be reasonably perceived to 
+
+interfere, with the exercise of the director’s independent business judgement 
+
+with a view to the best interests of the company.
+
+Integrated Pest 
+
+Management (IPM)
+
+IPM is the careful consideration of all available pest control techniques 
+
+and subsequent integration of appropriate measures that discourage the 
+
+development of pest populations and keep pesticides and other interventions 
+
+to levels that are economically justified and reduce or minimise risks to human 
+
+health and the environment. IPM emphasises the growth of a healthy crop with 
+
+the least possible disruption to agro-ecosystems and encourages natural pest 
+
+control mechanisms.
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+65
+
+
+Indonesia Sustainable 
+
+Palm Oil (ISPO)
+
+Mandatory national sustainable palm oil standard
+
+International Sustainability and 
+
+Carbon Certificate (ISCC)
+
+A global biomass and bioenergy certification scheme
+
+IUCN Red List
+
+Based in Switzerland, the International Union for Conservation of Nature 
+
+and Natural Resources (also known as The World Conservation Union) is an 
+
+organisation involved in the preservation of natural resources. IUCN publishes 
+
+the Red Data Book, which lists the endangered species of every nation.
+
+Non-executive director
+
+A board director who does not currently hold other employment with the 
+
+company. Unlike an independent director, a non-executive can have significant 
+
+financial interests or close personal ties to the company.
+
+Non-governmental  
+
+organisation (NGO)
+
+Is used in this report to refer to grassroots and campaigning organisations 
+
+focused on environmental or social issues.
+
+Palm GHG
+
+The PalmGHG Calculator is a tool developed by the RSPO Greenhouse Gas 
+
+Working Group 2 to allow palm oil producers to estimate and monitor their net 
+
+greenhouse gas emissions. The Calculator also enables palm oil producers to 
+
+identify crucial areas in their production chain and thereby guiding emission 
+
+reduction opportunities.
+
+Palm oil mill effluent (POME)
+
+By-product of processed fresh fruit bunch (FFB).
+
+Peat
+
+Peat is an accumulation of partially decayed vegetation matter. Peat forms 
+
+in wetlands or peat lands, variously called bogs, moors, muskegs, pocosins, 
+
+mires, and peat swamp forests.
+
+Plasma schemes
+
+A programme initiated by the Indonesian government to encourage the 
+
+development of smallholders’ plantations with the assistance and cooperation 
+
+of plantation companies (the nucleus) which assist and support the surrounding 
+
+community plantations (the plasma).
+
+Roundtable on Sustainable Palm 
+
+Oil (RSPO)
+
+A multi-stakeholder organisation based in Kuala Lumpur, Malaysia. The 
+
+organisation has developed a certification scheme for sustainable palm oil.
+
+Stakeholders
+
+Any group or individual who are affected by or can affect a company’s operations.
+
+Sustainability
+
+A term expressing a long-term balance between social, economic and 
+
+environmental objectives. Often linked to sustainable development, which is 
+
+defined as “development that meets the need of current generations without 
+
+compromising the needs of future generations”.
+
+Toxicity
+
+Toxicity measures the degree to which a substance is harmful to living organisms. 
+
+Toxicity in agricultural chemicals is measured using the LD50 methodology, i.e 
+
+the toxicity units corresponding to a lethal dose for 50% of a population of rats. 
+
+GLOSSARY
+
+FIRST RESOURCES LIMITED   Sustainability Report 2017
+
+66 
+
+
+CONTACT
+
+The contents of this report have been determined based on ongoing stakeholder dialogue and a review of issues that are critical. 
+
+We welcome feedback from all our stakeholders. If you have questions or comments to this report, or to our sustainability 
+
+performance in general, please contact us:
+
+First Resources Limited
+
+8 Temasek Boulevard 
+
+#36-02 Suntec Tower Three
+
+Singapore 038988 
+
+Tel: +65 6602 0200
+
+Email: sustainability@first-resources.com 
+
+
+FIRST RESOURCES LIMITED
+
+Company Registration Number : 200415931M
+
+8 Temasek Boulevard
+
+#36-02 Suntec Tower Three
+
+Singapore 038988
+
+T: +65 6602 0200
+
+F: +65 6333 6711
+
+Email: contactus@first-resources.com
+
+www.first-resources.com
+

@@ -1,0 +1,1725 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+2
+
+
+
+Contents
+
+
+
+Company Profile
+
+3
+
+
+
+Board Statement
+
+4
+
+
+
+Sustainability Governance
+
+6
+
+
+
+Stakeholder Engagement
+
+7
+
+
+
+Managing Sustainability
+
+8
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+3
+
+
+
+Company Profile
+
+Meghmani Organics Limited (“MOL” or the “Company”, and together with its subsidiaries, the
+
+“Group”) is a global leading chemical specialist in the specialised fields of pigments and
+
+agrochemicals. The Group’s products are categorised into three main businesses: (i)
+
+Pigments, (ii) Agrochemicals, and (iii) Basic Chemicals.
+
+Established since 1995, MOL’s pigment products are used in multiple applications, including
+
+printing inks, plastics, paints, textiles, leather, paper and rubber. These products also include
+
+high performance pigments to keep up with the fundamental shifts in the printing ink and paint
+
+sectors. MOL will be producing water-based pigments and Hysol-P based CPC Blue products.
+
+The agrochemical products manufactured by MOL fall into three main categories – technical
+
+products, formulations and intermediates. These agrochemical products are used in crop
+
+protection, public health, termite a&amp; insect control, and veterinary applications. In the basic
+
+chemical business, the Group is manufacturing Chlorine and its derivatives.
+
+MOL has a presence in more than 75 countries, serving over 400 customers across all three
+
+business segments. Our global distribution network consists of 20 overseas distributors
+
+catering to our international markets for our Pigments and Agrochemical products, and a chain
+
+of over 2,800 stockists, agents, distributors and dealers covering the domestic market in India.
+
+The Group’s products are produced in our proprietary brands recognised names among
+
+customers in India, Europe, the USA and Latin America. The brands under our Agrochemical
+
+formulations include ‘Megaking’, ‘Megastar', 'Megacyper', ‘Megaban’, ‘Synergy’ and ‘Courage’,
+
+while the brand 'Meghafast' is under our Pigments segment.
+
+The Group has more than 36
+
+brands of various agrochemical formulations under our Agrochemicals segment to cater to the
+
+needs of Indian farmers.
+
+Headquartered in Ahmedabad, the Group has seven dedicated manufacturing facilities in India,
+
+which includes three pigment plants in Vatva, Panoli and Dahej, and another four agrochemical
+
+plants in Chharodi, Panoli, Ankleshwar and Dahej.
+
+MOL is ranked at 490th place on the “Fortune 500 Companies”1 and is listed on the Mainboard
+
+of the Singapore Exchange Securities Trading Limited (“SGX-ST”) under the stock code M30.
+
+______________
+
+1 As reported in Fortune India Magazine Special Quarterly Issue (15th Dec 2019 – 14th Mar 2020)
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+4
+
+
+
+Board Statement
+
+“Our Corporate Vision is to become one of the world’s leading diversified chemical
+
+company in ‘Organic Chemistry’ with a global presence and delivering products
+
+that meet international standards.”
+
+As a leading chemical manufacturer with a global presence, MOL is committed to conducting
+
+our business activities in an economically, socially and environmentally responsible manner
+
+governed
+
+by
+
+high
+
+standards
+
+of
+
+internal
+
+controls
+
+and
+
+risk
+
+management
+
+practices.
+
+Understanding the concerns and interests of our stakeholders is crucial as we continue to look
+
+at growing our business opportunities. Our commitment to sustainability guides our growth
+
+strategies and business practices.
+
+The outbreak and spread of the coronavirus disease has impacted all of our lives in ways we
+
+could not have imagined. During this time, MOL has assisted customers by not insisting on
+
+free or discounted goods or services. While we are able to fulfil our contractual obligations, we
+
+face some delays in production and completion of on-going projects due to shortage of
+
+manpower. However, this is now improving with the easing of lockdown restrictions in the
+
+country.
+
+In 2018, MOL conducted our first materiality assessment and published our inaugural
+
+Sustainability Report. This is our third Sustainability Report (“Report”) and it has been
+
+prepared by taking reference from the SGX Sustainability Reporting Guidelines (set out in
+
+Listing Rule 711A and 711B) and the Global Reporting Initiative (“GRI”) Standards, a globally-
+
+recognized sustainability reporting framework, for reporting on topics that are deemed material
+
+to MOL.
+
+This report focuses on MOL’s sustainability performance with regards to the Group’s
+
+operations in India from 1 April 2019 to 31 March 2020 (“FY2020”). In this Report, we have
+
+also included the United Nations Sustainable Development Goals (“UN SDGs”) to show how
+
+our business supports the UNSDGs. A phased approach is being adopted by MOL for our
+
+sustainability report and we will seek to provide additional disclosures on our material topics as
+
+our sustainability reporting matures over time.
+
+The Board maintained oversight over the Sustainability Committee, managing sustainability
+
+risks and opportunities, while ensuring all Environment, Social and Governance (“ESG”)
+
+matters significant to our business are addressed in our Report.
+
+We welcome stakeholders to provide us with feedback and suggestions on this report. You
+
+may contact us at helpdesk@meghmani.com.
+
+Jayantilal Patel
+
+Executive Chairman
+
+Meghmani Organics Limited
+
+30 September 2020
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+5
+
+
+
+At a Glance
+
+
+
+
+
+Consolidated revenue growth of 5% year-on-year to INR 21,912 million
+
+
+
+EBITDA of INR 4,341 million
+
+
+
+Return on equity of 23% and return on capital employed of 17%
+
+
+
+Ranked 490th in “Fortune 500 Companies”
+
+
+
+32,333 tonnes of carbon emissions avoided from the use of renewable energy
+
+
+
+8.2% of our total energy consumed is from a renewable source
+
+
+
+Total headcount of 1,611 employees
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+6
+
+
+
+Sustainability Governance
+
+MOL’s sustainability agenda is developed and directed by senior management with guidance
+
+from the Board. Our sustainability approach is focused on generating stable and sustainable
+
+value for our stakeholders by managing the ESG impacts, as well as risks and opportunities
+
+present in our businesses.
+
+The Group’s Sustainability Committee includes senior management executives, led by the
+
+Executive Chairman. The Sustainability Committee is responsible for reviewing the company’s
+
+sustainability performance, material topics, stakeholder concerns, setting of targets and goals
+
+for material topics, and establishing systems to collect, verify, monitor and report information
+
+required for this sustainability report. The Sustainability Committee meets at least once a year
+
+and proposes, coordinates and promotes the Group’s main sustainability initiatives. The Board
+
+maintained oversight over the Sustainability Committee, managing sustainability risks and
+
+opportunities, while ensuring all ESG matters significant to our business are addressed.
+
+
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+7
+
+
+
+Stakeholder Engagement
+
+MOL continues to engage with our various groups of stakeholders on an annual basis to
+
+understand and address their concerns. As our businesses continue to expand, the topics that
+
+are material to our key stakeholders may change to reflect the relevance and significance to
+
+our operations.
+
+In FY2020, we continued our internal engagement with our key stakeholders through the
+
+multiple established channels to re-evaluate the relevance and significance of the material
+
+topics for this reporting period. Understanding the on-going concerns of our key stakeholders
+
+allow us to strive for continuous success in creating value for all our stakeholders. As MOL
+
+continues to grow our business, we are committed to review and report changes in the
+
+material issues in subsequent reports.
+
+Our Stakeholders
+
+Stakeholders’ 
+
+Expectations
+
+Mode of Engagement
+
+Our Initiatives and 
+
+Responses
+
+Customers
+
+
+
+Customer privacy
+
+
+
+Quality control
+
+
+
+On-time delivery and 
+
+services
+
+
+
+Technical support
+
+
+
+Reasonable payment 
+
+terms
+
+
+
+Competitive pricing
+
+
+
+Customer feedback 
+
+management via surveys, 
+
+face-to-face meetings
+
+
+
+Regular sales calls and 
+
+meetings 
+
+►
+
+Active follow-up on 
+
+customers’ needs 
+
+►
+
+Regular internal meetings to 
+
+review customers’ order 
+
+fulfilment and new 
+
+requirements
+
+►
+
+Update customers on new 
+
+products and solutions 
+
+►
+
+Provide timely feedback to 
+
+customers 
+
+Employees
+
+
+
+Career growth
+
+
+
+Training opportunities
+
+
+
+Competitive salaries and 
+
+incentives
+
+
+
+Pleasant and safe 
+
+working environment
+
+
+
+Regular internal 
+
+communications 
+
+
+
+Regular review of working 
+
+environment and welfare
+
+
+
+Employee feedback 
+
+►
+
+Ensure effective 
+
+implementation of HR policies
+
+►
+
+Regular internal meetings to 
+
+review safety practices
+
+►
+
+Annual performance review 
+
+Shareholders &amp; 
+
+Investors
+
+
+
+Higher financial returns
+
+
+
+Industry conditions
+
+
+
+Market presence
+
+
+
+Profitability
+
+
+
+Transparency &amp; 
+
+corporate governance 
+
+
+
+Announcements via SGX-
+
+ST, NSE and BSE
+
+
+
+Annual General Meeting
+
+
+
+Investor roadshows
+
+
+
+Conference calls with 
+
+investment community
+
+
+
+Electronic 
+
+communications through 
+
+investor relations portal
+
+
+
+Annual report
+
+►
+
+Regular and timely updates 
+
+via announcements and press 
+
+releases as and when 
+
+required
+
+►
+
+Ensure sustainable business 
+
+growth  
+
+Government &amp; 
+
+Regulators
+
+
+
+Regulatory compliance
+
+
+
+Occupational health &amp; 
+
+safety 
+
+
+
+Environmental issues
+
+
+
+Social issues 
+
+
+
+Meetings to remain 
+
+updated on issues of 
+
+relevance
+
+
+
+Electronic 
+
+communications
+
+►
+
+Ensure compliance with 
+
+applicable laws 
+
+►
+
+Meetings to update and 
+
+resolve issues with relevant 
+
+authorities as and when 
+
+required
+
+Suppliers
+
+
+
+Competitive pricing
+
+
+
+Payment terms
+
+
+
+Quality benchmarks
+
+
+
+Networking sessions
+
+
+
+Visits to / Interactions 
+
+with suppliers
+
+►
+
+Regular feedback on quality 
+
+or other issues 
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+8
+
+
+
+Material Topics
+
+MOL reviewed our material topics in FY2020 based on internal stakeholders discussions with
+
+various department managers. The material topics reviewed continue to have an economic,
+
+environment and social influence on our business activities. In FY2020, data was collected for
+
+our material topics and this has allowed us to review our performances and set targets. To
+
+guide our reporting, we used the GRI standards as a reference to prepare the Sustainability
+
+Report 2020.
+
+Material Topic
+
+Description
+
+Relevant GRI Standards that we 
+
+will be reporting 
+
+Product Safety and 
+
+Stewardship
+
+Developing modern, innovative agricultural 
+
+products and technologies that meet or 
+
+exceed regulatory requirements relative to 
+
+safety, human health, and the environment 
+
+GRI 416: Customer Health &amp; 
+
+Safety 
+
+GRI 307: Environmental 
+
+Compliance
+
+Environmental 
+
+Management
+
+Applying innovation and best practices to 
+
+protect, conserve and manage energy 
+
+GRI 302: Energy
+
+Business Practices 
+
+and Competition 
+
+Adopting methods or processes that deliver 
+
+products and services which meet the 
+
+standards of customers based on value, 
+
+quality, service, and fair competitive market 
+
+practices.
+
+GRI 205: Anti-Corruption
+
+GRI 206: Anti-Competitive 
+
+Behaviour
+
+Occupational Health 
+
+and Safety 
+
+Ensuring a healthy, safe and secure 
+
+workplace that promotes well-being.
+
+GRI 403: Occupational Health 
+
+and Safety 
+
+Employee 
+
+Development, 
+
+Diversity and 
+
+Benefits
+
+Attracting, retaining and developing our 
+
+employees, promoting professional growth, 
+
+leveraging the power of inclusion and 
+
+diversity, and creating a positive work 
+
+environment.
+
+GRI 401: Employment
+
+GRI 405: Diversity and Equal 
+
+Opportunity
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+9
+
+
+
+Product Safety and Stewardship
+
+
+
+Customer Health &amp; Safety
+
+GRI 416-2
+
+Our Approach
+
+MOL’s core focus is our commitment to customer satisfaction. Ensuring our products are safe
+
+for our customers’ intended application is key in maintaining the continued trust of our loyal
+
+customers. Our customers come from a broad background of diverse industries and it is
+
+important to understand their respective applications of our products. MOL recognises the
+
+concerns on the safe application of chemicals and their impact on the health and safety of our
+
+customers. We understand the restrictive regulations and we sought to comply.
+
+MOL adheres to the strictest regulatory requirements and standards local to our businesses.
+
+Understanding our products hazards, its risks and impacts allow us to identify and manage key
+
+areas for MOL to focus on and adhere to local requirements on product information. We
+
+assess our products to ensure that the health and safety of our customers are not
+
+compromised. MOL keeps up to date with technological advancements that will aid the
+
+development of innovative products that surpass the highest regulatory requirements of health,
+
+safety and environment.
+
+Our Performance
+
+In FY2020, we have zero cases of non-compliance with regulations and/or voluntary codes
+
+related to the health and safety impacts of our products and services.
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+10
+
+
+
+Product Safety and Stewardship
+
+Environmental Compliance
+
+GRI 307-1
+
+Our Approach
+
+MOL believes that environmental compliance is the primary foundation that forms our
+
+commitment to environmental law, regulations and standards. We acknowledge that the nature
+
+of our business leaves a large environmental footprint and we strive to reduce the impact our
+
+business activities imposes on our ecosystems. MOL adheres to the local environmental rules
+
+and regulations and our environmental policy guides us in managing our operational activities
+
+in minimizing impact.
+
+The use and application of hazardous materials is present in our operational activities. Proper
+
+safe and responsible disposal facilities are provided with necessary capabilities to treat the
+
+liquid and solid waste. Air emissions that contain pollutants are regulated by the local laws
+
+which we need to comply. Our agrochemicals products are strictly controlled and we require
+
+prior registration with the relevant governing authorities in each country before we are allowed
+
+to sell. Thus, qualitative standards and permitted toxicity levels set by each governing authority
+
+will need to be complied with before we can sell our agrochemicals products.
+
+MOL has a greenbelt at our factory premises with an environmental management system in
+
+place at the plant locations. We provide proper training to ensure our employees are aware of
+
+the environmental regulations and obligations while ensuring proper and adequate safeguards
+
+are maintained at our plants at all times. MOL has four multifunctional productions facilities in
+
+Gujarat and three are ISO 9001 certified. We are committed to improve our health, safety and
+
+environment performance by ensuring chemical product safety and making our processing
+
+plants secure.
+
+Our Performance
+
+We had zero cases of non-compliance with environmental laws and regulations in FY2020.
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+11
+
+
+
+Environmental Management
+
+Energy
+
+GRI 302-1
+
+Our Approach
+
+MOL recognizes the impact our businesses can have on the environmental ecosystem. As the
+
+core of our business is chemical manufacturing and uses a significant amount of energy, we
+
+are committed to conserve our energy usage to minimize the impact on the ecosystem. Our
+
+environmental policy guides us in our environmental practices. Since we started collecting
+
+data, we have a better understanding of our performance and can set a realistic target.
+
+Our Performance
+
+In FY2020, we have consumed a total of approximately 1,617 TJ of energy across our
+
+operations which includes both renewable energy and non-renewable energy. MOL currently
+
+has four wind mills for the four plants located at Dahej, Ankleshwar, Panoli and Vatva, as well
+
+as a solar power purchase agreement for the plants in the three locations Dahej, Ankleshwar
+
+and Panoli. In FY2019, our renewable energy generated was approximately 7.3% of the total
+
+energy consumed, while in FY2020, we have achieved an increase to 8.2% by increasing the
+
+proportion of solar energy generated, thus helping to avoid greenhouse gas (GHG) emissions
+
+of 32,333 tCO2.
+
+
+
+From Non-
+
+Renewable 
+
+Sources
+
+(MJ)
+
+Renewable 
+
+Energy
+
+(MJ)
+
+Electricity 
+
+Consumption 
+
+(MJ)
+
+Steam 
+
+Consumption 
+
+(MJ)
+
+Total Energy 
+
+Consumed 
+
+(MJ)
+
+FY2019^
+
+11,692,800
+
+108,778,7378
+
+266,374,667
+
+1,108,607,918
+
+1,495,454,122
+
+FY2020
+
+12,096,000
+
+132,573,794
+
+297,238,720
+
+1,175,490,999
+
+1,617,399,513
+
+Energy consumed from renewable sources
+
+Renewable 
+
+Energy 
+
+Source
+
+Renewable Energy 
+
+Generated &amp; Consumed 
+
+(kWh)
+
+Renewable Energy 
+
+Generated 
+
+&amp; Consumed (MJ)
+
+GHG Emissions Avoided* 
+
+(tCO2)
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Wind
+
+29,155,160
+
+30,963,720
+
+104,958,576
+
+111,469,392
+
+25,598
+
+27,186
+
+Solar
+
+1,061,156
+
+5,862,334
+
+3,820,162
+
+21,104,402
+
+932
+
+5,147
+
+Total
+
+30,216,316
+
+36,826,054
+
+108,778,738
+
+132,573,794
+
+26,530
+
+32,333
+
+Fuel Consumption within the Organisation (offices and manufacturing plants)
+
+^Values for FY2019 have been restated.
+
+*Emission factors are based on Asian Development Bank - Guidelines for estimating greenhouse gas emissions of Asian
+
+Development Bank projects: Additional guidance for clean energy projects (2017)
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+12
+
+
+
+Business Practices and Competition
+
+Anti-Corruption
+
+GRI 205-1
+
+Our Approach
+
+Good business practice is an important foundation for our business activities to progress. MOL
+
+conducts our businesses with the highest standards of ethical business practices in a fair and
+
+transparent manner. We hold a strong stance against corruption and have in place a Whistle
+
+Blower Policy that employees can use for reporting of unethical practices without fear of unjust
+
+retribution.
+
+Our Performance
+
+In FY2020, there have been no reported cases of corruption.
+
+
+
+Anti-Competitive Behaviour
+
+GRI 206-1
+
+Our Approach
+
+We are committed in ensuring our businesses are conducted in an ethical and fair manner.
+
+MOL holds a strong stance against any anti-competitive behaviour or unfair advantages in our
+
+business activities. We support a free competitive environment ensuring fair business practices
+
+for all our employees and stakeholders.
+
+Our Performance
+
+We have no reported anti-competitive behaviours or anti-trust violations in the reporting period
+
+in FY2020.
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+13
+
+
+
+Occupational Health and Safety
+
+Occupational Health and Safety
+
+GRI 403.-2
+
+Our Approach
+
+MOL believes the safety and wellbeing of our employees is our highest priority. We recognise
+
+that the use of machinery in our manufacturing plants and operational facilities can pose as
+
+safety hazards and health risks. Some of our products and raw materials are considered to be
+
+hazardous and working with hazardous materials can pose a health risk to our employees in
+
+the operating plants. Enforcing a strong safety culture in all our facilities provides assurance for
+
+our employees to perform at their best in their daily operational activities. We adhere to local
+
+health and safety regulations and our environment, health and safety policy guides us in
+
+promoting safety measures in our operational facilities.
+
+Training is provided on a regular basis to our employees in the operational plants to
+
+continuously align themselves to safety regulations and standards, recognise safety hazards
+
+and implement control measures when faced with a safety risk situation. A safety manual is
+
+provided to all employees in our operational plants. Work procedure and safety instructions
+
+are clearly communicated for each activity. All employees working in the operating plants are
+
+required to wear personal protection equipment at all times. We implement safeguards in
+
+handling, storing, transporting, importing and sale of our hazardous products and raw
+
+materials. All our plants are equipped with a medical facility to regularly conduct routine
+
+medical checks on our employees working in these plant facilities. Medical support is available
+
+in case of any occupational health and related issues and a selected few are trained in first aid.
+
+Fire-fighting equipment are also available at all plants and regularly maintained.
+
+Our Performance
+
+In FY2020, MOL had no cases of reportable accidents.
+
+What We Have Done During Coronavirus Pandemic
+
+The Government of India imposed a lockdown on 24 March 2020 which was lifted on 31 May
+
+2020, but following that, guidelines on phases of reopening were issued, and as of 31 Aug
+
+2020, the Union Home Ministry issued the Unlock 4.0 guidelines which allowed the resumption
+
+of metro trains from 7 September in a graded manner, while political, social and religious
+
+congregations of up to 100 people will be permitted from 21 September. Restrictions on inter-
+
+state and intra-state movement of persons and goods will also be lifted. Manufacturing services
+
+were exempted from the lockdown and MOL continued with production during this period, but
+
+with heightened precautions taken to ensure the health and safety of the staff. Some of the
+
+measures taken by MOL include having employees to be on different teams so as to have
+
+rotating or alternate teams in the office and plant. Employees are reminded on the need for
+
+social distancing in the office and plant, and are also issued face masks and hand sanitisers at
+
+their work stations. Regular disinfection of the office and plant areas are also conducted to
+
+ensure commonly frequented surfaces or areas are kept clean.
+
+
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+14
+
+
+
+Employee Development, Diversity and Benefits
+
+Employment
+
+GRI 401-1
+
+Our Approach
+
+MOL believes our employees are essential in maintaining a long-term success. We are
+
+committed to fair employment practices and maintaining a working environment where our
+
+employees are respected and empowered to perform at their best. Boosting our employee’s
+
+morale in turn reduces our employee turnover rates while strengthening our employee’s
+
+productivity performances. MOL strives to understand the concerns of our employees to keep
+
+them engaged at all times.
+
+Our Performance
+
+In FY2020, we hired a total of 365 new employees, bringing our total headcount to 1,611
+
+employees. We have an overall hiring rate of 33% and an overall turnover rate of 18.4%.
+
+What We Have Done During Coronavirus Pandemic
+
+No employees from MOL were laid off or furloughed during the coronavirus lockdown period in
+
+India from 24 March 2020 to 31 July 2020.
+
+
+
+Age Group
+
+No. of Employee New Hires
+
+Rate of New Hires
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Under 30 years old
+
+291
+
+261
+
+26.4%
+
+16.2%
+
+30-50 years old
+
+90
+
+89
+
+8.2%
+
+5.5%
+
+Over 50 years old
+
+12
+
+15
+
+1.1%
+
+0.9%
+
+Total
+
+393
+
+365
+
+35.7%
+
+22.6%
+
+New Employee Hires (based on age group)
+
+Gender
+
+No. of Employee New Hires
+
+Rate of New Hires
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Male
+
+392
+
+362
+
+35.6%
+
+22.5%
+
+Female
+
+1
+
+3
+
+0.1%
+
+0.2%
+
+Total
+
+393
+
+365
+
+-
+
+(7.1%)
+
+New Employee Hires (based on gender)
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+15
+
+
+
+Employee Development, Diversity and Benefits
+
+Diversity and Equal Opportunity
+
+GRI 405-1
+
+Our Approach
+
+MOL believes in providing equal opportunities in an open environment. We hire and retain our
+
+employees solely based on merit and capacity to contribute. MOL does not tolerate any form
+
+of discrimination based on colour, race, religion, political inclination and any other type of
+
+distinguishing characteristics. MOL attracts and retains a diverse set of qualified and
+
+experienced employees. Equally important for a diverse talent pool is to have a diverse
+
+management board as a diverse set of skills, seniority, and industry knowledge will bring in an
+
+exchange of different ideas and perspectives.
+
+Our Performance
+
+Approximately 99% of our workforce comprises of males, and 1% females. The majority of our
+
+employees are aged between 30-50 years old and are employed as non-executive employees.
+
+Age Group
+
+No. of Employees
+
+Percentage
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Under 30 years old
+
+514
+
+572
+
+33.3
+
+35.5
+
+30-50 years old
+
+843
+
+863
+
+54.7
+
+53.6
+
+Over 50 years old
+
+185
+
+176
+
+12.0
+
+10.9
+
+Total
+
+1,542
+
+1,611
+
+100.0
+
+100.0
+
+Total Employees by Gender
+
+Gender
+
+No. of Employees
+
+Percentage
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Male
+
+1,530
+
+1,598
+
+99.2
+
+99.2
+
+Female
+
+12
+
+13
+
+0.8
+
+0.8
+
+Total
+
+1,542
+
+1,611
+
+100.0
+
+100.0
+
+New Employees by Age Group
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+16
+
+Diversity and Equal Opportunity
+
+GRI 405-1
+
+Employment 
+
+Category
+
+Under 30 years old
+
+30 – 50 years old
+
+Over 50 years old
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+Senior 
+
+Management
+
+-
+
+-
+
+0.1%
+
+0.4%
+
+1.7%
+
+1.3%
+
+Management
+
+-
+
+-
+
+1.6%
+
+1.2%
+
+1.2%
+
+0.9%
+
+Executive
+
+5.2%
+
+7.6%
+
+13.4%
+
+14.4%
+
+3.3%
+
+3.5%
+
+Non-executive
+
+25.9%
+
+27.4%
+
+34.6%
+
+32.0%
+
+4.9%
+
+4.2%
+
+General
+
+2.3%
+
+0.4%
+
+4.7%
+
+5.5%
+
+1.2%
+
+1.0%
+
+New Employees by Age Group
+
+Board Diversity
+
+Gender
+
+FY2019
+
+FY2020
+
+Male
+
+90%
+
+90%
+
+Female
+
+10%
+
+10%
+
+Age Group
+
+FY2019
+
+FY2020
+
+Under 30 years old
+
+0%
+
+0%
+
+30-50 years old
+
+0%
+
+0%
+
+Over 50 years old
+
+100%
+
+100%
+
+
+
+Employee Development, Diversity and Benefits
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+17
+
+
+
+Our Community
+
+MOL strives to enrich the quality of life not only for our employees but also for our
+
+communities in which we operate.
+
+To foster cohesion among our employees, we organised MOL’s Annual Day Celebration on 28
+
+November 2019 for our employees of all our plants and subsidiary companies. This event was
+
+attended by approximately 1,200 employees.
+
+As part of our social engagement approach, a Meghmani Talk Series” (મેઘમણી વ્યાખ્યાનમાળા)
+
+was organised for the larger audience of the society during the year under review. The
+
+objective for this series of talks was to raise the awareness on various important social,
+
+cultural, spiritual and historical subjects/topics. Well-known and reputable subject matter
+
+experts were invited to speak to an audience of approximately 250 attendees comprising of
+
+public and our employees.
+
+MOL was also a sponsor of the Ahmedabad Cyclothon 2020 which was held on the 15th and
+
+16th February 2020. The Ahmedabad Cyclothon is an annual event that aims to promote sport
+
+and fitness among the people and involves cycling 50km on roads of Ahmedabad.
+
+
+
+
+Meghmani Organics Limited | Sustainability Report 2020
+
+Page
+
+18
+
+
+
+Our Community
+
+Migrant workers who were trying to return to their home states when the government
+
+announced lockdown measures on 24 March 2020 in response to the coronavirus pandemic,
+
+were stranded as a result of transportation cancellations. MOL supported the needy and
+
+stranded workforce in Dahej and Panoli areas and also distributed ration kits to approximately
+
+1,000 migrant workers. As the pandemic continues to impact the country’s economy across
+
+industries, the health and safety of our employees and workers remained our top priority. In
+
+addition to regular sanitising of offices and work premises, social distancing and compulsory
+
+use of face mask are also practised in our workplaces.
+
+MOL also develops relationships with and provides in-kind funding to local organisations which
+
+are well-placed to deliver additional social benefits to the wider community in each
+
+neighbourhood where we have a presence, taking into account of real local needs. In FY2020,
+
+MOL contributed more than 10,000 wellness kits, which include essentials such as face masks,
+
+soap, homeopathic medicine and vitamin C tablets in the towns of Viramgam and Bharuch,
+
+both of which are located in the state of Gujurat.
+
+Going forward, our priorities are to continue to cultivate deeper relationships with the local
+
+communities and increase awareness of MOL’s community involvement. We see these efforts
+
+as vital for increasing social capital in the areas where MOL has long-term interests, and
+
+ensuring cohesion between our employees and the local community.
+
+
+
+
+
+

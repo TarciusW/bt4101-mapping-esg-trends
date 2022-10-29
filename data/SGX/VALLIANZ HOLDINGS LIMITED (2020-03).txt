@@ -1,0 +1,2993 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Sustainability Report 2020 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+CONTENTS 
+
+ 
+
+ 
+
+ 
+
+Page 
+
+ 
+
+ 
+
+Board Statement 
+
+1 
+
+Organisational Profile 
+
+3 
+
+Our Business Model 
+
+Mission and Vision 
+
+4 
+
+5 
+
+About The Report 
+
+6 
+
+Supply Chain Management 
+
+7 
+
+Community 
+
+8 
+
+Ethics and Integrity 
+
+11 
+
+Governance Structure 
+
+13 
+
+Stakeholder Engagement 
+
+14 
+
+Materiality Assessment 
+
+16 
+
+Material Topics 
+
+17 
+
+Economic Performance 
+
+18 
+
+Occupational Health and Safety 
+
+20 
+
+Talent Management 
+
+22 
+
+Environmental Protection 
+
+26 
+
+Regulatory and Legal Compliance 
+
+27 
+
+Global Reporting Initiative Index 
+
+28 
+
+ 
+
+
+ 
+
+ 
+
+1 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+BOARD STATEMENT  
+
+ 
+
+Dear Stakeholders, 
+
+ 
+
+Vallianz Holdings Limited ("Vallianz" or the "Company" and together with our subsidiaries, the 
+
+"Group") is pleased to present our Sustainability Report (the "Report") for the financial year 
+
+ended 31 March 2020 ("FY2020"), which is the third published report.  
+
+ 
+
+Our report demonstrates to our stakeholders our commitment to creating a sustainable 
+
+business model, where adopting the best sustainable practices in economics, environment, 
+
+social and governance ("EESG") topics are fundamental to our business. 
+
+ 
+
+The Board has been involved in the Group's sustainability efforts by actively overseeing 
+
+Management's responsibilities of identifying, managing and monitoring material EESG topics. 
+
+As such, the Group will continue to address our challenges and drive long-term growth while 
+
+mitigating the environmental and social risks that might have a negative financial impact on 
+
+our business. 
+
+ 
+
+While we have incorporated a sustainability philosophy and mindset within our business, we 
+
+understand the additional need to articulate and convey to our stakeholders and the public 
+
+such efforts. We hope that this report would achieve such an objective. 
+
+ 
+
+The year 2020 has been an extraordinary time for us at Vallianz, as much as they have been 
+
+for everyone else.  It started with the devastating bushfires raging across Australia. It was 
+
+followed by regional tensions in the Middle East. Thereafter, it was followed by the worst 
+
+pandemic in recent history that killed more than 1 million people so far and has completely 
+
+changed our lives. 
+
+ 
+
+Demand for crude oil trickled as lockdown measures by governments worldwide to contain 
+
+the spread of COVID-19 limit travel and reduce business activities. This unprecedented decline 
+
+in worldwide oil consumption sent crude oil prices plummeting to a low in April 2020. The 
+
+Organization of Petroleum Exporting Countries (OPEC) and its allies have reacted by cutting 
+
+crude oil production to support oil prices and reduce inventories build-up caused by the 
+
+COVID-19 pandemic. In the wake of deepening market uncertainty, exploration and 
+
+production companies have been lowering activities and deferring projects as they cut their 
+
+planned expenditures and investments. This, in turn, is adversely affecting the demand for 
+
+oilfield services in the supply chain. 
+
+ 
+
+We will continue to strengthen our network in the Middle East region during this challenging 
+
+period to prepare the Group for a recovery in offshore activities when the time comes. 
+
+Simultaneously, as we pursue our business development plans, we are also keeping a close 
+
+watch on operational costs and continually working to enhance the Group's operational 
+
+efficiency. 
+
+ 
+
+
+ 
+
+ 
+
+2 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+Moving forward, the Board will continue to support the Group to create long-term value for 
+
+our stakeholders through responsible business practices for a sustainable future. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+3 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+
+
+ORGANISATIONAL PROFILE  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Vallianz is an established provider of OSVs and integrated offshore marine solutions to the oil 
+
+and gas industry. The Company is a limited liability company incorporated in Singapore and 
+
+listed on the Catalist Board of the Singapore Exchange Securities Trading Limited ("SGX-ST"). 
+
+Vallianz's controlling shareholder is Rawabi Holding Company Limited ("Rawabi"), which owns 
+
+56.77% of the shares. Rawabi is a company that provides products and services to a diversified 
+
+range of key industries and headquartered in the Kingdom of Saudi Arabia.  For more 
+
+information on the shareholdings, please refer to page 153 of the FY2020 annual report.  
+
+The Group is headquartered in Singapore. Its core business activities are vessel ownership, 
+
+chartering, brokering and the provision of complementary vessel management services in the 
+
+Middle East, North Africa, Central Asia and Southeast Asia.  
+
+In FY2020, Vallianz owns and operates a fleet of 61 Offshore Support Vessels ("OSV"), while 
+
+our associate, PT Vallianz Offshore Maritim, owns and operates another 9 OSVs.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+4 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+OUR BUSINESS MODEL  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• With 61 OSVs with an average age of 6.8 years and another 9 OSVs under our 
+
+associate, the Group currently serves offshore oil and gas projects in Middle 
+
+East, North Africa, Central Asia and Southeast Asia.  
+
+• We are constantly assessing various plans to expand the size and range of our 
+
+vessels to enhance our market competitiveness.
+
+Vessel Owners
+
+• The Group charters its offshore support vessels to customers throughout
+
+various stages of their offshore oil and gas exploration, development and
+
+production projects. They are used in activities that include seismic surveys
+
+during the exploration phase, positioning of rigs during the development of the
+
+oil and gas fields, towing, mooring and handling of ship anchors and
+
+transportation of supplies during the production period and the removal of rig
+
+structures at de-commissioning.
+
+Chartering
+
+• The Group provides a suite of vessel management services for both owned
+
+vessels and third party vessels. The Group is able to manage and operate a
+
+diverse range of vessels deployed in different phases of offshore oil and gas
+
+operations. Its services include crewing, procurement, vessel repair and
+
+maintenance, and facilitating port and documentation clearance.
+
+Vessel 
+
+Management
+
+• The
+
+Group
+
+also
+
+provides
+
+brokering
+
+services
+
+that
+
+match
+
+customers’
+
+requirements. This includes sourcing for vessels,
+
+arranging
+
+for
+
+assist tugs
+
+and/or harbour movements, making initial contact with vessel owners or vessel
+
+buyers, acting as an intermediary between (a) the vessel owner and the
+
+charterer for towage, time and bareboat charters and (b) the seller and buyer of
+
+vessels, and assisting with the drafting of related agreements and negotiations.
+
+Brokering
+
+Vessel 
+
+Ownership  
+
+With 62 OSVs with an 
+
+average age of 4.9 years 
+
+and another 14 OSVs 
+
+under our associate, the 
+
+Vessel 
+
+Management 
+
+The Group provides a 
+
+diversified range of 
+
+vessel management 
+
+services, which can be 
+
+Brokering  
+
+ 
+
+The relieve customers 
+
+the difficulties and 
+
+perplexities of 
+
+buying/selling vesselsOur 
+
+
+ 
+
+ 
+
+5 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+MISSION AND VISION 
+
+ 
+
+We aspire to become a leading provider of offshore marine services in the global energy 
+
+markets and be our customers' preferred partner and strive for service excellence by ensuring 
+
+safe, reliable and efficient vessel operations with a best-in-class fleet to support the offshore 
+
+oil and gas industry. 
+
+We believe in the following 5 TRADEmark values which we instill in all our employees: 
+
+ 
+
+ 
+
+We are trusted for our integrity, honesty, reliability, fairness and sincerity 
+
+in our work with our partners, customers and employees.
+
+Trust
+
+We respect and value each other's views. We respect the laws of the 
+
+countries we operate in and the confidentiality of information provided by 
+
+our clients and employees. We win as a team.
+
+Respect
+
+We affirm and recognise the contributions made by our partners, clients 
+
+and employees to the success of our business. We value our employees, 
+
+encourage their contributions and develop them to their fullest potential. 
+
+We practice the 101% principle in affirmation - finding the 1% we can 
+
+affirm, and giving it 100% of our attention.
+
+Affirmation
+
+We are determined to succeed and will always rise up to any challenge. 
+
+We are known for our resolve in solving any problems faced by us or our 
+
+clients and partners.
+
+Determination
+
+We excel in everything that we do and are committed to delivering jobs of 
+
+the highest quality, exceeding our customers' expectations.
+
+Excellence
+
+
+ 
+
+ 
+
+6 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ABOUT THE REPORT 
+
+ 
+
+REPORTING FRAMEWORK 
+
+This report is prepared in compliance with Catalist Rules 711A, 711B and Practice Note 7F 
+
+Sustainability Reporting Guide of the SGX-ST and Global Reporting Initiatives ("GRI") 
+
+Standards: Core option, the universally recognized guideline in disclosing material 
+
+sustainability matters.  
+
+ 
+
+REPORTING SCOPE AND PERIOD 
+
+This report covers information for FY2020 from 1 April 2019 to 31 March 2020 and addresses 
+
+the Group's approach towards EESG issues.  
+
+ 
+
+ACCESSIBILITY AND FEEDBACK 
+
+As part of our environmental conservation efforts, the Group will not be printing this 
+
+sustainability 
+
+report. 
+
+This 
+
+report 
+
+will 
+
+be 
+
+made 
+
+available 
+
+for 
+
+download 
+
+at 
+
+http://www.vallianzholdings.com/ir.html 
+
+We are committed to listening to our stakeholders and look forward to your feedback. Please 
+
+send feedback and inquiries to http://www.vallianzholdings.com/contact.html. 
+
+ 
+
+INDEPENDENT ASSURANCE 
+
+Independent assurance has not been sought for this report.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+7 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+SUPPLY CHAIN MANAGEMENT 
+
+ 
+
+At Vallianz, we integrate our sustainability strategy of the EESG material topics into our value 
+
+and supply chain.  This takes into account our desire to achieve efficient business operations 
+
+and stakeholders' interests in our operations and on sustainability issues.  
+
+ 
+
+We aim to build a responsible and sustainable supply chain by setting clear standards for our 
+
+business supply partners. By applying it into our supply chain management, we strengthen 
+
+the selection process of suppliers, monitor risks in the priority areas of our supply chain and 
+
+work closely with suppliers to drive social and environmental change in order to take strides 
+
+towards a more sustainable platform. By improving the oversight of our supply chain, we can 
+
+identify opportunities to streamline and reduce costs, protect our reputation and the safety 
+
+of our customers. 
+
+ 
+
+The diagram below shows the procurement process of the Group:  
+
+ 
+
+ 
+
+ 
+
+In FY2020, there were no significant events that warranted the board members' attention 
+
+that may have led to cessation or termination of our current relationship with any of our 
+
+major suppliers. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Shortlist 
+
+categories 
+
+for tender 
+
+process
+
+
+
+
+
+Quotations 
+
+obtained 
+
+from a 
+
+vendor
+
+
+
+
+
+Selection 
+
+of vendors 
+
+are based 
+
+on factors 
+
+such as 
+
+quality, 
+
+service 
+
+level and 
+
+price
+
+
+
+
+
+Supply 
+
+Agreement 
+
+in place
+
+
+
+
+
+Raising  
+
+relevant 
+
+Purchase 
+
+Order/  
+
+Blanket 
+
+Order
+
+
+
+
+
+Send the 
+
+order to 
+
+the vendor
+
+
+ 
+
+ 
+
+8 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+COMMUNITY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+COVID-19 Pandemic 
+
+ 
+
+The health and safety of staff and visitors is our prime concern. During this period of the 
+
+COVID-19 pandemic, the Singapore office has adopted the following measures since February 
+
+2020. The measurements were updated from time to time following advisory from the 
+
+Ministry of Manpower (MOM).   
+
+ 
+
+Temperature screening and health and travel declarations are mandatory for all employees 
+
+and visitors entering the office.   
+
+ 
+
+Following the temperature taking and declarations, the following persons will not be allowed 
+
+entry: 
+
+ 
+
+• Anyone who has been in contact with any person who is a confirmed case of COVID-19 in 
+
+the past 14 days; or 
+
+• Anyone currently having fever / flu-like symptoms. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+9 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+In addition, the Singapore office has implemented the following: 
+
+ 
+
+• A core COVID-19 committee was set up, led by the Vice-Chairman and CEO, to plan and 
+
+manage the pandemic; 
+
+• Employees were required to work from home as a default; 
+
+• Split team arrangements and staggered working hours were implemented for employees 
+
+who need to work in the office; 
+
+• There is a monitoring plan to ensure compliance with the Safe Management Measures; 
+
+• Safe Management Officers were appointed to assist in the implementation, coordination 
+
+and monitoring of Safe Measurement Measures at the workplace; 
+
+• Sufficient masks, hand sanitizer and disinfectant sprays were prepared for all employees; 
+
+• Employees and visitors to the office must declare via SafeEntry before being allowed to 
+
+enter the office;  
+
+• Employees and visitors are required to wear masks at all times and are constantly 
+
+reminded to keep a safe distance of 1 meter apart;  
+
+• Office cleaning measures; and  
+
+• Management of unwell and infected cases. 
+
+ 
+
+All employees are reminded to take the following safety precautions as advised by Ministry 
+
+of Health (“MOH”): 
+
+ 
+
+• Avoid contact with live animals including poultry and birds and consumption of raw and 
+
+undercooked meats; 
+
+• Avoid crowded places and close contact with people who are unwell or showing 
+
+symptoms of illness; 
+
+• Observe good personal hygiene; 
+
+• Practice frequent hand washing with soap (e.g., before handling food or eating, after 
+
+going to the toilet, or when hands are dirtied by respiratory secretions after coughing or 
+
+sneezing); and 
+
+• Seek immediate medical attention promptly if one is feeling unwell. 
+
+ 
+
+Care Corner Singapore 
+
+ 
+
+Over the years, Vallianz regularly organized the annual Lunar New Year dinner for the Seniors 
+
+of Care Corner Senior Services Ltd ("CCSS"). 2020 marks the 9th year of partnering with CCSS, 
+
+which operates a total of six Senior Activity Centres – five in Toa Payoh and one in Woodlands. 
+
+However, in the year 2020, due to the COVID-19 pandemic, Vallianz was unfortunately unable 
+
+to organize the annual Chinese New Year dinner with the elderlies of Care Corner. In this 
+
+challenging time, Vallianz is even more committed to ensuring that the elderlies of Care 
+
+Corner continue to be well taken care of.  
+
+ 
+
+
+ 
+
+ 
+
+10 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+Vallianz continues to support the daily hot meals program, ensuring that elderlies of Care 
+
+Corner have access to nutritious and delicious food. Food hampers containing essential items 
+
+had been distributed to the elderlies as a token of support during this uncertain period. 
+
+Mooncakes were distributed to the elderlies during the Mid-Autumn Festival. The Vallianz 
+
+team hopes that with these gestures, the residents of Care Corner will be able to enjoy the 
+
+festivals in the comfort of their own homes. 
+
+ 
+
+Blood Donation Campaign 2019 
+
+ 
+
+We are committed to our local community. We believe in inspiring our employees to give 
+
+back wholeheartedly in response to the community's evolving needs.  
+
+ 
+
+Every quarter, Rawabi's Corporate Social Responsibility ("CSR") Department, with the support 
+
+and cooperation of Eithar Foundation for Promoting Organ Donation and the Regional Blood 
+
+Bank in Dammam, organized a Blood Donation Campaign in August 2019 as part of Rawabi 
+
+CSR's Corporate Community Service Program, which aims to facilitate blood donation by our 
+
+employees by bringing the blood bank staff and facilities to the workplace and making it easy 
+
+for employees to donate during working hours. The campaign also aims to support local 
+
+hospitals with blood supply during high seasons such as The Holy Month of Ramadan, Hajj–
+
+pilgrimage season and summer vacations. 
+
+ 
+
+These campaigns take place in all the Business Units locations, of which our employees from 
+
+the Company's subsidiary, Rawabi Vallianz Offshore Services Company Limited ("RVOS"), 
+
+were involved and blood is collected from employees, their family members, friends and 
+
+employees from nearby companies. Donors from Rawabi receive volunteer points for each 
+
+donation they make and get rewarded on a yearly basis according to their points during the 
+
+Community Service Appreciation Ceremony, attended by the Chairman of the Rawabi Group 
+
+
+
+
+ 
+
+ 
+
+11 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+and Management teams from all companies under the Rawabi Group. Rewards are financial 
+
+donations made on their behalf to a charity of their selection. 
+
+ 
+
+152 donors successfully donated 85.6 litres of blood to needy patients.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Warmth of Giving Campaign  
+
+ 
+
+Rawabi's CSR Department launched the Warmth of Giving Campaign in December 2019 as an 
+
+initiative to relieve those in need from suffering during the winter by providing jackets, gloves, 
+
+ice caps, scarves and warm socks. The targeted beneficiaries included street workers and less 
+
+privileged individuals. Thanks to our employees' participation and support, we were able to 
+
+secure 172 winter bags with a total cost of SAR 5000 (US$1,333). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+12 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ETHICS AND INTEGRITY 
+
+ 
+
+WHISTLEBLOWING 
+
+ 
+
+Vallianz has zero-tolerance for fraud, bribery and corruption, and the Group has established 
+
+a whistleblowing policy to ensure the Group's business is conducted ethically and complies 
+
+with the best practices set out in the Group's policies.  
+
+ 
+
+A whistleblowing channel has been established to allow employees to gain direct access to 
+
+the Audit Committee. By doing so, all stakeholders in the Group can be assured that all reports 
+
+or suspicions of potential breaches of the Group's Employee Guidelines are well managed.  
+
+ 
+
+We are pleased to share that no whistleblowing reports were received for FY2020 and there 
+
+were no reported incidents concerning anti-corruption and anti-fraud regulations for FY2020. 
+
+ 
+
+GOVERNANCE AND SUSTAINABILITY  
+
+ 
+
+We ensure that all our business units comply with all laws and regulations in the 
+
+environmental, social and economic boundaries, such as related environmental regulations, 
+
+labor laws, personal data security regulations, employment regulations and income tax laws. 
+
+Any material breaches of laws or rules could create a significant impact and result in 
+
+irreversible reputational damage to the Group. In view of this, the Group is committed to 
+
+adhere to high corporate governance standards, ensuring compliance with all applicable laws 
+
+and regulations.  
+
+ 
+
+The Group manages the risk of non-compliance with relevant laws and regulations by having 
+
+clear policies and procedures that state all employees' responsibilities and obligations and 
+
+senior Management.  
+
+ 
+
+CONFLICT OF INTEREST POLICY  
+
+ 
+
+Our conflict of interest policy has been reviewed periodically, which would be communicated 
+
+to all key management staff. Every key management staff is required to promptly disclose any 
+
+conflict of interest, whether direct or indirect, in relation to a transaction or proposed 
+
+transaction with the Group as soon as is practicable after the relevant facts have come to 
+
+his/her knowledge. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+13 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+GOVERNANCE STRUCTURE 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+ 
+
+The Board is committed to upholding high standards of corporate governance practices 
+
+throughout the Group that aligns with the Code of Corporate Governance 2018. The Board 
+
+will ensure that there is compliance with the other relevant regulations, notices, circulars and 
+
+guidelines that may be issued by the Monetary Authority of Singapore ("MAS") and the SGX-
+
+ST.  Explanations will be provided should there be any deviations.  
+
+ 
+
+The Board manages potential risks through the review and approval of policies and 
+
+procedures. The Management then ensures that the identified risks are relevant to the 
+
+business environment and ensures controls or mitigating topics are in place.  The Audit 
+
+Committee of the Company provides independent oversight of the effectiveness of the risk 
+
+management process. 
+
+ 
+
+The Board comprises Directors who provide core competencies in accounting and finance, 
+
+business experience, industry knowledge, strategic planning and legal knowledge.  Where 
+
+appropriate, the Directors receive relevant briefings from time to time on new updates in 
+
+relation to regulatory changes to accounting standards, listing rules, corporate governance 
+
+and other regulations or statutory requirements. 
+
+ 
+
+The independent and non-executive directors of the Company constructively challenge and 
+
+assist in developing proposals on strategy, helping the Board in reviewing the performance of 
+
+Management in meeting the agreed goals and objectives and monitoring the reporting of 
+
+performance.  Meetings are held regularly to discuss any matters without the presence of 
+
+Management as and when circumstances require. 
+
+ 
+
+Each key executive at the Group's leadership is highly experienced in this industry and 
+
+collectively as a whole, are able to handle all operational matters of the Group competently. 
+
+
+ 
+
+ 
+
+14 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+We prioritize our stakeholders for engagement based on the significance of their influence on 
+
+our business and our dependency on them. We engage our key stakeholders regularly to 
+
+ensure two-way communication, and this is summarised in the table below: 
+
+Stakeholders 
+
+Method of Engagement 
+
+Key Topics of Concern 
+
+STAKEHOLDERS 
+
+COMMUNICATION CHANNELS 
+
+STAKEHOLDER FOCUS 
+
+Customers 
+
+• 
+
+Feedback channels including 
+
+emails and hotlines 
+
+• 
+
+Site visits  
+
+• 
+
+Informal feedback sessions 
+
+ 
+
+• 
+
+Excellent service 
+
+• 
+
+Economic performance  
+
+• 
+
+Occupational health and safety 
+
+ 
+
+Suppliers 
+
+• 
+
+Regular meetings and dialogue 
+
+sessions 
+
+• 
+
+Supplier evaluations 
+
+• 
+
+HSE questionnaires for key 
+
+contractors 
+
+• 
+
+Good relationship 
+
+• 
+
+Fair market practices 
+
+• 
+
+Timely payments 
+
+• 
+
+Prospects of business growth 
+
+ 
+
+Employees 
+
+• 
+
+Induction program for new 
+
+employees 
+
+• 
+
+Company events 
+
+• 
+
+Informal feedback channels 
+
+• 
+
+Performance appraisals 
+
+ 
+
+• 
+
+Fair employment practices 
+
+• 
+
+Opportunities to learn and grow 
+
+• 
+
+Recognition of efforts 
+
+• 
+
+Occupational health and safety 
+
+Shareholders and 
+
+financial investors 
+
+• 
+
+Annual general meetings 
+
+• 
+
+Annual reports 
+
+• 
+
+Half and full-year results 
+
+announcements 
+
+• 
+
+SGXNet announcements 
+
+• 
+
+Shareholder circulars 
+
+ 
+
+• 
+
+Financial Performance 
+
+• 
+
+Investment returns 
+
+• 
+
+Transparency and timely 
+
+reporting 
+
+Government and 
+
+regulators  
+
+• 
+
+Participation in discussions and 
+
+consultations 
+
+• 
+
+Seminars by local government 
+
+agencies 
+
+ 
+
+• 
+
+Adherence to laws and 
+
+regulations 
+
+• 
+
+Timely reporting of issues  
+
+• 
+
+Sharing of industry best 
+
+practices 
+
+ 
+
+Community 
+
+• 
+
+Community outreach activities  
+
+• 
+
+Engagement with community 
+
+projects and charities 
+
+• 
+
+Social responsibility 
+
+• 
+
+Environmental responsibility 
+
+ 
+
+Feedback from our key stakeholders form a crucial part of our strategic and business planning 
+
+and is viewed as valuable insights for the Group to continuously improve its sustainability 
+
+performance. The material topics were evaluated in FY2020 for its potential impact on the 
+
+environment and society, its influence on the stakeholders, and its impact on the Group's 
+
+operations.  
+
+
+ 
+
+ 
+
+15 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+The Board and senior management aim to conduct an annual review of the Group's material 
+
+topics as well as monitor the performance of the issues as part of the Group's sustainability 
+
+strategy. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+16 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+MATERIALITY ASSESSMENT 
+
+ 
+
+The Group adopts a four-step process to define the material topics: 
+
+ 
+
+ 
+
+ 
+
+Based on the Group's internal assessment where there were no significant changes in the 
+
+business and the operating environment, the Board is of the opinion that the materiality 
+
+assessment from FY2018 continues to be valid and relevant for the Group in FY2020. 
+
+ 
+
+Identification
+
+• Identify material 
+
+topics that are 
+
+important to the 
+
+Group.
+
+Prioritisation
+
+• Prioritise material 
+
+topics under the 
+
+respective GRI 
+
+Topic-specific 
+
+Standards and 
+
+identifies key 
+
+sustainablity topics to 
+
+be reported upon.  
+
+Validation
+
+• Validate 
+
+completeness of the 
+
+key sustainability 
+
+topics to finalise 
+
+report content.
+
+Review
+
+• Re-examine the 
+
+material topics taking 
+
+into consideration 
+
+changing business 
+
+landscape and 
+
+emerging trends.
+
+
+ 
+
+ 
+
+17 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+MATERIAL TOPICS 
+
+ 
+
+Management re-evaluated the topicsin FY2020, and all topics were deemed to be material to 
+
+the Group. As such, the Management recommended to the Board the same topics to be the 
+
+material topics to be reported in FY2020. 
+
+ 
+
+Topic 
+
+Description 
+
+Target 
+
+Economic 
+
+Performance 
+
+(GRI 201-1) 
+
+Our economic performance, the 
+
+value generated and distributed to 
+
+communities where our business 
+
+operates. 
+
+• 
+
+To maintain our competitive edge 
+
+and continue to deliver sustainable 
+
+growth through securing longterm 
+
+charter contracts and focusing 
+
+efforts on driving new service 
+
+innovations and business offerings. 
+
+ 
+
+Occupational 
+
+Health and Safety  
+
+(GRI 403-9) 
+
+Safety is an essential part of our 
+
+operations, and we continuously 
+
+strive to improve our safety 
+
+practices. 
+
+• 
+
+Remain focused on operating safely 
+
+and healthily to ensure that no 
+
+employees will be inflicted with 
+
+severe accidents or injuries. 
+
+• 
+
+Comply with the safety laws and 
+
+regulations. 
+
+ 
+
+Talent 
+
+Management  
+
+(GRI 404-1) 
+
+Employees are our greatest asset. 
+
+We undertake fair employment 
+
+practices to achieve a diverse and 
+
+inclusive environment for our 
+
+employees.   
+
+ 
+
+• 
+
+To provide equal employment 
+
+opportunities, regardless of age and 
+
+gender. 
+
+• 
+
+To retain exceptional employees 
+
+and to create a higher-performing 
+
+workforce. 
+
+Environmental  
+
+Protection 
+
+(GRI 307-1) 
+
+Environmental 
+
+protection 
+
+is 
+
+paramount to our sustainability 
+
+efforts. The Group is committed to 
+
+adopting environmentally efficient 
+
+and sustainable business methods, 
+
+such as sourcing from ethically and 
+
+environmentally friendly suppliers 
+
+and ensuring no violation of various 
+
+regional environmental laws and 
+
+regulations where we operate in.  
+
+ 
+
+• 
+
+Continuous 
+
+improvements 
+
+in 
+
+energy 
+
+efficiency 
+
+and 
+
+energy 
+
+management. 
+
+• 
+
+Comply 
+
+with 
+
+the 
+
+local 
+
+environmental 
+
+laws 
+
+and 
+
+regulations.  
+
+Regulatory and 
+
+Legal Compliance  
+
+(GRI 419-1) 
+
+Measures in place to ensure that 
+
+there are no significant fines 
+
+incurred by the Company and that 
+
+the Company is in full compliance 
+
+with the laws and regulations in 
+
+place, and impact to stakeholders 
+
+negligible and non-adverse. 
+
+ 
+
+• 
+
+Adhere to Company's zero-tolerance 
+
+policy towards fraud, corruption and 
+
+unethical actions. 
+
+• 
+
+Comply and maintain the relevant 
+
+legal rules and regulations. 
+
+
+ 
+
+ 
+
+18 | P a g e 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ECONOMIC PERFORMANCE 
+
+ 
+
+ 
+
+ 
+
+* On 24 January 2019, the Company completed a share consolidation exercise to consolidate every thirty (30) existing ordinary shares into 
+
+one (1) ordinary share. The weighted average number of ordinary shares and total number of shares issued for FY2018 have been restated 
+
+for the purpose of the calculation of earnings per share and net asset value per share. 
+
+ 
+
+ 
+
+The Group's revenue in FY2020 edged up to US$188.6 million from US$184.5 million in FY2019. 
+
+This was driven mainly by higher revenue from core chartering and brokerage business, which 
+
+benefited from incremental revenue contribution from new vessel charter contracts. 
+
+ 
+
+Amid a highly competitive landscape for offshore support vessel providers, the Group still 
+
+chalked up an increase in revenue from chartering and brokerage services to US$179.4 million 
+
+in FY2020 from US$167.1 million in FY2019. This performance was buoyed primarily by the 
+
+Group's long-term vessel charter contracts with a Group's key customer in the Middle East. 
+
+The chartering and brokerage services business accounted for 95% of the Group's revenue in 
+
+FY2020 compared to 91% of the Group's revenue in FY2019. The remaining 5% of revenue 
+
+was derived mainly from the provision of vessel management services. 
+
+ 
+
+As announced by the Company on 16 April 2020, the Group's controlling shareholder Rawabi 
+
+had assigned its 50% economic rights in Rawabi Vallianz  International   Company  Limited 
+
+
+
+
+ 
+
+ 
+
+19 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+
+
+("RVIC"), which is the Group's 50%-owned joint venture company in the Middle East, to 
+
+Vallianz Investment Capital Pte Ltd ("VIC") with effect from 1 October 2019.  
+
+ 
+
+Since RVIC is being treated as a wholly-owned subsidiary following the 50% economic rights 
+
+assignment in RVIC by RHC to the Company with effect from 1 October 2019,  the Group has 
+
+consolidated RVIC's financial results. This reflects the better operating gross profit margin of 
+
+the chartering and brokerage business, where the cost of sales will reflect the depreciation of 
+
+the Group's vessels instead of accounting for the financing obligations of RVIC as the cost of 
+
+sales. 
+
+ 
+
+In light of the prevailing challenges and prolonged downturn in the offshore and marine 
+
+market, the Group conducted an in-depth evaluation of its vessels and the recoverability of 
+
+prepayments. As a result of this evaluation, the Group recorded impairments to property, 
+
+plant and equipment of US$53.1 million and prepayments written-off of US$20.9 million in 
+
+FY2020. There was also a compensation for late delivery of vessels of US$26.2 million and fair 
+
+value loss on derivative financial instruments of US$3.4 million. In total, the Group recorded 
+
+exceptional items of US$103.6 million in FY2020. 
+
+ 
+
+As a result of the exceptional items, higher finance cost and lower gross profit in FY2020, the 
+
+Group posted a net loss attributable to owners of the Company of US$134.9 million compared 
+
+to a net loss of US$128.2 million in FY2020.
+
+
+ 
+
+ 
+
+20 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+At Vallianz, the safety of our employees is our utmost priority. We are committed to providing 
+
+a safe and healthy environment for all our employees, especially our seafarers and workers 
+
+working on the ships and the shipyards. Our investment in improving Occupational, Health 
+
+and Safety (OHS) policies and practices continues to be unabated. This strong focus on safety 
+
+serves as an enduring and differentiating competitive advantage.  
+
+ 
+
+We operate in conformation with the various internationally recognized standards and codes, 
+
+including ISO 9001: 2015, OHSAS 18001: 2007, ISO 14001: 2015 and the International Safety 
+
+Management (ISM) Code. The ISM code is the International Maritime Organization (IMO) 
+
+requirement for safe management and operation of ships and pollution prevention. 
+
+Compliance with local legislation relating to health and safety standards are in place. 
+
+Following the latest changes, we are in the process of converting from OHSAS 18001: 2007 to 
+
+ISO 45001: 2018 in line with industry standards in the year 2020. 
+
+ 
+
+OHSAS refers to the Occupational Health and Safety Assessment Series, which is a British 
+
+Standard for occupational health and safety management systems; while International Safety 
+
+Management (ISM) Code is an international standard for the safe operation of ships and for 
+
+pollution prevention. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+21 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+We have in place a Company Safety Management System ("SMS") with policies and 
+
+procedures based on these codes, standards and local legislation. This applies to both our 
+
+ship and shipyard operations. The SMS is periodically reviewed by senior management to 
+
+ensure the relevancy and adequacy for the Group. 
+
+ 
+
+We keep track of the number of occupational incidents to continuously reduce the number 
+
+of preventable incidents occurring each year. There were two (2) incidents in 2019, both 
+
+involving our vessels. The first incident was a grounding incident where the vessel could float 
+
+itself on the next tide without sustaining any damage. The second incident was due to a 
+
+leakage in the cooling line system, which caused the vessel's bow thruster to shut down. 
+
+Response to the incidents was managed promptly and there were no injuries or casualties. 
+
+ 
+
+Beside the two above-mentioned incidents, there were no fatalities and high consequence 
+
+work-related injuries in the workplace for the reporting period. Moving forward, we hope to 
+
+achieve zero safety-related incidents in FY2021 and beyond.  
+
+We believe that the way to achieve our zero-incident target and long-term sustainability is 
+
+our occupational health and safety effort to focus on prevention measures. These include 
+
+well-designed vessels and workplaces, competent staff and crew, good policies and 
+
+procedures, and committed leadership. That is our commitment. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+22 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+TALENT MANAGEMENT  
+
+ 
+
+ 
+
+At Vallianz, we strive to optimize our available talent pool. We are continually looking to add 
+
+talent from outside our organization to add greater strength and depth to our overall human 
+
+resources.  This is a cornerstone of the Group's long-term human resources strategy. 
+
+ 
+
+To develop and strengthen our overall human resources framework, we continuously explore 
+
+competitive compensation and retention schemes and re-skilling and up-skilling programs to 
+
+offer our employees a vibrant, inclusive and progressive career with Vallianz. 
+
+ 
+
+OUR WORKFORCE 
+
+ 
+
+We recruit dynamic individuals from diverse backgrounds and provide employees with equal 
+
+opportunities to discover their full potential. We believe that maintaining a culture of two-
+
+way communications in the workplace is essential for enhancing employee engagement, 
+
+building effective teams and fostering a better work environment for all. 
+
+ 
+
+The employees in the Group can be classified as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+By Employment Contract 
+
+ 
+
+Permanent 
+
+Temp / Contract 
+
+Total 
+
+Male  
+
+331 
+
+65 
+
+396 
+
+Female 
+
+73 
+
+9 
+
+82 
+
+Total 
+
+404 
+
+74 
+
+478 
+
+
+ 
+
+ 
+
+23 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+DIVERSITY AND FAIR EMPLOYMENT PRACTICES/EQUAL EMPLOYMENT OPPORTUNITIES  
+
+ 
+
+At Vallianz, we strongly advocate fair employment practice and provide equal employment 
+
+opportunities to achieve a fair working environment, regardless of age and gender. Human 
+
+resource planning ensures that only suitable candidates are hired for the jobs through our 
+
+adequate recruitment and selection process. The Group embraces diversity and we recognize 
+
+the importance of creating an all-inclusive environment where our employees can treat each 
+
+other respectfully, honestly and equally.  
+
+ 
+
+APPRAISALS AND EVALUATION  
+
+ 
+
+The Group conducts a performance review with all employees on an annual basis. This process 
+
+enables us to assess and evaluate every individual's abilities and recognize employees' 
+
+contributions and efforts. With a better understanding of our employees' capabilities and 
+
+progress, we can provide them with opportunities for personal development and career 
+
+advancement through training and promotions.  
+
+We believe in a robust and fair reward system to motivate our employees to achieve 
+
+performance targets aligned with the Group's business objectives. Employees are rewarded 
+
+accordingly when the specific targets are met. The Group treasures talent and aims to retain 
+
+productive employees with the relevant skills and positive work attitude.  
+
+ 
+
+TRAINING AND DEVELOPMENT 
+
+ 
+
+  
+
+ 
+
+ 
+
+
+
+ 
+
+By Region 
+
+ 
+
+Singapore 
+
+Indonesia 
+
+Saudi Arabia 
+
+Total 
+
+Male  
+
+46 
+
+151 
+
+199 
+
+396 
+
+Female 
+
+27 
+
+34 
+
+21 
+
+82 
+
+Total 
+
+73 
+
+185 
+
+220 
+
+478 
+
+ 
+
+By Employment Type 
+
+ 
+
+Full-Time 
+
+Part-Time 
+
+Total 
+
+Male  
+
+396 
+
+0 
+
+396 
+
+Female 
+
+82 
+
+0 
+
+82 
+
+Total 
+
+478 
+
+0 
+
+478 
+
+ 
+
+
+ 
+
+ 
+
+24 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+We recognize that our people underpin our operational and safety excellence around the 
+
+world. Hence, we continue to develop our human capital and cultivate a deep pool of talent 
+
+that shares our core values to take Vallianz forward while ensuring their safety and welfare. 
+
+We also review and improve our systems annually to entrench a culture of excellence and 
+
+best practice for all employees – onshore and offshore. We do this with a robust training 
+
+calendar to continually improve and broaden our employees' skillsets, reinforce safety 
+
+awareness and instill a shared sense of corporate values.  
+
+ 
+
+The Group provides all employees with training opportunities to perform their job duties 
+
+efficiently whenever necessary, with 997 hours recorded for FY2020. The total training hours 
+
+provided to employees in the Group are classified as follows: 
+
+ 
+
+FY2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We invest in the training of our people for them to achieve their full potential. We also offer 
+
+our talented employees opportunities to take on more challenging postings and transfers to 
+
+groom them for greater responsibilities.  
+
+ 
+
+At Vallianz, we encourage lifelong learning among our employees to embrace the changes 
+
+and prepare themselves in this ever-changing and dynamic industry. The Group does not have 
+
+any specific target for training hours as we only believe in retaining exceptional employees in 
+
+our ranks. Employees will be sent for training whenever necessary to improve their skill sets. 
+
+ 
+
+ 
+
+Training Hours 
+
+ 
+
+Non-Executive 
+
+Executive 
+
+Total 
+
+Male  
+
+641 
+
+120 
+
+761 
+
+Female 
+
+216 
+
+20 
+
+236 
+
+Total 
+
+857 
+
+140 
+
+997 
+
+ 
+
+Training Hours 
+
+ 
+
+Non-
+
+Executive 
+
+Executive 
+
+Total 
+
+Male  
+
+94 
+
+191 
+
+285 
+
+Female 
+
+6 
+
+69 
+
+75 
+
+Total 
+
+100 
+
+260 
+
+360 
+
+
+ 
+
+ 
+
+25 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+26 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ENVIRONMENTAL PROTECTION 
+
+ 
+
+Operating in the OSV and chartering industry, Vallianz remains dedicated to our long-term 
+
+responsibility to protect the environment. We consistently review our policies and practices 
+
+to optimize energy, water and waste management within the Group. Through energy-
+
+efficient practices and adhering to the principles of "Reduce, Reuse and Recycle." Vallianz 
+
+conducts the business in a sustainable manner. 
+
+ 
+
+ 
+
+ 
+
+We actively reiterate the significance of environmental conservation to our workforce and 
+
+have implemented several policies to reduce the amount of waste produced. For instance, 
+
+we encourage our employees to print all the hardcopies in double-sided instead of single-
+
+sided in our workplaces and recycling/reuse  used materials wherever possible.  
+
+ 
+
+We actively monitor our operations and processes to remove potential sources of waste and 
+
+leakages. Additionally, we have incorporated energy conservation measures in our standard 
+
+operating procedures throughout the Group and follow best practices such as switching off 
+
+our air-conditioning units and lights during non-working hours. 
+
+ 
+
+ 
+
+We are pleased to announce that there were no reports/incidences of non-compliance with 
+
+environmental laws and regulations for FY2020, and we aim to maintain this for FY2021 and 
+
+beyond.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+27 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+REGULATORY AND LEGAL COMPLIANCE 
+
+ 
+
+ 
+
+Vallianz is committed to complying with fundamental laws and regulations as we operate in 
+
+the highly regulated OSV and chartering industries. Besides establishing whistleblowing and 
+
+anti-corruption policies, we also have a legal policy that states the Group's commitment to 
+
+conduct business with integrity, fairness, impartiality, ethically and adequately. 
+
+ 
+
+We monitor periodically for our existing customers and vendors. This ensures that we stay 
+
+vigilant and remain up to date with the latest international sanction requirements.  
+
+ 
+
+Our compliance guidelines and policy requirements are aligned with industry standards and 
+
+requirements. Also, we focus on our community responsibilities as corporate citizens. We 
+
+take these responsibilities very seriously, including paying our fair share of taxes, corporate 
+
+income taxes and social contributions. Our commitment to these responsibilities is also 
+
+embodied in our corporate culture. Tax payments to the relevant authorities are in 
+
+accordance with applicable anti-corruption laws and regulations, rules and regulations.  
+
+ 
+
+We are pleased to report that there was no reportable non-compliance to the local anti-
+
+corruption laws and regulations across the Group in FY2020, and we aim to maintain zero 
+
+violation of the laws and regulations for FY2021 and beyond.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+28 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+GLOBAL REPORTING INITIATIVE INDEX 
+
+ 
+
+ 
+
+GRI Standards/ Disclosures 
+
+Page Reference and Reasons for Omission, if 
+
+applicable 
+
+Organisational Profile 
+
+102-1 Name of the organisation  
+
+3 
+
+102-2 Activities, brands, products, and services 
+
+3 - 4 
+
+102-3 Location of headquarters  
+
+3 
+
+102-4 Location of operations 
+
+3 
+
+102-5 Ownership and legal form  
+
+3 
+
+102-6 Markets served 
+
+3 
+
+102-7 Scale of the organisation 
+
+6 - 8, 17 &amp; 56-57 of  Annual Report 2020  
+
+102-8 Information on employees and other workers  
+
+22 - 24 
+
+102-9 Supply chain  
+
+7 
+
+102-10 Significant changes to the organisation and its supply chain 
+
+None 
+
+102-11 Precautionary principle or approach  
+
+13 - 14 
+
+102-12 External initiatives 
+
+ 
+
+Not applicable as there are no externally 
+
+developed economic, environmental and social 
+
+charters, principles, or other initiatives to which 
+
+Vallianz subscribes, or which it endorses within 
+
+the scope of this report. 
+
+102-13 Membership of associations 
+
+Not applicable  
+
+Strategy 
+
+102-14 Statement from senior decision maker 
+
+1 - 2 
+
+Ethics and Integrity 
+
+102-16 Values, principles, standards, and norms of behaviour 
+
+5, 12 
+
+Governance 
+
+102-18 Governance structure 
+
+13 
+
+Stakeholder Engagement 
+
+102-40 List of stakeholder groups 
+
+14 
+
+102-41 Collective bargaining agreements 
+
+Not applicable as all employees within the scope 
+
+of this report are not covered by collective 
+
+bargaining agreements. 
+
+102-42 Identifying and selecting stakeholders 
+
+14 
+
+102-43 approach to stakeholder engagement 
+
+14 
+
+102-44 Key topics and concerns raised 
+
+17 
+
+Reporting Practice 
+
+102-45 Entities included in the consolidated financial statements 
+
+Annual Report 2020 – Notes to Financial 
+
+Statements (Subsidiaries) 
+
+102-46 Defining report content and topic boundaries 
+
+16 
+
+102-47 List of material topics 
+
+17 
+
+102-48 Restatements of information 
+
+ 
+
+ 
+
+ 
+
+None 
+
+
+ 
+
+ 
+
+29 | P a g e 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for Omission, if 
+
+applicable 
+
+Reporting Practice 
+
+102-49 Changes in reporting 
+
+None 
+
+102-50 Reporting period 
+
+6 
+
+102-51 Date of most recent report 
+
+31 August 2019 
+
+102-52 Reporting cycle 
+
+Annually 
+
+102-53 Contact point for questions regarding the report 
+
+6 
+
+102-54 Claims of reporting in accordance with the GRI Standards 
+
+6 
+
+102-55 GRI content index 
+
+28 - 29 
+
+102-56 External assurance 
+
+6 
+
+103-1 Explanation of the material topic and its Boundary 
+
+16 - 27 
+
+103-2 The management approach and its components 
+
+16 - 27 
+
+103-3 Evaluation of the management approach 
+
+16 - 27 
+
+201-1  Direct economic value generated and distributed 
+
+56 - 57, Annual Report 2020 – Consolidated 
+
+Statement of Profit or Loss and Other 
+
+Comprehensive Income 
+
+205-3 Confirmed incidents of corruption and actions taken  
+
+12, 27 
+
+307-1 Non-compliance with environmental laws and regulations 
+
+26 
+
+ 
+
+ 
+
+403-9 Work-related injuries 
+
+20 - 21 
+
+ 
+
+ 
+
+404-1 Average hours of training per year per employee 
+
+22 - 24 
+
+419-1  Non-compliance with laws and regulations in the social 
+
+and economic area 
+
+ 
+
+27 
+
+ 
+
+ 
+
+ 
+
+ 
+

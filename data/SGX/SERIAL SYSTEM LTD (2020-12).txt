@@ -1,0 +1,2517 @@
+
+
+
+Sustainability 
+
+Report 2020
+
+ SERIAL SYSTEM LTD
+
+
+
+
+Sustainability Strategy 
+
+02 
+
+About This Report
+
+02 
+
+Message from the Board
+
+03 
+
+Our Sustainability Approach
+
+03 
+
+Strategy and Governance
+
+03 
+
+Reporting Framework and Methodology
+
+03/04 Stakeholder Engagement
+
+04 
+
+Material Aspects Assessment
+
+Economic
+
+05 
+
+Our Economic
+
+05 
+
+Economic Performance
+
+05 
+
+Value and Supply Chain
+
+Environmental
+
+06 
+
+Our Environment
+
+06 
+
+Environment Protection
+
+06/07 Energy Consumption and Emissions
+
+08 
+
+Water Conservation
+
+08 
+
+Materials and Waste
+
+Social
+
+09 
+
+Our Social
+
+09/10	 Profile	of	Our	Workforce
+
+11 
+
+Diversity and Inclusive
+
+10 
+
+Training and Development
+
+11 
+
+Occupational Health and Safety 
+
+11 
+
+Local Community Involvement
+
+Governance
+
+12 
+
+Our Governance
+
+12 
+
+Corporate Governance
+
+12 
+
+Business Code of Ethics
+
+12 
+
+Anti-bribery and Corruption
+
+13 
+
+Regulatory Compliance
+
+13 
+
+Export Control Laws
+
+13 
+
+Cybersecurity and Data Privacy
+
+14 
+
+International Trade Compliance
+
+15/16 GRI Content Index
+
+/17 
+
+CONTENTS
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+2
+
+SUSTAINABILITY
+
+STRATEGY
+
+About This Report
+
+This is the fourth Group Sustainability Report by Serial System 
+
+Ltd. The report outlines the Group’s sustainability strategies, 
+
+initiatives and performance in relation to Environmental, 
+
+Social and Governance (“ESG”)	 issues	 for	 the	 financial	 year	
+
+ended 31 December 2020 (“FY2020”). Through this report, we 
+
+hope to share our sustainability commitments with our various 
+
+stakeholders, including investors, customers, business partners, 
+
+suppliers,	staff,	the	community	and	government	and	regulators.
+
+Message from the Board
+
+All over the world governments and corporations increasingly 
+
+realise the need to act on climate change. Serial System is 
+
+committed to building a sustainable business that includes an 
+
+effective	Sustainability	Management	framework.	
+
+We have implemented sustainable practices to our business 
+
+operations,	and	continually	assess	and	refine	these	practices.
+
+The Board believes the Group Sustainability Report will 
+
+provide shareholders with a comprehensive account of our 
+
+sustainability, and initiatives and plans. We would like to thank 
+
+our	 shareholders,	 business	 partners,	 customers	 and	 staff	 for	
+
+their support and cooperation throughout our journey in driving 
+
+continuous and long-term growth for all our stakeholders.
+
+Board of Directors 
+
+Serial System Ltd
+
+
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+3
+
+STRATEGY AND GOVERNANCE
+
+As	one	of	the	leading	distributors	of	semiconductor	and	electronic	components	in	the	Asia	Pacific	region	and	expanding	into	the	
+
+consumer products distribution and managed print services, the Group strives for sustainable growth as we seek to generate long-
+
+term value and sustainable returns for our stakeholders in a socially and environmentally responsible manner. We established and 
+
+periodically review our sustainability strategy in view of the existing and emerging risks and opportunities.
+
+The Board has overall responsibility for sustainability for the Group and plans to ensure that our growth is sustainable in the long 
+
+term. The Board determines material ESG factors for sustainability strategy formulation and reporting.
+
+REPORTING FRAMEWORK AND METHODOLOGY
+
+This Report has been prepared in accordance with the sustainability reporting regulatory requirements set out in the Singapore 
+
+Exchange Securities Trading Limited Listing Manual ("SGX-ST Listing Manual"): Listing Rules 711A and 711B, and the Global Reporting 
+
+Initiative (“GRI”) Standards: Core Option. A materiality assessment, taking into consideration the expectations of our stakeholders, 
+
+was conducted to identify and prioritise ESG factors that are material to our Group’s operations. No independent assurance has 
+
+been obtained for this Report.
+
+STAKEHOLDER ENGAGEMENT
+
+The Group’ sustainability journey involves identifying our stakeholders and material aspects relevant to our business. Formal 
+
+and informal channels of communication were adopted with both internal and external stakeholders to understand their needs, 
+
+interests and priorities. This enables us to strategise our business decisions and operations, thereby ensuring the growth of our 
+
+business operations and stakeholders’ satisfaction.
+
+The following illustrates the approach the Group undertakes to engage with our key stakeholders:
+
+Stakeholders 
+
+Stakeholders’ Key Concerns 
+
+ and Expectations
+
+Engagement and
+
+Communication Channels
+
+Our Response 
+
+Customers 
+
+&gt; Provide quality customer
+
+service and experience
+
+&gt; Ensure product quality
+
+&gt; Solve product’s related
+
+technical problems
+
+&gt; Competitive pricing and
+
+reasonable payment terms
+
+&gt; Quality control in place
+
+&gt; Streamlining of business
+
+operations in distributing
+
+products to the customers
+
+&gt; Regular meeting sessions and
+
+client management
+
+&gt; Regular communications
+
+via phone, emails, website
+
+and/or circulars
+
+&gt; Contracts and agreements
+
+&gt; Business reviews with clients
+
+&gt; Manage key accounts
+
+&gt; Build and maintain a good
+
+relationship with customers
+
+&gt; Expand product lines
+
+&gt; Review	regularly	to	fulfil
+
+customers’ needs
+
+&gt; Seek and provide timely
+
+feedbacks
+
+Business Partners
+
+&gt; Collaborative partnerships
+
+and opportunity to nurture
+
+and expand the business.
+
+&gt; Business meetings
+
+&gt; Strategic partnerships
+
+&gt; Engage suitable business
+
+partners to pursue business
+
+objectives, work towards
+
+growth	and	profitability
+
+Local Communities
+
+&gt; Giving back and serve the
+
+community
+
+&gt; Help the less privileged
+
+&gt; Volunteering initiatives
+
+&gt; Donations to charitable
+
+organisations
+
+&gt; Volunteer activities
+
+&gt; Contribute to charitable
+
+causes
+
+Government and 
+
+Regulators
+
+&gt; Regulatory compliance
+
+&gt; Promoting workplace
+
+health and safety
+
+&gt; Address pertinent issues
+
+&gt; Regulatory	filing	and
+
+submissions
+
+&gt; Government and
+
+Regulators website
+
+&gt; Timely announcements
+
+of material information
+
+through SGXNet
+
+&gt; Ensure compliance
+
+with prevailing laws and
+
+regulations
+
+&gt; Annual Report/Circular
+
+OUR SUSTAINABILITY APPROACH
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+4
+
+Employees
+
+&gt; Competitive remuneration
+
+and	benefits
+
+&gt; Career growth and
+
+personal development
+
+&gt; Work-life balance
+
+&gt; Job security
+
+&gt; Health and safety in the
+
+workplace
+
+&gt; Annual performance
+
+appraisal system
+
+&gt; Training and career
+
+development programs
+
+&gt; Employee feedback
+
+channels
+
+&gt; Social and team-building
+
+activities
+
+&gt; Health and safety trainings
+
+&gt; Establish and communicate
+
+human resources policies
+
+and practices which
+
+promote work-life balance
+
+and a safe working
+
+environment
+
+&gt; Reward good performance
+
+and long service employees
+
+&gt; Provide opportunity for
+
+career development
+
+&gt; Establish	a	platform	for	staff
+
+to submit suggestions and
+
+feedback to management
+
+Suppliers
+
+&gt; Fulfil	contractual
+
+obligations and receive
+
+payments timely
+
+&gt; Promote	joint	efforts	on
+
+product development
+
+and growth
+
+&gt; Supplying good quality
+
+products
+
+&gt; Develop value-added
+
+services
+
+&gt; Contracts and agreements
+
+&gt; Regular meetings
+
+&gt; Monthly/quarterly reviews
+
+with suppliers
+
+&gt; Electronic data
+
+interchange
+
+&gt; Market the supplier’s
+
+products
+
+&gt; Review regularly whether
+
+we are meeting supplier’
+
+needs
+
+&gt; Meet and exceed targets
+
+set
+
+Investors and 
+
+Shareholders
+
+&gt; Group’s strategy and
+
+long-term growth
+
+&gt; Corporate governance
+
+&gt; Risk management and
+
+internal controls
+
+&gt; Deliver strong economic
+
+performance
+
+&gt; Shareholders’ return
+
+&gt; Timely and accuracy
+
+of release of the Group’s
+
+business progress and
+
+financial	report.
+
+&gt; Timely announcement of
+
+financial	results	and
+
+relevant disclosures
+
+through SGXNet and
+
+corporate website
+
+&gt; Annual / extraordinary
+
+general meeting
+
+&gt; Annual reports
+
+&gt; Meeting analysts and
+
+investors
+
+&gt; Corporate governance and
+
+sustainability reports
+
+&gt; Strive for sustained and
+
+long-term growth
+
+&gt; Adhere to the rules of the
+
+Singapore Exchange
+
+Securities Trading Limited
+
+and other regulatory
+
+requirements
+
+&gt; Embrace good corporate
+
+governance,	effective	risk
+
+management and internal
+
+controls
+
+&gt; Ensure timely and accurate
+
+disclosure	of	financial	and
+
+non-financial	information
+
+&gt; Manage risks and take
+
+advantage of opportunities to
+
+further business operations
+
+Economic
+
+• Economic performance
+
+• Value and supply chain
+
+Environmental
+
+• Energy consumption and emissions
+
+• Water conservation
+
+• Material and waste
+
+Social
+
+• Diversity and inclusive
+
+• Training and development
+
+• Occupational health and safety
+
+• Local community involvement
+
+Governance
+
+• Corporate governance
+
+• Business code of ethics
+
+• Anti-bribery and corruption
+
+• Regulatory compliance
+
+• Export control laws
+
+• Cybersecurity and data privacy
+
+• International trade compliance
+
+MATERIAL ASPECTS ASSESSMENT
+
+The material assessment involves analysing inherent opportunities and risk, determining and prioritising ESG factors that are 
+
+material	and	remain	highly	relevant	to	the	Group’s	operations	and	concerns	of	our	stakeholders.	We	identified	the	following	
+
+material	aspects	based	on	GRI	Standards’	materiality	principle	for	defining	report	content:
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+5
+
+ Economic Performance Indicators (US$’ million)
+
+FY2020
+
+FY2019
+
+FY2018
+
+Revenue
+
+731
+
+792
+
+1,527
+
+Gross Profit
+
+45.9
+
+54.1
+
+118.6
+
+EBITDA
+
+13.2
+
+19.6
+
+43.2
+
+Profit attributable to Equity Holders
+
+0.3
+
+8.0
+
+17.7
+
+Shareholders’ Return (Dividend Yield)
+
+1.3%
+
+4.3%
+
+21.9%
+
+Value and Supply Chain
+
+The Group is committed to embrace responsible business practices across our operations and supply chain by collaborating with 
+
+transparent,	ethical,	environmentally	and	socially	responsible	suppliers.	As	such,	we	have	established	a	stringent	pre-qualification	
+
+and procurement process to ensure the quality of our supply chain. All our suppliers and customers are required to undergo 
+
+restricted party screening through our automated denied party screening software which comprise the database from government 
+
+authorities and international organizations. Our logistics service providers are also frequently assessed against their suitability 
+
+and capability to meet our Group’s requirements as well as their adherence with Singapore Customs requirements. We aim to 
+
+progressively strengthen our supply chain processes in FY2021.
+
+SERIAL SYSTEM’s COVID-19 RESPONSE
+
+Despite the pandemic, we remain committed to our sustainability program and have proactively implemented measures to 
+
+safeguard our employees in 11 countries while continuing our operations as an essential service during the Coronavirus Disease 
+
+2019 (“Covid-19”) crisis. We continue to follow closely with the regulations set by the local governments in all regions where we 
+
+operate to keep our team safe and help prevent the spread of disease.
+
+Employee health, safety and well-being
+
+As part of our business continuity plan, we formed a management-led pandemic advisory committee and vigilantly communicated 
+
+the novel coronavirus advisory notice from Ministry of Health to all our employees as early as January 2020. To ensure our employee 
+
+safety and well-being, we established early protocols to reduce the risk of exposure, including remote work and separate teams 
+
+to	minimise	the	number	of	employees	working	on-site,	stepped	up	cleaning	of	office	areas	and	implemented	social	distancing	
+
+measures. We also communicated regularly with our employees on work arrangement plans and standard operating procedures 
+
+which were drawn up in response to Covid-19 scenarios.
+
+Ensure resilience of business
+
+As much as possible, we maintained the business-as-usual scenario in our operations and remained as an essential service during 
+
+Covid-19 crisis. From January 2020, we put in place and communicated to our employees a series of travel and quarantine notices. 
+
+During Covid-19 circuit breaker, we commenced split-team operations and telecommuting. Visitors and employees are required 
+
+to perform mandatory temperature screening at our guardhouse. Anyone having a fever upon temperature screening will not be 
+
+allowed entry. On top of that, all employees and visitors are required to submit a health and travel declaration form. 
+
+OUR ECONOMIC
+
+Economic Performance
+
+We are committed to creating sustainable and long-term business growth, while creating value and positive contributions for our 
+
+marketplace and customers, the communities we operate in, our people and the environment.
+
+Our economic performance in 2020 has been hampered by the economic uncertainty caused by Covid-19 outbreak and adverse 
+
+market	conditions.	We	will	continue	to	find	ways	to	be	and	remain	resilient	in	the	face	of	some	major	changes	and	challenges	
+
+to our business. By sustaining our energy and motivation, we will build stronger global partnerships with existing and potential 
+
+suppliers and customers, with a focus on our core electronic components distribution business. Over the years, the Group has also 
+
+diversified	into	consumer	products	distribution,	managed	print	services,	investment	holding	of	high-profit	margin	companies	and	
+
+other businesses to provide additional income streams with a view to enhance shareholders’ value over the long term.
+
+As a company listed on the Singapore Exchange Limited (“SGX”), we publish a detailed annual report comprising our risk manage-
+
+ment,	corporate	governance	and	financial	performance.	A	summary	of	our	economic	performance	is	provided	below,	in	line	with	
+
+the	GRI	Standards.	For	detailed	financial	results,	please	refer	to	the	financial	statements	in	our	Annual	Report	2020:
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+6
+
+FY2020 vs FY2019 - Electricity &amp; Energy Consumption Performance
+
+Electricity 
+
+Consumption
+
+(KWH ‘000)
+
+We strived to continuously review our growth strategies in order to enhance our value proposition as a distribution intermediary 
+
+between chipmakers and manufacturers of electronic end-products. As an established distributor with one of the largest networks 
+
+in	Asia	Pacific,	our	wide	network	of	suppliers	and	customer	base,	particularly	in	Greater	China,	stems	from	many	years	of	hard	
+
+work and building trust. This extensive network, combined with a proven track record with our localised management model 
+
+further reinforces our value proposition as a distributor which gives us an advantage over our competitors. We expect to continue 
+
+this trade for many more years and remain an integral part of the international supply chain for chipmakers, original equipment 
+
+manufacturers and major electronic brands.
+
+OUR ENVIRONMENT
+
+Environment Protection
+
+We	are	committed	to	minimising	our	environmental	impact	and	utilizing	our	resources	efficiently.	Our	current	environmental	
+
+impact	may	be	attributed	to	the	use	of	electricity	and	paper	in	our	offices	and	warehouses,	the	use	of	fuel	in	transportation	for	
+
+deliveries of products. While our existing carbon footprint from electricity consumption is relatively small, we understand the 
+
+value of reducing energy consumption to mitigate the threat of climate change. We have also reduce on printing and presently, 
+
+use recycled papers whenever possible. Through regular monitoring of our resource consumption, we strive to minimize our impact 
+
+on the environment as we continuously encourage our employees to think and act green.
+
+Energy Consumption and Emissions
+
+Given the nature of our operations, electricity from the grid and fuel consumption in transportation of products to customers via 
+
+air	or	sea	freight	are	the	main	sources	of	energy	consumed	at	our	sites.	Our	offices	in	Singapore,	Hong	Kong	and	China	accounted	
+
+for	82%	of	the	total	electricity	consumed.	We	have	also	put	up	reminders	in	our	offices	to	switch	off	office	lights	and	air	conditioners	
+
+when not in use and periodically remind our employees about it.
+
+Based on available data through statements from utility providers in the territories that the Group operates in, the Group managed 
+
+to achieve reduction in electricity consumption in FY2020 (1,764,748 kWh) from FY2019 (2,059,590 kWh). The Group’s energy 
+
+intensity per employee decreased to 9 GJ in FY2020 from 10.2 GJ in FY2019. The decrease is brought about by the Covid-19 outbreak 
+
+whereby	most	staff	are	telecommuting	except	for	our	warehouse	operations	staff.	We	have	also	streamlined	and	delayered	many	
+
+functions, thereby reducing our overall cost structure and energy utilisation. The Group’s building energy intensity decreased from 
+
+69.7 kWh/m2 in FY2019 to 58.1 kWh/m2 in FY2020. In line with our building energy intensity, the Carbon Dioxide (“CO2”) emissions 
+
+intensity	for	our	offices	reduced	in	FY2020	(41.2	kgCO2e/m2) from FY2019 (49.3 kgCO2e/m2). We will strive to maintain or reduce 
+
+the building energy and CO2 emissions intensity in FY2021.
+
+For operations, there was also a slight increase in emissions intensity by revenue in FY2020 (1.16 gCO2e) from FY2019 (1.07 gCO2e). 
+
+During FY2020, the use of air freight shipment mode, which is the highest CO2 emission transportation mode,   has increased as the 
+
+more	energy	efficient	shipping	lines	cancelled	their	sailings	due	to	drastic	drop	in	overall	market	demand	during	initial	phase	of	
+
+the pandemic outbreak. Airfreight continues to be the main mode of transport for the Group to facilitate our sales. It is our goal to 
+
+strive to continually reduce our emissions of Carbon Dioxide (“CO2”) and play our part to alleviate the impact of global warming. 
+
+We hope to realise this objective next year by better consolidation of our inventories to be transported and reduce the use of air 
+
+freight since air freight generally emits more CO2 per-kilometre than sea freight.
+
+Our Energy Consumption and Emission Performance for FY2020
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+7,000
+
+8,000
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+2,060
+
+1,765
+
+6,353
+
+7,414
+
+Energy 
+
+Consumption
+
+(GJ)
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+7
+
+FY2020 vs FY2019 - Building Carbon Dioxide Emissions Intensity  
+
+CO2
+
+Emissions 
+
+(KG '000)
+
+0
+
+300
+
+600
+
+900
+
+1,200
+
+1,500
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+49.3
+
+41.2
+
+1,251
+
+1,456
+
+CO2
+
+Emissions
+
+Intensity
+
+(KG per m2 ) 
+
+Our target is to 
+
+maintain/reduce our CO2 
+
+Emissions Intensity at/below 
+
+ 41.2 Kg per m2
+
+in FY2021
+
+FY2020 vs FY2019 - Carbon Dioxide Emissions Intensity by Revenue 
+
+0.0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1.0
+
+1.2
+
+FY2019
+
+FY2020
+
+1.16
+
+1.07
+
+G of C02 
+
+emitted 
+
+by Revenue 
+
+FY2020 vs FY2019 - Building Energy Intensity
+
+Building Energy 
+
+Intensity 
+
+(GJ per Employee) 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+10.2
+
+9.0
+
+58.1
+
+69.7
+
+Building Energy 
+
+Intensity 
+
+(KWH per m2) 
+
+Our target is to maintain/ 
+
+reduce our Building Energy 
+
+Intensity at/below  
+
+58.1 KWH per m2 
+
+in FY2021
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+8
+
+Water Conservation
+
+Our water use is limited to employee consumption and facility maintenance. While it isn’t a material issue for us, we strive to 
+
+reduce water consumption and prevent water pollution as our operations can still be impacted in areas where the availability of 
+
+clean water is lacking and sanitation is of concern. We increase awareness of our employees by displaying signs in designated areas 
+
+to serve as a friendly reminder to water users.
+
+Our water consumption and its intensity reduced to 6,580 m3 and 0.217 m3/m2 in FY2020 from 7,342 m3 and 0.249 m3/m2 respectively 
+
+in FY2019. We have achieved our target in FY2020 and are committed to maintain or reduce our water consumption intensity in 
+
+FY2021.
+
+FY2020 vs FY2019 - Water Consumption Performance 
+
+m3
+
+Water 
+
+Consumption 
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+7,000
+
+8,000
+
+FY2019
+
+FY2020
+
+FY2019
+
+FY2020
+
+0.249
+
+0.217
+
+6,580
+
+7,342
+
+m3 /m2
+
+Building 
+
+Water 
+
+Intensity 
+
+Our target is to 
+
+maintain/reduce our 
+
+Water Intensity at/below 
+
+0.217 m3/m2
+
+in FY2021
+
+Materials and Waste
+
+Paper is the main sources of waste generated across our Group’s operations. We focus on reducing and recycling our own waste 
+
+to minimise our environmental impact in this area. We continued to lower our environmental footprint by reducing paper costs 
+
+from	printing	and	copying	in	our	Singapore	Head	Office.	Our	Singapore	Head	Office	paper	consumption	level	was	reduced	in	FY2020	
+
+(367,138 pcs) from FY2019 level (462,425 pcs).
+
+As part of our ongoing Group’s initiatives to go digital, we are moving towards digital transactions to reduce paper usage and to 
+
+boost productivity. For FY2020, we managed to reduce paper usage by 48% when compared to FY2018. A gap analysis was also 
+
+performed	to	streamline	current	business	processes	through	digitisation	of	employees’	claims	submission	and	archival	of	finance	
+
+and human resources related documents, in order to further reduce paper usage. In quest of further productivity gains, we 
+
+continue to roll out robotic process automation (“RPA”)	to	our	offices	in	South	Korea	and	Philippines.	These	offices,	together	with	
+
+our	Singapore	office,	are	currently	using	RPA	to	semi-automate	the	extraction	of	portable	document	formatted	sales	orders	into	
+
+data	up-loadable	to	our	financial	system	which	eliminates	manual	effort	in	recording.
+
+On top of that, we encouraged our employees to use shared data folders when accessing information to reduce the need for 
+
+printing. We also adopted the conventional method of reusing one-sided used papers that are without any company and private 
+
+confidential	information.	These	paperless	and	paper	reduction	initiatives	have	helped	our	Singapore	Head	Office	to	reduce	the	
+
+total printing costs by about 23% from FY2019. We aim to record, monitor and reduce our paper consumption level for the entire 
+
+Group’s operations by next year.
+
+FY2020 vs FY2019 - Paper Consumption Performance
+
+0
+
+100,000
+
+200,000
+
+300,000
+
+400,000
+
+500,000
+
+FY2019
+
+FY2020
+
+367,138 pcs
+
+462,425 pcs
+
+Our target is to maintain/ 
+
+reduce our Paper Consumption 
+
+Performance at 
+
+367,138 pcs 
+
+in FY2021
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+9
+
+OUR SOCIAL
+
+Profile of Our Workforce
+
+Permanent
+
+% Workforce by 
+
+Employment Type
+
+2020
+
+2019
+
+Our people, our greatest asset, are key to the Group’s long term growth and success. We have a diverse workforce comprising 
+
+employees across various regions. During FY2020, our total headcount reduced by 3% to 709 compared to 728 in FY2019 due to 
+
+adverse market conditions and outbreak of Covid-19. We also welcomed 132 new employees to our Group in FY2020.
+
+All our employees work full-time on a permanent contract. We have employees located in the South Asia and in countries such as 
+
+China, Taiwan, Hong Kong and South Korea. 85% of employees are based in China, Hong Kong and South Asia where the majority 
+
+of our business in electronic components and consumer products distributions is based. 96% of our department heads, in 
+
+Singapore Head	Office,	are	Singaporeans	or	Permanent	Residents	hired	from	our	local	community.
+
+Our global attrition rate decreased in 2020 (27%) from 2019 (48%). The lower attrition rate was mainly due to the pandemic 
+
+outbreak whereby the employment market has declined. This has aligned with the attrition rate in China which had reduced in 
+
+2020	by	about	27%	also	due	to	the	pandemic	outbreak.	Other	than	that,	the	attrition	figures	were	resulted	from	multiple	variables,	
+
+including operational decisions, market conditions, generation trends and cultural tendencies.
+
+ FY2020 vs FY2019 - Our Workforce Profile
+
+100%
+
+100%
+
+% Gender Diversity
+
+2020
+
+2019
+
+57%
+
+55%
+
+% Age Diversity
+
+2020
+
+14%
+
+Male 
+
+Female 
+
+30 to 50 years old 
+
+Under 30 years old 
+
+Over 50 years old 
+
+43%
+
+45%
+
+75%
+
+11%
+
+2019
+
+15%
+
+75%
+
+10%
+
+% Employees by Region
+
+2020
+
+36%
+
+South Asia
+
+China 
+
+Taiwan
+
+Hong Kong 
+
+South Korea
+
+41%
+
+8%
+
+8%
+
+7%
+
+40%
+
+38%
+
+6%
+
+10%
+
+2019
+
+6%
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+10
+
+ FY2020 vs FY2019 - New Hire
+
+% New Hire by Gender
+
+32%
+
+38%
+
+% New Hire by Age Group
+
+34%
+
+% New Hire by Region
+
+32%
+
+Male 
+
+Female 
+
+30 to 50 years old 
+
+Under 30 years old 
+
+Over 50 years old 
+
+South Asia
+
+China 
+
+Taiwan
+
+Hong Kong 
+
+South Korea
+
+68%
+
+62%
+
+60%
+
+6%
+
+28%
+
+61%
+
+11%
+
+48%
+
+11%
+
+2019
+
+2020
+
+72%
+
+4%
+
+10%
+
+13%
+
+2019
+
+1%
+
+2020
+
+2019
+
+2020
+
+5%
+
+4%
+
+ FY2020 vs FY2019 - Turnover Rates
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+% Attrition Rate 
+
+2019
+
+2020
+
+27%
+
+48%
+
+2020
+
+2019
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+% Attrition by Gender  
+
+61%
+
+58%
+
+2020
+
+2019
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+% Attrition by Age
+
+16%
+
+65%
+
+2020
+
+2019
+
+0
+
+20
+
+40
+
+60
+
+80
+
+100
+
+% Attrition by Region 
+
+6%
+
+26%
+
+2020
+
+2019
+
+Male
+
+Female 
+
+39%
+
+42%
+
+30 to 50 years old 
+
+Under 30 years old 
+
+Over 50 years old
+
+7%
+
+77%
+
+30%
+
+5%
+
+South Asia
+
+China 
+
+South Korea 
+
+Hong Kong 
+
+Taiwan  
+
+3%
+
+25%
+
+33%
+
+33%
+
+45%
+
+13%
+
+8%
+
+8%
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+11
+
+Diversity and Inclusive
+
+We are committed to providing an inclusive workplace with equal opportunities through employment, remuneration, training and 
+
+promotion	of	staff	regardless	of	gender,	race,	nationality	and	family	status.	Our	Group	has	a	diversified	workforce	across	all	age	
+
+groups. In FY2020, about 50% of our workforce consists of millennials who have helped to infuse new perspectives, passion and 
+
+efficiency.
+
+We maintained a balanced female-male ratio (43% female and 57% male) in our workforce across all regions. In FY2020, we 
+
+increased the new hire rate of male employees in our Group by 10% over FY2020 as well as hiring more employees in the under 30 
+
+age category.
+
+We respect and support the international principles of human rights. Our HR policies ban child labour, forced or compulsory labour, 
+
+as well as discrimination. There was no reported incident of child labour, forced or compulsory labour and discrimination in FY2020.
+
+Clear guidelines on workplace abuse, harassment and disciplinary matters are established and communicated to all employees. 
+
+Employees are also encouraged to report any grievance through their immediate supervisor. Should any further assistance or 
+
+investigation required, cases will be directed to the HR department. No grievances were reported in FY2020.
+
+Training and Development
+
+Learning and development within our Group is a decentralized function as each country/region adopts its own approach based 
+
+on employees’ needs and resources. We actively encourage our employees to enhance and continuously develop their skills 
+
+and knowledge, and also provide sponsorship for them should they express a desire to attend external courses or seminars. By 
+
+empowering	our	staff	with	equitable	access	to	the	right	resources	and	looking	after	their	well-being,	we	help	them	to	be	their	best	
+
+at work, grooming them to be our leaders of tomorrow. Apart from these formal training programmes or seminars, our employees 
+
+also receive in-house and on the job training to develop their technical knowledge and relevant skillsets. We will continue to 
+
+explore means to enhance our employees’ knowledge and skills for building a resilient workforce.
+
+In	FY2020,	our	employees	had	benefited	from	a	total	of	528	hours	of	formal	training.	With	the	onset	of	Covid-19	pandemic,	the	
+
+formal training hours were not reduced as we have embarked on online training programs for employees. Besides investing in 
+
+employee’s development, we strive to ensure that our employees are provided with the right platform to progress their careers. 
+
+The HR department monitors and tracks employees’ years of services and their career progression. We also believe in linking 
+
+rewards to performance and have established the Long Service Award to recognise employees’ commitment to us. 
+
+We carry out annual performance appraisal reviews, which provide employees with constructive feedback based on their 
+
+performance, goals they set at the beginning of the year and a set of shared leadership competencies.
+
+Occupational Health and Safety
+
+Occupational health and safety (“OHS”) of our people is of utmost importance to us. In light of the Covid-19 pandemic, additional 
+
+precautionary measures have also been put in place to ensure the safety of our employees.
+
+Effective	OHS	management	is	part	of	risk	management	and	expected	to	enhance	business	efficiency	and	staff	morale.	Across	
+
+our Group, we adopt and comply with the ISO45001:2018 standards that also set out our OHS Policy which is put in place to 
+
+guide	implementation	of	initiatives	that	promote	OHS.	As	we	are	certified	ISO	22301	(Business	Continuity	Management	System),	
+
+it is required that we measure, monitor, evaluate and analyse our OHS. Through proactively tracking and taking accountability 
+
+of reportable and reported incidents, it helps to create awareness on the importance of a safe and healthy workplace. The 
+
+importance of complying with all relevant laws and legislations in countries where we operate is communicated repeatedly to our 
+
+business divisions. Any case of non-compliance will have to be directly reported to our HR department and management for prompt 
+
+follow-up actions to be taken. Our Business Continuity Management System has been externally audited by a third-party accredited 
+
+certification	body	to	ISO	22301,	a	recognized	international	standard	for	Business	Continuity	Management	(“BCM”).
+
+In FY2020, we recorded zero fatalities, severe injuries and occupational diseases involving our employees across the Group. Our 
+
+safety statistics for FY2020 remain below the industry average of wholesale and retail trade activities reported by the Ministry of 
+
+Manpower in 2020 Workplace Safety and Health Report and we strive to achieve the same record in FY2021.
+
+Local Community Involvement
+
+As a responsible corporate citizen, we share in the concerns of our community and take on the responsibility for its improvement by 
+
+actively giving back to our local community to enrich people’s lives. This is done through our various Corporate Social Responsibility 
+
+(“CSR”)	initiatives	and	efforts.	Over	the	years,	we	had	supported	several	activities	for	the	elderly,	the	poor	and	needy,	as	well	as	
+
+areas like healthcare, education, youth development, arts, culture and heritage. While our annual Lunar New Year celebrations 
+
+visits to Tai Pei Old Folks Home have been put on hold in view of the health guidelines issued by the Singapore government to curb 
+
+the spread of COVID-19, we continue to donate to various charitable foundations and programmes in FY2020. 
+
+In FY2020, we donated a total of S$122,000 to various causes and organisations in Singapore. The Group has also pledged to donate 
+
+S$100,000 annually to Sian Chay Medical Instituition, for a total period of 10 years, which amounts to S$1 million to provide 
+
+medical	services	to	low	income	families	of	all	races	and	religion.	For	more	details	on	the	Company’s	CSR	efforts,	please	refer	to	
+
+page 18 of our Annual Report 2020.
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+12
+
+OUR GOVERNANCE
+
+We are committed to build ethical and transparent business through a framework of sound corporate governance principles, 
+
+practices and processes, to protect and enhance our shareholder value.  
+
+Corporate Governance
+
+We believe that good corporate governance nurtures sound business decisions and organizational performance resulting in 
+
+strengthened resilience and competitive advantage. The Group remains focused on complying with the principles of the Code of 
+
+Corporate Governance 2018 ("Code") in achieving operational excellence and delivering long-term strategic objectives. The Board 
+
+of Directors is responsible for the Company’s corporate governance standards and policies, and emphasizing their importance to 
+
+the Group.
+
+Our	Board	of	Directors	has	considered	the	benefits	of	diversity	of	Board	Members’	skills,	experience	and	background,	and	maintains	
+
+the view that the current Board size and structure is adequate for the existing business operations of the Group. Each director has 
+
+been appointed on the strength of his calibre, experience and stature and is expected to bring valuable range of experience and 
+
+expertise to contribute to the development of the Group’s long-term strategy and business performance.
+
+We scored 84 points and improved our ranking from 461 in 2019 to 75 in 2020 from a list of 570 listed companies in the Singapore 
+
+Governance and Transparency Index 2020 by CPA Australia, NUS Business School’s Centre for Governance, Institutions and 
+
+Organisations, and Singapore Institute of Directors.
+
+For detailed disclosure on the application of our corporate governance practices with reference to the Code, please refer to the 
+
+Corporate Governance Report on page 25 to 43 in the Annual Report 2020. Where there are deviations from any of the principles 
+
+of the Code, an explanation has been provided within the Corporate Governance Report.
+
+Business Code of Ethics
+
+Our business principles and practices regarding subjects that may face ethical implications are outlined in an internal code of 
+
+business and ethical conduct, The Code of Conduct. The Code of Conduct provides clear guidance for employees to observe our 
+
+principles such as integrity, honesty, responsibility and accountability across all levels of our organization in the course of carrying 
+
+out their duties. It is published on our corporate website and easily accessible by all employees and stakeholders.
+
+The Code of Conduct provides guidance on matters such as:
+
+• Conflict	of	interest	and	their	appropriate	disclosures
+
+• Maintaining fair dealing in the conduct of our business and in our relationship with our customers, suppliers and employees
+
+• Our stance against bribery and corruption
+
+• Safeguarding	personal	data	and	proper	handling	of	confidential	information
+
+• Compliance with applicable laws and regulations including those relating to insider trading and personal data protection
+
+New hires, as part of their induction programme, are orientated with information about our Code of Conduct as well as other 
+
+related corporate policies, including anti-bribery and corruption, whistle-blowing and business continuity.
+
+Anti-bribery and Corruption
+
+Corruption	can	result	in	significant	damage	to	the	organization,	such	as	loss	of	financial	and	social	capital.	We	adopt	a	zero-
+
+tolerance approach towards corruption and continue to manage the exposure to corruption risks by applying and emphasising good 
+
+corporate governance, business ethics and transparency while applying robust internal controls.
+
+At Serial System Ltd, we prohibit corruption in any form, including but not limiting to extortion and bribery. We require all 
+
+employees,	 officers	 and	 directors	 to	 conduct	 business	 with	 integrity,	 transparency,	 and	 in	 compliance	 with	 applicable	 legal	
+
+requirements	relating	to	bribery,	corruption,	anti-money	laundering	and	terrorism	financing.	This	has	been	communicated	clearly	
+
+to all employees, customers, suppliers and business partners.
+
+The Company has in place a whistle-blowing policy which enables an employee to report or raise concerns over any “wrongdoings” 
+
+across	 the	 Group	 in	 relation	 to	 unlawful	 conduct,	 financial	 malpractice	 or	 danger	 to	 the	 public	 or	 environment	 directly	 to	
+
+the	chairman	of	the	Audit	Committee,	with	the	“whistle-blower”	who	has	acted	in	good	faith,	being	provided	confidentially,	
+
+victimisation and harassment protection. The whistle-blowing channels (either via postal address, telephone, mobile or email 
+
+address) that are accessible via our corporate website: www.serialsystem.com by all stakeholders provide them with secure 
+
+platforms to raise their concerns. “Wrongdoings” can include fraud, corruption, theft, abuse of authority, breach of regulations or 
+
+non-compliance with the Group’s Code of Conduct, internal controls and procedures.
+
+On an ongoing basis, the whistle-blowing policy is covered during employee training and periodic communication including e-mail 
+
+sent	quarterly	to	all	employees	as	part	of	the	Group’s	efforts	to	promote	awareness	of	anti-corruption	and	fraud	prevention.	
+
+We will regularly review our policies on anti-bribery corruption and whistle-blowing to ensure that they are updated taking into 
+
+account	any	related	changes	in	legal	and	regulatory	requirements.	Internal	audits	are	conducted	to	ensure	the	efficiency	and	
+
+effectiveness	of	our	internal	controls,	risk	management	and	governance	processes.
+
+There	were	zero	confirmed	incidents	of	corruption	in	FY2019	and	FY2020	and	we	aim	to	maintain	this	track	record	in	the	subsequent	
+
+reporting periods.
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+13
+
+Regulatory Compliance
+
+The	Group	has	not	been	subject	to	any	fines	or	sanctions	for	contravention	of	any	laws	or	regulations	globally,	including	those	
+
+relating	to	infringements	of	environment,	health	and	safety,	anti-money	laundering	and	corruption,	terrorism	financing,	export	
+
+control laws, cybersecurity and data privacy and international trade compliance. We strive to maintain this track record and ensure 
+
+all queries/allegations received are promptly investigated and addressed, failing which may result in either public allegations of 
+
+non-compliance	or	significant	fines	being	levied	on	the	Group.
+
+Through our materiality assessment, we recognise that our core business faces increased risks regarding export control laws, anti-
+
+bribery and corruption and data governance due to the nature of our business and workforce presence across various countries 
+
+and regions. We are committed to complying with laws and regulations wherever the Group operates in. Regular training and 
+
+communication	are	provided	to	employees	to	keep	them	updated	on	the	compliance	issues	that	affect	their	functions	as	we	strive	
+
+to maintain compliance with existing policies and procedures at all times.
+
+The Group has introduced various policies to guide its business conduct, including Export Control Compliance Policy (“ECCP”), 
+
+Anti-bribery and Corruption Policy (“ABC Policy”) and Personal Data Protection Policy (“PDP Policy”). We have also ensured our 
+
+compliance with the government advisories on Covid-19 restrictions such as social distancing and temporary measures. Altogether, 
+
+these measures have been embedded into our daily operations to ensure business continuity in the changing operational landscape. 
+
+Other mandatory measures are still in place, such as temperature screening, split operations and telecommuting as a default. 
+
+As at the publication of this report, we have no instances of non-compliance with the Covid-19 laws and regulations.
+
+Export Control Laws
+
+The	Group	does	our	part	in	maintaining	international	peace	and	security	by	having	in	place	country-specific	ECCP	which	sets	the	
+
+framework of operational controls and protocols for the respective business division’s transactions, to be conducted in compliance 
+
+with applicable export control laws and regulations. In order to facilitate our screening reviews, we engage the system and 
+
+service	of	an	ISO-certified	third-party	outsourced	vendor.	Likewise,	any	updates	to	existing	laws	and	regulations	are	programmed	
+
+accordingly by them. Our International Trade Compliance (“ITC”) team also periodically reviews and communicates major/urgent 
+
+updates to key personnel or regional ITC gatekeepers and management on a need to know basis
+
+To further strengthen our commitments and minimise the risk of non-compliance, the Group requires all new employees to undergo 
+
+an export control awareness training. Additionally, all existing employees are required to attend a refresher training every 18 
+
+months	to	keep	them	up-to-date	on	the	compliance	issues	that	may	affect	their	functions.
+
+In FY2020, similar to FY2019, the Group has complied with all relevant export control laws and work closely with suppliers to 
+
+minimize disruption to our Group’s business operations. The Group endeavours to maintain its compliance status moving forward.
+
+Cybersecurity and Data Privacy
+
+The pace of digitalization has far exceeded regulation to control and manage data privacy and protection, resulting in data 
+
+breaches that can compromise data and cost millions. The Group continues to invest in cybersecurity infrastructure and systems 
+
+to enhance our defence against cyber threats and attacks. On top of that, the Group has in place appropriate measures to handle 
+
+data	confidentiality	and	integrity.	
+
+Besides establishing Group-wide IT policies and procedures, our Group IT has:
+
+• Implemented access controls and data security
+
+• Raised employee’s IT security awareness by emailing notices or articles covering the latest cyber threats and their prevention
+
+measures, phishing alerts and cyberattacks
+
+• Conducted annual IT disaster recovery exercise to ensure business recovery objectives are met
+
+Safeguarding the personal data of our customers, suppliers and all other stakeholders is also of utmost importance to us. The 
+
+Group conducts our business in compliance with the Personal Data Protection Act (“PDPA”) in Singapore. Accordingly we had put 
+
+in place a Personal Data Protection Policy which governs the collection, use, disclosure and care of personal data. This policy is 
+
+made available to the public on our corporate website. In accordance with the PDPA, the Group has designated Data Protection 
+
+Officers	who	have	undergone	proper	training	conducted	by	a	renowned	compliance	solution	provider.
+
+Every year, all new employers must go through our Personal Data Protection Policy and acknowledge their understanding over the 
+
+prevailing risks, handling and protection of sensitive corporate data. We continue to educate our employees by conducting training 
+
+programs when there are any changes in the legislation. We aim to complete the development of our online refresher training 
+
+course for PDPA by end of 2021.
+
+In FY2020, apart from no major cybersecurity incident that has occurred, there was no substantiated complaint from outside 
+
+parties and from the Personal Data Protection Commission (“PDPC”). We will continue to improve our existing processes to 
+
+safeguard	confidential	information	through	periodic	reviews	of	our	Personal	Data	Protection	Policy	and	seeking	ways	to	improve	
+
+staff	training	opportunities.
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+14
+
+International Trade Compliance
+
+Compliance with trade compliance laws and regulations is vital to protect the safety and security of countries where we operate 
+
+and to ensure that our products do not fall into the hands of entities and persons that seek to do harm. The nature and scope of 
+
+the Group’s distribution business also make us highly susceptible to being victims of international fraud and unlawful activities, 
+
+especially	where	trade	compliance	is	concerned.	For	this	reason,	the	Group	engages	an	ITC	Officer	to	ensure	the	Group	complies	
+
+with international trade laws and regulations and regularly updates the management and key personnel on developments in 
+
+international and local trade laws and regulations.
+
+The	ITC	officer	leads	the	Group	on	all	ISO	Quality	Accreditations	initiatives.	In	FY2019	and	FY2020,	the	Group’s	various	entities	
+
+obtained	the	following	Trade	&amp;	ISO	Certifications:-
+
+•	Serial	Microelectronics	Pte	Ltd	–	ISO9001:2015	QMS	dated	7	February	2019	and	Re-Certification	on	7	July	2020
+
+•	Serial	Microelectronics	(HK)	Limited	-	ISO9001:2015	QMS	dated	31	May2019	and	Re-Certification	on	28	July	2020
+
+• Serial Microelectronics Pte Ltd - ISO22301:2012 Business Continuity Management System (BCMS) dated 7 October 
+
+			2019	and	Re-Certification	on	2	October	2020
+
+The	following	Trade	&amp;	ISO	Certifications	are	currently	undergoing	re-certification:
+
+• Serial Microelectronics Pte Ltd – SG Customs TradeFIRST Premium Band dated 16 March 2018 and currently undergoing 
+
+			re-certification	by	30	June	2021	as	extended	by	Singapore	Customs
+
+• Serial Microelectronics Pte Ltd – SG Customs Secure Trade Partnership (STP) dated 16 March 2018 and currently undergoing  
+
+			re-certification	by	30	June	2021	as	extended	by	Singapore	Customs
+
+• Serial Microelectronics Korea Limited – South Korea Ministry of Trade, Industry &amp; Energy (MOTIE) Internal Compliance 
+
+			Program	(ICP)	Accreditation	dated	19	March	2018	and	currently	undergoing	re-certification	by	31	August	2021
+
+•	Serial	Microelectronics	Inc.	–	Taiwan	Bureau	of	Foreign	Trade	(BOFT)	Internal	Compliance	Program	(ICP)	Re-Certification	 
+
+			dated	31	March	2020	and	currently	undergoing	re-certification	by	30	November	2021
+
+Owing to Serial Microelectronics Inc.’s strong commitment in trade compliance for strategic high-tech commodities, since 
+
+6	December	2016	(and	re-certified	on	31	March	2020),	we	had	been	accredited	with	Taiwan	Bureau	of	Foreign	Trade	(BOFT)	
+
+Certificate	No.	1052850475	as	the	50th	organization	in	the	entire	Taiwan	and	awarded	the	prestigious	membership	into	BOFT’s	
+
+quarterly	roundtable	meetings	organized	by	the	Ministry	of	Economic	Affairs,	Taiwan.	Re-certification	is	currently	in	progress	and	
+
+is expected to be completed by 30 November 2021.
+
+Similarly, Serial Microelectronics Pte Ltd on 16 March 2018 was awarded the Best-In-Class TradeFIRST Accreditation which is valid 
+
+for 3 years and is recognized as a “Secure Trade Partner” with Singapore Customs under the Secure TradeFIRST Partnership (STP) 
+
+Program	and	granted	a	STP	Certification	Membership	No.	AEOSG12022018001T	which	is	mutually	recognized	by	the	World	Customs	
+
+Organization (WCO) matching the standards of Authorized Economic Operator (AEO) and U.S. CBP Customs-Trade Partnership 
+
+Against	Terrorism	(C-TPAT).	The	certification	is	extended	until	30	June	2021	by	Singapore	Customs	while	awaiting	re-certification.
+
+From FY2018 to FY2020, Serial Microelectronics Pte Ltd has been listed in the Singapore Customs Website “Hall of Fame” together 
+
+with	105	companies	in	Singapore	as	STP	Companies.	The	STP	is	a	voluntary	certification	programme	consistent	with	the	WCO	SAFE	
+
+Framework of Standards to secure and facilitate global trade. The programme encourages companies to adopt robust security 
+
+measures using a risk-based approach in their trading operations to improve global supply chain security. By participating in the 
+
+programme, a company demonstrates commitment and willingness in keeping the supply chain secure.
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+15
+
+GRI  Standard
+
+Disclosure
+
+GRI 101: Foundation 2016
+
+General Standard Disclosures
+
+GRI 102: General Disclosures 2016
+
+Organizational Profile
+
+Section
+
+Index
+
+Page number(s) and/or 
+
+URL(s)
+
+102-1
+
+Name of the organization
+
+Serial System Ltd
+
+102-2
+
+Activities, brands, products, and services
+
+AR, page 12 – 17
+
+102-3
+
+Location of headquarters
+
+Singapore
+
+102-4
+
+Location of operations
+
+AR, page 11
+
+102-5
+
+Ownership and legal form
+
+Pubic Listed Company  
+
+(Limited by Share Capital)
+
+102-6
+
+Markets served
+
+AR, page 10
+
+102-7
+
+Scale of the organization
+
+SR, page 9 - 11
+
+AR, page 3 - 5
+
+102-8
+
+Information on employees and other workers
+
+SR, page 9 – 10
+
+102-9
+
+Supply chain
+
+SR, page 5 - 6
+
+AR, page 11 - 17
+
+102-10
+
+Significant	changes	to	the	organization	and	its	
+
+supply chain
+
+There	are	no	significant	
+
+changes to the organization 
+
+and its supply chain
+
+102-11
+
+Precautionary principle or approach
+
+The Company does not 
+
+specifically	address	
+
+the principles of the 
+
+Precautionary approach
+
+102-12
+
+External initiatives
+
+SR, page 12-14
+
+102-13
+
+Membership of associations
+
+SR, page 14
+
+ 
+
+Singapore National 
+
+Employers Federation
+
+Singapore Business 
+
+Federation
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+SR, page 2
+
+102-15
+
+Key impacts, risks, and opportunities
+
+SR, page 3 - 5
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of behavior
+
+AR, contents page
+
+Governance
+
+102-18
+
+Governance structure
+
+SR, page 3
+
+AR, page 25 - 43
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+SR, page 3 - 4
+
+102-41
+
+Collective bargaining agreements
+
+Not applicable. 
+
+102-42
+
+Identifying and selecting stakeholders
+
+SR, page 3 - 4
+
+102-43
+
+Approach to stakeholder engagement
+
+SR, page 3 - 4
+
+102-44
+
+Key topics and concerns raised
+
+SR, page 3 - 4
+
+GRI CONTENT INDEX
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+16
+
+Reporting Practice
+
+102-45
+
+Entities	included	in	the	consolidated	financial	state-
+
+ments
+
+AR, page 3, 94, 95,
+
+101 -105
+
+102-46
+
+Defining	report	content	and	topic	Boundaries
+
+SR, page 2, 4
+
+102-47
+
+List of material topics
+
+SR, page 4
+
+102-48
+
+Restatements of information
+
+Not applicable.   
+
+This is the fourth year of 
+
+reporting and there were no 
+
+restatements
+
+102-49
+
+Changes in reporting
+
+SR, page 2
+
+102-50
+
+Reporting period
+
+SR, page 2
+
+102-51
+
+Date of most recent report
+
+29 May 2020
+
+102-52
+
+Reporting cycle
+
+SR, page 2
+
+102-53
+
+Contact point for questions regarding the report
+
+ecomm@serialsystem.com
+
+102-54
+
+Claims of reporting in accordance with the GRI 
+
+Standards
+
+SR, page 3
+
+102-55
+
+GRI content index
+
+SR, page 15 – 17
+
+102-56
+
+External assurance
+
+The Company did not seek 
+
+external assurance on this 
+
+report but may do so in the 
+
+future
+
+GRI 103: Management Approach 2016
+
+ 
+
+ 
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+SR, page 2 – 14
+
+103-2
+
+The management approach and its components
+
+SR, page 2 – 14
+
+103-3
+
+Evaluation of the management approach
+
+SR, page 2 – 14
+
+Material Topics
+
+ 
+
+ 
+
+GRI 201: Economic Performance 2016
+
+ 
+
+Economic
+
+201-1
+
+Direct economic value generated and distributed
+
+SR, page 5 
+
+AR, page 55-149
+
+GRI 203: Indirect Economic Impacts 2016
+
+Economic
+
+203-2
+
+Significant	indirect	economic	impacts
+
+SR, page 5
+
+GRI 205: Anti-corruption 2016 
+
+Economic
+
+205-2
+
+Communication and training about anti-corruption 
+
+policies and procedures
+
+SR, page 12
+
+GRI 301: Materials 2016
+
+Environmental
+
+301-1
+
+Materials used by weight or volume
+
+SR, page 8
+
+GRI 302: Energy 2016 
+
+Environmental 
+
+302-1
+
+Energy consumption within the organization
+
+SR, page 6 - 7
+
+302-2
+
+Energy consumption outside of the organization
+
+SR, page 6 - 7
+
+302-3
+
+Energy intensity
+
+SR, page 6 - 7
+
+302-4
+
+Reduction of energy consumption
+
+SR, page 6 - 7
+
+
+SERIAL SYSTEM LTD / SUSTAINABILITY REPORT 2020
+
+17
+
+GRI 303: Water and Effluents 2018
+
+Environmental 
+
+303-1 
+
+Interactions with as a shared resource 
+
+SR, page 8
+
+303-5
+
+Water consumption
+
+SR, page 8
+
+GRI 305: Emissions 2016 
+
+Environmental 
+
+305-4
+
+GHG emissions intensity
+
+SR, page 6 – 7
+
+305-5
+
+Reduction of GHG emissions
+
+SR, page 6 – 7
+
+GRI 307: Environmental Compliance 2016
+
+Environmental 
+
+307-1
+
+Non-compliance with environmental laws and regu-
+
+lations
+
+SR, page 13
+
+GRI 401: Employment 2016
+
+Social 
+
+401-1 
+
+New employee hires and employee turnover 
+
+SR, page 9 – 11
+
+GRI 403: Occupational Health and Safety 2018
+
+Social 
+
+403-1
+
+Occupational health and safety management system 
+
+SR, page 11
+
+403-2
+
+Hazard	identification,	risk	assessment,	and	incident
+
+SR, page 11
+
+403-4
+
+Worker participation, consultation, and 
+
+communication on occupational health and safety
+
+SR, page 11
+
+403-9
+
+Work-related injuries
+
+SR, page 11
+
+403-10
+
+Work-related ill health
+
+SR, page 11
+
+GRI 404: Training and Education 2016 
+
+Social 
+
+404-1 
+
+Average hours of training per year per  
+
+employee
+
+SR, page 11
+
+404-3
+
+Percentage of employees receiving regular 
+
+performance and career development reviews
+
+SR, page 11
+
+GRI 405: Diversity and Equal Opportunity 2016
+
+Social 
+
+405-1
+
+Diversity of governance bodies and employees
+
+SR, page 11
+
+GRI 413: Local Communities 2016
+
+Social 
+
+413-1
+
+Operations with local community engagement, 
+
+impact assessments, and development programs
+
+SR, page 11
+
+GRI 418: Customer Privacy 2016
+
+Governance
+
+418-1
+
+Substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data
+
+SR, page 13
+
+GRI 419: Socioeconomic Compliance 2016
+
+Governance
+
+419-1
+
+Non-compliance with laws and regulations in the 
+
+social and economic area
+
+SR, page 12 -14
+
+AR – Annual Report 2020 
+
+SR – Sustainability Report 2020
+
+
+8 Ubi View #05-01 Serial System Building Singapore 408554
+
+Tel. 65 6510 2408     Fax. 65 6510 2407
+
+www.serialsystem.com
+

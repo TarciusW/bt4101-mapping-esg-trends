@@ -1,0 +1,932 @@
+
+ 
+
+ 
+
+ 
+
+QT VASCULAR LTD 
+
+SUSTAINABILITY REPORT 2019 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Contents 
+
+Board Statement .................................................................................................................................... 1 
+
+About QT Vascular .................................................................................................................................. 2 
+
+2019 Sustainability Highlights ................................................................................................................ 4 
+
+About This Report .................................................................................................................................. 5 
+
+Materiality Assessment ....................................................................................................................... 5 
+
+Product Quality ...................................................................................................................................... 6 
+
+Business Ethics ........................................................................................................................................ 8 
+
+Regulatory Compliance .......................................................................................................................... 9 
+
+ 
+
+
+ 
+
+ 
+
+1 
+
+ 
+
+Board Statement  
+
+QT Vascular Ltd (“QT Vascular” or “Company”, and together with its subsidiaries, the “Group”) 
+
+is pleased to present its third Sustainability Report, which has been approved by the Board.   
+
+As a medical device company, we aspire to improve the quality of lives for patients through 
+
+the products we offer. To realise this vision, we believe comprehensive considerations for 
+
+relevant environmental, social and governance (“ESG”) risks and opportunities is 
+
+fundamental to ensure the quality of our products, as well as the long-term reliability of our 
+
+operations.  
+
+In 2019, we continue to uphold the upmost standards of integrity, responsibility and 
+
+accountability in our business practices and met all of our 2019 targets set for our material 
+
+ESG factors, namely product quality, business ethics and regulatory compliance. We strive to 
+
+maintain the same record of zero product recall due to quality issues and zero non-compliant 
+
+incidents concerning product quality, business ethics and regulatory compliance in the 
+
+forthcoming year.   
+
+The Board oversees and is supported by the Sustainability Steering Committee (“SSC”) and 
+
+the Sustainability Task Force (“STF”) in its continuous efforts to integrate sustainability issues 
+
+into QT Vascular’s strategic formulation and oversee sustainability performance and 
+
+reporting. The SSC, composed of the senior management team, develops sustainability 
+
+objectives and strategy based on the Board’s directions, manages QT Vascular’s overall 
+
+sustainability performance, and reports to the Board regularly. The STF, consisted of senior 
+
+management representatives from different business functions, implements sustainability 
+
+practices and action plans across QT Vascular based on the sustainability objectives and 
+
+strategy formulated.  
+
+We look forward to sharing our sustainability progress with you in this Sustainability Report. 
+
+ 
+
+Board of Directors 
+
+QT Vascular Ltd 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+2 
+
+ 
+
+About QT Vascular  
+
+QT Vascular is a medical device company specialising in the minimally invasive treatment of 
+
+vascular diseases. 
+
+Coronary artery disease (“CAD”) and peripheral artery disease (“PAD”) happen in the arteries 
+
+surrounding the heart and periphery parts of the body (especially of the pelvis and legs), 
+
+respectively. They are primarily caused by lesions consisting of plaque, which narrows or 
+
+blocks arteries, thus obstructing normal blood flow. CAD and PAD can be treated by 
+
+percutaneous transluminal coronary angioplasty (“PTCA”) and percutaneous transluminal 
+
+angioplasty (“PTA”) respectively.  
+
+Our main products include both minimally invasive drug coated balloon catheters for PTCA 
+
+and for PTA. By collaborating with industry specialists and physicians who are key opinion 
+
+leaders, we develop and offer new and differentiated tools for physicians to improve the 
+
+outcomes in complex peripheral and coronary interventions.  
+
+During an angioplasty procedure, a small incision is made and our balloon catheter is inserted 
+
+on a steerable “guide wire” to reach the narrowed section of the affected artery. The balloon 
+
+catheter is then inflated temporarily to push outward on the plaque and the wall of the blood 
+
+vessel, thus improving blood flow at the narrowing. At the end of the procedure, the balloon 
+
+is deflated and removed so no balloon catheter is left behind in the artery. In this way, our 
+
+balloon catheters provide minimally invasive alternatives to permanent implants such as 
+
+stents, offering a range of medical and cost benefits1. We are proud that these benefits 
+
+ultimately lead to a better quality of life for patients. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 For more details, please visit QT Vascular website https://qtvascular.com/us/about-us/ on “Why is it important 
+
+to avoid the use of permanent implants such as stents?” 
+
+
+ 
+
+ 
+
+3 
+
+ 
+
+ 
+
+
+
+Get to know our Chocolate® products 
+
+In 2010, we commenced the development of a second generation balloon catheter for 
+
+treating peripheral vascular diseases named Chocolate® PTA.  Designed to provide 
+
+atraumatic dilation in the treatment of blocked arteries, Chocolate® PTA incorporates 
+
+a unique nitinol constraining structure to allow controlled balloon expansion. This 
+
+design helps to reduce the shear stress placed on the vessel during inflation, which in 
+
+turn ensures uniform balloon expansion and prevents distortions and over-stretching 
+
+of the vessel. To date, our unique constraining structure for Chocolate® PTA and 
+
+Chocolate® XD is the first and remains the only balloon catheters in the world with this 
+
+design, protected by strong intellectual property portfolio and offering unique 
+
+treatment options for peripheral and coronary artery disease.  Those products are now 
+
+owned by large multinational companies namely Medtronic, Inc. (“Medtronic”) and 
+
+Teleflex, Inc. (“Teleflex”) and continue to improve life around the globe. 
+
+To date, the Group has also received CE marking clearance for its unique peripheral 
+
+drug-coated balloon, Chocolate® Touch and coronary drug-coated balloon, Chocolate® 
+
+Heart. Drug-coated balloons represent a new category of device that combines the 
+
+mechanical dilatation of a balloon catheter with the biological effect of a drug to treat 
+
+occluded arteries. These categories of devices have been available for several years in 
+
+Europe and were recently approved in the United States (“US”). QT Vascular is in the 
+
+process of obtaining US regulatory approval for the drug-coated Balloons.  
+
+Research and Development 
+
+To offer better treatment of vascular disease, we continue to invest in research and 
+
+development. Patient enrollment continued in our pivotal study of the Drug Coated 
+
+Chocolate Touch® Balloon, one of the few drug-coated peripheral balloons to receive 
+
+approval to conduct clinical studies in the US by the US Food and Drug Administration 
+
+(“FDA”). 
+
+K. Katsanos, in early December 2018 published a meta-analysis regarding increased 
+
+mortality for subjects treated with paclitaxel-coated devices*. This analysis led to a 
+
+wide-spread review by the regulators, prompting two physician letters from FDA on 17 
+
+January and 15 March 2019, followed by multiple enrollment challenges. While 
+
+enrollment continues in 2020, the Coronavirus (“COVID-19”) pandemic has impacted 
+
+all industries around the globe. Currently, US hospitals are focusing on support and 
+
+recovery for COVID-19 patients and US clinical studies are impacted as a result. Our 
+
+clinical team is working closely with all US sites to ensure the safety of our clinical trial 
+
+participants and integrity of the study data. 
+
+ 
+
+*Katsanos, K., Spiliopoulos, S., Kitrou, P., et al (2018).  Risk of Death Following Application of Paclitaxel-
+
+Coated Balloons and Stents in the Femoropopliteal Artery of the Leg:  A Systematic Review and Meta-
+
+Analysis of Randomized Controlled Trials. JAHA; 7:e0112452019 Sustainability Highlights 
+
+
+ 
+
+ 
+
+4 
+
+ 
+
+2019 Sustainability Highlights 
+
+ 
+
+ 
+
+ 
+
+100% product categories assessed 
+
+for health and safety impacts
+
+Zero non-compliance concerning 
+
+health and safety of products 
+
+Zero product recall for any of QT 
+
+Vascular's products
+
+Zero significant findings in audit 
+
+with regard to business ethics and 
+
+independence 
+
+Zero confirmed cases of corruption
+
+Zero non-compliance with relevant 
+
+laws and regulation
+
+
+ 
+
+ 
+
+5 
+
+ 
+
+About This Report  
+
+This Sustainability Report summarises QT Vascular’s sustainability policies, practices and 
+
+performance from 1 January 2019 to 31 December 2019, with a focus on its material ESG 
+
+factors. The report covers the listed entity, QT Vascular Ltd and all its wholly-owned 
+
+subsidiaries, including TriReme Medical, LLC., TriReme Medical (Singapore) Pte Ltd and 
+
+Quattro Vascular Pte Ltd.  
+
+The report is prepared in accordance with the requirements of SGX Catalist Rules 711A and 
+
+711B, as well as SGX Catalist Rules Practice Note 7F: Sustainability Reporting Guide. The 
+
+report also makes reference to the Global Reporting Initiative (GRI) Standards, a globally 
+
+recognised framework to report on ESG issues. This report references the following GRI 
+
+Standards and topic-specific Disclosures: 
+
+• 
+
+Disclosure 205-3 from GRI 205: Anti-corruption 2016 
+
+• 
+
+Disclosures 416-1 and 416-2 from GRI 416: Customer Health and Safety 2016 
+
+• 
+
+Disclosures 417-2 and 417-3 from GRI 417: Marketing and Labelling 2016 
+
+• 
+
+Disclosure 419-1 from GRI 419: Socioeconomic Compliance 2016 
+
+All information is disclosed in good faith and to the best of our knowledge. No external 
+
+assurance has been sought for this report. Please forward any enquiries or feedback to 
+
+info@trirememedical.com.  
+
+Materiality Assessment 
+
+To determine ESG factors of significant interests to our business and key stakeholders, QT 
+
+Vascular conducted a materiality assessment guided by the GRI Principles of Materiality and 
+
+Stakeholder Engagement workshop. We considered the following in identifying potential 
+
+material ESG factors:  
+
+• 
+
+Global and local key sustainability trends;  
+
+• 
+
+Hot topics and future challenges for our industry, as identified by our peers; and 
+
+• 
+
+Insights gained from interactions with internal and external stakeholders.  
+
+Three material ESG factors were identified from the assessment process:  
+
+ 
+
+QT Vascular reviewed the above material ESG factors in 2019 and found that they continue 
+
+to be relevant. QT Vascular will regularly review and assess its material ESG factors to ensure 
+
+their pertinence. 
+
+ 
+
+ 
+
+ 
+
+Product Quality 
+
+Business Ethics  
+
+Regulatory 
+
+Compliance  
+
+
+ 
+
+ 
+
+6 
+
+ 
+
+Product Quality 
+
+QT Vascular is committed to developing and offering medical devices that are safe and 
+
+reliable for the patients. We view product quality as top priority and have built a rigorous 
+
+governance structure focused on quality control throughout our value chain to ensure 
+
+consumer and investor confidence.  
+
+QT Vascular has established a robust quality management system (“QMS”) in accordance with 
+
+ISO 13485:2016 Quality Management System for Medical Devices, FDA Quality System 
+
+Regulation (“QSR”), and other worldwide healthcare regulatory requirements. Our QMS is 
+
+regularly audited by external parties to ensure its effectiveness in guaranteeing the quality of 
+
+our products and our compliance with relevant laws and regulations. 
+
+Our QMS outlines a comprehensive set of policies and standard operating procedures 
+
+(“SOPs”) governing the monitoring and management and of product quality. Multiple layers 
+
+of tests and control points are set up at each stage of the product life cycle to confirm that 
+
+the policies and SOPs are properly observed and implemented. We also conduct audits of all 
+
+critical suppliers and vigorously check incoming materials, parts and products to ensure 
+
+quality consistency across our value chain.  
+
+Our key policies and SOPs on quality management include but are not limited to the following:  
+
+Product life cycle  
+
+Key policies and SOPs on quality management 
+
+Design 
+
+• 
+
+Design Control Procedure  
+
+• 
+
+Equipment Specifications, Qualification, Maintenance and 
+
+Calibration 
+
+• 
+
+Risk Management 
+
+Test 
+
+• 
+
+Conduct of Clinical Investigation 
+
+• 
+
+Procedure Clinical Investigation Monitoring  
+
+Operations 
+
+• 
+
+Supplier Management  
+
+• 
+
+First Article Inspection 
+
+• 
+
+Process Validation 
+
+• 
+
+Controlled Manufacturing Environment  
+
+• 
+
+Receiving and Inspection  
+
+• 
+
+Material and Product Control  
+
+• 
+
+Non-conforming Materials Programme 
+
+Distribution 
+
+• 
+
+Packaging and Shipping  
+
+• 
+
+Field Sales Product Handling Requirements 
+
+After sale 
+
+• 
+
+Customer Feedback Procedure 
+
+• 
+
+Compliant Management  
+
+• 
+
+Handling of Out-of-Specification and Out-of-Trend Results  
+
+• 
+
+Corrective and Preventive Action (“CAPA”) 
+
+• 
+
+Product Recall Field Corrections and Removals 
+
+• 
+
+Medical Device Reporting (MDR) 
+
+• 
+
+Vigilance Reporting  
+
+All stages 
+
+• 
+
+Management Review 
+
+
+ 
+
+ 
+
+7 
+
+ 
+
+Product life cycle  
+
+Key policies and SOPs on quality management 
+
+• 
+
+Quality Management System Manual 
+
+• 
+
+Document Change Control 
+
+• 
+
+Records Management and Retention  
+
+• 
+
+Training  
+
+• 
+
+Internal Quality Audits  
+
+ 
+
+In addition to auditing our QMS and critical suppliers, we are routinely audited by European 
+
+CE notified bodies, as well as Medtronic and Teleflex for product quality. We have also been 
+
+audited by the FDA. 
+
+We believe it is vital to cultivate a strong quality culture for our QMS to be effective. Our 
+
+Regulatory Affairs and Quality Assurance Department holds regular, mandatory Quality 
+
+Awareness Training for all employees, which covers key points on our QMS, and related 
+
+policies and practices.  
+
+Performance Measures 
+
+2018 
+
+2019 
+
+2020 Target 
+
+Percentage of significant product and service categories 
+
+assessed for health and safety impacts 
+
+100% 
+
+100% 
+
+Maintain 
+
+zero 
+
+product recall due to 
+
+quality reasons 
+
+Number of non-compliant incidents concerning the 
+
+health and safety impacts of products and services 
+
+0 
+
+0 
+
+Percentage of products recalled due to quality problems   
+
+0% 
+
+0% 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+8 
+
+ 
+
+Business Ethics  
+
+Operating fairly and ethically is fundamental in maintaining our stakeholders’ trust in us. At 
+
+QT Vascular, we uphold high standards of business ethics and independence in all areas of 
+
+our business practices.  
+
+QT Vascular takes a zero-tolerance approach towards corruption. All employees are required 
+
+to abide by the Employee Code of Conduct, which provides guidance on prohibition of fraud 
+
+and bribery and management of conflict of interest. New employees are required to consent 
+
+to all anti-corruption related policies by signing a declaration form.  
+
+We are committed to maintaining our independence in our interactions with healthcare 
+
+professionals in all business settings, including research or development, and marketing and 
+
+sales. Following section 6002 of the U.S. Affordable Care Act2, we set clear policies on the 
+
+provision of gift, entertainment or anything of value, to healthcare professionals. All 
+
+interactions with healthcare professionals are properly recorded and verified in accordance 
+
+with regulatory requirements. These independence precautions help us prevent any 
+
+perceived or actual breach of independence, as well as safeguard the impartiality of research 
+
+results and the provision of healthcare services.  
+
+To ensure independence in clinical trials, the Group appoints independent consultants and 
+
+committees to collect, analyse and evaluate clinical data received from clinical trial sites. 
+
+Clinical investigators are selected objectively based on a balanced consideration of expertise, 
+
+history of compliance, adequate facility, staff resources and enrolment potential, influence 
+
+within the targeted medical community, as well as interest in, availability for and potential 
+
+conflicts with the study. Furthermore, as clinical trials involve human subjects, we strictly 
+
+monitor ethical issues such as informed consent from and HHPA requirements related to 
+
+subjects and data privacy and security throughout our engagement with independent 
+
+investigators to ensure research ethics.  
+
+As part of our business ethics monitoring and assurance process, the Group has established 
+
+a whistle-blowing policy, which stipulates clear channels for employees to anonymously 
+
+report any suspected ethical issues. The Independent Directors of the Group have been listed 
+
+as the contact points, with their contact details disclosed to all employees.  
+
+Performance Measures 
+
+2018 
+
+2019 
+
+2020 Target 
+
+Number 
+
+of 
+
+confirmed 
+
+incidents 
+
+of 
+
+corruption 
+
+0 
+
+0 
+
+Maintain the same high 
+
+levels of business ethics and 
+
+zero confirmed incidents of 
+
+corruption 
+
+Significant findings of internal and external 
+
+audits conducted in relation to business 
+
+ethics and independence 
+
+0 
+
+0 
+
+ 
+
+2 Section 6002 of the U.S. Affordable Care Act, also known as the “Sunshine Act”, requires manufacturers of 
+
+drugs and medical devices to report annually to the Secretary of Health and Human Services on the payments 
+
+or other transfer of value to physicians and teaching hospitals. The Act also requires declaration of ownership 
+
+or investment interests held by physicians or the immediate family members of physicians in applicable 
+
+manufacturers and group purchasing organisations to enhance transparency in existing financial relationships 
+
+between the industry and healthcare personnel and institutions. 
+
+
+ 
+
+ 
+
+9 
+
+ 
+
+Regulatory Compliance  
+
+We believe our reputation is built by being responsible and accountable. We view regulatory 
+
+compliance as the baseline for our continued operation, and we are committed to adhering 
+
+to all relevant laws and regulations, including those concerning customer health and safety, 
+
+independence and anti-corruption, marketing and labelling, taxation, product pricing, as well 
+
+as a range of audit and reporting requirements. 
+
+The medical device industry is heavily regulated by the FDA, the European Union (“EU”) and 
+
+worldwide healthcare regulatory bodies. The Group is audited every 2 years by the FDA and 
+
+once a year by EU notified body, and no material non-compliance issues have arisen from the 
+
+audit to date. The Group has also never paid any fine or penalties for non-compliance of any 
+
+regulatory audit to date. 
+
+In addition to regulatory audits, we strive to continuously strengthen our internal controls. 
+
+QT Vascular actively identifies and manages its enterprise risks, with a particularly strong 
+
+focus on product safety risks, which is the most heavily regulated and closely monitored issue 
+
+by the regulators. We have established a risk management system in accordance with ISO 
+
+14971:2012 Risk Management for Medical Devices, as well as a suite of SOPs to address all 
+
+essential elements of risk management, including:  
+
+• 
+
+The development of a risk management plan 
+
+• 
+
+Risk assessment (including hazard identification and analysis, risk estimation, and 
+
+evaluation of risk acceptability) 
+
+• 
+
+Risk minimisation and risk control 
+
+• 
+
+Risk-based decision making  
+
+• 
+
+Risk monitoring, review and reporting  
+
+To ensure that we stay abreast with new developments of relevant laws and regulations, our 
+
+Regulatory Affairs team communicates regularly with regulators and industry associations for 
+
+updates. When changes occur, we modify our policies and procedures accordingly, maintain 
+
+strict documentation control, and promptly communicate changes in internal policies and 
+
+procedures or regulatory requirements with our employees. Each employee is required to 
+
+read up on the changes and sign off as evidence of review.   
+
+In case of any non-conformance with relevant laws and regulations, QT Vascular will duly 
+
+report to relevant government agencies in compliance with its corresponding reporting 
+
+obligations under various jurisdictions. QT Vascular will also conduct an internal investigation 
+
+to identify root causes of non-conformance and develop corresponding risk controls.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+10 
+
+ 
+
+Performance Measures 
+
+2018 
+
+2019 
+
+2020 Target 
+
+Number of non-compliant incidents concerning 
+
+product and service information labelling 
+
+0 
+
+0 
+
+Maintain zero non-
+
+compliance with all 
+
+laws and regulations 
+
+which 
+
+result 
+
+in 
+
+significant fines or 
+
+non-monetary 
+
+sanctions 
+
+Number of non-compliant incidents concerning 
+
+marketing communications 
+
+0 
+
+0 
+
+Number of non-compliant incidents with laws and 
+
+regulations in the social and economic area that 
+
+results in significant fines and non-monetary 
+
+sanctions  
+
+0 
+
+0 
+
+ 
+

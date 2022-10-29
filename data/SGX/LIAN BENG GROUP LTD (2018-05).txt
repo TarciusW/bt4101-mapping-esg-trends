@@ -1,0 +1,6315 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 
+
+2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+CHAIRMAN’S MESSAGE 
+
+03
+
+ORGANISATION PROFILE 
+
+04
+
+SUSTAINABILITY STORY 
+
+05
+
+ETHICS AND INTEGRITY 
+
+06
+
+GOVERNANCE AND STATEMENT OF THE BOARD 
+
+06
+
+STAKEHOLDER ENGAGEMENT 
+
+07
+
+REPORTING PRACTICE 
+
+09
+
+ECONOMIC TOPICS  
+
+10
+
+ENVIRONMENTAL TOPICS 
+
+11
+
+SOCIAL TOPICS 
+
+16
+
+SGX FIVE PRIMARY COMPONENTS INDEX 
+
+23
+
+GRI STANDARDS CONTENT INDEX  
+
+24
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Lian Beng’s commitment to 
+
+sustainability is driven by the Group’s values and 
+
+governance to uphold ethical standards 
+
+and business practices.
+
+
+
+
+FOCUS ON FUTURE GROWTH
+
+SUSTAINABILITY REPORT 2017 LIAN BENG GROUP LTD 
+
+02
+
+
+
+MR ONG PANG AIK BBM
+
+Chairman and Managing Director
+
+
+
+
+DEAR STAKEHOLDERS, 
+
+I am pleased to present the inaugural Sustainability Report of Lian Beng Group Ltd (“Lian Beng” or “the 
+
+Group”).
+
+Lian Beng’s commitment to sustainability is driven by the Group’s values and governance to uphold ethical 
+
+standards and business practices.
+
+We operate in a very challenging construction and property sector environment. Competition is stiff, but we 
+
+continue to work hard to achieve business growth.
+
+Over the years, we have diversified our revenue streams so that we are less dependent on any single business 
+
+segment. We have also built up enough resources to explore more local and overseas growth opportunities 
+
+to expand our business, and we have been distributing dividends to our shareholders consistently since we 
+
+became a listed company. In doing so, we have developed a sustainable revenue stream for the Group that 
+
+will benefit all our stakeholders.
+
+Our property development business SLB Development Ltd (“SLB”), which has a portfolio of residential, industrial, 
+
+commercial and mixed-use developments, was successfully spun off and listed on the Singapore Exchange 
+
+Catalist Board in April 2018. SLB will publish its Sustainability Report separately to cover sustainability topics 
+
+related to the property development sector.
+
+We have always believed that continuous stakeholder engagement and collaboration is key to sustainable and 
+
+successful business, and we will continue to do so.
+
+Our commitment to sustainability is unwavering, and we will continue to introduce and implement sustainable 
+
+innovations into our business operations.
+
+We believe in long-term business viability, which is the way towards driving sustainable growth.
+
+I would like to extend my appreciation to all stakeholders, past and present, for your contribution towards Lian 
+
+Beng’s success all these years.
+
+MR ONG PANG AIK BBM
+
+Chairman and Managing Director
+
+CHAIRMAN’S 
+
+MESSAGE
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+03
+
+
+
+
+ORGANISATION 
+
+PROFILE
+
+Company Name: Lian Beng Group Ltd 
+
+Founded: 1973
+
+Listed on SGX: 1999
+
+Company Headquarters: Singapore
+
+Business Segments
+
+1. Construction
+
+2. Other Construction-Related Business
+
+3. Investment Holdings and Dormitory Business
+
+CONSTRUCTION
+
+Lian Beng has grown through the years and is now categorised as a Grade A1 builder by the Building and 
+
+Construction Authority (“BCA”). The construction arm of Lian Beng Group engages in the construction of 
+
+residential, industrial and commercial buildings, as well as civil engineering projects, as a main contractor. 
+
+We continue to grow and record high numbers in terms of order book, revenue and profit. To date, we have 
+
+completed more than 150 projects, including 20,000 units of homes with a total contract value of more than 
+
+S$3.5 billion.
+
+Our construction subsidiaries are graded A1 to B2 in General Building by BCA, with Grade A1 companies 
+
+being able to tender for public sector projects of unlimited contract value. Our civil engineering subsidiary is 
+
+categorised Grade A2 in Civil Engineering by BCA, which allows it to tender for engineering projects of up to 
+
+$85 million in contract value. Our design-and-build subsidary has also expanded our construction business.
+
+Sensing the need to ensure that we have enough skilled workers for our deployment, we took the bold step of 
+
+opening an overseas testing and training centre in Bangladesh through joint venture.
+
+OTHER CONSTRUCTION-RELATED BUSINESS
+
+We continue our expansion in the construction-related businesses by setting up the following divisions:
+
+a. Engineering Services and Reinforcement Bar Fabrication
+
+• Engineering services such as metal works, structural works and strutting works
+
+• Fabrication of reinforcement bar
+
+b. Manufacturing of Ready-mixed Concrete and Asphalt Premix
+
+• Production of ready-mixed concrete to supply to the construction business
+
+• Production of asphalt premix to supply to the runway and public road projects
+
+INVESTMENT HOLDINGS AND DORMITORY BUSINESS
+
+a. Investment Holdings 
+
+Lian Beng Group owns a diverse property portfolio locally and overseas comprising residential, commercial 
+
+and industrial properties. The Group also has investments in securities and bonds.
+
+b. Dormitory
+
+The Group currently owns and manages 2 dormitories (Westlite Papan and Westlite Mandai) via joint 
+
+ventures.
+
+04
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+SUSTAINABILITY 
+
+STORY
+
+To provide the BEST QUALITY
+
+ services and products to all our customers at the 
+
+most competitive cost
+
+To achieve long-term business growth  
+
+and to become a respectable and  
+
+reputable construction and  
+
+property development conglomerate
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+MISSION
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+VISION
+
+SUSTAINABILITY PHILOSOPHY
+
+To achieve long-term business sustainability and viability as a responsible, global corporate citizen.
+
+The Board of Directors and the key management team are directly involved in the planning and strategising 
+
+of sustainability initiatives. To deliver on our sustainability mission, a Sustainability Reporting Task Force 
+
+comprising key management personnel was established to oversee the implementation and execution of these 
+
+sustainability initiatives at Lian Beng. The Task Force meets regularly to plan and review the progress of Lian 
+
+Beng’s sustainability initiatives.
+
+As we prioritise the sustainability development of our business, we devoted much time and effort to produce 
+
+our inaugural Sustainability Report. In May 2017, we established our Sustainability Task Force, as well as the 
+
+framework for regular reporting of sustainability matters and the data collection process.
+
+The Group encourages consultation and cooperation between management, employees and stakeholders in 
+
+matters that may materially impact them. The first materiality assessment survey was conducted to understand 
+
+the concerns of over 80 stakeholders ranging from our customers and subcontractors to suppliers and staff.
+
+NOTEWORTHY AWARDS
+
+The Group has won a number of awards and accolades for our excellence in general construction practices. 
+
+These include:
+
+• BCA Awards Quality Excellence Award Quality Champion (Platinum), 2017 
+
+• BCA Building Information Modelling (BIM) Award Organisation (Gold), 2017 
+
+• BCA Quality Excellence Award Quality Champion (GoldPlus), 2016 
+
+• BCA Quality Excellence Award (Gold), 2015 
+
+• International Construction Award by the Global Trade Leaders’ Club, headquartered in Madrid, Spain. 
+
+Our construction arm has also received ISO 9001, ISO 14001 and OHSAS 18001 certifications for our 
+
+environmental and quality practices. 
+
+We are equally committed to the safety and well-being of our staff. We regularly engage staff and workers in 
+
+safety training and education, which emphasises strict adherence to workplace safety procedures. In this area, 
+
+we have been awarded the Royal Society for the Prevention of Accidents (“RoSPA”) Occupational Health and 
+
+Safety Award for many years, as well as the BizSafe Star certification by the Workplace Safety and Health 
+
+(“WSH”) Council in Singapore.
+
+05
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+ETHICS  
+
+AND INTEGRITY
+
+ETHICS AND COMPLIANCE
+
+Lian Beng works diligently to ensure our employees adhere to the highest standards of ethics and integrity, as 
+
+well as comply with applicable regulations and professional codes of conduct.
+
+ANTI-CORRUPTION (GRI 205-1, 205-2, 205-3)
+
+Lian Beng takes a strong stance against any form of misconduct, corruption and malpractice in the Group. 
+
+The Group’s policy and code of conduct state that all employees should not be involved in offering, paying, 
+
+requesting or receiving bribes or participate in any fraudulent activities.
+
+We have a whistle-blowing policy in place to provide an avenue for employees of the Group and third parties to 
+
+raise matters pertaining to wrongdoing or malpractice within the Group, which they may become aware of, and 
+
+to provide reassurance that they will be protected from reprisals, victimisation or any form of retaliatory action 
+
+for whistle-blowing made in good faith and without malice.
+
+Employees or external parties can raise issues in confidence pertaining to wrongdoing or improper financial 
+
+accounting to the Chairman of Audit Committee. Relevant actions will be taken to correct the weaknesses in 
+
+internal controls and policies that may allow the perpetration of fraud or misconduct or both, and to prevent a 
+
+similar incident from repeating itself. 
+
+Administrative, disciplinary, civil or criminal actions or any combinations of these will be taken following the 
+
+completion of independent investigations. 
+
+There were no incidents of corruption in FY2018.
+
+Please refer to our Annual Report FY2018 for more information on our whistle-blowing policy, interested person 
+
+transactions and dealings in securities.
+
+Lian Beng’s Board and senior management have assessed sustainability issues as part of the strategic 
+
+formulation of the company. The Sustainability Reporting Committee is chaired by the Construction Director, 
+
+and reports to the Board of Directors. It is supported by the management’s Sustainability Reporting Task Force 
+
+comprising heads of different business units and helps to spearhead sustainability efforts in the organisation.
+
+The Committee reviews the Group’s sustainability objectives and supervises the Task Force in tracking 
+
+sustainability data and progress. The Board oversees the process of engaging stakeholders and identification 
+
+of material topics. It approves the material environmental, social and economic topics identified by the 
+
+Sustainability Reporting Committee.
+
+Please refer to our Annual Report FY2018 for more information on corporate governance practices.
+
+DIVERSITY OF GOVERNANCE BODIES (GRI 405-1)
+
+Lian Beng values diversity in our Board and we ensure that the Group is fairly represented. We prioritise equal 
+
+opportunities for everyone in the Company and firmly believe that everyone plays an integral role in the growth 
+
+of our business. With the female-to-male ratio being 1:2 on the Board, we believe our Board’s gender diversity 
+
+will set us apart from our peers and further boost our performance in this male-dominated industry.
+
+GOVERNANCE AND  
+
+STATEMENT OF THE BOARD
+
+06
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+We value input from our stakeholders and we engage our stakeholder groups actively through various channels. 
+
+Stakeholders are groups of people who have a material impact on our business or may be materially impacted 
+
+by our business. These may include internal stakeholders such as employees and external stakeholders such 
+
+as suppliers, customers and regulators.
+
+The Group sought the opinions of our stakeholders to understand the material issues that are relevant to them. 
+
+Over 80 stakeholders, ranging from our customers and subcontractors to suppliers and employees, provided 
+
+us with their feedback. We appreciate their input and have incorporated these into the materiality matrix below. 
+
+It contains some of the key sustainability issues highlighted and their relative importance to both external 
+
+shareholders and internal management.
+
+
+
+
+
+
+
+Low
+
+Low
+
+Medium
+
+High
+
+Medium
+
+High
+
+Direct Economic 
+
+Value Generated
+
+Greenhouse Gas 
+
+Emissions
+
+% of local-
+
+born Senior 
+
+Management
+
+Employee
+
+Diversity
+
+Energy
+
+Consumption
+
+Non-compliance 
+
+with laws and 
+
+regulations 
+
+Corruption
+
+Risks
+
+LEVEL OF RELATIVE IMPORTANCE TO INTERNAL MANAGEMENT
+
+LEVEL OF RELATIVE IMPORTANCE TO EXTERNAL STAKEHOLDERS
+
+07
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+STAKEHOLDER 
+
+ENGAGEMENT
+
+Stakeholder 
+
+Groups
+
+Engagement platforms
+
+Issues of concern
+
+Read more in the 
+
+following sections
+
+Community
+
+• Community Services
+
+ Engagement
+
+• Environmental Impact
+
+• Social Development
+
+• Environmental Topics
+
+• Giving Back to our 
+
+Community
+
+Employees
+
+• Structured and open 
+
+annual performance 
+
+appraisal system to 
+
+link performance with 
+
+remuneration
+
+• Training and Education
+
+• Remuneration and 
+
+Benefits
+
+• Training and 
+
+Development 
+
+• Ethics and Conduct
+
+• Training and Career 
+
+Development
+
+Suppliers and 
+
+Subcontractors
+
+• Weekly updates from 
+
+contractors 
+
+• Mass toolbox meetings
+
+• Health and Safety
+
+• Environmental 
+
+Compliance
+
+• Managing our Suppliers
+
+• Vision Towards an 
+
+Accident-Free Work 
+
+Culture 
+
+Customers
+
+• Regular dialogues
+
+• Data Privacy
+
+• Quality of tenants’ living 
+
+conditions
+
+• Protecting Customer 
+
+Privacy and Data
+
+• Customer Health and 
+
+Safety
+
+Governments
+
+and Regulators
+
+• SGX quarterly 
+
+announcements
+
+• Annual Reports
+
+• Sustainability Reporting
+
+• Ongoing dialogues
+
+• Environmental 
+
+compliance
+
+ with National 
+
+Environmental Agency 
+
+(“NEA”)
+
+• Regulatory and industrial
+
+ requirements under 
+
+BCA and Ministry of 
+
+Manpower (“MOM”) 
+
+• Fines or Penalty
+
+• Injuries and Incidents
+
+Shareholders
+
+and investors
+
+• Annual Reports
+
+• Investor Relations
+
+ Management
+
+• Annual General Meetings
+
+• Economic
+
+ Performance
+
+• Anti-corruption
+
+• Direct Economic 
+
+Value Generated and 
+
+Distributed
+
+• Anti-corruption
+
+08
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+Lian Beng’s first sustainability report has been produced in accordance with the GRI Standards “Core” option 
+
+covering our Group’s performance in FY2018, i.e. from 1 June 2017 to 31 May 2018.
+
+The GRI Standards represent the global best practices for reporting on economic, environmental and social 
+
+topics.
+
+The report also incorporates the primary components of report content as set out by the SGX’s “Comply or 
+
+Explain” requirements on sustainability reporting under Listing Rule 711B.
+
+GRI does not require external assurance and the Group’s Sustainability Reporting Committee has assessed 
+
+that external assurance is not required as the Group is laying the foundations for a sustainability reporting 
+
+framework this year.
+
+This report supplements the Group’s Annual Report FY2018 and is available online at: http://www.lianbeng.
+
+com.sg. Detailed section references with GRI Standards can be found on the GRI Standards Content Index 
+
+Page.
+
+Lian Beng’s material topics are identified based on their impact on our internal and external stakeholders, as 
+
+outlined in the Stakeholders Engagement Section.
+
+Please refer to SLB’s sustainability report for FY2018 for more information on the sustainability efforts related 
+
+to property development.
+
+Material Topics
+
+Boundaries (i.e. which business segment or geography)
+
+ECONOMIC
+
+GRI 201: Economic Performance
+
+Applicable to the Group
+
+GRI 203: Indirect Economic Impacts
+
+Lian Beng’s local and international business operations.
+
+GRI 205: Anti-corruption
+
+Compliance with legislations and recognised standards are 
+
+applicable to Lian Beng’s local and international businesses.
+
+ENVIRONMENTAL 
+
+GRI 301: Materials
+
+Applicable to construction, other construction-related businesses, 
+
+investment holding and dormitory segments.
+
+GRI 302: Energy
+
+GRI 303: Water 
+
+GRI 305: Emission 
+
+GRI 306: Effluent and Waste
+
+GRI 307: Environmental Compliance
+
+Compliance with environmental regulations is applicable to Lian 
+
+Beng’s 
+
+construction, 
+
+other 
+
+construction-related 
+
+businesses, 
+
+investment holding and dormitory segments.
+
+GRI 308: Supplier Environment 
+
+Assessment
+
+Supplier environment assessment is applicable to construction and 
+
+other construction-related business segments.
+
+SOCIAL 
+
+GRI 401: Employment
+
+Applicable to the Group’s employees and workers in construction, 
+
+other construction-related services segments
+
+GRI 403: Occupational Health and 
+
+Safety
+
+GRI 404: Training and Education
+
+GRI 405: Diversity and Equal 
+
+Opportunity
+
+GRI 413: Local Community
+
+Applicable to local communities impacted by construction segments.
+
+GRI 414: Supplier Social Assessment
+
+Applicable to suppliers for construction segment.
+
+GRI 416: Customer Health and Safety
+
+Applicable to investment holding and dormitory segments.
+
+GRI 418: Customer Privacy
+
+Applicable to construction, other construction-related businesses, 
+
+investment holding and dormitory segments.
+
+GRI 419: Socio-economic compliance
+
+Applicable 
+
+across 
+
+construction, 
+
+other 
+
+construction-related 
+
+businesses, investment holding and dormitory segments.
+
+REPORTING  
+
+PRACTICE
+
+09
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+DIRECT ECONOMIC VALUE GENERATED AND DISTRIBUTED (GRI 201-1)
+
+The Group prioritises the interests of our shareholders and key stakeholders. We endeavour to maximise 
+
+shareholder value and will continue to improve and drive future growth.
+
+Please refer to the Annual Report FY2018 for the financial performance of Lian Beng.
+
+INNOVATION AND EXCELLENCE (GRI 203-2)
+
+Lian Beng is devoted to the betterment  of  the  local  economy  through  the  practices  we  implement  in our 
+
+operations.
+
+The Group has continuously invested substantially in innovation and productivity improvements in relation to 
+
+our operational processes. We are constantly on a lookout for new innovative technologies and methods to 
+
+increase labour productivity. Our in-house construction support service capabilities also allow us to further our 
+
+cause.
+
+We invested in technologies such as telescopic handler, automatic wheel washer and biometric systems 
+
+to increase our productivity on site and save manpower on menial tasks. We also incorporated the use of 
+
+Prefabricated Prefinished Volumetric Construction (“PPVC”) and prefabricated bathroom units (“PBU”), as part 
+
+of the Design for Manufacturing &amp; Assembly (“DfMA”) process to reduce reliance on manpower and ensure 
+
+on- site productivity and quality control.
+
+We have automated the rebar cutting processes to increase efficiency and accuracy for use in construction 
+
+projects. This has reduced the level of wastage in the rebar cutting process.
+
+ECONOMIC 
+
+TOPICS 
+
+10
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+ENVIRONMENTAL 
+
+TOPICS 
+
+Hazardous Materials Management:
+
+• Hazardous materials usage and storage 
+
+reporting
+
+• Hazardous materials business plan
+
+• Hazardous materials inventory
+
+• Asbestos, lead and mould management
+
+• Subsurface investigations
+
+• Site characterisation and remediation
+
+• Underground storage tank management
+
+Health and Safety Awareness: 
+
+• Training of staff and subcontractors
+
+• Emergency escalation framework
+
+Compliance Assessments:
+
+• Corporate and project-based internal  
+
+safety audits 
+
+• Compliance audits
+
+• Gaps assessment
+
+• Compliance to WSH regulations
+
+Waste / Vector Management: 
+
+• Compliance to NEA regulations
+
+• Source reduction
+
+Air Quality / Noise Management:
+
+• Engagement of Acoustic Consultant to 
+
+study on residual noise prior to project 
+
+commencement
+
+• Air quality / Noise permits
+
+• Record keeping in source reduction
+
+• Programme development
+
+• Training / WSH regulations
+
+Lian Beng is a committed and environmentally responsible partner in the communities we operate in to ensure 
+
+a safe, efficient and environmentally conscious operating environment. The Group encourages consultation 
+
+and cooperation between management, employees and stakeholders in matters that may affect or impact the 
+
+environment.
+
+Lian Beng’s risk and sustainability-based strategies are geared to assess, avoid, reduce and mitigate 
+
+environmental risks and impact. Our Environmental Policy provides the overall framework to ensure that 
+
+natural resources are efficiently used through the conservation of energy and water and the minimisation of 
+
+waste generated by reducing, reusing and recycling where possible.
+
+The Group has embarked on the Green and Gracious Builder Scheme initiated by BCA. The implementation 
+
+of the Green and Gracious Builder Scheme has enhanced and complemented the current ISO 14001 
+
+Environmental Management System (“EMS”), which aligns all entities in the Group in managing its 
+
+environmental responsibilities. The implementation of the Green and Gracious Builder Scheme has raised the 
+
+level of environmental consciousness of the project team.
+
+The Group is committed to being an environmentally sustainable real estate developer and builder that 
+
+genuinely believes in building a practical ‘green’ future by minimising its impact on the environment and helping 
+
+to protect it for future generations.
+
+CONSTRUCTION AND OTHER CONSTRUCTION-RELATED BUSINESSES
+
+Lian Beng works closely with its staff and subcontractors to ensure comprehensive management of 
+
+environmental impact at all its construction sites.
+
+11
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+
+
+
+12
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+INPUT MATERIALS (GRI 301-2) 
+
+MANUFACTURING OF READY-MIXED CONCRETE
+
+As of FY2018, green materials make up, on average, 5% of the ready-mix concrete produced at our Punggol 
+
+plant and 13% of that produced at our Tuas plant. We target to increase the percentage to 10% for the Punggol 
+
+plant for the following financial year to develop a concrete mix with lower carbon footprint. We commit to 
+
+reduce consumption of virgin materials by replacing them with recycled materials.
+
+ENERGY AND EMISSIONS MANAGEMENT (GRI 302-1, 302-4, 302-5, 
+
+305-1,  305-2, 305-5)
+
+We are committed to working closely with our stakeholders to manage our carbon footprint. Energy efficiency 
+
+is an important element in addressing climate change and reducing the carbon footprint. To do our part in 
+
+countering climate change, we have put our focus on constructing well-designed projects that reduce gas 
+
+emissions. Environmental policies and guidelines relating to energy apply in all geographical locations where 
+
+the company operates.
+
+Energy and emissions intensity ratios are calculated to allow us to compare our recurring emissions moving 
+
+forward.
+
+CONSTRUCTION
+
+Lian Beng complies with BCA regulations and we are proud to share that we have been certified as a Green 
+
+and Gracious Builder (Excellent). Environmentally friendly initiatives are incorporated in building designs and 
+
+implemented during the construction period. All projects undertaken by Lian Beng have been Green Mark 
+
+Certified. Martin Modern was certified “Gold Plus” and Defu Industrial City was certified “Platinum” for efforts 
+
+in environmental protection and reducing gas emissions.
+
+There were 5 ongoing projects in FY2018, where energy consumption totaled to 3,757,038 kWh and CO2 
+
+emissions were 2,656,793 kg. With construction projects having a combined gross floor area of 5,181,933 
+
+m², the total energy and emissions intensity ratios were 0.73 kWh/m² and 0.51kg/m2 respectively. Our energy 
+
+intensity ratio was significantly below BCA’s average industry benchmark of 7 kWh/m².
+
+We endeavoured to reduce energy use on site during construction by introducing energy-saving equipment, 
+
+including solar panels, to power certain equipment such as noise meters, and earth control measures. Energy- 
+
+saving air conditioning units and motion sensors were installed in places less frequently used to further 
+
+conserve energy, and we have successfully conserved 26,484 kWh of energy, which translates to a reduction 
+
+of 18,728 kg in CO2 emissions. We will persevere with our energy conservation efforts at our project sites.
+
+OTHER CONSTRUCTION-RELATED BUSINESSES
+
+Electricity and diesel consumption (for heating and drying of granite material) are major cost components in the 
+
+manufacture of asphalt premix. In an effort to remain cost competitive and reduce our environmental footprint, 
+
+careful consideration had been given during the design and construction of the asphalt premix plant. The 
+
+Company invested in a state-of-the-art plant that is designed with advanced high efficiency thermal insulation 
+
+to reduce heating requirements. In addition, the Group’s asphalt premix plant is the only one in Singapore 
+
+with a fully enclosed silo for the storage of granite material, which will prevent it from getting wet during rainy 
+
+weather and hence reduce the need for prolonged drying through heating. Our actual consumption of energy 
+
+for the asphalt premix business being much lower than target consumption is testimony to our conservation 
+
+efforts.
+
+We commit to reduce energy consumption at the ready-mix plants through enforcing energy efficiency and 
+
+process improvement by using resources and equipment to optimise energy usage. We target to reduce the 
+
+energy consumption per cubic meter of concrete produced from 3 kWh/m3 to below 2 kWh/m3 in the following 
+
+financial year.
+
+Our energy consumption was 14,168,796 kWh in FY2018, significantly lower than the target consumption of 
+
+16,500,412 kWh.
+
+ENVIRONMENTAL 
+
+TOPICS 
+
+
+
+
+13
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+ENVIRONMENTAL 
+
+TOPICS 
+
+INVESTMENT HOLDING AND DORMITORY BUSINESS
+
+For our dormitories, we have implemented several energy-saving initiatives to reduce energy consumption.
+
+In FY2018, total energy consumption at the dormitories was 7,522,758 kwh and the corresponding 
+
+CO2emissions were 5,319,726 kg. As for Broadway Plaza and our corporate office, total energy consumption 
+
+was 809,204 kwh and the corresponding CO2 emissions were 572,229 kg. As Wilkie Edge was incorporated 
+
+into our portfolio in 2017, the energy and emissions data collected for reporting dates from 15 November 
+
+2017 to 31 May 2018. During this period, 4,200,462 kWh of energy was consumed and corresponding CO2 
+
+emissions were 2,970,361 kg.
+
+WATER MANAGEMENT (GRI 303-1, 303-3)
+
+Water remains scarce in Singapore and is an important resource that we have to conserve.
+
+CONSTRUCTION
+
+All projects are equipped with earth control measures (“ECM”). Approximately 15% (23,327m³) of ECM-
+
+collected treated water are reused as a secondary source by construction projects for general purposes such 
+
+as vehicle washing, watering of the access pathways to minimise dust and washing of toilets at workers’ 
+
+quarters. This has allowed us to maximise the use of rainwater collected.
+
+Targets for water usage are set and water meters are installed to track water usage at all project sites. The 
+
+construction projects used a total of 27,492 m³ of water against the GFA of 5,181,933m2. Our water usage of 
+
+0.05 litre/m2 is well within the BCA industry KPI average of 938 litre/m2.
+
+MANUFACTURING OF READY-MIXED CONCRETE
+
+In FY2018, 102,757 m³ of water was consumed in manufacturing of ready-mixed concrete.
+
+INVESTMENT HOLDING AND DORMITORY BUSINESS
+
+The Group actively engages various parties, such as Nanyang Technological University, to consult on solutions 
+
+to use water and energy more efficiently. There are ongoing initiatives in place to conserve water, such 
+
+as education on water-saving habits at the dormitories. We commit to continue our management of water 
+
+consumption and improve on our water-reclaiming processes.
+
+In FY2018, total water consumption was 774,247 m³ at dormitories and 7,291 m³ at Broadway Plaza and our 
+
+corporate office.
+
+From 15 November 2017 to 31 May 2018, total water consumption at Wilkie Edge was 22,067 m³.
+
+Moving forward, we will implement water conservation targets for our corporate office, investment properties 
+
+and other construction-related businesses.
+
+
+
+Common areas of 
+
+workers’
+
+accommodation 
+
+are designed 
+
+to maximise the use of 
+
+natural light
+
+
+
+Lifts operate on a 
+
+variable voltage and 
+
+variable frequency 
+
+(“VVVF”) motor drive 
+
+with sleep mode 
+
+features to help reduce 
+
+electricity usage
+
+
+
+Worker domitories are 
+
+separated by walls, 
+
+with an opening at the 
+
+top that allows cross 
+
+ventilation and 
+
+movement of air
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+ENVIRONMENTAL 
+
+TOPICS 
+
+EFFLUENTS AND WASTE MANAGEMENT
+
+All our construction projects are equipped with ECM. Our system equipment is designed by a Qualified Earth 
+
+Control Professional (“QECP”) as part of the requirement to prevent earth and silt from being discharged into 
+
+public drains that lead to water catchment areas. The ECM takes into consideration factors such as construction 
+
+sequences for erosion control, sediment control and treatment. The QECP will monitor the capacity of the 
+
+treatment equipment, storage tanks and implementation measures for the duration of the construction period.
+
+WATER DISCHARGE TREATMENT (GRI 306-1)
+
+The function of the ECM is to filter collected rainwater within a project. The collected water containing mud 
+
+and silt will be treated by the equipment through chemical filtering or membrane system filtering before being 
+
+discharged into the common public drainage outside the development. The system is set to ensure that the 
+
+Total Suspended Solids (“TSS”) reading of treated water will not exceed 50 mg/l. The water being discharged 
+
+is monitored by the TSS web-based monitoring system and the user will be alerted if the reading exceeds the 
+
+requirement, in which case corrective measures will have to be taken to address the issue. 
+
+The treated water will flow through the public drainage system into our national catchment areas. 
+
+MANUFACTURING OF READY-MIXED CONCRETE
+
+The Group will continue our steadfast efforts to monitor, review and reduce water discharge, and we endeavour 
+
+to control and maintain our effluent discharge at 0 m3.
+
+WASTE DISPOSAL (GRI 306-2)
+
+CONSTRUCTION
+
+Construction wastes from projects are collected by Authorised Licensed waste collectors. Construction wastes 
+
+collected by these operators will be segregated accordingly at their respective yards before being transported 
+
+to government landfills or incinerators. Materials such as wood and rubber are sent to recycling yards.
+
+In FY2018, construction waste collected for disposal totalled 876 tonnes, while the total amount of concrete 
+
+waste collected was 2,955 tonnes. Currently, we recycle rebar by sending it to authorised scrap dealers who 
+
+will in turn segregate and dispose it through the authorised agency. We ensure that proper channels of disposal 
+
+are used by only employed contractors that are certified and authorised by government agencies. All rebar 
+
+waste would need to go through the sorting process to segregate items that can be recovered and items that 
+
+can be recycled. For FY2018, we used a total of 52,260 tonnes of rebar, out of which 203 tonnes of waste was 
+
+recycled.
+
+MANUFACTURING OF READY-MIXED CONCRETE
+
+Production waste collected for disposal totalled 35,479 tonnes at the Punggol plant and 12,699 tonnes at 
+
+the Tuas plant. For the ready-mixed segment, the Group working towards reducing waste disposal from 0.07 
+
+tonnes/m3 of concrete produced to 0.05 tonnes/m3 by reviewing and revaluating our current processes and 
+
+procedures to further enhance our sustainability efforts.
+
+14
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+ENVIRONMENTAL 
+
+TOPICS 
+
+NOISE AND VECTOR MANAGEMENT
+
+The Group engages acoustic consultants to determine if the noise that is expected to be generated during 
+
+the construction will exceed noise limits stipulated by NEA. Using a computer program, Cadna-A, the acoustic 
+
+consultant will conduct a Noise Impact Assessment (“NIA”), under which the consultant incorporates input from 
+
+the Group on machineries and construction sequence, and use the information to calculate and forecast the 
+
+noise generated by the construction site.
+
+Based on the results of the NIA, the acoustic consultant will recommend a Noise Management Plan (“NMP”) 
+
+that will cover the entire period of the project. Our Project Manager will then oversee and monitor noise control 
+
+throughout the construction project.
+
+The NMP caters for different phases of the construction and provides appropriate noise mitigation/control 
+
+measures for each construction activity. It also recommends noise mitigation measures for the machineries 
+
+and equipment that we will be using during the different phases of our construction activities.
+
+For effective noise control of our construction activities, a continuous noise monitoring on-site is adopted, and 
+
+this can be accessed by the contractor &amp; NEA online.
+
+To further enhance our noise management effectiveness, we appoint designated staff for each project to 
+
+manage complaints and establish feedback channels with surrounding residents via flyers and letters to inform 
+
+them of our construction works. We have also raised project signboards for similar purposes, with contact 
+
+numbers included for convenient access by residents nearby.
+
+In addition, vector control plans are implemented at every project site to prevent mosquito breeding so as to 
+
+protect site personnel and members of the public from mosquito-borne diseases. We educate all site workers 
+
+to ensure that they are all trained and well aware of the harmful effects of mosquito breeding. In an effort to 
+
+prevent breeding of vectors, we cultivate good practices, conduct routine checks and engage pest control 
+
+companies to carry out regular insecticide spraying.
+
+15
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+OUR CURRENT WORKFORCE BY AGE AND GENDER
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+25.76%
+
+32.99%
+
+22.34%
+
+7.36%
+
+30 TO LESS 
+
+THAN 40 
+
+YEARS OLD 
+
+40 TO LESS 
+
+THAN 55 
+
+YEARS OLD 
+
+AGE 55
+
+&amp;
+
+ABOVE 
+
+BELOW 30 
+
+YEARS OLD
+
+2.03%
+
+5.84%
+
+3.30%
+
+0.38%
+
+
+
+MALE
+
+
+
+FEMALE
+
+For FY2018, the average monthly recruitment rate was approximately 1.2% and the average monthly 
+
+resignation rate was about 2.1%.
+
+MANAGING OUR SUPPLIERS (GRI 308-1, 308-2, 414-1, 414-2)
+
+The Group has implemented steps to ensure that suppliers and subcontractors are informed of their 
+
+environmental responsibilities and able to meet the standards expected by the Group.  This is in addition to the  
+
+steps they are required to take to comply with ISO certifications.
+
+All suppliers and subcontractors are reviewed and selected based on environmental and social criteria. They 
+
+are required to complete a self-assessment questionnaire where they must respond on existing health, safety 
+
+and environmental policies and procedures in place for their employees. This questionnaire will be provided 
+
+during the quotation and tendering process.
+
+During FY2018, we assessed 100% of our construction suppliers and 90% of our engineering service suppliers. 
+
+There was no major breach of regulations including health and safety and labour laws.
+
+OUR PEOPLE, OUR ASSETS 
+
+At Lian Beng, we work to create an inclusive workplace environment, committed to mutual respect, fairness and 
+
+equality for all our staff and workers. We provide opportunities for continuous learning and skills improvement 
+
+for staff development.
+
+27.79%
+
+38.83%
+
+25.63%
+
+7.74%
+
+OUR EMPLOYEES BY GENDER AND AGE GROUP (GRI 401-1, 405-1)
+
+16
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+EMPLOYEE BENEFITS (GRI 401-2, 401-3)
+
+We recognise the valuable contribution by our employees. Lian Beng works with various service providers to 
+
+offer each employee a unique Lian Beng lifestyle card. With the lifestyle card, employees can enjoy discounts 
+
+and / or extended benefits for their purchases.
+
+A total of 72 employees were entitled to Parental Leave.
+
+• Staff are given a medical 
+
+card that allows them 
+
+to enjoy subsidised 
+
+outpatient medical care at 
+
+General Practitioner clinics 
+
+and medical insurance 
+
+coverage.
+
+HEALTHCARE
+
+• Eligible staff are entitled to 
+
+Maternity Leave, Paternity 
+
+Leave, Shared Parental 
+
+Leave, Childcare Leave, 
+
+Extended Childcare Leave, 
+
+Unpaid Infant Care Leave 
+
+and Adoption Leave, and 
+
+Training and Exam Leave 
+
+where applicable.
+
+LEAVE ENTITLEMENT
+
+• Staff are covered under 
+
+Personal Accident 
+
+Insurance and Work Injury 
+
+Insurance.
+
+DISABILITY  
+
+AND INVALIDITY
+
+COVERAGE
+
+• Staff are entitled to receive 
+
+the following benefits:
+
+ Lifestyle card - staff 
+
+entitled to discounts and 
+
+/ or extended benefits at 
+
+selected service providers
+
+ Dinner and Dance
+
+ Festive celebrations
+
+OTHERS
+
+17
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+TRAINING AND CAREER DEVELOPMENT (GRI 404-1, 404-2, 404-3)
+
+Lian Beng’s aim is to recruit and develop employees to their fullest potential to drive business excellence.
+
+We provide our employees with competitive and fair remuneration to reward them for their good performance. 
+
+Annual performance appraisals are conducted for all employees and our compensation packages are 
+
+benchmarked against the market rate. Attracting and retaining talent is key to our continued success. There 
+
+are career development opportunities for all our staff, and we provide internal and external training for all staff.
+
+We invest in our employees to keep them abreast of the current technology and knowledge to improve 
+
+productivity.
+
+Total hours of staff training in FY2018
+
+5910
+
+HOURS
+
+Average hours of training per employee in FY2018
+
+7
+
+HOURS
+
+(approximately)
+
+GIVING BACK TO OUR COMMUNITY (GRI 413-1)
+
+Lian Beng believes sustainability is an integral part of our business philosophy. This issue has always been 
+
+close to our hearts. We are committed to being a responsible corporate citizen and we work with many non- 
+
+profit groups to give back to the community.
+
+In FY2018, we organised the “I-Shop-You-Pay” event in collaboration with TOUCH Community Services. As 
+
+part of the event, we brought elderly in wheelchairs for a morning stroll, breakfast and grocery shopping. We 
+
+also made several donations to charity organisations in FY2018.
+
+Beyond Singapore, we have been setting aside funds to support international non-profit organisations annually. 
+
+Since 2014, we have been sponsoring and helping to build homes in remote parts of Cambodia annually.  
+
+Through the house-building project in Cambodia, we hope to improve the well-being of the community and 
+
+help those in need.
+
+During FY2018, we held a one-week long HDB safety promotion campaign at Defu Industrial City to engage 
+
+our stakeholders and educate them about the safety policies and procedures that we have in place for our 
+
+construction projects. Activities included signing of the Safety Pledge, safety briefings and demonstration 
+
+sessions for hot work, working at heights, lifting operations and safe behaviours at construction sites.
+
+18
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+LIAN BENG GROUP’S TOP
+
+MANAGEMENT TEAM
+
+PROJECT TEAM
+
+AND CO-MEMBERS
+
+SUBCONTRACTOR AND
+
+SUPPLIERS
+
+SAFETY
+
+Design for Safety
+
+and Coordination
+
+Understanding  
+
+of Expectations and 
+
+Implementation  
+
+for compliance with 
+
+WSH Act
+
+Supervision on
+
+Execution and Review
+
+VISION TOWARDS AN ACCIDENT-FREE WORK CULTURE (GRI 403-1)
+
+At Lian Beng, we have implemented a Health and Safety Policy to ensure workplace safety. The Health and 
+
+Safety Committee, led by the Project Director, provides oversight of all health and safety practices within the 
+
+organisation.
+
+Lian Beng is committed to providing a safe and healthy workplace for all our stakeholders. It is necessary to 
+
+embrace every effort to eliminate workplace injuries and fatalities because every incident takes a heavy toll on 
+
+our workers and their families. 
+
+By inviting tripartite contributions, participation, involvement and commitment, ambitious safety targets can be 
+
+achieved through a three-way partnership involving our subcontractors, Project Team and Top Management 
+
+Team. The WSH Act, introduced in 2006 by the Ministry of Manpower, plays a part in erecting a regulatory 
+
+fence around all workplace safety, health and welfare practices.
+
+Lian Beng’s mode of operations inculcates in stakeholders the mindset of leveraging affordable technologies 
+
+that are readily available to help ensure both good performance and work safety on a daily basis. For example, 
+
+workers are encouraged to report any deviations from best practices at the construction sites for such lapses 
+
+to be rectified immediately.
+
+19
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+TAKING A MULTI-PRONGED APPROACH TOWARDS ENSURING 
+
+WORKPLACE SAFETY
+
+Our Workplace Safety &amp; Health Management System (“WSHMS”) is periodically revised to adhere to the latest 
+
+WSH legislative amendments and routinely audited by external independent consultants and internal audit 
+
+teams. Lian Beng is certified to be compliant with the SS506 Singapore Standard for Occupational Safety and 
+
+Health Management System, OHSAS 18001 and ISO 14001.
+
+At every project site, supervisors are assigned with areas of responsibilities to maintain workplace safety. We 
+
+work closely with our subcontractors to ensure that the highest standards of workplace safety are maintained. 
+
+Lian Beng has implemented Project Internal Safety Audit (“PISA”) and Corporate Internal Safety Audit (“CISA”) 
+
+to conduct regular site audits to engage all site staff and understand the challenges faced on the ground. The 
+
+desired outcome of PISA and CISA is to provide a safer workplace that complies with WSH regulations and 
+
+standards.
+
+We recognise and reward our workers for safe behaviour and practices. Lian Beng works closely with our 
+
+subcontractors to reaffirm our commitment to uphold the Group’s core value of safety.
+
+On a corporate level, we conduct site walks, internal safety audits and subcontractor counselling sessions to 
+
+establish our safety culture and practices from the top. In addition, machinery and equipment inspections and  
+
+internal safety audits are held at all projects to ensure strict safety implementation. As a bizSAFE Partner, 
+
+Lian Beng actively encourages our contractors to progress through the bizSAFE programme’s levels. We are 
+
+currently working to assist all subcontractors in achieving bizSAFE Star (level 5) requirements.
+
+Regular meetings are also convened to provide oversight on WSH procedures to ensure that instances of non-
+
+compliance are identified and preventive actions are formulated to prevent recurrence. In FY2018, we held 
+
+daily toolbox meetings and weekly WSH coordination meetings. We also held WSH committee meetings and 
+
+corporate WSH meetings with workers every month to communicate safety performance with them.
+
+Moving forward, we will also implement monthly corporate WSH meetings and site walks by senior management 
+
+at project sites.
+
+AWARENESS ON WORKPLACE SAFETY
+
+The Group actively participates in WSH-related seminars and roadshows and conduct WSH Environment 
+
+Promotion Day for all worksites biannually.
+
+‘Safety Starts with Me’ is a competition and showcase that displays winning entries, including posters, 
+
+photographs, creative writings and videos/short films. A workplace safety awareness road show was conducted 
+
+at our Bartley Ridge project with assistance from MOM.
+
+We also took the initiative to invite the Singapore Police Force to educate our foreign workers about security 
+
+and crime prevention at Defu Industrial City and Martin Modern during FY2018. This was to reinforce the safety 
+
+awareness of our workers when they are working on-site and pre-empt them from any possible danger.
+
+20
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+INJURY AND INCIDENTS (GRI 403-2)
+
+Our efforts and initiatives have resulted in a significant improvement in the number of reported incidents 
+
+between FY2017 and FY2018. There were zero fatalities in FY2018 and the number of reported injuries fell 
+
+by 4.2 or 57.5%.
+
+Description
+
+FY2018 
+
+FY2017
+
+Number of fatalities
+
+0
+
+0
+
+Accident Frequency Rate
+
+3.1
+
+7.3
+
+Number of stop-work days
+
+0
+
+36
+
+CUSTOMER HEALTH AND SAFETY (GRI 416-1)
+
+The Group assesses all buildings built including dormitory for health and safety impacts. We monitor our working 
+
+environment to minimise risk and, when necessary, the Group would implement improvement measures to 
+
+address any potential risks to our residents and tenants.
+
+DORMITORY BUSINESS
+
+Our foreign workers’ dormitories also enable residents to gain convenient access to training as part of an 
+
+initiative to increase productivity. The Westlite Papan dormitory incorporates 3,000m2 of training space, 
+
+providing workers with a conducive learning environment to upgrade their skills.
+
+At Westlite Mandai, residents enjoy full facilities including free internet access, recreational rooms, a community 
+
+clinic, as well as a 24-hour mini mart stocked with local food and imported food from the home countries of 
+
+the residents. We have also installed a security system that incorporates biometric facial scan technology for 
+
+residents entering and leaving the compound.
+
+We have a partnership with HealthServe, a non-governmental organisation (NGO) committed to helping 
+
+foreign workers by making healthcare accessible to them. Westlite Mandai and Westlite Papan play host to 
+
+HealthServe’s community clinic that operates every Saturday and Sunday evenings respectively. Both clinics 
+
+offer general practitioner and dental services at nominal rates to our residents, as well as foreign workers from 
+
+the neighbourhood.
+
+Other initiatives taken to improve health and safety for our residents include:
+
+• Reduction of solvent content across cleaning processes
+
+• Elimination of hazardous chemicals from pest controls 
+
+• Development/implementation of safe work procedures/safe living environment 
+
+• Conducting safety briefings to inform and educate residents on internal work procedures when hazardous 
+
+materials are being used
+
+• Reduced usage of hazardous chemicals, solvents, volatiles, and reactive components where possible
+
+There have been no incidents of non-compliance with regulations and voluntary codes relating to the health 
+
+and safety impacts of products and services.
+
+21
+
+
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SOCIAL 
+
+TOPICS
+
+FINES OR PENALTY (GRI 307-1, 416-2, 419-1)
+
+A minor fine was incurred for a WSH contravention in FY2018. Both noise levels and vector regulations were 
+
+fully complied with in FY2018. Beyond the existing WSHMS, Lian Beng takes immediate corrective action to 
+
+rectify any lapses.
+
+PROTECTING CUSTOMER PRIVACY AND DATA (GRI 418-1)
+
+Lian Beng protects the privacy and confidentiality of the personal data of our employees, clients, business 
+
+partners and others who have business dealings with us. We have a Personal Data Protection Act (PDPA) 
+
+policy that outlines how we manage the personal data we hold in compliance with the PDPA. The policy applies 
+
+to all divisions and organisations across the Lian Beng group of companies.
+
+Lian Beng seeks customer consent prior to the collection, use or disclosure of personal data for the given 
+
+purpose.
+
+Examples of information collected include personal particulars (name, address, phone number, email address) 
+
+and bank account information. 
+
+Lian Beng has appointed a Data Protection Officer to oversee our management of personal data in accordance 
+
+with the Act.
+
+We have implemented measures to secure and protect customer information:
+
+•  Training our employees who handle personal data to respect the confidentiality of such personal data and 
+
+your privacy, 
+
+•  Storing personal data in a combination of secure computer storage facilities, paper-based files and other 
+
+records, and 
+
+• Taking steps to protect the personal data we hold from misuse, loss, unauthorised access, modification or 
+
+disclosure. 
+
+Site staff meeting to conduct inspection and corrective action 
+
+upon notification of non-compliance by authorities
+
+Future preventive measures are defined and staff are 
+
+assigned responsibilities to heighten accountability.
+
+Strengthening of monitoring framework
+
+Mass toolbox meeting to remind all site staff and subcontractors of 
+
+importance of practising good safety and housekeeping, and addressing  
+
+environmental aspects of the site and that it is the duty and responsibility 
+
+of all sub contractors to supply manpower for housekeeping and maintenance
+
+22
+
+
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+SGX FIVE PRIMARY 
+
+COMPONENTS INDEX 
+
+S/N
+
+Primary Component  
+
+Section Reference 
+
+1
+
+Material Topics 
+
+• Economic, Environmental and Social Topics
+
+• Stakeholder Engagement
+
+2
+
+Policies, Practices and Performance
+
+• Chairman’s Message
+
+• Sustainability Story
+
+• Economic, Environmental and Social Topics
+
+3
+
+Board Statement 
+
+Governance and Statement of the Board
+
+4
+
+Targets 
+
+Sustainability Story
+
+5
+
+Framework 
+
+Reporting Practice
+
+23
+
+
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+GRI STANDARDS 
+
+CONTENT INDEX  
+
+GRI Standards 
+
+Disclosure Content 
+
+Section Reference 
+
+102-1
+
+Name of the organisation
+
+Annual Report FY2018
+
+102-2
+
+Activities, brands, products, and services
+
+Annual Report FY2018
+
+102-3
+
+Location of headquarters
+
+Annual Report FY2018
+
+102-4
+
+Location of operations
+
+Annual Report FY2018
+
+102-5
+
+Ownership and legal form
+
+Annual Report FY2018
+
+102-6
+
+Markets served
+
+Annual Report FY2018
+
+102-7
+
+Scale of the organisation
+
+Annual Report FY2018
+
+102-8
+
+Information on employees and other 
+
+workers
+
+Annual Report FY2018
+
+102-9
+
+Supply chain
+
+Annual Report FY2018
+
+102-10
+
+Significant changes to the organisation 
+
+and its supply chain
+
+Annual Report FY2018
+
+102-11
+
+Precautionary Principle or approach
+
+Annual Report FY2018
+
+102-12
+
+External initiatives
+
+Annual Report FY2018
+
+102-13
+
+Membership of associations
+
+Annual Report FY2018
+
+102-14
+
+Statement from senior decision-maker
+
+Chairman’s Message
+
+102-15
+
+Key impacts, risks, and opportunities
+
+Chairman’s Message, Sustainability Story
+
+102-16
+
+Values, principles, standards, and norms 
+
+of behaviour
+
+Ethics and Integrity
+
+102-17
+
+Mechanisms for advice and concerns 
+
+about ethics
+
+Ethics and Integrity
+
+102-18
+
+Governance structure
+
+Governance and Statement of the Board
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement
+
+102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholder Engagement
+
+102-46
+
+Defining report content and topic 
+
+boundaries
+
+Reporting Practice
+
+201-1
+
+Direct economic value generated and 
+
+distributed
+
+Direct economic value generated and 
+
+distributed
+
+203-2
+
+Significant indirect economic impacts
+
+Innovation and Excellence
+
+24
+
+
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+GRI STANDARDS 
+
+CONTENT INDEX 
+
+GRI Standards 
+
+Disclosure Content 
+
+Section Reference 
+
+205-1
+
+Operations assessed for risks related to 
+
+corruption
+
+Anti-Corruption
+
+205-2
+
+Communication and training on anti- 
+
+corruption policies and procedures
+
+Anti-Corruption
+
+205-3
+
+Confirmed incidents of corruption and 
+
+actions taken
+
+Anti-corruption
+
+301-2
+
+Recycled input materials used
+
+Input Materials
+
+302-1
+
+Energy consumption within the 
+
+organisation
+
+Energy and Emissions Management
+
+302-4
+
+Reduction of energy consumption
+
+Energy and Emissions Management
+
+302-5
+
+Reductions in energy requirements of 
+
+products and services
+
+Energy and Emissions Management
+
+303-1
+
+Water withdrawal by source
+
+Water Management
+
+303-3
+
+Water recycled and reused
+
+Water Management
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+Energy and Emissions Management
+
+305-2
+
+Energy Indirect Greenhouse Gas 
+
+Emissions (Scope 2)
+
+Energy and Emissions Management
+
+305-5
+
+Reductions in Greenhouse Gas 
+
+Emissions
+
+Energy and Emissions Management
+
+306-1
+
+Total water discharged by quality and 
+
+destination
+
+Water Discharge Treatment
+
+306-2
+
+Waste by type and disposal method
+
+Waste Disposal
+
+307-1
+
+Non-compliance with environmental laws 
+
+and regulations
+
+Fines or Penalty
+
+308-1
+
+New suppliers that were screened using 
+
+environmental criteria
+
+Managing Our Suppliers
+
+308-2
+
+Negative environmental impacts in the 
+
+supply chain and actions taken
+
+Managing Our Suppliers
+
+401-1
+
+New employee hires and employee 
+
+turnover
+
+Our People, Our Assets
+
+401-2
+
+Benefits provided to full time employees 
+
+that are not provided to temporary or part- 
+
+time employees
+
+Employee Benefits
+
+401-3
+
+Parental leave
+
+Employee Benefits
+
+403-1
+
+Formal joint management-worker health 
+
+and safety committee
+
+Vision towards an Accident-free Work 
+
+Culture
+
+403-2
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, 
+
+absenteeism, and number of work-related 
+
+fatalities
+
+Injury and Incidents
+
+25
+
+
+
+
+ENHANCING GROWTH THROUGH INNOVATION
+
+SUSTAINABILITY REPORT 2018 LIAN BENG GROUP LTD 
+
+GRI STANDARDS 
+
+CONTENT INDEX  
+
+GRI Standards 
+
+Disclosure Content 
+
+Section Reference 
+
+404-1
+
+Average hours of training per year per 
+
+employee
+
+Training and Career Development
+
+404-2
+
+Programmes for upgrading employee 
+
+skills and transition assistance 
+
+programmes
+
+Training and Career Development
+
+404-3
+
+Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews
+
+Training and Career Development
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+i) Diversity of Governance Bodies
+
+ii) Our People, Our Assets
+
+413-1
+
+Operations with local community 
+
+engagement, impact assessments, and 
+
+development programmes
+
+Giving Back to Our Community
+
+414-1
+
+New suppliers that were screened using 
+
+social criteria
+
+Managing Our Suppliers
+
+414-2
+
+Negative social impacts in the supply 
+
+chain and actions taken
+
+Managing Our Suppliers
+
+416-1
+
+Assessment of the health and safety 
+
+impacts of product and service categories
+
+Customer Health &amp; Safety
+
+416-2
+
+Incidents of non-compliance concerning 
+
+the health and safety impacts of products 
+
+and services
+
+Fines or Penalty
+
+418-1
+
+Substantiated complaints concerning 
+
+breaches of customer privacy and 
+
+customer data loss
+
+Protecting Customer Privacy and Data
+
+419-1
+
+Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area
+
+Fines or Penalty
+
+26
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LIAN BENG GROUP LTD
+
+29 Harrison Road, Lian Beng Building ,Singapore 369648
+
+Tel: +65 6283 1468 • Fax: +65 6280 9360
+
+Email: lianbeng@singnet.com.sg
+
+www.lianbeng.com.sg
+
+SINGAPORE    CHINA    AUSTRALIA    UNITED KINGDOM
+

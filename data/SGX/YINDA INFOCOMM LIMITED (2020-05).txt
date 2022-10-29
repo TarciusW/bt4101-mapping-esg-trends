@@ -1,0 +1,2584 @@
+
+
+
+
+
+ 
+
+0 
+
+ 
+
+
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+1 
+
+ 
+
+
+
+TABLE OF CONTENTS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This Sustainability Report has been reviewed by the Company’s Sponsor, SAC Capital Private Limited 
+
+(the “Sponsor”). This Sustainability Report has not been examined or approved by the Singapore 
+
+Exchange Securities Trading Limited (the “SGX-ST”) and the SGX-ST assumes no responsibility for 
+
+the contents of this Sustainability Report including the correctness of any of the statements or opinions 
+
+made or reports contained in this Sustainability Report.  
+
+ 
+
+The contact person for the Sponsor is Mr Ong Hwee Li (Tel: 6232 3210) at 1 Robinson Road, #21-00, 
+
+AIA Tower, Singapore 048542.  
+
+BOARD STATEMENT                                                         
+
+2 
+
+ORGANISATIONAL PROFILE                                            
+
+3 
+
+SUSTAINABILITY APPROACH                                           
+
+4 
+
+ECONOMIC                                                                         
+
+6 
+
+ENVIRONMENTAL                                                              
+
+9 
+
+SOCIAL                                                                              
+
+11 
+
+GOVERNANCE                                                                  
+
+19 
+
+GRI STANDARDS CONTENT INDEX                                
+
+21 
+
+
+
+
+
+
+ 
+
+2 
+
+ 
+
+
+
+BOARD STATEMENT 
+
+ 
+
+We are pleased to present the Sustainability Report of Yinda Infocomm Limited (“Yinda Infocomm”, 
+
+or the “Company” and together with its subsidiaries, the “Group”) for the financial year ended 31 May 
+
+2020 (“FY2020”). This report is prepared in compliance with the Rules 711A and 711B of the Listing 
+
+Manual Section B: Rules of Catalist of the Singapore Exchange Securities Trading Limited (“SGX-
+
+ST”)(“Catalist Rules”), and is referenced to the guidance set out in SGX-ST’s Sustainability Reporting 
+
+Guide under Practice Note 7F of the Catalist Rules. This Sustainability Report is prepared based on 
+
+the Guidelines of the Global Reporting Initiative (“GRI”) Standards: Core Option. We have chosen to 
+
+report using the GRI Standards because it is an internationally recognised reporting framework that 
+
+covers a comprehensive range of sustainability disclosures.  
+
+ 
+
+This report highlights the key economic, environmental, social and governance (“EESG”) related 
+
+initiatives carried throughout the 12-month period, from 1 June 2019 to 31 May 2020. For this report, 
+
+we will be focusing on our sustainability approach, initiatives and performance in respect of the Group’s 
+
+operations in Singapore. The Group intends to expand the scope of its sustainability report in the future 
+
+to include its sustainability practices in other geographical regions, including Thailand and Philippines 
+
+as the Group expands in those markets. The Group adopts the precautionary principle to minimise 
+
+negative effects of conducting its business whenever feasible.  
+
+ 
+
+Sustainability is a part of the Group’s wider strategy to create long-term value for all its stakeholders. 
+
+As such, the key material EESG factors for the Group have been identified and cautiously reviewed 
+
+by the management. The data and information provided have not been verified by an independent 
+
+third party. We have relied on internal data monitoring and verification to ensure the accuracy of the 
+
+data and information provided. Where required and as the Group’s sustainability reporting matures, 
+
+the Group will consider seeking external independent assurance for its sustainability report. The Board 
+
+of Directors (the “Board” or “Directors”) oversees the management and monitoring of the material 
+
+EESG factors affecting the Group and considers them in the determination of the Group’s strategic 
+
+direction and policies while the key management team are responsible for the implementation of 
+
+sustainability initiatives.  
+
+ 
+
+We welcome feedback from our stakeholders with regards to our sustainability efforts as this enables 
+
+us to consistently improve our policies, systems and results. Please send your comments and 
+
+suggestions to contact@yinda.com.sg. 
+
+  
+
+30 October 2020 
+
+ 
+
+
+
+
+
+
+ 
+
+3 
+
+ 
+
+
+
+ORGANISATIONAL PROFILE 
+
+ 
+
+Yinda Infocomm is a regional integrated and innovative communications solutions and service provider 
+
+with operations in Singapore, Malaysia, the Philippines and Thailand. The Company was listed in 
+
+August 2015 on the Catalist Board of the SGX-ST.  
+
+ 
+
+The Group was acquired by Yinda Pte. Ltd. through mandatory general offer completed on 20 June 
+
+2017. Yinda Pte. Ltd. is a wholly-owned subsidiary of Shanghai Yinda Science and Technology 
+
+Industrial Co. Ltd. (“Shanghai Yinda”). Shanghai Yinda is in turn held by Shanghai Yinda Technology 
+
+Group Co. Ltd. (“Shanghai Yinda Group”). Shanghai Yinda Group is engaged in the information 
+
+technology, telecommunications and related businesses. Yinda Pte. Ltd. currently holds 44,437,180 
+
+shares, representing approximately 29.23% of the total number of issued shares of the Company.  
+
+ 
+
+Over the years, the Group has established a firm reputation in providing consistent and reliable solutions 
+
+and services. With over 20 years of experience in the telecommunications industry, the Group has 
+
+completed numerous projects in Singapore, the Philippines and Thailand since 2011. Our capabilities 
+
+include:  
+
+ 
+
+IN-BUILDING COVERAGE 
+
+Provision of full turnkey in-building coverage services from planning and design to construction and 
+
+implementation of customers’ indoor mobile network infrastructure;  
+
+ 
+
+OUTDOOR CONSTRUCTION 
+
+Provision of full turnkey services from planning and design to construction and implementation of 
+
+customers’ outdoor mobile network infrastructure;  
+
+ 
+
+TELECOMMUNICATIONS IMPLEMENTATION 
+
+Provision of telecommunications implementation works for the installation and commissioning of radio 
+
+base transceiver stations; and 
+
+ 
+
+MAINTENANCE SERVICES 
+
+Provision of corrective and preventive maintenance services to ensure network reliability and minimal 
+
+network disruptions.  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+4 
+
+ 
+
+
+
+SUSTAINABILITY APPROACH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+OUR SUSTAINABILITY METHODOLOGY 
+
+ 
+
+ 
+
+ 
+
+STAKEHOLDERS ENGAGEMENT  
+
+ 
+
+An important starting point in our sustainability journey is to identify our stakeholders and material 
+
+aspects relevant to our business. The interests and requirements of key stakeholders are also taken 
+
+into account when formulating corporate strategies. These key stakeholders include, but are not limited 
+
+to, customers, suppliers, shareholders, employees, and regulators. We adopt both formal and informal 
+
+channels of communication to understand the needs of key stakeholders, and incorporate these into 
+
+our corporate strategies to achieve mutually beneficial relationships.  
+
+ 
+
+Stakeholders 
+
+Engagement Platforms  
+
+Frequency  
+
+ 
+
+Key Concerns Raised 
+
+Suppliers 
+
+Vendor assessment 
+
+Annually 
+
+Joint development 
+
+Contracts fulfilment 
+
+Fair and transparent 
+
+procurement 
+
+Emails/Calls 
+
+Continuously 
+
+Face-to-face meetings 
+
+Continuously 
+
+Shareholders 
+
+Annual General Meeting/ 
+
+Extraordinary General Meeting 
+
+Annually and when 
+
+required 
+
+Ensure compliance with SGX 
+
+rules and regulations 
+
+Realise healthy growth 
+
+Timely and adequate disclosures 
+
+and updates 
+
+Annual report 
+
+Annually 
+
+Announcement 
+
+Continuously 
+
+Websites-investor relationship 
+
+ Continuously 
+
+Customers 
+
+Face-to-face meetings and virtual 
+
+meetings 
+
+Continuously 
+
+Quality Service 
+
+Rights protection 
+
+Email feedback 
+
+Continuously 
+
+Customer cold calls 
+
+Continuously 
+
+Employees 
+
+ 
+
+ 
+
+Staff appraisal 
+
+Continuously 
+
+Guarantee of basic rights and 
+
+interest 
+
+Employee capabilities and 
+
+career development 
+
+Whistle blowing policy updates 
+
+Annually 
+
+Department &amp; management meetings 
+
+Continuously 
+
+Staff engagement sessions 
+
+Continuously 
+
+Board 
+
+Board meetings 
+
+Half yearly and when 
+
+required 
+
+Financial sustainability and 
+
+business viability of operations 
+
+Regular updates on operational 
+
+activities 
+
+ 
+
+Board circulation via e-mails  
+
+Continuously 
+
+Government and 
+
+Regulators  
+
+ 
+
+ 
+
+ 
+
+Regular reports 
+
+Continuously 
+
+Strengthen safety management 
+
+Compliance with regulations 
+
+Websites 
+
+Continuously 
+
+Calls 
+
+Continuously 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+5 
+
+ 
+
+
+
+MATERIALITY ASSESSMENT  
+
+ 
+
+Our sustainability reporting process begins with the identification of relevant EESG factors. Such factors 
+
+are then prioritised to identify material factors which are subjected to validation. The end result of this 
+
+process is a list of material factors disclosed in the Sustainability Report. Processes are as shown below: 
+
+ 
+
+ 
+
+The Group has conducted a materiality assessment during the year. We engaged our employees from 
+
+different departments and sought their feedback for ranking of these topics according to priority. 
+
+Materiality review is conducted every year, incorporating inputs gathered from stakeholders’ 
+
+engagements. 
+
+ 
+
+In order to determine if an aspect is material, we assessed its potential impact on the economy, 
+
+environment and society and its influence on the stakeholders. Applying the guidance from GRI, we 
+
+have identified the following as our material aspects:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ECONOMIC 
+
+ 
+
+Economic Performance  
+
+Anti-Corruption 
+
+ 
+
+ 
+
+
+
+ENVIRONMENTAL 
+
+ 
+
+                                Environmental Compliance 
+
+                         Supplier Environmental Assessment 
+
+ 
+
+
+
+GOVERNANCE 
+
+ 
+
+Corporate Governance 
+
+Business Ethics and Compliance 
+
+Enterprise Risk Management 
+
+ 
+
+
+
+SOCIAL  
+
+ 
+
+Diversity and Equal Opportunity 
+
+Occupational Health and Safety 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+6 
+
+ 
+
+
+
+ECONOMIC 
+
+ 
+
+ECONOMIC PERFORMANCE  
+
+The COVID-19 outbreak in early 2020 has caused severe disruption to the global economy and 
+
+business. As governments worldwide have been taking various measures to battle the spread of the 
+
+virus, this inevitably has an enormous impact on our telecommunication industry and our Group’s 
+
+operations.  
+
+Yinda Infocomm firmly believes that focusing on financial sustainability is critical and we are fully 
+
+committed to the highest standards of corporate governance. The Group’s basic principle is to ensure 
+
+long-term profitability and shareholders’ value is ensured by taking into account the interests of all 
+
+stakeholders, such as shareholders, employees, suppliers and society as a whole. 
+
+ 
+
+In the face of unprecedented, difficult and challenging market conditions for the telecommunications 
+
+industry in Singapore, for the financial year ended 31 May 2020, the Group recorded a much lower 
+
+revenue of S$11.5 million as compared to S$17.9 million (restated) in the financial year ended 31 May 
+
+2019 representing a decrease of S$6.4 million or 35.7%. 
+
+ 
+
+Revenue for FY2020 decreased mainly from (i) the Telecommunication Implementation (“TI”) projects 
+
+of S$5.6 million in Singapore, partially offset by an increase in revenue contributions from Philippines 
+
+and Thailand of S$0.1 million and S$0.8 million respectively; (ii) increase in Networking Planning 
+
+Optimisation (“NPO”) projects of S$0.5 million in Singapore, partially offset by a decrease in 
+
+contributions from Philippines and Thailand of $0.5 million and $0.2 million respectively; and decrease 
+
+in In-Building Construction (“IBC”) projects in Singapore, Philippines and Thailand of approximately 
+
+S$1.0 million, S$0.2 million and S$0.3 million respectively. 
+
+ 
+
+FUTURE PROSPECTS  
+
+With the entrance of a fourth telecommunications operator and the transition of Singapore to a digital 
+
+economy, the Group continues to look out for opportunities in the telecommunications space while at 
+
+the same time, remaining cautious amid the prevailing economic uncertainties.  
+
+In addition, the Group is actively taking steps to manage its costs and streamline its business processes 
+
+so as to achieve cost and operational optimisation. 
+
+The Group will continue to focus its efforts on servicing its existing customers based in Singapore, 
+
+Thailand and the Philippines. 
+
+ 
+
+For detailed financial results, please refer to our FY2020 Annual Report, pages 51 to 110.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+7 
+
+ 
+
+
+
+REGIONAL PRESENCE  
+
+Our presence in these markets nurtures our ability to adapt to diverse operating conditions, enabling us 
+
+to respond quickly to the changing needs and requirements of our customers and secure projects on 
+
+providing solutions and services beyond Singapore. Through our regional business networks, we are 
+
+able to enjoy economies of scale which allows us to provide cost-effective solutions and services to our 
+
+customers.  
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+8 
+
+ 
+
+
+
+ANTI-CORRUPTION 
+
+We do not tolerate corruption in any form and strive to conduct our business with utmost integrity and 
+
+transparency. This has been made clear to all of the Group’s Directors, officers and employees. The 
+
+Directors and senior management team have attended the relevant trainings provided by Singapore 
+
+Institute of Directors which inculcated business ethics and integrity.  Our whistleblowing email was set 
+
+up so that anyone who wants to report any issue on corruption can do so confidentially. Any report of 
+
+corruption will be escalated to the attention of the Audit Committee (“AC”). 
+
+Similar to FY2019, there were no reported incidents of corruption in FY2020.   
+
+ 
+
+Whistleblowing Policy 
+
+The Group has implemented a whistleblowing policy. The policy aims to provide an avenue for 
+
+employees and external parties to raise concerns about misconduct or improprieties in the Group and 
+
+at the same time assure them that they will be protected from victimisation for whistleblowing in good 
+
+faith. Significant cases are reviewed by the AC for adequacy of investigation actions and resolutions. 
+
+The Company has provided the email address – whistleblow@yinda.com.sg which is accessible by the 
+
+Lead Independent Director on the Company’s website to allow external parties to raise any concerns 
+
+they may have. 
+
+ 
+
+We have achieved zero whistleblowing cases in FY2020 and in FY2019. 
+
+ 
+
+We have achieved our target to maintain zero incidences of corruption. We will continue to regularly 
+
+review our whistleblowing and anti-corruption policies.  
+
+ 
+
+
+
+
+
+
+ 
+
+9 
+
+ 
+
+
+
+ENVIRONMENTAL  
+
+Yinda Infocomm endeavors to minimise the potential impact of our operations on the environment. We 
+
+are committed to reduce any carbon footprint and consumption of natural resources in all possible 
+
+aspects of business operations. We encourage the use of renewable materials and resources, and 
+
+where possible, reduce waste through reusing and recycling. We avoid any unnecessary use of 
+
+hazardous materials and products and take all reasonable steps to protect the environment when such 
+
+materials must be used, stored or disposed of.  
+
+ 
+
+ENVIRONMENTAL COMPLIANCE  
+
+Here at Yinda Infocomm, we view compliance with relevant codes and regulations on environmental 
+
+issues as mandatory. The Group has implemented policies and procedures designed to ensure 
+
+compliance with the relevant laws and regulations and prevent environmental pollution and resource 
+
+depletion with due diligence. We have compiled a Legal &amp; Other Requirements Register for relevant 
+
+legal and other requirements that the Group needs to comply with. For example, we are in compliance 
+
+with the Environmental Public Health Act and Regulations, Environmental Protection and Management 
+
+Act and Regulations and Smoking Act. We have taken steps at all worksites to ensure the requirements 
+
+are met throughout the duration of the projects. 
+
+ 
+
+In FY2020 we have achieved our target of zero incidences of non-compliance with laws, environmental 
+
+rules and regulations resulting in significant fines or sanctions (FY2019: nil). We will aim to continue full 
+
+compliance with all environmental rules and regulations.  
+
+ 
+
+SUPPLIER ENVIRONMENTAL ASSESSMENT 
+
+Yinda Infocomm will continue to reduce its environmental impact and encourage its stakeholders, such 
+
+as suppliers and trading partners, to meet the same expectations. The Group also performs an 
+
+assessment when screening new vendors to check that they are providing high quality and green 
+
+products. The procurement team is responsible for gathering and verifying information on new suppliers 
+
+in terms of quality of products and services, having resources to meet requirements, responsiveness of 
+
+the vendor or subcontractors, product certification and records, et cetera.  
+
+ 
+
+The Group aspires to continuously promote and integrate sustainability in our business operations and 
+
+taking stakeholders’ interest in our consideration. EESG factors are integrated into our value and supply 
+
+chain as our sustainability efforts progressively mature. Moreover, Yinda Infocomm pledges to uphold 
+
+sustainable business practices across its supply chain, from our subsidiaries to suppliers.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+10 
+
+ 
+
+
+
+The Group trusts that sustainable supply chain management drives organisational excellence and 
+
+delivers desirable business results to the stakeholders. This includes completion of supplier evaluation 
+
+procedure to reduce the risk that a supplier’s products do not meet the Company’s requirements. We 
+
+will perform assessment on new major suppliers to ensure that suppliers for important 
+
+telecommunications equipment or materials are selected in accordance to their conduct and to ensure 
+
+the stability of the supply of goods to further reduce the procurement risks. 
+
+ 
+
+There was no assessment performed as there were no new major suppliers this financial year. Going 
+
+forward, our target is to ensure that all new major suppliers will be screened and selected in accordance 
+
+to their conduct which can be evaluated against an environmental assessment.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+11 
+
+ 
+
+
+
+SOCIAL 
+
+Our employees are our greatest assets. Their contributions and support are valued at all times. As such, 
+
+we conduct regular reviews on compensations and benefits policies according to the industry 
+
+benchmark, financial results as well as individual performance of employees. Other fringe benefits and 
+
+pension funds contributions are provided to retain loyal employees with the aim to form a professional 
+
+staff and management team that can bring the Group to new levels of success. Furthermore, the Group 
+
+places great emphasis on the training and development of employees and regards excellent employees 
+
+as a key factor in remaining competitive. 
+
+We respect human rights and support the elimination of all forms of forced and compulsory labour, 
+
+especially child labour. The Group does not tolerate any discrimination in respect of employment and 
+
+occupation. 
+
+ 
+
+DIVERSITY AND EQUAL OPPORTUNITY 
+
+A diverse workforce is an asset in today's ever-changing global marketplace. We cultivate an inclusive 
+
+culture where employees with wide-ranging backgrounds and qualities are highly motivated, engaged 
+
+and connected. We do not discriminate against one’s race, age, gender, religion, ethnicity, disability or 
+
+nationality.  
+
+ 
+
+As of 31 May 2020, we had a workforce of 77 (FY2019: 110) full-time, permanent employees for our 
+
+operations in Singapore. Our headcounts were distributed as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Male
+
+81%
+
+Female
+
+19%
+
+GENDER
+
+FY2020
+
+
+
+Male
+
+
+
+Female
+
+
+
+
+
+
+
+Male
+
+79%
+
+Female
+
+21%
+
+GENDER
+
+FY2019
+
+
+
+Male
+
+
+
+Female
+
+Figure B:  Headcount distribution by gender 
+
+FY2019 
+
+ 
+
+Figure A:  Headcount distribution by gender 
+
+FY2020 
+
+ 
+
+
+
+
+
+
+ 
+
+12 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+44%
+
+51%
+
+5%
+
+AGE
+
+FY2020
+
+
+
+&lt;30
+
+
+
+30-50
+
+
+
+&gt;50
+
+
+
+
+
+
+
+
+
+45%
+
+50%
+
+5%
+
+AGE
+
+FY2019
+
+
+
+&lt;30
+
+
+
+30-50
+
+
+
+&gt;50
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46%
+
+29%
+
+8%
+
+6%6%5%
+
+NATIONALITY
+
+FY2020
+
+
+
+Indian
+
+
+
+Singapore
+
+
+
+Chinese
+
+
+
+Philippines
+
+
+
+Malaysian
+
+
+
+Bangladesh
+
+
+
+
+
+
+
+91%
+
+9%
+
+LENGTH OF SERVICE
+
+FY2020
+
+
+
+&lt;5
+
+
+
+5-10 YEARS
+
+
+
+10-15 YEARS
+
+
+
+&gt;15 YEARS
+
+Figure D: Headcount distribution by age FY2019 
+
+ 
+
+Figure C: Headcount distribution by age FY2020 
+
+Figure F: Headcount distribution by nationality 
+
+FY2019 
+
+Figure E: Headcount distribution by nationality 
+
+FY2020 
+
+Figure G: Headcount distribution by length of 
+
+service FY2020 
+
+Figure H: Headcount distribution by length of 
+
+service FY2019 
+
+
+
+
+
+
+
+
+
+89%
+
+8% 3%
+
+LENGTH OF SERVICE
+
+FY2019
+
+
+
+&lt;5
+
+
+
+5-10 YEARS
+
+
+
+10-15 YEARS
+
+
+
+&gt;15 YEARS
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46%
+
+29%
+
+8%
+
+6%
+
+6%5%
+
+NATIONALITY
+
+FY2019
+
+
+
+Indian
+
+
+
+Singapore
+
+
+
+Chinese
+
+
+
+Philippines
+
+
+
+Malaysian
+
+
+
+Bangladesh
+
+
+
+
+
+
+ 
+
+13 
+
+ 
+
+
+
+The Group’s gender diversity gap is relatively wide but this is not unusual for our industry due to the 
+
+nature of the business. 
+
+Our recruitment of staff is based solely on merit and qualifications, without discrimination of race, age, 
+
+gender, religion or ethnicity. There was no non-compliance incident reported in the current year, as 
+
+targeted. We will continue to aim to maintain zero incidents of non-compliance of manpower related 
+
+rules and regulations, as well as complaints. 
+
+ 
+
+To promote equal opportunity, we have implemented various human resource measures as follows:  
+
+Staff Assessment 
+
+ 
+
+Staff recruitment 
+
+ 
+
+Employment terms 
+
+Staff assessment is performed 
+
+annually, and upon-
+
+completion of probation for 
+
+new staff to evaluate their 
+
+performance and provide 
+
+them with a sense of self-
+
+awareness on their work 
+
+performance to identify 
+
+training opportunities that will 
+
+improve their skills and 
+
+abilities 
+
+ 
+
+Staff recruitment 
+
+advertisements do not 
+
+state age, race, gender or 
+
+religious preferences as 
+
+requirement 
+
+ 
+
+Employment terms in the 
+
+employment letter are 
+
+explained to staff when they 
+
+join the Group 
+
+ 
+
+Every employee plays an essential role in our Company and we pay utmost attention to our employees’ 
+
+general well-being. We celebrated festivities and special occasions that bring all us of together, such 
+
+as Chinese New Year dinner and birthday celebrations. 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+14 
+
+ 
+
+
+
+ 
+
+OCCUPATIONAL HEALTH AND SAFETY  
+
+We are committed to safeguard our employees’ health and safety against any potential workplace 
+
+hazards. Ensuring our employees’ safety and health in the workplace is one of our top priorities, and 
+
+our ultimate target is to have a zero-accident workplace. We are committed to reduce any risks related 
+
+to safety and health through effective risk management. 
+
+The Group has recorded zero workplace fatality and non-fatal workplace injuries in FY2020 and in 
+
+FY2019, as targeted. We will continuously work towards reducing both the occurrence and severity of 
+
+workplace accidents. 
+
+We have set up a Health and Safety and Environmental (“HSE”) Committee and established a strict 
+
+set of policies and procedures. We have also developed and implemented an HSE Management 
+
+System, and will continuously monitor and evaluate our HSE standards. 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+15 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The Company’s latest detailed HSE policy 
+
+statement detailed the Company’s commitment 
+
+to promote a safe workplace as well as an 
+
+environmental friendly culture through effective 
+
+communication and participation with the 
+
+employees. In addition to the HSE policy 
+
+statement, 
+
+the 
+
+Company 
+
+has 
+
+detailed 
+
+Workplace Safety and Security Clauses are 
+
+stated in the HSE Management System Manual 
+
+and Procedure. This covers a standard 
+
+procedure to identify hazards relating to HSE, 
+
+to evaluate risks associated with these hazards 
+
+and to ensure that appropriate actions by the 
+
+designated personnel are taken to manage the 
+
+risks involved, such as incident reporting, 
+
+management of incident, investigation and 
+
+follow up. 
+
+ 
+
+ 
+
+Yinda Infocomm makes continuous efforts in investing on internal and external training to raise the 
+
+employees’ awareness and develop their skills to ensure safe operations.  
+
+ 
+
+In FY2020, the Company has made an initiative to increase the employee’s awareness by doing HSE 
+
+Promotional Program Crossword Contest and five winners were selected for those who answer correctly. 
+
+Videos on cardiopulmonary resuscitation (“CPR”) procedure and managing stress at work were shared 
+
+to all employees on 26 June 2020 and participate in crossword contest.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+16 
+
+ 
+
+
+
+The following is a list of our external training programmes conducted in FY2020: 
+
+No. 
+
+Course Name 
+
+Attendees 
+
+Training Hours 
+
+1 
+
+Apply Workplace Safety &amp; Health in Construction Site 
+
+(Recertification) 
+
+9 
+
+36 
+
+2 
+
+Basic Tower Climbing Course 
+
+1 
+
+17 
+
+3 
+
+Contractor Supervisor Safety Course- NSWE&amp;CCL STN 
+
+1 
+
+8 
+
+4 
+
+Contractor Supervisor Safety Course-GNR RQMTS &amp; 
+
+NSWE&amp;CCL STN 
+
+3 
+
+27 
+
+5 
+
+Contractor Supervisor Safety Course-GNR RQMTS &amp; 
+
+NSWE&amp;CCL TRK 
+
+2 
+
+18 
+
+6 
+
+Electrical Wiring Installation(FOREMAN) 
+
+1 
+
+90 
+
+7 
+
+ISO 45001:2018 Implementer Course 
+
+1 
+
+16 
+
+8 
+
+ISO 45001:2018 Occupational Heath &amp; Safety (OH&amp;S) 
+
+Management Systems Auditor Migration (CQI IRCA 1856 
+
++ 17926) 
+
+1 
+
+16 
+
+9 
+
+Legislation Workshop on the WSH (Construction) 
+
+Regulations 
+
+1 
+
+8 
+
+10 
+
+Managing Work at Height 
+
+2 
+
+60 
+
+11 
+
+Occupational First Aid Course CPR+AED Course 
+
+1 
+
+8 
+
+12 
+
+Risk Management Course (BizSafe Level 2) 
+
+1 
+
+18 
+
+13 
+
+Work-At-Height for Supervisors Course 
+
+1 
+
+23 
+
+14 
+
+WSQ Operate Boom Lift  
+
+1 
+
+9 
+
+15 
+
+Safe Management Officers Course for Construction 
+
+16 
+
+56 
+
+16 
+
+Contractor Safety Course - BPLRT 
+
+1 
+
+4 
+
+ 
+
+Total 
+
+43 
+
+414 
+
+ 
+
+Due to the COVID-19 outbreak, on-site training was put on hold until further notice. To increase 
+
+awareness of our employees, we have conducted Safe Management Measures training virtually on 5 
+
+June 2020.   
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+17 
+
+ 
+
+
+
+  
+
+ 
+
+HSE performance is continuously monitored and evaluated monthly so that we could identify and 
+
+monitor the hazards, implement the control measures to mitigate the risk to as low as reasonably 
+
+practicable: 
+
+No. 
+
+Description 
+
+FY2020 
+
+FY2019 
+
+1 
+
+Excessive noise exposure hours per year (more than 85db) 
+
+200 
+
+320 
+
+2 
+
+Number of fatalities per year 
+
+- 
+
+- 
+
+3 
+
+Number of lost time injuries per year  
+
+- 
+
+2 
+
+4 
+
+Number of other reportable injuries per year 
+
+- 
+
+- 
+
+5 
+
+Number of first aid cases per year 
+
+- 
+
+- 
+
+6 
+
+Number of accidental environmental release per year 
+
+- 
+
+- 
+
+ 
+
+Given that we value our employees’ health and safety as a priority within our organization, achieving 
+
+affirmations through certifications and implementing the framework of required systems are vital to the 
+
+Company. The implementation of these frameworks has enabled us to systematically identify, reduce 
+
+and mitigate risks involved in our operations. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+18 
+
+ 
+
+
+
+During FY2020, we have obtained and renewed the following certifications:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+• Valid from 28 June 2019 to 27 June 2022 for design, project 
+
+management, implementation and maintenance for wireless 
+
+telecommunication networks
+
+
+
+ISO 9001:2015
+
+
+
+• Presented by the Workplace Safety and Health Council, valid 
+
+till 11 March 2021
+
+
+
+BizSAFE STAR
+
+
+
+• Valid from 1 October 2020 to 11 October 2021 for design, 
+
+project management, implementation and maintenance for 
+
+wireless telecommunication networks
+
+
+
+ISO 45001:2018
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+19 
+
+ 
+
+
+
+GOVERNANCE 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+We believe that strong governance is the key to a sustainable business. The Board and Management 
+
+of Yinda Infocomm are committed to maintaining a high standard of corporate governance. The 
+
+Company understands that good corporate governance is an integral element of a sound corporation, 
+
+enabling it to be more transparent and forward-looking. Please refer to our Annual Report for FY2020, 
+
+pages 12 to 34 for the Group’s Corporate Governance Report. 
+
+Our overall Singapore Governance and Transparency Index (“SGTI”) score assessed by the National 
+
+University of Singapore Business School is 67 for FY2020 (FY2019: 60). This placed us within the 44% 
+
+(FY2019: 47%) percentile of the public listed companies that were assessed.  
+
+We believe that our constant drive for corporate excellence will allow us to establish a more transparent, 
+
+accountable and equitable system, thereby increasing the value of the Company and its value to our 
+
+stakeholders. We will continue to comply with the Code of Corporate Governance and meet all 
+
+requirements that are expected of us by our stakeholders. 
+
+ 
+
+BUSINESS ETHICS AND COMPLIANCE 
+
+Yinda Infocomm takes serious considerations of any possibilities of conflict of interest during our hiring 
+
+procedures. Our Code of Conduct clearly states our expectations from our staff and the consequences 
+
+if any of the rules are violated or standards are not met. We also have clear and fair grievance 
+
+procedures. Our target is to ensure all allegations received are promptly addressed. There were no 
+
+allegations received in FY2020 and FY2019. 
+
+ 
+
+Business ethics are communicated to all our heads of business units regularly and they must fully 
+
+understand that compliance with rules and regulations is a key part of running a responsible business. 
+
+Topics covered under the ethics training are comprised of the following: 
+
+ 
+
+
+
+• To act honestly and in the best interest of the Company
+
+
+
+Honesty
+
+
+
+• By doing what they think is right even when there is great pressure to do otherwise; they are
+
+principled, honourable and upright
+
+
+
+Integrity
+
+
+
+• Make every reasonable effort to fulfil the letter and spirit of their promises and commitments
+
+
+
+Promise-Keeping &amp; Trustworthiness
+
+
+
+• Ethical executives aknowledge and accept personal accountability for the ethical quality of
+
+thieir decisions and omissions to themselves, their colleagues, their companies and their
+
+communities
+
+
+
+Accountability
+
+
+
+
+
+
+ 
+
+20 
+
+ 
+
+
+
+Yinda Infocomm regularly updates key staff on developments in international and local regulations. We 
+
+are fully compliant with all environmental rules and regulations, confidentiality clauses, anti-competitive 
+
+behaviour laws and all requirements on health and safety.  
+
+ 
+
+Cyber security and data privacy are not only important for compliance, but also in safeguarding both 
+
+our data and that of our customers. We have taken measures to guard against cyber risks for both our 
+
+internal and external stakeholders by complying with the Personal Data Protection Act Policy. This 
+
+policy also applies to our employment process where the privacy of all applicants is safeguarded and 
+
+access to personal data are restricted to authorised persons or senior management on a need-to-know 
+
+basis. 
+
+We have achieved our target set in FY2019 as there were no significant fines or non-monetary sanctions 
+
+for non-compliance with laws and regulations in both years. We will continue to maintain and ensure no 
+
+significant fines or non-monetary sanctions for non-compliance with laws and regulations.  
+
+ 
+
+ENTERPRISE RISK MANAGEMENT  
+
+The Board acknowledges its responsibilities for the overall internal control framework and governance 
+
+of risk, ensuring that the management maintains a sound system of risk management and internal 
+
+controls to safeguard the interests of the Company and its shareholders.  
+
+The Board, assisted by the AC, reviews annually and ensures that a sound system of risk management 
+
+and internal controls is maintained by the Group to safeguard shareholders’ interests and the Group’s 
+
+assets and determines the nature and extent of the significant risks which the Group is willing to take 
+
+in achieving its strategic objectives. The Group has implemented a system of internal controls designed 
+
+to provide reasonable assurance that assets are safeguarded, proper accounting records are 
+
+maintained operational controls are adequate and business risks are suitably managed. The Board, 
+
+with the assistance of the AC, oversees the management in the design, implementation and monitoring 
+
+of the risk management and internal control systems, and reviews the adequacy and effectiveness of 
+
+such systems at least annually.  
+
+We have ensured timely and proper implementation of internal control measures as targeted in FY2019. 
+
+Going forward, we target to review our risk management and internal control systems annually to ensure 
+
+their adequacy.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+21 
+
+ 
+
+
+
+GRI STANDARDS CONTENT INDEX  
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+GRI 101: Foundation 2016 
+
+ 
+
+ 
+
+GENERAL DISCLOSURE 
+
+ 
+
+ 
+
+GRI 102: General 
+
+Disclosures 
+
+102-1 
+
+Name of organization 
+
+Yinda Infocomm Limited 
+
+102-2 
+
+Activities, brands, products and services 
+
+SR Page 3 
+
+102-3 
+
+Location of headquarters 
+
+Singapore 
+
+102-4 
+
+Location of operations 
+
+SR Page 3 
+
+102-5 
+
+Ownership and legal form 
+
+Annual Report Pages 7, 57, 82, 111-112 
+
+102-6 
+
+Markets served 
+
+SR Page 7 
+
+102-7 
+
+Scale of the organisation 
+
+SR Page 3 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+SR Pages 11-14 
+
+102-9 
+
+Supply chain 
+
+SR Pages 3, 9-10 
+
+102-10 
+
+Significant changes to the organisation and 
+
+its supply chain 
+
+There were no significant changes. 
+
+102-11 
+
+Precautionary principle or approach 
+
+SR Page 2  
+
+102-12 
+
+External initiatives 
+
+None 
+
+102-13 
+
+Membership of associations 
+
+None 
+
+102-14 
+
+Statement from senior decision maker 
+
+SR Page 2  
+
+102-16 
+
+Values, principles, standards and norms of 
+
+behaviour 
+
+SR Pages 19-20  
+
+102-18 
+
+Governance structure 
+
+SR Pages 19-20, Annual Report Pages 
+
+12-34 
+
+102-40 
+
+List of stakeholder groups 
+
+SR Page 4 
+
+102-41 
+
+Collective bargaining agreements 
+
+None 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+SR Page 4 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+SR Page 4 
+
+102-44 
+
+Key topics and concerns raised 
+
+SR Page 4 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+Annual Report Pages 7, 82  
+
+102-46 
+
+Defining report content and topic 
+
+boundaries 
+
+SR Page 2 
+
+102-47 
+
+List of material topics 
+
+SR Page 5 
+
+102-48 
+
+Restatement of information 
+
+Not applicable. 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable. No change in reporting. 
+
+102-50 
+
+Reporting period 
+
+SR Page 2 
+
+102-51 
+
+Date of most recent previous report 
+
+31 October 2019 
+
+102-52 
+
+Reporting cycle 
+
+Annually 
+
+102-53 
+
+Contact point for questions about the 
+
+report 
+
+SR Page 2 
+
+102-54 
+
+Claims of reporting in accordance with the 
+
+GRI Standards 
+
+SR Page 2 
+
+102-55 
+
+GRI content index 
+
+SR Pages 21-22  
+
+102-56 
+
+External Assurance 
+
+We may seek external assurance in the 
+
+future. 
+
+MATERIAL TOPICS 
+
+ 
+
+ 
+
+GRI 201: 
+
+Economic 
+
+performance 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+SR Pages 6-7 
+
+GRI 205: Anti-
+
+corruption 
+
+205-1 
+
+Operations assessed for risks related to 
+
+corruption 
+
+SR Page 8 
+
+205-2 
+
+Communication and training about anti-
+
+corruption policies and procedures 
+
+SR Page 8 
+
+205-3 
+
+Confirmed incidents of corruption and 
+
+actions taken 
+
+SR Page 8 
+
+
+
+
+
+
+ 
+
+22 
+
+ 
+
+
+
+GRI STANDARDS CONTENT INDEX  
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+GRI 307: 
+
+Environmental 
+
+compliance 
+
+307-1 
+
+Non-compliance with environmental laws 
+
+and regulations 
+
+SR Pages 9-10 
+
+GRI 308: 
+
+Supplier 
+
+environmental 
+
+assessment 
+
+308-1 
+
+New suppliers that were screened using 
+
+environmental criteria 
+
+SR Pages 9-10 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-related 
+
+fatalities 
+
+SR Pages 14-18 
+
+GRI 405: 
+
+Diversity and 
+
+equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance bodies and 
+
+employees 
+
+SR Pages 11-14 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+ 
+

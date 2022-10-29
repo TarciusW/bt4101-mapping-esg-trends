@@ -1,0 +1,2210 @@
+
+ 
+
+1 
+
+Sustainability Report 
+
+ 
+
+Introduction  
+
+Polaris Ltd (“Polaris”) is pleased to present its first annual Sustainability Report. The report captures 
+
+Polaris’s sustainability effort, performance and strategies over the financial year January 1, 2017 to 
+
+December 31, 2017 (“FY2017”). This report includes the environmental, social and governance (“ESG”) 
+
+performance for our business operations in Singapore and excludes overseas operations unless stated 
+
+otherwise.  
+
+This report has been prepared in accordance with the latest Global Reporting Initiative (“GRI”) 
+
+Sustainability Reporting Guidelines: Core options. The GRI Content Index and the relevant references 
+
+are provided on pages 12 – 14 of the report. Information presented in this report has been extracted 
+
+from primary internal records and documents to ensure accuracy. 
+
+Reporting Principles  
+
+We have followed the GRI principles for defining the sustainability report content and quality. We 
+
+have prepared the report having considered stakeholder inclusiveness, Polaris’s sustainability context, 
+
+materiality and completeness. To ensure quality of the report, we have applied the GRI principles of 
+
+accuracy, balance, clarity, comparability, reliability and timeliness in preparing this report. 
+
+Reporting Process  
+
+Polaris’s Sustainability Committee (the “Committee”), which includes key members of management 
+
+and executive directors, provides the overall major direction for preparing the report. The 
+
+Committee’s responsibilities include reviewing, assessing and determining the sustainability context, 
+
+material ESG topics, report content and topic boundaries, scope and prioritisation of issues to be 
+
+included in the report. The Committee takes into consideration formal and informal feedback received 
+
+throughout the year from a range of internal and external stakeholders to determine the most 
+
+relevant material topics to be covered in the report.  
+
+Reporting Cycle  
+
+Our reporting cycle begins with a review of the Company’s ESG factors and material topics and their 
+
+context in light of business environment changes and stakeholder feedback. 
+
+Feedback  
+
+We welcome feedback from all stakeholders. Please send questions, comments, suggestions or 
+
+feedback relating to this report or our sustainability performance to ir@wearepolaris.com. 
+
+External Assurance  
+
+The financial statements in the report are audited by independent auditors. Moreover, we rely on our 
+
+internal review processes to verify the accuracy of ESG performance data and information presented 
+
+in the report. 
+
+ 
+
+
+ 
+
+2 
+
+Letter to Stakeholders 
+
+ 
+
+Dear Stakeholders, 
+
+  
+
+As it always has been and always will be, the world is changing. 
+
+ 
+
+Every generation has its own challenges and it can be argued that sustainability is at the top of our 
+
+list. While environmental sustainability might come first to mind, the making of this report reminded 
+
+us of the many shapes and forms of sustainability we have to address as a company. It helped us assess 
+
+the overall state of our sustainability and encouraged us to consider how external events might affect 
+
+us and develop strategies in relation to sustainability accordingly. The objective is to instill qualities 
+
+and values in Polaris that deliver long-term success and make us a positive contributor to the 
+
+community around us. 
+
+  
+
+To be able to take on today's challenges, and even thrive and prosper amidst the rapid changes around 
+
+us, will take concerted and sustained efforts. As we communicate in this report, a plan for long term 
+
+sustainability has been drawn up and execution on it started. Sustainability is now a top priority at 
+
+Polaris. 
+
+  
+
+For environmental sustainability, we take inspiration and guidance from the UN Sustainable 
+
+Development Goals and the Paris Climate Agreement. While having a modest overall environmental 
+
+footprint, Polaris continually look for ways to reduce our energy consumption, minimize our waste 
+
+and improve reuse and recycling efforts. Apart from being guided by the international efforts 
+
+mentioned above, internal employee knowledge and business partners such as Apple, Dyson and 
+
+Singtel all help us improve. 
+
+  
+
+With regards to business sustainability, our focus is on attracting, retaining and training great talent. 
+
+Diversity, equal opportunity and an overall positive working environment are attributes that we strive 
+
+for every day. Committed employees make Polaris successful and sustainable. Privacy and data 
+
+security are areas of focus and also benefit from our reputable business partners' guidelines and 
+
+systems. 
+
+ 
+
+With procurement being a common area of governance concern, we decided to share our framework 
+
+to address it here in our first report. In addition, the upcoming changes to the Code of 
+
+Corporate Governance and the Singapore Exchange Securities Trading Limited (“SGX-ST”) Listing Rules 
+
+will be an area of focus going forward. Management is reviewing each business unit for optimizations 
+
+and viability, with the objective and ambition to increase our reserves and improve our ability to 
+
+expand investments in selected businesses.  
+
+  
+
+Significant efforts are also being made to engage more closely with our external stakeholders. This 
+
+includes timely announcements for all shareholders and cultivating constructive relationships with key 
+
+investors.  Internally, business unit heads and the executive office work closely together to enable and 
+
+encourage speedy decision making, such as for closing deals, solving problems, entering new 
+
+businesses or exiting existing ones. Customer service will be improved through training and by 
+
+increasing the number of agents, enhancing the quality of service, as well as reducing waiting and 
+
+turn-around times. 
+
+  
+
+This first Sustainability Report has also provided us with a structured process to guide our 
+
+improvement efforts going forward, with selected data points to measure ourselves by. Moreover, as 
+
+other companies in Singapore make their own sustainability reports available, best practices and 
+
+
+ 
+
+3 
+
+benchmarks are shared, benefitting our local community and society at large. At Polaris, we look 
+
+forward to keep learning from this process as well as share our efforts and improvements. 
+
+ 
+
+ 
+
+
+ 
+
+4 
+
+Organizational Profile 
+
+About Polaris  
+
+Polaris is a Singapore-based investment holding based company and is listed on the Catalist Board of 
+
+the SGX-ST. Polaris is active in the distribution and retail of smart mobile devices and lifestyle products 
+
+in Southeast Asia, with extensive operations in Singapore.  
+
+The Group is organised into business units based on its products and services. 
+
+The Distribution segment engages in the distribution of consumer electronics, mobile communication 
+
+devices and accessories for leading brands. The retail consumer electronics segment engages in the 
+
+retail sale and services of IT and related products in Singapore. It offers a wide range of electronic 
+
+products and services from reputable brands such as Apple and Dyson. The corporate segment is 
+
+involved in Group-level corporate services, treasury functions and investment in marketable 
+
+securities. It is also involved in strategic investment and joint venture opportunities in emerging 
+
+Southeast Asia markets to synergise and complement the Group’s existing offerings.  
+
+Polaris purpose of existence is to enable and enhance connection and services for people in Singapore 
+
+and across Southeast Asia. Polaris aims to be the brightest provider of connection devices and services 
+
+and to serve with a caring touch.  
+
+ 
+
+We will be the brightest providers by: 
+
+• 
+
+Guiding our customers to make choices that will enhance their lives and businesses.  
+
+• 
+
+Being sought after by Stakeholders by being a transparent and professional organisation. 
+
+• 
+
+Casting our light on the entire region, we serve Southeast Asia. 
+
+We will deliver with a caring touch by: 
+
+• 
+
+Providing thoughtful service to our customers. 
+
+• 
+
+Creating mutually beneficial relationships with our partners and investors. 
+
+• 
+
+Creating a work environment for our employees where trust, happiness and satisfaction can 
+
+thrive.  
+
+Polaris strongly believes and practices five core values: 
+
+• 
+
+Trust – We are reliable, honest and always deliver what we promise. 
+
+• 
+
+Simplicity – We strive to be clear and meaningful in all that we do. 
+
+• 
+
+Young at heart – We approach our work with a creative, open-minded and positive attitude. 
+
+• 
+
+Caring touch – We treat our people, customers, partners and shareholders with respect, 
+
+kindness and sincerity. 
+
+• 
+
+Innovation – We innovate with solution(s) when we face challenges and to run our businesses 
+
+efficiently with productivity.  
+
+ 
+
+Awards and Recognitions 
+
+Our Singtel NEX retail outlet was awarded the Top GA Contribution Outlet in FY2017 by Singtel, in 
+
+recognition of the most number of successful new sim card sign ups.  
+
+
+ 
+
+5 
+
+ 
+
+Performance Highlights FY2017  
+
+ 
+
+Strategic Area 
+
+FY2017 
+
+ENVIRONMENTAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total CO2e emissions (tonnes) 
+
+107 
+
+Carbon emission intensity per onsite repair job (Tonnes CO2e) 
+
+0.0028 
+
+Total Energy used (gigajoules) 
+
+516 
+
+Energy Intensity per square metre (gigajoules) 
+
+0.357 
+
+Water Consumption (cubic metres) 
+
+251.9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+PEOPLE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Permanent Employees 
+
+91% 
+
+Local Employees (Singapore Citizen + PR) 
+
+74% 
+
+Female Employees 
+
+39% 
+
+Male Employees 
+
+61% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUPPLIERS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Share of local suppliers as % of total supplier payments 
+
+88% 
+
+Proportion of local suppliers 
+
+90% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+6 
+
+Privacy and Data Security  
+
+Ensuring the security and confidentiality of our database and customer information is of utmost 
+
+importance to us. At Polaris, we are committed to protecting the personal information of our 
+
+customers. We have implemented a strict Personal Data Protection Policy and will take any necessary 
+
+measures to protect our customer’s personal data. Customer’s privacy is important to us and we are 
+
+bound by the Personal Data Protection Act 2012 (“PDPA”). We regularly review our customer privacy 
+
+and data protection processes to ensure compliance.  
+
+As Polaris operates retail stores under Singtel, Apple and Dyson Customer Service Centres, we strictly 
+
+follow and adhere to their Personal Data Protection policies and procedures. 
+
+Our detailed Personal Data Protection Policy is available on the WeArePolaris and Polarisepp website.  
+
+Stakeholder Engagement  
+
+At Polaris, we develop our sustainability strategy by gathering stakeholder feedback on issues that are 
+
+material to them and our business. We have identified our stakeholders based on importance, 
+
+responsibility, dependency and proximity.  
+
+We continuously seek to improve communication with our stakeholders and consider their inputs and 
+
+feedback in our business strategy. This helps us to develop better trust and understanding with our 
+
+stakeholders and strengthens our partnership as well.  
+
+Stakeholder 
+
+Key Concern of Stakeholders 
+
+Communication Channel 
+
+Our Strategy 
+
+Shareholders 
+
+&amp; Investors 
+
+• 
+
+Transparency 
+
+• 
+
+Timely information on company 
+
+progress and status 
+
+• 
+
+Profitability 
+
+• 
+
+Board Meetings 
+
+• 
+
+Email 
+
+correspondence 
+
+• 
+
+Annual General 
+
+Meeting 
+
+• 
+
+Engaging board 
+
+and Stakeholders 
+
+face to face and 
+
+through emails 
+
+Employees 
+
+• 
+
+Diversity and equal 
+
+opportunities 
+
+• 
+
+Training and Career 
+
+development 
+
+• 
+
+Employment benefits 
+
+• 
+
+Reporting systems 
+
+• 
+
+Manage Work 
+
+Environment 
+
+• 
+
+Review 
+
+employment 
+
+benefits 
+
+Customers 
+
+• 
+
+Product/Service quality 
+
+• 
+
+Safe product use 
+
+• 
+
+Correct product information 
+
+• 
+
+Transparent communication 
+
+• 
+
+Call centres 
+
+• 
+
+Social media 
+
+communications 
+
+• 
+
+Retail stores 
+
+• 
+
+Email 
+
+correspondence 
+
+• 
+
+Customer satisfaction 
+
+surveys conducted by 
+
+external 
+
+organizations 
+
+• 
+
+Strengthen the 
+
+quality and safety 
+
+management 
+
+system 
+
+• 
+
+Provide accurate 
+
+product 
+
+information  
+
+• 
+
+Gather and 
+
+address the voice 
+
+of customers 
+
+Suppliers 
+
+• 
+
+Compliance with terms and 
+
+conditions of prevailing 
+
+purchasing policies and 
+
+procedures 
+
+• 
+
+Appropriate Costs 
+
+• 
+
+Quotations 
+
+• 
+
+Request for proposals 
+
+• 
+
+Email 
+
+correspondence 
+
+• 
+
+Teleconferences 
+
+• 
+
+Establish policies 
+
+and practices that 
+
+ensures a fair 
+
+selection and 
+
+procurement 
+
+process, ethical 
+
+business practices 
+
+and respect for 
+
+contractual 
+
+obligations 
+
+
+ 
+
+7 
+
+Resellers/ 
+
+Distributors 
+
+• 
+
+Timely delivery 
+
+• 
+
+Quality assurance 
+
+• 
+
+After-sales support 
+
+• 
+
+Strong collaboration 
+
+• 
+
+Good customer experience 
+
+• 
+
+Shop visits 
+
+• 
+
+Email 
+
+correspondence 
+
+• 
+
+Regular meetings 
+
+• 
+
+Proactive sales 
+
+planning 
+
+• 
+
+Providing Sales 
+
+support 
+
+• 
+
+Regular visits  
+
+ 
+
+Business 
+
+Partners 
+
+• 
+
+Partnerships for business growth 
+
+and opportunities 
+
+• 
+
+Frequent discussions 
+
+• 
+
+Teleconferences 
+
+• 
+
+Email 
+
+correspondence 
+
+• 
+
+Work with 
+
+reputable 
+
+company partners 
+
+Government 
+
+&amp; Regulators 
+
+• 
+
+Adherence to regulations 
+
+• 
+
+Prompt resolutions to issues 
+
+• 
+
+Reporting of any service issues 
+
+as required by regulators 
+
+• 
+
+Discussions with 
+
+relevant agencies and 
+
+departments 
+
+• 
+
+Comply with 
+
+applicable laws 
+
+• 
+
+Putting in place 
+
+policies and 
+
+procedures to 
+
+ensure 
+
+compliance 
+
+Media 
+
+• 
+
+Exposure and access to company 
+
+development and news  
+
+• 
+
+New 
+
+products/services/entertainment 
+
+and related content 
+
+• 
+
+Invitation to media 
+
+events 
+
+• 
+
+Providing timely 
+
+and accurate 
+
+information on 
+
+product releases 
+
+ 
+
+Our Materiality Topics 
+
+We have identified material topics for reporting based on the significance of our ESG and economic 
+
+impacts and the degree of influence where we see the most potential for creating maximum value for 
+
+our shareholders and stakeholders. In order to ensure an accurate determination of material issues, 
+
+we undertook a process of identification, prioritisation and validation with our management team.  
+
+Each sustainability factor is assigned a reporting priority that determines the actions required, as 
+
+illustrated below: 
+
+Description 
+
+Criteria 
+
+High 
+
+Factors with high reporting priority are reported in detail. 
+
+Medium 
+
+Factors with medium reporting priority are considered for inclusion in the 
+
+Report.  
+
+Low 
+
+Factors with low reporting priority may be reported to fulfil regulatory 
+
+requirements.  
+
+ 
+
+A summary of Polaris’s material ESG and economic issues, where the impact occurs and Polaris’s 
+
+involvement in respect of such impacts is presented in the table below. A more detailed discussion on 
+
+the material topics, including the management approach, will be covered in the respective chapters 
+
+of this report.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+8 
+
+Material Issues 
+
+Mission 
+
+Prioritization 
+
+of Topics 
+
+Where 
+
+impact 
+
+occurs 
+
+Polaris Involvement 
+
+ENVIRONMENT 
+
+Energy Efficiency 
+
+Lower 
+
+ecological 
+
+footprint and 
+
+Reduced 
+
+energy cost 
+
+Medium 
+
+Within 
+
+Organization 
+
+and 
+
+Environment 
+
+Direct 
+
+Climate 
+
+Change 
+
+and 
+
+Carbon Emission 
+
+Lower Carbon 
+
+footprint 
+
+Medium 
+
+Within 
+
+Organization 
+
+and 
+
+Environment 
+
+Direct 
+
+Waste minimisation 
+
+Lower 
+
+Pollution 
+
+Medium 
+
+Within 
+
+Organization 
+
+and 
+
+Environment 
+
+Direct 
+
+SOCIAL 
+
+Talent Attraction and 
+
+Retention 
+
+Increase 
+
+company 
+
+morale, gives 
+
+employee a 
+
+sense of 
+
+pride, lower 
+
+turnover rate 
+
+and reduce 
+
+hiring costs, 
+
+creates 
+
+employee 
+
+satisfaction 
+
+High 
+
+Within 
+
+Organization 
+
+and 
+
+Community 
+
+Direct 
+
+Training and Education 
+
+Increase 
+
+productivity, 
+
+grow and 
+
+nurture 
+
+employees, 
+
+Innovative 
+
+problem-
+
+solving 
+
+Medium 
+
+Within 
+
+Organization 
+
+and 
+
+Community 
+
+Direct 
+
+Diversity and Equal 
+
+Opportunity 
+
+Create an 
+
+inclusive and 
+
+non-
+
+discriminating 
+
+environment 
+
+High 
+
+Within 
+
+Organization 
+
+and 
+
+Community 
+
+Direct 
+
+Marketing and Labelling 
+
+To uphold the 
+
+highest 
+
+standards of 
+
+professional 
+
+values and 
+
+integrity and 
+
+build trust 
+
+through 
+
+transparency 
+
+Medium 
+
+Within 
+
+Organization, 
+
+Customers, 
+
+Distributors 
+
+and suppliers 
+
+Direct 
+
+ECONOMIC 
+
+Anti-corruption 
+
+Uphold and 
+
+adhere to 
+
+Group’s zero 
+
+High 
+
+Within 
+
+Organization, 
+
+Communities 
+
+Direct 
+
+
+ 
+
+9 
+
+tolerance 
+
+policy 
+
+towards 
+
+fraud, 
+
+corruption 
+
+and unethical 
+
+conduct 
+
+and 
+
+Investors 
+
+Procurement Practices 
+
+To 
+
+continuously 
+
+support local 
+
+suppliers 
+
+Medium 
+
+Within 
+
+Organization, 
+
+Suppliers, 
+
+Distributors, 
+
+Investors 
+
+Direct 
+
+GOVERNANCE 
+
+Board Diversity 
+
+Holistic 
+
+guidance to 
+
+the Company 
+
+High 
+
+Within 
+
+Organization 
+
+and 
+
+Investors 
+
+Direct 
+
+Risk Management and 
+
+Internal Controls 
+
+Effective risk 
+
+taking and 
+
+management, 
+
+aligned with 
+
+the 
+
+organisation’s 
+
+business 
+
+objectives 
+
+with an 
+
+integrated, 
+
+proactive and 
+
+systematic 
+
+approach in 
+
+risk 
+
+management 
+
+and to have a 
+
+better 
+
+Corporate 
+
+Governance 
+
+High 
+
+Within 
+
+Organization 
+
+and 
+
+Investors 
+
+Direct 
+
+Whistle-blowing Policy 
+
+Mitigate 
+
+business risks 
+
+and Fraud 
+
+prevention 
+
+High 
+
+Within 
+
+Organization 
+
+and 
+
+Investors 
+
+Direct 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+10 
+
+Our Environmental Efforts  
+
+Carbon Emissions 
+
+We believe in progressively reducing our organisation’s carbon footprint by improving energy 
+
+efficiency and minimising energy consumption. Polaris’s greenhouse gas (“GHG”) emission is 
+
+attributed to the use of electricity, diesel and petrol. Our emission intensity in 2017 was calculated at 
+
+0.0028 tonnes CO2e per onsite repair jobs. Emission from electricity represented 99% of our total 
+
+carbon.  
+
+Energy 
+
+In our daily operations, electricity which is used to power our office buildings and retail outlets has 
+
+contributed to the majority of our energy consumption. Other notable consumption components 
+
+include petroleum or diesel that is used for transportation and logistics. In FY2017, our total energy 
+
+intensity was calculated at 0.357 per square metres. Each department’s consumption is depicted in 
+
+Figure 1 as shown below:  
+
+ 
+
+In FY2017, Polaris carried out a renovation exercise by changing all of the local office building ceiling 
+
+lights to energy-saving ones. This reflects our commitment to continuously reducing and monitoring 
+
+our energy consumption across all of our businesses. 
+
+Waste Minimisation 
+
+Our management approach is to reduce, reuse and recycle waste wherever possible throughout our 
+
+daily operations. Waste from our operations includes paper and packaging waste. In FY2018, we are 
+
+looking to implement a recycling initiative for Dyson parts.   
+
+Over the years, Polaris has implemented several other initiatives to reduce printed marketing 
+
+materials. We have switched to sending e-cards during festive seasons from the conventional printed 
+
+greeting cards. Empty ink cartridges are consolidated and returned back to supplier bimonthly. 
+
+Packaging waste are consolidated and recycled on a weekly basis.  
+
+Energy Consumption (kWh)
+
+HQ
+
+Apple
+
+Singtel
+
+
+ 
+
+11 
+
+Our Workplace  
+
+Polaris practices fair employment and is aligned with the Tripartite Alliance for Fair Employment 
+
+guidelines. Our human resource policies are aimed at providing a fair performance-based work culture 
+
+that is diverse, inclusive and collaborative. We also encourage our people to reach their fullest 
+
+potential and provide them with a fulfilling and meaningful career.  
+
+As of 31 December 2017, Polaris employed 74 people. Permanent employees, which includes part-
+
+time employees, represented 97% of the total headcount. Employees with managerial or supervisory 
+
+roles accounted for 17% of our workforce.  
+
+Talent Attraction and Retention 
+
+We believe investing in our people is crucial to the success of a business. We manage our human 
+
+capital investment by attracting and nurturing the right talent, as well as caring for their professional 
+
+growth and personal well-being during their employment with us. This can be attested by Polaris’s low 
+
+staff attrition rate.  
+
+In addition, we leverage our partnership with the Institute of Technical Education (ITE) to support 
+
+work-study programmes, providing internship opportunities to students as part of their course 
+
+modules. This programme is designed to prepare students for the future workforce by equipping them 
+
+with employable, real-world skills and experiences, whilst allowing them to complete their studies.  
+
+Training and Education 
+
+With the rapid changes in our industry, it is important for our people to keep updated on the latest 
+
+industry developments. At Polaris, we encourage and aim to provide all employees with equal 
+
+opportunities for training and upgrading. We believe that learning and training is an important, 
+
+continuous and life-long process so that employees are equipped with the competencies needed to 
+
+meet current and future business needs. This includes workshops, seminars, conferences, in-house 
+
+company training and on-the-job training.  
+
+We strongly believe that it is important to continuously provide our employees with the correct 
+
+training. This, in return, allows the business to be cost-effective, increasing credibility and expertise as 
+
+well as improving job satisfaction, and creates a competitive edge in the market.  
+
+Diversity and Equal Opportunity 
+
+We believe that creating a diverse workplace environment is essential to building and sustaining our 
+
+competitive advantage. Such diversity fosters innovative thinking and helps tackle business challenges 
+
+through different perspectives.  
+
+Moreover, we strive to offer equal opportunities in hiring, career advancements, promotions and 
+
+remuneration based on merit and experience irrespective of gender, age, racial, ethnic or cultural 
+
+background. Female employees account for 39% of our total workforce. There are three women who 
+
+hold a managerial position in the company and one woman who holds a director position in the 
+
+company.  
+
+Marketing and Labelling 
+
+Polaris has formed strategic partnerships with global mobile device manufacturers, consumer 
+
+electronic companies and leading telecommunication service providers to offer its customers with a 
+
+wide range of latest innovative consumer devices and services. 
+
+ 
+
+
+ 
+
+12 
+
+We recognise that fair marketing practices and being transparent in the way we communicate can 
+
+build trust and loyalty among our customers, partners and suppliers. We adhere to strict marketing 
+
+codes to ensure that all marketing activities comply with the various laws and guidelines such as the 
+
+Singapore Code of Advertising Practice, the Info-communications Media Development Authority’s 
+
+Codes of Practice and Guidelines, and the PDPA.  
+
+In FY2017, we have not identified any non-compliance with regulations and/or voluntary codes 
+
+concerning information and labelling, or marketing communications including advertising, promotion 
+
+and sponsorships in relation to products and services that we offer.  
+
+Moving forward, we strive to maintain the quality of our products and services as well as retail and 
+
+distribution channels by choosing the right type of products and services to fit our business model. 
+
+Quality checks will also be continuously deployed by our staff to ensure compliance with applicable 
+
+regulations relating to marketing and labelling in the markets we operate.  
+
+Our Economy 
+
+Our management approach is to create value for our shareholders and stakeholders by ensuring 
+
+sustainable growth for our business. We are focused on adopting strategies that maximise shareholder 
+
+returns while creating environmental, social and economic value for our stakeholders.  
+
+We regularly review our management approach in view of the business goals, stakeholder 
+
+expectations and the actual performance to evaluate effectiveness.  
+
+Anti-Corruption  
+
+Polaris adheres to a zero-tolerance policy on fraud and unethical conduct including corruption and 
+
+bribery. A whistle-blowing process is in place and supported. There was no reported incident of 
+
+corruption in the reporting period.  
+
+Procurement Governance 
+
+Polaris adopts a fair business trading framework and procures from suppliers who conduct business 
+
+ethically.  
+
+With the extensive varieties and ranges of products to procure from different sectors of suppliers, we 
+
+have stringent procurement processes in place to ensure good corporate governance and compliance 
+
+with anti-bribery and corruption rules and regulations. 
+
+Our procured products and supplies are from two groups: principle brands which the business units 
+
+are representing, namely Apple, Dyson, Makeblock and Singtel; and other suppliers for products such 
+
+as mobile phone and computer accessories and audio devices. 
+
+We encourage and support local businesses. In FY2017, our total purchase spending exceeded $60 
+
+million. Out of our 35 regular vendors, only one was from overseas import as we represent the brand 
+
+as its distributor in Singapore. This overseas vendor comprises 0.25% of our total purchases. 
+
+We work actively to combat corruption in all of its forms, which includes bribery, unfair competition, 
+
+conflicts of interest, fraud, embezzlement and unlawful kickbacks. 
+
+All procurement is processed through our Enterprise Resource Planning system with its multi-tiered 
+
+approval process, whereby up to three levels of approving officers are required to approve and sign 
+
+off on the issuing of Purchase Orders in the system. This is to address conflicts of interest and ensure 
+
+the correct latest purchase price, as illustrated in the diagram below. 
+
+
+ 
+
+13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+As an integral part of supply chain management, we also diligently sort out the delivered goods 
+
+packaging and ensure that they are disposed of in an environmentally and responsible manner. 
+
+Going forward, we are looking at improving our warehousing and storage spaces to ensure better 
+
+workplace safety and health.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sales Team
+
+•Fill in the 
+
+request form 
+
+for goods 
+
+needed and 
+
+submit to 
+
+admin 
+
+logistics
+
+Submit
+
+Admin Logistic
+
+•Input detail 
+
+of goods 
+
+request into 
+
+Globe 3 
+
+system
+
+Submit
+
+Requester
+
+•Provide data 
+
+of goods 
+
+availability 
+
+•Confirmation 
+
+with supplier
+
+•Approve 
+
+request
+
+Submit
+
+Approver 1 (S$1 
+
+up to $250K)
+
+• Review 
+
+profitability
+
+• Review 
+
+inventory 
+
+turn over
+
+• Approve 
+
+request
+
+• Submit to 
+
+logistic 
+
+admin for PO 
+
+issuance
+
+Submit
+
+Approver 2 
+
+(Above S$250K)
+
+•Approve PO
+
+•Submit to 
+
+approver 1 
+
+and logistic 
+
+admin for PO 
+
+issuance
+
+
+
+
+
+PO 
+
+issuance 
+
+ 
+
+
+ 
+
+14 
+
+GRI Content Index 
+
+‘In accordance’ - Core 
+
+GRI Standard 
+
+Disclosure 
+
+Page Reference 
+
+General Disclosure 
+
+GRI 102: Organizational Profile 
+
+102-1 
+
+Name of the organization 
+
+4, Organizational 
+
+Profile 
+
+102-2 
+
+Activities, brands, products, and services 
+
+102-3 
+
+Location of headquarters 
+
+102-4 
+
+Location of operations 
+
+102-5 
+
+Ownership and legal form 
+
+102-6 
+
+Markets served 
+
+102-7 
+
+Scale of the organization 
+
+11, Our Workplace 
+
+102-8 
+
+Information on employees and other workers 
+
+102-9 
+
+Supply Chain 
+
+12, Procurement 
+
+Governance 
+
+102-10 
+
+Significant changes to the organization and its supply chain 
+
+102-11 
+
+Precautionary Principle or approach 
+
+1, Reporting 
+
+Principles 
+
+GRI 102: Strategy 
+
+102-14 
+
+Statement from Senior Decision-maker 
+
+2, Letter to 
+
+stakeholders 
+
+102-15 
+
+Key impacts, risks and opportunities 
+
+GRI 102: Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and norms of behaviour 
+
+4, Organizational 
+
+Profile 
+
+GRI 102: Governance 
+
+102-18 
+
+Governance Structure 
+
+Annual Report Page 
+
+7 
+
+GRI 102: Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+6, Stakeholder 
+
+Engagement 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+102-43 
+
+Approach to Stakeholder engagement 
+
+102-44 
+
+Key Topics and concerns raised 
+
+GRI 102: Reporting Practice 
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+Annual Report Page 
+
+40 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+7 - 9, Materiality 
+
+Topics  
+
+102-47 
+
+List of material topics 
+
+102-49 
+
+Changes in reporting 
+
+1, Reporting Process 
+
+102-50 
+
+Reporting period 
+
+1, Introduction 
+
+102-51 
+
+Date of most recent report 
+
+1, Introduction 
+
+102-52 
+
+Reporting cycle 
+
+1, Reporting Cycle 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+1, Feedback 
+
+102-54 
+
+Claims of reporting in accordance with the GRI Standards 
+
+1, Introduction 
+
+102-55 
+
+GRI Content Index 
+
+14 - 16 
+
+102-56 
+
+External Assurance 
+
+1, External 
+
+Assurance 
+
+Topic Specific Standards 
+
+Anti-Corruption 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+
+ 
+
+15 
+
+103-2 
+
+The management approach and its components 
+
+12, Our Economy 
+
+205-2 
+
+Communication and training about anti-corruption policies 
+
+and procedures 
+
+12, Anti-Corruption 
+
+205-3 
+
+Confirmed incidents of corruption and actions taken 
+
+12, Anti-Corruption 
+
+Procurement Practices 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+12, Our Economy 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+12, Procurement 
+
+Governance 
+
+204-1 
+
+Proportion of spending on local suppliers 
+
+5, Performance 
+
+Highlights and 12, 
+
+Procurement 
+
+Governance 
+
+Energy 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+10, Energy 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+302-1 
+
+Energy Consumption within organization 
+
+302-2 
+
+Energy Consumption outside organization 
+
+302-3 
+
+Energy Intensity 
+
+5, Performance 
+
+Highlights 
+
+302-4 
+
+Reduction of energy consumption 
+
+10, Energy 
+
+Emissions 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+10, Emissions 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+305-4 
+
+GHG Emissions Intensity 
+
+Effluents and Waste 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+10, Waste 
+
+Minimisation 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+306-2 
+
+Waste by type and disposal method 
+
+Employment 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+11, Talent Attraction 
+
+and Retention 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+401-1 
+
+New employee hires and employee turnover 
+
+Training and Education 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+11, Training and 
+
+Education 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+404-2 
+
+Programs for upgrading employee skills and transition 
+
+assistance program 
+
+11, Training and 
+
+Education 
+
+Diversity and Equal Opportunity 
+
+
+ 
+
+16 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+11, Diversity and 
+
+Equal Opportunity 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+405-1 
+
+Diversity of governance bodies and employees 
+
+Marketing and Labelling 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+8, Our Materiality 
+
+Topics 
+
+103-2 
+
+The management approach and its components 
+
+11 - 12, Marketing 
+
+and Labelling 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+417-1 
+
+Requirements for product and service information and 
+
+labelling 
+
+417-2 
+
+Incidents of non-compliance concerning product and 
+
+service information and labelling 
+
+417-3 
+
+Incidents of non-compliance concerning marketing 
+
+communications 
+
+Customer Privacy 
+
+103-1 
+
+Explanation of the material topic and its boundary 
+
+6, Privacy and Data 
+
+Security 
+
+103-2 
+
+The management approach and its components 
+
+103-3 
+
+Evaluation of the Management Approach 
+
+418-1 
+
+Substantial complaints concerning breaches of customer 
+
+privacy and losses of customer data 
+
+ 
+

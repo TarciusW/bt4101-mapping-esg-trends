@@ -1,0 +1,4387 @@
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+1. Highlights ......................................................................................................................................... 1 
+
+1.1 Corporate profile ............................................................................................................................ 1 
+
+1.2 Message to stakeholders .............................................................................................................. 2 
+
+1.3 Scope of sustainability report ........................................................................................................ 3 
+
+1.4 Restatements ................................................................................................................................ 3 
+
+1.5 Sustainability contact ..................................................................................................................... 3 
+
+2. Our approach to sustainability ...................................................................................................... 4 
+
+2.1 Sustainability organisational structure ........................................................................................... 4 
+
+2.2 Sustainability strategy ................................................................................................................... 5 
+
+2.3 Consulting our stakeholders .......................................................................................................... 6 
+
+2.4 Sustainability materiality ................................................................................................................ 7 
+
+3. Our performance ............................................................................................................................. 8 
+
+3.1 How we measure our performance ............................................................................................... 8 
+
+3.2 Green development ....................................................................................................................... 9 
+
+3.3 Operational safety ....................................................................................................................... 12 
+
+3.4 Environmental sustainability ........................................................................................................ 15 
+
+3.5 Employee motivation ................................................................................................................... 17 
+
+Appendix A: Corporate milestones ................................................................................................... 19 
+
+Appendix B: Sustainability scorecard ............................................................................................... 21 
+
+Appendix C: GRI content index .......................................................................................................... 22 
+
+ 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Highlights 
+
+1.1 Corporate profile 
+
+Established in 2000, Debao Property Development Ltd. (Debao or the 
+
+‘Company’), together with its subsidiaries, (the ‘Group’) is an 
+
+integrated property developer of quality integrated residential 
+
+properties and commercial properties from Foshan City, Guangdong 
+
+Province, the People’s Republic of China (PRC). 
+
+Our vertically-integrated business model and operations enable us to 
+
+carry out key aspects of property development, such as design, 
+
+construction and marketing, in-house as well as manage the 
+
+developments after completion. 
+
+Led by our experienced management team, we have built a strong 
+
+presence and brand name in developing large scale and multi-phased 
+
+projects that are fully integrated with ancillary facilities. 
+
+Our business comprises four segments: property development, 
+
+construction contract, property investment and property management.  
+
+As at 31 December 2020, the Group has a total gross floor area (GFA) 
+
+of approximately 294,000 m2 of properties under and held for future 
+
+development, including two projects in Malaysia. As part of our property 
+
+investment business, we hold selected commercial properties that we 
+
+have developed or bought for capital appreciation for recurring and 
+
+stable rental income. We also provide management services for 
+
+residential properties developed by us. 
+
+As testament of our quality operations and property developments, our 
+
+Jiangnan Mingju Phases 1 to 4 won the Double Gold Prize 
+
+(Construction 
+
+and 
+
+Environment) 
+
+in 
+
+the 
+
+National 
+
+Residential 
+
+Construction, Planning and Design Competition (全国人居经典建筑规
+
+划设计方案竞赛：建筑、环境双金奖) in October 2004. 
+
+Apart from China development projects, the Group has been actively 
+
+exploring and studying commercially viable new ventures and 
+
+overseas development projects. 
+
+Since 2012, the Group has extended its operations to Malaysia as part 
+
+of its strategy towards globalisation and build an international brand 
+
+name in property development.  
+
+Our international development, The Landmark, previously known as 
+
+Project Imbi in Kuala Lumpur, Malaysia, is progressing smoothly 
+
+development progress and has commenced advance sales in the 
+
+second half of 2019. The total planned construction area of The 
+
+Landmark-Malaysia is 194,000 square meters. The Landmark-
+
+Malaysia is located in the central business district of Kuala Lumpur, 
+
+which will greatly enhance the ability of the Group to withstand the 
+
+challenges from both Malaysia and China’s markets. 
+
+Debao is listed on the Mainboard of the Singapore Exchange Securities 
+
+Trading Limited (SGX-ST) under the stock code BTF. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2 Message to stakeholders 
+
+Debao has been committed to creating a sound living and 
+
+working environment for our customers. This reflects not 
+
+only our attitude to the environment and responsibilities for 
+
+the society, but also our expectations for the future.  
+
+In FY2020, we continue to engage in constructive dialogue with our 
+
+stakeholders and focus on our four key pillars of Green Development, 
+
+Operational Safety, Environmental Sustainability and Employee 
+
+Motivation. We will strive to continue having zero accident rates in all 
+
+our current property development projects. We are also aware that our 
+
+carbon footprint arises primarily out of electricity consumption of our 
+
+companies. As such, we will step up our efforts on improving the 
+
+energy efficiency of our operations in the coming year, doing our part 
+
+to contribute to the positive global action on climate change. 
+
+However, the outbreak of the COVID-19 pandemic in FY2020 has had 
+
+a significant impact on lifestyles, businesses and communities globally. 
+
+Our property assets are situated in the PRC and Malaysia, mainly 
+
+comprising integrated commercial and residential developments. As 
+
+such, we have also been significantly impacted by the outbreak of the 
+
+COVID-19 pandemic, which had affected market sentiment in the real 
+
+estate industry during the first quarter of FY2020. 
+
+In the PRC, the authorities have responded swiftly with containment 
+
+and precautionary measures, largely limiting the impact of COVID-19 
+
+to the first half of 2020. In Malaysia however, the continued Movement 
+
+Control Order (MCO) restrictions imposed earlier this year has further 
+
+affected the construction progress of the Imbi Project in Kuala Lumpur. 
+
+We have continued to take all necessary measures to ensure the safety 
+
+and well-being of our personnel and to mitigate the economic fallout of 
+
+this existential health treat, travel curbs, quarantines, lockdowns and 
+
+compulsory business shutdowns. This includes the implementation of 
+
+business continuity plans, enhancement of online activities and 
+
+austerity measures. 
+
+Lastly, we wish to confirm that the Board has considered sustainability 
+
+issues as part of its strategic formulation, determined the material 
+
+environmental, social and governance (ESG) factors and overseen the 
+
+management and monitoring of the material ESG factors. 
+
+As part of Debao’s commitment to sustainable development, we will 
+
+continue to strive to do business in a responsible way. We will improve 
+
+on our sustainability achievements and partner with other parties to 
+
+create a green ecosphere as well as a natural and harmonious living 
+
+environment. 
+
+ 
+
+On behalf of the Board of Directors 
+
+ 
+
+ 
+
+ 
+
+ZHONG YUZHAO 
+
+Executive Director and CEO 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3 Scope of sustainability report 
+
+The scope of the report covers information on material sustainability aspects of Debao from 1 January 2020 to 
+
+31 December 2020 unless otherwise specified. We believe that the report should sufficiently address 
+
+stakeholders’ concerns in relation to sustainability issues arising from the Group’s major business operations. 
+
+This report is prepared in accordance with the Global Reporting Initiative (GRI) Standards: Core Option as it 
+
+provides a set of an extensive framework that is widely accepted as a global standard for sustainability 
+
+reporting. It also considers the Sustainability Reporting Guide in Practice Note 7.6 of the Singapore Exchange 
+
+Securities Trading Limited (SGX-ST) Listing Manual. In preparing our report, we applied the GRI’s principles 
+
+for defining report content and report quality by considering the Group’s activities, impacts and substantive 
+
+expectations and interests of its stakeholders.  
+
+The data and information provided within the report have not been verified by an independent third party. We 
+
+have relied on internal data monitoring and verification to ensure accuracy. 
+
+1.4 Restatements 
+
+No restatements were made from the previous report. 
+
+1.5 Sustainability contact 
+
+We welcome your views and feedback on our sustainability practices and reporting at ir@fsnhdebao.com. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Our approach to sustainability 
+
+2.1 Sustainability organisational structure 
+
+Sustainability is a vital part of our corporate strategy for achieving long-term growth. The values we create for 
+
+our people, the environment and society at large very much determine our financial performance. We 
+
+developed a sustainability organisational structure to move things forward: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Leadership
+
+The Board of Directors and 
+
+CEO formulates related 
+
+strategies and guidelines. 
+
+Organisers
+
+Corporate Social 
+
+Responsibility (CSR) 
+
+Coordinator helps to 
+
+organise and coordinate the 
+
+CSR work of all departments 
+
+and subsidiaries. 
+
+Executives
+
+Assigned staff at the 
+
+subsidiaries are responsible 
+
+for the organisation and 
+
+implementation of CSR 
+
+works. 
+
+ise
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Sustainability strategy 
+
+Our sustainability strategy aims to create integrated values. Together with disciplined execution of our strategy 
+
+and a commitment to doing business responsibly, we commit to deliver value to all our stakeholders through 
+
+the following: 
+
+ 
+
+ 
+
+Green  
+
+Development 
+
+Operational  
+
+Safety 
+
+Environmental 
+
+Sustainability 
+
+Employee 
+
+Motivation 
+
+ 
+
+The sustainable strategy is underpinned by our comprehensive internal policies on the following: 
+
+• 
+
+Safety Management (安全技术管理), which covers aspects on safety culture, safety training and 
+
+development, rewards and penalties, safety inspections, incidence reporting, and emergency 
+
+response procedures in the event of safety incidents. 
+
+• 
+
+Equipment Management (设备与设施管理), which covers aspects on equipment listing, equipment 
+
+contracts, equipment safety permits, equipment operations manuals and safety labels. 
+
+• 
+
+Subcontractor Management ( 分 包 单 位 管 理 ), which covers aspects on subcontractors listing, 
+
+subcontractors jobs and responsibilities, quality of goods delivered, and subcontractor evaluations. 
+
+• 
+
+Human Resources Management ( 人 事 管 理 ), which covers aspects on employee handbook, 
+
+department-specific performance evaluations, rewards and penalties. 
+
+The strategy is also guided by external sources, including the Global Reporting Initiative Standards and 
+
+Sustainability Reporting Guide in Practice Note 7.6 of the Singapore Exchange Listing Rules. 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3 Consulting our stakeholders 
+
+We recognise the need to continuously develop our responsible business approach in order to address growing 
+
+stakeholder expectations around our impact on the economy, environment and society. As such, we 
+
+periodically consult with our stakeholders to determine the issues that are most relevant to them and Debao.  
+
+An overview of our approach and rationale is set out below (with stakeholders listed in alphabetical order), 
+
+together with the feedback we have received. 
+
+ 
+
+Stakeholders 
+
+How we listen 
+
+Why we do it 
+
+What you’ve told us 
+
+Builders and 
+
+suppliers 
+
+• 
+
+Daily project meetings 
+
+• 
+
+Periodic evaluations on 
+
+suppliers’ performance 
+
+• 
+
+Ensure construction 
+
+projects are completed on 
+
+time at a reasonable 
+
+quality and cost 
+
+• 
+
+Ability to meet Company’s 
+
+quality standards 
+
+• 
+
+Ability to meet Company’s 
+
+delivery timelines 
+
+Customers 
+
+• 
+
+Road shows 
+
+• 
+
+Feedbacks 
+
+• 
+
+Company’s website 
+
+• 
+
+Safeguard investment 
+
+value of customer 
+
+• 
+
+Ensure customer 
+
+satisfaction is upheld 
+
+• 
+
+Ensure service standard 
+
+• 
+
+Optimizing customer 
+
+service 
+
+• 
+
+Increase in investment 
+
+value of properties 
+
+Employees 
+
+• 
+
+Internal updates and 
+
+communication 
+
+• 
+
+Events and functions 
+
+• 
+
+Improve employee’s 
+
+capabilities through 
+
+internal and external 
+
+training 
+
+• 
+
+Improve employee’s well-
+
+being through managing 
+
+health and safety 
+
+• 
+
+Health and safety 
+
+• 
+
+Career progression 
+
+• 
+
+Benefits and rewards 
+
+• 
+
+External courses 
+
+Regulatory 
+
+authorities 
+
+(Governments, 
+
+SGX, MOM, 
+
+IRAS) 
+
+• 
+
+Regular updates and 
+
+communication 
+
+• 
+
+Reports and compliance 
+
+• 
+
+Periodical meetings with 
+
+government bodies 
+
+• 
+
+Adhere to environmental 
+
+regulations for chemical 
+
+production  
+
+• 
+
+Good relationship 
+
+between continuing 
+
+sponsor and Company 
+
+• 
+
+Dialogue with SGX 
+
+• 
+
+Active participation in SGX 
+
+events to increase visibility 
+
+and transparency 
+
+• 
+
+Compliance with relevant 
+
+laws and regulations 
+
+Shareholder 
+
+and investors 
+
+• 
+
+SGX Announcements 
+
+• 
+
+Shareholder’s meeting 
+
+• 
+
+Annual reports 
+
+• 
+
+Company’s website 
+
+• 
+
+Regular updates and 
+
+communication 
+
+• 
+
+Committed to delivering 
+
+economic value to our 
+
+capital providers through a 
+
+strong financial 
+
+performance and our 
+
+methods of engagement 
+
+with them. 
+
+• 
+
+Long-term profitability 
+
+• 
+
+Sustainability matters 
+
+• 
+
+Group’s performance 
+
+against targets 
+
+• 
+
+Compliance with all 
+
+relevant requirements 
+
+• 
+
+Business continuity 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.4 Sustainability materiality 
+
+Based on the stakeholder engagement, we developed our sustainability materiality matrix containing material 
+
+aspects which are aligned with our principal business and operational risks, and formed our sustainability 
+
+strategy which has shaped our approach to sustainability reporting, as illustrated in the diagram below.  
+
+We have also developed metrics to help us measure our progress, as indicated in our sustainability scorecard 
+
+in Appendix A. We will review and adjust the matrix each year, as the external and business context changes. 
+
+The aspect boundaries ‘within’ the organisation are limited to Debao and our subsidiaries, whereas the aspect 
+
+boundaries ‘outside’ the organisation include builders and suppliers, customers, employees, regulatory 
+
+authorities (Governments, SGX, MOM, IRAS), shareholder and investors. 
+
+ 
+
+
+
+  
+
+  
+
+  
+
+⚫ Green 
+
+⚫ Comprehensive 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ construction 
+
+ community 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Energy saving 
+
+ development 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ design 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Responsible 
+
+⚫ Emergency 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+supply chain 
+
+ preparedness 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Managing our 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+carbon footprint 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Energy efficiency 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Water conservation 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Skills competency 
+
+⚫ Managing 
+
+ 
+
+ 
+
+ 
+
+  
+
+ and employee 
+
+ building 
+
+  
+
+ 
+
+ 
+
+ 
+
+ training 
+
+ contractors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Performance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ appraisal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Equal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ opportunity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Encouraging 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ work-life balance  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Relevance to Debao 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Our performance 
+
+3.1 How we measure our performance 
+
+Our sustainability strategy is embedded into the appropriate parts of our business, with dedicated teams for 
+
+each focus area, and coordination by our relevant departmental managers. 
+
+Progress will be tracked in two key ways: measuring performance against metrics, and evaluating how well 
+
+the programs have advanced, through a series of ‘commitments’. 
+
+Metrics and targets 
+
+We have established key performance indicators for each of the four focus areas outlined in our sustainability 
+
+strategy. Periodically, we plan to introduce new metrics and update targets to ensure alignment with our 
+
+strategy. 
+
+Commitments 
+
+To ensure we have a robust sustainability programme in place, we have included the key commitments for 
+
+each area of our sustainability strategy. The progress we have made against each key commitment is indicated 
+
+using the symbols shown in the table below. 
+
+We track and review our sustainability programme with the Board of Directors at least once a year. 
+
+Symbols used to indicate progress against commitments 
+
+Symbol 
+
+Meaning 
+
+ 
+
+New commitment this year 
+
+ 
+
+Not started 
+
+ 
+
+In progress 
+
+ 
+
+Complete 
+
+ 
+
+Ongoing commitment: no end date 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2 Green development 
+
+Overview 
+
+Since 2000, Debao has been an integrated property 
+
+developer of quality integrated residential properties and 
+
+commercial properties in the PRC. In 2012, we further 
+
+expanded our operations to Malaysia. 
+
+We recognise that “green development” has become a 
+
+common pursuit of our people, and we too, have started to 
+
+integrate this aspect into our projects from commencement 
+
+to completion. Our vertically integrated business model and 
+
+operations allows us to embed green practices into key 
+
+aspects 
+
+of 
+
+property 
+
+development, 
+
+from 
+
+design, 
+
+construction and marketing to managing the developments 
+
+after completion. 
+
+Comprehensive community development 
+
+We adhere to the mindset and practice of “green and eco-friendly 
+
+development” throughout the lifecycle of a project and advocate “green 
+
+office” among the employees to economise on the resources, abate 
+
+pollution and reduce CO2 emission to the greatest extent, so as to 
+
+contribute more to a bluer sky and cleaner water. 
+
+Over the years, we are involved in a number of integrated 
+
+developments comprising both residential and commercial units, 
+
+including Sihui Project, Jiangnan Mingju and Jin Long Garden. Most 
+
+major amenities, shopping and entertainment are within walking 
+
+distance. This encourages an active lifestyle amongst the residents, 
+
+boosts work life balance, reduces vehicular fuel consumption, and 
+
+enables people to enjoy a higher standard of living. 
+
+In FY2020, the total GFA for all development properties of the Group 
+
+(since 2000), comprising completed properties and properties under 
+
+development, stands at 1.57 million m2. During the year, the Group 
+
+disposed their equity interest in Poly Ritz Green (Malaysia) Sdn. Bhd. 
+
+(PRG). Following the disposal, the Group also ceased to have any equity 
+
+interest in the Kuchai Lama Project under PRG. Please refer to the list 
+
+our property developments to date (since 2000) in Appendix A. 
+
+We will continue to track and monitor the GFA for all development 
+
+properties of the Group and report the progress every year.  
+
+ 
+
+ 
+
+FY2020 Performance 
+
+14 
+
+Completed property 
+
+developments (since 2000) 
+
+1.28m 
+
+GFA for completed properties 
+
+(since 2000) (in square 
+
+metres) 
+
+0.29m 
+
+GFA for properties under 
+
+construction (in square 
+
+metres) 
+
+0 
+
+Regulatory incidents 
+
+70% 
+
+Purchases from local suppliers 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Green construction 
+
+We have extended the connotation of green properties, and followed the idea of environmental protection 
+
+throughout the whole process of construction. Together with our partners, we have made in-depth research 
+
+over a rational construction site layout, and continuously enhanced on-site management to create a clean, 
+
+tidy, comfortable and safe construction environment. 
+
+We have made explicit provisions over noise, exhaust gas, sewage and solid wastes generated in everyday 
+
+life and production. We have also taken protective measures over soil and natural resources and minimised 
+
+the influences of dusts and construction wastes on the communities and residents in strict compliance with 
+
+national and municipal regulations. 
+
+ 
+
+Noise management 
+
+• 
+
+Setting reasonable construction timetable according to the noise limits at different 
+
+stages. 
+
+• 
+
+Vigorously promoting new noise-reduction and vibration-damping technologies to 
+
+abate noise during pile foundation engineering, etc. 
+
+• 
+
+Taking proper measures to reduce the noises generated by mixers and other noisy 
+
+machineries. 
+
+ 
+
+Dust and airborne contaminants management 
+
+• 
+
+Sprinkling water to lay the dust during dust-prone operations, loading/unloading 
+
+and transportation. 
+
+• 
+
+Properly storing and covering any granular materials that are easy to ascend into 
+
+the air; and cutting materials in the shed with proper dust-control measures. 
+
+• 
+
+Do not burn any substances that may produce harmful or poisonous gas, smoke 
+
+or dust at the construction sites. 
+
+ 
+
+Sewage management 
+
+• 
+
+Finishing the installation of drainage and sewage treatment facilities before the 
+
+commencement of construction, to ensure up-to-standard water discharge, no 
+
+accumulated water on site, and no overflow or blockage during drainage. 
+
+• 
+
+Recycling processed construction sewage 
+
+ 
+
+Construction waste management 
+
+• 
+
+Taking proper measure to minimise solid wastes, such as centralised mortar 
+
+mixing and reduced use of bagged cements. 
+
+• 
+
+Disposing construction and domestic wastes in strict compliance with the 
+
+government requirements 
+
+In FY2020, the Group was not in violation of any of the relevant construction laws and regulations in the 
+
+countries that we operate in, that have a significant impact on the Group. As part of our strategy, we seek to 
+
+continue to be fully compliant with relevant construction laws and regulations in the countries that we operate 
+
+in, that have a significant impact on the Group. 
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Energy saving design 
+
+Project conceptualisation is carried out in the initial phase for property development. This may be carried out 
+
+in-house by the Group, or outsourced to professional consultants, such as architects, interior designers, 
+
+surveyors or engineers (mechanical, electrical, civil and structure). In our recent projects, we have incorporated 
+
+energy saving designs into our building plans. We will also regularly invest in enhancing the environmental 
+
+performance of our portfolio. 
+
+To improve electrical efficiency, various energy saving practices have been implemented in the residential and 
+
+commercial properties managed by the Group.  
+
+For example, we ensure that all air-conditioning units used in our projects comply to the energy efficiency 
+
+equivalent to 3-ticks of the BCA Greenmark. Hence, these units consume less electricity and are more 
+
+environmentally-friendly. 
+
+Going forward, we seek to align ourselves with international standards and best practices in green building 
+
+design and construction by committing to obtain green building certification (e.g. LEED certification program) 
+
+for our new properties.  
+
+These green building certification programs will provide us with external assurance on the measures we have 
+
+incorporated to improve the environmental performance of our buildings. We will continue to review our 
+
+strategy in pursuing green building certifications to keep our competitive edge, and contribute to raising 
+
+industry standards for green building design and construction over the long term. 
+
+Responsible supply chain 
+
+We have constantly improved the procurement management and bidding system, maintained good partnership 
+
+with our suppliers and subcontractors, and further deepened strategic cooperation with outstanding partners 
+
+for the sake of shared development under a rigorous supplier evaluation system, thus boosting the overall 
+
+capacity of the supply chain. 
+
+We have consistently followed the ideology of honest procurement and safeguarded the fundamental rights 
+
+and interests of suppliers in a fair, just and open manner.  
+
+We believe that a secure and stable local supply chain that meets our sustainability needs is very important to 
+
+ensure the smooth and uninterrupted operation of our operating activities. 
+
+In FY2020, 70% of our purchases are sourced from local suppliers, representing a slight decrease from the 
+
+previous year due to lower operations volume and different purchasing mix. As part of our strategy, we have 
+
+committed to source at least 70% of our purchases locally. 
+
+Commitments: Green development 
+
+Track and report the GFA 
+
+for all development 
+
+properties of the Group 
+
+(since 2000) 
+
+GFA for all development properties of the 
+
+Group (m2) 
+
+ 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• There are 14 completed properties to 
+
+date (since 2000) and 2 properties under 
+
+development. 
+
+• During the year, the Group disposed 
+
+their equity interest in PRG, which 
+
+manages the Kuchai Lama Project. 
+
+ 
+
+Full compliance with 
+
+relevant construction laws 
+
+and regulations in the 
+
+countries that we operate 
+
+in 
+
+Achievements 
+
+• Fully compliant with relevant construction 
+
+laws and regulations in the countries that 
+
+we operate in 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• The Group was not in violation of any of 
+
+the relevant construction laws and 
+
+regulations in the countries that we 
+
+operate in, that have a significant impact 
+
+on the Group.  
+
+ 
+
+ 
+
+Source at least 70% of our 
+
+purchases locally 
+
+Purchases sourced locally (%) 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• 70% of our purchases are sourced from 
+
+local suppliers, representing a slight 
+
+increase from the previous year due to 
+
+lower operations volume and different 
+
+purchasing mix. 
+
+ 
+
+ 
+
+1.28
+
+1.28
+
+1.28
+
+1.20
+
+0.51
+
+0.29
+
+69
+
+65
+
+70
+
+2020 
+
+2018 
+
+2020 
+
+2019 
+
+
+
+
+
+2017 
+
+2018 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.3 Operational safety 
+
+Overview 
+
+Safety is of paramount importance to us, and we have 
+
+always stressed the importance of production safety in all 
+
+our operations, especially when we deal with our building 
+
+contractors. 
+
+Managing building contractors 
+
+Construction site safety is a top priority for the Group. Our major 
+
+construction projects are located in China and Malaysia. We 
+
+institutionalised our construction safety management with the following 
+
+objectives: 
+
+• 
+
+To ensure contractor compliance with the relevant safety 
+
+regulations; 
+
+• 
+
+To establish an effective communication platform that helps 
+
+enhance the overall awareness of our staff and contractors of 
+
+how to deal with safety concerns; 
+
+• 
+
+To build up the knowledge and capacity of site workers on how 
+
+to carry out their work in a safe fashion; and 
+
+• 
+
+To minimise site injuries and to achieve zero fatalities. 
+
+The Group has developed a comprehensive set of guidelines and 
+
+operating procedures to enhance overall safety performance at our 
+
+project sites. In particular, our Safety Management Policy and 
+
+Equipment Management Policy clearly articulate our specific safety 
+
+requirements and emergency protocols for different work tasks.  
+
+While the Project Department acts as a coordinator for all matters 
+
+related to construction safety, the Group has delegated specific 
+
+responsibilities to different parties, to facilitate the incorporation of 
+
+safety considerations and manage the potential safety hazards from 
+
+multiple perspectives at different stages of a construction project. We 
+
+have also hired dedicated consultants that specialise in construction 
+
+site health and safety for our key projects in China and Malaysia. We 
+
+regard this action as an extra line of defence. 
+
+In FY2020, we continued our track record of zero fatalities and 
+
+accidents, and have committed to maintain this trend in future years. 
+
+We commit to ensure the safety of our employees, those who work with 
+
+us and anyone affected by our works as our number one priority. 
+
+ 
+
+FY2020 Performance 
+
+0 
+
+Fatalities 
+
+0 
+
+Serious accidents 
+
+0 
+
+Accidents per 100,000  
+
+man-hours 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emergency preparedness 
+
+While we emphasise on preventing safety incidents, we also prepare the employees to handle and respond to 
+
+emergencies, including potential accidents and fire. This is very important to reduce and limit the impact and 
+
+casualty as a result of the any safety incidents that may happen in our line of work. Emergency response 
+
+procedures is an important part of our Safety Management Policy. 
+
+In addition, we have in place a series of emergency response procedures for our property management division 
+
+for the following: 
+
+• 
+
+Fire 
+
+• 
+
+Flood 
+
+• 
+
+Torrential rain 
+
+• 
+
+Typhoon preparation 
+
+• 
+
+Power outage 
+
+• 
+
+Elevator failure 
+
+• 
+
+Gas leakage 
+
+• 
+
+Burglary 
+
+• 
+
+Fights or violence 
+
+• 
+
+Demonstrations or riots 
+
+• 
+
+Bomb disposal 
+
+ 
+
+COVID-19 Pandemic 
+
+The outbreak of the COVID-19 pandemic in FY2020 has had a significant impact on lifestyles, businesses and 
+
+communities globally. Our property assets are situated in the PRC and Malaysia, mainly comprising integrated 
+
+commercial and residential developments. As such, we have also been significantly impacted by the outbreak 
+
+of the COVID-19 pandemic, which had affected market sentiment in the real estate industry during the first 
+
+quarter of FY2020. 
+
+A summary of the impact of COVID-19 on our businesses and our preventive measures are as follows: 
+
+ 
+
+China: Impact of COVID-19 
+
+• 
+
+Authorities have responded swiftly with containment and precautionary 
+
+measures, largely limiting the impact of COVID-19 to the first half of 2020.  
+
+• 
+
+Construction on the Bay ONE project has since largely returned to normal, with 
+
+enhanced precautionary measures like monitoring workers health and 
+
+temperature daily and periodical checking by local authorities.  
+
+• 
+
+However, occupancy of the Tianjin Boulevard project has been affected due to 
+
+impact of the pandemic on the entertainment and restaurant industries. 
+
+China: Preventive Measures and Ongoing Improvements 
+
+• 
+
+Temperature screening of all personnel entering the company premises. 
+
+• 
+
+Employees who had visited medium or high-risk areas, or suspected infected 
+
+areas, as advised by the State Council of the PRC, are to be subjected to 14-
+
+days self-quarantine before they can come back to office. 
+
+• 
+
+Currently working with Internet service provider to upgrade Internet bandwidth to 
+
+leased line to improve telecommunication links with the Singapore Head Office. 
+
+ 
+
+Malaysia: Impact of COVID-19 
+
+• 
+
+Continued MCO restrictions imposed has further affected the construction 
+
+progress of the Imbi Project in Kuala Lumpur. As such, the Imbi Project is 
+
+currently on hold with an expected completion date in 2026 as the Group focuses 
+
+its efforts to complete the Bay ONE project first. 
+
+Malaysia: Preventive Measures 
+
+• 
+
+Office employees to work from home due to continued MCO restrictions. All 
+
+approval processes have been placed online using corporate WeChat. 
+
+• 
+
+Relocation of all PRC staffs in Malaysia back to Foshan, China. 
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In response to the COVID-19 pandemic, we will continue to take all necessary measures to ensure the safety 
+
+and well-being of our personnel and to mitigate the economic fallout of this existential health treat, travel curbs, 
+
+quarantines, lockdowns and compulsory business shutdowns. This includes the implementation of business 
+
+continuity plans, enhancement of online activities and austerity measures. 
+
+In demonstrating our solidarity to join the authorities' efforts to control the pace of the spread of COVID-19, we 
+
+vigilantly complied with the government's measures in PRC and Malaysia, including stepping up of social 
+
+distancing and personal hygiene in the PRC and stopping on-site construction works at the Imbi Project in 
+
+Malaysia. We will monitor the local situation and will put in place the above practices and any additional controls 
+
+as required by the local governments (e.g. quarantine measures, stop work orders) where applicable.  
+
+As the current COVID-19 situation continues to develop, we shall keep a close eye on our operations, and 
+
+announce any material changes to our business performance to shareholders timely, as and when appropriate. 
+
+Commitments: Operational safety 
+
+Achieve zero fatalities and 
+
+accidents 
+
+Achievements 
+
+• Achieved zero fatalities and accidents. 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• The Group continued our track record of 
+
+zero fatalities and accidents. 
+
+• We commit to ensure the safety of our 
+
+employees, those who work with us and 
+
+anyone affected by our works as our 
+
+number one priority. 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4 Environmental sustainability 
+
+Overview 
+
+We are committed to constructing and managing world-
+
+class sustainable buildings that add tangible value to the 
+
+communities we serve and to operate and maintain those 
+
+buildings with a strong emphasis on the triple bottom line 
+
+of economy, environment and society. 
+
+Managing our carbon footprint 
+
+We are committed to positive action on climate change and dedicated 
+
+to reducing the carbon emission in our daily operations. Employees are 
+
+also reminded to save electricity and fuel consumption through regular 
+
+internal communications.  
+
+To determine the carbon footprint, we collect energy usage data from 
+
+each our businesses and then calculate our total annual greenhouse 
+
+gas emissions.  
+
+In FY2020, Debao generated a total carbon footprint of 5,578 tonnes 
+
+of carbon dioxide emission (tCO2e). The emission mainly arises from 
+
+purchased electricity used in our properties which accounted for more 
+
+than 97% of the total carbon emission of Debao. 
+
+ 
+
+The total carbon footprint increased 19% from the previous year due to 
+
+increased electricity consumption in the properties managed by the 
+
+Group. 
+
+There have been continuous efforts to optimise eco-efficiency in our 
+
+building operations, resulting in a slightly lower electricity usage in the 
+
+current year. For example, we are replacing old, less efficient lighting 
+
+fixtures with modern, more energy efficient ones. 
+
+ 
+
+FY2020 Performance 
+
+5,578tCO2e 
+
+Total carbon footprint 
+
+399m3 
+
+Total water consumption 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We follow the Greenhouse Gas Protocol established by the World Resources Institute and the World Business 
+
+Council for Sustainable Development, the standard manual for measuring corporate greenhouse gas 
+
+emissions. Using the “control method”, we include 100% of the emissions associated with businesses which 
+
+we directly control. Our carbon footprint includes:  
+
+• 
+
+All fuels used directly by our companies (Scope 1 emissions) 
+
+• 
+
+All purchased electricity used in our properties (Scope 2 emissions) 
+
+• 
+
+Impact of business air travel (optional Scope 3 emissions) 
+
+As part of our strategy, we are committed to reduce our total carbon footprint by 10% (from a FY2020 baseline) 
+
+by FY2025, through our commitment to energy efficiency in our buildings and our construction activities. 
+
+Energy efficiency 
+
+Buildings are energy-intensive structures and electricity often constitutes a significant proportion of operating 
+
+expenses. By investing in energy efficiency, we not only help protect the environment but can also lower our financial 
+
+costs. To enhance our existing assets, we have allocated considerable resources to the refurbishment of existing 
+
+properties. Initiatives over the past years include replacing conventional light bulbs with LED light bulbs.  
+
+Water conservation 
+
+Water scarcity is a growing concern around the world and a serious global challenge that we must work 
+
+together to address. In FY2020, Debao recorded a water consumption of 399 m3, representing an increase of 
+
+36% from the previous year. We will continue to step up efforts to reduce water consumption at our properties, 
+
+including installing water-efficient fittings and raising awareness of water scarcity issues among our 
+
+employees, tenants, customers, and communities.  
+
+We will continue to monitor our performance on reduction of total water consumption and report the progress 
+
+every year. 
+
+Commitments: Environmental sustainability 
+
+Track and report the total 
+
+carbon footprint 
+
+Total carbon footprint (tCO2e) 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• We recorded a total carbon footprint of 
+
+5,578 tCO2e. The emission mainly arises 
+
+from electricity consumption which 
+
+accounted for more than 97% of the total 
+
+carbon emission of Debao. 
+
+• The total carbon footprint increased from 
+
+the previous year due to increased 
+
+electricity consumption in the properties 
+
+constructed and managed by the Group. 
+
+• There have been continuous efforts to 
+
+optimise eco-efficiency in our building 
+
+operations, including replacing conven-
+
+tional light bulbs with LED light bulbs  
+
+• We are committed to reduce our total 
+
+carbon footprint by 10% (from a FY2020 
+
+baseline) by FY2025, through our 
+
+commitment to energy efficiency in our 
+
+buildings and our construction activities. 
+
+ 
+
+ 
+
+Track and report the total 
+
+water consumption 
+
+Total water consumption (m3) 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• We recorded total water consumption 
+
+399 m3, representing an increase of 36% 
+
+from the previous year. 
+
+• We will continue to step up efforts to 
+
+reduce water consumption at our 
+
+properties, including installing water-
+
+efficient fittings and raising awareness of 
+
+water scarcity issues among our 
+
+employees, tenants, customers, and 
+
+communities 
+
+ 
+
+ 
+
+4,689
+
+4,708
+
+5,578
+
+279
+
+293
+
+399
+
+2020 
+
+2019 
+
+2020 
+
+2019 
+
+
+
+
+
+2018 
+
+2018 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.5 Employee motivation 
+
+Overview 
+
+We have a comprehensive performance appraisal 
+
+programme and rewards system based on the result of the 
+
+appraisal. The performance appraisal programme is 
+
+essential for us to understand the skills level of the 
+
+employees and appropriate training programmes can be 
+
+designed to fill up the skill gaps.  
+
+We emphasise on the career path and progression of our 
+
+employees, and have built several two-way communication 
+
+channels to ensure the career development needs of our 
+
+employees are taken into consideration whenever it is 
+
+possible. Training opportunities are equal to all employees 
+
+based on needs identified. 
+
+Though these efforts, we are well-positioned to provide a 
+
+constructive working experience to our employees and 
+
+contribute to the economic development and skilled labour 
+
+resources of the local community. 
+
+Skills competency and employee training 
+
+To ensure that our employee excel, we emphasise on continuous 
+
+learning in the workplace. Every employee has equal opportunities to 
+
+upgrade and sharpen their skill sets through formal and on-the-job 
+
+internal training programs. 
+
+In FY2020, Debao invested an average of 17.6 hours of training on 
+
+each employee, representing a 49% increase from the previous year. 
+
+The increase is due to increased efforts by the Company to ensure 
+
+employee’s skill competency. 
+
+As part of our strategy, Debao has committed to achieve a minimum of 
+
+10 hours of training per employee on an ongoing basis. 
+
+Performance appraisal  
+
+To ensure the Company achieves its goals, we have various 
+
+performance appraisal methods in place to determine the performance 
+
+of the Company as well as each individual employee.  
+
+The employee performance appraisal comprises mainly quantifiable 
+
+evaluation criteria. In addition, we actively collects performance 
+
+information for each employee each month through inputs from direct 
+
+supervisors and feedbacks, as well as periodical employee 
+
+communication sessions.  
+
+These collected information allow us to understand the performance 
+
+and skills development needs of each team and individual employee 
+
+from multiple aspects. This is crucial for the Company to develop 
+
+annual training programs for employee that are designed to enhance 
+
+the skills of the employee and aims to improve the overall productivity.  
+
+In FY2020, all of our employees are at least subject to an annual 
+
+performance appraisal by their superiors. We seek to continue this 
+
+practice in the coming year. 
+
+ 
+
+FY2020 Performance 
+
+17.6 
+
+Training hours per staff 
+
+100% 
+
+Employees subject to regular 
+
+performance appraisal 
+
+37% 
+
+Female representation in 
+
+workforce 
+
+35% 
+
+Female representation in 
+
+management 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equal opportunity 
+
+Debao has always been an equal opportunity employer to provide a fair workplace for employees, following 
+
+the principles of equality and non-discrimination. Recruitment, remuneration, promotion, and benefits are 
+
+required to be handled based on objective assessment, equal opportunity and non-discrimination regardless 
+
+of gender, race, marital status, pregnancy, disability, age or family status.  
+
+We attract talent through fair, and flexible recruitment strategy that includes recruitment application, job 
+
+description, job applications, interview, selection, approval, and job offer. Promotion is based on performance 
+
+and suitability.  
+
+We offer competitive remuneration to attract and retain talented staff members. Remuneration packages 
+
+(which include the necessary social benefits) are reviewed periodically to ensure consistency with employment 
+
+market. Dismissal also complies with employment laws and regulations relating to non-discrimination. 
+
+In FY2020, female employees comprise 37% of our entire workforce, with female representation in 
+
+management at 35%. We will continue to track and monitor female representation in our workforce and report 
+
+these statistics every year. 
+
+Encouraging work-life balance  
+
+We organised a variety of employee activities to help them relax their mind and body, develop teamwork, 
+
+explore their talent, so as to develop a positive attitude in both work and life.  
+
+To enhance employee teamwork and cohesion, improve employee health and improve employee work-life 
+
+balance, Debao has been organising periodic employee gatherings during major festivals and sports 
+
+competitions. 
+
+Commitments: Employee motivation 
+
+Achieve minimum of 10 
+
+hours of training per 
+
+employee 
+
+Training hours per employee (Hours) 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• Debao invested an average of 17.6 
+
+hours of training on each employee, 
+
+representing a 49% increase from the 
+
+previous year.  
+
+• The increase is due to increased efforts 
+
+by the Company to ensure employee’s 
+
+skill competency. 
+
+ 
+
+ 
+
+All employees are at least 
+
+subject to an annual 
+
+performance appraisal by 
+
+their superiors 
+
+Achievements 
+
+• All employees are at least subject to an 
+
+annual performance appraisal by their 
+
+superiors. 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• All employees are at least subject to an 
+
+annual performance appraisal by their 
+
+superiors. 
+
+ 
+
+ 
+
+Track and monitor female 
+
+representation in 
+
+workforce 
+
+Female representation in workforce (%) 
+
+ 
+
+Female representation in management (%) 
+
+ 
+
+ 
+
+FY2020 progress 
+
+ 
+
+• Female employees comprise 37% of our 
+
+entire workforce, with female represent-
+
+tation in management at 35%. 
+
+• Debao has always been an equal 
+
+opportunity employer to provide a fair 
+
+workplace for employees, following the 
+
+principles of equality and non-
+
+discrimination. We will continue this 
+
+practice in future years. 
+
+ 
+
+ 
+
+10.7
+
+11.8
+
+17.6
+
+36
+
+36
+
+37
+
+37
+
+21
+
+35
+
+2020 
+
+2019 
+
+
+
+
+
+
+
+2018 
+
+2020 
+
+2019 
+
+2018 
+
+2020 
+
+2019 
+
+2018 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A: Corporate milestones 
+
+2020 and beyond 
+
+Project name  
+
+(Expected date of completion) 
+
+GFA (m2) 
+
+Location 
+
+Type of development 
+
+Bay ONE (Additional Sihui 
+
+Project) (2021) 
+
+100,000 
+
+Zhaoqing 
+
+Large-scale integrated development 
+
+The Landmark (Imbi Project) 
+
+(2026) 
+
+194,000 
+
+Kuala Lumpur 
+
+Integrated development 
+
+Total 
+
+294,000 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Year 
+
+Project name 
+
+GFA (m2) 
+
+Location 
+
+Type of development 
+
+2019 
+
+Tianjin Boulevard 
+
+42,000 
+
+Tianjin 
+
+Redevelopment of leased 
+
+heritage building for 
+
+commercial and leisure mall 
+
+2016 
+
+Sihui Project Block B&amp;C 
+
+97,000 
+
+Zhaoqing 
+
+Large-scale integrated 
+
+development 
+
+2015 
+
+Shanshui Longpan Phase 3(i) 
+
+High-rise Flats No.1 to 6 and 
+
+Club 
+
+50,000 
+
+Foshan 
+
+Part of multi-phases large-
+
+scale integrated township 
+
+development 
+
+2014 
+
+Sihui Project Block A Sihui City 
+
+Mall 
+
+65,000 
+
+Zhaoqing 
+
+Large-scale integrated 
+
+development 
+
+2012 
+
+Shanshui Longpan Phase 1(ii) 
+
+Villas 
+
+36,000 
+
+Foshan 
+
+Part of multi-phases large-
+
+scale integrated township 
+
+development 
+
+2012 
+
+Jin Long Garden South Zone 
+
+(Joint Venture Project) 
+
+83,000 
+
+Foshan 
+
+Multi-phases integrated 
+
+development 
+
+2011 
+
+Shanshui Longpan Phase 1 
+
+Villas 
+
+61,000 
+
+Foshan 
+
+Part of multi-phases large-
+
+scale integrated township 
+
+development 
+
+2010 
+
+Jiangnan Mingju Phases 5 and 6 
+
+165,000 
+
+Foshan 
+
+Multi-phases integrated 
+
+development 
+
+2009 
+
+Jin Long Garden North Zone 
+
+(Joint Venture Project) 
+
+45,000 
+
+Foshan 
+
+Multi-phases integrated 
+
+development 
+
+2007 
+
+Jiangnan Mingju Phases 1 to 4 
+
+350,000 
+
+Foshan 
+
+Multi-phases integrated 
+
+development 
+
+2004 
+
+Qing Hua Garden (Joint Venture 
+
+Project) 
+
+78,000 
+
+Foshan 
+
+Integrated development 
+
+2002 
+
+Guicheng Industrial Park 
+
+48,000 
+
+Foshan 
+
+Integrated development 
+
+2000 
+
+Debao Garden  
+
+(Project by our predecessors) 
+
+68,000 
+
+Foshan 
+
+Integrated development 
+
+2000 
+
+Xinliwan Garden  
+
+(Project by our predecessors) 
+
+91,000 
+
+Foshan 
+
+Integrated development 
+
+ 
+
+Total 
+
+1,279,000 
+
+ 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix B: Sustainability scorecard 
+
+Results 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Revenue 
+
+¥’million 
+
+172 
+
+124 
+
+350 
+
+Green development 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Completed property developments (since 2000) 
+
+Number 
+
+14 
+
+14 
+
+14 
+
+Gross floor area for completed properties (since 
+
+2000) 
+
+‘000 m2 
+
+1,279 
+
+1,279 
+
+1,279 
+
+Gross floor area for properties under 
+
+construction 
+
+‘000 m2 
+
+1,200 
+
+515 
+
+294 
+
+Total gross floor area for all development 
+
+properties (since 2000) 
+
+‘000 m2 
+
+2,479 
+
+1,794 
+
+1,573 
+
+Regulatory incidents 
+
+Number 
+
+0 
+
+0 
+
+0 
+
+Purchases from local suppliers 
+
+Percentage 
+
+69 
+
+65 
+
+70 
+
+Operational safety 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Fatalities 
+
+Number 
+
+0 
+
+0 
+
+0 
+
+Serious accidents 
+
+Number 
+
+0 
+
+0 
+
+0 
+
+Accidents per 100,000 man-hours 
+
+Number 
+
+0 
+
+0 
+
+0 
+
+Environmental sustainability 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+F&amp;2019 
+
+FY2020 
+
+Total carbon footprint 
+
+tCO2e 
+
+4,689 
+
+4,708 
+
+5,578 
+
+Total water consumption 
+
+m3 
+
+279 
+
+293 
+
+399 
+
+Employee motivation 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+FY2020 
+
+Training hours per staff 
+
+Hours 
+
+10.7 
+
+11.8 
+
+17.6 
+
+Employees subject to regular performance 
+
+appraisal 
+
+Percentage 
+
+100 
+
+100 
+
+100 
+
+Female representation in workforce 
+
+Percentage 
+
+36 
+
+36 
+
+37 
+
+Female representation in management 
+
+Percentage 
+
+37 
+
+21 
+
+35 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix C: GRI content index 
+
+GRI Standards Content Index 
+
+The GRI Content Index references the Debao Property Development Ltd Sustainability Report 2020 (SR), 
+
+and the Annual Report 2019 (AR). 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+GRI 102: General disclosures 
+
+Organisational profile 
+
+102-1 
+
+Name of organisation 
+
+• AR: Corporate Profile (Page 1) 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+• AR: Corporate Profile (Page 1) 
+
+102-3 
+
+Location of headquarters 
+
+• AR: Corporate Profile (Page 1) 
+
+102-4 
+
+Location of operations 
+
+• AR: Corporate Profile (Page 1) 
+
+• AR: Investments in Subsidiary Corporations – Note 
+
+22 to the Financial Statements (Pages 81-85) 
+
+• AR: Investments in Associated Companies – Note 
+
+23 to the Financial Statements (Page 86) 
+
+• AR: Investment in a Joint Venture – Note 24 to the 
+
+Financial Statements (Pages 86-87) 
+
+102-5 
+
+Ownership and legal form 
+
+• AR: General Information – Note 1 to the Financial 
+
+Statements (Page 44) 
+
+102-6 
+
+Markets served 
+
+• AR: Segment Information – Note 40 to the 
+
+Financial Statements (Pages 110-112) 
+
+102-7 
+
+Scale of organisation 
+
+• AR: Corporate Profile (Page 1) 
+
+• AR: Segment Information – Note 40 to the 
+
+Financial Statements (Pages 110-112) 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+102-9 
+
+Supply chain 
+
+• SR: Green Development (Pages 9-11) 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+• AR: Corporate Profile (Page 1) 
+
+• AR: Our Properties (Pages 2-3) 
+
+• AR: Corporate Milestones (Page 4) 
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-12 
+
+External initiatives 
+
+• Not applicable 
+
+102-13 
+
+Membership of associations 
+
+• Not applicable 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+• AR: Letter to Shareholders (Pages 6-9) 
+
+102-15 
+
+Key impacts, risks, and 
+
+opportunities 
+
+• AR: Independent Auditor’s Report (Pages 33-36) 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behavior 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-17 
+
+Mechanisms for advice and 
+
+concerns about ethics 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-19 
+
+Delegating authority 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-20 
+
+Executive-level responsibility 
+
+for economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Organisational Structure (Page 4) 
+
+102-21 
+
+Consulting stakeholders on 
+
+economic, environmental, 
+
+and social topics 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-23 
+
+Chair of the highest 
+
+governance body 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-24 
+
+Nominating and selecting 
+
+the highest governance 
+
+body 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-25 
+
+Conflicts of interest 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+• AR: Directors’ Statement (Pages 30-32) 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-26 
+
+Role of highest governance 
+
+body in setting purpose, 
+
+values, and strategy 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-27 
+
+Collective knowledge of 
+
+highest governance body 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-28 
+
+Evaluating the highest 
+
+governance body’s 
+
+performance 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-29 
+
+Identifying and managing 
+
+economic, environmental, 
+
+and social impacts 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-30 
+
+Effectiveness of risk 
+
+management processes 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-31 
+
+Review of economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Report (Pages 1-25) 
+
+102-32 
+
+Highest governance body’s 
+
+role in sustainability reporting 
+
+• SR: Sustainability Organisational Structure (Page 4) 
+
+102-33 
+
+Communicating critical 
+
+concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-34 
+
+Nature and total number of 
+
+critical concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-35 
+
+Remuneration policies 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-36 
+
+Process for determining 
+
+remuneration 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-37 
+
+Stakeholders’ involvement in 
+
+remuneration 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-38 
+
+Annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+102-39 
+
+Percentage increase in 
+
+annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 13-29) 
+
+Stakeholder 
+
+engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+• Not applicable 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+• AR: Investments in Subsidiary Corporations – Note 
+
+22 to the Financial Statements (Pages 81-85) 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-47 
+
+List of material topics 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-48 
+
+Restatements of information 
+
+• SR: Restatements (Page 3) 
+
+102-49 
+
+Changes in reporting 
+
+• Not applicable 
+
+102-50 
+
+Reporting period 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-51 
+
+Date of most recent report 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-52 
+
+Reporting cycle 
+
+• Annual 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+• SR: Sustainability Contact (Page 3) 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-55 
+
+GRI content index 
+
+• SR: GRI Content Index (Pages 22-25) 
+
+102-56 
+
+External assurance 
+
+• No external assurance 
+
+GRI 200: Economic disclosures (applicable sections only) 
+
+Economic performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+• AR: Financial Highlights (Page 5) 
+
+Procurement practices 
+
+204-1 
+
+Proportion of spending on 
+
+local suppliers 
+
+• SR: Green Development (Pages 9-11) 
+
+Anti-corruption 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions taken 
+
+• There is no incidences of corruption. 
+
+Anti-competitive 
+
+behavior 
+
+206-1 
+
+Legal actions for anti-
+
+competitive behavior, anti-
+
+trust, and monopoly 
+
+practices 
+
+• There is no legal actions for anti-competition. 
+
+GRI 300: Environment disclosures (applicable sections only) 
+
+Energy 
+
+302-1 
+
+Energy consumption within 
+
+the organisation 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+302-4 
+
+Reduction of energy 
+
+consumption 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+Water 
+
+303-1 
+
+Water withdrawal by source 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+Emissions 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+emissions 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+305-3 
+
+Other indirect (Scope 3) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Pages 15-16) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+Laws and regulations 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+• There is no non-compliance with environmental 
+
+laws and regulations. 
+
+GRI 400: Social disclosures (applicable sections only) 
+
+Employment 
+
+401-2 
+
+Benefits provided to full-time 
+
+employees that are not 
+
+provided to temporary or 
+
+part-time employees 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+Occupational health 
+
+and safety 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number of 
+
+work-related fatalities 
+
+• SR: Operational Safety (Pages 12-14) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+
+Sustainability Report for the year ended 31 December 2020 
+
+Debao Property Development Ltd | 25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+Training and education 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+404-2 
+
+Programs for upgrading 
+
+employee skills and 
+
+transition assistance 
+
+programs 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular 
+
+performance and career 
+
+development reviews 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+Diversity and equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance 
+
+bodies and employees 
+
+• SR: Employee Motivation (Pages 17-18) 
+
+• SR: Sustainability Scorecard (Page 21) 
+
+Non-discrimination 
+
+406-1 
+
+Incidents of discrimination 
+
+and corrective actions taken 
+
+• There is no incidents of discrimination. 
+
+Child labor 
+
+408-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of child labor 
+
+• Child labour is strictly prohibited. 
+
+Forced or compulsory 
+
+labor 
+
+409-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of forced or compulsory 
+
+labor 
+
+• Forced and compulsory labour is strictly prohibited. 
+
+Socioeconomic 
+
+compliance 
+
+419-1 
+
+Non-compliance with laws 
+
+and regulations in the social 
+
+and economic area 
+
+• There is no non-compliance with socioeconomic 
+
+laws and regulations. 
+
+ 
+

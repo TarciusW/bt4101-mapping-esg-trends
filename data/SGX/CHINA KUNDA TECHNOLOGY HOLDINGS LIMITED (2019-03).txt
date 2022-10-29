@@ -1,0 +1,2640 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Solid Foundation
+
+SuStainability report 2019
+
+Building on
+
+
+C
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+table of Contents
+
+01
+
+about the Report
+
+01
+
+    Reporting Scope
+
+01
+
+    Contact Us
+
+02
+
+board Statement
+
+03
+
+Corporate Profile
+
+03
+
+    overview of China Kunda
+
+04
+
+    ethics and Integrity
+
+05
+
+    Supply Chain
+
+06
+
+    Geographical location 
+
+06
+
+    our People
+
+08
+
+    Key Highlights in fY2019
+
+09
+
+Sustainability Strategy and approach
+
+09
+
+    Sustainability Governance
+
+10
+
+    Stakeholder engagement
+
+11
+
+    Materiality assessment
+
+13
+
+Governance
+
+13
+
+    Regulatory Compliance
+
+16
+
+economic
+
+16
+
+    Innovation and R&amp;D
+
+19
+
+environment
+
+19
+
+    Material Use
+
+21
+
+Social
+
+21
+
+    training and advancement
+
+25
+
+GRI Content Index
+
+
+
+
+
+
+
+
+
+
+1
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+aboUt tHe RePoRt
+
+this is the second Sustainability Report (SR2019) from China Kunda technology Holdings limited (“China 
+
+Kunda”) and it is prepared in accordance with Singapore exchange Securities trading limited (the “SGX-
+
+St”) listing Manual Section b: Rules of Catalist listing Rule 711(b) and Global Reporting Initiatives 
+
+(“GRI”) 2016 Standards: ‘Core’ option. this report discloses strategy, management approach and 
+
+performance with respect to China Kunda’s economic, environmental, Social and Governance (“eeSG”) 
+
+matters in line with SGX’s requirements.
+
+Reporting scope
+
+this report covers data, statistics, initiatives and performance which are in relation to China Kunda’s 
+
+operations in Shenzhen, People’s Republic of China for the financial year 2019 (“fY2019”) from 1 april 
+
+2018 to 31 March 2019, with both fY2017 and fY2018 data for comparison, where applicable. 
+
+We have not sought external assurance for this report but may consider doing so as our reporting 
+
+matures over time.
+
+We welcome feedback and queries on this report and any aspect of our performance.
+
+Please address all feedbacksto investor relations, at ir@chinakunda.com.
+
+Contact Us
+
+
+2
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+It is our pleasure to present China Kunda’s second Sustainability Report for the financial year ended on fY2019, which 
+
+demonstrates our commitment towards sustainability for all our stakeholders.
+
+China Kunda considers sustainability issues as part of our strategy formulation. our group holds this belief and is 
+
+committed to managing and disclosing our sustainable business practices in a clear and transparent manner as we 
+
+grow and expand our business over time. 
+
+this year, the board and the audit Committee reviewed and assessed our material eeSG matters and decided to 
+
+continuously report on Innovation and R&amp;D, Material Use, training and advancement and Regulatory Compliance. We 
+
+strive to align our management approach with our material risks and opportunities and to safeguard the interests of 
+
+all our stakeholders. We achieve that by upholding good governance, ensuring compliance with relevant laws and 
+
+regulations, creating a conducive working environment for your employees and striving for competitive edge via 
+
+innovation and R&amp;D. 
+
+We wish to express our heartfelt thanks to our people and stakeholders for supporting us in our sustainability journey. 
+
+Moving forward, we seek to create long-term value for our stakeholders and drive our business in a responsible and 
+
+sustainable manner.
+
+boaRD statement
+
+
+3
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+
+
+Design, develop, manufacture and operate
+
+•	
+
+In-Mould-Decoration (“IMD”)
+
+•	
+
+Plastic injection parts
+
+ImD parts used for
+
+•	
+
+Consumer electronics
+
+•	
+
+electrical appliances
+
+•	
+
+Medical device
+
+Design and develop
+
+•	
+
+furniture and fittings
+
+manufacture, distribute, assemble and provide 
+
+consultancy services for
+
+•	
+
+the Products (includes but not limited to cabinets, 
+
+appliances, surfaces, woodwares and decorative 
+
+products)
+
+figure 1: China Kunda’s operating Segments
+
+China Kunda is headquartered in Shenzhen, China. listed on the Singapore exchange as a limited liability 
+
+company, we have been serving multi-national customers from China, Ireland, Germany and the United Kingdom 
+
+over the years.
+
+the Group currently has two business segments: (i) the manufacture and sale of In-Mould-Decoration and other 
+
+plastic injection components (“ImD and the Plastic Injection Parts Business”) through its subsidiary Kunda 
+
+Plastic Electronic (Shenzhen) Company Limited (“KPE”) and (ii) the manufacture and distribution of furniture 
+
+and other related activities (“Furniture Business”) through its subsidiary Shenzhen Shi Er Ju Quan Wu Ding Zhi 
+
+Company Limited (“SEJ”). 
+
+China Kunda commenced the furniture business in the third quarter of fY2019 and the principle activities include: 
+
+engage in design and development of furniture and fittings, which includes but not limited to cabinets, appliances, 
+
+surfaces, woodwares, decorative products (“Products”), manufacture, distribute and assemble the Products, and 
+
+provide consultancy services with respect to the Products and other related activities. the implication of the 
+
+business diversification to the sustainability materiality assessment has been detailed in the section: materiality 
+
+assessment on Pages 11 and 12. 
+
+Main products/services offered by China Kunda are listed in figure 1.
+
+CoRPoRate PRoFIle
+
+overview of China Kunda
+
+KPe
+
+sej
+
+
+4
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+In China Kunda, we reaffirm the importance of promoting strong ethics and integrity to our business success.to 
+
+maintain a high standard of corporate governance on ethics and integrity, we integrated our ethics and integrity 
+
+policies into China Kunda’s values and key principles as shown in figure 2 and 3.both of them have been reviewed 
+
+and approved by our Core operations and Decisions Management Committees (“Core team”) this year. In addition, 
+
+our existing and new employees will attend training to acknowledge their understanding of our corporate values and 
+
+principles annually.
+
+CoRPoRate PRoFIle
+
+ethics and Integrity
+
+mIssIon 
+
+Dedicated to produce competitive products 
+
+ValUes
+
+fast pace, high precision, premium services and production of 
+
+valuable products  
+
+VIsIon
+
+aims to achieve mutually beneficial scenarios for 
+
+all stakeholders
+
+
+
+
+
+
+
+
+
+
+
+figure 3: China Kunda’s Key Principles 
+
+figure 2: China Kunda’s mission, vision and values
+
+FoUR seGments
+
+Management in four 
+
+segments:
+
+•	Sales
+
+•	Innovation and R&amp;D
+
+•	Manufacturing
+
+•	Services
+
+tHRee FoCUs
+
+•	focus on valued clients
+
+•	focus on excellent 
+
+employees
+
+•	focus on investments in 
+
+automation
+
+•	and Intelligence
+
+tWo PRInCIPles
+
+•	Performance incentive
+
+•	balanced evaluation
+
+ one tHeoRY
+
+•	Incentives drive benefits     
+
+and Innovation drives 
+
+developments
+
+01
+
+03
+
+04
+
+02
+
+
+5
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+CoRPoRate PRoFIle
+
+In China Kunda, we believe selecting reliable, high-quality and cost-efficient suppliers can achieve business profitability. 
+
+Most of our raw materials are sourced from local vendors in Guangdong, China. our top 10 suppliers are mainly short 
+
+production cycle manufacturers offering materials ranging from plastic pellets, sheets, paints to household appliances. 
+
+Please see figure 4 for the total amount spent on our top 10 suppliers.
+
+Changes to the organization
+
+In fY2018, the Group had announced the closure of the automobile component production facility in beijing. In 
+
+fY2019, disposal of our subsidiary in beijing was completed and a new subsidiary, SeJ, commenced operations in 
+
+Shenzhen to supply furniture fittings and appliances. 
+
+10 new key suppliers1  are engaged and thus, the total number of key suppliers engaged by China Kunda increased to 
+
+43 in fY2019 compared to 33 in fY2018 as a result of commencement of SeJ’s operations. these new suppliers are 
+
+equipped with production lines for both furniture and electrical appliance, large production bases and precise digital 
+
+facilities, which help us to improve our competitive advantage in the market.
+
+figure 4: table on total amount spent on top 10 suppliers
+
+supply Chain
+
+eIGHt aReaS to eXCel
+
+•	operation channels
+
+•	R&amp;D projects
+
+•	Quality standards
+
+•	Production efficiency
+
+•	Cost control
+
+•	Competitive advantage
+
+•	Corporate profitability
+
+•	employees’ remuneration
+
+SeVeN aReaS to PRoMISe
+
+SIX aReaS to PRoMote
+
+fIVe aReaS IN leaN 
+
+MaNaGeMeNt
+
+•	Plan
+
+•	Production
+
+•	Quality
+
+•	Management
+
+•	Continuous Improvement
+
+Country
+
+amoUnt sPent on toP 10 sUPPlIeRs FoR FY2019
+
+China
+
+HK$14,344,300
+
+05
+
+07
+
+08
+
+06
+
+•	New era
+
+•	New journey
+
+•	New strategy
+
+•	New target
+
+•	New measures
+
+•	New achievement
+
+•	Quality
+
+•	Delivery  
+
+•	Services
+
+•	Morale
+
+•	fighting spirit
+
+•	Innovation
+
+•	Improvement
+
+
+
+1 Key suppliers refer to those who offer goods and services valued more than HK $116,950 per annum.
+
+
+6
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+corporate profile
+
+
+
+CHIna KUnDa
+
+our operations headquarter is in Shenzhen, China. the operation sites covered in this report are listed as below in 
+
+figure 5.
+
+our People
+
+In fY2019, total number of our employees continued to increase from 126 to 133 as shown in figure 6. our workforce 
+
+is made up of all full-time employees, with a higher percentage of female employees at 46% in fY2019 compared to 
+
+44% in fY2018. 
+
+In November 2018, we saw a 13% increase in employee numbers, which was mainly attributed to the establishment 
+
+of SeJ. However, this number decreased by 11% in January 2019 as a result of decrease in workforce which is usually 
+
+happens after Chinese New Year. 
+
+figure 5: China Kunda’s operation sites
+
+Geographical location 
+
+
+
+sHenZHen
+
+operations headquarter
+
+•	KPe: In-Mould Decoration and plastic injection 
+
+component manufacturing facility
+
+•	sej: furniture fittings and appliances operation
+
+
+7
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+corporate profile
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+figure 6: breakdown of employees by gender
+
+figure 7: breakdown of employees by employment category
+
+figure 8: breakdown of employees by age group
+
+FY2017
+
+117 employees 
+
+FY2018
+
+126 employees 
+
+FY2019
+
+133 employees 
+
+85.5%
+
+84.2%
+
+83.3%
+
+7.7%
+
+7.5%
+
+8.7%
+
+4.3%
+
+5.3%
+
+4.8%
+
+2.5%
+
+3%
+
+3.2%
+
+55%
+
+Staff
+
+Middle-Management
+
+Supervisor
+
+Senior-Management
+
+44%
+
+45%
+
+56%
+
+female
+
+Male
+
+46%
+
+54%
+
+FY2017
+
+FY2018
+
+FY2019
+
+FY2019
+
+FY2018
+
+FY2017
+
+32.5%
+
+9.4%
+
+58.1%
+
+33.3%
+
+35.3%
+
+8.8%
+
+10.6%
+
+57.9%
+
+54.1%
+
+&gt; 50 years old
+
+&lt; 30 years old
+
+30-50 years old
+
+
+8
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+corporate profile
+
+2  Group revenue for the financial year ended 31 March 2019
+
+3 Reduction on material consumption was mainly due to decrease in production volume. In addition, raw material cost ratio improved 
+
+from 43% in fY2018 to 41% in fY2019
+
+non-ComPlIanCe Case: 0
+
+Commencement of Furniture 
+
+Business
+
+HK$ 2,412,000 InVesteD In R&amp;D
+
+ReVenUe: HK$ 39,672,000
+
+emPloYees : 133
+
+material Consumption3: 
+
+12% Reduction on non-renewable 
+
+material
+
+12% Reduction on renewable 
+
+material 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Key Highlights2 in FY2019
+
+
+9
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SUStaINabIlItY StRateGY anD aPPRoaCH
+
+our Group adheres to sound corporate governance to safeguard shareholder’s interests and the company’s assets. 
+
+Under our enterprise Risk Management (“eRM”) framework, the board oversees the overall risk (including eeSG 
+
+risks) management and internal control system with support from the audit committee whose members are all 
+
+non-executive directors. the Senior Management governs the process of risk assessment, risk monitoring and risk 
+
+treatment, with assistance from the external advisors. at the same time, they are responsible to monitor the daily 
+
+operations and internal control procedures. all concerns will be reported to the board for quarterly risk assessment 
+
+review. 
+
+this year we appointed an additional management team led by our executive Director to respond to issues in 
+
+furniture business using the same approach as in IMD and the Plastic Parts business.  
+
+sustainability Governance 
+
+the management team headed by our Chief executive officer shapes the sustainability policies, manages 
+
+the sustainability initiatives and monitors the sustainability performance at various operating units. Under the 
+
+management team, the Heads of Department are responsible for communicating sustainability policies to the 
+
+respective divisions and ensuring the implementation of the sustainability measures. to ensure the effective 
+
+implementation of eSG initiatives in all operational units, feedbacks or issues are brought to the management 
+
+team’s attention and subsequently escalated to the board of Directors on regular basis.  
+
+
+10
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SUStaINabIlItY StRateGY anD aPPRoaCH
+
+It is our responsibilities to understand and actively respond to any concern raised by our stakeholders. this enables us 
+
+to foster lasting relationships with our stakeholders, better allocate our resources, formulate a recognized sustainability 
+
+strategy and enhance our sustainability performance. 
+
+Please refer to figure 9 on details of our stakeholdergroups, their key concerns and our response to these concerns. 
+
+figure 9: China Kunda’s Stakeholder engagement
+
+stakeholder Groups
+
+Key Concerns of each 
+
+stakeholder Group
+
+China Kunda’s 
+
+approach
+
+modes of 
+
+engagement
+
+Frequency of 
+
+engagement
+
+•	Achieve	viable	returns	
+
+•	To	be	updated	on	company’s	
+
+latest	financial	status	and	
+
+development	plans
+
+•	Provide reports 
+
+on financial data, 
+
+financial analysis and 
+
+development plans for 
+
+shareholders
+
+Shareholder 
+
+meetings
+
+annually
+
+Mail 
+
+communication
+
+electronic 
+
+Communication
+
+•	Sustainable	growth	of	the	
+
+company
+
+•	Proper	work	arrangement
+
+•	Employee	welfare	and	benefits
+
+•	Safe	working	environment
+
+•	Employee	training	and	
+
+education
+
+•	Establish	strong	
+
+communication	between	
+
+employees	and	company
+
+•	Improve	working	
+
+environment	to	
+
+enhance	employee’s	
+
+belongingness
+
+face-to-face 
+
+meetings
+
+once or twice 
+
+a month
+
+Conference call
+
+electronic 
+
+Communication
+
+employee welfare 
+
+chat
+
+•	Comply	with	latest	laws	and	
+
+regulations
+
+•	Healthy	
+
+communication	with			
+
+relevant	authorities	
+
+to	keep	abreast	with	
+
+the	latest	relevant			
+
+regulations
+
+face-to-face 
+
+meetings
+
+once or twice 
+
+a month
+
+Conference call
+
+Mail 
+
+Communication
+
+electronic 
+
+Communication
+
+employees
+
+Regulators
+
+Shareholders
+
+stakeholder engagement
+
+
+11
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SUStaINabIlItY StRateGY anD aPPRoaCH
+
+materiality assessment
+
+In fY2018, we conducted a 3-step materiality assessment to determine the priorities of various eeSG matters. In 
+
+fY2019, the board and management team re-assessed these matters and are of opinion that they are still relevant 
+
+to today’s operations.
+
+our new subsidiary, SeJ, commenced operation in December 2018which contributed less than 10% of the overall 
+
+revenue in fY2019. the scale of the new operation is small and thus has little impact on our materiality assessment 
+
+results. In fY2019, we continue to disclose on Material Use, employees training and advancement, Regulatory 
+
+compliance, and Innovation and R&amp;D.
+
+We will continue to reassess the materiality matters in the subsequent reporting period to ensure that the relevant 
+
+eeSG matters are addressed in our sustainability report. 
+
+this process is shown in figure 10.
+
+stakeholder Groups
+
+Key Concerns of each 
+
+stakeholder Group
+
+China Kunda’s 
+
+approach
+
+modes of 
+
+engagement
+
+Frequency of 
+
+engagement
+
+•	Feedback	on	the	quality	of	
+
+materials	and	latest	materials	
+
+trend
+
+•	Healthy	
+
+communication	with	
+
+suppliers
+
+face-to-face 
+
+meetings
+
+at least once to 
+
+thrice a month
+
+Conference call
+
+Mail 
+
+Communication
+
+electronic 
+
+Communication
+
+•	Contribution	to	the	local	
+
+community
+
+•	Timely	feedback	to	the	
+
+company	on	impacts	of	the	
+
+Group’s	operation
+
+•	Provide	a	safe	and	
+
+liveable	environment	for	
+
+locals		
+
+•	Transparent	
+
+communicationand	
+
+disclosure	with	local	
+
+communities	
+
+face-to-face 
+
+meetings
+
+once a quarter
+
+electronic 
+
+Communication
+
+Suppliers
+
+local Communities
+
+
+12
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SUStaINabIlItY StRateGY anD aPPRoaCH
+
+A	series	of	EESG	matters	
+
+are	listed	down	based	
+
+on	peers’	sustainability	
+
+analysis	and	key	
+
+stakeholders’	interviews.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Step Two: 
+
+Priortization
+
+Step Three: 
+
+Validation
+
+An	anonymous	voting	procedure	
+
+ranks	the	selected	EESG	matters.
+
+Representatives	from	various	
+
+departments	prioritized	the	EESG	
+
+matters	from	both	internal	and	
+
+external	perspectives.
+
+In	FY2019,	we	re-assessed	
+
+the	existing	material	matters	
+
+based	on	their	relevance	to	our	
+
+business.
+
+The	major	change	in	this	
+
+reporting	year	is	from	our	new	
+
+subsidiary	–	SEJ.	
+
+The	review	concluded	that	SEJ	
+
+only	occupies	a	small	portion	
+
+of	our	overall	performance.	
+
+Thus,	our	four	material	EESG	
+
+matters	are	still	related	to	China	
+
+Kunda’score	business.	We	will	
+
+continue	to	report	on	the	same	
+
+material	EESG	topics	in	FY2019.
+
+Topics	identified	in	step	2	
+
+were	reviewed,	validated	
+
+and	approved	by	the	
+
+Board.
+
+FY2018 – Materiality Assessment
+
+figure 10: China Kunda’s materiality assessment
+
+figure 11: China Kunda’s Materiality assessment result
+
+Materiality assessment result is plotted in matrix and mapped with GRI standards as shown in figure 11
+
+Step One:
+
+Identification
+
+FY2019 -
+
+Review
+
+1
+
+2
+
+3
+
+4
+
+High
+
+low
+
+High
+
+Importance to external Stakeholders
+
+Importance to Internal Stakeholders
+
+Material	matters
+
+Non-material
+
+no.
+
+Category
+
+eesG Factor
+
+GRI disclosure 
+
+Page 
+
+number
+
+1
+
+Governance
+
+Regulatory 
+
+Compliance
+
+GRI 307: 
+
+environmental 
+
+compliance
+
+GRI 419: 
+
+Socioeconomic 
+
+compliance
+
+	13
+
+2
+
+Economic
+
+Innovation	and	
+
+R&amp;D
+
+Non GRI disclosure
+
+16
+
+3
+
+Environment
+
+Material Use
+
+GRI 301: Materials
+
+19
+
+4
+
+Social
+
+employees 
+
+training and 
+
+advancements
+
+GRI 404: training and 
+
+education
+
+21
+
+
+13
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GoVeRnanCe
+
+China Kunda recognises regulatory compliance as key for internal controls and is committed to maintaining good 
+
+corporate governance, complying with all related laws, regulations and standards and taking compliance issues or 
+
+concerns reported seriously. 
+
+We strive to apply the highest standards to ensure full regulatory compliance with zero fines or sanctions incurred.  
+
+Practices
+
+In fY2019, China Kunda continued to take our compliance responsibilities by:
+
+•	 Setting up compliance cultures and sound compliance management systems to avoid risks on non-compliance 
+
+behaviours.
+
+•	 Communicating compliance regulations/standards to all employees and including compliance rules in our 
+
+employee handbook. employees are required to sign a declaration form, agreeing to comply with the rules, repeated 
+
+offenders will receive severe penalties or dismissal from their job. 
+
+•	 Utilising compliance management system to guide our senior management’s actions to minimize non-
+
+compliance risk.
+
+•	 Having the core team to review, monitor, and respond in real-time to any non-compliance issues.
+
+Grievance mechanism
+
+our grievance handling process allows a clear, fair and easily-accessible approach for our stakeholders. We 
+
+encourage all our stakeholders to raise any issues they encounter. We have established a whistle-blowing policy 
+
+which seeks to provide a channel for the employees and any other persons to raise concerns in good faith and 
+
+in confidence about possible improprieties in matters or financial reporting or other matters such as possible 
+
+corruption, suspected fraud and other non-compliance issues. figure 12 illustrates our grievance mechanism. 
+
+Regulatory Compliance
+
+
+14
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GoVeRNaNCe
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Grievance 
+
+mechanism
+
+stakeholder
+
+Reporting
+
+Channel
+
+Reporting Channel
+
+stakeholder
+
+Grievance
+
+Handling
+
+Process
+
+Grievance Handling Process
+
+To	protect	and	ensure	all	feedback	is	
+
+communicated	properly,	multiple channels 
+
+are	available,	which	include:
+
+•	 Face-to-face	meetings
+
+•	 Conference	calls
+
+•	 Electronic	Communication
+
+•	 Mail	Communication
+
+•	 WeChat
+
+•	 Feedback	to	supervisor,	where	applicable.
+
+To	protect	and	ensure	all	feedback	is	
+
+communicated	properly,	multiple	channels	
+
+are	available,	which	include:
+
+•	 Face-to-face	meetings
+
+•	 Conference	calls
+
+•	 Electronic	Communication
+
+•	 Mail	Communication
+
+•	 WeChat
+
+•	 Feedback	to	supervisor,	where	applicable.
+
+•	 3-steps	procedure	is	implemented	as	below:
+
+•	 evaluation Process:	All	concerns	raised	will	go	through	a	stringent	evaluation	process
+
+•	 Validation Process:	Investigations	will	be	conducted	to	validate	the	concern
+
+•	 actions taken:	Immediate	actions	will	be	taken	once	the	concern	is	verified
+
+figure 12: China Kunda’s Grievance Handling Process
+
+
+15
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GoVeRnanCe
+
+Performance
+
+ 
+
+In fY2019, KPe remained certified with Management System Standards of ISo 9001 Quality Management Systems, 
+
+ISo 16949 Quality Management Systems for automobile Production and Relevant Service Part organizations, and ISo 
+
+14001 environmental Management Systems.
+
+both KPe and SeJ have zero reported case of non-compliance, which demonstrates our full compliance with the laws, 
+
+regulations and standards with regards to economic,environment and social areas.
+
+In fY2020, our Group will continue to maintain our high-performance behavior and continuously improve our 
+
+corporate governance system to create a healthy working environment and provide continued confidence in regulatory 
+
+compliance to our stakeholders.
+
+Perpetual target
+
+FY2019 performance
+
+FY2020 target
+
+•	Maintain current 
+
+performance and 
+
+keep improving
+
+figure 13: fY2019 China Kunda regulatory compliance performance
+
+•	Comply with applicable laws and 
+
+regulations 
+
+•	Conform to industry standards
+
+•	No fines/ sanctions
+
+•	0 non-compliance cases or fines/ 
+
+sanctions
+
+
+16
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+eCoNoMIC
+
+It is crucial for a modern enterprise to adapt to the ever-changing business market, especially when we face a 
+
+dramatically shortened product replacement cycle in our industry. It requires the corporate to constantly enhance 
+
+our capability in technology and innovation. therefore, in China Kunda, we place innovation and R&amp;D as our core 
+
+competitive advantage position to drive sustainable development. 
+
+Policies
+
+We benefit our markets by meeting our end-customers’ demands and reducing costs. Innovation and R&amp;D play an 
+
+important role in expanding our number of customers, lowering manufacturing cost and positioning ourselves to 
+
+benefit from state policies. 
+
+In fY2019, we continued the Innovation Incentive Policy in technology Development to reward innovative projects. any 
+
+project proposed to receive an incentive is reviewed and approved by our core team and technical Director. 
+
+With key decisive factors such as market influence, projected production level and final output in mind, the policy has 
+
+been reviewed in fY2019 and is summarized as follows (figure 14): 
+
+ResPonsIBIlItIes
+
+ReWaRDs 
+
+PolICY ReVIeW Date
+
+technical Director (technology 
+
+Development Department)
+
+HK$ 1,170 per new client
+
+HK$ 585 per project (old client, 2nd onwards 
+
+service)
+
+HK$ 2,340 per patent
+
+the policy has been reviewed for 
+
+this reporting period (FY2019)
+
+figure 14: China Kunda Innovation Incentive Policy
+
+Innovation and R&amp;D
+
+
+17
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+eConomIC
+
+Case	study:	Implementation	of	In-Mould	Labeling	(“IML”)	technology	on	Smart	Door	Lock	Panel	and	Smart	Water	
+
+Dispenser
+
+
+
+
+
+
+
+
+
+the concept of ‘Smart Home’ is booming alongside world-wide technology 
+
+improvement, popularisation of the intelligent applications and higher living 
+
+standards. China Kunda leverages this trend to guide our product 
+
+development.
+
+We introduced our IMl technology to various applications by 
+
+prioritising the needs of our customers.
+
+Product	1:	Smart	Door	Lock	Panel	
+
+our customer ‘Intelligent YunKa’ applied our IMl 
+
+technology into their Smart Door lock Panel to 
+
+upgrade door lock’s appearance. 
+
+Product	2:	Smart	Water	Dispenser	
+
+through IMl technology, our customer ‘bo 
+
+le bao’ achieved user-friendly functions 
+
+on their smart water dispensers, including 
+
+a touch panel, wear-resisting and anti-slip 
+
+characteristics. 
+
+
+18
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+eCoNoMIC
+
+Perpetual target
+
+actions taken in this reporting 
+
+year (FY2019)
+
+FY2019 Performance
+
+action plan for next year
+
+•	HK$2.4 million spent on 
+
+research.
+
+•	Innovation incentive policy.
+
+•	32 projects
+
+•	Not achieved
+
+•	Hire service manager for our 
+
+new services.
+
+•	Seek new customers 
+
+using existing resources and 
+
+technologies.
+
+•	to achieve 50 new projects 
+
+in fY2020.
+
+•	50 ~ 80 new projects 
+
+yearly
+
+for SeJ, though we are still in the developing phase, we plan to establish our R&amp;D team to design innovative products, 
+
+including range hoods and food waste disposer.
+
+Performance
+
+ 
+
+In fY2019, we promoted innovation and R&amp;D by increasing our investment in KPe. However, due to the uncertain 
+
+economic conditions and weakening demand, our pace on innovation and R&amp;D slowed down and failed to meet our 
+
+target at the end of this reporting year.
+
+Figure 15: FY2019 China Kunda Innovation and R&amp;D Performance
+
+
+19
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+enVIRonment
+
+In recent years, supply shortages and the surging price of industrial raw materials emphasis the importance of 
+
+operation management on the materials used in production processes. China Kunda believes that proper use of 
+
+raw materials can greatly reduce costs and improve economic efficiency. to achieve this, we track our use of raw 
+
+materials on a regular basis. In fY2019, SeJ did not produce any goods. therefore, disclosure of material use is only 
+
+relevant to KPe.
+
+Practice
+
+China Kunda monitors the consumption of renewable and non-renewable materials for the purpose of optimising our 
+
+manufacturing processes. apart from that, we have implemented an incentive system to reward employees for their 
+
+performance in managing the company’s resources based on their ability to reduce overall material cost ratio.
+
+Performance
+
+In the previous year, China Kunda decreased raw material cost ratio to 43%. We continued our efforts to optimise 
+
+production processes and achieved our 41% target in fY2019.
+
+figure 16: fY2019 China Kunda Material Use Performance
+
+FY2019 target
+
+FY2019 Performance
+
+FY2020 target
+
+•	Decrease raw material cost ratio to 
+
+41% by fY2019
+
+•	41% achieved
+
+•	Maintain current performance and keep 
+
+improving
+
+In fY2019, our total consumption of non-renewable materials declined by 11.5%, falling from 570,066kg to 504,401kg. 
+
+our usage of plastic pellet, paint, and protective film has decreased significantly as shown in figure 17 below. this 
+
+was in tandem with the decrease in production volume in fY2019. total renewable material consumption (mainly from 
+
+cardboard) also declined from 16,396 pieces in fY2018 to 14,492 pieces in fY2019, a decrease of almost 11.6%. 
+
+Moreover, in fY2019, we continued our resources recycling practices and recycled 33.9% (4,910 pieces out of 14,492 
+
+pieces) of cardboard, an increase from 3.8% in fY2018 (630 pieces out of 16,396 pieces). Part of reasons behind the 
+
+increase is attributed to improved data collection.
+
+material Use
+
+
+20
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+Figure 17: Total weight of key non-renewable materials used in KPE 
+
+Figure 18: Total pieces of renewable materials used in KPE
+
+0
+
+50,000
+
+100,000
+
+150,000
+
+200,000
+
+250,000
+
+300,000
+
+189,190
+
+280,287
+
+248,753
+
+215,698
+
+139,260
+
+157,800
+
+123,570
+
+13,927 15,276 11,456
+
+148,236
+
+153,677
+
+total weight of non-renewablematerials (Kg)
+
+Plastic Sheet
+
+Plastic Pellet
+
+Paint
+
+Protective film
+
+fY2019
+
+fY2017
+
+fY2018
+
+eNVIRoNMeNt
+
+Renewable Materials
+
+Cardboard
+
+19,348
+
+16,369
+
+14,492
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+fY2019
+
+fY2017
+
+fY2018
+
+total pieces of renewable materials used (pieces)
+
+Non-renewable Materials
+
+
+21
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+soCIal
+
+employees are an important component of China Kunda’s sustainable development. training and advancement can 
+
+instill sense of belonging to the company and is beneficial for employees’ personal growth as well. Proper training and 
+
+advancement will enable us to gain more competitive advantages.
+
+Practice
+
+China Kunda is committed to training for all employees. our Human Resource Department conducts mandatory 
+
+orientation workshops on production safety, mechanical operation, craftsmanship and product quality requirements 
+
+for new hires to achieve seamless integration to our company culture. In addition, career planning sessions based on 
+
+the results from regular employee performance assessments are conducted to align employees’ performance with 
+
+company’s plans.
+
+China Kunda also provides subsidies to our employees who seek to upgrade their education and skills. a training 
+
+institution has been set up to regulate the management oftraining subsidies. an incentive system is also put in place 
+
+to reward employees that have excellent performance in training sections.
+
+Case study 1: training activity in SeJ
+
+In april 2019, SeJ organized a sharing meeting to guide our employees on how to improve our business’s 
+
+competitiveness by providing better services. the meeting emphasized the importance of customer satisfaction, self-
+
+improvement, holistic service, and our relationships with our stakeholders. 
+
+through this meeting, everyone had a chance to understand the direction of SeJ’s development and improve 
+
+themselves by contributing to SeJ’s future operations. 
+
+figure 19: SeJ’s Sharing Meeting
+
+
+
+training and advancement
+
+
+22
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SoCIal
+
+Case	study	2:	Employee	advancement	activities	in	KPE
+
+In KPe, we organised several activities for our employees in fY2019, which included a field trip, several strategic 
+
+meetings, and employment training award ceremony.
+
+these activities were intended for all our employees to build a stronger connection for people from different groups, 
+
+assist our people to determine their own career paths and ensure that our employees are growing in the same 
+
+direction with the company. 
+
+figure 22: KPe’s strategic meeting
+
+
+
+
+
+figure 21: field trip for KPe’s employees in fY2019.
+
+
+23
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+soCIal
+
+
+
+figure 23: employee’s training award ceremony
+
+Performance
+
+ 
+
+ figure 24: fY2019 China Kunda training and advancement Performance
+
+In fY2019, we increased the average training hours for non-managerial employees. our total training hours increased 
+
+by 3.3% from 600 hours in fY2018 to 620 hours in fY2019. Due to more managerial skill courses arranged, average 
+
+training hours of 37.3 hours for managerial roles is more than average training hours of 1.7 hours for non-managerial 
+
+roles during fY2019. the decrease in average training hours for managerial roles was because the training provided 
+
+previously are considered still relevant and re-training is not required.In fY2017, fY2018 and fY2019, 100% percent 
+
+of employees received regular performance and career development reviews.
+
+Perpetual target
+
+FY2019 Performance
+
+100% of employees undergo a performance evaluation
+
+                             achieved
+
+Increase total training hour
+
+                             achieved
+
+
+24
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+SoCIal
+
+figure 25:  average training hours by gender in KPe and SeJ
+
+Non-renewable Materials
+
+0
+
+1
+
+2
+
+3
+
+4
+
+5
+
+6
+
+4.44
+
+4.29
+
+4.31
+
+5.36
+
+5.36
+
+5.08
+
+fY2019
+
+fY2017
+
+fY2018
+
+female
+
+Male
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+4.44
+
+4.29
+
+4.31
+
+50.0
+
+40.0
+
+37.3
+
+fY2019
+
+fY2017
+
+fY2018
+
+Managerial
+
+Non-managerial
+
+Figure 26: Average training hours 3 by employee category in KPE and SEJ
+
+3 average training hours by employee category in fY2017 and fY2018 have been restated due to refinement on computation method. 
+
+
+25
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GRI CoNteNt InDex
+
+GRI standard
+
+Disclosure
+
+Description
+
+section of Report
+
+Page Reference
+
+GRI 102: General Disclosures
+
+organizational Profile
+
+102-1
+
+Name	of	the	Organization
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-2
+
+Activities,	brands,	products,	and	services
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-3
+
+Location	of	headquarters
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-4
+
+Location	of	operations
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-5
+
+Ownership	and	legal	form
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-6
+
+Markets	served
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-7
+
+Scale	of	the	organization
+
+Corporate	Profile	-
+
+Overview	of	China	Kunda
+
+3
+
+102-8
+
+Information	on	employees	and	other	
+
+workers
+
+Corporate	Profile	–	Our	People
+
+6
+
+102-9
+
+Supply	chain
+
+Corporate	Profile	–	Supply	Chain
+
+5
+
+102-10
+
+Significant	changes	to	the	organization	
+
+and	its	supply	chain
+
+Corporate	Profile	-	
+
+Geographical	boundary
+
+6
+
+102-11
+
+Precautionary	Principle	or	approach
+
+Strategy	and	Approach	–
+
+Sustainability	Governance
+
+9
+
+102-12
+
+External	Initiaves
+
+N/A
+
+102-13
+
+Membership	of	associations
+
+N/A
+
+strategy
+
+102-14
+
+Statement	from	senior	decision-maker
+
+Board	Statement
+
+2
+
+ethics and Integrity
+
+102-16
+
+Values,	principles,	standards,	and	norms	
+
+of	behavior
+
+Ethics	and	Integrity
+
+4
+
+Governance
+
+102-18
+
+Governance	structure
+
+Refer	to	annual	report	‘Corporate	Governance	Report’
+
+stakeholder engagement
+
+102-40
+
+List	of	stakeholder	groups
+
+Stakeholder	Engagement
+
+10-11
+
+102-41
+
+Collective	bargaining	agreements
+
+0%
+
+102-42
+
+Identifying	and	selecting	stakeholders
+
+Stakeholder	Engagement
+
+10-11
+
+102-43
+
+Approach	to	stakeholder	engagement
+
+Stakeholder	Engagement
+
+10-11
+
+102-44
+
+Key	topics	and	concerns	raised
+
+Stakeholder	Engagement
+
+10-11
+
+
+26
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GRI CoNteNt InDex
+
+Reporting Practice
+
+102-45
+
+entities included in the consolidated 
+
+financial statements
+
+Refer to annual report ‘Investment in subsidiaries’
+
+102-46
+
+Defining report content and topic 
+
+boundaries
+
+Stakeholder engagement- Materiality 
+
+assessment
+
+1
+
+102-47
+
+list of material topics
+
+Stakeholder engagement- Materiality 
+
+assessment
+
+12
+
+102-48
+
+Restatements of information
+
+N/a
+
+102-49
+
+Changes in reporting
+
+about the Report – Reporting Scope
+
+1
+
+102-50
+
+Reporting period
+
+about the Report – Reporting Scope
+
+1
+
+102-51
+
+Date of most recent report
+
+China Kunda Sustainability report fY2018
+
+102-52
+
+Reporting cycle
+
+about the Report – Reporting Scope
+
+1
+
+102-53
+
+Contact point for questions regarding the 
+
+report
+
+about the Report – Contact Us
+
+1
+
+102-54
+
+Claims of reporting in accordance with 
+
+the GRI Standards
+
+about the Report – Reporting Scope
+
+1
+
+102-55
+
+GRI content index
+
+GRI Content index
+
+25-27
+
+102-56
+
+external assurance
+
+about the Report – Reporting Scope
+
+1
+
+topic-specific GRI standard Disclosures
+
+Category: environmental
+
+GRI 301: materials
+
+103-1
+
+explanation of the material topic and its 
+
+boundary
+
+environmental – Material Use
+
+19
+
+103-2
+
+the management approach and its 
+
+components
+
+environmental – Material Use
+
+19
+
+103-3
+
+evaluation of the management approach
+
+environmental – Material Use
+
+19
+
+301-1
+
+Materials used by weight or volume 
+
+environmental – Material Use
+
+19
+
+302-2
+
+Recycled input materials used
+
+environmental – Material Use
+
+19
+
+GRI 307: environmental Compliance
+
+103-1
+
+explanation of the material topic and its 
+
+boundary
+
+Governance – 
+
+Regulatory Compliance
+
+13
+
+103-2
+
+the management approach and its 
+
+components
+
+Governance – 
+
+Regulatory Compliance
+
+13-15
+
+103-2=3
+
+evaluation of the management approach
+
+Governance – 
+
+Regulatory Compliance
+
+13-15
+
+307-1
+
+Non-compliance with environmental laws 
+
+and regulations
+
+Governance – 
+
+Regulatory Compliance
+
+15
+
+
+27
+
+China Kunda TeChnology holdings limiTed
+
+SuStainability report 2019
+
+GRI CoNteNt InDex
+
+Category: social
+
+GRI 404: training and education
+
+103-1
+
+explanation of the material topic and its 
+
+boundary
+
+Social –
+
+training and advancement
+
+21
+
+103-2
+
+the management approach and its 
+
+components
+
+Social – 
+
+training and advancement
+
+21-23
+
+103-3
+
+evaluation of the management approach
+
+Social – 
+
+training and advancement
+
+23
+
+404-1
+
+average hours of training per year per 
+
+employee
+
+average hours of training per year per 
+
+employee
+
+23
+
+404-3
+
+Percentage 
+
+of 
+
+employees 
+
+receiving 
+
+regular 
+
+performance 
+
+and 
+
+career 
+
+development programs
+
+Social – 
+
+training and advancement
+
+23
+
+GRI 419: socioeconomics Compliance
+
+103-1
+
+explanation of the material topic and its 
+
+boundary
+
+Governance – 
+
+Regulatory Compliance
+
+13
+
+103-2
+
+the management approach and its 
+
+components
+
+Governance – 
+
+Regulatory Compliance
+
+13-15
+
+103-3
+
+evaluation of the management approach
+
+Governance – 
+
+Regulatory Compliance
+
+13-15
+
+419-1
+
+Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area
+
+Governance – 
+
+Regulatory Compliance
+
+15
+
+non-GRI Disclosure Innovation and R&amp;D
+
+103-1
+
+explanation of the material topic and its 
+
+boundary
+
+economic – Innovation and R&amp;D
+
+16
+
+103-2
+
+the management approach and its 
+
+components
+
+economic – Innovation and R&amp;D
+
+16-18
+
+103-3
+
+evaluation of the management approach
+
+economic – Innovation and R&amp;D
+
+18
+
+
+China Kunda Technology Holdings Limited
+
+10 Anson Road, #27-15 International Plaza, Singapore 079903
+
+Tel: (65) 6817 8944   Email: ir@chinakunda.com
+
+
+

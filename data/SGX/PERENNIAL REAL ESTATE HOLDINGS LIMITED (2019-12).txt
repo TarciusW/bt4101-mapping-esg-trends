@@ -1,0 +1,5910 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+Engaging Stakeholders  
+
+Advancing Sustainability
+
+永
+
+续
+
+发
+
+展
+
+泽
+
+被
+
+万
+
+物
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+01
+
+Sustainability Report 2019
+
+CONTENTS
+
+BOARD STATEMENT 
+
+01
+
+OVERVIEW  
+
+ 
+
+ 
+
+01
+
+APPROACH TO SUSTAINABILITY 
+
+02
+
+Sustainability Governance Structure 
+
+02
+
+Materiality Assessment Process 
+
+02
+
+Mapping to the Sustainable Development Goals 
+
+03
+
+Perennial’s Sustainability Targets and Performance 
+
+04
+
+Stakeholder Engagement 
+
+06
+
+ENVIRONMENT  
+
+10
+
+Energy, Greenhouse Gas Emissions and Alternative Energy Sources 
+
+10
+
+Water Management 
+
+12
+
+SOCIAL  
+
+ 
+
+ 
+
+ 
+
+13
+
+Customer Satisfaction 
+
+13
+
+Health and Safety of Stakeholders 
+
+17
+
+Occupational Health and Safety 
+
+19
+
+Profile of Our Workforce 
+
+21
+
+GOVERNANCE  
+
+22
+
+Business Ethics 
+
+22
+
+Corporate Governance 
+
+22
+
+Compliance with Laws and Regulations 
+
+22
+
+GRI Content Index 
+
+24
+
+BOARD STATEMENT
+
+Perennial Real Estate Holdings Limited 
+
+(“Perennial”) is pleased to present our third 
+
+Sustainability Report (“SR2019”). This report 
+
+has been prepared in accordance with the 
+
+sustainability reporting requirements set 
+
+out in the Listing Manual of the Singapore 
+
+Exchange 
+
+Securities 
+
+Trading 
+
+Limited  
+
+(“SGX-ST”) 
+
+(Rules 
+
+711A 
+
+and 
+
+711B).  
+
+The report is also prepared with reference to 
+
+Global Reporting Initiative (“GRI”) Standards 
+
+– ‘Core’ option, an internationally-recognised 
+
+standard used by corporations globally.
+
+Sustainability 
+
+has 
+
+been 
+
+ingrained 
+
+into 
+
+Perennial’s strategic directions and business 
+
+operations ever since it started trading on the 
+
+Mainboard of the SGX-ST on 26 December 
+
+2014. As Perennial looks towards fine-tuning 
+
+its approach to sustainability, the Board 
+
+of Directors (“Board”) has taken steps to 
+
+review its current business strategies taking 
+
+sustainability issues into account and aligned 
+
+its business objectives with the global agenda 
+
+for sustainable development.
+
+The Board considers the Environmental, 
+
+Social and Governance (“ESG”) impacts 
+
+which Perennial’s business activities have on 
+
+its environment and the community. This year, 
+
+the reporting scope has been expanded to 
+
+include its Healthcare business, focusing on 
+
+Eldercare and Senior Housing, starting from 
+
+Yixian Eldercare and Retirement Home located 
+
+in Fengxian District, Shanghai, China. This 
+
+provides stakeholders with a wider perspective 
+
+of the interactions that Perennial’s businesses 
+
+have with the community at large. 
+
+In light of this development, the management 
+
+has conducted a thorough review of the eight 
+
+existing ESG factors (five material and three 
+
+industry-relevant) and affirmed their continued 
+
+relevance to Perennial’s businesses. The Board 
+
+remains centrally involved in determining, 
+
+managing and monitoring Perennial’s material 
+
+ESG factors and its performance. The Board 
+
+has reviewed and validated the eight existing 
+
+ESG factors for FY2019. 
+
+Aside to assessing and managing ESG 
+
+impacts, Perennial has adopted two United 
+
+Nations (“UN”) Sustainability Development 
+
+Goals (“SDGs”): SDGs 13 (Climate Change) 
+
+and 16 (Peace, Justice and Strong Institutions) 
+
+and mapped existing initiatives and targets 
+
+under each of these goals. Perennial looks 
+
+towards adopting more SDGs in the years to 
+
+come and urges stakeholders to embark on 
+
+their journey too. 
+
+Feedback
+
+Perennial welcomes all feedback from 
+
+stakeholders 
+
+on 
+
+this 
+
+report 
+
+and 
+
+its 
+
+sustainability efforts. Please send your 
+
+comments and suggestions to sustainability@
+
+perennialrealestate.com.sg.
+
+OVERVIEW
+
+This 
+
+report 
+
+reflects 
+
+information 
+
+about 
+
+Perennial’s sustainability performance from 
+
+1 January 2019 to 31 December 2019 
+
+(“FY2019”), with prior period performance 
+
+(“FY2018”) indicated where applicable for 
+
+comparison. This report covers its Real 
+
+Estate and Healthcare businesses, located in 
+
+Singapore and China. Unless otherwise noted, 
+
+all sustainability data and information relate to 
+
+the entities in Table 1.
+
+In FY2019, Perennial divested its entire stake 
+
+in Chinatown Point’s retail mall and four strata 
+
+office units. As the Company still oversees 
+
+the day-to-day operations of the property, the 
+
+property will remain in its reporting scope as 
+
+Perennial has adopted an operational control 
+
+approach for data consolidation. 
+
+Since FY2016, Perennial has acquired an 
+
+effective interest of 49.9% in Shanghai RST 
+
+Chinese Medicine Co. Ltd (“Renshoutang”), 
+
+an established pioneer of private integrated 
+
+eldercare with medical and pharmacy services 
+
+in China. This year, Perennial has included 
+
+Fengxian, an eldercare and retirement home in 
+
+China under the Renshoutang’s portfolio, into 
+
+the reporting scope. As Perennial manages 
+
+Fengxian on a strategic level, the management 
+
+approach 
+
+comprising 
+
+policies, 
+
+practices 
+
+and relevant initiatives at the facility will be 
+
+disclosed in this report. 
+
+For more details on the properties, please refer 
+
+to the Business Review sections in the Annual 
+
+Report 2019. 
+
+Perennial continues to adopt the GRI 
+
+Standards 
+
+as 
+
+it 
+
+is 
+
+an 
+
+internationally 
+
+recognised framework that encompasses a 
+
+comprehensive range of disclosures suitable 
+
+for Perennial. The GRI Standards encourage 
+
+transparent and consistent reporting and 
+
+allow for comparability against that of its  
+
+industry peers. 
+
+Building upon the GRI Standards, Perennial 
+
+also commits towards the UN 2030 Agenda 
+
+for 
+
+Sustainable 
+
+Development 
+
+through 
+
+the adoption of two SDGs. Through the 
+
+mapping of its targets, existing initiatives 
+
+and GRI disclosures, it guides Perennial on 
+
+the formulation of business objectives as 
+
+well as the development of future actions to 
+
+further its contribution towards sustainable 
+
+development. 
+
+Perennial has not sought external assurance 
+
+for the information within this report but will 
+
+consider doing so as its sustainability reporting 
+
+matures over time.
+
+The full SR2019, as well as Perennial’s 
+
+Annual 
+
+Report 
+
+2019 
+
+(“AR2019”) 
+
+(including the Sustainability Summary 
+
+Report) to be published in due course, 
+
+will be made available for download at  
+
+www.perennialrealestate.com.sg.
+
+Singapore
+
+China
+
+Real Estate
+
+Capitol Singapore 
+
+CHIJMES
+
+AXA Tower
+
+111 Somerset 
+
+House of Tan Yeok Nee 
+
+Chinatown Point
+
+Perennial Qingyang Mall (Chengdu)
+
+Perennial Jihua Mall (Foshan)
+
+Healthcare
+
+Fengxian District Yixian Eldercare 
+
+and Retirement Home (Shanghai) 
+
+(“Fengxian”)
+
+Table 1: Perennial’s reporting scope for SR2019
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+02
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+03
+
+Sustainability Report 2019
+
+APPROACH TO SUSTAINABILITY 
+
+Sustainability Governance Structure
+
+As part of Perennial’s strategic formulation, 
+
+the Board maintains oversight on the 
+
+implementation of sustainability practices 
+
+throughout the Company. Closely supported 
+
+by the Sustainability Committee, they ensure 
+
+that various policies, targets and initiatives 
+
+are established and cascaded down to the 
+
+Sustainability Reporting Team. 
+
+The Sustainability Reporting Team works 
+
+closely with different departments, listed in 
+
+Figure 1, to monitor progress against targets 
+
+set and collect relevant information. They are 
+
+also responsible for driving initiatives within 
+
+their divisions and ensuring continuity of 
+
+these projects. Thereafter, regular updates 
+
+will be consolidated monthly and submitted 
+
+to the Sustainability Committee for review. 
+
+The Board then reviews the Sustainability 
+
+Report submitted by the Committee on an 
+
+annual basis. 
+
+Perennial considers sustainability risks as part 
+
+of its Enterprise Risk Management Framework. 
+
+After the materiality assessment, the Audit and 
+
+Risk Committee (“ARC”) reviewed the key 
+
+risks associated with the eight selected ESG 
+
+factors to ensure alignment. These key risks 
+
+Figure 1: Sustainability Governance Structure of Perennial
+
+Figure 2: Perennial’s Materiality Assessment Process
+
+Materiality Assessment Process
+
+Perennial 
+
+conducted 
+
+its 
+
+first 
+
+materiality 
+
+assessment for its inaugural Sustainability 
+
+Report in FY2017. Eight ESG factors (five 
+
+material and three industry-relevant) were 
+
+selected to provide an accurate reflection of 
+
+key areas of stakeholder interests and their 
+
+significant impact on the community as a result 
+
+of the Company’s business activities. The 
+
+process also guides Perennial in responding 
+
+adequately and accurately to its stakeholders’ 
+
+concerns. This process is outlined in Figure 
+
+2 which follows the phases of identification, 
+
+prioritisation, validation and review. 
+
+The Board has reaffirmed the relevance 
+
+of 
+
+these 
+
+eight 
+
+existing 
+
+ESG 
+
+factors  
+
+(Figure 3) in FY2019. The corresponding 
+
+policies, initiatives, targets and performance 
+
+measurement indicators under each material 
+
+factor are disclosed in this report. 
+
+SUSTAINABILITY GOVERNANCE STRUCTURE
+
+Board of Directors
+
+Frequency: Annually
+
+Sustainability Committee
+
+Frequency: Monthly
+
+Sustainability Reporting Team
+
+Frequency: Ongoing
+
+Legal
+
+and Corporate
+
+Secretariat
+
+Finance and
+
+Enterprise  
+
+Risk Management
+
+Project
+
+Development and
+
+Management
+
+Investment, Asset
+
+Management
+
+and Operations
+
+Human
+
+Resources
+
+Investor Relations
+
+and Corporate
+
+Communications
+
+Design
+
+Management
+
+were also reviewed to ensure its relevance with 
+
+Perennial’s changing business strategies at 
+
+least once annually. A summary of ESG factors 
+
+mapped to their associated key risks has been 
+
+included in Table 2.
+
+Mapping to the SDGs
+
+In 2015, the UN SDGs were launched as 
+
+a global approach towards sustainable 
+
+development. The 17 SDGs highlight the 
+
+critical roles that global stakeholders play 
+
+on sustainable and inclusive development. 
+
+Together with its 169 underlying targets, 
+
+they provide a comprehensive guide for 
+
+stakeholders tackling global issues such 
+
+as 
+
+gender 
+
+inequality, 
+
+climate 
+
+change, 
+
+socioeconomic development and strong 
+
+governance, through respective means of 
+
+their businesses. 
+
+In FY2019, Perennial has adopted two key 
+
+SDGs identified as integral to its sustainability 
+
+approach. With guidance from external 
+
+consultants and reference from the SDG 
+
+Compass1, Perennial’s existing targets and 
+
+initiatives have been mapped under each 
+
+of these goals. The SDG Compass, building 
+
+upon the GRI Standards as well as several 
+
+other recognised standards, allows the 
+
+measurement of progress as well as highlights 
+
+potential areas for improvement. 
+
+1 The SDG Compass provides guidance for companies on how to align their strategies as well as measure and manage their contributions to the realisation of the SDGs. For more information, 
+
+please visit www.sdgcompass.org.
+
+ESG Factors
+
+Key Risks
+
+Customer Satisfaction
+
+• Medical and Healthcare Business Risk
+
+• Health, Security and Safety Risk
+
+Occupational Health and Safety
+
+• Project Development Risk
+
+• Health, Security and Safety Risk
+
+Health and Safety of Stakeholders 
+
+• Medical and Healthcare Business Risk
+
+• Health, Security and Safety Risk
+
+Business Ethics
+
+• Fraud and Corruption Risk 
+
+Corporate Governance
+
+• Fraud and Corruption Risk
+
+• Compliance Risk
+
+Compliance with Laws and Regulations
+
+• Compliance Risk
+
+Energy, GHG Emissions and Alternative 
+
+Energy Sources
+
+• Project Development Risk
+
+• Health, Security and Safety Risk
+
+Water Management
+
+• Compliance Risk 
+
+Table 2: List of Key Risks Associated with ESG Factors
+
+List of factors for reporting
+
+1  Customer Satisfaction 
+
+2  Health and Safety of Stakeholders
+
+3  Business Ethics
+
+4  Corporate Governance
+
+5  Compliance with Laws and Regulations
+
+6  Occupational Health and Safety
+
+7  Energy, Greenhouse Gas (“GHG”) Emission and 
+
+Alternative Energy Sources
+
+8  Water Management
+
+Only factors which have been selected for reporting are 
+
+shown in this matrix
+
+Importance to External Stakeholders
+
+Importance to Internal Stakeholders
+
+High
+
+Low
+
+High
+
+ Material Factors
+
+ Industry-Relevant Factors
+
+6
+
+7
+
+8
+
+1
+
+2
+
+3
+
+4
+
+5
+
+Figure 3: Perennial’s Materiality Matrix
+
+
+
+
+
+
+
+IDENTIFICATION
+
+PRIORITISATION
+
+VALIDATION
+
+REVIEW
+
+These material topics were 
+
+subsequently validated by 
+
+the Board.
+
+With each reporting cycle, 
+
+the Management reviews 
+
+the existing eight material 
+
+factors for its relevance to 
+
+the reporting scope. 
+
+With the inclusion of the 
+
+healthcare business, the  
+
+material factors remain 
+
+unchanged for SR2019.
+
+The Management 
+
+participated in an unbiased 
+
+voting exercise managed 
+
+by an independent 
+
+consultant, and a total 
+
+of eight ESG factors 
+
+(five material and three 
+
+industry-relevant) were 
+
+prioritised for reporting.
+
+A comprehensive list 
+
+of material topics were 
+
+consolidated through a 
+
+series of desktop research, 
+
+peers benchmarking and 
+
+internal interviews.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+2
+
+3
+
+4
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+04
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+05
+
+Sustainability Report 2019
+
+Company’s Targets for FY2019
+
+FY2019 Performance
+
+FY2020 Targets
+
+Environment
+
+Energy, GHG and Alternative Energy Sources | Water Management
+
+SINGAPORE – Real Estate
+
+Mid-Term Targets
+
+To continue replacement to LED light fittings 
+
+upon end of life or as and when necessary
+
+Completed for retail areas of all Singapore 
+
+properties. Works at CHIJMES and House of 
+
+Tan Yeok Nee are ongoing
+
+To continue replacement to LED light fittings 
+
+at CHIJMES and House of Tan Yeok Nee, and 
+
+upon end of life or as and when necessary
+
+Adopt more accurate methods to track water 
+
+consumption including the strategic installation 
+
+of water meters at selected water outlets in all 
+
+assets
+
+Completed for retail areas at AXA Tower and 
+
+111 Somerset. Works at Capitol Singapore, 
+
+Chinatown Point, CHIJMES and House of Tan 
+
+Yeok Nee are ongoing
+
+To continue to adopt more accurate methods 
+
+to track water consumption including the 
+
+strategic installation of water meters at 
+
+selected water outlets in all assets
+
+Perpetual Target
+
+Green Mark Certification upon completion of 
+
+projects
+
+Achieved
+
+Green Mark Certification upon completion of 
+
+projects
+
+CHINA – Real Estate
+
+Mid-Term Targets
+
+To continue replacement to LED light fittings 
+
+upon end of life or as and when necessary
+
+Completed for Perennial Qingyang Mall and 
+
+Perennial Jihua Mall
+
+To continue to maintain the LED light fittings 
+
+and ensure all are in good working condition
+
+Adopt more accurate methods to track water 
+
+consumption including the strategic installation 
+
+of water meters at selected water outlets in all 
+
+assets
+
+Completed in Perennial Qingyang Mall and 
+
+ongoing in Perennial Jihua Mall
+
+To continue to adopt more accurate methods 
+
+to track water consumption including the 
+
+strategic installation of water meters at 
+
+selected water outlets in all assets
+
+Perpetual Target
+
+Regularly organise events aimed at raising 
+
+environmental awareness
+
+Visitors, tenants and employees have actively 
+
+participated in the events, which improved 
+
+awareness on sustainability
+
+To continue to hold events aimed at raising 
+
+environmental awareness 
+
+CHINA – Healthcare
+
+Mid-Term Target
+
+Install power meters for better management of 
+
+energy consumption 
+
+Completed in Fengxian
+
+To continue to maintain the power meters for 
+
+better management of energy consumption
+
+Perennial’s Sustainability Targets and Performance 
+
+This section summarises Perennial’s targets and performance in FY2019 as well as targets for the forthcoming year. As operations may differ across 
+
+countries and business segments, targets have been separately set and detailed as below. Perennial is pleased to announce that all the sustainability 
+
+targets set for FY2019 have been achieved.
+
+Perennial’s initiatives and commitments
+
+• Regular monitoring, review and disclosure of 
+
+energy consumption and carbon emissions 
+
+• Adoption of energy-efficient technologies in  
+
+Asset Enhancement Initiatives (“AEIs”) across  
+
+Singapore properties
+
+• Target for all properties to meet Green Mark 
+
+Requirements 
+
+• Consistent monitoring and review of consumption 
+
+and efficiency
+
+Relevant ESG Factor
+
+• Energy, GHG Emissions and Alternative Energy 
+
+Sources
+
+Perennial’s initiatives and commitments
+
+• Full compliance with the Code of Corporate 
+
+Governance 2018 
+
+• Zero tolerance towards fraud, corruption and 
+
+unethical actions 
+
+• Remaining relevant to all relevant laws and 
+
+regulations 
+
+• Stringent requirements conveyed to suppliers  
+
+(i.e. comply with Employment Act, Workplace 
+
+Safety and Health Act)
+
+Relevant ESG Factors
+
+• Compliance with Laws and Regulations
+
+• Business Ethics
+
+• Corporate Governance
+
+Figure 4: Mapping Perennial’s Initiatives to UN SDGs
+
+Company’s Targets for FY2019
+
+FY2019 Performance
+
+FY2020 Targets
+
+Social
+
+Customer Satisfaction
+
+SINGAPORE – Real Estate
+
+Perpetual Targets
+
+Roll out training programmes to inculcate a 
+
+service culture
+
+Achieved
+
+All concierge staff and technicians will 
+
+continue to attend customer service and 
+
+safety training courses in FY2020
+
+Continuously explore AEIs for all properties 
+
+to ensure relevance and competitiveness of 
+
+all assets to meet the expectations of our 
+
+customers
+
+Achieved
+
+Continuously explore AEIs for all properties 
+
+to ensure relevance and competitiveness of 
+
+all assets to meet the expectations of our 
+
+customers
+
+CHINA – Real Estate
+
+Perpetual Target 
+
+Roll out training programmes to inculcate a 
+
+service culture
+
+Achieved 
+
+Roll out training programmes to inculcate a 
+
+service culture
+
+CHINA – Healthcare
+
+Perpetual Target
+
+Regularly gather feedback on residents’ 
+
+satisfaction levels
+
+Achieved
+
+To continue gathering feedback on residents’ 
+
+satisfaction level on a regular basis 
+
+Health and Safety of Stakeholders | Occupational Health and Safety
+
+SINGAPORE – Real Estate
+
+Mid-Term Target
+
+To roll out bizSAFE Level 3 to all other Centre 
+
+Management Teams (“CMTs”) in Singapore 
+
+properties by FY2020
+
+Achieved for CHIJMES, on track to achieve 
+
+bizSAFE Level 3 for other CMTs in Singapore 
+
+by FY2020
+
+Roll out bizSAFE Level 3 to all other CMTs in 
+
+Singapore properties by FY2020
+
+Perpetual Target
+
+Zero fatality rate
+
+Achieved
+
+Zero fatality rate
+
+CHINA – Real Estate
+
+Perpetual Targets
+
+Attain Work Safety Standardisation Certificate 
+
+(Level 3) 
+
+Achieved
+
+Continuously maintain the validity of 
+
+certification
+
+Zero fatality rate
+
+Achieved
+
+Zero fatality rate
+
+CHINA – Healthcare
+
+Perpetual Targets
+
+Zero incidences of health and safety issues
+
+Achieved
+
+Zero incidences of health and safety issues
+
+Zero fatality rate
+
+Achieved
+
+Zero fatality rate
+
+Governance
+
+Business Ethics | Corporate Governance | Compliance with Laws and Regulations
+
+Perpetual Targets
+
+Full compliance with the Code of Corporate 
+
+Governance 2018
+
+Achieved
+
+Full compliance with the Code of Corporate 
+
+Governance 2018
+
+Zero tolerance towards fraud, corruption and 
+
+unethical actions
+
+Achieved
+
+Zero tolerance towards fraud, corruption and 
+
+unethical actions
+
+Zero cases of non-compliance with laws and 
+
+regulations
+
+Achieved
+
+Zero cases of non-compliance with laws and 
+
+regulations
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+06
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+07
+
+Sustainability Report 2019
+
+Stakeholders
+
+Customers
+
+(Tenants, Shoppers, Residents  
+
+and Customers)
+
+Business Partners
+
+Regulators
+
+Our Community
+
+Shareholders and  
+
+the Investment Community
+
+Our People
+
+Why is the 
+
+stakeholder 
+
+important?
+
+Customer satisfaction is key to 
+
+Perennial’s business and it strives 
+
+to enhance customer experience by 
+
+tailoring its offerings to best meet  
+
+the needs of its customers. 
+
+Suppliers play a vital role in supporting 
+
+Perennial towards continuous and 
+
+sustainable growth.
+
+Understanding and staying compliant 
+
+with all applicable laws and regulations 
+
+safeguard Perennial’s licence  
+
+to operate.
+
+Through the spaces Perennial manages,  
+
+it interacts and endeavours to contribute to 
+
+the communities in a consistent manner to aid 
+
+their sustainable development.
+
+Shareholders and investors guide and 
+
+influence Perennial’s operations and  
+
+decision-making.
+
+Human capital is Perennial’s key resource. 
+
+A stable and resilient workforce is key to the 
+
+long-term growth and viability of Perennial. 
+
+Stakeholder 
+
+management 
+
+strategy 
+
+Face-to-face meetings
+
+(ongoing and annually during 
+
+contract renewals)
+
+Customer service touch points such 
+
+as walkabout on the premises, service 
+
+desk, hotline and general enquiries 
+
+mailbox  
+
+(daily)
+
+Calls and email correspondences
+
+(ongoing)
+
+Face-to-face meetings to review 
+
+feedback and performance
+
+(ongoing)
+
+Chinese New Year Spring Festival 
+
+Dinner
+
+(annual)
+
+Internal management discussions and 
+
+open communications with authorities
+
+(as appropriate)
+
+Systematic review, monitoring 
+
+and tracking of energy and water 
+
+consumption to ensure efficiency
+
+(ongoing)
+
+Attend talks, seminars and workshops 
+
+organised by regulatory agencies 
+
+(ongoing)
+
+Community outreach programs2
+
+(as appropriate)
+
+Sponsorships (monetary, in-kind and venue 
+
+sponsorships)
+
+(as appropriate)
+
+Annual General Meeting
+
+SGXNet announcements and press releases
+
+(as appropriate)
+
+Participation in Securities Investors 
+
+Association (Singapore) (“SIAS”) Shareholder 
+
+Communication Services Programme
+
+(ongoing)
+
+Investors meetings 
+
+(ongoing)
+
+Analysts’ and media briefing
+
+(semi-annually for financial results and 
+
+when necessary for major transactions)
+
+Communication through website, calls and 
+
+email correspondences
+
+(ongoing)
+
+Open communication and performance review 
+
+with employees
+
+(ongoing)
+
+Prompt feedback provided by supervisors 
+
+and HR
+
+(ongoing)
+
+Workshops for work and non-work related 
+
+developments
+
+(as appropriate)
+
+Employee Volunteerism Programmes
+
+(as appropriate)
+
+Staff bonding sessions
+
+(as appropriate)
+
+External and in-house trainings conducted by 
+
+professional bodies
+
+(ongoing)
+
+Key area of 
+
+focus 
+
+• Health, safety and security at  
+
+all properties
+
+• Customer satisfaction
+
+• Timely payment upon completion  
+
+of works
+
+• Regulatory compliance
+
+• Alignment of business partners’ 
+
+goals with Perennial’s sustainability 
+
+goals
+
+• Full regulatory compliance
+
+• Upholding health and safety 
+
+standards
+
+• Minimising the environmental 
+
+impact of Perennial’s operations and 
+
+activities
+
+• Responsible and sustainable use  
+
+of resources
+
+• Management of our community impact
+
+• Support for our community by providing 
+
+timely help and fostering a strong 
+
+relationship
+
+• Business operations and performance
+
+• Growth strategy and market outlook
+
+• Capital management
+
+• Fair and equal employment opportunities
+
+• Remuneration, compensation and benefits 
+
+• Career progression
+
+• Skills development and continuous 
+
+upgrading 
+
+• Employee wellness 
+
+• Safe and healthy working environment
+
+STAKEHOLDER ENGAGEMENT
+
+Regular interaction with stakeholders allows an organisation to understand and manage its impacts as well as to respond to various concerns. As 
+
+Perennial works towards building strong rapport with its stakeholders, it maintains a consistent approach when doing so. The table below outlines 
+
+how the Company engages with its six key stakeholder groups, the respective management strategy, their concerns, Perennial’s responses and 
+
+ultimately how they align with Perennial’s value creation objectives.
+
+Table 3: Perennial’s Approach to Stakeholder Engagement
+
+2 More information on Perennial’s outreach programs can be found on pages 124 to 125 in our Annual Report 2019.
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+08
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+09
+
+Sustainability Report 2019
+
+Stakeholders
+
+Customers
+
+(Tenants, Shoppers, Residents  
+
+and Customers)
+
+Business Partners
+
+Regulators
+
+Our Community
+
+Shareholders and  
+
+the Investment Community
+
+Our People
+
+Perennial’s 
+
+Response
+
+• Consistently review health and safety 
+
+measures, including emergency 
+
+processes and response plans 
+
+conducted by project managers and 
+
+property management teams
+
+• Formulate key strategic decisions on 
+
+product and service offerings based 
+
+on understanding of customers’ 
+
+perspectives and expectations
+
+• Payments monitored closely 
+
+by procurement and finance 
+
+department
+
+• Continued compliance with relevant 
+
+laws and regulations, adhere to 
+
+code of conduct, policies and 
+
+implementation of formalised 
+
+reporting channels
+
+• Ongoing commitment towards 
+
+sustainability practices
+
+• Compliance with all relevant laws, 
+
+regulations, adhere to code of 
+
+conduct, policies and implementing 
+
+formalised channels of reporting
+
+• Robust Corporate Governance 
+
+(“CG”) framework in place
+
+• Implement health and safety 
+
+measures for both customers and 
+
+employees
+
+• Stringent monitoring of energy and 
+
+water usage to ensure efficiency
+
+• Stringent monitoring and regular review of 
+
+energy and water consumption
+
+• Monetary, in-kind and venue sponsorships 
+
+to various organisations
+
+• Champion and support initiatives that 
+
+focus on corporate giving, community 
+
+partnerships, and employee volunteerism
+
+• Regular communication and engagement 
+
+with shareholders and Investment 
+
+Community
+
+• Proactive management of foreign currency 
+
+exposure and liquidity while maximising 
+
+capital efficiency
+
+• Adoption of TAFEP’s five principles of fair 
+
+employment practices
+
+• Open door policy where employees can 
+
+provide feedback or raise issues and 
+
+concerns 
+
+• Perennial Real Estate Graduate Associate 
+
+Programme
+
+• Opportunities for employee volunteerism to 
+
+promote employee fulfilment 
+
+• Comply with Ministry of Manpower 
+
+(“MOM”) by implementing a safety risk 
+
+assessment framework managed by 
+
+Operations Team 
+
+• Appointment of OHSAS 18001 certified or 
+
+equivalent contractors on-site
+
+ESG Factors
+
+1. Customer Satisfaction
+
+2. Health and Safety of Stakeholders
+
+2. Health and Safety of Stakeholders
+
+2. Health and Safety of Stakeholders
+
+4. Corporate Governance
+
+5. Compliance with Laws and 
+
+Regulations
+
+7. Energy, GHG emissions and Alternative 
+
+Energy Sources
+
+8. Water Management
+
+4. Corporate Governance
+
+5. Compliance with Laws and Regulations
+
+3. Business Ethics
+
+5. Compliance with Laws and Regulations
+
+6. Occupational Health and Safety
+
+Reference to 
+
+the Annual 
+
+Report 2019
+
+Customer Satisfaction
+
+(page 94)
+
+Health and Safety of Stakeholders  
+
+(page 94 – 95)
+
+Health and Safety of Stakeholders  
+
+(page 94 – 95)
+
+Supplier Management  
+
+(page 95)
+
+Health and Safety of Stakeholders  
+
+(page 94 – 95)
+
+Corporate Governance  
+
+(page 97 – 115)
+
+Compliance with Laws and Regulations 
+
+(page 95)
+
+Energy, GHG emissions and Alternative  
+
+Energy Sources  
+
+(page 93)
+
+Water Management  
+
+(page 93)
+
+Our Community
+
+(page 124 – 125)
+
+Corporate Governance  
+
+(page 97 – 115)
+
+Compliance with Laws and Regulations  
+
+(page 95)
+
+Investor and Media Relations 
+
+(page 122 – 123)
+
+Financial Statements
+
+(page 129 – 209)
+
+Business Ethics  
+
+(page 95)
+
+Compliance with Laws and Regulations  
+
+(page 95)
+
+Occupational Health and Safety  
+
+(page 94 – 95)
+
+Our People 
+
+(page 126 – 127)
+
+Alignment with 
+
+value creation 
+
+objectives
+
+Quality products and services in a safe 
+
+environment
+
+Mutually beneficial long-term 
+
+partnerships
+
+Compliance with quality standards 
+
+and regulatory requirements, strong 
+
+governance culture 
+
+Addressing the needs and challenges of 
+
+the community while contributing to its 
+
+development
+
+Delivering sustainable returns 
+
+Safe and conducive workplace with 
+
+opportunities that cut across our integrated 
+
+platform 
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+10
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+11
+
+Sustainability Report 2019
+
+
+
+
+
+ENVIRONMENT
+
+Perennial 
+
+recognises 
+
+the 
+
+importance 
+
+of reducing the impacts of its business 
+
+operations on the environment. Led by the 
+
+Sustainability Committee, the Environment 
+
+and Climate Change Mitigation Policy was 
+
+established, guiding not only improvements 
+
+on energy consumption performance across 
+
+several Singapore properties through energy-
+
+efficient AEIs but also the promotion of 
+
+environmental awareness in all employees 
+
+and stakeholders. 
+
+Throughout 
+
+its 
+
+day-to-day 
+
+operations, 
+
+Perennial also explores opportunities to adopt 
+
+energy-saving practices while meeting all legal 
+
+and environmental standards where Perennial 
+
+operates. 
+
+Across both Real Estate and Healthcare 
+
+businesses, a management team located at 
+
+each property monitors consumption levels, 
+
+conducts cost-benefit analysis and explores 
+
+ways to improve usage efficiency. 
+
+In Real Estate properties, an Asset Control 
+
+Group (“ACG”) at each property is responsible 
+
+for analysing consumption data. Anomalies or 
+
+spikes in electricity and water usage will be 
+
+discussed during monthly review meetings. 
+
+Consumption from previous months and years 
+
+will be used as comparison during the analysis 
+
+and any drastic deviations will be promptly 
+
+raised for further actions to be taken. Through 
+
+trend analysis, the ACG also guides towards 
+
+future target setting and adoption of energy-
+
+saving initiatives.
+
+Energy, GHG Emissions and 
+
+Alternative Energy Sources
+
+Improving Energy Efficiency across 
+
+Properties
+
+This year, Perennial has fully completed 
+
+LED light fitting replacements for retail areas 
+
+across almost all3 of its real estate properties 
+
+in Singapore and China. All other light fittings 
+
+will be replaced upon end of life or as and 
+
+when necessary. Energy-saving escalators 
+
+with sensors were also installed in Singapore, 
+
+which reduces consumption during non-peak 
+
+hours at these properties. 
+
+Another major source of energy in commercial 
+
+buildings is attributed to the chiller systems. 
+
+At 111 Somerset, a designed chiller system 
+
+servicing four retail level floors achieved a 
+
+high energy efficiency of below 0.7kW/RT. 
+
+This has helped to relieve the higher energy 
+
+consumption in the midst of AEI works. 
+
+In 
+
+China, 
+
+energy-related 
+
+trainings 
+
+were 
+
+conducted for employees which aimed to 
+
+improve existing skillsets and their knowledge 
+
+in latest energy monitoring systems. Perennial 
+
+plans to carry out trainings for more employees 
+
+in the near future. At Fengxian, the installation 
+
+of power meters was also completed during 
+
+the year and the team onsite will continue to 
+
+assess its sufficiency and may propose further 
+
+installations if necessary. 
+
+Purchased electricity from the grid remains 
+
+as the primary source of energy used across 
+
+Singapore and China, with a small portion of 
+
+natural gas consumed at Perennial Qingyang 
+
+Mall during the winter months. In FY2019, 
+
+Perennial’s total energy consumption was 
+
+Figure 5: Energy Consumption and Intensity5
+
+3 With the exception of CHIJMES and House of Tan Yeok Nee which are still undergoing AEI projects.
+
+4 Energy indirect carbon emissions (or Scope 2 emissions) are GHG emissions from purchased or acquired electricity. Emission factors used for Singapore were derived from 2018 Singapore 
+
+Energy Statistics published by the Energy Market Authority of Singapore. Emission factors used for China derived from National Center for Climate Change Strategy and International 
+
+Cooperation’s website.
+
+recorded at 46,350 MWh, of which 1,337 
+
+MWh were from natural gas usage. This 
+
+resulted in a corresponding GHG emissions4 
+
+of 20,037 tonnes CO2e, of which 270 tonnes 
+
+CO2e were Scope 1 GHG emissions. 
+
+For the purpose of like-for-like comparison, 
+
+Perennial reports the major source of energy 
+
+consumption – purchased electricity (Figure 5) 
+
+and corresponding Scope 2 GHG emissions 
+
+(Figure 
+
+6). 
+
+In 
+
+FY2019, 
+
+total 
+
+electricity 
+
+consumption was recorded at 45,013 MWh, 
+
+a 5% increase from FY2018. Correspondingly, 
+
+Scope 2 GHG from electricity consumption 
+
+also increased from 19,234 tonnes CO2e in 
+
+FY2018 to 19,767 tonnes CO2e in FY2019. 
+
+Overall, Perennial has maintained a stable 
+
+consumption of energy used across both 
+
+years. The ACGs at each property will continue 
+
+to monitor performance and explore new 
+
+ways to reduce consumption while increasing 
+
+efficiency of existing equipment.
+
+ 
+
+ How does Perennial Manage this?
+
+• Environment and Climate Change Mitigation Policy
+
+ 
+
+Who at Perennial Oversees this?
+
+• Sustainability Committee 
+
+ 
+
+ Highlights of FY2019
+
+• 100% LED light replacement at all retail areas of both China properties and Singapore 
+
+properties with CHIJMES and House of Tan Yeok Nee still ongoing
+
+• Installation of water-efficient taps across all properties
+
+• Onsite wastewater and rainwater treatment facilities at Fengxian
+
+• All Singapore properties have met BCA Green Mark requirements after relevant AEIs 
+
+have completed
+
+ 
+
+ Relevant UN SDG
+
+5 FY2018 energy consumption and intensity data were restated, as an estimated figure was used for December 2018 consumption. The actual consumption was only available in FY2019, 
+
+hence actual consumption has been reflected this year. 
+
+6 FY2018 carbon emissions and intensity data were restated due to the revised energy consumption and intensity data. Please refer to Footnote 5.
+
+In the year, properties in China held various 
+
+sustainability awareness events aimed at 
+
+educating the public on the importance of 
+
+sustainability and how they can contribute 
+
+towards the environment. The events 
+
+received support from the local government 
+
+and media. Over 100 visitors, tenants and 
+
+employees have actively participated in 
+
+these events. 
+
+In September 2019, a total of three anti-
+
+trash run events were held at Perennial 
+
+Jihua Mall (Foshan). The events attracted 
+
+over 
+
+500 
+
+“eco-warriors” 
+
+dressed 
+
+in 
+
+traditional Chinese clothing who actively 
+
+picked up litter along the running route. 
+
+The event promoted the integration 
+
+of Chinese culture and also aimed to 
+
+inculcate the right attitude towards waste 
+
+disposal by placing waste where it belongs 
+
+– in a rubbish bin. 
+
+An online game “Where Does The 
+
+Garbage Go” was launched on Weibo to 
+
+educate the public on the importance of 
+
+segregating recyclables such as glass, 
+
+plastic, metal from general waste. Scores 
+
+CASE STUDY: Spreading Environmental Awareness through Fun and Games!
+
+were displayed on a leaderboard and 
+
+players with the highest scores were 
+
+awarded with attractive prizes.
+
+Figure 6: Carbon Emissions and Intensity6
+
+50,000
+
+45,000
+
+40,000
+
+35,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+Energy Consumption (MWh)
+
+Energy Intensity (KWh/m2)
+
+200
+
+180
+
+160
+
+140
+
+120
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+FY2018
+
+FY2019
+
+43,016
+
+45,013
+
+156.0
+
+163.2
+
+ CHIJMES 
+
+ 111 Somerset 
+
+ AXA Tower
+
+ Chinatown Point 
+
+ Capitol Singapore 
+
+ House of Tan Yoke Nee*
+
+ Perennial Qingyang Mall 
+
+ Perennial Jihua Mall 
+
+ Energy Intensity
+
+5%
+
+12%
+
+21%
+
+15%
+
+20%
+
+15%
+
+12%
+
+5%
+
+16%
+
+21%
+
+16%
+
+23%
+
+8%
+
+11%
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+Carbon Emissions (in tonnes CO2e)
+
+Carbon Emissions Intensity (in kgCO2e/m2)
+
+80.0
+
+70.0
+
+60.0
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+10.0
+
+0.0
+
+FY2018
+
+FY2019
+
+ CHIJMES 
+
+ 111 Somerset 
+
+ AXA Tower
+
+ Chinatown Point 
+
+ Capitol Singapore 
+
+ House of Tan Yoke Nee*
+
+ Perennial Qingyang Mall 
+
+ Perennial Jihua Mall 
+
+ Carbon Emissions Intensity
+
+5%
+
+11%
+
+19%
+
+14%
+
+20%
+
+18%
+
+13%
+
+4%
+
+15%
+
+20%
+
+16%
+
+22%
+
+10%
+
+13%
+
+19,234
+
+19,767
+
+69.7
+
+71.7
+
+* 
+
+Energy consumption of House of Tan Yeok Nee accounts for less than 1% of total energy and GHG emissions, hence its exact percentage is not reflected in Figures 5 and 6 based on 
+
+the scale used
+
+Moving forward, Perennial will continue to 
+
+organise such events that raise awareness 
+
+on environmental protection.
+
+
+
+
+
+Anti-trash run events
+
+Online game
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+12
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+13
+
+Sustainability Report 2019
+
+Water Management
+
+Water Saving Measures 
+
+Since FY2017, Perennial has consistently 
+
+tracked water consumption levels and has 
+
+introduced 
+
+water-saving 
+
+initiatives where 
+
+appropriate. During the year, more water 
+
+fittings with Water Efficiency Labelling Scheme 
+
+ticks issued by PUB, Singapore’s National 
+
+Water Agency were procured and installed 
+
+during AEI works at 111 Somerset. In FY2019, 
+
+installation of water meters has been fully 
+
+completed at retail areas of AXA Tower 
+
+and are currently ongoing amongst other 
+
+properties in Singapore. With the installation 
+
+of water meters, the ACG was able to obtain 
+
+more accurate readings of water consumption 
+
+and promptly respond to any water leakages.  
+
+The data also allowed for more detailed 
+
+analysis of consumption patterns across  
+
+the assets. 
+
+Similarly in the China properties, advanced 
+
+water-efficient taps and several other water-
+
+saving fittings have been introduced. In 
+
+FY2019, Perennial Qingyang and Perennial 
+
+Jihua malls have also completed installation 
+
+of water meters and will continue to monitor 
+
+its sufficiency. Further measures will be 
+
+introduced to better track water consumption 
+
+when required. At Fengxian, used water is 
+
+collected and treated at the onsite wastewater 
+
+treatment station before it is discharged 
+
+into the domestic wastewater system. The 
+
+wastewater is thus returned to the water cycle 
+
+with reduced impact on the environment. 
+
+In FY2019, Perennial recorded a total water 
+
+consumption of 508,261 m3 across Singapore 
+
+and China assets. In Singapore, Perennial’s 
+
+water consumption in FY2019 recorded an 
+
+overall 17% increase from FY2018. This was 
+
+attributed to an incident at Capitol Theatre 
+
+where a fire alarm panel was triggered, 
+
+activating the deluge system, causing water to 
+
+flow out from the fire sprinklers. Upon further 
+
+investigation, there was no fire detected on 
+
+the premises. To prevent reoccurrence, the 
+
+Operations Team will arrange regular facility 
+
+maintenance works and enhance security 
+
+patrol in public areas of Capitol Singapore. 
+
+Perennial continues to align itself with 
+
+Singapore’s movement towards being self-
+
+reliant where NEWater is targeted to meet 
+
+up to 55% of total water demand by 2060. 
+
+In FY2019, 49% of Perennial’s water use 
+
+in Singapore came from NEWater, a 10% 
+
+increase from 172,606 m3 in FY2018. 
+
+Moving forward, Perennial will continue to 
+
+explore water saving initiatives to reduce 
+
+usage as well as to educate stakeholders 
+
+across all assets on the importance of  
+
+water conservation.
+
+Figure 7: Water Consumption in Singapore and China7
+
+Figure 8: Breakdown of Water Consumption in Singapore
+
+7 FY2018 water consumption data was restated, as an estimated figure was used for December 2018. The actual consumption was only available in FY2019, hence actual consumption 
+
+has been reflected this year.
+
+SOCIAL
+
+Customer Satisfaction
+
+Perennial remains dedicated to deliver a good 
+
+customer service experience to its end-users 
+
+(tenants, shoppers, residents and customers). 
+
+The CMT located at each property comprising 
+
+operations, marketing communications and 
+
+leasing departments liaises and regularly 
+
+engages with tenants while working in 
+
+tandem with headquarters (“HQ”) to provide 
+
+resources and tailored offerings for all  
+
+end-users. The respective teams on site 
+
+conduct daily walkabouts, checking on overall 
+
+ambience, experience and interact with the 
+
+various stakeholders.
+
+At Fengxian, the Residents Democratic 
+
+Management Committee’s staff members 
+
+interact with the residents on a daily basis 
+
+to understand their concerns, which allows 
+
+Perennial to better meet their needs.
+
+Asset Enhancement Initiatives 
+
+Over the years, Perennial strives to be at the 
+
+forefront of delivering a quality experience 
+
+for its customers. Through numerous AEIs 
+
+implemented, shoppers are now able to enjoy 
+
+a wider range of amenities and retail options all 
+
+within a more holistic environment. 
+
+ 
+
+ How does Perennial Manage this?
+
+• Tenant Liaison Standard Operating Procedures (“SOPs”) are in place which guide 
+
+Perennial on management of tenants for better Customer Satisfaction
+
+ 
+
+Who at Perennial Oversees this?
+
+• Perennial Corporate Office located at HQ
+
+• CMT located at respective property
+
+• Residents Democratic Management Committee at Fengxian
+
+ 
+
+ Highlights of FY2019
+
+• AEIs conducted to enhance customer experience across Perennial’s properties
+
+• Training provided to concierge officers to improve customer service quality
+
+• Regular engagement with tenants, shoppers, residents and customers to gather feedback 
+
+on satisfaction levels
+
+In FY2019, Perennial introduced several 
+
+amenities such as addition of nursing 
+
+rooms (111 Somerset) and wheelchair 
+
+lifts (Chinatown Point) to provide greater 
+
+convenience 
+
+and 
+
+accessibility. 
+
+The 
+
+installation of turnstiles with a lift destination 
+
+control system at AXA Tower has provided 
+
+even greater access control security to 
+
+tenants and visitors with a reduction in 
+
+waiting time.
+
+Perennial advocates for a productive 
+
+and healthy work environment across its 
+
+commercial assets. In response to the 
+
+Government’s call, End-of-Trip (“EOT”) 
+
+facilities were introduced at AXA Tower and 
+
+111 Somerset. Bicycle lots, lockers, shower 
+
+rooms and toilets were installed to provide 
+
+greater convenience for tenants and visitors 
+
+who cycle to work. Rolled out in April 2019, 
+
+these facilities have been welcomed by 
+
+the tenants, shoppers and visitors. EOT 
+
+facilities 
+
+also 
+
+demonstrate 
+
+Perennial’s 
+
+continued support for the environment 
+
+by encouraging the use of non-motorised 
+
+transport options, further reducing overall 
+
+carbon footprint.
+
+CASE STUDY: End-of-Trip Facilities at AXA Tower and 111 Somerset 
+
+
+
+FY2018
+
+450,146 m3 
+
+ Singapore 
+
+74%
+
+ China 
+
+26%
+
+
+
+FY2019
+
+508,261 m3 
+
+ Singapore 
+
+76%
+
+ China 
+
+24%
+
+
+
+FY2018
+
+332,032 m3 
+
+ Municipal Water 
+
+48%
+
+ NEWater 
+
+52%
+
+
+
+FY2019
+
+386,990 m3 
+
+ Municipal Water 
+
+51%
+
+ NEWater 
+
+49%
+
+Number 
+
+of EOT 
+
+Facilities
+
+AXA 
+
+Tower
+
+111 
+
+Somerset
+
+Bicycle 
+
+Racks
+
+134
+
+100
+
+Lockers
+
+152
+
+76
+
+Shower 
+
+Rooms
+
+14
+
+4
+
+Toilets
+
+5
+
+5
+
+Bicycle racks, lockers, shower rooms and restrooms provided at 111 Somerset and AXA Tower
+
+PHOTO
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+14
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+15
+
+Sustainability Report 2019
+
+
+
+
+
+
+
+
+
+Supplier Management
+
+While majority of Perennial’s operations are carried out by its employees, the supply chain is made up of suppliers which provide services such as 
+
+cleaning and security works. As Perennial upholds its commitment to sustainability, it sets a similar expectation for its supply chain as well. Through 
+
+a rigorous four-step approach, Perennial screens potential suppliers and vendors based on requirements specific to each project. For major projects 
+
+such as AEIs, Perennial practises the approach illustrated below.
+
+Figure 9: Perennial’s Supplier Management Process
+
+1. PRE-QUALIFICATION
+
+Perennial has in place an internal vendors’ assessment for all suppliers. 
+
+New suppliers must present relevant financial statements, track records and ISO certifications. They must also meet respective guidelines 
+
+such as:
+
+(i) Police Licensing and Regulatory Department minimum B grade (for security suppliers)
+
+(ii) Building &amp; Construction Authority and ISO certification (for builders and electrical vendors)
+
+Current suppliers have to pass Perennial’s internal vendors’ assessment (minimum average grading).
+
+2.  TENDER CALLING
+
+Potential suppliers will undergo a second screening for projects which require tender calling.
+
+For projects that require the calling of tender, potential suppliers will undergo two screenings. Should there be any deviation from the  
+
+Pre-Qualification list, senior management’s approval would be sought.
+
+Operations Team will determine the required scope of work and evaluate suppliers based on price and quality of materials used. Vendors are 
+
+required to meet specified requirements set out in the tender document to ensure the quality of their goods and services.
+
+For example, security officers will have to possess the Workforce Skills Qualifications (“WSQ”) Certificate in Security Operations, have relevant 
+
+working experience and be physically fit. Cleaning service contractors should also be certified by WSQ/National Skills Recognition System 
+
+(“NSRS”) or at minimum possess a Cleaning Business License from National Environmental Agency (“NEA”).
+
+3. EXECUTION
+
+All suppliers and vendors are mandated to comply with relevant laws and regulations in their countries of operations (e.g. Employment Act and 
+
+WSH Act in Singapore and Law of People’s Republic of China on Work Safety in China). 
+
+Suppliers are also required to ensure that service staff hired have received relevant service delivery training, in order to ensure that these staff 
+
+possess a positive working attitude.
+
+4. REVIEW
+
+Supplier performance is closely monitored via activities carried out during the course of work. such as:
+
+(i) Site inspection – To certify that work is carried out in a manner that safeguards workers’ health and safety.
+
+(ii) Proper handover – Work carried out by contractors should be endorsed through proper handover documentation featuring sign-off from 
+
+all parties.
+
+(iii) Internal audit – Internal audit team will work together with independent external consultants to audit operational processes to ensure that 
+
+standards are met.
+
+(iv) Regular engagement – Regular meetings are held with suppliers and contractors for updates on projects and construction works.
+
+Campaigns for Tenants and Visitors
+
+Throughout the year, tenants were invited to 
+
+participate in monthly advertising and promotion 
+
+(“A&amp;P”) campaigns. Working closely with 
+
+the participating tenants, exclusive food and 
+
+shopping discounts were offered to shoppers 
+
+as well, generating good press publicity and 
+
+tenants in turn enjoy greater exposure. 
+
+These campaigns have generated greater 
+
+footfall for the malls and overall sales. Kids 
+
+Fest held at 111 Somerset in October 2019 
+
+saw a series of activities catered for children, 
+
+ranging from roving magician to balloon art 
+
+sculpture. It witnessed an increase in traffic 
+
+by 9.7% compared with the previous week. 
+
+In December 2019, Capitol Singapore held its 
+
+first Christmas event with the transformation 
+
+of the Outdoor Plaza into a European-inspired 
+
+Capitol Kempinski Christmas Market. The 
+
+three-week long market featured over 50 
+
+festive booths selling Christmas goodies like 
+
+panettone, log cakes, chilled mulled wine and 
+
+many more. The event attracted over 876,000 
+
+members of the public. 
+
+ 
+
+In China, a series of sustainability-related 
+
+events ranging from personal wellbeing, 
+
+health talks to safety awareness were held 
+
+throughout the year. Through a collaboration 
+
+with the gym located within Perennial 
+
+Jihua Mall, fitness activities were launched, 
+
+encouraging shoppers to adopt an active 
+
+lifestyle. Complimentary classes such as 
+
+The Spirit of Giving
+
+Aside to working with tenants, Singapore 
+
+retail properties are equipped with facilities 
+
+that cater to large-scale events and 
+
+symposiums. In FY2019, Perennial offered 
+
+over S$1 million in venue sponsorships 
+
+for 
+
+numerous 
+
+events 
+
+dedicated 
+
+to 
+
+its beneficiaries, some of which are 
+
+showcased below: 
+
+ 
+
+On 16 August 2019, Perennial welcomed 
+
+over 
+
+60 
+
+volunteers 
+
+from 
+
+Voices 
+
+of 
+
+Singapore, Dementia Prevention Choral 
+
+Group and Lions Befrienders for a delightful 
+
+session 
+
+of 
+
+‘SingWithJoy@CHIJMES’. 
+
+This event was one of the first of its kind 
+
+which showcases Perennial’s efforts in 
+
+raising awareness on dementia among 
+
+the aged community. These regular choir 
+
+practices function as exercises for the 
+
+brain by stimulating and improving memory, 
+
+which has been shown to delay onset  
+
+of dementia. 
+
+On 6 December 2019, The Perennial and 
+
+The Capitol Kempinski Hotel Singapore 
+
+Charity Night was held and saw a 
+
+night of triple celebrations as Perennial 
+
+celebrated its 10th anniversary, as well as 
+
+commemorated the 1st anniversary of The 
+
+Capitol Kempinski Hotel Singapore and the 
+
+115th anniversary of Stamford House with 
+
+a charity dinner at Capitol Theatre graced 
+
+by Minister for Education, Mr Ong Ye Kung,  
+
+as Guest-of-Honour.
+
+The Charity Night raised S$255,000 for 
+
+beneficiaries of the Community Chest. 
+
+Separately, 
+
+Perennial 
+
+also 
+
+donated 
+
+S$100,000 to the Straits Times School 
+
+Pocket 
+
+Money 
+
+Fund 
+
+(“STSPMF”).  
+
+A charity silent auction was also held with 
+
+full proceeds donated equally towards the 
+
+Community Chest and STSPMF.
+
+The night’s celebrations kicked off with 
+
+the lighting up of the Capitol • Kempinski 
+
+Supplier performance will be closely monitored 
+
+based on the activities carried out during the 
+
+course of work. This includes site inspection, 
+
+proper handover, internal audits and regular 
+
+engagements.
+
+All suppliers and vendors are mandated to comply 
+
+with relevant laws and regulations in their countries 
+
+of operations (e.g. Employment Act and Workplace 
+
+Safety and Health (“WSH”) Act in Singapore and 
+
+Law of People’s Republic of China on Work Safety 
+
+in China). They will also be accountable for ensuring 
+
+their employees receive relevant training for the 
+
+required works.
+
+Perennial has in place an internal vendors’ 
+
+assessment for all suppliers. Only pre-qualified 
+
+ones will be invited for tender of which they 
+
+will be required to prepare relevant financial 
+
+statements, track records, ISO certifications and 
+
+meet respective guidelines (applicable for security 
+
+suppliers, builders and electrical vendors).
+
+Potential suppliers will undergo a second screening 
+
+for projects which require tender calling. Inputs 
+
+will be sought from Operations Team on the 
+
+required works to evaluate suppliers based on 
+
+price and quality of materials used. Vendors will 
+
+have specified requirements set out in the tender 
+
+document upon awarding of contract.
+
+
+
+E
+
+x
+
+e
+
+c
+
+u
+
+t
+
+i
+
+o
+
+n
+
+P
+
+r
+
+e
+
+-
+
+q
+
+u
+
+a
+
+l
+
+if
+
+i
+
+c
+
+a
+
+t
+
+i
+
+o
+
+n
+
+T
+
+e
+
+n
+
+d
+
+e
+
+r 
+
+C
+
+a
+
+l
+
+li
+
+n
+
+g
+
+R
+
+e
+
+v
+
+i
+
+e
+
+w
+
+PERENNIAL  
+
+SUPPLIER  
+
+MANAGEMENT  
+
+PROCESS
+
+Pre-qualified vendors
+
+SingWithJoy@CHIJMES
+
+
+
+
+
+Perennial and The Capitol Kempinski Hotel 
+
+Singapore Charity Night
+
+1
+
+2
+
+3
+
+4
+
+Christmas event at Capitol Singapore
+
+Sustainability events in China
+
+Singing Tree to officially launch the 
+
+Capitol • Kempinski Christmas Market.  
+
+The 
+
+Christmas 
+
+Market 
+
+featured 
+
+an 
+
+outdoor ice skating rink and all attending 
+
+beneficiaries from the Community Chest 
+
+and STSPMF were invited to enjoy and 
+
+have fun on the skating rink. They also 
+
+savoured a special Christmas buffet spread 
+
+to round up the festivities.
+
+
+
+
+
+
+
+boxing, trampoline fitness and Pilates were 
+
+organised. Another focus of these events was 
+
+to improve mental wellbeing. Perennial Jihua 
+
+Mall organised a ‘stress-relieving’ exhibition, 
+
+an interactive experience where shoppers 
+
+cycled and punched their stress away.
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+16
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+17
+
+Sustainability Report 2019
+
+Regular Engagement and Feedback
+
+Stakeholders’ 
+
+feedback 
+
+is 
+
+of 
+
+utmost 
+
+importance as it has a large impact on the 
+
+marketing and business opportunities for 
+
+the malls. While the feedback highlights 
+
+potential areas for improvement, it also 
+
+showcases 
+
+the 
+
+areas 
+
+which 
+
+Perennial 
+
+has done well in. Through these regular 
+
+interactions, the Company would be able to 
+
+allocate the appropriate resources to address 
+
+the stakeholders’ concerns. Feedback is 
+
+gathered through various channels – mainly 
+
+from daily walkabouts and survey forms to 
+
+evaluate the effectiveness of each campaign. 
+
+The Marketing and Communications team 
+
+continues to support tenants on their 
+
+advertising needs to boost sales and traffic. 
+
+In FY2019, Perennial held over 150 A&amp;P 
+
+campaigns and events, which were well 
+
+received by both tenants and shoppers. 
+
+Shoppers can provide feedback on their 
+
+shopping experience at Perennial’s malls 
+
+through the Concierge or an electronic form 
+
+available on the respective mall’s website. 
+
+All suggestions and opinions would be 
+
+acknowledged by the Customer Service 
+
+Team and escalated to the CMT should 
+
+further actions be required. During the year, 
+
+training programmes were also rolled out for 
+
+mall technicians to improve their equipment 
+
+knowledge to better serve the tenants. All 
+
+concierge staff and technicians will be enrolled 
+
+in customer and service training courses in 
+
+FY2020.
+
+Perennial aims to provide quality and 
+
+efficient customer service to all. A dedicated 
+
+team of Customer Service Assistants 
+
+(“CSAs”) located at each mall are guided 
+
+by the CSA Service Standard which sets 
+
+out procedures on reacting and responding 
+
+to customers in a professional manner.
+
+CSAs provide a variety of services ranging 
+
+from general services such as Lost &amp; Found 
+
+and tenants’ promotions to incident and 
+
+feedback reporting across all Perennial 
+
+-owned 
+
+and/or 
+
+managed 
+
+properties. 
+
+Additionally, they also oversee operational 
+
+aspects of the mall such as daily operating 
+
+routines from before the start of the malls’ 
+
+operations to after the malls’ closing.
+
+Customers are also encouraged to leave 
+
+their feedback regarding products, service 
+
+quality, and the property’s facilities, security 
+
+and cleanliness. When feedback is received, 
+
+an acknowledgement message will be sent 
+
+to the customer. All unsatisfactory feedback 
+
+will be addressed by the Management 
+
+team within 24 hours. Should the feedback 
+
+involve tenants, the CSA will reach out to 
+
+them for follow-up actions. A copy of the 
+
+resolution document will be issued to the 
+
+CASE STUDY: Customer Service Assistants across Malls
+
+customer upon the closure and recorded 
+
+within the system. All incident reports 
+
+received will be reviewed for continuous 
+
+improvement. These records may also be 
+
+incorporated into customer quality trainings 
+
+for future CSAs. 
+
+This year, a customer satisfaction survey 
+
+was 
+
+conducted 
+
+at 
+
+Perennial 
+
+Jihua 
+
+Mall aimed to understand customers’ 
+
+preference to promotions as well as areas 
+
+for improvement. Over 600 responses 
+
+were received with more than 50% of the 
+
+respondents requesting for more dining 
+
+options, of which 40% suggested hotpot 
+
+restaurants. Since then, the feedback has 
+
+been taken into consideration and Perennial 
+
+Jihua Mall looks to explore these options.
+
+Prioritising Patients in Eldercare
+
+Perennial recognises the significant potential 
+
+in China’s healthcare industry as demand for 
+
+medical services and quality integrated elderly 
+
+care is set to expand substantially amidst a 
+
+rapidly ageing population. Perennial’s constant 
+
+engagement with industry-relevant players in 
+
+the market via partnerships and joint ventures 
+
+continues to drive the implementation of its 
+
+integrated real estate and healthcare model. 
+
+Its healthcare business focuses on two core 
+
+segments, namely Hospitals and Medical 
+
+Centres, and Eldercare and Senior Housing. 
+
+Under Renshoutang’s portfolio, Fengxian is 
+
+the first eldercare home that has embarked 
+
+on its sustainability reporting journey. It strives 
+
+to provide a therapeutic environment for its 
+
+residents through various eldercare facilities 
+
+including a clinic, a library, and activity rooms 
+
+which allow numerous social activities such 
+
+as chess, painting and music appreciation. 
+
+Holistic services ranging from daily nursing care 
+
+to specific dementia care are also provided on 
+
+site. Fengxian aims to deliver the best of both 
+
+medical treatment and nursing services to its 
+
+residents. Feedback is regularly gathered from 
+
+residents to understand satisfaction levels and 
+
+identify areas for enhancements.
+
+ 
+
+ How does Perennial Manage this?
+
+• Workplace Health, Safety and Security Policy (“HSS Policy”) for properties in Singapore
+
+• SOPs on Work Safety and Production for properties in China
+
+• Work Safety Guidelines in Fengxian
+
+ 
+
+Who at Perennial Oversees this?
+
+• Perennial Corporate Office Safety Team
+
+• CMT located at each property in Singapore and China
+
+• Safety Officers at Fengxian
+
+ 
+
+ Highlights of FY2019
+
+• Annual fire drills held across Singapore and China properties 
+
+• Attained yearly recertification for Fire Safety Managers across all Singapore assets
+
+• Fire safety awareness course held annually for residents at Fengxian
+
+Health and Safety of Stakeholders
+
+Maintaining a Safe Environment for All
+
+Each day, thousands of stakeholders spend 
+
+long hours at or pass through Perennial’s 
+
+premises. Safeguarding their health and safety 
+
+is important and considered an integral part of 
+
+Perennial’s business. While the Group strives 
+
+to provide a dynamic and holistic experience 
+
+for stakeholders, pertinent steps are taken 
+
+on the prompt identification, resolution and 
+
+mitigation of health and safety risks. 
+
+Since FY2015, Health, Security and Safety Risk 
+
+has been considered as part of the Group’s 
+
+Enterprise Risk Management Framework. 
+
+Together with the other sustainability risks, 
+
+it is reviewed annually to ensure appropriate 
+
+actions are taken to mitigate associated 
+
+impacts. 
+
+The 
+
+HSS 
+
+Policy 
+
+guides 
+
+employees 
+
+in 
+
+conducting risk assessments (“RAs”) and 
+
+incorporating several safety measures to 
+
+safeguard lives of its stakeholders. Likewise, 
+
+this policy also extends to Perennial’s tenants, 
+
+shoppers and contractors. Cascading these 
+
+stringent guidelines down its supply chain, 
+
+Perennial only hires qualified contractors with 
+
+a proven track record and relevant health, 
+
+safety and environmental certifications such 
+
+as bizSAFE (Level 3 and above), ISO 45001, 
+
+OHSAS 18001 and ISO 14001. 
+
+All selected contractors will have to submit a 
+
+series of safety document comprising RAs, 
+
+safe work procedures (“SWPs”) and other 
+
+relevant information to the Operations Team at 
+
+the CMT for review. Prior to commencement 
+
+of high-risk Mechanical &amp; Electrical and AEI 
+
+works, a permit-to-work has to be obtained by 
+
+the team before they can enter the work site. 
+
+During the course of the works, contractors 
+
+will have to arrange for qualified personnel 
+
+such as a WSH coordinator and officers to be 
+
+on site and attend site coordination meetings. 
+
+Perennial monitors WSH performance of 
+
+contractors for the entire duration of project 
+
+as well. Sufficient safety hoardings are put 
+
+up to prevent trespassing, and ample lighting 
+
+installed to caution stakeholders from the 
+
+dangers within the site.
+
+In China, the SOPs on Work Safety 
+
+and 
+
+Production 
+
+also 
+
+include 
+
+guidelines 
+
+for stakeholders, with an emphasis on 
+
+emergency response. Similar to the set of 
+
+Crisis Management Standard Procedures8 
+
+for Singapore assets, guidelines on handling 
+
+situations such as electrical failure and gas 
+
+leakage, as well as breakdown of lifts and 
+
+elevators at malls have been established as 
+
+well. Responsibilities of the relevant personnel 
+
+and course of action to be taken are detailed 
+
+within the guidelines, ensuring that employees 
+
+are familiar during times of emergencies. 
+
+All stakeholders are encouraged to promptly 
+
+report any potential hazards or safety 
+
+incidents to their immediate liaison or to 
+
+the Customer Service Counters. Following 
+
+which, the relevant department would step 
+
+in and conduct further investigation where 
+
+necessary.
+
+Safeguarding Lives of the Elderly 
+
+With close to 700 residents under Fengxian’s 
+
+care, their safety and wellbeing are of 
+
+utmost importance. Focusing on its core 
+
+as a quality provider of elderly rehabilitative 
+
+care, it is equipped with state-of-the-art 
+
+health screening machines, supported by an 
+
+experienced and professional medical team 
+
+specialising in geriatric, rehabilitation medicine, 
+
+nutrition and other relevant fields. Aside 
+
+from providing quality homes and facilities, 
+
+various landscaping features have also been 
+
+considered and incorporated into its overall 
+
+design. This brings the best of both facilities 
+
+as well as a natural environment for all.
+
+Aside to the provision of quality facilities and 
+
+amenities, comprehensive SOPs on health, 
+
+safety and wellbeing have been established. 
+
+Overnight patrols and curfews are strictly 
+
+enforced to ensure accountability and safety 
+
+of the elderly residents. Also, in addition 
+
+to the daily safety inspections conducted 
+
+by respective Safety Personnel and Safety 
+
+Officers, guidelines are in place to prioritise 
+
+residents’ safety in the event of emergencies 
+
+such as:
+
+• Outbreak of diseases
+
+• Injuries such as slip, trips and falls, burns 
+
+and abrasions 
+
+• Fire and other related accidents 
+
+• Missing residents 
+
+All medical staff are required to familiarise 
+
+themselves with the follow-up actions for 
+
+all of these situations. Throughout the year, 
+
+table-top exercises and real-life simulation 
+
+were conducted to test for responsiveness. 
+
+Results from these exercises would be 
+
+recorded. Existing SOPs may be reviewed to 
+
+increase robustness.  
+
+Throughout the premises, safety posters and 
+
+evacuation response plans are displayed to 
+
+remind residents of the actions to be taken 
+
+in times of emergencies. Each year, a fire 
+
+safety awareness course is conducted for  
+
+all residents. 
+
+In FY2019, Fengxian has achieved its target 
+
+of zero fatality rate and zero incidents of 
+
+health and safety issue – a performance it 
+
+aims to upkeep.
+
+8 This set of procedures provides guidance to employees on course of action when dealing with situations such as medical emergencies, violent crimes of behaviour, political situations, 
+
+environmental or natural disasters and building faults (which can threaten safety aspect of the building or customers such as shattered glass, power and electrical failure and gas leakage).
+
+CSA Desk at Perennial Jihua Mall
+
+
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+18
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+19
+
+Sustainability Report 2019
+
+Providing a Holistic and Engaging Environment for Residents at Fengxian
+
+The atrium garden and rooftop garden located within the building provides the residents access to the outdoors well within Fengxian’s safe 
+
+and secure premises. Residents can also enjoy a myriad of activities ranging from calligraphy, board games to folding origami aimed at 
+
+improving their focus and hand-eye coordination.
+
+Occupational Health and Safety
+
+The provision of a safe and healthy workplace 
+
+is key towards building a high-performing 
+
+workforce. Across Singapore and China, 
+
+policies and SOPs have been established to 
+
+ensure operations remain in full compliance 
+
+with 
+
+all 
+
+applicable 
+
+legal 
+
+requirements, 
+
+standards and code of practices. 
+
+Safe, Secure &amp; Well at Perennial
+
+The HSS Policy guides both the Safety 
+
+Team at Perennial HQ and respective CMTs 
+
+located at each property on the processes 
+
+towards achieving positive health and safety 
+
+performance across its Singapore properties. 
+
+This is done through holding regular fire drills 
+
+and conducting safety trainings to ensure 
+
+the well-being of employees during the 
+
+course of work. 
+
+Perennial is currently on track to achieve 
+
+bizSAFE Level 3 certification for all CMTs in 
+
+Singapore by FY2020, with CHIJMES being 
+
+the first property to achieve this certification 
+
+in FY2019. 
+
+ 
+
+ How does Perennial Manage this?
+
+• Workplace HSS Policy for properties in Singapore 
+
+• SOPs on Work Safety and Production in China
+
+• Work Safety Guidelines in Fengxian
+
+ 
+
+Who at Perennial Oversees this?
+
+• Perennial Corporate Office Safety Team
+
+• CMT located at each property in Singapore and China 
+
+• Safety Officer supported by respective Safety Personnel from various departments  
+
+in Fengxian
+
+ 
+
+ Highlights of FY2019
+
+• Annual fire drills held across Singapore and China properties 
+
+• Obtained bizSAFE Level 3 certification for CHIJMES 
+
+• Work Safety Standardisation Certificate (Level 3) for Perennial Qingyang Mall and Perennial 
+
+Jihua Mall 
+
+In the event of emergencies such as fire, terrorist activities amongst other safety incidents, an Emergency Response workflow would be 
+
+activated. It guides various functions on the necessary procedures during and after the emergency. 
+
+CASE STUDY: Emergency Response Workflow at Perennial 
+
+During the 
+
+emergency
+
+After the 
+
+emergency
+
+Internal
+
+External
+
+Operations Department 
+
+sounds the alarm in the event 
+
+of an emergency (which may 
+
+include fire accidents, terrorist 
+
+attacks and all other safety 
+
+incidents)
+
+Customer reports an emergency 
+
+case at the Customer Service 
+
+Counter to the CSA
+
+CSA informs Security Team on 
+
+the situation
+
+Customer Service Desk informs the Duty Manager and Facility Manager. CSA to carry 
+
+out emergency response procedures as planned
+
+Upon resolution, CSA records details of the emergency into the systems. A back-up copy 
+
+is submitted to the Marketing Manager simultaneously.
+
+Residents attending annual fire safety awareness course
+
+Elderly engaged in various activities such as calligraphy, board games and origami
+
+Atrium Garden and Rooftop Garden
+
+
+
+
+
+
+
+
+
+
+
+
+
+Safety posters displayed
+
+
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+20
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+21
+
+Sustainability Report 2019
+
+As Perennial continues to roll out bizSAFE 
+
+Level 3 certification across other properties 
+
+in Singapore, existing SOPs have been 
+
+established covering areas of RA, SWP, and 
+
+SGSecure knowledge. The Safety Team, 
+
+with the help of Human Resources (“HR”) 
+
+division would ensure the communication to 
+
+employees across Perennial. During the year, 
+
+should there be any major changes to the 
+
+work activities, the Safety Team would review 
+
+the existing risk register to update the SOPs 
+
+and guidelines accordingly. In FY2019, the 
+
+HSS policy and relevant SOPs were reviewed 
+
+and validated for its continued relevance. 
+
+All the executive officers, operations officers 
+
+and technicians are required to be briefed on 
+
+safety knowledge by respective supervisors 
+
+before commencing with high-risk activities 
+
+such as working at height. Based on the types 
+
+of work to be carried out from daily checks 
+
+on operations to regular maintenance work, 
+
+appropriate personal protective equipment 
+
+such as helmets, safety shoes would have 
+
+to be worn by employees, depending on 
+
+the severity of hazards. Additionally, first aid 
+
+boxes are also easily accessible and placed 
+
+strategically on site. 
+
+For properties in China, relevant SOPs 
+
+have been established in accordance to 
+
+local regulations. In FY2019, both Perennial 
+
+Qingyang Mall and Perennial Jihua Mall 
+
+have attained Work Safety Standardisation 
+
+Certificate (Level 3). They will work towards 
+
+maintaining the validity of this certificate 
+
+through regular review of SOPs by the safety 
+
+engineers. These SOPs are made available 
+
+Key Safety Indicators
+
+FY2018
+
+FY2019
+
+Male
+
+Female
+
+Total
+
+Male
+
+Female
+
+Total
+
+Workplace Injury Rate9 (per 100,000 people)
+
+Singapore
+
+0
+
+1370
+
+0
+
+552
+
+China
+
+0
+
+Accident Frequency Rate10 (“AFR”) 
+
+Singapore
+
+0
+
+6.51
+
+0
+
+2.64
+
+China
+
+0
+
+Accident Severity Rate11 (“ASR”)
+
+Singapore
+
+0
+
+111
+
+0
+
+45
+
+China
+
+0
+
+Absenteeism12
+
+Singapore
+
+1.72%
+
+1.70%
+
+1.71%
+
+1.94%
+
+1.89%
+
+1.91%
+
+China
+
+0.06%
+
+0.56%
+
+0.35%
+
+0.27%
+
+0.52%
+
+0.41%
+
+to employees in a handy guidebook which 
+
+comprise, but are not limited to, guidelines 
+
+on RA, SWP, emergency response plans 
+
+and incident reporting channels. A reporting 
+
+channel has also been designed to protect 
+
+female employees. Annually, both malls 
+
+conduct mandatory fire drills as stipulated 
+
+by the national laws. These fire drills may 
+
+involve tenants, shoppers and members of 
+
+the public. While these fire drills function as a 
+
+practice for the Fire Safety Team to improve 
+
+responsiveness, they also enhance the 
+
+employees’ awareness of the SOPs during 
+
+emergencies.
+
+Inculcating a Safe Work Culture  
+
+at Fengxian 
+
+Fengxian strives to be a one-stop centre where 
+
+quality eldercare services are provided for all. 
+
+Focusing on rehabilitative care, it also strives 
+
+to deliver holistic care to all residents. The 
+
+Work Safety Guidelines is a comprehensive 
+
+set of SOPs prepared in accordance with 
+
+national laws and regulations to ensure that all 
+
+eldercare workers are well aware of the risks 
+
+involved and mitigative actions, and that they 
+
+receive adequate training to carry out their 
+
+daily responsibilities. 
+
+The SOPs define roles and responsibilities of 
+
+various functions on operations management 
+
+and crisis management. Specifically, it requires 
+
+each department to appoint a Safety Personnel 
+
+who will be responsible for daily walkabouts. 
+
+The Safety Personnel will focus on identifying 
+
+hazards and rectifying any safety-related 
+
+issues within the premises. Thereafter, the 
+
+Safety Officer would cross check on the daily 
+
+findings. Every month, the Safety Officer chairs 
+
+a Safety Review Meeting where all Safety 
+
+Personnel will come together to review salient 
+
+health and safety issues identified and share 
+
+good practices.
+
+To inculcate a safety-first culture among its 
+
+medical staff, all new hires are required to 
+
+undergo a compulsory induction training, 
+
+comprising of a safety module where they will 
+
+learn about safe working practices, measures 
+
+to be taken during daily operations or in times 
+
+of emergency. 
+
+Performance
+
+In FY2019, Perennial recorded zero fatalities 
+
+and occupational diseases across its real 
+
+estate and eldercare operations in Singapore 
+
+and China. However, there was one work-
+
+related incident where an employee sustained 
+
+a minor injury while moving furniture due 
+
+to inadequate lighting. Since the incident, 
+
+corrective actions were taken to ensure 
+
+sufficient lighting and care is provided for 
+
+future work. 
+
+Perennial strives to improve the safety 
+
+culture within its properties through regular 
+
+reviews of policies and work procedures. 
+
+Plans are in the pipeline for properties in 
+
+China to increase robustness of safety 
+
+inspections and the frequency of facility and 
+
+equipment maintenance. Moreover, regular 
+
+communication between Management and 
+
+employees also helps to raise awareness and 
+
+emphasise the importance of a safety-first 
+
+culture throughout Perennial. 
+
+Profile of Our Workforce
+
+Employees are the core of a successful 
+
+business. Likewise, at Perennial, the Company 
+
+values each and every individual, providing 
+
+them with a conducive work environment 
+
+where equal opportunities, fair compensation 
+
+and benefits as well as opportunities for career 
+
+development are present.
+
+Data in this section refers only to employees 
+
+within the reporting scope from Perennial 
+
+Corporate Office and CMTs across Singapore 
+
+and China. At the end of FY2019, Perennial 
+
+recorded a total of 281 employees (59% are 
+
+females and 41% are males). All employees 
+
+work full-time on either a five-day or six-day 
+
+work week. 98% of the workforce are hired on 
+
+a permanent contract basis.
+
+Across age diversity, majority of employees 
+
+remains in the 30 to 50 years old category, 
+
+with a growing portion of employees from the 
+
+less than 30 years old category. This year, 
+
+Perennial saw a 3% increase in employees 
+
+less than 30 years of age category, from 22% 
+
+in FY2018 to 25% in FY2019, and a 3% drop 
+
+in employees above 50 years of age, from 
+
+12% to 9% in FY2018. 
+
+Perennial recruits and retains employees based 
+
+on meritocracy as well as its business needs. 
+
+For more details of Perennial’s approach 
+
+towards Human Capital Management and 
+
+global workforce statistics, please refer to 
+
+“Our People” section on pages 126 to 127 of 
+
+the Annual Report 2019.
+
+9 Workplace Injury Rate is defined as the total number of fatal and non-fatal workplace injuries per 100,000 employed persons 
+
+10 Accident Frequency Rate is defined as the total number of workplace incidents reported per 1,000,000 man-hours worked 
+
+11 Accident Severity Rate is defined as the total number of man days lost to workplace accidents per 1,000,000 man-hours worked
+
+12 Absentee rate is defined as total absentee days lost over of total days scheduled to be worked by employees for the same period. Breakdown by male and female is based on their proportion 
+
+of total workforce. Absent day is defined when employee is absent from work because of incapacity of any kind, not just as the result of work-related injury or disease. This includes medical 
+
+and hospitalisation leave taken.
+
+Table 4: Safety Performance in Singapore and China
+
+
+
+WORKFORCE
+
+BY GENDER
+
+ Female Employees 
+
+59%
+
+ Male Employees 
+
+41%
+
+
+
+WORKFORCE
+
+BY AGE
+
+ Less than 30 years old 
+
+25%
+
+ 30-50 years old 
+
+66%
+
+ Above 50 years old 
+
+9%
+
+
+
+WORKFORCE BY 
+
+EMPLOYMENT 
+
+CONTRACT
+
+ Permanent 
+
+98%
+
+ Temporary 
+
+2%
+
+Formulas used for Workplace Injury Rate, Accident Frequency Rate and Accident Severity Rate were derived from Ministry of Manpower, Singapore
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+22
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+23
+
+Sustainability Report 2019
+
+GOVERNANCE
+
+Perennial is committed to maintaining the 
+
+highest standards of corporate governance 
+
+and transparency in its business operations. 
+
+This is underpinned by three interlinked 
+
+aspects, namely business ethics, corporate 
+
+governance and regulatory compliance. 
+
+Business Ethics
+
+Ethical business conduct is guided by a suite 
+
+of policies and procedures comprising of the 
+
+Employee Code of Conduct, Whistleblowing 
+
+Policy and Grievance Handling Procedures 
+
+which advises employees on responsible 
+
+decision making. Additionally, a Grievance 
+
+Handling Procedure informs employees on 
+
+the actions to be taken when reporting any 
+
+suspected wrongful activities within the Group. 
+
+Annually, this set of policies and documents 
+
+would be circulated to Management and 
+
+employees of Perennial. While it serves as 
+
+a refresher on the expected conduct, it also 
+
+emphasises on the severity should they be 
+
+found to be in violations of these policies. 
+
+The Whistleblowing Policy comes under the 
+
+purview of the ARC. All stakeholders including 
+
+employees and third-party service providers, 
+
+partners and strategic alliances have full 
+
+access to it and are encouraged to report any 
+
+possible concerns on malpractices. Identities 
+
+of 
+
+whistleblowers 
+
+would 
+
+be 
+
+protected 
+
+throughout any length of investigation. For 
+
+more details of this Policy, please refer to 
+
+http://perennialrealestate.listedcompany.com/
+
+misc/whistle-blowing-policy.pdf.
+
+In FY2019, Perennial is pleased to report 
+
+that there were no reported cases of fraud, 
+
+corruption and unethical actions. 
+
+Corporate Governance
+
+A strong culture of CG is key to economic 
+
+growth as it improves investors’ confidence 
+
+and reputation through the robust internal 
+
+controls 
+
+in 
+
+place. 
+
+Since 
+
+incorporation, 
+
+Perennial has emphasised on the importance 
+
+of good CG through the annual CG report 
+
+and review of internal policies and guidelines. 
+
+More details on Perennial’s CG practices 
+
+can be found on pages 97 to 115 of the CG 
+
+section of AR2019.
+
+Under the CG framework, a comprehensive 
+
+ERM framework has been put in place 
+
+to ensure risks arising from Perennial’s 
+
+business 
+
+activities 
+
+are 
+
+monitored 
+
+and 
+
+managed. Sustainability risks have been 
+
+considered within this Framework which has 
+
+strengthened the Group’s understanding of 
+
+its full suite of risks, ultimately improving its 
+
+sustainability management. Due to the rapidly 
+
+changing business environment, the Risk 
+
+Management Team reviews associated risks 
+
+on an annual basis and works with relevant 
+
+departments to implement mitigative actions. 
+
+For more details on Perennial’s key risks, 
+
+please refer to pages 116 to 121 of the Risk 
+
+Management section of AR2019. 
+
+In 
+
+FY2019, 
+
+several 
+
+Management 
+
+and 
+
+Executive employees were also sent on 
+
+relevant courses conducted to remain 
+
+relevant with latest requirements in CG and 
+
+related matters. Perennial is a signatory of 
+
+the SIAS CG Statement of Support for the  
+
+6th consecutive year. 
+
+In the year, Perennial also achieved full 
+
+compliance with the Code of CG 2018 and 
+
+continues to prepare its CG Report in a timely 
+
+manner within the Annual Report. 
+
+Compliance with Laws  
+
+and Regulations
+
+Ensuring regulatory compliance across all 
+
+business activities is critical in maintaining 
+
+Perennial’s license to operate. With a diverse 
+
+business portfolio spanning across numerous 
+
+cities, it is imperative to consider the local 
+
+regulations in areas of environment, labour 
+
+practices and health and safety. Instances of 
+
+Regulators
+
+Regulations (Examples)
+
+Accounting and Corporate Regulatory Authority
+
+• Business Registration Act
+
+Singapore Exchange
+
+• Exchange Listing Rules
+
+• Companies Act
+
+National Environment Agency 
+
+• Code of Practice of Environmental Health (“COPEH”)
+
+• Energy Conservation Act 2012
+
+• Environmental Protection and Management Act
+
+• Environmental Public Health Act
+
+• Infectious Disease Act
+
+• Resource Sustainability Act 2019
+
+• Smoking (Prohibition in Certain Places) Act
+
+• Carbon Pricing Act
+
+Ministry of Manpower 
+
+• Employment Act 
+
+• Employment Claims Act
+
+• Employment (Part-Time Employees) Regulations 1996
+
+• Workplace Safety and Health (WSH) Act
+
+• Work Injury Compensation Act
+
+Workplace Safety and Health Council 
+
+• Code of Practice of Workplace Health and Safety
+
+Singapore Civil Defence Force
+
+• Fire Safety Act
+
+• Fire Code 2018
+
+Relevant Laws for Properties in China
+
+• Law of the People’s Republic of China on Work Safety
+
+• Law of the People’s Republic of China on Prevention and Control of 
+
+Occupational Diseases
+
+• Labour Law of the People’s Republic of China
+
+• Law of the People’s Republic of China on Promotion of Employment
+
+• Emergency Response Law of the People’s Republic of China
+
+• Environmental Protection Law of the People’s Republic of China
+
+• Fire Protection Law of the People’s Republic of China
+
+• Law of the People’s Republic of China on Energy Conservation
+
+• Law of the People’s Republic of China on Chinese-Foreign Equity  
+
+Joint Ventures
+
+• Company Law of the People’s Republic of China
+
+Relevant Laws for Eldercare in China
+
+• Food Safety Law of the People’s Republic of China
+
+• Food Hygiene Law of the People’s Republic of China
+
+Table 5: List of Regulators and Applicable Regulations13
+
+ 
+
+ How does Perennial Manage this?
+
+• Employee Code of Conduct
+
+• Whistleblowing Policy
+
+• Full compliance with relevant laws and regulations in countries of operation
+
+ 
+
+Who at Perennial Oversees this?
+
+• HR
+
+• Legal and Corporate Secretariat 
+
+• Risk Management Team 
+
+ 
+
+ Highlights of FY2019
+
+• Annual Circulation of Company’s Employee Code of Conduct and Whistle Blowing Policy
+
+• 6th consecutive year as signatory to SIAS CG Statement of Support
+
+• Several Management and Executive employees sent on courses to keep updated with 
+
+Corporate Governance and relevant compliance matters
+
+ 
+
+ Relevant UN SDG
+
+non-compliance may bring about detrimental 
+
+impact to reputation, incur penalties and 
+
+hinder growth plans. As such, Perennial has 
+
+in place a robust compliance framework 
+
+which ensures regulatory obligations are  
+
+met sufficiently. 
+
+Perennial believes it is a shared responsibility 
+
+that lies among the various functions as they 
+
+interact with respective regulatory bodies 
+
+as shown in Table 5. The various business 
+
+functions ensure they remain well informed of 
+
+any changes and make necessary updates 
+
+to existing processes so as to remain within 
+
+regulatory boundaries. This is done through 
+
+regular participation in compliance trainings 
+
+and seminars conducted by various regulatory 
+
+institutions. Additionally, Perennial’s Legal 
+
+department should also be consulted if 
+
+departments 
+
+require 
+
+further 
+
+assistance  
+
+or advice. 
+
+Under the oversight of the Risk Management 
+
+Team, a quarterly reporting on incidences 
+
+of 
+
+non-compliance 
+
+or 
+
+regulatory 
+
+and 
+
+reputational impacts is submitted to the 
+
+Board. In FY2019, Perennial has achieved 
+
+its target of zero cases of non-compliance 
+
+and will continue to upkeep this positive 
+
+performance. 
+
+13 This table is intended to be an exhaustive list of the laws and regulations applicable for Perennial’s Real Estate business in Singapore and China, and Eldercare business in China
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+24
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+25
+
+Sustainability Report 2019
+
+GRI CONTENT INDEX 
+
+General Standard Disclosures
+
+GRI Standard 
+
+Disclosure
+
+Section of Report and / or Explanation 
+
+for Omission
+
+Page 
+
+Reference
+
+GRI 102:  
+
+General Disclosures 
+
+2016
+
+Organisational profile
+
+102-1
+
+Name of the organisation
+
+Overview
+
+1
+
+102-2
+
+Activities, brands, products, and services
+
+Overview
+
+1
+
+102-3
+
+Location of headquarters
+
+Overview
+
+1
+
+102-4
+
+Location of operations
+
+Overview
+
+1
+
+102-5
+
+Ownership and legal form
+
+Overview
+
+1
+
+102-6
+
+Markets served
+
+Overview
+
+1
+
+102-7
+
+Scale of the organisation
+
+Overview
+
+1
+
+102-8
+
+Information on employees and other workers
+
+Profile of our Workforce
+
+21
+
+102-9
+
+Supply chain
+
+Customer Satisfaction: Supplier Management
+
+14
+
+102-10
+
+Significant changes to the organisation and 
+
+its supply chain
+
+Not applicable
+
+102-11
+
+Precautionary Principle or Approach
+
+Materiality Assessment Process;  
+
+Governance
+
+2-3
+
+22
+
+102-12
+
+External Initiatives
+
+Perennial is a signatory to the Tripartite Alliance for Fair and 
+
+Progressive Employment Practices (TAFEP)
+
+102-13
+
+Membership of Associations
+
+• Orchard Road Business Association (OBRA)
+
+• Securities Investors Association of Singapore (SIAS)
+
+• Singapore National Employers Federation
+
+• Chengdu Qingyang Supo Street Chamber of 
+
+Commerce, China
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+Board Statement 
+
+1
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of 
+
+behaviour
+
+Business Ethics
+
+22
+
+Governance
+
+102-18
+
+Governance structure
+
+Overview
+
+1
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement 
+
+6-9
+
+102-41
+
+Collective bargaining agreements
+
+None of Perennial’s employees are covered under collective 
+
+bargaining agreements 
+
+102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement
+
+6-9
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement
+
+6-9
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholder Engagement
+
+6-9
+
+General Standard Disclosures
+
+GRI Standard 
+
+Disclosure
+
+Section of Report and / or Explanation 
+
+for Omission
+
+Page 
+
+Reference
+
+GRI 102:  
+
+General Disclosures 
+
+2016
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated  
+
+financial statements
+
+Annual Report 2019
+
+204-206
+
+102-46
+
+Defining report content and topic Boundaries
+
+Overview
+
+1
+
+102-47
+
+List of material topics
+
+Materiality Assessment Process
+
+2-3
+
+102-48
+
+Restatements of information
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+102-49
+
+Changes in reporting
+
+Overview
+
+1
+
+102-50
+
+Reporting period
+
+Overview
+
+1
+
+102-51
+
+Date of most recent report
+
+2018
+
+102-52
+
+Reporting cycle
+
+Annually
+
+102-53
+
+Contact point for questions regarding  
+
+the report
+
+Feedback
+
+1
+
+102-54
+
+Claims of reporting in accordance with the 
+
+GRI Standards
+
+Overview
+
+1
+
+102-55
+
+GRI content index
+
+GRI Content Index
+
+24
+
+102-56
+
+External assurance
+
+Overview
+
+1
+
+Material Topics
+
+Corporate Governance
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Corporate Governance
+
+22
+
+103-2
+
+The management approach and  
+
+its components
+
+Corporate Governance
+
+22
+
+103-3
+
+Evaluation of the management approach
+
+Corporate Governance
+
+22
+
+Customer Satisfaction
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its 
+
+Boundary
+
+Customer Satisfaction
+
+13
+
+103-2
+
+The management approach and its 
+
+components
+
+Customer Satisfaction 
+
+13
+
+103-3
+
+Evaluation of the management approach
+
+Customer Satisfaction 
+
+13
+
+Business Ethics
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Business Ethics
+
+22
+
+103-2
+
+The management approach and  
+
+its components
+
+Business Ethics
+
+22
+
+103-3
+
+Evaluation of the management approach
+
+Business Ethics
+
+22
+
+GRI 205:  
+
+Anti-corruption 2016
+
+205-2
+
+Communication and Training about  
+
+Anti-Corruption Policies and Procedures
+
+Business Ethics 
+
+22
+
+205-3
+
+Confirmed incidents of corruption and 
+
+actions taken
+
+Business Ethics
+
+22
+
+
+
+
+
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+Sustainability Report 2019
+
+26
+
+PERENNIAL REAL ESTATE HOLDINGS LIMITED
+
+27
+
+Sustainability Report 2019
+
+Material Topics
+
+GRI Standard 
+
+Disclosure
+
+Section of Report and / or Explanation 
+
+for Omission
+
+Page 
+
+Reference
+
+Regulatory Compliance
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Compliance with Laws and Regulations
+
+22-23
+
+103-2
+
+The management approach and  
+
+its components
+
+Compliance with Laws and Regulations
+
+22-23
+
+103-3
+
+Evaluation of the management approach
+
+Compliance with Laws and Regulations
+
+22-23
+
+GRI 307: 
+
+Environmental 
+
+Compliance 2016
+
+307-1
+
+Non-compliance with environmental laws  
+
+and regulations
+
+Compliance with Laws and Regulations
+
+22-23
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance  2016
+
+419-2
+
+Non-compliance with laws and regulations in 
+
+the social and economic area
+
+Compliance with Laws and Regulations
+
+22-23
+
+Occupational Health and Safety 
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Occupational Health and Safety
+
+19-20
+
+103-2
+
+The management approach and  
+
+its components
+
+Occupational Health and Safety
+
+19-20
+
+103-3
+
+Evaluation of the management approach
+
+Occupational Health and Safety
+
+19-20
+
+GRI 403: 
+
+Occupational Health 
+
+and Safety 2016
+
+403-2
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days,  
+
+and absenteeism, and number of  
+
+work-related fatalities
+
+Occupational Health and Safety
+
+19-20
+
+Health and Safety of Stakeholders
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Health and Safety of Stakeholders
+
+17-18
+
+103-2
+
+The management approach and  
+
+its components
+
+Health and Safety of Stakeholders
+
+17-18
+
+103-3
+
+Evaluation of the management approach
+
+Health and Safety of Stakeholders
+
+17-18
+
+GRI 416:  
+
+Customer Health 
+
+and Safety 2016
+
+416-2
+
+Incidents of Non-Compliance Concerning  
+
+the Health and Safety Impacts of Products 
+
+and Services
+
+Health and Safety of Stakeholders
+
+17-18
+
+Energy, GHG Emissions and Alternative Energy Sources
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+103-2
+
+The management approach and  
+
+its components
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+103-3
+
+Evaluation of the management approach
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+GRI 302:  
+
+Energy 2016
+
+302-1
+
+Energy consumption within the organization
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+302-3
+
+Energy Intensity 
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+GRI 305:  
+
+Emissions 2016
+
+305-1
+
+Direct (Scope 1) GHG Emissions
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+305-2
+
+Energy indirect (Scope 2) GHG Emissions
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+305-4
+
+GHG emissions intensity
+
+Energy, GHG Emissions and Alternative  
+
+Energy Sources
+
+10-11
+
+Material Topics
+
+GRI Standard 
+
+Disclosure
+
+Section of Report and / or Explanation 
+
+for Omission
+
+Page 
+
+Reference
+
+Water Management
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and  
+
+its Boundary
+
+Water Management
+
+12
+
+103-2
+
+The management approach and  
+
+its components
+
+Water Management
+
+12
+
+103-3
+
+Evaluation of the management approach
+
+Water Management
+
+12
+
+GRI 303:  
+
+Water 2016
+
+303-1
+
+Water Withdrawal by Source
+
+Water Management
+
+12
+
+303-3
+
+Water Recycled and Reused
+
+Water Management
+
+12
+
+
+
+
+
+
+
+
+
+
+Perennial Real Estate Holdings Limited
+
+8 Shenton Way
+
+#36-01, AXA Tower
+
+Singapore 068811 
+
+Tel  : (65) 6602 6800
+
+Fax  : (65) 6602 6801
+
+sustainability@perennialrealestate.com.sg
+
+www.perennialrealestate.com.sg
+

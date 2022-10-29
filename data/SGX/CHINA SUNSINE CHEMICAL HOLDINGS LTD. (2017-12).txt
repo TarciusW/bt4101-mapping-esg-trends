@@ -1,0 +1,4794 @@
+
+
+
+CHINA SUNSINE CHEMICAL HOLDINGS LTD.
+
+Sustainability Report 2017
+
+
+
+
+Contents
+
+目录
+
+01 CHAIRMAN’S MESSAGE
+
+ 
+
+主席致辞
+
+03 ORGANISATIONAL PROFILE
+
+ 
+
+公司简介
+
+04 ABOUT THIS REPORT 
+
+ 
+
+关于此报告
+
+05 STAKEHOLDERS AND MATERIALITY
+
+ 
+
+利益相关方和重要指标
+
+07 ECONOMIC
+
+ 
+
+经济
+
+09 ENVIRONMENT
+
+ 
+
+环境
+
+20 SOCIAL 
+
+ 
+
+社会 
+
+33 GOVERNANCE
+
+ 
+
+治理
+
+35 FEEDBACK FORM
+
+ 
+
+调查反馈表
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Chairman’s Message
+
+主席致辞
+
+On behalf of the Board, I am pleased to 
+
+present to you the Sustainability Report 
+
+of China Sunsine Chemical Holdings 
+
+Ltd. (“China Sunsine”, together with its 
+
+subsidiaries, collectively the “Group”) for 
+
+the financial year ended 31 December 
+
+2017 (“FY2017”) based on the core 
+
+elements of G4 guidelines of the Global 
+
+Reporting Initiative (GRI). 
+
+Last year, the Group aligned itself with 
+
+the Sustainability Reporting Guide as set 
+
+out in Practice Note 7.6 of the Mainboard 
+
+Listing Rules of the Singapore Exchange 
+
+Securities Trading Limited (SGX-ST) to 
+
+issue its inaugural sustainability report for 
+
+financial year ended 31 December 2016 
+
+in accordance with the GRI guidelines. 
+
+This was ahead, by more than a year, of 
+
+SGX’s deadline of up to 12 months from 
+
+the financial year ended 31 December 
+
+2017 for listed companies to issue their 
+
+first sustainability reports. The move was 
+
+to provide the Group with more time to 
+
+refine its Sustainability Reporting before 
+
+the relevant listing rule comes into force. 
+
+The inaugural report has received positive 
+
+feedback from shareholders, institutional 
+
+investors and the SGX. Such feedback has 
+
+been taken into account in the preparation 
+
+of the current sustainability report.
+
+Since its listing in 2007, the Group has, 
+
+in its pursuit for growth, placed strong 
+
+emphasis on its environmental protection, 
+
+safety 
+
+in 
+
+production, 
+
+technological 
+
+innovation, staff training and responsibility 
+
+to 
+
+the 
+
+society. 
+
+The 
+
+Group 
+
+views 
+
+environmental protection and workplace 
+
+safety as its core missions, constantly 
+
+enhancing awareness of safety and 
+
+environmental protection among its staff. 
+
+In implementing the systems to comply 
+
+with the relevant laws and regulations, 
+
+the duties and performance targets 
+
+of each staff are clearly defined. More 
+
+than one-third of the Group’s fixed asset 
+
+investment is for environmental protection 
+
+and safety. The Group has also actively 
+
+embarked on technological innovation, 
+
+starting with emission reductions, better 
+
+control over the sources of pollutants, 
+
+implementing clean production processes 
+
+and recycling, to achieve compliance with 
+
+the discharge standards of wastewater 
+
+and gas emission.  These measures have 
+
+enabled the Group to be more effective in 
+
+its production process and management 
+
+of waste and pollution than its peers. 
+
+This report sets out what we have done 
+
+in the past one year in the economic, 
+
+environmental and social aspects of our 
+
+business, as well as the measures adopted 
+
+to achieve sustainable development. 
+
+Environmental 
+
+protection, 
+
+safety 
+
+in 
+
+production and social responsibility are 
+
+part of everyone’s job at China Sunsine. 
+
+Sustainable 
+
+development 
+
+is 
+
+already 
+
+integrated into the way we conduct our 
+
+business. We know more can and have to 
+
+be done and look forward to your valuable 
+
+suggestions to aid us in improving our 
+
+sustainability results. 
+
+Yours sincerely
+
+XU CHENG QIU
+
+Executive Chairman
+
+March 2018
+
+Environmental protection, safety in 
+
+production and social responsibility are 
+
+part of everyone’s job at China Sunsine. 
+
+Sustainable development is already 
+
+integrated into the way we conduct our 
+
+business.
+
+
+
+01
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+在中国尚舜，环境保护、安全生产以及
+
+社 会 责 任 是 每 个 员 工 工 作 职 责 的 一 部
+
+分。持续发展理念已经有机地融入我们
+
+的企业经营之道。
+
+Chairman’s Message
+
+主席致辞
+
+我谨代表董事会，很高兴向大家呈现中
+
+国尚舜化工控股有限公司（“中国尚	
+
+舜“，连同其子公司合称”集团“）在
+
+截至 2017 年 12 月 31 日的 2017 财年的
+
+《可持续发展报告》，该报告是根据全
+
+球报告倡议组织 G4 指南核心部分编写
+
+的报告。
+
+去年，集团向新加坡证券交易所主板上
+
+市企业《上市手册》的惯例 7.6 条看齐，
+
+按照全球报告倡议组织指南的要求，首
+
+次单独、详尽地编制了《可持续发展报
+
+告》，这比新加坡交易所要求的在截至
+
+2017 年 12 月 31 日的财务年度后 12 个
+
+月内出具该报告的时间提早了一年多的
+
+时间。集团决定提前出具报告，是为了
+
+给集团更进一步提高报告水平的时间，
+
+以便更好地遵循新交所法规。2016 年的
+
+首次报告发出之后，我们得到了股东、
+
+机构投资者以及新交所等有关方面的高
+
+度赞扬和好评。当然，我们也吸取了一
+
+些宝贵的意见和建议，在这一次的报告
+
+中进行了改进和完善。
+
+自从 2007 年上市以来，集团在将企业
+
+做大做强的同时，也非常注重环境保护、
+
+安全生产、技术创新、员工培训、社会
+
+责任等各方面的提升。集团把环保、安
+
+全视为企业的生命，不断加强员工的安
+
+全、环保意识，推行相关法规和制度，
+
+并落实至每个员工的责任和目标。环保
+
+安全的投入占整个固定资产投入的三分
+
+之一以上。集团还大力开展技术创新，
+
+从减排入手，抓好源头治理，推行清洁
+
+生产，开展循环利用，实现了废水、废
+
+气的达标排放，有力地促进了企业的生
+
+产经营，走在了同行业的前列。
+
+本报告介绍了我们在过去一年中，在经
+
+济、环境及社会方面的所做的相关工作，
+
+以及集团为取得可持续发展所采取的方
+
+法和取得的成绩。我们把环境保护、安
+
+全生产以及社会责任当成是每一位员工
+
+工作职责的一部分，持续发展理念已经
+
+有机地融入企业经营之道。我们知道我
+
+们能做的还有很多，也期待您的参与，
+
+给我们提供宝贵的意见。
+
+此致，
+
+徐承秋
+
+执行主席
+
+2018 年 3 月
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+02
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Organisational Profile
+
+公司简介
+
+China Sunsine Chemical Holdings Ltd. 
+
+(“China Sunsine” or the “Company”, and 
+
+together with its subsidiaries, collectively 
+
+the “Group”) is a leading specialty rubber 
+
+chemical producer, and was listed on 
+
+the Main Board of Singapore Exchange 
+
+on 5 July 2007. Its main subsidiary – 
+
+Shandong Sunsine Chemical Co., Ltd. 
+
+was established in 1977 and started off 
+
+as a chemical plant. It has a total asset 
+
+of RMB 2.128 billion, 2100 member of 
+
+employees, 700 professional technical 
+
+staff after 40 years of development. There 
+
+are five production bases - Shandong 
+
+Sunsine, Weifang Sunsine, Sheng Tao  
+
+Chemical, Guangshun Heating and Yong 
+
+Shun new district. The products include 
+
+Rubber accelerators, Insoluble sulphur 
+
+and Anti-oxidant. Our products are widely 
+
+used for rubber, tires, shoes, belts, 
+
+pharmaceuticals 
+
+and 
+
+agrochemicals. 
+
+Our products are exported to over 40 
+
+countries and regions. Our number one 
+
+global market position is based on total 
+
+sales of rubber accelerators. We have 
+
+over 1,000 customers, including 65% 
+
+of the global top 75 tire makers. This is 
+
+the result of “Adhering to the technology, 
+
+market-oriented focus and product quality 
+
+for substenance. We strive to open up 
+
+new markets, develop new products, and 
+
+improve the quality of management”. 
+
+We take the leading role of the world 
+
+rubber chemicals, rely on independent 
+
+innovation to upgrade the industrial 
+
+transformation, achieve energy-saving 
+
+emission reduction and healthy and 
+
+sustainable development. 
+
+中国尚舜化工控股有限公司（简称“中
+
+国尚舜”或“公司”，与其子公司一起
+
+合称“集团”）是一家领先专业橡胶化
+
+工生产商，并于 2007 年 7 月 5 日在新
+
+加坡证券交易所主板上市。公司的主要
+
+生产子公司	–	 山东尚舜化工有限公司
+
+始建于 1977 年，前身是国营山东省单
+
+县有机化工厂，至此报告发行时已经过
+
+40 年的发展，目前拥有总资产 21.28 亿
+
+元，员工 2100 多人，专业技术人员近
+
+700 人，辖山东尚舜、潍坊尚舜、盛陶
+
+化工、广舜热力、永舜新区五个生产基
+
+地。公司产品主要有橡胶促进剂、防老
+
+剂、硫化剂等三大类十几个品种，广泛
+
+应用于橡胶、轮胎、胶鞋、胶管以及医药、
+
+农药等行业，出口 40 多个国家和地区，
+
+促进剂销量连续多年位居全球第一，拥
+
+有全球 1000 多家的客户，包括服务超
+
+过 65%	 的世界前 75 强轮胎企业。这些
+
+都是由于我们秉承“坚持科技兴化，坚
+
+持以市场为导向，以质量求生存，以经
+
+济效益为中心，努力开拓新市场，积极
+
+开发新产品，全面提高企业素质”的发
+
+展方针，以引领世界橡胶助剂发展为己
+
+任，依靠自主创新引领产业转型升级，
+
+实现节能减排和健康可持续发展。
+
+
+
+03
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+About This Report 
+
+关于此报告
+
+This Report is prepared in accordance with the Global 
+
+Reporting Initiative (GRI) G4 reporting guidelines, at Core 
+
+level. Corresponding to G4’s emphasis on materiality, the 
+
+China Sunsine Group Sustainability Report 2017 (SR2017) 
+
+highlights the key environmental, social and governance 
+
+related initiatives carried out throughout a 12-month period, 
+
+from 1 January to 31 December 2017, supported by data on 
+
+lagging and leading performance indicators.
+
+We welcome feedback from our stakeholders on our 
+
+sustainability efforts as this will enable us to improve our 
+
+policies, systems and results.  
+
+In 2017, we received feedback as well as suggestions. We 
+
+truly appreciate all comments. In this report, we've taken on-
+
+board some of these feedback and suggestions. In addition, 
+
+we have included a Feedback Form on the last page of this 
+
+report. Please take a moment to complete the Feedback Form 
+
+and send a copy to srfeedback@sunsine.com. Thank you!
+
+此报告是根据全球报告倡议组织指南核心部分编写的。针对全球报告倡议组织指南中
+
+强调的重要指标，中国尚舜集团 2017 年可持续发展报告包括了在过去 12 个月内，从
+
+2017 年 1 月 1 日到 2017 年 12 月 31 日，对环境、社会和治理等相关方面自发采取的行
+
+动。缺陷和突出的表现指标都由相关数据支持。
+
+我们欢迎利益相关方对于企业可持续发展的努力给予反馈意见，这样能帮助我们提高和
+
+改进我们的政策，系统和成绩。
+
+2017 年，我们收到了部分利益相关方对我公司可持续性发展报告提出的意见和建议。
+
+对此，我公司表示感谢。在今年的可持续性发展报告中，我们采用了部分的建议。并
+
+且，为了进一步提高报告的水平，我们在报告的最后加入了一张简单的调查反馈表，
+
+请在阅读完毕后花费您宝贵的几分钟时间，填写一下此调查反馈表，并扫描电邮至
+
+srfeedback@sunsine.com。十分感谢！
+
+04
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Stakeholders And Materiality
+
+利益相关方和重要指标
+
+Stakeholders 利益相关方 
+
+Employees and Trade Unions 员工及工会 
+
+Customers and Consumers 顾客及消费者
+
+Suppliers and Service Providers 供应商
+
+Investors/Shareholders 投资者/股东
+
+Local communities 当地社区
+
+Media 媒体
+
+Government and Regulators 政府
+
+Trade associations 行业协会
+
+Engagement Platforms 沟通渠道
+
+Townhall sessions 民众集会 / Open dialogues among teams 民主讨论 / 
+
+Intranet portal 内网门户
+
+Hotline 热线 / Email queries 电邮 / Customer visit 客户拜访 /
+
+Onsite audit 客户现场审计 / Customer survey 客户调查表
+
+Face-to-face meetings 面谈 / Annual review and feedback sessions 年度审核及回馈 
+
+Group Annual Report 集团年报 / Annual General Meeting 年度股东大会 /
+
+Quarterly result briefings 季度业绩简介会 / Informal discussions 非正式讨论 
+
+Face-to-face meetings 面谈 / Various social events 各种社区活动 
+
+Media releases 新闻稿 / Quarterly result briefings 季度业绩简介会
+
+Face-to-face meetings 面谈 / Regular reports 定期汇报 /
+
+Participation in discussions 参与讨论
+
+Engagements through business partnerships 商业合作 /
+
+Leading working groups in industry associations 行业协会理事单位
+
+An important starting point in our sustainability journey is to 
+
+identify our stakeholders and material aspects relevant to our 
+
+business. The interests and requirements of key stakeholders 
+
+are also taken into account in formulating corporate strategies. 
+
+These key stakeholders include, but are not limited to, customers, 
+
+suppliers, employees, investors, and regulators. We adopt both 
+
+formal and informal channels of communication to understand 
+
+the needs of key stakeholders, and incorporate these into our 
+
+corporate strategies to achieve mutually beneficial relationships.
+
+可持续报告重要的起点是确定利益相关方和关于企业的重要指
+
+标。在制定企业可持续性发展策略时，重要利益相关方的利益
+
+及要求也被考虑。这些重要利益相关方包括并不仅限于客户、
+
+供应商、员工、投资者、及当地政府。我们通过正式或非正式
+
+的沟通渠道，了解重要利益相关方的要求，结合公司自身的发
+
+展方向，制定合适的发展策略。
+
+The table below sets out the manner in which we engage our stakeholders:下表显示我们通过各种的方式来与各利益相关方进行沟通:
+
+STAKEHOLDER ENGAGEMENT 重要利益相关方的确认
+
+05
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Stakeholders And Materiality
+
+利益相关方和重要指标
+
+To enhance our sustainability governance, the Company 
+
+established a Sustainability Committee led by the General 
+
+Manager in 2017. We re-evaluated our materiality assessment 
+
+during the year with the help of an external consultant. Such 
+
+materiality review will be conducted every year, incorporating 
+
+inputs from the stakeholder engagements.
+
+To determine if an aspect is material, we assessed its 
+
+potential impact on the economy, environment and society 
+
+and the influence on the stakeholders, with input from senior 
+
+management and the consultant. Aspects were identified and 
+
+prioritised through internal workshops, peer reviews and social 
+
+impact assessments.  Applying the guidance from GRI, we have 
+
+identified the following material aspects:
+
+为推进可持续发展工作的开展，2017 年公司成立了以总经理
+
+为主任的可持续发展委员会，并同咨询师们一起召开了可持续
+
+发展评估的研讨会，来确定对于我们公司的利益相关方和重要
+
+指标。重要指标将会在利益相关方的回馈基础上每年评估。
+
+为了确定指标是否重要，我们对其在经济、环境和社会以及对
+
+利益相关方的影响做出了评估。
+
+高级管理层与咨询师一起参与，通过内部商讨，同行审阅以及
+
+各个分部对社会的影响力，指标及其重要优先性也被确定了。
+
+MATERIAL ASPECTS ASSESSMENT 重要指标评估
+
+06
+
+
+
+Diversity and Equal Opportunity  多元化与机会平等
+
+Equal Remuneration for Women and Men  男女同酬
+
+Occupational Health and Safety  职业健康和安全
+
+Product Quality and Security  产品质量与安全
+
+Customers Audits  客户审核
+
+Fair Operating Practice  公平营运实践
+
+Economic Performance  经济绩效 
+
+Market Presence  市场表现
+
+Energy Consumption  能源使用	
+
+Water Consumption  水用量	
+
+Waste Water Discharge  废水排放
+
+Gas Emissions  废气排放 
+
+Compliance  合规
+
+1
+
+8
+
+2
+
+9
+
+3
+
+10
+
+11
+
+12
+
+13
+
+4
+
+5
+
+6
+
+7
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Economic
+
+经济
+
+At China Sunsine, we believe in creating long-term economic 
+
+value for all our shareholders and key stakeholders by adopting 
+
+responsible business practices and growing our business in a 
+
+sustainable manner. For detailed financial results, please refer to 
+
+the following sections in our Annual Report 2017:
+
+• Financial Highlights, page 04 – 05 
+
+• Financial Review, page 14 – 17
+
+• Financial Statements, page 56 - 107
+
+We have achieved rapid capacity expansion since our IPO. Total 
+
+annual production capacity increased by almost four times from 
+
+32,000 tonnes p.a. in 2007 before IPO to 152,000 tonnes p.a. in 
+
+FY2017, and will grow to 172,000 tonnes in FY2018. Other than 
+
+the capacity expansion, we continue to diversify our product range. 
+
+We have reserved land space in our 5 existing production sites and 
+
+are exploring opportunities to further increase our capacity.
+
+We have established a mid-term target to achieve the following 
+
+production quantities by the end of the 13th Five-Year Plan (i.e. 
+
+by end of year 2020) for Economic and Social Development of the 
+
+People’s Republic of China.
+
+• Rubber accelerators: 117,000 Tonnes
+
+• Insoluble sulphur: 30,000 Tonnes
+
+• Anti-oxidant: 45,000 Tonnes.
+
+Our objective is to enhance our brand name and product quality, 
+
+and optimise our cost-structure. We will maximise the scale 
+
+and efficiency of our production to maintain our current market 
+
+advantage in an environmentally-friendly way. We will continue 
+
+to focus on the production of rubber accelerator products and 
+
+enhance our position as a global leader in this field. In addition, 
+
+we aim to increase our market share of insoluble sulphur and 
+
+anti-oxidant products. 
+
+In line with the strong growth in the automotive and tire 
+
+industries, as well as global economic recovery, and coupled 
+
+with our strengths in quality, large production scale, product 
+
+range, environmental and marketing initiatives etc., we achieved 
+
+中国尚舜一直认为，只有通过采用负责任的商业手段，才能为
+
+所有的股东及利益相关方创造长期的经济效益，集团才能长期
+
+可持续性发展。	关于具体的财务表现，请参照 2017 年报：
+
+财务摘要 ,	年报第 4 至 5 页
+
+财务分析，年报第 14 至 17 页
+
+财务报表，年报第 56 至 107 页
+
+new records in production volume of 141,704 tonnes and sales 
+
+volume of 140,476 tonnes in 2017 (2016: 133,366 tonnes and 
+
+135,791 tonnes respectively). 
+
+自 IPO 以来，我们取得了快速的产能扩张。总生产能力增长
+
+了近五倍，从 2007 年上市前的每年 32,000 吨增长到 2017 年
+
+的每年 152,000 吨，并将在 2018 年达到每年 172,000 吨。除
+
+了产能扩张，本集团继续产品范围多样化。本集团已保留其现
+
+有 5 个生产基地的土地，并探讨进一步增加产能的机会。
+
+我们建立了中期目标	-	在“十三五”末（2020 年底），实现
+
+促进剂产能 117,000 吨，硫化剂产能 30,000 吨，防老剂产能
+
+45,000 吨，整体产能实现 192,000 吨。
+
+我们也建立了长期目标：抓住橡胶助剂的主业，巩固提升促进
+
+剂在全球的领先位置，扩大不溶性硫磺的市场规模和占有率，
+
+争取把不溶性硫磺做到全球领先的位置，扩大防老剂和预分散
+
+体的市场份额，在橡胶助剂领域树立质量、规模、品种、成本、
+
+环保、市场等综合优势，做强做大橡胶助剂主要产品。
+
+乘着国内轮胎、汽车市场强劲发展，全球经济复苏的东风，借
+
+助我们在质量、规模、品种、环保及市场等方面的优势，集
+
+团在 2017 年度的产销量得到进一步的提高，全年产销量各为
+
+141,704 吨及 140,476 吨（2016:	133,366 吨及 135,791 吨），
+
+再创历史新高。
+
+ECONOMIC PERFORMANCE 经济绩效
+
+PRODUCTION CAPACITY 产能
+
+07
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Economic
+
+经济
+
+Our customers are mainly tire companies that provide products 
+
+and services to the automobile industry. We have over 1,000 
+
+customers around the world and continue to serve more than 
+
+65% of the Global Top 75 tire makers, such as Bridgestone, 
+
+Michelin, Goodyear, Pirelli, Sumitomo, Hankook, YOKOHAMA, CST 
+
+Tires, as well as PRC tire giants such as Chao Yang and GITI Tire.
+
+The market for our main product, Rubber Accelerators, continues 
+
+to grow. There is no publicly available data on the domestic or 
+
+global market size of this product. Hence, we have performed our 
+
+own assessment of our share of the markets in the chart on the 
+
+right. 
+
+我们的客户主要是为汽车工业提供产品的轮胎公司。我们拥有
+
+全球 1000 多家客户并且持续服务于 65%	的全球顶级 75 家轮
+
+胎制造商。国际客户例如普利司通，米其林，固特异，倍耐力，
+
+住友橡胶，韩泰轮胎，横滨（优科豪马）轮胎，	正新集团，	
+
+以及中国客户如中策橡胶集团和佳通轮胎。
+
+我们的主要产品 - 促进剂的市场份额持续增长。由于无国际和
+
+国内促进剂市场规模的公开信息，右表显示根据我司自身测算
+
+的促进剂产品在国内及全球的市场份额。
+
+MARKET PRESENCE 市场表现
+
+08
+
+
+
+PRC Car Sales
+
+35
+
+30
+
+25
+
+20
+
+15
+
+10
+
+5
+
+0
+
+2012
+
+2005
+
+2017
+
+2011
+
+2004
+
+2016
+
+2010
+
+2003
+
+2015
+
+2009
+
+2002
+
+2014
+
+2007
+
+2000
+
+2008
+
+2001
+
+2013
+
+2006
+
+28.9
+
+28.0
+
+24.6
+
+23.5
+
+22.0
+
+19.3
+
+18.5
+
+18.1
+
+13.6
+
+9.4
+
+8.8
+
+7.2
+
+5.8
+
+5.1
+
+4.4
+
+3.2
+
+2.4
+
+2.1
+
++ 12.6 %
+
+CAGR (2007-2017)  
+
+Market Share
+
+40%
+
+35%
+
+30%
+
+25%
+
+20%
+
+15%
+
+10%
+
+5%
+
+0%
+
+2012
+
+2017
+
+2011
+
+2016
+
+2010
+
+2015
+
+2009
+
+2014
+
+2008
+
+2013
+
+7%
+
+11%
+
+12%
+
+12%
+
+14%
+
+16%
+
+17%
+
+17%
+
+18%
+
+20%
+
+19%
+
+24%
+
+24%
+
+25%
+
+28%
+
+29%
+
+30%
+
+30%
+
+31%
+
+33%
+
+PRC Market Share
+
+Global Market Share
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+
+
+As a chemicals company, environmental 
+
+protection is very important to us. We 
+
+focus on creating value through our 
+
+offering of products and services that 
+
+minimally 
+
+impact 
+
+the 
+
+environment, 
+
+whilst also engaging in efforts to reduce 
+
+our environmental footprint during the 
+
+production process.
+
+“Building a beautiful and harmonious 
+
+Sunsine" is our mission statement, 
+
+illustrating our relentless commitment 
+
+to incorporate sustainability into every 
+
+aspect of our business ethos.  We 
+
+strive to be environmentally friendly in 
+
+developing our business responsibly and 
+
+efficiently through conserving resources, 
+
+and investing in the latest technology to 
+
+drive sustainable development. Every 
+
+individual in the organisation takes our 
+
+mission statement to heart so as to move 
+
+the business forward responsibly and 
+
+efficiently. We have raised awareness 
+
+throughout the organisation and have put 
+
+in place procedures to carefully monitor 
+
+wastewater, toxic gases, odour and all 
+
+waste treatment processes. We use 
+
+an approach we call “from the source, 
+
+control the middle, govern the end” to 
+
+achieve sustainable development and 
+
+overcome any challenges we encounter 
+
+along the way.
+
+We 
+
+have 
+
+implemented 
+
+ten 
+
+key 
+
+environmental 
+
+policies 
+
+which 
+
+are 
+
+in 
+
+accordance 
+
+with 
+
+environmental 
+
+laws and regulations issued by the 
+
+PRC authorities. These will raise the 
+
+Group’s 
+
+environmental 
+
+management 
+
+and technological capabilities. These 
+
+initiatives are: advanced pollution control 
+
+facilities, a water recycling project, 
+
+a solid waste disposal system, an 
+
+approved biological waste pool, a real-
+
+time monitoring system, an emergency 
+
+response pool, contingency plans, a 
+
+fully operational laboratory, a system 
+
+of accurate operational records, and 
+
+a 
+
+high 
+
+performance 
+
+environmental 
+
+management team.
+
+Our environmental management team 
+
+has more than 40 employees, with 
+
+relevant 
+
+environmental 
+
+protection 
+
+knowledge 
+
+and 
+
+experience. 
+
+There 
+
+are five post-graduate degree holders 
+
+in environmental protection and 12 
+
+graduates who are dedicated to the 
+
+Company's environmental research and 
+
+provide support for our environmental 
+
+protection technology. We have also 
+
+created an Environmental Protection 
+
+Committee headed by the General 
+
+Manager 
+
+with 
+
+the 
+
+Environment 
+
+Manager as his deputy to oversee 
+
+the implementation of environmental 
+
+protection technology. 
+
+We continuously seek to improve our 
+
+environmental protection capabilities. 
+
+The table attached shows our investment 
+
+on environmental protection related 
+
+expenditure, 
+
+which 
+
+has 
+
+increased 
+
+significantly as compared to that in 2016. 
+
+Environment
+
+环境
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+09
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+ 
+
+2017 
+
+2016
+
+ 
+
+ RMB’ million 
+
+RMB’ million
+
+ 
+
+人民币	百万	
+
+人民币	百万
+
+Property, plant and equipment
+
+固定资产 
+
+31.61 
+
+12.73
+
+Pollutant Discharge Fees
+
+排污费用 
+
+11.67 
+
+11.13
+
+Waste water treatment and discharge
+
+废水处理 
+
+10.44 
+
+8.42
+
+Gas treatment and discharge
+
+尾气处理 
+
+35.62 
+
+27.03
+
+Manpower
+
+人工 
+
+5.09 
+
+5.07
+
+Others
+
+其他 
+
+4.39 
+
+1.52
+
+Total
+
+总计 
+
+98.82 
+
+65.90
+
+作为一家化工企业，在生产的同时，环境保护也是一个非常重
+
+要的课题。我们专注于商业和环境，通过产品和服务创造价值，
+
+有助于减少对环境的影响，同时努力减少我们自己的环境负荷。
+
+在企业发展过程中，公司始终坚持环保是企业发展的第一要务
+
+的理念，把环保工作做为企业的“生命工程”来抓，牢固树立
+
+资源节约、环境友好、科学发展、可持续发展的生产经营理念，
+
+在环保治理上不惜投资，把“建设美丽和谐尚舜”作为我们企
+
+业发展的一种责任、一项使命来认识并身体力行。在公司内部
+
+明确要求环保治理必须再上新台阶，各级各部门要提高认识，
+
+主动对废水、废气、异味、废渣全面治理，全员、全时段、全
+
+方位抓环保，采取“从源头抓、从中间控、从末端治”的环保
+
+管制模式，彻底实现污染物的达标排放，消除制约发展的瓶颈，
+
+为公司的的可持续发展打下坚实的基础。
+
+贯彻环境保护法律法规及相关政策的要求，领导推进公司环保
+
+工作的全面开展；以提高企业治污能力为出发点，着力加强企
+
+业环境基础设施建设，积极响应“十个一工程”建设，结合公
+
+司自身实际，高标准建设起一套技术先进的治污设施，一套中
+
+水回用工程，一套固废处置系统，一个规范的排污口和生物指
+
+示池，一套在线监控系统，一个事故应急处置池，一套科学的
+
+应急预案，一个标准化的实验室，一套精细准的台账和运行记
+
+录及一支水平较高的环境管理队伍，全面提升了公司的环保管
+
+理和技术水平。
+
+公司目前拥有一支实力雄厚的环保专业队伍，环保专业人员
+
+40 余人，其中环境专业研究生 5 人，本科生 12 人，专门致力
+
+于公司环保问题的研发治理，为公司的环境保护提供强有力的
+
+技术支持；成立了以总经理为主任，以环保经理为副主任的环
+
+境保护委员会。
+
+我们不断提高我们的环境保护能力。以下表格显示集团环境保
+
+护开支明细，	2017 年在环境保护方面的投资比 2016 年有较
+
+大增长。
+
+Environment
+
+环境
+
+10
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+ENERGY CONSUMPTION 能源使用
+
+Environment
+
+环境
+
+Our production facilities use coal, 
+
+electricity and steam. Coal is 
+
+used to produce steam required 
+
+for the desiccation process. 
+
+我们加工设备需要煤，电和蒸汽作为能源动
+
+力。使用煤是为了生产蒸汽用于供热，并用
+
+来干燥我们的产品。
+
+ Total Energy Consumption 
+
+2017 
+
+2016
+
+ 
+
+总体能耗	
+
+ 
+
+Coal 煤 
+
+144,730 Tons 
+
+129,906 Tons
+
+ 
+
+ 
+
+Electricity 电 
+
+141,573,719 KWh 
+
+135,782,815 KWh
+
+ 
+
+ 
+
+Steam 蒸汽 
+
+914,595 Tons 
+
+884,729 Tons
+
+ Energy Consumption per Unit 
+
+2017 
+
+2016
+
+ 
+
+单位能耗	
+
+ 
+
+Coal 煤 
+
+0.17 Ton/Unit 
+
+0.18 Ton/Unit
+
+ 
+
+(per unit of steam produced)
+
+ 
+
+Electricity 电 
+
+999.08 KWh/Unit 
+
+1,018.12 KWh/Unit
+
+ 
+
+(per unit of rubber chemical produced)
+
+ 
+
+Steam 蒸汽 
+
+6.45 Ton/Unit 
+
+6.63 Ton/Unit
+
+ 
+
+(per unit of rubber chemical produced)
+
+The two tables below show our total energy consumption as 
+
+well as energy consumption rate per unit. Our total energy 
+
+consumption for 2016 and 2017 have increased in line with 
+
+higher production volume. However, consumption per unit has 
+
+decreased, demonstrating our continuous improvements in 
+
+energy management.
+
+下面两个表格列明了我集团 2016 和 2017 年度的总体能耗及
+
+单位能耗。2016 年总体能耗由于产量的提高而有所提高。然而，
+
+单位能耗同比下降，显示出我集团在能源管理上的不断进步。
+
+
+
+11
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Environment
+
+环境
+
+To reduce emissions, wastages and 
+
+environmental pollution at Shantong 
+
+Shanxian 
+
+Chemical 
+
+Industrial 
+
+Zone, 
+
+Shanxian local government authority 
+
+requires all companies to stop using 
+
+their own boilers. The local authority 
+
+also appointed our Group to set up a 
+
+centralised heating company to provide 
+
+steam to all other companies in the 
+
+industrial zone.  In 2013, the Group set 
+
+up a centralised heating company – 
+
+Shanxian Guangshun Heating Co., Ltd 
+
+(“Guangshun Heating”). Total planned 
+
+capacity for Guangshun Heating was 4 
+
+boilers and 3 generators (i.e., 4x130t/h 
+
+boilers + 3xCB12MW turbine + 3x15MW 
+
+generators). The construction comprises 
+
+3 phases. Phase I of this construction, 
+
+consisting of 2 boilers (1 on standby) 
+
+and 
+
+1 
+
+generator, 
+
+commenced 
+
+its 
+
+operations at the end of 2014. The bulk 
+
+of the steam and electricity generated by 
+
+Guangshun Heating is consumed mainly 
+
+by the Group, and the balance by other 
+
+companies in the industrial zone. Phase 
+
+II of the construction, to add 1 boiler and 
+
+1 generator, was completed in 2017 and 
+
+is expected to commence operation in 
+
+2018.
+
+In 2017, approximately 52,520,000 KWh 
+
+(2016: 49,430,000 KWh) of electricity 
+
+and approximately 679,736 tons (2016:  
+
+679,450 tons) of steam were generated 
+
+by Guangshun Heating and consumed by 
+
+the Group. (Note: The tables above include 
+
+internally 
+
+generated 
+
+and 
+
+consumed 
+
+steam and electricity.)
+
+为了减低公司所在地	–	山东单县煤化
+
+工业园区的排放，避免资源浪费和环境
+
+污染，单县政府要求园区内各企业停止
+
+使用自备锅炉，并委托我司成立一家
+
+集中供热公司，向园区各企业进行集
+
+中供热。2013 年，集团成立了一家集
+
+中供热公司	–	单县广舜热力有限公司
+
+（“广舜热力”），建设规模为“4 炉
+
+3 机”，即”4x130t/h 的循环流化床锅
+
+炉 +3xCB12MW 抽背汽轮机 +3x15MW
+
+发电机”。其中“2 炉 1 机”（1 开 1 备）
+
+已于 2014 年底投入使用，能够生产蒸
+
+汽并发电。大部分广舜热力生产的蒸汽
+
+和发的电都在集团内部消耗，其它部分
+
+外供园区企业。2017 年，二期项目的“1
+
+炉 1 机”的建设项目也已完工，计划于
+
+2018 年投入使用。
+
+2017 年，广舜热力生产的用于集团内部
+
+消耗的电力为 5,252 万度（2016 年 4,943
+
+万度），蒸汽为 679,736 吨（2016:679,450
+
+吨）。这些内部产生并消耗的汽、电尚
+
+未在上表中剔除。
+
+12
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+To manage energy effectively, we have adopted the following 
+
+measures:
+
+1. Communicate national and local energy conservation laws 
+
+and regulations and the Group’s energy management 
+
+policies with management and staff to enhance their 
+
+awareness;
+
+2. Comply strictly with the “Responsibility System for 
+
+Performance Management of Workshop Objectives” 
+
+formulated by the Group to establish and improve various 
+
+energy-saving management systems;
+
+3. Require routine regular inspections and monitoring by 
+
+the energy management staff to monitor compliance in 
+
+accordance with policies.  Develop corrective measures, 
+
+implement remediation and timelines for problems, and 
+
+identify root causes, so as to reduce energy wastage 
+
+problems;
+
+4. Require the energy-saving administrator of each workshop 
+
+to conduct inspection on regular or random basis. Energy 
+
+consumption analysis reports are to be prepared and 
+
+submitted. Corrective actions are to be implemented 
+
+within the deadline to achieve 100% remediation; 
+
+5. Identify and evaluate significant energy usage factors, and 
+
+establish energy control methods. Such methods will be 
+
+closely monitored to ensure effectiveness;
+
+6. Each workshop to establish its own energy saving system 
+
+and take effective measures according to the energy 
+
+saving objectives they have set.  Each energy-saving team 
+
+will evaluate their energy saving results;
+
+7. Conduct regular inspections on equipment with significant 
+
+energy consumption to identity potential energy-saving 
+
+opportunities, and recommend improvement measures; 
+
+and
+
+8. Enhance energy-saving capability, promote the use of 
+
+advanced technology, transform obsolete production 
+
+equipment and improve waste heat utilization.
+
+为做好能源管理工作，我们采取了以下措施：
+
+1、	认真贯彻传达国家、地方的节能法律法规以及公司的能
+
+源管理规章制度，全面提高各级管理人员的节能意识。	
+
+2、严格执行公司制定的《车间目标管理绩效考核经济责任
+
+制》的相关规定，建立健全各项节能管理制度，并加强
+
+学习与实践。
+
+3、能源管理人员加强日常巡回检查和考核工作，对查出的
+
+问题，制定措施，限期整改，消除能源跑、冒、滴、漏
+
+等浪费问题。
+
+4、督促各车间节能管理员定期或不定期开展节能检查和用
+
+能分析，并将检查记录和用能分析报表按时上报到节能
+
+办备案，限期整改，确保整改率达100%。
+
+5、做好重要能源因素的识别和评价工作，制订对重要能源
+
+因素的控制办法，并对其控制过程进行监督、检查、指
+
+导、管理。
+
+6、各车间积极围绕节能目标建立能源管理体系，采取有效
+
+节能措施，做好节能基础工作，节能办公室对各车间、
+
+工段节能目标统一管理并考核。
+
+7、定期对主要耗能设备运行状况进行监测并建立相关记
+
+录，识别评价出具有节能潜力的用能设备并提出改进措
+
+施。	
+
+ 
+
+8、加大节能技改的力度，推广先进技术，改造落后的生产
+
+设备和余热利用，取得明显的节能效益。
+
+Environment
+
+环境
+
+13
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+ENVIRONMENT
+
+环境
+
+WATER CONSUMPTION 用水量
+
+We consume a significant amount of 
+
+water during production, predominantly 
+
+industrial water. Industrial water is 
+
+required for generating steam in order 
+
+to dilute any chemicals created during 
+
+production and to lower temperatures. 
+
+在我们的生产过程中，会大量使用水。我们使用的水可分
+
+为两部分，一为工业用水，二为生活用水。工业用水主要
+
+用来产生蒸汽，及在工艺流程中用来稀释，水洗（物料纯
+
+化）和循环降温。
+
+14
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+ENVIRONMENT
+
+环境
+
+Though our water consumption is higher in FY2017 in line with 
+
+increased production, the water consumption per unit has 
+
+decreased. We remain committed to use water as efficiently as 
+
+possible. 
+
+2017 年的用水量同比较高，原因为 2017 产量较高。然而，单
+
+位耗水量同比下降。同时，我们也承诺尽可能的有效用水。
+
+ 
+
+ 
+
+2017 (Cubic Metres) 
+
+2016 (Cubic Metres)
+
+ 
+
+ 
+
+2017年使用量（立方米）	
+
+2016年使用量（立方米）
+
+ 
+
+ 
+
+Industrial Water consumption
+
+ 
+
+工业用水量 
+
+1,700,000 
+
+1,619,000
+
+ 
+
+Others
+
+ 
+
+生活用水量 
+
+141,000 
+
+145,000
+
+ 
+
+Total water consumption
+
+ 
+
+总耗水量 
+
+1,841,000 
+
+1,764,000
+
+ 
+
+Total water consumption/unit
+
+ 
+
+单位总耗水量 
+
+12.99 
+
+13.23
+
+15
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+All waste water generated from the 
+
+production process is pretreated and 
+
+recycled for re-use. For waste water which 
+
+cannot be recycled and re-used, further 
+
+chemical reaction and bio-treatment 
+
+will be done in order to comply with the 
+
+discharge limits (COD ≤ 500, NH ≤ 35 
+
+mg/L, Aniline ≤ 1.5 mg/L) set by local 
+
+authorities before it can be discharged to 
+
+external waste water treatment plants.
+
+Wastewater treatment has always been 
+
+our focus. The Group sets out a guiding  
+
+pinciple that is focused on the reduction 
+
+of waste water discharge, with emphasis 
+
+on pre-treatment, recycling as well as 
+
+the bio-treatment of waste water, and 
+
+improving all employees’ competence. We 
+
+spare no effort in harnessing our human, 
+
+technological and financial resources to 
+
+ensure our wastewater discharge fulfills 
+
+required environmental standards.
+
+All our production plants are equipped with 
+
+an integrated wastewater treatment and 
+
+sulphur recycling facility. Our wastewater 
+
+treatment and recycling 
+
+process is 
+
+closely monitored by the relevant local 
+
+governments to comply with regulatory 
+
+standards.
+
+Since 2013 the Group has set out a “Clean 
+
+Production” programme which requires 
+
+every employee to play a proactive 
+
+and continuous role in enhancing our 
+
+products effectively. At the same time, 
+
+the programme endeavours to reduce the 
+
+amount of wastewater discharge and to 
+
+ensure that the pollutants are removed 
+
+from the water before it is released to 
+
+the external environment. The measures 
+
+include adopting innovative technology 
+
+with advanced production processes and 
+
+equipment, using quality raw materials, 
+
+and raising management skills. 
+
+We enhanced our water efficiency and 
+
+encourage water conservation during the 
+
+year. In FY2017, the Group discharged 
+
+waste water totalling 846,000 cubic 
+
+metres 
+
+(FY2016: 
+
+1,622,000 
+
+cubic 
+
+metres), and waste water recycling 
+
+amounted to 1,197,000 cubic metres 
+
+(FY2016: 1,407,000 cubic metres).
+
+Environment
+
+环境
+
+WASTE WATER RECYCLING AND DISCHARGE 废水回收及排放
+
+
+
+16
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+所有生产过程中产生的废水都通过预处理回收使用，不
+
+能够回用的废水经过进一步的化学及生化处理，达到排
+
+放标准（COD	≤	500	mg/L，氨氮	≤	35	mg/L，苯胺	
+
+≤	1.5	mg/L）后排入政府污水处理厂。
+
+公司始终将污水治理作为首要任务来抓，根据运行实际
+
+提出“抓减排、抓分别的预处理，加大中水回用，抓生
+
+化效果提高，抓环保人员整体素质提高”指导思想，不
+
+惜投入大量的人力、物力、财力，彻底实现废水的稳定
+
+达标排放。
+
+我们每个生产基地都配备了综合废水处理和废气回收设
+
+施。在生产过程中，产生的废水可能会造成污染。废水
+
+处理厂用于处理废水，使其符合监管标准。污水处理和
+
+回收过程由相关的地方政府当局密切监测。
+
+自2013以来，集团曾推行“清洁生产”计划。“清洁生
+
+产”项目需要团队中发挥积极作用，通过技术创新，采
+
+用更先进的生产工艺和设备，使用清洁的原材料，提高
+
+管理技能，以更有效和高效的方式生产的产品，并同时
+
+减少废水排放。
+
+由于采取节水措施，集团在2017年共排放废水846,000立
+
+方（2016：1,622,000立方），并回收废水	1,197,000立方
+
+（2016：1,407,000立方）。
+
+Environment
+
+环境
+
+17
+
+
+
+
+
+
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Environment
+
+环境
+
+The Group made further investments to 
+
+strengthen odour and emissions control, as 
+
+follows:
+
+1. Installed a RTO (Regenerative Thermal 
+
+Oxidizer) incinerator to collect and 
+
+process gas emitted from the MBT 
+
+workshop and factory area in order to 
+
+meet the gas emission standard;
+
+2. Installed a fully automated waste 
+
+water evaporator at the workshop to 
+
+enhance waste water management 
+
+and recycling;
+
+3. Converted all coal-fired furnaces to gas-
+
+fired furnaces, which is environmentally 
+
+friendly, to further reduce pollutant 
+
+emissions, as well as to align with 
+
+national policies; 
+
+4. Installed 
+
+a 
+
+cryogenic 
+
+recycling 
+
+equipment to recycle carbon disulfide 
+
+used in our Insoluble Sulpur workshop. 
+
+More than 2 tons of carbon disulfide 
+
+were recycled every day, reaping both 
+
+economic and environmental benefits ; 
+
+and
+
+5. Establish a VOC (“Volatile organic 
+
+compounds”) action plan, focusing 
+
+on leakage detection and remedial 
+
+measures as well as recycling of these 
+
+VOC. 
+
+为进一步治理废气和异味，2017年公司又
+
+实施了下列工程：
+
+1.	 购买安装了RTO蓄热式焚烧炉，对
+
+MBT车间工艺废气和厂区集中收集的
+
+无组织废气进行焚烧处理，实现有机
+
+废气的达标排放；
+
+2.	 针对车间废水新上了一套全自动多效
+
+蒸发器，使得车间废水得到有效处
+
+理，实现部分回用；
+
+3.	 积极响应国家政策，实施导热油炉煤
+
+改气，将原有的燃煤锅炉全部淘汰，
+
+改为燃气锅炉，实现清洁燃料替代，
+
+有效减少污染物的排放；
+
+4.	 针对橡胶用不溶性硫磺车间二硫化碳
+
+气体安装了深冷回收设备，每天可回
+
+收二硫化碳2吨以上，实现经济效益
+
+和环境效益的双丰收；
+
+5.	 开展VOC集中治理工作，源头开展“
+
+泄露检测与修复”工作，针对VOC进
+
+一步收集，采用喷淋吸收等工艺回收
+
+利用。
+
+GAS EMISSION 废气排放
+
+Hydrogen sulphide created during our 
+
+production process is harmful to health 
+
+and 
+
+the 
+
+environment. 
+
+Our 
+
+sulphur 
+
+recycling facility has effectively extracted 
+
+the sulphur from hydrogen sulphide for re-
+
+use in our production process, such as in 
+
+the production of our thiazoles accelerator, 
+
+MBT.
+
+To effectively manage the hydrogen 
+
+sulphide emission at our manufacturing 
+
+facilities, we are the first company in China 
+
+to invest more than RMB 30 million on a 
+
+Super Claus furnace and CS2 recovery 
+
+facility. Our conversion recovery rate is 
+
+consistently above 99.5%.
+
+在生产过程中产生的有毒废气硫化氢，
+
+对人体健康和环境有害。我们的废气回
+
+收装置能够从硫化氢气体中回收出硫
+
+磺，此回收的硫磺在生产过程中可以循
+
+环使用，比如在我们生产噻唑类促进剂
+
+MBT和硫化剂不溶性硫磺时使用。
+
+在废气异味治理方面作为同行业第一
+
+家，率先投资3000余万元上马了超级克
+
+劳斯炉和CS2回收装置，对公司废气进
+
+行彻底治理，转化回收率达到99.5%以
+
+上。
+
+
+
+18
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Environment
+
+环境
+
+As set out above, we have complied 
+
+with the Authority’s limits for the waste 
+
+water discharge and toxic gas emission 
+
+in 2017. 
+
+如上所述，我们在2017年的废水和废
+
+气排放量在政府规定的限额内。
+
+COMPLIANCE 合规
+
+Since 2008, we have been accredited with 
+
+GB/T24001-2004/ISO14001:2004 for our 
+
+Environment Management System. We have 
+
+continuously enhanced our system to be 
+
+more environmentally friendly over the years.
+
+The toxic gas emission complied with the 
+
+permissible limits of the local authority. 
+
+In 2017, we complied with the Authority’s 
+
+limits (SO2 ≤ 35 mg/m3, NOX ≤ 100 mg/
+
+m3, dust concentration ≤ 20 mg/m3) set 
+
+for the toxic gas emission.  In line with 
+
+lower MBT production volume in 2017, the 
+
+total volume of sulphur recycled is 11,237 
+
+tons (2016: 12,416 tons). The recycling 
+
+rate remains above 99.5%. Such recycling 
+
+process has reduced production cost by 
+
+RMB 13.58 million (2016: RMB 15 million). 
+
+自2008年，我们获得了GB/T24001-
+
+2004/ISO14001:2004环境管理系统认
+
+证，且持续改进。
+
+在2017年，毒气排放量在政府允许范围
+
+内(SO2含量	 ≤	 35mg/m3,	 氮氧化物含
+
+量	≤	100mg/m3，粉尘含量	≤	20mg/
+
+m3)。由于MBT产量的降低，2017年
+
+硫磺的循环使用量是11,237吨(2016
+
+年：12,416)，循环率高达99.5%。回
+
+收硫磺经济效益达到人民币1,358万元
+
+(2016年1500万元)。
+
+
+
+
+
+
+
+硫回收车间
+
+Sulphur	Recovery
+
+Insoluble	Sulphur
+
+Accelerator	MBT
+
+Crystallised	Sulphur
+
+Sulphur
+
+Hydrogen	Sulfide
+
+不溶性硫磺车间
+
+硫磺
+
+硫化氢
+
+结晶硫磺
+
+促进剂MBT车间
+
+19
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+
+
+Social 
+
+社会
+
+Employment, Diversity and Equal Opportunity, 
+
+Equal Remuneration for Women and Men
+
+雇佣，多元化与机会平等，男女同酬
+
+China Sunsine’s recruitment policy 
+
+is based on merit, and does not 
+
+discriminate against race, age, gender, 
+
+religion or ethnicity. There were no 
+
+incidents of discrimination during the 
+
+reporting period.
+
+We strictly prohibit the hiring of 
+
+underage staff at any of our offices 
+
+and processing facilities. 
+
+中国尚舜承诺无种族，性别，宗教和
+
+少数民族歧视雇佣宗旨。在报告期限
+
+内无歧视案例。
+
+我们杜绝办公室或是工厂的未成年
+
+雇佣。
+
+20
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+
+
+Social 
+
+社会
+
+We give preference to the hiring of local talent in China. We are 
+
+committed to provide competitive remuneration and benefits to 
+
+our employees, which are consistently above the market rate in 
+
+the provinces we operate in. We are also committed to safeguard 
+
+our employees’ health and safety against any potential workplace 
+
+hazards.
+
+我们倾向于聘请中国当地人员。我们承诺对员工提供具有竞争
+
+性的工资和福利。员工工资在单县全县始终保持较高的水平。
+
+我们也承诺在危险工作环境下会保护员工健康与安全。
+
+Employees’ profile by age 
+
+员工按年龄分类
+
+Even though we operate in a male-dominated industry, 17% 
+
+(2016: 17%) of our staff in 2017 are female. We actively 
+
+encourage women to join the business, and provide additional 
+
+benefits such as medical check-ups specifically tailored to our 
+
+female staff in addition to the annual check-ups for all employees 
+
+and gifts to our female staff on Women’s Day. 
+
+尽管化工业是男性主导的行业，中国尚舜集团的女性职员达到
+
+总员工人数17%	(2016:17%)。我们积极鼓励女性加入，同时提
+
+高福利，例如女性特别年度体检（在年检的基础上）以及在妇
+
+女节时赠发礼品。
+
+2017                                                            2016
+
+ No. of employees 
+
+Percentage 
+
+No. of employees 
+
+Percentage 
+
+ 
+
+员工人数	
+
+占比	
+
+员工人数	
+
+占比
+
+ 
+
+Gender 
+
+2017 
+
+2016
+
+ 
+
+性别	
+
+ 
+
+ 
+
+Male 男 
+
+1,774 
+
+1,744
+
+ 
+
+Female 女 
+
+352 
+
+354
+
+3%
+
+4%
+
+36%
+
+37%
+
+47%
+
+48%
+
+13%
+
+11%
+
+&gt; 46
+
+26-35
+
+36-45
+
+&lt; 25
+
+&gt; 46
+
+26-35
+
+36-45
+
+&lt; 25
+
+  Qualification
+
+ 学历
+
+ 
+
+ Post-graduate degrees 硕士及以上 
+
+17 
+
+1% 
+
+18 
+
+1%
+
+ 
+
+Bachelor degrees 学士 
+
+260 
+
+12% 
+
+268 
+
+13%
+
+ 
+
+Higher Diplomas 大专 
+
+573 
+
+27% 
+
+543 
+
+26%
+
+ 
+
+Diplomas 高中、中专 
+
+925 
+
+44% 
+
+918 
+
+44%
+
+ 
+
+Others 其他 
+
+351 
+
+16% 
+
+351 
+
+16%
+
+ 
+
+Total 合计 
+
+2,126 
+
+100% 
+
+2,098 
+
+100%
+
+2016
+
+2017
+
+21
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Social 
+
+社会
+
+Our 
+
+foundation 
+
+for 
+
+developing 
+
+a 
+
+sustainable business is to build an 
+
+inclusive culture.  Every year, the Group 
+
+organises various activities such as sports 
+
+days, Women’s Day speech contest, New 
+
+Year’s Gala Dinner and other activities to 
+
+strengthen camaraderie and a sense of 
+
+belonging amongst employees to build 
+
+and foster strong team ethos. We embrace 
+
+diversity, and at the same time expect 
+
+employees to be aligned with the Group’s 
+
+vision and strategic initiatives. Whilst 
+
+we expect our employees to constantly 
+
+challenge and improve themselves, we 
+
+also require them to treat others sincerely 
+
+and with respect.
+
+In July 2017, the Company celebrated 
+
+its 40th anniversary as well as the 10th 
+
+anniversary of its listing on the SGX, 
+
+with key customers, suppliers, leaders 
+
+of industrial associations, and leaders 
+
+of cities and counties etc. In addition, 
+
+our Chairman Xu Chengqiu received the 
+
+Shanxian Lifetime Achievement Award, 
+
+in recognition of the growths in output 
+
+(91 times), sales revenues (80 times) 
+
+and profits (267 times) achieved in the 
+
+past 40 years. The celebration was an 
+
+occassion to motivate workers, increase 
+
+customer 
+
+loyalty 
+
+and 
+
+enhance 
+
+the 
+
+branding and standing of the Company. 
+
+In Singapore, the Company also held a 
+
+grand celebration in conjunction with our 
+
+2nd Quarter 2017 results briefing at the 
+
+SGX auditorium attended by the SGX Head 
+
+of Equities and Fixed Income, other SGX 
+
+officers, shareholders, investors, as well 
+
+as finance/legal professionals.
+
+Staff turnover is low with less than 5% of 
+
+total headcount per annum. We do not 
+
+hire part-time staff. 39% (2016: 34%) of 
+
+our staff has been working with our Group 
+
+for more than 10 years.
+
+加强文化建设是集团可持续发展的坚强
+
+基石。集团每年都举办职工趣味运动
+
+会、庆“三八”演讲比赛、辞旧迎新元
+
+旦联欢晚会等活动，加强员工归属感，
+
+培养员工集体意识、团队合作意识。集
+
+团要求员工要树立个人服从集体、局部
+
+服从整体的观念，倡导集体利益为重的
+
+价值观念；要求员工在竞争中挑战自
+
+我，在合作中欣赏他人，大力崇尚爱
+
+岗、敬业、厚德、包容的人文精神和道
+
+德风尚。
+
+2017年7月，为了庆祝建厂40周年、上
+
+市10周年，公司举办了以“创新驱动、
+
+合作共赢、加快发展”为主题的庆祝活
+
+动，召开了庆祝大会，活动邀请了公司
+
+主要客户、主要供应商、行业协会领导
+
+及市县政府领导等参加。董事长徐承秋
+
+被单县政府授予“单县经济发展终身
+
+成就奖”。40年来，特别是企业改制
+
+20年来，公司产量增长91倍，销售增
+
+长80倍，利税增长267倍。通过庆祝活
+
+动，达到了总结发展经验，提高广大干
+
+部职工的向心力、凝聚力，提高客户的
+
+忠诚度，提高公司的美誉度、知名度的
+
+目的，进一步扩大了公司的影响力。同
+
+时，上市公司在新加坡交易所大礼堂也
+
+隆重举办了庆祝上市10周年的庆祝活动
+
+暨2017年2季度业绩介绍会。活动邀请
+
+了新加坡交易所相关领导、各股东及投
+
+资者代表、媒体及中介结构代表参与，
+
+取得圆满成功，并获得一致好评。
+
+员工流动率每年少于总员工人数的5%。
+
+我们也没有雇佣兼职人员。39%（2016
+
+年：34%）的员工的在职年数已超过10
+
+年。
+
+2017                                                            2016
+
+ No. of employees 
+
+Percentage 
+
+No. of employees 
+
+Percentage 
+
+ 
+
+员工人数	
+
+占比	
+
+员工人数	
+
+占比
+
+ 
+
+Length of service 
+
+ 
+
+(no of years)
+
+ 
+
+在职年数
+
+ 
+
+&gt; 20 
+
+238 
+
+11% 
+
+197 
+
+9%
+
+ 
+
+11 – 20 
+
+595 
+
+28% 
+
+520 
+
+25%
+
+ 
+
+6 – 10 
+
+783 
+
+37% 
+
+790 
+
+38%
+
+ 
+
+3 – 5 
+
+299 
+
+14% 
+
+333 
+
+16%
+
+ 
+
+&lt; 3 
+
+211 
+
+10% 
+
+258 
+
+12%
+
+ 
+
+Total 合计 
+
+2,126 
+
+100% 
+
+2,098 
+
+100%
+
+22
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Social 
+
+社会
+
+We invest in comprehensive training to develop our employees 
+
+to their maximum potential. The following is a list of our training 
+
+programme for 2017:
+
+• Orientation (for new workers and managers)
+
+• Professionalism 
+
+• Case study for high-potential talents
+
+• Management skills 
+
+• Innovation
+
+• Mindset change
+
+• Safety management 
+
+• Quality management 
+
+• Environmental case study 
+
+• Production management 
+
+• Equipment management 
+
+• Finance management
+
+• Internal transfer training
+
+我们注重员工培训，以使得员工的潜能得到提高。
+
+以下是2017年员工培训内容：
+
+•	 新员工入厂培训	
+
+•	 新入职管理人员培训	
+
+•	 职业化素养	
+
+•	 潜力精英专案
+
+•	 管理素质	
+
+•	 创新专案
+
+•	 转变观念
+
+•	 安全管理	
+
+•	 品质管理	
+
+•	 环保专案	
+
+ 
+
+•	 生产管理	
+
+•	 设备管理	
+
+•	 财务管理
+
+•	 转岗培训
+
+TRAINING AND EDUCATION 培训与教育
+
+23
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Safety of all our employees is of utmost 
+
+importance. 
+
+We 
+
+acknowledge 
+
+the 
+
+production process involves dangerous, 
+
+toxic or flammable raw materials. Therefore, 
+
+we have implemented comprehensive 
+
+safety 
+
+and 
+
+environmentally-friendly 
+
+measures regulated by the relevant 
+
+government authorities, and are subject 
+
+to periodic and random checks by the 
+
+authorities. 
+
+We 
+
+have 
+
+increased 
+
+safety 
+
+related 
+
+expenditure to comply with regulations, 
+
+and this have improved our ability to 
+
+manage occupational risks posed to our 
+
+employees. 
+
+Constant 
+
+improvements 
+
+are being made to the production 
+
+environment. 
+
+We 
+
+have 
+
+upgraded 
+
+our facilities related to the storage, 
+
+transportation and processing of hazardous 
+
+chemicals.  We also provide our employees 
+
+with protective equipment, safety training 
+
+and supervision in accordance with all 
+
+regulatory requirements. 
+
+Safety measures and equipment are 
+
+continuously deployed to ensure the 
+
+safety of our employees especially during 
+
+the production process. We provide 
+
+safety training programmes and seminars 
+
+regularly, so that our employees are 
+
+updated with the latest safety measures 
+
+and enhanced procedures accordingly. 
+
+All new employees are required to undergo 
+
+mandatory safety training and drills to 
+
+familiarise themselves with the operation 
+
+of the machinery and equipment as well 
+
+as the safety precautions and procedures 
+
+during the production process. 
+
+OCCUPATIONAL HEALTH AND SAFETY 健康和安全
+
+Social 
+
+社会
+
+24
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+We ensure that all our staff follow the 
+
+necessary and appropriate precautions 
+
+when 
+
+handling 
+
+harmful 
+
+or 
+
+toxic 
+
+materials with a rigorous monitoring and 
+
+enforcement process.
+
+When it comes to education and training, 
+
+strict compliance with the “production 
+
+and 
+
+operation 
+
+unit 
+
+safety 
+
+training 
+
+requirements” is enforced.  Key position 
+
+holders, 
+
+from 
+
+specialised 
+
+personnel 
+
+through to security and management 
+
+staff, must attend security training, 
+
+pass the assessment test and obtain 
+
+the requisite certifications established 
+
+by the authorities. We have also set 
+
+up a training center and improved our 
+
+training facilities. During the annual 
+
+safety month, all employees are required 
+
+to study the materials issued by the 
+
+State Administration of Work Safety. 
+
+At least once a quarter, our Safety 
+
+Production Committee conducts research, 
+
+summarises, communicates, and deploys 
+
+work safety activities. The production 
+
+safety workshop conducts safety briefings 
+
+before and after work on a daily basis in the 
+
+individual departments. This is followed 
+
+by weekly meetings arranged by the 
+
+Safety Department for the management 
+
+to review the previous week’s production 
+
+safety status, and identify focus areas for 
+
+the following week.
+
+We have established a comprehensive 
+
+emergency response plan and registered 
+
+this with the City Safety Supervision 
+
+Bureau. All workshops and departments 
+
+have appointed emergency response units 
+
+which are equipped with all necessary 
+
+equipment. We conduct annual safety 
+
+drills to improve employees’ operational 
+
+readiness to manage any emergencies or 
+
+safety incidents. 
+
+The General Manager personally heads 
+
+the safety function. He is supported by the 
+
+department managers and the workshop 
+
+supervisors. This arrangement ensures 
+
+that all leaders are aware of their dual 
+
+responsibilities over management and 
+
+safety. We have also appointed a Safety 
+
+Director and established a Production and 
+
+Safety Committee, and a Production and 
+
+Safety Department. 
+
+We have an Annual Internal Safety 
+
+Inspection Plan. The local authority 
+
+conducts inspection once or twice a 
+
+month. We continuously carry out safety 
+
+management activities, such as the 
+
+management of liquid chlorine, liquid 
+
+ammonia and other hazardous chemical 
+
+materials. These also include frequent 
+
+maintenance 
+
+inspection 
+
+and 
+
+regular 
+
+monitoring of specialised operational 
+
+processes. Our Production and Safety 
+
+Department conducts a review every 
+
+Friday. Random safety inspections are 
+
+conducted in the workshop every day. 
+
+Each workshop also carries out a review 
+
+in accordance with the Production Line 
+
+Safety 
+
+Checklist. 
+
+Self-assessment 
+
+is 
+
+performed to identify any hidden safety 
+
+issues in order to improve safety risk 
+
+management. In addition, we engage 
+
+two production safety experts from Heze 
+
+City to objectively review our production 
+
+safety management system annually. 
+
+Their coverage includes safety policies, 
+
+site management, production technology, 
+
+equipment and any other related aspects. 
+
+In 2017, the Company established two new 
+
+processes, namely, Safe Production Risks 
+
+Classification Management, and Potential 
+
+Risks Investigation and Management, 
+
+to further strengthen the controls over 
+
+safety risks as well as the investigation and 
+
+management of potential safety hazards.
+
+In 2008, we obtained the occupational 
+
+health and safety management system 
+
+GB/T28001/OHSAS18001 
+
+certification, 
+
+and have continuously strengthened 
+
+our production safety system to be more 
+
+advanced, practical and effective.
+
+For 7 consecutive years from 2010 to 
+
+2016, we were honoured to be awarded the 
+
+title “Shandong Province Safe Production 
+
+Enterprise”, as well as "Provincial Safety 
+
+Culture Demonstration Enterprises”,  “The 
+
+Province’s ‘Safe Production’ Outstanding 
+
+Organization”, “The National Enterprise 
+
+Emergency Response Knowledge Contest 
+
+Winner”, “Heze City Safe Production 
+
+Emergency Management Demonstration 
+
+Site”, “Heze City Ankang Cup Competition 
+
+Winning Unit”, “Heze City Best Fire Safety 
+
+Unit”, “Municipal Emergency Management 
+
+Model Unit” and other honorary titles.
+
+There was no major safety-related incident 
+
+in 2017 as well as 2016.
+
+Social 
+
+社会
+
+
+
+
+
+25
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+由于我们的产品性质，我们处理有害
+
+的、有毒的和易燃的原料。为此，我们
+
+制定了全面的安全和环保措施。此类措
+
+施由有关政府部门监管，并须经当局定
+
+期及抽查。
+
+公司依法提取安全生产费用，加大安全
+
+投入，对各种危化品使用、储存、输送
+
+设备进行改造升级，优化了硬件安全设
+
+施。采用安全可靠的新技术、新材料和
+
+新装备，提高工艺技术和自动控制水
+
+平，提高企业控制安全风险的能力，不
+
+断改进安全生产条件。公司依法为从业
+
+人员提供劳动防护用品，教育、监督其
+
+正确佩戴和使用。
+
+我们已部署安全设备和设施，以确保安
+
+全生产和保护我们的员工的安全。我们
+
+经常对他们进行安全培训，在生产过程
+
+中不断学习和更新。
+
+我们为新员工提供相关的安全培训和演
+
+练，确保他们熟悉生产机械设备的操
+
+作，以及生产过程中的安全预防措施和
+
+程序。
+
+我们要求我们的员工在处理有毒有害材
+
+料时进行适当的预防措施。
+
+在教育培训方面，公司严格落实《生产
+
+经营单位安全培训规定》，对所有重点
+
+岗位人员、特种作业人员、安全管理人
+
+员等进行了由政府部门组织的安全培
+
+训、考核，取得了相应的资格证书。公
+
+司专门投资建设了“培训中心”，完善
+
+培训设施，对新进厂职工认真开展三级
+
+安全培训教育；对全体职工开展每年安
+
+全再培训；在每年安全月期间组织全体
+
+职工观看国家安监总局编制的事故警示
+
+教育光盘，开展事故案例警示教育；公
+
+司安全生产委员会每季度至少召开一次
+
+专题安全会议，贯彻传达上级安全工作
+
+要求，总结、研究、部署当前安全生产
+
+工作；安全科每周组织各车间、工段安
+
+全管理人员召开安全例会，总结上周安
+
+全生产情况，布置下周安全生产注意事
+
+项；各车间每天召开班前、班后安全教
+
+育会，落实安全生产工作。
+
+公司建立健全了生产安全事故应急救援
+
+预案，并已在市安监局备案。各车间、
+
+工段分别建立健全了应急救援组织和队
+
+伍，配备完善了应急救援器材和设备，
+
+并按规定每年进行演练，提高了员工应
+
+对突发事件和处置安全事故的能力，打
+
+造出一支能够随时拉得出、用得上、打
+
+得赢的职工救援队伍。
+
+公司健全了以总经理为安全生产第一责
+
+任人，各分管经理为分管责任人，各车
+
+间主任为具体责任人的安全生产管理网
+
+络，实行主要负责人负总责和领导班子
+
+成员“一岗双责”的安全生产领导责任
+
+制，设置了安全总监，成立了安全生产
+
+管理委员会，并设有专职的安全管理部
+
+门---安全科。
+
+我们也制定了年度内部安全检查计划。
+
+当地政府也会每月进行一次或两次检
+
+查。
+
+公司持续开展安全生产隐患排查治理
+
+活动，认真搞好液氯、液氨等危险化
+
+学品安全管理，并加大检维修、开停车
+
+等特殊作业环节安全监控力度。安全科
+
+每周五组织开展以查思想、查领导、查
+
+纪律、查制度、查隐患为中心内容的公
+
+司级安全检查；安全科人员每天进行走
+
+动式安全管理，深入生产现场开展日常
+
+安全巡查；各车间按照生产线安全检查
+
+表组织人员每周定期开展车间级安全隐
+
+患自查；各车间还深入开展“查身边隐
+
+患、保职工安全、促企业发展”群众性
+
+隐患自查活动，查改各种安全隐患，不
+
+断提高风险管控能力。另外，公司认真
+
+落实专家查隐患工作，每年聘请两名
+
+菏泽市安全生产专家，对企业从制度建
+
+设、现场管理、生产工艺、设备设施等
+
+方面进行了“专家查隐患”工作，有力
+
+的促进了隐患排查治理的质量。
+
+2017年，公司建立了安全生产风险分级
+
+管控和隐患排查治理两个体系，进一步
+
+加强了对安全风险的管控和对安全隐患
+
+的排查治理。
+
+自2008年起，公司通过了职业健康安全
+
+管理体系GB/T28001/OHSAS18001
+
+认证，并且持续改进，确保体系的科学
+
+性、适宜性、有效性。
+
+从2010年至2016年连续7年，公司都获
+
+得了“山东省安全生产基层基础工作先
+
+进企业”荣誉称号，还获得了“省级安
+
+全文化建设示范企业、全省‘安全生产
+
+月’活动优秀组织单位、全国企业应急
+
+救援知识竞赛优胜单位、菏泽市安全生
+
+产应急管理示范点、菏泽市安康杯竞赛
+
+优胜单位、菏泽市消防工作先进单位、
+
+市级应急管理示范点”等一系列荣誉称
+
+号。
+
+2 0 1 7 年 发 生 的 重 大 安 全 事 故 0 件 。
+
+（2016年0件）。
+
+Social 
+
+社会
+
+
+
+26
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+CHEMICAL MANAGEMENT 化学品管理
+
+Social 
+
+社会
+
+We have strengthened our on-site chemical management, 
+
+especially in high risk areas such as the transfer of materials, 
+
+to minimise any unnecessary exposure to hazardous chemicals.  
+
+Our approval process for chemical products, in particular, the 
+
+screening of highly hazardous chemicals have become more 
+
+stringent. Where possible, we try to replace such hazardous 
+
+materials with less hazardous materials in our production line. 
+
+Approval must be obtained for any exceptions from the relevant 
+
+Group Technical Authority.
+
+We have enhanced the safe storage of hazardous chemicals 
+
+through the installation of the following systems and facilities:
+
+• high and low liquid level alarm system; 
+
+• emergency cut-off for the automatic chain;
+
+• combustible and poisonous gas leakage alarm system;
+
+• air respirator; and
+
+• chemical protective clothing.
+
+To enhance safety, the production team and chemical handling 
+
+units are required to comply strictly with the established operating 
+
+procedures through every step of the production, transportation 
+
+and storage of hazardous materials. Staff are also required to be 
+
+familiar with emergency response plans. 
+
+我们加强了现场化工产品管理，减小对健康影响的可能性。
+
+化工产品审核批准的流程更加严格，对高危险的化学产品需
+
+要安全筛选，并且进行替代评估。任何不足需要得到相关的
+
+审核批准。
+
+对高危险的化学产品管理会在将来进一步加强，特别是在高
+
+风险区块，如在原材料转换时。
+
+公司加强各危险化学品罐区安全管理，增设高低液位报警、紧
+
+急切断自动连锁、可燃、有毒有害气体泄漏报警、空气呼吸
+
+器、防化服等安全设备设施及应急器材。严格危险化学品卸车
+
+作业过程管理，严格按照卸车作业规程操作，加强监督检查，
+
+确保危险化学品卸车环节安全。危化品生产和使用部门进一步
+
+完善相应的工艺操作和安全操作规程，并严格要求生产和使用
+
+危化品的操作人员，必须严格遵守工艺操作规程、安全操作规
+
+程，熟悉物品性能和应急处理方法，确保各车间危险化学品的
+
+生产、使用安全。
+
+
+
+27
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+We have always maintained a policy of “scientific management 
+
+of quality assurance to win customers”. We focus on customers’ 
+
+needs, enhance our employees’ quality awareness and 
+
+strengthen training quality. We implement a robust quality control 
+
+management system, improve quality inspections, eliminate 
+
+quality issues, and completely eliminate contamination by foreign 
+
+particles. We ensure product quality and consistency in our 
+
+production line and process changes, maintaining packaging, 
+
+customer service, and on-time delivery. We are committed to 
+
+make China Sunsine the world’s most famous brand in our 
+
+industry.
+
+We place great emphasis on adherence to stringent quality 
+
+controls at all stages of our production process. These quality 
+
+control measures help ensure our products meet high standards 
+
+expected by our customers and ultimately result in high customer 
+
+satisfaction. Our production facilities also provide a safe working 
+
+environment for all our employees. Our internal quality control 
+
+measures, from sourcing and procurement of raw materials 
+
+to the delivery of our finished products, closely adhere to ISO 
+
+requirements.
+
+Our long-term goals for product quality are: 
+
+• Commitment to product variety and quality improvement;
+
+• Excellent service standards to meet the needs of both 
+
+domestic and foreign customers; and
+
+• Achieve a 100% customer satisfaction rate;
+
+We have achieved our goals for 2017. Quality objectives in 2018 
+
+are as follows:
+
+1. To be market-oriented, customer-centric, and achieve 
+
+improved customer satisfaction and loyalty. Our aim is to 
+
+exceed a customer satisfaction rate of 96%;
+
+2. Ensure consistent and improving quality, and to reduce 
+
+returns due to defects. Customer complaint rates to be under 
+
+0.12%; Quality issue target to be no more than 0.5 tonnes for 
+
+every 10,000 tonnes of products sold, returned goods due to 
+
+defects to be lower than 0.023%, and delivery of products in 
+
+good condition ≥ 99.99%;
+
+3. No major quality issue; and
+
+4. To achieve a 100% passing rate for customers’ audits. 
+
+Our quality assurance division is headed by our quality assurance 
+
+manager, under the supervision of our Executive Director, Ma Ying 
+
+Qun and supported by a team of quality assurance personnel. 
+
+They are responsible for overall quality control at every stage of 
+
+our production process and work closely with the heads of other 
+
+division to ensure that our production process is in accordance 
+
+with our quality control guidelines. 
+
+Since July 2000, we have been accredited with GB/T19001-1994/
+
+ISO9001:1994 certification by SQC for our quality management 
+
+system. Our certification has now been raised to GB/T19001 – 
+
+2008/ISO9001:2008.
+
+SOCIAL 
+
+社会
+
+PRODUCT QUALITY AND SECURITY 产品质量与安全
+
+
+
+28
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+SOCIAL 
+
+社会
+
+长期以来，我们始终坚持“以科学管理保质量，以可靠质量赢
+
+顾客，以顾客满足求发展”的质量方针，牢固树立以顾客为关
+
+注焦点、千方百计满足客户的各种需求，增强全员质量意识，
+
+加强质量教育，强力推行全面质量管理制度，加强各种质量检
+
+查，消除各种质量隐患，彻底杜绝各种异物混入，随时保持生
+
+产线、工艺变更的联系，确保产品内外在质量稳定提高，高度
+
+重视包装和服务的改进，按期交货，致力于把尚舜品牌打造成
+
+助剂行业的世界名牌。
+
+我们十分注重产品质量控制。我们在各个生产过程都建立了严
+
+格的质量管理体系。
+
+质量管理体系也确保我们的产品达到客户要求的相关标准，同
+
+时增强了顾客满意。我们的生产设施也为员工提供了安全的生
+
+产环境。我们内部质量控制措施，从原材料的采购到产成品的
+
+交货，严格遵循ISO体系要求。
+
+我们在质量方面的长期目标：致力于品种、规格齐全，质量和
+
+服务更好，来满足国内外顾客的各种需求，致力于顾客满意率
+
+100%。
+
+2017年，我们设立了质量目标业已完成。2018年的质量目标
+
+如下：
+
+1	 确保以市场为导向，以顾客为关注焦点，增强顾客满意度
+
+和忠诚度，全年客户综合满意度≥96。
+
+2、确保内在质量稳定并有提高，积极消减客户不良反馈，全
+
+年内在质量客户投诉率≤0.12%；确保外在质量问题客户
+
+反馈：万吨产品平均不超过0.5起。其中，不良品退货率
+
+≤0.023%。
+
+3、确保产品交付完好率≥99.99%。
+
+4、杜绝质量责任大事故。		
+
+5、确保客户审核通过率100%。
+
+我们的质量保证团队由质量部经理领导，受总经理马英群监
+
+督，由专门的质量控制人员构成。他们对生产的每个环节负
+
+责，同时与各部门的领导紧密沟通合作，确保我们的生产过程
+
+符合质量控制要求。
+
+自2000年7月，我们的质量管理体系得到GB/T19001-1994/
+
+ISO9001:1994认证，目前已升级到GB/T19001	
+
+– 
+
+2008/
+
+ISO9001:2008。
+
+
+
+29
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+Social 
+
+社会
+
+
+
+
+
+Initiatives designed to increase customer satisfaction:
+
+• Increase employees’ awareness of product quality control;
+
+• Establish each product’s standards based on each customer’s 
+
+requirements and provide customer with a personal, bespoke 
+
+service; and
+
+• Conduct a customer survey every six months - the sales team 
+
+will provide feedback to the production line regarding any less 
+
+than satisfactory areas for corrective action to be taken.
+
+对提高客户满意度采取的主动性方式：
+
+•	 提升全员的质量意识，千方百计满足客户要求，实现客户
+
+价值。
+
+•	 按照客户要求建立客户标准，树立客户标准就是最高标准
+
+的观念，实施个性化服务。
+
+•	 每半年进行一次顾客满意度调查，对于客户不满意的项
+
+目，由销售部门传递到相关部门实施改进，不断增强顾客
+
+满意。
+
+Our customers inspect our processing facilities to verify our 
+
+quality and health and safety processes as well as other 
+
+operating standards. For each inspection, the customer provides 
+
+feedback on areas to improve upon. These help us conform to 
+
+their standards and at the same time, enhance our production 
+
+capabilities. 
+
+We were visited and audited by the following customers in 2017:
+
+• Dadu International Trade (Tianjin) Co., Ltd.;
+
+• Camso Loadstar Pvt Ltd;
+
+• ATC Tires Private Limited;
+
+• Limited Liability Company Nortec;
+
+• Sumitomo Rubber (Changshu) Co., Ltd.;
+
+• Atman Chemicals Co., Ltd.;
+
+• Manufacture Francaise de Pneumatiques Michelin;
+
+• Hankook Tires (Jiangsu) Co., Ltd. (China);
+
+• The Goodyear tire &amp; Rubber Company;
+
+• Cooper (Kunshan) Tire Co., Ltd.;
+
+• Shandong Linglong Tire Co., Ltd.;
+
+• Tongli Tire Co., Ltd.;
+
+• Pirelli Tyres Co., Ltd (China);
+
+• Giti Tire Co., Ltd.(China);
+
+• Tong Yiou Tire (Zhucheng) Co., Ltd; and
+
+• Xiamen CST Haiyan Tire Co., Ltd..
+
+我们的客户会对我们生产基地进行考察以确认我们产品的质
+
+量，健康安全和其他运行标准要求。对于每笔交易，客户都向
+
+我们提供反馈意见，这也帮助我们符合了客户标准，同时也提
+
+高了我们的生产能力。
+
+2017年访问并审核过我们的客户有：
+
+•	 大都国际贸易（天津）有限公司；
+
+•	 斯里兰卡北极星轮胎；
+
+•	 印度联合轮胎；
+
+•	 俄罗斯阿尔泰轮胎；
+
+•	 住友橡胶（常熟）有限公司；
+
+•	 亚特曼化工有限公司；
+
+•	 法国米其林轮胎；
+
+•	 江苏韩泰轮胎有限公司；
+
+•	 固特异轮胎；
+
+•	 固铂(昆山)轮胎有限公司；
+
+•	 山东玲珑轮胎股份有限公司；
+
+•	 通力轮胎有限公司；
+
+•	 倍耐力轮胎有限公司（中国）；
+
+•	 佳通轮胎股份有限公司；
+
+•	 通伊欧轮胎（诸城）有限公司；
+
+•	 厦门正新海燕轮胎有限公司。
+
+CUSTOMERS 客户
+
+CUSTOMER AUDITS 客户审核
+
+30
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+We closely monitor national policies as well as industry 
+
+development trends to maintain our position at the forefront 
+
+of industry innovation. We believe in continuous innovation, 
+
+integrated innovation and re-invention to stay ahead of the current 
+
+market trends and demand. We have therefore increased our 
+
+investment in new technologies and new production processes. 
+
+As a result, we achieved a number of innovative and technological 
+
+breakthroughs. We were granted national support for “Compound 
+
+Solvent Synthesis of high thermal stability of insoluble sulfur 
+
+project”, 
+
+which 
+
+won 
+
+Shandong 
+
+Province’s 
+
+Technological 
+
+Transformation Award. We are also supported by national, 
+
+provincial and municipal science and technology departments in 
+
+the development of “M ammonium salt of oxygen preparation of 
+
+new technologies DM”, “rubber accelerator waste gas treatment 
+
+and Claus Sulfur recovery comprehensive technology” as well 
+
+as 35 other R&amp;D projects. “Anti-oxidant 6PPD hydrogenation 
+
+technology” was recognised by China Petroleum and Chemical 
+
+Industry Federation for technological advancement. We have 
+
+been granted more than 36 national patents, of which 19 are 
+
+invention patents and 17 utility model patents. At the same time, 
+
+we continue to expand our collaboration with Tianjin University, 
+
+Shanghai Fudan University, Qingdao University of Science and 
+
+Technology, Qilu Petrochemical Research Institute and other 
+
+academic establishments to carry out research cooperation 
+
+projects.
+
+集团紧盯国家产业政策和本行业发展前沿，坚持原始创新、集
+
+成创新和消化吸收再创新，立足自身实际，围绕新技术、新工
+
+艺、新产品开发，大力开展技术攻关，持续加大科技投入，着
+
+力攻克关键共性技术瓶颈制约，多项自主创新科技成果得到成
+
+功转化。“复合溶剂法合成高热稳定性不溶性硫磺项目”先后
+
+获得国家支撑计划和山东省科技成果转化重大项目；“M铵盐
+
+的氧气法制备DM的新技术”、“橡胶促进剂废气治理和克劳
+
+斯硫磺回收综合技术”等30余项研发项目分别获得国家、省、
+
+市科技、经信等部门支持。“橡胶防老剂6PPD循环加氢新技
+
+术”获得中国石油和化工联合会科技进步二等奖。集团拥有国
+
+家专利36项，其中，发明专利19项，实用新型专利17项。同
+
+时，集团不断拓展合作领域，与天津大学、上海复旦大学、青
+
+岛科技大学、齐鲁石化研究院等开展了研究合作项目。
+
+Social 
+
+社会
+
+
+
+
+
+Under our Chairman’s leadership, the Group continues to 
+
+contribute to public welfare and social responsibility. These 
+
+include repairing roads and bridges, and donations to cultural 
+
+and charitable events. We also provided financial assistance 
+
+to more than 300 disadvantaged students. During the year, we 
+
+donated RMB 5.08 million (2016: RMB 1.84 million).
+
+在董事长的带领下，集团始终把投身公益事业、履行社会责任
+
+作为自身义不容辞的义务，多年来为修路、修桥、文化、慈善
+
+等社会公益事业捐资，并坚持捐资助学，供资助贫困生300多
+
+名，对弱势群体贫困学子的资助已形成常态。本年度，集团共
+
+捐助人民币508万元（2016年：184万元）。
+
+INNOVATION 自主创新
+
+CONTRIBUTION 捐助
+
+31
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Social 
+
+社会
+
+CHINA SUNSINE AWARDS 2017 中国尚舜2017年获奖
+
+• 2017 China’s top 500 oil and chemical companies
+
+• 2017 China rubber products industry quality supplier
+
+• 2017 Top 100 Chinese Specialty Chemicals Manufacturers
+
+• 2017 Shandong Rubber Industry Top Ten Enterprises
+
+• 2017 Shandong Petroleum and Chemical Industry 
+
+ 
+
+Top 100 Enterprises
+
+• Shandong Province rubber industry top 50 enterprise 
+
+ 
+
+(2015 - 2016)
+
+• Shandong Province, Safe Production, Basic-level Basic 
+
+ 
+
+Work Advanced Enterprise
+
+• 2016 Shandong enterprise public welfare star award
+
+• 2016 fire safety model unit (Heze City)
+
+• 2016 Heze City patent technology first prize
+
+• Heze City 2016 annual donation model unit
+
+• Heze City water-saving model unit
+
+•	 2017中国石油和化工企业500强
+
+•	 2017年度中国橡胶制品行业优秀供应商
+
+•	 2017中国专用化学品制造业百强
+
+•	 2017年度山东橡塑行业十强企业
+
+•	 2017年度山东省石油和化学工业100强企业
+
+•	 山东省橡胶行业综合实力50强企业（2015年-2016年）
+
+•	 山东省安全生产基层基础工作先进企业
+
+•	 2016山东民营企业公益之星	
+
+•	 2016年度消防工作先进单位（菏泽市）
+
+•	 2016年度菏泽市专利技术一等奖
+
+•	 菏泽市2016年度爱心捐赠先进单位
+
+•	 菏泽市节水型单位
+
+
+
+
+
+
+
+• Member of Rubber Industry Association of PRC
+
+• Member of Rubber Accelerators Industry Association of PRC
+
+• Member of Chinese Chemical Society
+
+• Member of Shandong Province Rubber Industry Association
+
+• Deputy Chairman of Green Manufactory Committee of Chemical Industry and Engineering Society of PRC
+
+• Executive Vice President of Heze, China International Chamber of Commerce
+
+•	 中国橡胶工业协会主席团成员单位
+
+•	 中国化工学会会员单位
+
+•	 中国橡胶工业协会助剂专业委员会副理事长单位
+
+•	 山东省橡胶行业协会副理事长单位
+
+•	 中国化工学会橡塑产品绿色制造专业委员会副主任委员单位
+
+•	 中国国际商会菏泽商会常务副会长单位
+
+CHINA SUNSINE MEMBERSHIP 协会会员
+
+32
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Governance
+
+治理
+
+China Sunsine is committed 
+
+to the highest standards of 
+
+corporate governance and 
+
+transparency in its policies and 
+
+processes. We deem corporate 
+
+governance as essential for the 
+
+success of the Group and to 
+
+be in the best interests of our 
+
+shareholders. For more details 
+
+of our corporate governance 
+
+performance and practices in 
+
+2017, please refer to our Annual 
+
+Report 2017, on pages 33 to 55.
+
+中国尚舜承诺最高标准的企业治
+
+理，政策流程的透明性。我们相信
+
+企业治理是集团成功的关键，也是
+
+对利益相关方的最大利益。对于
+
+2017年企业治理成绩和实践，请参
+
+阅2017年年报第33至55页.
+
+China Sunsine Chemical Holdings Ltd. 33
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+
+
+Governance
+
+治理
+
+ERM is an integral part of good corporate governance as well 
+
+as resource management. A thorough and comprehensive ERM 
+
+framework enables China Sunsine to identify, communicate and 
+
+manage its risks and exposures in an integrated, systematic and 
+
+consistent manner. For detailed disclosure on ERM, please refer 
+
+to our Annual Report, pages 45 to 46.
+
+企业风险管理是良好企业治理的一部分。一份完整充分的企
+
+业风险管理大纲能帮助中国尚舜在整体、系统和一致性基础
+
+上确认，交流和管理风险及暴露的不足。
+
+有关详细的企业风险管理报告，请参阅2017年年报第45至
+
+46页.
+
+Over the years, we have been continuously enhancing our policies 
+
+and procedures such as cash management and procurement 
+
+process to prevent any anti-competitive behaviours. 
+
+In FY2017, we conducted code of conduct training for and 
+
+obtained conflict of interest declaration from our management 
+
+team. We will continue to strengthen our control environment to 
+
+eliminate anti-competitive and corruption opportunities.
+
+在过去的几年内，我们不断提高内部管理政策，如现金管理和
+
+采购流程，来防止任何反竞争行为。
+
+在2017年，我们进行了管理层行动守则培训，签订了利益冲突
+
+确认函。我们会继续加强管理内部政策，争取杜绝一切反竞争
+
+行为和一切试图行贿行为。
+
+FAIR OPERATING PRACTICE 公平营运实践
+
+ENTERPRISE RISK MANAGEMENT (ERM) 企业风险管理
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+34
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+Feedback Form
+
+调查反馈表
+
+To assist us in improving our sustainability reporting, please provide us with your feedback by answering 
+
+the following questions: 
+
+为了进一步帮助我们提高可持续性发展报告的编制，恳请提供以下反馈：
+
+I am a:
+
+我是：
+
+ 
+
+Shareholder 股东 
+
+ 
+
+Investor 投资者
+
+ 
+
+Employee 员工
+
+ 
+
+Consultant, supplier or business partner 顾问，供应商或商业伙伴
+
+ 
+
+Customer 客户
+
+ 
+
+Government/regulatory agency 政府部门
+
+ 
+
+Media 媒体
+
+ 
+
+Others 其他（请注明）
+
+1. 
+
+How did you obtain a copy of our Sustainability Report? 
+
+    您是从哪里获得此可持续性发展报告的？
+
+ 
+
+website 网站
+
+ 
+
+employee 员工
+
+ 
+
+Others 其他 
+
+ (please specify请注明) 
+
+2.  Overall you found the: 
+
+    总体上，您觉得此报告： 
+
+• 
+
+Approach and style of reporting: Excellent / Very good / Good / Fair / Poor
+
+ 
+
+编制的方法和形式：非常好/很好/好/一般/差 
+
+• 
+
+Amount of Information: Excellent / Very good / Good / Fair / Poor
+
+ 
+
+报告的内容：非常好/很好/好/一般/差
+
+• 
+
+Layout and design of the report: Excellent / Very good / Good / Fair / Poor
+
+ 
+
+报告的版面及设计：非常好/很好/好/一般/差
+
+• 
+
+Graphs and tables: Excellent / Very good / Good / Fair / Poor
+
+ 
+
+报告的表格及图表：非常好/很好/好/一般/差
+
+3.  Which part did you find most useful and why? 您最喜欢哪个部分？为何？
+
+ 
+
+ 
+
+35
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+4.  How could we improve on the report? 我们该如何改进此报告？
+
+ 
+
+ 
+
+5.  What topics or issues do you want to be added to the report? 您还想在此报告中加入哪种信息？
+
+ 
+
+ 
+
+6.  Any other comments and suggestions? 您还有什么其他的建议？
+
+ 
+
+ 
+
+If you would like us to contact you on any clarification that we may require: 
+
+如您愿意我们联系您以获取您进一步的建议，请留下以下联系方式：
+
+Name 姓名: 
+
+Address 地址: 
+
+Phone 电话:  
+
+Email 电邮: 
+
+Thank you for your feedback. 非常感谢您的反馈！
+
+36
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+
+China Sunsine Chemical Holdings Ltd.
+
+Sustainability Report 2017
+
+
+
+• Bridgestone 
+
+• Michelin 
+
+• Goodyear 
+
+• Cooper 
+
+• Sumitomo 
+
+• Hankook
+
+• Yokohama 
+
+• CST Tire 
+
+• Toyo Tire
+
+• Pirelli 
+
+• GITI Tire 
+
+• Hangzhou Zhongce 
+
+• Double Coin
+
+• Guizhou Tire
+
+OUR DISTINGUISHED CLIENTS
+
+(Incorporated in the Republic of Singapore on 28 June 2006)
+
+(Company Registration Number: 200609470N)
+
+112 Robinson Road #11-01
+
+Singapore 068902
+
+Tel: +65 6220 9070
+
+Fax: +65 6223 9177
+
+Email: info@ChinaSunsine.com
+
+www.ChinaSunsine.com
+
+CHINA SUNSINE CHEMICAL HOLDINGS LTD
+

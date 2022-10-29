@@ -1,0 +1,1945 @@
+
+0 
+
+ 
+
+
+
+ 
+
+
+
+Spindex Industries Limited 
+
+SUSTAINABILITY REPORT FY2018 
+
+ 
+
+ 
+
+ 
+
+
+1 
+
+ 
+
+ 
+
+ 
+
+Contents 
+
+BOARD STATEMENT ......................................................................................................................................... 2 
+
+FEEDBACK ........................................................................................................................................................ 2 
+
+ABOUT THE GROUP.......................................................................................................................................... 3 
+
+GOALS AND ACHIEVEMENTS ........................................................................................................................... 3 
+
+STRATEGIC APPROACH FOR SUSTAINABILITY .................................................................................................. 3 
+
+REPORTING PRACTICE AND BOUNDARY .......................................................................................................... 4 
+
+STAKEHOLDER ENGAGEMENT AND MATERIALITY ASSESSMENT .................................................................... 4 
+
+EFFLUENTS AND WASTE .................................................................................................................................. 7 
+
+PRODUCT QUALITY AND SAFETY ..................................................................................................................... 8 
+
+OCCUPATIONAL HEALTH AND SAFETY ............................................................................................................. 8 
+
+TRAINING AND EDUCATION............................................................................................................................. 9 
+
+ANTI-CORRUPTION ........................................................................................................................................ 10 
+
+REGULATORY COMPLIANCE ........................................................................................................................... 10 
+
+GRI CONTENT INDEX ...................................................................................................................................... 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+2 
+
+ 
+
+BOARD STATEMENT  
+
+The Board of Spindex Industries Limited (“Spindex” or together with its subsidiaries “the Group”) 
+
+considers sustainability issues as part of strategic formulation and recognises that implementing 
+
+sustainable business practices, together with their transparent disclosure, has become increasingly 
+
+important, especially since the release of the “Comply or Explain” sustainability reporting 
+
+requirements by the Singapore Exchange (SGX).  
+
+ 
+
+In FY2018, the Management together with an external sustainability consultant conducted review 
+
+and assessment of the material Environmental, Social and Governance (“ESG”) risks and 
+
+opportunities relevant to the Group. The Board determines and endorses the material ESG topics 
+
+presented in this report and maintains oversight of the management of these material ESG topics, 
+
+through periodic review of the key performance indicators. 
+
+ 
+
+Through this inaugural Sustainability Report, we aim to communicate our commitment towards 
+
+sustainability, and provide an overview of the Company’s Management approach, priorities, targets 
+
+and performance reviews in key areas.  
+
+ 
+
+ 
+
+FEEDBACK 
+
+We are fully committed to our stakeholders and we welcome feedback on any aspect of our 
+
+sustainability policies, processes and performance. Kindly address all feedback to 
+
+cse@spindex.com.sg. Your feedback is vital to us in achieving our goals to build a sustainable and 
+
+thriving business. As an attempt to promote environmental conservation, there will be no hard 
+
+copies of this report.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3 
+
+ 
+
+ABOUT THE GROUP  
+
+Spindex was founded in 1981. Today it is a highly integrated solution provider of precision 
+
+machined components and assemblies with manufacturing locations in Malaysia, China and 
+
+Vietnam. The Company serves diverse market sectors consisting of MNCs in imaging and printing, 
+
+machinery and automotive systems and consumer-related products. Through investments in 
+
+flexible manufacturing and information technology and an agile organisation, the Company is able 
+
+to constantly reconfigure its resources to customise its products and service to the individual needs 
+
+of its customers. The Group prides itself on its ability to integrate into the supply chain of its 
+
+worldwide customer base and continuously re-invent itself to be at the forefront of today’s global 
+
+marketplace. 
+
+ 
+
+GOALS AND ACHIEVEMENTS 
+
+The Group aims to continuously seek for business opportunities in line with our strategic growth 
+
+and to deliver value to our customers and stakeholders as we continue to explore and expand our 
+
+business operations. Within the industry, we have also upheld a reputation for quality and high 
+
+standards in our operations, as well as excellence in our operations management.  
+
+ 
+
+As a group and across our various subsidiaries, we are one of the first machining companies in the 
+
+region to be certified by: 
+
+ 
+
+• 
+
+ISO 14001 
+
+• 
+
+ISO/TS 16949 
+
+• 
+
+ISO 9001 
+
+• 
+
+OHSAS 18001  
+
+ 
+
+We also have a comprehensive ITE certified in-house training programme and is an approved ITE 
+
+Training Centre in the ITE Skills Certification in Autonomous Maintenance. 
+
+ 
+
+ 
+
+STRATEGIC APPROACH FOR SUSTAINABILITY 
+
+At Spindex, we continue to refine our management approach to adapt to the changing business 
+
+landscape. In FY2018, apart from economic performance, we have with the help of an independent 
+
+external consultant established our sustainability performance management framework. (See 
+
+Exhibit 1) 
+
+Under this framework, we have defined key pillars and the non-financial topics that are material to 
+
+the sustainability of our economic performance and business operations.  
+
+Exhibit 1. Spindex’s Sustainability Performance Management Framework 
+
+ 
+
+ 
+
+Economic Performance 1 
+
+ 
+
+Three (3) pillars of  
+
+our sustainability performance  
+
+ 
+
+Environment 
+
+ 
+
+Social 
+
+ 
+
+Governance 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Effluents and 
+
+Waste 
+
+ 
+
+Product Quality and 
+
+Safety  
+
+ 
+
+Anti-Corruption  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Occupational Health 
+
+and Safety  
+
+ 
+
+Regulatory 
+
+Compliance 
+
+ 
+
+
+4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Training and 
+
+Education 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our Materiality Assessment Process 
+
+ 
+
+Supported by a systematic and 
+
+interactive process to identify, 
+
+categorise and prioritise material 
+
+ESG topics    
+
+ 
+
+Identify 
+
+Define a list of 
+
+potential material 
+
+ESG topics 
+
+ 
+
+ 
+
+Categorise 
+
+Refine the list of 
+
+topics by clustering 
+
+them into categories  
+
+ 
+
+Prioritise  
+
+Engage 
+
+stakeholders for 
+
+feedback and 
+
+validation of each 
+
+topics based on 
+
+importance to 
+
+internal and 
+
+external 
+
+stakeholders 
+
+ 
+
+ 
+
+ 
+
+1. Please refer to Financial Statement of FY2018 annual report. 
+
+2. Please refer to the Corporate Governance and Risk Management and Internal Controls section of FY2018 annual report. 
+
+ 
+
+ 
+
+ 
+
+REPORTING PRACTICE AND BOUNDARY 
+
+This report summaries our approach, management and performance of the Group’s material ESG 
+
+topics for the period 1 July 2017 to 30 June 2018 (FY2018). As this is our first report, where 
+
+applicable, one year of historical performance data is also included for comparative purposes. The 
+
+scope of this report focuses on the Group’s major operations, namely head office in Singapore, 
+
+operations in the People’s Republic of China (“PRC”), as well as Malaysia and Vietnam.  
+
+ 
+
+This report was prepared in accordance with the Global Reporting Initiative (GRI) Standards – 
+
+“Core” reporting requirements. The GRI Standards is the most widely used and internationally 
+
+accepted sustainability reporting framework. A GRI Index at the end of the report specifies the 
+
+location of the relevant disclosures. 
+
+ 
+
+The ESG performance data presented in the report have mainly been extracted from internal 
+
+information systems and original records to ensure accuracy. The Group has not sought external 
+
+assurance for this sustainability report but have relied on internal verification to ensure the accuracy 
+
+of data. 
+
+ 
+
+STAKEHOLDER ENGAGEMENT AND MATERIALITY ASSESSMENT 
+
+We adopt a comprehensive approach to identify priority areas based on the business strategy 
+
+outlined in our plan. Our materiality assessments were based on the AA1000 Account Ability 
+
+Principles of Inclusivity and Materiality, as well as the Global Reporting Initiative (GRI) Principles 
+
+for Defining Report Content – stakeholder inclusiveness, sustainability context, materiality and 
+
+completeness. Materiality with respect to sustainability reporting, as defined by GRI Standards, 
+
+includes topics and indicators that reflect the organisation’s significant environmental and social 
+
+impacts; and would substantively influence the assessments and decisions of stakeholders. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+5 
+
+ 
+
+Guided by external sustainability consultants, Management have reviewed the stakeholders across 
+
+the Group’s value chain and identified five (5) key stakeholder groups. These are stakeholders 
+
+defined as having the most influence over and the highest level of interest in the Group’s operations 
+
+as sets out in Exhibit 2.  
+
+Exhibit 2. Key Stakeholder Groups 
+
+Stakeholders 
+
+How we engage 
+
+Main concerns and 
+
+expectations 
+
+How we respond 
+
+Employees 
+
+• Meetings 
+
+• Training and 
+
+development 
+
+• Teambuilding activities 
+
+• Annual performance 
+
+appraisals 
+
+• Recreational activities 
+
+• Long-service awards 
+
+• Annual dinners 
+
+• Department updates 
+
+• Training and career 
+
+development 
+
+opportunities 
+
+• Workplace safety and 
+
+health 
+
+• Engaging and retaining 
+
+employees 
+
+By adopting sound human resource 
+
+policies and practices that promote fair 
+
+treatment, safe working conditions, 
+
+rewards 
+
+and 
+
+recognition 
+
+for 
+
+performance, work-life balance and 
+
+career growth. 
+
+Customers 
+
+• Monitoring product 
+
+sales 
+
+• Contacts to our 
+
+customer service 
+
+• Feedback channels 
+
+through email 
+
+• Product and service 
+
+quality 
+
+• Group’s reputation in the 
+
+market 
+
+By establishing policies for quality 
+
+control and assurance that ensure our 
+
+goods are of excellent quality and to 
+
+promptly 
+
+address 
+
+customer 
+
+complaints. 
+
+Shareholders 
+
+and Investors 
+
+• Annual General 
+
+Meeting 
+
+• Meetings with 
+
+institutional investors 
+
+• Survey of institutional 
+
+investors 
+
+• Group’s strategic 
+
+development 
+
+• Current financial 
+
+performance 
+
+• Future business outlook 
+
+ 
+
+By appointing an investor relations firm 
+
+on a retainer basis, to communicate 
+
+regularly with the analysts. They 
+
+monitor the dissemination of material 
+
+information to ensure that it is 
+
+disclosed to the market in a timely 
+
+manner. In addition, through such 
+
+investor relations firm, the Company 
+
+also holds meetings, on a quarterly 
+
+basis, based on interest levels from 
+
+analysts and shareholders to provide 
+
+greater accessibility to the Company.  
+
+ 
+
+Business 
+
+Partners 
+
+• Regular meetings 
+
+• Visits 
+
+• Emails 
+
+• Tender process 
+
+• Integrity and effectiveness 
+
+of the tender process 
+
+• Workplace safety and 
+
+health 
+
+• Energy-efficient fittings 
+
+and products with Green 
+
+labels 
+
+• Product and technology 
+
+updates 
+
+• Performance reviews 
+
+By establishing policies and guidelines 
+
+that ensure a fair selection and 
+
+procurement process, and ethical 
+
+business practices. 
+
+Community 
+
+• Phone and email 
+
+channels 
+
+• Media relations 
+
+• Volunteering activities 
+
+• Contribution to 
+
+communities 
+
+• Business decisions’ 
+
+impact on their 
+
+environment 
+
+• Pollution (air, land, water) 
+
+By 
+
+raising 
+
+awareness 
+
+through 
+
+sustainable business practices and 
+
+assessing 
+
+the 
+
+potential 
+
+harmful 
+
+impacts on the environment. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+6 
+
+ 
+
+Membership of Associations 
+
+The Group also engages with industry and trade associations through participation as a member. 
+
+In Malaysia, Synturn (M) Sdn. Bhd, a subsidiary of the Group, is a member of the Federation of 
+
+Malaysia Manufacturers. 
+
+ 
+
+Material ESG Topics 
+
+Guided by an external sustainability consultant and having considered the topics of concerns and 
+
+expectation of identified key stakeholders. The Management together with the Board have 
+
+assessed and prioritised the material topics to focus on for the Group.  
+
+ 
+
+Material ESG Topics 
+
+Goals and Targets 
+
+FY2018 
+
+Key Highlights 
+
+ENVIRONMENT 
+
+ 
+
+Effluents and Waste 
+
+Maintain zero non-conformance 
+
+to local regulated requirements. 
+
+• No non-conformance to local regulated 
+
+requirements on waste disposal.  
+
+• Zero significant spills. 
+
+SOCIAL 
+
+ 
+
+Product Quality and 
+
+Safety 
+
+Maintain existing quality 
+
+accreditation. 
+
+ 
+
+Ensure that our reject costs are 
+
+less than 1% of total sales 
+
+turnover per year  
+
+ 
+
+Achieve 100% performance 
+
+rating in terms of quality 
+
+performance and delivery 
+
+performance to our customers.  
+
+• Plants certified to meet the ISO 9001 quality 
+
+management system, ISO 14001 environmental 
+
+management system and OHSAS 1800 
+
+occupational health and safety. 
+
+• Achieved significant reduction in reject costs of as 
+
+a proportion of total sales turnover. 
+
+• Achieved awards from customer for excellent 
+
+performance rating in terms of quality performance 
+
+and delivery performance to our customers. 
+
+Occupational Health 
+
+and Safety 
+
+Maintain zero accident at 
+
+workplace. 
+
+• Zero fatalities. 
+
+• Plant safety performance reviewed periodically by 
+
+the Management. 
+
+Training  
+
+and Education 
+
+Ensure learning and 
+
+development roadmap account 
+
+for future skills required to 
+
+improve the efficiency of the 
+
+business. 
+
+• Conducted training needs analysis to ensure that 
+
+there are necessary training interventions to 
+
+enhance employee competencies and professional 
+
+knowledge.  
+
+• 100% of employees receiving regular performance 
+
+and career development reviews. 
+
+GOVERNANCE 
+
+ 
+
+Anti-Corruption 
+
+Zero tolerance for bribery, 
+
+corruption, fraud and violation of 
+
+laws and regulations. 
+
+• Zero incident of corruption. 
+
+• Zero confirmed whistle-blowing cases. 
+
+Regulatory Compliance 
+
+(including socio-economic 
+
+and environmental 
+
+compliance) 
+
+• Zero cases of regulatory non-compliance. 
+
+• No significant fines or non-monetary sanctions for 
+
+non-compliance with environmental laws and 
+
+regulations 
+
+
+7 
+
+ 
+
+ 
+
+The Group strives to embrace the UN Global Compact and at present adopts a best-effort approach 
+
+in observing the spirit and intent of the ten principles. Although its efforts to uphold the ten principles 
+
+are not presently embedded in its operational policy and procedure documentation, the work culture 
+
+of Spindex’s businesses is consistent with the principles. 
+
+ 
+
+Moving forward, to keep abreast of critical issues, Management will review annually its material 
+
+ESG focus areas against the changing business environment, stakeholder opinions, and emerging 
+
+global and local trends. 
+
+ 
+
+ENVIRONMENT 
+
+ 
+
+Environmental sustainability forms an integral part of the Group’s sustainability philosophy. With 
+
+increased pressure on corporations to be accountable for their environmental footprint and rising 
+
+cost of natural resources, we endeavour to integrate the best sustainability practices across 
+
+business operations to reduce adverse environmental impact on the ecosystem. In our daily 
+
+operations, the Group continues to be committed on recycling, energy-saving practices and 
+
+undertaking measures to reduce wastages, pollution and harmful emissions. 
+
+EFFLUENTS AND WASTE 
+
+Effluents and waste management is critical for global sustainable development. The Group 
+
+conscientiously monitor our discharges into the environment and seek to reduce any ecological 
+
+impact. It is thus vital to prioritize waste disposal methods, such as reusing, recycling and recovery 
+
+that minimize residual effects. Treatment of our effluents is also crucial in ensuring that hazardous 
+
+substances do not leach into ecosystems and undergo bio-amplification along the food chain.  
+
+ 
+
+Waste  
+
+The Group strives to minimise waste generation, increase opportunities for reusing and recycling, 
+
+as well as treat and dispose waste responsibly where other options are not practicable. Hazardous 
+
+waste generated is handled, stored and disposed in a manner that adheres to best practices and 
+
+meets local regulatory requirements. At Spindex, we ensure that our wastes are safely disposed of 
+
+in prevention of the risk of environmental contamination. Hazardous waste typically relates to waste 
+
+from chemicals that may be harmful to human if consumed (e.g plating effluent). In FY2018, 
+
+hazardous waste generated amounted to 3,690 tonnes. All hazardous waste generated is managed 
+
+and disposed of in compliance with local regulations by authorised waste contractors. 
+
+ 
+
+Non-hazardous waste mainly relates to typical packaging and production waste, comprising of 
+
+paper, plastic and metallic materials. In FY2018, the amount of non-hazardous waste generated 
+
+amounted to 1,046 tonnes and were being disposed of through licensed waste collectors for 
+
+recycling and reuse whenever possible. 
+
+ 
+
+Moving Forward 
+
+To maintain the highest standard of environmental compliance, our commitment and target, the 
+
+Management will continue to review and improve current environmental management system and 
+
+practices and ensure that all our activities and operations comply with existing regulatory 
+
+requirements.  
+
+
+8 
+
+ 
+
+SOCIAL 
+
+PRODUCT QUALITY AND SAFETY 
+
+At Spindex, we are equipped with advanced metrology equipment for the most exacting 
+
+measurement in diameter, roundness and other intricate dimensions. We aim to ensure that our 
+
+reject costs are less than one percent of total sales turnover per year and to achieve one hundred 
+
+percent performance rating in terms of quality performance and one hundred percent in terms 
+
+delivery performance to our customers.  
+
+ 
+
+•  Quality is our basic business principle. 
+
+• Quality means providing our external and internal customers with innovative products and  
+
+   services that fully satisfy their requirements. 
+
+•  Quality improvement is the responsibility of every Spindex’s employees.  
+
+ 
+
+The Group is committed to comply with the requirements and continually improve the effectiveness 
+
+of the quality management system. 
+
+ 
+
+OCCUPATIONAL HEALTH AND SAFETY  
+
+Safety and health at workplace are our topmost priority. The Group strive to raise awareness, 
+
+maintain vigilance and foster a strong safety awareness culture particularly at the ground level by 
+
+ensuring proper trainings are provided to our employees. Across our plants, we have processes in 
+
+place to identify, mitigate and report safety risks, and we work closely with our third-party vendors 
+
+and suppliers to ensure that they understand our requirements and expectations.  
+
+ 
+
+To facilitate the physical supervision of the workplace safety, and the relaying of workplace safety 
+
+and health (“WSH”) related messages; we have established a Safety Committee. Collectively as a 
+
+Group, the Safety Committee comprises of both employee and employer representatives. The 
+
+Safety Committee oversees the subsidiaries’ operations to ensure that safety standards are upheld 
+
+at all times and also up to industry best practices. In addition, the role and responsibilities of the 
+
+Safety Committee includes reviewing, effectively implementing and reinforcing safety standards 
+
+and regulations to ensure all areas of safety are adequately covered. The Committee members 
+
+meet at least once a month to review safety inspection results, infrastructures and incidents, as 
+
+well as to coordinate and organise safety-related activities. Going forward, in order to facilitate the 
+
+effectiveness of the supervision of workplace safety, the Group plans to have more workers join 
+
+the safety committee. 
+
+ 
+
+All near-miss incidents and accidents will be promptly reported to the Safety Committee; this will 
+
+further provide timely incident analysis briefings to the employees. These safety briefings aim to 
+
+strengthen the awareness of our employees’ safety, and also remind them of established safety 
+
+measures and precautions, as well as safety protocols in the event of similar incidents.   
+
+ 
+
+In FY2018, there were no incidents of fatalities across the Group’s business operations. We strive 
+
+to continue maintain our safety commitment of zero incident and drive continuous improvement in 
+
+safety practices. 
+
+ 
+
+
+9 
+
+ 
+
+The Group maintains an open-door policy where employees are encouraged to speak-up or report 
+
+grievances directly to their superior, head of department, human resource department, chief 
+
+executive officer and/or independent directors. This is to reinforce our commitment to our 
+
+employees to provide them with a workplace that is healthy, safe and secure. Across our business 
+
+segments, there were no grievance cases reported in FY2018. 
+
+ 
+
+Moving forwards, the Group remains committed to maintain a safe and productive environment, 
+
+free from harassment in which all individuals are treated with respect and dignity, and we expect 
+
+all our employees and individuals who always work at our sites to follow our health and safety 
+
+policies and procedures and be free from substance abuse. We will continue to monitor our plants’ 
+
+safety performance, as well as review existing practices to ensure necessary measures are taken 
+
+to address health and safety risks at the workplace. 
+
+ 
+
+TRAINING AND EDUCATION 
+
+Today’s constantly changing business environment calls for a competitive workforce attuned to the 
+
+latest developments in skills and manufacturing capabilities. Investing in employee learning and 
+
+development helps build a resilient and future-ready workforce, which will in turn provide a 
+
+competitive edge for the Group’s future growth and success. Our employees acquire skills and 
+
+expertise which will distinguish them from the market through opportunities provided by us and our 
+
+industry partner networks. 
+
+ 
+
+To encourage and support our employees to develop their fullest potential and have a fulfilling 
+
+career, the Groups places priority on learning and development programmes. Training and 
+
+development are identified on employees’ training needs and work requirements. All new 
+
+employees are required to attend our on-boarding program, which aims to integrate new hires into 
+
+our organisation seamlessly.  
+
+ 
+
+Additionally, we conduct an annual training needs analysis to ensure that there are necessary 
+
+training interventions to enhance employee competencies and professional knowledge. Our 
+
+learning and development roadmap account for future skills required to improve the efficiency of 
+
+the business. In FY2018, the Group invested over approximately S$106,000 in training and 
+
+development before government funding. Majority of the workforce was provided the opportunity 
+
+to attend the training. 
+
+ 
+
+Average Training Hours (Per Employee) – FY2018 
+
+Singapore 
+
+Malaysia 
+
+China 
+
+Vietnam 
+
+2.8 hrs 
+
+1.8 hrs 
+
+20.3 hrs 
+
+96.0 hrs 
+
+ 
+
+The Group will continue to provide training and education opportunities through comprehensive 
+
+development programmes going forward and promote a conducive corporate environment where 
+
+everyone could achieve their potential.  
+
+ 
+
+ 
+
+ 
+
+
+10 
+
+ 
+
+GOVERNANCE (*NOTE) 
+
+The Group is committed to uphold the highest standards of corporate governance and business 
+
+integrity in all our business activities, which we believe are essential for the long-term viability of 
+
+our businesses and the enhancement of shareholder value. Given the geographical diversity of our 
+
+businesses, we closely monitor developments in the laws and regulations of countries where the 
+
+Group operates to ensure that our businesses and operations comply with all relevant laws and 
+
+regulations. The Group also engage with the respective local government authorities and agencies 
+
+where it operates, as a mean to keep abreast of changes to laws and regulations. 
+
+ 
+
+Recognising that non-compliance with laws and regulations not only has significant financial risk 
+
+but potentially detrimental reputational impact on the Group. The Group maintains a zero-tolerance 
+
+towards bribery, corruption, fraud and violation of laws and regulations. 
+
+ 
+
+ANTI-CORRUPTION 
+
+The Group continue to maintain a whistle-blowing policy, which provides guidance on suspicion, 
+
+reporting and investigation of fraudulent practices within the Group. Its objectives are to maintain a 
+
+high standard of corporate governance; provide a channel of communication for employees to 
+
+report fraudulent practices and guide employees on available process to address their concerns 
+
+on suspicious fraudulent activities. The whistle-blowing policy also provides the process for 
+
+investigation and management reporting. All cases reported are objectively and independently 
+
+investigated, and appropriate remedial measures and follow-up are taken where warranted. 
+
+ 
+
+The Audit Committee maintains oversight of this policy and periodically review the adequacy of the 
+
+whistle-blowing arrangements by which employees of the Company and its Group and any other 
+
+persons may, in confidence, raise concerns about possible improprieties in matters of financial 
+
+reporting or other matters. During the reporting period, there were no incidents of corruption. 
+
+ 
+
+REGULATORY COMPLIANCE 
+
+Recognising that non-compliance with laws and regulations not only has significant financial risk 
+
+but potentially detrimental reputational impact on the Group. All employees of Spindex, third parties’ 
+
+suppliers and/or vendors, are encouraged to be proactive and forthcoming in managing and 
+
+reporting environmental and social related issues and complaints. 
+
+ 
+
+During the reporting period, there were no incidents of non-compliance and penalties pertaining to 
+
+environmental and social-related issues. 
+
+ 
+
+The Audit Committee continues to support the Board in its oversight of anti-corruption and the 
+
+implementation of effective compliance and governance systems. At an operational level, the 
+
+respective business segments and department within business segments continues to be 
+
+responsible to identify, self-assess the adequacy and effectiveness of mitigating measures, and 
+
+manage their financial, operational, compliance and reputational related risks. 
+
+ 
+
+*Note:  Please refer to the Corporate Governance and Risk Management and Internal Controls section of FY2018 annual report. 
+
+ 
+
+ 
+
+
+11 
+
+ 
+
+GRI CONTENT INDEX 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+102-1 * 
+
+Name of the 
+
+organization 
+
+Cover Page of Annual Report FY2018 
+
+ 
+
+102-2 * 
+
+Activities, brands, products, 
+
+and services 
+
+Pages 1 to 3 and 38 of Annual Report FY2018 
+
+ 
+
+102-3 * 
+
+Location of 
+
+headquarters 
+
+Cover Page of Annual Report FY2018 
+
+102-4 * 
+
+Location of operations 
+
+Cover Page of Annual Report FY2018 
+
+ 
+
+102-5 * 
+
+Ownership and legal 
+
+form 
+
+Pages 38 and 50 of Annual Report FY2018 
+
+102-6 * 
+
+Markets served 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+ 
+
+102-7 * 
+
+Scale of the 
+
+organization 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+ 
+
+102-8 * 
+
+Information on 
+
+employees and other 
+
+workers 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+102-9 * 
+
+Supply chain 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+ 
+
+102-10 * 
+
+Significant changes to 
+
+the organization and its 
+
+supply chain 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+ 
+
+102-11 * 
+
+Precautionary Principle 
+
+or approach 
+
+Our Approach (Page 3 to 4) 
+
+102-12 * 
+
+External initiatives 
+
+ 
+
+Goals and Achievements (Page 3) 
+
+102-13 * 
+
+Membership of 
+
+associations 
+
+Membership of Associations (Page 6) 
+
+GRI 102: 
+
+Strategy 
+
+102-14 * 
+
+Statement from senior 
+
+decision-maker 
+
+ 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+        GRI 102: 
+
+Ethics and 
+
+Integrity 
+
+102-16 * 
+
+Values, principles, 
+
+standards, and norms of 
+
+behaviour 
+
+ 
+
+Pages 1 to 3 of Annual Report FY2018 
+
+GRI 102: 
+
+Governance 
+
+102-18 * 
+
+Governance structure 
+
+ 
+
+Corporate Governance Section of Annual 
+
+Report FY2018 
+
+
+12 
+
+ 
+
+ 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+GRI 102: 
+
+Stakeholder 
+
+Engagement 
+
+102-40 * 
+
+List of stakeholder groups 
+
+Stakeholder Engagement (Page 5) 
+
+102-41 * 
+
+Collective bargaining 
+
+agreements 
+
+None 
+
+102-42 * 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement (Page 5) 
+
+102-43 * 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement (Page 5) 
+
+102-44 * 
+
+Key topics and concerns 
+
+raised 
+
+Stakeholder Engagement (Page 5) 
+
+GRI 102: 
+
+Reporting 
+
+Practice 
+
+102-45 * 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Page 58 of Annual Report FY2018 
+
+102-46 * 
+
+Defining report content and 
+
+topic Boundaries 
+
+Reporting Practice And Boundary (Page 4) 
+
+102-47 * 
+
+List of material topics 
+
+Material ESG Factors (Page 6) 
+
+102-48 * 
+
+Restatements of information 
+
+Not applicable as this is the first year of 
+
+SR reporting 
+
+102-49 * 
+
+Changes in reporting 
+
+Not applicable as this is the first year of 
+
+SR reporting 
+
+102-50 * 
+
+Reporting period 
+
+FY2018 (1 July 2017- 30 June 2018) 
+
+102-51 * 
+
+Date of most recent report 
+
+Not applicable as this is the first year of 
+
+SR reporting 
+
+102-52 * 
+
+Reporting cycle 
+
+Annual 
+
+102-53 * 
+
+Contact point for 
+
+questions regarding the 
+
+report 
+
+Feedback (Page 2) 
+
+
+13 
+
+ 
+
+ 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+ 
+
+102-54 * 
+
+Claims of reporting in 
+
+accordance with the 
+
+GRI Standards 
+
+Core Option (33 items) 
+
+102-55 * 
+
+GRI content index 
+
+GRI Content Index (Page 11 to 13) 
+
+102-56 * 
+
+External Assurance 
+
+None 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+DMA 
+
+Disclosure of 
+
+Management Approach 
+
+Environmental Compliance (Page 7) 
+
+ 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Environmental Compliance (Page 7) 
+
+GRI 401: 
+
+Employment 
+
+DMA 
+
+Disclosure of 
+
+Management Approach 
+
+Page 47 of Annual Report of FY2018 
+
+401-2 
+
+Benefits provided to 
+
+full-time employees that 
+
+are not provided to 
+
+temporary or part-time 
+
+employees 
+
+Page 47 of Annual Report of FY2018 
+
+401-3 
+
+Parental leave 
+
+Page 47 of Annual Report of FY2018 
+
+ 
+
+ 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+DMA 
+
+Disclosure of 
+
+Management Approach 
+
+Occupational Health and Safety 
+
+(Page 8 to 9) 
+
+ 
+
+403-2 
+
+ 
+
+Types of injury and rate of 
+
+injury 
+
+Occupational Health and Safety 
+
+(Page 8 to 9) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRI 404: 
+
+Training and 
+
+Education 
+
+ 
+
+DMA 
+
+Disclosure of 
+
+Management Approach 
+
+ 
+
+Training and Education (Page 9) 
+
+ 
+
+404-1 
+
+Average hours of 
+
+training per year per 
+
+employee 
+
+Training and Education (Page 9) 
+
+ 
+
+ 
+
+404-2 
+
+Programs for upgrading 
+
+employee skills and 
+
+transition assistance 
+
+programs 
+
+Training and Education (Page 9) 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Spindex Industries Limited 
+
+8 Boon Lay Way 
+
+#03-16, 8@TradeHub 21 
+
+Singapore 609964 
+
+Tel: (65) 6268 0078 
+
+Fax: (65) 6268 5034 
+
+Email: cse@spindex.com.sg 
+
+Website: http://www.spindex.com.sg 
+
+Co. Reg No. 198701451M 
+
+ 
+
+Synturn (M) Sdn Bhd 
+
+6 Jalan Istimewa 7 
+
+Taman Perindustrian Cemerlang 
+
+81800 Ulu Tiram 
+
+Johor Darul Takzim 
+
+Malaysia 
+
+Tel: (60) 7863 2633 
+
+Fax: (60) 7863 2629 
+
+Email: cse@spindex.com.my 
+
+ 
+
+Spindex Industries (Hanoi) Co., Ltd 
+
+Lot No. 7A, Noi Bai Industrial Zone 
+
+Quang Tien Commune, Soc Son District 
+
+Hanoi, Vietnam 
+
+Tel: (84) 4 3582 1633 
+
+Fax: (84) 4 3582 1555 
+
+Email: cse@spindex.com.vn 
+
+ 
+
+Spindex Precision Engineering (Shanghai) Co., Ltd 
+
+475 Fa Sai Road 
+
+WaiGaoQiao Free Trade Zone 
+
+Shanghai PRC Postcode: 200131 
+
+Tel: (86) 21 5048 1183 
+
+Fax: (86) 21 5048 1180 
+
+Email: cse@spindex.com.cn 
+
+ 
+
+Spindex Precision Engineering (Suzhou) Co., Ltd 
+
+58 Yin Sheng Road 
+
+ShengPu Development Zone 
+
+Suzhou Industrial Park 
+
+PRC Postcode: 215126 
+
+Tel: (86) 512 6701 0598 
+
+Fax: (86) 512 6701 0599 
+
+Email: cse_sz@spindex.com.cn 
+
+ 
+
+
+

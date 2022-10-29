@@ -1,0 +1,4845 @@
+
+SUSTAINABILITY
+
+REPORT 2017
+
+
+
+
+
+
+
+
+Contents
+
+About This Report 
+
+01
+
+Our Stakeholders 
+
+04
+
+Sustainability Approach 
+
+06
+
+Environment 
+
+15
+
+People 
+
+21
+
+Customers 
+
+27
+
+Community 
+
+29
+
+Economic Performance 
+
+30
+
+GRI Content Index 
+
+31
+
+
+01
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+About This Report
+
+This is Chip Eng Seng Corporation Ltd’s (“Chip Eng Seng” 
+
+or the “Group”) inaugural Sustainability Report. The report covers 
+
+Chip Eng Seng’s performance on the Group’s material Environmental, 
+
+Social and Governance (“ESG”) factors.
+
+
+
+REPORTING PERIOD AND SCOPE
+
+This report covers Chip Eng Seng’s ESG performance 
+
+for the period 1 January 2015 to 31 December 2017. 
+
+The ESG data included in this report refer to Chip Eng 
+
+Seng’s business operations in Singapore and excludes 
+
+overseas entities as well as the Group’s hospitality 
+
+division unless stated otherwise. The report mainly 
+
+covers the Construction Division and the Property 
+
+Development Division, which together contribute to 
+
+94% of the total Group revenue. We plan to include 
+
+the hospitality business within the scope of reporting 
+
+in future.
+
+SUSTAINABILITY REPORTING FRAMEWORK
+
+This report has been prepared in accordance with 
+
+the GRI Standards: Core option. The Global Reporting 
+
+Initiative’s GRI Standards are the most widely used 
+
+sustainability reporting standards internationally. The 
+
+report complies with the SGX-ST Listing Rules (711A 
+
+and 711B) and the SGX Sustainability Reporting Guide. 
+
+A GRI Index, as well as an SGX Primary Components 
+
+Index presented at the end of the report, indicates the 
+
+location of the relevant disclosures.
+
+CES Centre
+
+
+02
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+For measuring and reporting Chip Eng Seng’s 
+
+carbon footprint, we have applied the Greenhouse 
+
+Gas (GHG) Protocol Corporate Accounting and 
+
+Reporting Standard.
+
+We have also identified the UN Sustainable 
+
+Development Goals (SDGs) which align with our 
+
+material ESG topics and where we see the potential 
+
+to contribute.
+
+REPORTING PROCESS
+
+Chip Eng Seng’s Board of Directors (the “Board”) 
+
+provides direction to the management in developing 
+
+sustainability reporting. The Board has the 
+
+responsibility to determine the material ESG factors 
+
+and disclosures for sustainability reporting.
+
+A Sustainability Management Committee, headed by 
+
+the Group’s chief executive officer as chairman and 
+
+the chief financial officer as deputy chairman, assists 
+
+the Board in identifying material ESG factors as well as 
+
+stakeholder concerns and expectations. The members 
+
+of the Committee include senior management 
+
+executives from key functions and business units. 
+
+Under guidance from the Board, the Committee 
+
+oversees the development of sustainability report 
+
+content and prioritisation of sustainability topics.
+
+A sustainability reporting project team is responsible 
+
+for collecting and verifying ESG performance data in 
+
+preparation of the sustainability report.
+
+Chip Eng Seng is committed to publishing its 
+
+sustainability report on an annual basis.
+
+REPORT CONTENT AND QUALITY
+
+The content of the report has been determined on the 
+
+basis of materiality assessment, analysis of stakeholder 
+
+expectations and potential ESG risks and opportunities 
+
+arising from our business activities. 
+
+We have applied the principles of accuracy, balance, 
+
+clarity, comparability, reliability and timeliness to help 
+
+stakeholders assess our sustainability performance.
+
+ESG data provided in the report have mainly been 
+
+extracted from internal information systems and 
+
+primary records to ensure accuracy and consistency. 
+
+International measurement units have been used 
+
+for presenting the ESG data. Financial figures are in 
+
+Singaporean dollars unless specified otherwise.
+
+RESTATEMENTS
+
+As this is our first sustainability report, restatements 
+
+do not apply.
+
+ASSURANCE
+
+We did not seek external assurance for this 
+
+sustainability report. We have relied on internal 
+
+verification to ensure the accuracy of data. Our ESG 
+
+performance data are reported in good faith and are 
+
+accurate to the best of our knowledge.
+
+AVAILABILITY
+
+This report is available in PDF format for download on 
+
+our website at www.chipengseng.com.sg
+
+FEEDBACK
+
+Stakeholders are welcome to send their feedback 
+
+or suggestions regarding this report to us at 
+
+sustainability@chipengseng.com.sg  
+
+About This Report
+
+
+03
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+ESG PERFORMANCE SUMMARY
+
+MATERIAL ESG FACTORS 
+
+2015 
+
+2016 
+
+2017
+
+ENVIRONMENTAL
+
+Carbon emissions at construction sites (tCO2) 
+
+3,499 
+
+3,837 
+
+4,084
+
+Carbon emissions intensity at construction sites (KgCO2 /m2) 
+
+19.6 
+
+18.4 
+
+19.0
+
+Electricity used at construction sites (kWh) 
+
+ 1,023,091            751,481 
+
+1,155,279
+
+Energy used at construction sites (GJ) 
+
+48,280 
+
+53,854 
+
+56,417
+
+Energy intensity at construction sites (GJ/m2) 
+
+                   0.271 
+
+0.259 
+
+0.271
+
+Construction waste (tonnes) 
+
+7,093          
+
+4,448 
+
+5,830
+
+Construction waste (kg/m2) 
+
+                         40 
+
+21 
+
+28
+
+Water used at construction sites (m3) 
+
+288,459 
+
+141,541 
+
+173,964
+
+Water used at construction sites (m3/m2) 
+
+1.62 
+
+0.68 
+
+0.83
+
+SOCIAL
+
+Employees
+
+Full-time employees 
+
+414 
+
+368 
+
+361
+
+Female employees (%) 
+
+                         29 
+
+30 
+
+ 32 
+
+Female managers and supervisors (%) 
+
+29 
+
+29 
+
+31
+
+Average training hours per employee 
+
+6.5 
+
+6.9 
+
+8.6
+
+Training expenditure per employee ($) 
+
+194 
+
+196 
+
+275
+
+Annual employee turnover rate (%) 
+
+26.4 
+
+21.6 
+
+16.8
+
+New hires 
+
+62 
+
+34 
+
+53
+
+Occupational Health and Safety**
+
+Accident Frequency Rate (AFR) 
+
+1.3 
+
+0.2 
+
+0.3
+
+Workplace Injury Rate (WIR) 
+
+300.5 
+
+57.9 
+
+103.0
+
+Accident Severity Rate (ASR) 
+
+60.1 
+
+19 
+
+14.6
+
+Occupational Disease Rate 
+
+0 
+
+0 
+
+0
+
+Fatal Accidents 
+
+0 
+
+0 
+
+0
+
+Community
+
+Community donations ($)* 
+
+1,169,673 
+
+300,307 
+
+278,373 
+
+ECONOMIC PERFORMANCE ($’000)
+
+Revenue by segment
+
+Sale of development properties 
+
+347,498   
+
+ 411,727  
+
+ 571,682 
+
+Construction revenue 
+
+305,759   
+
+ 298,213  
+
+ 239,308 
+
+Others 
+
+23,195   
+
+ 38,055  
+
+ 48,733 
+
+Total Revenue 
+
+ 676,452  
+
+ 747,995  
+
+ 859,723 
+
+Profit for the year 
+
+57,246 
+
+51,724  
+
+     55,774 
+
+Employee wages and benefits (including directors) 
+
+60,454 
+
+56,114  
+
+      62,688 
+
+Income taxes paid 
+
+27,180 
+
+34,244  
+
+      22,240 
+
+Dividends to shareholders 
+
+37,384 
+
+24,841  
+
+      24,841 
+
+ 
+
+Notes:
+
+*Community donation amount is higher in 2015 due to a one-off donation of $1 million to ITE Education Fund.
+
+**Calculation formula:
+
+AFR = (No. of Injuries / Total Man Hours) 
+
+x 1,000,000
+
+WIR = (No. of Injuries / Total Manpower) 
+
+x 100,000
+
+ASR = (Lost of Man Day / Total Man Hours) x 1,000,000
+
+
+04
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+We define our stakeholders as individuals or groups 
+
+who may be impacted by our business activities or who 
+
+may have the potential to affect our operations. Our 
+
+approach is to engage our stakeholders to proactively 
+
+understand their concerns and expectations of us. 
+
+More importantly, as a responsible business, our goal is 
+
+to create sustainable value for our stakeholders.
+
+Over the years, we have built trusted relationships with 
+
+our stakeholders. We reach out and listen carefully to 
+
+our stakeholders in a variety of ways to learn about 
+
+and understand their views and opinions. 
+
+The frequency of engagement with different 
+
+stakeholders varies depending on mutual needs and 
+
+expectations.
+
+Our Stakeholders
+
+We nurture relations with our stakeholders 
+
+based on trust, ethics and integrity.
+
+
+
+Sembawang N1C10
+
+
+05
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+STAKEHOLDERS 
+
+EXPECTATIONS 
+
+HOW WE ENGAGE 
+
+Customers 
+
+• Good workmanship 
+
+• Regular project updates
+
+ 
+
+• Good quality and design 
+
+• Tenancy agreements
+
+ 
+
+• Prompt repairs 
+
+• Customer service
+
+ 
+
+• Clear communication 
+
+• Website
+
+ 
+
+• Timely completion of projects 
+
+• Submission of performance 
+
+ 
+
+• Legal and contractual compliance 
+
+ survey reports
+
+ 
+
+ 
+
+Employees 
+
+• Workplace safety 
+
+• Regular meetings
+
+ 
+
+• Training and development 
+
+• Internal communication
+
+ 
+
+• Career advancement 
+
+• Training
+
+ 
+
+• Fair remuneration and rewards 
+
+• Performance reviews
+
+ 
+
+• Employee welfare
+
+ 
+
+• Work-life balance  
+
+ 
+
+ 
+
+Government 
+
+• Compliance with environmental 
+
+• Compliance updates
+
+agencies and  
+
+ and safety standards 
+
+• Timely data reporting
+
+regulators 
+
+• Green buildings 
+
+• Attending seminars to 
+
+ 
+
+• Productivity 
+
+ understand government policies 
+
+ 
+
+ 
+
+ and regulations  
+
+ 
+
+ 
+
+Investors and 
+
+• Return on investment 
+
+• Regular updates through
+
+shareholders 
+
+• Good governance 
+
+ announcements on SGX-Net 
+
+ 
+
+• Sustainable business growth 
+
+ and Group website 
+
+ 
+
+ 
+
+• Annual General Meetings
+
+ 
+
+ 
+
+• Annual Reports
+
+ 
+
+ 
+
+Suppliers and sub- 
+
+• Clear specifications and instructions 
+
+• Tenders/ Request for 
+
+contractors 
+
+• Timely payment according to 
+
+ Proposal Agreements
+
+ 
+
+ contractual terms 
+
+• Interview for tender qualification,
+
+ 
+
+• Technical guidance 
+
+ clarification and negotiation
+
+ 
+
+• Site inspections 
+
+• Product presentations and seminars
+
+ 
+
+• Timely provision of materials 
+
+• Site Inspections 
+
+ 
+
+ and equipment 
+
+ 
+
+ 
+
+Community 
+
+• Minimal disruptions due to 
+
+• Advance notification 
+
+ 
+
+ Group’s project work 
+
+ of work schedule
+
+ 
+
+• Minimal dust and noise generated 
+
+• Feedback system in place
+
+ 
+
+ due to construction 
+
+• Regular updates through posting
+
+ 
+
+ 
+
+ of notices and bulletins
+
+ 
+
+ 
+
+• Visit surrounding neighbourhood
+
+ 
+
+ 
+
+ by project team to solicit feedback
+
+MEMBERSHIP OF ASSOCIATIONS
+
+We engage with relevant industry associations and 
+
+forums to keep abreast of sector trends and emerging 
+
+issues. Some of the associations to which our Group 
+
+contributes as a member are listed below:
+
+• Singapore Chinese Business Association
+
+• Singapore Business Federation
+
+• Singapore China Friendship Association
+
+• Singapore National Employers Federation
+
+• Singapore Institute of Directors
+
+• The Singapore Contractors Association
+
+• Singapore Institute of Surveyors and Valuers
+
+• Singapore Chinese Chamber of Commerce 
+
+ 
+
+&amp; Industry
+
+• Real Estate Developers’ Association of Singapore
+
+A summary of our primary stakeholder groups, their expectations and concerns, and how we engage them is 
+
+presented below.
+
+
+06
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+WE ARE COMMITTED TO SUSTAINABLE 
+
+BUSINESS GROWTH
+
+Our approach is to focus on the most significant 
+
+environmental, social and economic impacts, risks 
+
+and opportunities arising from our business operations 
+
+and on the issues that are most important to 
+
+our stakeholders.
+
+The construction and property development sector 
+
+has significant positive and negative impacts on the 
+
+economy, environment and communities. The United 
+
+Nations Environment Programme’s Sustainable 
+
+Buildings and Climate Initiative estimates that 
+
+buildings account for 40% of global energy use, 
+
+25% of global water consumption, 40% of global 
+
+resources consumption and nearly one-third of global 
+
+GHG emissions. At the same time, the sector plays a 
+
+crucial role in the social and economic development 
+
+by creating jobs, catalysing commercial activities, 
+
+providing housing, and building industrial and business 
+
+infrastructure for growth.
+
+CES is engaged in construction, property development, 
+
+hospitality and property investment business. The 
+
+Group’s property development segment accounted for 
+
+66% of our total revenue in 2017. 
+
+Constructing the Housing Development Board’s 
+
+(HDB) affordable public housing in Singapore 
+
+constitutes the bulk of our construction business. 
+
+Our approach is to adhere to the standards set by 
+
+HDB as well as the Building and Construction Authority 
+
+(BCA) which include environmental, safety and 
+
+community parameters.
+
+Sustainability Approach
+
+CES is engaged in construction, property development, hospitality 
+
+and property investment business. The Group’s property development 
+
+segment accounted for 66% of our total revenue in 2017.
+
+
+
+Bukit Batok N1C13 &amp; N2C23
+
+
+07
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+Sustainability Approach
+
+We work closely with BCA to adopt and implement 
+
+green design and construction technologies so as to 
+
+minimise emissions and promote sustainable living 
+
+environments. We also work closely with the HDB to 
+
+develop sustainable HDB homes.
+
+Overall, our approach is to integrate sustainability at 
+
+all stages of our projects.
+
+SUPPORTING SUSTAINABLE 
+
+DEVELOPMENT GOALS
+
+We have examined the 17 UN SDGs and believe our 
+
+business has the potential to support many of these 
+
+goals. As a start, we have aligned our material ESG 
+
+factors with the relevant SDGs. Our next step would be 
+
+to explore ways to integrate the SDGs into our business 
+
+operations to support sustainable business growth.
+
+MITIGATING CLIMATE CHANGE
+
+We are committed to being part of national and 
+
+international efforts to mitigate the risks of climate 
+
+change. In line with the Paris Agreement on climate 
+
+change, we are supportive of Singapore’s commitment 
+
+to reduce the nation’s emissions intensity by 36% 
+
+from 2005 levels by 2030 and stabilise the country’s 
+
+greenhouse gas emissions with the aim of peaking 
+
+around 2030.
+
+BOARD STATEMENT
+
+Chip Eng Seng has built its business through a 
+
+dedication to quality, the environment, health and 
+
+safety, ethics and integrity. The Group is committed 
+
+to safeguarding the environment, people and 
+
+communities while undertaking its business activities.
+
+The Board considers sustainability issues as part of 
+
+its strategy formulation. The Board endorses the 
+
+material ESG factors presented in this report. The 
+
+Board has also provided oversight of the management 
+
+and monitoring of these material ESG factors, through 
+
+regular review of performance indicators.
+
+MATERIAL FACTORS
+
+We carried out a comprehensive materiality 
+
+assessment to determine the most important issues 
+
+to be covered in this report. Senior management 
+
+representatives from all business units and functions 
+
+attended a workshop conducted by an external 
+
+sustainability expert to review and assess stakeholder 
+
+concerns and the critical sustainability issues relating 
+
+to our business activities. The participants identified 
+
+the environmental, social and economic impacts, risks 
+
+and opportunities in our value chain.
+
+We considered national and international sustainability 
+
+trends in the real estate sector, the GRI Standards, 
+
+GRI’s G4 Construction and Real Estate Sector 
+
+Disclosures, the SGX Sustainability Reporting Guide, 
+
+and stakeholder expectations when prioritising the 
+
+material issues for reporting.
+
+
+08
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+A summary of our material impacts and where they occur is provided below.
+
+MATERIAL TOPICS
+
+Material Topics
+
+(GRI Standards)
+
+The Organisation’s 
+
+Involvement
+
+Business Division 
+
+Where Material
+
+Corresponding
+
+SDGs
+
+ENVIRONMENT
+
+Energy
+
+GHG Emissions
+
+Waste
+
+Water
+
+Materials
+
+Environmental 
+
+Compliance
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+• Construction
+
+• HQ-CES Centre
+
+• Construction
+
+• HQ-CES Centre
+
+11 Sustainable Cities 
+
+and Communities
+
+6 Clean Water 
+
+and Sanitation
+
+13 Climate 
+
+Action
+
+13 Climate 
+
+Action
+
+• Construction
+
+• HQ-CES Centre
+
+• Construction
+
+• HQ-CES Centre
+
+• Construction
+
+• Construction
+
+12 Responsible 
+
+Comsumption and 
+
+Production
+
+16 Peace, Justice and 
+
+Strong Institutions
+
+Sustainability Approach
+
+
+09
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+MATERIAL TOPICS
+
+Material Topics
+
+(GRI Standards)
+
+The Organisation’s 
+
+Involvement
+
+Business Division 
+
+Where Material
+
+Corresponding
+
+SDGs
+
+EMPLOYEES
+
+Occupational Health 
+
+and Safety
+
+Employment
+
+Employee Training 
+
+and Development
+
+Diversity and 
+
+Equal Opportunity
+
+Human Rights
+
+Direct 
+
+and Indirect
+
+Direct 
+
+and Indirect
+
+Direct
+
+Direct
+
+Direct 
+
+and Indirect
+
+• Construction
+
+• Chip Eng Seng Group
+
+• Chip Eng Seng Group
+
+4 Quality 
+
+Education
+
+5 Gender 
+
+Equality
+
+8 Decent Work
+
+and Economic Growth
+
+3 Good Health 
+
+and Well-Being
+
+• Chip Eng Seng Group
+
+• Chip Eng Seng Group
+
+• Chip Eng Seng Group
+
+8 Decent Work
+
+and Economic Growth
+
+Sustainability Approach
+
+
+10
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+MATERIAL TOPICS
+
+Material Topics
+
+(GRI Standards)
+
+The Organisation’s 
+
+Involvement
+
+Business Division 
+
+Where Material
+
+Corresponding
+
+SDGs
+
+CUSTOMERS
+
+ECONOMIC
+
+Customer Privacy
+
+Economic 
+
+Performance
+
+Anti-corruption
+
+Socio-economic 
+
+Compliance
+
+Direct 
+
+Direct 
+
+and Indirect
+
+Direct
+
+Direct 
+
+and Indirect
+
+• Property Development
+
+• Chip Eng Seng Group
+
+• Chip Eng Seng Group
+
+• Chip Eng Seng Group
+
+16 Peace, Justice and 
+
+Strong Institutions
+
+16 Peace, Justice and 
+
+Strong Institutions
+
+16 Peace, Justice and 
+
+Strong Institutions
+
+11 Sustainable Cities 
+
+and Communities
+
+9 Industry Innovation 
+
+and Infrastructure
+
+Sustainability Approach
+
+
+11
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+SUSTAINABILITY TOPIC 
+
+GOALS AND TARGETS
+
+Regulatory Compliance 
+
+• Ensure regulatory compliance across our businesses
+
+Environment 
+
+• Minimise the environmental impact of our business activities by 
+
+ 
+
+ adopting green building practices
+
+ 
+
+• Reduce energy consumption at our construction sites and 
+
+ 
+
+ at properties that we directly control or manage
+
+ 
+
+• Minimise waste at our construction sites, reusing and 
+
+ 
+
+ recycling materials whenever possible
+
+ 
+
+• Adopt practices to save and conserve water
+
+ 
+
+• Take measures to reduce noise and dust during construction
+
+Health and Safety 
+
+• Implement measures to identify, manage and mitigate workplace   
+
+ 
+
+ health and safety risks 
+
+ 
+
+• Ensure safe work practices at our construction sites
+
+ 
+
+• Provide a safe and healthy work environment for our employees
+
+ 
+
+• Protect the health and safety of our tenants, customers and visitors
+
+Employees 
+
+• Promote fair and inclusive employment practices
+
+ 
+
+• Invest in cultivating the right skills through employee training 
+
+ 
+
+ and development
+
+Product Responsibility 
+
+• Ensure residential and commercial spaces built by us 
+
+ 
+
+ offer high quality materials and workmanship as well as safe living
+
+ 
+
+• Maintain high standards of customer service
+
+Economic Performance 
+
+• Ensure sustainable growth and profitability for investors
+
+ 
+
+• Create value for all stakeholders
+
+ESG GOALS AND TARGETS
+
+Our approach is to minimise the ESG risks in our 
+
+operations and maximise value creation for our 
+
+stakeholders, in order to sustain long-term business 
+
+growth and profitability.
+
+After identifying our material ESG factors, we started 
+
+carefully measuring and monitoring our impacts 
+
+and established broad goals for critical issues. The 
+
+next step for us is to develop performance targets to 
+
+achieve our sustainability objectives.
+
+A snap-shot of our ESG goals and targets is presented 
+
+below.
+
+Sustainability Approach
+
+
+12
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+SUSTAINABILITY MANAGEMENT 
+
+Chip Eng Seng Group’s Board of Directors provides 
+
+strategic direction for determining and implementing 
+
+sustainability policies. A Sustainability Management 
+
+Committee (SMC), chaired by the chief executive 
+
+officer with the chief financial officer as the deputy 
+
+chairman, oversees sustainability management 
+
+across the Group. Senior representatives from the 
+
+construction and property development divisions and 
+
+the human resources department actively contribute 
+
+to the sustainability programme.
+
+The SMC provides a regular update to the Board on the 
+
+implementation of sustainability strategies. The SMC is 
+
+assisted by a project team with executives drawn from 
+
+across diverse business functions. The project team is 
+
+responsible for collecting sustainability performance 
+
+data for monitoring and reporting. A senior executive 
+
+acts as project coordinator and works closely with the 
+
+project team to ensure the necessary ESG performance 
+
+data is gathered for sustainability reporting.
+
+SUSTAINABILITY REPORTING PROJECT TEAM
+
+BOARD OF DIRECTORS
+
+SUSTAINABILITY MANAGEMENT COMMITTEE
+
+Chairman:  Chief Executive Officer, 
+
+Deputy Chairman: Chief Financial Officer
+
+➜
+
+➜
+
+Sustainability Approach
+
+
+13
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+WINNING ACCOLADES
+
+
+
+2017
+
+Excellent 
+
+BCA Green and Gracious Builder Award awarded to 
+
+ 
+
+CES Engineering &amp; Construction Pte Ltd
+
+Excellent 
+
+BCA Green and Gracious Builder Award awarded to 
+
+ 
+
+Chip Eng Seng Contractors (1988) Pte Ltd
+
+Commendation 
+
+WSH Culturesafe (Certificate of Commendation) for Bukit Batok N1C13 Skyline 1
+
+Commendation 
+
+WSH Culturesafe (Certificate of Commendation) for Sembawang N1C10 
+
+ 
+
+East Crown@Canberra
+
+Gold Plus 
+
+BCA BIM Award (Builder) for CES Engineering &amp; Construction Pte Ltd 
+
+ 
+
+– Grandeur Park Residences
+
+Winner 
+
+HDB Construction Safety Award (Building Category) for Bukit Batok N1C13 &amp; N2C23
+
+Winner 
+
+HDB Construction Safety Award (Building Category) for Jurong West N6C31
+
+Winner 
+
+WSH SHARP Award for Sembawang N1C10 (East Crown @ Canberra)
+
+Winner 
+
+WSH SHARP Award for Bukit Batok N1C13 (Skyline I)
+
+Sustainability Approach
+
+
+14
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+2016
+
+Commendation 
+
+WSH Culturesafe (Certificate of Commendation) for Yishun Mixed Development 
+
+ 
+
+(Junction Nine &amp; Nine Residences)
+
+Merit 
+
+SCAL Innovation &amp; Productivity Award to Chip Eng Seng Contractors (1988) Pte Ltd   
+
+ 
+
+(Woodlands N1C26&amp;27)
+
+Winner 
+
+WSH Award Performance-SHARP Winner for Yishun Mixed Development 
+
+ 
+
+(Junction Nine &amp; Nine Residences)
+
+Winner 
+
+WSH Award Performance-SHARP Winner for Fulcrum @Fort Road
+
+Gold 
+
+BCA Construction Productivity Awards - Yishun Acacia Breeze
+
+Merit 
+
+HDB Construction Award (Certificate of Merit) for Bukit Panjang N4C15 (Fajar Hills)
+
+Winner 
+
+HDB Construction Safety Award for Bukit Panjang N4C15
+
+2015
+
+Commendation 
+
+WSH SHARP Award (Certificate of Commendation) for Jurong West N6C31
+
+Commendation 
+
+WSH SHARP Award (Certificate of Commendation) for Yishun N5C2 (Acacia Breeze)
+
+Commendation 
+
+WSH SHARP Award (Certificate of Commendation) for Bukit Batok N2C23 (Skyline II)
+
+Commendation 
+
+WSH SHARP Award (Certificate of Commendation) for Tampines N4C27
+
+Winner 
+
+WSH Award Performance-SHARP Winner for Yishun Mixed Development 
+
+ 
+
+(Junction Nine &amp; Nine Residences)
+
+Merit 
+
+HDB Construction Safety Award (Certificate of Merit) for Tampines N4C27
+
+Merit 
+
+HDB Construction Safety Award (Certificate of Merit) for Yishun N5C2
+
+Merit 
+
+HDB Construction Award (Certificate of Merit) for Yishun N5C2 (Acacia Breeze)
+
+Please visit our website www.chipengseng.com.sg/awards to see the full listing of our awards and commendations since 1994.
+
+Sustainability Approach
+
+
+15
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+Environment
+
+We are committed to mitigating our 
+
+environmental impact by adopting sustainable 
+
+building designs, materials and technologies.  
+
+
+
+GREEN AND GRACIOUS
+
+Green building and sustainable living are important 
+
+to our customers, tenants, employees, communities 
+
+and the regulators. Our Green and Gracious policy 
+
+promotes activities and initiatives to prevent and 
+
+minimise adverse environmental impacts associated 
+
+with our building construction work. 
+
+Environmental standards and management is a critical 
+
+part of our Environment, Health and Safety (QEHS) 
+
+system and we are committed to ensuring effective 
+
+environmental management.  We have obtained ISO 
+
+14000 for our environmental management system that 
+
+reflects our dedication to continuous improvement. 
+
+We depute Environmental Control Officers to ensure 
+
+compliance with environmental and public health 
+
+regulations applicable to the site work.
+
+Our policy is to assess and manage the environmental 
+
+impacts, risks and opportunities of our business 
+
+activities to support sustainable building and 
+
+construction practices. We embed energy efficiency 
+
+and resource conservation at all stages of our value 
+
+chain by incorporating sustainable features. Our 
+
+policies and practices are directed at mitigating our 
+
+environmental impacts.
+
+We focus on energy use, GHG emission reduction, 
+
+materials selection, waste management, water 
+
+conservation, wastewater recycling, and noise and 
+
+dust containment to minimise our impact on the 
+
+environment.
+
+Bukit Batok N4C15
+
+
+16
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+We measure and monitor our material environmental 
+
+factors to ensure continuous improvement. We have 
+
+implemented a process for collecting data for energy, 
+
+water and waste on a weekly basis. We have also 
+
+developed goals and targets for these environmental 
+
+metrics and monitor them regularly.
+
+We seek regular feedback on environmental issues 
+
+from our employees, building authorities, and relevant 
+
+stakeholders, in addition to conducting a regular and 
+
+routine review of our policies, projects and initiatives.
+
+CLIMATE CHANGE
+
+Globally, buildings account for significant energy 
+
+use and GHG emissions. Buildings are also at risk 
+
+from extreme weather conditions caused by climate 
+
+change. At Chip Eng Seng, we support the global 
+
+goal of limiting the temperature rise well below 2˚ 
+
+Celsius. Green design, energy efficiency and resource 
+
+conservation are an integral part of our management 
+
+approach. Managing our carbon emissions is an 
+
+essential element of our environmental programme.
+
+ENVIRONMENTAL PERFORMANCE
+
+Our environmental performance data is presented 
+
+in the sections that follow. The amount of energy 
+
+and water used, as well as the amount of waste and 
+
+wastewater generated, depends on the construction 
+
+phase of a project. Usually, power and water 
+
+consumption are higher during the middle stages of 
+
+a project.
+
+ENERGY
+
+Construction activity consumes a significant amount 
+
+of energy, including grid electricity and diesel for 
+
+running power generators. Our energy initiatives focus 
+
+on minimising consumption of electricity and diesel at 
+
+construction sites. Lower energy consumption is not 
+
+only helpful in reducing our carbon footprint, but it 
+
+also saves costs.
+
+Our total electricity consumption at construction sites 
+
+was 1,155,279 kWh in 2017 as against 751,481 kWh in the 
+
+prior year. Diesel consumption was 1,353,843 litres in 
+
+2017 compared with 1,325,100 litres in the preceding 
+
+year. In 2017, energy intensity was 0.271 GJ/m2 of 
+
+Gross Floor Area built against 0.259 GJ/m2 in the 
+
+previous year.
+
+We monitor electricity consumption in our head office 
+
+building, including the common area but excluding 
+
+the tenants’ use. We also measure and report the 
+
+associated carbon emissions.
+
+ 
+
+ENERGY
+
+ 
+
+EFFICIENCY
+
+We have implemented several measures 
+
+at construction sites to minimise energy 
+
+consumption. Initiatives include the use of 
+
+energy-efficient equipment where possible. 
+
+Examples include:
+
+• Energy-efficient LED Lights.
+
+• Installing 2-tick energy-saving air-conditioning 
+
+units at site office.
+
+• Power-efficient printers.
+
+• Promoting energy-saving campaigns by placing 
+
+posters and signs to remind staff to switch off 
+
+any electrical equipment when not in use and to 
+
+maintain air-con temperatures at 25oC.
+
+• Use of window blinds to minimise the heat from 
+
+outside.
+
+Environment
+
+
+17
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GHG EMISSIONS
+
+We measure and monitor GHG emissions from our 
+
+energy use and regularly review our performance. Our 
+
+total carbon dioxide (CO2) emission in 2017 was 4,084 
+
+tonnes compared with 3,837 tonnes in 2016. Emissions 
+
+intensity for the same period was 19.0 kgCO2/m2 and 
+
+18.4 kgCO2/m2 respectively.
+
+BUILDING MATERIALS 
+
+We closely monitor our use of materials to minimise 
+
+waste and select materials which have a lower impact 
+
+on the environment. We use pre-cast concrete walls 
+
+which are more efficient and reduce pollution at the 
+
+construction site.
+
+In construction, we use a wide variety of sustainable 
+
+materials with the Singapore Green Label that meets 
+
+the Green Mark criteria.
+
+Our materials use in the stated period is summarised 
+
+below: 
+
+WASTE
+
+Our waste is mainly generated from construction 
+
+activities on-site and are non-hazardous. Our approach 
+
+is to reduce, reuse and recycle waste where practical. 
+
+We dispose of waste through licensed contractors in 
+
+accordance with the applicable regulations. Waste 
+
+generated at our construction sites in 2017 was 5,830 
+
+tonnes as against 4,448 tonnes in the preceding year.
+
+WATER
+
+Water is a precious resource in Singapore, and we 
+
+make efforts to conserve it. Our policy is to use water 
+
+responsibly and implement conservation initiatives. 
+
+Our measures include collecting rainwater to reduce 
+
+the demand for fresh water, as well as reusing and 
+
+recycling water. We install a silty water treatment 
+
+system at sites to prevent water contamination. We 
+
+use pre-cast concrete which has significantly reduced 
+
+the need for the on-site use of water.  We use water-
+
+efficient taps and fittings that have a 3-tick rating by 
+
+the Public Utilities Board to conserve water. We install 
+
+dual flush closets to save water.
+
+We track our water use, including the usage in 
+
+our head office and CES Centre, and review our 
+
+consumption regularly. In 2017, our water consumption 
+
+at construction sites was 173,964 m3 as against 
+
+141,541 m3 in 2016. Water intensity for the same period 
+
+was 0.83 m3/m2 and 0.68 m3/m2  respectively.
+
+ Material 
+
+2017 
+
+2016 
+
+2015
+
+ 
+
+ 
+
+89,173 
+
+95,182 
+
+58,872
+
+ 
+
+Sand
+
+ (tonnes)
+
+ 
+
+ 
+
+ 
+
+ 
+
+47,751 
+
+52,631  
+
+35,424
+
+ Cement
+
+ (tonnes)
+
+ 
+
+ 
+
+ 
+
+ 
+
+21,444 
+
+24,412 
+
+14,399
+
+ 
+
+Steel
+
+ (tonnes)
+
+Environment
+
+
+18
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+WASTEWATER
+
+All wastewater generated at our construction sites 
+
+is collected, treated and disposed of according to 
+
+environmental regulations. We implement measures to 
+
+prevent and control contamination from oil, chemical 
+
+drums and bulk storage tanks.
+
+We implement the required earth control measures to 
+
+manage silty discharge due to rainwater.
+
+We also monitor our wastewater to find ways to 
+
+minimise it.
+
+We use wastewater as well as rainwater to wash 
+
+vehicles before they leave the construction site so as 
+
+to keep the roads clean.
+
+POLLUTION 
+
+Construction activity, vehicles, heavy equipment 
+
+and machinery at the construction sites generates 
+
+noise, dust and vibrations which can be a source of 
+
+nuisance for workers as well as the neighbouring 
+
+community. Our policy is to minimise the noise, dust 
+
+and vibrations pollution by strictly implementing 
+
+regulatory guidelines and industrial best practices, and 
+
+constantly monitoring our construction work to keep 
+
+the noise under permissive levels. We ensure regular 
+
+maintenance of the equipment and machinery to 
+
+reduce noise. Our use of pre-cast concrete panels also 
+
+helps in minimising noise at the construction site. 
+
+We closely supervise piling and demolition work to 
+
+ensure that vibrations caused from such activities do 
+
+not exceed permitted limits.
+
+Construction sites generate dust from concrete, 
+
+cement, wood, stone, and silica. We take preventive 
+
+measures to control the spread of dust. We use screens 
+
+to stop dust from spreading and place fine mesh 
+
+screening close to the dust source. We also use water 
+
+sprays to control dust pollution.
+
+More importantly, we engage with the affected 
+
+community to keep them informed of our impending 
+
+construction schedules. We promptly address and 
+
+resolve any pollution related complaints.
+
+ENVIRONMENTAL COMPLIANCE
+
+Complying with applicable environmental regulations 
+
+is a top priority for the Group as non-compliance may 
+
+result in penalties and loss of reputation. We carefully 
+
+examine applicable rules, including environmental 
+
+and public health laws, to put in place the necessary 
+
+policies and practices to ensure compliance.
+
+In 2017, there were no incidents of stop work 
+
+orders or demerit points relating to or arising from 
+
+environmental regulations. Regrettably, there were 
+
+four incidents of composition fines for vectors-related 
+
+lapses. We have since taken corrective measures to 
+
+prevent the recurrence of the problem. 
+
+Environment
+
+
+19
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+ENVIRONMENTAL PERFORMANCE 
+
+Carbon Emissions - Construction Sites
+
+(tCO2)
+
+Source of CO2 Emissions - 2017
+
+Energy Consumption by Source - 2017
+
+(GJ)
+
+Energy Intensity - Construction Sites
+
+(GJ/m2)
+
+Electricity Consumption at Construction Sites
+
+(kWh)
+
+Carbon Emissions Intensity - Construction Sites
+
+(kgCO2/m2)
+
+Total Energy Consumption at Construction Sites
+
+(GJ)
+
+Diesel Consumption at Construction Sites
+
+(litres)
+
+3,499
+
+0.271
+
+1,023,091
+
+751,481
+
+1,155,279
+
+19.6
+
+48,280
+
+12%
+
+7%
+
+88%
+
+93%
+
+1,155,364
+
+1,325,100
+
+1,353,843
+
+53,854
+
+56,417
+
+3,837
+
+0.259
+
+18.4
+
+4,084
+
+0.271
+
+19.0
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+Purchased Electricity        Diesel
+
+Electricity        Diesel
+
+2015
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+Environment
+
+
+20
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+Construction Waste
+
+(tonnes)
+
+Water Intensity
+
+(m3/m2)
+
+CO2 Emissions at CES Centre
+
+(tCO2)
+
+Construction Waste
+
+(kg/m2)
+
+Water Consumption at Construction Sites
+
+(m3)
+
+Electricity Consumption at CES Centre
+
+(kWh)
+
+Water Consumption in CES Centre Common
+
+(m3)
+
+7,093
+
+1.62
+
+40
+
+288,459
+
+14,011
+
+12,167
+
+12,608
+
+141,541
+
+173,964
+
+4,448
+
+0.68
+
+21
+
+5,830
+
+0.83
+
+28
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+CES Head Office        Common Area
+
+CES Head Office        Common Area
+
+Environment
+
+98,304
+
+103,601
+
+90,825
+
+1,041,203
+
+1,263,604
+
+881,916
+
+39
+
+42
+
+44
+
+374
+
+442
+
+534
+
+
+21
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+People
+
+We are committed to building a workplace where our people 
+
+can realise their full professional and personal potential. 
+
+We consider employees as our most important resource. 
+
+Our human resource policies promote fair employment and 
+
+overall well-being of our people. Ensuring safety at the 
+
+workplace is our foremost priority.
+
+
+
+EMPLOYMENT
+
+We employed 361 full-time employees for construction 
+
+and property development, all of whom were on 
+
+permanent job contracts, as at the end of 2017. There 
+
+were only two part-time employees. We hired 53 new 
+
+employees during the year.
+
+In addition, we employed 399 foreign construction 
+
+workers. The Ministry of Manpower (MOM) regulates 
+
+the hiring of foreign construction workers in Singapore.
+
+We have a relatively younger workforce. The average 
+
+age of our employees is 36.8 years.
+
+DIVERSITY
+
+We are proud of our diverse workforce comprising 
+
+different backgrounds. The CES Group is an equal 
+
+opportunity employer. Maintaining workplace diversity 
+
+in terms of gender, age, experience and culture is 
+
+important to us. As such, our workplace policies 
+
+encourage hiring, rewarding and promoting based 
+
+on merit.
+
+As at the end of 2017, women represented 32% of our 
+
+full-time employees. Women held 31% of supervisory 
+
+and managerial positions. The proportion of women in 
+
+the new hires was 42%.
+
+Jurong West N6C31
+
+
+22
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+We have an ethnically diverse workforce represented 
+
+by members of different races. Our people also come 
+
+from different age groups.
+
+TRAINING
+
+We believe that ongoing training is crucial for 
+
+retaining and developing talent. We provide regular 
+
+training opportunities for our people to enhance their 
+
+professional development. 
+
+In 2017, we organised training on more than 70 topics, 
+
+including: workplace safety, health and environmental 
+
+management, sustainability reporting, quality and 
+
+productivity, lean construction, best practices for 
+
+green and gracious builders, earth control measures, 
+
+construction regulations, service excellence, virtual 
+
+design and construction, contract management, and 
+
+managerial skills development.
+
+UPGRADING WORKFORCE SKILLS
+
+We have implemented a programme to help Basic-
+
+Skilled foreign construction workers upgrade to the 
+
+Higher-Skilled R1 category in accordance with the 
+
+criteria set out by the MOM. Investing in upgrading 
+
+skills means higher productivity and a lower levy that 
+
+we need to pay. Also, Higher-Skilled workers can be 
+
+employed for an extended period of up to 22 years 
+
+instead of just 10 years for Basic-Skilled workers.
+
+In 2017, 131 workers were successfully upgraded to the 
+
+Higher-Skilled category. These workers had received a 
+
+combined 4,540 hours of training in a variety of trades. 
+
+Some of the training topics included: reinforced 
+
+concrete works, electrical works, gas pipefitting 
+
+works, plumbing and piping works, construction plant 
+
+operation (non-lifting), supervisor (structural) and 
+
+supervisor (architectural).
+
+PROMOTING WORKPLACE SAFETY
+
+Workplace safety is crucial to our success in the 
+
+construction business. In Singapore, the construction 
+
+sector continues to be the top contributor of accidents, 
+
+accounting for 36% of all workplace fatalities, 
+
+according to the WSH National Statistics Report 2017. 
+
+We are committed to providing a safe and healthy 
+
+workplace for our workers and contractors. Safety and 
+
+health are at the core of our QESH system and our 
+
+target is to have zero workplace accidents. 
+
+We are focused on building a culture of safety across 
+
+the Group.
+
+For each project, we conduct a thorough risk 
+
+assessment to identify and mitigate safety hazards. 
+
+We ensure compliance with safety regulations and 
+
+align our work processes with industry standards for 
+
+safe construction.
+
+Our employees receive frequent safety briefings and 
+
+trainings to understand safety risks inherent in various 
+
+construction activities and to learn safe work practices.
+
+People
+
+
+23
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+DRIVING SAFETY THROUGH INNOVATION
+
+We continuously explore new methods to lower the 
+
+risk of injury in structural installations. For instance, 
+
+our subsidiary Chip Eng Seng Contractors (1988) Pte 
+
+Ltd developed the Z-Bracket, which is a lightweight 
+
+steel hollow section with a pipe socket at one end. This 
+
+enables the leg of a scaffolding frame to be seamlessly 
+
+slotted into it. The principal advantage of this simple 
+
+yet useful product is that it allows the scaffolding 
+
+structure to be directly clamped onto the parapet wall, 
+
+providing added stability and eliminating the need to 
+
+set up extensive scaffolding at a building’s exterior.
+
+We track and regularly review the safety performance 
+
+at our construction sites against critical indicators. 
+
+A summary of our safety record is presented below.
+
+YEAR 
+
+ACCIDENT 
+
+WORKPLACE 
+
+ACCIDENT 
+
+NUMBER OF 
+
+OCCUPATIONAL
+
+ 
+
+FREQUENCY 
+
+INJURY RATE 
+
+SEVERITY RATE 
+
+FATALITIES 
+
+DISEASE
+
+ 
+
+RATE (AFR) 
+
+(WIR) 
+
+ (ASR) 
+
+ 
+
+INCIDENCE RATE
+
+2015 
+
+1.3 
+
+300.5 
+
+60.1 
+
+0 
+
+0
+
+2016 
+
+0.2 
+
+57.9 
+
+19.0 
+
+0 
+
+0
+
+2017 
+
+0.3 
+
+103.0 
+
+14.6 
+
+0 
+
+0
+
+Calculation formula: 
+
+AFR = (No. of Injuries / Total Man Hours) x 1,000,000
+
+WIR = (No. of Injuries / Total Manpower) x 100,000
+
+ASR = (Lost of Man Day / Total Man Hours) x 1,000,000
+
+People
+
+
+24
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+HUMAN RIGHTS
+
+We respect the principles of human rights protected by 
+
+national laws and enshrined in internationally accepted 
+
+conventions of the UN and the International Labour 
+
+Organisation, including: 
+
+a) Non-discrimination: we prohibit discrimination in 
+
+employment on any grounds, including gender, age, 
+
+race, ethnicity, religion, marital status, pregnancy 
+
+and disability;
+
+b) Child Labour: We prohibit child labour in our 
+
+operations and expect our suppliers to ensure the 
+
+same standards;
+
+c) Forced Labour: We prohibit forced labour in our 
+
+operations and expect our suppliers to ensure the 
+
+same standards;
+
+d) Freedom of Association and Right to Collective 
+
+Bargaining: We respect our employees’ right to 
+
+freedom of association and collective bargaining in 
+
+accordance with local laws. Currently, CES does not 
+
+have a collective bargaining agreement with any 
+
+union. Our employees, however, have the right 
+
+ 
+
+and freedom to raise any matter of concern freely 
+
+with their supervisors, the HR department or the 
+
+senior management.
+
+There was no incidence of non-compliance relating 
+
+to non-discrimination, child labour, forced labour and 
+
+freedom of association in the reported period.
+
+RETENTION
+
+Hiring and retaining competent and talented 
+
+employees is vital for us. We provide a professional 
+
+working environment built on mutual respect and trust. 
+
+We invest in developing our people through regular 
+
+training and ensure a fair performance assessment and 
+
+reward system.
+
+EMPLOYEE BENEFITS
+
+We offer competitive compensation, bonuses and 
+
+performance-based wage increments to attract and 
+
+retain talent. Our employees are eligible for a range 
+
+of benefits. The leave benefits include annual leave, 
+
+enhanced child care leave, marriage leave, medical and 
+
+hospitalisation leave, and compassionate leave. The 
+
+insurance benefits include Group H&amp;S Insurance, travel 
+
+insurance and Work Injury Compensation Insurance. 
+
+Other staff benefits include the company annual 
+
+dinner, management recreation, festival gatherings, 
+
+bereavement donations and wreaths, newborn baby 
+
+gifts and long service award.
+
+CARING FOR FOREIGN CONSTRUCTION WORKERS
+
+We employed 399 foreign construction workers as at 
+
+the end of 2017. We hire foreign construction workers 
+
+from source countries approved by the MOM. MOM 
+
+regulates the hiring of foreign construction workers 
+
+in Singapore and requires all foreign construction 
+
+workers to attend the Construction Safety Orientation 
+
+Course or the Apply Workplace Safety and Health in 
+
+Construction Sites training.
+
+We provide housing facility to our foreign workers in 
+
+approved dormitories fitted with modern amenities. 
+
+The facilities and services at the dormitories include 
+
+dedicated cooking areas, laundry and recreational 
+
+facilities such as gym and outdoor games courts.
+
+Our construction workers receive welfare benefits 
+
+which include free Wifi at quarters on construction 
+
+sites, televisions at the canteen and washing machines.
+
+WORKER WELFARE
+
+The welfare of our workers is an important aspect 
+
+of our human resources management. We provide 
+
+transport facilities to workers to travel between their 
+
+dormitory and the construction site. The worker 
+
+dormitories are equipped with entertainment facilities 
+
+such as television, wireless internet and common 
+
+areas for leisure activities. We have also provided 
+
+bicycle parking areas for workers as many of them use 
+
+bicycles to travel.
+
+We organise a number of recreational activities for the 
+
+workers which include sports competitions, birthday 
+
+celebrations, fruit day and barbeque parties during 
+
+festive periods. 
+
+Workers who perform exceptionally well during the 
+
+month also receive monetary rewards and a certificate 
+
+of appreciation.
+
+People
+
+
+25
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+OUR PEOPLE PERFORMANCE
+
+Total Number of Employees
+
+Gender Diversity - 2017
+
+Employee Profile - 2017
+
+Employees by Age Group - 2017
+
+Ethnic Diversity
+
+Employees by Category
+
+414
+
+32%
+
+14%
+
+45%
+
+68%
+
+41%
+
+368
+
+361
+
+2015
+
+Senior
+
+Management
+
+Middle
+
+Management
+
+Executives
+
+Non-Executives
+
+Male        Female
+
+Male        Female
+
+Male        Female
+
+Male        Female
+
+Citizens        PRs        Foreigners
+
+2016
+
+2017
+
+68%
+
+61%
+
+3%
+
+19%
+
+18%
+
+13%
+
+18%
+
+&lt;30 years        30-50 years        &gt;50 years
+
+Chinese        Malay        Indian        Others
+
+Gender Diversity of Supervisions and Managers
+
+Number of Employees by Age and Gender - 2017
+
+2015
+
+2016
+
+2017
+
+&lt;30 years
+
+30-50 years
+
+&gt;50 years
+
+People
+
+23
+
+33
+
+46
+
+143
+
+6
+
+20
+
+18
+
+74
+
+71%
+
+71%
+
+69%
+
+29%
+
+29%
+
+31%
+
+33
+
+55
+
+157
+
+15
+
+13
+
+90
+
+
+26
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+Average Training Hours per Employee
+
+Average Training Hours per Gender
+
+New Hiring by Age and Gender - 2017
+
+Average Training Hours by Employment Category
+
+New Hiring
+
+Employee Turnover Rate (%)
+
+Average Training Expenditure per Employee ($)
+
+Foreign Construction Workers
+
+6.5
+
+62
+
+26.4
+
+21.6
+
+16.8
+
+21.6
+
+20.4
+
+21.2
+
+194
+
+752
+
+6.9
+
+34
+
+196
+
+587
+
+8.6
+
+53
+
+275
+
+399
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+2015
+
+&lt;30 years
+
+Senior Management
+
+Middle Management
+
+Executives
+
+2015
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+2016
+
+30-50 years
+
+&gt;50 years
+
+2016
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+2017
+
+7.4
+
+12
+
+26.7
+
+11.8
+
+6.9
+
+16
+
+25.2
+
+19.3
+
+10.0
+
+3
+
+18.4
+
+8.1
+
+4.4
+
+8
+
+25.8
+
+4.0
+
+6.7
+
+13
+
+13.4
+
+5.0
+
+5.9
+
+1
+
+13.6
+
+6.2
+
+Employee Turnover Rate by Age Group (%)
+
+2015
+
+2016
+
+2017
+
+34.7
+
+26.8
+
+16.7
+
+24.9
+
+22.4
+
+16.6
+
+23.5
+
+14.1
+
+17.7
+
+Male        Female
+
+Male        Female
+
+Male        Female
+
+Male        Female
+
+CES        Construction Industry Average*
+
+(Source: Ministry of Manpower)
+
+&lt;30 years        30-50 years        &gt;50 years
+
+
+27
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+As one of the leading property development and
+
+construction companies in Singapore, we are 
+
+committed to quality building standards. We 
+
+continuously upgrade and maintain our equipment to 
+
+ensure that we use the most advanced and efficient 
+
+construction technologies available.
+
+Housing is a significant financial and emotional 
+
+investment for homeowners. We have made it our 
+
+top priority to develop and construct high-quality 
+
+homes with stringent standards of workmanship. 
+
+The high quality of construction ensures the future 
+
+marketability of our projects.
+
+We have completed all our projects ahead of schedule 
+
+or well within the target timeline. We are equally 
+
+committed to the highest safety standards for our 
+
+construction and development projects.
+
+Over the years, we have established a good track 
+
+record for ourselves, including the honour of building 
+
+the biggest and tallest public housing project in 
+
+Singapore: The Pinnacle@Duxton.
+
+GREEN CONSTRUCTION
+
+We have adopted environmentally friendly construction 
+
+standards and technologies to assure our customers 
+
+of a green home. Our dedication to eco-friendly 
+
+buildings is reflected in the multiple awards we have 
+
+won over the years. In 2017, our group companies CES 
+
+Engineering &amp; Construction Pte Ltd and Chip Eng Seng 
+
+Contractors (1988) Pte Ltd received the BCA Green and 
+
+Gracious Builder Award - Excellent.
+
+Customers
+
+We are committed to building high standard houses 
+
+for outstanding living quality.   
+
+
+
+Woodlands N1C26 &amp; C27
+
+
+28
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+QUALITY AND SAFETY STANDARDS
+
+We insist on exacting safety standards as well as 
+
+excellent design and workmanship to ensure the 
+
+safety and well-being of the occupants in the housing 
+
+we build.
+
+Our approach to safe design and construction 
+
+focuses on structural stability, high quality materials 
+
+and dedicated workmanship. We employ qualified 
+
+and experienced teams of architects, engineers and 
+
+technical staff to ensure that each project meets our 
+
+stringent norms of quality and safety.
+
+We build our projects in strict compliance with building 
+
+regulations and standards. We participate in the 
+
+Construction Quality Assessment System (CONQUAS), 
+
+introduced by BCA to benchmark our workmanship on 
+
+a national basis.  The average CONQUAS scores of our 
+
+two projects completed in 2017 was 90.8 as against the 
+
+national average of 88.9. The average score of the two 
+
+projects completed in 2016 was 92.4, higher than the 
+
+national average of 88.7.
+
+SUB-CONTRACTORS
+
+Our Quality, Environmental, Health and Safety (QEHS) 
+
+policies also cover our sub-contractors to ensure safety 
+
+and compliance at our construction sites. Preference 
+
+is given to the suppliers and subcontractors who have 
+
+obtained bizSAFE level 3 certification for workplace 
+
+safety and health. 
+
+We ensure ongoing engagement with subcontractors 
+
+through regular meetings, reviews, training and 
+
+briefing sessions to help them achieve the required 
+
+quality and EHS standards. 
+
+Subcontractors’ EHS performance is reviewed every 
+
+six months. We have also instituted annual awards to 
+
+recognise subcontractors for their EHS performance.
+
+SHARING BEST PRACTICES
+
+We welcome opportunities to share our QEHS best 
+
+practices with peers. In 2016, we worked with the 
+
+Workplace Safety and Health Council (WSHC) to host 
+
+a visit to one of Chip Eng Seng’s HDB project sites, to 
+
+showcase and share with forum participants the safety 
+
+controls we adopt for high-risk work activities. We also 
+
+conducted a site visit for 60 participants from six HDB 
+
+worksites in Tampines, to share and learn from each 
+
+other’s best practices in QEHS standards.
+
+COMPLIANCE
+
+We are committed to running our business responsibly 
+
+and in accordance with applicable laws and regulations. 
+
+We regularly review and monitor our policies and 
+
+practices with regard to regulatory requirements. We 
+
+disseminate regulatory updates to the relevant staff to 
+
+help them stay up to date with legal requirements.
+
+We have put in place systems to ensure compliance 
+
+with all the relevant laws and regulations, including but 
+
+not limited to the requirements issued by MOM 
+
+and BCA.
+
+There were no significant fines in the stated period for 
+
+non-compliance with laws in the social and economic 
+
+area.
+
+CUSTOMER PRIVACY
+
+The Group is committed to safeguarding personal data, 
+
+including customers’ personal information. We manage 
+
+personal data in compliance with the Singapore 
+
+Personal Data Protection Act.
+
+Customers
+
+
+29
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+We contribute to a number of social causes, including 
+
+the arts, education and healthcare. We work closely 
+
+with Singapore’s construction community and non-
+
+profit organisations to provide support for various 
+
+philanthropic projects through giving and fund-raising 
+
+efforts. We also encourage our employees to volunteer 
+
+in community initiatives.
+
+In 2017, our donations for various community 
+
+programmes amounted to $278,373. We have donated 
+
+$1.75 million in the last three years to a broad range of 
+
+social organisations. 
+
+The main beneficiaries of our giving programme in 
+
+2017 included Ren Ci Hospital, Singapore 
+
+Thong Chai Medical Institution, Yellow Ribbon Fund, 
+
+PAP Community Foundation, and Singapore 
+
+Chinese Orchestra.
+
+Our Group companies and employees also participated 
+
+in several community programmes throughout the 
+
+year.
+
+Park Hotel Alexandra (PHAL) partnered with Rainbow 
+
+Centre Singapore, a non-profit organisation for 
+
+children with special needs, to organise a work 
+
+experience programme for youths above the age of 17 
+
+years. Under the initiative, 18 children were invited to 
+
+the hotel to learn tasks related to housekeeping, food 
+
+and beverage, culinary, and bell services. 
+
+At the start of the year, employee volunteers from 
+
+CES and PHAL visited Rainbow Centre, assisting 
+
+in decorating the school for the Chinese New Year 
+
+celebrations and distributing mandarin oranges to 
+
+mark the festivities.
+
+CES and PHAL employee volunteers also helped to 
+
+raise awareness for autism by supporting the Autism 
+
+in the Community,, a joint initiative by five voluntary 
+
+welfare organisations that include Autism Resource 
+
+Centre, Autism Association of Singapore, St Andrew’s 
+
+Autism Centre, Asian Women Welfare Association and 
+
+Rainbow Centre. In support of the programme, Park 
+
+Hotel’s façade light and Aqua Luna bar’s lighting was 
+
+turned to blue, the colour representing autism. Non-
+
+uniformed staff also wore at least one blue accessory 
+
+for the month of April to build awareness about autism.
+
+Eight volunteers from PHAL assisted in Rainbow 
+
+Centre’s 30th Anniversary celebrations by packing 
+
+goodie bags to be distributed to the event’s guests.
+
+Along with the students, their parents and teachers 
+
+from Rainbow Centre, six PHAL volunteers took part 
+
+in the Standard Chartered Ekiden Marathon, where 
+
+each team of six runners brought their training and 
+
+teamwork together to complete a 42.192km run. PHAL 
+
+and the Centre’s participants participated in weekly 
+
+training sessions over a period of three months to 
+
+prepare for the marathon.
+
+Community
+
+We are committed to being 
+
+a responsible corporate citizen.
+
+
+30
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+Our detailed financial performance is covered in the 
+
+Annual Report section of this report. In line with the 
+
+GRI Standards, we have presented a brief account 
+
+of our economic performance extracted from our 
+
+financial statements.
+
+ETHICS AND INTEGRITY
+
+We are committed to fostering a culture of ethics and 
+
+integrity across the Group. We have strict policies in 
+
+place to prevent conflict of interest, misconduct and 
+
+unethical or immoral behaviour, including receiving or 
+
+giving bribes in any form.
+
+There were no confirmed incidents of corruption in the 
+
+reported period.
+
+Economic Performance
+
+We are committed to long-term value creation for 
+
+our shareholders and stakeholders through the pursuit of 
+
+sustainable business growth strategies.
+
+ECONOMIC PERFORMANCE ($’000)
+
+Revenue by segment 
+
+2015 
+
+2016 
+
+2017
+
+Sale of development properties 
+
+347,498  
+
+411,727  
+
+571,682 
+
+Construction revenue 
+
+305,759  
+
+298,213  
+
+239,308 
+
+Others 
+
+ 
+
+23,195  
+
+38,055  
+
+48,733 
+
+Total Revenue 
+
+676,452  
+
+747,995  
+
+859,723 
+
+Profit for the year 
+
+57,246  
+
+ 51,724  
+
+55,774 
+
+Employee wages and benefits (including directors) 
+
+60,454  
+
+ 56,114  
+
+62,688 
+
+Income taxes paid 
+
+27,180  
+
+34,244  
+
+22,240 
+
+Dividends to shareholders 
+
+37,384  
+
+24,841  
+
+24,841
+
+
+31
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI Content Index 
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD  
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+GENERAL DISCLOSURES
+
+GRI 102:  
+
+Organisational Profile
+
+GENERAL
+
+ 
+
+102-1 Name of the organisation 
+
+Cover page
+
+DISCLOSURES
+
+ 
+
+102-2 Activities, brands, products, and services 
+
+Annual Report (AR) 
+
+2016
+
+ 
+
+ 
+
+ 
+
+ 2017: 14-15, 28
+
+ 
+
+102-3 Location of headquarters 
+
+Singapore
+
+ 
+
+102-4 Location of operations  
+
+AR 2017: 14-15, 16-17, 28-31
+
+ 
+
+102-5 Ownership and legal form 
+
+AR 2017: 36
+
+ 
+
+102-6 Markets served 
+
+ 
+
+ AR 2017: 14-15, 16-17
+
+ 
+
+102-7 Scale of the organisation 
+
+AR 2017:16-17, 18-19,
+
+ 
+
+ 
+
+ 
+
+ Sustainability Report (SR):  
+
+ 
+
+ 
+
+ 
+
+ page 3
+
+ 
+
+102-8 Information on employees and other workers 
+
+3, 25-26
+
+ 
+
+102-9 Supply chain 
+
+ 
+
+ 5, 28
+
+ 
+
+102-10 Significant changes to the organisation and its supply chain 
+
+None
+
+ 
+
+102-11 Precautionary Principle or approach 
+
+6, 15
+
+ 
+
+102-12 External initiatives 
+
+ 
+
+ 2, 7
+
+ 
+
+102-13 Membership of associations 
+
+5
+
+ 
+
+Strategy
+
+ 
+
+102-14 Statement from senior decision-maker 
+
+AR 2017: 10-13, SR: 7
+
+ 
+
+Ethics and Integrity
+
+ 
+
+102-16 Values, principles, standards, and norms of behaviour 
+
+2
+
+ 
+
+Governance
+
+ 
+
+102-18 Governance structure  
+
+AR 2017: 36-54
+
+ 
+
+Stakeholder Engagement
+
+ 
+
+102-40 List of stakeholder groups 
+
+5
+
+ 
+
+102-41 Collective bargaining agreements 
+
+24
+
+ 
+
+102-42 Identifying and selecting stakeholders 
+
+4-5
+
+ 
+
+102-43 Approach to stakeholder engagement 
+
+4-5 
+
+ 
+
+102-44 Key topics and concerns raised 
+
+4-5
+
+
+32
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD  
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+GENERAL DISCLOSURES
+
+ 
+
+Reporting Practice
+
+ 
+
+102-45 Entities included in the consolidated financial statements AR 2017: 76-80
+
+ 
+
+102-46 Defining report content and topic boundaries 
+
+8-10 
+
+ 
+
+102-47 List of material topics  
+
+8-10 
+
+ 
+
+102-48 Restatements of information 
+
+2 
+
+ 
+
+102-49 Changes in reporting  
+
+Not applicable 
+
+ 
+
+ 
+
+ 
+
+as it is our first SR
+
+ 
+
+102-50 Reporting period 
+
+ 
+
+1
+
+ 
+
+102-51 Date of most recent report 
+
+Not applicable
+
+ 
+
+ 
+
+ 
+
+as it is our first SR
+
+ 
+
+102-52 Reporting cycle 
+
+ 
+
+Annual
+
+ 
+
+102-53 Contact point for questions regarding the report 
+
+2 
+
+ 
+
+102-54 Claims of reporting in accordance with the GRI Standards 1
+
+ 
+
+102-55 GRI content index 
+
+ 
+
+31
+
+ 
+
+102-56 External assurance 
+
+ 
+
+2
+
+ECONOMIC PERFORMANCE
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+10
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+10-11, 30
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+30
+
+GRI 201:  
+
+201-1 Direct economic value generated and distributed 
+
+30
+
+Economic
+
+ 
+
+performance 
+
+ 
+
+ANTI-CORRUPTION
+
+GRI 103: 
+
+103-1 Explanation of the material topic and its boundaries 
+
+10-11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+30
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+30
+
+GRI 205:  
+
+205-3 Confirmed incidents of corruption and actions taken 
+
+30
+
+Anti-corruption
+
+ 
+
+GRI Content Index 
+
+
+33
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD  
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+ENERGY
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+8, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+8, 11, 15-16
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+15-16
+
+GRI 302:  
+
+302-1 Energy consumption within the organisation 
+
+16, 19
+
+Energy
+
+ 
+
+302-3 Energy intensity 
+
+ 
+
+16, 19
+
+WATER
+
+GRI 103: 
+
+103-1 Explanation of the material topic and its boundaries 
+
+8, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+8, 11, 17
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+17
+
+GRI 303:  
+
+303-1 Water withdrawal by source 
+
+17, 22
+
+Water
+
+EMISSIONS 
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+8, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+8, 11, 15-16
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+15-16, 17
+
+GRI 305: 
+
+305-1 Direct (scope 1) GHG emissions 
+
+17, 19
+
+Emissions
+
+ 
+
+305-2 Energy indirect (Scope 2) GHG emissions 
+
+17, 19
+
+ 
+
+305-4 GHG emission intensity 
+
+17, 19
+
+WASTE
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+8, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+8, 11, 15-16, 17
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+15-16, 17
+
+GRI 306:  
+
+306-2 Waste by type and disposal methods 
+
+17, 20
+
+Effluents
+
+ 
+
+and waste
+
+ 
+
+GRI Content Index 
+
+
+34
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD 
+
+ 
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+ENVIRONMENTAL COMPLIANCE
+
+GRI 103: 
+
+103-1 Explanation of the material topic and its boundaries 
+
+8, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+8, 11, 15-16
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+15-16, 17
+
+GRI 307:  
+
+307-1 Non-compliance with environmental laws 
+
+18
+
+Environmental
+
+ 
+
+and regulations.
+
+compliance
+
+ 
+
+EMPLOYMENT
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 21
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 21
+
+GRI 401:  
+
+401-1 New Employee hires and employee turnover 
+
+26
+
+Employment
+
+ 
+
+401-2 Benefits provided to full-time employees that are not  
+
+24
+
+ 
+
+provided to temporary or part-time employees  
+
+OCCUPATIONAL HEALTH AND SAFETY
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 22
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 22
+
+GRI 403:  
+
+403-1 Workers representation in formal joint  
+
+22
+
+Occupational  
+
+management-worker health and safety committees
+
+health and safety
+
+ 
+
+403-2 Types of injury and rate of injury,  
+
+23
+
+ 
+
+occupational diseases, lost days, and absenteeism, 
+
+ 
+
+and number of work-related fatalities.
+
+ 
+
+GRI Content Index 
+
+
+35
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD  
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+TRAINING AND EDUCATION
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 22
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 22
+
+GRI 404:  
+
+404-1 Average hours of training per year per employee 
+
+26
+
+Training
+
+ 
+
+404-2 Programs for upgrading employee skills and transition 
+
+22
+
+and education
+
+ 
+
+assistance programs
+
+ 
+
+ 
+
+404-3 Percentage of employees receiving regular performance  
+
+24
+
+ 
+
+and career development reviews 
+
+DIVERSITY AND EQUAL OPPORTUNITIES
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 21
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 21
+
+GRI 405:  
+
+405-1 Diversity of governance bodies and employees 
+
+21, 25
+
+Diversity 
+
+ 
+
+ 
+
+and Equal
+
+opportunity
+
+NON-DISCRIMINATION
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 24
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 24
+
+GRI 406:  
+
+406-1 Incidents of discrimination and corrective actions taken 
+
+24
+
+Non-
+
+Discrimination
+
+ 
+
+FREEDOM OF ASSOCIATION AND COLLECTIVE BARGAINING
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 24
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 24
+
+GRI 407:  
+
+407-1 Operations and suppliers in which the right to  
+
+24
+
+Freedom of
+
+ 
+
+freedom of association and collective bargaining may be at risk 
+
+association and
+
+ 
+
+collective
+
+ 
+
+bargaining
+
+ 
+
+GRI Content Index 
+
+
+36
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+GRI CONTENT INDEX 
+
+‘In accordance’ – Core
+
+GRI STANDARD  
+
+DISCLOSURE 
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+CHILD LABOUR
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 24
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 24
+
+GRI 408:  
+
+408-1 Operations and supplier at significant risk for incidence 
+
+24
+
+Child Labour
+
+ 
+
+of Child Labour
+
+ 
+
+FORCED, OR COMPULSORY LABOUR
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+9, 11
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+9, 11, 24
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+9, 11, 24
+
+GRI 409:  
+
+409-1 Operations and supplier at significant risk for incidence  
+
+24
+
+Forced or
+
+ 
+
+of forced or compulsory labour
+
+ 
+
+compulsory
+
+ 
+
+labour
+
+ 
+
+CUSTOMER PRIVACY
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+10
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+10, 28
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+10, 28
+
+GRI 418:  
+
+418-1 Substantiated complaints concerning breaches of customer  
+
+28
+
+Marketing  
+
+privacy and losses of customer data 
+
+and labelling 
+
+SOCIO-ECONOMIC COMPLIANCE
+
+GRI 103:  
+
+103-1 Explanation of the material topic and its boundaries 
+
+10
+
+Management
+
+ 
+
+103-2 The management approach and its components 
+
+10, 30
+
+approach
+
+ 
+
+103-3 Evaluation of the management approach 
+
+30
+
+GRI 419:  
+
+419-1 Non-compliance with laws and regulations in the social 
+
+30
+
+Socio-economic and economic area
+
+compliance
+
+GRI Content Index 
+
+
+37
+
+CHIP ENG SENG CORPORATION LTD
+
+SUSTAINABILITY REPORT 2017
+
+171 Chin Swee Road
+
+#12-01 CES Centre 
+
+Singapore 169877
+
+Tel: +65 6801 0088
+
+Fax: +65 6801 0038
+
+Email: sustainability@chipengseng.com.sg
+
+Website: www.chipengseng.com.sg
+
+Co. Reg. No. 199805196H
+

@@ -1,0 +1,4422 @@
+
+
+
+aDVaNCING OUR JOURNEY
+
+OF SUSTaINaBILITY
+
+SuStainability RepoRt 2018
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+About the Group
+
+1
+
+About this Report
+
+3
+
+Board Statement
+
+4
+
+Sustainability Governance
+
+5
+
+Sustainability Risks and Opportunities
+
+6
+
+Stakeholder Engagement
+
+8
+
+Boundaries of Material Factors
+
+10
+
+Operating Responsibly
+
+11
+
+Caring for Employees
+
+15
+
+Protecting the Environment
+
+18
+
+Engaging the Community
+
+23
+
+GRI-SGX Content Index
+
+24
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+1
+
+CDW Holding Limited (“CDW”) is listed (Stock Code: BXE) on Singapore Exchange Limited (“SGX”). Led by a 
+
+Japanese management team, CDW is a precision components specialist serving the global market focusing 
+
+on the production and supply of niche precision components for mobile communication equipment, game box 
+
+entertainment equipment, consumer and information technology equipment, office equipment and electrical 
+
+appliances. CDW and its subsidiaries1  (collectively the “Group”) are headquartered in Hong Kong, the People’s 
+
+Republic of China (“PRC”), with operations located in different parts of PRC (including Hong Kong), Japan and 
+
+Korea. The Group specialises in manufacturing consumer electronics, with producers of mobile phones, office 
+
+equipment and electronic appliances as the key types of customers.  
+
+The Group’s principal activities are divided into 4 business segments: LCD Backlight Units, LCD Parts and 
+
+Accessories (including original equipment manufacturer (“OEM”) business), Office Automation, and Others 
+
+(including food and beverage, as well as life science businesses).  Details of the business segments and their 
+
+economic performances are listed in the table below:
+
+
+
+Business 
+
+Segment
+
+LCD Backlight 
+
+Units
+
+LCD Parts and 
+
+Accessories
+
+Office 
+
+Automation
+
+Others
+
+Operating 
+
+subsidiaries
+
+TM Hong Kong;
+
+CD Shanghai;
+
+TM Japan
+
+TM Hong Kong; 
+
+TM Pudong3, 
+
+TM Dongguan; 
+
+TM Japan; SMT 
+
+Hong Kong; SMT 
+
+Dongguan; MT Wuxi
+
+TM Hong Kong; 
+
+TM Shanghai; 
+
+TM Japan; WH 
+
+Hong Kong; WH 
+
+Dongguan; GCY 
+
+Shanghai
+
+A Bio2;
+
+CLS; TWB; GSP 
+
+Quantity of products 
+
+sold
+
+8.3 million units 
+
+n.a.
+
+n.a.
+
+n.a.
+
+Revenue (US$mn)
+
+38.4
+
+25.3
+
+25.2
+
+1.3
+
+Share of Group 
+
+revenue (%)
+
+42.6%
+
+28.0%
+
+27.9%
+
+1.5% 
+
+AbOuT
+
+ThE grOup
+
+1 The operating subsidiaries of CDW include: Tomoike Industrial (H.K.) Limited (“TM Hong Kong”), Crystal Display Components 
+
+(Shanghai) Co., Limited (“CD Shanghai”), Tomoike Precision Machinery (Dongguan) Co., Limited (“TM Dongguan”), Tomoike Industrial 
+
+Co., Limited (“TM Japan”), Tomoike Electronics (Shanghai) Co., Limited (“TM Pudong”), S.M.T. Assembly Limited (“SMT Hong 
+
+Kong”), Dongguan Dali S.M.T. Assembly Limited (“SMT Dongguan”), Minami Tec (Wuxi) Co., Limited (“MT Wuxi”), Tomoike Precision 
+
+Machinery (Shanghai) Co., Limited (“TM Shanghai”), Wah Hang Precision Machinery (H.K.) Limited (“WH Hong Kong”), Wah Hang 
+
+Precision Machinery (Dongguan) Limited (“WH Dongguan”), Shanghai Gu Chang Yu Printing Technology Co., Limited (“GCY 
+
+Shanghai”), A Biotech Co., Limited (“A Bio”), CDW Life Science Limited (“CLS”), TWB Co., Limited (“TWB”), and GSP Enterprise Inc. 
+
+(“GSP”) as of 31 December 2018.
+
+2 In 2018, A Bio was changed from a subsidiary to an associate of the Group for better development. A Bio will continue to perform 
+
+research and development on antibodies-related products with the co-operation of GSP.
+
+3 TM Pudong transferred its business to TM Shanghai and was sold in August 2018.
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+2
+
+
+
+
+
+In the reporting year, the total liabilities and total shareholders’ equity of the Group were 31.4 and 57.5 million US 
+
+dollars respectively. The net profit for the reporting year was 0.8 million US dollars. In 2018, the Group acquired 
+
+95% equity interest in GSP for research and development of an antibodies library and A Bio was incorporated in 
+
+Korea for application of biotechnology to research and develop antibodies-related products. In addition, the Group 
+
+had consolidated its operation of LCD Parts and Accessories segment in order to reduce the manufacturing and 
+
+operational overhead by transferring the business of TM Pudong to TM Shanghai. Both companies are the Group’s 
+
+wholly owned subsidiaries, and TM Pudong was subsequently sold to an independent third party. The turnover 
+
+across different geographical segments of the Group is illustrated in the graph below: 
+
+CDW’s mission is to become the leading global outsourcing partner for niche precision components for the mobile 
+
+communication, consumer and information technology equipment market.
+
+AbOuT
+
+ThE grOup
+
+Hong Kong
+
+China (excluding Hong Kong Special 
+
+Administrative Regions)
+
+Japan
+
+Others
+
+“The Group upholds the core value of knowledge, production capability and superior 
+
+quality, with the aim to provide professional services and fulfil customers’ needs, as 
+
+well as to become their most reliable business partner ultimately.”
+
+Turnover
+
+(US$’000)
+
+
+
+20,209
+
+(22.4%)
+
+1,003
+
+(1.1%)
+
+14,880
+
+(16.5%)
+
+54,154
+
+(60.0%)
+
+
+
+TOTAL = 90,246
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+3
+
+As the second Sustainability Report (the “report”) 
+
+published by CDW, this report continues to disclose 
+
+the policies, practices, targets and performances of 
+
+the Group in terms of the material environmental, 
+
+social and governmental factors that the Group has 
+
+identified. The report aims at enabling all stakeholders 
+
+to understand the progress and sustainability 
+
+directions of the Group. It has been uploaded to the 
+
+websites of SGX and CDW (www.cdw-holding.com.hk). 
+
+REPORTING BOUNDARY
+
+The report focuses on the operation of CDW’s 
+
+business segment of LCD backlight units between 
+
+January 2018 and December 2018 (the “reporting 
+
+year”). The reporting boundary covers the 
+
+manufacturing facility in Shanghai managed by Crystal 
+
+Display Components (Shanghai) Co., Limited (the “CD 
+
+Shanghai”), which is consistent with the reporting 
+
+boundary in the Sustainability Report 2017. While the 
+
+report does not fully cover the Group’s operations, 
+
+CDW plans to consistently refine the internal data 
+
+collection process and gradually expand the scope of 
+
+disclosure in the coming reporting years. 
+
+REPORTING STANDARD
+
+The report is prepared in accordance with the ‘comply 
+
+or explain’ provisions of SGX-ST Listing Rules 711A 
+
+(“LR 711A”) on sustainability reporting, as well 
+
+as the guidance set out in the Practice Note 7.6: 
+
+Sustainability Reporting Guide (“PN 7.6”) issued by 
+
+the SGX. The five reporting components prescribed by 
+
+the SGX-ST Listing Rules 711B (“LR 711B”) underline 
+
+the key structure of this report. It takes reference from 
+
+the sustainability reporting framework provided by 
+
+Global Reporting Initiatives (“GRI”), the GRI Standards 
+
+(version 2016 and 2018). The disclosures in this report 
+
+seeks to achieve the GRI’s Reporting Principles for 
+
+defining report quality – accuracy, balance, clarity, 
+
+comparability, reliability, and timeliness. 
+
+To ensure the reporting quality and credibility, CDW 
+
+commissioned a professional consultancy, Carbon 
+
+Care Asia, to conduct stakeholder engagement, 
+
+carbon assessment and report compilation. In addition 
+
+to the required disclosures provided by GRI, selected 
+
+topic-specific disclosures are included for enhanced 
+
+reporting. A complete GRI-SGX Content Index is 
+
+inserted in the last section.
+
+CONFIRMATION AND APPROVAL
+
+Information documented in this report is based 
+
+on official documents, statistics, and operational 
+
+information of and collected by CDW and CD Shanghai 
+
+according to Group’s policies. The report has received 
+
+the Board of Directors’ approval on May 31 of 2019.
+
+OPINION AND FEEDBACK
+
+CDW values the opinion of stakeholders for continual 
+
+improvement in sustainability performances. If you 
+
+have any questions or suggestions regarding the 
+
+content of the report, please contact CDW Holding 
+
+Limited via the following channels:
+
+Address: Room 6-10, 11th Floor, CCT Telecom 
+
+Building, 11 Wo Shing Street,
+
+Fo Tan, Shatin, New Territories, Hong Kong
+
+Email: mail@cdw-holding.com.hk
+
+Tel:  
+
++852 2634 1511 
+
+Fax:  +852 2690 3349
+
+AbOuT
+
+ThiS rEpOrT
+
+
+
+
+
+
+
+
+
+
+
+
+bOArd
+
+STATEmENT
+
+While rapid innovation and reducing costs have 
+
+increased access to digital products and technology, 
+
+it also led to the ballooning of electronic and electrical 
+
+waste. Each year, close to 50 million tonnes of 
+
+e-waste is produced, making it the fastest growing 
+
+waste stream. Notwithstanding e-waste’s detrimental 
+
+nature to health and environment, proper handling 
+
+and reduction of e-waste also present opportunities 
+
+for harvesting valuable materials and building a more 
+
+circular system in electronics industry.
+
+Committed to advancing sustainability, the Group 
+
+is aware of its role in reducing electronic waste and 
+
+has adopted an open approach to reorganising its 
+
+production processes. By simplifying the product 
+
+design, valuable materials can be saved to lessen 
+
+the burden on raw materials. This serves to lower the 
+
+overall environmental impact of the entire value chain 
+
+of our products.
+
+The input of our stakeholders is essential to achieving 
+
+our goals in relation to sustainability. We believe that 
+
+operational success hinges on the maintenance of 
+
+a regular dialogue with stakeholders. By engaging 
+
+external sustainability consultancy, we have launched 
+
+annual stakeholder engagement exercises and with the 
+
+focus this year on factory staff based in Shanghai. With 
+
+their feedback and consultancy analysis, we further 
+
+refined the material focuses of sustainability issues. 
+
+The results serve to guide us in formulating a more 
+
+relevant sustainability strategy with timely response to 
+
+stakeholders’ concern.
+
+The Group is prepared to face uncertainties, risks 
+
+and opportunities ahead, and has in place a risk 
+
+management system to identify risks and prepare 
+
+for mitigation measures. The future of automation 
+
+technology can fundamentally change the business 
+
+model of our industry. In response, the Group will 
+
+continuously enhance employee training to keep 
+
+abreast of emerging technologies and to ensure the 
+
+safety and wellbeing of employees.
+
+The Group is now preparing for the formal 
+
+establishment for a sustainability committee with 
+
+external expert advice. This new governance structure 
+
+will be responsible for the formulation of sustainability 
+
+policies and commitments and overseeing the 
+
+implementation of strategies. We believe that this will 
+
+allow us to engage in sustainability initiatives more 
+
+effectively and thereby achieve better performance in 
+
+environmental and social aspects.
+
+Makoto YOSHIKAWA
+
+Chief Executive Officer
+
+CDW Holding Limited
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+4
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+The Audit Committee of CDW’s Board of Directors 
+
+is responsible for overall sustainability management 
+
+of the Group. In addition, the Information Security 
+
+Committee of the Group is instituted to monitor the 
+
+use of customer information and to protect customer 
+
+privacy through its subsidiaries. In CD Shanghai, 
+
+the General Manager has been coordinating the 
+
+Environmental Management Committee to execute the 
+
+environmental impact assessment, internal controls, 
+
+environmental risk management, and operational 
+
+planning. 
+
+CD Shanghai’s operations have been accredited 
+
+with ISO 9001 Quality Management and ISO 14001 
+
+Environmental Management. Since a key product of 
+
+CD Shanghai is supplied to assemble information 
+
+display used in automobile, CD Shanghai operates in 
+
+line with the requirements of International Automotive 
+
+Task Force (IATF 16949: 2016 accredited). After 
+
+reviewing CDW’s current policies, the Group is 
+
+considering to subscribe to Core Conventions 
+
+of International Labour Organization. The Group 
+
+has commenced the planning of establishing a 
+
+Sustainability Committee to cope with the emergent 
+
+socio-environmental challenges. 
+
+SuSTAiNAbiliTy
+
+gOvErNANCE
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+5
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+6
+
+CDW considers risk management as an integral part of daily management processes and good corporate governance. 
+
+The Group’s Risk Management Policy sets out the way to respond to imminent risks in an efficient and responsible 
+
+manner. The Group recognizes that risk management is the responsibility of everyone working at CDW. Taking into 
+
+account the potential impacts of material sustainability topics on operation and strategic planning, the Group has 
+
+identified some potential risks and opportunities with the support of external consultants.  
+
+SuSTAiNAbiliTy
+
+riSkS ANd OppOrTuNiTiES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Risks
+
+Responses and Opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Talent attraction and retention
+
+Hiring and retaining skilled employees is a challenge for 
+
+manufacturing industry. Loss of skilled employees not 
+
+only makes the operations vulnerable but it also affects 
+
+the morale and confidence of internal stakeholders. 
+
+CDW’s production facilities in China are located in 
+
+areas where labour shortage is increasingly apparent. 
+
+Employment System and Procedures
+
+CDW recognises that fair employment system and 
+
+practices, supported with learning and development 
+
+opportunities are key pillars for engaging talents. 
+
+The Group has devised annual plan on training and 
+
+education in support of employee performance 
+
+development. 
+
+Product Responsibilities 
+
+Considering the Group serves a selective range of key 
+
+customers in its LCD backlight unit segment, prompt 
+
+reaction to the changes in product specification from 
+
+customers is of strategic importance. Any product 
+
+defect or non-compliance issues may result in loss 
+
+of customer trust. Meanwhile, since the Group relies 
+
+on specific suppliers, it is the Group’s responsibility to 
+
+assure technical capabilities of existing suppliers. 
+
+Product Quality Assurance 
+
+Apart from regulatory compliance, securing materials 
+
+and supply-chain products of optimal quality are 
+
+essential to operations. The Non-Conforming Product 
+
+Control Procedure provides executional process of 
+
+product assurance. Corrective and preventive actions 
+
+will be undertaken, which include product rework, 
+
+procedural optimisation and staff training. The Group 
+
+is developing new products to cater for changing 
+
+demands of the customers.
+
+Customer Privacy
+
+The Group collects personal data of customers and 
+
+suppliers in its business activities. There is security risk 
+
+in how businesses collect, handle, and store personal 
+
+data given the rapid change of cyber technologies. Any 
+
+loss or breach of customer privacy can result in not 
+
+only financial loss but also non-financial damage. 
+
+Data Protection Measures
+
+The Group has implemented a number of measures to 
+
+safeguard customer privacy, such as setting standards 
+
+and providing guidance for employees to follow 
+
+concerning editing, storage, modification and disposal 
+
+of customer information.
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+7
+
+SuSTAiNAbiliTy
+
+riSkS ANd OppOrTuNiTiES
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Risks
+
+Responses and Opportunities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Climate Change
+
+Greenhouse gas (“GHG”) emissions from manufacturing 
+
+facilities pose risk to current and future operations of 
+
+the Group in various geographic locations. Increasingly 
+
+stringent local and international requirements in 
+
+corporate carbon disclosures are affecting the climate 
+
+readiness of the Group. 
+
+Manufacture of LCD backlight unit is an energy-
+
+intensive 
+
+process. 
+
+Fossil-fuel 
+
+based 
+
+energy 
+
+consumption carries substantial carbon footprint. 
+
+More frequent heat stress can reduce productivity and 
+
+comfort level of employees in the working environment. 
+
+Energy and Resource Efficiency 
+
+The Group strives to enhance energy and resource 
+
+efficiency and adopt new technologies to reduce the 
+
+operating costs and GHG emission. The Environmental 
+
+Management System has been deployed to monitor 
+
+the emissions, consumption, and waste materials of 
+
+the production facility. 
+
+Alternative Energy Sources
+
+The Group may benefit from opportunities offered by 
+
+new types of energy supplies around the operation 
+
+areas, and be able to utilise policy incentives for energy 
+
+efficiency and renewable energy. 
+
+Regional Water Stress/ Drought
+
+Growing concern for global water stress is changing 
+
+businesses’ 
+
+behaviours 
+
+towards 
+
+responsible 
+
+consumption of water. As the production units of CDW 
+
+consume a significant amount of distilled water   during 
+
+production, introduction of new policies such as water 
+
+tariffs could be a key challenge to the Group. 
+
+Water Management
+
+To reduce pressure on freshwater resources in the 
+
+surrounding communities, the Group has established 
+
+procedures for recycling and reusing the withdrawn 
+
+water. As part of the Environmental Management 
+
+System of CD Shanghai, the Group actively monitors 
+
+its water consumption..
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+8
+
+Understanding and responding to the needs and ideas of stakeholders are key to achieving business sustainability and 
+
+satisfactory outcomes for stakeholders. The Group’s stakeholders are those who are materially influencing or affected 
+
+by the Group’s business. Stakeholders’ inputs lead the Group in shaping priorities and activities. 
+
+The Group constantly engages its key internal and external stakeholders through multiple channels, for instance, direct 
+
+mails, written reports, presentation, regular meetings, hotlines (e.g. whistleblowing hotlines), Annual General Meetings, 
+
+and announcements on SGXNet. In response to the changing needs and demands from local regulatory agencies 
+
+and community groups, the Group also regularly organizes meetings, seminars, community visits, study trips, and 
+
+community service activities to engage these groups of external stakeholders.
+
+MATERIALITY ANALYSIS
+
+Stakeholders’ feedback guides the Group to review potential risks and opportunities and formulate corresponding 
+
+sustainability strategy. CDW has engaged an external consultancy to conduct materiality assessment in the procedures 
+
+shown below. Building upon the materiality analysis results of 2017 reporting, the assessment has identified the material 
+
+topics for CDW and different stakeholder groups. 
+
+STAkEhOldEr
+
+ENgAgEmENT
+
+
+
+
+
+
+
+
+
+
+
+
+
+1
+
+
+
+
+
+
+
+
+
+
+
+
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+3
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+
+
+
+
+PROCEDURES FOR MATERIALITY ANALYSIS
+
+Identifiying Relevant 
+
+Topics
+
+Collecting Stakeholder 
+
+Feedback
+
+Assessing Material 
+
+Topics
+
+Validation
+
+Management 
+
+Interview:
+
+discussed management 
+
+approach to identify 
+
+material factors and 
+
+sustainability risks
+
+Expert Review:
+
+identified 27 relevant 
+
+topics
+
+Online questionaire:
+
+distributed links 
+
+to bilingual online 
+
+survey to 145 internal 
+
+stakeholders;
+
+collected 124 valid 
+
+responses (valid 
+
+response rate 86%)
+
+Materiality Matrix
+
+assessed the materiality 
+
+of each topic based on 
+
+the survey results and 
+
+developed a materiality 
+
+matrix (see figure below
+
+confirmed the material 
+
+topics for sustainability 
+
+reporting of 2018 by 
+
+CDW Board of Directors
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+9
+
+Environment
+
+7
+
+Materials
+
+8
+
+Energy
+
+9
+
+Water and Effluents
+
+10
+
+Biodiversity
+
+11
+
+Emissions
+
+12
+
+Waste
+
+13
+
+Environmental 
+
+Compliance
+
+14
+
+Supplier Environmental 
+
+Assessment
+
+Topics
+
+Critical 
+
+Factors
+
+Moderate 
+
+Factors
+
+Economy
+
+1
+
+Economic Performance
+
+2
+
+Market Presence
+
+3
+
+Indirect Economic 
+
+Impacts
+
+4
+
+Procurement Practices
+
+5
+
+Anti-corruption
+
+6
+
+Anti-competitive
+
+To gain a more thorough understanding of the expectations and interests of a wider range of the stakeholders, the 
+
+Group is considering to develop an engagement strategy based on the AA1000 Stakeholder Engagement Standard to 
+
+ensure engagement activities are carried out on a systematic and regular basis.
+
+Eight critical issues and six moderate issues in the areas of economy, environment and society have been identified, 
+
+which are to be addressed on in this report.
+
+STAkEhOldEr
+
+ENgAgEmENT
+
+Topics
+
+Critical 
+
+Factors
+
+Moderate 
+
+Factors
+
+Society
+
+15
+
+Employment System
+
+16
+
+Occupational Health &amp; 
+
+Saftey
+
+17
+
+Training &amp; Development
+
+18
+
+Diversity &amp; Equal 
+
+Opportunity
+
+19
+
+Non-discrimination
+
+20
+
+Child Labor
+
+21
+
+Forced or Compulsory 
+
+Labor
+
+22
+
+Local Communities
+
+23
+
+Supplier Social 
+
+Assessment
+
+24
+
+Customer Health &amp; 
+
+Safety
+
+25
+
+Marketing &amp; Labeling
+
+26
+
+Customer Privacy
+
+27
+
+Socioeconomic 
+
+Compliance
+
+
+
+
+
+
+
+2
+
+3
+
+1
+
+4
+
+10
+
+6
+
+18
+
+7
+
+23
+
+11
+
+14
+
+15
+
+22
+
+24
+
+5
+
+12
+
+25
+
+21
+
+13
+
+19
+
+20
+
+26
+
+27
+
+9
+
+17
+
+16
+
+8
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018 Materiality Matrix
+
+Business impact on the economy, environment and society
+
+Importance to Stakeholders
+
+Low
+
+Moderate
+
+Critical and
+
+Immediate
+
+
+
+
+Material Factors
+
+Impacts addressed 
+
+in this Report
+
+Boundaries
+
+Employees
+
+CDW and CD 
+
+Shanghai
+
+Suppliers
+
+Customers
+
+Regulatory agencies/ 
+
+governmental bodies
+
+Professional bodies
+
+Community/NGOs
+
+Shareholders/
+
+Investors
+
+26
+
+Customer Privacy
+
+Operating Responsibly, 
+
+Page 12, 14
+
+5
+
+Anti-corruption 
+
+Operating Responsibly, 
+
+Page 13-14
+
+24
+
+Customer Health 
+
+and Safety 
+
+Operating Responsibly, 
+
+Page 11, 14
+
+25
+
+Marketing and 
+
+Labeling
+
+Operating Responsibly, 
+
+Page 12, 14
+
+27
+
+Socioeconomic 
+
+Compliance
+
+Operating Responsibly 
+
+&amp; Caring for Employees, 
+
+Page 12, 16
+
+16
+
+Occupational Health 
+
+and Safety
+
+Caring for Employees, 
+
+Page 15-17
+
+20
+
+Child Labour 
+
+Caring for Employees, 
+
+Page 16-17
+
+21
+
+Forced or 
+
+Compulsory Labour
+
+Caring for Employees, 
+
+Page 16-17
+
+19
+
+Non-discrimination
+
+Caring for Employees, 
+
+Page 16-17
+
+17
+
+Training and 
+
+Development 
+
+Caring for Employees, 
+
+Page 17
+
+13
+
+Environmental 
+
+Compliance
+
+Protecting the 
+
+Environment, Page 18-22
+
+9
+
+Water and Effluents
+
+Protecting the 
+
+Environment, Page 21-22
+
+12
+
+Waste
+
+Protecting the 
+
+Environment, Page 21-22
+
+11
+
+Emissions
+
+Protecting the 
+
+Environment,
+
+Page 18-20, 22
+
+22
+
+Local Communities
+
+Engaging the Community, 
+
+Page 23
+
+The impact and influence of each material factor identified may have wider impacts beyond the business operations 
+
+of CDW or the Group itself, and thus require consideration. The table below summarizes where impacts occur for 
+
+each material factor. All topics are material within4  and outside5  of the Group. The Group will continue monitoring any 
+
+significant changes in the boundaries of material factors.
+
+bOuNdAriES Of
+
+mATEriAl fACTOrS
+
+4 The boundary for impacts within the Group aligns with the Reporting Boundary.
+
+5 The boundary for impacts outside the Group takes reference from the key external stakeholders identified for the reporting year.
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+10
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+11
+
+
+
+CDW endeavors to uphold the principles of business integrity and ethical operations in its business activities. As a 
+
+responsible and reliable producer, CDW aims to offer products that are safe and of consistent quality to its customers. 
+
+CDW has in place a range of policies and quality assurance procedures to ensure that the products produced and 
+
+sold by CD Shanghai (mainly LCD backlight units for  information display used in automobile and for various models of 
+
+gaming device) comply with the applicable regulatory requirements and customers’ expectations. 
+
+In line with the Strategic Control Procedures of Products Implementation and Non-conforming Product Procedure, CD 
+
+Shanghai has put in place a range of measures to ensure product safety and quality.  As part of the procedures, the 
+
+ISO Management Office of CD Shanghai is responsible for observing and communicating relevant regulatory standards 
+
+to customers during product development. CD Shanghai stipulates proper assembly of products in the production 
+
+process to prevent product safety incidents in the production lines and storage facilities, and during transportation. 
+
+Guidelines on product safety are communicated to employees in production line through training. In the event 
+
+of any raw material, production process or product subjects to product quality or safety issues, the Quality Control 
+
+Department is obliged to initiate investigation and implement corrective actions. 
+
+CUSTOMER HEALTH AND SAFETY
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+80% of LCD backlight units for information 
+
+display used in automobile are assessed against 
+
+specification of health and safety standards;
+
+Achieved
+
+Assessed 100% in accordance with 
+
+customers’ requirements during the reporting 
+
+year.  
+
+At least 96% passing rate of in-process inspection;
+
+Achieved
+
+Recorded a passing rate of 96.7% during 
+
+the reporting year.
+
+Over 96% qualification ratio under first acceptance 
+
+check 
+
+Achieved
+
+Recorded a qualification ratio of 98.61% 
+
+during the reporting year.
+
+Fewer than three times of customer complaints each 
+
+month 
+
+Achieved
+
+Recorded one incident of customer 
+
+complaints over the reporting year.
+
+Zero incident of non-compliance with regulations 
+
+concerning the health and safety impacts of LCD 
+
+backlight units produced
+
+Achieved
+
+No cases of such non-compliance incurred 
+
+during the reporting year.
+
+Distribution of business partners by geographic location
+
+China (excluding Special Administrative Regions)
+
+44
+
+Hong Kong
+
+1
+
+Japan
+
+4
+
+Other geographic locations
+
+0
+
+Overall 
+
+49
+
+Product quality is closely tied with procurement practices and supply chain management. To closely monitor the 
+
+performance of suppliers, CDW has established a supplier rating, reporting, and verification system. Suppliers are 
+
+required to render production part approval process (PPAP) verification reports. Japan-based manufacturers remain to 
+
+be the Group’s major suppliers due to the specific standard and high quality required by the Group’s customers.  
+
+OpErATiNg
+
+rESpONSibly
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+12
+
+Data privacy and data security are cornerstones of customer trust. It is the Group’s priority to safeguard customer 
+
+privacy and information security. CDW has a set of measures designed to protect data that it handles across its 
+
+operations. The Group’s provisional Information Security Policy underlines commitment and approach to protecting 
+
+customer privacy.
+
+In conjunction with the Information Security Policy, the Document Control Procedures and the Record Control 
+
+Procedures of CD Shanghai clarify the appropriate conduct of employees in circumstances such as editing, storage, 
+
+modification and disposal of customer specification documents. CD Shanghai’s Quality Manual sets out the standards 
+
+of operations to prevent loss, damage or improper use of information of customers and external suppliers. In written 
+
+contracts with customers, CD Shanghai pledges to exercise the duty of safeguarding customers’ confidential 
+
+information and intellectual property rights, including business secrets and know-hows. 
+
+At CD Shanghai, there were no incidents of substantiated complaints6 concerning breaches of customer privacy during 
+
+the reporting year, whether from external or internal parties; nor were there incidents of identified leaks, thefts, or losses 
+
+of customer data. 
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+100% control rate of technical documents provided 
+
+by customers
+
+Achieved
+
+Technical documents were recorded with 
+
+relevant inventories (such as a coded List of 
+
+Technical Drawings).  
+
+100% completion rate in the identification of 
+
+customer properties 
+
+Not 
+
+applicable
+
+No customer properties was managed by 
+
+CD Shanghai during the reporting year.
+
+Zero substantiated complaints6 received concerning 
+
+breaches of customer privacy
+
+Achieved
+
+No cases of substantiated complaints 
+
+incurred during the reporting year.
+
+CUSTOMER PRIVACY
+
+OpErATiNg
+
+rESpONSibly
+
+OpErATiNg
+
+rESpONSibly
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+Zero incident of non-compliance concerning 
+
+marketing communications and product information 
+
+labelling
+
+Achieved
+
+No cases of incidents incurred during the 
+
+reporting year.
+
+CUSTOMER COMMUNICATION
+
+6 A substantiated complaint refers to written statement by regulatory or similar official body addressed to CDW that identifies breaches 
+
+of customer privacy, or a complaint lodged against CDW that has been recognised as legitimate by CDW. 
+
+Customers’ rights to fair information is essential to maintaining satisfactory partnerships. Although the existing 
+
+customers of CD Shanghai are managed by the Group’s office in Japan, CD Shanghai has been monitoring client 
+
+needs, evaluating market intelligence and feedback, as well as executing marketing plan. In the product development 
+
+stage, CD Shanghai ensures effective communication with the customers to avoid misinformation.  
+
+The Group abides by laws and regulations in relation to ethical operations, such as the Contract Law of the People’s 
+
+Republic of China, the Trademark Law of the People’s Republic of China, and the Patent Law of the People’s Republic 
+
+of China. During the reporting year, concerning product health and safety, information and labelling, as well as 
+
+marketing and labelling, there were no cases of non-compliance with regulations or voluntary codes which resulted in a 
+
+fine, a penalty, or a warning against the Group.   
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+13
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+Zero confirmed incidents of corruption
+
+Achieved
+
+There were no cases of anti-corruption 
+
+reported or under investigation.
+
+80% of employees received communication 
+
+and training about anti-corruption policies and 
+
+procedures
+
+On-going
+
+All employees received relevant 
+
+communication during the reporting year 
+
+during new employee orientation. During the 
+
+reporting year, 544 new employees attended 
+
+the orientation.
+
+ANTI-CORRUPTION
+
+Operating in a fair, honest, ethical and legal manner has always been essential to CDW’s business conducts. CDW 
+
+does not tolerate or condone any forms of corruption, including bribery, extortion, fraud and money laundering. The CD 
+
+Shanghai’s Staff Manual outlines anti-corruption requirements on employees. Any requests for off-the-book commission 
+
+rebates in business transactions with external parties are prohibited. 
+
+As stated in the Whistle-blowing Policy and Procedure, the Group welcomes employees or any other stakeholders 
+
+to raise concerns on possible improprieties or non-compliance without fear of obstructive or retaliatory action. All 
+
+complaints and allegations shall be sent to the Audit Committee for appropriate follow-up actions and investigation. 
+
+The Audit Committee should inform the complainant of the timeline for a final response, recommendations on remedial 
+
+or legal action and results of the investigation process. 
+
+To raise awareness on corruption, the Group’s training for new employees covers related corporate policies and 
+
+procedures. In the reporting year, CD Shanghai communicated with and provided training on anti-corruption policies 
+
+and procedures for employees and business partners:
+
+Number and percentage 
+
+of internal stakeholders 
+
+communicated
+
+Number and percentage of 
+
+internal stakeholders trained
+
+Board Members
+
+3
+
+100%
+
+3
+
+100%
+
+Middle Management
+
+55
+
+100%
+
+55
+
+100%
+
+Entry-level/General 
+
+Staff
+
+0
+
+0%
+
+0
+
+0%
+
+Overall 
+
+58
+
+11%
+
+58
+
+11%
+
+OpErATiNg
+
+rESpONSibly
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+14
+
+Number and percentage of business partners communicated
+
+Suppliers
+
+42
+
+100%
+
+Customers
+
+4
+
+100%
+
+Bank/Professional service 
+
+providers
+
+3
+
+100%
+
+Other business partners
+
+N/A
+
+N/A
+
+Overall 
+
+49
+
+100%
+
+During the reporting year, there were no confirmed incidents of corruption or any legal cases regarding corruption 
+
+brought against CD Shanghai or its employees. 
+
+Moving forward, CDW is going to enhance its operations and continues to work with CD Shanghai on the following set 
+
+of targets for responsible operations:
+
+
+
+Targets for 2019
+
+Customer Privacy 
+
+•	
+
+Provide relevant training to existing employees at least once a year
+
+Anti-corruption
+
+•	
+
+Provide relevant training to existing employees at least once a year
+
+Customer Health and Safety
+
+•	
+
+Fewer than three times of customer complaints each month
+
+•	
+
+Provide relevant training to existing employees at least once a year
+
+Marketing and Labelling
+
+•	
+
+Provide relevant training to existing employees at least once a year
+
+OpErATiNg
+
+rESpONSibly
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+15
+
+CAriNg
+
+fOr EmplOyEES
+
+A talented and engagement workforce is key driver to business growth and long-term viability. As a responsible 
+
+employer, CDW is committed to ensuring a safety and quality workplace, where labour rights and development 
+
+opportunities are respected. CDW and CD Shanghai have therefore instituted a set of policies, guidelines and 
+
+measures in place to support employee performance. 
+
+Employees of CD Shanghai are based in the production facility in Shanghai. CD Shanghai has outsourced the function 
+
+of product development to another subsidiary of the Group in Japan. The product development team in Japan consists 
+
+of six engineers. As of 31 December 2018, there were in total 511 employees working at CD Shanghai, and all of the 
+
+employees were on full-time basis. CD Shanghai has seen a slight increase (by 9%) in number of employees compared 
+
+to the year 2017. 
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+To improve the occupational health and safety 
+
+management system 
+
+Achieved
+
+Received accreditation of Certificate in Work 
+
+Safety Standardization (2018 version) for 
+
+Light Industry from the State Administration 
+
+of Work Safety in China.
+
+Zero tolerance for significant safety accident 
+
+Achieved
+
+On-going health and safety initiatives and 
+
+monitoring.
+
+To increase participation in health promotion training
+
+On-going
+
+Conducted safety training with employees 
+
+and organised sports activities for 
+
+employees during the reporting year.
+
+To facilitate employees’ participation in the review 
+
+of the occupational health and safety management 
+
+system
+
+Achieved
+
+Enrolled representatives of each 
+
+department at CD Shanghai to complete a 
+
+comprehensive evaluation survey on safety 
+
+management system during the reporting 
+
+year
+
+OCCUPATIONAL HEALTH AND SAFETY
+
+
+
+
+
+
+
+
+
+
+
+Permanent
+
+Temporary
+
+
+
+Permanent
+
+Temporary
+
+26
+
+15
+
+
+
+Total employees in Shanghai
+
+511
+
+225
+
+245
+
+
+
+Total employees in the group
+
+1,289
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+16
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+Continue to eliminate child labour in labour practices
+
+Achieved
+
+No incidents in relation to labour practices 
+
+incurred during the reporting year.
+
+Continue to eliminate all forms of forced or 
+
+compulsory labour
+
+Achieved
+
+Prevent incidents of discrimination against the 
+
+employees on any grounds
+
+Achieved
+
+Score 75 out of 100 in employee satisfaction 
+
+Achieved
+
+Rated 90% satisfactory rate in employee 
+
+satisfaction survey during the reporting year.
+
+Adopt over 10 suggestions from employees 
+
+Achieved
+
+Adopted 10 suggestions on human 
+
+resources and resource allocation from 
+
+seven different departments at CD 
+
+Shanghai.
+
+LABOR RIGHTS
+
+CDW is committed to upholding its corporate social 
+
+responsibility to respect human rights and ensure a 
+
+discrimination-free workplace. The Group does not 
+
+permit any forms of human right violations, including 
+
+labour rights violations. CDW respects the Minimum 
+
+Age Convention and the Worst Forms of Child Labor 
+
+Convention of the International Labor Organization. 
+
+CD Shanghai is against employing anyone under the 
+
+age of 16 and any forms of forced or compulsory labor. 
+
+The Staff Manual specifies guidelines regarding overtime 
+
+work, compensation and resignation. The Quality Manual 
+
+underlines the importance of creating a work environment 
+
+free of discrimination and psychological pressure. There 
+
+were no reported incidents of discrimination in CD 
+
+Shanghai in the reporting year.
+
+Looking ahead, the Group plans to conduct a review of 
+
+provisions in the human resources policies to further the 
+
+efforts of prohibiting child labour and forced labour, and 
+
+to continue eliminating discrimination in recruitment and 
+
+employment practices.
+
+CAriNg
+
+fOr EmplOyEES
+
+CDW seeks to provide a safe and healthy environment for its employees. The Group’s Risk Management Policy 
+
+prescribes a range of health and safety initiatives. It provides a clear framework for safety risk management with the 
+
+aim to identify, prevent and mitigate risks that pose harm to the safety, health and well-being of every employee. 
+
+CD Shanghai conducts inspections on a regular basis to identify tasks exposed to high risks of occupational hazards 
+
+and formulate appropriate measures. Code printing works has been identified for tasks associated with high safety risk, 
+
+such as code printing works, CD Shanghai provides personal protective equipment, nutrition allowance, annual body 
+
+check-up and regularly safety training, and enhances air ventilation system. 
+
+To enhance employee awareness, in the reporting year, all employees at CD Shanghai received safety training on safety 
+
+laws and regulations, CD Shanghai’s safety policies and procedures, handling emergencies, and risk identification 
+
+and assessment results. To gain insights into improving the safety management system, CD Shanghai invited 
+
+representatives of all departments to participate in an evaluation survey and rate a number of aspects, revolved around 
+
+the structure and responsibility, compliance, education and training, equipment and facilities, occupational health and 
+
+safety, major risks, and emergencies and incidents. 
+
+The manufacturing facility in Shanghai has been accredited with a Certificate in Work Safety Standardization 
+
+for Light Industry from the State Administration of Work Safety in China.  The Group acts in accordance with laws 
+
+and regulations concerning occupational health and safety, such as Law of the People’s Republic of China on the 
+
+Prevention and Control of Occupational Diseases and the Regulation on Work-Related Injury Insurance of the PRC.  
+
+During the reporting year, there were no reported cases of work-related injury and work-related ill health.
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+17
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+Over 96% of completion rate in training 
+
+Achieved
+
+Recorded 100% completion rate during the 
+
+reporting year
+
+Over 98% of passing rate in regular performance 
+
+and career development review 
+
+Achieved
+
+Recorded 100% passing rate during the 
+
+reporting year.
+
+Expand the scope of programs and assistance to 
+
+employees for their professional development
+
+In progress
+
+Expanded the scope of training program 
+
+by introducing ESD training to employees 
+
+based on customer’s requirement. 
+
+TRAINING AND DEVELOPMENT
+
+Investing in employee learning and development is a 
+
+key driver of talent engagement and retention. Through 
+
+training and development opportunities, employees 
+
+are able to acquire knowledge and skills to enhance 
+
+self-competencies and job satisfaction in terms of 
+
+career growth and development. The Training Control 
+
+Procedures specify the employee development approach. 
+
+CD Shanghai evaluates the performance of employees 
+
+against training objectives and effectiveness of training. 
+
+Each department of CD Shanghai assesses its own 
+
+training needs and identifies how its employees across 
+
+different levels may benefit from internal and external 
+
+training programmes. As a result of these reviews, an 
+
+annual training plan was developed and implemented.
+
+
+
+Internal
+
+Orientation
+
+Client Management
+
+Safe operations
+
+ESD
+
+Information Security
+
+
+
+2018 Training Highlights
+
+Average Training Hours
+
+Percentage of employees 
+
+receiving regular performance 
+
+and career development 
+
+reviews
+
+Male
+
+16
+
+100%
+
+Female
+
+106
+
+100%
+
+Senior Management
+
+39
+
+100%
+
+Middle Management
+
+10
+
+100%
+
+Entry-level/General Staff
+
+940
+
+100%
+
+Overall 
+
+99
+
+100%
+
+
+
+Targets for 2019
+
+Occupational Health and Safety
+
+•	
+
+To improve the occupational health and safety management 
+
+system
+
+•	
+
+To increase training opportunities on occupational health and 
+
+safety for employees in a relevant manner
+
+Labour Standards
+
+•	
+
+To score 80 out of 100 in employee satisfaction
+
+Training and Education
+
+•	
+
+To expand the scope of programs and assistance to employees 
+
+for their professional development
+
+CAriNg
+
+fOr EmplOyEES
+
+
+
+External
+
+ISO 9000
+
+ISO 14001
+
+IATF 16949
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+18
+
+prOTECTiNg
+
+ThE ENvirONmENT
+
+Recognising the risks and opportunities presented to businesses and communities by climate change, CDW 
+
+endeavours to reduce the environmental impacts of its operations. In line with applicable laws and regulations 
+
+concerning environmental protection, CD Shanghai has articulated a host of policies and procedures, which set out 
+
+the ways to minimising the impacts its activities brought to the surrounding environment and communities, and utilising 
+
+resources in a responsible and efficient manner:
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+To achieve reduction in GHG emissions against the 
+
+base year
+
+Partially 
+
+achieved
+
+Achieved reduction in direct GHG 
+
+emissions, while the energy indirect GHG 
+
+emissions have not been reduced due to the 
+
+increased electricity use 
+
+CARBON AND AIR EMISSIONS
+
+Recognising that greenhouse gas (“GHG”) emissions, or carbon emissions, have impending impacts on climate change 
+
+and global warming, companies around the globe have been aligning their strategy and operations in reducing carbon 
+
+footprint. 
+
+To gain a better understanding of CD Shanghai’s carbon footprint, CDW engaged an external professional consultancy 
+
+to quantify the GHG emissions from its operations in Shanghai through carbon assessment. The assessment was 
+
+conducted with reference to international and local standards, including ISO 14064-1 and guidelines7 released by the 
+
+National Development and Reform Commission (NDRC) of the People’s Republic of China. It enables CDW to identify 
+
+emissions hotspot, and develop carbon management strategy and actions.
+
+7 ‘Guidelines for Accounting and Reporting Greenhouse Gas Emissions - China Machinery and Equipment Manufacturing Enterprises 
+
+(Trial)’
+
+
+
+
+
+Environmental
+
+Management
+
+
+
+
+
+Solid Waste
+
+Management
+
+
+
+
+
+Green Procurement
+
+Management
+
+
+
+
+
+Environmental Monitoring
+
+and Measurement
+
+
+
+
+
+Pollution
+
+Control
+
+
+
+
+
+Energy and Resource
+
+Management
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+19
+
+Carbon Emissions
+
+Scope
+
+Emission Source
+
+2018
+
+2017
+
+tonnes  of  CO2  equivalent8 
+
+(tonnes CO2-e)
+
+Scope 1:
+
+Direct GHG Emissions
+
+Combustion of fuels in stationary 
+
+sources
+
+18.7
+
+26.7
+
+Combustion of fuels in mobile sources
+
+120.8
+
+129.3
+
+Fugitive emissions from refrigeration 
+
+equipment9
+
+102.1
+
+102.1
+
+Sub-total
+
+241.6
+
+258.1
+
+Scope 2: Energy Indirect 
+
+GHG Emissions
+
+CO2 emissions from the generation of 
+
+purchased electricity
+
+1,932.0
+
+1,755.5
+
+Sub-total
+
+1,932.0
+
+1,755.5
+
+Scope 3: Other Indirect 
+
+GHG Emissions
+
+Business Travel
+
+5.8
+
+4.8
+
+Sub-total
+
+5.8
+
+4.8
+
+Total GHG Emissions
+
+2,179.4
+
+2,018.4
+
+GHG Emissions Intensity
+
+(in tonnes CO2-e per thousand units of products)
+
+0.26
+
+0.09
+
+prOTECTiNg
+
+ThE ENvirONmENT
+
+In 2018, total GHG emissions of the Shanghai manufacturing facility were approximately 2,180 tonnes CO2-e. A 
+
+slight increase of 8% was observed compared to 2017. It was mainly due to an increment of purchased electricity. 
+
+The primary source of GHG emissions was Scope 2 energy indirect emissions which was mainly contributed by the 
+
+generation of purchased electricity, accounting for nearly 89% of the total. 
+
+8 The emission factors are chosen from the NDRC Guidelines, the average emission factor of East China Regional Grid and 
+
+ICAO’s “Carbon Emissions Calculator” accordingly; and the source of the global warming potential (GWP) rates used is the Fifth 
+
+Assessment Report (AR5) of the Intergovernmental Panel on Climate Change
+
+9 Although refrigerant R-22 used in the refrigeration equipment is not within the six GHGs covered in the Kyoto Protocol, emissions 
+
+from its leakage is included in the assessment to provide a true and fair account of GHG-related information
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+20
+
+prOTECTiNg
+
+ThE ENvirONmENT
+
+Air Emissions
+
+Type of Air Pollutant
+
+Emissions (kg)
+
+2018
+
+2017
+
+Mobile and stationary 
+
+sources
+
+Mobile source only
+
+Mobile source only10
+
+Nitrogen oxides
+
+463.6
+
+444.8
+
+457.6
+
+Sulphur oxides
+
+17.6
+
+15.6
+
+17.0
+
+Particulate matters
+
+9.4
+
+8.4
+
+9.3
+
+During the reporting year, CDW did not produce, import, or export any ozone-depleting substances in its operations.
+
+Considering the impacts that air pollutants have on the ecosystem and human health, CDW seeks to monitor the air 
+
+emissions emitted from its business activities on an on-going basis. In the reporting year, air pollutants generated from 
+
+the operations of CD Shanghai were: 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Air-conditioning
+
+•	Set thermostat for comfort and 
+
+savings during different seasons
+
+•	Set air-conditioning system to 
+
+automatically adjust heating and 
+
+cooling during different times
+
+•	Turn off lights and
+
+air-conditioning when
+
+leaving the room
+
+Lightning
+
+•	Turn off unncessary lights
+
+•	Set lighting system of communal 
+
+areas on a timer to automatically 
+
+turn on and off during different 
+
+seasons
+
+Maintenance
+
+•	Conduct monthly examination and 
+
+inspection of equipment to prevent 
+
+power leakage
+
+Monitoring
+
+•	Record and track electricity 
+
+consumption and conduct 
+
+monthly anaylsis
+
+To reduce carbon emissions from energy use, CD Shanghai has formulated the Energy and Resource Management 
+
+Procedures as guidelines on energy saving practices, revolved around:
+
+10 Figures have been reinterpreted.
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+21
+
+prOTECTiNg
+
+ThE ENvirONmENT
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+To maintain the current rate of recycling
+
+Achieved
+
+Maintained current rate of recycling
+
+To closely monitor any potential spills of chemicals 
+
+from production facility
+
+Achieved
+
+On-going monitoring of chemical waste 
+
+storage, with no spills incurred during the 
+
+reporting year.
+
+To reduce non-hazardous waste
+
+Achieved
+
+Recorded 27% reduction in the production 
+
+of food waste and thin film.
+
+WASTE
+
+If improperly treated or handled, hazardous and non-hazardous waste could pose serious threat the environment 
+
+and human health. It is a priority to manage the waste produced in the Group’s operations in line with the national 
+
+regulations. CD Shanghai has established the Solid Waste Management Procedures prescribing standards on 
+
+separation, collection, storage and outsourced treatment of waste. 
+
+The Environmental Management Committee oversees the process of waste management, from appointment and 
+
+assessment of authorised contractors, collection and transport to treatment. Hazardous waste contractors must be 
+
+authorised collectors recognised by the Environment Protection Bureau of the local government. Records of waste 
+
+collection are kept by the Environmental Management Committee for five years. Recyclable non-hazardous waste were 
+
+sorted and transported to the waste recycling station, which were documented in a Solid Waste Removal Record.
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+To reduce the total water consumption and total 
+
+water discharge
+
+In progress
+
+Closely monitoring of water consumption 
+
+to maintain hourly water consumption at 
+
+production facility at less than or equal to 
+
+0.01 tonnes.
+
+To identify water-related impacts
+
+In progress
+
+Established management approach to 
+
+manage resource use. 
+
+To develop internal standards and guidelines to 
+
+manage effluent discharge
+
+Achieved
+
+Established an environmental law monitoring 
+
+system reviewing relevant national and 
+
+regional laws (such as Regulations of 
+
+Shanghai Municipality on Drainage 
+
+Administration)
+
+WATER AND EFFLUENTS
+
+The Energy and Resource Management Procedures outlines practices to ensure proper use of water. The General 
+
+Affairs Department is responsible for the installation, servicing and maintenance of water supplies system. Monitoring 
+
+of water consumption and inspection of water supplies system are conducted on a regular basis. In the reporting year, 
+
+CD Shanghai’s manufacturing facility withdrew 47.3 mega liters of freshwater11  in total.  
+
+The CD Shanghai’s Pollution Control Procedures outlines the guidelines on effluent discharge. CD Shanghai does not 
+
+permit storage of chemicals, oil products and wastes near the sewage pipe network, or dumping of chemical wastes 
+
+therein. Departments in production line shall not discharge industrial or domestic effluents into rainwater pipelines. 
+
+Domestic effluents are discharged into municipal sewage treatment system. To closely monitor the quality of effluent 
+
+discharge and ensure compliance, CD Shanghai commissioned a qualified third-party environmental testing agency 
+
+to conduct annual testing at discharge points in accordance with the Environmental Monitoring and Measurement 
+
+Management Procedures. 
+
+11 There had been no changes in water storage in 2018.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+prOTECTiNg
+
+ThE ENvirONmENT
+
+The Group is fully aware of the importance to ensure environmental compliance. CD Shanghai’s Environmental 
+
+Management Manual specifies its obligations to meet the expectations of governmental regulators, local communities, 
+
+and neighbouring enterprises. Environmental laws and regulations on emissions, wastes, and effluent discharges must 
+
+be reviewed during the identification of important environmental factors.  
+
+It is the responsibility of the ISO Management Office to observe updates on environmental laws and regulations, 
+
+evaluate the impacts on operations, and communicate to employees. To facilitate collection of feedback, it established 
+
+an inventory of applicable environmental laws and regulations, and other administrative requirements. 
+
+The Group manages its environmental impacts brought by its operations in accordance with environmental laws and 
+
+regulations, such as the Environmental Protection Law of the People’s Republic of China, and the Law of the People’s 
+
+Republic of China on the Prevention and Control of Environmental Pollution by Solid Waste. During the reporting year, 
+
+there were no cases of non-compliance with environmental laws or regulations in CD Shanghai, and no significant spill 
+
+was made.  
+
+Looking ahead, the Group is planning to achieve the following environmental targets in the coming year in the 
+
+operations of CD Shanghai
+
+
+
+Targets for 2019
+
+Environmental Compliance
+
+•	
+
+Zero incident of non-compliance with environmental laws and 
+
+regulations
+
+•	
+
+To actively monitor the changing regulatory requirements
+
+Water and Effluents 
+
+•	
+
+To reduce the total water withdrawal by 5%
+
+•	
+
+To identify water-related impacts with the annual risk 
+
+assessment
+
+Waste
+
+•	
+
+To increase the current rate of recycling
+
+•	
+
+To reduce non-hazardous waste by 3%
+
+Emissions
+
+•	
+
+To achieve reduction in GHG emissions and carbon intensity by 
+
+2%
+
+
+
+Targets for 2018
+
+Status
+
+Progress in 2018
+
+Zero incident of non-compliance with environmental 
+
+laws and regulations
+
+Achieved
+
+Actively monitoring the applicable 
+
+environmental laws, with no cases of non-
+
+compliance incurred during the reporting 
+
+year. 
+
+ENVIRONMENTAL COMPLIANCE
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+22
+
+Type of Waste
+
+Amount
+
+Disposal 
+
+Method
+
+2018
+
+2017
+
+Hazardous Waste
+
+Toner cartridge
+
+4.4
+
+0.8
+
+Recycling
+
+Ink cartridge
+
+1.0
+
+2.0
+
+Fluorescent tube
+
+86.1
+
+98.1
+
+Grease trap precipitate
+
+210
+
+299
+
+Non-hazardous 
+
+Waste
+
+Thin films
+
+6,800
+
+7,500
+
+Recycling
+
+Food waste
+
+4,100
+
+5,000
+
+Composting
+
+In the reporting year, a total of 301.5 kilogram hazardous waste was disposed of, which included toner/ink cartridges, 
+
+fluorescent tubes, and grease trap precipitate. Non-hazardous waste, comprising thin films and food waste, recorded 
+
+10,900 kilogram.
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+23
+
+
+
+
+
+Looking beyond the Group’s operations, employees, suppliers, customers, and local residents are members of the local 
+
+community whom may be socially or environmental affected by the Group’s activities. The Group believes that one of 
+
+the ways it can contribute to communities is by acting as a responsible corporate citizen, with good governance and 
+
+respect for human rights. 
+
+The Group strives to strengthen its communities by providing a safe workplace with development opportunities, 
+
+upholding product safety and quality standards, and delivering environmental performance in line with laws and 
+
+regulations. Where the communities are affected, the Group ensures they have the right to seek redress. They can 
+
+raise their concerns through website and e-mail. All feedback will be distributed to relevant parties for handling when 
+
+necessary. 
+
+Looking ahead, the Group will look into ways in engaging the local community to understand their expectations and 
+
+needs, and formulate corresponding plan to manage impacts brought by the Group’s operations. 
+
+ENgAgiNg
+
+ThE COmmuNiTy
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+23
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+24
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 102: General Disclosures 2016
+
+Organisational Profile
+
+102-1
+
+Name of the organisation
+
+-
+
+1
+
+-
+
+102-2
+
+Activities, brands, products, and services
+
+-
+
+1
+
+-
+
+102-3
+
+Location of headquarters
+
+-
+
+1
+
+-
+
+102-4
+
+Location of operations
+
+-
+
+1
+
+-
+
+102-5
+
+Ownership and legal form
+
+-
+
+1
+
+-
+
+102-6
+
+Markets served
+
+-
+
+1
+
+-
+
+102-7
+
+Scale of the organisation
+
+-
+
+1-2
+
+-
+
+102-8
+
+Information on employees and other workers
+
+-
+
+15
+
+-
+
+102-9
+
+Supply chain
+
+-
+
+11
+
+-
+
+102-10
+
+Significant changes to the organisation and its 
+
+supply chain
+
+-
+
+2
+
+-
+
+102-11
+
+Precautionary principle or approach
+
+-
+
+6-7
+
+-
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+LR711B-1e
+
+4
+
+-
+
+102-15
+
+Key impacts, risks, and opportunities
+
+PN7.6-3.3
+
+6-7
+
+-
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of 
+
+behaviour 
+
+-
+
+2
+
+-
+
+Governance
+
+102-18
+
+Governance structure 
+
+PN7.6-3.1
+
+5
+
+-
+
+102-21
+
+Consulting stakeholders on economic, 
+
+environmental, and social topics
+
+PN7.6-3.7
+
+8
+
+-
+
+102-29
+
+Identifying and managing economic, 
+
+environmental, and social impacts
+
+PN7.6-3.3
+
+4, 6-9
+
+-
+
+Stakeholder Engagement
+
+PN7.6-3.7
+
+102-40
+
+List of stakeholder groups 
+
+10
+
+-
+
+102-42
+
+Identifying and selecting stakeholders 
+
+8
+
+-
+
+102-43
+
+Approach to stakeholder engagement
+
+8
+
+-
+
+102-44
+
+Key topics and concerns raised
+
+9
+
+-
+
+gri-SgX
+
+CONTENT iNdEX
+
+
+
+
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+25
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+Reporting practice
+
+102-45
+
+Entities included in the consolidated financial 
+
+statements 
+
+-
+
+1
+
+-
+
+102-46
+
+Defining report content and topic Boundaries 
+
+-
+
+3, 10
+
+-
+
+102-47
+
+List of material topics 
+
+-
+
+9
+
+-
+
+102-48
+
+Restatements of information
+
+-
+
+1
+
+-
+
+102-49
+
+Changes in reporting 
+
+-
+
+-
+
+None
+
+102-50
+
+Reporting period 
+
+-
+
+3
+
+-
+
+102-51
+
+Date of most recent report 
+
+-
+
+-
+
+28 Dec 2018
+
+102-52
+
+Reporting cycle
+
+-
+
+3
+
+-
+
+102-53
+
+Contact point for questions regarding the report 
+
+-
+
+3
+
+-
+
+102-54
+
+Claims of reporting in accordance with the GRI 
+
+Standards
+
+LR711B-1d
+
+GRI-
+
+referenced 
+
+claim
+
+102-55
+
+GRI content index
+
+-
+
+24-28
+
+-
+
+gri-SgX
+
+CONTENT iNdEX
+
+Material Topics
+
+GRI 205: Anti-corruption 2016
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+13
+
+-
+
+205-2
+
+Communication and training about anti-corruption 
+
+policies and procedures
+
+-
+
+13-14
+
+-
+
+205-3
+
+Confirmed incidents of corruption and actions 
+
+taken
+
+-
+
+14
+
+-
+
+GRI 303: Water and Effluents 2018
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+18, 21
+
+-
+
+303-1
+
+Interactions with water as a shared resource
+
+-
+
+21
+
+-
+
+303-2
+
+Management of water discharge-related impacts
+
+-
+
+21
+
+-
+
+303-3
+
+Water withdrawal
+
+-
+
+21
+
+-
+
+GRI 305: Emissions 2016  
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+18, 20
+
+-
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+-
+
+19
+
+-
+
+305-2
+
+Energy indirect (Scope 2) GHG emissions
+
+-
+
+19
+
+-
+
+305-3
+
+Other indirect (Scope 3) GHG emissions
+
+-
+
+19
+
+-
+
+305-4
+
+GHG emissions intensity
+
+-
+
+19
+
+-
+
+305-7
+
+Nitrogen oxides (NOX), sulfur oxides (SOX), and 
+
+other significant air emissions
+
+-
+
+20
+
+-
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+26
+
+gri-SgX
+
+CONTENT iNdEX
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 306: Effluents and Waste 2016 (waste-related only)
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+18, 21
+
+-
+
+306-2
+
+Waste by type and disposal method
+
+-
+
+22
+
+-
+
+306-3
+
+Significant spills
+
+-
+
+22
+
+-
+
+306-4
+
+Transport of hazardous waste
+
+-
+
+21
+
+-
+
+GRI 307: Environmental Compliance 2016  
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+18, 22
+
+-
+
+307-1
+
+Non-compliance with environmental laws and 
+
+regulations
+
+-
+
+22
+
+-
+
+GRI 403: Occupational Health and Safety 2018 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+15-16
+
+-
+
+403-1
+
+Occupational health and safety management 
+
+system
+
+-
+
+16
+
+-
+
+403-2
+
+Hazard identification, risk assessment, and 
+
+incident investigation
+
+-
+
+16
+
+-
+
+403-3
+
+Occupational health services
+
+-
+
+16
+
+-
+
+403-9
+
+Work-related injuries
+
+-
+
+16
+
+-
+
+403-10
+
+Work-related ill health
+
+-
+
+16
+
+-
+
+GRI 404: Training and Education 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+17
+
+-
+
+404-1
+
+Average hours of training per year per employee
+
+-
+
+17
+
+-
+
+404-2
+
+Programs for upgrading employee skills and 
+
+transition assistance programs
+
+-
+
+17
+
+-
+
+404-3
+
+Percentage of employees receiving regular 
+
+performance and career development reviews
+
+-
+
+17
+
+-
+
+GRI 406: Non-discrimination 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+16
+
+-
+
+406-1
+
+Incidents of discrimination and corrective actions 
+
+taken
+
+-
+
+16
+
+-
+
+
+
+
+
+
+CDW Holding Limited 
+
+Sustainability Report 2018
+
+27
+
+gri-SgX
+
+CONTENT iNdEX
+
+Disclosure
+
+Description
+
+SGX
+
+Page
+
+Remarks
+
+GRI 408: Child Labor 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+16
+
+-
+
+GRI 409: Forced or Compulsory Labor 2016
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+16
+
+-
+
+GRI 413: Local Communities 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+23
+
+-
+
+413-1
+
+Operations with local community engagement, 
+
+impact assessments, and development programs
+
+-
+
+23
+
+-
+
+413-2
+
+Operations with significant actual and potential 
+
+negative impacts on local communities
+
+-
+
+23
+
+-
+
+GRI 416: Customer Health and Safety 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+11
+
+-
+
+416-2
+
+Incidents of non-compliance concerning the health 
+
+and safety impacts of products and services
+
+-
+
+11
+
+-
+
+GRI 417: Marketing and Labeling 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+12
+
+-
+
+417-2
+
+Incidents of non-compliance concerning product 
+
+and service information and labeling
+
+-
+
+12
+
+-
+
+417-3
+
+Incidents of non-compliance concerning marketing 
+
+communications
+
+-
+
+12
+
+-
+
+GRI 418: Customer Privacy 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+12
+
+-
+
+418-1
+
+Substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data
+
+-
+
+12
+
+-
+
+GRI 419: Socioeconomic Compliance 2016 
+
+103
+
+Management approach disclosures
+
+LR711B-1 b&amp;c
+
+11-14, 16
+
+-
+
+419-1
+
+Non-compliance with laws and regulations in the 
+
+social and economic area
+
+-
+
+11-14, 16
+
+-
+
+
+香港新界沙田火炭禾盛街11號中建電訊大廈11樓6-10室
+
+Room 6-10, 11th Floor, CCT Telecom Building
+
+11 Wo Shing Street, Fo Tan, Shatin, New Territories, Hong Kong
+
+TEL: +852 2634 1511 FAX: +852 2690 3349
+
+www.cdw-holding.com.hk
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

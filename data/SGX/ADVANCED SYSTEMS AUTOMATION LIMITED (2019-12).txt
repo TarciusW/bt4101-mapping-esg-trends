@@ -1,0 +1,791 @@
+ASA
+INDUSTRY
+4.0
+5
+CHALLENGES & CHANGES
+Sustainability
+Report 2019
+Advanced Systems Automation Limited
+
+Content Page
+1.
+Board Statement .
+2.
+About this Report ..
+2.1.
+Reporting Scope and Period
+2.2.
+Framework.
+2.3.
+Feedback.
+2
+3.
+ Sustainability Governance
+3.1.
+Sustainability Strategy
+2
+3.2.
+Sustainability Governance Structure
+2
+3.3.
+ Stakeholder Engagement.
+3
+4.
+ Materiality Assessment .
+4.1.
+Overview of Material Factors.
+4.2.
+Environmental...
+4.2.1.
+Energy and Emissions..
+.6
+4.2.2.
+Waste
+4.3.
+Economic.
+8
+4.3.1.
+Economic Performance.
+8
+4.4.
+Social .
+8
+4.4.1.
+Talent Attraction and Retention .
+8
+4.4.2.
+Training and Education
+9
+4.4.3.
+Occupational Health and Safety...
+.10
+4.4.4.
+Supplier Assessment ...
+.11
+4.4.5.
+Compliance with Laws and Regulations..
+.12
+4.4.6.
+Environmental Compliance 
+.12
+4.4.7.
+Cybersecurity .
+.13
+4.5.
+Governance.
+14
+4.5.1.
+Anti-corruption .
+.14
+4.5.2.
+Corporate Governance
+14
+
+1.
+Board Statement
+We are pleased to present our third Sustainability Report for the financial year ended 31
+December 2019 ("FY2019") that shows our approach towards sustainability over the year, as
+well as our practices and performance around relevant material factors.
+Advanced Systems Automation Limited ("ASA") is the world's first total backend inline
+equipment solution which is used by semiconductor assembly processes globally. As we
+grow and expand our business, we will continue to commit ourselves to good sustainability
+practices as we believe it is vital to the success of our business. As such, sustainability is at
+the forefront of our considerations when making strategic decisions.
+By engaging with our stakeholders and assessing material factors, we have updated our
+material factors and identified 12 material factors for FY2019 which helped shaped our
+sustainability strategy and set time-based targets which will be managed with the help of
+our Sustainability Steering Committee.
+Since the start of the COVID-19 outbreak, we have progressively implemented a series of
+measures to ensure the well-being of our stakeholders. We will do our utmost to keep our
+staff, customers, and visitors safe while maintain ongoing communications on COVID-19
+updates and how we continue to strengthen our measures. This will ensure that we continue
+to deliver products and services to our valued customers, with minimal disruptions to our
+operations.
+We seek to grow our role in sustainability and are sure that this will help enhance our quality
+of life while protecting our planet. We look forward to working with you and welcome you
+on our journey to sustainability.
+2.
+About this Report
+2.1.
+Reporting Scope and Period
+This report, published annually, covers the company's policies, practices, initiatives,
+performance and goals in relation to material Environmental, Social and Governance ("ESG")
+factors for the period of 1 January to 31 December 2019 and includes data and information
+from said period relating to ASA, its subsidiaries and their services and products.
+For this scope of report, we have decided to focus on Microfits Pte Ltd ("MPL") as they
+produce the bulk of our products and services; as such they are the most material to ASA.
+2.2.
+Framework
+This report is written in compliance with the requirements of SGX-ST Listing Rules 711A and
+711B and has been prepared with reference to the Global Reporting Initiative ("GRI")
+Standards
+This report references the following topic-specific disclosures:
+GRI Standards
+Disclosure
+ 201 Economic Performance
+201-1
+205 Anti-corruption
+205-3
+302 Energy
+302-1, 302-3
+305 Emissions
+305-1, 305-4
+1Sustainability Report FY2019
+
+GRI Standards
+Disclosure
+ 306 Effluents and Waste
+306-3
+ 307 Environmental Compliance
+307-1
+401 Employment
+401-1, 401-2
+ 403 Occupational Health and Safety
+403-2, 403-9, 403-10
+ 404 Training and Education
+404-1, 404-2
+414 Supplier Social Assessment
+414-1
+418 Customer Privacy
+418-1
+ 419 Socioeconomic Compliance
+419-1
+2.3.
+Feedback
+For any enquires, comments or feedback regarding both our sustainability performance and
+inaugural sustainability report, please send them to enquiries@asa.com.sg.
+3.
+Sustainability Governance
+3.1.
+Sustainability Strategy
+ASA strives to continually deliver world-class services to our customers to help them
+optimise their resource utilisation. As such, it is important that sustainability is considered in
+our strategic decisions as expectations for sustainable development is growing.
+3.2.
+Sustainability Governance Structure
+Board
+Sustainability Steering Committee ("SSC")
+Comprises of senior members of:
+Administration
+Finance
+ Human Resources
+Information Technology
+Sustainability Task Force ("STF")
+2 | Sustainability Report FY2019
+
+Sustainability Steering Committee ("Ssc")
+Our sustainability strategy is headed by our Sustainability Steering Committee ("Ssc"). The
+SsC provides strong direction coupled with an effective sustainability governance framework
+to identify, assess and manage the ESG issues that are important to us and our stakeholders.
+The SsC is represented by senior members of the Administration, Finance, Human Resources
+and Information Technology divisions at ASA. They provide advice and assistance to the
+Board in ensuring that policies and procedures related to ESG issues are aligned with ASA's
+business strategy.
+Sustainability Task Force ("STF")
+The SSC is supported by the STF, which is responsible for driving sustainability initiatives and
+programmes across ASA.
+Board of Directors (the "Board")
+The Board monitors and evaluates sustainability performance against peer companies in
+order to improve performance and to identify areas of improvement. The Board also
+conducts reviews of the company's approach to sustainability from the identified gaps as
+compared to peer companies so that ASA will be in a better position to execute targeted
+actions to address the gaps.
+3.3.
+Stakeholder Engagement
+We strongly believe that stakeholders are an integral part of our sustainability efforts, as
+such; it is of utmost importance that we engage with our stakeholders to gain valuable
+insights and understand the ESG issues that they are most concerned with, helping to shape
+our sustainability strategy and grow our business sustainably. Our approach to stakeholder
+engagement is as follows:
+Frequency of
+Key
+Key Topics of Concern
+Mode of Engagement
+Engagement and FY19
+Stakeholders
+Highlights
+Business financial
+Media releases
+Ad-hoc
+SGX's announcements
+performance
+Quarterly
+Operational
+ Annual general meeting
+efficiency
+Investors and
+("AGM") for
+Annually
+Shareholders
+Sustainable value of
+shareholders
+shareholding
+Annual report
+Annually
+Return on
+Website at
+Ad-hoc
+investments
+https://www.asa.com.sg/
+3Sustainability Report FY2019
+
+Key
+Frequency of
+ Key Topics of Concern
+Mode of Engagement
+Engagement and FY19
+Stakeholders
+Highlights
+Career development
+Employees
+Employees are briefed
+Teambuilding
+on the handbook during
+activities
+on boarding. Softcopy
+Training
+of handbook is available
+opportunities
+on a hard disk drive for
+Developing an open
+Company handbook
+employees when
+workforce to
+requested. An
+engage staff
+acknowledgement form
+Providing a safe and
+is signed when
+conducive
+ employees read the
+environment
+handbook.
+New employee
+First week of work
+orientation
+Ad-hoc. Whistle blower
+Whistle blowing policy
+identities will be kept
+ confidential.
+Performance appraisal
+Annually
+Customers
+Quality products
+Customer visits
+ Ad-hoc tour of premises
+Value for money
+for customers
+Good service
+Factory visits by
+Ad-hoc tour of factories
+customers
+for customers
+Ad-hoc. Participated in
+ Participation in trade
+China Semicon show on
+shows
+March 2019
+Surveys conducted and
+Customer satisfaction
+customer engagement
+survey
+for customers
+throughout the year
+Customers' material
+ Ad-hoc when informed
+safety compliance
+by customer.
+requirements
+Suppliers
+Tender shortlisting
+Supplier selection
+Prior to supplier
+and award criteria
+process
+selection
+Business financial
+As and when products
+Supplier assessment
+performance
+are received.
+Meeting with suppliers
+As and when needed,
+to discuss better ways of
+e.g. when there are new
+production/distribution
+requirements.
+4I Sustainability Report FY2019
+
+4.
+Materiality Assessment
+Annually, the Board conducts an exercise, involving members of ASA's senior management
+ team, to review the relevance of ASA's material factors in order to identify if there has been
+any shift in priorities among stakeholders and examine any emerging areas of concern. This
+was especially important this year as there were many changes in the organisation. As such,
+we have engaged an external consultant to assist management with the development of the
+sustainability report.
+The identification of material issues involved conducting research on global and local trends
+in our industry and material topics identified by our peers and industry best practices. In
+FY2019, we have identified 12 material topics reflective of our business directions, as
+compared to the 10 reported material topics in FY2018. This is due to a combination of the
+sustainability practices in ASA maturing and our desire to put sustainability at the forefront
+ of our strategic decision making.
+We will continue to assess these material topics on regular basis to ensure their relevance
+and importance to our business.
+4.1.
+Overview of Material Factors
+For each material topic, table below shows the corresponding topic specific GRI standards
+ and relevant United Nations Sustainable Development Goals (UNSDGs).
+ Material Factors
+Relevant Topic-specific GRI Standards
+Relevant UNSDGs
+M
+Energy and
+GRI 302: Energy 2016
+Emissions
+GRI 305: Emissions 2016
+Waste
+GRI 306: Effluents and Waste 2016
+.
+G
+Economic
+GRI 201: Economic Performance 2016
+M
+Performance
+Talent Attraction
+GRI 401: Employment 2016
+and Retention
+M
+Training and
+GRI 404: Training and Education 2016
+Education
+M
+ Occupational Health
+GRI 403: Occupational Health and Safety 2016
+and Safety
+M
+Supplier
+GRI 414: Supplier Social Assessment 2016
+Assessment
+M
+5 | Sustainability Report FY2019
+
+ Material Factors
+Relevant Topic-specific GRI Standards
+Relevant UNSDGs
+Compliance with
+Laws and
+GRI 419: Socioeconomic Compliance 2016
+Regulations
+Environmental
+GRI 307: Environmental Compliance 2016
+Compliance
+GRI 410: Security Practices 2016
+Cybersecurity
+GRI 418: Customer Privacy 2016
+Anti-corruption
+GRI 205: Anti-corruption 2016
+Corporate
+GRI 205: Anti-corruption 2016
+Governance
+Impact of COVID-19 on Material Factors
+Globally, manufacturing industries have taken a major hit from the COVID-19 outbreak. The
+disruptions posed by the outbreak could affect the achievement of the ESG targets for FY2020. We
+will continue to assess the uncertainties of COVID-19 on our operations, and the targets for FY2020
+will be closely monitored against this assessment and adjusted, if necessary, to reflect the latest
+developments of the pandemic.
+4.2.
+Environmental
+4.2.1.
+Energy and Emissions
+A large portion of our operation costs are attributed to electricity usage in the
+manufacturing process. This results in greenhouse gas ("GHG") emissions. The
+implementation of carbon tax in Singapore from 2019, where tax will be levied on direct
+emitters, mainly power plants, will lead to higher costs. Although this results in an
+insignificant increase in costs for ASA, we acknowledge that this change in regulations
+signals higher expectations of the manufacturing industry when it comes to emissions. As
+such, there is a new focus on emissions this year.
+It is also our belief that improving our energy and emissions performance will lead to
+benefits for our organisation by maximising usage of energy sources, reducing both
+consumption and cost.
+We acknowledge our responsibility to reduce the environmental impacts of our business
+operations and commit to minimise our environmental footprints through sustainable
+practices and initiatives.
+6 | Sustainability Report FY2019
+
+Management Approach
+ASA places great emphasis on improving energy and emissions performance through energy
+reduction initiatives, for example, increasing the usage of shared office spaces and increasing the
+awareness among employees on the importance of environmental sustainability and the part they
+can play by reducing their energy and emissions consumption.
+Regular monitoring of our energy consumption is conducted in areas such as equipment
+manufacturing, heating, ventilation and air conditioning by implementing a robust monitoring
+system. With implementation of energy monitoring initiatives, we have seen a reduction in
+operational costs.
+Performance Data
+Actual Performance
+% change
+from
+FY2019
+FY2018 to
+FY2018
+FY2019
+Target
+FY2019
+Energy
+Energy Consumption
+212,209
+208,750
+-1.6%
+(KWh)
+To
+maintain
+Energy Intensity
+137.00
+162.20
++18.4%
+intensity
+KWh/ m2
+within
+Emissions
+GHG Emissions - Scope 2
+88.87
+87.42
+-1.6%
+10% of
+(tc02e)
+FY2018
+GHG Emissions Intensity
+0.057
+0.068
++19.3%
+levels
+(tCO2e/ m2)
+Energy intensity and GHG emissions intensity increased by approximately 18.4% and 19.3%
+respectively, which exceeded the target of maintaining the energy intensity within 10% from FY2018
+Ievels. The increase in energy consumption in FY2019 is in line with the revenue increase compared
+to FY2018. On top of this, the premises area has also reduced which resulted in the increase in the
+energy intensity and GHG emissions intensity.
+Performance Data
+Maintain energy (electricity) intensity within 10% of FY2019's levels.
+4.2.2. Waste
+At ASA, we consider waste management a key issue as we observe a growing interest from
+our stakeholders and communities on how we manage waste generated from our business
+operations. Looking to our neighbours in Thailand and Malaysia, we can see how companies
+being involved in the incorrect and irresponsible disposal of waste are being held
+accountable to their actions and more importantly, how the pollution that arise could
+impact communities and the environment devastatingly and threaten people's lifestyles and
+their health.
+1 This is based on 2018 Grid Emission Factor of 0.4188 kg CO / kWh
+7 | Sustainability Report FY2019
+
+Management Approach
+ASA complies with all environmental regulations and goes beyond these legal statues to better
+manage hazardous and non-hazardous waste with an Is014001-certified environmental
+management system for all our operations, in every country regardless of whether it is compulsory
+or not.
+We ensure that our generated waste is processed through incineration, landfill or other disposal
+methods that adhere to local rules and regulations, such as the Environmental Public Health (Toxic
+Industrial Waste) Regulations 1988 in Singapore.
+At ASA, prohibit burning of waste within our premises. All general waste and toxic industrial waste
+are segregated and disposed of accordingly. We strive to recycle and possibly reuse most of the
+general waste generated. We ensure collection and storage of all waste oils in secured and labelled
+drums at designated areas to prevent any leaks or spills. All our waste oils and solid waste are sent
+to licensed third party contractors for safe disposal.
+Performance Data
+In FY2018 and FY2019, there were zero incidents of non-compliance with laws and regulations
+concerning waste management / disposal.
+ASA's toxic waste is disposed per lot, each lot contains less than 300kg load of toxic waste.
+Targets
+Achieve zero incidents of non-compliance with laws and regulations concerning waste management
+/ disposal
+4.3.
+Economic
+4.3.1. Economic Performance
+It is our belief that to deliver value for all our stakeholders, particularly our shareholders, we
+have to focus on maintaining a strong financial position by carrying out our operations in a
+responsible manner and building resilience throughout our business operations for long-
+term sustainable growth.
+Our financial performance for FY2019 can be found in the Financial Highlights section and
+Appendix 2 -- Audited Financial Statements of the Annual Report for FY2019, which will be
+released in due course.
+4.4.
+Social
+4.4.1. Talent Attraction and Retention
+At ASA, we value and respect every individual in the organisation and strive to have an
+environment where all our employees feel like they are a part of the organisation. We are
+committed to provide equal and fair employment opportunities as we believe diversity is key
+to growth and innovation in our business.
+8I Sustainability Report FY2019
+
+Management Approach
+We have a robust system to collect, track and monitor our human resources (HR) data including
+overtime, vacation balances and the number of training days.
+We believe in a transparent talent acquisition system. We offer our employees a competitive
+compensation and a range of other benefits, such as health care coverage, parental leave and
+retirement plans. We do not discriminate during our recruitment process and we ensure that fair
+practices of hiring are adopted for all the deserving candidates, including persons with disabilities, by
+offering remuneration as per market standards.
+We ensure that we recruit and retain the best talent. We also learn from the employees who leave
+the company through the exit interviews where we gather feedback and comments. It gives us some
+key insights on the areas for improvement in our recruitment and talent retention system.
+Performance Data
+FY2018
+FY2019
+New employees hired, during
+1
+0
+the year
+Employee turnover, during the
+0
+8 (25%)
+year
+Total employees, by year end*
+32
+23
+By gender:
+7 (22%)
+Female
+3 (13%)
+-
+Male
+25 (78%)
+-
+20 (87%)
+By age:
+Below 30 years old
+0
+-
+0
+ Between 30 to 50 years
+13 (41%)
+.
+8 (35%)
+old
+Above 50 years old
+19 (59%)
+.
+15 (65%)
+ * Included retrenchment of 8 employees during the year.
+Targets
+ASA's turnover rate (25%) for FY2019 is above industry average of 1.6%2 due to the one-off
+retrenchment of 8 employees.
+For FY2020, ASA will continue to target a turnover rate lower than the industry average of that year.
+4.4.2. Training and Education
+The key to ASA's success lies with its people, as such, we want to grow the right pool of
+talent who are kept abreast of the latest industry developments, future-ready and will be
+able to work together for the success of the organisation. We believe we can achieve that
+with the right combination of on-site and off-site training and education.
+2 1.6% is based on an average from 2019 Q1-Q3 manufacturing industry turnover rate, Ministry of Manpower
+9I Sustainability Report FY2019
+
+Management Approach
+Our HR department assesses the current and future skills requirements for our business operations
+and design learning and development programmes to meet these requirements. These programmes
+are tailored to meet the needs of employees and enhance their personal and professional
+development. Our on-site training programmes in latest technology updates allow us to stay on the
+forefront of the industry.
+There are special training programmes for the Senior Management to identify and groom promising
+individuals as part of our succession planning. We monitor the training needs and progress of our
+employees on regular basis; this helps them to take ownership of their career development.
+Performance Data
+In FY2019, the total internal training hours provided to the staff was 70 hours, this equated to an
+average of 3 hours of internal training catered to each of our employees.
+Targets
+For FY2020, we will set our target to provide an average of 3 hours of internal training to our
+employees.
+4.4.3. Occupational Health and Safety
+Keeping our employees safe is our top priority as we endeavour to provide a safe working
+environment for all staff. We remain committed to the health and safety and welfare of our
+employees and strive to be in adherence to global and industrial standards and guidelines
+while providing a safe and positive working environment to our employees.
+Management Approach
+ASA adopts safe work practices and have established standard operating procedures and conducts
+emergency response training to ensure that the risk of accidents, injuries and exposure to health
+hazards are minimised for all employees and contractors. In addition to this training, health and
+safety training is conducted for employees to ensure that they are able to identify and manage
+common hazards in the workplace in a safe manner. Employees and contractors are also required to
+follow the ASA safety handbook which outlines standard safety practices and requirements.
+On-site inspections are conducted to ensure that all equipment in ASA premises is safe for
+employees to work with. There are measures set in place for air, water and noise pollution in and
+around ASA manufacturing plants to ensure a healthy environment for employees and contractors
+ to work in.
+Emergency plans and procedures are provided on signage for employees and ASA building occupants
+to read in the case of an emergency. Fire drills are conducted twice a year by the property owner to
+ensure that employees are familiar with emergency procedures during a fire. During the fire drills, all
+employees and contractors are made aware of the location of the fire extinguishers and learn how
+to operate them. Regular inspections on fire extinguishers are conducted and signed off.
+10 | Sustainability Report FY2019
+
+AsA seeks to identify any potential hazards and monitor the effectiveness of health and safety risk
+control measures implemented.
+There is regular maintenance and inspections of compressors. To reduce noise pollution,
+compressed air guns in our manufacturing plants are used in short intervals. Signage is also placed in
+areas where hearing protection is mandatory so that employees are not exposed to excessive noise.
+With the emergence of cOVID-19, we have implemented a series of measures to maintain a safe
+working environment for our employees. Some of the measures include, among other things, travel
+restrictions to countries of operations, on-going communications between management and staff,
+provision of face masks on premise, and safe distancing among employees.
+Performance Data
+With zero reported workplace fatalities and zero major accidents among our employees in FY2019,
+we have hereby achieved our target set for zero workplace fatalities/ injuries for FY2019.
+Targets
+Our FY2020 goal is to achieve zero workplace fatalities and injuries.
+4.4.4. Supplier Assessment
+Our suppliers form an integral part of our value chain as they contribute to our sustainability
+goals and business success. As such, where we source our materials from affects our
+reputation and our contribution to be a sustainable organisation.
+Management Approach
+We carry out due diligence of all our suppliers based on our strict requirements in terms of
+sustainable practices, quality and pricing to ensure that our suppliers deliver top-quality raw
+materials and products.
+The suppliers who work with us are required to abide by our values and standards and conduct their
+business in an ethical, legal and sustainable manner in addition to meeting the requirements of
+relevant laws and regulations, such as the Restriction of Hazardous Substances (RoHS) Directive,
+which includes a CE-marking directive3.
+We continuously monitor and update our supplier selection process and ensure that only the best
+raw materials are used in the production process. Our current suppliers of raw materials for our
+production of equipment are monitored on a regular basis based on their performance. Any supplier
+that fails to meet the expected quality and delivery requirement is removed from the list of raw
+material suppliers.
+3 "CE" is as an abbreviation of Conformite Europeenne (European Conformity)
+11 | Sustainability Report FY2019
+
+Performance Data
+No new suppliers/vendors were engaged, and all suppliers and vendors met our specification
+requirements and expectations for quality and delivery, thus FY2019 targets were met.
+Targets
+As per the target set for FY2019, we ensured that all our suppliers complied with the requirements
+of the Quality Management System IS0 9001:2015.
+For FY2020, our target would be to ensure that all suppliers comply with IS0 standards
+(IS09001:2015 and IS014001:2015).
+4.4.5. Compliance with Laws and Regulations
+Compliance with the applicable laws and regulations forms one of the most important pillars
+for sustainable growth and is an essential component of corporate governance in any
+organisation. Our reputation is what it is today because we strive to comply with relevant
+laws. We ensure that all our employees adhere to company's values to act with integrity and
+conduct business in accordance with the highest ethical standards. We constantly keep
+ourselves abreast with changes in the evolving regulatory landscape
+Management Approach
+ASA constantly keeps abreast with changes in the evolving regulatory landscape and have various
+procedures and risk management standards in place.We ensure that all our employees adhere to
+company's values to act with integrity and conduct business in accordance with the highest ethical
+standards.
+Performance Data
+There were zero incidents of non-compliance with relevant laws and regulations resulting in
+significant fines and / or non-momentary sanctions in FY2019, as such, the FY2019 target was met.
+Targets
+Zero incidents of non-compliance with relevant laws and regulations that results in significant fines
+and / or non-momentary sanctions for FY2020.
+4.4.6. Environmental Compliance
+ASA strives for full legal and regulatory compliance, which includes not only socioeconomic
+regulations, but also environmental laws.
+12 | Sustainability Report FY2019
+
+Management Approach
+Our sites in Singapore are subjected to environmental laws and regulations set by the National
+Environmental Agency (NEA), the Public Utilities Board (PUB) and the Singapore Civil Defence Force
+(ScDF). We keep ourselves updated with any new regulations on environmental compliance which is
+applicable to our business, so that we identify and manage our regulatory risks beforehand.
+Performance Data
+There were zero incidents of non-compliance with relevant environmental laws and regulations
+resulting in significant fines and / or non-momentary sanctions in FY2019, as such, the FY2019 target
+was met.
+Targets
+Zero incidents of non-compliance with relevant environmental laws and regulations that results in
+significant fines and / or non-momentary sanctions for FY2020.
+4.4.7.Cybersecurity
+Cybersecurity is a key emerging threat in Singapore, as such, we strive to ensure our
+defences against such breaches is sufficient in order to protect the Group's and our
+stakeholders'interests.
+Management Approach
+Cybersecurity is handled by ASA's IT department which has routinely updated ASA's Active Antivirus
+Server to protect all of ASA's clients' PCs and servers. They also conduct an annual health check for
+IT Infrastructure including Servers and Devices (Firewall, VPN Device and Wireless Router). During
+this session, the IT department will update the relevant firmware and related important patches.
+Such updates and checks will reduce the risk of ASA being a target of cybercrime, and it will serve to
+enhance the overall security in ASA's computers and network.
+In ASA, users are made to reset their password annually to reduce the possibility of their account
+being accessed by unauthorised people who may know their password.
+Other controls put in place include data access rights to particular data folders in the data server
+only being assigned to authorised users. ASA has a good and reputable firewall which is constantly
+updated. There is daily back-up in place to ensure that in any case of breaches such as ransomware,
+we can easily reinstall the data from our backup tape. Normal employees have limited access to the
+server. In any case of malware, there will be lower chances of disrupting the data and operating
+system of the server. The company website is hosted by external party and not ASA's own server.
+This reduces the possibility of hacking into ASA's office server. Lastly, ASA outsourced email services
+to Microsoft who possesses an advanced scanning system to scan all emails for possible viruses and
+malware. This reduced ASA's cybersecurity risk significantly as normally the first point of intrusion is
+through email.
+Performance Data
+There were zero incidents of cybersecurity breaches in FY2019
+13 | Sustainability Report FY2019
+
+Targets
+There were no cybersecurity breaches in FY2019 and we continue to target for zero cybersecurity
+breaches in FY2020.
+4.5.
+Governance
+4.5.1.
+Anti-corruption
+In ASA, we have zero tolerance towards bribery and corruption which leads to dishonest
+business practices such as conflict of interests, accepting gifts, insider information etc.
+Management Approach
+Our employees are required to adhere to the Code of Conduct and policies on corruption within the
+Group. Information on the Code of Conduct, which includes ethical reguirements and information on
+the whistle-blowing policy, is provided to all employees. During the employees' orientation, all
+employees go through a mandatory induction programme, where they are briefed on the Code of
+Conduct, which includes information on workplace ethics and the whistle-blowing policy.
+We encourage our employees to raise their concerns regarding suspected fraud, corruption,
+dishonest practices or other similar matters in a very secured and responsible manner. Any
+suspicious practices or inappropriate activities in the workplace are reported immediately by our
+workforce to the Head of Human Resources ("HR") and/or any member of the Executive Committee
+in a fair, respectful and timely manner. We take disciplinary action on the employee who is found
+guilty of fraud, dishonesty or criminal conduct.
+Performance Data
+There are no corruption cases in FY2019, as such; the target for FY2019 was met.
+Targets
+Zero cases of corruption for FY2020
+4.5.2. Corporate Governance
+We strive to maintain a high standard of corporate governance to ensure transparency and
+accountability at all levels of our company. The Company views the adherence of such
+corporate governance standards as key to protecting and enhancing value for our
+stakeholders. We recognise that good corporate governance processes are essential for
+enhancing corporate sustainability. To promote ethical behaviour, employees are always
+required to adhere to the Group's policies and procedures. Our corporate governance
+practices are set out in Appendix 1 - Corporate Governance Report of the Annual Report for
+FY2019, which will be released in due course.
+14 I Sustainability Report FY2019
+
+Management Approach
+We perform periodic review of our overall corporate governance in order to progressively
+strengthen our structure and practices. The most recent review was performed in 2019 and we have
+identified the following plans, such as further enhancements to:
+Existing governance practices involving conduct and culture
+Delegations of authority
+Director independence and board composition
+-
+Corporate governance related disclosures in the annual report
+In addition, by the end of FY2020, we aim to further enhance the transparency and accountability
+to our stakeholders by updating governance policies and documentation such as:
+Code of Conduct (for Board)
+Director Conflict of Interest Policy
+Board Diversity Policy
+Any deviation from the recommended guidelines under the Code of Corporate Governance will be
+disclosed in our Annual Report.
+Performance Data
+There were zero incidents of non-compliance with relevant laws and regulations resulting in
+significant fines and / or non-momentary sanctions or conflicts of interest in FY2019.
+Targets
+Zero incidents of non-compliance with relevant laws and regulations that results in significant fines
+ and / or non-momentary sanctions or conflicts of interest for FY2020.
+This Sustainability Report has been reviewed by the Company's sponsor, SAC Capital Private Limited
+("Sponsor").
+This Sustainability Report has not been examined or approved by the Singapore Exchange Securities
+Trading Limited ("SGX-ST") and the SGX-ST assumes no responsibility for the contents of this
+Sustainability Report, including the correctness of any of the statements or opinions made, or reports
+contained in this Sustainability Report.
+The contact person for the Sponsor is Ms Tay Sim Yee (Tel: (65) 6232 3210) at 1 Robinson Road, #21-
+00 AIA Tower, Singapore 048542.
+15 | Sustainability Report FY2019
+

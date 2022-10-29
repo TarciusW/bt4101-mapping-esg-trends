@@ -1,0 +1,9115 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2020
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+2
+
+Glossary
+
+3
+
+Corporate Profile
+
+4
+
+About This Report
+
+5
+
+Our Sustainability Commitment
+
+Board Statement
+
+Sustainability Governance Structure
+
+Corporate Governance
+
+8
+
+Our Contribution to the Sustainable 
+
+Development Goals
+
+9
+
+COO’s Statement
+
+10
+
+Sustainability Highlights
+
+12
+
+Stakeholder Engagement
+
+14
+
+Materiality
+
+Material Topics, Boundaries and 
+
+Management Approach
+
+15
+
+Economic Performance
+
+16
+
+Environment
+
+Environment Management System
+
+Climate-Related Risks And 
+
+Opportunities
+
+GHG Emissions
+
+Energy Efficiency
+
+Water Efficiency
+
+Waste Management
+
+Information Technology Business
+
+Development Projects
+
+Environmental Compliance
+
+24
+
+Health and Safety
+
+Buildings
+
+Corporate Office COVID-19 Measures
+
+OHS Performance
+
+Development Projects
+
+Regulatory Compliance
+
+26
+
+Product And Service Quality
+
+Awards, Recognitions And 
+
+Achievements
+
+Customer Health And Safety
+
+28
+
+People
+
+Employment
+
+Diversity And Inclusion
+
+Employee Engagement
+
+Talent Management
+
+Performance Management
+
+Training
+
+Turnover
+
+Re-Employment
+
+Social Security
+
+Human Rights
+
+32
+
+Community
+
+Our CSR Initiatives
+
+34
+
+Sustainability Performance Data
+
+39
+
+GRI Content Index
+
+47
+
+SASB Index
+
+48
+
+TCFD Disclosures
+
+49
+
+Independent Limited Assurance Report
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+1
+
+
+
+
+GLOSSARY
+
+ABC 
+
+– 
+
+Anti-Bribery and Anti-Corruption
+
+AC 
+
+– 
+
+Audit Committee
+
+AHU 
+
+– 
+
+Air Handling Unit
+
+AR 
+
+– 
+
+Annual Report
+
+BCA 
+
+– 
+
+Building and Construction Authority
+
+CONQUAS 
+
+– 
+
+Construction Quality Assessment System
+
+CEO 
+
+– 
+
+Chief Executive Officer
+
+COO 
+
+– 
+
+Chief Operating Officer
+
+CPF 
+
+– 
+
+Central Provident Fund
+
+CSR 
+
+– 
+
+Corporate Social Responsibility
+
+DORSCON 
+
+– 
+
+Disease Outbreak Response System Condition
+
+e-waste 
+
+– 
+
+Electronic waste
+
+EMS 
+
+– 
+
+Environmental Management System
+
+ESG 
+
+– 
+
+Environmental, Social and Governance
+
+GHG 
+
+– 
+
+Greenhouse gas
+
+GRI 
+
+– 
+
+Global Reporting Initiative
+
+LED 
+
+– 
+
+Light emitting diode
+
+NEA 
+
+– 
+
+National Environment Agency
+
+OHS 
+
+– 
+
+Occupational Health and Safety
+
+PDPA 
+
+– 
+
+Personal Data Protection Act
+
+PDPC 
+
+– 
+
+Personal Data Protection Commission
+
+RMC 
+
+– 
+
+Risk Management Committee
+
+SASB 
+
+– 
+
+Sustainability Accounting Standards Board
+
+SDGs 
+
+– 
+
+United Nations Sustainable Development Goals
+
+SGX-ST 
+
+– 
+
+Singapore Exchange Securities Trading Limited
+
+SISEU 
+
+– 
+
+Singapore Industrial and Services Employees’ Union
+
+SOP 
+
+– 
+
+Standard Operating Procedures
+
+SSC 
+
+– 
+
+Sustainability Steering Committee
+
+SWC 
+
+– 
+
+Sustainability Working Committee
+
+TAFEP 
+
+– 
+
+Tripartite Alliance for Fair Employment Practices
+
+TCFD 
+
+– 
+
+Task Force on Climate-Related Financial Disclosures
+
+UIC 
+
+– 
+
+United Industrial Corporation
+
+UICT 
+
+– 
+
+UIC Technologies Pte Ltd
+
+USE 
+
+– 
+
+Union of Security Employees
+
+UVC 
+
+– 
+
+Ultra Violet-C
+
+PUB 
+
+– 
+
+Public Utilities Board
+
+WEB 
+
+– 
+
+Water Efficient Building
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+2
+
+
+
+
+
+
+CORPORATE PROFILE
+
+As part of a group-wide rebranding, United Industrial 
+
+Corporation (“UIC”) Limited was renamed Singapore 
+
+Land Group Limited (“Singland” or the “Company”, 
+
+and together with its group of companies, the “Group”) 
+
+in April 2021. Singland is one of the leading public-listed 
+
+real estate companies in Singapore. As a 50% owned 
+
+subsidiary of UOL Group Limited (“UOL”), Singland is 
+
+committed to leveraging its strength to drive sustainable 
+
+growth and create value for our shareholders and 
+
+stakeholders.
+
+Singland’s diversified portfolio comprises commercial 
+
+investment 
+
+properties, 
+
+residential 
+
+development 
+
+properties, hotels and IT services. Singland’s portfolio of 
+
+prime commercial assets currently includes 2.5 million 
+
+square feet of office space and 1 million square feet 
+
+of retail space in Singapore. The company also owns 
+
+several overseas investment assets in China and the 
+
+United Kingdom.
+
+Our subsidiary UIC Technologies Pte Ltd (“UICT”) offers 
+
+solutions in systems integrations, general information 
+
+technology services, payroll software and human 
+
+resource outsourcing services. UICT is an accredited 
+
+Microsoft Cloud Platform (Azure) Gold partner, Microsoft 
+
+Cloud Productivity (Office 365) Gold partner, HP 
+
+Enterprise Platinum partner, and DELL Platinum partner. 
+
+UICT is also ISO9001 certified.
+
+For detailed information about Singapore Land Group’s 
+
+business activities, please refer to UIC’s Annual Report 
+
+2020. Also, you can visit the Group’s corporate website 
+
+http://www.uic.com.sg/ for more details about what 
+
+we do.
+
+Marina Square
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+3
+
+
+ABOUT THIS REPORT
+
+This is the 4th sustainability report published by 
+
+Singapore Land Group Limited (“Singland” or the 
+
+“Company”, and together with its group of companies, 
+
+the “Group”). This report provides an overview of how 
+
+we manage our material Environmental, Social and 
+
+Governance (“ESG”) issues. 
+
+The Singapore Land Group Limited Sustainability Report 
+
+2020 (“SR2020”) covers ESG performance data from 
+
+our core business operations in Singapore, including 
+
+commercial offices, retail properties, development 
+
+projects, information technology business and head 
+
+office in Singapore for the financial year ending 
+
+31 December 2020. This report excludes overseas 
+
+investments in China and the United Kingdom, and our 
+
+hospitality business and development projects where 
+
+we do not have direct operational control.
+
+REPORTING STANDARDS AND FRAMEWORKS 
+
+The SR2020 has been prepared in accordance with the 
+
+Global Reporting Initiative (GRI) Standards: Core Option, 
+
+and refers to GRI’s Construction and Real Estate Sector 
+
+Disclosures. The report complies with the Singapore 
+
+Exchange Securities Trading Limited (“SGX-ST”) Listing 
+
+Rules (711A and 711B) - Sustainability Reporting. 
+
+Singland has applied GRI’s reporting principles of 
+
+stakeholder 
+
+inclusiveness, 
+
+sustainability 
+
+context, 
+
+materiality, completeness, accuracy, balance, clarity, 
+
+comparability, reliability and timeliness in preparing this 
+
+report. 
+
+From this report, Singland has started aligning the 
+
+disclosures with the Sustainability Accounting Standards 
+
+Board (“SASB”) Real Estate Sustainability Accounting 
+
+Standard and the Task Force on Climate-Related 
+
+Financial Disclosures (“TCFD”) Recommendations. The 
+
+report continues to be aligned with the UN Sustainable 
+
+Development Goals (“SDGs”). We have used the 
+
+GHG Protocol Corporate Accounting and Reporting 
+
+Standard to prepare our greenhouse gas (“GHG”) 
+
+emissions inventory.
+
+RESTATEMENTS
+
+Please refer to page 38 for information about the restatements.
+
+EXTERNAL ASSURANCE
+
+We have continued to seek external assurance for our sustainability reporting. KPMG LLP has provided 
+
+independent assurance on specific sustainability data contained in this report. For more details, see the 
+
+Independent Limited Assurance Report on page 49.
+
+REPORT AVAILABILITY
+
+SR2020 and past sustainability reports are available on our website www.uic.com.sg in PDF form for browsing 
+
+or downloading. In line with our environmental conservation policy, we will not print hard copies of this report. 
+
+CONTACT
+
+For feedback and suggestions, please contact us by writing to sustainability@uic.com.sg.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+4
+
+
+OUR SUSTAINABILITY COMMITMENT
+
+BOARD STATEMENT
+
+Singland’s Board of Directors (the “Board”) is committed 
+
+to building a sustainable business that positively 
+
+impacts the environment and society. The Board, 
+
+supported by the Sustainability Steering Committee 
+
+(“SSC”), considers sustainability issues as part of its 
+
+strategic business plans, determines the material ESG 
+
+factors, and oversees the management and monitoring 
+
+of material sustainability issues through regular reviews 
+
+of performance indicators. The Board also approves the 
+
+Group’s annual sustainability reports. 
+
+SUSTAINABILITY GOVERNANCE STRUCTURE
+
+Singland’s Board has overall responsibility for managing 
+
+the Group’s sustainability issues, including sustainability 
+
+reporting. It has oversight of the identification, 
+
+management and implementation of material ESG 
+
+factors through the Sustainability Steering Committee 
+
+(“SSC”). The SSC is supported by the Sustainability 
+
+Working Committee (“SWC”), which helps define and 
+
+prioritise sustainability topics and establish performance 
+
+targets. The SSC, chaired by the CEO, is responsible 
+
+for implementing Singland’s sustainability strategy 
+
+and programmes. With the retirement of the CEO in 
+
+September 2020, the SSC is now chaired by the COO. 
+
+The Board has direct oversight over the SSC through the 
+
+Audit Committee (“AC”). The SWC works with various 
+
+business units and functions to collect and validate 
+
+performance data for reporting.
+
+RISK MANAGEMENT 
+
+The Board has the responsibility to ensure Management 
+
+maintains and reviews the effectiveness of the Group’s 
+
+risk management and internal controls systems. Our 
+
+group-level risk management system also covers 
+
+sustainability risks, including environmental risk, climate 
+
+change risk and compliance risk. 
+
+This risk management system is steered by the Risk 
+
+Management Committee (“RMC”), which comprises 
+
+the President/CEO, COO and the respective Heads of 
+
+Department of the Group. With the retirement of the 
+
+CEO in September 2020, the RMC is now chaired by the 
+
+COO.
+
+We 
+
+apply 
+
+the 
+
+precautionary 
+
+principle 
+
+in 
+
+risk 
+
+management and proactively take measures to 
+
+mitigate our business operations’ potentially adverse 
+
+environmental impacts. As part of our Occupational 
+
+Health and Safety (“OHS”) management system, we 
+
+maintain a risk register that describes the potential OHS 
+
+risks present within the organisational activities. Our 
+
+approach is to promote a risk-aware culture to reduce 
+
+workplace incidents.
+
+As we advance our sustainability strategy, we are 
+
+committed to evaluating and understanding climate 
+
+change’s financial risks using the TCFD framework.
+
+CLIMATE-RELATED RISKS
+
+Our plans include assessing climate-related risks and 
+
+opportunities and establishing goals and targets 
+
+for addressing climate-related issues. In line with its 
+
+sustainability responsibilities, the Board will continue to 
+
+have direct oversight of climate-related issues, including 
+
+monitoring and overseeing progress against goals and 
+
+targets for addressing climate-related issues. 
+
+The SSC is responsible for setting ESG targets, including 
+
+greenhouse gas emission reduction targets. 
+
+We already disclose our greenhouse gas emissions and 
+
+energy consumption against targets each year in our 
+
+sustainability report.
+
+As we advance our sustainability strategy, we are 
+
+committed to evaluating and understanding climate 
+
+change’s financial risks using the TCFD framework.
+
+THE BOARD DIVERSITY
+
+The Board’s Nomination Committee seeks to ensure 
+
+that the Board is composed of an appropriate balance 
+
+and diversity of age, race, skills, experience, and gender. 
+
+Singland welcomed a new female director to Singland’s 
+
+10-member Board in 2020.
+
+
+
+BOARD OF DIRECTORS
+
+AUDIT COMMITTEE
+
+SUSTAINABILITY STEERING COMMITTEE
+
+SUSTAINABILITY WORKING COMMITTEE
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+5
+
+
+CORPORATE GOVERNANCE
+
+Singland reports its corporate governance structure, 
+
+policies and practices in detail in its Annual Report 
+
+following the Code of Corporate Governance 2018 
+
+(“2018 Code”) and accompanying Practice Guidance 
+
+issued by the Monetary Authority of Singapore 
+
+(“MAS”). For more information on Singland’s corporate 
+
+governance, please refer to UIC’s Annual Report 2020 
+
+at http://uic.com.sg/investor-relations/annual-report/.
+
+REGULATORY COMPLIANCE
+
+Non-compliance with laws and regulations can 
+
+adversely 
+
+affect 
+
+Singland’s 
+
+business 
+
+operations, 
+
+financial performance, and reputation. Singland’s policy 
+
+is to conduct its business with integrity and comply with 
+
+applicable laws. 
+
+We have put in place mechanisms to stay abreast of 
+
+the latest regulatory developments and provide the 
+
+necessary training to relevant employees. To promote 
+
+a culture of compliance and accountability, we have 
+
+adopted a group-wide Code of Conduct, Whistle-
+
+Blowing Policy, Anti-Bribery and Anti-Corruption Policy 
+
+and Conflict of Interest and Insider Trading Policy.
+
+In 2020, there were no incidences of regulatory non-
+
+compliance with socio-economic or environmental 
+
+regulations.
+
+ANTI-BRIBERY AND ANTI-CORRUPTION
+
+Singland takes a zero-tolerance position against all forms 
+
+of corruption, including bribery, extortion, fraud and 
+
+money laundering. Our Anti-Bribery and Anti-Corruption 
+
+(“ABC”) policy prohibits bribery and corruption in all 
+
+forms. Included in the Company’s Code of Conduct, 
+
+the ABC policy requires all employees to adhere to the 
+
+highest ethical conduct standards. Besides employees, 
+
+we communicate the ABC policy to our suppliers, 
+
+contractors, and business partners. Employees are also 
+
+required to declare any conflict of interest during their 
+
+employment with Singland.
+
+The Company’s RMC has oversight over fraud and 
+
+corruption 
+
+risk 
+
+management. 
+
+Adequate 
+
+internal 
+
+controls have been established at an operational level 
+
+to reduce fraud and corruption risks.
+
+In 2020, there were no confirmed legal cases of 
+
+corruption brought against Singland or its employees.
+
+ANTI-COMPETITION
+
+At Singland, we are committed to promoting fair 
+
+competition. We comply with Singapore’s Competition 
+
+Act and prohibit anti-competitive conduct. There were 
+
+no legal actions for anti-competitive behaviour, anti-
+
+trust, and monopoly practices against Singland in the 
+
+reported period.
+
+WHISTLE-BLOWING POLICY
+
+Our Whistle-blowing Policy provides a safe and 
+
+confidential 
+
+channel 
+
+for 
+
+our 
+
+employees 
+
+and 
+
+business partners to raise their concerns to senior 
+
+management. All whistle-blowing reports are handled 
+
+with confidentiality, and the policy protects the 
+
+whistleblowers from retaliation. All whistle-blowing cases 
+
+received through designated channels are referred to 
+
+the Audit Committee for follow up action. 
+
+The “Whistle-blowing Policy” is publicly available on 
+
+the company’s corporate website at www.uic.com.sg/
+
+whistle-blowing-policy. 
+
+ETHICAL MARKETING
+
+As a responsible property developer, we strive to help our 
+
+customers make informed decisions by providing them 
+
+with all material information related to our products and 
+
+services.
+
+Singland adheres to the Singapore Code of Advertising 
+
+Practice and relevant applicable rules and regulations 
+
+to support high ethical standards in advertising. We 
+
+require our employees to abide by the principles of 
+
+ethical marketing in selling and leasing activities. 
+
+In 2020, there were no incidents of non-compliance 
+
+concerning our marketing practices.
+
+OUR SUSTAINABILITY COMMITMENT
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+6
+
+
+EMPLOYEE TRAINING
+
+All new employees undergo an orientation programme 
+
+which covers the Code of Conduct, Whistle-Blowing 
+
+policy and procedures, the Anti Bribery and Corruption 
+
+Policy, the Anti-Competition policy, data protection and 
+
+ethical marketing practices. 
+
+PERSONAL DATA PROTECTION
+
+Singland is committed to safeguarding customer 
+
+privacy and personal data. We comply with Singapore’s 
+
+Personal Data Protection Act (“PDPA”) and guidelines 
+
+issued by the Personal Data Protection Commission 
+
+(“PDPC”) to manage and protect personal information 
+
+relating to our customers, shareholders, prospects, 
+
+employees and business partners. Our Personal Data 
+
+Protection Policy requires our employees to ensure 
+
+personal data is only collected, used, stored, and 
+
+disposed of according to the PDPA and the relevant 
+
+data privacy laws and guidelines. 
+
+In 2019, the company received four complaints from 
+
+the PDPC, two of which submitted by visitors to one of 
+
+our commercial buildings concerned the handling 
+
+of personal data by outsourced security personnel , 
+
+following the PDPC’s implementation of the new advisory 
+
+guidelines in respect of NRIC and other national 
+
+identification numbers on 1 September 2019. The 
+
+company explained to PDPC the lapses and remedial 
+
+actions taken by its outsourced security and no further 
+
+queries were received from PDPC. The remaining two 
+
+cases involving handling of personal data by our staff 
+
+have been officially closed following the company’s 
+
+confirmation that all necessary measures have been 
+
+taken to ensure compliance with PDPA and PDPC 
+
+guidelines.
+
+Consequently, the company had stepped up its efforts 
+
+to comply with the PDPA and PDPC guidelines through 
+
+various initiatives by December 2019, including:
+
+a) Comprehensive PDPA training of the Group’s 
+
+Data Protection Officers (DPOs) and related data 
+
+protection representatives of relevant business units;
+
+b) Raising awareness of nine PDPA principles and 
+
+guidelines among company’s employees through 
+
+internal campaigns;
+
+c) Reviewing and establishment of internal workflows 
+
+and procedures concerning the collection, usage, 
+
+storage and disposal of personal data, to comply 
+
+with the PDPA and PDPC guidelines.
+
+In 2020, there were no incidents of non-compliance with 
+
+Singapore’s PDPA.
+
+The Company’s “Personal Data Protection Policy” is 
+
+available on our corporate website at www.uic.com.
+
+sg/disclaimer-privacy-policy.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+7
+
+
+OUR CONTRIBUTION TO THE SUSTAINABLE 
+
+DEVELOPMENT GOALS
+
+Ratified by the United Nations General Assembly in September 2015, the UN SDGs continue to provide a roadmap 
+
+for achieving peace and prosperity for societies while protecting the planet. At Singland, we are playing our role 
+
+to support sustainable development. Out of the 17 SDGs, we have identified 7 Goals where we can make the most 
+
+significant contribution.
+
+The table below provides an overview of how our actions are supporting the selected SDGs.
+
+Material ESG Factors
+
+GRI Standards
+
+Our Targets
+
+UN SDGs
+
+ENVIRONMENT
+
+• Energy
+
+• GHG Emissions
+
+• Water
+
+GRI 302: Energy 2016
+
+CRE1: Building Energy Intensity
+
+Achieve Green Mark 
+
+certifications for all existing 
+
+buildings by 2030
+
+
+
+
+
+
+
+
+
+GRI 305: Emissions 2016
+
+Greenhouse Gas
+
+CRE3: Emissions Intensity from Buildings
+
+CRE4: Greenhouse Gas Emissions Intensity 
+
+from New Construction and Redevelopment 
+
+Activity
+
+GRI 303: Water 2016
+
+CRE2: Building Water Intensity
+
+CRE8: Type and Number of Sustainability 
+
+Certification, Rating and Labeling Schemes for 
+
+New Construction, Management, Occupation 
+
+and Redevelopment
+
+SOCIAL
+
+• Health and Safety
+
+• Employee Training
+
+• Product and 
+
+Service Quality
+
+GRI 403: Occupational Health and Safety
+
+2016
+
+Achieve zero accident at 
+
+workplace and project 
+
+sites
+
+Achieve at least 10 
+
+training hours per 
+
+employee
+
+
+
+
+
+GRI 416: Customer Health and Safety 2016
+
+GRI 404: Training and Education 2016
+
+GOVERNANCE
+
+• Anti-Corruption
+
+• Data Privacy
+
+• Regulatory 
+
+Compliance
+
+GRI 205: Anti-corruption 2016
+
+No incident of corruption
+
+Maintain zero incident of 
+
+data privacy breaches 
+
+Maintain no breach 
+
+or violation of existing 
+
+socio-economic and 
+
+environmental laws and 
+
+regulations
+
+
+
+GRI 307: Environmental Compliance 2016
+
+GRI 418: Customer Privacy
+
+GRI 419: Socioeconomic Compliance 2016
+
+ECONOMIC
+
+• Economic 
+
+Performance
+
+GRI 201: Economic Performance
+
+Create long-term value for 
+
+stakeholders
+
+
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+8
+
+
+DEAR STAKEHOLDERS,
+
+In a year like no other, we embarked on a transformational 
+
+journey.
+
+The Government unveiled the Singapore Green Plan 
+
+2030 to advance Singapore’s national agenda on 
+
+sustainable development over the next 10 years. This 
+
+plan demonstrates the determination, ambition and 
+
+resilience of our nation state.
+
+As part of a group-wide rebranding, United Industrial 
+
+Corporation Limited was renamed Singapore Land 
+
+Group Limited in April 2021. This initiative stems from 
+
+acknowledging the history and brand equity associated 
+
+with the name and seeks to align both internal and 
+
+external stakeholders to a common purpose and brand 
+
+identity. In line with this brand refresh, we are also striving 
+
+towards becoming a more responsible business, and 
+
+place greater emphasis on key ESG factors that will 
+
+positively impact our stakeholders.
+
+For this Sustainability Report 2020, we have started 
+
+aligning the disclosures with the SASB Real Estate 
+
+Sustainability Accounting Standard and the TCFD 
+
+recommendations. This is in addition to the integration 
+
+of the United Nations SDGs in our materiality review.
+
+We secured our first green and sustainability-linked 
+
+loans totaling $300 million in March 2021. As a major 
+
+developer and manager of real estate, we strongly 
+
+believe that the adoption of green financing represents 
+
+an important step towards integrating sustainability into 
+
+our future business strategy and operations. Proceeds 
+
+from this green loan go towards a major upgrading of 
+
+Singapore Land Tower which achieved the Building and 
+
+Construction Authority (“BCA”)’s Green Mark GoldPlus 
+
+certification in 2020.
+
+I am pleased to share that we are still on target to have 
+
+all our commercial properties achieve BCA’s Green 
+
+Mark certification by 2030, through the adoption of 
+
+environmentally friendly features and upgrading of 
+
+the buildings’ infrastructure. This is aligned with the 
+
+Singapore Green Plan 2030, to green 80% of all buildings 
+
+in Singapore.
+
+ENGAGING STAKEHOLDERS
+
+There is an old saying that if you want to go fast, go 
+
+alone. If you want to go far, go together. However, when 
+
+it comes to progressing our ESG goals, we must act fast 
+
+and aim far.
+
+We are very proud of the long-standing relationships that 
+
+we have cultivated with many of our tenants, and we are 
+
+prepared to listen, engage and collaborate with them 
+
+to fulfil our ESG goals. In 2020, we launched a campaign 
+
+to raise awareness of saving water and electricity in the 
+
+workplace and encouraged participation from them.
+
+As we emerge from the disruptions caused by the 
+
+pandemic, 
+
+such 
+
+efforts 
+
+to 
+
+promote 
+
+sustainable 
+
+practices are essential. We have plans to ramp up such 
+
+stakeholder engagement initiatives in the coming years. 
+
+We also remain committed to helping those who 
+
+are less fortunate and those who may be severely 
+
+impacted by the pandemic through various Corporate 
+
+Social Responsibility (“CSR”) programs. We channeled 
+
+our resources towards social enterprises like Project 
+
+Dignity and SDI Academy, who were able to multiply 
+
+our contribution towards their projects and programs to 
+
+help many others.
+
+The development and well-being of our employees 
+
+cannot be overstated. As we adopted extensive use of 
+
+technology in our daily work, our employee engagement 
+
+programs also had to adapt to new normal. We will 
+
+continue to utilize these platforms to foster strong team 
+
+spirit and enhance knowledge sharing opportunities 
+
+particularly in the area of environmental and social 
+
+sustainability.
+
+A COMMON PURPOSE
+
+We are cognisant that climate change and social 
+
+impact are long-standing issues that cannot be solved 
+
+through the efforts of a single company but we hope 
+
+to do our part. We will continue to set goals to strive for 
+
+and reaffirm our commitment to doing the right thing by 
+
+people and the planet.
+
+On behalf of the Board of Directors and the management 
+
+team, I would like to thank all our stakeholders and 
+
+investors for their support and contribution to our 
+
+progress to push this agenda forward.
+
+JONATHAN EU
+
+Chief Operating Officer 
+
+May 2021
+
+COO’S STATEMENT
+
+“WHEN IT COMES TO 
+
+PROGRESSING OUR ESG GOALS, 
+
+WE MUST ACT FAST AND AIM FAR.”
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+9
+
+
+
+
+
+
+
+
+SUSTAINABILITY HIGHLIGHTS 2020
+
+SINGAPORE LAND TOWER AND MARINA 
+
+SQUARE AWARDED BCA’S GREEN 
+
+MARK GOLD PLUS AND GREEN MARK 
+
+CERTIFICATION RESPECTIVELY
+
+ENHANCED BOARD DIVERSITY 
+
+BY WELCOMING A NEW FEMALE 
+
+BOARD MEMBER
+
+PROVIDED OVER S$32 MILLION 
+
+IN PROPERTY TAX AND RENTAL 
+
+REBATES FOR RETAIL AND 
+
+OFFICE TENANTS TO TIDE OVER 
+
+CHALLENGES BROUGHT ABOUT 
+
+BY THE COVID-19 PANDEMIC 
+
+GROUP REVENUE OF 
+
+S$671 MILLION
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+10
+
+
+
+
+
+
+SGX BUILDING AWARDED THE 
+
+WATER EFFICIENT BUILDING (WEB) 
+
+CERTIFICATION BY PUB WITH INSTALLATION 
+
+OF MULTIPLE WATER SAVING FEATURES
+
+CLIFFORD CENTRE INSTALLED 
+
+PERMANENT ULTRA VIOLET-C 
+
+EMITTERS IN BUILDING 
+
+AIR-CONDITIONING TO ENHANCE 
+
+VENTILATION HYGIENE
+
+PROGRESSING TOWARDS 
+
+BETTER WASTE MANAGEMENT 
+
+WITH COMMISSIONING OF 
+
+ON-SITE FOOD WASTE DIGESTER 
+
+IN WEST MALL
+
+ELECTRICITY AND WATER SAVING 
+
+CAMPAIGN ROLLED OUT TO 
+
+OUR PORTFOLIO OF RETAIL AND 
+
+COMMERCIAL PROPERTIES
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+11
+
+
+STAKEHOLDER ENGAGEMENT
+
+Stakeholders are groups or individuals who are affected by our operations or have the potential to influence our 
+
+business. Singland’s key stakeholders include business partners, customers, tenants, employees, regulators, investors 
+
+and local communities. Nurturing trusted relationships with these stakeholders is an integral part of our business 
+
+approach. Regular engagement with our stakeholders allows us to respond to their concerns and expectations. In 
+
+2020, we engaged internal stakeholders to seek their views on material topics for reporting. 
+
+A summary of our continuing stakeholder engagement is presented below:
+
+Stakeholders
+
+Engagement Channel and Frequency
+
+Key Topics and Concerns
+
+Customers
+
+Tenants: 
+
+• Building management service visits, 
+
+• Networking sessions, 
+
+• Email and phone communications
+
+Frequency: Ad hoc
+
+• Building management services 
+
+• Building’s security and 
+
+cleanliness issues 
+
+• Car Parking
+
+Homebuyers: 
+
+• Dedicated customer service teams
+
+• Email and phone communications
+
+Frequency: Ad hoc
+
+• Quality and workmanship
+
+• Timely completion
+
+• Prompt resolution of complaints
+
+• Project updates
+
+Shoppers
+
+• Customer service counter
+
+• Loyalty programmes
+
+Frequency: Ongoing
+
+• Family-friendly facilities
+
+• Cleanliness
+
+• Accessibility for Persons with 
+
+Disabilities
+
+• Access to public transport
+
+General public
+
+• Corporate website
+
+• Email and phone communications
+
+Frequency: Ad hoc
+
+• General feedback and 
+
+enquiries on products and 
+
+services offered, sustainability 
+
+and PDPA issues
+
+Contractors and Suppliers
+
+• Regular meetings with contractors 
+
+• Regular site visits
+
+• Email and phone communications
+
+Frequency: Ongoing
+
+• Fair selection
+
+• Technical specifications and 
+
+guidance
+
+• Sharing of best practices
+
+• Timely payments
+
+Investors
+
+• Annual General Meeting
+
+• Announcements released on SGX 
+
+website
+
+• Annual Report
+
+• Corporate website
+
+• Press releases
+
+Frequency: Ongoing
+
+• Return on investments
+
+• Good governance
+
+• Business growth
+
+• Risk management
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+12
+
+
+Stakeholders
+
+Engagement Channel and Frequency
+
+Key Topics and Concerns
+
+Employees
+
+• Regular department meetings
+
+• Periodic management meetings
+
+• Training and workshops
+
+• Annual performance reviews
+
+• Company-wide virtual events and get-
+
+togethers such as staff luncheon 
+
+• Regular email communication
+
+Frequency: Ongoing
+
+• Personal development and 
+
+career growth
+
+• Work-life balance
+
+• Teamwork
+
+• Company-wide organization 
+
+updates
+
+• Changes in Company and HR 
+
+policies
+
+• Engagement activities
+
+Regulators
+
+• Briefings
+
+• Site inspections
+
+• Application for permits
+
+• Renewal of government approvals
+
+• Consultations with statutory bodies
+
+Frequency: Ongoing 
+
+• Compliance with environmental, 
+
+health and safety regulations
+
+• Green buildings
+
+• Productivity and quality
+
+• Innovation
+
+• Public safety
+
+Communities
+
+• Ad hoc meetings
+
+• Feedback channel
+
+• Employee volunteering
+
+• Donations
+
+• Media releases
+
+• Communication material (Flyers / Posters 
+
+/ Banners)
+
+Frequency: Ad hoc
+
+• Support for community causes
+
+• Protection from noise and dust 
+
+from construction
+
+• Public safety
+
+MEMBERSHIPS
+
+Some of the industry associations and trade bodies we support through memberships are as follows: 
+
+• Chartered Institute of Management Accountants
+
+• Fire Safety Managers’ Association
+
+• Institute of Singapore Chartered Accountants
+
+• Real Estate Developers’ Association of Singapore
+
+• Real Estate Information System
+
+• Singapore Academy of Law
+
+• Singapore Business Federation
+
+• Singapore Chinese Chamber of Commerce &amp; Industry
+
+• Singapore Corporate Counsel Association Ltd
+
+• Singapore International Chamber of Commerce
+
+• Singapore Green Building Council
+
+• Singapore National Employers Federation
+
+• The Institute of Internal Auditors
+
+• The Singapore Institute of Directors
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+13
+
+
+MATERIALITY
+
+We remain focused on managing our most important 
+
+sustainability 
+
+topics 
+
+identified 
+
+through 
+
+periodic 
+
+materiality 
+
+assessment. 
+
+In 
+
+assessing 
+
+materiality, 
+
+we consider our business operations’ economic, 
+
+environmental and social impact, our key stakeholders’ 
+
+views and the megatrends in sustainability relevant 
+
+to our sector. We also refer to GRI’s Construction and 
+
+Real Estate Sector Disclosures to select the appropriate 
+
+material disclosures. Starting from this report, we have 
+
+also adopted SASB’s Real Estate Accounting Standard 
+
+to have a sharper focus on financially material ESG 
+
+issues to serve investors’ information needs.
+
+We have continued to build on the first materiality 
+
+assessment conducted in 2017 through annual 
+
+reviews. In 2020, the review process comprised an 
+
+internal stakeholder engagement survey to seek 
+
+employees’ views on prioritising our material topics and 
+
+benchmarking peer reports. Based on the latest insight, 
+
+except for employee turnover, we have determined that 
+
+the material factors reported in our SR2019 remain valid. 
+
+Though not considered material, we have continued to 
+
+disclose employee turnover.
+
+MATERIAL TOPICS, BOUNDARIES AND MANAGEMENT APPROACH
+
+Material Topic
+
+Where the Impact is 
+
+Material
+
+Singland’s Involvement
+
+Management Approach
+
+Economic 
+
+Performance
+
+The entire Group
+
+Direct
+
+Create long-term value for 
+
+stakeholders
+
+Anti-Corruption
+
+The entire Group
+
+Direct
+
+Maintain zero tolerance for fraud 
+
+and unethical behaviour
+
+Energy 
+
+Buildings and 
+
+Development projects
+
+Direct /
+
+Through contractor 
+
+relationships
+
+Adopt energy efficiency measures in 
+
+buildings and development projects
+
+GHG Emissions
+
+Buildings and 
+
+Development projects
+
+Direct /
+
+Through contractor 
+
+relationships
+
+Minimise and mitigate greenhouse 
+
+gas emissions from buildings and 
+
+during construction
+
+Water 
+
+Buildings and 
+
+Development projects
+
+Direct /
+
+Through contractor 
+
+relationships
+
+Adopt water efficiency measures in 
+
+buildings and construction
+
+Health and Safety
+
+Buildings and 
+
+Development projects
+
+Direct /
+
+Through contractor 
+
+relationships
+
+Ensure compliance with workplace 
+
+safety and health regulations and 
+
+procedures
+
+Employee Training
+
+The entire Group
+
+Direct
+
+Provide opportunities for individual 
+
+learning and development
+
+Data Privacy
+
+The entire Group
+
+Direct
+
+Compliance with Personal Data 
+
+Protection Act (PDPA) rules and 
+
+regulations
+
+Regulatory 
+
+Compliance
+
+The entire Group
+
+Direct /
+
+Through contractor 
+
+relationships
+
+Compliance with applicable socio-
+
+economic and environmental laws
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+14
+
+
+ECONOMIC PERFORMANCE
+
+Singland remains committed to creating sustainable 
+
+economic value for our shareholders and stakeholders. 
+
+Sustainably conducting business and generating stable 
+
+recurring revenue streams have been the company’s 
+
+core business directives since its inception. 
+
+We provide detailed information outlining the Group’s 
+
+financial performance, management reviews, corporate 
+
+governance and risk management systems in our 
+
+Annual Reports. 
+
+For more information on Singland’s business activities 
+
+and performance, please refer to UIC’s Annual Report 
+
+2020 at http://uic.com.sg/investor-relations/annual-
+
+report/.
+
+INDIRECT ECONOMIC PERFORMANCE
+
+Singland contributes to Singapore’s economy by 
+
+building high-quality homes, providing office and retail 
+
+spaces, creating jobs, and paying taxes. We contribute 
+
+to the local economy indirectly through our supply 
+
+chain. We engage local contractors and suppliers for 
+
+our property development and building management, 
+
+which indirectly generate jobs and incomes. 
+
+
+
+
+
+
+
+Singapore Land Tower
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+15
+
+
+Singland is committed to supporting the transition 
+
+to a low-carbon economy as envisioned by the Paris 
+
+Agreement, the UN SDGs and the Singapore Green 
+
+Plan. We aspire to steer our business towards net zero-
+
+emissions by making our buildings and projects efficient 
+
+and resilient.
+
+The 
+
+buildings 
+
+and 
+
+construction 
+
+sector 
+
+has 
+
+a 
+
+complex environmental footprint, including materials, 
+
+greenhouse gas emissions and water. Our approach is 
+
+to integrate sustainability in the design and construction 
+
+to the operation and maintenance of our buildings and 
+
+development projects. Our policies aim to minimise the 
+
+impact of our operations on the environment. 
+
+We have recognised energy consumption, carbon 
+
+dioxide emissions and water use as our material 
+
+environmental impacts. Our efforts focus on exploring 
+
+ways to enhance the energy and water efficiencies of 
+
+our buildings. We have established targets to measure 
+
+and report our progress. 
+
+This 
+
+report 
+
+presents 
+
+Singland’s 
+
+environmental 
+
+performance relating to our corporate office, retail and 
+
+commercial office buildings, development projects, and 
+
+information technology business.
+
+ENVIRONMENT MANAGEMENT SYSTEM
+
+We have adopted a robust Environmental Management 
+
+System (“EMS”) to continuously improve our buildings’ 
+
+performance. We are also making progress toward 
+
+adopting international environmental management 
+
+system standards such as ISO 14001. West Mall has 
+
+already received ISO 14001:2015 (Property and Facility 
+
+Management for Shopping Mall) certification for its 
+
+EMS. 
+
+CLIMATE-RELATED RISKS AND OPPORTUNITIES
+
+Carbon Dioxide (CO2) emissions from buildings’ 
+
+operation account for an estimated 28% of total 
+
+global energy-related CO2 emissions. The buildings 
+
+sector specifically faces physical risks from climate 
+
+change, such as direct damage to assets and financial 
+
+implications from water stress, extreme weather and an 
+
+increase in global temperatures. Decarbonising existing 
+
+and future global building stock is crucial to mitigating 
+
+climate change risks.
+
+In general terms, our potential climate-related risks 
+
+include transition risks emerging from a range of issues, 
+
+including but not limited to lost business opportunity, 
+
+regulatory exposure, more stringent building design 
+
+rules, carbon pricing and taxes, water stress, the physical 
+
+risk to our assets, employee health and safety, and 
+
+reputation risk. Simultaneously, there are opportunities 
+
+to meet the growing demand for green office and retail 
+
+spaces by sustainability-conscious tenants, reduced 
+
+operating cost resulting from energy-efficient and water-
+
+conserving buildings and enhanced access to green 
+
+finance.
+
+Our target of transitioning all the buildings we own 
+
+to a BCA Green Mark Certification by 2030 and our 
+
+commitment to meet at least the BCA Green Mark Gold 
+
+for each new development will help us mitigate some 
+
+short-term and long-term climate-related risks. 
+
+Our plans include an in-depth study of climate-related 
+
+risks and opportunities for our business, including a 
+
+climate-related scenario analysis within two years. The 
+
+insight gained from the climate risk assessment will help 
+
+us align our governance, strategy, risk management 
+
+and metrics and targets to support the Group’s 
+
+transition to lower-carbon operations. The assessment 
+
+will help us develop a process for managing climate-
+
+related risks and set a science-based target for reducing 
+
+greenhouse gas emissions.
+
+In 2021, the government unveiled the Singapore Green 
+
+Plan 2030, of which one key focus is combating climate 
+
+change through sustainable living. Earlier in 2018, 
+
+Singland made the ‘Singapore Climate Action Pledge’ 
+
+to support the Year of Climate Action declared by 
+
+the then Singapore’s Ministry of the Environment and 
+
+Water Resources. As part of our climate action pledge, 
+
+six out of nine buildings have completed at least 50% 
+
+replacement of LED luminaires at common areas. The 
+
+replacement of LED luminaries contributes to achieving 
+
+Green Mark certification for all our buildings by 2030, 
+
+and helps the Company play its part in supporting the 
+
+Singapore Green Plan 2030. 
+
+As part of Singland’s efforts to raise awareness about 
+
+climate change, a number of our buildings including 
+
+Clifford Centre, Singapore Land Tower and Marina 
+
+Square switched off their façade and non-essential 
+
+lights during Earth Hour 2020.
+
+ENVIRONMENT
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+16
+
+
+
+
+
+
+
+
+
+
+GHG EMISSIONS
+
+At the operational level, driving energy efficiency during 
+
+construction and building management remains 
+
+our core priority to limit our business’s carbon dioxide 
+
+emissions. We track and report Scope-1 and Scope-2 
+
+CO2 emissions. Our Scope 1 emissions result from diesel 
+
+consumed at our development project sites, petrol 
+
+consumption in vehicles, and diesel and refrigerants 
+
+used in buildings. Our Scope 2 emissions are from 
+
+electricity use across our corporate office, buildings 
+
+(retail and commercial office), development projects 
+
+and information technology business.
+
+In 2020, the total GHG emissions for commercial office 
+
+and retail buildings were 25,551 tonnes of CO2 with a 
+
+GHG emissions intensity of 56.4kg CO2e/m2.
+
+For buildings, Scope 2 emissions account 99.7% of total 
+
+GHG emissions.
+
+The Scope 2 GHG emissions intensity for our commercial 
+
+office and retail buildings in 2020 was 56.2kg CO2/m2.
+
+62.8
+
+63.1
+
+51.9
+
+GHG EMISSIONS - CORPORATE OFFICE
+
+* 
+
+Our corporate office sits within Clifford Centre (Level 22 and 24) 
+
+and forms a subset of the building energy and GHG emissions 
+
+reported. 
+
+* 
+
+Above data of 62.8 tonnes CO2 emissions in 2018 was an 
+
+approximated figure based on the actual 74.9 MWh energy 
+
+use recorded from 20 Jul – 31 Dec 2018.
+
+tonnes CO2
+
+70.0
+
+60.0
+
+50.0
+
+40.0
+
+30.0
+
+20.0
+
+2018
+
+2019
+
+2020
+
+Note:
+
+Total GHG Emissions include Scope 2 emissions from purchased 
+
+electricity, and in 2020, Scope 1 emissions from refrigerants and 
+
+diesel was added.
+
+TOTAL GHG EMISSIONS (ABSOLUTE) - BUILDINGS
+
+tonnes CO2e
+
+35,000
+
+30,000
+
+25,000
+
+20,000
+
+15,000
+
+10,000
+
+5,000
+
+0
+
+16,804
+
+8,747
+
+18,920
+
+10,463
+
+18,478
+
+9,767
+
+28,245
+
+29,383
+
+25,551
+
+2018
+
+2019
+
+2020
+
+ 
+
+Buildings 
+
+(Retail)
+
+ 
+
+Buildings 
+
+(Commercial Office)
+
+Note:
+
+Total GHG Emissions include Scope 2 emissions from purchased 
+
+electricity, and in 2020, Scope 1 emissions from refrigerants and 
+
+diesel was added.
+
+TOTAL GHG EMISSIONS (INTENSITY) - BUILDINGS
+
+kg CO2e/m2
+
+75.0
+
+70.0
+
+65.0
+
+60.0
+
+55.0
+
+50.0
+
+45.0
+
+60.8
+
+62.4
+
+65.5
+
+62.3
+
+64.9
+
+70.2
+
+55.3
+
+56.4
+
+58.6
+
+2018
+
+2019
+
+2020
+
+ Buildings 
+
+(Retail)
+
+ Buildings 
+
+(Total)
+
+ Buildings 
+
+(Commercial Office)
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+17
+
+
+ENERGY EFFICIENCY
+
+The buildings and construction sector accounted for 
+
+38% of total global energy-related CO2 emissions in 2019, 
+
+according to the 2020 Global Status Report for Buildings 
+
+and Construction. Electricity continues to be the primary 
+
+source of energy consumed by buildings representing 
+
+nearly 55% of global electricity consumption.
+
+Our approach is to pursue energy efficiency measures 
+
+such as passive and low-energy designs to minimise 
+
+energy intensity from the commercial office and retail 
+
+properties we manage. Our BCA Green Mark certified 
+
+buildings in Singapore promote energy efficiency 
+
+through sustainable design and operational practices. 
+
+In 2020, West Mall completed the replacement of 
+
+35 air handling units (“AHUs”) with new AHUs fitted 
+
+with electronically commutated (“EC”) fans. The 
+
+replacement has improved West Mall’s indoor air 
+
+quality, minimized air conditioning system downtime 
+
+and optimised energy usage for the mall.
+
+The total energy (electricity) consumed in both retail 
+
+and commercial office buildings was 62,335MWh, with 
+
+a building energy intensity of 138kWh/m2. 
+
+Our target is to reduce our commercial office buildings’ 
+
+electricity intensity by 8% by 2025, using 2015 as the 
+
+base year. We target to maintain the electricity intensity 
+
+of our commercial office buildings at 149 kWh/m2 in 
+
+2021.
+
+Energy consumption across our portfolio decreased in 
+
+2020 due to a decline in shoppers, tenants and visitors to 
+
+our malls and commercial offices during the COVID-19 
+
+Circuit Breaker and beyond.
+
+ELECTRICITY SAVING CAMPAIGN
+
+As part of Singland’s sustainability efforts, electricity-
+
+saving decals were printed for distribution to all tenants’ 
+
+office premises. All building managers from the SWC 
+
+assisted with the decal distribution to tenants. These 
+
+decals were applied near light switches to remind users 
+
+to switch off lights when not in use.
+
+ENERGY INTENSITY
+
+(Commercial Office Buildings)
+
+2020
+
+Target
+
+2020 
+
+Performance
+
+2021
+
+Target
+
+149 kWh/m2
+
+135 kWh/m2
+
+149 kWh/m2
+
+150
+
+151
+
+127
+
+ELECTRICITY CONSUMPTION - CORPORATE OFFICE
+
+Note: Energy refers to purchased electricity only. 
+
+* 
+
+Our corporate office sits within Clifford Centre (Level 22 and 24) 
+
+and forms a subset of the building energy and GHG emissions 
+
+reported. 
+
+* 
+
+Above data of 150 MWh energy use in 2018 was an 
+
+approximated figure based on the actual 74.9 MWh energy 
+
+use recorded from 20 Jul – 31 Dec 2018. 
+
+MWh
+
+GJ
+
+190
+
+170
+
+150
+
+130
+
+110
+
+90
+
+70
+
+50
+
+600
+
+550
+
+500
+
+450
+
+400
+
+350
+
+300
+
+539
+
+542
+
+458
+
+2018
+
+2019
+
+2020
+
+ELECTRICITY CONSUMPTION (ABSOLUTE) - 
+
+BUILDINGS
+
+MWh
+
+80,000
+
+70,000
+
+60,000
+
+50,000
+
+40,000
+
+30,000
+
+20,000
+
+10,000
+
+0
+
+40,924
+
+45,177
+
+44,078
+
+21,411
+
+24,984
+
+23,300
+
+67,378
+
+70,161
+
+62,335
+
+2018
+
+2019
+
+2020
+
+ 
+
+Buildings 
+
+(Retail)
+
+ 
+
+Buildings 
+
+(Commercial Office)
+
+ENVIRONMENT
+
+ELECTRICITY CONSUMPTION (INTENSITY) - 
+
+BUILDINGS
+
+kWh/m2
+
+180
+
+170
+
+160
+
+150
+
+140
+
+130
+
+120
+
+110
+
+100
+
+145
+
+149
+
+156
+
+149
+
+155
+
+168
+
+135
+
+138
+
+144
+
+2018
+
+2019
+
+2020
+
+ Buildings 
+
+(Retail)
+
+ Buildings 
+
+(Total)
+
+ Buildings 
+
+(Commercial Office)
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+18
+
+
+147,595
+
+162,638
+
+158,681
+
+Note:
+
+Energy refers to purchased electricity, and in 2020, fuel (diesel) was 
+
+added.
+
+77,082
+
+89,944
+
+83,880
+
+ENERGY CONSUMPTION (ABSOLUTE) - BUILDINGS
+
+GJ
+
+300,000
+
+250,000
+
+200,000
+
+150,000
+
+100,000
+
+50,000
+
+0
+
+242,561
+
+252,582
+
+224,677
+
+2018
+
+2019
+
+2020
+
+ 
+
+Buildings 
+
+(Retail)
+
+ 
+
+Buildings 
+
+(Commercial Office)
+
+ENERGY CONSUMPTION (INTENSITY) - BUILDINGS
+
+GJ/m2
+
+0.65
+
+0.60
+
+0.55
+
+0.50
+
+0.45
+
+0.40
+
+0.52
+
+0.54
+
+0.56
+
+0.54
+
+0.56
+
+0.60
+
+0.49
+
+0.50
+
+0.52
+
+2018
+
+2019
+
+2020
+
+ Buildings 
+
+(Retail)
+
+ Buildings 
+
+(Total)
+
+ Buildings 
+
+(Commercial Office)
+
+2020, Singland embarked on a campaign to encourage 
+
+all tenants, visitors and shoppers in our buildings to 
+
+conserve water and electricity.
+
+Electricity- and water-saving decals were printed for 
+
+tenants’ premises, and our Sustainability Working 
+
+Committee’s (SWC) building managers took charge of 
+
+the distribution.
+
+Water-saving decals were also applied in common 
+
+pantries and in restrooms to remind users to practice 
+
+water-saving habits.
+
+
+
+
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+19
+
+
+WATER EFFICIENCY
+
+Water scarcity and water stress have become global 
+
+concerns leading to calls for water efficiency and 
+
+conservation. Singapore is vulnerable to water stress 
+
+due to the lack of natural freshwater resources. 
+
+In our commercial office and retail buildings, water use 
+
+includes building maintenance, toilet flushing, sanitary 
+
+faucets, washing and cleaning floors, cooling towers, 
+
+and HVAC systems. In our development projects, water 
+
+is used for building construction. Our entire water supply 
+
+in Singapore is from the public utility.
+
+We are committed to reducing water use intensity in 
+
+our buildings and construction. In 2020, SGX Centre 
+
+conducted renovations for the building’s restrooms 
+
+and upgraded sanitary fittings like basin taps, bib taps 
+
+and urinal flush valves to the 3-ticks water saving label, 
+
+and was awarded the Water Efficient Building (“WEB”) 
+
+Certification by the Public Utilities Board (“PUB”). Across 
+
+Singland’s portfolio, installation of water-efficient taps 
+
+and auto sensors and flush valves also contributes to 
+
+our efforts to promote water-efficiency. Our buildings’ 
+
+maintenance teams perform regular checks of the 
+
+water systems to prevent wastage due to water leakage.
+
+In 2020, the total water consumption in retail and 
+
+commercial office buildings was 364 megalitres, with a 
+
+building water intensity of 0.80 m3/m2. The total water 
+
+consumption included 7.99 megalitres of NEWater, 
+
+Singapore’s high-grade reclaimed water. Supplied 
+
+by the public utility PUB, NEWater is being used in UIC 
+
+Building mainly for air-conditioning chillers.
+
+Water consumption intensity across our portfolio 
+
+decreased in 2020 due to a decline in shoppers, 
+
+tenants and visitors to our malls and commercial offices 
+
+during the COVID-19 Circuit Breaker and beyond. While 
+
+cleaning of common areas was stepped up, we have 
+
+still achieved a reduced water intensity across our 
+
+portfolio in 2020 compared to 2019.
+
+Our target is to achieve a water intensity of 1.14 m3/m2 
+
+for all our commercial office and retail buildings by 
+
+2025. In line with this, we have a water intensity target of 
+
+1.165 m3/m2 for 2021.
+
+WATER SAVING CAMPAIGN
+
+Singland also embarked on a Save Water Campaign in 
+
+2020, printing water saving decals for our commercial 
+
+office and retail buildings’ restrooms to remind users to 
+
+save water. All building managers from the SWC assisted 
+
+in the decal distribution. The decals were applied in all 
+
+toilets and at common pantries.
+
+WASTEWATER
+
+Wastewater produced in our buildings is discharged 
+
+into the municipal drainage system for centralised 
+
+sewage treatment. At our development sites, we work 
+
+closely with our contractors to manage and monitor 
+
+construction wastewater quality and the required 
+
+treatment before discharge into the drainage system.
+
+WATER INTENSITY
+
+(Commercial Office &amp; Retail Buildings)
+
+2020
+
+Target
+
+2020 
+
+Performance
+
+2021
+
+Target
+
+Not exceeding 
+
+1.180 m3/m2
+
+0.803 m3/m2
+
+1.165 m3/m2
+
+ENVIRONMENT
+
+WATER CONSUMPTION (ABSOLUTE) - BUILDINGS
+
+megalitres
+
+600
+
+500
+
+400
+
+300
+
+200
+
+100
+
+0
+
+272
+
+91
+
+387
+
+146
+
+355
+
+145
+
+500
+
+533
+
+364
+
+2018
+
+2019
+
+2020
+
+ 
+
+Buildings 
+
+(Retail)
+
+ 
+
+Buildings 
+
+(Commercial Office)
+
+WATER CONSUMPTION (INTENSITY) - BUILDINGS
+
+m3/m2
+
+1.40
+
+1.20
+
+1.00
+
+0.80
+
+0.60
+
+0.40
+
+1.00
+
+1.10
+
+1.17
+
+0.98
+
+1.18
+
+1.27
+
+0.61
+
+0.80
+
+0.90
+
+2018
+
+2019
+
+2020
+
+ Buildings 
+
+(Retail)
+
+ Buildings 
+
+(Total)
+
+ Buildings 
+
+(Commercial Office)
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+20
+
+
+WASTE MANAGEMENT
+
+We are committed to minimising waste in our operations. 
+
+Waste is primarily produced in our value chain involving 
+
+tenants, visitors and contractors. Almost all of the waste 
+
+generated at our buildings and development projects 
+
+is non-hazardous. We ensure all waste is disposed of by 
+
+licensed waste management companies according to 
+
+local regulations. 
+
+We have implemented waste management procedures 
+
+at our retail and commercial office buildings to 
+
+collect, store, and dispose of waste. Our efforts include 
+
+awareness campaigns and engagement with our 
+
+tenants for reducing waste at our premises. 
+
+In our development projects, waste is generated by 
+
+contractors, which primarily includes construction and 
+
+demolition waste. We require all main contractors to have 
+
+an ISO 14001 certified environmental management 
+
+system covering waste management measures.
+
+While we currently do not report waste management 
+
+data, we are on track to establishing a general waste 
+
+management reporting system. With more accurate 
+
+reporting, we strive to engage our retail and office 
+
+tenants in active waste reduction and recycling. 
+
+Singland’s commercial office and retail properties 
+
+participated in Starhub’s RENEW e-waste collection 
+
+programme in 2020. In total, 2,609kg of e-waste was 
+
+collected for recycling in 2020. Singland continues to 
+
+support national e-waste collection programmes in 
+
+Singapore.
+
+In line with the National Environment Agency (“NEA”)’s 
+
+push towards a zero waste nation, West Mall completed 
+
+the commissioning of an on-site food waste digester in 
+
+October 2020 to enable tenants to segregate and treat 
+
+food waste on-site. A total of 48.9 tonnes of food waste 
+
+was processed in 2020.
+
+
+
+
+
+
+
+ENVIRONMENTAL COMPLIANCE
+
+We take regulatory compliance seriously. Compliance 
+
+with the applicable environmental health and safety 
+
+regulations throughout our operations is crucial for 
+
+our reputation and uninterrupted business operation. 
+
+In development projects, we require our contractors to 
+
+comply with the relevant rules and regulations relating 
+
+to environmental issues such as noise, vector control 
+
+and wastewater discharge.
+
+In 2020, there were no reportable incidents of significant 
+
+non-compliance with environmental laws.
+
+West Mall Food Waste Digester
+
+Starhub RENEW e-waste bin
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+21
+
+
+ENERGY EFFICIENCY AND GHG EMISSIONS
+
+UICT uses electricity for office lightings, air-conditioning 
+
+system, and computers, servers, copiers and office 
+
+equipment. UICT has been progressively switching 
+
+existing office lightings to more sustainable energy-
+
+saving LED lights, and the exercise is scheduled to 
+
+complete in May 2021. 
+
+In 2020, we have started reporting fuel consumption 
+
+from a UICT-owned vehicle.
+
+221
+
+ELECTRICITY CONSUMPTION - UIC TECHNOLOGIES
+
+MWh
+
+300
+
+250
+
+200
+
+150
+
+100
+
+2018
+
+2019
+
+2020
+
+279
+
+193
+
+ENERGY CONSUMPTION - UIC TECHNOLOGIES
+
+GJ
+
+1,200
+
+1,000
+
+800
+
+600
+
+400
+
+200
+
+0
+
+1,004
+
+794
+
+182
+
+694
+
+2018
+
+2019
+
+2020
+
+ 
+
+Electricity
+
+ 
+
+Fuel (Petrol)
+
+Note:
+
+Energy refers purchased electricity, and in 2020, fuel (petrol) was 
+
+added.
+
+TOTAL GHG EMISSIONS - UIC TECHNOLOGIES
+
+tonnes CO2e
+
+120.0
+
+100.0
+
+80.0
+
+60.0
+
+40.0
+
+20.0
+
+0
+
+107.9
+
+92.4
+
+78.7
+
+13.5
+
+2018
+
+2019
+
+2020
+
+ 
+
+Scope 2 (indirect) Emissions
+
+ 
+
+Scope 1 (Direct) Emissions
+
+Note:
+
+Total GHG Emissions refers to Scope 2 emissions from purchased 
+
+electricity, and in 2020, Scope 1 emissions from fuel (petrol) was 
+
+added.
+
+ENVIRONMENT
+
+INFORMATION TECHNOLOGY BUSINESS
+
+Our subsidiary UIC Technologies Pte Ltd (“UICT”) aims 
+
+to minimise its operational impact on the environment. 
+
+UICT closely monitors energy consumption, carbon 
+
+dioxide emissions and water use to identify opportunities 
+
+for reducing its environmental footprint.
+
+WATER
+
+UICT’s water consumption is mainly for domestic 
+
+purposes such as drinking and cleaning.
+
+WATER CONSUMPTION - UIC TECHNOLOGIES
+
+megalitres
+
+0.12
+
+0.10
+
+0.08
+
+0.06
+
+0.04
+
+0.02
+
+0
+
+0.094
+
+0.111
+
+0.064
+
+2018
+
+2019
+
+2020
+
+In 2020, overall energy and water usage in UICT decreased due to the work-from-home measures instituted during 
+
+Singapore’s COVID-19 Circuit Breaker period.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+22
+
+
+DEVELOPMENT PROJECTS
+
+We require all main contractors to maintain the ISO 
+
+14001 or an equivalent certification to ensure a robust 
+
+environmental management system.
+
+For this report, we include one development project 
+
+for 2020 which is identical to the one in 2019, The Tre 
+
+Ver. Singland owns a 50% interest in The Tre Ver in a joint 
+
+venture with UOL.
+
+ENERGY CONSUMPTION (ABSOLUTE &amp; INTENSITY) - 
+
+DEVELOPMENT PROJECTS
+
+GJ
+
+GJ/value of work completed ($’000)
+
+25,500
+
+20,500
+
+15,500
+
+10,500
+
+5,500
+
+500
+
+1.00
+
+0.50
+
+0.00
+
+-0.50
+
+-1.00
+
+-1.50
+
+-2.00
+
+17,665
+
+11,244
+
+14,322
+
+0.29
+
+0.52
+
+0.78
+
+2018
+
+2019
+
+2020
+
+GHG EMISSIONS (ABSOLUTE &amp; INTENSITY) - 
+
+DEVELOPMENT PROJECTS
+
+tonnes CO2e
+
+kgCO2e/value of work completed ($’000)
+
+2,000
+
+1,500
+
+1,000
+
+500
+
+0
+
+40.0
+
+20.0
+
+0.0
+
+-20.0
+
+-40.0
+
+-60.0
+
+-80.0
+
+-100.0
+
+1,386
+
+833
+
+1,061
+
+22.4
+
+38.8
+
+0.06
+
+2018
+
+2019
+
+2020
+
+WATER CONSUMPTION (ABSOLUTE &amp; INTENSITY) - 
+
+DEVELOPMENT PROJECTS
+
+megalitres
+
+m3 / value of work completed ($’000)
+
+100
+
+80
+
+60
+
+40
+
+20
+
+0
+
+1.0
+
+0.5
+
+0.0
+
+-0.5
+
+-1.0
+
+-1.5
+
+-2.0
+
+-2.5
+
+-3.0
+
+55
+
+17
+
+17
+
+0.9
+
+0.001
+
+0.001
+
+2018
+
+2019
+
+2020
+
+
+
+
+
+Artist’s impression of The Tre Ver
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+23
+
+
+HEALTH AND SAFETY 
+
+Ensuring our people’s health and safety in our buildings 
+
+and project sites is an integral part of our corporate 
+
+responsibility. We also recognise that unfortunate 
+
+mishaps within our properties and development 
+
+projects can affect business continuity and corporate 
+
+reputation. Our target is to have a zero-accident 
+
+workplace. To this end, we are committed to promoting 
+
+a culture of workplace safety and health throughout 
+
+our business operations.
+
+We have implemented OHS policies and management 
+
+systems to protect our employees, tenants, contractors, 
+
+vendors, customers, guests, visitors to our buildings, 
+
+and workers at our development sites. Singland’s 
+
+senior management regularly reviews the health and 
+
+safety policies, performance and practices across our 
+
+businesses. Our OHS teams periodically review and 
+
+evaluate our operations and health and safety systems 
+
+and conduct annual audits on our properties to ensure 
+
+compliance with legal requirements.
+
+We have established OHS targets and track and report 
+
+performance against these targets. 
+
+In Singapore, we follow bizSAFE, a five-step national 
+
+programme to help companies build up capabilities 
+
+in addressing workplace safety, health and security. 
+
+Marina Square and UIC Technologies have obtained 
+
+the bizSAFE Level 3 certification, and West Mall’s bizSAFE 
+
+certification is currently in progress. For UIC Building, our 
+
+facility management services provider has attained 
+
+bizSAFE Level Star, the highest level achievable for 
+
+certification by bizSAFE.
+
+OHS TARGETS - BUILDINGS
+
+2020
+
+Targets
+
+2020 
+
+Performance
+
+2021
+
+Target
+
+Achieve zero 
+
+accident at 
+
+workplace and 
+
+project sites 
+
+(from SR2019)
+
+Zero fatality
+
+Zero 
+
+occupational 
+
+disease
+
+Two non-fatal 
+
+workplace injury 
+
+(employees) 
+
++ One non-
+
+fatal injury 
+
+(contractor)
+
+Achieve zero 
+
+workplace 
+
+incidents 
+
+resulting in 
+
+fatalities or 
+
+permanent 
+
+disabilities for 
+
+employees and 
+
+contractors
+
+BUILDINGS
+
+The health and safety of the tenants and visitors to 
+
+the buildings we manage are our top priorities. With 
+
+the onset of the COVID-19 pandemic and raising 
+
+of Singapore’s Disease Outbreak Response System 
+
+Condition (DORSCON) level to Orange, Singland’s 
+
+Building Management Services and retail operations 
+
+teams activated the Company’s Pandemic Response 
+
+Plan comprising:
+
+1. Implementation of thermal imaging cameras for 
+
+temperature screening of tenants and shoppers/ 
+
+visitors 
+
+2. Limiting of access points into all buildings for effective 
+
+crowd control
+
+3. Safe Entry registration and Health Declaration prior 
+
+to entry into Singland’s office buildings and retail 
+
+malls
+
+4. Placement of safe distancing markers at lobby 
+
+receptions, within lift carriages and other appropriate 
+
+areas
+
+5. Application of antimicrobial coating at high human 
+
+touch points, e.g. lift buttons and lift lobbies
+
+6. Provision of hand sanitisers at high human traffic 
+
+stoppage points, e.g. main lobbies of office buildings, 
+
+concierge areas, central atrium of retail malls
+
+7. Stepped-up cleaning of common areas
+
+Clifford Centre also installed permanent Ultra Violet-C 
+
+(UVC) emitters within the building’s air-conditioning 
+
+system for disinfection of any accumulated mould, virus 
+
+and bacteria growth to enhance ventilation hygiene 
+
+levels for tenants and visitors.
+
+In addition to the above, we have implemented a 
+
+comprehensive set of measures, guidelines, systems 
+
+and procedures to keep people safe in our buildings. 
+
+Also, we have set-up Emergency Response Teams to 
+
+deal with any safety or health emergencies.
+
+Our fire safety measures include modern fire control 
+
+equipment, regular fire drills, awareness campaigns, 
+
+standard operating procedures and training for our 
+
+building management employees and occupants 
+
+to ensure an orderly response to fire emergencies. We 
+
+have implemented a rigorous regime of preventive 
+
+maintenance and regular inspections of our buildings’ 
+
+lifts and escalators for safe operation.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+24
+
+
+
+
+CORPORATE OFFICE COVID-19 MEASURES
+
+With 
+
+the 
+
+emergence 
+
+of 
+
+the 
+
+COVID-19 
+
+pandemic, ensuring the health and wellbeing 
+
+of our employees and maintaining the highest 
+
+cleanliness and hygiene levels in the buildings has 
+
+become ever more critical. A Safe Management 
+
+System and appropriate standard operating 
+
+procedures (“SOP”) were set up to ensure 
+
+Singland’s workplaces remain safe as employees 
+
+were allowed to return to the office.
+
+As part of Safe Management System SOPs, 
+
+a 
+
+Safe 
+
+Management 
+
+Taskforce 
+
+comprising 
+
+key management staff of the Company was 
+
+established. Their responsibilities are to:
+
+• Set the direction for safe management 
+
+measures 
+
+within 
+
+Singland 
+
+in 
+
+line 
+
+with 
+
+government advisories
+
+• Take decisions on Company guidelines with 
+
+regard the COVID-19 pandemic situation
+
+• Review any non-compliance and corrective 
+
+action 
+
+plans 
+
+highlighted 
+
+by 
+
+the 
+
+Safe 
+
+Management Committee.
+
+As part of Safe Management System SOPs, a Safe 
+
+Management Committee comprising employees 
+
+from Singland’s various office locations was 
+
+formed. Their responsibilities are to:
+
+• Identify potential safe management risks and 
+
+implement safe management measures in the 
+
+workplace
+
+• Communicate potential risks to employees
+
+• Escalate 
+
+cases 
+
+of 
+
+non-compliance 
+
+with 
+
+Safe Management System SOPs to the Safe 
+
+Management Taskforce
+
+• Take 
+
+corrective 
+
+action 
+
+to 
+
+remedy 
+
+non-
+
+compliance. 
+
+OHS PERFORMANCE
+
+We regularly monitor the safety performance of our buildings. In 2020, there were no fatalities and no cases of 
+
+occupational diseases. There were two non-fatal injuries among the employees, and a contractor reported one 
+
+incident. There were five cases of injuries involving the public, tenants and visitors at the buildings. 
+
+Please refer to Sustainability Performance Data on page 34 for more details.
+
+DEVELOPMENT PROJECTS
+
+Accidents and mishaps are recognised safety hazards 
+
+in the building construction sector globally. We work 
+
+closely with our contractors to ensure stringent health 
+
+and safety measures at our development project 
+
+sites. We have developed comprehensive policies 
+
+and procedures to ensure health and safety at our 
+
+development projects under construction.
+
+We require all main contractors to hold the OHSAS 
+
+18001 or equivalent certification to ensure a robust 
+
+occupational health and safety management system. 
+
+We engage our contractors through weekly meetings 
+
+where safety reports, safety challenges and preventive 
+
+actions are reviewed and discussed.
+
+We engage our contractors and sub-contractors by 
+
+reviewing and simplifying the work processes to reduce 
+
+or eliminate all safety issues on site.
+
+Our development sites undergo external safety audits 
+
+twice yearly, and the auditor’s reports are reviewed and 
+
+submitted to the Ministry of Manpower.
+
+We had only one active development project in 2020. 
+
+There were no fatal injuries during the year. However, 
+
+there was one non-fatal injury at the project site that 
+
+resulted in 118 lost man days. The total number of hours 
+
+worked in the year was 725,832. The work-related injury 
+
+rate or formerly reported as Accident Frequency Rate 
+
+(AFR) was 1.4.
+
+REGULATORY COMPLIANCE
+
+In 2020, Singland had no incidents of non-compliance 
+
+with laws, codes and regulations concerning health 
+
+and safety at buildings and development projects.
+
+Please refer to Sustainability Performance Data on page 
+
+34 for more details.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+25
+
+
+PRODUCT AND SERVICE QUALITY 
+
+Singland is a diversified real estate company with a 
+
+business model that focuses on developing high-quality, 
+
+efficient and resilient retail, commercial office and 
+
+residential properties. We take a life-cycle approach 
+
+to embed quality and safety through all stages of our 
+
+buildings and development projects. 
+
+Quality standards and sustainability guidelines are 
+
+carefully incorporated, starting from the planning and 
+
+design stage to construction and building operation 
+
+and management. High standards of architectural 
+
+design and workmanship on structural, electrical and 
+
+mechanical works remain central to our buildings and 
+
+projects. Our buildings and projects are designed to 
+
+provide comfort and convenience to residents, tenants, 
+
+shoppers and visitors.
+
+We are focused on providing best in class customer 
+
+service to our tenants in the operation and management 
+
+of our retail and commercial office buildings. We are 
+
+committed to delivering high levels of customer service 
+
+and addressing complaints satisfactorily. We constantly 
+
+seek feedback from our tenants to understand their 
+
+needs and expectations.
+
+Our new development projects follow BCA’s Construction Quality Assessment System (CONQUAS). A score-based 
+
+rating system, CONQUAS serves as a national standard for assessing the quality of building projects. 
+
+AWARDS, RECOGNITIONS AND ACHIEVEMENTS
+
+DEVELOPMENT PROJECTS
+
+Our residential development projects below were conferred the respective awards:
+
+Project Name
+
+Award Name
+
+Award Category
+
+Clavon
+
+PropertyGuru Asia 
+
+Property Awards Grand 
+
+Final (Regional)
+
+• Country Winner – Best High-Rise Condo Architectural Design 
+
+(Asia)
+
+PropertyGuru Asia 
+
+Property Awards 
+
+(Singapore)
+
+• Winner – Best Private Condo Architectural Design
+
+• Highly Commended – Best Private Condo Landscape 
+
+Architectural Design
+
+Avenue South 
+
+Residence, 
+
+Singapore
+
+PropertyGuru Asia 
+
+Property Awards Grand 
+
+Final (Regional)
+
+• Country Winner - Best High Rise Condo Architectural Design 
+
+(Asia)
+
+PropertyGuru Asia 
+
+Property Awards 
+
+(Singapore)
+
+• Winner – Best Mega-scale Condo Development
+
+• Winner – Best Mega-scale Condo Architectural Design
+
+• Highly-Commended – Best Sales Gallery Architectural Design
+
+International Property 
+
+Awards (Asia Pacific)
+
+• Winner - Residential High-rise Architecture Singapore
+
+EdgeProp Singapore 
+
+Excellence Awards
+
+• People’s Choice Award
+
+The Clement 
+
+Canopy
+
+EdgeProp Singapore 
+
+Excellence Awards
+
+• Design Excellence – Residential (Completed), Non-Central
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+26
+
+
+
+
+
+
+
+
+
+
+BUILDINGS
+
+Singland has committed to achieving Singapore’s BCA Green Mark for all existing retail 
+
+and commercial office buildings by 2030. Our target for all new development projects is to 
+
+achieve a minimum Green Mark Gold certification.
+
+The BCA Green Mark is a green building rating system established by BCA to evaluate 
+
+a building for its environmental impact and performance. BCA Green Mark certified 
+
+properties include sustainability features such as climate-responsive designs, energy and 
+
+water efficiency, sustainable construction materials, efficient waste management systems 
+
+and good indoor air quality.
+
+In addition to the above, Clifford Centre completed upgrading works for two of the building’s passenger lifts and 
+
+three sets of escalators in 2020 to improve tenants’ and visitors’ experience in the building.
+
+The following list details the BCA Green Mark certified buildings under the Singland group:
+
+BCA GREEN MARK AWARDS
+
+Property
+
+Category
+
+Year
+
+Singapore Land Tower
+
+BCA Green Mark Gold Plus
+
+Awarded in 2020
+
+Marina Square
+
+BCA Green Mark Certified
+
+Awarded in 2020
+
+West Mall
+
+BCA Green Mark Gold 
+
+Re-certified in 2019
+
+UIC Building
+
+BCA Green Mark Gold Plus
+
+Re-certified in 2019
+
+Stamford Court
+
+BCA Green Mark Platinum
+
+Awarded in 2019
+
+In addition, tenants are one of the Company’s key 
+
+stakeholders, and we are focused on journeying with 
+
+all our retail and commercial office tenants to tide 
+
+over the challenges brought about by the COVID-19 
+
+pandemic. In 2020, Singland provided over S$32 million 
+
+in rental relief to tenants, which included passing on of 
+
+property tax rebates and cash grant from the Singapore 
+
+government. We also worked closely with tenants 
+
+and offered flexibility in rental payments and lease 
+
+restructuring for tenants who faced severe operational 
+
+and cash flow issues.
+
+CUSTOMER HEALTH AND SAFETY
+
+We are equally mindful of the safety and health of 
+
+our home buyers, tenants and their employees, and 
+
+visitors and shoppers. Our buildings’ and projects’ 
+
+designs carefully consider the safety and health of all 
+
+occupants and users.
+
+We also support community programmes and initiatives. 
+
+Marina Square and West Mall, in partnership with the 
+
+Health Promotion Board, host complimentary workout 
+
+sessions to promote healthier living. Marina Square 
+
+hosted weekly Healthy Workplace Ecosystem sessions, 
+
+and West Mall hosted fortnightly Zumba sessions. The 
+
+workouts were suspended with the raising of Singapore’s 
+
+DORSCON level to Orange in February 2020. In February 
+
+2021, West Mall has been able to resume their fortnightly 
+
+Zumba workouts, and Marina Square with weekly Fight 
+
+Do sessions.
+
+To strengthen the nation’s fight against the COVID-19 
+
+pandemic, Singapore’s Smart Nation and Digital 
+
+Government Office conducted regular TraceTogether 
+
+education roadshows. Between October 2020 and 
+
+January 2021, Marina Square and West Mall were 
+
+identified as venues for the roadshows and supported 
+
+these efforts by hosting TraceTogether education 
+
+booths.
+
+INFORMATION TECHNOLOGY BUSINESS
+
+Our subsidiary UICT focuses on three main IT offerings: 
+
+systems integration, IT services and payroll software 
+
+and human resource outsourcing services. UICT was 
+
+conferred the HP Top Commercial PC Growth Partner, 
+
+DELL Data Centre Compute &amp; Solutions Partner of the 
+
+Year and DELL Platinum Partner awards in 2020. 
+
+In 2020, there were no incidents of health and safety 
+
+non-compliance resulting from the use of our buildings. 
+
+
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+27
+
+
+PEOPLE
+
+We are committed to nurturing an inclusive workplace 
+
+where all employees are valued, trusted and empowered. 
+
+Our policies provide a safe workplace, promote diversity, 
+
+shun discrimination, develop people, and offer equal 
+
+growth opportunities. We believe open communication, 
+
+engagement, 
+
+mutual 
+
+respect, 
+
+teamwork 
+
+and 
+
+collaborative work culture are fundamental to creating 
+
+productive and high performing organisations. 
+
+Our objective is to be an employer of choice and to 
+
+hire, retain and develop the right talent to support our 
+
+business goals and ambitions.
+
+EMPLOYMENT
+
+The Group employed 349 full-time employees as at 
+
+31 December 2020. Our property business accounted 
+
+for 65% of the total headcount with the remainder 
+
+employed in our information technology business. 
+
+During the year, Singland hired 29 new employees, of 
+
+which 14, or 48%, were women. 
+
+DIVERSITY AND INCLUSION
+
+Singland is an equal opportunity employer. Our policies 
+
+foster diversity and inclusion in our workforce. Our 
+
+people come from different age groups, with diverse 
+
+backgrounds and bring varied skills and experiences 
+
+to our workplace. In 2020, women accounted for 50% of 
+
+our workforce.
+
+EMPLOYEE ENGAGEMENT
+
+With the onset of the COVID-19 pandemic, the HR 
+
+department’s Employee Engagement Team organized 
+
+virtual events such as mental health and mindfulness 
+
+talks, mid-week trivias, Virtual Zumba, an online terrarium 
+
+workshop, an essential oils workshop, and lunchtime 
+
+webinars during Singapore’s Circuit Breaker and 
+
+beyond to help employees stay connected and socially 
+
+engaged whilst working from home. 
+
+Keeping with Singland’s annual durian party tradition, 
+
+boxes of freshly deshelled durian and longans were 
+
+also delivered to Singland and MCH employees in July, 
+
+which was warmly received.
+
+TALENT MANAGEMENT
+
+Our talent management focuses on constantly 
+
+evaluating the skills needed to deliver business results 
+
+and filling the gaps through training and hiring. 
+
+Succession planning and ensuring a talent pipeline for 
+
+key leadership positions remain essential in managing 
+
+our human capital.
+
+Percentage of Employees per Employment 
+
+Category by Gender
+
+Male
+
+Female
+
+Senior Management
+
+57%
+
+43%
+
+Executives
+
+47%
+
+53%
+
+Non-executives
+
+59%
+
+41%
+
+MEASURES IN RESPONSE TO COVID-19
+
+To facilitate the return of staff to the office post-
+
+Circuit Breaker, an online system was created to 
+
+enable employees to easily submit their travel 
+
+and 
+
+health 
+
+declarations 
+
+and 
+
+temperature 
+
+readings online. Staff were also issued with care 
+
+packages containing masks, hand sanitizers and 
+
+a thermometer. Staggered reporting and lunch 
+
+hours have been implemented as Singland seeks 
+
+to do its part to ease the morning and mealtime 
+
+crowd. Within the office, cleaning of common 
+
+spaces and high-touch surfaces has been 
+
+stepped up. 
+
+HR Department’s employee engagement team 
+
+also organized webinars for employees during the 
+
+Circuit Breaker to promote employee health and 
+
+mental well-being whilst national work-from-home 
+
+arrangements were being implemented. More 
+
+information on this can be found in the “People” 
+
+chapter within this Sustainability Report.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+28
+
+
+
+
+PERFORMANCE MANAGEMENT
+
+In line with our HR strategy of hiring, developing 
+
+and retaining diverse talent, we have put in place a 
+
+comprehensive performance management system. 
+
+Our organisation-wide performance appraisal process 
+
+enables employees and their managers to set clear 
+
+goals, establish training and coaching needs, share 
+
+feedback and agree on key performance areas. 
+
+The performance appraisal system also ensures fair 
+
+compensation and rewards for employees. Performance 
+
+appraisals are conducted annually and cover all full-
+
+time employees.
+
+TRAINING
+
+We provide opportunities for personal and professional 
+
+growth to our employees. Our training and development 
+
+programmes enable our employees to update their 
+
+skills and competencies to support career growth and 
+
+performance. 
+
+Last year, we set a target of at least 10 hours of average 
+
+training per employee in 2020. Due to the impact of 
+
+COVID-19, training schedules were disrupted in the first 
+
+half of 2020. With the Company’s effort to digitize and 
+
+streamline work processes, there will be more related 
+
+training opportunities for employees in 2021.
+
+To enhance Singland’s organisational capabilities and 
+
+the personal growth of our employees, we sponsor 
+
+curriculums that build leadership and management 
+
+skills besides the usual technical and functional training.
+
+We aim to maximise the value of learning and 
+
+development investments through conducting training 
+
+needs analysis, effective engagement with training 
+
+providers, establishing a structured process to evaluate 
+
+training effectiveness, capitalising on training subsidies 
+
+and grants provided by the government, and leveraging 
+
+on online resources and educational platforms to 
+
+deliver learning solutions designed to optimise business 
+
+and customer outcomes.
+
+SUSTAINABILITY TRAINING
+
+As we pursue ambitious ESG goals, we are taking steps 
+
+to boost our organizational knowledge and capability.
+
+In 2020, the members of our SWC and senior executives 
+
+from various departments attended an ESG data 
+
+management workshop to learn skills for improving 
+
+data quality and reliability.
+
+17 colleagues from the SSC and SWC completed the 
+
+GRI Standards Certified Training Course in 2020 to learn 
+
+sustainability reporting skills.
+
+TRAINING TARGET 
+
+2020
+
+Target
+
+2020 
+
+Performance
+
+2021
+
+Target
+
+At least 10 
+
+training hours 
+
+per employee
+
+7.5 hours
+
+At least 10 
+
+training hours 
+
+per employee
+
+16.5
+
+AVERAGE TRAINING HOURS PER EMPLOYEE
+
+Average hrs per full-time employee
+
+18.0
+
+16.0
+
+14.0
+
+12.0
+
+10.0
+
+8.0
+
+6.0
+
+4.0
+
+2.0
+
+0.0
+
+2018
+
+2019
+
+2020
+
+5.8
+
+7.5
+
+Employee Training Hours
+
+2018
+
+2019
+
+2020
+
+Management Level
+
+Male
+
+Female
+
+Male
+
+Female
+
+Male
+
+Female
+
+Overall
+
+6.0
+
+5.5
+
+16.6
+
+16.4
+
+9.0
+
+5.9
+
+1
+
+Senior Management
+
+15.4
+
+13.9
+
+37.7
+
+26.8
+
+17.1
+
+20.6
+
+2
+
+Executives
+
+6.7
+
+7.1
+
+20.9
+
+17.2
+
+12.0
+
+6.4
+
+3
+
+Non-executives
+
+3.3
+
+0
+
+3.8
+
+11.4
+
+1.0
+
+0.2
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+29
+
+
+RE-EMPLOYMENT
+
+Singapore Land Group supports the rehiring of retiring 
+
+employees beyond the statutory retirement age of 62 
+
+years. We offer re-employment contracts on an annual 
+
+renewal basis to eligible employees who continue to 
+
+utilise their skills and expertise, enabling them to stay 
+
+productive in the workforce. In 2020, we re-employed 24 
+
+retiring employees.
+
+SOCIAL SECURITY
+
+In Singapore, we contribute to the Central Provident 
+
+Fund (CPF), a comprehensive social security savings 
+
+plan managed by the CPF Board under the Ministry 
+
+of Manpower, for Singapore citizens and permanent 
+
+residents. The CPF helps employees to fund their 
+
+retirement, 
+
+healthcare, 
+
+homeownership, 
+
+family 
+
+protection and asset enhancement.
+
+2020
+
+Male
+
+Female
+
+Total
+
+No. of New Hire
+
+15
+
+14
+
+29
+
+New Hire Rate
+
+9%
+
+8%
+
+8%
+
+No. of Turnover (voluntary &amp; involuntary)
+
+14
+
+13
+
+27
+
+Turnover Rate
+
+8%
+
+7%
+
+8%
+
+* 
+
+The rates are reported based on total number of employee for that category, as at 31 Dec 2020
+
+2020
+
+Under 30 years
+
+30-50 years
+
+Over 50 years
+
+Total
+
+No. of New Hire
+
+5
+
+18
+
+5
+
+29
+
+New Hire Rate
+
+23%
+
+11%
+
+3%
+
+8%
+
+No. of Turnover (voluntary &amp; 
+
+involuntary)
+
+2
+
+12
+
+13
+
+27
+
+Turnover Rate
+
+9%
+
+8%
+
+8%
+
+8%
+
+* 
+
+The rates are reported based on total number of employee for that category, as at 31 Dec 2020
+
+PEOPLE
+
+TURNOVER
+
+In 2020, the national industry turnover rate for the Real 
+
+Estate Services sector was 18%. Singland’s voluntary 
+
+turnover rate for the property business was 11.1%, which 
+
+was well below national industry average for real estate 
+
+services. Overall, Singapore Land Group’s employee 
+
+turnover for the year was 8.6%, inclusive of both voluntary 
+
+and involuntary turnover.
+
+16.5
+
+EMPLOYEE TURNOVER RATE
+
+%
+
+25.0
+
+20.0
+
+15.0
+
+10.0
+
+5.0
+
+0.0
+
+2018
+
+2019
+
+2020
+
+20.6
+
+8.6
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+30
+
+
+HUMAN RIGHTS
+
+The Company is committed to upholding nationally and 
+
+internationally recognised human rights. Our policies 
+
+prohibit child labour, forced labour and discrimination 
+
+across our business and value chains. We respect our 
+
+employees’ right to join a lawful labour union.
+
+Our human resource policies promote a diverse 
+
+and inclusive workplace culture based on merit and 
+
+performance. As a signatory to the Tripartite Alliance for 
+
+Fair Employment Practices (TAFEP) pledge, Singland is 
+
+committed to applying fair, responsible and progressive 
+
+employment practices. Our policies bar discrimination 
+
+in job advertisements, hiring, pay, promotions and 
+
+growth opportunities.
+
+As of 31 December 2020, 20% of our employees were 
+
+represented by Singapore Industrial and Services 
+
+Employees’ Union (SISEU) and Union of Security 
+
+Employees 
+
+(USE), 
+
+and 
+
+the 
+
+respective 
+
+Collective 
+
+Bargaining Agreements covered them.
+
+We have assessed child labour and forced labour risks 
+
+to be extremely low in our operations in Singapore. 
+
+In 2020, there were no incidents of child labour, forced 
+
+labour and discrimination in our operations.
+
+
+
+
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+31
+
+
+COMMUNITY
+
+OUR CSR INITIATIVES
+
+Singland is committed to being a positive force in the 
+
+communities where it operates. Our CSR initiatives 
+
+include 
+
+monetary 
+
+assistance 
+
+and 
+
+employee 
+
+volunteerism to help local communities. The company 
+
+focused its CSR activities in 2020 around a central 
+
+objective of lifting poverty through training and 
+
+employment. In line with this theme, Singland dedicated 
+
+a large part of its CSR efforts in 2020 to social enterprises 
+
+such as SDI Academy and Project Dignity.
+
+SDI ACADEMY
+
+SDI Academy is a social enterprise that aims to deliver 
+
+language, vocational and computer skills through ed-
+
+tech to migrant workers and refugees to upskill and allow 
+
+for better integration with society. In a show of support for 
+
+Singapore’s migrant workers who were confined to their 
+
+dormitories for extended periods during and beyond 
+
+the nation’s COVID-19 circuit breaker, four cohorts of 
+
+Singland volunteers took time to support and connect 
+
+with migrant workers in weekly ‘Speak English Sessions’ 
+
+on SDI Academy’s virtual platform. Singland also 
+
+sponsored the sign-up fees of 4,500 migrant workers on 
+
+SDI Academy’s Linger App, which facilitates and assists 
+
+migrant workers’ learning of the English language.
+
+REINVEND SOLUTIONS (RVS)
+
+ReinVend Solutions is a vending machine solutions 
+
+provider. In 2020, Singland partnered with RVS in their 
+
+charity GiftBack! program and provided complimentary 
+
+space at West Mall, Marina Square and Singapore 
+
+Land Tower for placement of their GiftBack! vending 
+
+machines. The GiftBack! vending machines provided 
+
+an additional sales channel at no cost to seven 
+
+disadvantaged beneficiaries like Rainbow Centre, Lion 
+
+Befrienders, The Art Faculty and Bishan Home for the 
+
+Intellectually Disabled to sell their handicraft products.
+
+
+
+ReinVend Solutions Giftback! Vending Machine
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+32
+
+
+PROJECT DIGNITY
+
+Project Dignity is a social enterprise with a mission 
+
+to 
+
+restore 
+
+dignity 
+
+to 
+
+the 
+
+differently-abled 
+
+and 
+
+disadvantaged by providing training to adults with 
+
+disabilities and special needs and placing them in 
+
+gainful employment. As part of Singland’s contribution 
+
+during 
+
+the 
+
+COVID-19 
+
+pandemic, 
+
+the 
+
+company 
+
+sponsored 3,000 bento boxes from the social enterprise 
+
+Dignity Kitchen for healthcare personnel at Changi 
+
+General Hospital (CGH) and Singapore General Hospital 
+
+(SGH). Singland employees also banded together to 
+
+pen “Love Notes” comprising words of encouragement 
+
+to our healthcare personnel, to express the company’s 
+
+appreciation of our healthcare workers.
+
+
+
+
+
+
+
+Food packers at Project Dignity
+
+Encouraging “Love Notes” from Singland staff
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+33
+
+
+SUSTAINABILITY PERFORMANCE DATA
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT UNIT
+
+2018
+
+2019
+
+2020
+
+ENVIRONMENTAL
+
+ELECTRICITY CONSUMPTION
+
+Corporate Office
+
+MWh
+
+150
+
+151
+
+127
+
+Buildings (Retail)
+
+MWh
+
+23,300
+
+24,984 
+
+21,411
+
+Buildings (Commercial)
+
+MWh
+
+44,078
+
+45,177 
+
+40,924
+
+Buildings (Total)
+
+MWh
+
+67,378
+
+70,161
+
+62,335
+
+Development Projects 
+
+MWh
+
+501
+
+0
+
+0
+
+UIC Technologies
+
+MWh
+
+279
+
+221 
+
+193
+
+FUEL CONSUMPTION
+
+Buildings (Total) (Diesel)
+
+L
+
+-
+
+-
+
+7,508
+
+Development Projects (Diesel)
+
+L
+
+439,136
+
+311,300
+
+396,500
+
+UIC Technologies (Petrol)
+
+L
+
+-
+
+-
+
+5,560
+
+ENERGY CONSUMPTION
+
+Corporate Office
+
+GJ 
+
+539
+
+542
+
+458
+
+Buildings (Retail)
+
+GJ
+
+83,880
+
+89,944
+
+77,082
+
+Buildings (Commercial)
+
+GJ
+
+158,681
+
+162,638
+
+147,595
+
+Buildings (Total)
+
+GJ
+
+242,561
+
+252,582
+
+224,677
+
+Development Projects
+
+GJ
+
+17,665
+
+11,244
+
+14,322
+
+UIC Technologies
+
+GJ
+
+1,004
+
+794
+
+876
+
+ELECTRICITY CONSUMPTION INTENSITY
+
+Buildings (Retail)
+
+kWh/m2
+
+156
+
+168
+
+144
+
+Building (Retail)
+
+m2
+
+149,131
+
+149,131
+
+149,131
+
+Buildings (Commercial)
+
+kWh/m2
+
+145
+
+149
+
+135
+
+Buildings (Commercial)
+
+m2
+
+303,760
+
+303,760
+
+303,760
+
+Buildings (Total)
+
+kWh/m2
+
+149
+
+155
+
+138
+
+ENERGY CONSUMPTION INTENSITY
+
+Buildings (Retail)
+
+GJ/m2
+
+0.56
+
+0.60
+
+0.52
+
+Buildings (Commercial)
+
+GJ/m2
+
+0.52
+
+0.54
+
+0.49
+
+Buildings (Total)
+
+GJ/m2
+
+0.54
+
+0.56
+
+0.50
+
+Development Projects
+
+GJ/value of work completed ($'000)
+
+0.29
+
+0.52
+
+0.78
+
+Development Projects
+
+Value of work completed ($'000)
+
+61,981
+
+21,491
+
+18,379
+
+GHG EMISSIONS
+
+Scope 1 (Direct) Emissions
+
+Buildings (Retail)
+
+tonnes CO2e
+
+-
+
+-
+
+0.225
+
+Buildings (Commercial)
+
+tonnes CO2e
+
+-
+
+-
+
+86.9
+
+Buildings (Total)
+
+tonnes CO2e
+
+-
+
+-
+
+87.1
+
+Development Projects
+
+tonnes CO2e
+
+1,176
+
+833
+
+1,061
+
+UIC Technologies
+
+tonnes CO2e
+
+-
+
+-
+
+13.5
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+34
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT UNIT
+
+2018
+
+2019
+
+2020
+
+Scope 2 (Indirect) Emissions
+
+Corporate Office
+
+tonnes CO2e
+
+62.8
+
+63.1
+
+51.9
+
+Buildings (Retail)
+
+tonnes CO2e
+
+9,767
+
+10,463
+
+8,746
+
+Buildings (Commercial)
+
+tonnes CO2e
+
+18,478
+
+18,920
+
+16,718
+
+Buildings (Total)
+
+tonnes CO2e
+
+28,245
+
+29,383
+
+25,464
+
+Development Projects
+
+tonnes CO2e
+
+210
+
+0
+
+0
+
+UIC Technologies
+
+tonnes CO2e
+
+107.9
+
+92.4
+
+78.7
+
+Total GHG Emissions
+
+Corporate Office
+
+tonnes CO2e
+
+62.8
+
+63.1
+
+51.9
+
+Buildings (Retail)
+
+tonnes CO2e
+
+9,767
+
+10,463
+
+8,747
+
+Buildings (Commercial)
+
+tonnes CO2e
+
+18,478
+
+18,920
+
+16,804
+
+Buildings (Total)
+
+tonnes CO2e
+
+28,245
+
+29,383
+
+25,551
+
+Development Projects
+
+tonnes CO2e
+
+1,386
+
+833
+
+1,061
+
+UIC Technologies
+
+tonnes CO2e
+
+107.9
+
+92.4
+
+92.3
+
+GHG EMISSIONS INTENSITY
+
+Buildings (Retail)
+
+kg CO2/m2
+
+65.5
+
+70.2
+
+58.6
+
+Buildings (Commercial)
+
+kg CO2/m2
+
+60.8
+
+62.3
+
+55.3
+
+Buildings (Total)
+
+kg CO2/m2
+
+62.4
+
+64.9
+
+56.4
+
+Development Projects
+
+kg CO2e by value of work completed 
+
+($'000)
+
+22.4
+
+38.8
+
+0.06
+
+WATER CONSUMPTION
+
+Buildings (Retail)
+
+megalitres
+
+145
+
+146 
+
+91
+
+Buildings (Commercial)
+
+megalitres
+
+355
+
+387 
+
+272
+
+Buildings (Total)
+
+megalitres
+
+500
+
+533
+
+364
+
+Development Projects
+
+megalitres
+
+55
+
+17
+
+17
+
+UIC Technologies
+
+megalitres
+
+0.094
+
+0.111
+
+0.064
+
+WATER CONSUMPTION INTENSITY
+
+Buildings (Retail)
+
+m3/m2
+
+1.00
+
+0.98
+
+0.63
+
+Buildings (Commercial)
+
+m3/m2
+
+1.17
+
+1.27
+
+0.88
+
+Buildings (Total)
+
+m3/m2
+
+1.10
+
+1.18
+
+0.80
+
+Development Projects
+
+m3 by value of work completed 
+
+($'000)
+
+0.9
+
+0.001
+
+0.001
+
+SOCIAL
+
+WORKPLACE SAFETY AND HEALTH
+
+FATALITY RATE
+
+Property Management - Employees
+
+(No. of fatalities as a result of work-
+
+related injury/ No. of hours worked) x 
+
+1,000,000
+
+-
+
+-
+
+0
+
+Property Management - Contractors
+
+-
+
+-
+
+0
+
+Development Projects - Contractors
+
+0
+
+0
+
+0
+
+UIC Technologies - Employees
+
+-
+
+-
+
+0
+
+UIC Technologies - Contractors
+
+-
+
+-
+
+0
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+35
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT UNIT
+
+2018
+
+2019
+
+2020
+
+WORK-RELATED INJURY RATE
+
+Property Management - Employees
+
+(No. of recordable work-related 
+
+Injuries / No. of hours worked) x 
+
+1,000,000
+
+-
+
+-
+
+4.8
+
+Property Management - Contractors
+
+-
+
+-
+
+0
+
+Development Projects - Contractors
+
+1.5
+
+1.7
+
+1.4
+
+UIC Technologies - Employees
+
+-
+
+-
+
+0
+
+UIC Technologies - Contractors
+
+-
+
+-
+
+0
+
+WORKPLACE INJURY RATE (WIR)
+
+Property Management - Employees
+
+Number of fatal and non-fatal 
+
+workplace injuries per 100,000 
+
+workers
+
+-
+
+-
+
+895
+
+Property Management - Contractors
+
+-
+
+-
+
+0
+
+UIC Technologies - Employees
+
+-
+
+-
+
+0
+
+UIC Technologies - Contractors
+
+-
+
+-
+
+0
+
+FATALITIES
+
+Property Management - Employees
+
+Number
+
+1
+
+0
+
+0
+
+Property Management - Contractors
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Main-
+
+contractors 
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Sub-
+
+contractors
+
+Number
+
+0
+
+0
+
+0
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+0
+
+0
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+0
+
+NO. OF NON-FATAL WORKPLACE INJURIES
+
+Property Management - Employees
+
+Number
+
+4
+
+0
+
+2
+
+Property Management - Contractors 
+
+see Note 2
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Main-
+
+contractors 
+
+Number
+
+2
+
+0
+
+1
+
+Development Projects - Sub-
+
+contractors
+
+Number
+
+1
+
+1
+
+0
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+0
+
+0
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+0
+
+OCCUPATIONAL DISEASES
+
+Property Management - Employees
+
+Number
+
+0
+
+0
+
+0
+
+Property Management - Contractors
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Main-
+
+contractors 
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Sub-
+
+contractors
+
+Number
+
+0
+
+0
+
+0
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+0
+
+0
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+0
+
+SUSTAINABILITY PERFORMANCE DATA
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+36
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT UNIT
+
+2018
+
+2019
+
+2020
+
+NO. OF LOST DAYS
+
+Property Management - Employees
+
+Number
+
+6,074
+
+10
+
+6
+
+Property Management - Contractors
+
+Number
+
+0
+
+0
+
+0
+
+Development Projects - Main-
+
+contractors 
+
+Number
+
+35
+
+0
+
+118
+
+Development Projects - Sub-
+
+contractors
+
+Number
+
+15
+
+42
+
+0
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+0
+
+0
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+0
+
+NUMBER OF MAN HOURS WORKED
+
+Property Management - Employees
+
+Number
+
+-
+
+-
+
+417,296
+
+Property Management - Contractors
+
+Number
+
+-
+
+-
+
+1,208,837
+
+Development Projects - Main-
+
+contractors 
+
+Number
+
+1,187,131
+
+188,364
+
+167,700
+
+Development Projects - Sub-
+
+contractors
+
+Number
+
+869,996
+
+387,540
+
+558,132
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+-
+
+234,389
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+2,191
+
+NUMBER OF WORKERS
+
+Property Management - Employees
+
+Number
+
+-
+
+-
+
+224
+
+Property Management - Contractors
+
+Number
+
+-
+
+-
+
+429
+
+UIC Technologies - Employees
+
+Number
+
+-
+
+-
+
+124
+
+UIC Technologies - Contractors
+
+Number
+
+-
+
+-
+
+17
+
+PUBLIC, TENANTS AND VISITORS’ SAFETY
+
+Property Management
+
+Number
+
+5
+
+0
+
+5
+
+Development Projects
+
+Number
+
+-
+
+0
+
+0
+
+UIC Technologies
+
+Number
+
+-
+
+0
+
+0
+
+EMPLOYEES
+
+Full-time employees
+
+Number
+
+356
+
+344
+
+349
+
+Full-time employees - Property
+
+Number
+
+225
+
+216
+
+226
+
+Full-time employees - UICT
+
+Number
+
+131
+
+128
+
+123
+
+Part-time employees 
+
+Number
+
+0
+
+1
+
+1
+
+Part-time employees - Property
+
+Number
+
+0
+
+1
+
+1
+
+Part-time employees - UICT
+
+Number
+
+0
+
+0
+
+0
+
+Permanent employees 
+
+Number
+
+335
+
+324
+
+312
+
+Permanent employees - Property
+
+Number
+
+219
+
+206
+
+204
+
+Permanent employees - UICT
+
+Number
+
+116
+
+118
+
+108
+
+Temporary employees
+
+Number
+
+21
+
+0
+
+0
+
+Temporary employees - Property
+
+Number
+
+6
+
+0
+
+0
+
+Temporary employees - UICT
+
+Number
+
+15
+
+0
+
+0
+
+Fixed-term contract employees 
+
+Number
+
+-
+
+21
+
+38
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+37
+
+
+MATERIAL ESG FACTORS
+
+MEASUREMENT UNIT
+
+2018
+
+2019
+
+2020
+
+Fixed-term contract employees - 
+
+Property
+
+Number
+
+-
+
+11
+
+23
+
+Fixed-term contract employees - UICT
+
+Number
+
+-
+
+10
+
+15
+
+New hires
+
+Number
+
+43
+
+45
+
+29
+
+Female employees
+
+%
+
+49
+
+49
+
+50
+
+Female managers 
+
+%
+
+-
+
+56
+
+57
+
+Female HODs
+
+%
+
+-
+
+48
+
+38
+
+Average training hours per 
+
+employee
+
+Average hours per full-time employee
+
+5.8
+
+16.5
+
+7.5
+
+Annual employee turnover rate 
+
+%
+
+20.6
+
+16.5
+
+8.6
+
+Notes – Environmental Data:
+
+1.  Building (Retail) refers to Marina Square Mall (excluding Marina Square Hotels) and West Mall.
+
+2. 
+
+Building (Commercial) refers to Clifford Centre, Singapore Land Tower, SGX Centre, The Gateway, Stamford Court, Abacus Plaza, Tampines 
+
+Plaza and UIC Building (since 2018). 
+
+3. 
+
+There was one (1) development project in 2020 and 2019 respectively and seven (7) in 2018. The development project in 2020 and 2019 refers 
+
+to The Tre Ver, which Singland owns 50% in a joint venture with UOL Group. 
+
+4. 
+
+Energy in Corporate Office, Buildings and UIC Technologies refers to purchased electricity, and in 2020, fuel data was added to Buildings and 
+
+UIC Technologies. For Development Projects, energy refers to both purchased electricity and fuel in all reporting years.
+
+5. 
+
+Our corporate office sits within Clifford Centre (Level 22 and 24) and forms a subset of the building energy and GHG emissions reported. 
+
+Energy consumption and GHG emissions data for the Corporate Office in 2018 was estimated based on the measured consumption during 
+
+the period of 20 Jul 2018 - 31 Dec 2018.
+
+6. 
+
+Scope 1(Direct) GHG emissions include emissions from fuel and refrigerants. Scope 2 (Indirect) GHG emissions refer to purchased electricity.
+
+7. 
+
+GHG emissions calculations are based on the Greenhouse Gas (GHG) Protocol. Scope 1 emissions refer to CO2, CH4 and N2O. Greenhouse 
+
+Gas Protocol Emission Factors from Cross Sector Tools, March 2017 was used to derive CO2e emissions. Scope 2 emissions refer to CO2; 
+
+Singapore electricity grid emission factor was used to derive CO2e emissions.
+
+8. 
+
+Water used at all our properties is from municipal sources.
+
+9. 
+
+Water data for Corporate Office is unavailable, as water is not separately metered. 
+
+10. Environmental data for all Buildings includes general water consumption of common toilets and pantries, as well as central air-conditioning 
+
+systems, except for individual tenant’s office equipment electricity usage. Environment data for SGX Centre represents Singapore Land 
+
+Group’s 48.6% ownership share of the property.
+
+11. Intensity calculations for all Buildings use Gross Floor Area (GFA) as the denominator. We adopt BCA’s definition for Gross Floor Area (GFA). All 
+
+covered floor areas of a building, except otherwise exempted, uncovered areas for commercial uses, are deemed the gross floor area of the 
+
+building. Generally, car parks are excluded from GFA computation.
+
+12. For development projects, 100% of the environmental data were reported. Intensity calculations use value of work completed as the 
+
+denominator.
+
+Notes – Health &amp; Safety Data: 
+
+1. 
+
+Workplace safety and health data in 2018 &amp; 2019 covered employees and contractors working in buildings only. From 2020 onwards, all 
+
+personnel working in the corporate office and buildings are covered and reported under the Property Management category.
+
+2. 
+
+Contractor data for Property Management covers cleaning and security contractors only. In 2020, there was one injury involving a landscape 
+
+contractor.
+
+3. 
+
+Work-related Injury Rate or formerly reported as Accident Frequency Rate (AFR) for development projects includes main contractors’ and 
+
+subcontractors’ hours.
+
+4. 
+
+Number of lost days reported for Property Management for the year 2018 and 2019 exclude employees and contractors working at the 
+
+Corporate Office.
+
+Notes – Employee Data:
+
+1. 
+
+Average training hours per employee = Total training hours for the year / Number of employees as at 31 December.
+
+2. 
+
+For employee data in 2018, temporary and fixed-term employees were reported under one category.
+
+SUSTAINABILITY PERFORMANCE DATA
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+38
+
+
+GRI CONTENT INDEX 
+
+GRI CONTENT INDEX
+
+‘In accordance’ - Core
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 101: FOUNDATION 2016
+
+(GRI 101 does not include any standards)
+
+GRI 102: GENERAL DISCLOSURES 2016
+
+Organisational Profile
+
+GRI 102-1
+
+Name of the organisation
+
+Corporate Profile, pg 3
+
+GRI 102-2
+
+Activities, brands, products, and services
+
+Corporate Profile, pg 3
+
+GRI 102-3
+
+Location of headquarters
+
+Corporate Profile, pg 3
+
+GRI 102-4
+
+Location of operations
+
+Corporate Profile, pg 3
+
+GRI 102-5
+
+Ownership and legal form
+
+Corporate Profile, pg 3
+
+GRI 102-6
+
+Markets served
+
+AR, pg 16-33
+
+GRI 102-7
+
+Scale of the organisation
+
+People, pg 28
+
+AR, pg 32-33, 68-69
+
+GRI 102-8
+
+Information on employees and other 
+
+workers
+
+People, pg 28, 37-38
+
+GRI 102-9
+
+Supply chain
+
+Stakeholder engagement, pg 12
+
+Economic Performance, pg 15
+
+GRI 102-10
+
+Significant changes to the organisation 
+
+and its supply chain
+
+Corporate Profile, pg 3
+
+GRI 102-11
+
+Precautionary Principle or approach
+
+Our Sustainability Commitment, pg 5
+
+Environment, pg 16
+
+GRI 102-12
+
+External initiatives
+
+Corporate Profile, pg 3
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Environment, pg 16
+
+GRI 102-13
+
+Membership of associations
+
+Stakeholder engagement, pg 13
+
+Strategy
+
+GRI 102-14
+
+Statement from senior decision-maker
+
+COO’s Statement, pg 9
+
+GRI 102-15
+
+Key impacts, risks, and opportunities
+
+Our Sustainability Commitment, pg 5
+
+Materiality, pg 14
+
+Ethics and Integrity
+
+GRI 102-16
+
+Values, principles, standards, and norms of 
+
+behaviour
+
+Our Sustainability Commitment, pg 5-6
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+GRI 102-17
+
+Mechanisms for advice and concerns 
+
+about ethics
+
+Our Sustainability Commitment, pg 6
+
+Governance
+
+GRI 102-18
+
+Governance structure
+
+Our Sustainability Commitment, pg 5
+
+AR, pg 6-15, 40-41
+
+GRI 102-19
+
+Delegating authority
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-20
+
+Executive-level responsibility for economic, 
+
+environmental, and social topics
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-21
+
+Consulting stakeholders on economic, 
+
+environmental, and social topics
+
+Stakeholder Engagement, pg 12-13
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+39
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 102-22
+
+Composition of the highest governance 
+
+body and its committees
+
+AR, pg 6-15, 40-41
+
+GRI 102-23
+
+Chair of the highest governance body
+
+AR, pg 40-41
+
+GRI 102-24
+
+Nominating and selecting the highest 
+
+governance body
+
+AR, pg 41-43
+
+GRI 102-25
+
+Conflicts of interest
+
+AR, pg 37, 177
+
+GRI 102-26
+
+Role of highest governance body in setting 
+
+purpose, values, and strategy
+
+AR, pg 37
+
+GRI 102-27
+
+Collective knowledge of highest 
+
+governance body
+
+People, pg 29
+
+AR, pg 39
+
+GRI 102-28
+
+Evaluating the highest governance body's 
+
+performance
+
+AR, pg 42-43
+
+GRI 102-29
+
+Identifying and managing economic, 
+
+environmental, and social impacts
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-30
+
+Effectiveness of risk management 
+
+processes
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-31
+
+Review of economic, environmental, and 
+
+social topics
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-32
+
+Highest governance body's role in 
+
+sustainability reporting
+
+Our Sustainability Commitment, pg 5
+
+GRI 102-33
+
+Communicating critical concerns
+
+Our Sustainability Commitment, pg 6
+
+GRI 102-35
+
+Remuneration policies
+
+AR, pg 44-46
+
+GRI 102-36
+
+Process for determining remuneration
+
+AR, pg 44-46
+
+Stakeholder Engagement
+
+GRI 102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement, pg 12-13
+
+GRI 102-41
+
+Collective bargaining agreements
+
+People, pg 31
+
+GRI 102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement, pg 12-13
+
+GRI 102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement, pg 12-13
+
+GRI 102-44
+
+Key topics and concerns raised
+
+Materiality, pg 14
+
+Reporting Practice
+
+GRI 102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+AR, pg 164-167
+
+GRI 102-46
+
+Defining report content and topic 
+
+Boundaries
+
+Stakeholder Engagement, pg 12-13
+
+Materiality, pg 14
+
+GRI 102-47
+
+List of material topics
+
+Materiality, pg 14
+
+GRI 102-48
+
+Restatement of information
+
+Sustainability Performance Data, Pg 38
+
+GRI 102-49
+
+Changes in reporting
+
+Materiality, pg 4
+
+GRI 102-50
+
+Reporting period
+
+About this Report, pg 4
+
+GRI 102-51
+
+Date of most recent report
+
+Published on May 2020
+
+GRI 102-52
+
+Reporting cycle
+
+About this Report, pg 4
+
+GRI 102-53
+
+Contact point for questions regarding the 
+
+report
+
+About this Report, pg 4
+
+GRI 102-54
+
+Claims of reporting in accordance with the 
+
+GRI Standards
+
+About this Report, pg 4
+
+GRI 102-55
+
+GRI content index
+
+GRI Content Index, pg 39-44
+
+GRI CONTENT INDEX 
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+40
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 102-56
+
+External assurance
+
+Independent Limited Assurance Report, pg 
+
+49
+
+ECONOMIC TOPICS
+
+Economic Performance
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Economic Performance, pg 15
+
+103-3 Evaluation of the management 
+
+approach
+
+Economic Performance, pg 15
+
+GRI 201: Economic 
+
+Performance 2016
+
+201-1 Direct economic value generated 
+
+and distributed
+
+AR, pg 68-73
+
+Anti-Corruption
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Our Sustainability Commitment, pg 6
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 6
+
+GRI 205: Anti-
+
+corruption 2016
+
+205-2 Communication and training about 
+
+anti-corruption policies and procedures
+
+Our Sustainability Commitment, pg 6
+
+205-3 Confirmed incidents of corruption 
+
+and actions taken 
+
+Our Sustainability Commitment, pg 6
+
+Anti-Competitive Behaviour
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Our Sustainability Commitment, pg 6
+
+103-2 The management approach and its 
+
+components 
+
+Our Sustainability Commitment, pg 6
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 6
+
+GRI 206: Anti-
+
+Competitive 
+
+Behaviour
+
+206-1 Legal actions for anti-competitive 
+
+behaviour, anti-trust, and monopoly 
+
+practices
+
+Our Sustainability Commitment, pg 6
+
+ENVIRONMENTAL TOPICS
+
+Energy
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Environment, pg 18
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 18
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+41
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 302: Energy 2016
+
+302-1 Energy consumption within the 
+
+organisation
+
+Environment, pg 18-19
+
+Sustainability Performance Data, pg 34
+
+302-3 Energy intensity
+
+Sustainability Performance Data, pg 34
+
+GRI Construction
+
+and Real Estate 
+
+Sector Disclosures
+
+CRE1 Building energy intensity
+
+Sustainability Performance Data, pg 34
+
+Water
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Environment, pg 20
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 20
+
+Management 
+
+Approach 
+
+Disclosures 2018
+
+303-1 Interactions with water as a shared 
+
+resource
+
+Environment, pg 20
+
+303-2 Management of water discharge-
+
+related impacts
+
+Environment, pg 20
+
+GRI 303: Water and 
+
+Effluents 2018
+
+303-3 Water withdrawal
+
+Environment, pg 20,
+
+Sustainability Performance Data, pg 35
+
+GRI Construction
+
+and Real Estate 
+
+Sector Disclosures
+
+CRE2 Building Water intensity
+
+Performance Data, pg 35
+
+Emissions
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 17
+
+GRI 305: Emissions 
+
+2016
+
+305-1 Direct (Scope 1) GHG emissions
+
+Sustainability Performance Data, pg 35
+
+305-2 Energy indirect (Scope 2) GHG 
+
+emissions 
+
+Sustainability Performance Data, pg 36
+
+305-4 GHG emission intensity 
+
+Sustainability Performance Data, pg 36
+
+Waste
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Environment, pg 21
+
+103-2 The management approach and its 
+
+components 
+
+Environment, pg 21
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 21
+
+GRI 306: Effluents 
+
+and Waste 2016
+
+306-2 Waste by type and disposal methods 
+
+Environment, pg 21
+
+GRI CONTENT INDEX 
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+42
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+Management 
+
+Approach 
+
+Disclosures 2020
+
+306-1 Waste generation and significant 
+
+waste-related impacts
+
+Environment, pg 21
+
+306-2 Management of significant waste-
+
+related impacts
+
+Environment, pg 21
+
+GRI 306: Waste 2020
+
+306-4 Waste diverted from disposal
+
+Environment, pg 21
+
+Environmental Compliance
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Environment, pg 21
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 21
+
+GRI 307: 
+
+Environmental 
+
+Compliance 2016
+
+307-1 Non-compliance with environmental 
+
+laws and regulations 
+
+Environment, pg 21
+
+Supplier Environmental Assessment
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Environment, pg 21, 23
+
+103-2 The management approach and its 
+
+components 
+
+Environment, pg 21, 23
+
+103-3 Evaluation of the management 
+
+approach
+
+Environment, pg 21, 23
+
+GRI 308-1
+
+Supplier 
+
+Environmental 
+
+Assessment
+
+308-1 New suppliers that were screened 
+
+using environmental criteria
+
+Environment, pg 21, 23
+
+Product Quality
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Product and Service Quality, pg 26-27
+
+103-2 The management approach and its 
+
+components 
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Product and Service Quality, pg 26-27
+
+103-3 Evaluation of the management 
+
+approach
+
+Product and Service Quality, pg 26-27
+
+GRI Construction
+
+and Real Estate 
+
+Sector Disclosures
+
+CRE8 Type and number of sustainability 
+
+certification, rating and labelling schemes 
+
+for new construction, Management, 
+
+occupation and redevelopment
+
+Product and Service Quality, pg 27
+
+SOCIAL TOPICS
+
+Employment
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+People, pg 28-30
+
+103-2 The management approach and its 
+
+components 
+
+People, pg 28-30
+
+103-3 Evaluation of the management 
+
+approach
+
+People, pg 28-30
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+43
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 401: 
+
+Employment 2016
+
+401-1 New Employee hires and employee 
+
+turnover 
+
+People, pg 30
+
+Sustainability Performance Data, pg 38
+
+401-2 Benefits provided to full-time 
+
+employees that are not provided to 
+
+temporary or part-time employees
+
+People, pg 29
+
+Occupational Health and Safety
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Health and Safety, pg 24-25
+
+103-3 Evaluation of the management 
+
+approach
+
+Health and Safety, pg 24-25
+
+Management 
+
+Approach 
+
+Disclosures 2018
+
+403-1 Occupational health and safety 
+
+management system
+
+Health and Safety, pg 24-25
+
+403-2 Hazard identification, risk assessment, 
+
+and incident investigation
+
+Health and Safety, pg 24-25
+
+403-3 Occupational health services
+
+Health and Safety, pg 24-25
+
+403-4 Worker participation, consultation, 
+
+and communication on occupational 
+
+health and safety
+
+Health and Safety, pg 25
+
+403-5 Worker training on occupational 
+
+health and safety
+
+Health and Safety, pg 24
+
+403-6 Promotion of worker health
+
+Health and Safety, pg 24-25
+
+403-7 Prevention and mitigation of 
+
+occupational health and safety impacts 
+
+directly linked by business relationships
+
+Health and Safety, pg 24-25
+
+GRI 403: 
+
+Occupational 
+
+Health and Safety 
+
+2018
+
+403-9 Work-related injuries
+
+Health and Safety, pg 24-25
+
+Sustainability Performance Data, pg 35-36
+
+Training and Education
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+Our Sustainability Commitment, pg 7
+
+People, pg 28-29
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 7
+
+People, pg 28-29
+
+GRI 404: Training and 
+
+Education 2016
+
+404-1 Average hours of training per year 
+
+per employee
+
+People, pg 29
+
+Sustainability Performance Data, pg 38
+
+404-3 Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews
+
+People, pg 29
+
+GRI CONTENT INDEX 
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+44
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+Diversity and Equal Opportunities
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Our Sustainability Commitment, pg 5
+
+People, pg 28
+
+103-2 The management approach and its 
+
+components 
+
+Our Sustainability Commitment, pg 5
+
+People, pg 28
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 5
+
+People, pg 28
+
+GRI 405: Diversity 
+
+and Equal 
+
+Opportunity 2016
+
+405-1 Diversity of governance bodies and 
+
+employees 
+
+Our Sustainability Commitment, pg 5
+
+People, pg 28
+
+Non-Discrimination
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+People, pg 28, 31
+
+103-2 The management approach and its 
+
+components 
+
+People, pg 28, 31
+
+103-3 Evaluation of the management 
+
+approach
+
+People, pg 28, 31
+
+GRI 406: Non-
+
+discrimination 2016
+
+406-1 Incidents of discrimination and 
+
+corrective actions taken
+
+People, pg 31
+
+Local Communities
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Community, pg 32-33
+
+103-2 The management approach and its 
+
+components 
+
+Community, pg 32-33
+
+103-3 Evaluation of the management 
+
+approach
+
+Community, pg 32-33
+
+GRI 413: Local 
+
+Communities 2016
+
+413-1 Operations with local community 
+
+engagement, impact assessments, and 
+
+development programs
+
+Community, pg 32-33
+
+Supplier Social Assessment
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Health and Safety, pg 25
+
+103-2 The management approach and its 
+
+components 
+
+Health and Safety, pg 25
+
+103-3 Evaluation of the management 
+
+approach
+
+Health and Safety, pg 25
+
+GRI 414: Supplier 
+
+Social Assessment 
+
+2016
+
+414-1 New suppliers that were screened 
+
+using social criteria
+
+Health and Safety, pg 25
+
+Customer Health and Safety
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Health and Safety, pg 24-25
+
+103-2 The management approach and its 
+
+components 
+
+Health and Safety, pg 24-25
+
+103-3 Evaluation of the management 
+
+approach
+
+Health and Safety, pg 24-25
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+45
+
+
+GRI STANDARD
+
+DISCLOSURE
+
+PAGE NUMBER(S) 
+
+GRI 416: Customer
+
+Health and Safety 
+
+2016
+
+416-2 Incidents of non-compliance 
+
+concerning the health and safety impacts 
+
+of products and services
+
+Health and Safety, pg 25
+
+Marketing and Labelling
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Our Sustainability Commitment, pg 6
+
+103-2 The management approach and its 
+
+components 
+
+Our Sustainability Commitment, pg 6
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 6
+
+GRI 417: Marketing 
+
+and Labelling 2016
+
+417-3 Incidents of non-compliance 
+
+concerning marketing communications
+
+Our Sustainability Commitment, pg 6
+
+Customer Privacy
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundary
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components
+
+Our Sustainability Commitment, pg 7
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 7
+
+GRI 418: Customer 
+
+Privacy 2016
+
+418-1 Substantiated complaints 
+
+concerning breaches of customer privacy 
+
+and losses of customer data
+
+Our Sustainability Commitment, pg 7
+
+Socio-Economic Compliance
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1 Explanation of the material topic and 
+
+its Boundaries 
+
+Materiality, pg 14
+
+103-2 The management approach and its 
+
+components 
+
+Materiality, pg 14
+
+Our Contribution to the Sustainable 
+
+Development Goals, pg 8
+
+103-3 Evaluation of the management 
+
+approach
+
+Our Sustainability Commitment, pg 6
+
+Health and Safety, pg 25
+
+GRI 419: Socio-
+
+economic 
+
+Compliance 2016
+
+419-1 Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area
+
+Our Sustainability Commitment, pg 6
+
+Health and Safety, pg 25
+
+GRI CONTENT INDEX 
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+46
+
+
+SASB INDEX
+
+REAL ESTATE SUSTAINABILITY ACCOUNTING STANDARD
+
+TOPIC
+
+SASB
+
+CODE
+
+ACCOUNTING
+
+METRIC
+
+PAGE 
+
+REFERENCE
+
+Energy 
+
+Management
+
+IF-RE-130a.1
+
+Energy consumption data coverage as a percentage of total 
+
+floor area, by property subsector
+
+18-19, 34
+
+IF-RE-130a.2
+
+(1) Total energy consumed by portfolio area with data coverage, 
+
+(2) percentage grid electricity, and (3) percentage renewable, by 
+
+property subsector
+
+18-19, 34
+
+IF-RE-130a.3
+
+Like-for-like percentage change in energy consumption for the 
+
+portfolio area with data coverage, by property subsector
+
+18-19, 34
+
+IF-RE-130a.4
+
+Percentage of eligible portfolio that (1) has an energy rating and 
+
+(2) is certified to ENERGY STAR, by property subsector
+
+27
+
+IF-RE-130a.5
+
+Description of how building energy management considerations 
+
+are integrated into property investment analysis and operational 
+
+strategy
+
+Not 
+
+reported
+
+Water 
+
+Management
+
+IF-RE-140a.1
+
+Water withdrawal data coverage as a percentage of (1) total 
+
+floor area and (2) floor area in regions with High or Extremely 
+
+High Baseline Water Stress, by property subsector
+
+20, 35
+
+IF-RE-140a.2
+
+(1) Total water withdrawn by portfolio area with data coverage 
+
+and (2) percentage in regions with High or Extremely High 
+
+Baseline Water Stress, by property subsector
+
+20, 35
+
+IF-RE-140a.3
+
+Like-for-like percentage change in water withdrawn for portfolio 
+
+area with data coverage, by property subsector
+
+20, 35
+
+IF-RE-140a.4
+
+Description of water management risks and discussion of 
+
+strategies and practices to mitigate those risks
+
+20
+
+Management 
+
+of Tenant 
+
+Sustainability 
+
+Impacts
+
+IF-RE-410a.1
+
+(1) Percentage of new leases that contain a cost recovery clause 
+
+for resource efficiency related capital improvements and (2) 
+
+associated leased floor area, by property subsector
+
+Not 
+
+reported
+
+IF-RE-410a.2
+
+Percentage of tenants that are separately metered or sub-
+
+metered for (1) grid electricity consumption and (2) water 
+
+withdrawals, by property subsector
+
+Not 
+
+reported
+
+IF-RE-410a.3
+
+Discussion of approach to measuring, incentivising, and 
+
+improving sustainability impacts of tenants
+
+18-19, 20, 21
+
+Climate 
+
+Change 
+
+Adaptation
+
+IF-RE-450a.1
+
+Area of properties located in 100-year flood zones, by property 
+
+subsector
+
+Not 
+
+reported
+
+IF-RE-450a.2
+
+Description of climate change risk exposure analysis, degree of 
+
+systematic portfolio exposure, and strategies for mitigating risks
+
+Not 
+
+reported
+
+ACTIVITY METRIC
+
+SASB
+
+CODE
+
+PROPERTY 
+
+SUBSECTOR
+
+2020
+
+Number of assets, by property 
+
+subsector
+
+IF-RE-000.A
+
+Commercial Office
+
+8
+
+Retail
+
+2
+
+Leasable floor area, by property 
+
+subsector (m2)
+
+IF-RE-000.B
+
+Commercial Office
+
+227,730*
+
+Retail
+
+91,343*
+
+Percentage of indirectly managed 
+
+assets, by property subsector
+
+IF-RE-000.C
+
+Commercial Office
+
+0%
+
+Retail
+
+0%
+
+Average occupancy rate, by 
+
+property subsector
+
+IF-RE-000.D
+
+Commercial Office
+
+We report the committed occupancy 
+
+rates of our properties in UIC’s Annual 
+
+Report 2020 pg 17-23.
+
+Retail
+
+* 
+
+Refers to Approximate Net Floor Area as reported in the Property Summary of United Industrial Corporation’s Annual Report 2020
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+47
+
+
+TCFD DISCLOSURES
+
+From this report, we have started aligning our sustainability report with the Task Force on Climate-Related Financial 
+
+Disclosures (TCFD) recommendations. The following table indicates our progress toward TCFD recommended 
+
+disclosures. 
+
+CODE
+
+TCFD RECOMMENDATIONS
+
+2020 DISCLOURES 
+
+(PAGE NO.)
+
+GOVERNANCE
+
+TCFD 1(a)
+
+Describe the board’s oversight of climate-related risks and opportunities.
+
+5
+
+TCFD 1(b)
+
+Describe management’s role in assessing and managing climate-
+
+related risks and opportunities.
+
+5
+
+STRATEGY
+
+TCFD 2(a)
+
+Describe the climate-related risks and opportunities the organisation has 
+
+identified over the short, medium, and long term.
+
+5, 16
+
+TCFD 2(b)
+
+Describe the impact of climate-related risks and opportunities on the 
+
+organisation’s businesses, strategy, and financial planning.
+
+5, 16
+
+TCFD 2(c)
+
+Describe the resilience of the organisation’s strategy, taking into 
+
+consideration different climate-related scenarios, including a 2°C or 
+
+lower scenario.
+
+16
+
+RISK MANAGEMENT
+
+TCFD 3(a)
+
+Describe the organisation’s processes for identifying and assessing 
+
+climate-related risks.
+
+5, 16
+
+TCFD 3(b)
+
+Describe the organisation’s processes for managing climate-related risks.
+
+5, 16
+
+TCFD 3(c)
+
+Describe how processes for identifying, assessing, and managing 
+
+climate-related risks are integrated into the organisation’s overall risk 
+
+management.
+
+5, 16
+
+METRICS AND TARGETS
+
+TCFD 4(a)
+
+Disclose the metrics used by the organisation to assess climate-related 
+
+risks and opportunities in line with its strategy and risk management 
+
+process.
+
+17, 34-35
+
+TCFD 4(b)
+
+Disclose Scope 1, Scope 2, and, if appropriate, Scope 3 greenhouse gas 
+
+(GHG) emissions and the related risks.
+
+17, 34-35
+
+TCFD 4(c)
+
+Describe the targets used by the organisation to manage 
+
+climate-related risks and opportunities and performance against targets.
+
+17, 34-35
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+48
+
+
+INDEPENDENT LIMITED ASSURANCE REPORT
+
+TO THE DIRECTORS OF SINGAPORE LAND GROUP LIMITED
+
+(FORMERLY KNOWN AS UNITED INDUSTRIAL CORPORATION LIMITED)
+
+CONCLUSION
+
+We were engaged by the Board of Directors of Singapore Land Group Limited (“Singland”, or the “Company”, and 
+
+together with its group of companies, the “Group” ) to provide limited assurance on the accompanying Singland 
+
+Sustainability Report 2020 for the year ended 31 December 2020 (“the Report”) and the selected Global Reporting 
+
+Initiative Sustainability Reporting Standards disclosures (Selected GRI Disclosures) as identified below.
+
+Based on the evidence we obtained from the procedures performed as described in the Auditors’ Responsibilities 
+
+section of our report, nothing has come to our attention that causes us to believe that:
+
+(a) 
+
+the Report has not described the sustainability practices on a comply-or-explain basis with reference to the 
+
+following components as listed under Rule 711B of the Singapore Exchange’s (SGX) Listing Manual:
+
+– Material environmental, social and governance factors;
+
+– Policies, practices and performance;
+
+– Targets;
+
+– Sustainability reporting framework; and
+
+– Board statement
+
+(b) 
+
+the Selected GRI Disclosures as identified in the table below, are not calculated, in all material respects, in 
+
+accordance with the relevant topic-specific disclosures requirements in the GRI Standards: Core Option.
+
+MATERIAL 
+
+TOPIC
+
+GRI STANDARDS 
+
+TOPIC-SPECIFIC DISCLOSURE
+
+SELECTED GRI DISCLOSURES
+
+Energy
+
+GRI 302-1
+
+Energy consumption 
+
+within the organisation*
+
+Buildings (Total – Retail and Commercial): 62,335 MWh
+
+UICT: 193 MWh
+
+GRI 302-3
+
+Energy intensity*
+
+Buildings (Total – Retail and Commercial): 138 kWh/m²
+
+Water
+
+GRI 303-8
+
+Water withdrawal by 
+
+source
+
+Buildings (Total – Retail and Commercial): 364 megalitres
+
+UICT: 0.064 megalitres
+
+GRI CRE 2
+
+Water Intensity
+
+Buildings (Total – Retail and Commercial): 0.80 m³/m²
+
+Emissions
+
+GRI 305-2
+
+Energy Indirect (Scope 
+
+2) GHG emissions
+
+Buildings (Total – Retail and Commercial): 25,464 tonnes 
+
+CO2
+
+UICT: 78.7 tonnes CO2
+
+GRI 305-4
+
+GHG emissions 
+
+intensity**
+
+Buildings (Total – Retail and Commercial): 56.2 kgCO2/m²
+
+Training 
+
+and 
+
+education
+
+GRI 404-1
+
+Average hours of 
+
+training per year per 
+
+employee
+
+Group
+
+Male
+
+Female
+
+Senior Management
+
+17.1
+
+20.6
+
+Executive
+
+12.0
+
+6.4
+
+Non-executive
+
+1.0
+
+0.2
+
+Overall
+
+9.0
+
+5.9
+
+Workplace 
+
+Health 
+
+and Safety
+
+GRI 403-2
+
+Work-related injuries 
+
+and fatalities
+
+Buildings
+
+(Total – Retail 
+
+and Commercial, 
+
+excluding 
+
+contractors)
+
+Number of Work-related Fatalities
+
+0
+
+Number of Non-fatal Work-related 
+
+Injuries
+
+2
+
+Number of Lost Days
+
+6
+
+Rate of recordable work-related injuries
+
+4.8
+
+* 
+
+Where energy consumption and energy intensity only refer to purchased electricity. 
+
+** Where GHG emissions intensity only refers to Scope 2 emissions from purchased electricity.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+49
+
+
+INDEPENDENT LIMITED ASSURANCE REPORT
+
+BASIS FOR CONCLUSION
+
+We conducted our limited assurance engagement in 
+
+accordance with Singapore Standard on Assurance 
+
+Engagement 3000 Assurance Engagements other than 
+
+Audits or Reviews of Historical Financial Information 
+
+(SSAE 3000). Our responsibilities are further described in 
+
+the Auditors’ Responsibilities section of our report.
+
+We have complied with the independence and other 
+
+ethical requirements of the Accounting and Corporate 
+
+Regulatory Authority (ACRA) Code of Professional 
+
+Conduct and Ethics for Public Accountants and 
+
+Accounting Entities (ACRA Code), which is founded 
+
+on fundamental principles of integrity, objectivity, 
+
+professional competence and due care, confidentiality 
+
+and professional behaviour.
+
+Our firm applies Singapore Standard on Quality Control 
+
+1 and, accordingly, maintains a comprehensive system 
+
+of quality control including documented policies 
+
+and procedures regarding compliance with ethical 
+
+requirements, professional standards and applicable 
+
+legal and regulatory requirements.
+
+RESPONSIBILITIES OF MANAGEMENT
+
+Management is responsible for:
+
+– preparing and presenting the Report in accordance 
+
+with the GRI Standards and Rule 711B of the SGX 
+
+Listing Manual, and the information and assertions 
+
+contained within it; 
+
+– determining 
+
+Singland’s 
+
+objectives 
+
+in 
+
+respect 
+
+of sustainable development performance and 
+
+reporting, including the identification of stakeholders 
+
+and material issues; 
+
+– establishing and maintaining appropriate internal 
+
+control systems that enable the preparation and 
+
+presentation of the Report and the selected GRI 
+
+disclosures that are free from material misstatement, 
+
+whether due to fraud or error; 
+
+– preventing and detecting fraud and for identifying 
+
+and ensuring that the Group complies with laws 
+
+and regulations applicable to its activities; and
+
+– ensuring that staff involved with the preparation 
+
+and presentation of the Report are properly trained, 
+
+information systems are properly updated and that 
+
+any changes in reporting encompass all significant 
+
+reporting units.
+
+The directors’ responsibilities include overseeing the 
+
+Group’s sustainability reporting process.
+
+AUDITORS’ RESPONSIBILITIES
+
+Our responsibility is to carry out a limited assurance 
+
+engagement in accordance with SSAE 3000 and to 
+
+express a conclusion based on the work performed. 
+
+SSAE 3000 requires that we plan and perform the 
+
+engagement to obtain limited assurance about 
+
+whether the Report is free from material misstatement. 
+
+The extent of our work performed depends on our 
+
+professional judgement and our assessment of the 
+
+engagement risk.
+
+A limited assurance engagement consists of making 
+
+inquiries, primarily of persons responsible for the 
+
+preparation of information presented in the Report, 
+
+and applying analytical and other evidence gathering 
+
+procedures, as appropriate. These procedures included:
+
+– inquiries of management to gain an understanding 
+
+of Singland’s processes for determining the material 
+
+issues for Singland’s key stakeholder groups;
+
+– interviews with senior management and relevant 
+
+staff at group level and selected business unit level 
+
+concerning sustainability strategy and policies for 
+
+material issues, and the implementation of these 
+
+across the business;
+
+– interviews with relevant staff at the corporate and 
+
+business unit level responsible for providing the 
+
+information in the Report;
+
+– visits to offices and data centres operating in 
+
+Singapore selected on the basis of a risk analysis 
+
+including the consideration of both quantitative 
+
+and qualitative criteria;
+
+– inquiries of the design and implementation of the 
+
+systems and methods used to collect and report on 
+
+the GRI Disclosures, including the aggregation of the 
+
+reported information;
+
+– comparison of the GRI Disclosures presented in the 
+
+Report to corresponding information in the relevant 
+
+underlying sources to determine whether all the 
+
+relevant information contained in such underlying 
+
+sources has been appropriately included in the GRI 
+
+Disclosures; and
+
+– reading of the information presented in the Report 
+
+to determine whether it is in line with our overall 
+
+knowledge of, and experience with, the sustainability 
+
+performance of the Group.
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+50
+
+
+The procedures performed in a limited assurance 
+
+engagement vary in nature and timing from, and 
+
+are less in extent than for, a reasonable assurance 
+
+engagement. Consequently, the level of assurance 
+
+obtained in a limited assurance engagement is 
+
+substantially lower than the assurance that would 
+
+have been obtained had a reasonable assurance 
+
+engagement been performed.
+
+Due to the inherent limitations of any internal control 
+
+structure it is possible that errors or irregularities in the 
+
+information presented in the Report may occur and 
+
+not be detected. Our engagement is not designed to 
+
+detect all weaknesses in the internal controls over the 
+
+preparation and presentation of the Report, as the 
+
+engagement has not been performed continuously 
+
+throughout the period and the procedures performed 
+
+were undertaken on a test basis.
+
+RESTRICTION ON USE
+
+This report has been prepared for the Directors of 
+
+Singland for the purpose of providing an assurance 
+
+conclusion on the Report and Selected GRI Disclosures 
+
+and may not be suitable for another purpose. We 
+
+disclaim any assumption of responsibility for any 
+
+reliance on this report, to any person other than the 
+
+Directors of Singland, or for any other purpose than that 
+
+for which it was prepared.
+
+KPMG LLP
+
+Public Accountants and
+
+Chartered Accountants
+
+SINGAPORE
+
+14 May 2021
+
+SINGLAND SUSTAINABILITY REPORT 2020
+
+51
+
+
+
+Company Registration No. 196300181E
+
+Incorporated in Singapore
+
+24 Raffles Place #22-01/06,
+
+Clifford Centre,
+
+Singapore 048621
+
+Tel: (65) 6220 1352 | Fax: (65) 6224 0278
+
+www.uic.com.sg
+
+
+
+
+

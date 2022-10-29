@@ -1,0 +1,3443 @@
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY 
+
+REPORT 
+
+2019 
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+1. 
+
+BOARD STATEMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+01 
+
+2. 
+
+ABOUT THIS REPORT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+03 
+
+ 
+
+2.1 
+
+Reporting Standard 
+
+ 
+
+2.2 
+
+Reporting Scope and Period 
+
+ 
+
+2.3 
+
+Report Restatement 
+
+ 
+
+2.4 
+
+Report Accessibility 
+
+ 
+
+2.5 
+
+Feedback 
+
+3. 
+
+ABOUT JADASON ENTERPRISES  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+04 
+
+ 
+
+3.1 
+
+Geographical Presence  
+
+ 
+
+3.2 
+
+Principle Business 
+
+ 
+
+3.3 
+
+Corporate Governance 
+
+ 
+
+3.4 
+
+Supply Chain 
+
+4. 
+
+OUR PEOPLE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+09 
+
+ 
+
+4.1 
+
+Employment Proﬁle 
+
+ 
+
+4.2 
+
+Diversiﬁcation 
+
+ 
+
+4.3 
+
+Hire and Turnover 
+
+ 
+
+4.4 
+
+Growth and Development 
+
+5. 
+
+SUSTAINABILITY APPROACH 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+5.1 
+
+Boundary Setting 
+
+ 
+
+5.2 
+
+Stakeholders’ Engagement 
+
+ 
+
+5.3 
+
+Materiality Assessment 
+
+6. 
+
+REACHING OUT IN DONGGUAN, CHINA 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18 
+
+ 
+
+6.1 
+
+Environmental 
+
+ 
+
+6.2 
+
+Employee Wellness 
+
+ 
+
+6.3 
+
+Health and Safety 
+
+7. 
+
+GRI CONTENT INDEX 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+26
+
+
+
+
+BOARD STATEMENT
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+01
+
+
+
+DEAR STAKEHOLDERS, 
+
+Jadason Enterprises Ltd (the “Company”, together with its subsidiaries, the “Group” or  “Jadason” or “we” or “us” 
+
+or “our”) is the leading supplier of equipment and supplies to the printed circuit board (“PCB”) industry. We are 
+
+pleased to release our third Sustainability Report, subscribing to the Global Reporting Initiative (“GRI”) Standards, 
+
+in accordance with the Core option, and in line with Singapore Exchange (“SGX”) guidelines on Sustainability 
+
+Report.  
+
+The Group continue to focus on the two plants in Dongguan, China as the reporting boundary for FY2019 as they 
+
+generate the highest weightage on the Group’s revenue, as well as having the widest material impact on 
+
+sustainability issues that were identified. The two plants in Dongguan, China classified under “Manufacturing and 
+
+Support Services” in the Group’s business segment, provides PCB drilling service and PCB mass lamination to 
+
+the PCB manufacturers in China, relied heavily on energy, water and material usage in their day-to-day operation.
+
+
+BOARD STATEMENT
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+02
+
+2019 had been a challenging year for the Group. For the most part of the year, the US-China trade war remains 
+
+unresolved, and uncertainties had continue to weigh on manufacturers and their business decisions. The 
+
+“Manufacturing and Support Services” business segment in China had saw a lower volume of PCB drilling and 
+
+PCB mass lamination jobs flowing into the plants. 
+
+We remain positive in the growth prospect of the PCB industry in the coming year. The increasing demand for 
+
+greater digitalisation / automation, connected devices, high speed data transmission, usage of electric vehicles 
+
+due to growing environmental concern, biodegradable PCB, etc., provides opportunities for growth in this 
+
+industry.  We will invest to enhance our manufacturing capabilities and ensure that we are able to meet the 
+
+requirements of our customers and to prepare for the upswing in business. 
+
+With the continue investment to enhance our manufacturing capabilities and to prepare for the upswing in 
+
+business, it will inevitably increase the usage on energy, water and materials in the plants. We are well aware that 
+
+this will create an impact on the environment and we had integrated our sustainability practices into our business 
+
+process, like electric reduction plan, etc. in both plants. 
+
+We are committed to run a responsible business which requires a delicate balancing of long-term interest of our 
+
+planet, employees and business profitability as identified on the materiality topic namely Corporate Governance, 
+
+Environmental, Economic and Social for our Sustainability Report, which can be found on page 16 in this report. 
+
+We are actively monitoring and improving on our sustainability practices and working towards a sustainable and 
+
+responsible business.   
+
+We are committed to providing high quality and maintaining stringent controls striving for continuous operational 
+
+excellence without compromising on the environment. We will continue to integrate sustainability into our 
+
+business operation, building a sustainable business for the next generation.   
+
+THE BOARD OF DIRECTORS
+
+
+ABOUT THIS REPORT
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+03
+
+Jadason Enterprises Ltd reaffirms our commitment to sustainability, providing an overview of our approach 
+
+towards sustainability in terms of Environmental, Social and Governance (“ESG”) aspects of our business as well 
+
+as our FY2019 performance and progress in our third standalone Sustainability Report 2019. 
+
+This report is dedicated to supplement our annual report. It provides a reasonable 
+
+and transparent presentation of the key aspects of our material sustainability 
+
+issues identified in FY2017, has remained valid.
+
+2.1 
+
+Reporting Standard and Assurance 
+
+This report has been prepared in accordance with the 
+
+Global Reporting Initiative (“GRI”) Standards 2016: Core 
+
+option, as well as SGX-ST Listing Manual (Rules 711A 
+
+and 711B). We have selected the GRI Standards as our 
+
+reporting framework as it provides a detailed breakdown 
+
+and is widely accepted as a global standard for 
+
+sustainability report.   
+
+We have not sought for external assurance for this 
+
+reporting period and will consider it when our reporting 
+
+matures over time. 
+
+2.2 
+
+Reporting Scope and Period 
+
+This sustainability report covers only on the two plants in 
+
+Dongguan, China which contribute to the highest 
+
+weightage of the Group’s revenue and had a wide range 
+
+of material impact on sustainability issues. Relevant data, 
+
+strategies and practices, and a detailed account of our 
+
+sustainability performance had been documented in this 
+
+report.  
+
+This report published on an annual basis is our third 
+
+standalone sustainability report, covering the period from 
+
+1 January 2019 to 31 December 2019 with limited 
+
+historical information. The previous annual sustainability 
+
+report was published in May 2019. 
+
+2.3 
+
+Report Restatement 
+
+In this third sustainability report, employees’ training and 
+
+development of Jadason Enterprises Ltd had been 
+
+recorded and reported as a Group. Unlike the two 
+
+previous sustainability report where employees’ training 
+
+and development were only focused on the two plants in 
+
+Dongguan, China.  
+
+There is a re-adjustment on the total injuries figures on the 
+
+past sustainability report due to wrong figures being 
+
+provided by one of the plants in Dongguan, China. 
+
+There is no other further restatement for this report other 
+
+than the above mentioned. 
+
+2.5 
+
+Feedbacks 
+
+We greatly welcome your feedback and suggestions 
+
+as part of our continued effort to improve our 
+
+sustainability journey.  
+
+If you have any questions or comments about this 
+
+report, you can reach us at info-sing@jadason.com. 
+
+2.4 
+
+Report Accessibility 
+
+In line with our sustainability efforts to be more 
+
+environmental friendly, we will not be printing this report.  
+
+We will only release this report in electronic edition (pdf 
+
+format) and it is made available for download from our 
+
+website at http://www.jadason.com/ReportE.html.
+
+
+ABOUT JADASON ENTERPRISES
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+04
+
+Jadason Enterprises Ltd (the “Company” and together with its subsidiaries, the “Group” or  “Jadason” or “we” or 
+
+“us” or “our”) started business in 1980, is a leading supplier of equipment and supplies to the printed circuit board 
+
+(“PCB”) industry in Asia, headquartered in Singapore and is listed in Singapore Exchange Securities Trading 
+
+Limited (“SGX-ST”). 
+
+The Group has an extensive distribution network in Asia spanning across China, Hong Kong, Japan, Malaysia, 
+
+Singapore, and Thailand providing equipment and supplies 
+
+To provide better support on equipment sales and service to customers, the Group has established a 
+
+comprehensive service network covering the area where it has marketing presence. The Group also provides 
+
+PCB drilling services in Dongguan and Suzhou. Through a subsidiary company in Dongguan, the Group provides 
+
+mass lamination to PCB manufacturers in China. 
+
+The Group subscribes to the standards and guidelines of SGX-ST, Monetary Authority of Singapore (“MAS”), 
+
+International Organization for Standardisation (“ISO”) - ISO 9001:2015 and ISO 14001:2015, GRI standards, and 
+
+local regulations where the Group operates across its distribution network. 
+
+
+
+
+ABOUT JADASON ENTERPRISES
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+05
+
+3.1 
+
+Geographical Presence
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Network Region
+
+
+
+
+
+China
+
+
+
+
+
+Hong Kong
+
+
+
+
+
+Japan
+
+
+
+
+
+Malaysia
+
+
+
+
+
+Singapore
+
+
+
+
+
+Thailand
+
+
+ABOUT JADASON ENTERPRISES
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+06
+
+3.2 
+
+Principle Business 
+
+Jadason had identified and categorised its core business into the following segments: 
+
+- Equipment and Supplies 
+
+- Manufacturing and Support Services
+
+3.2.1 
+
+Equipment and Supplies 
+
+Jadason has and extensive distribution network spanning 
+
+across China, Hong Kong, Japan, Malaysia and 
+
+Singapore suppling a wide range of equipment and 
+
+supplies for PCB industry.  
+
+The equipment and supplies that Jadason supplies range 
+
+from CNC machines, laser drilling machines, drill bits, dry 
+
+films and laminates. 
+
+Jadason also fabricate some of the equipments used in 
+
+the PCB manufacturing process. 
+
+3.2.2 
+
+Manufacturing and Support Services 
+
+Jadason has an extensive support network to support on 
+
+equipment sales and services to customers. The support 
+
+network covers all the locations where it has marketing 
+
+presence. 
+
+Jadason provides PCB drilling services in Suzhou and 
+
+Dongguan to meet the outsourcing needs of the PCB 
+
+manufacturers operating in China. 
+
+Through a subsidiary in Dongguan, Jadason provides 
+
+mass lamination services which complements on the PCB 
+
+drilling services. Coming up with a “one-stop” shop in 
+
+Dongguan to meet customer’s needs. 
+
+
+
+
+
+
+ABOUT JADASON ENTERPRISES
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+07
+
+3.3 
+
+Corporate Governance 
+
+Our Board of Directors (the “Board”) and Managements are committed to 
+
+maintaining a high standard of corporate governance so as to ensure 
+
+that the Group’s activities are carried out in the best interest of its 
+
+shareholders. Our governance policies and practices are generally 
+
+adhered to the principles and provisions of the Code of Corporate 
+
+Governance issued in August 2018 (the “2018 Code”) by MAS, which 
+
+introduced new principle on managing stakeholder relationship.  
+
+The Board being the highest governance body of Jadason provides 
+
+general oversight of the Group’s activities, policies and performance. 
+
+The Board is responsible for setting the corporate strategy and business 
+
+direction of the Group, ensuring that the necessary financial and human 
+
+resources are in place for the Group to meet its objective.  
+
+The Board has established three committees, namely, the Audit 
+
+Committee (“AC”), Nominating Committee (“”NC”), and Remuneration 
+
+Committee (“RC”), to assist in the execution of its responsibilities. The 
+
+committees operate within clearly defined terms of reference and the 
+
+effectiveness of each committee is reviewed on a regular basis.  
+
+Full details of the Corporate Governance can be found from Jadason Enterprises Ltd Annual Report 2019, page 17 to 31.
+
+J
+
+adason is committed 
+
+to maintaining a high 
+
+standard of corporate 
+
+governance, in terms of 
+
+business and ethical 
+
+conduct, risk 
+
+management, process 
+
+and company policies. 
+
+BOARD OF 
+
+DIRECTORS
+
+CODE  OF 
+
+CONDUCT
+
+BUSINESS 
+
+STRATEGY
+
+COMPANY 
+
+POLICIES
+
+RISK 
+
+MANAGEMENT
+
+
+ABOUT JADASON ENTERPRISES
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+08
+
+3.3.1 
+
+Risk Management 
+
+The Board acknowledges that it is responsible for the overall internal control and 
+
+risk management systems. The Board oversees the Management in the 
+
+formulation, update and maintenance of an adequate and effective risk 
+
+management framework.  
+
+The risk management frame work established by the Group covers the 
+
+identification, assessment, monitoring and management of significant risks 
+
+affecting the Group. 
+
+The AC, together with the Board and Chief Financial Officers (“CFO”), reviewed the 
+
+effectiveness of the Group’s internal control and risk management systems put in 
+
+place to provide reasonable assurance that assets are safeguarded, proper 
+
+accounting records are maintained and financial information are reliable. 
+
+3.3.2 
+
+Operational Practices 
+
+3.3.2.1 
+
+Code of Conduct 
+
+The principles and guidelines of  the Code provide a 
+
+guidance on the Code of Conduct for the employees in 
+
+Jadason.  
+
+All employees are required to act with high standards of 
+
+business integrity, complying with local regulations where 
+
+we operate across our network region in Asia and 
+
+ensuring that our business standards are not 
+
+compromised. 
+
+3.3.2.3 
+
+Dealing in Securities 
+
+The Group observes the best practices on dealing in 
+
+securities as recommended in the Listing Manual of SGX-
+
+ST and has issued a policy to the Directors and officers to 
+
+set out the guidance on dealing in the securities of the 
+
+Company. 
+
+3.3.2.2 
+
+Whistle-blowing Policy 
+
+Jadason has established whistle-blowing policy which 
+
+allows individual a confidential channel to report on any 
+
+suspected improper, unethical or inappropriate conduct 
+
+within the organisation. This policy with information on the 
+
+proper reporting channels had been distributed to all 
+
+employees in Jadason.  
+
+A copy of the whistle-blowing policy can be found in 
+
+Jadason website that was mentioned in this report.
+
+3.4 
+
+Supply Chain 
+
+Jadason has a broad range of suppliers for the two 
+
+business segments identified in its principal business 
+
+across its network region in Asia. Majority of the suppliers 
+
+are situated in China, and a handful of suppliers situated 
+
+in the United States of America (“USA”), and Germany.  
+
+The Group categorised its suppliers according to the two 
+
+business segments - “Equipment and Supplies” and 
+
+“Manufacturing and Support Services”.  
+
+The Group has a comprehensive process to work with its 
+
+suppliers in a fair and ethical manner on procuring of 
+
+equipments, raw materials, and engaging on general and 
+
+specialised professional services. 
+
+CHECKLIST 
+
+ 
+
+COMPLIANCE 
+
+ 
+
+RULE 
+
+ 
+
+REGULATION 
+
+ 
+
+GUIDELINES
+
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+09
+
+Our People form the backbone of Jadason with our identified core business segment - Equipment and Supplies, 
+
+and Manufacturing and Support Services. Our People contributed endlessly in providing a high and reliable 
+
+quality as well as good services to our customer across our distribution network across Asia. They are crucial to 
+
+the growth and progress of Jadason. Without the selfless contribution, commitment and effort of each and every 
+
+employees that work with us throughout the years, Jadason will not come to be where we are today.  
+
+In FY2018, we had consolidate and report the Group’s total employee hire and turnover rate as well as 
+
+diversification profile to be in line with GRI standard. In FY2019, Jadason will not be implementing any changes 
+
+to the reporting of our employees other than including the growth and development of our employees into our 
+
+report as a Group instead of reporting within the two plants in Dongguan, China.
+
+4.1 
+
+Employment Profile 
+
+With the lower volume of PCB drillings and PCB mass 
+
+lamination jobs in China, and the difficulty in retaining 
+
+employees in China as well as gearing towards 
+
+automation, the total employment headcount for China 
+
+had decreased by 25% compared to the previous 
+
+reporting year. The total employment headcount in other 
+
+countries reported minimum changes from previous year. 
+
+This results in the decrease of the total employment 
+
+headcount in Jadason across Asia by 22% from 2018, 
+
+bringing it to 544 in 2019.    
+
+In 2019, Jadason saw an increase in the percentage of 
+
+permanent contract workers in the Group compared to the 
+
+previous reporting year, where the total number of 
+
+temporary contract worker and supervised worker 
+
+decreased in this reporting year.  
+
+Similar to the years before, China had accounted the 
+
+largest workforce in Jadason in 2019 followed by Thailand 
+
+and Singapore. 
+
+TOTAL PERMANENT CONTRACT WORKER BY GENDER
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+FY2017
+
+FY2018
+
+FY2019
+
+Male
+
+Female
+
+PERMANENT CONTRACT EMPLOYEES IN JADASON
+
+FY2017
+
+95.83%
+
+FY2018
+
+86.02%
+
+FY2019
+
+91.73%
+
+
+
+
+
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+10
+
+DISTRIBUTION OF EMPLOYEES BY COUNTRY AND GENDER IN 
+
+EACH COUNTRY
+
+Country
+
+FY2017
+
+FY2018
+
+FY2019
+
+China
+
+84.77%
+
+86.73%
+
+82.9%
+
+Male - 74.7%
+
+Female - 25.3%
+
+Male - 76.2%
+
+Female - 23.8%
+
+Male - 75.4%
+
+Female - 24.6%
+
+Thailand
+
+5.21%
+
+5.42%
+
+7.17%
+
+Male - 32.5%
+
+Female - 67.5%
+
+Male - 31.6%
+
+Female - 68.4%
+
+Male - 30.8%
+
+Female - 69.2%
+
+Hong Kong
+
+4.04%
+
+1.57%
+
+2.39%
+
+Male - 71.0%
+
+Female - 30.0%
+
+Male - 30.8%
+
+Female - 69.2%
+
+Male - 30.8%
+
+Female - 69.2%
+
+Japan
+
+0.39%
+
+0.43%
+
+0.55%
+
+Male - 66.7%
+
+Female - 33.3%
+
+Male - 66.7%
+
+Female - 33.3%
+
+Male - 66.7%
+
+Female - 33.3%
+
+Malaysia
+
+1.95%
+
+2.43%
+
+2.76%
+
+Male - 40.0%
+
+Female - 60.0%
+
+Male - 41.2%
+
+Female - 58.8%
+
+Male - 40.0%
+
+Female - 60.0%
+
+Singapore
+
+3.39%
+
+3.28%
+
+4.23%
+
+Male - 42.3%
+
+Female - 57.7%
+
+Male - 34.8%
+
+Female - 65.2%
+
+Male - 34.8%
+
+Female - 65.2%
+
+Taiwan
+
+0.26%
+
+0.14%
+
+0%
+
+Male - 100%
+
+Female - 0%
+
+Male - 100%
+
+Female - 0%
+
+Male - 0%
+
+Female - 0%
+
+4.2 
+
+Diversification 
+
+In Jadason, we value all our employees despite of their 
+
+age, gender, religion, etc and provide equal opportunity to 
+
+them. We hire our employees on the basis of value and 
+
+competency instead of age, gender, religion, etc.  
+
+We believe that having a diversified group of employees 
+
+working and learning together can aid with the growth of 
+
+the organisation. The younger group tends to be more 
+
+energetic, tech savvy and innovative while the older group 
+
+tends to be more mature, reliable and possessed wealth 
+
+of experience. This two group can learn from each other 
+
+to bring the company to the next level.  
+
+From the distribution table shown on the right, there is a 
+
+significant difference between the male and female 
+
+employees in China as compared to the other countries. 
+
+Our business in China, mainly where our PCB drilling and 
+
+PCB mass lamination service is situated, is traditionally 
+
+more towards male dominated due to the nature of the 
+
+work being more physical demanding. As such, it does not 
+
+stop us from hiring female employees whom are deemed 
+
+as competent for the job.  
+
+China carrying a huge weightage of the total employee 
+
+headcount of 82.9% in the Group of which 75.4% of the 
+
+total employee headcount in China are male, putting a 
+
+heavy weightage on the total male employee in the Group 
+
+despite several countries reported a higher percentage of 
+
+female headcount.  
+
+With the decrease in total headcount in China this year, 
+
+the percentage between male and female employee in the 
+
+Group had slide towards female employees. Breaking the 
+
+record on the reported total male employee above 70% for 
+
+2 consecutive years. 
+
+In 2018, we started to report diversification of the total 
+
+employment headcount as a Group, our historical data for 
+
+this aspect will be limited to 2018 and after. 
+
+TOTAL EMPLOYEES BY GENDER
+
+
+
+FY2017
+
+FY2018
+
+FY2019
+
+70.6%
+
+70.8%
+
+68.4%
+
+
+
+FY2017
+
+FY2018
+
+FY2019
+
+29.4%
+
+29.2%
+
+31.4%
+
+S imilar to the past reporting years, the 
+
+Board of Directors in the Group consists 
+
+of three male and two female Directors in 
+
+2019. 
+
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+11
+
+TOTAL EMPLOYEE BY AGE
+
+6.2%
+
+44.2%
+
+49.6%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2018
+
+TOTAL EMPLOYEE BY AGE
+
+10.1%
+
+53.3%
+
+36.6%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2019
+
+TOTAL EMPLOYEE BY GENDER BELOW 50 
+
+YEARS OLD
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+FY2018
+
+FY2019
+
+Male
+
+Female
+
+TOTAL EMPLOYEE BY GENDER ABOVE 50 
+
+YEARS OLD
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+FY2018
+
+FY2019
+
+Male
+
+Female
+
+
+TOTAL EMPLOYEE BY CATEGORY
+
+73.8%
+
+16.6%
+
+5.3%
+
+4.3%
+
+Management and above
+
+Executives and Supervisors
+
+Administration and Others
+
+Productions
+
+TOTAL EMPLOYEE BY CATEGORY
+
+73.3%
+
+13.2%
+
+8.0%
+
+5.6%
+
+Management and above
+
+Executives and Supervisors
+
+Administration and Others
+
+Productions
+
+FY2018
+
+FY2019
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+12
+
+GENDER DIVERSITY BY CATEGORY
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Management and above
+
+Execuitives and Supervisors
+
+Administration and Others
+
+Productions
+
+Male
+
+Female
+
+GENDER DIVERSITY BY CATEGORY
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Management and above
+
+Execuitives and Supervisors
+
+Administration and Others
+
+Productions
+
+Male
+
+Female
+
+FY2018
+
+FY2019
+
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+13
+
+4.3 
+
+Hire and Turnover 
+
+In 2019, the hire and turnover rate had decreased by 26.0% and 18.1% from the previous reporting year respectively. The 
+
+major contribution for 2019 hire and turnover is reported from China at 96%. While all other countries reported a minimum 
+
+employee hire and turnover. With the vast employment opportunities in China, employing and retaining employees is still a 
+
+challenge to the Group.  
+
+In 2018, we started to report the hire and turnover rate as a Group, our historical data for this aspect will be limited to 2018 
+
+and after. 
+
+TOTAL EMPLOYEE HIRED BY AGE
+
+0.4%
+
+30.4%
+
+69.2%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2018
+
+TOTAL EMPLOYEE HIRED BY AGE
+
+2.7%
+
+26.3%
+
+71.0%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2019
+
+TOTAL EMPLOYEE HIRED BY GENDER
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+Male
+
+Female
+
+TOTAL EMPLOYEE HIRED BY GENDER
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+Male
+
+Female
+
+FY2018
+
+FY2019
+
+
+ 
+
+ 
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+14
+
+TOTAL EMPLOYEE TURNOVER BY AGE
+
+0.7%
+
+69.4%
+
+29.9%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2018
+
+TOTAL EMPLOYEE TURNOVER BY AGE
+
+2.5%
+
+27.6%
+
+69.9%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+FY2019
+
+TOTAL EMPLOYEE TURNOVER BY GENDER
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+Male
+
+Female
+
+TOTAL EMPLOYEE TURNOVER BY GENDER
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+Age 30 Below
+
+Age 30 - 50
+
+Age 50 Above
+
+Male
+
+Female
+
+FY2018
+
+FY2019
+
+
+ 
+
+OUR PEOPLE
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+15
+
+4.4 
+
+Growth and Development 
+
+Subtracting the business outlook around the world that will 
+
+affect the organisation, the growth and development of the 
+
+employees may affect the organisation as well. With the 
+
+continuous training, learning and developing in view with the 
+
+movement and changes in the business market around the 
+
+world, be it in the skill of Information Technology (IT), 
+
+Engineering, Technical, etc., the Group will be able to sustain 
+
+and growth together.  
+
+Continuous training provides the employee with better 
+
+understanding and expectation on task being assigned to 
+
+them. This could help the employee to build up their 
+
+confidence when performing on daily work as well as 
+
+business operation and further excelling them.   
+
+With COVID-19 situation that arise in the December 2019 
+
+affecting several countries in 2020, we aim to maintain the 
+
+training hours per employee for 2020. 
+
+Starting from this reporting year, we will not limit on the 
+
+reporting of our growth and development record to the two 
+
+plants in Dongguan, China. Jadason will report the growth 
+
+and development record as a Group.  
+
+As such, the historical data for this aspect will be limited to 
+
+this reporting year. 
+
+FY2019
+
+Total Training Hours
+
+8,315 Hours
+
+Training Hours Per Employee
+
+15.28 Hours
+
+
+
+
+
+
+SUSTAINABILITY APPROACH
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+16
+
+5.1 
+
+Boundary Setting 
+
+In this third Sustainability Report, our two plants in Dongguan, China remain as the Group reporting boundary in 2019 which 
+
+contributes the highest weightage of the Group’s revenue and has the widest material impact on sustainability issues. The 
+
+Group will review on the reporting boundary when the reporting matures over time. 
+
+5.2 
+
+Stakeholders’ Engagement 
+
+We engage with our stakeholders regularly to access on their concerns, interest and potential impact to the Group which is 
+
+critical to the long-term success of the Group. Regular engagements provide a better insight on the materiality assessments of 
+
+the Group.  
+
+The figure below shows our key stakeholders and the form of engagement with them. 
+
+
+
+KEY STAKEHOLDERS
+
+FORMS OF ENGAGEMENT
+
+SHAREHOLDEDRS &amp; INVESTORS
+
+-
+
+ANNUAL GENERAL MEETING (AGM) 
+
+-
+
+ANNUAL REPORT 
+
+-
+
+QUARTERLY RELEASE OF FINANCIAL RESULTS 
+
+-
+
+SGXNET ANNOUNCEMENT
+
+CUSTOMERS / CLIENTS
+
+- POINT-OFSALES 
+
+-
+
+DIRECT ELECTRONIC MAIL COMMUNICATION 
+
+- HOTLINE
+
+SUPPLIERS / VENDORS
+
+- DIRECT ELECTRONIC MAIL COMMUNICATION 
+
+- BILATERAL COMMUNICATION
+
+EMPLOYEES
+
+-
+
+SEMINARS AND TRAINING SESSIONS 
+
+-
+
+STAFF BONDING SESSIONS 
+
+-
+
+MEETINGS 
+
+- ELECTRONIC MAIL COMMUNICATION
+
+
+ 
+
+SUSTAINABILITY APPROACH
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+17
+
+5.3 
+
+Materiality Assessment 
+
+The materiality issues identified in FY2017 marks as a 
+
+guide to Jadason on the focus of sustainability in a long-
+
+run, remains valid and important on our business practice 
+
+and our stakeholders for this reporting year. The 
+
+materiality issues that were identified and deemed as 
+
+important for the two plants in Dongguan, China cover on 
+
+Corporate Governance, Economic, Environmental and 
+
+Social. The breakdown on the materiality issues can be 
+
+found on the table at the right.  
+
+We recognised that the materiality issue may evolve over 
+
+time, and aim to conduct reviews on the identified 
+
+materiality issue every three years to access on the 
+
+validity of the materiality issues identified for our 
+
+sustainability footstep. 
+
+MATERIALITY ISSUES
+
+CORPORATE GOVERNANCE : 
+
+ 
+
+- COMPLIANCE 
+
+ 
+
+- RISK MANAGEMENT 
+
+ 
+
+- OPERATIONAL PRACTICE
+
+ECONOMIC : 
+
+ 
+
+- ECONOMIC PERFORMANCE 
+
+ 
+
+- ANTI-CORRUPTION
+
+ENVIRONMENTAL : 
+
+ 
+
+- MATERIAL &amp; WASTE 
+
+ 
+
+- ENERGY CONSUMPTION 
+
+ 
+
+- WATER USAGE
+
+SOCIAL : 
+
+ 
+
+- EMPLOYEE ENGAGEMENT 
+
+ 
+
+- OCCUPATIONAL HEALTH &amp; SAFETY 
+
+ 
+
+- TRAINING AND EDUCATION 
+
+ 
+
+- DIVERSITY &amp; EQUAL OPPORTUNITY 
+
+ 
+
+- CHILD LABOUR
+
+5.3.1 
+
+Economic Performance 
+
+The economic performance and 
+
+financial contribution of Jadason 
+
+had been tabulated and will be 
+
+published in Jadason Enterprises 
+
+Ltd Annual Report 2019. Due to 
+
+COVID-19 situation around the world, 
+
+affecting globally, Jadason Enterprises Ltd Annual Report 
+
+2019 will be released at a later date from Sustainability 
+
+Report 2019. 
+
+The Group Financial Highlights and Operating Reviews 
+
+can be found from Jadason Enterprises Ltd Annual Report 
+
+2019, page 04 to 10. 
+
+The Group Financial Statement can be found from 
+
+Jadason Enterprises Ltd Annual Report 2019, page 42 to 
+
+100.
+
+5.3.2 
+
+Anti-corruption 
+
+Jadason is committed to act 
+
+professionally, fairly and with 
+
+integrity in all our business 
+
+dealings and relationships.  
+
+Jadason has a standard procedure in 
+
+managing and monitoring its internal resource flow and 
+
+had strengthen its supervision in each department to 
+
+identify and weed out the possibilities of corruption. 
+
+5.3.3 
+
+Child Labour 
+
+In Jadason, we comply to the labour 
+
+laws on wages, working hours, child 
+
+labour and minimum employment 
+
+age  of the countries we operate in. 
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+18
+
+Jadason provides a “one-stop” service through the two plants in Dongguan, China to meet the outsourcing needs 
+
+of PCB manufacturers operating in China. The two plant in Dongguan, China categorised as “Manufacturing and 
+
+Support Services” business segment specialise in PCB, FPC drilling, laser drilling, PCB contour routing machine, 
+
+drill pointing and PCB inner layer mass lamination.  
+
+The daily operations in 
+
+t h e t w o p l a n t s i n 
+
+Dongguan, China, 
+
+works around with 
+
+energy, water and 
+
+material and accounted 
+
+as the major usage in 
+
+the Group and are 
+
+aware that such usage 
+
+will put the environment 
+
+to strain in the long-run. 
+
+This will in turn affects 
+
+the sustainability of our 
+
+future generations and the 
+
+Group’s business.  
+
+With the challenge in retaining employees and the lower volume of PCB drilling and PCB mass lamination job 
+
+flowing to China from the drawn-out US-China trade war in FY2019, the total employment headcount recorded for 
+
+the two plants in Dongguan, China had decreased by 30% comparing to the previous reporting year. 
+
+ 
+
+The Group continuously review its process to reduce manpower requirement and expanding on the production 
+
+capacity. Jadason had progressively invested in automation equipments and processes to reduce its manpower 
+
+needs and enhanced on operation effectiveness while to prepare and support in the upswing of the business. 
+
+
+
+6.1 
+
+Environmental  
+
+In Jadason, we integrate our sustainability practices into our business process of the two plants in Dongguan, China to 
+
+manage the impact of our business operations and activities to the environment.  
+
+The progressive investment in automated equipments and processes to reduce 
+
+reliance of manpower and enhanced operation effectiveness, to prepare and support 
+
+in the upswing of the business, will no doubt adding stress to the environment due to 
+
+the increase in energy and water requirement. With more environmental concern and 
+
+the improve in technology, equipments and/or machines moving towards energy 
+
+saving criteria which on the other hand maintaining on the energy usage despite have 
+
+more equipments. The Group constantly review on its energy reduction plan in the 
+
+plants to lighten the stress on energy usage.   
+
+Of the two plants in Dongguan, China, one of the plants is governed by ISO 14001 
+
+guidelines on the environmental management systems. We are committed to 
+
+minimise the environmental impact of the business operation for both plants in 
+
+Dongguan, China with our best effort.  
+
+In FY2019, the two plants in Dongguan, China had reported one new supplier that underwent screening  
+
+based on the environment criteria. 
+
+J
+
+adason aims to 
+
+continuously 
+
+drive operational 
+
+excellence without 
+
+compromising on the 
+
+environment.
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+19
+
+6.1.1 
+
+Material  
+
+The business operation of our two plants in Dongguan, China requires high volume of 
+
+materials of which majority are procured across China.  
+
+The category of materials being used in the two plants in Dongguan, China are 
+
+namely “raw material”, “associated process material” and “materials for packaging”. 
+
+Direct measurements methodology is practiced in the two plants to collect the usage 
+
+volume of the materials identified.  
+
+We recognised that the volume of materials used in our business operation in 
+
+Dongguan, China will inevitably create an impact to the environment. We practice on 
+
+utilising the materials to every bits that we can before disposing them to minimise the 
+
+wastage of the material and to play our part moving towards sustainability.  
+
+Due to the undervalue figures collected in FY2017 for the category “Associated Process 
+
+Materials” and “Materials for Packaging”, shows a lower usage figure despite having the highest production yield in the three 
+
+years in Dongguan, China. 
+
+We aim to maintain or to have a low increase in the material used in the coming years, when the production yield increase.
+
+FY2017
+
+0
+
+360
+
+720
+
+1,080
+
+1,440
+
+1,800
+
+RAW MATERIAL
+
+ASSOCIATED PROCESS MATERIAL
+
+MATERIALS FOR PACKAGING
+
+NON-RENEWABLE
+
+RENEWABLE
+
+J
+
+adason aims to 
+
+minimise the 
+
+impact to the 
+
+environment without 
+
+producing sub quality 
+
+product. 
+
+FY2018
+
+0
+
+360
+
+720
+
+1,080
+
+1,440
+
+1,800
+
+RAW MATERIAL
+
+ASSOCIATED PROCESS MATERIAL
+
+MATERIALS FOR PACKAGING
+
+NON-RENEWABLE
+
+RENEWABLE
+
+FY2019
+
+0
+
+360
+
+720
+
+1,080
+
+1,440
+
+1,800
+
+RAW MATERIAL
+
+ASSOCIATED PROCESS MATERIAL
+
+MATERIALS FOR PACKAGING
+
+NON-RENEWABLE
+
+RENEWABLE
+
+MATERIAL CATEGORY AND USAGE IN DONGGUAN, CHINA
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+20
+
+6.1.2 
+
+Waste  
+
+The waste materials that was generated by the two plants 
+
+in Dongguan, China are disposed according to the China 
+
+waste disposal regulatory requirement. We engaged 
+
+licensed and certified third party waste treatment 
+
+contractor for the collection and disposal of waste 
+
+materials for the two plants in Dongguan, China. 
+
+The waste materials generated in the plants were stored 
+
+and categorised in an easily understand manner in the 
+
+plants to avoid mixing up with other usable material. The 
+
+third party waste treatment contractor will then drop by the 
+
+two plants as scheduled to collect the waste material.  
+
+Waste materials that ware identified as renewable will be 
+
+stored in a separate area from non-renewable waste. 
+
+These renewable waste will then being sold to a third 
+
+party collector in Dongguan, China for recycling process.  
+
+The lower volume of PCB drillings and PCB laminating 
+
+jobs flow to the plants, and the gradual change in the 
+
+equipments the amount of materials used in the two plants 
+
+had decreased compared to the previous reporting year. 
+
+The percentage of renewable and non-renewable 
+
+materials had falls back to almost the same weightage in 
+
+FY2017. 
+
+We recognised that the high weightage of non-renewable 
+
+materials used in the two plants put a strain to the 
+
+environment. We aim to maintain the weightage of 
+
+renewable material used even though the production yield 
+
+increase in the next reporting year.
+
+
+
+
+
+PERCENTAGE OF RENEWABLE &amp; NON-
+
+RENEWABLE MATERIAL
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+FY2017
+
+FY2018
+
+FY2019
+
+NON-RENEWABLE
+
+RENEWABLE
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+21
+
+6.1.3 
+
+Energy Consumption  
+
+Our business operation in Dongguan, China generally works around machineries and equipments on a daily basis, consuming 
+
+high amount of electric energy. We are well aware that the amount of energy consumption in the plants will create an impact 
+
+to our environment and affect on the sustainability of our business in the long-run.  
+
+Our electric energy is directly purchased from municipal electric supplier situated in Dongguan, China. Periodical checking 
+
+and recording of the electric usage from electric meters for the two plants were arranged by the electric supplier follow by 
+
+billing the usage amount to the two plants.  
+
+In the previous reporting year, we had changed the recording measurement from 
+
+“KWH” in FY2017 to “TCE” in FY2018 and will follow this measurement unit from 
+
+FY2018 onwards. The two plants in Dongguan, China subscribes to GB/T13234-2009 
+
+on the methodologies and assumptions used for calculation of energy consumption 
+
+with the calculation method as follow: 
+
+(12 months x 30 days x KWh) / 10,000 x 1.229 = tce
+
+
+
+(tce)
+
+500
+
+640
+
+780
+
+920
+
+1060
+
+1200
+
+FY2018
+
+FY2019
+
+FY2017
+
+35KWh/m2
+
+ELECTRIC ENERGY CONSUMPTION
+
+The electric energy consumption of the two plants in 
+
+Dongguan, China had dropped 11% in terms of “TCE” 
+
+calculation compared to the previous reporting year. With 
+
+the energy saving plan in place, the electric energy 
+
+consumption was further reduced in FY2019 from the 
+
+lower production yield and employment headcount of the 
+
+plants.  
+
+We will strictly adhere to the standards on electric energy 
+
+consumption and reduction plan to achieve our energy 
+
+reduction goal in FY2020. We continuously review our 
+
+energy saving plan through monitoring, analysing and 
+
+optimising the energy consumption in the plants.  
+
+We aim to achieve a 5% reduction of electric energy 
+
+consumption from FY2018 “TCE” reporting figure for our 
+
+first short-term plan that was set in FY2018. 
+
+
+  
+
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+22
+
+“We are committed to the continual 
+
+reduction of electric energy consumption 
+
+plan in the plants without penalising our 
+
+customer’s expectations.”
+
+We subscribed to the Five-Year Plan on energy savings 
+
+from Dongguan Province, China for the two plants. 
+
+Committed to achieve on our energy reduction target, we 
+
+follow closely on our energy reduction plan found on the 
+
+right.  
+
+The Five-Year Plan that we subscribed, calls for a total 
+
+energy reduction of 19.3% energy consumption per unit of 
+
+GDP by FY2020. 
+
+ENERGY REDUCTION PLAN
+
+PROMOTE AND UPGRADE ON INDUSTRIAL STRUCTURE 
+
+TRANSFORMATION
+
+ADJUST AND OPTIMISE ENERGY STRUCTURE
+
+PROMOTE INDUSTRIAL AND BUILDING ENERGY RETROFIT
+
+PROMOTE INNOVATIVE ENERGY CONSERVATION IN 
+
+TRANSPORTATION
+
+PROMOTE EQUIPMENT RETROFIT
+
+LAUNCH ONLINE ENERGY DEMONSTRATION PROJECT
+
+PROMOTE ENERGY SAVING AND CARBON FREE LIFESTYLE
+
+CULTIVATE ENERGY CONSERVATION AND ENVIRONMENTAL 
+
+PROTECTION
+
+We continue to educate our employees on energy savings 
+
+in the plants by (1) only to turn on the air-conditional half 
+
+an hour after they start work, (2) maintaining the 
+
+temperature at 25 degree Celcius, and (3) to turn off the 
+
+air-conditional half an hour before they end work for the 
+
+day.  
+
+We strengthen our management in the production line on 
+
+daily operation to better understand and utilise the 
+
+equipments to increase output in the production line, in 
+
+turn reducing the electric energy consumption generated 
+
+from production line. We changed our exposure machines 
+
+to LED lightings to aid in the reduction of electric energy 
+
+consumption. 
+
+
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+23
+
+6.1.4 
+
+Water Withdrawal 
+
+Our two plants in Dongguan, China, recorded substantially high 
+
+amount of water withdrawal for our business operation and 
+
+periodically machinery upkeep and maintenance. The main water 
+
+supply source for our plants is from municipal water supplier situated 
+
+in Dongguan, while other water supply source is from our own water 
+
+recycle plant that is situated in one of our plants.  
+
+In our water recycle plant, we subscribe to the PCB industrial water 
+
+standard, methodology and assumption. This standard is relevant to 
+
+our business operation of the plant where the water recycle plant is 
+
+situated.  
+
+The total water usage of the two plants is tabulated to an estimate of 
+
+354,700 tonnes of water withdrawn from our municipal water supplier 
+
+and our water recycle plant. Despite the decrease in employment 
+
+headcount and the decrease in production yield, the total water 
+
+usage of the two plants had increased by 18.3% from the previous 
+
+reporting year. There is a slight increase in the amount of recycled 
+
+water used in the plant compared to municipal water used in the 
+
+plant from the previous reporting year and the total volume of water 
+
+recycled in the plant had increased by 48.5% from FY2018. 
+
+TOTAL WATER USAGE
+
+0
+
+120000
+
+240000
+
+360000
+
+480000
+
+600000
+
+FY2017
+
+FY2018
+
+FY2019
+
+TOTAL WATER USAGE (%)
+
+0%
+
+20%
+
+40%
+
+60%
+
+80%
+
+100%
+
+FY2017
+
+FY2018
+
+FY2019
+
+Municipal Water
+
+Recycled Water
+
+TOTAL RECYCLE WATER
+
+0
+
+16000
+
+32000
+
+48000
+
+64000
+
+80000
+
+FY2018
+
+FY2019
+
+
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+24
+
+6.2 
+
+Employee Wellness  
+
+With the rapid growth in China over the years, and more business setting up in the country creating more working 
+
+opportunities for the people, it posses a challenge to the businesses in China to retain manpower in the company, which does 
+
+not exclude Jadason.  
+
+Growing importance on employee well-being, welfare, and incentives had surfaced over the years. It's believed that employee 
+
+wellness leads to higher employee retention rate, which could affects the productivity of the workforce in the plants.  
+
+The two plants in Dongguan, China provide full-time employees with benefits consisting insurance (maternity, industrial injury, 
+
+medical and pension/retirement, etc), housing provident fund, and leaves (annual, marriage, maternity, etc). Additional 
+
+retirement plan is being drawn up for male and female employees above 60 years old and 50 years old respectively. Unlike 
+
+full-time employee, our part-time and temporary employees do not enjoy most of the benefits mentioned.  
+
+Our employees are able to utilise places like the Reading Room, Entertainment Room, TV Room, etc during their spare time.  
+
+We recognise on the importance for our employees to feel a sense of belonging with the company throughout their 
+
+employment with Jadason. Activities such as basketball match, tug-of-war, table tennis or even other sports were organised 
+
+for the employees, which could unite the employees, promote on team bonding and cultivating team work among the 
+
+employees.
+
+
+
+
+
+
+
+
+REACHING OUT IN DONGGUAN, CHINA
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+25
+
+6.3 
+
+Healthy and Safety  
+
+The health and safety of our employees is an important factor to 
+
+us. We believe that having an accidental prone, dangerous and/
+
+or hazardous working environment will affect both our employees 
+
+and business operation. We subscribe and comply to the safety 
+
+requirements of China reporting standard (GB6441-86), ISO 
+
+9001:2015 and ISO 14001:2015 standards.  
+
+Employees are required to strictly comply to the safety measures 
+
+drawn up in the plants. We will arrange trainings for our 
+
+employees to educate on the proper method in handling 
+
+machineries, equipments, materials and waste materials, logistic 
+
+flow in the plants, etc to minimise the risk of accident in the 
+
+plants.  
+
+We achieved zero fatality across our plants in Dongguan, China 
+
+in FY2019 and aim to achieve zero fatality for the upcoming 
+
+reporting years.  
+
+There is a re-adjustment on the total injuries counts for the 
+
+previous reporting years due to the figures provided by one of the 
+
+plants had been provided wrongly. With the adjustment, a 
+
+downward trend on the total injuries count can be observed 
+
+compared to the previous years. We aim to continue reduce our 
+
+total injuries count for the upcoming reporting years.  
+
+TOTAL INJURIES COUNT
+
+0
+
+100
+
+200
+
+300
+
+400
+
+FY2017
+
+FY2018
+
+FY2019
+
+Male
+
+Female
+
+In FY2019, 
+
+we achieved 
+
+ZERO fatality 
+
+across our 
+
+plants.
+
+
+
+
+
+
+GRI CONTENT INDEX
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+26
+
+This report has been prepared in accordance with the GRI Standards: Core Option.
+
+GENERAL STANDARD DISCLOSURES
+
+GRI Standard 
+
+Number
+
+Disclosure 
+
+Number
+
+Disclosure Title
+
+Chapter Reference
+
+ORGANISATION PROFILE
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-1
+
+Name of the organisation
+
+About this report (page 03)
+
+102-2
+
+Activities, brands, products, and services
+
+Principle Business (page 06)
+
+102-3
+
+Location of headquarters
+
+About Jadason Enterprises (page 04)
+
+102-4
+
+Location of operations
+
+About Jadason Enterprises  
+
+(page 04 - 06) 
+
+Our People (page 09)
+
+102-5
+
+Ownership and legal form
+
+About Jadason Enterprises (page 04) 
+
+Annual Report (page 15)
+
+102-6
+
+Markets served
+
+About Jadason Enterprises  
+
+(page 04 - 06)
+
+102-7
+
+Our People (page 09) 
+
+Annual Report (page 04 - 06, 101, 102
+
+Scale of the organisation
+
+102-8
+
+Our People (page 09)
+
+Information on employees and other workers
+
+102-9
+
+Supply chain
+
+Supply Chain (page 08)
+
+102-10
+
+Signiﬁcant changes to the organisation and its supply 
+
+chain
+
+N.A.
+
+102-11
+
+Precautionary Principle or approach
+
+Director Statement (page 01 - 02) 
+
+Risk Management (page 08)
+
+102-12
+
+External initiative
+
+Reporting Standard (page 03) 
+
+About Jadason Enterprises (page 04)
+
+102-13
+
+N.A. - No membership associations
+
+Membership of association
+
+STRATEGY
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-14
+
+Statement from senior decision-maker
+
+Director Statement (page 01 -02)
+
+ETHICS AND INTEGRITY
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-16
+
+Values, principles, standards, and norms of behaviour
+
+Corporate Governance (page 07 - 08)
+
+GOVERNANCE
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-18
+
+Governance structure
+
+Corporate Governance (page 07 - 08)
+
+
+GRI CONTENT INDEX
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+27
+
+GRI Standard 
+
+Number
+
+Disclosure 
+
+Number
+
+Disclosure Title
+
+Chapter Reference
+
+STAKEHOLDER ENGAGEMENT
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-40
+
+List of stakeholder groups
+
+Stakeholders’ Engagement (page 16)
+
+102-41
+
+Collective bargaining agreements
+
+N.A. - Employees are not covered by 
+
+collective bargaining agreements
+
+102-42
+
+Stakeholders’ Engagement (page16)
+
+Identifying and selecting stakeholders
+
+102-43
+
+Approach to stakeholder engagement
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholders’ Engagement (page 16)
+
+Materiality Assessment (page 17)
+
+REPORTING PRACTICE
+
+GRI 102: General 
+
+Disclosures 2016
+
+102-45
+
+Entities included in the consolidated ﬁnancial 
+
+statement
+
+Annual Report (page 74, 75) 
+
+About this Report (page 03)
+
+102-46
+
+Deﬁning report content and topic Boundaries
+
+Sustainability Approach (page 16)
+
+102-47
+
+List of material topics
+
+Materiality Assessment (page 17)
+
+102-48
+
+Restatements of information
+
+About this Report (page 03) 
+
+Growth and Development (page 15) 
+
+Health and safety (page 25)
+
+102-49
+
+About this Report (page 03) 
+
+Growth and Development (page 15) 
+
+Health and safety (page 25)
+
+Changes in reporting
+
+102-50
+
+About this Report (page 03)
+
+Reporting period
+
+102-51
+
+Date of most recent report
+
+May 2019
+
+102-52
+
+Reporting cycle
+
+About this Report (page 03)
+
+102-53
+
+Contact point for questions regarding the report
+
+About this Report (page 03)
+
+102-54
+
+Claims reporting in accordance with the GRI standard
+
+About this Report (page 03) 
+
+GRI Content Index (page 26)
+
+102-55
+
+GRI content index
+
+102-55
+
+External assurance
+
+GRI Content Index (page 26 - 28)
+
+About this Report (page 03)
+
+MANAGEMENT APPROACH
+
+GRI 103: 
+
+Management 
+
+Approach 2016
+
+103-1
+
+Explanation of the material topic and its Boundary
+
+Sustainability Approach (page 16)
+
+103-2
+
+The management approach and its components
+
+Reaching Out in Dongguan, China 
+
+(page 18 - 25)
+
+103-3
+
+Evaluation of the management approach
+
+Sustainability Approach (page 16)
+
+
+GRI CONTENT INDEX
+
+JADASON ENTERPRISES LTD
+
+SUSTAINABILITY  
+
+REPORT 2019
+
+PAGE 
+
+28
+
+TOPIC SPECIFIC DISCLOSURES
+
+GRI Standard 
+
+Number
+
+Disclosure 
+
+Number
+
+Disclosure Title
+
+Chapter Reference
+
+ECONOMIC PERFORMANCE
+
+GRI 201: Economic 
+
+Performance 2016
+
+201-1
+
+Direct economic value generated and distributed
+
+Economic Performance (page 17)
+
+ANTI-CORRUPTION 
+
+GRI 205; Anti-
+
+corruption 2016
+
+205-1
+
+Operations assessed for risks related to corruption
+
+Anti-corruption (page 17)
+
+ENVIRONMENTAL
+
+GRI 301: Materials 
+
+2016
+
+301-1
+
+Materials used by weight or volume
+
+Materials (page 19) 
+
+Waste (page 20)
+
+GRI 302: Energy 2016
+
+302-1
+
+Energy consumption within the organisation
+
+Energy Consumption (page 21 - 22)
+
+302-4
+
+Reduction of energy consumption
+
+Energy Consumption (page 21 - 22)
+
+GRI 303: Water and 
+
+Effluents 2016
+
+303-3
+
+Water withdrawal
+
+Water Usage (page 23)
+
+GRI 306: Effluents and 
+
+Waste 2016
+
+306-2
+
+Waste by type and disposal method
+
+Environmental (page 18)
+
+Materials (page 19) 
+
+Waste (page 20)
+
+GRI 308: Supplier 
+
+Environmental 
+
+Assessment 2016
+
+308-1
+
+New suppliers that were screened using 
+
+environmental criteria
+
+SOCIAL
+
+GRI 401: Employment 
+
+2016
+
+401-1
+
+New employees hires and employee turnover
+
+Hire and Turnover (page 13 - 14)
+
+401-2
+
+Beneﬁts provided to full-time employees that are not 
+
+provided to temporary or part-time employees
+
+Employee Wellness (page 24)
+
+GRI 403: Occupational 
+
+Health and Safety 
+
+2016
+
+403-9
+
+Work-related injuries
+
+Health and Safety (page 25)
+
+GRI 404: Training and 
+
+Education 2016
+
+404-1
+
+Average hours of training per year per employee
+
+Growth and Development (page 15)
+
+GRI 408: Child Labour 
+
+2016
+
+GRI 405: Diversity and 
+
+Equal Opportunity 
+
+2016
+
+405-1
+
+408-1
+
+Diversity of governance bodies and employees
+
+Operations and supplies at signiﬁcant risk for 
+
+incidents of child labour
+
+Diversiﬁcation (page 10 - 12)
+
+Child Labour (page 17)
+
+
+
+
+
+
+Jadason Enterprises Ltd 
+
+Registration No. 199003898K 
+
+No.3 Kaki Bukit Crescent, #03-01 
+
+Singapore 416237 
+
+Tel: (65) 6383 1800 
+
+Fax: (65) 6383 1390
+

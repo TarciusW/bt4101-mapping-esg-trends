@@ -1,0 +1,1940 @@
+
+ 
+
+SUMOON FOOD COMPANY LIMITED 
+
+(Registration No. 198304656K) 
+
+ 
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+TABLE OF CONTENTS 
+
+02  
+
+CEO’S STATEMENT ON SUSTAINABILITY 
+
+04  
+
+ORGANISATIONAL PROFILE 
+
+04  
+
+SUPPLY CHAIN 
+
+04  
+
+OUR PEOPLE 
+
+05  
+
+ETHICS AND INTEGRITY 
+
+05  
+
+STAKEHOLDER ENGAGEMENTS 
+
+07  
+
+REPORTING PRACTICE 
+
+07  
+
+GRI 201: ECONOMIC PERFORMANCE 
+
+08  
+
+GRI 204: PROCUREMENT PRACTICES 
+
+08  
+
+GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT 
+
+09  
+
+GRI 401: EMPLOYMENT 
+
+10  
+
+GRI 404: TRAINING AND EDUCATION 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+2 
+
+ 
+
+CEO’s Statement on Sustainability 
+
+On behalf of the Board of Directors (“Board”), I am pleased to present SunMoon Food Company 
+
+Limited’s (“SunMoon” or the “Company”) Sustainability Report for the twelve (12) months ended 31 
+
+March 2020. 
+
+About the Sustainability Report  
+
+This report has been prepared with reference to the Global Reporting Initiative Standards (“GRI”) and 
+
+covers environmental, social and governance (“ESG”) performance of all business divisions and 
+
+subsidiaries which are under the Group’s financial and operational control.  
+
+Information presented in the report has been extracted from our internal records and documents to 
+
+ensure accuracy using internationally accepted measurement data units. Unless otherwise stated, the 
+
+information represents that of the Group. 
+
+As SunMoon has always embedded sustainable practices in its activities, it welcomes the release of 
+
+the sustainability reporting guidelines issued by the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) in July 2016. This initiative has provided us the platform to formalise our sustainability 
+
+policies and procedures; consolidate our existing efforts; communicate to our stakeholders; and plan 
+
+further for the future. 
+
+CEO Statement 
+
+On behalf of the Board of Directors, I hereby present SunMoon Food Company’s (SunMoon) annual 
+
+report for the financial year ended 31 March 2020 (FY19/20). 
+
+Although SunMoon has experienced ups and downs in the past 30 years, it is a respectable company 
+
+that has kept up with its original aspirations and continues to persist. In fiscal year 2020 (FY19/20), 
+
+SunMoon experienced more crisis – impacted by the economic downturn in China and rest of the world 
+
+suffered in the first half of the fiscal year and the COVID-19 pandemic that ravaged the world since the 
+
+end of third quarter of the fiscal year. During this difficult time, SunMoon has shown great perseverance, 
+
+adhering to the management principles of Simplicity and Focus.  
+
+I am proud of our team. In the first half of the fiscal year 2020, SunMoon has formed a stronger and 
+
+more stable operation team through organisational restructuring. Having to steer through the difficult 
+
+situation arising from the COVID-19 pandemic has given us more confidence that the organisational 
+
+restructuring we have executed is effective. Due to the changes in the economic environment, the 
+
+adjustment of the organisational structure, and the outbreak of COVID-19, the sales volume of 
+
+SunMoon dropped significantly in fiscal year 2020 (FY19/20) compared with the previous fiscal year. 
+
+The total revenue in fiscal year 2020 (FY19/20) was $18.00 million, down 75% from fiscal year 2019 
+
+(FY18/19). We needed time to respond to the changes brought about by the deterioration in the 
+
+operating environment and adjust the organisational structure and sales strategy. At the same time, our 
+
+supply chain has suffered an unprecedented blow due to COVID-19. In this situation, we were more 
+
+cautious in our business operations than before.  
+
+The good thing, however, is that we are delighted to find that our operational capabilities and business 
+
+performance have greatly improved compared with that in the past, and our business is gradually 
+
+aligning with our strategy of focusing on businesses with positive margin. The gross profit margin of 
+
+SunMoon in fiscal year 2020 (FY19/20) is 5.05%, compared with only 1.1% in fiscal year 2019 
+
+(FY18/19). Fixed costs reduced from $2.56 million in fiscal year 2019 (FY18/19) to $1.28 million in fiscal 
+
+year 2020 (FY19/20). 
+
+After going through many twists and turns, I believe that SunMoon has passed the most difficult period. 
+
+I have full confidence in the team and expect the growth of SunMoon under the operation of the current 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+3 
+
+ 
+
+team once the COVID-19 situation stabilises. With the completion of internal adjustments and when the 
+
+conditions of the external environment improve, I believe that revenue will gradually return to more 
+
+normal level. SunMoon will then be able to register a higher gross profit margin and enhance 
+
+profitability. We will continue to build on our strengths and capabilities accumulated in the past in order 
+
+to achieve a well-grounded development. 
+
+SunMoon Group will continue to operate by principle: Simplicity and Focus. We have to constantly 
+
+strategise how best to leverage on our limited resources to increase our market share, and to drive the 
+
+transformation of SunMoon from a traditional supply chain company to a value-adding supply chain 
+
+company. Therefore, the word “Focus” is extremely important and we will continue to focus on China 
+
+market and adhere to the following three development strategies in the new fiscal year: 
+
+1. Product category expansion: SunMoon has not only completed the adjustment of organisational 
+
+structure in the past year, and more importantly, it has also expanded the strategic layout from selling 
+
+fruits to include a wide range of products including fruit, meat and aquatic products. Through deep 
+
+cultivation of global supplier resources, we aim to enhance our upstream product sourcing network 
+
+based on these core categories. 
+
+2. Brand deepening: the current development strategy of SunMoon is to take categories of fresh 
+
+produce, aquatics, animal proteins and other food related products as the core and gradually 
+
+strengthens SunMoon channel brand through approaches like building its own brand and obtaining the 
+
+exclusive distribution rights of upstream brands. As a result, it will strengthen relationship with existing 
+
+suppliers and expand into more new sales channels. 
+
+3. Channel expansion: The Group has continued its efforts to establish the popularity of SunMoon brand 
+
+in China’s retail and food service sectors in the past year. We have formed long-term stable cooperative 
+
+relations with renowned retail and food service channels such as RT-Mart, Fresh Hippo, Suning Fresh, 
+
+Burger King, etc. 
+
+In the new fiscal year, SunMoon will continue to develop steadily, focusing on core category 
+
+development, brand building, and channel expansion to further strengthen its businesses in the Chinese 
+
+market.Our longer-term strategic plan for SunMoon is to gradually expand and strengthen the value-
+
+added services beginning in the new fiscal year, including but not limited to customs declaration and 
+
+inspection services, customized raw material processing services (OEM &amp; ODM), and supply chain 
+
+financial services. 
+
+As we move into a year filled with the uncertainty and risks brought about by the COVID-19 pandemic, 
+
+we will devote ourselves to operating SunMoon in a more stable and pragmatic way. We will continue 
+
+to cement our position and strengthen our fundamentals. All these would not have been possible without 
+
+our valuable stakeholders. On behalf of the Board, I would like to thank our management and staff for 
+
+their commitment and dedication towards the Group. I would also like to extend my appreciation to our 
+
+Board of Directors for their insightful guidance. Last but not least, I would like to express my gratitude 
+
+to our business partners, customers and shareholders for their unwavering trust and faith in us 
+
+ 
+
+ 
+
+Mr Zhang Ye  
+
+Chief Executive Officer 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+4 
+
+ 
+
+ 
+
+Organisational Profile  
+
+SunMoon is a global distributor and marketeer of branded fresh produce, aquatics, animal proteins and 
+
+other food related products, delivered to the health-conscious consumer in the most convenient way. 
+
+Started in 1983, SunMoon has grown and expanded its product offering which includes fresh fruits, 
+
+vegetables, meat, seafood and French fries under its own brand. 
+
+With an extensive sales network of over 15,000 point of sales globally, SunMoon’s offering of quality, 
+
+premium products are distributed via supermarkets, convenience stores, online and wholesale 
+
+channels, airlines, food services as well as SunMoon’s franchise outlets in Singapore. 
+
+Since 2015, the Company has shifted towards an asset-light, consumer-centric and brand-focused 
+
+business strategy by tapping on its strong brand equity and the Network x Geography x Product 
+
+business model. Instead of owning farms and plantations, SunMoon sources for products from farmers. 
+
+SunMoon’s products come with the SunMoon Quality Assurance label, which is backed by 
+
+internationally recognised accreditations such as HACCP; Good Manufacturing Practice (GMP); AIB 
+
+(Excellent), ISO 22000, Halal and Kosher Certification. 
+
+SunMoon was listed in 1997 on the Mainboard of the Singapore Stock Exchange and has since grown 
+
+and expanded its product offerings to meet the discerning consumers of today. 
+
+Supply Chain (including cold chain processes) 
+
+SunMoon mainly engages packers and growers from countries which include but is not limited to, China 
+
+and countries in the South East Asia, Europe, South America continents.  
+
+We have continued to build on the supply and sale of packaged, ready to drink whole young Thai 
+
+coconuts in Singapore. fresh produce, aquatics, animal proteins and other food related products to 
+
+China. . 
+
+All of our suppliers must also fulfil our “SunMoon Quality Assurance” standards, a strict checklist of 
+
+freshness, quality and safety, and be accredited with various regulatory credentials.  
+
+Our People 
+
+Our employees are inspired to be the best they can be, where our team is as diverse as the markets 
+
+we serve. We foster an open environment where creativity thrives and provides our people with the 
+
+opportunities they need to develop their skills. As at 31 March 2020, the total number of employees in 
+
+the Company is 13 and the gender breakdown is 5 Female, 8 Male. All of our Company’s activities are 
+
+performed by our employees. We do not have any collective bargaining agreements in place.  
+
+
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+5 
+
+ 
+
+ 
+
+ 
+
+Ethics and Integrity 
+
+At SunMoon, we believe that nothing is more important than the health of our customers and their 
+
+family. We understand that the food we eat have a direct impact on our constitution and overall well-
+
+being. Thus, we deliver from farm to fork quality nutritious, fresh produce, aquatics, animal proteins and 
+
+other food related product in the best and most convenient way. Our promises are:- 
+
+a) 
+
+To source the best quality fresh produce, aquatics, animal proteins and other food related 
+
+product  from around the world 
+
+b) 
+
+To deliver you a product that is safe for consumption 
+
+c) 
+
+To provide great value in affordability of price 
+
+d) 
+
+To safeguard your interests at all times 
+
+Because of our good values, principles and standards, we have been a trusted brand in the industry 
+
+since 1977 and customers return for our trusted products from time and time. 
+
+At the employee level, we have a code of business ethics that all employees are required to follow. 
+
+Stakeholder Engagements 
+
+Our stakeholders are identified and prioritised based on our relationship of reliance and impact on each 
+
+other. Their needs and concerns are what drive our sustainability practices and measures. The following 
+
+are stakeholders that we have engaged and identified: 
+
+1. 
+
+Customers  
+
+2. 
+
+Suppliers 
+
+3. 
+
+Authorities/Agent 
+
+4. 
+
+Shareholders 
+
+5. 
+
+Employees 
+
+ 
+
+ 
+
+
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+6 
+
+ 
+
+Customers  
+
+We engage our customers by carrying out adequate background checks including but not limited to 
+
+whether they have healthy credit, the customer’s capacity, annual turnover and total paid up capital. 
+
+We may also have customer satisfaction surveys and/or feedback and our staff can assist our 
+
+customers if the need arises. Generally, our customers want more stock and more varieties of products 
+
+to fulfil end-consumers’ demand. 
+
+Suppliers  
+
+The identification of suppliers is crucial and is an important part of SunMoon’s business operations. 
+
+SunMoon will carry out background checks on our suppliers to ensure that their products meet our 
+
+“SunMoon Quality Assurance” stringent standards which include the types, quality, safety of the 
+
+products they supply, past experiences and track records. It is also important to take note that if the 
+
+selected suppliers do not meet our “SunMoon Quality Assurance” and/or delivery targets, SunMoon will 
+
+not hesitate to look for replacement suppliers. Management will undertake due diligence checks by 
+
+visiting the farms of the selected suppliers so as to assess and ensure that the suppliers are able to 
+
+meet our “SunMoon Quality Assurance” and that their operations are sufficient to meet delivery targets. 
+
+As the industry is continuously developing, we are also in the process of developing sustainability and 
+
+green standards for our suppliers to adhere to. In the course of the last FY19/20, we have engaged to 
+
+ensure that our suppliers and/or products meet the “Marine Stewardship Council” accreditation. Our 
+
+suppliers are concerned with the cost of business, speed of delivery and the quantity and quality of 
+
+delivery.  
+
+Authorities/Agent  
+
+We may, as and when required, engage with the authorities/agents to assist them in the compliance of 
+
+different regulatory, compliance and licensing/certification requirements across different borders. 
+
+Effective engagement with the authorities/agents can reduce any delays or additional costs caused by 
+
+licensing, importing or any other issues that may arise. 
+
+Shareholders  
+
+We understand that our investors are concerned with the economic performance of the Company. As 
+
+such, SunMoon is committed to disclose relevant and material information to its shareholders, the 
+
+investment community and the public in a timely, accurate and transparent manner, in accordance with 
+
+the listing rules of the SGX-ST, and the Singapore Code of Corporate Governance (dated 6 August 
+
+2018). Our disclosures are made public through SGX-ST’s SGXNet and on the Company’s corporate 
+
+website at www.sunmoonfood.com. We regularly communicate through our nominated spokespersons 
+
+to ensure consistency in messaging, addressing concerns and queries as well as managing the 
+
+expectations of shareholders and the investment community. We also regularly engage shareholders, 
+
+and/or potential investors, and the media through the Annual General Meeting and Extraordinary 
+
+General meeting, conference calls, analyst briefings, media interviews and luncheons, Annual Reports, 
+
+Press Releases and announcements on SGXNet.  
+
+Employees  
+
+Our employees go through regular feedback and appraisals and have ample opportunity to develop 
+
+their skills and competencies. They also have the opportunity to take on greater roles and 
+
+responsibilities. Our employees would like better incentives and performance bonuses as well as better 
+
+work life balance. 
+
+ 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+7 
+
+ 
+
+ 
+
+ 
+
+Reporting Practice  
+
+The extensive list of GRI topics were discussed between the Company’s senior management and they 
+
+have shortlisted the top 5 most relevant topics. Following that, the top 5 material topics were presented 
+
+to and approved by the board.  
+
+The topics that SunMoon will be covering are:-  
+
+1. 
+
+GRI 201 Economic Performance; 
+
+2. 
+
+GRI 204 Procurement Practices; 
+
+3. 
+
+GRI 308 Supplier Environmental Assessment;  
+
+4. 
+
+GRI 401 Employment; and 
+
+5. 
+
+GRI 404 Training and Education. 
+
+The reporting period is from 1 April 2019 to 31 March 2020. This reporting period is in accordance with 
+
+the SGX Guidelines Practice Note 7.6 and is the second Sustainability Report the Company has made. 
+
+The reporting cycle will be prepared annually in respect to SGX-ST Listing Rules Practice Note 7.6. The 
+
+contact point for any questions regarding the report or its contents can be sent to 
+
+enquiry@sunmoonfood.com. There is no restatement of information for this Sustainability Report.  
+
+The report is based on the Global Reporting Initiative Standards. SunMoon has not engaged any 
+
+external assurance for this Sustainability Report.  
+
+GRI 201: ECONOMIC PERFORMANCE  
+
+ 
+
+Due to the nature of SunMoon’s business, climate change and weather will invariably have a direct 
+
+impact on our products. Bad weather conditions caused by climate change will have a negative impact 
+
+on product quality and quantity. In view of the Covid-19 pandemic, workers were affected which had 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+93%
+
+6% 1%
+
+Total Economic Value Distributed
+
+
+
+Total operating cost to suppliers( approximately)
+
+
+
+Employee salaries and benefits (approximately)
+
+
+
+Directors fee (approximately)
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+8 
+
+ 
+
+resulted in the production volume being greatly reduced. Additionally, the Covid-19 pandemic had also 
+
+changed the social norms, for example, end-consumers such as restaurants were forced to close and 
+
+resulted in lower demand and stagnated prices. In 2019, bad weather conditions had also directly 
+
+affected the quality and quantity of pear harvests, in particular, in the People’s Republic of China. We 
+
+recognise the impact of climate change on our revenues and so endeavour to involve all our partners 
+
+to participate and engage in sustainability practices.  
+
+Given the changing nature and landscape of SunMoon’s business, the Company’s has been looking to 
+
+increase its existing product offerings. In particular, the intent is to identify and source for products which 
+
+are less susceptible to climate changes.  
+
+SunMoon has received Job Support Scheme grant from the Singapore Government. This has helped 
+
+SunMoon in reduction of salary expenditure. In addition, SunMoon has also received property tax relief 
+
+rebates as part of the Singapore Government’s initiative as a result of the Covid pandemic, this has 
+
+helped and reduced SunMoon’s rental costs. These grants gave the Company support to improve our 
+
+capabilities.  
+
+For detailed financial results, please refer to our financial statements as set out in the Annual Report 
+
+2019/20. 
+
+GRI 204: PROCUREMENT PRACTICES  
+
+SunMoon has implemented improved global procurement strategies, and manages a carefully 
+
+controlled process based on the “SunMoon Quality Assurance” standard. Products from certified farms, 
+
+plantations and processing factories are selected according to the “SunMoon Quality Assurance” 
+
+standard, a critical checklist of freshness, quality, and safety as demanded by our discerning customers; 
+
+a reputation also backed up by internationally recognised accreditations. 
+
+As fresh fruits, vegetables, meat, seafood and French fries are perishable goods, we do not keep large 
+
+inventories and our operational model is mainly to work with our suppliers so as to undertake direct 
+
+shipping of the fresh produce. Accordingly, our procurement budget is substantially spent on suppliers.                  
+
+GRI 308: SUPPLIER ENVIRONMENTAL ASSESSMENT  
+
+All suppliers must be approved according to SunMoon’s set of selection criteria to ensure product quality 
+
+and branding. Complementing quality assurances and our brand, we at SunMoon believe strongly in 
+
+protecting and caring for our environment. As such, we at SunMoon will make a conscientious effort in 
+
+developing and, in due course, implement environmental assessment processes.  
+
+Target for subsequent reporting 
+
+SunMoon is committed to increase the existing number of suppliers, both internationally and locally in 
+
+the People’s Republic of China to meet both international and local demand.  
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+9 
+
+ 
+
+ 
+
+ 
+
+GRI 401: EMPLOYMENT  
+
+There are 12 new employee hires during the reporting period with below 30 years of age and between 
+
+30 to 50 years of age. The makeup of the new hires comprises of 5 female and 7 male. The total number 
+
+of employees(1) as at 31 March 2020 is13 which comprises of 5 female and 8 male. 
+
+SunMoon also provides various benefits to full time employees such as free medical services at one of 
+
+our panel clinics, dental and specialist medical benefits. Additionally, we are supportive of family life 
+
+and work-life balance and offer various types of leave for our employees such as parental, marriage, 
+
+maternity, paternity, childcare, examination, and compassionate leave. However, none of our 
+
+employees utilised their parental leave during the reporting period.  
+
+Note: 
+
+(1) 
+
+For SunMoon’s, there were a total of 3 females and 2 males who were hired and resigned for FY19/20. 
+
+there were a total of 12 females and 3 males who resigned during FY19/20.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+10 
+
+ 
+
+GRI 404: TRAINING AND EDUCATION 
+
+As part of SunMoon’s policy of constant training and professional development for our employees, we 
+
+send our employees to various training programs in order to upgrade their skills and competencies; this 
+
+improves employee satisfaction and helps our staff performs even better at their jobs. For example, our 
+
+finance team was sent to professional courses such as the “Achieving Mastery and Success Through 
+
+Growth Mindset” conducted by the Singapore Management University. Additionally, we sent our 
+
+employees to participate in large-scale exhibitions, such as, the Asia Fruits Logistic Exhibition, Shanghai 
+
+Seafood Exhibition, Asia Seafood Exhibition, National Gift Exhibition and China Export and Import 
+
+Exhibition in the People’s Republic of China. On an ongoing basis, the Company will seek to ensure 
+
+that senior managements are considered for leadership training to ensure that their skills and 
+
+knowledge remain relevant.  
+
+The average hour of training per year per employee amounted to 15 hours. All of our employees have 
+
+annual performance reviews being carried out as part of our Company’s policy. They receive regular 
+
+performance and career development reviews as feedback so that they can continue to improve.  
+
+Target for subsequent reporting 
+
+SunMoon targets to maintain our training hours for our employees and costs to be set aside in upgrading 
+
+the skills of our staff for the upcoming financial year. In addition, we have not stopped efforts and will 
+
+target to send all directors of SunMoon for training on the roles and responsibilities of a director of a 
+
+listed issuer.  
+
+ 
+
+
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+11 
+
+ 
+
+GRI Contents Index 
+
+ 
+
+GRI Reference and Disclosure Title 
+
+ 
+
+Page No. 
+
+ 
+
+ 
+
+ORGANISATIONAL PROFILE 
+
+ 
+
+ 
+
+102-2 [Core] 
+
+Activities, brands, products, and services 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-4 [Core] 
+
+Location of operations 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-5 [Core] 
+
+Ownership and legal  
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+Page 97 of the Annual Report for the 
+
+financial year ended 31 March 2020 
+
+ 
+
+ 
+
+102-6 [Core] 
+
+Markets served 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-7 [Core] 
+
+Scale of the organisation 
+
+ 
+
+ 
+
+Page 9 of the Annual Report for the 
+
+financial year ended 31 March 2020 
+
+ 
+
+ 
+
+102-8 [Core] 
+
+Information on employees and other workers. 
+
+ 
+
+ 
+
+Pages 4 and 6 of the Sustainability Report 
+
+ 
+
+ 
+
+102-9 [Core] 
+
+Supply Chain 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-10 [Core] 
+
+Significant changes to the organisation and its supply chain 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-11 [Core] 
+
+Precautionary Principle or approach 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-12 [Core] 
+
+External initiatives 
+
+ 
+
+ 
+
+Pages 5 and 6 of the Sustainability Report 
+
+ 
+
+ 
+
+102-13 [Core] 
+
+Membership of associations 
+
+ 
+
+ 
+
+Page 5 of the Sustainability Report 
+
+ 
+
+ 
+
+STRATEGY 
+
+ 
+
+102-14 [Core] 
+
+Statement from senior decision maker 
+
+ 
+
+ 
+
+Page 2 of the Sustainability Report 
+
+ 
+
+ 
+
+ETHICS AND INTEGRITY 
+
+ 
+
+102-16 [Core] 
+
+Values, principles, standards, and norms of behaviour 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+GOVERNANCE 
+
+ 
+
+102-18 [Core] 
+
+Governance structure 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+12 
+
+ 
+
+ 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+102-40 [Core] 
+
+List of stakeholder groups 
+
+ 
+
+ 
+
+Page 5 of the Sustainability Report 
+
+ 
+
+ 
+
+102-41 [Core] 
+
+Collective bargaining agreements 
+
+ 
+
+ 
+
+Page 4 of the Sustainability Report 
+
+ 
+
+ 
+
+102-42 [Core] 
+
+Identifying and selecting stakeholders 
+
+ 
+
+ 
+
+Page 5 of the Sustainability Report 
+
+ 
+
+ 
+
+102-43 [Core] 
+
+Approach to stakeholder engagement  
+
+ 
+
+ 
+
+Page 5 of the Sustainability Report 
+
+ 
+
+ 
+
+102-44 [Core] 
+
+Key Topics and concerns raised 
+
+ 
+
+ 
+
+Page 6 of the Sustainability Report 
+
+ 
+
+ 
+
+REPORTING PRACTICE 
+
+ 
+
+102-45 [Core] 
+
+Entities included in the consolidated financial statements 
+
+ 
+
+ 
+
+Page 2 of the Annual Report for the 
+
+financial year ended 31 March 2020 
+
+ 
+
+102-46 [Core] 
+
+Defining report content and topic Boundaries 
+
+ 
+
+ 
+
+Pages 6 and 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-47 [Core] 
+
+List of material topics 
+
+ 
+
+ 
+
+Pages 6 and 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-48 [Core] 
+
+Restatements of information 
+
+ 
+
+ 
+
+Pages 6 and 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-49 [Core] 
+
+Changes in reporting  
+
+ 
+
+ 
+
+Pages 6 and 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-50 [Core] 
+
+Reporting Period 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-51 [Core] 
+
+Date of most recent report 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-52 [Core] 
+
+Reporting cycle 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-53 [Core] 
+
+Contact point for questions regarding the report 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-54 [Core] 
+
+Claims of reporting in accordance with the GRI standards 
+
+ 
+
+ 
+
+Pages 6 and 7 of the Sustainability Report 
+
+ 
+
+ 
+
+102-55 [Core] 
+
+GRI content Index 
+
+ 
+
+ 
+
+Pages 7 to 10 of the Sustainability Report 
+
+ 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+13 
+
+ 
+
+ 
+
+102-56 [Core] 
+
+External assurance 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+TOPIC SPECIFIC DISCLOSURES  
+
+GRI Reference and Disclosure Title 
+
+Page No. 
+
+ 
+
+ 
+
+GRI 201 : ECONOMIC PERFORMANCE 
+
+ 
+
+201-1  
+
+Direct Economic Value Generated and distributed 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+Page 36 of the Annual Report for the 
+
+financial year ending 31 March 2020 
+
+ 
+
+ 
+
+201-2 
+
+Financial implications and other risks and opportunities 
+
+ 
+
+ 
+
+Page 7 of the Sustainability Report 
+
+ 
+
+ 
+
+201-3 
+
+Defined benefit plan obligations and other retirement plans 
+
+ 
+
+ 
+
+*SunMoon has no benefit plan obligation 
+
+or other retirement plans 
+
+ 
+
+ 
+
+201-4 
+
+Financial assistance received from government 
+
+ 
+
+ 
+
+Page 8 of the Sustainability Report 
+
+ 
+
+GRI 204 : PROCUREMENT PRACTICES 
+
+ 
+
+204-1 
+
+Proportion of spending on local suppliers 
+
+ 
+
+ 
+
+Page 8 of the Sustainability Report 
+
+ 
+
+GRI 308 : SUPPLIER ENVIRONMENTAL ASSESSMENT 
+
+ 
+
+308-1 
+
+New suppliers that were screened using environmental criteria 
+
+ 
+
+ 
+
+Page 8 of the Sustainability Report 
+
+ 
+
+ 
+
+308-2 
+
+Negative environmental impacts in the supply chain and actions taken 
+
+ 
+
+ 
+
+Page 8 of the Sustainability Report 
+
+ 
+
+ 
+
+GRI 401 : EMPLOYMENT 
+
+ 
+
+401-1 
+
+New employee hires and employee turnover 
+
+ 
+
+ 
+
+Page 9 of the Sustainability Report 
+
+ 
+
+ 
+
+401-2 
+
+Benefits provided to full-time employees that are not provided to temporary or 
+
+part-time employees 
+
+ 
+
+ 
+
+Page 9 of the Sustainability Report 
+
+ 
+
+ 
+
+401-3 
+
+Parental leave 
+
+ 
+
+ 
+
+ 
+
+Page 9 of the Sustainability Report 
+
+ 
+
+GRI 404 : TRAINING AND EDUCATION 
+
+ 
+
+404-1 
+
+Average hours of training per year per employee 
+
+ 
+
+ 
+
+Page 10 of the Sustainability Report 
+
+ 
+
+ 
+
+404-2 
+
+ 
+
+Page 10 of the Sustainability Report 
+
+
+SUMOON FOOD COMPANY LIMITED  
+
+SUSTAINABILITY REPORT FOR THE FINANCIAL YEAR ENDED 31 MARCH 2020 
+
+ 
+
+14 
+
+ 
+
+Programs for upgrading employee skills and transition assistance programs 
+
+ 
+
+ 
+
+ 
+
+404-3 
+
+Percentage of employees receiving regular performance and career 
+
+development reviews 
+
+ 
+
+ 
+
+Page 10 of the Sustainability Report 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

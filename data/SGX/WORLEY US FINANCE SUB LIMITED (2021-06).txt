@@ -1,0 +1,9685 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+worley.com
+
+
+
+
+
+Delivering a more 
+
+sustainable world
+
+SUSTAINABILITY REPORT 2021 
+
+
+
+
+Worley acknowledges and pays respect to the past, present and future Traditional 
+
+Custodians of Country throughout Australia and extends this acknowledgement 
+
+and respect to First peoples in all countries in which we operate.
+
+In Australia it is Aboriginal and Torres Strait Islander peoples who have cared for 
+
+and sustained this land, its animals, plants and waters for more than 60,000 years.
+
+We recognize the continuation and importance of cultural, spiritual and educational 
+
+practices of Aboriginal and Torres Strait Islander peoples, and their connections to land, 
+
+sea and community.
+
+Contents
+
+CEO message  ......................................................................2
+
+Global context  .....................................................................3
+
+Who we are  ..........................................................................5
+
+Our approach  ......................................................................8
+
+Acronyms  ..........................................................................64
+
+GRI table  ............................................................................65
+
+Climate  ...............................................................................25
+
+Water  ..................................................................................34
+
+Circular economy  ............................................................34
+
+Biodiversity .......................................................................34
+
+Decarbonization  ..............................................................12
+
+Resource stewardship  ..................................................18
+
+Asset sustainability  .......................................................21
+
+Environment and society ..............................................22
+
+Safety, health and well-being  ....................................36
+
+Diversity and inclusion  .................................................42
+
+People development  .....................................................45
+
+Contributing to our communities  .............................49
+
+Governance framework  ...............................................54
+
+Ethics approach ...............................................................55
+
+Cyber security and data protection  .........................58
+
+Responsible business  
+
+assessment standard  ...................................................59
+
+Assurance  .........................................................................60
+
+Tax contributions  ............................................................60
+
+INTRODUCTION ������������������������������������� 2
+
+ABOUT THIS REPORT �������������������������� 61
+
+CARING FOR OUR PLANET ������������������ 24
+
+OUR SUSTAINABILITY PATHWAYS ������11
+
+OUR PEOPLE AND COMMUNITIES ������ 35
+
+OPERATING RESPONSIBLY ����������������� 52
+
+VISIT US ONLINE
+
+We have created our 2021 Sustainability webpage 
+
+www.worley.com/sustainability
+
+
+to do to embrace different thinking to drive innovation and 
+
+problem solving. 
+
+Our people network groups* have worked hard to build 
+
+awareness and inclusion of key groups within our business. 
+
+And this hasn’t gone unnoticed. Kuumba (our people network 
+
+group for Black employees) and Women of Worley network 
+
+both won GRIT awards1 for leading by example in the 
+
+energy sector. 
+
+We value Life and believe in the safety, health and well-being 
+
+of our people, communities and the environment. Without it, 
+
+nothing else matters.
+
+We’ve stayed focused on our people’s mental and physical 
+
+well-being as the world has moved in and out of COVID-19 
+
+related lockdowns. We’ve provided basic mental health 
+
+training to 875 managers, and we now have a network of over 
+
+254 trained mental health champions. Our senior leaders 
+
+actively lead our safety and well-being agenda, supported by 
+
+tools including our Employee Assistance Program (EAP).
+
+As the 26th UN Conference of the Parties (COP26) approaches, 
+
+we’re reminded of the vital role the UN plays in coordinating 
+
+the global effort on common issues facing humanity. It’s been 
+
+nine years since we became a signatory to the UN Global 
+
+Compact principles, and we’re more committed than ever to 
+
+them as well as advancing the broader UN SDGs.
+
+
+
+Chris Ashton 
+
+Chief Executive Officer and Managing Director
+
+CEO MESSAGE
+
+Taking action to forge sustainable pathways
+
+The COVID-19 pandemic has reminded us how fragile we are and how dependent we are on shared purpose 
+
+and commitment. It’s also helped the world realize we need to take urgent action to achieve the United Nations 
+
+Sustainable Development Goals (UN SDGs). The enormity of the task is becoming ever more clear.
+
+Delivering a more sustainable world
+
+Ambitions, targets and agreements are important. 
+
+But delivering the projects necessary to achieve a more 
+
+circular economy, net zero emissions and better results for our 
+
+societies and economies is where change becomes real and 
+
+ambition is realized. It’s where action needs to exist and where 
+
+Worley is taking a leadership role. 
+
+Achieving net zero emissions by mid-century will demand 
+
+an unprecedented pace and scale of global energy, chemical 
+
+and resource infrastructure development and engineered 
+
+solutions. It will require the balancing of project delivery 
+
+performance with social and environmental values and the 
+
+achievement of schedules.
+
+This year we continued to deliver the solutions our customers 
+
+need, including projects using carbon-negative technologies 
+
+(such as direct air capture and bioenergy with carbon 
+
+capture and storage), advancing the circular economy for 
+
+plastics and supporting the development and scaling of 
+
+hydrogen technology.
+
+We continue with a focus on caring for our people, our planet 
+
+and communities and operating responsibly. We’re bringing 
+
+our purpose to life across our business in many ways. In the 
+
+last year, we:
+
+• introduced our Sustainable Solutions approach to delivering 
+
+the work we do, empowering our people to reduce carbon 
+
+levels on projects
+
+• joined the Business Ambition* for 1.5°C, and the Science 
+
+Based Targets initiative and committed to net zero 
+
+Scope 3 emissions by 2050
+
+• held our first Sustainability month, with 15,000 participants
+
+• conducted the first global inclusion survey of our people, 
+
+with more than 18,500 participants 
+
+• participated in the Workplace Pride benchmark survey and 
+
+signed onto the Workplace Pride Declaration of Amsterdam*
+
+• developed digital sustainability solutions for carbon capture, 
+
+zero emissions, hydrogen and renewables projects and 
+
+disaster management.
+
+Partnerships for breakthrough thinking
+
+Solving the sustainability challenges facing the world requires 
+
+new and different partnerships and coalitions to catalyze 
+
+breakthrough thinking and approaches. This past year, we:
+
+• partnered with the Princeton Andlinger Center for Energy 
+
+and the Environment and created our first joint thought 
+
+leadership on delivering net zero by 2050
+
+• became the first Engineering, Procurement and 
+
+Construction (EPC) company to join the Blockchain for 
+
+Energy (B4E) consortium in the US to bring efficiency gains 
+
+across the energy ecosystem
+
+• participated in the Energy Transitions Commission industry 
+
+coalition and contributed our expertise and perspective to 
+
+its work
+
+• became a foundation member of the Climate Leaders 
+
+Coalition* in Australia.
+
+Empowering our people
+
+One of Worley’s key strengths is our agility and ability to 
+
+lead in the face of external forces and shifts. The pandemic 
+
+has enabled us to unlock brilliance wherever it lies within 
+
+our organization and apply that talent and innovation to 
+
+solve our customers’ complex challenges as they pivot their 
+
+own businesses.
+
+We learned from our first global inclusion survey that 91% of 
+
+our people rated ‘excellent’ for “feeling comfortable to be my 
+
+authentic self at Worley.” We also learnt we have more work 
+
+
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+1  GRIT awards - Growth, Resilience, Innovation and Transition awards issued by ALLY, a community of energy industry professionals.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+2
+
+
+As economies begin to recover from the COVID-19 
+
+pandemic, we all need to focus on sustainable development. 
+
+The COVID-19 pandemic has caused a shift in the way 
+
+governments, companies, non-governmental organizations 
+
+(NGOs) and communities collaborate to solve sustainability 
+
+issues. We’ve seen nations partner across sectors to battle 
+
+the impact of the virus, speed up vaccine development and 
+
+get help to those most in need.
+
+Stakeholder capitalism is becoming even more important. 
+
+It’s driving more investment in companies with strong 
+
+environment, social and governance (ESG) performance, 
+
+and demand for internationally consistent ESG disclosures. 
+
+The world is primed for vast low-carbon infrastructure 
+
+development and requires collaboration to achieve this.
+
+These shifts have created new partnership models which 
+
+we must maintain with a focus on sustainable development 
+
+if we’re to achieve the UN SDGs by 2030.
+
+The race to zero is gathering pace
+
+As COP26 approaches, the majority of economies 
+
+have lifted their ambitions. The US has rejoined the 
+
+Paris Agreement*, and Japan, Korea and China have 
+
+committed to net zero emissions targets around the middle 
+
+of this century. Many countries and blocs have significantly 
+
+increased their short and medium term carbon reduction 
+
+targets. And our customers are committing to net zero too.
+
+The UK has also signaled a focus on biodiversity at 
+
+COP26 in November, which will follow the 15th meeting 
+
+of the Conference of the Parties to the Convention on 
+
+Biological Diversity in October 2021.
+
+To achieve net zero ambitions, we’ll need innovative 
+
+approaches to delivering projects and infrastructure. 
+
+One way to do this is through new and different 
+
+partnerships and coalitions across geographies, 
+
+sectors and supply chains.
+
+Now more than ever, it’s imperative that industries 
+
+partner to make clear progress toward net zero.
+
+GLOBAL CONTEXT
+
+Partnerships for the future
+
+This is the decade of action. We’ll all need to collaborate if society is to realize the UN SDGs by 2030.
+
+Now more than ever, it’s imperative 
+
+that industries partner to make clear 
+
+progress toward net zero.
+
+
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+3
+
+
+GLOBAL CONTEXT
+
+We get involved in partnerships and coalitions across 
+
+industry and within our sectors. 
+
+We plan to deliver a more sustainable world through 
+
+understanding and looking at challenges from different 
+
+perspectives and combining the insights to create 
+
+opportunities for breakthrough thinking.
+
+Our industry partnerships
+
+We are contributing our design and delivery expertise to 
+
+create a paradigm shift in how low-carbon infrastructure 
+
+will be built at great pace and scale. As a partner 
+
+of Princeton’s Andlinger Center for Energy and the 
+
+Environment, we combine our real-world project expertise 
+
+with Princeton’s academic analysis to develop thought 
+
+leadership on how to deliver net zero emission.
+
+Our climate coalitions
+
+Operating our business responsibly is a priority for us. 
+
+To help speed up our journey to net zero, we’ve joined the 
+
+Climate Leaders Coalition, the Climate Group, the Energy 
+
+Transitions Commission and the Business Ambition 
+
+for 1.5°C campaigns.
+
+Our social partnerships
+
+We are committed to providing an inclusive and diverse 
+
+place where our people thrive. We partner with Workplace 
+
+Pride, Catalyst and Supply Nation to support us in this. 
+
+A key milestone of the past year was our signing of the 
+
+Workplace Pride Declaration of Amsterdam.
+
+Our community partnerships
+
+Wherever we work, we always want to make a positive 
+
+contribution to helping people and the environment. 
+
+Through the Worley Foundation*, we’ve partnered with 
+
+a range of community organizations across the world to 
+
+promote STEM engagement, empower disadvantaged 
+
+groups and progress environmental sustainability.
+
+
+
+
+
+Partnering for progress
+
+We’re a signatory to the UN Global Compact. We support progress toward the UN SDGs and the Paris Agreement. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+4
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Buenos Aires
+
+Rosario
+
+Bahía Blanca
+
+Mexico City
+
+Lima
+
+Edmonton
+
+Calgary
+
+Reading
+
+Houston
+
+ 
+
+Rio de Janeiro
+
+Belo Horizonte
+
+Billings
+
+Bismarck
+
+Sudbury
+
+Markham
+
+Pickering
+
+ Santiago
+
+Folsom
+
+Sarnia
+
+Anchorage
+
+Prudhoe Bay
+
+ 
+
+São Paulo
+
+ 
+
+Blackfalds
+
+Bogotá
+
+Vancouver, BC
+
+Bowmanville
+
+Saint John
+
+Kincardine
+
+Chaguanas
+
+Denver
+
+Baton Rouge
+
+Metairie
+
+Los Angeles
+
+Sulphur
+
+Concord
+
+Long Beach
+
+Santa Ana
+
+Charleston
+
+Lakeland
+
+Antwerp
+
+ Casablanca
+
+Sakhalin
+
+Stenungsund
+
+Copenhagen
+
+Arnhem
+
+Ghent
+
+London
+
+ Madrid
+
+Cádiz
+
+Cairo
+
+Yanbu
+
+Sofia
+
+Assen
+
+Basrah
+
+Manama
+
+ Doha
+
+ Abu Dhabi
+
+Muscat
+
+Moscow
+
+Atyrau
+
+Baku
+
+Beijing
+
+Shanghai
+
+Nanjing
+
+Chengdu
+
+Bangkok
+
+ 
+
+Mumbai
+
+Kerteh
+
+Kuala Lumpur
+
+Singapore
+
+Kuala Belait
+
+ 
+
+Jakarta
+
+Dili
+
+Perth
+
+Bunbury
+
+Adelaide
+
+Geelong
+
+Melbourne
+
+Sydney
+
+Brisbane
+
+Gladstone
+
+Mackay
+
+New Plymouth
+
+Auckland
+
+Tianjin
+
+Hastings
+
+Wellington
+
+Christchurch
+
+Almaty
+
+Tashkent
+
+Hyderabad 
+
+ 
+
+Chennai
+
+Dubai
+
+ 
+
+ 
+
+Accra
+
+Stavanger
+
+Johannesburg
+
+ 
+
+Al Khobar
+
+Ahmadi
+
+Newcastle
+
+Ludwigshafen
+
+Aberdeen
+
+Maputo
+
+Schkopau
+
+Manila
+
+Cologne
+
+Ulanbataar
+
+Bristol
+
+Great Yarmouth
+
+Glasgow
+
+Stockton
+
+-on-Tees
+
+Manchester
+
+Meerssen
+
+The Hague
+
+ 
+
+Bengaluru
+
+Vadodara
+
+Kolkata
+
+ 
+
+Grimsby
+
+Plzeň
+
+Ankara
+
+Lagos
+
+We are diverse
+
+WHO WE ARE
+
+49
+
+countries
+
+47,700
+
+people
+
+33+
+
+ languages spoken
+
+4%
+
+identify as LGBTIQ+2
+
+2  Lesbian, gay, bisexual, transgender, intersex or queer plus all other non-binary genders and non-heterosexual orientations not already described.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+5
+
+
+
+
+
+
+
+
+
+
+We have a strong purpose underpinned by our values and behaviors
+
+Delivering a more sustainable world.
+
+WHO WE ARE
+
+
+
+
+
+
+
+
+
+we value Life
+
+We believe in the safety, health 
+
+and wellbeing of our people, 
+
+communities and the environment. 
+
+Without it, nothing else matters.
+
+We care. We recognize things 
+
+don’t always go right so we face 
+
+into important issues with care 
+
+and respect.
+
+We know blame fixes nothing 
+
+and that how we respond and 
+
+learn really matters. We do the 
+
+right thing.
+
+we Rise to the challenge
+
+We love a challenge. We go the 
+
+extra mile delivering new and better 
+
+solutions to complex problems.
+
+Our can-do attitude makes 
+
+us reliable, accountable 
+
+and trustworthy.
+
+We’re agile, innovative and 
+
+attentive; focused on being efficient 
+
+and productive. We get things done.
+
+we are Stronger together
+
+We thrive in real relationships and 
+
+partnerships. We nurture networks 
+
+and collaboration. We recognize our 
+
+differences make us stronger.
+
+We have each other’s back. We 
+
+mobilize in smart and ever-changing 
+
+combinations. We thrive in 
+
+real long-lasting relationships 
+
+and partnerships.
+
+we Unlock brilliance
+
+We are passionate about innovating 
+
+and learning. We value, share and 
+
+grow our expertise.
+
+We push our thinking. When 
+
+we can’t change a situation, we 
+
+change ourselves.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+6
+
+
+We have a passion for solving complex problems, delivering projects 
+
+and operating and maintaining assets
+
+WHO WE ARE
+
+
+
+
+
+
+
+H2
+
+
+
+
+
+Environment &amp; Society
+
+Sustainability advisory
+
+Environmental management
+
+Social performance
+
+Policy &amp; regulatory
+
+Safety &amp; risk
+
+Geosciences
+
+Remediation &amp; 
+
+liability management
+
+Asset Sustainability
+
+Asset performance
+
+Climate change adaption
+
+Decommissioning &amp; restoration
+
+Sustainable design
+
+Resource Stewardship
+
+Bio-based materials
+
+Metals recovery
+
+Plastics recovery
+
+Sulphur recovery
+
+Water stewardship
+
+Decarbonization
+
+Carbon management 
+
+Decarbonization infrastructure
+
+Energy efficiency &amp; electrification
+
+Energy transition materials
+
+Low-carbon fuels &amp; feedstocks 
+
+Nuclear energy 
+
+Renewable energy
+
+
+
+
+
+Sustainability Pathways 
+
+
+
+H2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Worley is a global company 
+
+headquartered in Australia, 
+
+and a leading global provider 
+
+of professional project and asset 
+
+services in the energy, chemicals 
+
+and resource sectors. 
+
+As a knowledge-based service provider, we use 
+
+our knowledge and capabilities to support our 
+
+customers to reduce their emissions and move 
+
+towards a low-carbon future.
+
+Our Sustainability Pathways define how we 
+
+support our customers in delivering a more 
+
+sustainable world
+
+These pathways provide a clear vision for us. To support 
+
+our journey we are investing in digital solutions, building 
+
+data science and digital platforms to drive efficiency and 
+
+focus on our pathways.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+7
+
+
+We are focused on what’s important for our business and the world around us 
+
+Materiality is dynamic, and we engage with key stakeholders to ensure that we remain focused on the material 
+
+issues for our business.
+
+In FY2021 we:
+
+• surveyed over 1,000 of our people following Sustainability month
+
+• ran our Megatrends and Shifts survey to look for issues affecting our customers
+
+• continually engaged with our shareholders on ESG issues
+
+• monitored what others in our sectors are saying and doing on ESG issues.
+
+We see sustainability issues through the lens of the UN SDGs
+
+We assess two different kinds of issues: 
+
+1. Those that have a significant impact on our business.
+
+2. Those in the world around us that our business can have a significant impact on.
+
+This is what drives our sustainability strategy – focusing on both How we run our business 
+
+and Our role in the world.
+
+Our material issues for FY2021
+
+• Good health and well-being
+
+• Affordable and clean energy
+
+• Industry innovation and infrastructure
+
+• Climate action.
+
+In this report, you’ll find disclosures about our material issues in accordance with the 
+
+Global Reporting Initiative (GRI) Standards: Core option.
+
+OUR APPROACH
+
+6
+
+5
+
+3
+
+4
+
+Review 
+
+and monitor
+
+1
+
+Identify potential 
+
+material issues
+
+Analyze 
+
+data
+
+Take 
+
+actions
+
+Gather 
+
+information
+
+Validate material issues
+
+2
+
+M
+
+AT
+
+ER
+
+IA
+
+LI
+
+TY
+
+ IN
+
+FO
+
+R
+
+MI
+
+N
+
+G 
+
+BU
+
+SI
+
+NE
+
+SS
+
+ S
+
+TR
+
+AT
+
+EG
+
+Y
+
+Impact on our business
+
+Other important issues
+
+Other important issues
+
+
+
+
+
+
+
+
+
+Material issues
+
+Impact on the world around us
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+8
+
+
+Our progress
+
+We’ve taken action in FY2021 to make major progress on our material issues.
+
+OUR APPROACH
+
+Secondary focus areas
+
+In our assessment, we identified several other issues that are important to our stakeholders and to our business. 
+
+You’ll see our contribution to these SDGs noted throughout this report.
+
+
+
+
+
+
+
+
+
+*Refer Worley Sustainability Definitions 2021 document
+
+3  Our approach to incorporating sustainable thinking into project delivery and design. Sustainable Solutions enables our people to identify and quantify 
+
+sustainability ideas and savings related to carbon and energy use.
+
+4 Euro Medium Term Note program
+
+Primary focus areas
+
+
+
+ 
+
+We support healthy lives 
+
+and promote well‑being
+
+
+
+ 
+
+We support access 
+
+tosustainable and 
+
+modern energy
+
+
+
+ 
+
+We contribute to the ongoing 
+
+development of industry, 
+
+innovation and infrastructure
+
+
+
+ 
+
+We combat climate 
+
+change and its impacts
+
+Our role in the world
+
+• worked with our customers to 
+
+further improve the management of 
+
+our people’s health and well-being.
+
+• sustainability is 32% of our FY2021 
+
+aggregated revenue
+
+• increased our involvement in the 
+
+energy transition to a cumulative 
+
+total of 3,000+ projects including 
+
+650+ renewable energy projects in 
+
+developing countries; one example 
+
+being the 100MW Kipeto Wind 
+
+Farm in Kenya.
+
+• designed, constructed and 
+
+operated critical infrastructure 
+
+around the globe
+
+• worked alongside Princeton’s 
+
+Andlinger Center for Energy and 
+
+the Environment on how to deliver 
+
+the infrastructure required to 
+
+achieve net zero by mid-century.
+
+• rolled out our Sustainable 
+
+Solutions3 process across 
+
+the business.
+
+How we run our 
+
+business
+
+• launched new Life programs such as 
+
+Life matters and Safe driving for Life
+
+• strengthened our mental health 
+
+champion networks
+
+• held mental health, Stronger 
+
+together and Life months
+
+• implemented our inclusion survey to 
+
+listen to the voices of our people
+
+• made strong and clear commitments 
+
+to inclusion and diversity.
+
+• switched our Houston office 
+
+and fabrication yard to 
+
+100% renewable energy
+
+• switched our Perth office to 
+
+100% renewable energy.
+
+• funded a total of 
+
+20 innovation-related 
+
+initiatives through our Innovation 
+
+Hub and Activate programs.
+
+• launched our net zero roadmap
+
+• committed to the Business 
+
+Ambition for 1.5°C campaign
+
+• joined the Climate 
+
+Leaders Coalition
+
+• extended our long-term 
+
+debt maturity profile with a 
+
+sustainability linked bond* 
+
+under Euro Medium Term Note 
+
+(EMTN) program.4
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+9
+
+
+Our Sustainability Policy 
+
+We are driven by a common purpose - delivering a more sustainable world. 
+
+We support progress toward achieving the UN SDGs and are committed to upholding the principles of the UN Global Compact. 
+
+To achieve this, we have embedded the environmental, social and governance elements of sustainability into the way we operate 
+
+our business and in the work we do with our customers.
+
+Our Sustainability Policy sets our expectations on caring for our planet, caring for our people and communities and operating responsibly. 
+
+The policy connects with our other policies, such as our Climate Change Position Statement, our Responsible Business Assessment, 
+
+our Life program, our Diversity and Inclusion Policy, our Code of Conduct and our Modern Slavery Policy and Statement.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Care for our planet
+
+Care for our people and communities
+
+Operate responsibly
+
+We commit to environmentally responsible 
+
+practices, support of the Paris Agreement, 
+
+and being a leader in our industries. We will:
+
+• partner with our customers in delivering a more 
+
+sustainable world
+
+• operate in alignment with our Climate Change 
+
+Position Statement and the associated 
+
+strategic actions
+
+• assess the environmental impact (such as carbon 
+
+intensity) of the projects we choose to deliver
+
+• drive real outcomes to tough sustainability 
+
+challenges, like how to reach net zero emissions.
+
+We deeply value the social settings within 
+
+which we work, and our expectations are 
+
+clear. We will:
+
+• provide a respectful, safe and healthy work 
+
+environment to care for the well-being of our 
+
+people and their families
+
+• commit to the ongoing development of our people.
+
+• embrace all elements of diversity through our 
+
+diversity and inclusion policies and networks
+
+• support sustainable communities and 
+
+ecosystems by managing our impacts and making 
+
+positive contributions
+
+• assist our customers to engage with communities 
+
+to build trust and create mutual benefit 
+
+from projects.
+
+We provide robust business 
+
+governance and:
+
+• stand against all forms of modern slavery 
+
+and corruption
+
+• set expectations of ethical behavior, including 
+
+bribery and corruption prevention, in our Code of 
+
+Conduct and our Supply Chain Code of Conduct
+
+• conduct our business with our customers, 
+
+partners, agents and suppliers in an open, honest 
+
+and ethical manner and ensuring our criteria for 
+
+responsible business practice are met
+
+• report our governance 
+
+performance transparently.
+
+OUR APPROACH
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+10
+
+
+
+
+Our Sustainability Pathways
+
+Worley is leading the way to accelerate 
+
+sustainable development.
+
+Worley Sustainability Report 2021
+
+11
+
+CONTENTS
+
+
+DECARBONIZATION
+
+We are helping our customers to decarbonize
+
+The energy transition requires an ecosystem of approaches 
+
+and affects our customers across all our sectors.
+
+The dual challenge of supplying energy to a growing 
+
+population while addressing the risks of climate 
+
+change is complex, and we’re helping our customers 
+
+find the solutions. 
+
+We are integrating our expertise in reducing 
+
+GHG emissions (decarbonization) across the energy, 
+
+chemicals and resources sectors.
+
+For example, we have deployed our offshore project 
+
+execution experience from oil and gas to wind power 
+
+projects. We have brought our experience in pipeline, 
+
+terminal and storage facilities from natural gas to hydrogen 
+
+facilities. We’re using our knowledge of petroleum refining 
+
+to create green refineries using renewable feedstock. 
+
+We’re helping our customers use less and cleaner 
+
+energy. We’re bringing energy transition metals to 
+
+market faster to meet growing demand, and we’re using 
+
+renewable energy to do it. 
+
+Electrification is central to the energy transition
+
+By replacing processes heavy in fossil fuels with low 
+
+or zero emissions electricity, we can decarbonize many 
+
+hard to abate industries.
+
+We’re bringing our experience in power to other sectors 
+
+– from Mining, Minerals and Metals (MMM) to Refining 
+
+and Chemicals, and Upstream and Midstream.
+
+
+
+
+
+
+
+H2
+
+
+
+Decarbonization
+
+Carbon management 
+
+Decarbonization infrastructure
+
+Energy efficiency 
+
+&amp; electrification
+
+Energy transition materials
+
+Low-carbon fuels 
+
+&amp; feedstocks 
+
+Nuclear energy 
+
+Renewable energy
+
+
+
+Case Study | Renewable fuels
+
+We’re creating one of the world’s largest 
+
+renewable fuels facilities
+
+We’re working with Phillips 66 to reconfigure its San Francisco refinery 
+
+to produce renewable fuels.
+
+The project will reconfigure the refinery and produce up to 650 million gallons per year of renewable 
+
+transportation fuels from used cooking oils, fats, greases and vegetable oils. Once built, the renewable 
+
+fuels facility is expected to be one of the world’s largest facilities of its kind.
+
+We’re providing the overall engineering services and Advisian, our consulting business, completed 
+
+the feasibility study. 
+
+Source: Phillips 66 Company
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+12
+
+
+Making energy cleaner and smarter
+
+We’re making renewable energy more reliable. To do this 
+
+we are designing and delivering technologies including: 
+
+• battery storage
+
+• hydrogen
+
+• pumped hydro
+
+• thermal storage
+
+• mechanical storage.
+
+We eliminate energy waste by improving industrial 
+
+processes and through rigorous master planning. 
+
+We capture and use waste heat. And we change industrial 
+
+processes to be more energy-input flexible, including 
+
+to renewable energy.
+
+We work on smarter demand and supply matching, 
+
+using digitization across generation, grids and loads 
+
+to optimize energy use.
+
+Metals will build our future energy system
+
+If the world is to meet its sustainability targets, 
+
+more copper, nickel, lithium, cobalt and low-carbon 
+
+aluminium is needed. 
+
+The energy transition has huge implications for the 
+
+mining industry. The supply gap for energy transition 
+
+metals is widening. We are working with our MMM 
+
+customers to reduce this gap through project delivery 
+
+and technology improvements.
+
+We are also supporting our customers in achieving 
+
+more sustainable and efficient production of these 
+
+valuable natural resources.
+
+Meeting the challenge of scale and pace
+
+Working alongside Princeton University, we have explored 
+
+what it will take to deliver net zero by mid-century. 
+
+To achieve the scale and pace necessary, a new way of 
+
+thinking is needed. We are proposing five key shifts in how 
+
+to think about and approach projects. These are:
+
+• broaden how we think about value
+
+• keep our technology options open
+
+• design one, build many
+
+• communicate and collaborate
+
+• enable and monitor digitally.
+
+Read the full report here.
+
+In 2020, 62.3% of the energy produced 
+
+in the US was wasted as heat or 
+
+through various inefficiencies.5
+
+5 Energy Flow Charts - Lawrence Livermore National Laboratory.
+
+6 Will a lack of supply growth come back to bite the copper industry?
+
+Up to USD$525b investment is 
+
+needed to fill the pending copper 
+
+supply gap over the next 15 years.6
+
+DECARBONIZATION
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+13
+
+
+Working behind the meter
+
+With the VECKTA platform (our joint venture with Xendee), we 
+
+help customers design and implement their custom microgrid 
+
+solutions. We take our customers’ energy data and look at it in 
+
+conjunction with our platform energy data. Then, using digital 
+
+tools like artificial intelligence (AI), we help customize microgrid 
+
+design and optimize operations.
+
+Hydrogen will help decarbonize hard to 
+
+abate industries
+
+Hydrogen is a clean-burning fuel. It can be used as 
+
+energy storage for renewables and as a decarbonization 
+
+solution for hard to abate sectors like heavy transport, 
+
+chemicals and steel manufacture. 
+
+We are bringing our experience from safe production and 
+
+export facility design to the emerging hydrogen industry.
+
+We have the expertise to produce it, transport it, store it, 
+
+process it and use it; all safely. 
+
+We are delivering projects across the world, examining 
+
+hydrogen’s role in the energy transition. 
+
+In the Netherlands, we are completing the FEED of a hydrogen 
+
+project which will see the green hydrogen produced used to 
+
+create bio-methanol and green jet fuel. We are completing 
+
+studies on the feasibility of crude oil to hydrogen pathways in 
+
+the Middle East. In the UK, we are supporting a customer to 
+
+engineer and integrate a 100MW green hydrogen plant.
+
+In Australia, we are exploring the feasibility of turning green 
+
+hydrogen into green ammonia, to help decarbonize an 
+
+element of the mining supply chain. 
+
+DECARBONIZATION
+
+
+
+Case Study | Hydrogen from wind
+
+Our engineering services are helping Shell to 
+
+develop a new 200MW green hydrogen plant
+
+We have been awarded an early engineering services contract by Shell to support the 
+
+development of a new 200 megawatt electrolysis-based hydrogen plant.
+
+Once complete, the project will be one of the largest commercial green hydrogen production facilities 
+
+in the world. 
+
+As a first-of-its-kind project on this scale, we are providing early engineering and asset integration related 
+
+services including the selection of the best technology needed to support the overall business case.
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+14
+
+
+Natural gas in a low‑carbon world
+
+To achieve net zero ambitions by mid-century, the carbon 
+
+footprint of natural gas must reduce. We are helping to 
+
+decarbonize the natural gas value chain through: 
+
+• Carbon Capture, Utilization and Storage (CCUS)
+
+• energy efficiency
+
+• fugitive emissions management 
+
+• electrification.
+
+For example, fugitive emissions from natural gas facilities 
+
+and pipelines are a significant problem due to the high 
+
+global warming potential of methane. Our FetCH4 
+
+technology enables our customers to detect and 
+
+mitigate fugitive methane emissions. It’s quicker, more 
+
+effective and safer than the usual periodic inspections 
+
+carried out manually.
+
+DECARBONIZATION
+
+When it comes to decarbonizing 
+
+the world’s energy systems, there 
+
+isn’t one single solution. That’s why 
+
+we’re helping customers across all of 
+
+our sectors to make changes, as we 
+
+remain focused on delivering a more 
+
+sustainable energy future.”  
+
+ 
+
+Vinayak Pai 
+
+Group President EMEA &amp; APAC at Worley7
+
+“
+
+
+
+Case Study | Improving the use of natural gas
+
+We’re helping Saudi Aramco reduce flaring 
+
+from greenhouse gas (GHG) emissions*
+
+We’ve provided engineering, procurement and project management services for the project. 
+
+The project focused on optimizing gas utilization to meet the demand for power generation in Saudi Arabia’s 
+
+gas supply. 
+
+The solution involved creating gas injection facilities to store surplus gas from the master gas system (MGS) in 
+
+underground, depleted reservoirs during low demand season and produce the gas back to MGS during the high 
+
+demand season.
+
+
+
+
+
+Alignment to the UN SDGs:
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+7  ’EMEA’ refers to Europe, Middle East and Africa. ‘APAC’ 
+
+refers to Asia Pacific countries. ‘Americas’ refers to 
+
+North America and South America.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+15
+
+
+The countdown to negative carbon emissions
+
+To achieve net zero by mid-century, technologies that remove CO2 from the atmosphere are likely to 
+
+be required. Direct air capture (DAC) and bio-energy with carbon capture and storage (BECCS) are two 
+
+pioneering negative emissions technologies to strip carbon from the air and lock it away permanently. 
+
+
+
+
+
+Withdrawing CO2 from the air
+
+We’ve been awarded the initial engineering phase of 1PointFive’s first DAC facility, the world’s first million-tonne Direct Air Capture 
+
+plant when fully built out.8
+
+The facility, to be built in the US Permian Basin by 1PointFive, a wholly-owned 
+
+subsidiary of Occidental, is the first commercial scale deployment of Carbon 
+
+Engineering’s DAC technology, which captures carbon dioxide (CO2) directly from the 
+
+atmosphere. This front end engineering design (FEED) phase will focus on the first 
+
+phase of DAC-1, which is expected to capture 500,000 metric tonnes of CO2 annually. 
+
+During the FEED phase, we’ll help 1PointFive explore next-generation technology, 
+
+materials and manufacturing approaches consistent with a circular economy. 
+
+These innovations will contribute to the facility’s sustainability and capital efficiency, 
+
+and will allow Worley to work with 1PointFive and Carbon Engineering to refine the 
+
+design and construction of future DAC facilities.  Completion of the FEED is estimated 
+
+in the second quarter of 2022, after which we anticipate the project will move into the 
+
+engineering, procurement and construction phase.
+
+Case Study | 1PointFive
+
+Did you know, we’ve worked on more 
+
+than 90 first-of-a-kind projects for 
+
+emerging technologies?
+
+DECARBONIZATION
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+8 CCUS around the world - DAC 1
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+16
+
+
+
+
+Case Study | Negative emissions
+
+Capturing 8 million tonnes of CO2 with 
+
+Drax Group
+
+We’re working on the early front-end engineering and design 
+
+(pre-FEED) for the first two carbon capture units at Drax Group’s 
+
+power station in North Yorkshire, UK. Each unit is expected to 
+
+capture approximately 4 million tonnes of carbon dioxide per year. 
+
+The carbon capture units will incorporate the negative emissions process 
+
+scheme, BECCS which generates renewable electricity while permanently 
+
+removing carbon dioxide from the atmosphere.
+
+We’re developing the plant layout, cost estimates and schedules for FEED and 
+
+detailed engineering, procurement and construction. We’ll also explore options 
+
+to integrate the project into the existing Drax site at an industrial scale.
+
+Drax Group expects this to lead to the power station becoming carbon-negative 
+
+and contribute to Humber region's ambition to be the UK’s first zero-carbon 
+
+industrial cluster. It also has the potential to inspire future decarbonization 
+
+projects from adjacent industries.
+
+DECARBONIZATION
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+17
+
+
+The world is on a journey to 
+
+a circular economy
+
+Half of all GHG emissions and more than 90% of 
+
+biodiversity loss and water stress come from extracting 
+
+and processing resources.9
+
+Circular economies provide the solution to more 
+
+sustainable resource use. 
+
+Our work with our customers spans the opportunities 
+
+defined in the waste management hierarchy. We strive 
+
+to move towards avoiding waste and a fully circular 
+
+reuse of materials.
+
+We must reuse what we already have
+
+We help our customers re-purpose their existing assets 
+
+to make a more sustainable product. For example, 
+
+we’re working with our existing customers in Europe, 
+
+North America and Asia to convert their petroleum 
+
+refineries to renewable diesel refineries by changing to 
+
+biomass feedstocks.
+
+There is only one planet Earth, yet by 2050, the 
+
+world will be consuming as if there were three.”
+
+European Commission9
+
+Waste prevention
+
+and avoidance
+
+Recycle in 
+
+closed loops
+
+Recycle
+
+Energy
+
+recovery
+
+Landfill 
+
+disposal
+
+Best
+
+Worst
+
+RESOURCE STEWARDSHIP
+
+Resource Stewardship
+
+Bio-based materials
+
+Metals recovery
+
+Plastics recovery
+
+Sulphur recovery
+
+Water stewardship
+
+
+
+H2
+
+
+
+
+
+We’re giving waste plastic a new life 
+
+We’ve been awarded the engineering, procurement and construction management 
+
+(EPCM) contract by SABIC Plastic Energy Advanced Recycling BV (SPEAR) – a joint venture 
+
+between SABIC and Plastic Energy – for a new advanced plastics recycling unit in Geleen, 
+
+the Netherlands.
+
+The unit will leverage Plastic Energy’s patented recycling technology to transform mixed and used plastic 
+
+waste, otherwise destined for incineration or landfill, into recycled oils called TACOIL. The TACOIL will then 
+
+be used by SABIC as an alternative feedstock to manufacture certified circular polymers as part of its 
+
+TRUCIRCLETM portfolio of solutions.
+
+The advanced recycling unit will enable SABIC to upscale the production of these circular polymers 
+
+significantly. This will provide customers with greater access to more sustainable materials, which are 
+
+recycled and repurposed in a way that can help protect our planet’s natural resources.
+
+Case Study | Plastic recycling
+
+9 European Commission Circular Economy Action Plan.
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+18
+
+
+
+
+While the world can now easily 
+
+electrify trucks and cars, liquid 
+
+fuels are still essential for most 
+
+shipping and aviation. We are 
+
+developing low-carbon fuels 
+
+for our customers.
+
+Sustainable hydrocarbons
+
+Biofuel can replace oil. It’s made from waste and 
+
+on-purpose biomass (from either plants or animals) 
+
+rather than fossil fuel. 
+
+We are working with our customers to select 
+
+sustainable pathways for the production of 
+
+biofuels*. We are also delivering over 60% of the 
+
+refinery conversions to biofuels in the US. 
+
+Turning waste into fuel
+
+The first step in the journey to resource re-use 
+
+is energy recovery. We are working with our 
+
+customers to use methane from landfill or 
+
+animal waste to make renewable natural gas 
+
+and bioethanol.
+
+We’re turning municipal solid waste into 
+
+sustainable transportation fuels. For example, we 
+
+are working with a customer to convert waste to jet 
+
+fuel. Not only will this project produce sustainable 
+
+fuel for the aviation industry, it will prevent the 
+
+waste from going to landfill. 
+
+Fuel from emissions and renewable energy
+
+We’re using technology to produce synthetic fuels, 
+
+made from captured CO2 and green hydrogen. 
+
+For example, we are providing the engineering 
+
+services on a project that recycles carbon-rich gas 
+
+into bioethanol.
+
+Water stewardship
+
+Water is a critical resource. Water scarcity, 
+
+competition for resources and environmental 
+
+pressures including climate change are posing new 
+
+challenges to our customers’ businesses and the 
+
+broader community.
+
+Working to increase water reliability
+
+We help our customers with all aspects of 
+
+responsible water management, including 
+
+extraction, treatment, recycling and discharge. 
+
+We’ve developed solutions for all types of 
+
+operations including:
+
+• wastewater treatment
+
+• desalination
+
+• onshore upstream
+
+• green hydrogen
+
+• unconventional oil and gas 
+
+• the chemicals industry.
+
+We make the fuels of the future and manage 
+
+sustainable water use
+
+RESOURCE STEWARDSHIP
+
+Case Study | Yanacocha
+
+Shaping Yanacocha’s future 
+
+water strategy
+
+We’re helping Minera Yanacocha S.R.L. (owned by 
+
+Newmont, Minas Buenaventura and Sumitomo Corp.) 
+
+to transition its world-class gold mine in Peru to next 
+
+generation mining.
+
+We’re using our decades of experience with water, mine 
+
+operations, brownfields and high-altitude construction, 
+
+and closure to pilot an advanced membrane treatment. 
+
+This treatment will meet tight discharge-water quality 
+
+standards and protect downstream communities. 
+
+
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+19
+
+
+
+
+
+
+RESOURCE STEWARDSHIP
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+Using sustainable water sources 
+
+such as recycled refinery 
+
+effluent will make sure that we 
+
+minimize the water footprint 
+
+of the green hydrogen plant.
+
+10 Gigastack - News
+
+Case Study | Water and green hydrogen
+
+Ensuring a sustainable water 
+
+supply for green hydrogen
+
+We’ve been working with the Gigastack Consortium10 on 
+
+the engineering for a 100MWe green hydrogen plant from 
+
+wind energy for integration into a nearby refinery.
+
+To create green hydrogen you need pure water – and a lot of it. 
+
+In a fresh water constrained world, this can make or break a green 
+
+hydrogen project. This was the challenge faced by our industrial water 
+
+team and one of our customers when tasked to find a water source in 
+
+the UK’s Humber region.
+
+ The water source will be the recycled refinery effluent. The green 
+
+hydrogen will displace carbon intensive grey hydrogen or be used as a 
+
+zero carbon fuel to reduce carbon emissions. 
+
+Using sustainable water sources such as recycled refinery effluent 
+
+will make sure that we minimize the water footprint of the green 
+
+hydrogen plant.
+
+Worley Sustainability Report 2021
+
+20
+
+CONTENTS
+
+
+Built to last
+
+As we experience more extreme weather, 
+
+our energy infrastructure needs to be 
+
+more resilient. 
+
+We undertake studies and advise on the 
+
+impacts of climate change, including sea 
+
+level rise and coastal erosion. As part of 
+
+our design practices, we also make sure 
+
+infrastructure can withstand increased 
+
+ambient temperature and more frequent 
+
+extreme weather events.
+
+For example, we included the impact of 
+
+climate change (sea level rise, permafrost 
+
+changes, ice loading levels) on the design 
+
+of a port in the Arctic Circle.
+
+We build climate change resilience into our 
+
+design processes, future proofing critical 
+
+infrastructure. Over the past 40 years we 
+
+have improved the sustainability of assets 
+
+on more than 25,000 projects.
+
+Through digital we trust and deliver
+
+We need the trust and auditability that 
+
+only digital can deliver. Digital solutions 
+
+will transform and impact how we design, 
+
+deliver and operate infrastructure. 
+
+Digitally enabled Distributed Energy 
+
+Systems (DES) help keep energy 
+
+infrastructure resilient. They increase 
+
+survival time during a grid outage and 
+
+reduce the vulnerability of the energy 
+
+supply if a single critical location is 
+
+damaged. DES also reduce costs, save 
+
+energy and help to increase uptake 
+
+of renewable energy.
+
+Asset Sustainability
+
+Asset performance
+
+Climate change adaption
+
+Decommissioning 
+
+&amp; restoration
+
+Sustainable design
+
+
+
+
+
+We’re helping navigate the energy transition with the Advisian Carbon 
+
+Risk Index Service.
+
+Countries and companies are committing to net zero. Emissions intensive industries 
+
+such as aluminium, ammonia and refining face increasing carbon related risks and 
+
+opportunities.
+
+We are using the Advisian Carbon Risk Index Service (ACRIS), a subscription-based 
+
+service that gives our customers a dynamic risk related index number which updates 
+
+in response to transition and climate related risk events. We give our subscribers 
+
+access to a suite of tools and reports providing mitigation pathways, cost information 
+
+and analysis by Advisian subject matter experts. 
+
+Case Study | ACRIS
+
+ASSET SUSTAINABILITY
+
+We are adapting to the 
+
+impacts of climate change
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+Worley Sustainability Report 2021
+
+21
+
+CONTENTS
+
+
+We involve Advisian’s environmental 
+
+and social impact assessment and 
+
+management teams in the early phases 
+
+of a project’s lifecycle and ensure the 
+
+consideration of changing regulation and 
+
+regulations which permit activity.
+
+We engage with the expectations of 
+
+Indigenous peoples as key stakeholders 
+
+of a project’s development.
+
+Technology’s role in reducing our 
+
+customers’ impact 
+
+Our technologies go beyond 
+
+minimizing GHGs.
+
+Through Comprimo (our sulphur recovery 
+
+and gas treating business) and Chemetics 
+
+(our sulphuric acid and specialty 
+
+chemicals technology businesses) we 
+
+help our customers to reduce nitrous 
+
+oxides (NOx) and sulphur dioxide 
+
+(SO2) emissions.
+
+Decommissioning without 
+
+environmental damage
+
+When we help our customers 
+
+decommission their sites, we do it 
+
+in a way which minimizes social and 
+
+environmental impacts and creates 
+
+future ecosystem services. 
+
+Our key considerations when we are 
+
+planning a restoration include:
+
+Leaving a positive legacy
+
+We add value to the world while protecting the planet 
+
+and delivering benefits shared by society. 
+
+How can we achieve the most 
+
+sustainable outcome?
+
+Which vegetation species should 
+
+be replanted considering the 
+
+natural habitat?
+
+Which plants will absorb 
+
+more carbon?
+
+
+
+Environment &amp; Society
+
+Sustainability advisory
+
+Environmental management
+
+Social performance
+
+Policy &amp; regulatory
+
+Safety &amp; risk
+
+Geosciences
+
+Remediation &amp; 
+
+liability management
+
+ENVIRONMENT AND SOCIETY
+
+
+
+
+
+
+
+Harnessing the power of the Great Lakes through wind.
+
+Advisian is partnering with the National Renewable Energy Laboratory, The 
+
+Brattle Group and Pterra Consulting to determine if the Great Lakes can further 
+
+support energy transition in the US.
+
+Advisian is leading environmental regulatory, and user-conflict studies 
+
+and supporting economic and geohazards assessments. We are assessing 
+
+environmental compliance and impacts visual effects, and mitigation, and 
+
+providing information on public health benefits, environmental justice, effects 
+
+to disadvantaged communities and decarbonization benefits.
+
+Case Study | Great Lakes
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Worley Sustainability Report 2021
+
+22
+
+CONTENTS
+
+
+Balancing value and economics to promote community sustainability
+
+For us, value means making a lasting positive social impact 
+
+and contributing to the communities in which we operate. 
+
+We are committed to supporting sustainable communities 
+
+and maximizing opportunities for local participation and 
+
+benefit sharing.
+
+We support our customers to increase local and 
+
+First nations employment and supply chain participation. 
+
+Our award-winning Advisian Society, Governance and 
+
+Engagement team has had staff consistently working 
+
+with the government and industry to facilitate meaningful 
+
+local participation. 
+
+We work collaboratively with our customers to deliver the 
+
+full spectrum of social performance outcomes – including: 
+
+• community and landholder relations
+
+• First nations engagement and partnerships
+
+• public communications
+
+• local content
+
+• social risk and impact assessment
+
+• social impact management
+
+• social investment
+
+• sustainable development.
+
+For example, we recently supported a top energy customer 
+
+in driving recruitment of over 400 First nations roles for 
+
+one of its Australian assets, and maintaining an almost 
+
+90% retention rate of First nations employees. This was 
+
+achieved through embedding an First nations support 
+
+services team within the customer’s organization. We also 
+
+influenced this customer to significantly increase their 
+
+direct spend with First nations businesses. 
+
+We are also working with various governments to advise on 
+
+stakeholder engagement and social impact management in 
+
+relation to renewable energy developments.
+
+ENVIRONMENT AND SOCIETY
+
+We are proud to announce the 
+
+incorporation of three Indigenous 
+
+partnerships in Western and Northern 
+
+Canada. These partnerships are majority 
+
+owned by local communities with mandates 
+
+to grow local career opportunities and 
+
+create long-term revenue streams. 
+
+
+
+
+
+ Nu Nenne Advisian 
+
+Environmental (Cold Lake 
+
+region) – Formed with Nu 
+
+Nenne Limited Partnership, 
+
+wholly owned by the Cold 
+
+Lake First Nations
+
+Mikisew Advisian 
+
+Environmental (Athabasca 
+
+region) – Formed with 
+
+the Mikisew Group of 
+
+Companies, the business 
+
+arm of the Mikisew Cree 
+
+First Nation
+
+TRS Advisian (Sahtu/
+
+Norman Wells region) 
+
+– Formed with Tłegǫ́hłı ̨ 
+
+(Ta-goat-lay) Reclamation 
+
+Services Inc, a subsidiary 
+
+of the Norman Wells 
+
+Land Corporation
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+Worley Sustainability Report 2021
+
+23
+
+CONTENTS
+
+
+
+
+We’re committed to a net zero future.
+
+Caring for our planet
+
+Worley Sustainability Report 2021
+
+24
+
+CONTENTS
+
+
+
+
+We’ve made significant progress 
+
+CLIMATE
+
+Develop a net zero roadmap 
+
+for our Scope 1 and Scope 2 
+
+GHG emissions*
+
+Review our Scope 3 emissions* 
+
+and develop a plan to 
+
+reduce these
+
+Help our customers reduce their 
+
+emissions using our Sustainable 
+
+Solutions process 
+
+Assess our involvement in 
+
+carbon-intensive projects 
+
+using our Responsible Business 
+
+Assessment Standard
+
+Report our progress in line with 
+
+the recommendations of the 
+
+Task Force on Climate-related 
+
+Financial Disclosures (TCFD)
+
+We’re on the road to 
+
+net zero
+
+We’ve developed our roadmap 
+
+to reach net zero Scope 1 
+
+and Scope 2 GHG emissions 
+
+by 2030 (see page 27). 
+
+And we’ve already cut 
+
+our emissions.
+
+Reducing emissions in our 
+
+value chain is our next step
+
+We’ve committed to net zero 
+
+Scope 3 emissions by 2050 
+
+through the Business Ambition 
+
+for 1.5°C campaign via the 
+
+Science Based Targets initiative.
+
+We’ve improved our Scope 3 
+
+emissions disclosures this 
+
+year. And we’ll broaden our 
+
+disclosures and reduction plan 
+
+over the next two years.
+
+Working with our 
+
+customers to reduce 
+
+their emissions
+
+We launched Sustainable 
+
+Solutions in November 
+
+2020. During FY2021, 
+
+we’ve submitted over 
+
+190 sustainability ideas 
+
+through our Value  
+
+Creation tool.  
+
+Assessing the projects 
+
+we work on
+
+We have applied our 
+
+Responsible Business 
+
+Assessment Standard to our 
+
+bid decision making process. 
+
+This has informed decisions on 
+
+bids we have chosen to pursue 
+
+and those we have not.
+
+Improving transparency
+
+We continually improve our 
+
+TCFD reporting and this year 
+
+integrated climate risk into our 
+
+business strategy development 
+
+process. We also refreshed our 
+
+assessment of physical climate 
+
+risk to our business. For more 
+
+see page 30 of this report.
+
+Our Climate Change Position Statement (CCPS) strategic actions
+
+Our progress
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+Worley Sustainability Report 2021
+
+25
+
+CONTENTS
+
+
+We’ve committed to science‑based 
+
+targets
+
+We’ve joined the Business Ambition for 
+
+1.5°C campaign, committing to achieve 
+
+net zero Scope 3 emissions by 2050 via 
+
+science-based targets. 
+
+Our new interim emissions targets
+
+We’ve set an interim Scope 1 and Scope 2 
+
+emissions reduction target to complement 
+
+our net zero target by 2030.
+
+We’ve joined the EP100 ‑ an initiative 
+
+of The Climate Group
+
+We’ve committed to implement an energy 
+
+management system across our business 
+
+by 2022. We’ve vowed to improve our 
+
+energy productivity11 by 25% by 2030 from 
+
+our 2020 baseline of $30.4 million/GWh. 
+
+Our FY2021 energy productivity is 
+
+$40.1 million/GWh. Due to our dramatic 
+
+reduction in energy usage this year due 
+
+to the COVID-19 pandemic, this target 
+
+was achieved within 1 year.  However, 
+
+we expect our energy usage to increase 
+
+next year as we return to the offices after 
+
+COVID-19. We will drive to maintain our 
+
+high energy productivity and continue 
+
+reporting on our energy productivity 
+
+each year.
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+11  Our energy productivity is measured by:  
+
+Aggregated revenue ($m)/Total energy usage (GWh).
+
+Our commitments and targets
+
+We are on the road to net zero.
+
+CLIMATE
+
+
+
+Case Study | Energy efficiency in Houston
+
+We commit to reach net zero Scope 3 emissions 
+
+by 2050
+
+We commit to a 50% reduction of our Scope 1 and 
+
+Scope 2 emissions by 2025
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+We’ve lowered the carbon footprint 
+
+of our Houston office
+
+Our Houston office is one of our largest offices. This year, we reduced its carbon 
+
+footprint by:
+
+• switching our lighting to LEDs
+
+• upgrading our air conditioning system to high efficiency chillers and air handlers 
+
+• installing motion sensors in the bathrooms 
+
+• switching our vending machines to sleep mode to reduce energy consumption.
+
+We also took part in Earth Hour on the 27th March 2021. From 8:30 to 9:30pm, 
+
+we switched off all outdoor lighting and non-essential indoor lights in our 
+
+Houston office.
+
+As well as improving our energy efficiency, we have switched to 100% renewable 
+
+electricity by purchasing Renewable Energy Certificates. This reduced our annual 
+
+Scope 2 emissions by over 5,000 tCO2e*.
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+26
+
+
+Piloting emerging technologies 
+
+for heavy vehicles
+
+Short-term approach
+
+Long-term approach
+
+Continuing to transition to 
+
+renewable energy
+
+Phasing out gas in buildings
+
+Carbon offsets where required
+
+Widespread adoption of 
+
+electric vehicles and biofuels
+
+Transition to biofuels
+
+Office consolidation
+
+Hybrid and electric 
+
+vehicles pilot program
+
+Energy efficiency 
+
+improvements
+
+Transition to renewable 
+
+electricity
+
+Phase out diesel 
+
+generators
+
+202013
+
+2025
+
+2030
+
+100%
+
+reduction of our 
+
+carbon emissions
+
+50%
+
+reduction of our 
+
+carbon emissions
+
+50,000
+
+0
+
+100,000
+
+150,000
+
+200,000
+
+250,000
+
+300,000
+
+350,000
+
+400,000
+
+20,000
+
+40,000
+
+60,000
+
+80,000
+
+100,000
+
+120,000
+
+0
+
+Energy usage (MWh)
+
+ Carbon emissions (tC02e)
+
+Carbon credits/offsets
+
+Fuel switching
+
+Electrification12
+
+Renewable energy purchasing
+
+Energy remaining to decarbonize
+
+COVID-19 Impact
+
+Consolidation of office space
+
+Energy efficiency &amp; digital solutions
+
+Total carbon emissions
+
+Our FY2021 energy consumption and emissions 
+
+were unusually low due to remote working as a 
+
+result of the COVID-19 pandemic. We expect an 
+
+increase in FY2022 compared to FY2021 as more 
+
+usual patterns of work return.
+
+Our roadmap
+
+We’ve developed our net zero roadmap for Scope 1 and Scope 2 emissions.
+
+CLIMATE
+
+12 Combined with renewable energy.
+
+13 Our FY2020 energy and emissions were also impacted by COVID-19, but this has not been quantified as this was our baseline emissions year.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+27
+
+
+
+
+Our roadmap continued
+
+CLIMATE
+
+We upgraded our 
+
+energy management 
+
+software and 
+
+corporate framework
+
+We started 
+
+energy management 
+
+working groups
+
+We updated our 
+
+property leasing 
+
+ criteria to include 
+
+sustainability 
+
+We reduced 197 offices 
+
+ to 140 offices
+
+We upgraded to 
+
+energy‑efficient 
+
+chillers in our 
+
+Houston office
+
+We’ve transitioned 
+
+to biofuels in 
+
+our vehicle fleet 
+
+in Brazil
+
+We extended our 
+
+long-term debt 
+
+maturity profile 
+
+with a sustainability 
+
+linked bond
+
+We switched to 
+
+100% renewable 
+
+energy contracts in 
+
+Houston and Perth
+
+In FY2021:
+
+Worley Sustainability Report 2021
+
+28
+
+CONTENTS
+
+
+Our GHG reduced significantly in FY2021. This was 
+
+due to a combination of factors. Some reductions will 
+
+be sustained into the future, for example where we 
+
+have switched offices to renewable energy and where 
+
+we have made permanent changes to our leased floor 
+
+area. Some reductions will be temporary as a result of 
+
+changed operating patterns, such as inability to travel 
+
+internationally and working from home, due to the 
+
+COVID-19 pandemic.
+
+Our Scope 1 and Scope 2 emissions fell dramatically due 
+
+to reduced occupancy of most offices and permanent 
+
+reductions in leased floor space. 
+
+The increase in the number of our people working from 
+
+home means that our emissions have been affected in 
+
+Scope 3 Category 7: Employee Commuting. We’ll work to 
+
+quantify these emissions in FY2022 and explore options 
+
+to reduce.
+
+Energy and emissions
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+2.5
+
+3.0
+
+3.5
+
+4.0
+
+0.0
+
+tCO2e/person
+
+FY2020
+
+2.2014
+
+FY2021
+
+1.27
+
+GHG emissions intensity per person*14
+
+62%
+
+FY2021
+
+Regions
+
+Americas
+
+EMEA/
+
+APAC
+
+FY2021
+
+Regions
+
+EMEA/
+
+APAC
+
+38%
+
+FY2021
+
+Operations
+
+30%
+
+Fabrication
+
+yards
+
+Offices
+
+70%
+
+Our FY2021 GHG emissions 
+
+=60,619 tonnes C02e15
+
+Our FY2021 energy use 
+
+=218,539 MWh15
+
+CLIMATE
+
+FY2020
+
+FY2021
+
+MWh/year
+
+100,000
+
+200,000
+
+300,000
+
+400,000
+
+500,000
+
+0
+
+371,88014
+
+218,539
+
+Energy usage history at a glance14
+
+Emissions history at a glance14
+
+140,000
+
+120,000
+
+100,000
+
+80,000
+
+60,000
+
+40,000
+
+20,000
+
+0
+
+FY2020
+
+FY2021
+
+tCO2e/year
+
+Scope 1
+
+Scope 2
+
+77,313
+
+36,92814
+
+35,507
+
+25,112
+
+We’re starting our Scope 3 journey
+
+We will set and verify our science-based Scope 3 emissions 
+
+targets by the end of FY2023.
+
+We are making a start this year by disclosing our 
+
+Scope 3 emissions for:
+
+• business travel
+
+• paper usage
+
+• data centers.
+
+As a result of travel restrictions due to COVID-19, our 
+
+business travel emissions were very low in FY2021.
+
+Our paper usage also reduced by about 50% this year as we 
+
+adapted to working from home with digital tools.
+
+We’ll continue to drive down these emissions as we work 
+
+towards our target of net zero Scope 3 emissions by 2050.
+
+*Refer Worley Sustainability Definitions 2021 document
+
+14  Our FY2020 baseline has been revised. Refer to GRI 102-48 Restatements 
+
+of information for details.
+
+15  The Scope 1 and Scope 2 energy and emissions figures reported here 
+
+are estimated and consistent with figures lodged with CDP in July 2021. 
+
+The figures will be subject to a limited assurance process during the first 
+
+half of FY2022 and any adjustment will be disclosed as an amendment to 
+
+our CDP submission and published online here. 
+
+Purchased goods and services:
+
+3254 tCO2e
+
+Paper usage
+
+1,640 tCO2e
+
+Data centers
+
+1,614 tCO2e
+
+Business travel  
+
+(including air and car travel)
+
+4,685 tCO2e
+
+Total calculated Scope 3 emissions
+
+7,939 tCO2e
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+29
+
+
+Task force on Climate-related Financial Disclosures (TCFD)
+
+This year we embedded the use of climate-related scenarios into our business strategy process.
+
+TCFD theme
+
+Our progress
+
+Data sources
+
+FY2021 progress
+
+Governance – disclose the organization’s governance around climate‑related risks and opportunities
+
+(a)  Describe the 
+
+Board’s oversight of 
+
+climate-related risks 
+
+and opportunities
+
+(b)  Describe management’s 
+
+role in assessing 
+
+and managing 
+
+climate-related risks 
+
+and opportunities
+
+• Consideration of climate change risk is embedded 
+
+throughout Worley’s governance and management 
+
+processes. The Board Health, Safety and Sustainability 
+
+Committee (HSSC) is responsible for overseeing all 
+
+sustainability matters, including climate change. 
+
+This committee approves the Climate Change Position 
+
+Statement. It makes recommendations for resources, 
+
+processes and performance to make sure we achieve 
+
+our ambitions. The Worley Chair and CEO both sit on 
+
+the HSSC. The Board Audit and Risk Committee (ARC) 
+
+monitors climate change risks and opportunities. 
+
+It makes recommendations on any policy or public 
+
+reporting related to climate change as it relates 
+
+to the Group*.
+
+• Within the Group Executive, the Group Director for 
+
+Health, Safety and Sustainability is responsible for 
+
+climate change strategy and disclosures. The President 
+
+of Energy Transition &amp; Digital is responsible for driving 
+
+our energy transition business strategy.
+
+• The Sustainability Working Group is a high level 
+
+cross-business working group which develops 
+
+responses to climate change and energy transition. 
+
+It guides the business and its functions on strategy 
+
+and future planning. The Group Sustainability Lead is 
+
+accountable for implementing our CCPS and realizing our 
+
+commitments of net zero Scope 1 and Scope 2 emissions 
+
+by 2030 and Scope 3 by 2050.
+
+• Our Growth team, supported by our Energy Transition 
+
+&amp; Digital team, is focused on the risks and opportunities 
+
+in our sectors associated with the low-carbon transition. 
+
+Working together, these teams grow the business 
+
+opportunities in decarbonization and energy transition. 
+
+• Our Assurance team, which includes our R3 team, works 
+
+with the business to manage the physical risks (and 
+
+opportunities where appropriate) of climate change. 
+
+This includes managing the safety of our people and 
+
+communities during extreme weather events along with 
+
+future planning for physical climate change scenarios.
+
+• Annual Report, p.4
+
+• Board HSSC charter
+
+• Board ARC charter
+
+• Climate Change 
+
+Position Statement
+
+• Investor Day pack 
+
+(June 2021, p.41)
+
+• Sustainability 
+
+Working Group 
+
+(SWG)
+
+• Updated Board 
+
+charters to 
+
+clarify roles and 
+
+responsibilities.
+
+• Established the 
+
+SWG, including 
+
+charter.
+
+• Established Growth 
+
+team, with a key 
+
+focus on growing 
+
+sustainability 
+
+and energy 
+
+transition business 
+
+opportunities (new 
+
+structure took effect 
+
+from 1 July 2020).
+
+CLIMATE
+
+Shareholders
+
+Executive Group
+
+Sustainability
+
+Working
+
+Group
+
+Other 
+
+Business 
+
+Leaders
+
+Corporate Affairs
+
+Board
+
+Business
+
+Leaders
+
+Director 
+
+Corporate 
+
+Affairs
+
+Lead
+
+Group 
+
+Sustainability
+
+Director - Growth
+
+Director - Energy Transition 
+
+  &amp; Digital
+
+Director - Assurance
+
+CEO
+
+Group Executive
+
+Health, Safety 
+
+and Sustainability 
+
+Health, Safety 
+
+and 
+
+Sustainability
+
+Committee
+
+Audit and 
+
+Risk 
+
+Committee
+
+Our climate governance structure
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+30
+
+
+Task force on Climate-related Financial Disclosures (TCFD) continued
+
+TCFD theme
+
+Our progress
+
+Data sources
+
+FY2021 progress
+
+Strategy –  disclose the actual and potential impacts of climate‑related risks and opportunities on the organization’s businesses, strategy and 
+
+financial planning where such information is material
+
+(a)  Describe the 
+
+climate-related risks 
+
+and opportunities 
+
+the organization has 
+
+identified over the short, 
+
+medium and long-term
+
+(b)  Describe the impact of 
+
+climate-related risks 
+
+and opportunities on 
+
+the organization’s 
+
+businesses, strategy 
+
+and financial planning
+
+(c)  Describe the resilience 
+
+of the organization’s 
+
+strategy, taking into 
+
+consideration different 
+
+climate-related 
+
+scenarios, including a 
+
+2°C or lower scenario
+
+• Responding to climate change and playing an active role 
+
+in the energy transition are key elements of our business 
+
+strategy. This includes supporting our customers 
+
+towards a low-carbon future.
+
+• We assess the risks and opportunities of climate change 
+
+in the markets we serve. We do this for two reasons: 
+
+firstly to capitalize on the opportunity offered by the 
+
+capital programs associated with the energy transition, 
+
+and secondly to mitigate risks associated with declining 
+
+industries as the world transitions.
+
+• We develop strategic responses on the short, medium 
+
+and long term, in line with the climate-related risks 
+
+and opportunities we identify.
+
+• Using climate-related scenarios is a core part of our 
+
+strategy development process. We use three of the 
+
+IEA scenarios in our strategy and planning processes to 
+
+cover the different possible speeds of the transition to 
+
+a low-carbon economy. Described more fully in Table 1 
+
+these are:
+
+• the IEA’s Sustainable Development Scenario (SDS) 
+
+as our primary scenario 
+
+• the IEA’s Net Zero Economy by 2050 Scenario 
+
+(NZE2050) to represent an accelerated transition
+
+• the IEA’s Stated Policy Scenario (STEPS) to inform 
+
+a slower transition.
+
+• Our R3 group supports us in maintaining business 
+
+continuity and planning responses in the event of 
+
+physical risks like extreme weather events and 
+
+rising temperatures.
+
+• Annual Report, p.8
+
+• Sustainability 
+
+Report, p.11
+
+• Investor Day packs 
+
+(December 2020 and 
+
+June 2021)
+
+• Embedded three of 
+
+the IEA transition 
+
+scenarios directly 
+
+into our strategy 
+
+development 
+
+process.
+
+CLIMATE
+
+Table 1
+
+IEA Scenario
+
+Level of ambition
+
+Stated Policies 
+
+Scenario (STEPS)
+
+Existing and announced 
+
+policies; not aligned with 
+
+the Paris Agreement
+
+Sustainable Development 
+
+Scenario (SDS)
+
+Aligned with a ‘well below 
+
+2°C’ temperature rise
+
+Net Zero Emissions 2050 
+
+Scenario (NZE2050)
+
+Aligned to a 1.5°C 
+
+temperature rise
+
+ 15
+
+ 20
+
+ 25
+
+ 30
+
+ 35
+
+40
+
+2015
+
+2020e*
+
+2025
+
+2030
+
+Gt CO₂
+
+Power
+
+End-use
+
+Behavior
+
+STEPS
+
+NZE2050
+
+SDS
+
+Energy and industrial process CO2 emissions 
+
+and reduction levels in the scenarios
+
+An unparalleled transformation of the energy 
+
+sector and major behavior changes in the next ten 
+
+years will be needed to achieve global net zero 
+
+emissions by 2050.
+
+*Note 2020e = estimated values for 2020.
+
+Source: IEA, World Energy Outlook, 2020.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+31
+
+
+
+
+CLIMATE
+
+TCFD theme
+
+Our progress
+
+Data sources
+
+FY2021 progress
+
+Risk Management – disclose how the organization identifies, assesses and manages climate‑related risks
+
+(a)  Describe the 
+
+organization’s 
+
+processes for identifying 
+
+and assessing 
+
+climate-related risks
+
+(b)  Describe the 
+
+organization’s 
+
+processes for managing 
+
+climate-related risks
+
+(c)  Describe how processes 
+
+for identifying, 
+
+assessing and managing 
+
+climate-related risks 
+
+are integrated into 
+
+the organization’s overall 
+
+risk management
+
+• We’ve embedded the identification of climate-related 
+
+risks into our business risk processes and tools, 
+
+which include:
+
+• our Risk Management Policy and Risk 
+
+Management Standard
+
+• our Responsible Business Assessment Standard, 
+
+which includes carbon intensity in risk screening of 
+
+project opportunities
+
+• our Special Risks Standard, to identify very high risks 
+
+that could damage our reputation or financial profile
+
+• our security and resilience management processes 
+
+through our R3 group. These include the need for 
+
+response plans for climate-related disasters
+
+• quarterly risk reporting to the Board ARC.
+
+• We complete annual assessments to identify the risks 
+
+and opportunities associated with climate-change.
+
+• Our business strategy is informed by the opportunity to 
+
+be the leader in designing and building the low-carbon 
+
+infrastructure critical to reducing global emissions
+
+• Our people strategy is informed by the risk of an 
+
+experience shortage. We provide opportunities for our 
+
+people to build on their experience to design and deliver 
+
+low-carbon infrastructure.
+
+• We consider the physical risk of climate change in our 
+
+supply chain planning and the impacts of extreme 
+
+weather events on project schedules.
+
+• We see an opportunity to use our deep knowledge of 
+
+design and construction to provide resilience in new 
+
+energy, chemicals and resources infrastructure to 
+
+withstand the physical impacts of climate change.
+
+• Annual Report, p.4
+
+• Risk Management 
+
+Policy
+
+• Sustainability 
+
+Report, p.56
+
+• Completed a detailed 
+
+risk assessment of 
+
+climate-related risks 
+
+and opportunities.
+
+Task force on Climate-related Financial Disclosures (TCFD) continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+32
+
+
+
+
+TCFD theme
+
+Our progress
+
+Data sources
+
+FY2021 progress
+
+Metrics and Targets –  disclose the metrics and targets used to assess and manage relevant climate‑related risks and opportunities where 
+
+such information is material
+
+(a)  Disclose the 
+
+metrics used by the 
+
+organization to assess 
+
+climate-related risks 
+
+and opportunities in line 
+
+with its strategy and risk 
+
+management processes
+
+(b)  Disclose Scope 1, 
+
+Scope 2 and, 
+
+if appropriate, Scope 3 
+
+GHG emissions and the 
+
+related risks
+
+(c)  Describe the 
+
+targets used by the 
+
+organization to manage 
+
+climate-related risks 
+
+and opportunities 
+
+and performance 
+
+against targets
+
+• We measure and monitor the proportion of our revenue 
+
+that relates to our Sustainability Pathways. This includes 
+
+the revenue from our decarbonization pathway.
+
+• We’ve committed to net zero Scope 1 and Scope 2 
+
+emissions by 2030 and have developed a roadmap which 
+
+sets out our plan of how we will achieve this.
+
+• We’ve committed to net zero Scope 3 emissions by 2050 
+
+through the Business Ambition for 1.5°C. We’ll set our 
+
+science-based targets (aligned to a 1.5°C outcome) 
+
+by April 2023.
+
+• We’ve reported our carbon emissions across 
+
+Scope 1, Scope 2 and Scope 3 in our Sustainability Report 
+
+and through Carbon Disclosure Project (CDP). 
+
+• From FY2021, our new Deferred Equity Plan for our 
+
+Group Executive, includes a metric relating to the delivery 
+
+of our Sustainability Action Plan.
+
+• In FY2022, we will implement a short-term incentive 
+
+framework that has greater focus on ESG priorities. 
+
+This will specifically include a measure to reduce Scope 1 
+
+and Scope 2 carbon emissions, and this will apply to all 
+
+Executives and Senior Leaders at Worley.
+
+• Annual Report, p.4 
+
+• CDP Report FY2021
+
+• Climate Change 
+
+Position Statement
+
+• Sustainability 
+
+Report, p.31
+
+• Remuneration 
+
+Report, within the 
+
+Annual Report
+
+• Established process 
+
+to track revenue 
+
+derived from our 
+
+Sustainability 
+
+Pathways.
+
+• Developed a detailed 
+
+roadmap to net zero 
+
+on our Scope 1 and 
+
+Scope 2 emissions 
+
+by 2030.
+
+• Joined the Business 
+
+Ambition for 1.5°C 
+
+campaign and 
+
+committed to the 
+
+Science Based 
+
+Targets initiative.
+
+• We started reporting 
+
+on our material 
+
+Scope 3 categories 
+
+this year.
+
+• Group Executive 
+
+Deferred Equity Plan 
+
+includes a metric 
+
+for the delivery of 
+
+our Sustainability 
+
+Action Plan.
+
+Task force on Climate-related Financial Disclosures (TCFD) continued
+
+CLIMATE
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+33
+
+
+
+
+We seek solutions that leave a positive legacy
+
+WATER, CIRCULAR ECONOMY &amp; BIODIVERSITY
+
+As part of our Field Services businesses, we have 10 fabrication and modularization yards across North America, 
+
+Europe and the UK. Within these businesses we fabricate and assemble equipment such as piping, structural 
+
+and process modules. 
+
+In FY2022, we will develop a plan to reduce our 
+
+water and waste impact at our fabrication yards
+
+Next year, we’ll expand data collection in our 
+
+fabrication yards. By better understanding our different 
+
+wastes we will improve our re-use and recycling rates. We 
+
+already track a lot of recycling streams in our Rosenberg 
+
+fabrication yard in Norway – including organic waste, 
+
+cardboard/paper, wood, plastic, and metal.
+
+We’ll expand our reporting to cover water usage 
+
+and waste from our offices 
+
+This applies to all our owned or leased offices where our 
+
+water usage and waste is metered. 
+
+This year, we updated our property leasing criteria to 
+
+include considerations on waste separation and reduction 
+
+and water efficiency. We’ll continue working with our 
+
+property managers to improve the ways we measure and 
+
+reduce our water usage.
+
+This year, we began to track and report the water and 
+
+waste generated from our fabrication yards.
+
+The water consumption in our Houston fabrication yard 
+
+was unusually high this year, because during the severe 
+
+winter storms in Texas in February, our water lines were 
+
+kept running continuously for several days. This was to 
+
+prevent the lines from freezing.
+
+What does biodiversity mean to Worley?
+
+Biodiversity loss is a sustainability issue of 
+
+elevating importance. Habitat destruction, pollution 
+
+and climate change are all putting increasing 
+
+pressure on global biodiversity.
+
+We are changing the way we run our business to 
+
+consider not just our impact on climate but how 
+
+we can retain and improve biodiversity where we 
+
+operate. We are continuing to clarify and strengthen 
+
+our consideration of ESG issues in our supply chain.
+
+In Latin America we’re having a positive impact in 
+
+the Araguaia biodiversity corridor which connects 
+
+two of the world’s most vital ecosystems: the 
+
+Amazon rainforest and the Cerrado savanna.
+
+We’ve partnered with our fleet supplier, Movida 
+
+and the Black Jaguar Foundation to help reforest 
+
+the corridor with native seedlings. This will help 
+
+save thousands of species, converting agricultural 
+
+land back to the original state of the rainforest and 
+
+savanna. It will also sequester enough carbon to 
+
+offset our vehicle fleet emissions in Brazil.
+
+Waste produced from our fabrication yards16:
+
+Waste 
+
+composition
+
+Total waste 
+
+generated 
+
+(tonnes)
+
+Directed to disposal
+
+Diverted 
+
+from 
+
+disposal
+
+Landfill
+
+Waste-to-
+
+energy
+
+Recycling
+
+Non-
+
+hazardous 
+
+waste
+
+8,611
+
+2,960
+
+1,599
+
+4,052
+
+Hazardous 
+
+waste
+
+1,129
+
+0
+
+1,129
+
+0
+
+Total
+
+9,739
+
+2,960
+
+2,728
+
+4,052
+
+Water used in our fabrication yards
+
+818,600m3
+
+16  All our waste is taken off site by third party contractors. ‘Recycling’ includes 
+
+mixed recycling, organic waste, electronic waste, metal, plastic, paper, 
+
+cardboard, and wood.
+
+
+
+Worley Sustainability Report 2021
+
+34
+
+CONTENTS
+
+
+
+
+
+
+Our business performs best when our workplaces 
+
+are safe, healthy, diverse and inclusive. So we help 
+
+our people to thrive and contribute to sustainable 
+
+communities. This has benefits to our customers 
+
+and the communities in which we operate.
+
+Our people and 
+
+communities
+
+Worley Sustainability Report 2021
+
+35
+
+CONTENTS
+
+
+
+
+
+
+We are committed to the safety, health and well-being of our people, 
+
+communities and the environment
+
+We prioritize the safety, health and well-being of ourselves and others, and we choose what is right 
+
+over what is quick or easy. We face into important issues and understand and learn from them.
+
+SAFETY, HEALTH AND WELL-BEING
+
+Our Life approach underpins everything we do
+
+Life is what connects us with each other and the 
+
+programs and tools we use every day to stay safe 
+
+and well. Life keeps front of mind the purpose 
+
+of these programs and provides the connection 
+
+between them, be it Life conversations, Life saving 
+
+rules, Safe driving for Life, or Life matters.
+
+The importance of having conversations is a 
+
+foundation of our Life programs. It has been over 
+
+a year since Life was introduced, and more than 
+
+50% of our people surveyed report that it “made 
+
+a positive impact and/or changed their work 
+
+behavior”. This year we’ve continued building 
+
+engagement through Mental Health month, our 
+
+Safe start campaign, Safe driving for Life program, 
+
+and Life month. We will carry on embedding Life as 
+
+one of our core values.
+
+We value Life�
+
+Without it, nothing else matters...
+
+Life programs
+
+317
+
+Life champions
+
+542
+
+Self-nominated 
+
+mental health 
+
+champions
+
+5,250
+
+Mental health 
+
+month live-event 
+
+participants
+
+10 Sept-10 Oct 
+
+875
+
+Managers 
+
+completed 
+
+mental health 
+
+fundamentals 
+
+training
+
+9
+
+Active local 
+
+mental health 
+
+networks
+
+
+
+
+
+
+
+
+
+
+
+Life saving rules
+
+Take5 for safety
+
+Life conversations
+
+Life matters
+
+Safe driving for Life
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+36
+
+
+SAFETY, HEALTH AND WELL-BEING
+
+Our Life approach is underpinned by the concept 
+
+of ‘Human Performance’
+
+Human Performance is about the way people think about 
+
+and perform their work. It’s a contemporary philosophy 
+
+that’s gained significant traction during the past decade in 
+
+areas of safety and leadership. 
+
+Human Performance recognizes that:
+
+• even the best make mistakes. It’s part of being human 
+
+and so our systems need to be tolerant of this
+
+• blame fixes nothing. Blame doesn’t create sustainable 
+
+improvement. When things go wrong, we have to look 
+
+forward, see where else we have similar circumstances 
+
+and put the right prevention measures in place
+
+• learning and improving is vital. And it needs to be 
+
+deliberate. We need to ask better questions and really 
+
+listen to the answers
+
+• context influences behavior. Our work environments 
+
+affect our behavior and actions. If we’re not achieving 
+
+what we want to achieve, we should look at “what” is 
+
+failing, rather than “who” is failing
+
+• how you act and respond counts. People look for 
+
+examples to follow, so everything you do is important.
+
+We depend on these five building blocks to help us 
+
+make sure we’re working safely and healthily in our 
+
+day-to-day operations. These principles don’t tell us what 
+
+to do - they simply help us to understand, evolve and find 
+
+different and better ways of doing things.
+
+Life helps us respond to the needs and demands of our ever-changing environment. Our people are the solution to 
+
+getting more things right in varying conditions.
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+37
+
+
+• HSS communication 
+
+and consultation
+
+• HSS induction orientation
+
+• HSS competency and training
+
+• Fitness to work
+
+• Fatigue management
+
+• Alcohol and drugs misuse
+
+• Lone and remote workers
+
+• First aid and medical facilities
+
+• Injury illness management and 
+
+rehabilitation
+
+• Health risk and impact 
+
+assessment
+
+• Health workplace exposure
+
+• Mental health
+
+• Prequalification and 
+
+bid evaluation
+
+• Management of change
+
+• Visitors to company and 
+
+non-company sites
+
+• HSS alignment and planning
+
+• Contractor and supplier 
+
+management
+
+• Supplier Code of Conduct
+
+ 
+
+• Process and design safety
+
+• Quality control
+
+• Take5 for safety
+
+• Job hazard analysis
+
+• Personal protective equipment
+
+• Hand and power tools
+
+• Life saving rules
+
+• Abrasive blasting, spray painting 
+
+and powder coating
+
+• Confined space
+
+• Control of work and permitting
+
+• Cutting, welding and hot work
+
+• Demolition and decommission
+
+• Electrical
+
+• Lifting and rigging
+
+• Piling and drilling
+
+• Pipeline and pressure
+
+• Excavation and earthworks
+
+• HSS field readiness and 
+
+construction
+
+• Safe driving for Life essentials
+
+• Stakeholder engagement 
+
+and consultation
+
+• Community volunteering via 
+
+Worley Foundation
+
+• HSS observation and 
+
+conversation
+
+• Ergonomics (field and office)
+
+• Office HSS
+
+• Life programs extend to home 
+
+safety practices
+
+• Emergency management 
+
+and security
+
+• Hazardous substances and 
+
+dangerous goods
+
+• Working in and over water
+
+• Working at altitude
+
+• Communicable disease
+
+• Malaria control
+
+• Blood-borne pathogens
+
+• HSS Committees
+
+• Policies
+
+• Digital tools and technology
+
+• HSS risk management
+
+• Strategy and improvement
+
+• Monitoring and reporting
+
+• HSS assurance
+
+• Delegations, roles and 
+
+responsibilities
+
+• Life programs
+
+• HSS regulatory and other 
+
+requirements
+
+• Business continuity
+
+• Management and 
+
+knowledge system
+
+• Management review
+
+• HSS event reporting and 
+
+investigation
+
+• HSS alerts
+
+Our Life approach includes a comprehensive safety, health and well-being management system.
+
+Our people do their work in a variety of different 
+
+environments. This includes:
+
+• our managed sites
+
+• customer and joint-venture managed sites
+
+• remote working
+
+• working from home
+
+• virtual operations
+
+• global delivery.
+
+This means that our people often operate under different 
+
+management systems. We have a set of minimum 
+
+standards that all management systems have to meet. 
+
+Parts of our business hold ISO certification (45001 
+
+and 14001) and we conduct third party audits of our 
+
+management system and metrics.
+
+SAFETY, HEALTH AND WELL-BEING
+
+Our people
+
+Our partnerships
+
+Our workplace activities
+
+Our workplace 
+
+environment and society
+
+G
+
+o
+
+v
+
+er
+
+n
+
+a
+
+n
+
+ce
+
+ a
+
+n
+
+d 
+
+c
+
+ul
+
+tu
+
+re
+
+Our workplace  
+
+activities
+
+Our workplace  
+
+environment  
+
+and society
+
+Governance and culture
+
+Our people 
+
+Individual / wellness
+
+Our partnerships 
+
+Contractors /
+
+suppliers / customers 
+
+/ joint ventures
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+38
+
+
+Keeping our people physically safe
+
+We strive to increase the safety of our people under a broad range of scenarios.
+
+We mandate the reporting of incidents and injuries so that 
+
+we can continue to learn and reduce the risk of incidents. 
+
+This year we:
+
+Injury statistics
+
+We align our reporting with the US Occupational Safety 
+
+and Health Administration. This includes:
+
+• Total Recordable Case Frequency Rate (TRCFR)*
+
+• Lost Workday Case Frequency Rate (LWCFR)*
+
+• Serious Case Frequency Rate (SCFR).*
+
+Indicators
+
+2021
+
+2020
+
+TRCFR
+
+0.16
+
+0.16
+
+LWCFR
+
+0.02
+
+0.03
+
+SCFR
+
+0.07
+
+0.06
+
+We have had no fatalities over the past financial year.
+
+As part of our Life approach, we are changing how we 
+
+talk about and celebrate safety, health and well-being. 
+
+We’re looking beyond statistics and frequency-rate 
+
+milestones. As well as actively learning and improving 
+
+when things go wrong, we also talk about and celebrate 
+
+the things that go right - and activities that make a 
+
+difference to safety outcomes.
+
+We know how useful leading indicators are in helping us to 
+
+manage risks on our projects. We are seeking to intervene 
+
+early in particular work sites with the right resources and 
+
+capability to avoid safety incidents. To help us we are 
+
+trialing the use of multiple leading and lagging indicators.
+
+ Promoted Life Conversations which 
+
+continuously improves the quality 
+
+of conversations around human 
+
+performance and core Life behaviors. 
+
+Launched our Safe Start campaign 
+
+which equipped our people with the 
+
+practical information on Life, its 
+
+associated behaviors and examples 
+
+of how we can all use them in our 
+
+daily work.
+
+Introduced the Safe driving for Life 
+
+program which helps our people to 
+
+drive more safely. 
+
+SAFETY, HEALTH AND WELL-BEING
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+39
+
+
+
+
+Building platforms for 
+
+better mental health
+
+We’re continuously emphasizing the importance of 
+
+supporting mental health, and we have the programs 
+
+and systems to make this happen. 
+
+We have two programs that promote the importance of good mental health: 
+
+Life Conversations and Life Matters. These programs include:
+
+• a comprehensive EAP
+
+• a robust network of mental health champions
+
+• training materials
+
+• a recognition program for role modeling safe behaviors 
+
+• online resources that support creating a safe and respectful workplace. 
+
+875 managers completed basic mental health awareness training. We now have 
+
+254 trained and chartered mental health champions. We are seeking to have mental 
+
+health champions in all our locations so that all our people have support locally.
+
+SAFETY, HEALTH AND WELL-BEING
+
+Case Study | Mental Health month
+
+In September 2020, we had a month-long promotion of mental health 
+
+which brought focus to its importance. We held four Leaders Talk Mental 
+
+Health webinars across the business to share the experiences of our 
+
+senior leaders and de-stigmatize conversations about mental health. We 
+
+highlighted the importance of a healthy lifestyle, talked about mental 
+
+health challenges and promoted our EAP.
+
+Our CEO, Chris Ashton, shared his 
+
+personal mental health story at a 
+
+live session.
+
+Improving our people’s 
+
+social well-being
+
+Stronger together is one of our values. Social well-being is always important. 
+
+But with remote working and social distancing, it’s now more critical than ever. 
+
+Our key achievements this year have included:
+
+• introducing our Ice-breaker app which improves how we connect in 
+
+the virtual world
+
+• giving our people meaningful advice on staying connected whilst working 
+
+from home during lockdown
+
+• holding Life Conversations across the business to continually check-in on 
+
+our people’s well-being
+
+• establishing an appreciation program to celebrate achievements and support 
+
+an inclusive culture for our people.
+
+Case Study | Stronger together
+
+Providing our people with top tools for social well‑being. 
+
+Our Stronger together campaign provided an opportunity to promote our 
+
+global experts, our diversity and inclusion and champion networks, and 
+
+our networking and resourcing platform ION 4.0. We also promoted our 
+
+networking tool, Ice-breaker, and all our other well-being resources.
+
+875 
+
+managers have 
+
+completed basic mental 
+
+health awareness training
+
+254 
+
+trained and chartered 
+
+mental health champions
+
+
+
+
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+Alignment to the UN SDGs:
+
+Worley Sustainability Report 2021
+
+40
+
+CONTENTS
+
+
+
+
+Keeping our people safe in the face of COVID-19 
+
+We continue to navigate the challenges of COVID-19.
+
+We’ve stood beside our people as the virus has affected 
+
+them in different ways – from the loss of loved ones to 
+
+long periods of social isolation.
+
+We've all seen the devastating impact COVID-19 has had. 
+
+We are saddened by the loss of valued members of our 
+
+Worley team. We express our deepest sympathy to the 
+
+family and friends of all lives lost across the globe.
+
+Our processes for managing COVID‑19 have 
+
+helped to keep our people safe and shown our 
+
+remarkable flexibility
+
+Our management teams all over the world have 
+
+worked tirelessly to care for the physical and mental 
+
+well-being of our people. Our people continued to work 
+
+over 72 million hours onsite to support our customers’ 
+
+critical infrastructure projects.
+
+We know the effects of the COVID-19 pandemic will be felt 
+
+for years to come. We’ll keep strengthening our mental 
+
+health networks and support in response. We have assisted 
+
+our people to work more comfortably from home, with 
+
+full access to office equipment as required. Working from 
+
+anywhere is now part of our new operating model. 
+
+We’re giving guidance to our people to improve their 
+
+safety, health and well‑being while working away 
+
+from the office
+
+Guidance includes Life saving rules at home, ergonomic tips 
+
+and advice on networking in a virtual environment. 
+
+As part of our Life program, we’ve given our people the 
+
+information they need to make informed decisions as the 
+
+pandemic has evolved and vaccines have started rolling out. 
+
+We’re continuing to give regular updates on how our people 
+
+are affected by the pandemic. And we have dedicated links 
+
+for useful external resources.
+
+We’ve been using new technology to help our 
+
+customers in new ways 
+
+The COVID-19 impacts on travel have created an 
+
+opportunity to use technology and innovation to develop 
+
+new tools for virtual site visits. This reduces risk and travel. 
+
+Our Worley-developed technology has been so successful 
+
+that it’s become a product offering for our customers. 
+
+Our teams are working to design specialized camera-linked 
+
+tools to make the process even better. 
+
+SAFETY, HEALTH AND WELL-BEING
+
+The safety, health and well-being of our people is what 
+
+Life is all about. As the pandemic waves have impacted 
+
+our people and their families across our operations, 
+
+I am enormously proud of the care and support our 
+
+people have provided each other and the flexibility our 
+
+processes have enabled to maintain customer delivery.” 
+
+ 
+
+Marian McLean  
+
+Executive Group Director - Health, Safety and Sustainability17
+
+“
+
+
+
+Virtual site tour
+
+17  Marian McLean has a new organizational role from FY2021: Group President - Sustainability
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+41
+
+
+Fostering a culture of inclusion 
+
+We’re building a culture where everyone is valued, respected and supported.
+
+We have a holistic approach to diversity and 
+
+inclusion (D&amp;I)*
+
+This is based on our People, Culture and Market model. 
+
+We’re proud of our progress this year but more needs to 
+
+be done and we’ll keep delivering improvements, guided 
+
+by feedback from our people.
+
+DIVERSITY AND INCLUSION
+
+People
+
+Diversity
+
+&amp; Inclusion
+
+Culture
+
+Market
+
+We’re building an even stronger culture of diversity 
+
+and inclusion
+
+This year, we wanted to know what our people think 
+
+of our workplace culture. We ran a global survey and 
+
+set out to answer:
+
+1. How diverse is the Worley family?
+
+2. How included do our people feel?
+
+Over 18,500 of our people responded and here is 
+
+what they had to say:
+
+Overall, our people said they see visible leadership on 
+
+diversity and inclusion and generally experience inclusive 
+
+behavior. In their day-to-day duties, they mostly find 
+
+working and collaborating within the Worley team to be 
+
+positive and rewarding. The results also showed that some 
+
+segments of our workforce specifically felt less included. 
+
+How we’re using these results to improve inclusion and 
+
+belonging is spoken to on the next page. 
+
+We are increasing support for specific groups
+
+The survey showed us some groups still find working at 
+
+Worley less inclusive. These include women, non-binary 
+
+and transgender people, Black people, African people and 
+
+African American people and those with a disability. During 
+
+FY2022 we’ll do more work to understand how we can 
+
+help these groups to experience being more included.
+
+Inclusion survey results
+
+Our leadership
+
+84% of our people gave 
+
+favorable responses regarding 
+
+how our leaders talk about 
+
+the importance of diversity 
+
+and inclusion and demonstrate 
+
+inclusive behaviors.
+
+How we operate
+
+78% of our people were 
+
+favorable about the way we 
+
+operate, including the fairness 
+
+of our policies, systems 
+
+and processes.
+
+How we behave
+
+83% of our people gave 
+
+favorable responses to seeing 
+
+inclusive behaviors in our 
+
+business.
+
+How we feel
+
+88% were favorable about 
+
+Worley having a culture 
+
+of inclusion and belonging.
+
+84%
+
+78%
+
+83%
+
+88%
+
+18,500+ 
+
+Worley people took part 
+
+in the Global Inclusion survey
+
+The scores are our global results and represent the 
+
+percentage of people who chose "frequently", "very 
+
+frequently" or "always" in response to the questions 
+
+under each section of the survey.
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+42
+
+
+We’re improving the gender diversity of our team
+
+We have a Board made up of 33% women and 
+
+a gender-balanced executive team of six women 
+
+and four men.*
+
+We’ve recruited more women into senior leadership roles 
+
+by having a more focused approach to talent acquisition. 
+
+We have re-positioned our ambition on the general 
+
+workforce, of which currently 18% are women. We will 
+
+focus on initiatives that will develop inclusivity across the 
+
+business as opposed to broad general workforce gender 
+
+targets. We believe this will be more meaningful for the 
+
+business and will bring about greater impact. It is our intent 
+
+to identify a number of key drivers from our inclusion 
+
+survey and measure progress accordingly. 
+
+During the past year:
+
+• 22% of our hires into Senior Leader roles were women
+
+• 46% of our graduates starting during the year were 
+
+women, up from 28% in FY2020.
+
+We are tackling unconscious bias 
+
+During FY2022, we will focus on tackling unconscious 
+
+bias – and the ways it affects our business and people 
+
+decisions. We’ll be doing a systematic review of core 
+
+processes and decision-making structures. We’ll be 
+
+looking for places where we can ‘hardwire’ ways of 
+
+combating unconscious bias.
+
+We’re benchmarking, certifying and communicating 
+
+our work with the market
+
+This year, our Pride@Worley network group took part in 
+
+the Workplace Pride Global benchmark survey. We wanted 
+
+to understand where we can improve our efforts to build an 
+
+inclusive environment for our LGBTIQ+ people. We signed 
+
+the Workplace Pride Declaration of Amsterdam which 
+
+promotes inclusive corporate cultures for LGBTIQ+ people.
+
+We took part in the GRIT Awards, with our Kuumba and 
+
+Women of Worley network groups recognized for their 
+
+work during FY2020.
+
+Achieving racial equality
+
+During FY2020, a global conversation about racial justice 
+
+was sparked following the death of George Floyd in the 
+
+US. The Black Lives Matter movement in the US catalyzed 
+
+a global conversation about how businesses can increase 
+
+and improve representation of different ethnicities. 
+
+Worley responded by supporting our Kuumba network 
+
+to expand and promote the importance of achieving 
+
+racial equality across the business. 
+
+Recognizing and respecting First Nations heritage 
+
+We continued to work with First Nations people in the 
+
+communities in which we operate - in Canada through 
+
+the Progressive Aboriginal Relations Certification, and in 
+
+Australia with our Reconciliation Action Plan (RAP). 
+
+As an Australian-based business, our RAP commitments 
+
+and community partnerships demonstrate our 
+
+commitment to Australia’s Reconciliation journey. 
+
+Since our RAP launch we’ve deepened our relationships 
+
+with the Polly Farmer Foundation and CareerTrackers 
+
+Indigenous Internship Program and established new 
+
+partnerships with the Johnathan Thurston Academy and 
+
+Warrikal. We’ve declared our support of the principles 
+
+embodied in the Uluru Statement from the Heart and 
+
+continue to build awareness within our business on 
+
+the meaning of Reconciliation as well as celebration of 
+
+First Nations culture. 
+
+DIVERSITY AND INCLUSION
+
+An update on our FY2025 targets and progress
+
+Through FY2021 we made progress and refined 
+
+our targets.
+
+We believe that our workplace should represent and 
+
+reflect the communities in which we operate; this is 
+
+especially true when it comes to the representation of 
+
+race and ethnicity. 
+
+Our aspiration is to progress more closely to this vision. 
+
+We are now working to develop a global ambition 
+
+around equality with location relevant targets.
+
+Given our geographic spread and the fact that race 
+
+and ethnicity issues vary by location, we believe this 
+
+approach is more meaningful and relevant.
+
+Role
+
+Target for FY2025
+
+FY2021
+
+Board 
+
+composition
+
+Have a Board 
+
+composition of at 
+
+least 30% women*
+
+Achieved
+
+Group Executive
+
+Retain gender 
+
+diversity of 
+
+Group Executive*
+
+Achieved
+
+Senior Leaders
+
+Increase the 
+
+proportion of women 
+
+in our Senior Leaders 
+
+to 20%*
+
+16%
+
+Collective annual 
+
+global graduate 
+
+intake
+
+Minimum of 50% 
+
+female hires to 
+
+support gender 
+
+diversity in the 
+
+general workforce
+
+46%
+
+
+
+Bili Yilam – Bluetongues Home by Australian 
+
+Indigenous artist Mick Harding. 
+
+Artwork credit
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+43
+
+
+
+
+Case Study | Black Lives Matter
+
+Our CEO, Chris Ashton, held group meetings 
+
+and had more than 20 individual discussions 
+
+with our Black employees, predominantly in 
+
+the US, UK and South Africa.
+
+We expanded our listening with larger 
+
+facilitated group sessions, inviting all our 
+
+Black employees to contribute and help us 
+
+shape future actions. 
+
+We aligned the outcomes of listening 
+
+into current diversity and inclusion plans 
+
+and added additional actions, such as 
+
+establishing regional and senior sponsorship 
+
+programs, creating two regional D&amp;I roles 
+
+for the business and piloting race education 
+
+programs in the US to address gaps. 
+
+Kuumba doubled its membership in FY2021. 
+
+We added three new chapters in Europe, 
+
+Africa and APAC and appointed an additional 
+
+executive sponsor. The network provides 
+
+support for our people and connections to our 
+
+wider diversity and inclusion work.
+
+In the US, Kuumba has continued their 
+
+work with historically Black colleges and 
+
+universities (HBCUs), conducting development 
+
+sessions and providing mentorship to 
+
+students. Kuumba has run STEM programs 
+
+in local high schools in Houston. In the UK, 
+
+Kuumba hosted Black History Month for 
+
+the first time. Globally, Kuumba launched a 
+
+mentorship program to elevate and support 
+
+Black talent in our business. We are proud 
+
+that Kuumba was recognized by winning a 
+
+GRIT award in the Teams/Affinity Groups 
+
+Category (through Allyenergy.com).
+
+DIVERSITY AND INCLUSION
+
+We stopped and we listened� Then we acted� 
+
+We have a significant presence in the US, and the events of 2020 gave us pause 
+
+to stop and understand the challenges and themes of Black Lives Matter as 
+
+experienced by our own people.
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+44
+
+
+
+
+PEOPLE DEVELOPMENT
+
+Our people are our  
+
+most valuable asset
+
+We focus on four priorities which guide us in 
+
+developing our people:
+
+We’re shaping the  
+
+workforce of the future 
+
+The nature of our work continues to change. 
+
+We’re experimenting with new ways of working 
+
+and new models for deploying our people.
+
+Our Workforce of the Future program is focused on researching and 
+
+identifying our workforce needs of the future. We are exploring the skills 
+
+and capabilities we need to:
+
+• serve our customers and deliver our strategy
+
+• find and recruit the right talent in new and scalable ways
+
+• redefine the purpose of the workplace and how and where work gets done. 
+
+Shape of the  
+
+workforce
+
+People  
+
+experience
+
+Future fit
+
+Digital and  
+
+data driven
+
+1
+
+3
+
+2
+
+4
+
+
+
+Worley Sustainability Report 2021
+
+45
+
+CONTENTS
+
+
+PEOPLE DEVELOPMENT
+
+We’re making sure our people are ‘future fit’, and we’re developing 
+
+the leaders of tomorrow
+
+To attract, upskill and retain the right people, we need to provide the right tools and working culture. 
+
+We’re creating programs and opportunities that put our people at the center of the experience and help 
+
+them develop the essential skills of the future.
+
+Our approach includes:
+
+• Learning at Worley - our platform hosting 
+
+a comprehensive suite of digital learning 
+
+tools to enable our people to focus on 
+
+skills development
+
+• Global Graduate Development Program
+
+• a toolkit of programs developed and 
+
+delivered by our learning specialists.
+
+We’ve continued delivering learning 
+
+materials virtually through FY2021, 
+
+with over 212,000 visits to Learning at 
+
+Worley this year.
+
+We’ve delivered a range of 
+
+development programs
+
+We have:
+
+• increased our ‘on the job’ 
+
+learning opportunities
+
+• delivered a series of team 
+
+effectiveness programs
+
+• developed a multi-level sponsorship 
+
+program where senior leaders advocate 
+
+to help accelerate opportunities for 
+
+underrepresented groups. We have 
+
+24 pairs of sponsors and protégés – with 
+
+our Group Executive and senior leaders 
+
+acting as sponsors
+
+• held a series of focused months for 
+
+educating, developing and engaging our 
+
+people globally. These included Mental 
+
+Health Month, Sustainability Month, 
+
+Energy Transition Month and Our Values 
+
+Month. We’ve had a total attendance of 
+
+more than 75,000 at our live Teams calls 
+
+over the past year
+
+• started work implementing a series 
+
+of development pathways to skill our 
+
+people through an Energy Transition 
+
+Passport. This will support our people 
+
+as they pivot their careers and apply 
+
+their skills to sustainability and 
+
+Energy Transition projects.
+
+
+
+Case Study | Digital Passport
+
+We’re upskilling our people, working towards being part of a digitally 
+
+driven company
+
+An integral part of our strategy is the Digital Transformation which requires all 
+
+our people to work towards embedding digital skills and technologies in the way 
+
+they work, to improve efficiency, challenge the norm, embrace innovation and 
+
+provide competitive edge.
+
+To support this, the Digital Passport has been developed for all people within Worley 
+
+to begin their digital journey. By completing the Digital Passport, each employee can 
+
+develop their learning about how they can be part of our digital transformation and 
+
+use digital skills and technologies in their own role to save time, be more efficient and 
+
+be more valuable to Worley overall.
+
+We’ve had over 11,700 of our people around the globe complete the Digital Passport 
+
+since it was rolled out in August 2020. The value of learning digital tools and 
+
+skills was clearly highlighted by the rapid adoption, with over 5,600 of our people 
+
+completing the Passport in the first two months.
+
+Building on its success, we are now introducing ‘Stamps’ that take a deeper dive 
+
+into specific digital topics such as Data Science, AI and Data Literacy. As a result, 
+
+our people can direct their own learnings to topics that are most relevant and useful 
+
+to them.
+
+212,000+
+
+visits to our Learning at 
+
+Worley site this year
+
+
+
+
+
+Alignment to the UN SDGs:
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+46
+
+
+
+
+PEOPLE DEVELOPMENT
+
+We’re strengthening our 
+
+employee experience
+
+We’re delivering  
+
+data-driven insights
+
+Driven by data insights we are delivering targeted 
+
+initiatives to develop our people.
+
+Looking closely at data insights tells us a lot about our workforce 
+
+demographics and our people experiences. This means we can make our 
+
+initiatives more targeted and more effective.
+
+We’re working on digitalizing and automating our people processes. 
+
+Using aligned systems and shared services means we can use data insights 
+
+to target areas of risk and growth.
+
+Data is helping us to boost our diversity and inclusion
+
+We focus our monthly recruitment reports on linking our actions to diversity 
+
+and inclusion. We’ve been looking at gender in particular. This has helped 
+
+us to highlight key steps in our recruitment process that we can improve to 
+
+further our quest for a more diverse and inclusive workforce.
+
+Our first inclusion survey is another example of a data-driven exercise that’s 
+
+given us some very useful insights. It’s helping us to target specific ways 
+
+we can improve the sense of inclusion and belonging for our people across 
+
+the Worley group.
+
+It’s crucial for us to develop leaders who understand their people and how 
+
+to coach them. It’s one of the strongest influences in the experience of 
+
+working at Worley.
+
+At the end of FY2020, we introduced Worley’s purpose, values and behaviors. 
+
+This gave us an opportunity to engage our people with our strategy and our 
+
+expectations of our behaviors that we see as most important – for each 
+
+other, our customers, partners and communities.
+
+In the past year, we’ve:
+
+• recruited 335 Values ambassadors to embed and steward our purpose and 
+
+values throughout the business
+
+• launched our ‘Appreciate’ values recognition program, providing an avenue 
+
+to recognize and celebrate our people who demonstrate our values 
+
+and behaviors
+
+• held a series of values and purpose months to promote and cultivate 
+
+our values within our people.
+
+We’re introducing a Short Term Incentive (STI) framework for Senior Leaders 
+
+that recognizes behaviors in line with our values. By linking our incentive 
+
+programs not just to ‘what’ our leaders achieve but ‘how,’ we can accelerate 
+
+to delivering a more sustainable world.
+
+Our priority is to cultivate a values driven, inclusive 
+
+culture which fosters belonging and well-being.
+
+335
+
+Values ambassadors gathered
+
+3
+
+Values and purpose months held
+
+
+
+Worley Sustainability Report 2021
+
+47
+
+CONTENTS
+
+
+PEOPLE DEVELOPMENT
+
+We’re embedding sustainability in the mindset of our people
+
+We held our first Sustainability month; a call to action for all our people to take part in our sustainability journey. 
+
+
+
+This is a pivotal moment in time for us, and the time for action is now. 
+
+We kickstarted 2021 with Sustainability month for everyone to take part 
+
+in our sustainability journey.” 
+
+ 
+
+Our CEO Chris Ashton during Sustainability month
+
+“
+
+The month featured 25 webinars involving our CEO, our customers 
+
+and our people. 
+
+More than 15,000 of our people took part, creating meaningful 
+
+conversations about sustainability across the business and giving 
+
+insights into what our customers are doing and how to pivot 
+
+their own careers.
+
+Our Sustainability Champions Network (SCN) is growing
+
+This network has been actively bringing our purpose to life and now 
+
+has more than 500 members. The SCN connects people across the 
+
+business who are passionate about sustainability. The group meets 
+
+regularly to share leading developments in sustainability and to 
+
+coordinate various initiatives. We have teams working on reducing 
+
+our GHG emissions and advising us how to improve our homes’ 
+
+sustainability performance.
+
+15,000+ 
+
+of our people participated in  
+
+Sustainability month
+
+500+
+
+of our people are members of 
+
+our Sustainability Champions Network
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+48
+
+
+
+
+CONTRIBUTING TO OUR COMMUNITIES
+
+We make a positive contribution where we operate
+
+Through the Worley Foundation and our networks and programs, we connect the diverse 
+
+skillsets and passions of our people to help develop sustainable communities and ecosystems.
+
+We focus on STEM education, skilled volunteering* 
+
+and environmental and community benefit. We encourage 
+
+our people to contribute towards a more sustainable 
+
+world - both in their project work and in the communities 
+
+where we operate.
+
+Supporting Scottish 
+
+youths in developing 
+
+business acumen
+
+Improving the 
+
+quality of education 
+
+in public schools 
+
+across Colombia
+
+Supporting an online 
+
+STEM challenge 
+
+across Canada
+
+Supporting professional 
+
+knowledge sharing 
+
+for charities and 
+
+social enterprises 
+
+in Melbourne
+
+Funding a STEM clean 
+
+energy contest 
+
+Supporting 
+
+empowerment 
+
+and well-being 
+
+of Indigenous 
+
+Australian students
+
+Engaging 
+
+disadvantaged youths 
+
+with STEM in Nigeria
+
+Addressing food 
+
+insecurity and 
+
+homelessness in 
+
+Australia
+
+The Worley Foundation funded nine new projects this year
+
+This year the Foundation has funded nine new projects across the themes of STEM engagement, empowering 
+
+disadvantaged groups and environmental sustainability.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Developing and 
+
+empowering women 
+
+entrepreneurs in India
+
+
+
+
+
+
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+Worley Sustainability Report 2021
+
+49
+
+CONTENTS
+
+
+
+
+
+
+The sustainability solutions of tomorrow need 
+
+a STEM-literate generation today. 
+
+We want to inspire the children of today to get involved with STEM fields for the 
+
+opportunities they create. We’re working on this with organizations which share this 
+
+common goal. Whether it is through skilled engineering outreach or projects funded 
+
+by the Worley Foundation, our people are passionate about making a difference. 
+
+Skilled volunteering
+
+As technology providers, our people have a wealth of technical knowledge which 
+
+they generously contribute as volunteers to causes close to their hearts. Through the 
+
+Worley Foundation, we give our people the opportunities to apply their skills through 
+
+volunteering. This year our people supported projects which progress toward 
+
+achieving the UN SDGs. Some examples include the Pollinate Group in India, the 
+
+Antarctic Science Foundation and the Centre for Affordable Water and Sanitation 
+
+Technology (CAWST) in Colombia.
+
+$561,250
+
+Legislated contribution
+
+$1,614,960
+
+Total contribution
+
+$1,053,710
+
+Non-legislated contribution
+
+We promote STEM to 
+
+build a better future
+
+In the past year, we’ve 
+
+made $1�61m in corporate 
+
+financial donations*
+
+This funding has been allocated to a broad range of sustainability initiatives 
+
+– from improving education in Colombia to empowering young Indigenous 
+
+Australians.
+
+Some of these contributions stem from an obligation to comply with 
+
+South Africa’s Broad-Based Black Economic Empowerment legislation 
+
+requirements, as well as section 135 of India’s Companies Act, 2013, Companies 
+
+(Corporate Social Responsibility Policy) Rules, 2014, to reinvest in communities.
+
+Case Study | Respecting Indigenous heritage
+
+We’re supporting positive change in both our projects and how we run our 
+
+business. Examples include our:
+
+• Reconciliation Action Plan (RAP) in Australia
+
+• Next Generation Outreach program in Canada
+
+• school community involvement in Kazakhstan
+
+• partnership with Norman Wells Land Corporation in Canada.
+
+We have recently progressed our RAP program to increase our positive 
+
+impact with Aboriginal and Torres Strait Islander owned businesses in 
+
+our Australian operations.
+
+We’ve delivered an engagement pack in the UK for both high school and 
+
+primary school students, featuring our CEO, Chris Ashton. 
+
+We are delivering this engagement pack to a range of schools in the UK, 
+
+raising awareness of the benefits of STEM but also how important STEM is to 
+
+achieving the UN SDGs.
+
+Case Study | UK STEM engagement
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+Alignment to the UN SDGs:
+
+CONTRIBUTING TO OUR COMMUNITIES
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+Worley Sustainability Report 2021
+
+50
+
+CONTENTS
+
+
+Case Study | Centre for Affordable Water and Sanitation Technology
+
+ The approach of companies like 
+
+Worley is brilliant; they bring 
+
+commitment and engagement to 
+
+the next level, not only talking about 
+
+financial support to the cause but also 
+
+involving their staff.”
+
+Eva Manzano 
+
+Senior Global WASH Advisor at CAWST
+
+Skilled volunteering to provide fresh 
+
+water and sanitation facilities
+
+Access to safe drinking water and basic sanitation is a fundamental 
+
+human right, and without it, progress towards other sustainable 
+
+development goals is impossible. One in three people globally do not 
+
+have access to safe drinking water, 4.2 billion lack access to safely 
+
+managed sanitation and 3 billion lack basic handwashing facilities.18
+
+“
+
+18 World Health Organization, UNICEF, United Nations.
+
+For more than three years the Worley Foundation 
+
+has been supporting the Centre for Affordable 
+
+Water and Sanitation Technology (CAWST) through 
+
+financial contributions and skilled volunteering. 
+
+COVID-19 pushed us to create new ways to connect 
+
+and make a difference this year. 
+
+We worked with CAWST to create and participate 
+
+in the ‘Tippy Tap Challenge’, a collaborative 
+
+challenge to create a suitable low-cost 
+
+handwashing station for rural communities. 
+
+The design solution can be implemented by 
+
+CAWST’s clients and partners to improve 
+
+access to handwashing facilities in remote 
+
+communities of Colombia and contribute 
+
+to COVID-19 mitigation efforts. 
+
+A key part of empowering local communities is 
+
+education, and we are now working with CAWST 
+
+in supporting local organizations in building their 
+
+technical knowledge and skills. This involves 
+
+working in the virtual environment to support 
+
+local practitioners with the implementation of 
+
+household water treatment, sanitation and hygiene 
+
+interventions and improving the living conditions of 
+
+many local communities.
+
+
+
+Learn more at CAWST.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+CONTRIBUTING TO OUR COMMUNITIES
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+51
+
+
+
+
+We continue to work with our customers and 
+
+suppliers to grow our company, contribute to our 
+
+communities and reward our shareholders and 
+
+people. The foundation for our success is the 
+
+integrity and professionalism we demonstrate in 
+
+our dealings with others. 
+
+Operating responsibly
+
+Worley Sustainability Report 2021
+
+52
+
+CONTENTS
+
+
+Statement from the Board HSS Committee
+
+Worley is committed to the principles of the UN Global Compact. 
+
+We consider environmental, social and governance issues in our 
+
+corporate decision-making in line with the UN SDGs.
+
+OPERATING RESPONSIBLY
+
+The Health, Safety and Sustainability Committee of the Board guides the 
+
+sustainability practices of the Worley Group. We work closely with Worley’s 
+
+operational leadership to ensure suitable processes and resources are in place 
+
+to manage sustainability risks and opportunities.
+
+The escalation of the COVID-19 pandemic continues to test the resilience of our 
+
+people and communities. The Group’s processes for keeping our people safe have 
+
+shown remarkable flexibility in the rapidly evolving circumstances.
+
+We have a strong system of governance and operational controls in place to 
+
+ensure we operate lawfully, ethically and responsibly while delivering a more 
+
+sustainable world.
+
+Roger Higgins
+
+Chair, HSS Committee
+
+
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+53
+
+
+Our approach is guided by
+
+Key external global commitments 
+
+Our risk is managed by
+
+We drive action through
+
+• UN Global Compact (signatory)
+
+• GRI
+
+• Task force on Climate-related Financial 
+
+Disclosures (TCFD)
+
+• Building Responsibly Worker Welfare Principles
+
+Underpinned by annual and sustainability reporting and internal reviews 
+
+• Annual Report
+
+• Sustainability Report
+
+• CDP Report
+
+• Corporate Governance Statement
+
+Annual risk review processes:
+
+• Quarterly risk review
+
+• Material risk process
+
+• TCFD
+
+Jurisdiction-specific reports:
+
+• Modern Slavery
+
+• Diversity 
+
+• Carbon reporting 
+
+Our annual Sustainability Report is issued as our 
+
+‘communication of progress’ for the UN Global Compact. 
+
+It aligns with:
+
+• the internationally-recognized Global Reporting 
+
+Initiative (GRI) Standards: Core option
+
+• our adoption of the UN SDGs
+
+• our requirements as a signatory to the 
+
+UN Global Compact.
+
+Worley Board and committees
+
+Group Executive and committees
+
+Regional sustainability and corporate responsibility committees and working groups
+
+Worley Foundation
+
+External 
+
+audit
+
+Internal 
+
+audit
+
+Global Diversity 
+
+and Inclusion Council
+
+Sustainability
+
+Working Group
+
+• Sustainability Policy
+
+• Code of Conduct
+
+• Worley purpose 
+
+and values
+
+• Life safety, health and 
+
+well-being approach
+
+• Climate Change Position 
+
+Statement and 
+
+strategic actions
+
+• Sustainability materiality 
+
+assessment
+
+• ASX Corporate 
+
+Governance Council 
+
+Principles and 
+
+Recommendations
+
+• Modern Slavery 
+
+Statement 
+
+• Reconciliation Action Plan
+
+Policies and standards
+
+• Sustainability Policy
+
+• Code of Conduct
+
+• Supply Chain Code of 
+
+Conduct
+
+• Diversity and Inclusion 
+
+Policy
+
+• Human Rights Policy
+
+• Bullying and Harassment 
+
+Standard
+
+• Health, Safety and 
+
+Environment Policy
+
+• Whistleblower Policy 
+
+• Corporate Responsibility 
+
+Policy
+
+• Securities Dealings Policy
+
+• Continuous Disclosure 
+
+Policy
+
+• Anti-Bribery and 
+
+Corruption Policy
+
+• Indigenous Peoples 
+
+Engagement Policy
+
+• Executive remuneration framework and key 
+
+performance indicators
+
+• Net zero roadmap 
+
+• Worley Foundation
+
+• People network groups
+
+• Sustainable Solutions process 
+
+• Sustainability Champions Network
+
+Policies and standards
+
+• Gifts, Entertainment, 
+
+Hospitality 
+
+(all ‘Gifts’) Standard
+
+• Agent Standard 
+
+• Responsible Business 
+
+Assessment Standard
+
+• Ethics Helpline
+
+• Risk Management Policy
+
+• Risk Management 
+
+Standard
+
+• HSE Risk Management 
+
+Standard
+
+• Environmental 
+
+Management Standard
+
+• R3 Standard
+
+• Special Risks Standard
+
+• Delegation Standard
+
+• Joint Venture 
+
+Governance Standard
+
+• Supply Chain Code 
+
+of Conduct
+
+• Opportunity and contract 
+
+risk processes
+
+• Quarterly risk review by 
+
+Audit and Risk Board 
+
+Committee
+
+• Enterprise risk 
+
+management
+
+• Knowledge and 
+
+management system
+
+• Risk and assurance 
+
+framework
+
+• UN Sustainable Development Goals
+
+• Paris Agreement through our Business Ambition for 1.5°C
+
+• Workplace Pride Declaration of Amsterdam
+
+Executive Health, Safety 
+
+and Sustainability Committee
+
+OUR GOVERNANCE FRAMEWORK
+
+We provide robust business governance through our framework
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+54
+
+
+
+
+
+
+OUR ETHICS APPROACH
+
+We have high expectations 
+
+of ethical behavior
+
+Our Code of Conduct
+
+We have a responsibility to speak up and stand up 
+
+for what is right.
+
+Our Code of Conduct outlines our commitment to complying with the law 
+
+and conducting business to the highest standards. The Code is available in 
+
+16 languages and is supported by detailed procedures. In 2021, we commenced 
+
+internal review and consultation program to update the Code of Conduct in 
+
+anticipation of a FY2022 launch.
+
+We have zero tolerance for bribery, fraud and corruption and prohibit 
+
+facilitation payments. We continue to apply our Gifts, Entertainment, 
+
+Hospitality (all ‘Gifts’) Standard which includes a strict protocol for registering 
+
+gifts and entertainment.
+
+In FY2021, we delivered Code of Conduct training in three cycles, covering field, 
+
+classroom and online sessions. This included data privacy refresher content.
+
+16
+
+languages in which our Code of Conduct is available 
+
+40,000+
+
+of our people trained  in Code of Conduct / Data Privacy
+
+130+ 
+
+supply chain personnel trained and actively 
+
+using our due diligence tool diligence tool
+
+3,200+
+
+customer ethics  checks conducted
+
+5,500+
+
+supply chain due  diligence checks
+
+Learn more about our Code of Conduct
+
+
+
+
+
+Worley Sustainability Report 2021
+
+55
+
+CONTENTS
+
+
+
+
+Our Whistleblower Policy 
+
+and Ethics Helpline
+
+Our Ethics Helpline provides a platform for our 
+
+people to report via phone or web at any time in 
+
+any location. 
+
+This helpline is also open to current and former employees, their families, 
+
+suppliers, partners and customers. Over the last 12 months, our team 
+
+responded to 188 reports and 56 were substantiated.
+
+We’ve made our Ethics Helpline program more effective by improving training 
+
+and tools for our investigators and strengthening our close-out process.
+
+We ran a survey to gauge our people’s knowledge of the Ethics Helpline 
+
+including their willingness to report a breach and their confidence in the 
+
+reporting and investigation processes. The majority of respondents said 
+
+they were aware of the Ethics Helpline and were confident in raising 
+
+concerns through it.
+
+OUR ETHICS APPROACH
+
+Partially/Substantiated
+
+30%
+
+54%
+
+16%
+
+Allegation
+
+status
+
+In process
+
+Unsubstantiated/
+
+Insufficient 
+
+Information
+
+Ethics helpline data by allegation source (craft workforce, 
+
+77%
+
+23%
+
+Office-based
+
+people
+
+Craft workforce
+
+Allegation
+
+source
+
+Modern Slavery
+
+We published our first Worley group modern 
+
+slavery statement. 
+
+The publication of our statement meets our global regulatory obligations 
+
+including the Australian Modern Slavery Act 2018 and UK Modern Slavery 
+
+Act 2015.
+
+We fulfilled all our commitments in our modern slavery statement. 
+
+We completed a detailed internal audit of our modern slavery program 
+
+to ensure compliance with our modern slavery statement and we included 
+
+awareness training in our latest annual Code of Conduct refresher training.
+
+We are an active member of Building Responsibly and have committed 
+
+to operating in line with its Worker Welfare Principles. We’ll leverage this 
+
+membership to enhance our modern slavery program.
+
+Worley Sustainability Report 2021
+
+56
+
+CONTENTS
+
+
+
+
+Leading supply chain improvements
+
+We are embedding sustainability in our 
+
+procurement practices.
+
+Our Supply Chain Code of Conduct sets our expectations of suppliers, and it is 
+
+actively applied by our procurement teams. The standards we expect of our 
+
+suppliers are the same we expect of ourselves and cover the considerations of:
+
+• governance and ethics
+
+• human rights and fair employment
+
+• health and safety 
+
+ 
+
+• the environment
+
+• supply chain
+
+• community engagement. 
+
+This year we conducted 5,532 supply chain due diligence checks. 
+
+OUR ETHICS APPROACH
+
+Ethical due diligence
+
+We conduct due diligence on all our business 
+
+relationships and tailor our approach depending 
+
+upon the risk level and relationship. 
+
+We have an internal team of due diligence analysts who support all areas 
+
+of our program. They use third party research tools and external due 
+
+diligence providers if they need extra expertize.
+
+We’ve conducted over 8,500 ethical due diligence reviews in the 
+
+last 12 months.
+
+Worley undertakes a high level of due diligence before entering a relationship 
+
+with sales agents and joint venture partnerships.
+
+We’ve integrated our customer due diligence into our internal 
+
+sales tool 
+
+We’ve centralized alerts and have developed a clear communication protocol 
+
+between our sales and due diligence teams to ensure early identification of red 
+
+flags and the mitigation required. Where we find red flags, we always escalate 
+
+and get specific approvals before submitting a bid.
+
+
+
+Case Study | Requis
+
+Our supplier registration tool, Requis, now includes 
+
+an ethical assessment
+
+This includes a risk screening, due diligence research (for 
+
+medium and high risk suppliers) and review of their anti-
+
+bribery and modern slavery prevention policies and training. 
+
+Our procurement team use a separate screening tool for 
+
+suppliers and contractors that are not registered on Requis. 
+
+This tool includes a risk screening and due diligence research 
+
+(for medium and high risk suppliers). More than 300 people 
+
+across our procurement teams have been trained to use 
+
+this tool. Our due diligence analysts provide coaching to our 
+
+procurement teams to identify and understand red flags 
+
+and develop mitigation strategies.
+
+
+
+
+
+
+
+Alignment to the UN SDGs:
+
+Worley Sustainability Report 2021
+
+57
+
+CONTENTS
+
+
+CYBER SECURITY AND DATA PROTECTION
+
+We ensure the confidentiality, integrity and availability of information 
+
+and have a robust cyber security program
+
+We have a dedicated information security team supporting IT systems and services, led by our 
+
+Chief Information Security Officer (CISO). 
+
+Our Information Security Council (ISC) oversees our 
+
+information security strategy and decision-making. This 
+
+council includes our CISO, Chief Information Officer (CIO) 
+
+and key business and IT leaders. Our Data Protection Office 
+
+governs compliance of our cyber security program with the 
+
+global data protection requirements of Australia, Europe 
+
+and the US and elsewhere. During FY2021 we:
+
+• achieved certification for our information security 
+
+management system, meeting the requirements of 
+
+ISO/ EC 27001:2013 
+
+• integrated the IT systems of Energy, Chemicals and 
+
+Resources division of Jacobs Engineering Group Inc to 
+
+remove potential security threats related to this merger 
+
+• expanded our Information Security Awareness program 
+
+to our people and continued educating the importance of 
+
+cyber security
+
+• increased our protection capabilities against email fraud 
+
+and look-alike phishing attacks 
+
+• joined hands with our security partners to prepare and 
+
+defend Worley to avoid the highly sophisticated and 
+
+industry pervasive “SolarWinds Hack”. 
+
+
+
+Case Study | Cyber security
+
+We’ve transformed and adapted our IT systems 
+
+to keep our people safe while working remotely 
+
+The COVID-19 pandemic required a large proportion of our people to switch to remote working in a very 
+
+short space of time.
+
+We’ve adapted our cyber security controls to mitigate against new cyber risks using our existing cyber 
+
+security capabilities to set up the new capacity and solutions we needed. 
+
+This year, we enabled thousands of engineers across the world with high performance Graphic Processing 
+
+Unit (GPU) requirements to work from home. We were able to use new Citrix components to support remote 
+
+workstations with high GPU demand.
+
+“
+
+Preparation and adaptability are the secrets to success. We overcame 
+
+new challenges to efficiently and securely continue productive operations 
+
+for our people and customers.” 
+
+ 
+
+Cesar Suarez 
+
+Worley’s Chief Information Security Officer
+
+
+
+
+
+Alignment to the UN SDGs:
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+58
+
+
+OUR RESPONSIBLE BUSINESS ASSESSMENT STANDARD
+
+We assess our opportunities to bid using our 
+
+Responsible Business Assessment Standard
+
+We use our Responsible Business Assessment (RBA) Standard to inform which projects we bid for 
+
+and execute. The RBA’s decision-making principles are embedded into our sales and risk management 
+
+processes. This enables our people to better understand ESG risks and directs escalation of high risk 
+
+projects to our senior business leaders and CEO.
+
+We align our RBA Standard with our purpose of delivering 
+
+a more sustainable world. For example, we carefully assess 
+
+our involvement in carbon-intensive projects.
+
+Working in joint venture partnerships
+
+We extend our high standards of governance to our joint 
+
+ventures via our Joint Venture Governance Standard 
+
+which outlines our requirements to be met. These include 
+
+due diligence, consultation and approval requirements, 
+
+policies and procedures and the ongoing requirements for 
+
+governance during the operating phase of the joint venture.
+
+
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+59
+
+
+
+
+ASSURANCE AND TAX CONTRIBUTIONS
+
+Assurance
+
+We use independent assurance 
+
+to support our commitment to 
+
+transparency and accountability.
+
+Independent third-party auditors give us limited assurance 
+
+on our ESG performance data. They do this in line with 
+
+the International Standard on Assurance Engagements 
+
+ISAE 3000’.
+
+This year Ernst &amp; Young completed third-party limited 
+
+assurance of our key social metrics:
+
+Tax contributions
+
+We make a positive impact in the communities 
+
+and environments in which we operate, and we 
+
+have a strong commitment to transparency and 
+
+compliance. 
+
+We voluntarily participate in the Board of Taxation’s Tax Transparency Code in 
+
+Australia, and our report for FY202019 can be found here.
+
+We have a global tax profile, and our tax contributions and activities benefit 
+
+the many countries in which we operate. We have made a significant direct 
+
+contribution to those economies with approximately $1.1 billion paid in 
+
+effective tax contributions in FY2020 across our key operating jurisdictions. 
+
+We continue to contribute significantly through the collection of 
+
+employment-related and indirect taxes in the 49 jurisdictions in which we 
+
+have a presence.
+
+FY2020 tax contribution20
+
+Diversity (women employees, women Senior Leaders, 
+
+women Board members)
+
+Safety (TRCFR, LWCFR, SCFR)
+
+$208m 
+
+Australia
+
+$556m 
+
+US
+
+$180m 
+
+Canada
+
+$179m 
+
+UK
+
+19  The tax contribution report is completed after all tax lodgements are made globally. As such, the 
+
+timing of these lodgements occurs after the financial reporting requirements. Therefore, FY2020 
+
+figures are presented in the FY2021 report.
+
+20  Total tax contribution is the sum of corporate income tax paid during FY2021, Fringe Benefits 
+
+Tax payable for the year ended 31 March 2020, Goods and Services Tax (GST) collected on sales 
+
+by Worley less GST paid on business purchases by Worley, and pay as you go (PAYG) withholding 
+
+collected by Worley.
+
+
+
+Worley Sustainability Report 2021
+
+60
+
+CONTENTS
+
+
+
+
+This report covers the period from 1 July 2020 to 
+
+30 June 2021 (FY2021). 
+
+About this report
+
+Worley Sustainability Report 2021
+
+61
+
+CONTENTS
+
+
+ABOUT
+
+GRI Standard/Clause
+
+Description
+
+SDGs mapped
+
+201-1
+
+Direct economic value generated and distributed
+
+
+
+201-2
+
+Financial implications and other risks and opportunities due to climate change
+
+
+
+203-1
+
+Infrastructure investments and services supported
+
+
+
+ 
+
+203-2
+
+Significant indirect economic impacts
+
+ 
+
+
+
+302-1,2,3,4,5
+
+1. Energy consumption within the organization 
+
+2. Energy consumption outside of the organization
+
+3. Energy intensity
+
+4. Reduction of energy consumption
+
+5. Reductions in energy requirements of products and services
+
+
+
+ 
+
+
+
+We’ve compiled this report in line with the UN Global 
+
+Compact Communication on Progress and the GRI 
+
+sustainability reporting guidelines. We have internally 
+
+verified all the information in this report, and we’ve had our 
+
+social ESG metrics externally verified.
+
+We prepared this report in accordance with the GRI 
+
+Standards: Core option. We’ve complied with:
+
+• all requirements in section 2 of GRI 101: Foundation
+
+• all Core disclosures from GRI 102: General Disclosures
+
+• all reporting requirements from GRI 103: Management 
+
+Approach for each of our material topics
+
+• all reporting requirements for the topic-specific 
+
+disclosures that are relevant to our material topics. 
+
+We’ve used the document ‘Linking the SDGs and the 
+
+GRI Standards’ as a basis to report the appropriate 
+
+topic-specific disclosures shown to the right.
+
+About this report
+
+This report covers our sustainability performance as part of our 2021 Annual Report. 
+
+The report is published on our website here.
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+62
+
+
+GRI Standard/Clause
+
+Description
+
+SDGs mapped
+
+305-1,2,3,4,5,6,7
+
+1. Direct (Scope 1) GHG emissions
+
+2. Energy indirect (Scope 2) GHG emissions
+
+3. Other indirect (Scope 3) GHG emissions
+
+4. GHG emissions intensity
+
+5. Reduction of GHG emissions
+
+6. Emissions of ozone-depleting substances (ODS)
+
+7. Nitrogen oxides (NOx), sulphur oxides (SOx) and other significant air emissions
+
+
+
+ 
+
+
+
+306-1,2,3,4,5
+
+1. Waste generation and significant waste-related impacts
+
+2. Management of significant waste-related impacts
+
+3. Waste generated
+
+4. Waste diverted from disposal
+
+5. Waste directed to disposal
+
+
+
+401-2
+
+Benefits provided to full-time employees that are not provided to temporary or 
+
+part-time employees*
+
+
+
+403-1,2,3,4,5,6,7,8,9,10
+
+1. Occupational health and safety management system
+
+2. Hazard identification, risk assessment, and incident investigation
+
+3. Occupational health services
+
+4.  Worker participation, consultation and communication on occupational health 
+
+and safety
+
+5. Worker training on occupational health and safety
+
+6. Promotion of worker health
+
+7.  Prevention and mitigation of occupational health and safety impacts directly linked by 
+
+business relationships
+
+8. Workers covered by an occupational health and safety management system
+
+9. Work-related injuries
+
+10. Work-related ill health
+
+
+
+ABOUT
+
+About this report continued
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+63
+
+
+Acronyms
+
+ABOUT
+
+AI
+
+Artificial Intelligence
+
+ALARP
+
+As low as reasonably practicable
+
+Americas
+
+North America and South America
+
+APAC
+
+Asia Pacific countries
+
+ARC
+
+Audit and Risk Committee
+
+ASX
+
+Australian Securities Exchange
+
+BECCS
+
+Bio-energy with carbon capture and storage 
+
+CAWST
+
+Centre for Affordable Water 
+
+and Sanitation Technology
+
+CCPS
+
+Climate Change Position Statement
+
+CCUS
+
+Carbon Capture, Utilization and Storage
+
+CDP
+
+Carbon Disclosure Project
+
+CEO
+
+Chief Executive Officer
+
+CIO
+
+Chief Information Officer
+
+CISO
+
+Chief Information Security Officer
+
+CO2e
+
+Carbon dioxide equivalent
+
+CO2
+
+Carbon dioxide
+
+D&amp;I
+
+Diversity and Inclusion
+
+DAC
+
+Direct Air Capture
+
+DES
+
+Distributed energy systems
+
+EAP
+
+Employee assistance program
+
+ECR
+
+Energy, Chemicals and Resources division of 
+
+Jacobs Engineering Group Inc.
+
+EMEA
+
+Europe, Middle East and Africa region
+
+EPC
+
+Engineering, Procurement and Construction
+
+ESG
+
+Environment, social and governance
+
+FEED
+
+Front End Engineering Design
+
+FY2021
+
+2021 financial year (1st July 2020 - 30th June 
+
+2021)
+
+GHG
+
+Greenhouse gas
+
+GRI
+
+Global Reporting Initiative
+
+GRIT
+
+Growth, resilience, innovation, transition awards
+
+GST
+
+Goods and services tax
+
+HSE
+
+Health, safety &amp; environment
+
+HSS
+
+Health, safety &amp; sustainability
+
+HSSC
+
+Health, Safety &amp; Sustainability Committee
+
+ISC
+
+Information Security Council
+
+IT 
+
+Information technology
+
+JHA
+
+Job hazard analysis
+
+JV 
+
+Joint venture
+
+LGBTIQ+
+
+Lesbian, gay, bisexual, transgender, intersex, 
+
+and queer plus all other non-binary genders 
+
+and non-heterosexual orientations not 
+
+already described.
+
+LWCFR
+
+Lost workday case frequency rate
+
+MCO
+
+Mobile crane operators
+
+MMM
+
+Mining, Minerals &amp; Metals
+
+NOx
+
+Nitrous oxides
+
+PAYG 
+
+Pay as you go
+
+R3
+
+Ready, Response and Recovery
+
+RAP
+
+Reconciliation action plan
+
+RBA
+
+Responsible business assessment
+
+SCFR
+
+Serious case frequency rate
+
+SCN
+
+Sustainability Champions Network
+
+SDG
+
+Sustainable development goals
+
+SDS
+
+Sustainable Development Scenario
+
+SO2
+
+Sulphur dioxide
+
+STEM
+
+Science, technology, engineering 
+
+and mathematics
+
+SWG
+
+Sustainability Working Group
+
+TCFD
+
+Task Force on Climate-related 
+
+Financial Disclosures
+
+TRCFR
+
+Total recordable case frequency rate
+
+UK
+
+United Kingdom
+
+UN
+
+United Nations 
+
+US
+
+United States
+
+USD
+
+United States Dollar
+
+WGEA
+
+Workplace Gender Equality Agency
+
+$
+
+$AUD unless otherwise stated
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+64
+
+
+GRI table
+
+ABOUT
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+GRI 102 – General Disclosures
+
+1. Organizational Profile
+
+102-1
+
+Name of the Organization
+
+Introduction
+
+Annual Report
+
+Included
+
+102-2
+
+Activities, brands, products and services
+
+Introduction
+
+Included
+
+102-3
+
+Location of headquarters
+
+Introduction
+
+Annual Report
+
+Included
+
+102-4
+
+Location of operations
+
+Introduction
+
+Annual Report
+
+Included
+
+102-5
+
+Ownership and legal form
+
+Annual Report
+
+Included
+
+102-6
+
+Markets served
+
+Introduction
+
+Annual Report
+
+Included
+
+102-7
+
+Scale of the organization
+
+Annual Report
+
+Included
+
+102-8
+
+Information on employees and other workers
+
+Workplace Gender Equality Agency (WGEA) report for 2020 is available here. The report for 2021 will be 
+
+uploaded to this location when available.
+
+Partially included
+
+102-9
+
+Supply chain
+
+Our supply chain encompasses two distinct areas which both comply with our Supply Chain Code 
+
+of Conduct. The goods and services we purchase to enable our internal operations, such as office 
+
+equipment and merchandise, and the goods and services we purchase on behalf of our customers 
+
+to support their projects.
+
+Operating Responsibly
+
+Included
+
+102-10
+
+Significant changes to the organization and its 
+
+supply chain
+
+There have been no significant changes to the organization’s size, ownership or supply chain 
+
+through FY2021.
+
+We closed 57 locations in FY2021. We also reduced office space in 68 locations. During the year, our 
+
+people numbers reduced from 51,855 to 47,702. Distributed working has also become a part of our 
+
+New Normal operating model. 
+
+We extended our long-term debt maturity profile with the completion of a €500 million sustainability 
+
+linked bond under a EMTN program.
+
+Caring for our Planet
+
+Operating Responsibly
+
+Annual Report
+
+Included
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+65
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+102-11
+
+Precautionary principle or approach
+
+We demonstrate the Precautionary Principle through:
+
+• conducting RBAs and proactively checking our customers and projects for social license, environmental 
+
+and ethical risks
+
+• conducting environmental and social impact assessments, guiding our customers with their risk based 
+
+decision-making
+
+• our Life program, addressing the physical, mental and social well-being of our people
+
+• our R3 program, our security and resilience management system. 
+
+Included
+
+102-12
+
+External initiatives
+
+Introduction
+
+Included
+
+102-13
+
+Membership of associations
+
+Introduction
+
+Included
+
+2. Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+Introduction
+
+Annual Report
+
+Included
+
+3. Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms 
+
+of behavior
+
+Introduction
+
+Included
+
+4. Governance
+
+102-18
+
+Governance structure
+
+Annual Report
+
+Caring for our planet
+
+Operating responsibly
+
+Included
+
+5. Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+Introduction
+
+Included
+
+102-41
+
+Collective bargaining agreements
+
+Information unavailable
+
+102-42
+
+Identifying and selecting stakeholders
+
+Introduction
+
+Included
+
+102-43
+
+Approach to stakeholder engagement
+
+Introduction
+
+Included
+
+102-44
+
+Key topics and concerns raised
+
+Introduction
+
+Included
+
+GRI table continued
+
+ABOUT
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+66
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+6. Reporting Practice
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+Annual Report
+
+Included
+
+102-46
+
+Defining report content and topic boundaries
+
+Introduction
+
+About this Report
+
+Included
+
+102-47
+
+List of material topics
+
+Introduction
+
+Included
+
+102-48
+
+Restatements of information
+
+In our FY2020 Sustainability Report we reported our FY2020 emissions baseline as 136,026 tCO2e and 
+
+488,384MWh. Following further validation we have revised our FY2020 baseline to 114,240 tCO2e 
+
+and 371,880MWh.
+
+Also, in our FY2020 Sustainability report, we reported our emissions intensity per person as  
+
+2.99 tCO2e/person. We subtracted our field-based workforce in North America from the denominator of 
+
+this metric, as these people work on customer sites. This year, we have simplified this metric by using our 
+
+total people number. We have revised our FY2020 emissions intensity per person to 2.20 tCO2e/person.
+
+N/A
+
+102-49
+
+Changes in reporting
+
+About this Report
+
+Included
+
+102-50
+
+Reporting period
+
+About this Report
+
+Included
+
+102-51
+
+Date of most recent report
+
+The report for FY2020 was released on 26 Aug 2020.
+
+Included
+
+102-52
+
+Reporting cycle
+
+About this Report
+
+Included
+
+102-53
+
+Contact point for questions regarding 
+
+the report
+
+About this Report
+
+Included
+
+102-54
+
+Claims of reporting in accordance with the 
+
+GRI Standards
+
+About this Report
+
+Included
+
+102-55
+
+GRI content index
+
+GRI Tables
+
+Included
+
+102-56
+
+External assurance
+
+Operating Responsibly
+
+Included
+
+GRI 103 – Management Approach
+
+103-1
+
+Explanation of the material topic and its 
+
+boundary
+
+SDG 3: Our people &amp; communities
+
+SDGs 7 &amp; 13: Our sustainability pathways, Caring for our planet
+
+SDG 9: Introduction, Our sustainability pathways
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+67
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+103-2
+
+The management approach and 
+
+its components
+
+SDG 3: Our people &amp; communities
+
+SDGs 7 &amp; 13: Our sustainability pathways, Caring for our planet
+
+SDG 9: Introduction, Our sustainability pathways
+
+Included
+
+103-3
+
+Evaluation of the management approach
+
+SDG 3: Our people &amp; communities
+
+SDGs 7 &amp; 13: Our sustainability pathways, Caring for our planet
+
+SDG 9: Introduction, Our sustainability pathways
+
+Included
+
+Topic-Specific Disclosures
+
+GRI 201 – Economic Performance
+
+201-1
+
+Direct economic value generated 
+
+and distributed
+
+Annual Report
+
+Included
+
+201-2
+
+Financial implications and other risks and 
+
+opportunities due to climate change
+
+Caring for our planet
+
+CDP report
+
+Included
+
+GRI 203 ‑ Indirect Economic Impacts
+
+203-1
+
+Infrastructure investments and 
+
+services supported
+
+We are a leading global provider of professional project and asset services in the energy, chemicals 
+
+and resource sectors. This includes delivering large scale infrastructure projects as part of the services 
+
+provided to our customers.
+
+Alongside our commercial services, the Worley Foundation is our pro-bono investment in community 
+
+infrastructure and sustainable development. An example of this is our partnership with Pollinate in 
+
+providing solar lamps across India and with CAWST in improving water hygiene and security in Colombia. 
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+68
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+203-2
+
+Significant indirect economic impacts
+
+We support projects in the energy, chemicals and resources sectors internationally. This includes 
+
+projects that enable communities to develop economically via productive use of natural resources, skills 
+
+development and lifting communities out of energy poverty. 
+
+Worley also makes a wider economic contribution across a range of countries through various activities 
+
+such as the Worley Foundation and other corporate social responsibility programs, such as those in India 
+
+and South Africa, and local content procurement programs.
+
+Our people spend their wages locally on diverse goods and services, providing a further indirect economic 
+
+contribution. We do not measure this indirect economic benefit globally, however, it is an important 
+
+component of our contribution in the 49 countries in which we operate. 
+
+We contribute our global technical and project delivery expertise as well as our experience of different 
+
+industry standards and regulatory approaches to relevant governments and industry groups 
+
+internationally. This input is provided for consideration in the development of industry standards and 
+
+government policy. 
+
+For example, as a partner with Princeton’s Andlinger Center for Energy and the Environment, we are 
+
+combining our real-world project expertise with Princeton’s academic analysis to develop thought 
+
+leadership on how to deliver net zero infrastructure.
+
+Included
+
+GRI 302 – Energy
+
+302-1
+
+Energy consumption within the organization
+
+Caring for our planet
+
+CDP report
+
+Worley uses the operational control* approach to account for our GHG emissions. 
+
+Our GHG emissions sources primarily come from consumption of fuels, (including petrol, diesel, natural 
+
+gas, propane and diesel) and electricity usage in our offices. 
+
+We collected our activity data from energy bills, fuel invoices and third parties such as our fleet providers. 
+
+Activity data was available for about 90% of our locations. When activity data was not found we 
+
+estimated based on floor space or from previous years’ data.
+
+In most cases, consumption data for fuels such as diesel and petrol was in liters. This was converted to 
+
+kilowatt-hours and tonnes of CO2e using emissions factors sourced from the GHG Protocol. For electricity 
+
+usage, we applied location-specific emissions factors to calculate our GHG emissions. These factors came 
+
+from the IEA and government sources such as the EIA (US Energy Information Administration).
+
+Included
+
+302-2
+
+Energy consumption outside of 
+
+the organization
+
+Caring for our planet
+
+CDP report
+
+Partially included
+
+ABOUT
+
+GRI table continued
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+69
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+302-3
+
+Energy intensity
+
+We calculate 2 energy intensity metrics: energy intensity per person and energy intensity 
+
+per dollar revenue*. 
+
+Energy intensity per person: 4.58 MWh/person*. This has reduced from 7.17 in FY2020.
+
+Energy intensity per unit revenue: 24.9 MWh/$ (million)*. This has reduced from 33.1 in FY2020.
+
+All fuel, electricity, heating and cooling are included in our energy intensity.
+
+The ratio uses energy consumption within the organization.
+
+Included
+
+302-4
+
+Reduction of energy consumption
+
+Caring for our planet
+
+CDP report
+
+Included
+
+302-5
+
+Reductions in energy requirements of products 
+
+and services
+
+N/A
+
+Our fabrication yards construct equipment modules from individual components supplied by third parties. 
+
+We do not directly influence the energy requirements of the components.
+
+N/A
+
+GRI 305 – Emissions
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+Caring for our planet
+
+CDP report
+
+Our calculation methodology, including sources of emissions factors and consolidation approach, is 
+
+described in 302-1. All GHG are included as we calculate our emissions using CO2 equivalents.
+
+Included
+
+305-2
+
+Energy indirect (Scope 2) GHG emissions
+
+Caring for our planet
+
+CDP report
+
+Our calculation methodology, including sources of emissions factors and consolidation approach, 
+
+is described in 302-1. All GHG are included as we calculate our emissions using CO2 equivalents.
+
+Included
+
+ABOUT
+
+GRI table continued
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+70
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+305-3
+
+Other indirect (Scope 3) GHG emissions
+
+Caring for our planet
+
+CDP report
+
+For paper usage, we collected volume and emissions data from our major global paper supplier, who 
+
+supplies approximately 1/3 of our offices with paper. Then, this number was multiplied by 3 to estimate 
+
+the amount of paper used globally. 
+
+For data centers, we collected energy and emissions data straight from our data centre suppliers. 2 of 
+
+our suppliers did not provide energy or emissions data. In these cases, we estimated the energy used 
+
+based on energy used by other data centers, then converted to tonnes of CO2 using location-based 
+
+emissions factors. 
+
+For business travel, we collected data straight from our business travel suppliers. This data included all 
+
+flights and car trips booked by our travel suppliers over the reporting period, the kilometers traveled, and 
+
+the equivalent tonnes of CO2e. In some cases, the travel agent only provided data for kilometers traveled. 
+
+In these cases, the emissions were calculated using the UK Government GHG Conversion Factors for 
+
+Company Reporting.
+
+All GHG are included as we calculate our emissions using CO2 equivalents.
+
+Partially included
+
+305-4
+
+GHG emissions intensity
+
+We calculate three GHG emissions intensity metrics: GHG emissions intensity per person, GHG emissions 
+
+intensity per dollar revenue and emissions intensity of our energy.
+
+Emissions intensity per person: 1.27tCO2e/person*. This has reduced from 2.20 in FY2020.
+
+Emissions intensity per unit revenue: 6.9tCO2e/$ (million)*. This has reduced from 10.2 in FY2020.
+
+Emissions intensity of our energy: 0.28tCO2e/MWh*. This has reduced from 0.31 in FY2020.
+
+Scope 1 and Scope 2 are included in our GHG emissions intensity.
+
+All GHG are included as we calculate our emissions using CO2 equivalents. 
+
+Included
+
+305-5
+
+Reduction of GHG emissions
+
+Caring for our planet
+
+CDP report
+
+Included
+
+305-6
+
+Emissions of ozone-depleting substances 
+
+(ODS)
+
+We do not produce any ozone-depleting substances. The refrigerants we use in the operation of our 
+
+offices and fabrication yards are not ozone-depleting substances.
+
+Included
+
+305-7 
+
+Nitrogen oxides (NOx), sulfur oxides (SOx) and 
+
+other significant air emissions
+
+SOx and NOx emissions from fuel usage in our fabrication yards are minimal and in line with local 
+
+environmental standards.
+
+Included
+
+GRI 306 – Waste
+
+306-1
+
+Waste generation and significant 
+
+waste-related impacts
+
+Caring for our Planet
+
+Included
+
+ABOUT
+
+GRI table continued
+
+*Refer Worley Sustainability Definitions 2021 document 
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+71
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+306-2
+
+Management of significant 
+
+waste-related impacts
+
+Our offices and fabrication yards generate waste. This year, we have measured and disclosed the waste 
+
+from our fabrication yards. These are some of our most material sources of waste generation due to the 
+
+nature of work that we do there.
+
+Our fabrication yards each have different processes to separate their waste as they operate in different 
+
+jurisdictions. We collected data in the form of waste tracking spreadsheets and invoices from waste 
+
+contractors. We then categorized these waste streams into waste directed to disposal and waste 
+
+diverted from disposal (i.e. recycling). Our recycling streams include mixed recycling, scrap metal, organic 
+
+waste, electronic waste, paper, cardboard and wood. General waste is sent to landfill or waste-to-energy 
+
+depending on the jurisdiction.
+
+In some of our fabrication yards, our waste was measured in approximate volumes. In these cases, 
+
+we used norms from other fabrication yards to convert volume to weight in tonnes. Next year, we will 
+
+work to improve our data capture, improve our recycling rates, and begin to disclose waste generated in 
+
+our offices. 
+
+Included
+
+306-3
+
+Waste generated
+
+Caring for our Planet
+
+Included
+
+306-4
+
+Waste diverted from disposal
+
+Caring for our Planet
+
+N/A
+
+306-5
+
+Waste directed to disposal
+
+Caring for our Planet
+
+Included
+
+GRI 401 ‑ Employment
+
+401-2
+
+Benefits provided to full-time employees 
+
+that are not provided to temporary or 
+
+part-time employees
+
+In line with our commitment to the safety and well-being of our people, all our people have access to 
+
+support from the Employee Assistance Program (EAP). We offer full-time and part-time employees 
+
+benefits aligned to local legislative and market practice. Provision of benefits to our casual employees is 
+
+dependent on local legislation. Benefits may include:
+
+• insurance, such as life, long-term disability, accidental death and dismemberment
+
+• salary continuance insurance
+
+• contributions to retirement fund
+
+• health and dental coverage
+
+• paid leave 
+
+• parental leave
+
+• paid time off for illness. 
+
+Included
+
+GRI 403 – Occupational Health &amp; Safety
+
+403-1
+
+Occupational health and safety 
+
+management system
+
+Health and safety and the management of risk is core to our business and is essential to the way we 
+
+conduct our operations. The Management System is a risk-based system comprising of risk processes, 
+
+Standards, Procedures, Templates, Forms and Checklists. The risk-based approach in alignment with 
+
+ISO31000:2018 Risk Management standards establishes a series of risk control measures in the 
+
+management of worker health and safety. 
+
+Our people &amp; communities
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+72
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+403-2
+
+Hazard identification, risk assessment, 
+
+and incident investigation
+
+Worley applies effective risk management 
+
+principles and processes which apply to office 
+
+and field activities to enhance decision-making, 
+
+leverage opportunities and assist in reducing 
+
+threats. The business HSE and Assurance 
+
+personnel are equipped with the appropriate 
+
+skills and competencies to support office 
+
+and field workers. 
+
+The risk management process is applied 
+
+to identify, prioritize, appropriately 
+
+prevent, minimize, mitigate, communicate 
+
+and manage risks throughout all existing 
+
+and planned activities. 
+
+The implementation of risk management 
+
+processes to existing and planned activities 
+
+follows a consistent methodology of application:
+
+• assessment and evaluation of HSE risk
+
+• identification of HSE controls
+
+• implementation of HSE controls to as low as 
+
+reasonably practicable (ALARP) 
+
+• communication of controls
+
+• monitoring of controls.
+
+Risk management tools and procedures include:
+
+• project/office level risk assessment and 
+
+action plans
+
+• permit to work and authorizations
+
+• Job Hazard Analysis (JHA)
+
+• danger hazard identification
+
+• workplace inspections
+
+• hazard reporting.
+
+Observed hazards during day-to-day activities 
+
+are firstly addressed by the observer on a ‘see 
+
+and fix’ basis, provided that they are capable 
+
+and competent to do so. If the hazard cannot be 
+
+rectified by the observer, they are required to 
+
+report it to their supervisor. 
+
+Activities do not recommence until the hazard 
+
+is under control and approval is provided by 
+
+site management. All personnel with field 
+
+execution tasks conduct a personal hazard 
+
+identification process. 
+
+This process aids in the identification of any 
+
+last-minute hazards not identified previously from 
+
+the JHA process. All personnel are empowered to 
+
+stop work if they feel it unsafe to continue. The 
+
+activity is re-assessed and only when safe to do 
+
+will the activity recommence. The requirements of 
+
+personal hazard identification are detailed in the 
+
+Danger Identification and Control Standard. 
+
+Processes are in place for the timely reporting, 
+
+classifying, investigation, recording and closing out 
+
+of incidents and near misses. All health and safety 
+
+related incidents and near misses are reported in a 
+
+timely manner into the Worley Assurance system. 
+
+A communication protocol is in place to ensure the 
+
+reporting is targeted to the level of management 
+
+(and where required regulatory authorities) with 
+
+a timeframe based on the severity of the incident. 
+
+Immediately following any event, appropriate 
+
+emergency response plans are activated, and the 
+
+care of any injured persons and the safety of all 
+
+persons is the priority. Investigations are conducted 
+
+by personnel trained in investigation techniques to 
+
+identify and document contributing factors, root 
+
+causes and systemic failures that contributed to 
+
+the incident. Corrective actions arising out of event 
+
+investigations shall be evaluated, tabled and then 
+
+implemented in accordance with the hierarchy 
+
+of hazard controls. 
+
+Lessons learned from incidents, near misses and 
+
+investigations are shared internally and with relevant 
+
+third parties, with consideration as applicable for 
+
+sharing with other locations. The outcomes from 
+
+the incidents and near misses investigation are 
+
+assessed to seek trends and analyzed to determine 
+
+improvement opportunities, including the updating 
+
+of standards, procedures and guidelines as relevant. 
+
+Company alerts are drafted in accordance with the 
+
+communications and consultation standards and 
+
+shared depending on the significance of the learning 
+
+and the breadth of its relevance. As applicable to 
+
+the business requirements, Incident Review Boards 
+
+made up of senior representatives review events 
+
+within a framework with the focus on determining 
+
+consolidated learnings for the business.
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+73
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+403-3
+
+Occupational health services
+
+The Worley risk management processes apply to the identification, assessment and risk control of 
+
+occupational health exposures and illnesses. The application of the risk process covers existing and future 
+
+planned activities targeting the physical, ergonomic, chemical, radiological, biological, ergonomic and 
+
+psychological hazards in the workplace.
+
+For all applicable projects, a health risk assessment is performed during the planning phases and prior to 
+
+site mobilization and concurrent with preparation of the overarching Project HSE Management Plan.
+
+An Industrial Hygiene Surveillance Plan is included in the Health Risk Assessment. The hygiene 
+
+surveillance plan provides a breakdown of exposure groups identified for the defined scope of work and a 
+
+summary of required and recommended worker monitoring to be performed.
+
+An evaluation of the offsite medical facilities and services is undertaken using pre-agreed list of criteria 
+
+specific to the risks and medical needs identified through the Health Risk Assessment process. The 
+
+evaluation provides a formal recommendation to the project/office manager and is undertaken by a 
+
+suitably qualified person.
+
+Following selection of the medical provider, consideration is given to the establishment of a service 
+
+agreement for the scope of services required. Onsite medical facilities, equipment, resources and 
+
+medication required is identified through the risk assessment process and agreed following the 
+
+evaluation of offsite medical provider capabilities first.
+
+Included
+
+403-4
+
+Worker participation, consultation, and 
+
+communication on occupational health 
+
+and safety
+
+Worley project and office management are responsible for ensuring suitable and sufficient consultation 
+
+and communication with personnel with regard to matters of health, safety and environmental 
+
+protection. Consideration is given by management to the establishment of structured HSE Committees 
+
+for offices and field sites. 
+
+Many of the Worley locations’ health and safety legislation set guidelines for communication and 
+
+consultation with personnel through the establishment of health and safety committees and 
+
+representatives. Worley’s local management fully complies with the structure and frequency of 
+
+these requirements. The HSE Committee is made up of an equal representation of elected workforce 
+
+representatives and management representatives nominated for the position. The HSE Committee takes 
+
+into consideration and assists the management with recommendations on a wide range of programs, 
+
+measures and procedures. 
+
+Worley applies a range of methods and processes for communicating local and/or company-wide health 
+
+and safety information, including the employee portal, newsletters, incident reports, signs, notice 
+
+boards, manuals, meetings, reports, email etc, as is appropriate to the specific workplace and workforce. 
+
+In field locations, tool-box meetings and job/pre-start meetings are tools used to ensure effective 
+
+two-way communication.
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+74
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+403-5
+
+Worker training on occupational health 
+
+and safety
+
+All new company personnel (including temporary and permanent transfers), contractors and visitors to 
+
+any company-managed site undergo a work location specific induction, introduced by a member of the 
+
+work location senior management team. The site-specific content of the induction is identified during 
+
+the development of the project and prior to commencement at site, and documented in a checklist format. 
+
+The site induction includes hazards pertaining to the scope of work not identified during the generic 
+
+Worley induction.
+
+The Worley requirements in meeting the required skills and competencies for the activities being 
+
+undertaken are based on location/project specific systems. The system is premised on maintaining the 
+
+continual identification of HSE training/qualifications and competencies required for each position and 
+
+to ensure these competencies are met and maintained by all personnel for their respective positions.
+
+To ensure consistent high standards and compliance with local legal and other requirements, training 
+
+and development solutions for critical HSE competencies where possible are provided by recognized/
+
+accredited independent providers wherever such provision is available. 
+
+Included
+
+403-6
+
+Promotion of worker health
+
+Our people’s needs vary across the countries and environments in which we operate, and as such, health 
+
+promotion and programs are generally locally driven to account for the local context. Our local health 
+
+and safety committees are proactive in evaluating and leading many of the health programs, which may 
+
+include free or subsidized medical checks, flu shots and other local inoculations, gym memberships/
+
+classes and health campaigns. Our people have access to confidential EAP services and ethics 
+
+helpline reporting.
+
+Included
+
+403-7
+
+Prevention and mitigation of occupational 
+
+health and safety impacts directly linked by 
+
+business relationships
+
+Worley applies effective risk management principles and processes to enhance decision-making, 
+
+leverage opportunities and assist in reducing threats for all existing and planned activities including those 
+
+of significant negative impact to health and safety. The scope of risk management application applies 
+
+to office and all field activities.
+
+Worley has implemented ‘Life-Saving Rules’ that have been developed to draw attention to the activities 
+
+most likely to lead to a fatality and the lifesaving actions over which an individual has control. The rules 
+
+are intended to support existing company management systems and risk control processes.
+
+The Worley Life-Saving Rules comprise of:
+
+• Bypassing Safety Controls
+
+• Confined Space
+
+• Driving
+
+• Energy Isolation
+
+• Hot Work
+
+• Line of Fire
+
+• Safe Mechanical Lifting
+
+• Work Authorization 
+
+• Working at Height.
+
+Activities that are aligned with Life-Saving Rules are detailed within: 
+
+• Project HSE Plan
+
+• Project Risk Assessment 
+
+• Project Assurance Plan.
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+75
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+403-8
+
+Workers covered by an occupational health and 
+
+safety management system
+
+Contractors and suppliers are required to manage HSE in line with the Worley HSE Policy and 
+
+management system. Commensurate with risk, the selection of any new or significant key supplier or 
+
+contractor includes a review of HSE criteria and an HSE assessment. 
+
+Contractors, when agreed through the company project engagement processes, may utilize their own 
+
+standards and procedures in so far as the requirements of their standards are at least equivalent to 
+
+those of the Worley management system, the customer’s standards and those of applicable national and 
+
+local regulations.
+
+Included
+
+403-9
+
+Work-related injuries
+
+For all employees
+
+For all workers who are not 
+
+employees but whose work 
+
+and/or workplace is controlled 
+
+by the organization
+
+The number and rate of fatalities 
+
+as a result of work-related injury
+
+0
+
+0
+
+The number and rate of 
+
+high-consequence work-related 
+
+injuries (excluding fatalities)
+
+0
+
+0
+
+The number and rate of recordable 
+
+work-related injuries
+
+48
+
+58
+
+The main types of 
+
+work-related injury
+
+Hand and finger injuries 
+
+– caught in, under 
+
+or between
+
+Hand and finger injuries – 
+
+caught in, under or between 
+
+Foot injuries – falls on the same 
+
+level and hit by moving objects
+
+The number of hours worked
+
+84,513,377
+
+49,762,243
+
+Our Job Hazard Analysis Standard highlights the importance of conducting risk assessments before 
+
+beginning the job. This ensures that any hazards can be addressed. We use Company Alerts to 
+
+communicate learnings across our Company. These are designed to reduce risk severity by increasing 
+
+recognition and awareness of risks. Alerts describe incidents, contributing and potential causal factors, 
+
+and corrective actions for risk mitigation. 
+
+This disclosure only includes workers for sites in which we have operational control. The above rates have 
+
+been calculated based on 200,000 hours worked. Our reporting is in line with OSHA standard CFR 1904.
+
+Included
+
+ABOUT
+
+GRI table continued
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+76
+
+
+GRI Standard
+
+Description
+
+Response
+
+Reporting Level
+
+403-10
+
+Work-related ill health
+
+All recordable injuries reported in FY2021 were physical injuries; there were no cases of work-related ill 
+
+health. The work-related hazards that pose a risk of ill health are determined based on our activities and 
+
+risk assessment. They are listed in our management system - refer to our Health and well-being pillars. 
+
+We proactively manage the physical, mental and social well-being of our people through our Life approach 
+
+and programs. These include our Life saving rules, Take5 for safety, Life conversations, Life matters and 
+
+Safe driving for Life.
+
+Our people and communities
+
+Included
+
+ABOUT
+
+GRI table continued
+
+We welcome your feedback and suggestions. 
+
+Please email Clare Anderson, Group Sustainability Lead.
+
+corporateaffairs@worley.com
+
+CONTENTS
+
+Worley Sustainability Report 2021
+
+77
+
+
+worley.com
+
+
+
+
+

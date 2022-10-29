@@ -1,0 +1,2067 @@
+
+pg. 0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+FY2017 
+
+
+
+ 
+
+ 
+
+     Sustainability Report 
+
+
+ 
+
+Page 1 of 20 
+
+ 
+
+
+
+Contents 
+
+Board Statement ..................................................................................................................................... 2 
+
+About This Report ................................................................................................................................... 3 
+
+Sustainability Governance ...................................................................................................................... 3 
+
+Materiality Assessment ........................................................................................................................... 4 
+
+Stakeholder Engagement ........................................................................................................................ 5 
+
+Economic Performance ........................................................................................................................... 6 
+
+Customers ............................................................................................................................................... 7 
+
+Protection of Sensitive Information ................................................................................................ 7 
+
+Environment ........................................................................................................................................... 9 
+
+Environmental Compliance ............................................................................................................. 9 
+
+Social ..................................................................................................................................................... 12 
+
+Occupational Health and Safety ................................................................................................... 12 
+
+Talent Attraction and Retention ................................................................................................... 13 
+
+Training and Education ................................................................................................................. 15 
+
+Local Communities ........................................................................................................................ 16 
+
+GRI Content Index ................................................................................................................................. 18 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 2 of 20 
+
+ 
+
+
+
+Board Statement 
+
+ 
+
+The Board is pleased to present the inaugural sustainability report of Enviro-Hub Holdings Ltd. (“Enviro-
+
+Hub”).  
+
+The concept of circular economy – a zero-waste future in which resources are optimised through reuse 
+
+and recycling – is gaining traction among businesses across all industries. At Enviro-Hub, we support 
+
+the adoption of circular economy principles as a means to increase profitability while reducing the 
+
+society’s dependence on natural resources. As a company that provides environmental management 
+
+solutions and services, we view waste as an important resource. We strive to maximise the value of 
+
+waste collected by ensuring recyclable materials are diverted from disposal so that they can be 
+
+processed and turned into other valuable resources. 
+
+Sustainability is at the heart of our businesses services, recycling and refining of metal as well as trading 
+
+of electronic waste (e-waste) and metals, reflects our efforts for creating a sustainable future. In 
+
+addition, we recognise the importance of ourselves being a sustainable business, and sustainable 
+
+practices are not only incorporated into our services, but across our operations as well. 
+
+Proper disposal of our customers’ e-waste is the cornerstone of our business. When doing so, we focus 
+
+on two areas. The first is using environmentally appropriate methods to limit any damage to the 
+
+environment. The second is adopting best practices for the safe disposal of e-waste to protect 
+
+customers’ data and intellectual property (IP). IP protection is one of our customers’ top concerns when 
+
+utilising our services. They place a great deal of trust in us to protect their data and IP to prevent the 
+
+theft of sensitive information. Therefore, we are committed to the protection of customers’ data and 
+
+IP when carrying out our operations.  
+
+The Board considers environmental, social and governance (ESG) issues as part of Enviro-Hub’s overall 
+
+strategy while overseeing the management of sustainability-related performance within Enviro-Hub. A 
+
+sustainability committee was established to support the Board in implementing sustainability 
+
+initiatives.  
+
+Through our stakeholder engagement and materiality assessment, the Board validated key areas to 
+
+focus our sustainability efforts, in line with our business strategy. We have also identified initiatives, 
+
+performance and targets for the upcoming year in our sustainability report for the financial year ended 
+
+31 December 2018. 
+
+We invite you to join us as we embark on our sustainability journey towards achieving our vision. 
+
+Enviro-Hub Holdings Ltd’s Board of Directors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 3 of 20 
+
+ 
+
+
+
+About This Report 
+
+ 
+
+This is Enviro-Hub’s first sustainability report. The report includes information on Enviro-Hub’s 
+
+environmental, social and governance (“ESG”) practices, policies, initiatives and performances, 
+
+amongst others, for the financial year 1 January 2017 to 31 December 2017 (“FY2017”). The scope of 
+
+this report includes data relating to Cimelia Resource Recovery Pte Ltd (“Cimelia”), Enviro-Metals Pte 
+
+Ltd (“Enviro-Metals”) and HLS Electronics Pte Ltd (“HLS”) as we focused on our business operations 
+
+pertaining to recycling and refining of metals as well as trading of e-waste and metals. These businesses 
+
+are based in Singapore. Reporting of other business lines will be reassessed for inclusion in following 
+
+years. Enviro-Hub publishes its sustainability report on an annual basis.  
+
+This report is developed with reference to the Global Reporting Initiative (“GRI”) Standards (2016) with 
+
+the exception of disclosures for the material factor “Occupational Health and Safety”, whereby it makes 
+
+reference to GRI Standards (2018). The development of this report is in accordance with the Singapore 
+
+Exchange SGX-ST Listing Rules 711A and 711B – Sustainability Reporting Guide.   
+
+Enviro-Hub greatly welcomes all feedback in relation to our sustainability efforts. Please send your 
+
+feedback to info@enviro-hub.com. 
+
+Sustainability Governance  
+
+ 
+
+Sustainability efforts at Enviro-Hub are driven by the Chief Financial Officer (“CFO”) and a Sustainability 
+
+Task Force (“STF”). The CFO oversees the integration of ESG topics into Enviro-Hub’s strategic direction 
+
+and business operations as well as manages and monitors its overall sustainability performance.  
+
+The CFO also communicates Enviro-Hub’s sustainability performance to the Board. The STF, which 
+
+includes representatives from the Operations and Finance divisions, is responsible for overseeing the 
+
+implementation of Enviro-Hub's strategy and policies on sustainability. 
+
+Enviro-Hub benchmarks its sustainability performance in the context of its business objectives against 
+
+industry peers in order to identify areas for improvement. We review our sustainability policies 
+
+regularly so that remedial actions can be taken if current policies and measures are inadequate to 
+
+improve our future performance. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 4 of 20 
+
+ 
+
+
+
+Materiality Assessment 
+
+ 
+
+We conducted a materiality assessment to identify ESG factors that were important to our business 
+
+operations and of significant interest to our stakeholders. The following factors were taken into 
+
+consideration for the materiality assessment: 
+
+ 
+
+• 
+
+global and local emerging sustainability trends;  
+
+• 
+
+industry best practices; 
+
+• 
+
+material topics identified by industry peers; and 
+
+• 
+
+sustainability reporting frameworks.  
+
+Seven material factors were identified as a result of the assessment, and they were reviewed and 
+
+validated by the Board. The material factors are presented in the table below: 
+
+Sustainability Category 
+
+Material Factor 
+
+Economic 
+
+ 
+
+ 
+
+Economic Performance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Environment 
+
+ 
+
+ 
+
+Environmental 
+
+Compliance 
+
+(including in regards to Emissions, 
+
+Effluents and Sludge, Auditing by our 
+
+customers) 
+
+ 
+
+ 
+
+Social 
+
+ 
+
+Occupational Health and Safety 
+
+ 
+
+Talent Attraction and Retention 
+
+ 
+
+Training and Education 
+
+ 
+
+Local Communities 
+
+ 
+
+Customers 
+
+ 
+
+Protection of Sensitive Information 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 5 of 20 
+
+ 
+
+
+
+Stakeholder Engagement 
+
+ 
+
+Regular engagement with our stakeholders allows us to have a better understanding of their concerns 
+
+and interests. This also promotes lasting relationships with our stakeholders, which have a significant 
+
+impact on our performance and long-term success.  
+
+We identified our stakeholders and they include both internal and external stakeholders. Through 
+
+actively engaging our stakeholders, we continue to align our priorities with their needs. The table 
+
+below summarises our stakeholder engagement methods, frequency and key topics of interest. 
+
+Key 
+
+Stakeholders 
+
+ 
+
+Engagement Methods 
+
+ 
+
+Frequency 
+
+Key Topics of Interest 
+
+ 
+
+Investors 
+
+and 
+
+Shareholders 
+
+ 
+
+Timely and transparent updates of financial 
+
+results 
+
+and 
+
+announcements, 
+
+business 
+
+developments, press releases and other 
+
+relevant disclosures via SGXNet and Enviro-
+
+Hub’s website 
+
+Throughout 
+
+the year 
+
+ Transparent reporting 
+
+ Sound corporate 
+
+governance practices 
+
+ Business strategy and 
+
+outlook 
+
+Roadshows and investor conferences  
+
+Throughout 
+
+the year  
+
+One-on-one meetings and site visits  
+
+Throughout 
+
+the year 
+
+Annual General Meeting  
+
+Annually 
+
+Employees 
+
+ 
+
+Induction programme for new employees 
+
+Throughout 
+
+the year 
+
+ Equitable remuneration 
+
+ Fair 
+
+and 
+
+competitive 
+
+employment practices and 
+
+policies 
+
+ Safe and healthy work 
+
+environment 
+
+ Employee 
+
+development 
+
+and well-being  
+
+Training and development programmes 
+
+Throughout 
+
+the year 
+
+Career 
+
+development 
+
+performance 
+
+appraisals 
+
+Annually 
+
+Recreational and wellness activities 
+
+Throughout 
+
+the year 
+
+Regular e-mails, meetings and town-halls 
+
+sessions 
+
+Throughout 
+
+the year 
+
+Customers 
+
+Feedback from customers  
+
+Throughout 
+
+the year 
+
+ Comments and potential 
+
+room for improvement in 
+
+delivering 
+
+goods 
+
+and 
+
+services 
+
+Independent audit from our customers 
+
+Annually/ 
+
+Biannual 
+
+ IP protection and data 
+
+security  
+
+Government 
+
+and Regulators 
+
+Meetings and dialogue sessions 
+
+Throughout 
+
+the year 
+
+ Compliance 
+
+with 
+
+and 
+
+updates on changing laws 
+
+and regulations 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 6 of 20 
+
+ 
+
+
+
+Economic Performance 
+
+ 
+
+Enviro-Hub strives to generate continuous growth for our stakeholders, and considers our economic 
+
+performance as a material factor. Achieving a strong economic performance would allow us to deliver 
+
+sustainable returns to our shareholders while contributing to the local economy at the same time.  
+
+More information regarding Enviro-Hub’s economic performance can be found on pages 41 to 105 of 
+
+the Annual Report.  
+
+ 
+
+ 
+
+
+ 
+
+Page 7 of 20 
+
+ 
+
+
+
+Customers 
+
+Protection of Sensitive Information 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Zero incidences of substantiated complaints concerning breaches of customer privacy and 
+
+losses of customer data 
+
+Target for FY2018 
+
+• 
+
+Maintain/achieve zero incidences of substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data 
+
+ 
+
+The mishandling of e-waste can cause sensitive information and data stored on electronic devices and 
+
+used equipment to be stolen or reused without consent. Hence, as many of our clients have highly 
+
+sensitive data and intellectual property stored on the e-waste that they pass to us, protecting our 
+
+customers’ data is a vital part of our job.  
+
+At Enviro-Hub, we take data protection seriously. We abide by the National Institute of Standards and 
+
+Technology (NIST) SP 800-88 Guidelines (R2 certificate covers NIST 800), and Cimelia’s degausser model 
+
+MW 1B is certified under the U.S. National Security Agency Standards. Information and data stored on 
+
+electronic devices are completely destructed by Enviro-Hub’s close loop facility before the devices are 
+
+recycled or reused.  
+
+Several processes have been put in place to protect customers’ sensitive information, which include: 
+
+ 
+
+data wiping 
+
+ 
+
+degaussing (hard-disk drives only) 
+
+ 
+
+punching of hard-disk drives 
+
+ 
+
+manual physical destruction/recycling   
+
+ 
+
+shredding 
+
+ 
+
+mechanical plant crushing  
+
+
+ 
+
+Page 8 of 20 
+
+ 
+
+
+
+ 
+
+Cimelia’s Process Flowchart for ICT Recycling and Data Destruction 
+
+ 
+
+During the year, there were zero incidences of substantiated complaints concerning breaches of 
+
+customer privacy and losses of customer data. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+DATA STORAGE MEDIA DESTRUCTION 
+
+Cimelia has in place data storage media destruction services that serve as a protection of 
+
+Intellectual Property (IP). This initiative took place between September 2017 and February 2018.  
+
+Cimelia provided recycling bins with locks for customers to collect e-waste at their sites. When the 
+
+bins are about 75% filled, Cimelia will collect these bins. These locks are provided to customers as 
+
+some electronic parts can be easily sold, which may result in thefts.   
+
+
+ 
+
+Page 9 of 20 
+
+ 
+
+
+
+Environment 
+
+Environmental Compliance 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Zero incidents of non-compliance with environmental laws and regulations 
+
+Targets for FY2018 
+
+• 
+
+Maintain zero incidents of non-compliance with environmental laws and regulations  
+
+• 
+
+Meet the Company Emergency Response Team (CERT)‘s requirement from the Singapore 
+
+Civil Defence Force (SCDF) 
+
+ 
+
+Electronic waste is a rapidly growing waste stream, with many electronic devices becoming obsolete 
+
+each year. The improper disposal of e-waste can lead to air, water and soil pollution, which poses a 
+
+threat to the environment and human health. Enviro-Hub acknowledges the importance of 
+
+environmental compliance. Being compliant with environmental laws and regulations reflects Enviro-
+
+Hub’s commitment to safeguarding the environment.  
+
+We abide by various environmental laws and regulations, such as the Environmental Protection and 
+
+Management Act and Regulations, the Hazardous Waste Act, the Prevention of Pollution of the Sea Act 
+
+and the Fire Safety Act. Additionally, we have internal policies in place to support our compliance with 
+
+environmental laws and regulations, which include the Cimelia Quality, Environmental, Health and 
+
+Safety (QEHS) Policy.  
+
+In order to keep abreast with environmental laws and regulations applicable to Enviro-Hub, we have 
+
+implemented measures/initiatives such as attending course and seminars, visiting relevant government 
+
+agencies’ websites, receiving letters from the National Environment Agency (NEA) and emails from 
+
+various training service providers to keep us updated with the changes in such laws while monitoring 
+
+our activities and performance to comply with relevant laws. Training is also provided to directors and 
+
+employees of the company when there are changes to existing laws and regulations. The training needs 
+
+of each employee are assessed and determined by a technical manager. Enviro-Hub strives to be a 
+
+responsible service provider by ensuring that our outsourced vendors and suppliers undergo a rigorous 
+
+assessment and evaluation process. Should there be any reported incidents, investigation and 
+
+execution of preventive and corrective actions are taken. Additionally, we have attained the following 
+
+certifications:  
+
+ 
+
+ISO 14001:2015 
+
+ 
+
+ISO 9001:2015 
+
+ 
+
+OHSAS 18001:2007 
+
+ 
+
+R2:2013 (Responsible recycling standard for effective recycling of electronic waste) 
+
+Enviro-Hub has implemented processes and checks as part of its efforts to comply with environmental 
+
+laws and regulations. During the year, there were zero incidents of non-compliance with environmental 
+
+laws and regulations reported.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+Page 10 of 20 
+
+ 
+
+
+
+ 
+
+ENERGY SAVINGS PLAN 
+
+At HLS Electronics Pte Ltd, we aim to keep our utility bill below $500 per month for the year. We are 
+
+committed to creating operational excellence through the management of buildings, equipment, 
+
+energy usage and operational process utilising sustainable resources through the following steps:  
+
+ Replacing light fixtures, bulbs and other electronic appliances with Energy Star1 or similar 
+
+rated equipment for energy consumption savings 
+
+ Implementing ventilation strategies that improve the effectiveness of natural ventilation as 
+
+well as provide adequate air quality 
+
+ Offering programmes to educate employees on smart energy usage 
+
+ Keeping work areas bright by installing energy-efficient lighting in all work areas in order to 
+
+comply with the local regulatory code and to protect the safety of employees 
+
+Through the aforementioned initiatives, we had monthly utility bill of less than $500 for the whole of 
+
+2017.  
+
+ 
+
+ 
+
+ 
+
+1 Energy Star is a U.S. Environmental Protection Agency voluntary programme that helps businesses and 
+
+individuals reduce costs and protect the environment through using energy efficiency products. 
+
+
+ 
+
+Page 11 of 20 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+INSTALLATION OF SCRUBBERS 
+
+ 
+
+ 
+
+Acid and cyanide scrubbers at Cimelia 
+
+Electronic waste is harmful as it contains toxic heavy metals such as lead and calcium, which 
+
+need to be treated professionally. At Cimelia, electronic waste collected is dismantled and 
+
+segregated into different streams. Part of the electronic waste may be sent for crushing and 
+
+grinding.  
+
+Electronic waste containing precious metals is treated using cyanide and acids in order to 
+
+recover the meals. During this process, toxic cyanide and acid fumes generated could cause 
+
+various adverse health effects. These gases are treated before being discharged into the 
+
+atmosphere. We have installed scrubbers as a means of reducing emissions. During the 
+
+scrubbing process, these toxic gases are neutralised before they are discharged into the 
+
+atmosphere. 
+
+
+
+
+ 
+
+Page 12 of 20 
+
+ 
+
+
+
+
+
+Social 
+
+Occupational Health and Safety 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Total Number of Workplace Fatalities: 0 
+
+• 
+
+Total Number of Workplace Injuries: 2 
+
+• 
+
+Total Number of Lost Days: 17 
+
+• 
+
+Total Number of Occupational Disease Incidents: 0 
+
+• 
+
+Total Number of Absentee Days: 0 
+
+Targets for FY2018 
+
+• 
+
+Maintain/achieve zero fatalities/or injuries  
+
+• 
+
+Attain OHSAS 18001:2007 and ISO 14001:2015 certifications 
+
+ 
+
+Given the nature of our businesses, safeguarding the health and safety of our employees is of utmost 
+
+importance to us. We believe that building a strong safety culture in the workplace will protect the 
+
+company’s most valuable asset – our people. Enviro-Hub adheres to local safety laws and regulations 
+
+and has internal policies in place to minimise potential injuries. Examples of such policies include the 
+
+Workplace Safety and Health Policy, the Employment of Foreign Workers Act, the Environmental 
+
+Protection and Management Act and Regulation, the Environmental Health Act and the Fire Safety Act 
+
+et cetera.  
+
+We have established a health and safety committee to oversee the implementation of health and safety 
+
+policies. At Enviro-Hub, we strive for continuous improvement in managing and eliminating health and 
+
+safety risks by routinely conducting operational risk assessments, thereby preventing injury and ill-
+
+health to employees and contractors in our operations. All reported incidents and accidents are 
+
+investigated and preventive and corrective actions are taken. 
+
+We also provide occupational health and safety training to our employees. In FY2017, our employees 
+
+received a total of 805.52 hours of occupational health and safety training. We aim to increase our 
+
+occupational health and safety training hours in the following year.  
+
+In order to improve the management of occupational health and safety at Enviro-Hub, we have set in 
+
+place various initiatives. These include but are not limited to the following: 
+
+ 
+
+Conduct monthly environment, health and safety (EHS) and fire safety inspections and take 
+
+corrective action(s) for any safety violations 
+
+ 
+
+Provide regular training and educate staff on the potential health risks and safety hazards in 
+
+the work environment and the proper precautions to undertake  
+
+ 
+
+Require the presence of a safety manager who conducts bi-annual spot checks and timely 
+
+investigation and execution of preventive and corrective actions based on incidents reported 
+
+by employees and visitors 
+
+ 
+
+Conduct monthly site meetings with project consultants to discuss health and safety 
+
+(injuries), environmental (e.g. mosquito breeding, noise) and any other ad-hoc matters 
+
+ 
+
+Conduct daily tool box meetings3 to raise any EHS concerns from operational staff members 
+
+ 
+
+Provide an open channel of communication across all levels to gather feedback and 
+
+comments on safety and health related issues  
+
+ 
+
+2 The training hours figure includes employees at Enviro-Hub, Cimelia, Enviro-Metals and HLS.  
+
+3 Tool box meetings are short meetings held to discuss safety issues. 
+
+
+ 
+
+Page 13 of 20 
+
+ 
+
+
+
+
+
+ 
+
+Install closed-circuit television (CCTV) cameras for security purposes to protect the company’s 
+
+assets and customers’ intellectual property (IP)  
+
+ 
+
+Hire security guards who operate 24/7 and conduct daily rounds and spot checks  
+
+ 
+
+Engage a contractor to provide weekly inspections and treatments for the control of 
+
+mosquitoes, cockroaches, common ants and rodents  
+
+During the year, there were zero reported workplace fatalities, incidents of occupational disease and 
+
+absentee days. However, two workplace injuries4 were recorded. One of the injuries occurred when an 
+
+employee at the headquarters was moving heavy equipment and injured his back, which resulted in 
+
+four lost days. The other injury occurred when an employee at HLS accidentally sprayed his right palm 
+
+with hot radiator fluid while cleaning a forklift. This incident resulted in 13 lost days.  
+
+Talent Attraction and Retention 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Number of new employees hired: 12 employees (monthly rate: 1.2%)5 
+
+• 
+
+Number of employee turnover: 22 employees (monthly rate: 2.3%)6 
+
+Target for FY2018 
+
+• 
+
+Maintain an employee turnover rate within the industry average 
+
+ 
+
+Enviro-Hub believes that employees play a key role in determining its success. Therefore, we have 
+
+invested our efforts in attracting talent by providing training and development opportunities to our 
+
+employees and caring for their well-being.  
+
+Our human resource policy details policies and procedures in relation to working hours, leave and other 
+
+employment benefits, remuneration and bonuses and conflict of interests. We have in place processes 
+
+and procedures of recruitment, rewards and recognition for our employees.  
+
+As of 31 December 2017, Enviro-Hub had 81 employees and all of them were based in Singapore. 57% 
+
+of Enviro-Hub’s employees were within the 30-to-50-year age group, while the average monthly 
+
+turnover rate for the year was 2.3% and the average monthly new hire rate was 1.2%. To improve the 
+
+efficiency of our recycling facilities, Enviro-Hub continues to streamline our operation and explore 
+
+automation processes. As a result, less workers were hired in FY2017.  
+
+ 
+
+4 The number included one employee at the headquarters and one employee at HLS. 
+
+5 Average monthly recruitment rate in 2017:  2.4% (Production &amp; Transport Operators, Cleaners &amp; Labourers). 
+
+Source: Ministry of Manpower 
+
+6 Average monthly resignation rate in 2017:  2.2% (Production &amp; Transport Operators, Cleaners &amp; Labourers). 
+
+Source: Ministry of Manpower 
+
+
+ 
+
+Page 14 of 20 
+
+ 
+
+
+
+ 
+
+To improve the well-being of our employees, we offer a wide range of employee engagement 
+
+programmes, such as lunch time talks, annual Christmas lunch, and end-of-year celebration. We strive 
+
+to increase employee satisfaction by providing our employees a positive working environment and 
+
+improving our communication with them. 
+
+26%
+
+57%
+
+17%
+
+Total Employees by Age 
+
+(FY2017) 
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+67%
+
+33%
+
+Total Employees by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+75%
+
+25%
+
+New Employees by Age (FY2017) 
+
+&lt; 30 years old
+
+30 - 50 years old
+
+50%
+
+50%
+
+New Employees by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+41%
+
+55%
+
+4%
+
+Employee Turnover by Age 
+
+(FY2017) 
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+59%
+
+41%
+
+Employee Turnover by Gender 
+
+(FY2017) 
+
+Male
+
+Female
+
+
+ 
+
+Page 15 of 20 
+
+ 
+
+
+
+We are committed to promoting open communication between employees and management by 
+
+encouraging our employees to share their ideas and concerns, both positive and negative.  
+
+Enviro-Hub does not discriminate against age, as age is not a selection criterion used when advertising, 
+
+shortlisting or selecting job candidates. As a company that strives to provide an accommodating 
+
+workplace, our employees are entitled to time off and unpaid leave of up to two months for unexpected 
+
+care needs. This initiative has positively impacted employee turnover while providing employees 
+
+enough time off work to meet their personal needs.   
+
+ 
+
+Training and Education 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Average hours of training per employee: 31.67 
+
+Targets for FY2018 
+
+• 
+
+Roll-out incentive initiatives to encourage self-learning amongst employees for career 
+
+development 
+
+• 
+
+Provide relevant internal and external training opportunities to improve workers’ skills and 
+
+knowledge  
+
+ 
+
+Enviro-Hub is committed to the development of our employees to support us in our growing business 
+
+needs by provide training to our employees throughout the year. Investing in training and development 
+
+programmes for our employees allows them to be equipped with relevant skills and strengthens their 
+
+commitment to the company. 
+
+Enviro-Hub offers our employees leadership and compliance training programmes. Employees who do 
+
+not meet the performance expectations are offered additional training. Career advancement 
+
+opportunities are also offered to our employees. As of 31 December 2017, 26 employees at Enviro-Hub 
+
+received an average of 31.6 hours of training. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 26 out of 81 employees received training in FY2017.  
+
+
+ 
+
+Page 16 of 20 
+
+ 
+
+
+
+Local Communities 
+
+ 
+
+Performance in FY2017 
+
+• 
+
+Supported take back programmes and e-waste recycling projects that have a positive 
+
+impact on local communities 
+
+Target for FY2018 
+
+• 
+
+Organise Global Environment Day with our staff 
+
+ 
+
+Enviro-Hub is committed to supporting a circular economy by engaging and working with local 
+
+communities to improve waste management. We encourage local community members to reuse waste 
+
+items and recycle electronic waste in our efforts to create a zero-waste society.   
+
+Enviro-Hub has implemented various initiatives as a means of giving back to society. In FY2017, Enviro-
+
+Hub supported take back programmes and e-waste recycling projects that have a positive impact on 
+
+local communities. We work with town councils, local schools and polytechnics to educate students 
+
+and the public and provide information on the environmental impacts of improper disposal of electronic 
+
+waste. Our employees are involved in various CSR activities throughout the year.  
+
+ 
+
+ 
+
+ 
+
+Panasonic Heartland E-Waste Recycling Programme  
+
+We work with our vendor, Schneider Electric, to create awareness about recycling and to encourage 
+
+their employees to recycle electronic waste. Items such as metals, plastics, aluminium, stainless steel 
+
+and copper are collected from Schneider Electric and recycled by HLS. The proceeds from the recycling 
+
+
+
+
+
+PANASONIC HEARTLAND E-WASTE PROGRAMME 
+
+The purpose of this programme is to provide a proper channel for the public to dispose of their 
+
+electronic waste in an environmentally-friendly way. For every item donated, Panasonic Asia 
+
+Pacific will donate an energy efficient light bulb to low income families in the South East District. 
+
+This programme took place from September 2017 to February 2018. 
+
+Panasonic initiated to pilot the Heartland E-Waste Recycling Programme for Home Appliances in 
+
+Singapore in 2013 and Cimelia had significant involvement throughout the programmes. In 
+
+FY2017, 4,000 light bulbs were distributed to low-income families.  
+
+
+ 
+
+Page 17 of 20 
+
+ 
+
+
+
+programme are used to assist a charity organisation, Willing Heart, and to provide hot meals to lower-
+
+income families. For Schneider Electric’s Global Environment Day, HLS was invited to speak on recycling.  
+
+HLS also conducted a recycling awareness programme with DBS Bank. Cimelia’s employees were also 
+
+involved in CSR activities, such as the Singtel x Singpost E-Waste recycling programme as well as the E-
+
+Waste recycling programme at CapitaLand Properties.   
+
+ 
+
+ 
+
+
+ 
+
+Page 18 of 20 
+
+ 
+
+
+
+GRI Content Index 
+
+ 
+
+GRI Standards (2016) 
+
+Notes/Page number(s)  
+
+General Disclosures 
+
+Organisational Profile 
+
+102-1 
+
+Organisation’s name 
+
+Enviro-Hub Holdings Limited 
+
+102-2 
+
+Activities, brands, products and 
+
+services 
+
+Annual Report 2017 – Corporate Profile, Page 2 
+
+102-3 
+
+Location of headquarters 
+
+Annual Report 2017 – Corporate Information, Page 1 
+
+102-4 
+
+Location of operations 
+
+Annual Report 2017 – Corporate Profile, Page 2 
+
+102-5 
+
+Ownership and legal form 
+
+Annual Report 2017 – Group Structure, Page 3 
+
+102-6 
+
+Markets served 
+
+Annual Report 2017 – Corporate Profile, Page 2 
+
+102-7 
+
+Scale of the organisation 
+
+Annual Report 2017 – Financial Highlights, Page 12 
+
+Talent Attraction and Retention, Pages 13-15 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+Talent Attraction and Retention, Pages 13-15 
+
+102-9 
+
+Supply chain 
+
+Not applicable, supply chain is minimal and 
+
+insignificant. 
+
+102-10 
+
+Significant changes to organisation 
+
+and its supply chain 
+
+No significant changes during FY2017 
+
+ 
+
+102-11 
+
+Precautionary principle or approach 
+
+Environmental Compliance, Page 11 
+
+102-12 
+
+External initiatives 
+
+Enviro-Hub supports and complies with the 
+
+International Organisation for Standardisation (ISO) and 
+
+Responsible Recycling practices for Use in Accredited 
+
+Certifications Programmes (R2) standards.   
+
+102-13 
+
+Membership of associations 
+
+Enviro-Hub is a member of the Waste Management &amp; 
+
+Recycling Association of Singapore.  
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+Board Statement, Page 2 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, standards and 
+
+norms of behaviour 
+
+Annual Report 2017 – Corporate Vision; Corporate 
+
+Mission, cover page 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Sustainability Governance, Page 3 
+
+Annual Report 2017 – Group Structure, Page 3 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement, Page 5 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not applicable, no collective bargaining agreements are 
+
+in place. 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholder Engagement, Page 5 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholder Engagement, Page 5 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement, Page 5 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+Annual Report 2017 – Audited Financial Statements, 
+
+pages 41-105  
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+About This Report, Page 3 
+
+Materiality Assessment, Page 4 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment, Page 4 
+
+
+ 
+
+Page 19 of 20 
+
+ 
+
+
+
+102-48 
+
+Restatements of information 
+
+Not applicable as this is Enviro-Hub’s first sustainability 
+
+report 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable as this is Enviro-Hub’s first sustainability 
+
+report 
+
+102-50 
+
+Reporting period 
+
+About This Report, Page 3 
+
+102-51 
+
+Date of most recent report 
+
+Not applicable as this is Enviro-Hub’s first sustainability 
+
+report 
+
+102-52 
+
+Reporting cycle 
+
+About This Report, Page 3 
+
+102-53 
+
+Contact point for questions regarding 
+
+the report 
+
+About This Report, Page 3 
+
+102-54 
+
+Claims of reporting in accordance 
+
+with GRI Standards 
+
+About This Report, Page 3 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index, Pages 18-20 
+
+102-56 
+
+External assurance 
+
+Enviro-Hub has not sought external assurance on this 
+
+report but may do so in the future. 
+
+Material Topics 
+
+Economic Performance 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+Economic Performance, Page 6 
+
+Annual Report 2017 – Audited Financial Statements, 
+
+pages 41-105  
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Economic Performance, Page 6 
+
+Annual Report 2017 – Audited Financial Statements, 
+
+pages 41-105  
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Materiality Assessment, Page 4 
+
+Economic Performance, Page 6 
+
+Annual Report 2017 – Audited Financial Statements, 
+
+pages 41-105 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Materiality Assessment, Page 4 
+
+Economic Performance, Page 6 
+
+Annual Report 2017 – Audited Financial Statements, 
+
+pages 41-105 
+
+Environmental Compliance 
+
+307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Environmental Compliance, Pages 9-11 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Environmental Compliance, Pages 9-11 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Environmental Compliance, Pages 9-11 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Environmental Compliance, Pages 9-11 
+
+Employment 
+
+401-1 
+
+New employee hires and employee 
+
+turnover 
+
+Talent Attraction and Retention, Pages 13-15 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Talent Attraction and Retention, Pages 13-15 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Talent Attraction and Retention, Pages 13-15 
+
+
+ 
+
+Page 20 of 20 
+
+ 
+
+
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Talent Attraction and Retention, Pages 13-15 
+
+Occupational Health &amp; Safety (GRI Standards 2018) 
+
+403-9 
+
+Work-related injuries 
+
+Occupational Health and Safety, Pages 12-13 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Occupational Health and Safety, Pages 12-13 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Occupational Health and Safety, Pages 12-13 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Occupational Health and Safety, Pages 12-13 
+
+Training and Education 
+
+404-1 
+
+Average hours of training per year per 
+
+employee: average training hours per 
+
+employee by gender and by employee 
+
+category 
+
+Training and Education, Page 15 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Training and Education, Page 15 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Training and Education, Page 15 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Training and Education, Page 15 
+
+Local Communities 
+
+413-1 
+
+Operations with local community 
+
+engagement, impact assessments and 
+
+development programs 
+
+Local Communities, Pages 16-17 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Local Communities, Pages 16-17 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Local Communities, Pages 16-17 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Local Communities, Pages 16-17 
+
+Customer Privacy 
+
+418-1 
+
+Substantiated complaints concerning 
+
+breaches of customer privacy and 
+
+losses of customer data 
+
+Protection of Sensitive Information, Pages 7-8 
+
+103-1 
+
+Explanation of the material topic and 
+
+its boundary 
+
+Materiality Assessment, Page 4 
+
+Protection of Sensitive Information, Pages 7-8 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Protection of Sensitive Information, Pages 7-8 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Governance, Page 3 
+
+Materiality Assessment, Page 4 
+
+Protection of Sensitive Information, Pages 7-8 
+
+ 
+
+ 
+
+ 
+
+ 
+

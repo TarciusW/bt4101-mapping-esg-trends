@@ -1,0 +1,7270 @@
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+TABLE OF CONTENTS 
+
+ABOUT THIS REPORT ____________________________________________ 1 
+
+ABOUT US _____________________________________________________ 2 
+
+Mission _________________________________________________________________ 2 
+
+Vision __________________________________________________________________ 2 
+
+Core Values _____________________________________________________________ 2 
+
+BOARD’S MESSAGE _____________________________________________ 3 
+
+BUSINESS EXCELLENCE AND ETHICS ______________________________ 4 
+
+Enterprise Risk Management ________________________________________________ 4 
+
+Whistle Blowing Policy _____________________________________________________ 4 
+
+OUR APPROACH TO SUSTAINABILITY _______________________________ 5 
+
+IDENTIFICATION OF STAKEHOLDERS _______________________________ 6 
+
+OUR MATERIAL EESG FACTORS ___________________________________ 7 
+
+RESPONSIBILITY TOWARDS OUR ECONOMY _________________________ 8 
+
+Our Indirect Economic Impact _______________________________________________ 8 
+
+Our Procurement Practices _________________________________________________ 9 
+
+RESPONSIBILITY TOWARDS OUR ENVIRONMENT ____________________ 10 
+
+Our Energy Consumption _________________________________________________ 10 
+
+Our Water Consumption __________________________________________________ 11 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE __________________________ 12 
+
+Our Workforce Retention Rate ______________________________________________ 12 
+
+Our Diverse Workforce____________________________________________________ 14 
+
+Developing Our Employees ________________________________________________ 16 
+
+Health and Safety of Our Employees _________________________________________ 16 
+
+RESPONSIBILITY TOWARDS OUR CUSTOMERS ______________________ 17 
+
+Customer Health, Safety and Privacy ________________________________________ 17 
+
+GRI CONTENT INDEX ___________________________________________ 19 
+
+
+ 
+
+ 
+
+ 
+
+1 
+
+ABOUT THIS REPORT 
+
+[GRI 102-1] [GRI 102-50] [GRI 102-53 to 54] 
+
+ 
+
+In this Sustainability Report (“Report
+
+Report
+
+Report
+
+Report”), it covers 
+
+Sinjia Land Limited and its subsidiaries’1 (“Sinjia” or 
+
+the “Group”) sustainability performance for the 
+
+reporting 
+
+period 
+
+from 
+
+1 
+
+January 
+
+2019 
+
+to  
+
+31 December 2019. This Report focuses on the 
+
+significant operations of the Group which covers 
+
+Sinjia Land Limited and G4 Station Pte Ltd. This 
+
+Report has been prepared in accordance with the 
+
+GRI Standards: Core Option. We continue to 
+
+address the factors deemed material to Sinjia based 
+
+on the Economic, Environmental, Social and 
+
+Governance (“EESG
+
+EESG
+
+EESG
+
+EESG”) factors, and present our 
+
+progress so far in our sustainability journey. Sinjia is 
+
+committed to continually improving its sustainability 
+
+reporting processes. 
+
+ 
+
+We welcome feedback from our stakeholders as this 
+
+enables us to continually improve upon our 
+
+sustainability efforts. Please send your feedback to 
+
+feedbag@sinjl.com
+
+feedbag@sinjl.com
+
+feedbag@sinjl.com
+
+feedbag@sinjl.com. 
+
+ 
+
+In our effort to conserve the environment, no hard 
+
+copies of this Report are printed. We have uploaded 
+
+a digital copy on our website at www.sinjl.com
+
+www.sinjl.com
+
+www.sinjl.com
+
+www.sinjl.com and 
+
+on the SGXNet at www.sg
+
+www.sg
+
+www.sg
+
+www.sgxxxx.com
+
+.com
+
+.com
+
+.com. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ABOUT US 
+
+[GRI 102-2 to 7, 102-16, 102-45] 
+
+ 
+
+Headquartered in Singapore, Sinjia was established in Singapore in 2004 and was listed on 
+
+SESDAQ (now known as Catalist
+
+Catalist
+
+Catalist
+
+Catalist) in 2005. Subsequently, Sinjia was transferred to the 
+
+Singapore Exchange Securities Trading Limited (“SGX
+
+SGX
+
+SGX
+
+SGX----ST
+
+ST
+
+ST
+
+ST”) Main Board in 2008 and then in 
+
+2015, was transferred to the SGX-ST Catalist. 
+
+ 
+
+The Group engages in hostel management, operating under G4 Station Pte. Ltd. (“Hostel
+
+Hostel
+
+Hostel
+
+Hostel”), 
+
+which was acquired in October 2016. The Hostel, a 5-storey economy class hostel in Singapore 
+
+with a size of 574.8 square meters, has 23 dormitory rooms and 87 beds (ranging from 2 to 8 
+
+beds per room). The occupancy level at any time during our reporting period is approximately 
+
+67%. 
+
+Mission 
+
+At Sinjia, we believe that affordability should never compromise service. We aim to reflect this 
+
+belief through our provision of quality hospitality at a competitive price. Our services are 
+
+dedicated to crafting a comfortable experience for our guests. 
+
+Vision 
+
+Our vision is to be the preferred choice for travellers in Singapore seeking comfort at an 
+
+affordable rate.    
+
+Core Values 
+
+• We aim to be a socially responsible corporation by reducing, recycling and re-using relevant 
+
+resources to minimise our impact on the environment. 
+
+ 
+
+• We aim to be a people developer by inculcating a sense of affiliation and belonging amongst 
+
+the management team and staff. 
+
+ 
+
+• We value people as assets and provide opportunities for continual learning and personal 
+
+upgrading. 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+BOARD’S MESSAGE 
+
+[GRI 102-14]  
+
+ 
+
+ 
+
+Dear Stakeholders,
+
+Dear Stakeholders,
+
+Dear Stakeholders,
+
+Dear Stakeholders,    
+
+ 
+
+It is our pleasure to present our third Sustainability Report for the financial year ended  
+
+31 December 2019. This Report outlines the key Economic, Environmental, Social and 
+
+Governance (“EESG”) factors deemed material to us and our stakeholders. We have 
+
+considered the sustainability issues as part of our strategic formulation which are 
+
+determined by the material EESG factors. We also ensured that there is adequate 
+
+management and monitoring over the material EESG identified during the year.  
+
+ 
+
+Sinjia is engaged in hostel management. There has been a significant impact to the 
+
+tourism sector caused by the spread of COVID-19 beyond the financial year end (“COVID-
+
+19 outbreak”) which had resulted in a significant reduction in hostel occupancy rates after 
+
+the financial year ended 31 December 2019 and up till the date of this report. The related 
+
+impact to the performance of the Group cannot be reliably estimated due to the uncertainty 
+
+in the magnitude and duration of the impact to the tourism sector caused by the COVID-
+
+19 outbreak. 
+
+ 
+
+At Sinjia, as we are committed to working towards sustainable growth, we have considered 
+
+sustainability issues as part of our strategy formulation. We would like to express our 
+
+gratitude to our partners, stakeholders and team members involved in our sustainability 
+
+journey. As we continue to strive towards a sustainable future, we endeavour to continually 
+
+enhance value to our stakeholders.  
+
+ 
+
+Once again, we thank you for your unwavering support. 
+
+ 
+
+ 
+
+LI AN HUA
+
+LI AN HUA
+
+LI AN HUA
+
+LI AN HUA    
+
+Non-Executive Chairman 
+
+ 
+
+XX XXX 2020  
+
+CHEONG WEIXIONG, JEFF
+
+CHEONG WEIXIONG, JEFF
+
+CHEONG WEIXIONG, JEFF
+
+CHEONG WEIXIONG, JEFF    
+
+Group Chief Executive Officer and Executive Director 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+BUSINESS EXCELLENCE AND ETHICS 
+
+[GRI 102-11, 102-16, 205-3] 
+
+Enterprise Risk Management 
+
+The Group has an Enterprise Risk Management (“ERM
+
+ERM
+
+ERM
+
+ERM”) policy that safeguards the 
+
+stakeholders’ interest. This sound system of risk management determines the nature and 
+
+extent of the significant risks which the Group is willing to take in achieving our strategic goals. 
+
+The policy is aligned to ISO 31000: 2009, the international standards on ERM with the 
+
+objectives of meeting the compliance in the design, implementation and monitoring of the key 
+
+risks and internal control systems in place. The Group has developed and implemented the 
+
+appropriate risk management procedures to address the key risks identified. All significant 
+
+matters will be highlighted to the Audit Committee and the Board of Directors of the Company. 
+
+Whistle Blowing Policy 
+
+Sinjia engages in responsible business practices and complies with the relevant laws and 
+
+regulations that address bribery and corruption. A Whistle Blowing Policy has been 
+
+implemented to provide employees of the Group with an independent and confidential channel 
+
+to report suspected fraud, corruption, dishonest practices or irregularities. The policy 
+
+encourages the reporting of such matters by employees on an anonymous basis. The Group is 
+
+confident of the policy’s effectiveness as reports by employees can be made confidentially and 
+
+easily via e-mail. 
+
+ 
+
+At the same time, such reporting will also be in compliance with applicable laws and the 
+
+employees will not be penalised.  
+
+ 
+
+Details of the Whistle Blowing Policy are disseminated to all employees of the Group and 
+
+reminders are circulated to all existing employees and new employees on a semi-annual basis. 
+
+There were no incidents of bribery and/or corruption reported during the year.   
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+5 
+
+OUR APPROACH TO SUSTAINABILITY 
+
+[GRI 102-18, 42, 46] 
+
+ 
+
+We conducted our first materiality assessment in 2017 with reference to the Global Reporting 
+
+Initiative (“GRI”) Standards to identify and select stakeholders with whom to engage and 
+
+determine the EESG factors that are material to them. We conducted a Focus Group 
+
+Discussion with our very own Sustainability Reporting Champion Team (“Team”) to validate the 
+
+assessment and gather feedback on the sustainability issues that are important to these key 
+
+stakeholders. The key stakeholder groups and material factors are still deemed relevant and 
+
+remain unchanged. We will continue to assess the identified material factors on a regular basis 
+
+to ensure their relevance. We analysed our operations and adopted a 4-step approach (shown 
+
+below) in determining the material EESG factors that are material to our stakeholders.  
+
+ 
+
+ 
+
+ 
+
+Sinjia addressed the issues at hand by following the 4-step process listed above. We studied 
+
+these EESG risks and their potential impacts to gain a comprehensive overview of mitigation 
+
+approaches. Through the above four steps, we were able to gain an understanding of the issues 
+
+that matter most to our key stakeholders. We then earmarked material factors and assessed 
+
+their materiality with regards to our business operations, with reference to the respective GRI 
+
+standards.  
+
+ 
+
+Sinjia has our very own Team who evaluated these material factors with reference to the GRI 
+
+Standards. Thereafter, the Team worked with the relevant departments to execute the 
+
+strategies and action plans upon the approval by the Company’s Chief Executive Officer and 
+
+Board of Directors.   
+
+ 
+
+Sinjia is committed to improving the identification and management of material issues relevant 
+
+to our stakeholders. 
+
+Identify
+
+
+
+• Through Focus 
+
+Group 
+
+Discussion 
+
+("FGD"), we 
+
+identify our key 
+
+material factors
+
+Prioritise
+
+
+
+• We will then 
+
+prioritise the 
+
+material factors 
+
+identified in the 
+
+previous step 
+
+based on each 
+
+of their 
+
+materiality level
+
+Validate
+
+
+
+• The prioritised 
+
+material factors 
+
+will then be 
+
+presented to 
+
+the board of 
+
+directors of the 
+
+Company for 
+
+endorsement 
+
+for disclosure
+
+Review
+
+
+
+• Gather 
+
+feedback on 
+
+the Report to 
+
+improve future 
+
+Sustainability 
+
+Reporting
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+6 
+
+IDENTIFICATION OF STAKEHOLDERS 
+
+[GRI 102- 40, 42 to 44] 
+
+ 
+
+We have continued to engage with our stakeholders to understand their expectations and our 
+
+approach to engagement is shown below. 
+
+ 
+
+ 
+
+We have identified and 
+
+prioritised 
+
+the 
+
+topics 
+
+discussed and ranked them 
+
+in accordance to importance 
+
+to our stakeholders and 
+
+importance to the Group. 
+
+Topics falling under the right 
+
+quadrant 
+
+are 
+
+deemed 
+
+material and will be reported 
+
+in this Report. 
+
+Stakeholders
+
+Stakeholders
+
+Stakeholders
+
+Stakeholders    
+
+Basis for 
+
+Basis for 
+
+Basis for 
+
+Basis for DDDDet
+
+etet
+
+etermining 
+
+ermining 
+
+ermining 
+
+ermining 
+
+Stakeholders
+
+Stakeholders
+
+Stakeholders
+
+Stakeholders    
+
+Engagement Platform
+
+Engagement Platform
+
+Engagement Platform
+
+Engagement Platform    
+
+Frequency of 
+
+Frequency of 
+
+Frequency of 
+
+Frequency of 
+
+Engagement
+
+Engagement
+
+Engagement
+
+Engagement    
+
+Topic Discussed
+
+Topic Discussed
+
+Topic Discussed
+
+Topic Discussed    
+
+Investors and 
+
+Investors and 
+
+Investors and 
+
+Investors and 
+
+SSSShareholders
+
+hareholders
+
+hareholders
+
+hareholders    
+
+Influence on 
+
+management’s decisions 
+
+and responsibility towards 
+
+investors 
+
+Company’s website and 
+
+annual general meeting 
+
+ 
+
+As and when; 
+
+and annually 
+
+Financial 
+
+performance; 
+
+Strategic planning 
+
+Online 
+
+Online 
+
+Online 
+
+Online BBBBooking 
+
+ooking 
+
+ooking 
+
+ooking 
+
+AAAAgents
+
+gents
+
+gents
+
+gents    
+
+Dependency on agents 
+
+E-mails and 
+
+phone calls 
+
+As and when 
+
+Commission rates 
+
+Government and 
+
+Government and 
+
+Government and 
+
+Government and 
+
+RRRRegulators
+
+egulators
+
+egulators
+
+egulators    
+
+Compliance with local 
+
+laws and regulations 
+
+Regular reporting 
+
+Annually 
+
+Regulatory matters 
+
+Employees
+
+Employees
+
+Employees
+
+Employees    
+
+Employees executes the 
+
+direction of the Group 
+
+Performance appraisal, 
+
+informal dialogues and 
+
+phone calls 
+
+As and when; 
+
+and annually 
+
+ 
+
+Employee 
+
+compensation and 
+
+benefits; 
+
+Hostel management 
+
+Hostel 
+
+Hostel 
+
+Hostel 
+
+Hostel G
+
+GG
+
+Guests
+
+uests
+
+uests
+
+uests    
+
+Customers’ needs 
+
+influence the direction of 
+
+the Group 
+
+Online booking platforms, 
+
+informal dialogues and 
+
+feedback 
+
+As and when 
+
+Safety, 
+
+cleanliness and 
+
+privacy 
+
+
+
+
+
+Importance to Stakeholders 
+
+
+
+Importance to the Group 
+
+
+
+Low 
+
+
+
+Medium 
+
+
+
+High 
+
+
+
+Low 
+
+
+
+Medium 
+
+
+
+High 
+
+
+
+Safety, Cleanliness  
+
+and Privacy 
+
+
+
+Hostel Management 
+
+
+
+Employee 
+
+Compensation  
+
+and Benefits 
+
+
+
+Regulatory Matters 
+
+
+
+Commission Rates 
+
+
+
+Strategic Planning 
+
+
+
+Financial 
+
+Performance 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+OUR MATERIAL EESG FACTORS 
+
+[GRI 102-46 to 47] 
+
+ 
+
+There have been no major changes to our business operations this year. The key factors 
+
+identified under the EESG framework remain the same. 
+
+Material Topic
+
+Material Topic
+
+Material Topic
+
+Material Topic    
+
+Why Material
+
+Why Material
+
+Why Material
+
+Why Material    
+
+GRI Standards 
+
+GRI Standards 
+
+GRI Standards 
+
+GRI Standards 
+
+Disclosure
+
+Disclosure
+
+Disclosure
+
+Disclosure    
+
+Boundary
+
+Boundary
+
+Boundary
+
+Boundary    
+
+Within Sinjia
+
+Within Sinjia
+
+Within Sinjia
+
+Within Sinjia    
+
+Outside Sinjia
+
+Outside Sinjia
+
+Outside Sinjia
+
+Outside Sinjia    
+
+Economic
+
+Economic
+
+Economic
+
+Economic    
+
+Economic 
+
+performance 
+
+Poses significant effects 
+
+towards stakeholders 
+
+201-1 
+
+√ 
+
+ 
+
+Indirect economic 
+
+impact 
+
+Poses significant effects 
+
+towards stakeholders 
+
+203-2 
+
+√ 
+
+ 
+
+Procurement 
+
+practices 
+
+Poses significant effects 
+
+towards stakeholders 
+
+204-1 
+
+√ 
+
+ 
+
+Anti-corruption 
+
+Poses significant effects 
+
+towards stakeholders 
+
+205-3 
+
+√ 
+
+ 
+
+Environmental
+
+Environmental
+
+Environmental
+
+Environmental    
+
+Energy consumption 
+
+Poses significant effects 
+
+towards sustainability 
+
+302-1 
+
+302-3 
+
+√ 
+
+ 
+
+Water consumption 
+
+Poses significant effects 
+
+towards sustainability 
+
+303-1 
+
+√ 
+
+ 
+
+Environmental 
+
+compliance 
+
+Compliance towards local laws 
+
+and regulations 
+
+307-1 
+
+√ 
+
+ 
+
+Social
+
+Social
+
+Social
+
+Social    
+
+Employment 
+
+Poses significant effects 
+
+towards employees 
+
+401-1 
+
+√ 
+
+ 
+
+Training and 
+
+education 
+
+Poses significant effects 
+
+towards employees 
+
+404-1 
+
+404-3 
+
+√ 
+
+ 
+
+Diversity and equal 
+
+opportunity 
+
+Poses significant effects 
+
+towards employees 
+
+405-1 
+
+√ 
+
+ 
+
+Non-discrimination 
+
+Poses significant effects 
+
+towards employees 
+
+406-1 
+
+√ 
+
+ 
+
+Customer health and 
+
+safety 
+
+Poses significant effects 
+
+towards customers 
+
+416-2 
+
+√ 
+
+ 
+
+Customer privacy 
+
+Poses significant effects 
+
+towards customers 
+
+418-1 
+
+√ 
+
+ 
+
+Socioeconomic 
+
+compliance 
+
+Compliance towards local laws 
+
+and regulations 
+
+419-1 
+
+√ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+8 
+
+RESPONSIBILITY TOWARDS OUR ECONOMY 
+
+[GRI 102-9, 204-1] 
+
+Our Indirect Economic Impact 
+
+The Singapore tourism sector continues to attain high records in International Visitor Arrivals 
+
+(“IVA”). From January to December 2019, IVA increased 3.3% over the same period last year 
+
+to reach 19.1 million visitors. Accommodation is one of the basic needs for any tourism activity. 
+
+As a hostel service provider, we recognised the importance of providing good services as the 
+
+level of hospitality helps in building the image and market of Singapore. 
+
+ 
+
+The Average Occupancy Rate (“AOR”) for our reporting period has increased by 2% from 
+
+approximately 65% to 67%. This is in line with the Gazetted Hotel Statistics as reported by 
+
+Singapore Tourism Board (“STB”) for the Standard AOR of Small Hotel Sizes1 and Economy 
+
+Tier2 hotels have both grown 0.6% from 74.3% to 74.9% and 83.4% to 84.0% respectively, as 
+
+compared 2018. 
+
+ 
+
+We work with the Singapore Tourism Board (“STB”) to drive strategic alignment towards the 
+
+development of a vibrant and innovative hotel sector.  We promote the different places of 
+
+interests in Singapore by displaying the various Singapore attractions brochures at our Hostel 
+
+lobby. Additionally, we frequently provide advice to our guests and assist them with the booking 
+
+of tickets and tours over our reception counter. It is, however, impracticable for us to quantify 
+
+the indirect economic impact 
+
+arising from such activities.  
+
+ 
+
+We will continue to display 
+
+Singapore attractions brochures 
+
+to help further promote tourism in 
+
+Singapore. 
+
+ 
+
+ 
+
+1  Small Hotels Sizes refer to hotels with 100 rooms and less. 
+
+2  Economy Tier includes hotels in the budget segment and are generally located in outlying areas. The hotel tiering system is a reference 
+
+system developed by the Singapore Tourism Board. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+9 
+
+RESPONSIBILITY TOWARDS OUR ECONOMY 
+
+[GRI 102-9, 103-1 to 3, 203-2, 204-1] 
+
+Our Procurement Practices 
+
+Sinjia is committed to building a sustainable supply chain which promotes value for both the 
+
+Group and our suppliers. Our supply chain consists of vendors based in Singapore. Our 
+
+vendors provide us with energy, water, laundry and pest control services. Local on-site 
+
+procurement gives Sinjia many advantages over the supply chain of the business. 
+
+ 
+
+Local suppliers are able to deliver products and services with shorter lead time and lower cost. 
+
+Face to face meetings with our suppliers allows us to address any concerns that we might have 
+
+and maintain greater control over the standard and quality of products and services provided 
+
+to us. We aim to continue our local procurement practices in the long run. 
+
+ 
+
+One of the key service providers 
+
+involved in our supply chain are 
+
+the online travel agents. We work 
+
+closely with 6 main travel booking 
+
+agents known to many such as 
+
+Agoda, Booking.com, Expedia, 
+
+Hotels.com, 
+
+Traveloka 
+
+and 
+
+Airbnb. As the Group currently 
+
+works with all the major online 
+
+travel agents, we seek to maintain 
+
+our current working relationships 
+
+in the long term.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+RESPONSIBILITY TOWARDS OUR ENVIRONMENT 
+
+[GRI  103-1 to 3, 302-1, 3, 307-1] 
+
+ 
+
+Sinjia understands that being a successful hostel service provider requires the Group to be 
+
+efficient, well managed and customer focused. On top of these, Sinjia needs to fulfil the 
+
+expectations of our stakeholders, which includes demonstrating our commitment to preserving 
+
+the environment. We did not identify any non-compliance with environmental laws and 
+
+regulations during the reporting period. 
+
+Our Energy Consumption 
+
+Each guest room requires non-renewable energy sources in the form of electricity, which is 
+
+powered by electricity distributors. These include air-conditioning, lighting and heating.  
+
+Area of focus
+
+Area of focus
+
+Area of focus
+
+Area of focus 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+Performance
+
+Performance
+
+Performance
+
+Performance 
+
+Target for 
+
+Target for 
+
+Target for 
+
+Target for 
+
+FYE 2019
+
+FYE 2019
+
+FYE 2019
+
+FYE 2019    
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+Performan
+
+Performan
+
+Performan
+
+Performance
+
+ce
+
+ce
+
+ce 
+
+Target for 
+
+Target for 
+
+Target for 
+
+Target for 
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020 
+
+Electricity consumption 
+
+129,000 kWh 
+
+NA 
+
+138,000 kWh 
+
+NA 
+
+Average electricity 
+
+consumption per guest night 
+
+6.88 kWh / 
+
+guest night 
+
+6.19 kWh / 
+
+guest night 
+
+7.13 kWh / 
+
+guest night 
+
+6.80 kWh / 
+
+guest night 
+
+ 
+
+During the reporting period, the Hostel has consumed a total of 138,000 kWh of electricity and 
+
+has an occupancy of 19,359 guest nights. On average, each Hostel guest consumes 7.13 kWh 
+
+of energy per guest night, which represents a 3.6% increase in the consumption of energy per 
+
+guest night. As compared to the nationwide average of 80.1kWh per room night3, the Hostel 
+
+has kept the electricity consumption minimal. 
+
+ 
+
+While the comfort of our guests is a key element during their stay, we abide by our Group’s 
+
+energy saving policies whenever possible. We display notices in the room and within the Hostel 
+
+to remind our Hostel guests to switch off the air-conditioning and lights whenever they are not 
+
+in use. We also play our part in reducing our carbon footprint by utilising sensors and controls 
+
+to adjust the lighting and other systems, such that they are automatically switched on when 
+
+motion is detected. The reduction of energy consumed reflects the effectiveness of the Group’s 
+
+energy saving policies. The Group will continue to monitor its energy consumption and take 
+
+extra steps to reduce the energy intensity ratio per guest night. Moving forward, we seek to 
+
+keep the electricity consumption per guest night below 6.80 kWh per guest night in the long 
+
+term. 
+
+ 
+
+3  This was computed using the 2018 total electricity consumption by sub-sector for Accommodation and Food Services (obtained from 
+
+Energy Market Authority) divided by Gross Lettings (Room-Nights) (obtained from Singapore Tourism Board). 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+RESPONSIBILITY TOWARDS OUR ENVIRONMENT 
+
+[GRI 302-1, 3, 307-1] 
+
+Our Water Consumption 
+
+Water is a scarce resource in Singapore. As the demand for water continues to increase in 
+
+tandem with population and economic growth, we have seen an increase in the hostel’s water 
+
+consumption.  
+
+Area of focus
+
+Area of focus
+
+Area of focus
+
+Area of focus 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+Performance
+
+Performance
+
+Performance
+
+Performance 
+
+Target for FYE 
+
+Target for FYE 
+
+Target for FYE 
+
+Target for FYE 
+
+2019
+
+2019
+
+2019
+
+2019    
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+Performance
+
+Performance
+
+Performance
+
+Performance 
+
+Target for 
+
+Target for 
+
+Target for 
+
+Target for 
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020 
+
+Water consumption 
+
+2,192,000 
+
+litres 
+
+NA 
+
+2,199,000 litres 
+
+NA 
+
+Average water consumption 
+
+per guest night 
+
+117 litres / 
+
+guest night 
+
+&lt; 120 litres / 
+
+guest night 
+
+116 litres / guest 
+
+night 
+
+&lt; 120 litres / 
+
+guest night 
+
+ 
+
+A total of approximately 2,199,000 litres of potable water was obtained from the local municipal 
+
+water supplies during the reporting period. That translates to the equivalent of 116 litres of water 
+
+use per guest night, which represents a 0.9% reduction in consumption per guest night. The 
+
+Group has met our target of keeping our water consumption below 120 litres per guest night. 
+
+We were unable to perform an industry benchmarking4 by sub-sector. 
+
+ 
+
+Hostel guests are also given complimentary bottles of water for their personal consumption. 
+
+We noted an overall increase in the water consumption at our Hostel, which is in tandem with 
+
+the increase in the number of guest nights during the year. However, through our water 
+
+conservation efforts, we see a fall in the average water consumption per guest night.  
+
+ 
+
+As the pressure on water resources increases, it is important to reduce and conserve water 
+
+resources. Sinjia recognises the importance of water and is constantly finding ways to reduce 
+
+water consumption in the Hostel. We hang signs around the pantry and bathrooms to remind 
+
+all our guests to turn off the tap when not in use. This is also to encourage Hostel guests to 
+
+reduce their water consumption where possible.  
+
+ 
+
+At Sinjia, we are committed to save and conserve in every small way that we can to reduce our 
+
+water consumption. Our water saving policies have been effective in reducing the average 
+
+consumption per guest night. Moving forward, we seek to keep the water consumption per 
+
+guest night below 120 litres in the long term.  
+
+ 
+
+4  There were no sub-sector statistics reported by the Ministry of the Environment and Water Resources, Public Utilities Board. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE 
+
+[GRI 102-7 to 8, 41, 401-1, 404-3, 405-1, 406-1] 
+
+ 
+
+Our employees play an important role in our business and we are committed to creating a 
+
+positive environment for the physical and mental well-being of our employees. This includes 
+
+the overall job satisfaction which keeps our retention rate high; an inclusive and non-
+
+discriminatory culture which forms a safe working space; a fair and open environment for 
+
+continuous career development; and a safe working environment for all employees.  
+
+ 
+
+A significant portion of the Group’s activities (i.e. the Hostel operations) are performed by hostel 
+
+workers through an outsourcing arrangement with HLN Rubber Products Pte. Ltd. and is 
+
+included as part of our total headcount for the purpose of this Report. Our employees are not 
+
+covered under any collective bargaining agreements. Directors and management will be 
+
+reviewing the outsourcing arrangement with the objective to minimise its cost and maximise its 
+
+returns.    
+
+Our Workforce Retention Rate 
+
+The Group’s strategy in maintaining our high retention rate involves raising the overall well-
+
+being of our employees. We have in place certain benefits for our employees who require 
+
+additional support.  
+
+ 
+
+Employees will be granted flexible working arrangements based on their individual parental or 
+
+elderly care responsibilities. Sinjia considers the circumstances that may be relevant to 
+
+determine whether a refusal is or is not reasonable. 
+
+ 
+
+Sinjia also allows a pregnant employee to transfer to a ‘safe job’ without any change in her 
+
+original employment terms. In the event where the employee cannot be transferred to a ‘safe 
+
+job’, she will be required to take ‘no safe job’ leave for the time stated in the medical certificate 
+
+or until the pregnancy ends. ‘No safe job’ leave is a special type of paid leave as agreed which 
+
+can be no lower than 30% of the employee’s original base pay. 
+
+ 
+
+We strongly believe that such benefits show our employees that Sinjia cares about their overall 
+
+well-being and wants to ensure that they are happy and satisfied with their working 
+
+environment.  
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE 
+
+[GRI 102-7 to 8, 41, 401-1, 404-3, 405-1, 406-1] 
+
+ 
+
+Our Workforce Retention Rate 
+
+As at 31 December 2019, The Group’s workforce comprised of 11 permanent and full-time staff.  
+
+Our hiring and turnover rates during the reporting period are shown below: 
+
+ 
+
+Hiring
+
+Hiring
+
+Hiring
+
+Hiring    
+
+ 
+
+ 
+
+TTTTurnover
+
+urnover
+
+urnover
+
+urnover    
+
+ 
+
+ 
+
+Area of focus
+
+Area of focus
+
+Area of focus
+
+Area of focus 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+FYE 2018 
+
+Performance
+
+Performance
+
+Performance
+
+Performance 
+
+Target for 
+
+Target for 
+
+Target for 
+
+Target for 
+
+FYE 2019
+
+FYE 2019
+
+FYE 2019
+
+FYE 2019    
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+FYE 2019 
+
+Performance
+
+Performance
+
+Performance
+
+Performance 
+
+Target for 
+
+Target for 
+
+Target for 
+
+Target for 
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020
+
+FYE 2020 
+
+Hiring rate 
+
+26% 
+
+&lt; 15% 
+
+9% 
+
+&lt; 15% 
+
+Turnover rate 
+
+19% 
+
+&lt; 10% 
+
+9% 
+
+&lt; 15% 
+
+ 
+
+During the reporting period, Sinjia’s hiring rate and employee turnover rate were both 9%. The 
+
+hiring rate and turnover rate was down 17% and 10% respectively. The Group has managed to 
+
+keep the rates below the target set in the prior year. In 2019, the Ministry of Manpower reported 
+
+the recruitment rate and resignation rate 3.1% and 2.5% respectively. We trust that our rates, 
+
+though higher than the sector average, are considered low due to our lean structure. This is a 
+
+result of our favourable human resource policies put in place. We aim to keep our employee 
+
+turnover rate low as it eliminates the need for re-training of employees. Moving forward, we 
+
+seek to keep the hiring rate and turnover rate below 15% and 15% respectively in the long run.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+Below 30
+
+Malaysian
+
+0
+
+1
+
+2
+
+3
+
+Gender
+
+Age
+
+Nationality
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Female
+
+30 - 50
+
+Singaporean
+
+0
+
+1
+
+2
+
+Gender
+
+Age
+
+Nationality
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE 
+
+[GRI 103-1 to 3, 102-7 to 8, 41, 401-1, 404-3, 405-1, 406-1] 
+
+ 
+
+Our Diverse Workforce 
+
+Sinjia pledges to promote an inclusive culture that focuses on treating all employees fairly. In 
+
+our commitment, we adopt fair and merit-based practices for recruitment, selection and 
+
+promotion. Sinjia’s zero tolerance on discrimination, sexual harassment and bullying aims to 
+
+attract and retain the best possible employees while at the same time, provide all our 
+
+employees with a safe and respectful work environment. 
+
+ 
+
+Sinjia has a diverse workforce comprising of people from a wide array of cultures, viewpoints 
+
+and backgrounds. Our effective employment policies are based solely on merit and capability, 
+
+regardless of age, gender, or nationality. We have achieved a balanced workforce as tabulated 
+
+below. 
+
+ 
+
+ 
+
+ 
+
+GENDER 
+
+Female
+
+Female
+
+Female
+
+Female 
+
+Male
+
+Male
+
+Male
+
+Male 
+
+AGE 
+
+Above 50
+
+Above 50
+
+Above 50
+
+Above 50 
+
+30 
+
+30 
+
+30 
+
+30 ----    50
+
+50
+
+50
+
+50 
+
+Under 30
+
+Under 30
+
+Under 30
+
+Under 30 
+
+NATIONALITY 
+
+Singaporean
+
+Singaporean
+
+Singaporean
+
+Singaporean 
+
+Burmese
+
+Burmese
+
+Burmese
+
+Burmese 
+
+Malaysian
+
+Malaysian
+
+Malaysian
+
+Malaysian 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+15 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE 
+
+[GRI 103-1 to 3, 102-7 to 8, 41, 401-1, 404-3, 405-1, 406-1] 
+
+ 
+
+Our Diverse Workforce 
+
+Sinjia’s employee gender ratio of 55% female and 45% male is comparable to the industry 
+
+benchmark5 of 56% female and 44% male. For employees aged under 30, 30 to 50 and above 
+
+50 categories, the employee ratio is 27%, 64% and 9% respectively.  As compared to the 
+
+industry benchmark of 17%, 32% and 51%, we trust that our employee age groups are 
+
+adequately distributed. 
+
+ 
+
+Our diversity is not limited to our employees but also our board of directors. Our directors come 
+
+from different age groups and backgrounds which helps to foster innovation. Our experienced 
+
+directors bring about stability and security while the younger directors contribute by introducing 
+
+new ideas and methods to better manage the Group strategically. 
+
+ 
+
+The Board comprises of 4 male directors, of whom, 2 fall under the age group 30 - 50 years old 
+
+and 2 others above 50 years old. Although there is currently no female director appointed to 
+
+the Board, the Board does not rule out the possibility of appointing a female director if a suitable 
+
+candidate is nominated for the Board’s consideration. We believe in continually creating an 
+
+inclusive and supportive environment for all our employees.  
+
+ 
+
+We are committed to providing a workplace free from discrimination, sexual harassment and 
+
+bullying. Such conduct will not be tolerated and will lead to action being taken, which may 
+
+include dismissal. There were no incidents of discrimination during the reporting period.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 Industry benchmark figures obtained from sub-sector Accommodation and Food Services as reported by the Ministry of Manpower. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+16 
+
+RESPONSIBILITY TOWARDS OUR PEOPLE 
+
+[GRI 101-1 to 3, 102-7 to 8, 41, 401-1, 404-3, 405-1, 406-1] 
+
+Developing Our Employees 
+
+Sinjia believes in nurturing our employees so that they not only meet and exceed their personal 
+
+career goals, but also perform to their best. Personal growth of employees would lead to 
+
+improved organisational performance. Emphasis is placed on feedback from employees as the 
+
+management believes that such appraisals improve organisational efficiency. This two-way 
+
+communication creates an effective environment for employees to discuss career goals and 
+
+formulate plans to get one step closer to meeting these goals. 
+
+ 
+
+In 2018 and 2019, all employees are subject to annual performance review to discuss their job 
+
+performance and career goals. We intend to continue this practice moving forward.  
+
+ 
+
+Health and Safety of Our Employees 
+
+The health and safety of our employees is of paramount importance to us. We believe that 
+
+everyone is responsible for ensuring health and safety at the workplace.  Our Occupational 
+
+Health and Safety Policy involves the identification, assessment and control of existing and 
+
+potential risks to employees so as to provide them with a safe and healthy working environment. 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+17 
+
+RESPONSIBILITY TOWARDS OUR CUSTOMERS 
+
+[GRI 103-1 to 3, 416-2, 418-1, 419-1] 
+
+ 
+
+Singapore is a multi-racial and multi-religious society. Our hostel staff are aware of our anti-
+
+discriminatory guidelines and treatment towards our hostel guests. We strongly believe in the 
+
+gathering of people from different countries, race and religion to bring about new social 
+
+opportunities.  
+
+ 
+
+Apart from being socially responsible, we adhere to all relevant rules and regulations stipulated 
+
+by the regulators from our industry. Under the Hotels Act (Section 16 – Penalties), a certificate 
+
+of registration and a hotel-keeper’s license are required to manage a hostel. We have also 
+
+obtained other relevant approvals and clearances from the fire safety department and the 
+
+National Environment Agency. We did not identify any non-compliance with socioeconomic 
+
+laws and regulations during the reporting period.    
+
+Customer Health, Safety and Privacy 
+
+The health, safety and privacy of our Hostel guests are of utmost importance to us. We always 
+
+strive to further improve and maximise our guests’ satisfaction.  
+
+ 
+
+We have a regular pest control service provider who performs monthly pest control. The 
+
+chemicals and methods used are almost zero toxicity to humans to ensure the comfort and 
+
+safety of all our guests. Our service provider uses non-hazardous products which are safe for 
+
+the environment. When the need to use hazardous products arises, they have the expertise to 
+
+ensure the safety of our Hostel guests.  
+
+ 
+
+Sinjia has a fire emergency evacuation plan in place to ensure that there is proper fire safety. 
+
+The fire safety policy comprises of several fire safety precautions and facilities such as no 
+
+smoking signs, a fire alarm system, a hose reel and an emergency escape route. There are 
+
+CCTVs installed around the common areas of the Hostel to ensure the safety of all our guests 
+
+without compromising their privacy. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+18 
+
+RESPONSIBILITY TOWARDS OUR CUSTOMERS 
+
+[GRI 103-1 to 3, 416-2, 418-1, 419-1] 
+
+ 
+
+ 
+
+Customer Health, Safety and Privacy 
+
+Sinjia takes data privacy and security seriously and maintains all our customers’ data in a 
+
+secure environment. Upon check-in, it is the Hostel’s procedure to gather the guest’s passport 
+
+to obtain the particulars of the guest, according to the Hotels Act. We take the protection of our 
+
+guests’ personal data very seriously and have procedures and guidelines in place with regards 
+
+to the collection, use, disclosure, retention, security and disposal of personal information. We 
+
+are committed to spreading awareness about the importance of data privacy and security 
+
+across the Group. 
+
+ 
+
+We also provide baggage 
+
+deposit services located 
+
+at the lobby specially for 
+
+guests to deposit their 
+
+luggage prior to check in 
+
+or upon check out. The 
+
+room is secured and is 
+
+only accessible by the 
+
+Hostel’s staff.  
+
+ 
+
+Starting early 2019, the Group has kept a logbook record of all incidents relating to any 
+
+accidents, loss or theft. This helps to track recurring incidents to identify weaknesses which can 
+
+be improved upon. There has been no reported incidents of accidents, loss or theft. We seek 
+
+to maintain this record in the coming years.  
+
+ 
+
+The above policies put in place have been effective in ensuring our guests’ health, safety and 
+
+privacy. We did not identify any non-compliance with regulations or stipulated complaints with 
+
+regards to the health, safety and privacy of our Hostel guests. 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+19 
+
+GRI CONTENT INDEX  
+
+[GRI 102-55] 
+
+ 
+
+ 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+GRI 
+
+GRI 
+
+GRI 
+
+GRI 102: Organisational 
+
+102: Organisational 
+
+102: Organisational 
+
+102: Organisational PPPProfile
+
+rofile
+
+rofile
+
+rofile 
+
+102-1 
+
+Name of organisation 
+
+-  
+
+SR 1 
+
+About this report 
+
+102-2 
+
+Activities, brands, 
+
+products, and services 
+
+-  
+
+SR 2 
+
+About us 
+
+102-3 
+
+Location of headquarters 
+
+-  
+
+SR 2 
+
+About us 
+
+102-4 
+
+Location of operations 
+
+-  
+
+SR 2 
+
+About us 
+
+102-5 
+
+Ownership and legal 
+
+form 
+
+-  
+
+SR 2 
+
+About us 
+
+102-6 
+
+Markets served 
+
+-  
+
+SR 2 
+
+About us 
+
+102-7 
+
+Scale of the organisation 
+
+-  
+
+SR 2 
+
+SR12 - 14 
+
+AR 46 
+
+About us 
+
+Responsibility towards 
+
+our people 
+
+102-8 
+
+Information on 
+
+employees and other 
+
+workers 
+
+-  
+
+SR 12 - 14 
+
+Responsibility towards 
+
+our people 
+
+102-9 
+
+Supply chain 
+
+-  
+
+SR 8 - 9 
+
+Responsibility towards 
+
+our economy 
+
+102-10 
+
+Significant changes to 
+
+the organisation and its 
+
+supply chain 
+
+No changes 
+
+-  
+
+-  
+
+102-11 
+
+Precautionary principle 
+
+or approach 
+
+ 
+
+SR 4 
+
+Business excellence 
+
+and ethics 
+
+102-12 
+
+External initiatives 
+
+None 
+
+-  
+
+-  
+
+102-13 
+
+Membership of 
+
+associations 
+
+Singapore 
+
+Business 
+
+Federation 
+
+-  
+
+-  
+
+GRI 102: Strategy
+
+GRI 102: Strategy
+
+GRI 102: Strategy
+
+GRI 102: Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+-  
+
+SR 3 
+
+Board's message 
+
+GRI 102: Ethics and 
+
+GRI 102: Ethics and 
+
+GRI 102: Ethics and 
+
+GRI 102: Ethics and IIIIntegrity
+
+ntegrity
+
+ntegrity
+
+ntegrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behaviour 
+
+-  
+
+SR 2 
+
+SR 4 
+
+About us 
+
+Business excellence 
+
+and ethics 
+
+GRI 102: Governance
+
+GRI 102: Governance
+
+GRI 102: Governance
+
+GRI 102: Governance 
+
+102-18 
+
+Governance structure 
+
+-  
+
+SR 5 
+
+Our approach to 
+
+sustainability 
+
+GRI 102: Stakeholder 
+
+GRI 102: Stakeholder 
+
+GRI 102: Stakeholder 
+
+GRI 102: Stakeholder EEEEngagement
+
+ngagement
+
+ngagement
+
+ngagement 
+
+102-40 
+
+List of stakeholder 
+
+groups 
+
+-  
+
+SR 6 
+
+Identification of 
+
+stakeholders 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+-  
+
+SR 12 
+
+Responsibility towards 
+
+our people 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+20 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+-  
+
+SR 5 - 6 
+
+Identification of 
+
+stakeholders 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+-  
+
+SR 6 
+
+Identification of 
+
+stakeholders 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+-  
+
+SR 6 
+
+Identification of 
+
+stakeholders 
+
+GRI 102: Reporting 
+
+GRI 102: Reporting 
+
+GRI 102: Reporting 
+
+GRI 102: Reporting PPPPractice
+
+ractice
+
+ractice
+
+ractice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+-  
+
+SR 1 
+
+AR 7 
+
+About this report 
+
+102-46 
+
+Defining report content 
+
+and topic Boundaries 
+
+-  
+
+SR 5 
+
+SR 7 
+
+Our approach to 
+
+sustainability 
+
+Our material EESG 
+
+factors 
+
+102-47 
+
+List of material topics 
+
+-  
+
+SR 7 
+
+Our material EESG 
+
+factors 
+
+102-48 
+
+Restatements of 
+
+information 
+
+None 
+
+-  
+
+-  
+
+102-49 
+
+Changes in reporting 
+
+No changes 
+
+-  
+
+-  
+
+102-50 
+
+Reporting period 
+
+-  
+
+SR 1 
+
+About this report 
+
+102-51 
+
+Date of most recent 
+
+report 
+
+15 May 2019 
+
+-  
+
+-  
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+-  
+
+-  
+
+102-53 
+
+Contact point for 
+
+questions regarding the 
+
+report 
+
+-  
+
+SR 1 
+
+About this report 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+standards 
+
+-  
+
+SR 1 
+
+About this report 
+
+102-55 
+
+GRI content index 
+
+-  
+
+SR 19 - 24 
+
+GRI content index 
+
+102-56 
+
+External assurance 
+
+No external 
+
+assurance 
+
+-  
+
+-  
+
+GRI 20
+
+GRI 20
+
+GRI 20
+
+GRI 201111: : : : Economic 
+
+Economic 
+
+Economic 
+
+Economic PPPPerformance
+
+erformance
+
+erformance
+
+erformance    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+AR 46 
+
+AR 98 - 99 
+
+-  
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+AR 46 
+
+AR 98 - 99 
+
+-  
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+AR 46 
+
+AR 98 - 99 
+
+-  
+
+201-1 
+
+Direct economic value 
+
+generated and 
+
+distributed 
+
+-  
+
+AR 46 
+
+AR 98 - 99 
+
+-  
+
+GRI 203: Indirect 
+
+GRI 203: Indirect 
+
+GRI 203: Indirect 
+
+GRI 203: Indirect EEEEconomic 
+
+conomic 
+
+conomic 
+
+conomic IIIImpacts
+
+mpacts
+
+mpacts
+
+mpacts 
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 8 
+
+Responsibility towards 
+
+our economy 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 8 
+
+Responsibility towards 
+
+our economy 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 8 
+
+Responsibility towards 
+
+our economy 
+
+203-2 
+
+Significant indirect 
+
+economic impacts 
+
+-  
+
+SR 8 - 9 
+
+Responsibility towards 
+
+our economy 
+
+GRI 204: Procurement 
+
+GRI 204: Procurement 
+
+GRI 204: Procurement 
+
+GRI 204: Procurement PPPPractices
+
+ractices
+
+ractices
+
+ractices 
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 9 
+
+Responsibility towards 
+
+our economy 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 9 
+
+Responsibility towards 
+
+our economy 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 9 
+
+Responsibility towards 
+
+our economy 
+
+204-1 
+
+Proportion of spending 
+
+on local suppliers 
+
+-  
+
+SR 8 - 9 
+
+Responsibility towards 
+
+our economy 
+
+GRI 205: Anti
+
+GRI 205: Anti
+
+GRI 205: Anti
+
+GRI 205: Anti----corruption
+
+corruption
+
+corruption
+
+corruption 
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 4 
+
+Business excellence 
+
+and ethics 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 4 
+
+Business excellence 
+
+and ethics 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 4 
+
+Business excellence 
+
+and ethics 
+
+205-3 
+
+Conﬁrmed incidents of 
+
+corruption and actions 
+
+taken 
+
+-  
+
+SR 4 
+
+Business excellence 
+
+and ethics 
+
+GRI 302: Energy
+
+GRI 302: Energy
+
+GRI 302: Energy
+
+GRI 302: Energy 
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+22 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+302-1 
+
+Energy consumption 
+
+within the organisation 
+
+-  
+
+SR 10 - 11 
+
+Responsibility towards 
+
+our environment 
+
+302-3 
+
+Energy intensity 
+
+-  
+
+SR 10 - 11 
+
+Responsibility towards 
+
+our environment 
+
+GRI 307: Environmental 
+
+GRI 307: Environmental 
+
+GRI 307: Environmental 
+
+GRI 307: Environmental CCCCompliance
+
+ompliance
+
+ompliance
+
+ompliance    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 10 
+
+Responsibility towards 
+
+our environment 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+-  
+
+SR 10 - 11 
+
+Responsibility towards 
+
+our environment 
+
+GRI 401: Employment
+
+GRI 401: Employment
+
+GRI 401: Employment
+
+GRI 401: Employment    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 12 - 13 
+
+Responsibility towards 
+
+our people 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 12 – 13 
+
+Responsibility towards 
+
+our people 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 12 – 13 
+
+Responsibility towards 
+
+our people 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+-  
+
+SR 12 - 16 
+
+Responsibility towards 
+
+our people 
+
+GRI 404: Training and 
+
+GRI 404: Training and 
+
+GRI 404: Training and 
+
+GRI 404: Training and EEEEducation
+
+ducation
+
+ducation
+
+ducation    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 16 
+
+Responsibility towards 
+
+our people 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 16 
+
+Responsibility towards 
+
+our people 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 16 
+
+Responsibility towards 
+
+our people 
+
+404-3 
+
+Percentage of 
+
+employees receiving 
+
+regular performance and 
+
+career development 
+
+reviews 
+
+-  
+
+SR 12 - 16 
+
+Responsibility towards 
+
+our people 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+23 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+GRI 405: Diversity and 
+
+GRI 405: Diversity and 
+
+GRI 405: Diversity and 
+
+GRI 405: Diversity and EEEEqual 
+
+qual 
+
+qual 
+
+qual OOOOpportunity
+
+pportunity
+
+pportunity
+
+pportunity    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+405-1 
+
+Diversity of governance 
+
+bodies and employees 
+
+-  
+
+SR 12 - 16 
+
+Responsibility towards 
+
+our people 
+
+GRI 406: Non
+
+GRI 406: Non
+
+GRI 406: Non
+
+GRI 406: Non----discrimination
+
+discrimination
+
+discrimination
+
+discrimination    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 14 - 15 
+
+Responsibility towards 
+
+our people 
+
+406-1 
+
+Incidents of 
+
+discrimination and 
+
+corrective actions taken 
+
+-  
+
+SR 12 -16 
+
+Responsibility towards 
+
+our people 
+
+GRI 416: Customer 
+
+GRI 416: Customer 
+
+GRI 416: Customer 
+
+GRI 416: Customer HHHHealth and 
+
+ealth and 
+
+ealth and 
+
+ealth and SSSSafety
+
+afety
+
+afety
+
+afety    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+416-2 
+
+Incidents of non-
+
+compliance concerning 
+
+the health and safety 
+
+impacts of products and 
+
+services 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+GRI 418: Customer 
+
+GRI 418: Customer 
+
+GRI 418: Customer 
+
+GRI 418: Customer PPPPrivacy
+
+rivacy
+
+rivacy
+
+rivacy    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 17 – 18 
+
+Responsibility towards 
+
+our customers 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+24 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Disclosure 
+
+Number
+
+Number
+
+Number
+
+Number    
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title
+
+Disclosure Title    
+
+Comments
+
+Comments
+
+Comments
+
+Comments    
+
+Page References
+
+Page References
+
+Page References
+
+Page References    
+
+ 
+
+AR: Annual Report 
+
+SR: Sustainability Report 
+
+Section References
+
+Section References
+
+Section References
+
+Section References    
+
+418-1 
+
+Substantiated 
+
+complaints concerning 
+
+breaches of customer 
+
+privacy and losses of 
+
+customer data 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+GRI 419: Socioeconomic 
+
+GRI 419: Socioeconomic 
+
+GRI 419: Socioeconomic 
+
+GRI 419: Socioeconomic CCCCompliance
+
+ompliance
+
+ompliance
+
+ompliance    
+
+103-1 
+
+Explanation of the 
+
+material topic and its 
+
+Boundary 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-2 
+
+The management 
+
+approach and its 
+
+components 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+419-1 
+
+Non-compliance with 
+
+laws and regulations in 
+
+the social and economic 
+
+area 
+
+-  
+
+SR 17 - 18 
+
+Responsibility towards 
+
+our customers 
+
+ 
+

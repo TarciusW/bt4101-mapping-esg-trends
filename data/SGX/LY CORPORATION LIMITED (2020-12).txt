@@ -1,0 +1,5064 @@
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LY CORPORATION 
+
+LIMITED 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STAYING 
+
+THE COURSE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY 
+
+REPORT 2020 
+
+
+
+
+
+
+
+
+ 
+
+Table of Contents 
+
+BOARD STATEMENT ............................................................................................................................. 1 
+
+ABOUT THIS REPORT ........................................................................................................................... 2 
+
+KEY HIGHLIGHTS .................................................................................................................................. 3 
+
+MANAGING SUSTAINABILITY AT LY CORPORATION ....................................................................... 4 
+
+STAKEHOLDER ENGAGEMENT ........................................................................................................... 6 
+
+MATERIALITY ASSESSMENT ............................................................................................................... 9 
+
+ENVIRONMENTAL ............................................................................................................................... 13 
+
+SOCIAL ................................................................................................................................................. 15 
+
+GOVERNANCE ..................................................................................................................................... 22 
+
+ECONOMIC........................................................................................................................................... 26 
+
+GRI CONTENT INDEX ......................................................................................................................... 30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This document has been reviewed by the Company's Sponsor, Xandar Capital Pte. Ltd. It has not been 
+
+examined or approved by the Singapore Exchange Securities Trading Limited (the “SGX-ST”) and the 
+
+SGX-ST assumes no responsibility for the contents of this report, including the correctness of any of 
+
+the statements or opinions made or reports contained in this report. 
+
+The contact person for the Sponsor is Ms Pauline Sim Poi Lin, Head of Corporate Finance, at 3 Shenton 
+
+Way #24-02 Shenton House Singapore 068805, telephone (65) 6319 4954.  
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+1 
+
+BOARD STATEMENT 
+
+Dear Stakeholders, 
+
+LY Corporation Limited (the “Company”) and its subsidiaries (collectively, the “Group”) is pleased to 
+
+present its sustainability report (this “Report”) for the financial year ended 31 December 2020 
+
+(“FY2020”).  
+
+The outbreak of the COVID-19 pandemic has significantly disrupted the global supply chain and 
+
+businesses worldwide are striving to overcome these challenging times. Nonetheless, the Group 
+
+remain committed to sail through this crisis and conduct our business in an economically sustainable 
+
+manner.  
+
+Our Board of Directors (the “Board”) is dedicated to the Group’s sustainability efforts and is 
+
+responsible for determining and overseeing the Group’s material sustainability topics. The Board has 
+
+considered the sustainability topics as part of its strategy formulation.  
+
+Under the guidance of the Board, our Sustainability Steering Committee (which comprises the head 
+
+of departments of the various departments of the Group) plays an essential role in ensuring the 
+
+successful implementation of our sustainability initiatives. With the aim of fostering greater 
+
+transparency and accountability, this report presents our initiatives, progress and targets towards 
+
+achieving sustainable growth.  
+
+In view of the COVID-19 pandemic, we place the protection of the health and safety of our employees 
+
+as top priority. In order to safeguard the wellbeing of our employees, we have implemented safety 
+
+measures such as the mandatory wearing of face masks, safe distancing and regular sanitisation at our 
+
+workplaces and health screening for our employees.  
+
+We have also put in place appropriate measures to enhance our operational resilience and maintain 
+
+our ability to generate returns for our stakeholders amidst the economic uncertainties and operational 
+
+challenges brought about by the COVID-19 pandemic.  
+
+We continue to stay committed to conducting business in a sustainable manner by engaging in 
+
+environmentally friendly initiatives such as sourcing of sustainable raw materials and recycling of 
+
+waste materials generated in the course of production. We also embarked on our journey on adopting 
+
+renewable energy sources to reduce our carbon footprint.  
+
+We also recognise that the success of our sustainability journey requires a concerted and continuous 
+
+effort from all our valued stakeholders. Hence, we would like to take this opportunity to express our 
+
+utmost gratitude towards the Board, the management of the Group (the “Management”) and all our 
+
+staff for their contribution and unwavering commitment to achieve our sustainability goals.  
+
+We are committed to build a sustainable future and deliver greater value to our esteemed 
+
+stakeholders.  
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+2 
+
+ABOUT THIS REPORT 
+
+This Report provides a summary of the Group’s approaches, initiatives and strategies related to 
+
+sustainability and responsible business practices.  
+
+ 
+
+REPORTING FRAMEWORK  
+
+This Report has been prepared in accordance with the Global Reporting Initiative (“GRI”) Standards: 
+
+Core option and the Listing Manual (Section B: Rules of Catalist) (“Catalist Rules”) of the SGX-ST 
+
+(namely, Catalist Rules 711A and 711B). The Company has selected the GRI Standards as it is a globally 
+
+recognised and widely adopted framework, which enables our stakeholders to compare our 
+
+sustainability performance against our industry peers. 
+
+The content of this Report is defined by the four (4) reporting principles under the GRI Standards – 
+
+Stakeholder Inclusiveness, Sustainability Context, Materiality and Completeness.  
+
+ 
+
+SCOPE OF REPORT 
+
+The report covers the Group’s furniture manufacturing and sale businesses in Malaysia for FY2020, 
+
+which comprises: 
+
+ 
+
+LY Furniture Sdn. Bhd. and LY Global Hub Sdn. Bhd. (collectively “LY Furniture”) 
+
+ 
+
+Leyo Holdings Sdn. Bhd. and its subsidiaries, Leyo Manufacturing Sdn. Bhd. and Titan 
+
+Hardware Sdn. Bhd. (collectively “LHG”) 
+
+ 
+
+SUSTAINABILITY GOVERNANCE AND REPORT DEVELOPMENT  
+
+The Board provides the oversight of the performance of the Sustainability Steering Committee (“SSC”) 
+
+and the Sustainability Working Committee (“SWC”) which are responsible for implementation of 
+
+sustainability initiatives for the Group. 
+
+ 
+
+FEEDBACK 
+
+This report forms part of our Annual Report for FY2020 (“2020 Annual Report”) and can be viewed or 
+
+downloaded from https://investor.lyfurniture.com/. As part of our continued efforts to improve our 
+
+reporting, we welcome our stakeholders to submit their feedback to the following personnel: 
+
+ 
+
+Mr. Tan Yong Chuan, Chief Executive Officer (CEO) at tanyc@lyfurniture.com 
+
+ 
+
+ 
+
+Ms. Teo Gin Lian, Chief Financial Officer (CFO) at teogl@lyfurniture.com  
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+3 
+
+KEY HIGHLIGHTS 
+
+ 
+
+ 
+
+ 
+
+Dimensions 
+
+Material Areas 
+
+FY2020 Achievements 
+
+Environmental  Material Use 
+
+ 
+
+Dedicated in attaining PEFC in the financial year 
+
+ending 31 December 2022 (“FY2022”) 
+
+ 
+
+85% of wood from sustainable source (FY2019: 90%) 
+
+Social 
+
+Training 
+
+and 
+
+Development 
+
+ 
+
+Attained an average 4.6 training hours per 
+
+employee (FY2019: 7.3 training hours) 
+
+Workplace 
+
+Health 
+
+and Safety 
+
+ 
+
+Achieved zero cases of workplace fatalities (FY2019: 
+
+zero cases) 
+
+Governance 
+
+Corporate 
+
+Governance 
+
+ 
+
+Complied with principles of the Code of Corporate 
+
+Governance and provided explanations where there 
+
+are deviations to the Code of Corporate Governance 
+
+(FY2019: same as FY2020) 
+
+ 
+
+Ethics, Bribery and 
+
+Corruption 
+
+ 
+
+Achieved zero cases which are unethical, fraudulent 
+
+or corrupt in nature (FY2019: zero cases) 
+
+ 
+
+Regulatory 
+
+Compliance 
+
+ 
+
+Achieved zero significant fines and zero reported 
+
+cases of non-compliance with all applicable laws, 
+
+rules and regulations (FY2019: zero significant fines 
+
+and zero reported cases) 
+
+ 
+
+Economic 
+
+Economic Agility 
+
+ 
+
+Launched nine (9) new products for LY Furniture and 
+
+one (1) new product line for LHG (FY2019: 39 new 
+
+products for LY Furniture and diversified into 
+
+original brand manufacturer business under LHG) 
+
+ 
+
+Quality of Product 
+
+and Services 
+
+ 
+
+Invested 
+
+approximately 
+
+RM84,000 
+
+(FY2019: 
+
+RM44,000) for quality review purpose  
+
+ 
+
+Achieved zero cases of significant chargeback under 
+
+LY Furniture and LHG (FY2019: six cases) 
+
+ 
+
+Customer 
+
+Satisfaction 
+
+ 
+
+Achieved an average of 4.1 (over a full score of 5.0) 
+
+across all three (3) aspects for the customer 
+
+satisfaction survey (FY2019: 3.7) 
+
+
+
+
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+4 
+
+MANAGING SUSTAINABILITY AT LY CORPORATION 
+
+We recognise the importance of a robust sustainability governance structure to ensure accountability 
+
+and transparency. The SSC, supported by the SWC, takes a pro-active role in executing and monitoring 
+
+of the Group’s sustainability practices and performance. The SSC comprises the Heads of Departments 
+
+from Finance, Sales &amp; Marketing, Administration, Purchasing &amp; Procurement and Operations 
+
+departments.  
+
+ 
+
+Sustainability Steering Committee 
+
+Sustainability Working Committee 
+
+Sustainability Team Effort 
+
+ 
+
+ 
+
+SUSTAINABILITY STEERING COMMITTEE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Role
+
+The SSC provides oversight and updates 
+
+the Board and Management on the 
+
+Group's policies, strategies and initiatives 
+
+regarding sustainability measures and 
+
+corporate social responsibility.
+
+
+
+Performance Goals
+
+The SSC determines and monitors the 
+
+goals established for its performance 
+
+regarding sustainability measures and 
+
+corporate social responsibility and 
+
+assesses the Group’s progress against 
+
+those goals.
+
+
+
+Periodic Feedback
+
+The SSC receives regular feedback from 
+
+the Management regarding key 
+
+stakeholders' relationship management, 
+
+especially those that may have a 
+
+significant impact on the Group's 
+
+business activities and performance.
+
+
+
+Reporting and Disclosure
+
+The SSC issues the sustainability reports 
+
+and is also responsible for reporting to 
+
+the Board on sustainability matters as 
+
+needed, but minimally on an annual 
+
+basis.
+
+
+
+
+
+Sustainability Steering Committee 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+5 
+
+SUSTAINABILITY WORKING COMMITTEE 
+
+The SWC consists of representatives from Finance, Sales &amp; Marketing, Administration, Purchasing &amp; 
+
+Procurement and Operations departments. Under the directives of SSC, the representatives are 
+
+responsible for implementing the Group’s sustainability initiatives.  
+
+ 
+
+ 
+
+Roles and Responsibilities of the SWC 
+
+ 
+
+Sustainability Working Committee
+
+Finance
+
+Sales &amp; 
+
+Marketing
+
+Administration
+
+Purchasing &amp; 
+
+Procurement
+
+Operations
+
+
+
+• Ensure that accounts are prepared accurately and timely
+
+• Provide required data for the purposes of monitoring 
+
+and reporting on sustainability topics
+
+Finance
+
+
+
+• Secure new customers and orders
+
+• Procure repeat orders from existing customers
+
+• Address customers' requirements and concerns over our 
+
+products
+
+Sales &amp; Marketing
+
+
+
+• Work along with the Health, Safety &amp; Environmental 
+
+Department to handle workplace health and safety 
+
+matters and proper disposal of waste
+
+Administration
+
+
+
+• Ensure that materials purchased for production meet 
+
+our quality standards and customers' requirements
+
+Purchasing &amp; Procurement
+
+
+
+• Ensure that products are produced in accordance with 
+
+customers' specifications and delivered to our customers 
+
+timely
+
+• Ensure minimal wastage during production
+
+Operations
+
+
+ 
+
+ 6 
+
+STAKEHOLDER ENGAGEMENT 
+
+Under the GRI Standards, stakeholders are defined as “entity or individual that can reasonably be 
+
+expected to be significantly affected by the reporting organisation’s activities, products and services, 
+
+or whose actions can reasonably be expected to affect the ability of the organisation to successfully 
+
+implement its strategies and achieve its objectives” and we have identified our key stakeholders 
+
+accordingly as presented in the table below. We strive to maintain open communication and strong 
+
+relationships with our stakeholders regularly to better understand their expectations and concerns. 
+
+Their valuable inputs guide us to make better-informed decisions and implement appropriate 
+
+sustainable business strategies for the Group.  
+
+Our approach towards stakeholder engagement is summarised as follows:  
+
+Stakeholder 
+
+Engagement 
+
+Platforms 
+
+Frequency 
+
+Key Feedback/ 
+
+Concern 
+
+Commitments to 
+
+Sustainability 
+
+Investors 
+
+Annual general 
+
+meeting 
+
+Annual 
+
+ 
+
+Sustainable 
+
+profitability and 
+
+shareholder 
+
+returns 
+
+ 
+
+Long-term 
+
+business growth 
+
+ 
+
+Accurate, timely 
+
+and transparent 
+
+disclosure of 
+
+information 
+
+ 
+
+High standards 
+
+of corporate 
+
+governance 
+
+ 
+
+Strive to generate 
+
+sustainable long-term 
+
+profitability  
+
+ 
+
+Adhere to timely, 
+
+transparent and 
+
+accurate dissemination 
+
+of pertinent information 
+
+to the market 
+
+ 
+
+Ensure good corporate 
+
+governance are in place 
+
+in accordance to 
+
+principles and provisions 
+
+of the Code of Corporate 
+
+Governance 2018 
+
+(Please refer to our 
+
+Corporate Governance 
+
+Report set out on pages 
+
+14 to 40 of our 2020 
+
+Annual Report) 
+
+Annual report 
+
+Annual 
+
+Financial result 
+
+announcements 
+
+Bi-annual 
+
+Other corporate 
+
+announcements 
+
+Ad-hoc 
+
+Company website 
+
+Throughout 
+
+the year 
+
+Employees 
+
+and Workers 
+
+Performance 
+
+reviews with Heads 
+
+of Department 
+
+Quarterly 
+
+ 
+
+Job security 
+
+ 
+
+Safe working 
+
+environment 
+
+ 
+
+Fair and 
+
+competitive 
+
+employment 
+
+practices 
+
+ 
+
+Staff 
+
+development 
+
+and well-being 
+
+ 
+
+Work-life 
+
+balance 
+
+ 
+
+Competitive 
+
+remuneration 
+
+and benefits 
+
+ 
+
+Seek to ensure the job 
+
+security of employees 
+
+when making business 
+
+decisions 
+
+ 
+
+Create a safe and 
+
+cohesive working 
+
+environment 
+
+ 
+
+Provide fair and equal 
+
+opportunities to all 
+
+employees 
+
+ 
+
+Provide talks and 
+
+trainings on safety 
+
+(Please refer to the 
+
+“Workplace Health and 
+
+Safety” section of this 
+
+Report) 
+
+Training and 
+
+development 
+
+Throughout 
+
+the year 
+
+Feedback platform 
+
+Throughout 
+
+the year 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+7 
+
+Stakeholder 
+
+Engagement 
+
+Platforms 
+
+Frequency 
+
+Key Feedback/ 
+
+Concern 
+
+Commitments to 
+
+Sustainability 
+
+ 
+
+Share economic value 
+
+generated by the Group 
+
+with employees through 
+
+increments and bonuses 
+
+Customers 
+
+Emails 
+
+Throughout 
+
+the year 
+
+ 
+
+Quality of 
+
+finished goods 
+
+ 
+
+Timely delivery 
+
+of finished 
+
+goods 
+
+ 
+
+Competitive 
+
+pricing 
+
+ 
+
+Timely response 
+
+to customer 
+
+feedbacks and 
+
+complaints 
+
+ 
+
+Deliver products with 
+
+high standards of quality 
+
+and consistency 
+
+according to customers’ 
+
+specifications 
+
+ 
+
+Ensure timely shipment 
+
+of products 
+
+ 
+
+Price negotiation with 
+
+clients to ensure 
+
+competitive pricing in 
+
+the market while 
+
+maintaining the Group’s 
+
+profit margin 
+
+ 
+
+Prompt to deliver after-
+
+sales services upon 
+
+customers’ requests 
+
+Tele-conversations 
+
+Throughout 
+
+the year 
+
+Physical and virtual 
+
+meetups with 
+
+customers 
+
+Throughout 
+
+the year 
+
+Suppliers/ 
+
+Sub-
+
+contractors 
+
+Emails 
+
+Throughout 
+
+the year 
+
+ 
+
+Provide 
+
+suppliers 
+
+consistent / 
+
+greater business 
+
+opportunity 
+
+ 
+
+Meeting our 
+
+Group’s quality 
+
+requirements 
+
+ 
+
+Committed to making 
+
+sustainable procurement 
+
+choices 
+
+ 
+
+Providing timely 
+
+feedback on quality of 
+
+materials/products to 
+
+suppliers/sub-
+
+contractors 
+
+Tele-conversations 
+
+Throughout 
+
+the year 
+
+Physical and virtual 
+
+meetups with 
+
+suppliers/sub-
+
+contractors 
+
+Ad-hoc 
+
+Government/ 
+
+Regulators 
+
+Correspondences 
+
+through emails and 
+
+letters 
+
+Throughout 
+
+the year 
+
+ 
+
+Compliance with 
+
+laws, rules and 
+
+regulations 
+
+ 
+
+Corporate 
+
+governance 
+
+ 
+
+Safe working 
+
+environment 
+
+ 
+
+Strict compliance with 
+
+relevant laws, rules and 
+
+regulations 
+
+ 
+
+Fair and reasonable 
+
+business practices 
+
+ 
+
+Prioritise employees’ 
+
+health and safety 
+
+ 
+
+Provide directors and 
+
+employees regular 
+
+trainings to update them 
+
+of latest regulations and 
+
+practices 
+
+Meetings, briefings 
+
+and regular 
+
+reporting 
+
+Ad-hoc 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+8 
+
+Stakeholder 
+
+Engagement 
+
+Platforms 
+
+Frequency 
+
+Key Feedback/ 
+
+Concern 
+
+Commitments to 
+
+Sustainability 
+
+The 
+
+Community 
+
+Community 
+
+outreach initiatives 
+
+Ad-hoc 
+
+ 
+
+Eco-sustainable 
+
+business 
+
+practices 
+
+ 
+
+Responsible and 
+
+ethical business 
+
+practices 
+
+ 
+
+Contribution to 
+
+local community 
+
+ 
+
+Understand and support 
+
+initiatives by local 
+
+community/ 
+
+government 
+
+ 
+
+Proper waste 
+
+management and 
+
+disposal system in place 
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+9 
+
+MATERIALITY ASSESSMENT 
+
+Through engagement with the Management, we took into consideration of the sustainability of our 
+
+business model and assessed the material topics that were significant to the Group and its 
+
+stakeholders. Our approach aims to be aligned with the reporting principles of Stakeholder 
+
+Inclusiveness, Sustainability Context, Materiality and Completeness. 
+
+The Group’s material topics are identified and prioritised in the materiality matrix. In accordance to 
+
+the reporting principles, we consider the materiality topic’s importance to the stakeholders as well as 
+
+the significance of the topic’s Economic, Environmental, Social and Governance impacts. The material 
+
+topics are ranked in the materiality matrix and are further discussed in the subsequent pages of the 
+
+report. 
+
+ 
+
+ 
+
+ 
+
+MATERIAL TOPICS – AT A GLANCE 
+
+A materiality analysis was performed to identify key sustainability issues that were significant to our 
+
+stakeholders. This analysis guides us to focus on key areas that we can strengthen in so as to achieve 
+
+a sustainable business model.  
+
+Our review focuses on four (4) key sustainability dimensions with nine (9) identified topics. For each 
+
+material topic, we report on its importance to our business and stakeholders, coupled with measures 
+
+to mitigate it. For applicable topics, we have also included the COVID-19 related measures 
+
+implemented in FY2020. 
+
+Corporate Governance
+
+Ethics, Bribery and Corruption
+
+Regulatory Compliance
+
+Economic Agility
+
+Quality of Products and Services
+
+Customer Satisfaction
+
+Material Use
+
+Training and Development
+
+Workplace Health 
+
+and Safety
+
+Importance to Stakeholders
+
+Significance of Economic, Environmental, Social and Governance Impact
+
+Materiality Matrix
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+10 
+
+Material Topic 
+
+Relevance 
+
+How We Are Addressing the Issue 
+
+Environmental 
+
+Material Use 
+
+We believe in providing the best 
+
+quality products to our customers but 
+
+not 
+
+at 
+
+the 
+
+expense 
+
+of 
+
+the 
+
+environment. 
+
+ 
+
+ 
+
+We are committed to achieve our 
+
+economic goals in a sustainable and 
+
+environmentally friendly manner. 
+
+The Board and Management recognises 
+
+the importance of using materials that 
+
+adheres to our quality policy. We strive 
+
+to 
+
+make 
+
+sustainable 
+
+procurement 
+
+choices. 
+
+To further our sustainable efforts, we are 
+
+still in the midst of attaining the 
+
+Programme for the Endorsement of 
+
+Forest 
+
+Certification 
+
+(“PEFC”), 
+
+the 
+
+application of which was affected by 
+
+COVID-19 pandemic.  
+
+Social 
+
+Training 
+
+and 
+
+Development 
+
+We 
+
+believe 
+
+that our 
+
+business’ 
+
+productivity 
+
+and 
+
+profitability 
+
+is 
+
+dependent on our human capital 
+
+capacity and quality. Investing in 
+
+training 
+
+and 
+
+development 
+
+programmes to groom skilled and 
+
+competent employees and workers 
+
+create long-term value for our Group. 
+
+We strive to retain our talent pool by 
+
+offering them in-house and external 
+
+training programmes.  
+
+We advocate good working environment 
+
+by providing orientation and on-job 
+
+supervision and guidance.  
+
+ 
+
+Workplace 
+
+Health 
+
+and 
+
+Safety 
+
+With the detrimental health impacts 
+
+brought by the COVID-19 pandemic, 
+
+we recognise that the health and 
+
+safety of our employees are of utmost 
+
+importance.  
+
+We are committed to provide a safe 
+
+and healthy working environment for 
+
+all employees.  
+
+ 
+
+ 
+
+We emphasis on the need of continuous 
+
+training for the employees and workers 
+
+to upkeep a high standard of workplace 
+
+health and safety.  
+
+In FY2020, we have sent our employees 
+
+for trainings relating to topics such as fire 
+
+drill, first aid and cardiopulmonary 
+
+resuscitation (“CPR”) and COVID-19 
+
+awareness.  
+
+We conduct regular trainings to refresh 
+
+employees and workers with the latest 
+
+safety guidelines and strengthen their 
+
+workplace health and safety awareness.  
+
+We also adopted COVID-19 pandemic 
+
+related safety measures such as safe 
+
+distancing, health screening and regular 
+
+sanitisation to promote a safe and 
+
+healthy work environment for all 
+
+employees. 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+11 
+
+Material Topic 
+
+Relevance 
+
+How We Are Addressing the Issue 
+
+Material Topic 
+
+Relevance 
+
+How We Are Addressing the Issue 
+
+
+
+
+
+
+
+
+
+
+
+Governance 
+
+Corporate 
+
+Governance 
+
+We are committed to establish a 
+
+strong corporate governance culture 
+
+with zero tolerance towards unethical 
+
+practices.  
+
+ 
+
+We strive to uphold the highest standard 
+
+of 
+
+corporate 
+
+governance 
+
+and 
+
+transparency and compliance to the 
+
+principles of the Code of Corporate 
+
+Governance.  
+
+We established code of conduct which 
+
+are expected to complied by all 
+
+employees as our commitment to the 
+
+ethical standards.  
+
+Ethics, Bribery 
+
+and 
+
+Corruption 
+
+We believe that upholding high 
+
+standards of ethics and conducting 
+
+our 
+
+business 
+
+with 
+
+integrity 
+
+is 
+
+fundamental 
+
+for 
+
+the 
+
+business’ 
+
+success. 
+
+Therefore, 
+
+we 
+
+are 
+
+committed to building a positive 
+
+corporate 
+
+image 
+
+through 
+
+our 
+
+exemplary corporate governance and 
+
+business ethics.  
+
+We 
+
+have 
+
+zero 
+
+tolerance 
+
+towards 
+
+unethical practices, bribery, corruption 
+
+and fraud. In the event of conflict of 
+
+duties or interests, our employees are 
+
+expected to make prompt disclosures.  
+
+We also have a whistle-blowing policy in 
+
+place to enable the reporting and follow-
+
+up on concerns of malpractice or any 
+
+suspicion of fraudulent or inappropriate 
+
+activities within the Group 
+
+We target to achieve zero cases of 
+
+unethical, 
+
+fraudulent 
+
+or 
+
+corrupted 
+
+behaviours. 
+
+Regulatory 
+
+Compliance 
+
+With a strong ethical culture, we seek 
+
+to 
+
+ensure 
+
+compliance 
+
+with 
+
+all 
+
+regulatory requirements at all times. 
+
+Any breach of laws, rules and 
+
+regulations could significantly hurt 
+
+our businesses and negatively impact 
+
+our reputation in the industry.  
+
+The Board and Management set a strong 
+
+tone at the top with zero tolerance 
+
+towards any non-compliances with the 
+
+Group’s policies, applicable laws, rules 
+
+and regulations.  
+
+The Group upholds a strong ethical 
+
+culture and all employees are inculcated 
+
+with the importance of regulatory 
+
+compliance 
+
+since 
+
+their 
+
+orientation 
+
+training. 
+
+In FY2020, there are zero significant fines 
+
+and reportable cases of non-compliances 
+
+with all applicable laws, rules and 
+
+regulations.  
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+12 
+
+Material Topic 
+
+Relevance 
+
+How We Are Addressing the Issue 
+
+Economic 
+
+Economic 
+
+Agility 
+
+We recognise the importance to 
+
+adapt to the constantly evolving 
+
+business environment in the furniture 
+
+industry.  
+
+We aim to be adaptable and expand 
+
+into new markets and product 
+
+offerings to diversify our risks and 
+
+increase our market presence.  
+
+We are dedicated to be economically 
+
+agile and operationally ready to 
+
+respond 
+
+to 
+
+the 
+
+ever-changing 
+
+pandemic situation.  
+
+In FY2020, despite COVID-19 related 
+
+operational restrictions, we managed to 
+
+expand our product offerings with LY 
+
+Furniture launching nine (9) new product 
+
+models and LHG introducing one (1) new 
+
+product line.  
+
+We also implemented COVID-19 safety 
+
+precautions 
+
+and 
+
+economically 
+
+sustainable measures in order to ensure 
+
+that our business stays operationally 
+
+ready. 
+
+We also believe that our strategy for 
+
+diversification over the years will help us 
+
+to mitigate the financial impact of the 
+
+pandemic.  
+
+Quality 
+
+of 
+
+Products and 
+
+Services 
+
+We believe that providing our 
+
+customers with products and services 
+
+of 
+
+the 
+
+highest 
+
+quality 
+
+is 
+
+the 
+
+cornerstone of business growth.  
+
+We 
+
+recognise 
+
+that 
+
+delivering 
+
+consistent excellent quality products 
+
+and services is critical for our 
+
+customer satisfaction and brand 
+
+loyalty.  
+
+ 
+
+We uphold our standard of delivering 
+
+quality products and services through 
+
+our rigorous quality control inspections 
+
+and dedication to customer service.  
+
+Our quality assurance policy emphasizes 
+
+the importance of products being of 
+
+excellent quality before delivering to our 
+
+customers.  
+
+In FY2020, we have continued to invest 
+
+in our quality review processes and will 
+
+continue 
+
+to 
+
+enhance 
+
+our 
+
+quality 
+
+assurance efforts to create greater value 
+
+for our customers.  
+
+We have zero cases of significant 
+
+chargeback cases for LY Furniture in 
+
+FY2020.  
+
+Customer 
+
+Satisfaction 
+
+We recognise the importance of 
+
+quality in our products and services, 
+
+as it forms a large part of our 
+
+branding. 
+
+We are committed to providing our 
+
+customers with high quality furniture 
+
+and 
+
+services, 
+
+while 
+
+seeking to 
+
+maintain this business relationship in 
+
+the long run. 
+
+We are committed to engage in open 
+
+communication with our customers and 
+
+to hear their views and concerns.  
+
+We have established feedback channels 
+
+to receive prompt feedback. We also 
+
+have formalised process in place to 
+
+receive, escalate, follow-up and report 
+
+customers’ feedback. 
+
+ 
+
+ 
+
+
+ 
+
+ 13 
+
+ENVIRONMENTAL 
+
+As we operate in the furniture manufacturing industry, we are fully aware of the importance of 
+
+environmental protection and responsible use of resources. We are committed in reducing the 
+
+ecological footprint created by our operational activities. It is our responsibility to educate our 
+
+stakeholders and take on measures to minimise undesirable impacts on the environment such as 
+
+pollution. We also strive to effectively manage our resource consumption.  
+
+ 
+
+OUR APPROACH 
+
+MATERIAL USE 
+
+We endeavour to monitor and manage resources consumed by our business to demonstrate our 
+
+dedication to a sustainable growth. We aim to make more sustainable procurement choices for our 
+
+manufacturing operations and will always remind our suppliers to source from sustainable sources.  
+
+In FY2020, 85% of our wood (that is, timber) were sourced from sustainable sources. There was a 
+
+decline in usage of sustainable sourced wood as resources availability was affected by the COVID-19 
+
+pandemic. Nonetheless, we conducted strict assessment of all our new suppliers and aim to make 
+
+sustainable procurement choices with no detrimental impact to our environment.  
+
+As part of our sustainable initiatives, we strive to use renewable material in our production process. 
+
+With conscious efforts to track and monitor our material usage, we identified that we have utilised 
+
+527,279,551 kilograms of wood material for production in FY2020.  
+
+We resonate strongly with the value of promoting sustainable forest management in our business 
+
+philosophy and are in the midst of attaining the Programme for the Endorsement of Forest 
+
+Certification (“PEFC”), the application of which was delayed by the COVID-19 pandemic. We anticipate 
+
+to complete the certification process and attain PEFC by FY2022. 
+
+The receipt of PEFC will further reinforce our brand reputation as an eco-friendly business. Below are 
+
+some of the benefits: 
+
+(a) 
+
+Enables us to source responsibly and to communicate to customers that the wood we are 
+
+using for our products comes from sustainably managed forests; 
+
+(b) 
+
+Leading retailers are demanding PEFC-certified products as part of their corporate social 
+
+responsibility commitments and are developing responsible procurement policies for many 
+
+forest products.  With PEFC certification, we will be well placed to meet these requirements; 
+
+(c) 
+
+PEFC certification assists in meeting regulatory requirements such as the European Union 
+
+Timber Regulation and the US Lacey Act; and 
+
+(d) 
+
+We are able to use the PEFC label by selling products produced from PEFC-certified material. 
+
+Target for FY2020 
+
+Performance in FY2020 
+
+Target 
+
+for 
+
+financial 
+
+year 
+
+ending 31 December 2021 
+
+(“FY2021”) 
+
+To attain PEFC 
+
+In Progress 
+
+(FY2019: In Progress) 
+
+To maintain our efforts in 
+
+practising PEFC’s guides so as 
+
+to attain PEFC by FY2022 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+14 
+
+Target for FY2020 
+
+Performance in FY2020 
+
+Target 
+
+for 
+
+financial 
+
+year 
+
+ending 31 December 2021 
+
+(“FY2021”) 
+
+At least 90% of wood sourced 
+
+from sustainable sources in 
+
+FY2020 
+
+85% of wood (that is, timber) 
+
+were sourced from sustainable 
+
+sources 
+
+(FY2019: 90% of wood (that is, 
+
+timber) were sourced from 
+
+sustainable sources) 
+
+At least 90% of wood sourced 
+
+from sustainable sources in 
+
+FY2021 
+
+ 
+
+ENERGY USE 
+
+We are exploring efficient and renewable solar solutions to reduce carbon footprint and diversify our 
+
+energy supply in a sustainable manner. In FY2020, we have installed solar photovoltaic (PV) systems 
+
+and the total solar active energy generated in FY2020 is 22.55MWh which is equivalent to 15.65 
+
+tonnes of carbon dioxide (CO2) avoidance. 
+
+WASTE MANAGEMENT 
+
+We strive to minimise our waste generation through efficient resources usage and implementation of 
+
+recycling measures. Recycling is the key to our waste management practices. In FY2020, LY Furniture 
+
+recycled approximately 3,345,778 kilograms of wood waste, 66,967 kilograms of plastic waste, 24,910 
+
+kilograms of carton waste and 28,987 kilograms of scrap iron. We use the wood waste generated in 
+
+LY Furniture as feedstock for our factory boiler to produce heat for production process and also send 
+
+sawdust to other companies for their usage. For LHG, approximately 129,370 kilograms of medium-
+
+density fibreboard and chipboard waste were also sent to a third-party boiler for their usage.  
+
+MOVING FORWARD 
+
+Moving forward, we will continue to strive to attain PEFC. We also target to maintain our record of 
+
+zero incidents of penalties for non-compliance to all relevant environmental regulations of the 
+
+jurisdictions that we operate in. We will continue to endeavour in playing a proactive role in 
+
+environmental conservation, seek innovative ways to enhance our waste management practices and 
+
+increase our waste recycling rates.  
+
+ 
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+15 
+
+SOCIAL 
+
+LY stands for “Lian You” (联友), which means “uniting friends”. Hence, we strongly believe that one 
+
+cannot succeed without friends, especially in an ever-changing and fast-growing globalised market. 
+
+Our corporate philosophy extends to all our stakeholders as identified in previous pages. We are 
+
+committed to bring about a positive contribution to the communities we operate in through our 
+
+business activities and initiatives. 
+
+We believe that our employees are key to our continued success and hence the need to empower 
+
+them and continually invest in employee training and development. We also strive to be a socially 
+
+responsible corporate and endeavour in social initiatives to contribute back to the society.  
+
+OUR APPROACH 
+
+TALENT ATTRACTION AND RETENTION 
+
+Our sustained growth dependent on our ability to attract and retain talents. Our employees’ 
+
+compensation packages are set in line with job requirements as well as qualifications and experience. 
+
+In addition, Management also conducts periodic review of employees’ compensation package to 
+
+ensure that they remain competitive and adequate according to industry standards.  
+
+Our compensation package includes benefits such as personal and family medical allowance. In 
+
+addition, marriage leave, prenatal leave and paternity leave are also extended to our employees as 
+
+long as they meet the requirements.  
+
+To foster the culture of employee appreciation, employees who have been with us for more than five 
+
+(5) years of continuous service and have performed well are eligible for long service awards in 
+
+recognition of their efforts for their valued contribution and dedicated services over the years.  
+
+Employees’ Profile 
+
+As at 31 December 2020, we have 1,737 LY Furniture employees and 102 LHG employees, a total of 
+
+1,839 employees, all of whom are permanent employees. In FY2020, there was an increase of 189 
+
+employees as compared to the prior year.  
+
+Due to the nature of our operations, a significant proportion of our employees are male.   
+
+ 
+
+ 
+
+
+
+
+
+Female
+
+20%
+
+Male
+
+80%
+
+EMPLOY EE S ' PROFIL E - BY  G EN DER
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+16 
+
+We establish good working relationship with our employees and have a high employee retention rate. 
+
+More than 50% of our employees have been with us for at least two (2) years, with approximately 15% 
+
+of employees having over six (6) years of employment with us.  
+
+ 
+
+ 
+
+TRAINING AND DEVELOPMENT 
+
+We believe in developing and nurturing employees to build a competent team which to meet the 
+
+business goals of the Group. We ensure that employees are presented with learning and training 
+
+opportunities to upgrade their skill sets and meet their professional development needs. 
+
+In-house training and development programmes are conducted to educate our employees about the 
+
+Group’s processes and industry standards. In FY2020, we conducted training for employees on topics 
+
+such as COVID-19 awareness, fire drill, first aid, CPR, security, cyber security and information security 
+
+and department/function-specific training. Our employees’ knowledge and competency are further 
+
+nurtured through on-the-job training and coaching.  
+
+The average number of training hours clocked in FY2020 was 4.6 hours per employee. We also seek 
+
+to ensure that our employees at all levels are adequately involved in training and development 
+
+activities.  
+
+The details of our employee training statistics were as follows: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+Up to 1 Year
+
+46%
+
+2 to 5 Years
+
+39%
+
+6 to 10 Years
+
+11%
+
+More than 10 
+
+Years
+
+4%
+
+EMPLOY EE S ' PROFIL E - Y EARS OF SERVIC E
+
+
+
+
+
+3.7
+
+8.3
+
+0.0
+
+2.0
+
+4.0
+
+6.0
+
+8.0
+
+10.0
+
+Male employees
+
+Female employees
+
+AVERAG E N UM BER OF 
+
+TRAININ G HOURS BY  GEN DER
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+17 
+
+ 
+
+Notes:  
+
+1:  
+
+Senior management refers to employees with designation of Assistant Manager and above (excluding general 
+
+workers from production function). 
+
+2:  
+
+Middle management refers to employees with designation of Executive and below (including general workers 
+
+from production function). 
+
+ 
+
+The average number of training hours for female employees were approximately double of male 
+
+employees as there were more male employees in the production division, where training mostly took 
+
+the form of on-the-job training. The average training hours for administrative function were more 
+
+than production and technical function in FY2020 as there were lesser production and technical 
+
+function related trainings conducted due to social distancing measures arising from the COVID-19 
+
+outbreak.  
+
+Generally, there was a decline in the number of training hours for FY2020 as it was more difficult to 
+
+conduct training in view of stringent safety requirements imposed due to COVID-19 outbreak.  
+
+We also established a quarterly performance evaluation system which provides prompt feedback for 
+
+employees and help them improve on identified gaps and reinforce good practices. The evaluation 
+
+criteria include quality of work, quantity of work done, work responsibility, timeliness in work, ability 
+
+to take instructions from supervisors, relationship with co-workers and critical thinking. A score of 1 
+
+being lowest and 5 being highest, will be graded for each employee by their supervisors and reviewed 
+
+by the Heads of Department. Regular reviews help employees to monitor their development and also 
+
+provide timely reward for good performance.  
+
+Target for FY2020 
+
+Performance in FY2020 
+
+Target for FY2021 
+
+Increase the average number 
+
+of training hours provided to 
+
+our employees by 5% 
+
+Average of 4.6 hours of 
+
+training was provided 
+
+(FY2019: Average of 7.3 hours 
+
+was provided) 
+
+To provide an average of 4 
+
+hours of training per employee 
+
+for the Group. 
+
+ 
+
+WORKPLACE HEALTH AND SAFETY 
+
+It is vital for our business to ensure workplace health and safety to promote the well-being of both 
+
+employer and employee. It is our duty to continuously enforce a culture with good health and safety 
+
+practices.  
+
+
+
+
+
+
+
+5.5
+
+14.6
+
+3.6
+
+0.0
+
+10.0
+
+20.0
+
+Technical function
+
+Administrative function
+
+Production function
+
+AVERAG E N UM BER OF 
+
+TRAININ G HOURS BY  
+
+EMPLOY EE F UN CTIO N
+
+
+
+
+
+22.0
+
+4.1
+
+0.0
+
+5.0
+
+10.0 15.0 20.0 25.0
+
+Senior management
+
+Middle management
+
+AVERAG E N UM BER OF 
+
+TRAININ G HOURS BY  LEVEL
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+18 
+
+Our Group’s Safety, Health and Environment Policy (“SHE Policy”) serves as a guideline for health and 
+
+safety practices for all employees. Our SHE Policy sets a strong tone that safety and health is a joint 
+
+responsibility between the Management and workers within our Group. Our Management is in charge 
+
+of ensuring the compliance of all environment, health and safety laws, rules and regulations. It is also 
+
+necessary to ensure that all workers are properly trained with adequate health and safety practices. 
+
+They are also strongly encouraged to promptly report to their supervisors if they observed any safety 
+
+violations or unsafe work practices. LY Furniture is also ISO45001:2018 certified for occupational 
+
+health and safety management system for manufacture of wooden furniture.  
+
+Our Safety, Health and Environment Committee (“SHE Committee”) is responsible for ensuring that 
+
+the policy is understood and adhered by all employees and workers. Our SHE Committee for LY 
+
+Furniture is led by a Chairman and supported by an Assistant Chairman, two (2) Secretaries and 55 
+
+Safety Officers from various factories and warehouses. Our SHE Committee for LHG is headed by a 
+
+Chairman, a Vice Chairman, a Secretary and eight (8) representatives from factories.  
+
+In LY Furniture, to identify work related hazards that poses a high consequence work injury, we 
+
+adopted the following model for every work activity:  
+
+ 
+
+We adopted measures such as usage of personal protective equipment and engineering control, 
+
+wherever it is appropriate. We also installed machine covers to reduce sound level and pinch hazard 
+
+to safeguard the health and safety of our employees. 
+
+In FY2020, LHG has zero cases of workplace injuries and fatalities and LY Furniture has a total of 40 
+
+reported injuries and zero cases of fatalities. Our overall work-related injury rate (per 1,000,000 
+
+manhours worked) has increased from 6.30 in FY2019 to 10.37 in FY2020. The breakdown of the injury 
+
+rate was as follows:  
+
+Indicator 
+
+FY2020 
+
+Total Number 
+
+Rate per 1,000,000 
+
+man-hours worked 
+
+Fatalities as a result of work-related injury 
+
+0 
+
+0 
+
+High-consequence work-related injuries 1 
+
+14 
+
+3.63 
+
+Number of recordable work-related injuries 2,  
+
+excluding high-consequence work-related injuries 
+
+26 
+
+6.74 
+
+Overall work-related injury incidents 
+
+40 
+
+10.37 
+
+Number of hours worked 
+
+3,856,320 
+
+N/A 
+
+Notes: 
+
+1:  
+
+High-consequence work-related injuries refers to work-related injury that results in a fatality or in an injury from 
+
+which the worker cannot, does not, or is not expected to recover fully to pre-injury health status within six (6) 
+
+months 
+
+2:  
+
+Recordable work-related injuries refers to work-related injury or ill health that results in any of the following: 
+
+death, days away from work, restricted work or transfer to another job, medical treatment beyond first aid, or loss 
+
+of consciousness; or significant injury or ill health diagnosed by a physician or other licensed healthcare 
+
+professional, even if it does not result in death, days away from work, restricted work or job transfer, medical 
+
+treatment beyond first aid, or loss of consciousness 
+
+Classify work 
+
+activity
+
+Identify 
+
+hazard
+
+Determine 
+
+hazard
+
+Determine if 
+
+risk is 
+
+tolerable
+
+Prepare risk 
+
+assessment
+
+Review the 
+
+effectiveness
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+19 
+
+The main causes of the aforementioned work-related injuries were due to human error especially 
+
+relating to machine handling and not adhering to work instructions. We have since performed briefing 
+
+to supervisors to step up on continuous supervision to ensure that all employees properly handle 
+
+machinery and equipment with care and strong safety awareness.  
+
+Occupational Health and Safety Measures 
+
+We have taken proactive steps to ensure that first-aid rooms are maintained and trained first aiders 
+
+are available at every factory in LY Furniture. For employees who require medical check-ups or 
+
+treatments, we will arrange transport to send them to health clinics to seek medical attention.  
+
+Fire drills are conducted to ensure that employees are aware of how to use fire-fighting equipment 
+
+and how to respond in a fire safety situation.  
+
+Each of our factories have at least one (1) Emergency Response Team (ERT) member who is well versed 
+
+in the appropriate responses to various emergency situations occurring at the factories.  
+
+We have also obtained Group’s personal accident and life insurance to ensure adequate insurance 
+
+coverage for all staff in LY Furniture. We prioritise the welfare of our employees and have provided 
+
+the option of 8 panel clinics for employees in LY Furniture who requires medical check-up or 
+
+treatment. For LHG, we also provided seven (7) panel clinics for all confirmed staff to receive annual 
+
+medical check-up. All foreign workers are provided with transport to clinics as and when required.  
+
+First Aid and Cardiopulmonary Resuscitation (“CPR”) Training 
+
+Knowledge of first aid and CPR is of vital importance, especially so in a manufacturing work 
+
+environment. We conduct first aid and CPR training regularly to educate our employees on their roles 
+
+and responsibilities and the right way to administer first aid and CPR. We have 25 certified first aiders 
+
+in LY Furniture in FY2020. 
+
+ 
+
+ 
+
+First Aid and CPR Training 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+20 
+
+COVID-19 Awareness Training 
+
+In order to protect our employees from the detrimental health effects of COVID-19 pandemic, we have 
+
+implemented COVID-19 awareness training to educate our employees on the risks, preventive 
+
+measures and personal health care. The training was conducted at each of our factories in open spaces 
+
+with adequate social distancing measures in place.  
+
+ 
+
+ 
+
+COVID-19 Awareness Training 
+
+ 
+
+ 
+
+COVID-19 Safety Measures 
+
+As of 4 January 2021, 15 of our employees were infected with COVID-19. They have all since recovered. 
+
+In view of the detrimental health impact of COVID-19 pandemic, we strive to protect our employees 
+
+and workers and have implemented the following health and safety measures:  
+
+ 
+
+Work-from-home arrangements for employees where possible; 
+
+ 
+
+Split team arrangement and ensure there is no cross deployment or interaction between 
+
+employees of different shifts where possible; 
+
+ 
+
+Conduct of virtual meetings between colleagues, customers and employees where possible to 
+
+minimise physical contact; 
+
+ 
+
+Centralised hostel for LY Furniture’s foreign workers to reduce interaction with foreign workers 
+
+from other companies;  
+
+ 
+
+Conducted swab tests for all local and foreign workers at LY furniture; 
+
+ 
+
+Conducted swab test for all foreign workers at LHG and for those who displayed COVID-19 related 
+
+unwell symptoms;  
+
+ 
+
+Mandated wearing of face masks at our workplace; 
+
+ 
+
+Provision of hand sanitisers to employees at accessible locations; 
+
+ 
+
+Frequent disinfection of common areas in office;  
+
+ 
+
+Daily temperature screening for all on-site employees; 
+
+ 
+
+Conduct of health declarations and MySejahtera scans at all factories; 
+
+ 
+
+Active monitoring of employees’ health via daily health declaration; and 
+
+ 
+
+Formalised reporting procedures for any suspected and confirmed COVID-19 cases within the 
+
+Group. 
+
+ 
+
+ 
+
+
+
+
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+21 
+
+We will continue to stay vigilant and undertake adequate preventive measures for COVID-19 to 
+
+safeguard the health and safety of our employees and workers. 
+
+Perpetual Target 
+
+Performance in FY2020 
+
+To achieve zero case of workplace injuries and 
+
+fatalities 
+
+There was a total of 40 injuries and zero fatality in 
+
+FY2020. 
+
+(FY2019: 28 injuries and zero fatality) 
+
+ 
+
+Contributing to our Community 
+
+We strive to make positive contributions back to our local communities. Amidst the COVID-19 
+
+pandemic, we were unable to conduct our annual blood donation drive in 2020. Instead, we have 
+
+contributed a total of 10,000 pieces of face masks to a local hospital. 
+
+ 
+
+MOVING FORWARD 
+
+We will continue to invest in training and nurturing our employees for their skill upgrade and 
+
+professional development. We will strive to achieve zero cases of workplace injuries and fatalities in 
+
+FY2021 with our robust workplace health and safety measures established. We will also aim to create 
+
+greater positive impact to the community by being more proactive in social initiatives.  
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+22 
+
+GOVERNANCE 
+
+We are committed to uphold high standards of ethics and corporate governance as we believe that 
+
+this is fundamental in fostering stakeholders’ trust in our business. With a robust internal control 
+
+system and high standard of corporate governance, we are dedicated to build a sound corporate with 
+
+ethical environment that creates long term value for our stakeholders. We also strive to keep 
+
+ourselves updated with the latest changes in legal and regulatory requirements to ensure compliance 
+
+at all times. 
+
+Enterprise Risk Management 
+
+Enterprise risk management is a holistic business strategy that aims to identify, measure, prioritise 
+
+and respond to risks that may hinder the achievement of the Group’s strategic objectives. Therefore, 
+
+we perform annual enterprise risk assessment to identify and respond to emerging new risks and 
+
+ensure that adequate mitigating controls are implemented to address existing risks identified.  
+
+The enterprise risk assessment is conducted via environmental scanning activities and involves group 
+
+discussions with top management and the respective risk owners in business units to identify and 
+
+prioritise key business risks which may hamper our ability to achieve the Group’s strategic goals. 
+
+We strive to stay vigilant and work closely with stakeholders to ensure that the risks are monitored 
+
+and managed promptly. 
+
+ 
+
+OUR APPROACH 
+
+CORPORATE GOVERNANCE 
+
+We are dedicated to maintain the highest standards of corporate governance and foster a culture of 
+
+transparency and accountability for a sustainable business that delivers long term stakeholder value. 
+
+Our Board emphasises on a strong tone at the top of integrity and ethical behaviour for all employees.  
+
+Our Group also strive to align with our corporate governance framework with the principles and 
+
+provisions of the Code of Corporate Governance issued by the Monetary Authority of Singapore. We 
+
+make sure that we keep ourselves updated with the latest changes so as to stay compliant with the 
+
+Code of Corporate Governance at all times.  
+
+We recognise the importance of having strong and independent element on the Board in order to 
+
+exercise objective judgement on business decisions. It is also essential for progressive renewal of our 
+
+Board composition.  
+
+ 
+
+We strive to ensure that our Board and its committees (that is, Audit and Risk Committee, 
+
+Remuneration Committee and Nominating Committee) is well-balanced with sufficient mix of 
+
+directors with diversity, competency and independence for effective corporate governance and robust 
+
+strategy formulation. 
+
+ 
+
+ 
+
+Audit and Risk 
+
+Committee
+
+Remuneration 
+
+Committee
+
+Nominating Committee
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+23 
+
+Perpetual Target 
+
+Performance in FY2020 
+
+To achieve zero non-compliance with the 
+
+principles of the Code of Corporate Governance  
+
+We have complied with the principles of the Code 
+
+of 
+
+Corporate 
+
+Governance 
+
+and 
+
+provided 
+
+explanations where there are deviations to the 
+
+Code of Corporate Governance 2018 in our 2020 
+
+Annual Report. 
+
+(FY2019: same as FY2020) 
+
+ 
+
+ETHICS, BRIBERY AND CORRUPTION 
+
+We place utmost importance on high ethical standards for our business conduct. Our employees are 
+
+expected to conduct business with professionalism and integrity. We believe that fostering credibility 
+
+and achieving our strategic goals through ethical business conduct creates long term stakeholder 
+
+value. In FY2020, we have zero reports relating to business conduct which are unethical, fraudulent or 
+
+corrupt in nature.  
+
+We have established Conflict of Interest Policy, Whistle-blowing Policy and Employment Code of 
+
+Conduct as guidelines for employees in their business conduct. Every new employee is formally 
+
+communicated about these policies during their onboarding. The key elements of the policies are as 
+
+shown below:  
+
+ 
+
+In the event if any concerns are raised, we have an Investigation Committee to ensure that adequate 
+
+resources are in place to conduct prompt independent investigation and execute appropriate follow 
+
+up action. This aims to provide a safe avenue for all stakeholders to report potential misconduct, 
+
+especially on fraud, ethics, bribery, corruption and non-compliances without fear of reprisal.  
+
+We place a strong emphasis on the importance of employees’ conduct and we expect them to display 
+
+professional behaviour with integrity at all time. In FY2020, our Human Resources Department has 
+
+conducted investigations and dismissed 20 employees due to misconduct. The reasons for misconduct 
+
+mainly pertain to absenteeism and punctuality issues.  
+
+Conflict of Interest Policy
+
+
+
+• Employees must not accept gifts, entertainment or favours that may influence one's objectivity in 
+
+exercising judgment on behalf of the company
+
+• Potential scenarios where interests may be conflicted
+
+• Reporting procedures if conflicts of interests arise
+
+Whistle-blowing Policy
+
+
+
+• Guidelines for employees to raise concerns of malpractice or any suspicion of fraudulent or 
+
+inappropriate activities within the Group to the Investigation Committee ("IC")
+
+• Escalation process to IC or where appropriate or required, to relevant government authorities for 
+
+further investigation or action
+
+• Procedures in place to protect anonymity of whistle-blowers and notifying them of the outcome
+
+Employee Code of Conduct
+
+
+
+• Contains a comprehensive list of examples of employee misconduct
+
+• Misconduct includes violation of company safety rules, forgery, theft, sexual harassment and 
+
+sleeping on the job
+
+• Code of Conduct is easily accessible by all employees through the Group's shared drive
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+24 
+
+Perpetual Target 
+
+Performance in FY2020 
+
+To achieve zero cases which are unethical, 
+
+fraudulent or corrupt in nature 
+
+Achieved zero cases which are unethical, 
+
+fraudulent or corrupt in nature 
+
+(FY2019: zero cases) 
+
+ 
+
+REGULATORY COMPLIANCE 
+
+We adopt a “zero tolerance” stance towards regulatory breach and will not hesitate to take any 
+
+disciplinary actions against violators. We strive to educate our employees with relevant laws, rules 
+
+and regulations in their area of job scope through training during their orientation programme.  
+
+Regulatory compliance is of paramount importance as any failure to comply will not only result in legal 
+
+and financial impact, but also reputational loss to the Group. Some of the relevant laws, rules and 
+
+regulations that the Group adheres to, is as follows:  
+
+ 
+
+Despite our committed efforts to achieve zero significant fines, LY Furniture incurred approximately 
+
+RM63,000 of penalty expenses in FY2020. There were no single penalty cases which exceeded the 
+
+threshold of RM50,000 for significant fines. Management has since reminded employees that 
+
+regulatory compliance is critical to their business conduct and has zero tolerance towards any non-
+
+compliance behaviours.  
+
+Perpetual Target 
+
+Performance in FY2020 
+
+To achieve zero significant fines and reportable 
+
+cases of non-compliance with all applicable 
+
+laws, rules and regulations 
+
+Achieved zero significant fines and reportable 
+
+cases of non-compliance with all applicable 
+
+laws, rules and regulations 
+
+(FY2019: zero significant cases) 
+
+ 
+
+
+
+Ministry of International Trade and Industry
+
+•Industrial Co-ordination Act (1975)
+
+
+
+Department of Occupational Safety and Health
+
+•Factories and Machinery Act (1967)
+
+
+
+Ministry of Human Resource
+
+•Employment Act (1955)
+
+
+
+Department of Environment
+
+•Environmental Quality Act (1974)
+
+
+
+Personal Data Protection Department
+
+•Personal Data Protection Act (2010)
+
+
+
+Singapore Exchange Limited
+
+•SGX-ST Catalist Rules
+
+
+
+Monetary Authority of Singapore
+
+•Code of Corporate Governance 2018
+
+
+
+Singapore Companies Act
+
+
+
+Malaysia Timber Industry Board
+
+•Malaysian Timber Industry Board (Incorporation) Act (1973)
+
+•Timber Industrialisation Methods (Registration) (1991)
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+25 
+
+MOVING FORWARD 
+
+Moving forward, we will continue to maintain a high standard of corporate governance and remain in 
+
+compliance with all relevant laws, rules and regulations in the jurisdictions we operate in. 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+26 
+
+ECONOMIC 
+
+Through our sustainable business strategy, we are dedicated to create long term value for our 
+
+stakeholders.  
+
+OUR APPROACH 
+
+ECONOMIC AGILITY 
+
+Despite the economic slowdown brought about by the COVID-19 pandemic, it has led to a booming e-
+
+commerce activity and accelerated digital transformation with work-from-home arrangements 
+
+becoming the new norm. With more people find themselves spending time at home, demand for 
+
+home furniture has been resilient despite the economic uncertainty.  
+
+Economic Value Generated and Distributed 
+
+Financial Year 
+
+FY2019 
+
+RM’000 
+
+FY2020 
+
+RM’000 
+
+Economic Value Generated 
+
+248,528 
+
+243,467  
+
+Economic Value 
+
+Distributed 
+
+Operating Costs 
+
+194,650 
+
+191,396  
+
+Employee Wages and Benefits 
+
+43,791 
+
+44,192  
+
+Capital Providers 
+
+6,545 
+
+1,844  
+
+Government 
+
+1,852 
+
+2,661  
+
+Communities 
+
+32 
+
+26  
+
+Total Economic Value Distributed 
+
+246,870 
+
+240,119  
+
+Economic Value Retained 
+
+1,658 
+
+3,348  
+
+ 
+
+We will remain resilient and vigilant in monitoring the fast-changing pandemic situation so as to 
+
+continue to grow the business in a sustainable manner. 
+
+We also strive to continue to expand our presence into new markets and strengthen our product 
+
+offerings. In FY2020, we have offered nine (9) new product models under the original equipment 
+
+manufacturer (OEM) business of LY Furniture and also one (1) new self-assembly furniture product 
+
+line under the original brand manufacturer (OBM) business of LHG.  
+
+Eight (8) of our staff from LHG also attended the Malaysia International Furniture Fair for promotional 
+
+efforts to reach out to overseas buyers. 
+
+LHG’s new product line - Classic bedroom set 
+
+Malaysia International Furniture Fair 
+
+ 
+
+ 
+
+
+
+
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+27 
+
+Operational Resilience Amidst COVID-19 
+
+As part of the pandemic containment efforts, the need for increased safety measures and regulatory 
+
+requirements have limited our operational capacity. Therefore, we have adopted measures in order 
+
+to stay operationally ready during the period. Some of these measures include: 
+
+ 
+
+Ensure that there are at least two (2) alternative suppliers for each type of raw material to diversify 
+
+sources of supply 
+
+ 
+
+Increase in manpower to handle backlog for departments affected by operational delay 
+
+ 
+
+Close monitoring of the delivery and arrival of raw materials to minimise supply disruptions  
+
+ 
+
+Rented additional warehouses to store finished goods produced in light of the low availability of 
+
+shipping containers worldwide 
+
+ 
+
+Work closely with overseas customers to secure shipping containers to ensure timely delivery of 
+
+products 
+
+To navigate the ongoing COVID-19 crisis and continue to engage in business development, we have 
+
+also implemented pandemic related safety measures, which are described in the section titled ‘COVID-
+
+19 Safety Measures' of this Report. 
+
+We remain optimistic that situation will improve as the COVID-19 related safety restrictions are eased 
+
+with more people being vaccinated. We also believe that the product expansion and diversification 
+
+strategy we have adopted over the years will help us cushion the financial impact of this economic 
+
+slowdown. Apart from traditional bedroom furniture manufacturing, we have further diversified our 
+
+product offering with LHG’s easy-to-assemble and space saving furniture line and LY Furniture’s 
+
+manufacture of millwork products.  
+
+Perpetual Target 
+
+Performance in FY2020 
+
+To expand our presence into new markets and 
+
+strengthen our product offerings 
+
+Launched nine (9) new products for LY Furniture 
+
+and one (1) new product line for LHG 
+
+(FY2019: 39 new products for LY Furniture and 
+
+diversified into original brand manufacturer 
+
+business under LHG) 
+
+ 
+
+QUALITY OF PRODUCTS AND SERVICES 
+
+Delivering excellent quality products and services is at the heart of our business philosophy since the 
+
+Group was set up in 1976. Our Group’s Quality Policy emphasises the importance of a Plan-Do-Check-
+
+Act (“PDCA”) approach to ensure continual improvement and enhance customer satisfaction in all our 
+
+business processes.  
+
+ 
+
+In FY2020, we have invested approximately RM30,000 for LY Furniture and approximately RM54,000 
+
+for LHG for performing product quality check to ensure consistent product quality before delivering 
+
+to our customers.  
+
+PLAN
+
+•Decide Target
+
+•Ways to Achieve Target
+
+DO
+
+•Communicate &amp; Train
+
+•Implement
+
+CHECK
+
+•Assess Results
+
+•Analyse Root Causes
+
+ACT
+
+•Correction (Short Term)
+
+•Prevention (Long Term)
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+28 
+
+We see the importance of investing in our human capital through training programmes so as to equip 
+
+them to conduct better quality checks and higher standard of internal audits on our quality 
+
+assessments. There was an increase in 91% of our quality review costs as compared to prior year which 
+
+demonstrates our commitment for delivering top quality to our customers. 
+
+As of FY2020, 66 employees of LY Furniture underwent training and were equipped to conduct 
+
+effective internal audit based on ISO9001:2015 framework. This enables employees to develop the 
+
+required knowledge and skill sets to assess and report on the conformance and implementation of the 
+
+quality procedures. In FY2020, external auditors, together with our 66 trained employees were 
+
+engaged in the ISO9001:2015 audit to review the effectiveness of our quality management system, 
+
+highlight gaps and provide feedback to improve our quality process. We have five (5) opportunities 
+
+for improvement issues raised by external auditors. We are in the midst of rectifying the issues and 
+
+have since reminded all staff of the importance to stay vigilant and committed in ensuring compliance 
+
+with quality standards.  
+
+For both LY Furniture and LHG, we did not have any significant customer chargeback cases (that is, 
+
+cases with chargeback amounts of RM50,000 and above) in FY2020.  
+
+In order to minimise future errors in product quality issues, we have since reminded all staff of the 
+
+importance of strict adherence to all quality control measures. We also emphasised the tone of zero 
+
+tolerance towards non-compliance to quality procedures.  
+
+Target for FY2020 
+
+Performance in FY2020 
+
+Target for FY2021 
+
+To achieve no more than five (5) 
+
+significant customer chargeback 
+
+cases in FY2020 
+
+Zero 
+
+significant 
+
+customer 
+
+chargeback cases in FY2020 
+
+(FY2019: six (6) significant 
+
+customer chargeback cases) 
+
+To achieve no more than five 
+
+(5) 
+
+significant 
+
+customer 
+
+chargeback cases in FY2021 
+
+ 
+
+CUSTOMER SATISFACTION 
+
+Ensuring customer satisfaction is the foundation of our business success. As a customer-centric 
+
+business, we prioritise our customers’ experience and strive to exceed their expectations in our 
+
+products and services delivery. We seek to establish open communication with our customers to 
+
+address their concerns with prompt response. Our dedicated Sales and Marketing team established a 
+
+customer feedback process to ensure that all feedbacks are received and addressed delicately and 
+
+intentionally.  
+
+Upon the receipt of feedback from customer, a thorough investigation will be conducted and issues 
+
+will be directed to the respective departments for their necessary actions. Thereafter, our team will 
+
+provide a prompt detailed explanation to our customers to show our commitment to our customers’ 
+
+well-being. With a greater customer satisfaction, it will reinforce a positive brand image for the Group. 
+
+ 
+
+ 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+29 
+
+For LY Furniture, in accordance to ISO9001:2015 requirements, we will conduct an annual customer 
+
+survey overseen by our Executive Director of Sales and Marketing and executed by our Sales and 
+
+Marketing Team. The annual survey highlights areas with room for improvement and provide guidance 
+
+in development of corrective action. The key criteria for our customer survey are as follows:  
+
+Customers are required to grade our products and services against these criteria based on five (5) 
+
+different levels of satisfaction, from 1 (Not Satisfied) to 5 (Fully Satisfied). In FY2020, we obtained an 
+
+average score of 4.09 across all three (3) aspects, which is attributed largely to an increase in 
+
+responsiveness to customer needs. To improve timeliness and reliability of delivery, we also 
+
+encourage strong communication between our schedule planner and customers to update any 
+
+changes in delivery.  
+
+We seek to obtain valuable feedback from our customers and strive to continuously improve on our 
+
+products and services quality so as to deliver exceptional customer service.  
+
+Target for FY2020 
+
+Performance in FY2020 
+
+Target for FY2021 
+
+To achieve an average of above 
+
+4.0 across all three (3) aspects 
+
+for the customer satisfaction 
+
+survey for FY2020 
+
+Obtained an average score of 
+
+4.1 across all three (3) aspects 
+
+for LY Furniture 
+
+(FY2019: obtained above 3.7 
+
+average 
+
+across 
+
+three 
+
+(3) 
+
+aspects) 
+
+To achieve an average of above 
+
+4.0 across all three (3) aspects 
+
+for the customer satisfaction 
+
+survey for FY2021 for LY 
+
+Furniture 
+
+ 
+
+To 
+
+implement 
+
+customer 
+
+satisfaction survey in FY2021 
+
+for LHG 
+
+ 
+
+ 
+
+MOVING FOWARD 
+
+Moving forward, we will continue to stay resilient and aim to have a 10% growth in our revenue in 
+
+FY2021. We also aim to continuously enhance our quality review regime to attain excellent quality 
+
+standard for our products and deliver great value to all our stakeholders.  
+
+ 
+
+ 
+
+Timeliness and 
+
+reliability of 
+
+delivery
+
+Quality of 
+
+products and 
+
+services
+
+Responsiveness 
+
+to customer 
+
+needs
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+30 
+
+GRI CONTENT INDEX 
+
+GRI Standard 
+
+Disclosure Number and Title 
+
+Page Reference and Remarks 
+
+
+
+
+
+
+
+
+
+
+
+GRI 101: Foundation 2016 
+
+
+
+
+
+
+
+
+
+
+
+
+
+GENERAL DISCLOSURES 
+
+
+
+GRI 
+
+102: 
+
+General 
+
+Disclosures 
+
+2016 
+
+Organizational profile 
+
+102-1 
+
+Name of the organization 
+
+LY Corporation Limited 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+2020 Annual Report – Corporate Profile (Page 
+
+01) 
+
+102-3 
+
+Location of headquarters 
+
+2020 Annual Report – Corporate Profile (Page 
+
+01) 
+
+102-4 
+
+Location of operations 
+
+2020 Annual Report – Corporate Profile (Page 
+
+01) 
+
+102-5 
+
+Ownership and legal form 
+
+2020 Annual Report – Group Structure (Page 
+
+06), Notes to the Financial Statements, 
+
+Corporate Information (Page 61), Statistics of 
+
+Shareholdings (Pages 108 to 109) 
+
+102-6 
+
+Markets served 
+
+2020 Annual Report – Corporate Profile (Page 
+
+01), Notes to the Financial Statements, 
+
+Revenue, Disaggregation of revenue (Page 76) 
+
+102-7 
+
+Scale of the organization 
+
+This Report – Employees' Profile (Pages 14 to 
+
+15) 
+
+2020 Annual Report – Corporate Profile (Page 
+
+01) 
+
+2020 Annual Report – Financial Review (Pages 
+
+04 to 05) 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+This Report – Employees' Profile (Pages 15 to 
+
+16) 
+
+102-9 
+
+Supply chain 
+
+We do not specifically disclose our supply 
+
+chain 
+
+102-10 
+
+Significant 
+
+changes 
+
+to 
+
+the 
+
+organization and its supply chain 
+
+Not applicable as there is no significant 
+
+changes to the organisation and its supply 
+
+chain 
+
+102-11 
+
+Precautionary 
+
+Principle 
+
+or 
+
+approach 
+
+This Report – Governance (Pages 22 to 25) 
+
+102-12 
+
+External initiatives 
+
+None 
+
+102-13 
+
+Membership of associations 
+
+Our subsidiaries, LY Furniture Sdn Bhd and 
+
+Leyo Manufacturing Sdn. Bhd. are members 
+
+of the Malaysian Furniture Council 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+This Report – Board’s Statement (Page 1) 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, 
+
+and norms of behavior 
+
+This Report – Governance (Pages 22 to 25) 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+31 
+
+GRI Standard 
+
+Disclosure Number and Title 
+
+Page Reference and Remarks 
+
+
+
+
+
+
+
+
+
+
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+This Report – Managing Sustainability at LY 
+
+Corporation (Pages 4 to 5), Corporate 
+
+Governance (Pages 22 to 23) 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+This Report – Stakeholder Engagement (Pages 
+
+6 to 8) 
+
+102-41 
+
+Collective 
+
+bargaining 
+
+agreements 
+
+The Group’s employees are not covered by 
+
+collective bargaining agreements 
+
+102-42 
+
+Identifying 
+
+and 
+
+selecting 
+
+stakeholders 
+
+This Report – Stakeholder Engagement (Pages 
+
+6 to 8) 
+
+102-43 
+
+Approach 
+
+to 
+
+stakeholder 
+
+engagement 
+
+This Report – Stakeholder Engagement (Pages 
+
+6 to 8) 
+
+102-44 
+
+Key topics and concerns raised 
+
+This Report – Stakeholder Engagement (Pages 
+
+6 to 8) 
+
+Reporting practice 
+
+102-45 
+
+Entities 
+
+included 
+
+in 
+
+the 
+
+consolidated 
+
+financial 
+
+statements 
+
+2020 Annual Report – Group Structure (Page 
+
+06) 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+This Report – About This Report (Page 2) 
+
+102-47 
+
+List of material topics 
+
+This Report – Material Topics – At a Glance 
+
+(Pages 8 to 11) 
+
+102-48 
+
+Restatements of information 
+
+Not applicable as there is no restatement of 
+
+information 
+
+102-49 
+
+Changes in reporting 
+
+The scope of reporting for FY2020 includes 
+
+the performance of LHG 
+
+102-50 
+
+Reporting period 
+
+This Report – About This Report (Page 2) 
+
+102-51 
+
+Date of most recent report 
+
+31 December 2019 
+
+102-52 
+
+Reporting cycle 
+
+Annual  
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+This Report – About This Report (Page 2) 
+
+102-54 
+
+Claims 
+
+of 
+
+reporting 
+
+in 
+
+accordance 
+
+with 
+
+the 
+
+GRI 
+
+Standards 
+
+This Report – About This Report (Page 2) 
+
+102-55 
+
+GRI content index 
+
+This Report – GRI Content Index (Pages 30 to 
+
+34) 
+
+102-56 
+
+External assurance 
+
+We have not sought external assurance for 
+
+this reporting period, and may consider it in 
+
+the future.  
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+The material factor boundaries are defined as 
+
+where the Group has significant impacts and 
+
+has caused or contributed to the impacts 
+
+through its business relationships. 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+32 
+
+GRI Standard 
+
+Disclosure Number and Title 
+
+Page Reference and Remarks 
+
+
+
+
+
+
+
+
+
+
+
+Material factors with internal boundaries: 
+
+ 
+
+Training and Development  
+
+ 
+
+Workplace Health and Safety 
+
+ 
+
+Material factors with internal and external 
+
+boundaries: 
+
+ 
+
+Corporate Governance  
+
+ 
+
+Ethics, Bribery and Corruption  
+
+ 
+
+Regulatory Compliance  
+
+ 
+
+Economic Agility  
+
+ 
+
+Quality of Products and Services 
+
+ 
+
+Material Use 
+
+ 
+
+Customer Satisfaction 
+
+ECONOMIC AGILITY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+2020 Annual Report – Financial Contents 
+
+(Pages 47 to 107) 
+
+ 
+
+This Report – Economic: Economic Agility 
+
+(Pages 26 to 27) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 
+
+201: 
+
+Economic 
+
+Performance 
+
+2016 
+
+201-1 
+
+Direct 
+
+economic 
+
+value 
+
+generated and distributed 
+
+QUALITY OF PRODUCTS AND SERVICES 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This Report – Economic: Quality of Products 
+
+and Services (Pages 25 to 26) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+CUSTOMER SATISFACTION 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This 
+
+Report 
+
+– 
+
+Economic: 
+
+Customer 
+
+Satisfaction (Pages 27 to 28) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+MATERIAL USE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This Report – Environmental: Material Use 
+
+(Pages 12 to 13) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+33 
+
+GRI Standard 
+
+Disclosure Number and Title 
+
+Page Reference and Remarks 
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+301: 
+
+Materials 
+
+2016 
+
+301-1 
+
+Materials used by weight or 
+
+volume 
+
+TRAINING &amp; DEVELOPMENT 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This 
+
+Report 
+
+– 
+
+Social: 
+
+Training 
+
+and 
+
+Development (Pages 16 to 17) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 
+
+404: 
+
+Training 
+
+and 
+
+Education 
+
+2016 
+
+404-1 
+
+Average hours of training per 
+
+year per employee 
+
+WORKPLACE HEALTH AND SAFETY 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This Report – Social: Workplace Health and 
+
+Safety (Pages 17 to 21) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 
+
+403: 
+
+Occupational 
+
+Health 
+
+and 
+
+Safety 2018 
+
+403-9 
+
+Work related injuries 
+
+CORPORATE GOVERNANCE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This 
+
+Report 
+
+– 
+
+Governance: 
+
+Corporate 
+
+Governance (Pages 22 to 23) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+ETHICS, BRIBERY AND CORRUPTION 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This Report – Governance: Ethics, Bribery and 
+
+Corruption (Pages 23 to 24) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI: 
+
+Anti-
+
+Corruption 
+
+2016 
+
+205-3 
+
+Confirmed 
+
+incidents 
+
+of 
+
+corruption and actions taken 
+
+REGULATORY COMPLIANCE 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+LY CORPORATION LIMITED 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+34 
+
+GRI Standard 
+
+Disclosure Number and Title 
+
+Page Reference and Remarks 
+
+
+
+
+
+
+
+
+
+
+
+GRI 
+
+103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 
+
+Explanation of the material topic 
+
+and its Boundaries 
+
+This Report – Governance: Regulatory 
+
+Compliance (Page 24) 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 
+
+419: 
+
+Socioeconomic 
+
+Compliance 
+
+2016 
+
+419-1 
+
+Non-compliance with laws and 
+
+regulations in the social and 
+
+economic area 
+
+ 
+

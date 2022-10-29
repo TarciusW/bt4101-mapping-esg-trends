@@ -1,0 +1,4257 @@
+
+
+
+Sustainability Report 2018 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+1. Highlights .................................................................................................................................................... 1 
+
+1.1 Corporate profile .................................................................................................................................... 1 
+
+1.2 Message to stakeholders ....................................................................................................................... 2 
+
+1.3 Scope of sustainability report ................................................................................................................. 3 
+
+2. Our approach to sustainability ................................................................................................................. 4 
+
+2.1 Sustainability organisational structure ................................................................................................... 4 
+
+2.2 Sustainability strategy ............................................................................................................................ 5 
+
+2.3 Consulting our stakeholders................................................................................................................... 6 
+
+2.4 Sustainability materiality ......................................................................................................................... 7 
+
+3. Our performance ........................................................................................................................................ 8 
+
+3.1 How we measure our performance ........................................................................................................ 8 
+
+3.2 Economic contribution ............................................................................................................................ 9 
+
+3.3 Food safety........................................................................................................................................... 12 
+
+3.4 Environmental sustainability................................................................................................................. 13 
+
+3.5 Social contribution ................................................................................................................................ 16 
+
+Appendix A: Sustainability scorecard .......................................................................................................... 18 
+
+Appendix B: GRI content index ..................................................................................................................... 19 
+
+ 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Highlights 
+
+1.1 Corporate profile 
+
+China Star Food Group Limited (中国之星食品集团有限公司) (“CSFG” 
+
+or the “Company”), together with its subsidiaries (the “Group”), is one 
+
+of the leading manufacturers of healthy snack foods in the People’s 
+
+Republic of China (“PRC”). The Group is engaged in the production 
+
+and sale of sweet potato snack food products across PRC, processed 
+
+from purple and orange-fleshed sweet potatoes. Currently, the annual 
+
+total production capacity of the Group is approximately 30,000 tonnes. 
+
+Based in Liancheng county of Fujian Province, the Group sells its wide 
+
+range of sweet potato snack food products to more than 300 
+
+distributors and wholesalers, who in turn distribute the sweet potato 
+
+snack 
+
+food 
+
+products, 
+
+through 
+
+e-commerce 
+
+portals 
+
+and 
+
+to 
+
+supermarkets, petrol kiosks, convenience stores and specialty stores 
+
+throughout the PRC.  
+
+The Group’s six broad product categories include sweet potato 
+
+pastries, candies, crisps, baked goods, roasted sweet potato nuts and 
+
+preserved foods. The Group also has a series of proprietary product 
+
+brands, such as “Starpie” (星派), “Ledi” (乐地), “Delijia” (德丽佳) and 
+
+“Zilaohu” (紫 老 虎 ). “Zilaohu” and “Starpie” were recognised as a 
+
+“Famous Trademark of Fujian Province” in 2013 and 2015 respectively. 
+
+Through its wholly-owned subsidiary, Fujian Zixin Biological Potato 
+
+Co., Ltd. (福建紫心生物薯业有限公司) (“Zixin”), the Group operates 
+
+three wholly-owned indirect subsidiaries Fujian Zilaohu Food Co., Ltd. 
+
+( 福 建 紫 老 虎 食 品 有 限 公 司 ) (“Zilaohu”), Liancheng Dizhongbao 
+
+Modern Agriculture Development Co., Ltd. (连城县地中宝现代农业发
+
+展有限公司) (“Dizhongbao”), and Fujian Xingpai Food Co., Ltd. (福建
+
+星派食品有限公司) (“Xingpai”). 
+
+CSFG was listed on the Catalist board of Singapore Exchange via a 
+
+reverse takeover of Brooke Asia Limited on 22 September 2015. 
+
+ 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2 Message to stakeholders 
+
+On behalf of our Board of Directors, it is my pleasure to present our 
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+(“FY2018”). 
+
+FY2018 was a challenging period for the Group as it continued to face 
+
+the effects of environmental control policies implemented by the 
+
+Government of the PRC. This development substantially impacted the 
+
+Group’s performance and operations during the year under review. 
+
+Despite these challenges, we were able to remain resilient and make 
+
+significant strides in improving our operational efficiency and 
+
+productivity. At the same time, we continued our efforts to fortify our 
+
+position as one of the leading players in the sweet potato snack food 
+
+industry as a result of industry consolidation. 
+
+With the resumption of operations in our Zilaohu factory in October 
+
+2017, the Group believes that it is now ready to embrace greater 
+
+opportunities ahead. As many smaller competitors have ceased 
+
+operations after failing to comply with the government’s strict 
+
+regulations, the Group now faces lesser competition from the industry 
+
+going forward. The recommencement of operations also enabled us to 
+
+meet the demand for the coming peak sales season. 
+
+At the same time. we will also continue to improve on our existing sales 
+
+channels while keeping an eye on expansion opportunities in the 
+
+domestic PRC market and beyond. 
+
+In our inaugural sustainability report, we will be reporting on the 
+
+Group’s sustainability efforts, comprising of Economic Contribution, 
+
+Food Safety, Environmental Sustainability, and Social Contribution. 
+
+In addition, we wish to confirm that the Board has considered 
+
+sustainability issues as part of its strategic formulation, determined the 
+
+material environmental, social and governance (“ESG”) factors and 
+
+overseen the management and monitoring of the material ESG factors. 
+
+As part of the Group’s commitment to sustainable development, we will 
+
+continue to strive to do business in a responsible way.  
+
+ 
+
+On behalf of the Board of Directors 
+
+ 
+
+ 
+
+ 
+
+LIANG CHENGWANG 
+
+Executive Chairman and Chief Executive Officer 
+
+ 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3 Scope of sustainability report 
+
+The scope of the report covers information on material sustainability 
+
+aspects of CSFG and its subsidiaries, from 1 April 2017 to 31 March 
+
+2018 unless otherwise specified. This should sufficiently address 
+
+stakeholders’ concerns in relation to sustainability issues arising from 
+
+the major business operations of the Group. 
+
+This report is prepared in accordance with the Global Reporting 
+
+Initiative (“GRI”) Standards: Core Option as it provides a set of an 
+
+extensive framework that is widely accepted as a global standard for 
+
+sustainability reporting. It also considers the Sustainability Reporting 
+
+Guide in Practice Note 7F of the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Listing Manual Section B: Rules of Catalist 
+
+(“Catalist Rules”). In preparing our report, we applied the GRI’s 
+
+principles for defining report content and report quality by considering 
+
+the Group’s activities, impacts and substantive expectations and 
+
+interests of its stakeholders.  
+
+The data and information provided within the report have not been 
+
+verified by an independent third party. We have relied on internal data 
+
+monitoring and verification to ensure accuracy. 
+
+ 
+
+Sustainability contact 
+
+We welcome your views and feedback on our sustainability practices 
+
+and reporting at sr@zixinshuye.com. 
+
+ 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Our approach to sustainability 
+
+2.1 Sustainability organisational structure 
+
+Sustainability is a vital part of our corporate strategy for achieving long-term growth. The values we create for 
+
+our people, the environment and society at large very much determine our financial performance. We 
+
+developed a sustainability organisational structure to move things forward: 
+
+ 
+
+ 
+
+ 
+
+
+
+The Board of Directors and Chief Executive 
+
+Officer (“CEO”) formulates related 
+
+strategies and guidelines. 
+
+
+
+The Chief Financial Officer (“CFO”), 
+
+together with the Corporate Social 
+
+Responsibility (“CSR”) Coordinator, helps 
+
+to organise and coordinate the CSR work of 
+
+all departments and subsidiaries. 
+
+
+
+Assigned staff at the subsidiaries are 
+
+responsible for the organisation and 
+
+implementation of CSR works. 
+
+Board of Directors 
+
+and CEO
+
+CFO
+
+Employees
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Sustainability strategy 
+
+At the Group, our sustainability strategy aims to create integrated values.  
+
+Together with disciplined execution of our strategy and a commitment to doing business responsibly, we 
+
+commit to deliver value to all our stakeholders through the following: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The sustainable strategy is underpinned by our comprehensive and extensive internal policies that covers the 
+
+areas above such as regulatory compliance, performance monitoring, occupational safety and health, 
+
+employee training, waste reduction and employee welfare. 
+
+The strategy is also guided by external sources, including ISO 9001:2008 Quality Management, Hazard 
+
+Analysis and Critical Control Point (“HACCP”) System Certification, Global Reporting Initiative Standards and 
+
+Sustainability Reporting Guide in Practice Note 7F of the Catalist Rules. 
+
+Economic 
+
+Contribution
+
+Food 
+
+Safety
+
+Environmental 
+
+Sustainability
+
+Social 
+
+Contribution
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3 Consulting our stakeholders 
+
+We recognise the need to continuously develop our responsible business approach in order to address growing 
+
+stakeholder expectations around our impact on the economy, environment and society.  
+
+As such, we periodically consult with our stakeholders to determine the issues that are most relevant to them 
+
+and the Group. An overview of our approach and rationale is set out below (with stakeholders listed in 
+
+alphabetical order), together with the feedback we have received. 
+
+ 
+
+Stakeholders 
+
+How we listen 
+
+Why we do it 
+
+What you’ve told us 
+
+Customers 
+
+• 
+
+Focus groups with 
+
+consumers 
+
+• 
+
+Market survey on 
+
+consumer tastes 
+
+• 
+
+Customer service hotline 
+
+• 
+
+Feedback from distributors 
+
+• 
+
+Inspection of company 
+
+production lines 
+
+• 
+
+Consistently improve 
+
+product taste and 
+
+innovation through market 
+
+survey and R&amp;D 
+
+• 
+
+Include customer service 
+
+hotline and nutritional 
+
+information on product 
+
+packaging 
+
+• 
+
+Obtain the necessary food 
+
+safety certificates from 
+
+relevant authorities 
+
+• 
+
+Tasty and innovative 
+
+snacks and products 
+
+• 
+
+Meet quality and nutritional 
+
+requirements 
+
+• 
+
+Compliance with food 
+
+safety and environmental 
+
+laws and regulations 
+
+Employees 
+
+• 
+
+Employee feedback 
+
+mailbox 
+
+• 
+
+Wechat platform 
+
+• 
+
+Employee caring session 
+
+• 
+
+Compliance with 
+
+regulations 
+
+• 
+
+Provide healthy work 
+
+environment to ensure the 
+
+well being of all our staff 
+
+• 
+
+Salary increment 
+
+• 
+
+Problem solution 
+
+• 
+
+Improve employee welfare 
+
+and benefits 
+
+Government 
+
+and regulators 
+
+• 
+
+Understand relevant laws 
+
+and regulations 
+
+• 
+
+Interaction with 
+
+government and industrial 
+
+bodies 
+
+• 
+
+Trainings and meetings 
+
+• 
+
+Compliance with laws and 
+
+regulations 
+
+• 
+
+Uphold highest standards 
+
+of corporate governance 
+
+and ethical behavior 
+
+• 
+
+Participation in 
+
+government-related events  
+
+• 
+
+Compliance with food 
+
+safety and environmental 
+
+laws and regulations 
+
+• 
+
+Compliance with SGX 
+
+regulations 
+
+Investors/ 
+
+shareholders 
+
+• 
+
+Shareholders’ meeting 
+
+• 
+
+Board meeting 
+
+• 
+
+China Star website 
+
+• 
+
+Regular updates and 
+
+communication 
+
+• 
+
+Consistently improve 
+
+company's management 
+
+• 
+
+Operate, manage and 
+
+compliant against 
+
+regulations 
+
+• 
+
+Committed to delivering 
+
+economic value to our 
+
+capital providers through a 
+
+strong financial 
+
+performance and our 
+
+methods of engagement 
+
+with them 
+
+• 
+
+Long-term profitability 
+
+• 
+
+Achieve company targets 
+
+• 
+
+Growing and development 
+
+• 
+
+Compliance with laws and 
+
+regulations 
+
+Suppliers/ 
+
+business 
+
+partners 
+
+• 
+
+Inspection of suppliers' 
+
+production lines 
+
+• 
+
+Interaction with supplier 
+
+representatives 
+
+• 
+
+Perform periodic supplier 
+
+evaluation 
+
+• 
+
+Build up strategic business 
+
+relationship 
+
+• 
+
+Compliance with food 
+
+safety regulations 
+
+• 
+
+Timely payment and 
+
+adherence to agreement 
+
+terms 
+
+• 
+
+Compliance with food 
+
+safety and environmental 
+
+laws and regulations 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.4 Sustainability materiality 
+
+Using a materiality index, we align our responsible business priorities with the Group’s principal business and 
+
+operational risks, as illustrated in the diagram below.  
+
+We have also developed metrics to help us measure our progress, as indicated in our sustainability scorecard 
+
+in Appendix A. We will review and adjust the material issues and relevant metrices each year, as the external 
+
+and business context changes.  
+
+ 
+
+
+
+  
+
+  
+
+  
+
+⚫ Sustainable  
+
+⚫ Future trends 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ supply chain 
+
+⚫ Environmental  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Production 
+
+ 
+
+policy in China 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ quality and  
+
+⚫ Waste and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ safety 
+
+ wastewater 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Food packaging    management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+and labelling 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Product 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ research and 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ development 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+  
+
+  
+
+  
+
+  
+
+ 
+
+ 
+
+⚫ Skills  
+
+⚫ Emissions  
+
+⚫ Promoting a  
+
+⚫ Employee  
+
+ 
+
+ 
+
+  competency 
+
+ reduction 
+
+  sweet potato'  
+
+  redundancy 
+
+ 
+
+ 
+
+  and employee 
+
+⚫ Energy 
+
+  lifestyle 
+
+ 
+
+ 
+
+ 
+
+  training 
+
+ efficiency 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Saving water 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Performance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+appraisal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Equal  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ opportunity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Encouraging  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ work-life  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ balance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Community  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  initiatives 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Our performance 
+
+3.1 How we measure our performance 
+
+Our sustainability strategy is embedded into the appropriate parts of our business, with dedicated teams for 
+
+each focus area, and coordination by our relevant departmental managers. 
+
+Progress will be tracked in two key ways: measuring performance against metrics, and evaluating how well 
+
+the programs have advanced, through a series of ‘commitments’. 
+
+Metrics and targets 
+
+We have established key performance indicators for each of the four focus areas outlined in our sustainability 
+
+strategy. As this is our first year adopting sustainability reporting, we will be establishing quantitative targets 
+
+within the next year to hold ourselves accountable and track how we are doing. 
+
+Periodically, we plan to introduce new metrics and update targets to ensure alignment with our strategy. 
+
+Commitments 
+
+To ensure we have a robust sustainability program in place, we will also publish the key initiatives we plan to 
+
+implement in the next sustainability report.  
+
+ 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2 Economic contribution 
+
+Overview 
+
+The concepts of a healthy diet and quality lifestyle have 
+
+become increasingly prevalent across the PRC. In tandem 
+
+with rapid urbanisation and higher disposable income, this 
+
+reflects a burgeoning demand for convenient and healthy 
+
+food products. 
+
+As one of the leading players in the sweet potato snacks 
+
+industry, the growing health-conscious trend provides a 
+
+bounty of opportunities for the Group to capture a broad 
+
+consumer base in the PRC and beyond. We offer a diverse 
+
+range of nutritious products, which currently include sweet 
+
+potato baked goods, candies, pastries, crisps, preserved 
+
+foods, roasted sweet potato nuts, nougats and steamed 
+
+sweet potato snacks. 
+
+In addition, we believe that effective management of our 
+
+supply chain can help us conserve resources, optimise 
+
+processes, increase productivity and promote positive 
+
+corporate values. We are dedicated to the consistent 
+
+implementation 
+
+of 
+
+our 
+
+procurement 
+
+policies 
+
+and 
+
+procedures across our entire operation. 
+
+Future trends 
+
+According to Euromonitor International estimates, sales volume of 
+
+packaged food in mainland China reached approximately RMB1,577 
+
+billion in 2017, representing an average annual growth rate of 6.6% 
+
+since 20121. 
+
+Meanwhile, the rise of e-commerce and online retail sales in China has 
+
+presented businesses with an avenue to reach consumers in a fast and 
+
+convenient manner. In a 2017 consumer survey conducted by HKTDC 
+
+Research, consumers ordering packaged snacks through online 
+
+shopping channels have risen exponentially2. 
+
+In order to tap the growing potential of the e-commerce industry in 
+
+China, the Group seeks to build upon our digital market presence, as 
+
+well as enhancing our customer engagement online. We believe that 
+
+these strategies will further drive customer reach and brand awareness. 
+
+Nevertheless, brick and mortar stores are still the most significant 
+
+channel for purchasing packaged food products and we continue to 
+
+build a solid foundation for widening our footprint in the hypermarket 
+
+segment, while keeping an eye on expansion opportunities in the 
+
+domestic PRC market and beyond. 
+
+ 
+
+ 
+
+1 https://hkmb.hktdc.com/en/1X0ADC6U/hktdc-research/China%E2%80%99s-
+
+Packaged-Food-Market-Major-Consumer-Trends 
+
+2 http://economists-pick-research.hktdc.com/business-news/article/Research-
+
+Articles/China-s-Packaged-Food-Market-Major-Consumer-
+
+Trends/rp/en/1/1X000000/1X0ADC6u.htm 
+
+ 
+
+¥221m 
+
+Total revenue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Promoting a ‘sweet potato’ lifestyle 
+
+The Group seeks to build upon our digital market presence, as well as 
+
+enhancing our customer engagement online, via our WeChat official 
+
+account 
+
+and 
+
+our 
+
+Taobao 
+
+e-commerce 
+
+website 
+
+(starpay.world.tmall.com). Through these avenues, we seek to educate 
+
+our customers on adopting a healthy, ‘sweet potato’ lifestyle in line with 
+
+our Company vision.  
+
+Sweet potatoes offer a healthy and rich source of nutrients, is rich in 
+
+complex carbohydrates, dietary fibre, beta carotene, vitamins A, B6 
+
+and C3.  
+
+Sweet potatoes are rich in beta-carotene, which the body converts into 
+
+vitamin A. Beta-carotene is an antioxidant that has numerous health 
+
+benefits. Besides its antioxidant properties protecting the cell from 
+
+damage, people who have consumed high levels of beta carotene have 
+
+been shown to have a reduced risk of developing cancer, heart disease 
+
+and various diseases4.  
+
+The purple variation of the sweet potato also contains anthocyanin, 
+
+which is responsible for the root’s brilliant purple colour. Anthocyanins 
+
+have been demonstrated to improve eyesight, reduce blood pressure, 
+
+contain strong anti-inflammatory properties and suppress the spread of 
+
+human cancer cells5. Thus, purple sweet potato is a highly beneficial 
+
+crop.  
+
+Sweet potatoes also offer the lowest glycemic index (“GI”) rating. Low 
+
+glycemic index of sweet potato makes it an ideal alternative food for 
+
+China’s large population of diabetics. The Center for Science in the 
+
+Public Interest (“CSPI”) in the United States highly recommended 
+
+sweet potato as one of the most nutritious food. It was found that sweet 
+
+potatoes are rich in dietary fibre, sugars, vitamins, minerals and other 
+
+essential nutrients, as compared to common vegetables. 
+
+Product research and development 
+
+The Group aims to constantly develop new sweet potato snack food 
+
+products to suit the ever-changing tastes of modern consumers. 
+
+Besides product development, the Group is dedicated to researching 
+
+and implementing advanced technologies in our production processes 
+
+and product design, including collaborations with research institutions. 
+
+Currently, we have partnered with Longyan Agricultural Science 
+
+Research Institution and Jiangnan University to focus on new product 
+
+development (such as frozen sweet potato product range) and the 
+
+improvement of the texture of existing products. 
+
+As at FY2018, the Group has a total of nine registered patents, 
+
+including seven technology patents and two invention patents. 
+
+ 
+
+ 
+
+3 Mitra S (2012) Nutritional Status of Orange-Fleshed Sweet Potatoes in Alleviating 
+
+Vitamin A Malnutrition through a Food-Based Approach. Journal of Nutrition and Food 
+
+Sciences 2:160. 
+
+4 Council for Responsible Nutrition (CRN) – www.crnusa.org/safety. 
+
+5 Izabela Konczak and Wei Zhang, “Anthocyanins – More Than Nature’s Colours,” 
+
+Journal of Biomedicine and Biotechnology,vol. 2004, no. 5, pp. 239- 240, 2004. 
+
+7 
+
+Technology patents 
+
+2 
+
+Invention patents 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainable supply chain 
+
+More than 70% of our purchases are from reliable local suppliers in the 
+
+PRC. We believe that a secure and stable supply chain is very 
+
+important to ensure the smooth and uninterrupted operation of our 
+
+production activities. 
+
+To further ensure that our supply chain is primed for long-term food 
+
+security, community resilience, and environmental sustainability, we 
+
+actively work with our partners to achieve the following: 
+
+ 
+
+ 
+
+Securing long-term supply 
+
+Since 2014, our subsidiary, Dizhongbao, has 
+
+entered into long-term agreements with our 
+
+suppliers as part of the Group’s business strategy to 
+
+secure our supply of quality sweet potatoes at a 
+
+reasonable price.  
+
+Under the terms of the agreement, the suppliers will 
+
+sell all the harvested sweet potatoes from their 
+
+farmland exclusively to Dizhongbao at a preferential 
+
+price. 
+
+ 
+
+Developing win-win partnership 
+
+At the start of each sweet potato season, our 
+
+Research and Development Centre (“R&amp;D Centre”) 
+
+takes charge to transfer sweet potato saplings from 
+
+our greenhouse to our farmers. Experts from the 
+
+R&amp;D Centre also proactively teaches the farmers on 
+
+proper care techniques to enhance the sweet potato 
+
+harvest from each growth season. 
+
+ 
+
+Crop rotation 
+
+Sweet potatoes are prone to attacks by root rot 
+
+nematodes. For this reason, our farmers are 
+
+instructed to grow off-season crops such as rice as 
+
+a crop rotation measure. This will replenish required 
+
+nutrients into the soil to enable sustained harvests 
+
+year after year. 
+
+ 
+
+ 
+
+70% 
+
+Purchases from local suppliers 
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.3 Food safety 
+
+Overview 
+
+Food safety and quality are core to our commercial reputation 
+
+and consumers’ expectations. We are committed to responsible 
+
+sourcing as it helps assure safety and quality of our end 
+
+products.  
+
+We have always stressed the importance of food safety in our 
+
+operations in each stage of our production process as evidenced 
+
+by the ISO 9001:2008 and HACCP certifications over our 
+
+production facilities. 
+
+Production quality and safety 
+
+Our quality control teams are committed to hygienic and safe 
+
+production. The teams undergo regular food safety management 
+
+training to maintain awareness and management of food safety risks, 
+
+and are responsible for ensuring quality control of our products.  
+
+Our operations are audited regularly to monitor management and 
+
+performance relating to hygiene, sanitation and ‘good housekeeping’. 
+
+We recorded no incidents of non-compliance with regulations and 
+
+voluntary codes concerning the health and safety impacts of products. 
+
+High standards of manufacturing help minimise exposure  to risks that 
+
+may affect product quality.  
+
+When we manufacture our snacks, we ensure high quality using 
+
+stringent process controls to prevent contaminants entering the 
+
+process.  
+
+We seek to continue our track record of zero food safety incidents, 
+
+serious incidents and workplace injuries in the coming year. 
+
+Food packaging and labelling 
+
+Our food products are packaged using approved food-grade materials 
+
+and our products passed the tests required by the Chinese national 
+
+food safety standards. Packaging materials comply with the Chinese 
+
+policy on producer responsibility. 
+
+Our marketing practices comply with Chinese regulations. Information 
+
+on our food production permit number and the ingredients and 
+
+nutritional values of each of our branded products is provided on the 
+
+food label printed on the packaging. The labels also remind consumers 
+
+to dispose the used packaging appropriately.  
+
+In addition, a dedicated customer support services 
+
+hotline is available and prominently printed on our 
+
+product labels for us to respond on specific 
+
+matters. Customers are also encouraged to follow 
+
+our official account on WeChat by scanning the QR 
+
+code printed on our labels.  
+
+ 
+
+0 
+
+Food safety incidents 
+
+¥0 
+
+Fines on contravention of food 
+
+safety regulations 
+
+0 
+
+Serious incidents 
+
+0 
+
+Workplace injuries 
+
+0 
+
+Incidents of non-compliance 
+
+concerning product and 
+
+service information and 
+
+labeling 
+
+0 
+
+Incidents of non-compliance 
+
+concerning marketing 
+
+communications 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4 Environmental sustainability 
+
+Overview 
+
+Environmental protection is fast gaining traction in China 
+
+amongst policy makers and the public. This move caused 
+
+a significant ripple effect across most industries, including 
+
+the food manufacturing industry. As one of the leading 
+
+players in the sweet potato snacks industry in China, we 
+
+are committed to ensuring our full compliance with national 
+
+environmental regulations.  
+
+Comprehensive policies are developed to ensure our 
+
+commitment towards environmental protection, reducing 
+
+carbon emissions, preventing pollution, and minimising 
+
+waste can be achieved during our daily operations.  
+
+Environmental policy in China 
+
+Environmental policy in China is set by the National People's Congress 
+
+and managed by the Ministry of Environmental Protection of the 
+
+People's Republic of China. The central government issues strict 
+
+regulations for which the actual monitoring and enforcement is largely 
+
+undertaken by the local governments. 
+
+In January 2015, a new environmental law came into effect, covering 
+
+land, water and air pollution. It contains strict penalties, including 
+
+seizing of the property of illegal polluters, with company executives 
+
+subject to prison sentences of 15 days. There is no upper limit on 
+
+fines. More than 300 different groups will be able to sue on the 
+
+behalf of people harmed by pollution. 
+
+As a direct result the new pollution requirements, we halted our 
+
+production from January to September 2017 under the general 
+
+directive of the local government due to the delay in completion of 
+
+Liancheng county’s centralised water treatment plant. 
+
+Since October 2017, the Group is able to partially resume 
+
+production at the Zilaohu factory at a lower capacity following the 
+
+interim measures in relation to waste water disposal and treatment 
+
+arrangement put in place by local authorities. The Group has been 
+
+informed that Liancheng county’s centralised water treatment plant 
+
+is only expected to commence operations in early 2019.  
+
+We look forward to the completion of the water treatment plant to 
+
+ramp up production levels and seek to continue to comply with 
+
+China’s environmental policy in our operations. 
+
+ 
+
+ 
+
+0 
+
+Environmental incidents 
+
+¥0 
+
+Fines on contravention of 
+
+environmental regulations 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Emissions reduction 
+
+The corporate culture of protecting the environment is reflected in every 
+
+operation undertaken by the Group. 
+
+We are committed to positive action on climate change and are 
+
+dedicated to reducing the carbon emission in our daily operations. 
+
+Employees are reminded to save electricity and fuel consumption 
+
+through regular internal communications.  
+
+To determine the carbon footprint, we collect energy usage data from 
+
+each our businesses and then calculate our total annual greenhouse 
+
+gas emissions.  
+
+In FY2018, the Group generated a carbon footprint of 2,342.66 tonnes 
+
+of carbon dioxide emission (tCO2e) with a carbon emission intensity of 
+
+10.5 tCO2e per million yuan of revenue. The emission mainly arises 
+
+from purchased electricity used in the production process, which 
+
+accounted for more than 98% of the total carbon emission of the Group. 
+
+ 
+
+We follow the Greenhouse Gas Protocol established by the World 
+
+Resources Institute and the World Business Council for Sustainable 
+
+Development, the standard manual for measuring corporate 
+
+greenhouse gas emissions. Using the “control method”, we include 
+
+100% of the emissions associated with businesses which we directly 
+
+control. Our carbon footprint includes:  
+
+• 
+
+All fuels used directly by our companies (Scope 1 emissions) 
+
+• 
+
+All purchased electricity used in our facilities (Scope 2 
+
+emissions) 
+
+• 
+
+Impact of business air travel (optional Scope 3 emissions) 
+
+We will continue to monitor the performance on carbon emission 
+
+reduction. Progress and performance on the reduction of carbon 
+
+emission will be reported in the following year.  
+
+10.5tCO2e 
+
+Carbon emission intensity per 
+
+million yuan of revenue 
+
+
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Energy efficiency 
+
+Buildings and factories are energy-intensive structures and electricity 
+
+often constitutes a significant proportion of operating expenses. By 
+
+investing in energy efficiency, we not only help protect the environment 
+
+but can also lower our financial costs. 
+
+The Group’s electricity consumption came from regular operations of 
+
+the office and factory. In FY2018, the total electricity consumption 
+
+intensity of the Group is 13.4 MWh per million yuan of revenue.  
+
+The Group utilised electricity-saving light bulbs at its office building as 
+
+well as educated its employees about energy conservation and 
+
+emission reductions. To ensure the effective use of electricity, the 
+
+Group conducted the following practices: 
+
+• 
+
+Turn off lights, computers and air conditioning system before 
+
+clocking out  
+
+• 
+
+Place energy saving reminder labels next to switches  
+
+• 
+
+Clean office equipment (such as refrigerator, air-conditioner) 
+
+regularly to maintain high efficiency  
+
+• 
+
+Use energy saving equipment  
+
+• 
+
+Set temperature of air conditioners to 25˚C 
+
+The Group established policies and procedures to reduce energy 
+
+consumption in the office and factory, to assess the energy efficiency, 
+
+to increase the use of clean energy, if possible, to set applicable targets 
+
+to monitor energy consumption, and to ensure power is turned off when 
+
+electrical appliances are not in use. 
+
+Saving water 
+
+Water scarcity is a growing concern around the world and a serious 
+
+global challenge that we must work together to address. This is even a 
+
+greater concern to us, given that water is also an essential input in the 
+
+food industry, from cleaning and sanitation to manufacturing.  
+
+In FY2018, the Group had a water consumption intensity of 769 m3 per 
+
+million yuan of revenue. Where possible, the Group already has 
+
+procedures in place to reduce water usage in our production lines. Our 
+
+employees are also reminded of the importance to save water in their 
+
+daily activities. 
+
+We will continue to monitor the performance on the water consumption 
+
+reduction. Progress and performance on the reduction on water 
+
+consumption will be reported in the following year.  
+
+Waste and wastewater management 
+
+Waste materials from our production activities are separated for proper 
+
+handling and disposal through proper channels. The amount of waste 
+
+materials disposed is currently not measured. 
+
+Wastewater treatment and disposal is handled entirely by Liancheng 
+
+county’s centralised water treatment plant on the Group’s behalf. 
+
+Greywater from the factory’s operations are directly piped to the water 
+
+treatment plant through the factory’s sewage system. 
+
+As a result, the treated wastewater discharge will be able to meet the 
+
+requirements of the water emission standard of the Fujian Province. 
+
+We seek to continue to ensure that 100% of our wastewater discharge 
+
+meet the local emission standards in the coming year. 
+
+13.4MWh 
+
+Electricity consumption 
+
+intensity per million yuan of 
+
+revenue 
+
+769m3 
+
+Water consumption intensity 
+
+per million yuan of revenue 
+
+100% 
+
+Wastewater discharge that 
+
+meets local emission 
+
+standards 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.5 Social contribution 
+
+Overview 
+
+Employees are the integral part of our competitive 
+
+advantage and our sustainability agenda. We strive to 
+
+invest in training and create an enjoyable working 
+
+environment to our employees. Our human resources team 
+
+develops, evolves and champions our human ‘capital’ 
+
+through 
+
+training, 
+
+evaluation, 
+
+remuneration, 
+
+and 
+
+engagement.  
+
+Through our people, we are also committed in making 
+
+positive contributions to our community by giving back to 
+
+the society and helping the less privileged. 
+
+Employee redundancy 
+
+Due to the new pollution requirements, and coupled with the delay 
+
+in completion of Liancheng county’s centralised water treatment 
+
+plant, we halted our production from January to September 2017 
+
+under the general directive of the local government. 
+
+As a result, during the same period, we had no choice but to terminate 
+
+the employment of more than 400 staff in Zixin. We have compensated 
+
+these employees accordingly based on the requirements of the 
+
+Chinese Labour Law. 
+
+Upon recommencement of production in October 2017, priority was 
+
+given to recruit these former employees should they choose to join us 
+
+again. We wish to thank these employees for their loyalty to the Group. 
+
+Skills competency and employee training 
+
+To ensure that our employee excel, we emphasise on continuous 
+
+learning in the workplace. Every employee has equal opportunities to 
+
+upgrade and sharpen their skill sets through formal and on-the-job 
+
+internal training programs. 
+
+The Company also emphasises on internal leadership development, 
+
+and places great importance on developing a network of new-
+
+generation leaders who would play an important role in driving the 
+
+business in the future. 
+
+In FY2018, the Group invested an average of 14 hours of training on 
+
+each employee. We seek to continue this practice in the coming year. 
+
+ 
+
+14 
+
+Training hours per staff 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Performance appraisal 
+
+To ensure the Company achieves its goals, we have various 
+
+performance appraisal methods in place to determine the performance 
+
+of the Company as well as each individual employee.  
+
+The employee performance appraisal comprises mainly quantifiable 
+
+evaluation criteria. In addition, we actively collects performance 
+
+information for each employee each month through inputs from direct 
+
+supervisors and feedbacks, as well as periodical employee 
+
+communication sessions.  
+
+These collected information allow us to understand the performance 
+
+and skills development needs of each team and individual employee 
+
+from multiple aspects. This is crucial for the Company to develop 
+
+annual training programs for employees that are designed to enhance 
+
+their skills and improve overall productivity.  
+
+In FY2018, all of our employees are at least subject to an annual 
+
+performance appraisal by their superiors. We seek to continue this 
+
+practice in the coming year. 
+
+Equal opportunity 
+
+We have always been an equal opportunity employer to provide a fair 
+
+workplace for employees, following the principles of equality and non-
+
+discrimination. Recruitment, remuneration, promotion, and benefits are 
+
+required to be handled based on objective assessment, equal 
+
+opportunity and non-discrimination regardless of gender, race, marital 
+
+status, pregnancy, disability, age or family status.  
+
+We attract talent through fair, and flexible recruitment strategy that 
+
+includes recruitment application, job description, job applications, 
+
+interview, selection, approval, and job offer. Promotion is based on 
+
+performance and suitability.  
+
+We offer competitive remuneration to attract and retain talented staff 
+
+members. Remuneration packages (which includes the necessary 
+
+social benefits) are reviewed periodically to ensure consistency with 
+
+employment market. Dismissal also complies with employment laws 
+
+and regulations relating to non-discrimination. 
+
+In 2017, female employees comprise 66% of our entire workforce, with 
+
+female representation in management at 14%. 
+
+Encouraging work-life balance 
+
+To enhance employee teamwork and cohesion, improve employee 
+
+health and improve employee work-life balance, the Group has been 
+
+organising periodic employee gatherings during major festivals and 
+
+sports competitions. This helps the employees relax their mind and 
+
+body, develop teamwork, explore their talent, so as to develop a 
+
+positive attitude in both work and life. 
+
+Community initiatives 
+
+In FY2018, our Group made cash donations totaling ¥50,000 to two 
+
+local schools to fund their Children’s Day activities.  
+
+We also awarded ¥120,000 in bursaries to three promising local 
+
+candidates to fund their university education. We strongly believe that 
+
+education opens the door to a brighter future and we hope every 
+
+student has the opportunity to achieve their fullest potential. 
+
+The Group will continue to invest in the above and other initiatives 
+
+supporting educational causes. 
+
+100% 
+
+Employees subject to regular 
+
+performance appraisal 
+
+66% 
+
+Female representation in 
+
+workforce 
+
+14% 
+
+Female representation in 
+
+management 
+
+¥170k 
+
+Social contributions made to 
+
+the local community 
+
+3 
+
+University bursaries awarded 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A: Sustainability scorecard 
+
+Economic contribution 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+Total revenue 
+
+¥’million 
+
+221 
+
+Number of technology patents (since 2014) 
+
+Number 
+
+7 
+
+Number of invention patents (since 2014) 
+
+Number 
+
+2 
+
+Purchases from local suppliers 
+
+% 
+
+70 
+
+Food safety 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+Food safety incidents 
+
+Number 
+
+0 
+
+Fines on contravention of food safety regulations 
+
+¥’000 
+
+0 
+
+Serious incidents 
+
+Number 
+
+0 
+
+Workplace injuries 
+
+Number 
+
+0 
+
+Incidents of non-compliance concerning product and service 
+
+information and labeling 
+
+Number 
+
+0 
+
+Incidents of non-compliance concerning marketing communications 
+
+Number 
+
+0 
+
+Environmental sustainability 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+Environmental incidents 
+
+Number 
+
+0 
+
+Fines on contravention of environmental regulations 
+
+¥’000 
+
+0 
+
+Total carbon footprint 
+
+tCO2e 
+
+2,342.66 
+
+Carbon emission intensity 
+
+tCO2e/¥’million 
+
+10.5 
+
+Electricity consumption intensity 
+
+MWh/¥’million 
+
+13.4 
+
+Water consumption intensity 
+
+m3/¥’million 
+
+769 
+
+Wastewater discharge that meets local emission standards 
+
+Percentage 
+
+100 
+
+Social contribution 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+Training hours per staff 
+
+Hours 
+
+14 
+
+Employees subject to regular performance appraisal 
+
+Percentage 
+
+100 
+
+Female representation in workforce 
+
+Percentage 
+
+66 
+
+Female representation in management 
+
+Percentage 
+
+14 
+
+Social contributions made to the local community 
+
+¥’000 
+
+170 
+
+University bursaries awarded 
+
+Number 
+
+3 
+
+ 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix B: GRI content index 
+
+GRI Standards Content Index 
+
+The GRI Content Index references the China Star Food Group Limited Sustainability Report 2018 (SR), and 
+
+the Annual Report 2018 (AR). 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+GRI 102: General disclosures 
+
+Organisational profile 
+
+102-1 
+
+Name of organisation 
+
+• AR: Corporate Profile (Page 3) 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+• AR: Corporate Profile (Page 3) 
+
+102-3 
+
+Location of headquarters 
+
+• AR: Corporate Profile (Page 3) 
+
+102-4 
+
+Location of operations 
+
+• AR: Corporate Profile (Page 3) 
+
+• AR: Investments in Subsidiaries – Note 16 to the 
+
+Financial Statements (Pages 92-94) 
+
+102-5 
+
+Ownership and legal form 
+
+• AR: General – Note 1 to the Financial Statements 
+
+(Page 68) 
+
+102-6 
+
+Markets served 
+
+• AR: Business and Financial Review (Pages 13-16) 
+
+• AR: Financial Information by Segment – Note 4 to 
+
+the Financial Statements (Page 83) 
+
+102-7 
+
+Scale of organisation 
+
+• AR: Corporate Profile (Page 3) 
+
+• AR: Financial Information by Segment – Note 4 to 
+
+the Financial Statements (Page 83) 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+• SR: Social Contribution (Pages 16-17) 
+
+102-9 
+
+Supply chain 
+
+• SR: Economic Contribution (Pages 9-11) 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+• AR: Corporate Profile (Page 3) 
+
+• AR: Our Quality Products (Pages 4-7) 
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-12 
+
+External initiatives 
+
+• Not applicable 
+
+102-13 
+
+Membership of associations 
+
+• Not applicable 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+• AR: Chairman’s Statement (Pages 8-12) 
+
+102-15 
+
+Key impacts, risks, and 
+
+opportunities 
+
+• AR: Business and Financial Review (Pages 13-16) 
+
+• AR: Independent Auditor’s Report (Pages 59-62) 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behavior 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-17 
+
+Mechanisms for advice and 
+
+concerns about ethics 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-19 
+
+Delegating authority 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-20 
+
+Executive-level responsibility 
+
+for economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Organisational Structure (Page 4) 
+
+102-21 
+
+Consulting stakeholders on 
+
+economic, environmental, 
+
+and social topics 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-23 
+
+Chair of the highest 
+
+governance body 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-24 
+
+Nominating and selecting 
+
+the highest governance 
+
+body 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-25 
+
+Conflicts of interest 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+• AR: Directors’ Statement (Pages 41-44) 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-26 
+
+Role of highest governance 
+
+body in setting purpose, 
+
+values, and strategy 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-27 
+
+Collective knowledge of 
+
+highest governance body 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-28 
+
+Evaluating the highest 
+
+governance body’s 
+
+performance 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-29 
+
+Identifying and managing 
+
+economic, environmental, 
+
+and social impacts 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-30 
+
+Effectiveness of risk 
+
+management processes 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-31 
+
+Review of economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Report (Pages 1-25) 
+
+102-32 
+
+Highest governance body’s 
+
+role in sustainability reporting 
+
+• SR: Sustainability Organisational Structure (Page 4) 
+
+102-33 
+
+Communicating critical 
+
+concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-34 
+
+Nature and total number of 
+
+critical concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-35 
+
+Remuneration policies 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-36 
+
+Process for determining 
+
+remuneration 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-37 
+
+Stakeholders’ involvement in 
+
+remuneration 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-38 
+
+Annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+102-39 
+
+Percentage increase in 
+
+annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 26-52) 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+• Not applicable 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+• AR: Investments in Subsidiaries – Note 16 to the 
+
+Financial Statements (Pages 92-94) 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-47 
+
+List of material topics 
+
+• SR: Sustainability Materiality (Page 7) 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-48 
+
+Restatements of information 
+
+• Not applicable 
+
+102-49 
+
+Changes in reporting 
+
+• Not applicable 
+
+102-50 
+
+Reporting period 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-51 
+
+Date of most recent report 
+
+• Not applicable 
+
+102-52 
+
+Reporting cycle 
+
+• Annual 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-55 
+
+GRI content index 
+
+• SR: GRI Content Index (Pages 19-25) 
+
+102-56 
+
+External assurance 
+
+• No external assurance 
+
+GRI 200: Economic disclosures 
+
+Economic performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+• AR: Financial Highlights (Pages 17-19) 
+
+201-2 
+
+Financial implications and 
+
+other risks and opportunities 
+
+due to climate change 
+
+• Not applicable 
+
+201-3 
+
+Defined benefit plan 
+
+obligations and other 
+
+retirement plans 
+
+• Not applicable 
+
+201-4 
+
+Financial assistance 
+
+received from government 
+
+• Not applicable 
+
+Market presence 
+
+202-1 
+
+Ratios of standard entry 
+
+level wage by gender 
+
+compared to local minimum 
+
+wage 
+
+• Not applicable 
+
+202-2 
+
+Proportion of senior 
+
+management hired from 
+
+local community 
+
+• Not applicable 
+
+Indirect economic 
+
+impacts 
+
+203-1 
+
+Infrastructure investments 
+
+and services supported 
+
+• Not applicable 
+
+203-2 
+
+Significant indirect economic 
+
+impacts 
+
+• Not applicable 
+
+Procurement practices 
+
+204-1 
+
+Proportion of spending on 
+
+local suppliers 
+
+• SR: Economic Contribution (Pages 9-11) 
+
+Anti-corruption 
+
+205-1 
+
+Operations assessed for 
+
+risks related to corruption 
+
+• Not applicable 
+
+205-2 
+
+Communication and training 
+
+about anti-corruption policies 
+
+and procedures 
+
+• Not applicable 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions taken 
+
+• There is no incidences of corruption. 
+
+Anti-competitive behavior 
+
+206-1 
+
+Legal actions for anti-
+
+competitive behavior, anti-
+
+trust, and monopoly 
+
+practices 
+
+• There is no legal actions for anti-competition. 
+
+GRI 300: Environment disclosures 
+
+Materials 
+
+301-1 
+
+Materials used by weight or 
+
+volume 
+
+• Not applicable 
+
+301-2 
+
+Recycled input materials 
+
+used 
+
+• Not applicable 
+
+301-3 
+
+Reclaimed products and 
+
+their packaging materials 
+
+• Not applicable 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+Energy 
+
+302-1 
+
+Energy consumption within 
+
+the organisation 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+302-2 
+
+Energy consumption outside 
+
+of the organisation 
+
+• Not applicable 
+
+302-3 
+
+Energy intensity 
+
+• Not applicable 
+
+302-4 
+
+Reduction of energy 
+
+consumption 
+
+• Not applicable 
+
+302-5 
+
+Reductions in energy 
+
+requirements of products 
+
+and services 
+
+• Not applicable 
+
+Water 
+
+303-1 
+
+Water withdrawal by source 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+303-2 
+
+Water sources significantly 
+
+affected by withdrawal of 
+
+water 
+
+• Not applicable 
+
+303-3 
+
+Water recycled and reused 
+
+• Not applicable 
+
+Biodiversity 
+
+304-1 
+
+Operational sites owned, 
+
+leased, managed in, or 
+
+adjacent to, protected areas 
+
+and areas of high 
+
+biodiversity value outside 
+
+protected areas 
+
+• Not applicable 
+
+304-2 
+
+Significant impacts of 
+
+activities, products, and 
+
+services on biodiversity 
+
+• Not applicable 
+
+304-3 
+
+Habitats protected or 
+
+restored 
+
+• Not applicable 
+
+304-4 
+
+IUCN Red List species and 
+
+national conservation list 
+
+species with habitats in 
+
+areas affected by operations 
+
+• Not applicable 
+
+Emissions 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+emissions 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+305-3 
+
+Other indirect (Scope 3) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+305-4 
+
+GHG emissions intensity 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+305-5 
+
+Reduction of GHG 
+
+emissions 
+
+• Not applicable 
+
+305-6 
+
+Emissions of ozone-
+
+depleting substances (ODS) 
+
+• Not applicable 
+
+305-7 
+
+Nitrogen oxides (NOX), sulfur 
+
+oxides (SOX), and other 
+
+significant air emissions 
+
+• Not applicable 
+
+Effluents and waste 
+
+306-1 
+
+Water discharge by quality 
+
+and destination 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+306-2 
+
+Waste by type and disposal 
+
+method 
+
+• SR: Environmental Sustainability (Pages 13-15) 
+
+306-3 
+
+Significant spills 
+
+• Not applicable 
+
+306-4 
+
+Transport of hazardous 
+
+waste 
+
+• Not applicable 
+
+306-5 
+
+Water bodies affected by 
+
+water discharges and/or 
+
+runoff 
+
+• Not applicable 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+Laws and regulations 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+• There is no non-compliance with environmental 
+
+laws and regulations. 
+
+Supplier environmental 
+
+assessments 
+
+308-1 
+
+New suppliers that were 
+
+screened using 
+
+environmental criteria 
+
+• Not applicable 
+
+GRI 400: Social disclosures 
+
+Employment 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+• SR: Social Contribution (Pages 16-17) 
+
+401-2 
+
+Benefits provided to full-time 
+
+employees that are not 
+
+provided to temporary or 
+
+part-time employees 
+
+• Not applicable 
+
+401-3 
+
+Parental leave 
+
+• Not applicable 
+
+Labor / management 
+
+relations 
+
+402-1 
+
+Minimum notice periods 
+
+regarding operational 
+
+changes 
+
+• Not applicable 
+
+Occupational health and 
+
+safety 
+
+403-1 
+
+Workers representation in 
+
+formal joint management–
+
+worker health and safety 
+
+committees 
+
+• Not applicable 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number of 
+
+work-related fatalities 
+
+• SR: Food Safety (Page 12) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+403-3 
+
+Workers with high incidence 
+
+or high risk of diseases 
+
+related to their occupation 
+
+• Not applicable 
+
+403-4 
+
+Health and safety topics 
+
+covered in formal 
+
+agreements with trade 
+
+unions 
+
+• Not applicable 
+
+Training and education 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+• SR: Social Contribution (Pages 16-17) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+404-2 
+
+Programs for upgrading 
+
+employee skills and 
+
+transition assistance 
+
+programs 
+
+• SR: Social Contribution (Pages 16-17) 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular 
+
+performance and career 
+
+development reviews 
+
+• SR: Social Contribution (Pages 16-17) 
+
+Diversity and equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance 
+
+bodies and employees 
+
+• SR: Social Contribution (Pages 16-17) 
+
+405-2 
+
+Ratio of basic salary and 
+
+remuneration of women to 
+
+men 
+
+• Not applicable 
+
+Non-discrimination 
+
+406-1 
+
+Incidents of discrimination 
+
+and corrective actions taken 
+
+• There is no incidents of discrimination. 
+
+Freedom of association 
+
+and collective bargaining 
+
+407-1 
+
+Operations and suppliers in 
+
+which the right to freedom of 
+
+association and collective 
+
+bargaining may be at risk 
+
+• Not applicable 
+
+Child labor 
+
+408-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of child labor 
+
+• Child labour is strictly prohibited. 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+Forced or compulsory 
+
+labor 
+
+409-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of forced or compulsory 
+
+labor 
+
+• Forced and compulsory labour is strictly prohibited. 
+
+Security practices 
+
+410-1 
+
+Security personnel trained in 
+
+human rights policies or 
+
+procedures 
+
+• Not applicable 
+
+Rights of indigenous 
+
+peoples 
+
+411-1 
+
+Incidents of violations 
+
+involving rights of indigenous 
+
+peoples 
+
+• Not applicable 
+
+Human rights 
+
+assessment 
+
+412-1 
+
+Operations that have been 
+
+subject to human rights 
+
+reviews or impact 
+
+assessments 
+
+• Not applicable 
+
+412-2 
+
+Employee training on human 
+
+rights policies or procedures 
+
+• Not applicable 
+
+412-3 
+
+Significant investment 
+
+agreements and contracts 
+
+that include human rights 
+
+clauses or that underwent 
+
+human rights screening 
+
+• Not applicable 
+
+Local communities 
+
+413-1 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+• SR: Social Contribution (Pages 16-17) 
+
+413-2 
+
+Operations with significant 
+
+actual and potential negative 
+
+impacts on local 
+
+communities 
+
+• Not applicable 
+
+Supplier social 
+
+assessment 
+
+414-1 
+
+New suppliers that were 
+
+screened using social criteria 
+
+• Not applicable 
+
+414-2 
+
+Negative social impacts in 
+
+the supply chain and actions 
+
+taken 
+
+• Not applicable 
+
+Public policy 
+
+415-1 
+
+Political contributions 
+
+• Not applicable 
+
+Customer health and 
+
+safety 
+
+416-1 
+
+Assessment of the health 
+
+and safety impacts of 
+
+product and service 
+
+categories 
+
+• SR: Food Safety (Page 12) 
+
+416-2 
+
+Incidents of non-compliance 
+
+concerning the health and 
+
+safety impacts of products 
+
+and services 
+
+• SR: Food Safety (Page 12) 
+
+Marketing and labelling 
+
+417-1 
+
+Requirements for product 
+
+and service information and 
+
+labeling 
+
+• SR: Food Safety (Page 12) 
+
+417-2 
+
+Incidents of non-compliance 
+
+concerning product and 
+
+service information and 
+
+labeling 
+
+• SR: Food Safety (Page 12) 
+
+417-3 
+
+Incidents of non-compliance 
+
+concerning marketing 
+
+communications 
+
+• SR: Food Safety (Page 12) 
+
+Customer privacy 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses 
+
+of customer data 
+
+• Not applicable 
+
+
+Sustainability Report for the financial year ended 31 March 2018 
+
+China Star Food Group Limited | 25 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+Socioeconomic 
+
+compliance 
+
+419-1 
+
+Non-compliance with laws 
+
+and regulations in the social 
+
+and economic area 
+
+• There is no non-compliance with socioeconomic 
+
+laws and regulations. 
+
+ 
+

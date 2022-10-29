@@ -1,0 +1,3468 @@
+
+
+
+
+2
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This Sustainability Report has been reviewed by the Company’s sponsor, SAC Capital Private Limited (the “Sponsor”). This Sustainability Report has 
+
+not been examined or approved by the Singapore Exchange Securities Trading Limited (“SGX-ST”) and the SGX-ST assumes no responsibility for the 
+
+contents of this document, including the correctness of any of the statements or opinions made or reports contained in this Sustainability Report. 
+
+ 
+
+The contact person for the Sponsor is Ms. Lee Khai Yinn (Tel: (65) 6232 3210) at 1 Robinson Road, #21-00 AIA Tower, Singapore 048542. 
+
+ 
+
+ 
+
+ 
+
+
+3
+
+
+4
+
+ 
+
+ 
+
+1.0 Introduction 
+
+ 
+
+1.1 About Us 
+
+ 
+
+Listed on the Catalist of the Singapore Exchange Securities Trading Limited (“SGX-ST”), Nippecraft Limited 
+
+(“Nippecraft” or the “Company”, and together with its subsidiaries, the “Group”), is headquartered in Singapore 
+
+and was founded in 1977.  
+
+ 
+
+Today, Nippecraft has grown from a stationery manufacturer to becoming a leading provider of innovative 
+
+lifestyle stationery solutions and pulp trader. The key markets of the stationery business include the United 
+
+Kingdom, Australia and Singapore while the key markets of the pulp trading business include Indonesia, Europe, 
+
+Singapore, Hong Kong and Malaysia. 
+
+ 
+
+The Group has two main consumer stationery brands: Collins and Debden. Collins and Debden are both global 
+
+brands, with Collins having more than 200 years of British heritage, while Debden has about 40 years of history 
+
+in Australia and New Zealand. We are proud of our heritage and always embrace sustainability as one of the 
+
+priorities in our decision-making process for our business. 
+
+ 
+
+Collins and Debden are names that are synonymous with high-quality stationery products across the world. We 
+
+are passionate about everything we do and strive to make the Collins and Debden brands the best that they can 
+
+be based on our key principles: 
+
+ 
+
+ 
+
+Quality; 
+
+ 
+
+Creativity; 
+
+ 
+
+Environmentally responsible; 
+
+ 
+
+Innovation; and 
+
+ 
+
+Investment in people. 
+
+ 
+
+For 
+
+more 
+
+information 
+
+on 
+
+Nippecraft, 
+
+please 
+
+visit 
+
+our 
+
+website 
+
+at 
+
+the 
+
+following 
+
+URL: 
+
+https://www.nippecraft.com.sg 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+5
+
+ 
+
+ 
+
+1.2 Our Presence 
+
+ 
+
+Nippecraft Limited and its Principal Subsidiaries 
+
+ 
+
+● Nippecra� Limited (HQ in Singapore) 
+
+● Collins Debden Pty Limited (Australia, Sydney) 
+
+● Collins Debden Limited (United Kingdom, Glasgow) 
+
+● Paperich Pte Ltd (Singapore) 
+
+● Collins Office Products International Ltd (Mauritius) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3 About this Report 
+
+We are pleased to present Nippecraft’s Sustainability Report for the financial year ended 31 December 2019 
+
+(“FY2019”). It has been prepared in accordance with Global Reporting Initiatives (“GRI”) Standards 2016 – Core 
+
+Option as well as Catalist Rules 711A and 711B and Practice Note 7F of the Catalist Rules. We have chosen the 
+
+GRI Standards as it is an internationally recognised reporting framework and this allows for comparison with 
+
+Nippecraft’s peers. 
+
+ 
+
+We have conducted our second formal materiality assessment with internal stakeholders in the financial year 
+
+ended 31 December 2018 (“FY2018”), which led to the identification of sustainability matters most material to 
+
+our business. These Economic, Environmental, Social and Government (“EESG”) matters have been reviewed and 
+
+validated by our Management in FY2019. 
+
+ 
+
+The reporting scope covers our corporate office and stationery operations for Singapore, Australia and the 
+
+United Kingdom for FY2019. Where applicable, past financial year’s data have been included for comparison 
+
+purposes.  
+
+ 
+
+We have not sought external assurance on this report but will consider doing so as our reporting matures over 
+
+time. 
+
+ 
+
+In our effort to meet the expectations of our stakeholders, we have taken steps to ensure the transparency and 
+
+accountability of our global operations in accordance with the scope of our report.  
+
+ 
+
+Our stakeholders’ feedback is the key to defining our sustainability approach. We look forward to your continued 
+
+support and welcome any feedback. Please contact us at sustainability@nippecraft.com.sg for any feedback.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Kingdom 
+
+    Glasgow 
+
+
+
+Singapore 
+
+
+
+Australia 
+
+  Sydney 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+United Kingdom
+
+Glasgow 
+
+Australia
+
+Sydney
+
+Mauritius
+
+Singapore
+
+
+6
+
+ 
+
+ 
+
+ 
+
+1.4 Organisation Profile 
+
+ 
+
+Name of organization 
+
+ 
+
+Nippecraft Limited 
+
+ 
+
+ 
+
+HQ location 
+
+ 
+
+9 Fan Yoong Road, Singapore 629787 
+
+ 
+
+Geography 
+
+ 
+
+ Offices in Singapore, Australia, United Kingdom 
+
+ 
+
+ 
+
+Legal form 
+
+ 
+
+Publicly listed on the SGX-ST since 1994 
+
+ 
+
+Markets served 
+
+ 
+
+United Kingdom, Australia, Japan, Singapore, Malaysia, 
+
+Indonesia, India and the United Arab Emirates 
+
+ 
+
+ 
+
+ 
+
+Organisation scale  
+
+ 
+
+ 
+
+Number of employees                :       69 
+
+Number of key business units :       4 
+
+Revenue 
+
+                                :       US$   120.6  million 
+
+Cash and bank balances 
+
+:       US$   14.1    million 
+
+Total debt 
+
+                                :       US$     -        million 
+
+Total equity                                 :       US$    30.3   million 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Membership and 
+
+Associations 
+
+Chamber of Commerce (United Kingdom)  
+
+Forest Stewardship Council (“FSC”) 
+
+Programme for the Endorsement of Forest Certification (“PEFC”)  
+
+GS1 Singapore, United Kingdom and Australia National 
+
+Employee Federation 
+
+Singapore Business Federation  
+
+Supplier Ethical Data Exchange (“SEDEX”) 
+
+The BOSS Federation (United Kingdom)  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+7
+
+ 
+
+ 
+
+2.0 Approach to Sustainability 
+
+ 
+
+2.1 Board’s Statement 
+
+ 
+
+Dear Stakeholders, 
+
+ 
+
+The Board of Nippecraft Limited is pleased to present our third sustainability report for FY2019.  
+
+ 
+
+This report is prepared in accordance to SGX-ST Catalist Rules and guidance from the Global Reporting Initiative 
+
+(“GRI”) Standards. In addition, this report also serves as a platform for Nippecraft to communicate on our 
+
+approach to our practices, performance and targets in relation to our sustainability efforts for FY2019 with our 
+
+stakeholders.   
+
+ 
+
+Together with Management, we continue to recognise the importance of sustainability and consider economic, 
+
+environmental, social and governance factors in our decision-making; while focusing on areas that are most 
+
+relevant to our business. As a company that fulfills the lifestyle stationery needs of our customers, there are 
+
+numerous sustainability-related concerns that we need to address on a daily basis. The most important of these 
+
+include measures that we have in place to protect the health and safety of our employees. Our compliance with 
+
+many rules and regulations we are subjected to are also vital for allowing us to continue to operate and maintain 
+
+that important trust between us and our stakeholders.  
+
+ 
+
+Back in FY2018, we have formalised our sustainability approach by reviewing our material assessment; and in 
+
+the same year, set performance indicators and targets that will guide our sustainability efforts into FY2019. These 
+
+efforts have resulted in many positive outcomes in terms of our performance during the year.  
+
+ 
+
+We would like to thank our stakeholders in working with us in fulfilling our targets and we look forward to your 
+
+continued support and partnership towards our goal of sustainable growth and development. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BOARD OF DIRECTORS  
+
+NIPPECRAFT LIMITED  
+
+29 May 2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+8
+
+ 
+
+ 
+
+2.2 Stakeholders’ Engagement 
+
+ 
+
+The success that we enjoyed is built upon effective stakeholder engagement. Feedback received from 
+
+stakeholders may greatly influence business performance. From our corporate and overseas offices, our people 
+
+engage with different stakeholder groups on a daily basis. We will strive to keep up with their evolving needs 
+
+and this guides the type of responses required from us. Our approach to stakeholder engagement is detailed in 
+
+Table 1 below: 
+
+ 
+
+ 
+
+Table 1: Material Stakeholders’ Engagement  
+
+Stakeholders 
+
+Groups 
+
+Frequency of 
+
+Engagement 
+
+ 
+
+Method of Engagement 
+
+Key Interests of 
+
+Stakeholder Group 
+
+Our Response 
+
+Customers and 
+
+consumers 
+
+Daily to weekly 
+
+ 
+
+Consumer enquiry 
+
+channels 
+
+ 
+
+Surveys, market 
+
+research and focus 
+
+groups 
+
+ 
+
+Marketing and 
+
+labeling of 
+
+products 
+
+ 
+
+Mass media and 
+
+social media 
+
+ 
+
+Point of sales 
+
+ 
+
+Stock availability 
+
+ 
+
+Innovation 
+
+ 
+
+Product quality 
+
+ 
+
+Convenience and 
+
+experience 
+
+ 
+
+Product labeling 
+
+ 
+
+Product safety  
+
+ 
+
+To sustain brand trust 
+
+and loyalty through a 
+
+unique brand 
+
+experience to meet 
+
+their needs and 
+
+enjoyment 
+
+ 
+
+To develop innovation 
+
+and strive for high-
+
+quality products at 
+
+competitive pricing 
+
+Local 
+
+community 
+
+Ad hoc to 
+
+annually 
+
+ 
+
+Annual reports 
+
+ 
+
+Corporate social 
+
+responsibility 
+
+initiatives 
+
+ 
+
+Participation in 
+
+charitable 
+
+activities 
+
+ 
+
+Support activities 
+
+organised by local 
+
+communities 
+
+ 
+
+Local employment 
+
+ 
+
+Environmental impact 
+
+of operations 
+
+ 
+
+To contribute to the 
+
+development of the 
+
+communities we 
+
+operate in 
+
+Employees and 
+
+trade unions 
+
+Daily 
+
+ 
+
+Daily meeting 
+
+ 
+
+Staff feedback 
+
+ 
+
+Collective 
+
+bargaining 
+
+agreement 
+
+ 
+
+Company events 
+
+and activities 
+
+ 
+
+Surveys and 
+
+interviews 
+
+ 
+
+Staff appraisal 
+
+ 
+
+Training and 
+
+development 
+
+programmes 
+
+ 
+
+Work environment 
+
+ 
+
+Pay and benefits 
+
+ 
+
+Equal opportunities 
+
+and non-
+
+discrimination 
+
+ 
+
+Health, safety and 
+
+well-being 
+
+ 
+
+Job satisfaction 
+
+ 
+
+Training and 
+
+development 
+
+opportunities 
+
+ 
+
+To improve 
+
+productivity 
+
+ 
+
+To reward 
+
+performance with 
+
+incentive 
+
+ 
+
+To strengthen the 
+
+relationships with our 
+
+staff through 
+
+communication and 
+
+participation in 
+
+building our work 
+
+environment 
+
+Shareholders 
+
+Half-yearly to 
+
+annually 
+
+ 
+
+SGXNet 
+
+announcements 
+
+ 
+
+Press releases 
+
+ 
+
+Half-yearly result 
+
+announcements 
+
+ 
+
+Annual reports 
+
+ 
+
+Circulars 
+
+ 
+
+Shareholders’ 
+
+general meetings 
+
+ 
+
+Corporate website 
+
+ 
+
+Business performance 
+
+ 
+
+Good corporate 
+
+governance 
+
+ 
+
+Transparency 
+
+ 
+
+To improve 
+
+profitability 
+
+ 
+
+To develop new 
+
+strategies and 
+
+initiatives 
+
+ 
+
+To create long-term 
+
+sustainable value 
+
+ 
+
+To create an 
+
+atmosphere of trust 
+
+via timely 
+
+communication and 
+
+provide relevant and 
+
+reliable information 
+
+ 
+
+To adhere to good 
+
+corporate governance 
+
+practices 
+
+Suppliers 
+
+Daily to weekly 
+
+ 
+
+Annual reports 
+
+ 
+
+Electronic mails 
+
+ 
+
+Conference calls 
+
+ 
+
+Long-term 
+
+business 
+
+relationship 
+
+ 
+
+Service 
+
+ 
+
+Product and service 
+
+quality 
+
+ 
+
+Cost of product and 
+
+service 
+
+ 
+
+Business ethics 
+
+ 
+
+To collaborate, 
+
+develop products and 
+
+service quality 
+
+ 
+
+To achieve a 
+
+sustainable business 
+
+relationship with our 
+
+suppliers 
+
+
+9
+
+ 
+
+ 
+
+Stakeholders 
+
+Groups 
+
+Frequency of 
+
+Engagement 
+
+ 
+
+Method of Engagement 
+
+Key Interests of 
+
+Stakeholder Group 
+
+Our Response 
+
+performance 
+
+review 
+
+ 
+
+Site visits and 
+
+audits 
+
+ 
+
+Government 
+
+and regulators 
+
+Monthly to 
+
+annually 
+
+ 
+
+Annual reports 
+
+ 
+
+Half-yearly result 
+
+announcements 
+
+ 
+
+Participation in 
+
+conferences, 
+
+meetings and 
+
+discussions 
+
+ 
+
+Press releases 
+
+ 
+
+Circulars 
+
+ 
+
+SGXNet 
+
+announcements 
+
+ 
+
+Business performance 
+
+ 
+
+Good corporate 
+
+governance  
+
+ 
+
+Contribution to social 
+
+and economic 
+
+development 
+
+ 
+
+Environmental impact 
+
+of operations 
+
+ 
+
+To comply with the 
+
+relevant statutes and 
+
+regulations  
+
+ 
+
+To support for 
+
+relevant government 
+
+and regulators’ 
+
+initiatives  
+
+ 
+
+2.3 Materiality Assessment 
+
+ 
+
+A formal materiality assessment was conducted in FY2018 to identify EESG matters which were most material to 
+
+our businesses. In FY2019, these existing matters were reviewed by our Management team during a workshop 
+
+session to shortlist material factors that create a significant impact on our businesses. We will review our material 
+
+matters annually to ensure that it continues to be relevant for our future reporting periods.    
+
+ 
+
+Table 2: Four Steps Materiality Assessment Process 
+
+ 
+
+1 
+
+Identification  
+
+A list of EESG factors was consolidated through discussions with key management personnel 
+
+across various stationery divisions.  
+
+ 
+
+2 
+
+Prioritisation 
+
+The identified EESG matters were evaluated and prioritised by representatives from the various 
+
+stationery divisions; taking into consideration both internal and external stakeholders’ 
+
+perspectives. These EESG matters were subsequently aligned at the Corporate level for 
+
+consistency across the Group stationery divisions.    
+
+ 
+
+3 
+
+Validation 
+
+The final list of material factors for FY2019 Sustainability Report was presented to the Board of 
+
+Directors for their validation and approval.  
+
+ 
+
+ 
+
+4 
+
+Review 
+
+Material matters selected for reporting in FY2018 were reassessed to ensure their continued 
+
+relevance to our operations in FY2019. We will continue to review our material factors on an 
+
+annual basis. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+10
+
+ 
+
+ 
+
+A materiality assessment exercise was conducted for FY2019 in accordance with the process described above. 
+
+Incorporating inputs from our stakeholders, our material factors are ranked as follows: 
+
+ 
+
+Chart 1: Nippecraft’s Materiality Matrix 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+11
+
+ 
+
+ 
+
+ 
+
+3.0 Economic 
+
+ 
+
+3.1 Economic Performance 
+
+ 
+
+The scope of this report covers our stationery business operations in Singapore, the United Kingdom (“UK”) 
+
+and Australia in which Nippecraft has an ownership interest of more than 50%. 
+
+ 
+
+Our Stationery business has ended FY2019 with a 12% decrease in revenue to US$15.8 million and an 
+
+operating loss of US$1.7 million (FY2018: operating loss of US$1.1 million) due to a continual decline in the 
+
+traditional stationery business, as well as a highly challenging retail environment in both the UK and 
+
+Australia. In the UK, the situation was compounded by the loss of sales from a key customer that went into 
+
+administration. While sales from new markets and lifestyle stationery growth were healthy compared to 
+
+FY2018, these were in the early stage of development and insufficient to cover the core decline in FY2019.  
+
+ 
+
+Nevertheless, Nippecraft holds a holistic view in generating long-term profitability and shareholders’ 
+
+returns with a consideration of the interest of various stakeholders identified under the stakeholders’ 
+
+engagement. For example, our classic diaries and notebooks are evolving to portray the personality, lifestyle 
+
+and fashion-sense of the consumers. We will continue looking into improving our consumers’ experience 
+
+by engaging them in a focus group to gather feedback on their experience in using our products and to 
+
+comment on our work in progress to keep up with the ever-changing consumer trends. 
+
+ 
+
+For more information on our financial performance in FY2019, please refer to the Annual Report 2019. 
+
+ 
+
+ 
+
+4.0 Environment 
+
+ 
+
+In Nippecraft, we are conscious of our environmental footprint and have been working with our suppliers 
+
+to reduce them. With the growing concern of climate change, it is imperative for us to focus on our effort 
+
+in using sustainably sourced and recyclable materials in our products so that we can contribute to the global 
+
+force to shift the tide of climate change.  
+
+ 
+
+4.1 Materials Sourcing 
+
+ 
+
+We have suppliers located across Asia. These suppliers supplied the bulk of our finished goods. We often 
+
+update them about our consumers and governmental requirements so that they are prepared for the 
+
+changing needs. For example, we are currently exploring with our suppliers to reduce the use of plastics for 
+
+packaging.  
+
+ 
+
+Pulp and Paper are the key raw materials in our finished products. As we continue to embrace sustainable 
+
+sourcing, we are committed to responsible forestry management. As Nippecraft is both FSC and PEFC 
+
+certified, we are committed to increasing the proportion of materials that are certified under the Chain-of-
+
+Custody (“CoC”) programmes. In addition, most of our cover materials are either sourced from FSC or 
+
+Registration, Evaluation, Authorisation and Restriction of Chemicals (“REACH”) accredited suppliers. 
+
+ 
+
+In addition to sustainable sourcing, we also adhere to high social and ethical standards along with our supply 
+
+chain. Our Company is a member of SEDEX, a global organisation that helps companies manage an ethical 
+
+supply chain. The SEDEX Members Ethical Trade Audit (“SMETA”) is one of the most widely use audit 
+
+procedures in the world. It provides a globally-recognised way to assess responsible supply chain activities, 
+
+including labour rights, health and safety, the environment and business ethics. Furthermore, we have been 
+
+instrumental in our key vendors adopting the SEDEX standards. 
+
+ 
+
+Our materials have passed the stringent checks by the customs of the importing markets and we perform 
+
+ongoing reviews to ensure that we comply with respective market customs regulations. We also review the 
+
+commodity codes on an ongoing basis to ensure we are using the correct codes and therefore pay the 
+
+correct level of duty. Commodity codes are used to classify goods for import and export within the European 
+
+
+12
+
+ 
+
+ 
+
+ 
+
+Union (“EU”) or outside the EU. The classification aims to pay the right tax and duty and follow the 
+
+respective regulations. We also continued to perform quality checks on our materials to ensure that there 
+
+are no hazardous elements. For example, we ensure that our materials are non-hazardous through the use 
+
+of materials which are REACH certified in particular, the materials used for our book covers. We practise 
+
+ethical sourcing by using materials only from well-established suppliers who are compliant with 
+
+environmental legislation and procedures. 
+
+ 
+
+Paper, which makes up approximately 90% of a book, can be recycled. Other elements, which cannot be 
+
+recycled, include book cover materials, ribbon markers and head and tail bands. In the UK, these materials 
+
+are disposed of through a third-party vendor via our distributor. In Australia, the unsold products are 
+
+disposed of through a third-party vendor. The products are sent for 100% recycling. Both third party vendors 
+
+are “Zero Waste to Landfill” sites. The residual non-recoverable waste streams are shredded, baled then air 
+
+dried and exported to Asia to be used in energy production. 
+
+ 
+
+During the year, 1,408 (FY2018: 1,797) metric tonnes of materials were used to produce and pack our books 
+
+sold. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Target 
+
+FY2020 
+
+Material from sustainable sources 
+
+85% 
+
+84% 
+
+85% 
+
+ 
+
+4.2 Supplier Environmental Assessment  
+
+ 
+
+Our Quality Control team performs regular site visits to our suppliers and check that they are indeed using 
+
+sustainable materials. For all new suppliers, we perform rigorous due diligence checks before appointing 
+
+them. The following reports will also be obtained from them: 
+
+ 
+
+1) ISO9001 Quality Management; 
+
+2) ISO14001 Environmental Management Certification; 
+
+3) FSC or PEFC; 
+
+4) SEDEX; and 
+
+5) Social Accountability (SA8000) or Occupational Health and Safety Assessment Series (OHSAS 18001). 
+
+ 
+
+Any potential vendors who are unwilling or unable to provide the abovementioned reports will not be 
+
+appointed as our vendor. There was no new trade supplier appointed in FY2019. All of our trade suppliers 
+
+are SEDEX certified. We performed a total of six visits to our vendors’ manufacturing facilities and offices in 
+
+FY2019. Customers may also request for the SEDEX audit reports which we will promptly provide to them 
+
+for them to understand how our supply chains are performing. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+13
+
+5.0 Social 
+
+In FY2019, we saw 3% decrease in headcount to 69 employees. This was mainly due to the reduction of three 
+
+part-time employees offset by an increase of one full-time employee.  
+
+Table 3: Total employed staff 
+
+As at 31 December 
+
+Male 
+
+Female 
+
+Total 
+
+FY2019 
+
+FY2018 
+
+FY2019 
+
+FY2018 
+
+FY2019 
+
+FY2018 
+
+Full-Time 
+
+30 
+
+29 
+
+37 
+
+37 
+
+67 
+
+66 
+
+Part-Time 
+
+-
+
+1
+
+2 
+
+4 
+
+2 
+
+5 
+
+Total 
+
+30 
+
+30 
+
+39 
+
+41 
+
+69 
+
+71 
+
+While our headcount decreased from 71 in FY2018 to 69 in FY2019, there were 20 new hires in FY2019 replacing 
+
+th
+
+ ose whom have resigned within the Group, as illustrated below: 
+
+ Table 4: Newly employed staff by Countries 
+
+ As at 31 December 2019 
+
+As we are operating within a fast-moving consumer goods industry, people are our greatest asset that serve as an 
+
+important point of contact between our customers and Nippecraft. It is a priority for us to equip them with the 
+
+required skill sets so that they can be at their best at all times. This includes functions like customer service, sales, 
+
+procurement, warehousing, quality assurance, product development, human resources, administrative and 
+
+finance. We hope to continue to improve their skills to meet the changing demands of the industry. 
+
+Nippecraft is committed to fair employment, elimination of discrimination and encouraging diversity 
+
+amongst our workforce. 
+
+Table 5: Age profiles of new hires 
+
+FY2019 Age Profile of 
+
+new hires 
+
+&lt;30 
+
+30 to 50 
+
+&gt;50
+
+Number 
+
+6 
+
+13 
+
+1 
+
+In percentage 
+
+30% 
+
+65% 
+
+5% 
+
+FY2018 Age Profile of 
+
+new hires 
+
+Number 
+
+6 
+
+18 
+
+3 
+
+In percentage 
+
+22% 
+
+67% 
+
+11% 
+
+We continue to believe that Group’s operations required a strong talent pool to make a positive impact. In 
+
+FY2019, we believed that we have recruited the right candidates in catering to the needs of the Company. 
+
+By Countries 
+
+By Gender 
+
+Male 
+
+Female 
+
+Australia 
+
+3 
+
+2 
+
+Singapore 
+
+2 
+
+8 
+
+United Kingdom 
+
+2 
+
+3 
+
+Total: 20 (FY2018:27) 
+
+ 7 (35%) 
+
+13 (65%) 
+
+
+14
+
+ 
+
+ 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target  
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Perpetual Target 
+
+ 
+
+Recruiting and matching the right 
+
+candidates for the job 
+
+100% 
+
+Achieved 
+
+100% 
+
+ 
+
+5.1 Diversity and Equal Opportunity 
+
+ 
+
+We embrace diversity, and at the same time expect employees to be aligned with the Group’s vision and 
+
+strategic initiatives. The age of our staff ranges from the 20s to the 60s. Our staff consists of people coming 
+
+from different nationalities and academic qualifications but we strive for fair treatment. We are committed 
+
+to providing competitive remuneration and benefits to our employees. 
+
+ 
+
+The employees in our Group comprise of union and non-unionised members. In Singapore, a collective 
+
+bargaining agreement between the Company and the Building Construction and Timber Industries 
+
+Employee Union covers all our locally engaged employees other than staff holding managerial and 
+
+confidential positions. Our employees in the UK and Australia are not unionised. 
+
+ 
+
+In both FY2019 and FY2018, 44% of the senior management team comprised of females. The Board 
+
+continues to believe that with existing gender equality in the senior management team, the Group can 
+
+continue to expect diversity of ideas and innovative breakthroughs. Nippecraft will continue to ensure 
+
+gender equality on the boards of all our subsidiaries as well as the senior management team. 
+
+ 
+
+Employee Profile of the Group as at 31 December 2018 and 31 December 2019 are as follows: 
+
+ 
+
+Table 6: Age profile of all employees  
+
+FY2019 Age Profile of all 
+
+employees 
+
+&lt;30 
+
+30 to 50 
+
+&gt;50 
+
+Number 
+
+11 
+
+42 
+
+16 
+
+In percentage 
+
+16% 
+
+61% 
+
+23% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY2018 Age Profile of all 
+
+employees 
+
+ 
+
+ 
+
+ 
+
+Number 
+
+12 
+
+44 
+
+15 
+
+In percentage 
+
+17% 
+
+62% 
+
+21% 
+
+ 
+
+ 
+
+Table 7: Academic profile of all employees 
+
+FY2019 Academic 
+
+Profile of all employees 
+
+Below diploma 
+
+Diploma 
+
+Degree and above 
+
+Number 
+
+17 
+
+16 
+
+36 
+
+In percentage 
+
+25% 
+
+23% 
+
+52% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY2018 Academic 
+
+Profile of all employees 
+
+ 
+
+ 
+
+ 
+
+Number 
+
+22 
+
+15 
+
+34 
+
+In percentage 
+
+31% 
+
+21% 
+
+48% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+15
+
+ 
+
+ 
+
+ 
+
+Table 8: Nationality profile of all employees 
+
+FY2019 
+
+Nationality 
+
+Profile 
+
+ 
+
+Australia 
+
+ 
+
+British 
+
+ 
+
+Chinese 
+
+ 
+
+Malaysian 
+
+ 
+
+Singaporean 
+
+ 
+
+Others 
+
+Number 
+
+12 
+
+21 
+
+4 
+
+10 
+
+19 
+
+3 
+
+Percentage 
+
+17% 
+
+30% 
+
+6% 
+
+15% 
+
+28% 
+
+4% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY2018 
+
+Nationality 
+
+Profile 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Number 
+
+13 
+
+20 
+
+5 
+
+12 
+
+19 
+
+2 
+
+Percentage 
+
+18% 
+
+28% 
+
+7% 
+
+17% 
+
+27% 
+
+3% 
+
+ 
+
+5.2 Code of Conduct 
+
+ 
+
+The Group sets out the expected code of conduct in its employee handbook. During the year, the Group 
+
+has updated the business ethics guidelines that required to be adhered to in dealings with both customers 
+
+and vendors. Nippecraft ensures compliance with labour and employment laws, including working hours. 
+
+The Group does not discriminate against anyone because of age, gender, national origin, disability, religion, 
+
+sexual orientation, marital or maternity status, union membership or political opinion, among others. An 
+
+Equality and Diversity Policy has been established within the Group to show our commitment towards 
+
+promoting equality and diversity and to ensure that individuals are treated fairly and valued as a member 
+
+of a team. The Company recognises that it has clear obligations towards all employees to ensure they are 
+
+treated fairly. There are channels to report any non-compliance in relation to discrimination through our 
+
+whistle-blowing system. 
+
+ 
+
+Nippecraft’s Grievance Policy encourages employees to freely communicate with their immediate 
+
+supervisor or human resource personnel. This is to ensure that problems are aired and resolved as quickly 
+
+as possible. In the event that issue cannot be resolved at the operational level, it will be escalated to the 
+
+next level of the organisational hierarchy.  
+
+ 
+
+In 2019, there was no known instance of discrimination or reported discrimination received. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Perpetual 
+
+Target 
+
+ 
+
+ 
+
+Instance of discrimination 
+
+Zero tolerance 
+
+of 
+
+discrimination 
+
+ 
+
+Achieved 
+
+Zero tolerance 
+
+of 
+
+discrimination 
+
+ 
+
+5.3 Training and Education  
+
+ 
+
+Training in Nippecraft begins at the induction stage of our new hires. Our employees go through a host of 
+
+internal coaching programmes including selling, customer service, procurement, inventory control, human 
+
+resources and finance. 
+
+ 
+
+Nippecraft understands that staff training and development paves the way for the Group to progress into 
+
+the future. One of our initiatives is to re-deploy our staff to assume new roles while leveraging on their 
+
+expertise amidst the evolving business model that we operate in. Staff is encouraged to go for courses and 
+
+seminars to upgrade themselves and improve their skills. We set-off into FY2019 with a training target of 
+
+no less than 137 hours. At the end of FY2019, 210 training hours were provided to our employees.    
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+16
+
+ 
+
+ 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Target 
+
+FY2020 
+
+Training and Education 
+
+137 hours 
+
+Achieved 
+
+140 hours 
+
+ 
+
+5.4 Occupational Health and Safety  
+
+ 
+
+The well-being and safety of our employees are paramount to us. We are committed to safeguarding our 
+
+employees’ health and safety against any potential occupational hazards. Yellow tapes demarcate areas 
+
+that may cause potential fall or injury. Same as FY2018, there was no workplace incident in FY2019. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Perpetual Target 
+
+ 
+
+ 
+
+Occupational Health and Safety  
+
+Zero incident of 
+
+workplace 
+
+accident 
+
+ 
+
+Achieved 
+
+Zero incident of 
+
+workplace 
+
+accident 
+
+ 
+
+5.5 Local Communities 
+
+ 
+
+The UK office makes yearly donations to different charities such as the British Heart Foundations and 
+
+Glasgow City Missions to show their care for the homeless and sick people. The Australian office helps 
+
+protect the native habitats of endangered animals like the Tasmania devil and wedge-tailed eagle. Support 
+
+is given to the Tasmanian Native Forest Protection Project with carbon offsets from the Kyoto range of 
+
+diaries. Last but not least, the Singapore office is one of the sponsors for Nanyang Technological University 
+
+Rotary Club orientation camp.  In FY2019, the Group has achieved its target set-out in the Sustainability 
+
+Report for FY2018.  
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Target 
+
+FY2020 
+
+ 
+
+Supporting local community charity 
+
+and not for profit activities   
+
+At least two 
+
+charity and/or 
+
+not for profit 
+
+events 
+
+ 
+
+Achieved 
+
+At least two 
+
+charity and/or 
+
+not for profit 
+
+events 
+
+ 
+
+5.6 Socio-economic Compliance  
+
+ 
+
+We pride ourselves in having good corporate governance and observing compliance with applicable laws 
+
+and regulations. The Group is committed to conduct the business with integrity and to safeguard the 
+
+interest of all our stakeholders, both internal and external. 
+
+ 
+
+Similar to both FY2017 and FY2018, we have achieved zero incidents on non-compliance in FY2019. 
+
+ 
+
+Performance and Targets 
+
+             Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Perpetual  
+
+Target 
+
+ 
+
+Socio-economic Compliance 
+
+Zero tolerance 
+
+of non-
+
+compliance 
+
+ 
+
+Achieved 
+
+Zero tolerance 
+
+ of non-
+
+compliance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+17
+
+ 
+
+ 
+
+ 
+
+5.7 COVID-19 
+
+ 
+
+ 
+
+While we continue to focus on sustaining our businesses during this challenging period, our employees’ 
+
+health and safety remain as our top priorities. We have adopted the following measures in response to 
+
+the COVID-19 for all our global operations: 
+
+ 
+
+(a) Work from Home arrangement; 
+
+(b) providing staff with the necessary equipment to work from home; 
+
+(c) rigorous cleaning for warehouse facility that is still open;  
+
+(d) maintaining social distancing for warehousing; 
+
+(e) applied and obtained “Safe Entry” QR code (for the purpose of contact tracing) for entry and exit 
+
+from the warehouse premise in Singapore.  
+
+ 
+
+ 
+
+6.0 Governance 
+
+ 
+
+Our ability to integrate sustainable initiatives and processes is the critical factor for business continuity. Our 
+
+Board is overall responsible for sustainability and integration of EESG factors in the formulation of our 
+
+business strategy. Management will then set the sustainability direction for our business operations. This 
+
+includes the target setting and execution of initiatives. Management will report the sustainability 
+
+performance to the Board on an annual basis,  
+
+ 
+
+6.1 Minority Representation 
+
+ 
+
+Our Board consists of four members of which three are independent directors. This will ensure that the 
+
+interests of the minority shareholders are protected and that their voices will be heard. 
+
+ 
+
+6.2 Policies and Practices 
+
+ 
+
+Strong corporate governance and good business ethics provide foundation support for many successful 
+
+organisations in the world.  Nippecraft aligns itself to the industry’s best practices and strives to meet 
+
+stakeholders’ expectation. As part of our corporate governance framework, a set of policies, such as the 
+
+Code of Conduct (refer to 5.2 Code of Conduct) and Whistle-blowing Policy, has been formulated to guide 
+
+us on the right way to conduct business responsibly.   
+
+ 
+
+We strive to maintain the highest standard of accountability, fairness and integrity. Our employees are 
+
+informed of their expected conduct during onboarding. We also encouraged them to raise any complaints 
+
+or feedback regarding questionable accounting, audit matters, internal controls or any matter that breaches 
+
+the Group policy, corruption and employee misconduct in accordance with our Whistle-Blowing Policy.  
+
+Please refer to the Corporate Governance section of Nippecraft’s Annual Report 2019 for further 
+
+information. 
+
+ 
+
+6.3 Enterprise Risk Management 
+
+ 
+
+Our Board recognised its responsibilities over the governance of risks and has set in place management 
+
+procedures for ensuring a sound system of risk management and internal controls. These procedures 
+
+include a structured Enterprise Risk Management (“ERM”) programme to Nippecraft and its subsidiaries, 
+
+management reviews of key transactions, and the assistance of independent consultants such as external 
+
+and internal auditors to review financial statements and internal controls covering key risk areas. 
+
+ 
+
+The key components of the ERM programme are as follows: 
+
+ 
+
+a) Risk Management Manual; 
+
+b) Risk Appetite of the Company; and  
+
+c) 
+
+Risk Assessment and Monitoring. 
+
+
+18
+
+ 
+
+ 
+
+ 
+
+ 
+
+By identifying and managing risks through the ERM programme, we should be able to make more informed 
+
+and collective decisions and to benefit from a better balance between risk and reward. As part of the 
+
+programme, Management will also have more structured review processes as new risks emerge to 
+
+cognisant the potential impact from such new risks and to undertake meaningful measures to address 
+
+them. 
+
+ 
+
+More information on our Corporate Governance can be found in Nippecraft’s Annual Report 2019.     
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for 
+
+FY2019 
+
+Performance for 
+
+FY2019 
+
+Perpetual Target 
+
+ 
+
+Compliance with Catalist Rules, Code of 
+
+Corporate Governance and the 
+
+governing Statutes of the countries 
+
+that we operated in. 
+
+ 
+
+Zero instance of 
+
+non-compliance 
+
+ 
+
+Achieved 
+
+ 
+
+Zero instance of 
+
+non-compliance 
+
+Perform risk assessment annually and 
+
+make relevant disclosures in 
+
+accordance with the Catalist Rules and 
+
+the Code of Corporate Governance. 
+
+Zero tolerance 
+
+approach 
+
+towards non- 
+
+compliance  
+
+ 
+
+ 
+
+Achieved 
+
+ 
+
+Zero cases of 
+
+non-compliance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Compliance of Code of Conduct 
+
+Maintain a high 
+
+standard of 
+
+ethical conduct 
+
+and adopts a 
+
+zero-tolerance 
+
+approach to 
+
+fraud and zero 
+
+incident of 
+
+corruption or 
+
+similar 
+
+misconduct 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Achieved 
+
+Maintain a high 
+
+standard of 
+
+ethical conduct 
+
+and adopts a 
+
+zero-tolerance 
+
+approach to fraud 
+
+and zero incident 
+
+of corruption or 
+
+similar 
+
+misconduct 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+19
+
+ 
+
+ 
+
+GRI Standard Content Index 
+
+ 
+
+ 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+GRI 101: Foundation 2016 
+
+ 
+
+ 
+
+GENERAL DISCLOSURE 
+
+ 
+
+ 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-1 
+
+Name of organisation 
+
+Nippecraft Limited 
+
+102-2 
+
+Activities, brands, products and services 
+
+Introduction, page 4  
+
+102-3 
+
+Location of headquarters 
+
+Organisation Profile, page 6  
+
+102-4 
+
+Location of operations 
+
+Organisation Profile, page 6  
+
+102-5 
+
+Ownership and legal form 
+
+Organisation Profile, page 6 ; Annual Report 
+
+2019 
+
+102-6 
+
+Markets served 
+
+Organisation Profile, page 6  
+
+102-7 
+
+Scale of the organisation 
+
+Organisation Profile, page 6  
+
+102-8 
+
+Information on employees and other workers 
+
+Organisation Profile, page 6 ; Social, page 13  
+
+102-9 
+
+Supply chain 
+
+Environment, pages 11 to 12  
+
+102-10 
+
+Significant changes to the organisation and its supply chain 
+
+There were no significant changes. 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Nippecraft supports the intent of the 
+
+Precautionary Principle, but has not expressed a 
+
+specific commitment. 
+
+102-12 
+
+External initiatives 
+
+Nil 
+
+102-13 
+
+Membership of associations 
+
+Organisation Profile, page 6  
+
+102-14 
+
+Statement from senior decision-maker 
+
+Board’s Statement, page 7  
+
+102-16 
+
+Values, principles, standards and norms of behaviour 
+
+Governance, page 17 ; Annual Report 2019 
+
+102-18 
+
+Governance structure 
+
+Governance, page 17 ; Annual Report 2019 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholders’ Engagement, pages 8 to 9  
+
+102-41 
+
+Collective bargaining agreements 
+
+None 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholders’ Engagement, page 8  
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholders’ Engagement, pages 8 to 9  
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholders’ Engagement, pages 8 to 9  
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+Global Presence, page 5 ; Annual Report 2019 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+About this Report, page 5  
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment, page 9  
+
+102-48 
+
+Restatement of information 
+
+None 
+
+102-49 
+
+Changes in reporting 
+
+None 
+
+102-50 
+
+Reporting period 
+
+1 January to 31 December 2019 
+
+102-51 
+
+Date of most recent previous report 
+
+30 May 2019 
+
+102-52 
+
+Reporting cycle 
+
+Annually 
+
+102-53 
+
+Contact point for questions about the report 
+
+About this Report, page 5  
+
+
+20
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+102-54 
+
+Claims of reporting in accordance with the GRI Standards 
+
+About this Report, page 5  
+
+102-55 
+
+GRI content index 
+
+GRI Standards Content Index, pages 19 to 20  
+
+102-56 
+
+External assurance 
+
+We may seek external assurance in the future. 
+
+MATERIAL TOPICS 
+
+ 
+
+ 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-1 
+
+Direct economic value generated and distributed 
+
+Economic, page 11  
+
+GRI 205: Anti-corruption 
+
+2016 
+
+205-1 
+
+Operations assessed for risks related to corruption 
+
+Governance, page 18  
+
+GRI 301: Materials 2016 
+
+301-1 
+
+Materials used by weight or volume 
+
+Environment, pages 11 to 12  
+
+GRI 308: Supplier 
+
+Environmental 
+
+Assessment 2016 
+
+308-1 
+
+New suppliers that were screened using environmental criteria 
+
+Environment, page 12  
+
+GRI 401: Employment 
+
+2016 
+
+401-1 
+
+New employees hires and employee turnover 
+
+Social, pages 13 to 14  
+
+GRI 403: Occupational 
+
+Health and Safety 2018 
+
+403-2 
+
+Types of injury and rates of injury, occupational diseases, lost 
+
+days, and absenteeism, and number of work-related fatalities 
+
+Social, page 16  
+
+GRI 404: Training and 
+
+Education 2016 
+
+404-1 
+
+Average hours of training per year per employee 
+
+Social, page 15 to 16  
+
+GRI 405: Diversity and 
+
+Equal Opportunity 2016 
+
+405-1 
+
+Diversity of governance bodies and employees 
+
+Social, pages 14 to 15  
+
+GRI 413: Local 
+
+Communities 2016 
+
+413-1 
+
+Operations with local community engagement, impact 
+
+assessments and development programmes 
+
+Social, page 16  
+
+GRI 419: Socioeconomic 
+
+Compliance 2016 
+
+419-1 
+
+Non-compliance with laws and regulations in the social and 
+
+economic area 
+
+Social, page 16  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+

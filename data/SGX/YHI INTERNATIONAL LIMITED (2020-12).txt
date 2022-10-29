@@ -1,0 +1,6453 @@
+
+
+
+
+
+DRIVING GROWTH,
+
+ENHANCING RESILIENCE
+
+SUSTAINABILITY REPORT 2020
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3  
+
+Chairman’s Message
+
+4 
+
+About This Report 
+
+5 
+
+About YHI International Limited 
+
+8 
+
+Our Sustainability Efforts And Reporting Approach
+
+11   Material Environmental Topics 
+
+ 
+
+16   Material Social Topics 
+
+20   Material Governance Topics
+
+21 GRI Standards Content Index 
+
+CONTENTS
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+2
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CHAIRMAN’S MESSAGE
+
+At YHI, the Board oversees the Group’s 
+
+sustainability performance, practices and 
+
+initiatives and its compliance with SGX 
+
+guidelines on corporate governance and 
+
+sustainability reporting. It has played a 
+
+key role in determining and re-evaluating 
+
+the material environmental, social and 
+
+governance factors examined in this report.
+
+
+
+
+
+
+
+DEAR STAKEHOLDERS,
+
+On behalf of the Board and management of YHI International 
+
+Limited (“YHI” or the “Group”), I present our fourth annual 
+
+sustainability report (the “report”). This report compiles 
+
+our sustainability strategy and initiatives as we continue to 
+
+evolve and improve on our sustainability journey. At YHI, we 
+
+aim to create a positive impact on the environment and the 
+
+community by paying close attention to the issues that are 
+
+material to our stakeholders. 
+
+In recent years, there has been an increase in social 
+
+awareness towards waste issues and the need to conserve 
+
+resources. At YHI, we are aware that our manufacturing 
+
+operations generate waste, and we endeavour to reduce our 
+
+contribution to waste through reduced use of raw materials 
+
+and recycling more waste. Through our Kaizen initiatives, 
+
+our various subsidiaries constantly challenge themselves 
+
+and innovate to find new ways of reducing wastage and 
+
+improving operational efficiency.
+
+At YHI, the Board oversees the Group’s sustainability 
+
+performance, practices and initiatives and its compliance 
+
+with SGX guidelines on corporate governance and 
+
+sustainability reporting. It has played a key role in 
+
+determining and re-evaluating the material environmental, 
+
+social and governance factors examined in this report, and 
+
+considers sustainability an important part of our strategy 
+
+formulation. As a listed company, YHI is committed to 
+
+the Code of Corporate Governance of Singapore, which 
+
+provides an important framework for controls and checks 
+
+that help the Board govern with transparency and integrity.
+
+During the reporting period, the COVID-19 pandemic 
+
+has spread across the globe and led to an outbreak that 
+
+severely impacted communities and industries all over the 
+
+world. Economies have slowed down, supply chains have 
+
+been disrupted, and many businesses have had a hard time 
+
+recovering from the pandemic. As a result of the COVID-19 
+
+outbreak, many governments and business were prompted 
+
+to re-evaluate their priorities and strategies. At YHI, the 
+
+pandemic has reinforced our belief in the importance of 
+
+thinking long-term and making decisions that ensure the 
+
+sustainability of our business and protect our stakeholders, 
+
+including our shareholders, employees and customers. We 
+
+will continue to keep abreast of the situation and make 
+
+strategic decisions accordingly.
+
+We hope this report will provide our stakeholders with 
+
+valuable insights on our sustainability efforts.
+
+RICHARD TAY
+
+Executive Chairman &amp; Group Managing Director
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+3
+
+
+
+
+ABOUT THIS REPORT
+
+
+
+
+
+
+
+
+
+
+
+FIVE MAJOR DISTRIBUTION SUBSIDIARIES
+
+YHI Corporation (Singapore) Pte Ltd
+
+(“YHI Singapore”)
+
+YHI (Malaysia) Sdn Bhd  
+
+(“YHI Malaysia”)
+
+YHI (Australia) Pty Ltd  
+
+(“YHI Australia”)
+
+YHI Power Pty Ltd
+
+(“YHI Power Australia”)
+
+YHI (New Zealand) Ltd 
+
+(“YHI New Zealand”)
+
+OCEANIA
+
+ASEAN
+
+
+
+
+
+
+
+NORTH ASIA
+
+YHI Advanti Manufacturing  
+
+(Suzhou) Co., Ltd (“Suzhou factory”)
+
+YHI International Taiwan Co., Ltd
+
+(“Taiwan factory”)
+
+ASEAN
+
+YHI Manufacturing (Malaysia)  
+
+Sdn Bhd (“Malacca factory”)
+
+This is the fourth sustainability report published by YHI International Limited, providing an update of the Group’s sustainability 
+
+performance for the year ended 31st December 2020. This report has been prepared with reference to the Global Reporting 
+
+Initiative (“GRI”) Standards. For this, we sought guidance from external consultants who advised us on relevant reporting 
+
+requirements set out in the GRI Standards as well as in the SGX guidelines.
+
+This report covers our five major distribution subsidiaries in Singapore, Malaysia, Australia and New Zealand, and all three 
+
+factories in Malaysia, China and Taiwan. The eight subsidiaries which form the reporting boundary for this report are 
+
+provided in Exhibit 1 below. As certain GRI Standards require the performance data to be reported by geographical region, 
+
+we segmented the eight subsidiaries into three regions, namely “ASEAN” (comprising Singapore and Malaysia), “Oceania” 
+
+(Australia and New Zealand) and “East Asia” (China and Taiwan) based on their business locations.
+
+EXHIBIT 1:  REPORTING BOUNDARY OF YHI’S SUSTAINABILITY REPORT
+
+The abovementioned five major distribution subsidiaries and three factories are considered significant based on the 
+
+environmental, social and governance (“ESG”) footprint of their operations. 
+
+We have not obtained any independent assurance on the data and information reported in this report, but aim to improve 
+
+on our reporting processes every year. A softcopy of this report can be found on our website on www.yhigroup.com. Any 
+
+questions or feedback in relation to this Report can be emailed to yhigroup@yhi.com.sg.
+
+
+
+FACTORIES
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+4
+
+
+
+
+ABOUT YHI INTERNATIONAL LIMITED
+
+OUR BUSINESS
+
+Headquartered in Singapore, YHI International Limited is a leading global distributor of high-quality automotive and industrial 
+
+products, and a trusted brand name in alloy wheels manufacturing as an original design manufacturer (“ODM”). YHI has 
+
+presence in over 100 countries through its 32 subsidiaries and two associated company located across Asia Pacific, North 
+
+America and Europe. Listed on the Singapore Exchange Securities Trading Limited (“SGX-ST”) in 2003, YHI has successfully 
+
+diversified its business and carved a niche for itself in the global automotive arena.
+
+YHI distributes a diverse range of premium automotive products, which includes tyres, alloy wheels, automotive and 
+
+industrial batteries, as well as golf and utility buggies to more than 5,000 customers globally. YHI also has three alloy wheels 
+
+manufacturing plants located in Suzhou in China, Taoyuan in Taiwan and Malacca in Malaysia with the capability of producing 
+
+2.6 million alloy wheels per annum. As an integrated ODM solutions provider, we provides integrated services from the 
+
+design and development to the manufacturing, marketing and distribution of alloy wheels.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUR LOGO
+
+The four wings in our logo symbolise our  
+
+stakeholders, namely:
+
+1. 
+
+Customers;
+
+2. 
+
+Principals/suppliers;
+
+3. 
+
+Employees; and
+
+4. 
+
+Shareholders.
+
+OUR CORPORATE MISSION
+
+1. 
+
+To be a recognised global distributor of high quality automotive 
+
+and industrial products, and a familiar and trusted brand name in 
+
+alloy wheels manufacturing as an Original Design Manufacturer.
+
+2. 
+
+To position our company effectively by continuously providing 
+
+our customers with quality products and distinctive customer 
+
+services so as to build strong customer relationships.
+
+3. 
+
+To provide growth and opportunities for our employees and to 
+
+consistently generate stable returns to our shareholders.
+
+4. 
+
+To be committed to quality, professional and personnel 
+
+management, sound business practices and teamwork.
+
+OUR CORE VALUES
+
+We deeply believe that in order to succeed 
+
+in this competitive environment, not only 
+
+we need highly sophisticated facilities, well-
+
+developed policies, procedures and systems, 
+
+most importantly, we need a corporate culture 
+
+that allows our employees to bring out their 
+
+best in them. The foundation for building such 
+
+a culture is based on the following core values:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Teamwork
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Mutual 
+
+respect
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Integrity &amp; 
+
+honesty
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Quality of 
+
+work
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Commitment
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customer 
+
+focus
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+5
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+OUR DISTRIBUTION SEGMENT
+
+As the key contributor to revenue, the distribution business has gone from strength to strength. We distribute a diverse range 
+
+of products from some 45 global leading brands in their respective product categories. The tyre brands distributed by us include 
+
+Yokohama, Nitto, Nankang, Nexen, Pirelli, Achilles, ATG Tires, Mickey Thompson and our proprietary brand, Neuton Tyres. The 
+
+alloy wheel brands distributed by us include Enkei, OZ, Konig and Breyton and our proprietary brand, Advanti Racing.
+
+In the energy solution segment, which encompasses automotive and rechargeable batteries for commercial and industrial 
+
+use, our brand portfolio includes Hitachi, Trojan, CSB, Crown, Vision, FIAMM and our proprietary brand, Neuton Power. We 
+
+distribute industrial products such as solar panels, inverter, chargers and UPS (Uninterrupted Power Supply), carrying brands 
+
+such as Benning, Delta Q, Jinko Solar and our proprietary brand, Neuton Power. We also distribute golf and utility vehicles 
+
+and the product brands include E-Z-GO, Cushman and Neuton Electric, complete our distribution business.
+
+TYRES
+
+
+
+
+
+SINGAPORE
+
+
+
+JAPAN
+
+
+
+
+
+JAPAN
+
+
+
+ITALY
+
+
+
+
+
+THAILAND
+
+
+
+
+
+THAILAND
+
+
+
+JAPAN
+
+
+
+CHINA
+
+
+
+
+
+CHINA
+
+
+
+CHINA
+
+
+
+
+
+CHINA
+
+
+
+
+
+INDONESIA
+
+
+
+
+
+TAIWAN
+
+
+
+
+
+INDONESIA
+
+
+
+
+
+
+
+KOREA
+
+
+
+
+
+KOREA
+
+
+
+USA
+
+
+
+INDONESIA
+
+
+
+CHINA
+
+
+
+
+
+USA
+
+
+
+
+
+SINGAPORE
+
+
+
+
+
+We Invent. You Drive
+
+CHINA
+
+
+
+USA
+
+
+
+
+
+INDIA
+
+
+
+INDIA
+
+
+
+
+
+SINGAPORE
+
+
+
+USA
+
+
+
+JAPAN
+
+
+
+ITALY
+
+
+
+
+
+ITALY
+
+
+
+GERMANY
+
+
+
+
+
+USA
+
+
+
+
+
+
+
+USA
+
+
+
+USA
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SINGAPORE
+
+
+
+
+
+USA
+
+
+
+
+
+SINGAPORE
+
+
+
+
+
+CHINA
+
+
+
+
+
+TAIWAN
+
+
+
+ITALY
+
+
+
+INDIA
+
+
+
+KOREA
+
+
+
+JAPAN
+
+
+
+
+
+USA
+
+
+
+
+
+CHINA
+
+
+
+
+
+PHILIPPINES
+
+
+
+USA
+
+
+
+
+
+CHINA
+
+
+
+
+
+CHINA
+
+
+
+
+
+CHINA
+
+
+
+
+
+USA
+
+
+
+
+
+GERMANY
+
+
+
+
+
+SINGAPORE
+
+
+
+CANADA
+
+
+
+
+
+GERMANY
+
+
+
+TAIWAN
+
+
+
+USA
+
+
+
+FRANCE
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ALLOY WHEELS
+
+BUGGY &amp; UTILITY VEHICLES
+
+OTHER INDUSTRIAL PRODUCTS
+
+ENERGY SOLUTIONS
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+6
+
+
+OUR MANUFACTURING SEGMENT
+
+
+
+OUR VALUE PROPOSITION
+
+As an original design manufacturer (ODM), our value proposition is providing our customers with a seamless supply chain 
+
+from the design and development, manufacturing, advertising and promotion to distribution and sales for their alloy wheels 
+
+through our extensive global network.
+
+A testament of our quality as a world class manufacturer can be attested to the fact that all our manufacturing plants 
+
+are equipped with world-class quality assurance facilities which are approved by the Vehicle Inspection Association of 
+
+Japan (VIA), SFI Foundation, Inc. (SFI) of the USA and TUV CERT (TUV) of Germany. VIA, SFI and TUV are international 
+
+organizations administering the highest test standards in Japan, USA and Germany respectively for quality control facilities 
+
+and equipment for the production of alloy wheel.
+
+
+
+
+
+
+
+
+
+DESIGN &amp; 
+
+DEVELOPMENT
+
+MANUFACTURING
+
+ADVERTISING &amp; 
+
+PROMOTION
+
+SALES &amp; 
+
+DISTRIBUTION
+
+
+
+MEMBERSHIP OF ASSOCIATIONS, EXTERNAL CHARTERS / INITIATIVES AND RECOGNITIONS
+
+• ISO 9001:2015
+
+• ISO/TS 16949:2009
+
+• Quality Management System – TÜV Rheinland Italia S.r.l.
+
+• Eco Warranty Certificate
+
+• bizSAFE
+
+• Work Safety Standardization Certificate (issued by State Administration of Work Safety of China)
+
+• Clean Production Audit Certificate (issued by Suzhou New District)
+
+
+
+
+
+
+
+
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+7
+
+
+OUR SUSTAINABILITY EFFORTS  
+
+AND REPORTING APPROACH
+
+OUR COMMITMENT
+
+The coronavirus outbreak has made us rethink our lives in the modern society and how vulnerable we are. The pandemic 
+
+harshly reminds us that we cannot take whatever we enjoy today for granted and assume that tomorrow will always be the 
+
+same. We have learnt in the pandemic that our modern livelihoods are built on known conditions and numerous presumptions 
+
+and they are more delicately intertwined and fragile than we know. For example, we will never forget how easily the supply 
+
+chains for food and daily necessities were disrupted during the pandemic and how panic ensued when people were informed 
+
+of supply chain disruptions or just the possibility of it. The pandemic and the supply chain episode showed that in modern 
+
+society, there is no clear demarcation between “present” and “future” as any problem that may happen in the future can 
+
+impact us today in various forms.
+
+ 
+
+At YHI, we believe that it is our responsibility to continuously create and achieve greater economic value for our shareholders, 
+
+and we endeavour to benefit the economy and society through our business activities. We also believe that this value creation 
+
+journey is never a zero-sum game, as we can only be sustainable if the well-being and development of the environment, 
+
+society and our people are not unfairly compromised and the resources used for our activities are not irresponsibly depleted 
+
+or wasted. To ensure sustainability, there is no better way than the consistent monitoring of resource input and output of our 
+
+commercial activities and the proper balancing of respective stakeholders’ interests.
+
+We firmly believe in recognising our responsibility to the environment, society, the market, as well as our employees. We have 
+
+been incorporating and managing sustainability as part of our corporate policies, business strategy and risk management 
+
+practices over the years. We learned from our experiences that with proper planning and implementation, our business 
+
+practices can simultaneously maximise economic value creation and achieve sustainability objectives.
+
+Measures taken by YHI during coronavirus pandemic
+
+We take precautionary measures to safeguard the health and well-being of our employees in various countries and we 
+
+acknowledge the importance of adhering to the rules and guidelines issued by local governments to prevent the spread of 
+
+the COVID-19 virus and mitigate the impacts of the pandemic on local communities and economies. 
+
+Our employees and visitors are required to be scanned for body temperature before entering our offices and their contact 
+
+details are dutifully recorded. Hand sanitisers and face masks are provided in offices for the use of employees and visitors 
+
+and social distancing signs are prominently displayed to remind them the importance of maintaining physical distance. 
+
+Employee sitting arrangements in certain offices are also redrawn to ensure adequate physical distance between employees. 
+
+In certain countries where face mask is mandatory, our employees are constantly reminded the importance of wearing the 
+
+face mask properly. 
+
+We abide by the work-from-home rules and guidelines issued by local governments to minimise the number of people in the 
+
+workplace. In countries where lockdown orders are issued, our employees are instructed to work from home and approvals 
+
+are required before they can enter the office. Even after the rules are lifted by local governments, we still cautiously control 
+
+the number of employees and visitors in our offices.      
+
+ 
+
+OUR REPORTING APPROACH
+
+We adopted a phased approach in preparing and publishing our sustainability reports:
+
+• In our first sustainability report we provided an overview of the identified material ESG factors, how we are addressing 
+
+these factors, and the data reflecting our performance.
+
+• In our second sustainability report we provided further information in relation to the identified material ESG factors, our 
+
+approach, and our performance. We also provide our targets for the material ESG factors.  
+
+• From our third sustainability report onwards we continually report on our material ESG factors and our performance 
+
+against the targets. We also revise our presentation of performance data and targets when there are changes in the 
+
+applicable GRI Standards or business environments (such as the impacts arising from the coronavirus pandemic) in our 
+
+fourth report. 
+
+ 
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+8
+
+
+
+
+GOVERNANCE OVER SUSTAINABILITY MATTERS
+
+Our Board of Directors oversees YHI Group’s sustainability matters. The Board is supported by YHI’s Enterprise Risk 
+
+Management Executive Committee, which comprises members from senior management and is headed by the Executive 
+
+Chairman and Chief Financial Officer. On behalf of the Committee, the Executive Chairman and Chief Financial Officer 
+
+report to the Board of Directors on all matters concerning sustainability.
+
+Our senior management and heads of subsidiaries are tasked to manage YHI Group’s sustainability matters and promote 
+
+sustainability culture. They are also tasked to keep abreast of the sustainability topics and trends and to ensure that YHI 
+
+Group’s sustainability policy is effective and relevant to the current business environment.    
+
+STAKEHOLDER ENGAGEMENT
+
+Stakeholder engagement is at the core of our business operations and sustainability strategy. We engage with our stakeholders 
+
+in a fair, trust-based and responsible manner through hard work, dedication and commitment. Feedback from our stakeholders 
+
+forms a crucial part of our strategic and business planning and is viewed as a valuable insight for us to plan and improve upon 
+
+our sustainability policies and practices. Our stakeholder engagement mechanisms are outlined in Exhibit 2 below:
+
+EXHIBIT 2: YHI’S STAKEHOLDER ENGAGEMENT MECHANISM
+
+OUR 
+
+STAKEHOLDERS
+
+KEY ISSUES  
+
+OR CONCERNS
+
+KEY ENGAGEMENT  
+
+METHODS
+
+FREQUENCY
+
+Customers
+
+• Products quality
+
+• Official get-together events,  
+
+such as “Dealers’ Night”
+
+• Regularly 
+
+throughout the year
+
+• Product pricing
+
+• Customer service
+
+• Trade fairs and exhibitions
+
+• Customer visits
+
+• Customer satisfaction surveys
+
+Principals/ Suppliers
+
+• Sales growth
+
+• Regular meetings and visits
+
+• Quarterly
+
+• Market share
+
+Employees
+
+• Business performance
+
+• Meeting or talks held by management
+
+• Quarterly
+
+• Remuneration
+
+• Appraisals and discussions
+
+• Annual
+
+• Career growth
+
+• Employee surveys
+
+Shareholders
+
+• Business growth
+
+• Corporate website
+
+• Continuous
+
+• Financial results
+
+• Periodical financial announcement
+
+• Quarterly
+
+• Return on investment
+
+• Annual Report
+
+• Annual
+
+• Annual General Meeting
+
+Regulators
+
+• Regulatory compliance
+
+• Regulatory notices and updates
+
+• Ad hoc
+
+• Societal well-being
+
+• Industry dialogues and visits
+
+• Compliance with 
+
+COVID-19 guidelines and 
+
+regulations
+
+• Regular trainings and reminders to 
+
+employees to strictly comply with 
+
+COVID-19 safety measures
+
+• Continuous
+
+MATERIAL ESG FACTORS
+
+Material ESG factors are areas that impact our business and that we impact through our activities. We conducted our 
+
+first formal material ESG factor identification and evaluation when preparing our first sustainability report in 2017 with 
+
+the guidance of external consultants and GRI Standards was recommended as our sustainability reporting framework. Our 
+
+material ESG factors were identified and determined through the following four steps: 
+
+STEP 1: 
+
+Conduct 
+
+stakeholder 
+
+engagement
+
+STEP 2:
+
+Identify 
+
+potential 
+
+material 
+
+ESG factors
+
+STEP 3: 
+
+Prioritise and 
+
+determine 
+
+material ESG 
+
+factors
+
+STEP 4: 
+
+Determine 
+
+reporting 
+
+boundaries
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Material 
+
+ESG 
+
+factors
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+9
+
+
+We first gathered our key internal stakeholders to identify YHI’s important sustainability issues and potential ESG factors 
+
+through workshop and online survey. Stakeholders’ inputs and survey results were then collated and analysed to identify a 
+
+short list of material ESG factors. More in-depth evaluations were conducted until material ESG factors were prioritised and 
+
+determined. We also determine YHI’s distribution subsidiaries and factories to be included in the reporting by evaluating 
+
+their significance and readiness. Essentially, we determined our material ESG factors by reviewing the entire value chain and 
+
+the practices of our distribution and manufacturing business. 
+
+Every year we critically assess the relevance of our material ESG factors and evaluate other potential factors. We also 
+
+critically evaluate all our distribution subsidiaries and factories to determine whether the existing reporting boundaries 
+
+should be expanded to include some other subsidiaries. 
+
+For this report, we find our material ESG factors and reporting boundaries remain relevant. We made some revisions in our 
+
+reporting of performance data for some of the ESG factors in accordance with the relevant new requirements under the GRI 
+
+Standards. Our material ESG factors and performance targets are provided in Exhibit 3 below:
+
+EXHIBIT 3: YHI’S MATERIAL ESG FACTORS AND PERFORMANCE TARGETS
+
+MATERIAL ESG FACTORS FOR YHI
+
+YHI’S PERFORMANCE TARGETS
+
+Environmental
+
+• Energy consumption &amp; emissions
+
+• To increase efficiency and minimise energy consumption
+
+• Water, effluents &amp; waste management
+
+• Zero incidents of non-compliance with relevant water 
+
+discharge or hazardous waste handling regulations
+
+Social
+
+• Employee management
+
+• By 2025 employee satisfaction survey and review will 
+
+become a routine annual exercise for all subsidiaries
+
+• Employee training and education
+
+• To increase the annual average hours of training for each 
+
+employee by at least 20% by 2025
+
+• Occupational health and safety
+
+• Zero work-related fatalities
+
+Governance
+
+• Economic performance
+
+ • To deliver stable and sustainable economic growth for 
+
+the business and financial returns for the shareholders
+
+• Anti-corruption and anti-competitive behaviour
+
+• Zero incidents of anti-corruption, anti-competitive 
+
+behaviour or anti- trust/monopoly practices
+
+Due to the coronavirus outbreak and the uncertainty as to when the pandemic will be over, we revised the achievement 
+
+timeline for the targets set for “employee management” and “employee training and education” from 2021 to 2025.    
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+10
+
+
+MATERIAL ENVIRONMENTAL TOPICS
+
+As one of our key corporate policies, for many years, we have embraced the Japanese business philosophy and practice of 
+
+“Kaizen”, which can be translated as “improvement”. To stay competitive, our subsidiaries are aware of the importance of 
+
+continually reviewing their existing business and operational practices to identify areas for improvement. Improvements can 
+
+be delivered through innovation, enhancing productivity or reducing waste. In addition to Kaizen, our “3R” policy of reducing 
+
+stock-holding, accounts receivables and operating costs also assists us in minimising resource consumption and waste.
+
+ENERGY CONSUMPTION &amp; EMISSIONS
+
+We consume a significant amount of energy to manufacture and distribute our products. Our distribution subsidiaries’ 
+
+offices and warehouses primarily consume electricity, whereas our factories rely on both electricity and natural gas.
+
+Our energy consumption level is generally aligned with our business activities. An increase or decrease in the storage and 
+
+shipment of goods, or an increase or decrease in the production level has a direct impact on the distribution segment or our 
+
+factories’ energy consumption. Besides, many other factors can affect the energy consumption level and new factors may 
+
+emerge due to changing business environments and operational conditions. 
+
+For example, our manufacturing segment will normally experience increase in energy consumption level when manufacturing 
+
+new product models. The transfer of production orders between factories can also affect the factories’ average energy 
+
+consumption level and such transfers are common in recent years primarily due to our customers’ allocation of orders to 
+
+different factories as a result of USA and China trade war.
+
+YHI consistently strives to increase efficiency and minimise energy consumption. Over the years, we have implemented 
+
+various energy efficiency and energy conservation policies and guidance for both business segments. For example:
+
+• For factories, energy consumption is closely monitored and systematically assessed for potential savings. Specific energy 
+
+saving initiatives were also being worked on in the past so as to reduce the consumption level.   
+
+• For warehouses and offices, we have a clear policy that we should turn off lights and air-conditioners while not in use. Where 
+
+feasible, we will opt for individual workspace lighting instead of centralised lighting in order to conserve energy. Energy-saving 
+
+LED lighting or light control switch and motion sensors have also been installed so as to reduce the consumption level.
+
+The total electricity consumption by the five major distribution subsidiaries and the three factories in 2020 is provided 
+
+in Figure 1-1(a) and Figure 1-1(b) respectively. The scope 2 emissions in CO2 equivalent associated with the electricity 
+
+consumption is also provided. The total natural gas consumption by the three factories is provided in Figure 1-2.
+
+
+
+Figure 1-1(a): Total electricity consumption in million kWh by the five major distribution subsidiaries 
+
+between 2017 and 2020 (CO2 equivalent emissions (Indirect (Scope 2) GHG emissions) is also included) 
+
+Note: The emissions factors used are the latest available factors (2017 and 2018): Singapore: 0.419, Malaysia: 0.645, 
+
+New South Wales: 0.82, South Australia: 0.51, New Zealand: 0.1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1.50
+
+1.31
+
+1.25
+
+1.10
+
+2017
+
+2018
+
+2019
+
+2020
+
+Electicity consumption by five distributions subsidiaries
+
+Electricity consumption in million kWh
+
+1.50
+
+1.31
+
+1.25
+
+1.10
+
+CO2 emission equilvent in tCO2e
+
+759
+
+595
+
+545
+
+485
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+11
+
+
+
+
+Figure 1-1(b): Total electricity consumption in million kWh by the three factories between 2017 
+
+and 2020 (CO2 equivalent emissions (Indirect (Scope 2) GHG emissions) is also included) 
+
+Note: The emissions factors used are the latest available factors (2017 and 2018): Taiwan: 0.554, Malaysia: 0.645, 
+
+East China: 0.805
+
+35.30
+
+40.11
+
+40.93
+
+36.64
+
+12.40
+
+14.00
+
+13.80
+
+13.00
+
+For 2020 as compared with previous years:
+
+• The five major distribution subsidiaries recorded a lower level of electricity consumption due to decrease in business 
+
+activities and warehouse operations during the coronavirus pandemic. All the five subsidiaries had experienced lockdowns 
+
+in their country of operations.  
+
+• Similarly, the factories recorded a lower level of electricity and natural gas consumption due to the overall decrease in 
+
+production and supply chain activities during the coronavirus pandemic.   
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+2018
+
+2019
+
+2020
+
+Electicity consumption by three factories
+
+Electricity consumption in million kWh
+
+35.30
+
+40.11
+
+40.93
+
+36.64
+
+CO2 emission equilvent in tCO2e
+
+28,435
+
+32,405
+
+28,333
+
+25,232
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+2018
+
+2019
+
+2020
+
+Natural gas consumption in million m3
+
+12.40
+
+14.00
+
+13.80
+
+13.00
+
+Figure 1-2: Total natural gas consumption in million cubic metre  
+
+by the three factories between 2017 and 2020
+
+Note:  Distribution segment does not consume natural gas
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+12
+
+
+
+
+WATER, EFFLUENTS &amp; WASTE MANAGEMENT
+
+At Manufacturing Segment
+
+Our factories produce wastewater and waste materials during the manufacturing process. The waste materials primarily 
+
+include aluminium dross, sludge, paint waste, waste coolant and non-reusable packaging materials. While our factories’ level 
+
+of effluents and waste discharge or disposal is aligned with production activities, other influential factors include varying 
+
+product design requirements and the discharge or disposal quota imposed by the local regulators.
+
+We endeavour to minimise water and resource consumption at our factories to reduce effluent and waste output and 
+
+continue to practise recycling and/or reusing where feasible. For example:
+
+• Both Suzhou and Malacca factory practise water recycling and reusing:
+
+ -  As the amount of wastewater discharge is limited by the discharge quota imposed by local authority, Suzhou factory 
+
+strives to maximise its recycling and reusing of wastewater through water treatment. If wastewater discharge is 
+
+needed, Suzhou factory will adhere to the discharge quota and the pollution limits (such as the level of chemical 
+
+oxygen demand contained in the wastewater) set by the authority.
+
+- There is no wastewater discharge at Malacca factory as wastewater produced will be chemically treated for recycling 
+
+and reusing.
+
+• All factories closely monitor the amount of aluminium consumed and the amount of production scraps produced. Excess 
+
+aluminium trimmed off during alloy wheel moulding and refining process is put together and evaluated for possible 
+
+reusing. Packaging waste is minimised through efficient consumption of packaging materials.
+
+• Wood or plastic pallets for factory and warehouse storage use are purchased in accordance with forecasted usage. Pallets 
+
+are reused until damaged beyond repair. Some factories also recycle their scrap metals by giving the scraps to external 
+
+contractors to weld and build into storage racks and shelves for reuse. Some of our factory workers turned damaged 
+
+wooden pallets into office furniture and garden trellis.   
+
+Non-recyclable or reusable effluents and waste are discharged and disposed of in accordance with local regulations. For example:
+
+• If wastewater discharge is required, Suzhou factory will discharge the water to an external wastewater treatment plant 
+
+designated by the local authority in compliance with the discharge quota and the pollutant limits imposed; whereas, Taiwan 
+
+factory’s wastewater is chemically treated in accordance with local regulations before being discharged to public sewer.
+
+• Waste materials are disposed of by factories to waste disposal collectors in compliance with the respective local 
+
+regulations. Similarly, damaged tyres and batteries are also disposed of by the distribution business to waste disposal 
+
+collectors in compliance with local regulations.
+
+The amount of water discharge by quality and destination for the three factories between 2017 and 2020 are provided in Figure 2-1. 
+
+70.00
+
+65.00
+
+65.00
+
+2017
+
+2018
+
+2019
+
+2020
+
+Suzhou 
+
+- Wastewater discharge to external 
+
+treatment plant (in thousand metric tonnes)
+
+22.00
+
+19.77
+
+13.65
+
+17.00
+
+2017
+
+2018
+
+2019
+
+2020
+
+Taiwan 
+
+- Chemically treated water discharge to 
+
+public sewer (in thousand metric tonnes)
+
+2017
+
+2018
+
+2019
+
+2020
+
+Malacca 
+
+- No water discharge
+
+Figure 2-1: Water discharge by quality and destination in thousand metric tonnes for 
+
+the three factories between 2017 and 2020
+
+77.00
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+13
+
+
+
+
+
+
+Starting from this report, we will provide amount of freshwater acquired by the three factories every year from local water 
+
+companies. The total amount of water acquired by the three factories in 2020 and the amount acquired by each factory is 
+
+provided in Figure 2-2.  
+
+Figure 2-2: Total amount of freshwater in cubic metre acquired by three factories  
+
+in 2020 from local water companies 
+
+
+
+Malacca factory
+
+162,555
+
+Total cubic metre
+
+289,732
+
+Suzhou factory
+
+100,497
+
+Taiwan factory
+
+26,680
+
+The aggregate amount of waste disposal by type for the factories through local waste disposal collectors between 2017 and 
+
+2020 are provided in Figure 2-3(a). Starting from this report, we will provide the disposal methods for each type of waste 
+
+based on the information provided by the waste collectors. The disposal methods for 2020 are provided in Figure 2-3(b).     
+
+Figure 2-3(a): Total waste disposal in thousand metric tonnes for the  
+
+three factories between 2017 and 2020
+
+2.40
+
+2.60
+
+2.20
+
+1.93
+
+
+
+Figure 2-3(b): Disposal methods for each type of waste disposed by three factories in 2020
+
+1.08
+
+0.04
+
+0.24
+
+0.26
+
+0.16
+
+0.16
+
+Incineration  
+
+(with energy recovery)
+
+Landfilling
+
+Other disposal 
+
+operations
+
+Hazardous waste  
+
+(in thousand metric tonnes)
+
+Non-hazardous waste  
+
+(in thousand metric tonnes)
+
+Note: Methods of disposals are based on the information provided by waste disposal collectors 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2017
+
+2018
+
+2019
+
+2020
+
+Total waste disposal by factories in thousand metric tonnes
+
+Total waste
+
+ 2.40 
+
+ 2.60
+
+ 2.20 
+
+ 1.93 
+
+- Hazardous waste
+
+ 1.70 
+
+ 1.80 
+
+ 1.50 
+
+ 1.40 
+
+- Non-hazardous waste
+
+ 0.70
+
+ 0.80
+
+ 0.70
+
+ 0.53
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+14
+
+
+
+
+For 2020 as compared with previous years:
+
+• Suzhou factory discharged more water than the quota set by the local authority as southern China experienced heavy 
+
+rainfall during summer of the year. As at the date of this report, the Suzhou factory is still liaising with the local authority 
+
+on whether additional discharge fees will be levied. The Taiwan factory recorded an increase in water discharge due to 
+
+the higher production level achieved by the factory in 2020.     
+
+• The factories recorded reduced amounts of hazardous and non-hazardous waste primarily due to their continuous control 
+
+of material planning and consumption and prompt actions taken to reuse or recycle certain materials.
+
+There were no incidents of non-compliance with the relevant water discharge or hazardous waste handling regulations 
+
+between 2017 and 2020. YHI aims to maintain zero incidents of non-compliance in 2021.
+
+AT DISTRIBUTION SEGMENT
+
+We do not find the water consumption and the amount of wastewater produced by our distribution business to be material.
+
+The waste produced at our distribution subsidiaries primarily includes scrap tyres and batteries. Scrap batteries are classified 
+
+as hazardous products in certain countries while tyres are classified as non-hazardous. All our scrap tyres and batteries are 
+
+disposed of through external scrap collectors.
+
+Starting from this report, we will provide the quantity of scrap tyres and batteries disposed by our five major distribution 
+
+subsidiaries. As the unit of measurement for disposals may vary by countries due to different local rules or commercial 
+
+practices, for the purpose of aggregation and standardised reporting, we will convert and report the disposal quantity in 
+
+“pieces” of tyre and battery disposed. The total pieces of tyre and battery disposals in 2020 are provided in Figure 2-3. 
+
+11,900
+
+11,900
+
+Scrap tyres disposed 
+
+in 2020 (in pieces)
+
+Scrap batteries disposed 
+
+in 2020 (in pieces)
+
+Figure 2-3: Total pieces of scrap tyres and batteries disposed by the 
+
+five major distribution subsidiaries in 2020
+
+Note:  Estimation and conversion is made for certain subsidiaries to derive the total pieces of 
+
+disposals as the disposal quantity may be originally measured by weight
+
+Generally, our tyre distribution business does not dispose tyre products as the possibility of receiving faulty tyres from 
+
+manufacturers is low. Majority of the disposed tyres were worn-out tyres disposed by one of YHI Singapore’s business 
+
+divisions which provides vehicle repair and tyre replacement services for commercial trucks and passenger cars. The tyres 
+
+were owned by YHI’s customers and disposed by YHI Singapore after performing tyre replacement services. Similarly, most 
+
+of the scrap batteries were replaced after performing batteries replacement services. The batteries were disposed by YHI at 
+
+customers’ requests.  
+
+From 2017 to 2020, there were no incidents of non-compliance with the relevant hazardous waste handling regulations. YHI 
+
+aims to maintain zero incidents of non-compliance in 2021.
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+15
+
+
+
+
+
+
+EMPLOYEE MANAGEMENT
+
+Our employees are key to the success of our business. Without them, we would not have been able to achieve the business 
+
+growth we have experienced. It is stated in our corporate mission that we treat our employees with care, consideration, 
+
+respect and provide them with the growth opportunities they seek in order to have long, successful careers at YHI. The 
+
+core values of YHI also specifically promote “teamwork”, “mutual respect”, “integrity &amp; honesty”, “quality of work” and 
+
+“commitment”.
+
+At YHI, we are committed to providing equal job opportunities in the countries we operate in, regardless of gender, age and 
+
+race. We are also committed to recruiting locals or residents to run and manage the operations in our overseas subsidiaries 
+
+and accordingly close to 100% of the management of our overseas subsidiaries are hired from the local communities. As a 
+
+global distributor with business operations in various countries, we believe that it is important for us to be an open-minded, 
+
+fair and responsible employer. 
+
+We also place emphasis on fair and equal remuneration and employee development to improve their employability. We 
+
+believe these measures help us attract and retain our talent pool and prepare them for leadership roles. We also regularly 
+
+benchmark against industry peers to monitor and improve our employee remuneration and benefit packages.
+
+We promote work-life balance for our employees and encourage them to organise a variety of activities such as holiday trips 
+
+and festive gatherings. The activities are open to all employees and subsidized by YHI. Some of the activities such as family 
+
+days are also open to the employees’ children.
+
+At end 2020, the total headcount of the five distribution subsidiaries was 408 and the total headcount for the three factories 
+
+was 1,181. The gender, geographical location and age breakdown of the employees for each busines segment are provided 
+
+in Figure 3-1(a). The number of our non-permanent employees is not significant and is therefore immaterial for this report. 
+
+MATERIAL SOCIAL TOPICS
+
+Figure 3-1(a): Total head count of the five distribution subsidiaries and three factories 
+
+at end 2020, including gender, geographical location and age breakdown 
+
+ Distribution age breakdown
+
+ Manufacturing breakdown
+
+Over 50 years old
+
+30 to 50
+
+Below 30
+
+94
+
+220
+
+94
+
+67
+
+681
+
+433
+
+Manufacturing headcount in ASEAN: 516
+
+Distribution headcount in Oceania: 226
+
+Distribution headcount in ASEAN: 182
+
+Manufacturing headcount in East Asia: 665 
+
+Total distribution headcount: 408 (M: 313, F: 95)
+
+Total manufacturing headcount: 1,181 (M: 1,071, F: 110)
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+16
+
+
+
+
+In 2020, the major distribution subsidiaries and the factories recorded a total of 88 and 466 new hires respectively, 
+
+representing hire rate of 22% and 39%, whereas the distribution subsidiaries and the factories recorded a total of 100 and 
+
+511 employee turnovers, representing turnover rate of 25% and 43% respectively. New hire rate is calculated by dividing 
+
+new hires with total employee headcount at year end, whereas turnover rate is calculated by dividing employee departures 
+
+with the average number of employees for the year.  Breakdown of new hires and employee turnovers by gender, age group 
+
+and region in 2020 are provided in Figure 3-1 (b) below.
+
+Figure 3-1(b): Breakdown of new hires and employee turnovers in 2020 by gender, age group and region 
+
+New hires in 2020
+
+Employee turnovers in 2020
+
+Distribution
+
+Manufacturing
+
+Distribution
+
+Manufacturing
+
+For new hire of 
+
+ 88
+
+For new hire of 
+
+466
+
+For turnover of 
+
+100
+
+For turnover of 
+
+511
+
+Breakdown by gender
+
+Male
+
+74
+
+438
+
+79
+
+478
+
+Female
+
+14
+
+28
+
+21
+
+33
+
+By age group
+
+Below 30
+
+26
+
+184
+
+38
+
+158
+
+30 to 50
+
+43
+
+268
+
+42
+
+349
+
+Over 50
+
+19
+
+14
+
+20
+
+4
+
+By region
+
+ASEAN
+
+21
+
+93
+
+31
+
+124
+
+East Asia
+
+Na.
+
+373
+
+Na.
+
+387
+
+Oceania
+
+67
+
+Na.
+
+69
+
+Na.
+
+The total headcount of the five distribution subsidiaries at the end of each year between 2017 and 2020 and the total 
+
+number of new hires and turnovers of each year are provided in Figure 3-2(a). The same information for the three factories 
+
+is provided in Figure 3-2(b).   
+
+1,332
+
+1,304
+
+1,226
+
+1,181
+
+630
+
+510
+
+466
+
+-658
+
+-588
+
+-511
+
+End 2018
+
+End 2017
+
+New Hire
+
+Turnover
+
+End 2019
+
+New Hire
+
+Turnover
+
+End 2020
+
+New Hire
+
+Turnover
+
+Figure 3-2(a): Total headcount of the five distribution subsidiaries at the end of each year 
+
+between 2017 and 2020, and the total number of new hires and turnovers for each year  
+
+406
+
+421
+
+420
+
+167
+
+114
+
+88
+
+-152
+
+-115
+
+-100
+
+408
+
+End 2018
+
+End 2017
+
+New Hire
+
+Turnover
+
+End 2019
+
+New Hire
+
+Turnover
+
+End 2020
+
+New Hire
+
+Turnover
+
+Figure 3-2(b): Total headcount of the three factories at the end of each year between 
+
+2017 and 2020, and the total number of new hires and turnovers for each year
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+17
+
+
+
+
+For 2020 as compared with previous years:
+
+• For distribution business, the hiring and turnover was aligned with respective distribution subsidiaries’ sales revenue and 
+
+business forecasts.
+
+• For factories, the hiring and turnover of production workers was aligned with the industry norms in respective countries, 
+
+labour supply conditions and business forecasts.
+
+The hiring and turnover for both segments in 2020 were also affected by the coronavirus pandemic.  
+
+All our subsidiaries are encouraged to conduct annual employee satisfaction surveys and review the results to identify areas for 
+
+improvement. It was YHI’s initial goal that by 2021 the employee satisfaction survey and review will become a routine annual 
+
+exercise for all subsidiaries. However, due to the pandemic and its uncertainty, the achievement timeline is changed to 2025.   
+
+EMPLOYEE TRAINING AND EDUCATION
+
+To stay competitive, it is important to ensure that our employees are adequately trained and equipped with the knowledge 
+
+and skills required by their roles. Our subsidiaries’ management teams are tasked with identifying employee training needs 
+
+and training schedules in accordance with operational and business development plans. Certain job functions in both the 
+
+distribution and manufacturing businesses also require supervised on-the-job training.
+
+For both the distribution and manufacturing businesses, training topics provided to employees include product and quality 
+
+knowledge, machine operations, relevant ISO standards, workplace health &amp; safety policies, sales and management skills, 
+
+self-development skills, information technology, data analytics, relevant financial reporting standards and tax regulations. 
+
+The trainings are either delivered by in-house personnel or external trainers. In 2020, some of the trainings were conducted 
+
+virtually by the trainers. 
+
+Figure 4-1 shows the average hours of training per employee from 2017 to 2020, including the average hours of training for male 
+
+and female employees in 2020. The average hours of training for each employee category in 2020 are provided in Figure 4-2.  
+
+Figure 4-1: Average hours of training per employee from 2017 to 2020 
+
+including the average hours of training for male and female employees in 2020  
+
+Figure 4-2: Average hours of training for each employee category in 2020
+
+11
+
+8
+
+8
+
+7
+
+(Male: 7
+
+Female: 5)
+
+2017
+
+2018
+
+2019
+
+2020
+
+Distribution 
+
+17
+
+14
+
+15
+
+Manufacturing
+
+2017
+
+2018
+
+2019
+
+2020
+
+15
+
+(Male: 15
+
+Female: 16)
+
+Distribution 
+
+Non-Executive
+
+Executive
+
+Managerial
+
+9
+
+5
+
+9
+
+Non-Executive
+
+Executive
+
+Managerial
+
+Manufacturing
+
+14
+
+19
+
+17
+
+For both distribution subsidiaries and factories, there were no significant changes in the average hours of training per 
+
+employee in 2020 as compared with previous years.    
+
+Using 2018 as the base year, YHI has initially targeted to increase the annual average hours of training for each employee 
+
+by at least 20% by 2021. However, due to the pandemic and its uncertainty, the achievement timeline is changed to 2025.
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+18
+
+
+
+
+OCCUPATIONAL HEALTH AND SAFETY
+
+We would not be able to fulfil our business obligations to customers without the hard work and dedication of our employees. 
+
+We are conscious of our employees’ wellbeing and strive to ensure their safety at all times. Management teams of respective 
+
+subsidiaries are also required to ensure compliance with relevant local workplace health and safety regulations.
+
+While the specific policies developed by subsidiaries may vary in accordance with local work environment and regulations, 
+
+all such policies entail workplace risks and hazard identification and the formulation of effective measures to minimise them. 
+
+Following the latest reporting requirements under GRI standards on occupational health and safety, we made some changes 
+
+to our reporting of data in this Report.  
+
+There were zero incidents of work-related fatalities between 2017 and 2020 for the five major distribution subsidiaries 
+
+and the three factories. YHI aims to maintain zero work-related fatalities in 2021. There were also zero incidents of high-
+
+consequence work-related injuries in 2020.   
+
+The total number of recordable work-related injuries, injury rate per 200,000 scheduled man-hours and total number of 
+
+man-hours between 2017 and 2020 are provided in Figure 5-1(a). Total number of lost days arising from the work-related 
+
+injury cases and lost day rate per 200,000 man-hours are provided in Figure 5-1(b). 
+
+Figure 5-1(a): Total number of recordable work-related injuries, injury rate per 
+
+200,000 scheduled man-hours and total man-hours from 2017 to 2020 
+
+Figure 5-1(b): Total number of lost days arising from the work-related 
+
+injury cases and lost day rate per 200,000 man-hours
+
+The above data is compiled by respective subsidiaries following relevant local regulatory requirements. For 2020 as compared 
+
+with previous years:
+
+• For the distribution business, the number of recordable injury cases and injury rates were on par with previous years. 
+
+However, some injury cases had resulted in more lost days.    
+
+• For the manufacturing business, there was a decrease in the number of recordable injury cases and lost days. 
+
+Cuts, bruises and fractures are the common types of injuries. Lessons from the work-related accidents are shared across YHI 
+
+to prevent recurrence and we will continuously work towards reducing the occurrence of workplace accidents.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+25
+
+5
+
+24
+
+5
+
+38
+
+4
+
+25
+
+2017
+
+2018
+
+2019
+
+2020
+
+Distribution
+
+Number of recordable injury cases
+
+0
+
+5
+
+5
+
+4
+
+- Injury rate per 200,000 man-hours
+
+0
+
+1.2
+
+1.2
+
+0.9
+
+- Total man-hours (x 100,000 hours)
+
+8.28
+
+8.30
+
+8.64
+
+8.58
+
+2017
+
+2018
+
+2019
+
+2020
+
+Manufacturing
+
+25
+
+24
+
+38
+
+25
+
+1.4
+
+1.4
+
+2.0
+
+1.4
+
+35.36
+
+35.36
+
+37.15
+
+35.60
+
+0
+
+786
+
+132
+
+723
+
+123
+
+1,198
+
+168
+
+1,172
+
+2017
+
+2018
+
+2019
+
+2020
+
+Distribution
+
+Number of lost days from recordable injury
+
+0
+
+132
+
+123
+
+168
+
+- Lost day rate per 200,000 man-hours   
+
+0
+
+31.8
+
+31.8
+
+39.2
+
+2017
+
+2018
+
+2019
+
+2020
+
+Manufacturing
+
+786
+
+723
+
+1,198
+
+1,172
+
+41.9
+
+40.9
+
+64.5
+
+65.9
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+19
+
+
+MATERIAL GOVERNANCE TOPICS
+
+ECONOMIC PERFORMANCE 
+
+The operating environment in FY2020 was the most challenging that YHI 
+
+has encountered in recent memory. The COVID-19 pandemic broke out in 
+
+December 2019 and progressively spread to every continent, eventually 
+
+engulfing the whole world and devastating the global economy. Despite 
+
+little prior experience with pandemics, we moved swiftly and decisively 
+
+to implement our business continuity plans to mitigate the impact on our 
+
+businesses. 
+
+We focused on strengthening our resilience in preparation for a drawn-
+
+out crisis. Fortunately, we have a “3R” strategy of reducing stock-holding, 
+
+accounts receivables and operating costs in place. Our efforts to implement 
+
+this strategy over the years have paid off in the form of greater resilience in 
+
+times of challenging business environment and uncertainty. Thanks to the 
+
+decisive pandemic measures implemented, the culture of sacrifice and esprit 
+
+de corps manifested by management and staff working together in unity, 
+
+YHI was able to deliver a positive performance in FY2020. 
+
+The direct economic value generated and distributed by YHI Group as a 
+
+whole in 2020 and by various significant segments is provided in our Annual 
+
+Report 2020. A softcopy of our Annual Report can be found on our website 
+
+on www.yhigroup.com. An extract of YHI Group’s key financial indicators on 
+
+business operations and return to shareholders from 2017 to 2020 from the 
+
+Annual Report 2020 are provided in Figure 6.
+
+
+
+
+
+Figure 6: An extract of YHI Group’s key financial indicators on business operations and return to shareholders between 2017 and 2020 from Annual Report 2020
+
+FINANCIAL INDICATORS
+
+2020
+
+2019
+
+2018
+
+2017
+
+Group revenue (in SGD’ million)
+
+422.8
+
+448.2
+
+455.6
+
+442.9
+
+ 
+
+- Revenue from distribution (in SGD’ million)
+
+312.2
+
+325.8
+
+332.3
+
+322.4
+
+ 
+
+- Revenue from manufacturing (in SGD’ million)
+
+110.6
+
+122.4
+
+123.3
+
+120.5
+
+Operating costs (in SGD’ million)
+
+86.5
+
+88.4
+
+90.9
+
+93.9
+
+Employee costs
+
+51.7
+
+53.7
+
+56.6
+
+53.9
+
+Tax paid
+
+      5.7
+
+      3.4
+
+      3.7
+
+      5.7
+
+Payments to providers of capital
+
+ 
+
+- Interest expense (in SGD’ million)
+
+      2.9
+
+      4.0
+
+      3.5
+
+      3.5
+
+- Dividend per share
+
+3.30 Cents
+
+2.22 Cents
+
+2.35 Cents
+
+1.50 Cents
+
+ANTI-CORRUPTION AND ANTI-COMPETITIVE BEHAVIOUR
+
+We are proud of our progress from our humble beginnings as we have maintained honour and integrity at every step of the 
+
+way. We strongly believe in our corporate values and constantly strive to uphold them in all business decisions and through 
+
+our operations. If we were to violate them, we would risk losing the trust of our stakeholders.
+
+Employees are given Code of Conduct handbooks upon joining. As supply chain is an integral part of YHI’s overall operations, 
+
+YHI also has a Group Management Policy covering ethical conduct in purchasing and procurement. This policy outlines the 
+
+responsibilities of purchasing personnel, including clear and transparent dealings with principals/suppliers, no bribery or 
+
+corruption, and vetting of suppliers to be certain that they are in compliance with governing regulations.
+
+A Group Whistle-Blowing Policy has been put in place and communicated to all employees. The Policy provides employees with 
+
+clearly defined processes and channels through which they can raise their concerns or complaints regarding possible violations 
+
+of the Group’s Code of Ethics and Business Conduct or suspected irregularities to the Audit Committee through the internal 
+
+audit function.
+
+There were zero incidents of anti-corruption, anti-competitive behaviour or anti-trust/monopoly practices reported between 
+
+2017 and 2020. YHI aims to maintain zero incidents in 2021.
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+20
+
+
+GRI STANDARDS CONTENT INDEX
+
+DISCLOSURE NUMBER
+
+DISCLOSURE TITLE
+
+PAGE NO.
+
+General disclosures
+
+102-1
+
+Name of the organization
+
+3, 5
+
+102-2
+
+Activities, brands, products, and services
+
+5-7
+
+102-3
+
+Location of headquarters
+
+5
+
+102-4
+
+Location of operations
+
+4-5
+
+102-5
+
+Ownership and legal form
+
+3, 5
+
+102-6
+
+Markets served
+
+4-5
+
+102-7
+
+Scale of the organisation
+
+Refer to annual report
+
+102-8
+
+Information on employees and other workers
+
+16-19
+
+102-9
+
+Supply chain
+
+4-7
+
+102-10
+
+Significant changes to the organisation and its supply chain
+
+No
+
+102-11
+
+Precautionary Principle or approach
+
+N/A
+
+102-12
+
+External initiatives/charters
+
+7
+
+102-13
+
+Membership of associations
+
+7
+
+102-14
+
+Statement from senior decision-maker
+
+3
+
+102-16
+
+Values, principles, standards, and norms of behaviour
+
+5,9,20
+
+102-18
+
+Governance structure
+
+9
+
+102-40
+
+List of stakeholder groups
+
+9
+
+102-41
+
+Collective bargaining agreements
+
+Nil
+
+102-42
+
+Identifying and selecting stakeholders
+
+9
+
+102-43
+
+Approach to stakeholder engagement
+
+9
+
+102-44
+
+Key topics and concerns raised
+
+10
+
+102-45
+
+Entities included in the consolidated financial statements
+
+Refer to annual report
+
+102-46
+
+Defining report content and topic boundaries
+
+4,10
+
+102-47
+
+List of material topics
+
+10
+
+102-48
+
+Restatements of information
+
+No restatements
+
+102-49
+
+Changes in reporting
+
+In 2020, YHI expanded our 
+
+disclosure and reporting 
+
+practices around new 
+
+material topics and 
+
+indicators, specifically GRI 
+
+303 and 306
+
+102-50
+
+Reporting period
+
+4
+
+102-51
+
+Date of most recent report
+
+30th May 2020
+
+102-52
+
+Reporting cycle
+
+4
+
+102-53
+
+Contact point for questions regarding the report
+
+4
+
+102-54
+
+Claims of reporting in accordance with the GRI Standards
+
+4
+
+102-55
+
+GRI content index
+
+21-22
+
+102-56
+
+External assurance
+
+4
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+21
+
+
+SPECIFIC DISCLOSURES
+
+GRI 201 Economic 
+
+Performance (2016)
+
+103-1/2/3
+
+Management Approach
+
+        20
+
+201-1
+
+Direct economic value generated and distributed
+
+        20
+
+GRI 205 Anti-Corruption 
+
+(2016)
+
+103-1/2/3
+
+Management Approach
+
+20
+
+205-1
+
+Operations assessed for risks related to corruption
+
+20
+
+205-2
+
+Communication and training about anti-corruption policies 
+
+and procedures
+
+20
+
+205-3
+
+Confirmed incidents of corruption and actions taken
+
+20
+
+GRI 206 Anti-
+
+competitive (2016)
+
+103-1/2/3
+
+Management Approach
+
+        20
+
+206-1
+
+Legal actions for anti-competitive behaviour, anti-trust, 
+
+and monopoly practices
+
+        20
+
+GRI 302 Energy 
+
+Management (2016)
+
+103-1/2/3
+
+Management Approach
+
+11
+
+302-1
+
+Energy consumption within the organisation
+
+11-12
+
+GRI 303 Water and 
+
+Effluents (2018)
+
+103-1/2/3
+
+Management Approach
+
+13
+
+303-2
+
+Management of water discharge-related impacts
+
+13
+
+303-3
+
+Water withdrawal
+
+14
+
+303-4
+
+Water discharge
+
+13
+
+GRI 305 Emissions (2016)
+
+103-1/2/3
+
+Management Approach
+
+11
+
+305-2
+
+Indirect (Scope 2) GHG emissions
+
+11-12
+
+GRI 306 Waste (2020)
+
+103-1/2/3
+
+Management Approach
+
+13
+
+306-1
+
+Waste generation and significant waste-related impacts
+
+13,15
+
+306-2
+
+Management of significant waste-related impacts
+
+13,15
+
+306-3
+
+Waste generated
+
+14-15
+
+306-5
+
+Waste directed to disposal
+
+14-15
+
+GRI 401 Employment 
+
+(2016)
+
+103-1/2/3
+
+Management Approach
+
+16
+
+401-1
+
+New employee hires and employee turnover
+
+17
+
+GRI 403 Occupational 
+
+Health and Safety (2018)
+
+103-1/2/3
+
+Management Approach
+
+19
+
+403-9
+
+Work-related injuries
+
+19
+
+GRI 404 Training and 
+
+Education (2016)
+
+103-1/2/3
+
+Management Approach
+
+18
+
+404-1
+
+Average training hours per year per employee
+
+18
+
+YHI INTERNATIONAL LIMITED   Sustainability Report 2020
+
+22
+
+
+
+
+
+
+No. 2 Pandan Road Singapore 609254 
+
+Tel: (65) 6264 2155 • Fax: (65) 6265 9927 / 6266 5368
+
+Email: yhigroup@yhi.com.sg 
+
+Website: www.yhi.com.sg 
+

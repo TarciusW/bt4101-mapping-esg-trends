@@ -1,0 +1,6510 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+CONTENTS
+
+
+
+02
+
+About the Report
+
+03
+
+About Thomson Medical Group
+
+05
+
+Message from the Chairman 
+
+07
+
+Board Statement
+
+08
+
+Governance and Sustainability Approach
+
+11
+
+Stakeholder Engagement
+
+13
+
+Topics and UNSDG
+
+14
+
+Patient Satisfaction
+
+18
+
+Health and Safety
+
+24
+
+Employees
+
+28
+
+Environmental Management
+
+31
+
+Compliance With Laws And Regulations
+
+33
+
+Communities
+
+35
+
+GRI Content Index
+
+
+
+
+
+
+VISION
+
+
+
+To be the provider of choice for integrated healthcare solutions across Asia.
+
+MISSION
+
+
+
+We aim to create better lives for people through innovative, unique and sustainable integrated solutions – 
+
+delivering exceptional healthcare services solutions of the highest quality.
+
+CORE VALUES
+
+
+
+I.C.A.R.E
+
+
+
+INTEGRITY
+
+We serve with the highest standards of ethical 
+
+conduct
+
+COMMITMENT
+
+We are committed to contributing our best 
+
+to society and the organisation and achieving 
+
+service excellence
+
+ACCOUNTABILITY
+
+We take ownership and responsibility for our 
+
+actions
+
+RESPECT
+
+We treat our customers with respect and dignity. 
+
+We learn from those more knowledgeable 
+
+than us
+
+EMPATHY
+
+We care for our patients, doctors, customers 
+
+and employees. Of paramount importance is 
+
+their well-being and we will always respond with 
+
+compassion
+
+BRAND PROMISE
+
+
+
+D.E.L.I.V.E.R
+
+
+
+DELIGHT
+
+Delighting by exceeding expectations
+
+EMPATHISE
+
+Caring with compassion
+
+LEARN
+
+Learning and adopting best practices
+
+INNOVATE
+
+Creating unique, relevant and integrated services
+
+VALUE-ADD
+
+Providing outstanding services at affordable 
+
+prices
+
+EMPOWER
+
+Equipping customers with the knowledge to 
+
+manage their health effectively
+
+RESPECT
+
+Treating each customer with respect and dignity
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+01
+
+
+
+
+
+
+Welcome to our 3rd annual sustainability report. 
+
+This report highlights our Environmental, Social and 
+
+Governance (“ESG”) approaches and results for our 
+
+hospital operations in Singapore.
+
+Contents of this report cover material sustainability issues 
+
+based on stakeholder engagement across Thomson Medical 
+
+Pte Ltd (“TMPL”, “we”, “us”, and “our”) that could 
+
+influence the value we create for our stakeholders.
+
+Information on the sustainability of our operations in 
+
+Malaysia is published separately in TMC Life Sciences Berhad 
+
+(“TMCLS”) 2021 Sustainability Report.
+
+This report is prepared in accordance with Rule 711A and 
+
+711B of the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) Mainboard Listing Manual and guidelines set out 
+
+in SGX-ST’s Practice Note 7.6 Sustainability Reporting Guide.
+
+This report is prepared in accordance with the Global Reporting Initiative (“GRI”) Standards – Core Option and its reporting 
+
+principles in the preparation of this report. The GRI standards were selected as it is an internationally recognised and widely 
+
+adopted reporting framework that provides guidance best suited for our business model.
+
+We believe in the importance of Sustainable Development Goals (“SDGs”) as adopted 
+
+in 2015 by the United Nations (“UN”) and member countries in achieving a sustainable 
+
+future for everyone. As such, we have mapped our activities to SDGs pertinent to us.
+
+We greatly value your feedback on our sustainability practices. Please share your ideas and feedback with us at 
+
+ir@thomsonmedical.com.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+02
+
+ABOUT THE REPORT
+
+
+
+
+Listed on the Mainboard of the Singapore Exchange, the Group is one of the leading listed healthcare players in the South-
+
+East Asian region with operations in Singapore and Malaysia. The Group’s healthcare business includes Thomson Medical Pte 
+
+Ltd and TMC Life Sciences Berhad. Another developing business is the Vantage Bay Healthcare City which is currently under 
+
+planning stage.
+
+Headquartered in Singapore, the Group’s regional footprint, comprising two hospitals and a network of specialist medical clinics 
+
+across Singapore and Malaysia, is supported by a diverse talent pool of over 1,500 healthcare professionals that are committed 
+
+to delivering Thomson Medical’s trusted brand of care to generations and beyond.
+
+THOMSON MEDICAL PTE LTD (“TMPL”)
+
+Established in 1979, TMPL is one of the largest private providers of healthcare 
+
+services for women and children in Singapore. It owns and operates the 
+
+iconic Thomson Medical Centre (“TMC”) as well as a network of specialist 
+
+medical clinics and facilities providing outpatient women and children 
+
+healthcare services and service offerings in diagnostic imaging, health 
+
+screening, fertility, breast and gynaecological oncology, dentistry, specialist 
+
+dermatology, traditional Chinese medicine, musculoskeletal and sports 
+
+medicine, medical aesthetics, and counselling and specialised learning for 
+
+children with learning difficulties.
+
+Through the years, TMC continues to deliver quality care and service to 
+
+patients through our Thomson Touch. As we grow and expand, we continue 
+
+to develop lasting alliances with our patients and their families, to be a 
+
+trusted healthcare partner through their entire life journey.
+
+TMC LIFE SCIENCES BERHAD (“TMCLS”)
+
+The Group’s operations in Malaysia under TMCLS is a multidisciplinary 
+
+healthcare company listed on Bursa Malaysia. It operates Thomson Hospital 
+
+Kota Damansara, a tertiary hospital located in Kota Damansara, and the 
+
+award-winning TMC Fertility Centre which is the industry leader in assisted 
+
+reproduction in Malaysia. The expansion project for the construction 
+
+of a 330-bed new wing at Thomson Hospital Kota Damansara has been 
+
+completed and is scheduled to commence operations in the 3rd quarter of 
+
+FY2022. Information on TMCLS will be disclosed separately in its annual 
+
+report at https://www.tmclife.com/annual-report/.
+
+VANTAGE BAY HEALTHCARE CITY (“VBHC”)
+
+Sited on 9.23ha freehold waterfront land in Johor Bahru’s City Centre, VBHC 
+
+is envisioned to be a proposed designed first-of-its-kind integrated medical, 
+
+education and wellness hub. VBHC comprises a medical hub including three 
+
+hospitals and a long-term care facility, a wellness hub providing therapeutic 
+
+care and lifestyle-related services, including age-friendly assisted-living 
+
+residences and an education and training hub which comprise a medical 
+
+training institute and teaching hospital. This is the first fully-integrated 
+
+health sciences platform to be developed in the region.
+
+Our core values reflect what is truly important to us as an organisation 
+
+and these are key drivers to our approach towards sustainability and how 
+
+these are integrated into our commitment towards business, operational 
+
+and service excellence.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+03
+
+ABOUT THOMSON MEDICAL GROUP
+
+
+
+
+PATIENT EXPERIENCE
+
+HEALTH AND SAFETY
+
+GOVERNANCE
+
+24:1
+
+Compliments to complaints ratio
+
+Choice hospital again 
+
+98%
+
+selected “definitely” and “likely”
+
+Patient satisfaction
+
+99%
+
+selected “much better than 
+
+expected” and “better than 
+
+expected”
+
+Recommend TMPL to friends
+
+98%
+
+selected “definitely” and “likely”
+
+ZERO non-compliance 
+
+incidents with environmental laws 
+
+and other relevant laws
+
+1 complaint concerning breach 
+
+of customer privacy and data loss
+
+ZERO
+
+High-consequence 
+
+work-related injuries
+
+ZERO
+
+Workplace 
+
+fatalities
+
+31
+
+Average training hours for 
+
+nursing staff
+
+ZERO
+
+non-compliance incidents
+
+concerning health and safety 
+
+impacts
+
+ATTAINMENT OF 3 ISO CERTIFICATIONS
+
+
+
+
+
+
+
+EMPLOYEES
+
+o ISO 9001-Quality Management
+
+o ISO 45001-Occupational Health and Safety Management
+
+o ISO 14001-Environmental Management
+
+Economic Performance
+
+The Group’s economic performance for the reporting period has been disclosed in the Annual Report. Please refer to the 
+
+Financial Contents section of the Annual Report for more information.
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+04
+
+PERFORMANCE HIGHLIGHTS
+
+
+
+
+Dear Stakeholders,
+
+As we progress through another year, the Group takes yet 
+
+another step forward in our journey to make sustainability 
+
+the cornerstone of our vision, mission, and core values. 
+
+Our sustainability report shares the progress and efforts 
+
+TMPL has made towards contributing to the United Nations 
+
+Sustainable Development Goals (“UNSDG”) – as we strive 
+
+towards becoming a leading healthcare services provider so 
+
+as to provide the best care for our patients, their families 
+
+and the communities we serve. We have thus aligned our 
+
+sustainability efforts to include and go beyond Sustainable 
+
+Development Goal 3: Good Health and Well-being, and 
+
+review our business strategy against other global priorities 
+
+which this report sets out to chart our journey to address some 
+
+of the world’s biggest sustainable development challenges.
+
+SUSTAINABILITY APPROACH
+
+As the COVID-19 pandemic continues to leave indelible 
+
+changes on the way we live and work, it has also elevated 
+
+the importance of sustainability to build a healthier world for 
+
+the next generation and beyond. To this end, the Board is 
+
+committed to oversee the Group’s sustainability strategy and 
+
+will continue to implement practical initiatives that support a 
+
+more sustainable future for all stakeholders.
+
+Guided by the Board, the Group’s Sustainability Steering 
+
+Committee (“STC”) and Sustainability Task Force (“STF”) 
+
+have 
+
+implemented 
+
+organisation-wide 
+
+sustainability 
+
+programmes aligned with our core values. We regard UNSDGs 
+
+as important reference points to determine our material ESG 
+
+topics and continuously refine our sustainability approach in 
+
+alignment with the UNSDGs to shape the business towards 
+
+achieving these goals.
+
+STAYING RESILIENT AGAINST COVID-19
+
+Although COVID-19 presented many challenges for the 
+
+Group, I am proud that our people showed their true mettle 
+
+by remaining resilient and agile in the face of the pandemic. 
+
+We continued to deliver high-quality healthcare to our 
+
+patients, ensured the safety of our employees and visitors, 
+
+and maintained the viability of the business. Our Emergency 
+
+Preparedness Plans and experience in managing SARS and 
+
+H1N1 allowed us to effectively respond to the pandemic and 
+
+safely continue to deliver quality care to our patients as we 
+
+navigated through the COVID-19 pandemic.
+
+To ensure the safety of vulnerable patients, TMPL established 
+
+external treatment and isolation facilities outside the hospital’s 
+
+premises to segregate and manage patients with risk factors 
+
+including fever and respiratory symptoms. Through the 
+
+effective management, ongoing training and deployment of 
+
+Personal Protective Equipment supplies, we ensured that our 
+
+frontline employees operated in a safe working environment, 
+
+over the protracted pandemic. To mitigate the transmission of 
+
+the virus among back-office employees, a combination of safe 
+
+distancing, split team and staggered working arrangements, 
+
+routine Antigen Rapid Tests, and work from home policies 
+
+where possible were mandated. Supporting the fight against 
+
+COVID-19 in Singapore, we operationalised three Vaccination 
+
+Centres, and deployed our healthcare workers to serve at 
+
+Community Care Facilities and managed COVID-19 serology 
+
+operations at migrant worker dormitories.
+
+SUPPORTING INNOVATION AND PROGRESS
+
+Through the hard work of our teams, I am pleased to report 
+
+that we have successfully obtained certifications for the 
+
+International Standards Organisation (“ISO”) for Quality 
+
+(ISO 9001), Environmental (ISO 14001) and Occupational 
+
+Health &amp; Safety (ISO 45001) during the year. This triple ISO 
+
+certification is a recognition of TMPL’s efforts and compliance 
+
+in establishing quality and consistent standards in these areas 
+
+throughout the organisation, as we deliver quality care to all 
+
+our patients.
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+05
+
+MESSAGE FROM THE CHAIRMAN 
+
+
+
+
+On the digital front, we have embarked on work to implement 
+
+an Electronic Medical Records (“EMR”) system scheduled 
+
+to go live by FY2023. Once operational, we will be able to 
+
+progressively harness the benefits of big data to provide 
+
+better care and enhance the quality of our patient experience.
+
+Recognising that the future of healthcare will be driven by 
+
+technology, new areas of medical innovation, and healthcare 
+
+products and services, we established Thomson X (“TX”) 
+
+to chart the Group’s technology roadmap and unlock new 
+
+growth areas. Synergising HealthTech with the Group’s 
+
+physical healthcare network provides an unprecedented 
+
+opportunity to relook at the way we deliver care, improve 
+
+patient outcomes through more personalised medicine, and 
+
+drive cost efficiency at all levels.
+
+SUPPORTING THE ENVIRONMENT
+
+Environmental sustainability is a top priority for TMPL as an 
+
+operator of hospitals and speciality clinics. We continue to 
+
+make progress in delivering environmentally sustainable 
+
+outcomes with initiatives targeting the reduction of energy 
+
+and water use, reducing wastage and single-use resources. 
+
+These initiatives build on Thomson Medical Centre’s 
+
+achievement in obtaining the Building Construction Authority 
+
+(“BCA”) Green Mark certification in September 2020, as we 
+
+continue to uphold standards towards a sustainable future.
+
+SUPPORTING THE COMMUNITY
+
+Working around safe management measures during the 
+
+pandemic, we continue our efforts in educating parents 
+
+and parents-to-be through webinars where our experts 
+
+share their knowledge about parenting, pregnancy, fertility, 
+
+and children’s health. In line with our growing business, we 
+
+also work with partners to broaden our range of education 
+
+topics to include women’s health, breast cancer, urinary 
+
+incontinence, COVID-19 vaccinations and raising awareness 
+
+on childhood myopia. As a leader in fertility, we also continue 
+
+to partner I Love Children to sponsor fertility health screening 
+
+to couples, in a bid to raise the importance of understanding 
+
+fertility and making informed family planning decisions.
+
+APPRECIATION
+
+On behalf of the Board, I would like to take this opportunity to 
+
+thank our doctors, nurses and staff who have worked tirelessly 
+
+through these challenging times to continue to deliver the 
+
+best care to our patients. I would also like to express thanks to 
+
+all our stakeholders who have been supporting us as we forge 
+
+ahead with our commitment towards a healthier and more 
+
+sustainable future. As the Group continues to grow from 
+
+strength to strength, I am confident that the sustainability 
+
+initiatives and goals we have defined will guide us into a 
+
+brighter and healthier future.
+
+NG SER MIANG
+
+Chairman, Non-Executive and Independent Director
+
+
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+06
+
+MESSAGE FROM THE CHAIRMAN 
+
+
+
+
+The Board of Directors (the “Board”) is pleased to present TMPL’s Sustainability Report for the period of 1 July 2020 to 30 June 
+
+2021. The Board believes that the embodiment of fundamental tenets of sustainability within TMPL’s business strategy is critical 
+
+to safeguard the long-term success and progress of the Group as a leading healthcare provider.
+
+Sustainability continues to be an essential part of our strategy to foster innovation and create long-term value for our 
+
+stakeholders. To provide a dedicated focus on sustainability, a Sustainability Steering Committee (“STC”) and Sustainability 
+
+Task Force (“STF”) is in place to implement organisation-wide sustainability programmes which are aligned with TMPL’s core 
+
+values and sustainability goals. As the Board oversees the development of the Group’s vision and mission, it ensures that 
+
+sustainability goals are integrated into all our business operations in Singapore, validates the topics identified through the 
+
+materiality assessment process and the STC and STF in the monitoring and performance of these material topics.
+
+In addition, we are pleased to report that we have successfully obtained certifications for the International Standards Organisation 
+
+(“ISO”) for Quality (ISO 9001), Environmental (ISO 14001) and Occupational Health &amp; Safety (ISO 45001) during the year. This 
+
+triple ISO certification is a recognition of TMPL’s efforts and compliance in establishing quality and consistent standards in these 
+
+areas throughout the organisation, staying true to the ethos behind what we do.
+
+This report encapsulates our overarching approach towards ESG risks and opportunities, and the sustainability performance of 
+
+our healthcare operations in Singapore. We believe that with the achievement of our sustainability goals, we are well-positioned 
+
+to bring sustainable value to our stakeholders and contribute positively to the growth of our environment, community and 
+
+society.
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+07
+
+BOARD STATEMENT
+
+
+
+
+Sustainability Approach
+
+TMPL’s sustainability approach closely aligns with our long-term vision to be the provider of choice for integrated healthcare 
+
+solutions across South East Asia. We strive to create long-term value to our stakeholders through a holistic approach. We 
+
+are committed to providing accessibility to a wide range of healthcare services and products, innovating unique and relevant 
+
+services, delivering value and quality and contributing to the community.
+
+Our core values of Integrity, Commitment, Accountability, Respect, and Empathy shape our approach towards sustainability. 
+
+They guide us in the development and alignment of our initiatives with the prioritised material Environmental, Social and 
+
+Governance (“ESG”) topics to our stakeholders and seven (7) SDGs. In 2021, our core values continue to align our commitment 
+
+to prioritise health and safety, compliance with laws and regulations and the management of our footprint on the environment 
+
+in the review of our sustainability initiatives.
+
+The table below outlines the alignment of TMPL’s position and initiatives against our prioritised SDGs.
+
+UN SDGs
+
+TMPL’s Position
+
+TMPL’s Initiatives
+
+Goal 3: Ensure 
+
+healthy lifestyle and 
+
+promote well-being 
+
+for all at all ages.
+
+Goal 8: Promote 
+
+sustained, inclusive 
+
+and sustainable 
+
+economic growth, 
+
+full and productive 
+
+employment and 
+
+decent work for all.
+
+TMPL’s core business is in 
+
+promoting healthy lifestyle, 
+
+safety, and well-being for all, 
+
+including both customers and 
+
+employees.
+
+TMPL is also committed to 
+
+retaining its employees, and 
+
+providing a healthy and safe 
+
+workplace.
+
+• Attained ISO 9001 Quality Management System 
+
+Certificate in 2021
+
+• Attained ISO 45001 Occupational Health and Safety 
+
+System certification
+
+• Developed a Service Excellence Framework and Quality 
+
+and Patient Safety Framework
+
+• Established Emergency Preparedness for Disease 
+
+Outbreak Hospital Administrative Policy to provide 
+
+measures and operational actions to prevent infectious 
+
+disease transmission in the hospital
+
+• Implemented a comprehensive response to COVID-19 
+
+pandemic, with strict policies include training and 
+
+awareness programme
+
+• Put in place stringent use of personal protective 
+
+equipment and COVID-19 testing for all employees and 
+
+partners
+
+• Alignment with International Patient Safety Goals
+
+• Regular Hand and Food Hygiene Audits
+
+• Compliance with Workplace Safety Act
+
+• Continually inculcating the reporting culture guided by 
+
+the Hospital Occurrence Reporting Policy to recognise, 
+
+report, investigate and respond to incident occurrences
+
+• Regular health and safety awareness programme, 
+
+trainings and campaign, include fire safety trainings
+
+• Implemented employee vaccination programmes
+
+• Launched Thomson Kids, a dedicated specialised 
+
+learning centre to help children with learning  
+
+difficulties
+
+• Established Thomson X to bring greater experiences to 
+
+patient and their families through improve connectivity 
+
+and personalisation of patient care
+
+• Developing Electronic Medical Records System which 
+
+will be implemented by FY2023 to improve the quality 
+
+of care by reducing medical errors, providing an 
+
+effective means of communication, sharing information 
+
+between healthcare providers
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+08
+
+GOVERNANCE AND SUSTAINABILITY APPROACH
+
+
+
+
+UN SDGs
+
+TMPL’s Position
+
+TMPL’s Initiatives
+
+• Regular audits conducted by internal auditors against 
+
+National Infection Prevention and Control Standards
+
+• Set up of new department, Health Information 
+
+Management Service to support data-driven 
+
+performance management journey
+
+Goal 4: Ensure 
+
+inclusive and 
+
+equitable quality 
+
+education and 
+
+promote lifelong 
+
+learning opportunities 
+
+for all.
+
+TMPL is committed to training its 
+
+workforce to promote access to 
+
+technical skills for employment.
+
+• Conducted Thomson Touch Service Training Program 
+
+throughout the year
+
+• Provided general training, competency-based training 
+
+and specialty training to employees according to their 
+
+roles
+
+• Organised virtual babycare classes, childbirth education, 
+
+hospital tours and providing telehealth solutions
+
+• Organised webinars on fertility and treatment options
+
+• Partnered with multiple organisations to provide 
+
+awareness and education towards improving the lives 
+
+of women and children on topics such as breast cancer 
+
+and cervical cancer
+
+Goal 7: Ensure 
+
+access to affordable, 
+
+reliable, sustainable 
+
+and modern energy 
+
+for all.
+
+Goal 12: Ensure 
+
+sustainable 
+
+consumption and 
+
+production patterns.
+
+Goal 13: Take urgent 
+
+action to combat 
+
+climate change and 
+
+its impacts.
+
+TMPL strives for energy efficiency 
+
+to reduce reliance on fossil fuels.
+
+TMPL is also committed to:
+
+• supporting responsible 
+
+management of waste and
+
+• mitigating climate change by 
+
+reducing its carbon footprint 
+
+through energy efficiency 
+
+initiatives.
+
+• Attained ISO 14001 Environmental Management 
+
+System Certification
+
+• Weekly kitchen and food hygiene audits carried out 
+
+based on the Singapore Food Hygiene Standards set by 
+
+Singapore Food Agency
+
+• Weekly pest control inspection conducted to be in 
+
+compliance with the Control of Vectors and Pesticide 
+
+Act
+
+• Weekly monthly cooling towers inspection conducted 
+
+to be in compliance with the EPH Cooling Towers and 
+
+Water Fountain Regulations
+
+• In-door Air Quality conducted once in every three 
+
+years based on SS554 Code of Practice for IAQ of Air 
+
+Conditioned Buildings and aligned with Workplace 
+
+Safety and Health Guidelines
+
+• Conducted hand hygiene audits to comply with 
+
+National Infection Prevention and Control Standards
+
+• Implemented workplace vaccination measures in 
+
+accordance with Ministry of Health Guidelines
+
+• Obtained Green Mark certification in 2020
+
+• Fitted variable speed drives in chillers and air handling 
+
+units
+
+• Continuous replacement of lightings to be retrofitted 
+
+with LED lightings
+
+• Installed low pressure water systems and high water-
+
+efficient products at the toilets in our facilities
+
+• Biohazard waste management audits done periodically 
+
+• Conversion of paper-based patient experience feedback 
+
+form to online platform
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+09
+
+GOVERNANCE AND SUSTAINABILITY APPROACH
+
+
+
+
+
+
+UN SDGs
+
+TMPL’s Position
+
+TMPL’s Initiatives
+
+Goal 16: Promote 
+
+peaceful and 
+
+inclusive societies 
+
+for sustainable 
+
+development, provide 
+
+access to justice for 
+
+all and build effective, 
+
+accountable and 
+
+inclusive institutions 
+
+at all levels.
+
+TMPL supports SDG 16 by 
+
+establishing robust corporate 
+
+governance policies and 
+
+processes to comply to the rule 
+
+of law.
+
+• Implemented patient privacy and confidentiality data 
+
+protection policy
+
+• Maintained code of conduct and ethics and 
+
+whistleblowing process
+
+Sustainability Governance
+
+Building a sustainable business requires a collective effort across all levels of the organisation. At TMPL, we adopt an innovative 
+
+and integrated approach to deliver long-term value for our stakeholders with oversight from the Board. In developing these 
+
+solutions, our Sustainability Steering Committee, in consultation with the Board, look for ways to improve our services and find 
+
+sustainable ways to synergise our operations and execute these programmes through the Sustainability Task Force.
+
+• Overseeing the Group’s 
+
+overall sustainability direction, 
+
+approving the identified material 
+
+ESG factors, and approving this 
+
+Report.
+
+• Managing and monitoring the 
+
+sustainability performance with 
+
+the support of the Sustainability 
+
+Steering Committee and 
+
+Sustainability Task Force. 
+
+• Formed by senior management 
+
+and representatives from various 
+
+departments.
+
+• Overseeing the development and 
+
+implementation of organisation-
+
+wide sustainability strategy.
+
+• Reviewing, assessing and 
+
+determining the sustainability 
+
+strategy, material topics, scope, 
+
+boundary, and prioritisation 
+
+of issues to be included in this 
+
+Report.
+
+• Formed by representatives across 
+
+functions.
+
+• Implementing and executing 
+
+the sustainability policies and 
+
+practices as well as monitoring 
+
+the sustainability performance.
+
+
+
+
+
+THE BOARD
+
+SUSTAINABILITY
+
+STEERING 
+
+COMMITTEE
+
+(“SSC”)
+
+SUSTAINABILITY
+
+TASK FORCE
+
+(“STF”)
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+10
+
+GOVERNANCE AND SUSTAINABILITY APPROACH
+
+
+
+
+At TMPL, we strongly believe that developing and maintaining strong and positive relationships with our stakeholders is a key 
+
+requirement for ongoing success and ability to grow. We conduct frequent and regular engagement with our stakeholders to 
+
+ensure long-term trust and accountability. These engagements enable us to understand and address the needs, concerns, and 
+
+expectations raised by our stakeholders.
+
+Our stakeholder groups are identified based on their level of influence and interest in TMPL’s business activities. We have 
+
+identified seven (7) stakeholder groups that we consider most pertinent to TMPL. Due to restrictions on group gatherings 
+
+and physical meetings imposed during the COVID-19 pandemic, we maintained our stakeholder engagement efforts this year 
+
+through virtual platforms.
+
+Our key stakeholder groups and engagement methods are described in the following table:
+
+Stakeholders Group
+
+Forms of Engagement
+
+Frequency
+
+Key Focus Areas
+
+Employees
+
+• Employee meetings
+
+• Town halls engagement
+
+• Intranet and newsletter
+
+• Performance appraisals
+
+• Social activities
+
+• Senior Leaders’ walk rounds
+
+Throughout the 
+
+year
+
+• Fair compensation and benefits
+
+• Learning and career 
+
+development opportunities
+
+• Equal opportunities
+
+• Occupational Health and Safety
+
+• Employee well-being
+
+• Resource planning
+
+Customers
+
+(including patients and 
+
+family 
+
+members 
+
+of 
+
+patients)
+
+• Customer satisfaction survey
+
+• Corporate website and social 
+
+media and digital platforms
+
+• Customer hotline
+
+• Ward rounds
+
+• Hospital tours
+
+Daily
+
+• Quality patient care
+
+• Customer privacy and 
+
+experience
+
+• Customer service
+
+• Service recovery prompt 
+
+response for enquiries and 
+
+feedback
+
+• Clean and safe environment
+
+• Transparency of pricing of 
+
+services
+
+Doctors
+
+• Phone calls, e-mails and 
+
+meetings
+
+• Seminars and webinars
+
+• Clinic visits
+
+• Doctors’ newsletter
+
+Throughout the 
+
+year
+
+• Clinical and service quality
+
+• Continuing medical education
+
+• Develop employee 
+
+competencies to ensure safe 
+
+care for their respective patient 
+
+group
+
+• Identify needs and 
+
+provide seamless support 
+
+Communication, promotion &amp; 
+
+awareness of services
+
+Shareholders
+
+• Release of financial results and 
+
+announcements, press releases 
+
+and other required disclosures 
+
+through SGXNet and TMG’s 
+
+corporate website
+
+• Annual Report
+
+• Annual General Meeting
+
+• Extraordinary General Meeting
+
+Throughout the 
+
+year
+
+• Business and operations 
+
+performance
+
+• Business strategy and outlook
+
+• Corporate governance
+
+• Compliance with relevant laws 
+
+and regulations
+
+• Transparency and timely 
+
+announcement
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+11
+
+STAKEHOLDER ENGAGEMENT
+
+
+
+
+Stakeholders Group
+
+Forms of Engagement
+
+Frequency
+
+Key Focus Areas
+
+Government and 
+
+Regulators
+
+• Reports of various performance 
+
+and clinical indicators
+
+• Ongoing communication and 
+
+consultation with the relevant 
+
+authorities
+
+Throughout the 
+
+year
+
+• Compliance with relevant laws 
+
+and regulations
+
+• Prompt and accurate regulatory 
+
+disclosures
+
+Supplier and 
+
+Contractors
+
+• Tenders, request for quotations 
+
+and proposals
+
+• Site visits and meetings
+
+• E-mails
+
+Throughout the 
+
+year
+
+• Business performance
+
+• Fair tender process
+
+• Competitive pricing
+
+• Good quality of goods and 
+
+services
+
+• Occupational health and safety
+
+• Compliance with laws and 
+
+regulations
+
+Local Communities
+
+• Public education programmes 
+
+and support for local non-profit 
+
+organisations
+
+Throughout the 
+
+year
+
+• Contribution to and 
+
+engagement with the local 
+
+community
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+12
+
+STAKEHOLDER ENGAGEMENT
+
+
+
+
+MATERIALITY
+
+Annually, we draw on insights from our key stakeholders, internal and external, groups through the various engagement 
+
+channels to identify important issues to be addressed. We adopt a three-step materiality assessment process guided by the GRI 
+
+Materiality Principles, to identify the ESG topics that are material to our business and stakeholders. We focus the disclosure of 
+
+activities on our most material ESG topics in this report.
+
+Based on these insights gathered and anticipating a shift in the main concerns of our stakeholders in light of the ongoing 
+
+COVID-19 pandemic, we have conducted a re-assessment of our material topics. Based on our assessment, the material topics 
+
+which were identified in the previous year remain relevant and therefore, have been maintained. In view of emerging global 
+
+trends in environmental sustainability, we have enhanced our disclosures in this report to include energy, water conservation 
+
+and waste management as material topics of increasing importance.
+
+We have mapped these material topics to the UN SDGs to align our sustainability initiatives with global sustainable goals.
+
+Material topics
+
+UN SDGs
+
+Patient Satisfaction
+
+Health and Safety
+
+Employees
+
+• Training and Education
+
+Environmental Management
+
+• Energy Conservation
+
+• Water Conservation
+
+• Waste Management and Compliance
+
+Compliance with Laws and Regulations
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+13
+
+TOPICS AND UNSDG
+
+
+
+
+Our Approach
+
+At TMPL, our patients are our priority as we aim to build long-term relationships with them and their families. We strive to 
+
+provide our patients with memorable experiences, personalised to their diverse needs.
+
+To encourage patients to make TMPL a choice healthcare provider, we have taken into consideration their needs, preferences 
+
+and expectations. When patients have a good impression and experience of the quality of healthcare services at TMPL, they 
+
+are likely to return and make recommendations to their families and friends. In addition to having a comprehensive range of 
+
+services, we go the extra mile to innovate our services and create personalised treatment options for our customers.
+
+Our Service Quality Committee (“SQC”) oversees patient experience, an indicator that measures the performance of TMPL. 
+
+The SQC develops the Service Excellence Framework (“SEF”), executes customer service strategy, ensures consistency of 
+
+service standards on-site and off-site and develops and spreads service improvement initiatives to enhance the overall patient 
+
+experience.
+
+GRI 103: Management Approach – Patient Satisfaction
+
+SERVICE
+
+STANDARDS
+
+CUSTOMER
+
+SERVICE
+
+TRAINING
+
+SOLICITED &amp; 
+
+UNSOLICITED 
+
+FEEDBACK
+
+SERVICE
+
+QUALITY
+
+COMMITTEE
+
+THOMSON 
+
+TOUCH ROLL 
+
+CALLS HUDDLES
+
+REVIEW  
+
+IMPLEMENT 
+
+MONITOR &amp; SUSTAIN
+
+BRAND 
+
+PROMISE
+
+D.E.L.I.V.E.R.
+
+INPATEINT 
+
+OUTPATIENT 
+
+FEEDBACK
+
+SERVICE RECOVCERY PROCESS
+
+SERVICE 
+
+EXCELLENCE 
+
+FRAMEWORK
+
+Diagram 1 : Service Excellence Framework
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+14
+
+PATIENT SATISFACTION
+
+
+
+
+The Service Excellence Framework (“SEF”) provides the overarching structure to service standards and the patient experience 
+
+drivers model, helps the organisation to take a deeper look at the processes, products and people, develop strategies and 
+
+implement quality and patient safety initiatives that could impact patient experience and enhance satisfaction. Patient experience 
+
+is associated with safe, patient-centeredness, effective care, timely and efficient service.
+
+The SQC has developed and executed a series of initiatives during the year to drive positive outcomes such as the Planning and 
+
+Crowdsourcing Program. Launched in January 2021, the program encourages generation of innovative ideas for new service 
+
+improvements through staff and leadership engagement.
+
+To continue strengthening our workplace culture, we accentuate the concept of walk-the-talk into practice. We believe it 
+
+is important to build a culture of appreciation by bringing out the best in every employee and giving recognition for their 
+
+contributions. Henceforth, the Employees and Partners’ Reward and Recognition Programme was developed to recognise 
+
+and reward exemplary staff and teams who have demonstrated our BRAND Promise and Core Values in their daily work. 
+
+Various awards such as the SPOT Award, Angel Award and Excellence in Action Award were introduced to all levels of staff 
+
+to encourage and enhance service excellence culture. In addition, we recently started to profile staff on our corporate social 
+
+media platforms who have gone above and beyond their duties to provide excellent service when caring for their patients. 
+
+In appreciating the efforts of these staff members, we aim to encourage all staff to learn from these positive examples and 
+
+embrace Thomson Medical’s culture of positive service.
+
+Engaging today’s tech savvy customers for real time feedback is paramount to build brand loyalty, achieve timely service recovery 
+
+and patient satisfaction. Hence, the conversion of paper-based patient experience feedback form to an online platform, which 
+
+was initiated during the year will invariably contribute to a greener environment. In addition, we have also expanded our 
+
+feedback channels to all departments within the hospital.
+
+The SQC continues to pilot new projects to enhance the overall patient experience across the hospital and its services.
+
+Diagram 1 : Patient Experience Drivers Model
+
+PROFESSIONAL 
+
+IMAGE
+
+STAFF
+
+ENGAGEMENT
+
+PRODUCTS 
+
+&amp; PROCESS 
+
+INNOVATIONS
+
+LEARNING &amp; 
+
+SHARING
+
+TEAMWORK
+
+PATIENT 
+
+&amp; FAMILY 
+
+ENGAGEMENT
+
+PATIENT
+
+EXPERIENCE
+
+DRIVERS
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+15
+
+PATIENT SATISFACTION
+
+
+
+
+Service delivery training
+
+To maintain high quality service delivery, we conducted employee training 
+
+throughout the year through our signature Thomson Touch Service Training 
+
+program. This program strives to nurture a service-oriented mindset, firmly 
+
+built on a foundation of excellence in culture and service innovation among 
+
+our employees. Amid the challenges brought about by COVID-19, some 
+
+of these training sessions have been conducted virtually through video 
+
+conferencing while daily service huddles and roll calls which were facilitated by 
+
+Unit Managers continue to be conducted regularly to reinforce patient-centred 
+
+proactive service delivery.
+
+Other service offerings
+
+Staying safe and healthy has always been a priority for all parents with a newborn. With 
+
+the pandemic here to stay for a while, this has certainly raised safety as an even higher 
+
+priority. As such, we have prepared a “Stay Safe Essentials” gift bag for all mummies who 
+
+deliver at our hospital. Packed with useful mum and baby products, the gift hopes to 
+
+support the priorities of our parents, helping the whole family to stay safe together.
+
+Building on decades of experience in women’s and children’s health, we have also launched 
+
+Thomson Kids, our first dedicated specialised learning centre to help children with learning 
+
+difficulties through a structured programme derived from evidence-based interventions.
+
+In seeing to mothers’ daily nutritional needs post-childbirth, Thomson Confinement Food 
+
+packages covers mummies through the crucial 28 days of confinement, offering both lunch 
+
+and dinner with two well-planned food menus – the Traditional Chinese Confinement 
+
+Menu and Resepi Ibunda – Confinement Menu for Muslim Mums. Nutritious food is 
+
+delivered straight to the doorstep in reusable environmentally friendly thermal containers, 
+
+ensuring a warm and fresh meal every time.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+16
+
+PATIENT SATISFACTION
+
+
+
+
+Driving Efficiency with Innovation and Technology
+
+Building on one of our key service capability areas, we continually implement and use 
+
+innovative technology to increase the quality and efficiency of care provided to our 
+
+patients. We recognise that investments in technology and equipment will pave the way 
+
+to procedural efficiency, connectivity, personalisation of patient care and patient wellbeing.
+
+Virtual platforms
+
+In FY2021, we leveraged on digital platforms to deliver some of our services such as virtual 
+
+baby care classes, childbirth education, hospital tours and providing telehealth solutions to 
+
+our patients as part of our efforts to continue supporting our patients’ experience amid the 
+
+COVID-19 pandemic.
+
+Thomson X
+
+The future of healthcare will be driven by technology, new areas of medical innovation, and 
+
+healthcare products and services. Thomson X was established during the year to oversee 
+
+and direct the Group’s technology roadmap. We believe, with digital technologies and 
+
+solutions, our patients and their families will have greater experiences through improve 
+
+connectivity and personalisation of patient care.
+
+Electronic Medical Records
+
+We have commenced work to implement the Electronic Medical Records system during the 
+
+year. The system is scheduled to go live by FY2023 and aims to improve patient care and 
+
+safety with easy access to a patient’s integrated medical records at the point of care.
+
+Digitalised medical records enhance productivity with integration to other clinical systems 
+
+for seamless and speedy access to patient results and will be a key enabler for healthcare 
+
+data analytics. To this end, we have also set up a new department, the Health Information 
+
+Management Service, to support our data-driven performance management journey.
+
+Performance Results and Targets
+
+We used patient experience index to measure our patient’s experience and satisfaction level based on voluntary feedback. Whilst 
+
+navigating through COVID-19 challenges to provide safe and quality care, we continue to achieve incremental improvements 
+
+in the overall customer performance index as presented in the table below.
+
+Performance results
+
+FY2020
+
+FY2021
+
+Target
+
+Compliments to complaint ratio
+
+12: 1
+
+24: 1
+
+20: 1
+
+Choice of hospital again
+
+(selected “definitely” and “likely”)
+
+98.1%
+
+98.4%
+
+100%
+
+Customer satisfaction
+
+(selected “much better than expected” and “better 
+
+than expected”)
+
+99.0%
+
+99.1%
+
+100%
+
+Recommend TMPL to friends
+
+(selected “definitely” and “likely”)
+
+98.3%
+
+98.4%
+
+100%
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+17
+
+PATIENT SATISFACTION
+
+
+
+
+Our Approach
+
+TMC, as the only private hospital for women and children in Singapore, providing comprehensive, specialised care, services 
+
+and products to both mother and child. With a focus on sustainability, the management, staff and partners are committed to 
+
+business, operational and service excellence through Integrated Management System and our Brand Promise “D.E.L.I.V.E.R”.
+
+We adopted the ISO 9001 Quality, ISO 14001 Environmental and ISO 45001 Occupational Health &amp; Safety Standards and 
+
+implemented practices in order to achieve best clinical and service outcomes for our patients while ensuring least waste and 
+
+good staff morale.
+
+We uphold these goals by:
+
+(i) 
+
+managing patient safety, quality assurance and improvement activities so as to reduce risks to patients and improve 
+
+clinical, operational processes and outcomes;
+
+(ii) 
+
+monitoring, reviewing and maintaining safe systems of work, policies and procedures by complying with all relevant 
+
+health, safety, environmental legislations;
+
+(iii) 
+
+preventing work-related incidents by providing adequate resources, programmes, education and training to our staff 
+
+and service partners;
+
+(iv) 
+
+identifying, evaluating and controlling workplace risk and environmental impact assessment of hospital activities to 
+
+mitigate foreseeable unsafe conditions, environment and behaviours;
+
+(v) 
+
+engaging relevant stakeholders and staff through communication, consultation and participation to improve the QEHS 
+
+continually;
+
+(vi) 
+
+reviewing and implementing our objectives, targets and their performances; and
+
+(vii) 
+
+measuring and evaluating the effectiveness of quality, environmental sustainability, health and safety culture
+
+We have in place comprehensive policies, procedures, processes and measures to mitigate operational, clinical, health and 
+
+safety risks. TMPL’s Medical Advisory Board provides an oversight of the clinical sub-committees thus ensuring patient safety, 
+
+compliance to clinical protocols and regulatory requirements.
+
+GRI 403: Occupational Health and Safety   
+
+GRI 416: Customer Health and Safety 
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+18
+
+HEALTH AND SAFETY
+
+
+
+
+Quality and Patient Safety Program
+
+At TMPL, the Quality and Patient Safety Program (“QPS”) is encapsulated in the Quality and Patient Safety Framework (“QPSF”). 
+
+It aims to ensure that a coordinated and integrated approach is defined for managing patient safety, quality assurance and 
+
+improvement activities so as to reduce risks to patients and improve clinical, operational processes and outcomes. The QPSF 
+
+stipulates specific key strategic thrusts that relate to clinical risk management, patient safety, quality service and performance 
+
+improvement. These include service and system initiatives which deal with fundamental quality assurance, quality improvement, 
+
+patient safety basics, service standards, people development, organisational business excellence, and evidence-based practices.
+
+We have established 5 sub-committees to oversee the different aspects of quality systems as follows:
+
+Clinical Quality 
+
+and Patient Safety 
+
+Committee
+
+Systems and Process 
+
+Quality Committee 
+
+Service Quality 
+
+Committee
+
+Performance 
+
+Improvement 
+
+Committee
+
+Nursing Quality 
+
+Assurance 
+
+Committee
+
+• To set the direction 
+
+and strategy for 
+
+quality assurance, 
+
+quality management, 
+
+risk management and 
+
+patient experience 
+
+and patient safety
+
+• To review and align 
+
+clinical practices and 
+
+policies in accordance 
+
+to professional 
+
+standards, legal, 
+
+regulatory and 
+
+licensing requirements
+
+• To ensure 
+
+Environmental 
+
+Health and Safety 
+
+(“EHS”) for patients, 
+
+visitors and other 
+
+key stakeholders 
+
+• To initiate effective 
+
+strategies such 
+
+as inspections, 
+
+audits, EHS incident 
+
+reports and mitigate 
+
+institution risks, 
+
+implement projects 
+
+to support quality 
+
+and safe care and 
+
+promote health 
+
+and safety in the 
+
+workplace
+
+• To review, develop 
+
+and implement 
+
+service excellence 
+
+and reward 
+
+and recognition 
+
+frameworks, drive 
+
+service culture 
+
+through service 
+
+standards, initiatives, 
+
+risk assessment and 
+
+to execute a result-
+
+based approach 
+
+to improve patient 
+
+experience.
+
+• A strategic platform 
+
+to review and 
+
+evaluate financial 
+
+and nonfinancial 
+
+measures, identify 
+
+opportunities to 
+
+improve quality of 
+
+care, treatment, 
+
+services, patient 
+
+safety, customer 
+
+experience and 
+
+satisfaction.
+
+• Work together 
+
+with Workplace 
+
+Health and Safety 
+
+Committee to review 
+
+legal requirements 
+
+and compliance, 
+
+measurement, 
+
+and monitoring 
+
+outcomes.
+
+• Provide direction 
+
+for nursing quality 
+
+and ensure that 
+
+the nursing 
+
+care processes 
+
+and services are 
+
+designed, measured, 
+
+monitored and 
+
+audited for safety, 
+
+quality, timeliness, 
+
+effectiveness, 
+
+efficiency 
+
+and patient 
+
+centeredness.
+
+International Patient Safety Goals (“IPSG”)
+
+TMPL strives to meet the International Patient Safety Goals (“IPSG”) as part of ensuring our patients’ health and safety. The 
+
+purpose of the IPSG, as referenced from Joint Commission International, is to promote specific improvements in patient safety, 
+
+highlight problematic areas in healthcare, and apply evidence- and expert-based solutions to these problems.
+
+We have adapted the IPSG goals namely correct baby identification, improve safety in dispensing high-alert medication, ensure 
+
+safe surgery, reduce health care associated infections through hand hygiene and reduce risk of patient harm resulting from falls.
+
+Infection Prevention and Control Programme
+
+Infection prevention and control can be challenging in the healthcare setting especially with emerging pandemics such as 
+
+COVID-19. Notwithstanding these emergences, the healthcare institutions endeavour to keep hospital associated infections at 
+
+bay by adopting and implementing hand hygiene guidelines from the World Health Organisation and Food Hygiene Standards 
+
+from Singapore Food Agency, a statutory board under the Ministry of Sustainability and the Environment. We also align our 
+
+practices to the National Infection Prevention and Control Standards.
+
+Hand Hygiene Audit
+
+The COVID-19 pandemic has reinforced the importance of compliance with hand hygiene standards. In line with IPSG 5, 
+
+we adopted and implemented the World Health Organisation’s (“WHO”) evidence-based hand hygiene guideline. To ensure 
+
+compliance, monthly hand hygiene audits were conducted by our Infection Control Liaison Officers. Nurses and doctors were 
+
+audited on their adherence to the Five Moments of Hand Hygiene: (a) before touching patient, (b) before starting a clean 
+
+procedure, (c) after exposure to body fluid, (d) after touching a patient, and (e) after touching patient surroundings. There were 
+
+over 10,000 hand hygiene observations conducted, which achieved a compliance rate above our target of 90%.
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+19
+
+HEALTH AND SAFETY
+
+
+
+
+Food Hygiene Audit
+
+TMPL is committed to reduce the risk of infections associated with food services. For food hygiene, the operation and 
+
+management of the kitchen at the hospital is outsourced to an established catering operator which is ISO 9001:2015 and ISO 
+
+22000:2018 certified. Weekly inspections were performed on the kitchen where food is prepared to ensure satisfactory and 
+
+hygienic conditions are maintained.
+
+The food hygiene audit criteria cover general conditions of the kitchen, storage of food, functionality of refrigerators and cold 
+
+room, diet presentation and quality, cleaning standards and employee hygiene.
+
+The food hygiene audit and patients’ feedback were reviewed during monthly Food Committee Meetings. The identified 
+
+opportunities for improvement were addressed promptly.
+
+Performance Results and Targets
+
+During the reporting period, we have achieved our target compliance rate for hand hygiene audits. Although we did not 
+
+achieve the target set for FY2021 for food hygiene audits, we will strive to meet the target for FY2022.
+
+Hand and Food Hygiene Audits
+
+FY2020
+
+FY2021
+
+Target
+
+Compliance rate of monthly hand hygiene audits
+
+87%
+
+91%
+
+90%
+
+Compliance rate of weekly food hygiene audits
+
+84%
+
+84%
+
+85%
+
+Safe Healthcare Products and Services
+
+We are responsible for the safety of our patients as a healthcare provider, and we are committed to the highest standards 
+
+of quality in our products, services and treatments. To ensure safety of our products and services, we have put in place strict 
+
+policies and procedures for the purchasing and evaluation of medical equipment and pharmaceutical products.
+
+At TMPL, we have three strategic objectives for pharmaceutical procurement to ensure that our medications are always 
+
+available and prevent waste through, (i) a proper inventory system, (ii) procurement of drugs at optimal quantity and costs, and 
+
+(iii) maintaining a list of reliable suppliers who met our vendor evaluation criteria.
+
+All drugs purchased must be approved by the Health Sciences Authority, Singapore (“HSA”). In TMPL we maintain a list of 
+
+approved drugs (the “Drug Formulary”) to be used in the hospital. An annual review of the Drug Formulary is performed by 
+
+the Pharmacy and Therapeutics Committee to ensure all matters related to the use of medications in the hospital, including 
+
+the development and maintenance of the formulary is safe and effective. All vendors supplying our pharmaceuticals are subject 
+
+to stringent vendor evaluation in accordance with our Standard Operating Procedures (“SOP”). The vendors must be reliable, 
+
+reputable, with valid business and other relevant licenses. All medications are stored as per manufacturer recommendations, 
+
+with consideration given to temperature requirements.
+
+Our Biomedical Engineering Department oversees the procurement of all medical equipment used in the hospital. We have a 
+
+strict SOP in place to review the procurement of medical equipment which include selection, commissioning, inspection, testing 
+
+and maintenance of equipment used. All of our medical equipment and systems used in the patient care must be approved by 
+
+the relevant authorities to ensure they are operational, safe and properly configured and maintained.
+
+For the reporting period, there were zero incidents of non-compliance with regulations and voluntary codes concerning the 
+
+health and safety impact of our products and service. We target to continue to be fully compliant with these regulations and 
+
+voluntary codes for FY2022.
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+20
+
+HEALTH AND SAFETY
+
+
+
+
+Occupational Health and Safety
+
+Recognising that healthcare employees, patients, partners, and visitors might 
+
+be exposed to a wide array of work related, health and safety (“WSH”) risks, 
+
+we developed the workplace, health and safety framework, which includes the 
+
+WSH Policy, Planning, Implementation and Operation, Checking and Corrective 
+
+Actions, Management Review and Continual Improvement. We aligned the WSH 
+
+framework with the ISO 14001 Environmental Management System, ISO 45001 
+
+Occupational Health and Safety System and Workplace Safety and Health Act.
+
+Our Workplace Safety and Health Committee (“WSH Committee”), which meets 
+
+on a monthly basis, is responsible for the overall management of employees, 
+
+partners and visitors’ safety in the hospital. Some of the key responsibilities are as 
+
+follows:
+
+• establish written safety rules to ensure adherence by employees and 
+
+stakeholders, including contractors, vendors and partners whilst performing 
+
+their work at the hospital;
+
+• compliance with legal requirements through audits and inspections, make 
+
+recommendation for improvements and establish training frameworks; and
+
+• provides an oversight for continuous improvement activities identified in the 
+
+required and desired measures.
+
+We have established an Environment, Health and Safety Management (“EHS”) 
+
+sub-committee to oversee a variety of occupational safety and health related 
+
+areas, including fire safety and emergency preparedness. The EHS sub-committee 
+
+is made up of representatives from the Environmental Management team. The 
+
+team reviews existing procedures and processes to minimise and mitigate potential 
+
+hazards and risks and has carried out periodic inspections such as the inspection of 
+
+cooling towers and pest control schedules on a weekly basis, and conducts indoor 
+
+air quality assessments once every three years.
+
+The Infection Control Manager (“ICM”) oversees matters pertaining to the 
+
+management of sharps, needle stick injury and exposure to body fluids, hospital 
+
+associated infections and others. The ICM conducts root cause analysis of these 
+
+incidents and implements control measures to mitigate potential risks and future 
+
+occurrences. Regular on-the-job training on handling of sharps, body fluid spill 
+
+management and drills were conducted for all new nurses and refresher programme 
+
+for current nurses.
+
+We conduct regular health and safety awareness programmes, trainings and 
+
+campaigns for our employees to ensure they are up to-date with the latest 
+
+procedures and developments. Some programmes carried out this year are:
+
+• Mental wellness webinars
+
+• Ergonomics awareness
+
+• Fire safety trainings
+
+• Health and safety risk assessment exercise
+
+• Emergency preparedness and response, including fire drills
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+21
+
+HEALTH AND SAFETY
+
+
+
+
+Incident Reporting
+
+Our hospital is responsible for the safety of all individuals who utilise our facilities and operate within our premises. To 
+
+uphold these safety standards, we have put in place a robust system to recognise, report, investigate and respond to incident 
+
+occurrences.
+
+We have established a Hospital Occurrence Reporting that guides our employees on the approach towards recognition, 
+
+reporting, investigation and root cause analysis, serious reportable events and near miss events involving patients, visitors, 
+
+employees and other interested parties. This incident reporting mechanism allows us to learn from the incident, develop a 
+
+quality improvement plan and other action plans to be implemented. We ensure all our employees are aware of our incident 
+
+reporting process through regular departmental meetings and on-the-job trainings.
+
+Performance Results and Targets
+
+The following table highlights our occupational health and safety performance results:
+
+Performance results
+
+FY2020
+
+FY2021
+
+Target
+
+Number and rate of recordable work-related injuries
+
+6
+
+6
+
+zero injuries
+
+Number and rate of high-consequence work-related 
+
+injuries
+
+1
+
+0
+
+zero injuries
+
+Number of needlestick injuries
+
+2
+
+3
+
+zero injuries
+
+We are pleased to report that there were no high consequence work-related injuries and fatalities resulting from work-related 
+
+injuries. However, there were 6 work-related injuries resulting from falling and ergonomic hazards and 3 needlestick injuries in 
+
+FY2021. The rate of work-related injuries is 4.40, which is a decrease from the 12-month FY2020 injuries rate of 4.49. There 
+
+were no work-related injuries for workers who are not employees during FY2021. We will continue to provide training and 
+
+conduct audits on safe handling and disposal of sharp needles.
+
+Our Response to COVID-19
+
+COVID-19 management
+
+As the COVID-19 pandemic continues to evolve, infection control is at the forefront of what we do. We have in place an 
+
+Emergency Preparedness Plan for Disease Outbreak as part of the Hospital Administrative Policy to provide various measures 
+
+and operational actions that need to be undertaken to prevent infectious disease transmission in the hospital. We have also 
+
+established a COVID-19 Advisory Committee comprising specialists in Infectious Diseases, Obstetrics &amp; Gynaecology, Paediatric 
+
+Medicine and members of our Senior Management and Medical Advisory Board to provide professional input into our emergency 
+
+preparedness responses and clinical policies.
+
+An annual Infection Prevention and Control training for all staff was conducted to ensure our staff have up-to-date comprehensive 
+
+working skills necessary for the practice of infection control and epidemiology. In addition, we have carried out a biannual 
+
+Infection Control and Control Standards Audit where every department in the hospital was audited using the National Infection 
+
+Control and Prevention Standards by our internal auditors.
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+22
+
+HEALTH AND SAFETY
+
+
+
+
+COVID-19 training
+
+Other than the emergency preparations as described above, we have also carried out a variety of training programmes to 
+
+prepare our staff in dealing and managing with the impact of COVID-19. We also provide ongoing COVID-19 tests for all our 
+
+employees and partners which enables us to react in a timely manner should they be tested positive.
+
+Some of the training and awareness programmes on COVID-19 made available to our employees are as follows:–
+
+• Guidance on the use of PPE, including N95 mask fitting and usage training
+
+• Protocol for providing COVID-19 test services to our patients
+
+• Latest updates to the pandemic and safety measures to be adhered to at our facilities
+
+• Employee health surveillance system via our 24-hour walk-in clinic where employees who report sick are assessed and 
+
+treated by resident physicians
+
+• COVID-19 swab and Polymerise Chain Reaction (“PCR”) tests to all employees who display acute respiratory infection 
+
+symptoms.
+
+We continue to uphold these stringent measures at our hospital and clinics through provision of Personal Protective Equipment 
+
+(“PPE”) for patients and employees, regulating entrance access at the hospital, segregating the clinical management of at-risk 
+
+persons in external facilities, safe distancing measures, safe entry check-in procedures for visitors, rigorous contact tracing for 
+
+COVID-19 positive cases and provision of hand-sanitisers at our facilities.
+
+We will continue to comply with Ministry of Health’s (“MOH”) regulations and directives to ensure the safety of our patients 
+
+and their families, employees and partners.
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+23
+
+HEALTH AND SAFETY
+
+
+
+
+Our Approach
+
+At TMPL, we believe in continuous learning and improvement as it not only enhances 
+
+the growth of the Group, but also aids in the personal and professional development 
+
+of our employees. Our training policy strives to develop staff members’ work potential 
+
+and ability. An annual training and development needs analysis is conducted for all staff 
+
+with an aim to identify their competency level and training needs. The Human Resource 
+
+Department and Nursing Administration Department are responsible for nursing staff 
+
+training-related matters.
+
+For our front-line and middle managers, senior leadership recognises that they are the 
+
+glue to connect our business’ strategic priorities with tactical initiatives and hence, 
+
+are essential to our organisational success. Notwithstanding the technical knowledge 
+
+and expertise, they need to master people skills which are crucial to their roles such as 
+
+leadership, communications, problem solving, teamwork, developing and coaching their 
+
+employees.
+
+We provide general trainings, competency-based trainings and specialty trainings to 
+
+employees according to their roles. For example, our front office service staff are provided 
+
+with service trainings, while our support staff in departments such as operations and 
+
+finance undergo technical skills upgrades and attend relevant seminars and conferences.
+
+Nurses Development
+
+Nurses form a significant portion of our staff strength and they are the backbone of 
+
+TMPL’s patient-centric and compassionate healthcare service. Hence, it is vital for us to 
+
+provide our nurses with adequate training for their professional development and to 
+
+ensure optimised healthcare experience for patients.
+
+We are committed to nurturing our nurses with various programmes to enable them 
+
+to achieve professional and personal aspirations. This includes allowing them to work 
+
+in specialised areas while advancing post-basic certification programmes. Wherever 
+
+possible, nurses are also rotated to other departments or specialities to widen their 
+
+competency levels. We offer education scholarships and tertiary education programmes 
+
+for upskilling such as Advanced Diploma courses and short professional development 
+
+courses such as, basic counselling course, Basic Cardiac Life Support (BCLS) instructor 
+
+course, neonatal resuscitation course, Microsoft courses, electrocardiogram course (ECG) 
+
+for intensive care nurses and wound care course.
+
+In TMPL, we also place great emphasis on coaching and mentorship. We have a Preceptor 
+
+Training Program designed to equip our nurses with the skills and knowledge to induct 
+
+and precept newly recruited nurses. As a preceptor, our nurses play a pivotal role in 
+
+supporting the transition of newly hired staff into practice settings by guiding and role 
+
+modelling their knowledge, skills and practice to increase confidence. In addition, to 
+
+prepare our leadership pipeline, the nurses will also be trained and nurtured to take on 
+
+new leadership roles based on their career progress.
+
+GRI 404: Training and Education
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+24
+
+EMPLOYEES
+
+
+
+
+We are committed to the efficiency and productivity of our nurses and as such 
+
+we have launched an e-learning platform to integrate the training needs for our 
+
+nurses during the year. This tool allows our nurses to access and read on a wide 
+
+range of topics such as blood transfusion, medication calculations, pharmacology 
+
+on high alert medications and management of drug allergy on the go. Health and
+
+wellness videos, such as ergonomic training are made available on this platform 
+
+as well.
+
+Due to COVID-19 restrictions and increased operational pressures in responding to 
+
+the pandemic, we have moved most of our on-site structured training activities to 
+
+virtual platforms. Some of the online training conducted are as follows:
+
+• Monthly Nursing Incidence Sharing Sessions on clinical or service incidences
+
+• Online Nursing Induction Programs
+
+• Online Breastfeeding Course
+
+• Basic CTG Course
+
+• Managing Code Blue Situation for EN
+
+• ZOLL (Defibrillator) training
+
+• Basic Cardiac Life Support
+
+• Automated External Defibrillator theory
+
+Other training and development programmes
+
+Other internal training and development programmes on various topics conducted during the reporting period are as follows:
+
+Training Programme
+
+Participation
+
+Company-wide key training programs
+
+General orientation
+
+All new employees
+
+Fire drill and fire safety security talks and tabletop 
+
+exercise
+
+Hospital employees
+
+Control and compliance
+
+SOPs refresher (ePR and other SOP updates)
+
+All Managers
+
+PDPA briefing and compliance
+
+All executives and above
+
+Internal audit control sharing session
+
+Head of department
+
+Cybersecurity awareness and policy briefings
+
+All employees
+
+Quality training programs
+
+Quality improvement toolkit
+
+Nursing (Managers &amp; Clinicians)
+
+Non-Nursing (Executives and above)
+
+Internal auditors training
+
+Selected Employees appointed as Internal Auditors
+
+Service training programs
+
+Thomson Touch
+
+All employees
+
+Management information briefing
+
+Training on Microsoft Teams
+
+All employees
+
+Process digitalisation briefing (eClaims, ePO)
+
+All employees
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+25
+
+EMPLOYEES
+
+
+
+
+
+
+ Senior management level 
+
+
+
+ Middle management level   
+
+ Executive level
+
+
+
+ &lt; 30 years old 
+
+
+
+ 30 - 50 years old        
+
+ &gt;50 years old
+
+
+
+ Male        
+
+
+
+ Female
+
+
+
+
+
+
+
+
+
+
+
+Employee
+
+Distribution by
+
+Gender
+
+FY2021 
+
+12%
+
+FY2020 
+
+89%
+
+FY2020 
+
+11%
+
+FY2021 
+
+88%
+
+
+
+
+
+
+
+
+
+
+
+Employee
+
+Distribution
+
+by Age
+
+FY2021 
+
+17%
+
+FY2020 
+
+54%
+
+FY2020, 
+
+15%
+
+FY2021 
+
+53%
+
+FY2020 
+
+31%
+
+FY2021 
+
+30%
+
+Performance Results and Targets
+
+The average training hours for our nursing staff were lower compared to the target as some of the scheduled in-person training 
+
+had been deferred due to COVID-19 restrictions. Nonetheless on-the-job training will continue to be the key focus and will be 
+
+carried out throughout the year. In addition, we will be conducting modular online training sessions for our nursing staff to 
+
+ensure their professional and career development target is achieved.
+
+We continue to encourage continuous learning for the professional development of our staff and for FY2022, we aim to meet 
+
+the target training hours for both nursing and non-nursing staff.
+
+FY2020
+
+FY2021
+
+Target
+
+Average training hours for nursing employees
+
+24 hours
+
+31 hours
+
+40 hours
+
+Average training hours for non-nursing employees
+
+2 hours
+
+2 hours
+
+To complete key training 
+
+programs annually
+
+Diversity and Inclusion
+
+A diverse workforce and long-serving employees contribute to the quality of the services that TMPL provides, hence promoting 
+
+business growth. We endeavour to attract and recruit skilled and motivated individuals to join our team and provide good work-
+
+life balance, opportunities for professional growth and fair compensation and benefits. It is common for female employees to 
+
+make up a larger proportion of the workforce in the healthcare industry, especially so when the nature of our business focuses 
+
+on women’s and children’s healthcare. When compared to FY2020, there has been no shift in the distribution of female and 
+
+male employees.
+
+We embrace fair employment practices which ensures that anyone we hire is based purely on their qualifications and merits 
+
+and all employees have equal opportunities in their careers with us.
+
+As we serve our patients and families who come from diverse backgrounds and abilities, it is essential that our workforce 
+
+reflects such diversity. Our workforce composition has 17% (FY2020: 15%) who are less than 30 years old, 53% (FY2020: 
+
+54%) between the ages of 30 to 50 years, and 30% (FY2020: 31%) above 50 years old. We continue to retain a significant 
+
+portion of our employees above 50 years old as we appreciate the value and experience they bring to TMPL. TMPL’s diversity of 
+
+employees by gender and age remained consistent compared to the previous reporting period.
+
+We maintained fairly consistent rates of new hires and employee turnover with the average monthly new hire rate during the 
+
+reporting period at 1.3% (FY2020: 1.6%) and monthly employee turnover rate at 1.5% (FY2020: 1.6%).
+
+
+
+
+
+
+
+
+
+
+
+Employee
+
+Distribution by
+
+Category
+
+FY2021
+
+1%
+
+FY2021
+
+13%
+
+FY2020
+
+1%
+
+FY2020
+
+12%
+
+FY2020
+
+87%
+
+FY2021
+
+86%
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+26
+
+EMPLOYEES
+
+
+
+
+Employee wellness and benefits
+
+We value our employees as their hard work, perseverance and dedication contributes 
+
+to our success in the healthcare industry. As it is important that we recognise and 
+
+show appreciation, TMPL aims to provide a work environment that is safe and 
+
+conducive for every employee.
+
+Employee benefits
+
+Each year we provide free basic health screening and seasonal influenza vaccinations 
+
+for all employees. In line with the Ministry of Social and Family Development’s 
+
+guidelines, our employees are eligible for parental leave, maternity leave, paternity 
+
+leave and childcare leave. Some of our other employee benefits include medical 
+
+and dental consultation and/or treatment reimbursement, insurance coverage, 
+
+hospitalisation benefits and long service award.
+
+Employee engagement
+
+We encourage employees to interact with each other and with management, by 
+
+organising a range of employee engagement activities. We recognise the significant 
+
+impact a healthy and positive place of work can have on an individual. Despite the 
+
+pandemic, we were able to bring cheer to the work environment, by celebrating 
+
+Nurses’ Day and decorating for the festive seasons.
+
+COVID-19 Pandemic
+
+It has been a year since we first reported about our initial responses to the COVID-19 
+
+pandemic. Since then, our employees have experienced and overcome a number 
+
+of challenges and continue to do their best in these difficult times. We allowed our 
+
+staff to work from home since the beginning of the pandemic to ensure the safety 
+
+and health of our people. Departments that were not directly supporting hospital 
+
+operations were ordered to work from home while others segregated their staff 
+
+into teams to take turns working in the office where necessary.
+
+Employees who had symptoms of viral infection were advised to seek 
+
+immediate medical treatment and to work from home while waiting for 
+
+their test results. We will continue to follow MOH guidelines and ensure the 
+
+safety of our employees by providing sufficient PPE, enforcing strict SOPs, 
+
+reviewing our Return-to-Work guidelines from time to time to comply with 
+
+MOH guidelines, and conducting regular COVID-testing for all employees.
+
+At the beginning of January 2021, we kick-started the vaccination programme 
+
+for our staff. As at 30 June 2021, we have vaccinated 90% of all hospital 
+
+frontline staff and achieved 100% vaccination of staff working in critical areas 
+
+such as the operating theatre.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+27
+
+EMPLOYEES
+
+
+
+
+Our Approach
+
+We are committed to achieving a balance between reducing our environmental impact and providing quality healthcare services.
+
+With climate change and a rapidly growing population, the demand for environmental sustainability has increased, and with 
+
+that in mind, we have included the following topics in this report to communicate our approach towards mitigating our impact 
+
+on the environment:
+
+• Energy
+
+• Water
+
+• Waste Management and Compliance
+
+Hospital operations are generally energy and water-intensive as the buildings 
+
+tend to be large and outfitted with high energy intensive equipment such 
+
+as medical equipment and high-energy HVAC systems that help to maintain 
+
+adequate ventilation and regulate proper temperature of the whole hospital 
+
+building. HVAC is the main contributor to high energy consumption in our 
+
+hospital.
+
+We are subject to various regulatory requirements that we need to comply 
+
+with. In our commitment to deliver environmentally sustainable outcomes 
+
+and improvement in conservation initiatives, we integrate these regulatory 
+
+requirements into our internal policies formulated in line with ISO 14001 
+
+Environmental Management System standards.
+
+To instill awareness on environmental conservation and encourage good 
+
+workplace practices, we continuously engage our employees through 
+
+environmental awareness emails and posters and have placed recycling bins 
+
+around our premises. In addition, as part of our effort to raise awareness of 
+
+adopting more efficient use of resources and reduction of waste, we have 
+
+updated our email footer to include two ‘green’ messages on reducing paper 
+
+usage, and conserving energy and water.
+
+GRI 302: Energy
+
+GRI 303: Water
+
+GRI 306, 307: Waste Management and Compliance
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+28
+
+ENVIRONMENTAL MANAGEMENT
+
+
+
+
+Energy Management
+
+It is essential that our medical facilities remain open to serve our patients and this translates to higher energy intensity as we 
+
+consume energy for medical equipment and facilities management.
+
+In September 2020, TMPL received the Green Mark certification awarded by the Building &amp; Construction Authority of Singapore. 
+
+This is testament to our commitment towards managing our impact on the environment. As a Green Mark certified building, we 
+
+are continually assessed for energy efficiency, water efficiency, sustainable operations and management, indoor environment 
+
+quality and other green features.
+
+We continue to drive eco-efficiency programs such as efficient energy consumption by fitting variable speed drives in the 
+
+chillers and air handling units in the hospital. In addition, we have begun progressive replacement of all lightings at the hospital 
+
+with LED lighting. As at the end of the reporting period, we have successfully replaced 70% of our lightings and we target to 
+
+complete this in FY2022.
+
+Water Management
+
+Clean water is the most important natural resource on Earth, and it is our duty to save clean water for generations to come. 
+
+Supply of safe and clean water is crucial for the functioning of our medical facilities and it is important that we consume this 
+
+resource responsibly in our business operations.
+
+In FY2021, TMPL has also completed and installed low pressure water systems and employed high water-efficient labelled 
+
+products in all public toilets. These include covering taps, dual flush low-capacity flushing cisterns, urinals, and flush valves.
+
+Waste Management
+
+Our healthcare services generally produce general and hazardous waste and we 
+
+believe that professional, safe waste disposal is important in maintaining the  
+
+hygiene and sterility of our medical facilities.
+
+Waste handling is highly regulated by the Health Sciences Authority and National 
+
+Environmental Agency. We have clear internal policies and guidelines for the 
+
+proper disposal of bio-hazard waste, cytotoxic waste and general waste, such 
+
+as procedures on segregation and containment, sanitisation and sterilisation, 
+
+and safe handling of hazardous waste to safeguard our employees and patients 
+
+from the risk of injury and to comply with legal and regulatory requirements for 
+
+proper disposal of waste.
+
+Our other waste management practices are as follows:–
+
+• Colour-coded bin liners or waste bags to ensure proper segregation and 
+
+disposal of waste
+
+• Periodic audits carried out on biohazard waste disposal
+
+• Training for employees on proper handling of waste segregation and disposal 
+
+methods
+
+• Disposal of waste by approved contractors
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+29
+
+ENVIRONMENTAL MANAGEMENT
+
+
+
+
+Performance Results and Targets
+
+Performance results
+
+FY2020
+
+FY2021
+
+Target
+
+Electricity consumption index 
+
+(kWh/patient-day1)
+
+86.05
+
+87.33
+
+86.05 kwh/patient-day
+
+Water consumption index 
+
+(m3/patient-day)
+
+0.84
+
+0.76
+
+0.84 m3/patient-day
+
+Biohazard waste index 
+
+(L/patient-day)
+
+7.85
+
+7.19
+
+7.85 litre/patient-day
+
+Non-hazardous general waste index 
+
+(kg/patient-day)
+
+12.14
+
+7.54
+
+7.54 kg/patient-day
+
+In the previous year, we have set ourselves a target based on FY2020 results. For the non-hazardous general waste index, there 
+
+was a change in the collection and weigh-in methods used by the licensed general waste collector during the year. The change 
+
+has resulted in a decrease in the index in FY2021. As the current method in waste collection will be used going forward, we 
+
+have set ourselves a baseline target for non-hazardous general waste based on FY2021 results instead.
+
+In FY2021, we were able to achieve our target of limiting the increase to not more than 5% of the target and will continue to 
+
+do so for FY2022.
+
+During FY2021, there were no non-compliance incidents with relevant regulations issued by Health Sciences Authority and 
+
+National Environmental Agency, which resulted in monetary fines or non-monetary sanctions. We aim to continue with zero 
+
+non-compliance incidents concerning these regulations for FY2022.
+
+
+
+
+
+
+
+
+
+1 
+
+the care of one patient during a day of service, excluding the day of discharge.
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+30
+
+ENVIRONMENTAL MANAGEMENT
+
+
+
+
+Our Approach
+
+Our Group’s sustainability and growth are anchored on high standards of corporate 
+
+governance and a set of strong corporate values which encompasses our core values 
+
+I.C.A.R.E. These provide us the moral direction in how we treat our employees, 
+
+customers, vendors and other stakeholders.
+
+A strong system of compliance monitoring is critical to ensure that we adhere to the 
+
+laws and regulations that govern our operations. All internal policies, standards, and 
+
+procedures that we have to abide by help us to manage the risks our organisation faces, 
+
+prevent improprieties, promote accountability and improve operational efficiencies.
+
+We have compliance management systems set up to align with local regulatory 
+
+requirements and international standards such as but not limited to Health 
+
+Sciences Authority’s regulations, ISO 9001: Quality Management Systems, ISO 14001: 
+
+Environmental Management Systems and ISO 45001: Occupational Health &amp; Safety 
+
+standards and National Infection Prevention and Control Standards.
+
+We have subscribed to an electronic legal flash weekly update on the latest regulations and quarterly customised reports from 
+
+a third party service provider. These reports are shared with all the heads of departments and uploaded on to the intranet. This 
+
+enables us to keep ourselves updated and ensure that our policies, procedures, and practices comply with latest ISO Standards, 
+
+Workplace Health and Safety Act, Licensing Regulations and other laws and regulation requirements.
+
+Our compliance management systems are led by the Board of Directors who is responsible for the management and reporting 
+
+of compliance matters and improvement initiatives. Our Board of Directors is supported by the Audit and Risk Committee, 
+
+Compliance Team and the Medical Advisory Board.
+
+To further strengthen the Group’s corporate governance and compliance functions, we appointed a Chief Risk and Compliance 
+
+Officer (“CRCO”) to oversee and lead the compliance activities and initiatives of the Group. The appointment of the CRCO 
+
+underscores the importance that the Group places on driving a culture of compliance and integrity. Our CRCO supports the 
+
+Group’s corporate governance by reporting to the Group Chief Executive Officer and the Audit and Risk Committee of our 
+
+Board of Directors on a regular basis and more frequently as needed.
+
+Code of Conduct and Ethics
+
+The TMG’s Code of Conduct and Ethics spells out the appropriate tone-from-the top, desired organisational culture, and 
+
+ensures proper accountability within the Group. Our Directors and all employees declare their personal or business interests 
+
+which may directly or indirectly conflict, or appear to conflict, with the interests of TMG on an annual basis, or when a potential 
+
+conflict of interest arise.
+
+To instill our zero-tolerance for improprieties including abuse of position, bribery and corruption, our employees undergo 
+
+regular trainings and updates on codes of conduct, conflict of interest, and the corporate values that emphasise the key 
+
+precepts of ethics and integrity.
+
+There were no reported incidents of violations related to fraud, bribery or corruption and we will strive to maintain this for the 
+
+coming year.
+
+For detailed corporate governance policies, processes and practices adopted by TMG, please refer to the Corporate Governance 
+
+Report in our Annual Report for FY2021.
+
+GRI 103: Management Approach – Compliance with Laws and Regulations
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+31
+
+COMPLIANCE WITH LAWS AND REGULATIONS
+
+
+
+
+Whistleblowing Policy
+
+To foster a workplace that is conducive to open communication and transparency 
+
+regarding our business practices, there is a whistleblowing process in place for 
+
+employees and stakeholders to raise, in confidence and without fear of reprisal, 
+
+possible improprieties or misconducts in all matters relating to our operation 
+
+and conduct of business.
+
+The policy is made available on our intranet and employee handbook for internal 
+
+reference, and on our corporate website for our stakeholders’ reference. To 
+
+protect the whistleblower from unlawful retaliation and discrimination the 
+
+whistleblower’s identity and concerns raised are kept confidential unless 
+
+required by law to be revealed to the appropriate parties. All instances of 
+
+whistleblowing are reported to the Whistleblowing Committee and the Audit 
+
+and Risk Committee, or to the Chairman of the Board, if a member of the 
+
+Whistleblowing Committee is being reported on. All cases will be investigated 
+
+independently by an investigative committee to be convened as directed by the 
+
+Whistleblowing Committee.
+
+The Whistleblowing Policy is reviewed regularly to ensure it is effective and 
+
+remains relevant.
+
+Patient Privacy and Confidentiality
+
+As the Thomson Medical Group continues its digital transformation with greater reliance now placed on our digitalised systems 
+
+and processes, a robust security structure is critical to the protection of our infrastructure, systems and data. Cybercrimes and 
+
+the ever-changing technology landscape both place great and growing challenges on the organisation. IT security policies and 
+
+standards are in place to ensure a comprehensive and systematic approach towards the IT security management of the Group 
+
+and the Group’s clinics’ IT systems to meet the confidentiality, data integrity and protection requirements of the Group against 
+
+cyber-attacks.
+
+The privacy and security of personal data and medical information is of paramount importance to the Group, and it is our 
+
+responsibility to ensure that all information collected from our stakeholders, including patients’ medical data, through the 
+
+course of our business activities, are protected from misuse or compromise.
+
+We are committed to the protection of the personal data of our stakeholders by subscribing to the personal data protection 
+
+principles under the Personal Data Protection Act 2012 (“PDPA”) and other laws and regulations that govern the conduct of 
+
+our business for example the Private Hospitals and Medical Clinics Act, the Singapore Medical Council Ethical Code and Ethical 
+
+Guidelines and the Infectious Diseases Act.
+
+Policies on the protection of personal data and other confidential information are reviewed regularly and periodic audits are 
+
+conducted on our IT infrastructure and systems to ensure that our systems and procedures continue to be robust.
+
+We ensure that our employees are kept up-to-date on compliance with data privacy laws:
+
+• 
+
+Established procedures in place to review and ensure actions are taken to rectify any observations noted.
+
+• 
+
+Regular learning sessions and quarterly reviews on areas of improvement points
+
+• 
+
+Compliance is also included as a major component of the key performance indicators
+
+• 
+
+Regular training sessions and updates on policies.
+
+• 
+
+Security awareness and policy briefings were conducted for all employees
+
+• 
+
+Regular alerts and security awareness through classroom sessions, where possible, audio-video presentations, emails 
+
+and updates on our intranet.
+
+• 
+
+Periodic cybersecurity assessments and email phishing tests
+
+In FY2021, there was an incident involving an alleged data breach which is still under investigation. We have put in place 
+
+additional safeguards and measures to strengthen our PDPA compliance. We will also strive to achieve zero material security 
+
+and data protection breaches for the Group in FY2022.
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+32
+
+COMPLIANCE WITH LAWS AND REGULATIONS
+
+
+
+
+Providing accessibility to healthcare and upholding the spirit of giving back is deeply entrenched 
+
+in our core values and corporate culture. We believe that building strong relationships and 
+
+providing information and education to the community supports human well-being and 
+
+promotes equal access to information which is crucial to sustainable development.
+
+In FY2021, we have partnered with multiple organisations that are committed to improving 
+
+the lives of women and children and held various events for the community.
+
+PUBLIC EVENTS AND WEBINARS FOR MOTHERS-TO-BE
+
+We have organised 6 webinars and 2 mini events since August 2020 and we have reached 
+
+out to over 1,500 participants.
+
+• 
+
+Pregnancy Webinar: My Pregnancy My Way
+
+• 
+
+Pregnancy Webinar: Pregnancy Journey with Parents-to-be
+
+• 
+
+Pregnancy Webinar: Pregnancy Made Easy
+
+• 
+
+Paediatric Health Webinar: Growing Up: Our Children’s Health Journey
+
+• 
+
+Women’s Health Webinar: Ladies Talk: Living Well in Body and Mind
+
+• 
+
+Mini Pregnancy Events at TMC: Thomson Mummy’s Bundle: 1-to-1 Introductory Sessions
+
+The aim of these webinars is to educate mothers-to-be with knowledge from renowned obstetricians, paediatricians, traditional 
+
+Chinese medicine physicians and Parentcraft specialists. Participants only pay a nominal fee to learn about parenting, fertility, 
+
+pregnancy, confinement, baby care and children’s health.
+
+PARTNERS
+
+To raise awareness and enhance knowledge about our expanded suite of healthcare services for women’s health, Thomson 
+
+Breast Centre, Thomson Surgical Centre, and Thomson 24-Hr Family Clinic partnered with various organisations such as Great 
+
+Eastern, AVIVA, 365 Cancer Prevention Society and ICON cancer centre to run 7 webinars.
+
+Our experts reached out to almost 1,000 participants and discussed a broad range of topics ranging from breast cancer, cervical 
+
+cancer, urinary incontinence and vaccinations for COVID-19.
+
+CHILDHOOD MYOPIA
+
+Myopia affects approximately 2.6 billion people, or one-third of the 
+
+world’s population, and is set to double by 2050. Singapore, the 
+
+“Myopia Capital of the World”, has one of the highest prevalence of 
+
+myopia in the world, with 65 per cent of our children being myopic by 
+
+Primary 6, and 83 per cent of young adults being myopic.
+
+To raise awareness of childhood myopia and innovative management 
+
+approaches that can be adopted by parents, TMPL through Thomson X 
+
+brought together experts in paediatric ophthalmology from Eagle Eye 
+
+Centre and its technology partner, Plano, to organise a complimentary 
+
+webinar “Managing Childhood Myopia – Protecting The Vision Of Our 
+
+Future” specially curated for parents to protect kids from childhood 
+
+myopia and further complications in their growing stages.
+
+The webinar touched on areas such as patterns and determinants that involve myopia in Asia and Singapore, the complications 
+
+involved, contributing lifestyle factors, and the latest in advances to halt the progression of myopia and other treatment options.
+
+The webinar also explored how besides education and awareness, technological solutions itself may provide the answer to help 
+
+children develop a balanced and healthy relationship with their digital devices from an early age. This will ultimately protect 
+
+them from developing myopia-related blindness later in life.
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+33
+
+COMMUNITIES
+
+
+
+
+SPONSORING FERTILITY HEALTH SCREENINGS 
+
+This year, TFC supported the campaign by sponsoring fertility health screenings worth 
+
+$60,000 to 150 couples. Since 2016, we have offered 150 free fertility screenings to 
+
+couples every year, each worth $400.
+
+THOMSON IVF CONFERENCE 2021 
+
+As the demand for IVF services continues to grow, due to societal trends such as delayed 
+
+childbearing, increased stress and infertility, it is imperative for obstetricians, gynaecologists 
+
+and fertility specialists to embrace a holistic approach towards fertility treatments and 
+
+interventions from an innovation and clinical science standpoint. In support of this, 
+
+we organised the first virtual Thomson IVF Conference 2021 on 14 June 2021. Hosted 
+
+by Dr. Navdeep Singh, Medical Director of TMC Fertility &amp; Women’s Specialist Centre 
+
+(Malaysia), the conference featured fertility experts from Thomson Fertility Centre 
+
+(Singapore), Thomson Hospitals Sdn Bhd (Malaysia), and IVIRMA (Spain), who touched 
+
+on various aspects of assisted reproductive technology and how it is driving change in the 
+
+reproductive health space and improving healthcare outcomes for women globally.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+34
+
+COMMUNITIES
+
+
+
+
+GRI 
+
+Standard
+
+Disclosure
+
+Page Reference and Remarks
+
+GENERAL DISCLOSURE
+
+Organisational Profile
+
+102-1
+
+Name of the organisation
+
+Thomson Medical Group Limited
+
+102-2
+
+Activities, brands, products, and services
+
+About Thomson Medical Group 
+
+Limited, Page 3
+
+102-3
+
+Location of headquarters
+
+About Thomson Medical Group 
+
+Limited, Page 3
+
+102-4
+
+Location of operations
+
+About Thomson Medical Group 
+
+Limited, Page 3
+
+102-5
+
+Ownership and legal form
+
+Thomson Medical Group Limited 
+
+2021 Annual Report
+
+102-6
+
+Markets served
+
+About Thomson Medical Group 
+
+Limited, Page 3
+
+102-7
+
+Scale of the organisation
+
+About Thomson Medical Group 
+
+Limited, Page 3
+
+102-8
+
+Information on employees and other workers
+
+Employees, Page 24 to 27
+
+102-9
+
+Supply chain
+
+The organisation’s supply chain 
+
+consists of sourcing, evaluating, 
+
+purchasing, storage and distribution 
+
+of pharmaceutical supplies, drugs, 
+
+medical devices, equipment and 
+
+personal products, as well as clinical 
+
+services such as laboratory and 
+
+radiology services. Products under 
+
+the house brand are produced and 
+
+packaged locally in order to support 
+
+local suppliers.
+
+102-10
+
+Significant changes to the organisation and its supply chain
+
+No significant changes
+
+102-11
+
+Precautionary principle or approach
+
+We do not explicitly refer to the
+
+precautionary approach or 
+
+principle in our risk management 
+
+framework. We seek to contribute 
+
+to society through responsible 
+
+profit generation and actions 
+
+taken to minimise activities which 
+
+result in negative impact on the 
+
+environment or our stakeholders, 
+
+which ties in with our core values 
+
+I.C.A.R.E.
+
+Please also refer to page 19 on 
+
+quality and patient safety, pages 
+
+28 to 30 on environmental 
+
+management and pages 27 to 
+
+46 in our Annual Report on our 
+
+corporate governance structure and 
+
+strategies.
+
+102-12
+
+External initiatives
+
+UNSDG and IPSG
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+35
+
+GRI CONTENT INDEX
+
+
+
+
+GRI 
+
+Standard
+
+Disclosure
+
+Page Reference and Remarks
+
+102-13
+
+Membership of associations
+
+TMPL is a member of:
+
+• Sale of Infant Foods Ethics 
+
+Committee Singapore 
+
+(“SIFECS”)
+
+• Reproductive Technology 
+
+Accreditation Committee 
+
+(“RTAC”)
+
+• Singapore National Employer 
+
+Federation (“SNEF”)
+
+Strategy
+
+102-14
+
+Statement from senior decision maker
+
+Board Statement, Page 7
+
+Ethics and Integrity
+
+102-16
+
+Values, principles, standards, and norms of behaviour
+
+Governance and Sustainability 
+
+Approach, Page 8 to 10
+
+Governance
+
+102-18
+
+Governance structure
+
+Governance and Sustainability 
+
+Approach, Page 8 to 10
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement, Page 11 
+
+to 12
+
+102-41
+
+Collective bargaining agreements
+
+Not applicable
+
+102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement, Page 11 
+
+to 12
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement, Page 11 
+
+to 12
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholder Engagement, Page 11 
+
+to 12
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated financial statements
+
+Notes to Financial Statements 2021 
+
+Annual Report
+
+102-46
+
+Defining report content and topic boundaries
+
+About the Report, Page 2
+
+102-47
+
+List of material topics
+
+Topics and UNSDG, Page 13
+
+102-48
+
+Restatements of information
+
+Not Applicable
+
+102-49
+
+Changes in reporting
+
+Not Applicable
+
+102-50
+
+Reporting period
+
+FY2021
+
+102-52
+
+Reporting cycle
+
+Annual
+
+102-53
+
+Contact point for questions regarding the report
+
+About the Report, Page 2
+
+102-54
+
+Claims of reporting in accordance with the GRI Standards
+
+About the Report, Page 2
+
+102-55
+
+GRI content index
+
+GRI Content Index, Page 35 to 38
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+36
+
+GRI CONTENT INDEX
+
+
+
+
+GRI 
+
+Standard
+
+Disclosure
+
+Page Reference and Remarks
+
+102-56
+
+External assurance
+
+No external assurance has been 
+
+sought for this report. We will 
+
+review the need for an external 
+
+assurance in the future.
+
+MATERIAL TOPICS
+
+103-1
+
+Explanation of the material topic and the boundary
+
+Topics and UNSDG, Page 3
+
+Economic Performance
+
+103-2
+
+The management approach and its components
+
+Thomson Medical Group Limited 
+
+2021 Annual Report
+
+103-3
+
+Evaluation of the management approach
+
+201-1
+
+Direct economic value generated and distributed
+
+Patient Satisfaction
+
+103-2
+
+The management approach and its components
+
+Patient Satisfaction, Page 14 to 17
+
+103-3
+
+Evaluation of the management approach
+
+Health and Safety
+
+103-2
+
+The management approach and its components
+
+Health and Safety, Page 18 to 23
+
+103-3
+
+Evaluation of the management approach
+
+416-2
+
+Incidents of non-compliance concerning the health and safety impacts 
+
+of products and services
+
+403-1
+
+Occupational health and safety management system
+
+403-2
+
+Hazard identification, risk assessment, and incident investigation
+
+403-3
+
+Occupational health services
+
+403-4
+
+Worker 
+
+participation, 
+
+consultation, 
+
+and 
+
+communication 
+
+on 
+
+occupational health and safety
+
+403-5
+
+Worker training on occupational health and safety
+
+403-6
+
+Promotion of worker health
+
+403-7
+
+Prevention and mitigation of occupational health and safety impacts 
+
+directly linked by business relationships
+
+403-9
+
+Work-related injuries
+
+Employees – Training and Education
+
+103-2
+
+The management approach and its components
+
+Employees, Pg 24 – 27
+
+103-3
+
+Evaluation of the management approach
+
+404-1
+
+Average hours of training per year per employees
+
+SUSTAINABILITY REPORT 2021
+
+
+
+
+
+
+
+37
+
+GRI CONTENT INDEX
+
+
+
+
+GRI 
+
+Standard
+
+Disclosure
+
+Page Reference and Remarks
+
+Environmental Management
+
+103-2
+
+The management approach and its components
+
+Environmental Management,
+
+Page 28 to 30
+
+103-3
+
+Evaluation of the management approach
+
+302-3
+
+Energy intensity
+
+303-5
+
+Water consumption
+
+306-2
+
+Waste by type and disposal method
+
+307-1
+
+Non-compliance with environmental laws and regulations
+
+Compliance with Laws and Regulations
+
+103-2
+
+The management approach and its components
+
+Compliance with  Laws and 
+
+Regulations, Page 31 to 33
+
+THOMSON MEDICAL GROUP
+
+
+
+
+
+38
+
+GRI CONTENT INDEX
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+(Reg. No 199908381D)
+
+THOMSON MEDICAL GROUP LIMITED
+
+101 Thomson Road #20-04/05 United Square
+
+Singapore 307591
+
+Tel: (65) 6331 0188  Fax: (65) 6331 0180
+
+www.thomsonmedical.com
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

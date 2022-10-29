@@ -1,0 +1,5410 @@
+
+A N N U A L  R E P O R T  2 0 2 1
+
+1
+
+
+
+Managing Change
+
+Driving Recovery
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Contents
+
+About
+
+LMIR Trust
+
+02
+
+About LMIR Trust
+
+03
+
+About This Report
+
+05
+
+Board Statement
+
+06
+
+FY 2021 Performance Highlights
+
+07
+
+Managing Business Continuity
+
+through COVID-19
+
+08
+
+Sustainability Governance at LMIR Trust
+
+09
+
+Our Approach to Sustainability
+
+09
+
+Sustainability Framework
+
+10
+
+Materiality Assessment
+
+11
+
+Material EESG Topics–At a Glance
+
+12
+
+Stakeholders Engagement
+
+14
+
+Economic
+
+14 Economic Performance
+
+15
+
+Environmental
+
+15
+
+Energy and Greenhouse
+
+Gas Emissions
+
+16
+
+Task Force on Climate-Related
+
+Financial Disclosures (TCFD)
+
+18
+
+Water Management
+
+19
+
+Waste Management
+
+20
+
+Social
+
+20   Employment
+
+21
+
+Diversity and Equal Opportunity
+
+22   Training and Development
+
+23   Health and Safety
+
+26
+
+Local Communities
+
+27
+
+Governance
+
+27   Corporate Governance
+
+29
+
+Regulatory Compliance
+
+29   Sustainable Supply Chain
+
+30
+
+GRI Content Index
+
+Lippo Malls Indonesia Retail Trust (“LMIR Trust” or the 
+
+“Trust”), the only Indonesian retail real estate investment 
+
+trust (“REIT”) listed on the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”), invests and owns quality 
+
+income-generating retail and retail-related real estate 
+
+across Indonesia. Since its listing in November 2007, LMIR 
+
+Trust experienced substantial growth, guided by its unique 
+
+investment focus: to provide unitholders exposure to the 
+
+growing retail property sector of Indonesia, one of Asia’s 
+
+most dynamic markets.
+
+As the manager for LMIR Trust, LMIRT Management Ltd (the 
+
+“Manager”) is focused on driving healthy occupancy rates 
+
+and maintaining optimal property and tenant diversiﬁcation 
+
+across its portfolio. The Manager also actively seeks to 
+
+increase and optimise portfolio value through strategic 
+
+acquisitions, proactive asset management and asset 
+
+enhancement initiatives.
+
+As of 31 December 2021, LMIR Trust has a portfolio of 
+
+29 properties, including 22 retail malls and seven retail 
+
+spaces (collectively known as the “Properties”) located 
+
+in other shopping malls. These quality assets have a total 
+
+gross ﬂoor area (“GFA”) and a total net lettable area (“NLA”) 
+
+of 1,825,720 square metres and 956,632 square metres 
+
+respectively, standing at Rp19,039.9 billion in total asset 
+
+value. Strategically located in large population catchment 
+
+areas across Greater Jakarta, Bandung, Yogyakarta, Medan, 
+
+Palembang, Bali, and Sulawesi, LMIR Trust’s properties cater 
+
+mainly to the everyday needs of middle to upper-middle 
+
+income domestic consumers in Indonesia.
+
+LMIR Trust’s sponsor, PT Lippo Karawaci Tbk (“Lippo 
+
+Karawaci” or the “Sponsor”), is a market leader in mixed-
+
+use integrated developments and owns the largest and most 
+
+diversiﬁed land bank in Indonesia. 
+
+
+
+
+3
+
+About
+
+This Report
+
+LMIR Trust reaffirms its commitment to sustainability 
+
+with the publication of its fifth sustainability report. The 
+
+report covers the sustainability performance of LMIR Trust 
+
+from 1 January 2021 to 31 December 2021 (“FY 2021”) 
+
+and communicates its sustainability journey with a focus 
+
+on the environmental, social, and governance (“ESG”) 
+
+topics important to both LMIR Trust and its stakeholders. 
+
+The information found in this report should be read in 
+
+conjunction with the financial and governance information 
+
+detailed in LMIR Trust’s FY 2021 Annual Report. A summary 
+
+of this report can also be found on page 42 of the FY 2021 
+
+Annual Report.
+
+REPORTING FRAMEWORK
+
+This report has been prepared in accordance with the 
+
+Global Reporting Initiative (“GRI”) Standards 2016: Core 
+
+Option and complies with the sustainability reporting 
+
+requirements of the SGX-ST Listing Manual (Rules 711A and 
+
+711B) on a “comply or explain” basis.  The GRI Standards 
+
+were chosen as it is the most widely used international 
+
+framework for sustainability reporting and enables LMIR 
+
+Trust to transparently report on its material ESG topics 
+
+based on the Standards’ guidance. In defining the report 
+
+content, LMIR Trust applied the GRI reporting principles of 
+
+materiality, stakeholder inclusiveness, sustainability context, 
+
+and completeness. The relevant disclosures can be found in 
+
+the GRI Content Index provided at the end of this report on 
+
+page 30. 
+
+As part of the global effort to achieve a more sustainable 
+
+future for all, LMIR Trust supports the United Nations 
+
+Sustainable Development Goals (“UN SDGs”). 11 UN SDGs 
+
+have been identified whereby LMIR Trust can create the 
+
+most significant social and environmental impact and has 
+
+referenced them in this report. 
+
+LMIR Trust has not sought internal or external assurance 
+
+for all information disclosed in this report. However, it 
+
+will adopt a phased approach to reporting and will be 
+
+subjecting FY 2022’s report to internal review conducted 
+
+by its internal audit team, in line with SGX’s regulations for 
+
+listed-companies to subject ESG data to internal review for 
+
+the financial year beginning on or after 1 January 2022. LMIR 
+
+Trust seeks to adopt external assurance in the near future as 
+
+its sustainability reporting matures.
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+
+
+4
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+REPORTING SCOPE 
+
+The scope of this report covers the ESG performance of properties under LMIR Trust in Indonesia as well as the Manager. 
+
+This includes 22 retail malls and one retail space1.
+
+1 
+
+Six retail spaces are excluded from the scope of the report. Java Supermall Units, Depok Town Square, Grand Palladium Units, Malang Town 
+
+Square, Mall WTC Matahari Units, and Metropolis Town Square Units as their energy and water consumption and greenhouse gas (“GHG”) 
+
+emission levels are due to tenant activities whereby the costs are directly borne by them. Furthermore, LMIR Trust does not have control over 
+
+the consumption and emission levels at their malls’ common areas.
+
+Retail Malls
+
+1. 
+
+Bandung Indah Plaza
+
+2. 
+
+Cibubur Junction
+
+3. 
+
+Gajah Mada Plaza
+
+4. 
+
+Istana Plaza
+
+5. 
+
+Kediri Town Square
+
+6. 
+
+Lippo Mall Kemang
+
+7. 
+
+Lippo Mall Kuta
+
+8. 
+
+Lippo Mall Puri
+
+9. 
+
+Lippo Plaza Batu
+
+10. Lippo Plaza Ekalokasari Bogor
+
+11. Lippo Plaza Jogja
+
+12. Lippo Plaza Kendari
+
+13. Lippo Plaza Kramat Jati
+
+14. Mal Lippo Cikarang
+
+15. Palembang Icon
+
+16. Palembang Square
+
+17. Palembang Square Extension
+
+18. Plaza Medan Fair
+
+19. Pluit Village
+
+20. Sun Plaza
+
+21. Tamini Square
+
+22. The Plaza Semanggi
+
+Retail Spaces
+
+1. 
+
+Plaza Madiun Units
+
+FEEDBACK 
+
+As part of LMIR Trust’s commitment to its stakeholders 
+
+and its continuous efforts to improve its sustainability 
+
+performance, LMIR Trust welcomes feedback and queries 
+
+from all stakeholders. Please submit your feedback and 
+
+queries via the following:
+
+Ms Angela Ng
+
+Manager, Corporate Services
+
+6 Shenton Way #12-08 OUE Downtown 2
+
+Singapore 068809
+
+Tel: +65 6410 9138 
+
+Fax: +65 6509 2824 
+
+Email: ir@lmir-trust.com
+
+About
+
+This Report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5
+
+Dear Stakeholders, 
+
+The COVID-19 pandemic continues to impact communities 
+
+globally and afect the way businesses operate. LMIR Trust 
+
+adapted and dealt with various challenges by rethinking our 
+
+operating systems and ensuring that our eforts continue to 
+
+create value for our diverse pool of stakeholders, especially 
+
+our tenants, shoppers, unitholders, investors and employees. 
+
+The pandemic placed a spotlight on the need for businesses 
+
+to accelerate their climate action and integrate resilient 
+
+strategies into their business operations. This was also 
+
+emphasised by the outcomes of COP26 and Indonesia’s 
+
+commitment to achieving net-zero by 2060. LMIR Trust 
+
+showed its continued commitment to both the international 
+
+and national agenda by reviewing its sustainability strategy 
+
+and developing its sustainability framework, which will guide 
+
+the organisation as it takes greater steps to improve its 
+
+sustainability performance and impact.  
+
+LMIR Trust placed a high emphasis on climate action 
+
+and building resilience in recognition of the growing 
+
+environmental impact generated by businesses worldwide. 
+
+We are taking concrete actions to reduce our environmental 
+
+footprint and began the process of developing our carbon 
+
+inventory. This will enable us to manage our impact on both 
+
+the environment and society, as well as to seek new ways 
+
+to minimise our greenhouse gas (“GHG”) emissions. We 
+
+also evaluated our climate risks and opportunities, and this 
+
+year marks our ﬁrst reporting on our climate-disclosures 
+
+in line with the Task Force on Climate-Related Financial 
+
+Disclosures (“TCFD”). As we move towards a lower-carbon 
+
+economy, LMIR Trust will continue building our capabilities 
+
+to mitigate these risks in order to ensure our long-term 
+
+resilience. 
+
+On the governance front, LMIR Trust continues to uphold 
+
+good corporate governance and ethical business conduct 
+
+through our internal Code of Business Conduct and Ethics, 
+
+as well as by ensuring adequate training relating to good 
+
+governance is provided across the organisation. To that 
+
+end, we are pleased to report zero conﬁrmed incidents of 
+
+corruption and have complied with all laws and regulations 
+
+during the reporting year. 
+
+As we continue improving our sustainability eforts, LMIR 
+
+Trust leverages our business of managing retail properties 
+
+to make a positive impact on communities. We believe in 
+
+contributing to the communities where we operate in. As an 
+
+example, our malls have served as vaccination centres and 
+
+held blood donation drives for the public.
+
+The Board continues to oversee material ESG topics 
+
+important to the organisation, including working closely 
+
+with all stakeholders to ensure sustainability is integrated 
+
+into our business operations. Sustainability is a journey 
+
+and LMIR Trust will build on our existing eforts to create 
+
+lasting shared value for our stakeholders and strengthen 
+
+our internal capabilities on managing current and emerging 
+
+sustainability issues. 
+
+MR MURRAY DANGAR BELL 
+
+Chairman
+
+Lead Independent Director 
+
+LMIRT Management Ltd. as Manager of LMIR Trust 
+
+
+
+Board
+
+Statement
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+
+
+6
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+FY 2021 
+
+Performance 
+
+Highlights
+
+• 
+
+Gross revenue: S$175.1 million 
+
+• 
+
+Net property income: S$104.2 million 
+
+• 
+
+Distribution to unitholders: S$26.9 million 
+
+• 
+
+Distribution per unit: S$0.35 cents
+
+• 
+
+Portfolio valuation: Rp19,039.9 billion
+
+• 
+
+Portfolio occupancy: 80.9%
+
+• 
+
+Zero reported incidents of discrimination 
+
+• 
+
+31.0% of employees are male and 69.0% of 
+
+employees are female
+
+• 
+
+Increase in average training hours per 
+
+employee by 21.2 hours, to over threefold, 
+
+from FY 2020
+
+•       Zero reported incidents of bribery or corruption 
+
+involving employees, meeting FY 2021’s  
+
+target set
+
+•       Zero reported incidents of non-compliance 
+
+with any relevant laws and regulations at the 
+
+Manager level
+
+•       100.0% of attendance at all board meetings
+
+• 
+
+Developed Scopes 1 and 2 carbon inventory 
+
+to monitor and manage GHG emissions more 
+
+systematically
+
+•       Doubled the consumption of recycled water as 
+
+compared to FY 2020
+
+• 
+
+First year of climate risk disclosures aligned to the 
+
+TCFD recommendations
+
+Economic
+
+Social
+
+Governance
+
+Environmental
+
+
+
+
+7
+
+The scale and extent of the COVID-19 pandemic made the 
+
+year 2021 another challenging year for many businesses 
+
+globally, including LMIR Trust. LMIR Trust’s business 
+
+operations were directly impacted due to restrictions 
+
+imposed by Indonesia’s government to reduce the spread 
+
+of infections. In July 2021, LMIR Trust had to temporarily 
+
+close 16 retail malls and six retail spaces across Java and 
+
+Bali in response to a rise in COVID-19 cases and emergency 
+
+restrictions on public activity. 
+
+The health and well-being of LMIR Trust’s employees, 
+
+shoppers, and tenants continue to be the organisation’s 
+
+utmost priority. During the reporting year, LMIR Trust 
+
+implemented safety measures across all retail properties 
+
+to ensure shoppers’ safety and well-being. Before entering 
+
+the malls, all shoppers were required to show proof of their 
+
+first COVID-19 vaccination dose through the government-
+
+mandated application Peduli Lindungi. Within the malls, 
+
+additional safety measures were implemented, including 
+
+temperature screening, ensuring shoppers adhered to 
+
+safe distancing protocols, and provision of hand sanitisers 
+
+at strategic locations across the malls. As for LMIR Trust’s 
+
+tenants, additional rental support, utilities and service charge 
+
+discounts, and rental waivers were extended to tenants  
+
+who could not operate during the period of mall closure.  
+
+LMIR Trust seeks to continue building long-term 
+
+partnerships with its tenants and unitholders by helping 
+
+them overcome business impacts during the pandemic by 
+
+balancing short-term financial loss with long-term business 
+
+continuity. 
+
+Recognising that the health and safety of its employees 
+
+is key to ensuring business continuity, LMIR Trust took 
+
+measures to ensure safe and healthy work environments. In 
+
+Singapore, working from home continued to be the default 
+
+work arrangement and the layout of LMIR Trust’s office was 
+
+reconfigured to fulfil safe-distancing and precautionary 
+
+measures. Additionally, cleaning of common office areas 
+
+was performed more frequently, and hand sanitisers and 
+
+disposable face masks were supplied to all employees. 
+
+LMIR Trust will continue to monitor the COVID-19 pandemic 
+
+closely and ensure all safety measures are reviewed and 
+
+updated in a timely manner. Despite the challenges brought 
+
+on by the pandemic, LMIR Trust remains committed to its 
+
+sustainability goals and will adapt quickly to the changing 
+
+business and societal environment.
+
+Managing Business Continuity 
+
+Through COVID-19
+
+
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+8
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Sustainability Governance  
+
+At LMIR Trust
+
+The Board of Directors is responsible for sustainability at 
+
+LMIR Trust, including approving its strategic ESG direction 
+
+and its annual sustainability report. The Board also attends 
+
+sustainability training, including on emerging regulatory and 
+
+market developments and ESG risks, at least annually.
+
+The Board is supported by The Sustainability Committee, 
+
+which is chaired by the Chief Executive Officer (“CEO”) of 
+
+LMIRT Management and comprises the management team 
+
+and representatives of the Finance, Asset Management, 
+
+Corporate Services, and Legal &amp; Compliance departments. 
+
+The role of the Committee is to provide strategic direction 
+
+and guidance for managing sustainability-related risks 
+
+and opportunities at LMIR Trust. This is done through 
+
+the integration and monitoring of sustainability practices 
+
+within all business operations and its portfolio assets. The 
+
+Committee reviews LMIR Trust’s framework policies, and 
+
+processes and updates them where necessary, and reports 
+
+to the Board on LMIR Trust’s sustainability performance, 
+
+material ESG factors, and any updates on its sustainability 
+
+initiatives. 
+
+The Committee continuously seeks out and attends relevant 
+
+courses, seminars, and webinars to stay up to date with the 
+
+latest sustainability trends, issues, and practices. 
+
+Strategic Directions 
+
+The Committee shall develop, 
+
+provide inputs, and manage 
+
+LMIR Trust’s policies, strategies, 
+
+and programmes relating to 
+
+sustainability and corporate 
+
+social responsibility. This will 
+
+include the environment, local 
+
+community, employment 
+
+practices, labour rights, 
+
+health and safety, corporate 
+
+accountability, public affairs, and 
+
+philanthropy.
+
+Performance Goals
+
+The Committee shall determine 
+
+and review the goals established 
+
+for LMIR Trust’s performance on 
+
+sustainability and corporate social 
+
+responsibility and monitor its 
+
+progress on a regular basis against 
+
+those goals.
+
+Gather Feedback
+
+The Committee shall receive 
+
+periodic feedback from the 
+
+Manager and Property Manager 
+
+regarding relationships with key 
+
+external stakeholders that may 
+
+have a significant impact on LMIR 
+
+Trust’s business activities and 
+
+performance.
+
+The Sustainability Committee is supported by all staff 
+
+members of the Manager and works closely with  
+
+PT Lippo Malls Indonesia (the “Property Manager”) in 
+
+Indonesia for ESG-related data collection and sustainability 
+
+implementation at the malls and retail spaces.
+
+Good corporate governance underpins long-term success 
+
+and forms a key pillar of sustainability at LMIR Trust. 
+
+LMIR Trust is fully committed to conducting its business 
+
+in an ethical manner, in line with all applicable laws and 
+
+regulations, to uphold business integrity and maintain trust 
+
+among its stakeholders. Please refer to pages 44 to 68 
+
+of LMIR Trust’s FY 2021 Annual Report, which highlights 
+
+its approach to good corporate governance, including 
+
+topics such as board composition and performance, staff 
+
+remuneration as well as organisational risk management and 
+
+internal controls.
+
+SUSTAINABILITY GOVERNANCE AT LMIR TRUST 
+
+Strong sustainability governance is central to creating 
+
+long-term enterprise value and ensuring ESG is embedded 
+
+throughout our business operations. The Sustainability 
+
+Committee was established in 2017 by the Manager to 
+
+further strengthen the sustainability governance at LMIR 
+
+Trust.
+
+Sustainability
+
+Committee
+
+- CEO
+
+- Management team
+
+- Represenatives from Finance,  
+
+Asset Management, Corporate 
+
+Services, Legal &amp; Compliance 
+
+Board of
+
+Directors
+
+All
+
+Staff
+
+
+9
+
+Our Approach 
+
+to Sustainability
+
+SUSTAINABILITY FRAMEWORK 
+
+In FY 2021, LMIR Trust worked with an external consultant 
+
+to refresh its approach to sustainability and developed its 
+
+sustainability framework to articulate its commitment to 
+
+sustainability and economic, environmental, social, and 
+
+governance (“EESG”) focus areas over the next several 
+
+years. Sustainability at LMIR Trust is delivered through four 
+
+overarching pillars, built upon its sustainability vision and 
+
+underpinned by shared values across the value chain. This 
+
+framework determines key focus areas and aims to support 
+
+LMIR Trust in its sustainability journey as it seeks to continue 
+
+creating value for its stakeholders while safeguarding the 
+
+environment. 
+
+Sustainability Vision
+
+Harnessing our purpose and shared values of integrity, compassion, teamwork, 
+
+partnership and innovation, we aim to be a leading player in sustainability and 
+
+commit towards the efficient use of resources and upholding the highest standard 
+
+of safety across all of our operations in Indonesia.
+
+Economic
+
+We contribute 
+
+to the economic 
+
+development 
+
+of Indonesia by 
+
+maintaining steady 
+
+business growth.
+
+Social
+
+We are committed 
+
+to creating a diverse 
+
+and inclusive 
+
+workplace which 
+
+continuously invests 
+
+in the well-being 
+
+and development of 
+
+our employees, and 
+
+to promoting the 
+
+safety of our visitors 
+
+and occupants.
+
+Environmental
+
+We strive to support 
+
+the lower-carbon 
+
+economy through 
+
+resource efficiency 
+
+and carbon emission 
+
+reduction to build 
+
+business resiliency 
+
+and ensure strong 
+
+environmental risk 
+
+management.
+
+Governance
+
+We operate our 
+
+business responsibly 
+
+by upholding 
+
+strong corporate 
+
+governance and 
+
+ethical business 
+
+practices to maintain 
+
+business continuity 
+
+and market 
+
+reputation.
+
+Shared Values and Our Value Chain
+
+By engaging with our stakeholders, we drive sustainability performance  
+
+in a collaborative manner within the Lippo ecosystem.
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+1 0
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Materiality
+
+Assessment
+
+LMIR Trust engages with both internal and external 
+
+stakeholders to refresh its material EESG topics and assess 
+
+their importance to the business annually. The assessment 
+
+serves as an opportunity for LMIR Trust to re-evaluate 
+
+current material issues and identify new ones, measure their 
+
+relevance against current and emerging trends, and ensure 
+
+key interests of stakeholders are addressed. 
+
+In FY 2021, LMIR Trust partnered with an external consultant 
+
+to perform a materiality assessment to increase the credibility 
+
+of the assessment conducted and ensure focus is placed on 
+
+the relevant issues important to LMIR Trust. The Management 
+
+team worked closely with the external consultant to 
+
+determine topics impacting LMIR Trust’s business and 
+
+importance to stakeholders via a three-step process: 
+
+1.
+
+Identiﬁcation: To identify a set of EESG topics most 
+
+relevant and important to LMIR Trust, it analysed a 
+
+wide range of sustainability issues relevant to the real 
+
+estate industry, including comparisons between its 
+
+industry peers and considering industry best practices. 
+
+Key challenges and issues based on LMIR Trust’s 
+
+interactions with organisations such as the Singapore 
+
+Exchange, REIT Association of Singapore, Securities 
+
+Investors Association of Singapore, and the Monetary 
+
+Authority of Singapore (“MAS”) were also considered.
+
+2.
+
+Prioritisation: LMIR Trust engaged with its key 
+
+internal stakeholders via a stakeholder engagement 
+
+survey to better understand their viewpoints on the 
+
+level of impact each identiﬁed EESG topic has on the 
+
+business and the level of importance each identiﬁed 
+
+EESG topic is to them. Internal focus sessions with the 
+
+Sustainability Committee were also held to prioritise 
+
+the material topics.
+
+3.
+
+Validation: The ﬁnal set of material topics were 
+
+approved and endorsed by LMIR Trust’s Board of 
+
+Directors and senior management.
+
+
+
+
+
+Training and Development
+
+Employment
+
+Diversity and Equal Opportunity
+
+Health and Safety
+
+Water Management
+
+Energy and GHG Emissions
+
+Regulatory Compliance
+
+Corporate Governance
+
+Economic Performance
+
+Signiﬁcance of impacts to business
+
+Importance to stakeholders
+
+Low
+
+Medium
+
+Medium
+
+High
+
+High
+
+Through this assessment, LMIR Trust refreshed its material 
+
+EESG topics to reﬂect the current sustainability landscape 
+
+and identiﬁed nine material topics. The identiﬁed material 
+
+topics place greater emphasis on energy and greenhouse 
+
+emissions as well as social topics such as health, safety 
+
+and employment. Furthermore, LMIR Trust also identiﬁed 
+
+three additional topics which were not categorised as 
+
+material but has implemented measures for improving their 
+
+performance. These non-material additional topics include 
+
+sustainable supply chain, waste management, and local 
+
+communities.
+
+This year, LMIR Trust embarked on the process of setting 
+
+targets for material topics identiﬁed to track its performance 
+
+and ensure consistent improvement on an annual basis. As 
+
+this is LMIR Trust’s ﬁrst year setting targets, some qualitative 
+
+targets were set. Moving forward, LMIR Trust will work 
+
+towards setting more concrete short- and long-term 
+
+qualitative and quantitative targets. Speciﬁc targets set are 
+
+elaborated upon in the next sections of the report.
+
+Economics
+
+Environment
+
+Social
+
+Governance
+
+
+Dimensions
+
+Material Topic
+
+What it Means to LMIR Trust
+
+Corresponding 
+
+GRI Standards
+
+Relevant UN SDGs
+
+Economic
+
+Economic 
+
+Performance 
+
+Communicating LMIR Trust’s growth 
+
+and achievements to its stakeholders 
+
+via its business performance, including 
+
+its operations, financial performance, 
+
+and cash management.
+
+GRI 201:  
+
+Economic 
+
+Performance 
+
+(2016) 
+
+Environmental
+
+Energy and 
+
+GHG Emissions
+
+Managing energy consumption 
+
+responsibly across LMIR Trust’s business 
+
+operations to contribute to the climate 
+
+change agenda and mitigate climate-
+
+related risks.
+
+GRI 302:  
+
+Energy (2016) 
+
+GRI 305:  
+
+Emissions (2016)
+
+Water 
+
+Management
+
+Implementing initiatives to reduce 
+
+water consumption across LMIR Trust’s 
+
+business operations to enhance its 
+
+environmental risk management and 
+
+resource efficiency, in recognition of 
+
+water being a scarce resource.
+
+GRI 303:  
+
+Water and 
+
+Effluents (2018)
+
+Social
+
+Employment
+
+Ensuring consistent, equitable, and fair 
+
+labour practices, as well as fostering a 
+
+positive work environment to attract, 
+
+motivate, and retain talent.
+
+GRI 401: 
+
+Employment 
+
+(2016)
+
+Diversity 
+
+and Equal 
+
+Opportunity
+
+Providing an inclusive work 
+
+environment and ensuring equal 
+
+opportunities for all employees 
+
+regardless of background.
+
+GRI 405:  
+
+Diversity and Equal 
+
+Opportunity (2016) 
+
+GRI 406:  
+
+Non-discrimination 
+
+(2016)
+
+Training and 
+
+Development
+
+Upskilling of the workforce to ensure 
+
+the skillsets of LMIR Trust’s employees 
+
+remain relevant in the changing 
+
+business environment.
+
+GRI 404:  
+
+Training and 
+
+Education (2016)
+
+Health and 
+
+Safety
+
+Minimising health and safety incidents, 
+
+and ensuring that employees, tenants, 
+
+and shoppers feel safe in LMIR Trust’s 
+
+premises.
+
+GRI 403: 
+
+Occupational 
+
+Health and Safety 
+
+(2018) 
+
+GRI 416:  
+
+Customer Health 
+
+and Safety (2016)
+
+Governance
+
+Corporate 
+
+Governance
+
+Ensuring that the business of LMIR Trust 
+
+is conducted in an ethical manner and 
+
+ensuring that the Board fulfills relevant 
+
+requirements so that it can perform its 
+
+duties in the best interest of LMIR Trust.
+
+GRI 205:  
+
+Anti-corruption 
+
+(2016)
+
+Regulatory 
+
+Compliance
+
+Compliance with all regulatory 
+
+requirements to maintain business 
+
+continuity and market reputation.
+
+GRI 307: 
+
+Environmental 
+
+Compliance (2016)
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance (2016)
+
+1 1
+
+Materiality EESG Topics 
+
+-At a Glance
+
+The table highlights the significance of each material topic to LMIR Trust and its corresponding GRI Standards and UN SDGs. 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+1 2
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Stakeholders
+
+Engagment
+
+Stakeholder
+
+Platform
+
+Frequency
+
+Key Feedback/Concern
+
+Commitment to 
+
+Sustainability
+
+Employees
+
+• 
+
+Employee 
+
+engagement 
+
+• 
+
+Recreational bonding 
+
+activities 
+
+• 
+
+Training and 
+
+development 
+
+programmes
+
+Ongoing
+
+• 
+
+Employee safety and 
+
+welfare
+
+• 
+
+Staff training and 
+
+development 
+
+opportunities
+
+• 
+
+Work-life balance
+
+• 
+
+Remuneration and 
+
+benefits
+
+• 
+
+Provide fair and equal 
+
+opportunities to all 
+
+employees
+
+• 
+
+Offer career 
+
+development 
+
+opportunities
+
+• 
+
+Improve job 
+
+satisfaction and reward 
+
+performance
+
+• 
+
+Create a safe and 
+
+cohesive working 
+
+environment
+
+Investors 
+
+ • Annual general 
+
+meeting
+
+• 
+
+Annual report, 
+
+sustainability report
+
+Annual
+
+• 
+
+Updates on financial 
+
+performance
+
+• 
+
+Managing the impact 
+
+of COVID-19 and the 
+
+recession
+
+• 
+
+Distribution 
+
+management plans
+
+• 
+
+Corporate actions and 
+
+M&amp;As
+
+• 
+
+Industry developments 
+
+and market outlook
+
+• 
+
+Investment strategies
+
+• 
+
+Investment plans in the 
+
+pipeline
+
+• 
+
+Major events that may 
+
+potentially impact 
+
+assets located in 
+
+Indonesia (Natural 
+
+disasters, Government 
+
+regulations)
+
+• 
+
+Work to generate 
+
+sustainable returns on 
+
+investments
+
+• 
+
+Adhere to timely 
+
+and transparent 
+
+dissemination of 
+
+accurate and relevant 
+
+information to the 
+
+market
+
+• 
+
+Ensure business 
+
+continuity plans are in 
+
+place
+
+• 
+
+Financial results 
+
+announcements
+
+Quarterly
+
+• 
+
+Extraordinary general 
+
+meeting
+
+• 
+
+SGX announcements, 
+
+media release and 
+
+interviews 
+
+• 
+
+Seminars and trade 
+
+shows  
+
+Ad-hoc
+
+• 
+
+Company website
+
+Perpetual
+
+Business 
+
+Partners 
+
+(i.e.government, 
+
+vendors, 
+
+associations etc.)
+
+• 
+
+Regular meetings and 
+
+networking sessions 
+
+• 
+
+Correspondences 
+
+through email and 
+
+letter
+
+Ad-hoc
+
+• 
+
+Corporate governance
+
+• 
+
+Operational efficiency
+
+• 
+
+Regulatory compliance
+
+• 
+
+Compliance with laws 
+
+and regulations
+
+• 
+
+Fair and reasonable 
+
+business practices
+
+LMIR Trust deals with a diverse and large group of 
+
+stakeholders who have a vested interest in its operations 
+
+due to the nature of its retail mall business. LMIR 
+
+Trust recognises maintaining a good relationship with 
+
+stakeholders and collaborating with them is key to driving 
+
+sustainability performance across the business and achieve 
+
+its sustainability goals. Through frequent interactions with 
+
+stakeholders via various platforms, LMIR Trust seeks to better 
+
+understand their key interests and to address any concerns 
+
+expressed. 
+
+
+1 3
+
+Stakeholder
+
+Platform
+
+Frequency
+
+Key Feedback/Concern
+
+Commitment to 
+
+Sustainability
+
+The Community 
+
+• 
+
+Sustainability report
+
+Annual 
+
+• 
+
+Availability of common 
+
+spaces
+
+• 
+
+Safe environment
+
+• 
+
+Eco-sustainability
+
+• 
+
+Safe-distancing and 
+
+pandemic prevention
+
+• 
+
+Manage impacts on the 
+
+community
+
+• 
+
+Understand and 
+
+support initiatives by 
+
+the local community/ 
+
+government
+
+• 
+
+Place public health and 
+
+safety as priority
+
+• 
+
+Implement safe-
+
+distancing and 
+
+pandemic prevention 
+
+measures
+
+• 
+
+Environmentally 
+
+sustainable
+
+• 
+
+Supporting CSR 
+
+activities by Property 
+
+Manager
+
+Ad-hoc 
+
+• 
+
+Online and social 
+
+media platforms
+
+Shoppers 
+
+• 
+
+Online and social 
+
+media platforms
+
+• 
+
+Customer service and 
+
+shoppers’ feedback
+
+Ad-hoc
+
+• 
+
+Pandemic prevention 
+
+measures
+
+• 
+
+Safe-distancing and 
+
+crowd control
+
+• 
+
+Availability of essential 
+
+services
+
+• 
+
+Diverse brands and 
+
+types of merchandise
+
+• 
+
+Availability of amenities
+
+• 
+
+Traffic and crowd 
+
+management
+
+• 
+
+Enforce safe-distancing 
+
+and pandemic 
+
+prevention measures
+
+• 
+
+Create accessibility 
+
+for shoppers in view 
+
+of enhanced entry 
+
+restrictions
+
+• 
+
+Provide enhanced and 
+
+refreshed shopping 
+
+experience
+
+• 
+
+Safe mall environment 
+
+with adequate 
+
+amenities
+
+Tenants 
+
+• 
+
+Meetings and 
+
+feedback sessions 
+
+Monthly
+
+• 
+
+Pandemic prevention 
+
+measures
+
+• 
+
+Safe-distancing and 
+
+crowd control
+
+• 
+
+Rental waivers in 
+
+view of pandemic 
+
+disruptions
+
+• 
+
+Mall operations
+
+• 
+
+Traffic and crowd 
+
+control
+
+• 
+
+Advertising and 
+
+promotional activities
+
+• 
+
+Sustainable 
+
+management of 
+
+mall operations with 
+
+safe-distancing and 
+
+pandemic prevention 
+
+measures
+
+• 
+
+Create accessibility 
+
+for shoppers in view 
+
+of enhanced entry 
+
+restrictions
+
+• 
+
+Implement 
+
+promotional activities 
+
+to draw shoppers
+
+• 
+
+Proactive tenant 
+
+surveys 
+
+• 
+
+Surveys 
+
+Ad-hoc
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+1 4
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Economic
+
+ECONOMIC PERFORMANCE 
+
+LMIR Trust aims to deliver value to its stakeholders 
+
+by making long-term strategic decisions and driving 
+
+operational excellence across its business. By staying true to 
+
+its principle of optimising assets’ value through active tenant 
+
+management and asset enhancement initiatives, LMIR Trust 
+
+is committed to maximising and producing stable returns for 
+
+unitholders.
+
+LMIR Trust has four strategic pillars to ensure sustainable 
+
+business performance. This includes:
+
+PERFORMANCE
+
+• 
+
+Active management of assets together with a mall 
+
+operator to drive healthy occupancy
+
+• 
+
+Maintaining optimal property and tenant diversification 
+
+across the portfolio
+
+• 
+
+Actively seeking to increase and optimise portfolio 
+
+value through yield-accretive acquisitions, strategic 
+
+divestments of assets, and strategic asset enhancement 
+
+initiatives 
+
+• 
+
+Prudent capital management to ensure financial 
+
+flexibility and maximum efficiency in cash flows
+
+Our Target for FY 2022
+
+• 
+
+To achieve growth in revenue and operating results, and enhance distribution to unitholders
+
+• 
+
+To improve the interest coverage ratio and debt ratio 
+
+For further details on LMIR Trust’s financial performance, please refer to the following sections of the FY 2021 Annual Report: 
+
+• 
+
+Key financial highlights (Page 10) 
+
+• 
+
+Unit price performance (Page 11)
+
+Gross revenue
+
+S$ million
+
+Distribution per unit
+
+Singapore cents
+
+Net property income
+
+S$ million
+
+Portfolio valuation
+
+Rp billion
+
+Distribution to unitholders
+
+S$ million
+
+Portfolio occupancy
+
+(%)
+
+FY2020
+
+FY2020
+
+FY2020
+
+FY2020
+
+FY2020
+
+FY2020
+
+FY2021
+
+FY2021
+
+FY2021
+
+FY2021
+
+FY2021
+
+FY2021
+
+FY2019
+
+FY2019
+
+FY2019
+
+FY2019
+
+FY2019
+
+FY2019
+
+273.0
+
+2.23
+
+176.2
+
+18,851.8
+
+64.9
+
+91.5
+
+148.5
+
+0.34
+
+76.4
+
+19,069.0 
+
+11.7
+
+84.5
+
+175.1
+
+0.35
+
+104.2
+
+19,039.9
+
+26.9
+
+80.9
+
+• 
+
+Financial review (Page 32)
+
+• 
+
+Financial contents (Pages 69 to 143)
+
+
+1 5
+
+Environmental
+
+PERFORMANCE
+
+Our Target for FY 2022
+
+• 
+
+To install Light Emitting Diode (“LED”) lights and energy efficient chiller as part of the asset 
+
+enhancement initiative of Gajah Mada Plaza
+
+• 
+
+Explore opportunities to install solar panels to provide renewable energy sources in selected malls
+
+Guided by its sustainability framework, LMIR Trust supports 
+
+the lower-carbon economy and is committed to minimising 
+
+its environmental footprint as well as enhancing its resource 
+
+efficiency through investments in new technology and 
+
+innovation. It will continue to integrate environmental 
+
+sustainability into its business activities and reduce resource 
+
+consumption where possible.
+
+Energy and Greenhouse Gas Emissions 
+
+LMIR Trust recognises that the nature of its business can 
+
+generate significant carbon footprint and is actively taking 
+
+steps to reduce its energy consumption. 
+
+2 
+
+Properties included in the consolidation of environmental data pertaining to energy and water consumption and GHG emissions follow the 
+
+scope of this report. 
+
+3 
+
+Gross floor area changes year on year due to divestment and acquisition of new properties as well as changes to the net leasing area.  
+
+4 
+
+LMIR Trust used the financial control approach to calculate its GHG emissions (Scopes 1 and 2) in accordance with the GHG Protocol. The 
+
+emission factors used were derived from the UK Department for Environment, Food and Rural Affairs (“DEFRA”) environmental reporting 
+
+guidelines, which is aligned to the Intergovernmental Panel on Climate Change’s approach to calculating GHG emissions and is one of the 
+
+third-party databases recognised by the GHG Protocol.
+
+5 
+
+Scope 1 emission sources include fuel combustion from the use of backup generators, fuel combustion from the use of leased vehicles, and 
+
+fugitive emissions from refrigerants. Scope 2 emission sources include purchased electricity consumed by LMIR Trust. 
+
+6 
+
+Scope 2 emissions were calculated using the location-based method.
+
+Energy2
+
+FY2020
+
+FY2021
+
+FY2019
+
+210,696.2 
+
+114,749.4 
+
+139,116.7 
+
+In FY 2021, LMIR Trust collaborated with an external 
+
+consultant to develop its greenhouse gas inventory to 
+
+better enable the monitoring of its GHG emissions and 
+
+identify aspects within its operations that are considered 
+
+as “GHG hotspots” where emission reduction initiatives 
+
+can be focused on. This enables LMIR Trust to manage its 
+
+carbon footprint and implement suitable emission reduction 
+
+initiatives in the near future. 
+
+Energy intensity3 (MWh/m2)
+
+Energy consumption (MWh)
+
+0.26 
+
+0.16
+
+0.14
+
+Emissions2,4 (tCO2e)
+
+FY2020
+
+FY2021
+
+FY2019
+
+173,098.7
+
+95,412.7 
+
+114,776.1
+
+1,591.9
+
+2,006.7
+
+1,535.1
+
+171,506.7 
+
+93,406.0
+
+113,241.0
+
+Emission intensity3
+
+(tCO2e/m2)
+
+Scope 15 (tCO2e)
+
+Scope 25,6  (tCO2e)
+
+0.22
+
+0.12
+
+0.13
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+1 6
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Environmental
+
+Scope 2 emissions from LMIR Trust’s electricity consumption 
+
+represents around 97.0% of its total GHG emissions. A 
+
+large amount of electricity is consumed at its properties 
+
+as electricity is required to run lighting equipment, air 
+
+conditioning units, and other essential building features 
+
+such as lifts and escalators. 139,116.7 MWh of electricity 
+
+consumed was reported in FY 2021, a 21.2% increase from 
+
+FY 2020, and energy intensity increased from 0.14 MWh/m2 
+
+to 0.16 MWh/m2. This is due to the acquisition of Lippo Mall 
+
+Puri in January 2021 as well as the re-opening of malls and 
+
+retail spaces as the Indonesian government eased COVID-19 
+
+restrictions. As for Scope 1 emissions, there was a 23.5% 
+
+decrease from 2,006.7 tCO2e in FY 2020 to 1,535.1 tCO2e 
+
+in FY 2021. LMIR Trust will continue to work closely with 
+
+the Property Manager to ensure all environmental data are 
+
+accurately recorded, and its performance will be monitored 
+
+closely by the Board and Senior Management. 
+
+Looking ahead, LMIR Trust is aware that a comprehensive 
+
+understanding of its GHG emissions across all scopes will 
+
+enable it to effectively enhance emission reduction initiatives 
+
+and prioritise areas within its business operations which are 
+
+identified to be more emission intensive. In line with LMIR 
+
+Trust’s commitment to the climate agenda, it is working 
+
+towards developing its Scope 3 carbon inventory and seeks 
+
+to disclose its emissions in future reporting. 
+
+There are significant benefits and cost savings from a 
+
+reduction in energy usage. As such, LMIR Trust is taking 
+
+steps to reduce its energy consumption and minimise 
+
+associated GHG emissions across its retail properties. This 
+
+includes investing in energy-saving products such as LED 
+
+lights and implementing changes to its mechanical and 
+
+electrical systems to become more energy efficient. At 
+
+Sun Plaza, all existing corridor lights have been replaced 
+
+with LED lights. Additionally, the switch to utilising inverters 
+
+as chiller pumps resulted in a decrease in electricity 
+
+consumption by 14.0%. At Lippo Mall Puri, TL lights in the 
+
+parking area were replaced with LED lights, resulting in up 
+
+to 70.0% in energy and cost efficiency. Additionally, LMIR 
+
+Trust also engaged a third-party to conduct energy audits of 
+
+chillers to ensure they are operating efficiently. 
+
+To promote resource efficiency, LMIR Trust plans to achieve 
+
+green certifications for its properties. It is currently working 
+
+with an external consultant to perform a pre-assessment 
+
+for Green Mark Certification for two of its malls – Lippo Mall 
+
+Puri and Sun Plaza. LMIR Trust is dedicated to improving its 
+
+energy efficiency and reducing emissions and will continue 
+
+to implement new initiatives to improve its carbon-related 
+
+performance.
+
+TASK FORCE ON CLIMATE-RELATED FINANCIAL 
+
+DISCLOSURES (TCFD) 
+
+According to the World Economic Forum’s Global Risks 
+
+Perception Survey in 2021, climate action failure was ranked 
+
+as the most severe risk on a global scale in the next decade. 
+
+This is supported by evidence from scientific reports such 
+
+as those from the UN IPCC which show the need for 
+
+businesses to increase their climate ambitions. LMIR Trust 
+
+understands the impact that climate change can have on 
+
+its retail properties and the importance of identifying and 
+
+integrating climate risks into its business operations to 
+
+ensure climate resilience. 
+
+LMIR Trust supports the TCFD and reports, for the first time, 
+
+its climate-related disclosures are in line with the TCFD’s four 
+
+key pillars. It believes this will enable it to not only understand 
+
+its climate-related risks and opportunities, which can result in 
+
+strengthened risk management and better-informed strategic 
+
+planning, but also increase stakeholders’ confidence that it is 
+
+assessing and managing these risks adequately. 
+
+Governance 
+
+The Board is accountable for LMIR Trust’s sustainability 
+
+performance, including providing oversight of climate-
+
+related risks and opportunities and monitoring key material 
+
+ESG topics such as energy and GHG emissions. Recognising 
+
+that an effective climate governance is important in future-
+
+proofing the business, the Board underwent training ran 
+
+by an external consultant on climate risk management. All 
+
+members of the Board attended the training workshop. 
+
+Going forward, it will be a requirement for the Board to be 
+
+regularly updated on climate-related issues.
+
+Furthermore, the Sustainability Committee provides 
+
+strategic direction and guidance for managing sustainability-
+
+related risks and opportunities, and the CEO and Senior 
+
+Asset Director have been assigned to initiate and monitor 
+
+programmes that impact the portfolio’s climate footprint.
+
+Strategy and Risk Management
+
+LMIR Trust views climate-related risks to be an integral part of its 
+
+business strategy and ensures that climate issues are considered 
+
+when managing its retail properties or acquiring new assets. In 
+
+the recent annual materiality assessment conducted, LMIR Trust 
+
+also identified energy and GHG emissions to be a material topic 
+
+for its business and stakeholders.
+
+In FY 2021, under the guidance of an external consultant, 
+
+LMIR Trust engaged its key internal stakeholders, through a 
+
+survey, to identify its climate-related risks and opportunities 
+
+and the impact they may pose on its business operations, 
+
+strategy development, and financial planning. The key risks 
+
+and opportunities identified are as follows: 
+
+
+
+LED lights installed, resulting in energy savings
+
+
+1 7
+
+Climate-Related Opportunity
+
+Potential Impact on LMIR Trust
+
+Annual cost savings
+
+- 
+
+Reduced long-term operational costs due to the use of more efficient energy 
+
+sources and equipment.
+
+Ability to operate more efficient 
+
+buildings
+
+- 
+
+Reduced long-term operating costs by improving efficiency across LMIR Trust’s 
+
+buildings, machinery/appliances, and transport/mobility, particularly in relation 
+
+to energy efficiency but also including broader construction materials, water, 
+
+and waste management.
+
+Reduced exposure to litigations/
+
+sanctions/fines 
+
+- 
+
+Keeping abreast of emerging and future regulations may better inform LMIR 
+
+Trust’s business plans and implementation of sustainability-related measures 
+
+to ensure regulatory compliance, thereby reducing its litigation and legal risks, 
+
+and the likelihood of being subjected to monetary sanctions.
+
+Capitalising on changing 
+
+consumer behaviour and 
+
+preferences
+
+- 
+
+By capitalising on increasing consumer preference for ‘green malls’, shopper 
+
+traffic may increase at LMIR Trust’s malls and retail spaces, and its reputational 
+
+standing among its stakeholders, particularly among its visitors and investors, 
+
+may improve.
+
+Use of more efficient production  
+
+and distribution processes in the  
+
+value chain
+
+-    Improved efficiency within LMIR Trust’s business and value chain may improve 
+
+its organisational resilience to climate-related transition and physical risks. For 
+
+example, the use of energy-saving lighting and recycled packaging materials 
+
+by tenants may reduce overall carbon emissions as well as utility costs.
+
+- 
+
+Improved business and value chain may increase LMIR Trust’s access to capital 
+
+for financing new opportunities.
+
+Access to green loans
+
+- 
+
+Tapping on green loans and other sustainable finance opportunities to invest in 
+
+more sustainable technologies may improve LMIR Trust’s resource efficiency, 
+
+particularly on energy, across its properties.
+
+Educating tenants on climate 
+
+risks and sustainable practices
+
+- 
+
+Improve tenants’ knowledge on sustainable practices and ways to achieve 
+
+energy savings can translate into cost savings for them in the long run, thereby 
+
+reducing the risk of unoccupied mall spaces in LMIR Trust’s properties. This 
+
+may also increase shopper traffic at malls and retail spaces, particularly among 
+
+environmentally conscious shoppers.
+
+- 
+
+Engagement with tenants, either directly or through collaborations with mall 
+
+owner associations, to promote and educate on sustainability may improve 
+
+LMIR Trust’s reputational standing among its stakeholders.
+
+Climate-Related Transition Risk
+
+Potential Impact on LMIR Trust
+
+More stringent regulations 
+
+affecting existing assets 
+
+- 
+
+LMIR Trust may face litigation or legal risks, including monetary and non-
+
+monetary sanctions, as a result of failure to adequately mitigate impacts of 
+
+climate change, failure to adapt to climate change, and the insufficiency of 
+
+disclosures on material financial risks brought on by climate-related issues.
+
+- 
+
+Public cases of non-compliance may negatively affect its reputation among its 
+
+stakeholders and the public.
+
+Increased stakeholder concerns  
+
+and expectations
+
+- 
+
+LMIR Trust may face reputational risk tied to changing stakeholder perceptions 
+
+of its contribution to or detraction from the transition to a lower-carbon 
+
+economy. 
+
+- 
+
+Increased scrutiny from investors and creditors, and their perception of LMIR 
+
+Trust’s impact on climate change or management of climate risks may reduce 
+
+the availability of financing for LMIR Trust and potentially result in a higher cost 
+
+of financing.
+
+Increased cost of materials  
+
+- 
+
+Technological improvements or innovations in renewable energy and materials 
+
+may raise operational and capital costs.
+
+- 
+
+Changing weather patterns may spur the need for greater financial 
+
+expenditures in retrofitting and new equipment (e.g., energy-efficient air-
+
+conditioning systems), thereby increasing the capital expenditures of LMIR 
+
+Trust’s properties.
+
+Changing consumer behaviour  
+
+and preferences
+
+- 
+
+Increasing shopper preference for ‘green’ malls may impact shopper traffic in 
+
+LMIR Trust’s malls and retail spaces.
+
+Climate-Related Physical Risk
+
+Potential Impact on LMIR Trust
+
+Extreme weather events
+
+- 
+
+Disruptions in the supply chain brought by climate-related physical risks may 
+
+hinder the ability to make progress in LMIR Trust’s business plans and targets.
+
+- 
+
+LMIR Trust may face financial implications from direct damage to its properties 
+
+and indirect impacts brought by supply chain disruptions.
+
+- 
+
+Existing equipment may become insufficient to meet the changing physical 
+
+conditions of LMIR Trust operational areas (e.g., current air conditioning 
+
+systems among rising temperatures).
+
+- 
+
+Increased occurrences of flooding may incur damages to LMIR Trust’s 
+
+properties and reduce shopper traffic in its malls and retail spaces.
+
+Natural disasters (e.g., 
+
+earthquakes, volcanic eruptions)
+
+Changing weather patterns  
+
+Rising sea level
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+1 8
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Environmental
+
+Based on the climate-related risks and opportunities 
+
+identified, LMIR Trust will continue to retrofit its retail 
+
+properties to enhance energy efficiency and reduce 
+
+its exposure to climate-related risks while tapping on 
+
+potential opportunities. In the near future, LMIR Trust plans 
+
+to integrate climate-related risks into its Enterprise Risk 
+
+Management Framework, explore climate scenario analysis 
+
+options, and develop a climate risk policy.
+
+Metrics and Targets 
+
+LMIR Trust began tracking its Scope 1 and 2 emissions 
+
+in FY 2021 and will continue to disclose its energy and 
+
+emission performance in future reports. For performance 
+
+data regarding LMIR Trust’s energy consumption and scope 
+
+1 and 2 emissions, please refer to page 15 of this report. 
+
+As this is LMIR Trust’s first year consolidating data relating 
+
+to Scope 1 and 2 emissions, using the findings from the 
+
+GHG inventory, LMIR Trust is working towards developing 
+
+quantitative climate-related targets to better manage and 
+
+track the progress of its performance, under the guidance of 
+
+the Management and Board. 
+
+PERFORMANCE
+
+Water consumption (m3) 
+
+FY2020
+
+FY2021
+
+FY2019
+
+2.03
+
+1.10
+
+1.07
+
+Total water consumption across LMIR Trust’s retail properties 
+
+from municipal sources increased by 5.6% from 881,712.3 m3 
+
+in FY 2020 to 931,177.8 m3 in FY 2021. This is attributable to 
+
+the acquisition of Lippo Mall Puri and the opening of malls 
+
+due to the relaxation of COVID-19 restrictions imposed by 
+
+the Indonesian government, resulting in increased traffic 
+
+and business to the malls. However, water intensity from 
+
+municipal usable water declined from 1.10 m3/m2 in FY 
+
+2020 to 1.07 m3/m2 in FY 2021 and the volume of recycled 
+
+water consumed tripled. This is primarily due to the water-
+
+saving features of Lippo Mall Puri and reflects LMIR Trust’s 
+
+commitment towards responsible water management. 
+
+To reduce reliance on potable water, LMIR Trust taps on the 
+
+use of recycled water and rainwater. Wastewater Treatment 
+
+Plants (WWTP) are also installed at seven of its malls to 
+
+promote the recycling of wastewater to non-potable water, 
+
+and there are plans to progressively install WWTP across all 
+
+malls. Recycled water is used in cooling towers, watering 
+
+plants, and flushing toilets. The cost savings of using 
+
+recycled water is around 30.0% less than piped water. As for 
+
+rainwater, it is used to increase the raw water tank capacity, 
+
+which in turn helps to reduce water usage during rainy 
+
+seasons. This is currently practiced at Sun Plaza and Lippo 
+
+Mall Puri. 
+
+LMIR Trust will continue to incorporate water efficiency 
+
+measures at its retail properties to ensure responsible use of 
+
+water and to minimise its impact on scarce water resources.
+
+WATER MANAGEMENT
+
+Water is essential to LMIR Trust’s business and is used in ensuring its retail properties are kept clean and temperatures 
+
+within the properties are regulated. LMIR Trust is committed to taking a strategic approach towards managing its water 
+
+consumption and engaging in responsible water management practices. 
+
+Water intensity 
+
+from municipal 
+
+usable water
+
+(m3/m2)3
+
+Recyclable water9
+
+Usable water from 
+
+municipal sources7,8
+
+881,712.3
+
+1,620,795.5
+
+119,855.2
+
+105,124.2
+
+315,000.9
+
+931,177.8
+
+7   
+
+Usable water refers to both drinkable water and water used in 
+
+LMIR Trust’s operations.  
+
+8   
+
+Municipal sources refer to water obtained from Perusahaan 
+
+Daerah Air Minum, the state-owned water utility company and 
+
+deep wells.
+
+9   
+
+Recycled water is obtained from on-site wastewater treatment 
+
+plants at certain malls.
+
+1,740,650.6
+
+986,836.5
+
+1,246,178.7
+
+
+1 9
+
+WASTE MANAGEMENT
+
+(Non-material additional disclosure) 
+
+Due to the nature of LMIR Trust’s business, its retail 
+
+properties generate general waste such as plastic, glass, 
+
+paper, and cans by both tenants and shoppers. As part of its 
+
+commitment to managing waste production, stakeholders 
+
+such as tenants are encouraged to reduce waste generated. 
+
+In particular, LMIR Trust is working with vendors to recycle 
+
+waste and to cultivate a habit of recycling among its tenants 
+
+and shoppers by educating them about the benefits of 
+
+recycling through signages and e-pamphlets distributed 
+
+across malls. As for the Manager, it continues to pursue 
+
+initiatives such as recycling mineral water bottles used 
+
+by employees and working with organisations such as 
+
+Engineering Good Ltd, a non-profit organisation, to donate 
+
+old laptops to low-income families. 
+
+LMIR Trust is currently taking steps to quantify the amount 
+
+of waste disposed and recycled by working with waste 
+
+vendors to sort its waste, and actively looks to implement 
+
+new initiatives to tackle specific waste streams and ensure 
+
+waste is responsibly managed at its retail properties.
+
+
+
+Segregation of waste into different categories
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+2 0
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Social
+
+With people being LMIR Trust’s greatest asset, it invests 
+
+heavily in the safety, health, and development of its 
+
+workforce. LMIR Trust strengthens its human capital by 
+
+engaging in fair employment practices, embracing equality 
+
+and diversity, creating a safe work environment, and 
+
+fostering training.
+
+EMPLOYMENT
+
+Employees form the core of its business and LMIR Trust 
+
+recognises the value behind each employee’s unique 
+
+background, talent, expertise, and experience. As of 31 
+
+December 2021, the Manager has 16 full time employees, all 
+
+of whom are based in Singapore.  
+
+Breakdown of Employees by Gender
+
+Number of New Hires
+
+Employee Turnover
+
+Employee Turnover
+
+LMIR Trust strives to create a vibrant and motivated 
+
+workforce. The Manager abides by fair employment 
+
+practices and ensures competitive remuneration to retain 
+
+existing and attract new talent. During the reporting year, 
+
+LMIR Trust recorded a new hire and turnover rate of 18.8% 
+
+and 31.3% respectively, with five resignations and three new 
+
+hires. The following table shows a detailed breakdown of 
+
+LMIR Trust’s new hires and employee turnover by gender 
+
+and age group.
+
+5
+
+11
+
+Male
+
+Female
+
+Male
+
+Female
+
+30-50 Years Old
+
+&lt;30 Years Old
+
+&gt;50 Years Old
+
+30-50 Years Old
+
+&lt;30 Years Old
+
+&gt;50 Years Old
+
+Male
+
+Female
+
+Number of New Hires
+
+By
+
+Gender
+
+By
+
+Gender
+
+By Age
+
+Group
+
+By Age
+
+Group
+
+1
+
+1
+
+1
+
+1
+
+2
+
+2
+
+2
+
+2
+
+4
+
+
+2 1
+
+Benefits such as insurance coverage and parental leave10 
+
+are provided to all employees. For example, employees are 
+
+provided with a wide range of life and medical insurance 
+
+plans under a flexible benefits programme which employees 
+
+can use to complement their personal medical insurance 
+
+coverage as well as customise the benefits for their 
+
+dependents.
+
+Senior Management
+
+Professional Staff
+
+Professional Staff
+
+Male
+
+Female
+
+30-50 Years Old
+
+&lt;30 Years Old
+
+&gt;50 Years Old
+
+30-50 Years Old
+
+&lt;30 Years Old
+
+&gt;50 Years Old
+
+Male
+
+Female
+
+Senior Management
+
+By
+
+Gender
+
+By
+
+Gender
+
+By Age
+
+Group
+
+By Age
+
+Group
+
+1
+
+3
+
+2
+
+2
+
+2
+
+11
+
+11
+
+DIVERSITY AND EQUAL OPPORTUNITY 
+
+LMIR Trust is committed to creating a fair and conducive 
+
+work environment and providing equal opportunities for all 
+
+employees regardless of their backgrounds. To that end, the 
+
+Manager has in place a set of practices:
+
+Practice
+
+Description
+
+Fair employment  
+
+Align with the Tripartite Alliance guidelines on fair employment practices, such 
+
+as the recruitment and selection of employees based on merit regardless of age, 
+
+race, gender, religion, marital status, and disability.
+
+Fair rewards
+
+Reward employees based on their ability, performance, contribution, and 
+
+experience.
+
+Regulatory compliance  
+
+Comply with labour laws and abide by the Tripartite Alliance guidelines on fair 
+
+employment practices.
+
+Equal growth opportunity 
+
+Provide employees with equal opportunities for training and development.
+
+LMIR Trust has a diversified workforce across all age groups, with females making up 68.8% of the workforce. The following 
+
+table shows the breakdown of employees by gender and age group based on employee categories.
+
+10 
+
+In FY 2021, one female employee took parental leave and returned to work subsequently after the end of her parental leave. 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+2 2
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Social
+
+At the Board level, LMIR Trust has a Board Diversity Policy 
+
+which sets out its approach to encouraging and ensuring 
+
+diversity among the Board of Directors. The Board 
+
+Diversity Policy is considered in determining the optimum 
+
+composition of the Board and aims to ensure there is an 
+
+appropriate balance and mix of skills, knowledge, and 
+
+experience among Board members. In FY 2021, the Board 
+
+comprises four males11 and one female, three of whom are 
+
+in the age group of 30-50 years old and two being above 
+
+50 years old. The Nominating Remuneration Committee 
+
+(“NRC”) aims to ensure that the LMIR Board shall have a 
+
+11 
+
+At LMIR Trust, there are a total of five Board members and 16 employees. The CEO of LMIR Trust also serves as an Executive Director on the 
+
+Board. 
+
+minimum of 20% female representation with a target of 
+
+30% representation by 2030. The NRC will monitor the 
+
+implementation of this policy and report on the progress 
+
+annually. Additionally, the NRC will also review the policy 
+
+periodically as appropriate to ensure the effectiveness of the 
+
+policy.
+
+This year, LMIR Trust is pleased to disclose that there were 
+
+zero reported incidents of discrimination by employees and 
+
+will continue to maintain a diverse and inclusive workplace 
+
+and foster a culture of equality across the organisation.  
+
+Our Target for FY 2022
+
+• 
+
+To achieve an average of 12 hours of training per employee
+
+PERFORMANCE 
+
+The various Heads of Department together with the 
+
+Corporate Services department shall determine the types 
+
+of training required for each employee to be equipped with 
+
+the necessary foundational and functional competencies 
+
+to perform their jobs. For example, employees under the 
+
+Finance department will undergo training courses relating 
+
+to Enterprise Risk Management while employees under the 
+
+Asset Management department will take part in courses 
+
+such as the Certified Course for Green Mark Accredited 
+
+Professionals (Facilities Management). In FY 2021, the 
+
+average training hours per male and female employee were 
+
+24.0 hours and 34.0 hours respectively. The average training 
+
+hours per employee increased by 21.2 hours, over threefold, 
+
+as compared to FY 2020 due to employees attending more 
+
+sustainability-related courses covering topics on climate 
+
+change and reporting standards, among others, to keep 
+
+abreast on the latest sustainability developments.
+
+Training
+
+Average Training Hours
+
+FY 2020
+
+FY 2021
+
+6.6
+
+27.8
+
+
+
+TRAINING AND DEVELOPMENT 
+
+A competent, competitive, and sustainable workforce is key to LMIR Trust’s long-term growth and success. As such, LMIR 
+
+Trust is committed to investing in the right resources to support its employees’ personal and professional development. A 
+
+large emphasis is placed on upskilling employees through continued training and ensuring that they are well-equipped with 
+
+the necessary skills and knowledge to perform their work to their highest abilities. 
+
+
+2 3
+
+In FY 2021, LMIR Trust’s employees took part in various 
+
+training on topics including Rules and Ethics, MAS 
+
+Guidelines on Individual Accountability and Conduct, 
+
+Circular Economy Financing, and Financing for Solar 
+
+Projects, among many others. To ensure employees have 
+
+access to continue learning and developing their skills 
+
+amid the COVID-19 pandemic and work-from-home 
+
+arrangements, training programmes were conducted 
+
+online and training formats were adapted to suit the new 
+
+working arrangement. Additionally, employees are also 
+
+constantly encouraged to look out for training or learning 
+
+opportunities, both locally and overseas, to further enhance 
+
+their knowledge and skills.
+
+Our Target for FY 2022
+
+• 
+
+Zero cases of work related fatality and permanent disability among staff at the Manager level
+
+To create fulfilling careers and provide our employees with 
+
+the opportunity to achieve personal growth alongside 
+
+the growth of the company, LMIR Trust adopts a holistic 
+
+approach towards charting the career paths of employees. 
+
+In FY 2021, 100.0% of LMIR Trust employees received regular 
+
+performance appraisals and career development reviews. 
+
+LMIR Trust will continue to create a culture of learning 
+
+within the organisation and provide opportunities for 
+
+employees to reach their fullest potential and to create 
+
+value through the work that they do.
+
+HEALTH AND SAFETY
+
+LMIR Trust continues to focus on the health and well-being of its employees and stakeholders and takes active steps to 
+
+ensure that health and safety risks at its properties are well-managed. In FY 2021, zero cases of fatalities, occupational 
+
+disease, and injuries were recorded for staff at the Manager level.
+
+Employees 
+
+In response to the COVID-19 pandemic, employees 
+
+continued to adopt a work-from-home arrangement since 
+
+2020. New safety measures, including daily temperature 
+
+taking, social distancing markers, implementation of access 
+
+cards instead of fingerprint access to avoid touching 
+
+WELLNESS INITIATIVES
+
+
+
+Employee Wellness Fruit Day 
+
+In FY 2021, as part of ongoing efforts to encourage staff 
+
+to eat and stay healthy, LMIR Trust continued its weekly 
+
+Fruit Day activity, in which every employee received a 
+
+packet of fruits every Friday to encourage them to eat 
+
+healthily
+
+surfaces, and a requirement for employees who resume 
+
+work at the office to take an Antigen Rapid Test (“ART”) 
+
+twice a week were implemented at LMIR Trust’s offices.
+
+LMIR Trust also invests in employee wellness initiatives and 
+
+organise annual programmes centred on the concepts of 
+
+mental, physical, and emotional wellness for its staff. 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+2 4
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Social
+
+Flexible working culture 
+
+In FY 2021, LMIR Trust adapted with the times and created a more flexible working 
+
+culture through:
+
+• 
+
+FlexSpace - giving employees the option to either work from home or at the office
+
+• 
+
+FlexDress - allowing employees to dress appropriately and comfortably for their 
+
+workday
+
+• 
+
+FlexTime - giving employees the freedom to manage their time on a flexible basis 
+
+as long as they fall within the agreed working hours
+
+WELLNESS INITIATIVES (CONT’D)
+
+SAFETY MEASURE 
+
+
+
+Staff engagement events 
+
+The Manager continued to engage 
+
+its employees through various staff 
+
+engagement events and activities:
+
+• 
+
+Company luncheons were 
+
+organised with the relaxation of 
+
+dining restriction
+
+• 
+
+Christmas log cakes were 
+
+delivered to every employee 
+
+during the festive period as LMIR 
+
+Trust was unable to host its annual 
+
+Christmas lunch
+
+Shoppers and Tenants 
+
+The health and well-being of its shoppers and tenants 
+
+are important to LMIR Trust. As such, the Mall Director of 
+
+each mall, supported by their respective Operations teams, 
+
+are in charge of ensuring the health and well-being of all 
+
+shoppers. To make sure that safe and hygienic spaces are 
+
+present at its properties, LMIR Trust’s mall managers have 
+
+put in place various measures to create a safe environment 
+
+for shoppers to carry out their activities, to help tenants 
+
+operate their business safely, and to limit the spread of 
+
+COVID-19 as it reopened its malls and retail spaces. These 
+
+include the following:
+
+App for visitors to show proof of 
+
+first dose COVID-19 vaccination. 
+
+Personal protective equipment 
+
+for staff
+
+All frontline employees, such as those 
+
+manning the information counters or 
+
+entry checkpoints, are required to use 
+
+standard Personal Protective Equipment 
+
+(“PPE”) when carrying out their duties to 
+
+maintain hygiene and safety.
+
+
+
+Safety protocols for tenant areas 
+
+Before entering tenants’ areas, shoppers 
+
+must undergo health and safety 
+
+protocols such as temperature-taking 
+
+and use of hand sanitisers. All tenant 
+
+employees are also required to use 
+
+standard PPE at work to maintain hygiene 
+
+and safety.
+
+
+2 5
+
+SHOPPERS AND TENANTS (CONT’D)
+
+
+
+
+
+Temperature checks 
+
+All visitors are required to have their temperatures 
+
+checked at designated entry checkpoints of each mall.
+
+Keeping hands clean
+
+The malls provided more opportunities for visitors to 
+
+keep their hands clean and sanitised by providing hand 
+
+wash sinks and hand sanitisers at various strategic 
+
+points across each mall. They are accompanied by signs 
+
+to encourage visitors to wash or sanitise their hands 
+
+regularly.
+
+Regular cleaning of common facilities, such as 
+
+escalator handrails, toilets, seating areas were carried 
+
+out using disinfectant and UV rays.
+
+Touchless buttons in lifts and carparks 
+
+To reduce the spread of the virus, touchless buttons in 
+
+both lifts and the ticket payment machines in carpark 
+
+areas were installed at Lippo Mall Puri.
+
+Cleaning with disinfectants and UV rays
+
+Dining areas
+
+Physical distancing markings were provided inside 
+
+the restaurants and dining areas to ensure adequate 
+
+distancing between shoppers.
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+Safe distancing protocols 
+
+The malls implemented a general rule of keeping a 
+
+minimum physical distance of one metre from other 
+
+shoppers. This is applied in all situations and waiting 
+
+areas, including when queuing for lifts and toilets, 
+
+standing inside lifts, using escalators, resting on 
+
+benches.
+
+
+2 6
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Social
+
+LOCAL COMMUNITIES
+
+(Non-material additional disclosure) 
+
+LMIR Trust is committed to building inclusive communities 
+
+and supporting initiatives that generate positive outcomes 
+
+CSR ACTIVITIES
+
+for the surrounding communities of areas in which its 
+
+properties are located. It strives to be a socially responsible 
+
+business. The following table highlights some of the key 
+
+Corporate social responsibility (“CSR”) programmes which 
+
+LMIR Trust ran during the year.
+
+
+
+
+
+Vaccination centres 
+
+Throughout the year, LMIR Trust 
+
+malls served as vaccination 
+
+centres to support Indonesia’s 
+
+government as part of 
+
+the National Vaccination 
+
+Programme’s Joint Movement 
+
+to Succeed initiative and 
+
+administered a total of 383,090 
+
+vaccination doses. 
+
+Blood donation drives  
+
+Across LMIR Trust malls, the mall 
+
+manager collaborated with local 
+
+organisations, such as the HOPE 
+
+Medan Foundation, PMI Medan 
+
+City, and Lion Club Medan, as 
+
+well as local Chinese Indonesian 
+
+communities, to organise blood 
+
+donation drives. A total of 643 
+
+blood bags were collected. 
+
+
+2 7
+
+Governance
+
+Good governance is essential in forming trust among 
+
+its stakeholders and reflecting its commitment towards 
+
+accountability and transparency. To this end, LMIR Trust 
+
+observes the highest standard of corporate governance 
+
+and comply with all applicable laws and regulations. 
+
+CORPORATE GOVERNANCE
+
+Upholding the Highest Standard of Corporate 
+
+Governance 
+
+The Manager ensures that the business of LMIR Trust is 
+
+conducted in an ethical manner, adhering to the principles 
+
+and guidelines of the MAS Code of Corporate Governance 
+
+2018 (the “2018 CG Code”) and other applicable laws 
+
+and regulations, including the SGX-ST Listing Manual (the 
+
+“Listing Manual”), the Code on Collective Investment 
+
+Schemes (the “Code on CIS”), and the Securities and 
+
+Futures Act (“SFA”).
+
+On 1 January 2022, the Singapore Exchange (“SGX”) listing 
+
+rule was amended which required all listed companies 
+
+to describe the board diversity policy and details such as 
+
+diversity targets, plans, timelines and progress and will 
+
+only be applicable for annual reports for the financial year 
+
+commencing on or after 1 January 2022. In view of this, 
+
+the Board Diversity Policy was revised as an early adoption 
+
+of the SGX rule.   
+
+For more details on LMIR Trust’s corporate governance, 
+
+please refer to pages 44 to 68 of the FY 2021 Annual 
+
+Report.
+
+Conducting Business with Integrity 
+
+LMIR Trust complies with all relevant laws and regulatory 
+
+requirements as this will shape a culture of responsibility 
+
+among employees and plays a vital role in accelerating 
+
+sustainability across its business operation. 
+
+The Manager has an internal Code of Business Conduct 
+
+and Ethics which is reviewed biennially by the internal 
+
+Legal and Compliance Team. It lays out a clear and 
+
+concise framework for employees to follow when 
+
+performing their day-to-day work and comprises the 
+
+Manager’s business principles and practices, such 
+
+as integrity and accountability, at all levels of the 
+
+organisation, providing guidance on issues relating to:
+
+• 
+
+Compliance with all relevant laws and regulations, 
+
+such as the 2018 Code, the SGX-ST Listing Manual, the 
+
+Code on CIS, and the SFA
+
+• 
+
+Conflicts of interests and the appropriate disclosures 
+
+and reporting to be made
+
+• 
+
+The Manager’s stance against bribery, corruption, 
+
+and the reporting guidelines of actual or suspected 
+
+wrongdoings
+
+• 
+
+Adherence to the Manager’s policy on Employee 
+
+Conduct, Confidentiality, Personal Trading, Personal 
+
+Data Protection, and Whistle Blowing
+
+• 
+
+Compliance with guidelines on contracting Associated 
+
+Persons, related party transactions, and outsourcing 
+
+arrangements
+
+The Code also provides clear guidelines and procedures 
+
+for giving and receipt of corporate gifts and concessionary 
+
+offers. This policy has been communicated to all Board 
+
+of Directors, senior management, and employees. 
+
+Additionally, all employees must undergo training on 
+
+anti-money laundering and countering the financing of 
+
+terrorism every two years.  
+
+LMIR Trust has a zero-tolerance stance on corruption and 
+
+bribery. 100% of its malls are annually assessed for risks 
+
+relating to corruption and it is compulsory for all tenants 
+
+to undergo a Know Your Customer (KYC) process during 
+
+onboarding and periodically afterward. Reflecting the 
+
+Trust’s position against all forms of corruption, it seeks to 
+
+continue enhancing its compliance measures.   
+
+LMIR Trust also has in place a whistle-blowing policy, 
+
+which provides employees and external parties such as 
+
+suppliers, customers, and contractors with accessible 
+
+channels to report on suspected fraud, corruption, 
+
+dishonest practices, or other similar matters relating to 
+
+LMIR Trust or the Manager. An independent investigation 
+
+will be conducted and appropriate follow-up actions will 
+
+be taken for all reports made.  
+
+LMIR Trust is pleased to report that, in FY 2021, there were 
+
+zero reported incidents of bribery or corruption involving 
+
+employees thereby meeting the FY 2021 target set.
+
+
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+2 8
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+Governance
+
+FY 2021 Target  
+
+Zero reported incidents of 
+
+bribery or corruption involving 
+
+employees
+
+Performance
+
+Target Met 
+
+FY 2022 Target
+
+Same as FY 2021
+
+LMIR Trust will continue conducting its business in 
+
+an ethical manner and foster a culture of responsible 
+
+behaviour among its employees. 
+
+Board Governance
+
+LMIR Trust recognises that good corporate governance 
+
+can only be achieved with the support of the Board as 
+
+key decisions made by the Board will directly influence 
+
+its growth and strategic directions in achieving its goals. 
+
+Therefore, the Manager is committed to ensuring that 
+
+the Board fulfills various requirements, including diversity, 
+
+independence, and renewal of board members, so that 
+
+the Board is able to perform its duties in the best interest 
+
+of LMIR Trust. To this end, the Manager is guided by a 
+
+set of five key pillars which ensures a robust system of 
+
+training and development, decision-making, and approval 
+
+structure, as well as performance evaluation. For further 
+
+details on LMIR Trust’s Board governance principles, 
+
+policies, and practices, please refer to pages 44 to 68 in 
+
+the Corporate Governance section of the FY 2021 Annual 
+
+Report.
+
+BOARD GOVERNANCE
+
+Conduct of
+
+Affairs
+
+Chairman 
+
+&amp; CEO
+
+Composition 
+
+&amp; Guidance
+
+Membership
+
+Performance
+
+Decision-
+
+making and 
+
+approval
+
+Renewal and
+
+succession
+
+planning
+
+Board and board 
+
+committee 
+
+evaluation
+
+Independent
+
+members
+
+Duties and
+
+responsibilities
+
+Board
+
+committees
+
+Nomination 
+
+and selection
+
+of directors
+
+Individual
+
+director
+
+evaluation
+
+Diversity
+
+Induction
+
+training and
+
+development
+
+Review of 
+
+directors’ 
+
+independence
+
+Board 
+
+guidance
+
+Access to
+
+information
+
+Time 
+
+commitment
+
+
+2 9
+
+Meeting attendance
+
+• 
+
+Board meeting (6 in total) -100.0%
+
+• 
+
+ARC meeting (4 in total) – 100.0%
+
+• 
+
+NRC meeting (1 in total) – 100.0%
+
+• 
+
+Annual General Meeting (1 in total) – 100.0% 
+
+Training and development
+
+• 
+
+Completion of compulsory directors’ training (by SID) for Independent Director
+
+• 
+
+Directors attended several seminars and conferences such as Creating Value 
+
+at Board Level-Market vs Stock Value, Managing Corporate Investigation while 
+
+Securing Stakeholder Trust, Leveraging Integrity to Strengthen your Business, 
+
+Look Beyond the Pandemic-Important Role of the AC, Insider Guide to 
+
+Crytocurrency and Blockchain, Board Dynamic,SID Director Conference 2021, 
+
+ESG (Sustainability Framework and Roadmap). 
+
+• 
+
+Members of the ARC also provided with regular briefings from the Company’s 
+
+external auditors on applicable Accounting Standards and Tax Updates during 
+
+the year.
+
+Board diversity
+
+• 
+
+3 out of 5 directors are independent
+
+• 
+
+1 out of 5 directors is female
+
+• 
+
+NRC aims to ensure that LMIR Trust Board is composed of a minimum of 20% 
+
+female representation with a target of 30% representation by 2030
+
+The following table summarises key performance indicators of the Board for FY 2021:
+
+REGULATORY COMPLIANCE
+
+Non-compliance with laws and regulations can result in 
+
+significant adverse impacts on LMIR Trust’s reputation, 
+
+business continuity, and financial performance. LMIR 
+
+Trust, therefore, places a high emphasis on regulatory 
+
+compliance in its business operations and does not 
+
+tolerate non-compliance.
+
+LMIR Trust and the Manager comply with applicable 
+
+laws and regulations, including the Listing Manual, Code 
+
+on CIS, SFA, conditions of the Capital Markets Services 
+
+Licence of the Manager issued by the MAS, as well as 
+
+the tax rulings issued by the Inland Revenue Authority of 
+
+Singapore. 
+
+As LMIR Trust owns retail malls and spaces in Indonesia, 
+
+the retail malls and spaces are subject to Indonesia’s 
+
+laws and regulations. In FY 2021, the Manager started 
+
+conducting periodical legal due diligence on LMIR Trust’s 
+
+assets to ensure the highest standard of compliance and 
+
+legality of documents of its assets.
+
+To comply with all laws and regulations and ensure the 
+
+Board of Directors is capable of advising LMIR Trust as 
+
+regulations change, the Manager follows a set of policies 
+
+and procedures which include:
+
+• 
+
+Ensuring that the Board of Directors are competent 
+
+and well-informed on regulatory matters by selecting 
+
+directors who are professional and business leaders 
+
+with diverse backgrounds
+
+• 
+
+Scheduling training sessions for the Board of 
+
+Directors to keep them abreast of the latest regulatory 
+
+requirements
+
+LMIR Trust is pleased to announce zero reported 
+
+incidences of non-compliance with any relevant laws and 
+
+regulations at the Manager level.
+
+SUSTAINABLE SUPPLY CHAIN
+
+(Non-material additional disclosure) 
+
+Recognising that its supply chain makes up a substantial 
+
+portion of its environmental impact, LMIR Trust seeks 
+
+to use its unique position as the owner of retail real 
+
+estate to influence its stakeholders to minimise their 
+
+environmental footprint and adopt sustainable practices. 
+
+LMIR Trust is currently working with vendors to recycle 
+
+waste generated and educating tenants, vendors, and mall 
+
+visitors on sustainable practices through the distribution 
+
+of e-pamphlets and signages across the malls. A high 
+
+emphasis is placed on educating tenants on the benefits 
+
+of reducing their environmental footprint and encouraging 
+
+them to work closely with their suppliers to manage their 
+
+environmental impact. As for the Manager, it only uses 
+
+paper certified under the Programme for the Endorsement 
+
+of Forest Certification (“PEFC”) to ensure that paper used 
+
+by its employees is obtained from sustainably sourced 
+
+and managed forests. LMIR Trust will remain committed 
+
+to collaborating with its supply chain stakeholders to 
+
+reduce its social and environmental impact and practicing 
+
+responsible sourcing along its value chain.
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+
+3 0
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+GRI Content
+
+Index
+
+GRI
+
+Standards
+
+Disclosure 
+
+Number
+
+Disclosure 
+
+Title
+
+Page Reference 
+
+and/or Remark
+
+General Disclosures
+
+GRI 102 
+
+(2016): General 
+
+Disclosures 
+
+102-1
+
+Name of the organisation
+
+Annual Report, About LMIR Trust, Page 3
+
+102-2
+
+Activities, brands, products, and 
+
+services
+
+Annual Report, About LMIRT Trust, Page 3 
+
+102-3
+
+Location of headquarters
+
+Annual Report, Corporate Information, Page 40 
+
+102-4
+
+Location of operations
+
+Annual Report, Portfolio Overview, Page 22
+
+102-5
+
+Ownership and legal form
+
+Annual Report, Trust Structure, Page 41
+
+102-6
+
+Markets served
+
+Annual Report, Portfolio Overview, Page 22 
+
+102-7
+
+Scale of the organisation
+
+Sustainability Report, Employment, Page 20
+
+102-8
+
+Information on employees and 
+
+other workers
+
+Sustainability Report, Employment, Page 20
+
+102-9
+
+Supply chain
+
+Sustainability Report, Sustainable Supply Chain, 
+
+Page 29
+
+102-10
+
+Significant changes to the 
+
+organisation and its supply chain
+
+There are no significant changes to the 
+
+organisation and its supply chain in FY 2021. 
+
+102-11
+
+Precautionary principle or approach
+
+Annual Report, Risk Management, Page 38
+
+102-12
+
+External initiatives
+
+LMIR Trust is not part of any external initiatives.  
+
+102-13
+
+Membership of associations
+
+Annual Report, Investor Relations, Page 39
+
+102-14
+
+Statement from senior decision-
+
+maker
+
+Sustainability Report, Board Statement, Page 5
+
+102-16
+
+Values, principles, standards, and 
+
+norms of behaviour
+
+Annual Report, Page 2  
+
+Sustainability Report, Board Statement, Page 5
+
+102-18
+
+Governance Structure
+
+Annual Report, Board of Directors, Page 18 
+
+Annual Report, Key Management, Page 20 
+
+Annual Report, Corporate Governance, Page 44 
+
+Sustainability Report, Sustainability Governance at 
+
+LMIR Trust, Page 8
+
+102-40
+
+List of stakeholder groups
+
+Sustainability Report, Stakeholders Engagement, 
+
+Page 12
+
+102-41
+
+Collective bargaining agreements
+
+There are no collective bargaining agreements in 
+
+place.
+
+102-42
+
+Identifying and selecting 
+
+stakeholders
+
+Sustainabilty Report, Stakeholders Engagement, 
+
+Page 12
+
+102-43
+
+Approach to stakeholder 
+
+engagement
+
+Sustainabilty Report, Stakeholders Engagement, 
+
+Page 12
+
+102-44
+
+Key topics and concerns raised
+
+Sustainabilty Report, Stakeholders Engagement, 
+
+Page 12
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+Annual Report, Financial Contents, Pages 69  
+
+to 143 
+
+102-46
+
+Defining report content and topic 
+
+boundaries
+
+Sustainability Report, About This Report, Page 4 
+
+102-47
+
+List of material topics
+
+Sustainability Report, Materiality EESG Topics-  
+
+At a Glance, Page 11 
+
+
+3 1
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+GRI
+
+Standards
+
+Disclosure 
+
+Number
+
+Disclosure 
+
+Title
+
+Page Reference 
+
+and/or Remark
+
+102-48
+
+Restatements of information
+
+No restatements of information has been made.
+
+102-49
+
+Changes in reporting
+
+Sustainability Report, About This Report, Page 4
+
+Sustainability Report, Material EESG Topics - At A 
+
+Glance, Page 11
+
+102-50
+
+Reporting period
+
+Sustainability Report, About this Report, Page 3
+
+102-51
+
+Date of most recent report
+
+The sustainability report for FY 2020 was published 
+
+in April 2021.
+
+102-52
+
+Reporting cycle
+
+Sustainability Report, About this Report, Page 3
+
+102-53
+
+Contact point for questions 
+
+regarding the report
+
+Sustainability Report, About this Report, Page 4
+
+102-54
+
+Claims of reporting in accordance 
+
+with GRI standards
+
+Sustainability Report, About this Report, Page 3
+
+102-55
+
+GRI content index
+
+Sustainability Report, GRI Content Index, Page 30 
+
+102-56
+
+External assurance 
+
+Sustainability Report, About this Report, Page 3
+
+Material Topic: Economic Performance
+
+GRI 103 (2016): 
+
+Management 
+
+Approach 
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Economic Performance, 
+
+Page 14
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Economic Performance, 
+
+Page 14
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Economic Performance, 
+
+Page 14
+
+GRI 201 (2016): 
+
+Economic 
+
+performance
+
+201-1
+
+Direct economic value generated 
+
+and distributed
+
+Sustainability Report, Economic Performance, 
+
+Page 14
+
+Material Topic: Energy and Greenhouse Gas Emissions
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+GRI 302 (2016): 
+
+Energy
+
+302-1
+
+Energy consumption within the 
+
+organisation
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+302-3
+
+Energy intensity
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+302-4
+
+Reduction of energy consumption
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 16
+
+GRI 305 (2016): 
+
+Emissions
+
+305-1
+
+Direct (Scope 1) GHG emissions
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+305-2
+
+Energy indirect (Scope 2) GHG 
+
+emissions
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+305-4
+
+GHG emissions intensity 
+
+Sustainability Report, Energy and Greenhouse Gas 
+
+Emissions, Page 15
+
+
+3 2
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+GRI Content
+
+Index
+
+GRI
+
+Standards
+
+Disclosure 
+
+Number
+
+Disclosure 
+
+Title
+
+Page Reference 
+
+and/or Remark
+
+Material Topic: Water Management
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Water Management, Page 18
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Water Management, Page 18
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Water Management, Page 18
+
+GRI 303 (2018): 
+
+Water and 
+
+Effluents
+
+303-5
+
+Water consumption
+
+Sustainability Report, Water Management, Page 18
+
+Material Topic: Employment
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Employment, Page 20
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Employment, Page 20
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Employment, Page 20
+
+GRI 401 (2016): 
+
+Employment
+
+401-1
+
+New employee hires and employee 
+
+turnover
+
+Sustainability Report, Employment, Page 20
+
+401-2
+
+Benefits provided to full-time 
+
+employees that are not provided to 
+
+temporary or part-time employees
+
+Sustainability Report, Employment, Page 21
+
+401-3
+
+Parental leave
+
+Sustainability Report, Employment, Page 21
+
+Material Topic: Diversity and Equal Opportunity 
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+GRI 405 (2016): 
+
+Diversity 
+
+and Equal 
+
+Opportunity 
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+GRI 406 
+
+(2016): Non-
+
+discrimination
+
+406-1
+
+Incidents of discrimination and 
+
+corrective actions taken
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 22
+
+Material Topic:  Training and Development
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Training and Development, 
+
+Page 22
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Training and Development, 
+
+Page 22
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Training and Development, 
+
+Page 22
+
+
+3 3
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 1
+
+GRI
+
+Standards
+
+Disclosure 
+
+Number
+
+Disclosure 
+
+Title
+
+Page Reference 
+
+and/or Remark
+
+Material Topic:  Training and Development (cont’d)
+
+GRI 404 (2016): 
+
+Training and 
+
+Education
+
+404-1
+
+Average hours of training per year 
+
+per employee
+
+Sustainability Report, Training and Development, 
+
+Page 22
+
+404-2
+
+Programmes for upgrading 
+
+employee skills and transition 
+
+assistance programmes
+
+Sustainability Report, Training and Development, 
+
+Page 23
+
+404-3
+
+Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews
+
+Sustainability Report, Training and Development, 
+
+Page 23
+
+Material Topic: Health and Safety 
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Health and Safety, Page 23
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Health and Safety, Page 23
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Health and Safety, Page 23
+
+GRI 403 (2018): 
+
+Occupational 
+
+Health and 
+
+Safety
+
+403-6
+
+Promotion of worker health
+
+Sustainability Report, Health and Safety, Page 23
+
+403-9
+
+Work-related injuries
+
+Sustainability Report, Health and Safety, Page 23
+
+Material Topic: Corporate Governance 
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+GRI 102 
+
+(2016): General 
+
+Disclosures  
+
+102-22
+
+Composition of the highest 
+
+governance body and its 
+
+committees
+
+Annual Report, Board of Directors, Page 18
+
+Annual Report, Key Management, Page 20
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+GRI 205 (2016): 
+
+Anti-corruption
+
+205-1
+
+Operations assessed for risks related 
+
+to corruption
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+205-2
+
+Communication and training 
+
+about anti-corruption policies and 
+
+procedures
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+205-3
+
+Confirmed incidents of corruption 
+
+and actions taken
+
+Sustainability Report, Corporate Governance,  
+
+page 27
+
+GRI 405 (2016): 
+
+Diversity 
+
+and Equal 
+
+Opportunity  
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+Sustainability Report, Diversity and Equal 
+
+Opportunity, Page 21
+
+
+3 4
+
+L I P P O  M A L L S  I N D O N E S I A  R E T A I L  T R U S T
+
+GRI Content
+
+Index
+
+GRI
+
+Standards
+
+Disclosure 
+
+Number
+
+Disclosure 
+
+Title
+
+Page Reference 
+
+and/or Remark
+
+Material Topic: Regulatory Compliance  
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Regulatory Compliance, 
+
+Page 29
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Regulatory Compliance, 
+
+Page 29
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Regulatory Compliance, 
+
+Page 29
+
+GRI 307 (2016): 
+
+Environmental 
+
+Compliance
+
+307-1
+
+Non-compliance with 
+
+environmental laws and regulations
+
+Sustainability Report, Regulatory Compliance, 
+
+Page 29
+
+GRI 419 (2016): 
+
+Socioeconomic 
+
+Compliance
+
+419-1
+
+Non-compliance with laws and 
+
+regulations in the social and 
+
+economic area
+
+Sustainability Report, Regulatory Compliance, 
+
+Page 29
+
+Material Topic: Waste Management 
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Waste Management,  
+
+Page 19
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Waste Management,  
+
+Page 19
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Waste Management,  
+
+Page 19
+
+Material Topic: Local Communities   
+
+GRI 103 (2016): 
+
+Management 
+
+Approach
+
+103-1
+
+Explanation of the material topic 
+
+and its boundary 
+
+Sustainability Report, Local Communities,  
+
+Page 26
+
+103-2
+
+The management approach and its 
+
+components
+
+Sustainability Report, Local Communities,  
+
+Page 26
+
+103-3
+
+Evaluation of the management 
+
+approach 
+
+Sustainability Report, Local Communities,  
+
+Page 26
+
+Material Topic: Sustainable Supply Chain 
+
+Non-GRI topic
+
+Non-GRI 
+
+topic
+
+Non-GRI topic
+
+Sustainability Report, Sustainable Supply Chain, 
+
+Page 29
+

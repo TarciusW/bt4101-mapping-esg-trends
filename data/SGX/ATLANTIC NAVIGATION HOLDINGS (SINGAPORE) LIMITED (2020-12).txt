@@ -1,0 +1,3149 @@
+
+ATLANTIC NAVIGATION HOLDINGS (SINGAPORE) LIMITED  
+
+(Company Registration No. 200411055E) 
+
+Sustainability Report 2020 
+
+Date of issue: 31 May 2021  
+
+
+
+
+2 
+
+
+
+Contents 
+
+Part 1:
+
+Overview .......................................................................................................................... 4
+
+1.A.
+
+Corporate Profile .............................................................................................................. 4
+
+1.B.
+
+Board Statement ............................................................................................................... 8
+
+1.C.
+
+Ethics &amp; Integrity ............................................................................................................. 9
+
+1.D.
+
+Governance....................................................................................................................... 9
+
+1.E.
+
+Reporting Practice .......................................................................................................... 10
+
+1.F.
+
+Risk Management ........................................................................................................... 11
+
+Part 2:
+
+Stakeholder Engagement, Materiality &amp; Material Topics Alignment ........................... 13
+
+2.A.
+
+Stakeholder Engagement ................................................................................................ 13
+
+2.B.
+
+Identification of Materiality &amp; Material Topics ............................................................. 17
+
+Part 3:
+
+Environmental Factors (GRI: 300) ................................................................................. 20
+
+3.A.
+
+Material Topic #1: Environment Protection and Compliance ........................................ 20
+
+Part 4:
+
+Social Factors (GRI: 400) .............................................................................................. 24
+
+4.A.
+
+Material Topic #2: Occupational Health and Safety ...................................................... 24
+
+4.B.
+
+Material Topic #3: Human Resource Management, Diversity and Equal Access ......... 27
+
+Part 5:
+
+Governance &amp; Economic Factors (GRI: 200) ................................................................ 32
+
+5.A.
+
+Material Topic #4: Economic Performance ................................................................... 32
+
+5.B.
+
+Material Topic #5: IT Process Automation and Cyber Security .................................... 34
+
+Part 6:
+
+GRI Content Index ......................................................................................................... 38
+
+Part 7:
+
+Index on SGX Rulebook Compliance ............................................................................ 41
+
+This sustainability report has been reviewed by the Company’s sponsor, SAC Capital Private 
+
+Limited (the “Sponsor”). This sustainability report has not been examined or approved by the 
+
+Singapore Exchange Securities Trading Limited (the “SGX-ST”) and the SGX-ST assumes no 
+
+responsibility for the contents of this sustainability report, including the correctness of any of 
+
+the statements or opinions made or reports contained in this sustainability report. 
+
+The contact person for the Sponsor is Ms Lee Khai Yinn (Telephone number: +65 6232 3210) 
+
+at 1 Robinson Road, #21-00 AIA Tower, Singapore 048542.
+
+
+3 
+
+
+
+
+
+Part
+
+
+
+Overview
+
+
+4 
+
+
+
+Part 1: Overview 
+
+
+
+GRI: 102: General disclosures 
+
+
+
+GRI: 102-1: Name of the organisation 
+
+1.A.
+
+Corporate Profile 
+
+Atlantic Navigation Holdings (Singapore) Limited (the “Company” and together with its 
+
+subsidiaries, the “Atlantic Group”) is listed on the Catalist board (“Catalist”) of the Singapore 
+
+Exchange Securities Trading Limited (“SGX-ST”). 
+
+This report was prepared in accordance with Rules 711A and 711B of Listing Manual 
+
+Section B: Rules of Catalist (“Catalist Rules”), read with Practice Note 7F Sustainability Reporting 
+
+Guide of the Catalist Rules. 
+
+
+
+GRI: 102-2: Activities, brands, products, and services 
+
+
+
+GRI: 102-7: Scale of the organisation 
+
+The Atlantic Group’s business activities started in 1997 when Atlantic Marine Services 
+
+LLC was incorporated in Dubai, United Arab Emirates (“UAE”) to provide ship repair, fabrication 
+
+and other marine services to ship owners in the Middle East region. The Atlantic Group has since 
+
+evolved from a ship repair, fabrication and other marine services provider to a ship owner and 
+
+integrated offshore service provider. 
+
+As an integrated offshore service provider, we currently operate mainly through our 
+
+subsidiaries, namely Atlantic Maritime Group FZE which is based in Hamriyah Free Zone, 
+
+Sharjah, as well as Atlantic Ship Management LLC which is based in Abu Dhabi, both based in 
+
+the UAE. 
+
+Listed on the Catalist, the Company changed its name to Atlantic Navigation Holdings 
+
+(Singapore) Limited on 31 July 2012, following the completion of the reverse acquisition by 
+
+Fastube Limited. 
+
+Over the years, our dedicated services have enabled us to establish strong and stable 
+
+relationships with various leading oil companies, offshore contractors, survey companies, ship 
+
+owners, ship yards and ship brokers/charterers in the region. 
+
+
+5 
+
+
+
+Our Industry 
+
+Our Services: (1) Marine Logistics Services (“MLS”) 
+
+Our MLS Division provides ship chartering and technical management, principally for the 
+
+offshore oil and gas as well as marine construction industries, currently operating across the 
+
+Middle East region. 
+
+The division is supported by our owned fleet of 20 vessels (including 1 vessel under 
+
+investment in Joint Operation) which comprise of 2 lift-boats (a.k.a. jack-up barges), 1 mid-sized 
+
+DP2 PSV, 4 maintenance utility vessels, 1 work utility vessel, 8 various AHT and AHTSs, 1 crew 
+
+boat, 1 utility vessel and 2 tugboats. The fleet list and the salient features of these vessels were 
+
+presented on Page 11 of the latest Company’s Annual Report 2019 (“AR2019”). There is no 
+
+change to the fleet list in FY2020. 
+
+In addition, we also cross-charter vessels from third parties to service contracts which are 
+
+secured to serve the specific needs of our customers. 
+
+We provide services supporting across the different phases of offshore oil-field 
+
+development encompassing broadly exploration, construction, production, and post-production. 
+
+Below is a list of selected main services offered by the MLS Division: 
+
+
+
+Anchor handling operations and towage of vessels including drilling rigs, construction barges 
+
+etc. 
+
+
+
+Supporting offshore diving and seismic survey operations, including Remotely Operated 
+
+Vehicles (“ROV”)  
+
+
+
+Transporting materials and structures for offshore construction and installation 
+
+
+
+Assisting pipe-laying, cable-laying, jacket commissioning or decommissioning 
+
+
+
+Providing standby duties such as fire-fighting duties and anti-pollution and prevention measures 
+
+
+
+Providing supply services for production and maintenance operation 
+
+
+
+Providing support for Single Buoy Mooring (“SBM”) operation and maintenance 
+
+
+
+Cross chartering and management of third-party vessels to serve the specific needs of our 
+
+customers 
+
+Primary
+
+• Offshore Marine Oil &amp; Gas Service Provider
+
+• Shipownership &amp; ship management via MLS Division
+
+Secondary
+
+• Ship repair &amp; maintenance of marine vessels via SRM Division
+
+
+6 
+
+
+
+Our Services: (2) Ship Repair, Fabrication and Other Marine Services (“SRM”) 
+
+Our SRM Division provides afloat and supports dry-dock repair and maintenance services 
+
+with the workshop facilities based at our premises at Hamriyah Free Zone, Sharjah, UAE, to 
+
+customers in the shipping and off-shore oil and gas industries as well as to our own-fleet of vessels 
+
+utilised in our MLS Division.  
+
+ The types of services provided by SRM are mainly as follows: 
+
+
+
+Fabrication, steel and mechanical works, and carpentry 
+
+
+
+Electrical and air-condition works 
+
+
+
+Blasting and painting 
+
+
+
+Tank cleaning 
+
+Our Services: (3) Project Work 
+
+We also work with other service providers in the offshore oil and gas business to bid for 
+
+projects that leverage off the strength and core competencies of each business. As an illustration, 
+
+Atlantic Ship Management LLC was involved in a consortium which was awarded a US$45.2 
+
+million project for the purchase and removal of decommissioned offshore and onshore facilities 
+
+(the “Project”) in April 2017 by a Middle Eastern National Oil Company (“MENOC”), with 
+
+project completion and closure in 4Q FY2019.  
+
+The Group is currently engaged in similar project work which utilises our PSV DP2 vessel, 
+
+i.e. AOS Neptune, in supporting offshore operations including those involving ROV operations 
+
+and seismic studies where project and coordination work with the end-client and other companies 
+
+providing the supporting services are required.  
+
+
+
+GRI: 102-6: Markets served 
+
+Over the years, our dedicated services have enabled us to establish strong and stable 
+
+relationships with various leading MENOCs, Engineering, Procurement and Construction (“EPC”) 
+
+contractors, survey companies, ship owners, ship yards and charterers in the region which currently 
+
+includes Saudi Arabia, UAE, Oman, and Qatar. 
+
+We are a pre-qualified marine support and service provider to various MENOCs and oil 
+
+majors such as Saudi Aramco, Abu Dhabi National Oil Company and its marine operating 
+
+companies such as Bunduq Oil Company, Qatar Gas and Qatar Petroleum as well as international 
+
+offshore EPC contractors including J Ray McDermott, SAIPEM, Subsea 7 and NPCC. 
+
+
+7 
+
+
+
+
+
+GRI: 102-3: Location of headquarters 
+
+Our corporate headquarters is based in Singapore, with the registered office details as 
+
+follows: 
+
+Address:  
+
+30 Cecil Street, #19-08, Prudential Tower, Singapore 049712 
+
+Tel:  
+
+ 
+
++65 6812 1611 
+
+Fax:   
+
++65 6812 1601 
+
+Furthermore, our share registrar’s location is at the following details: 
+
+Name:   
+
+Boardroom Corporate &amp; Advisory Services Pte. Ltd.  
+
+Address:  
+
+50 Raffles Place, #32-01 Singapore Land Tower, Singapore 048623 
+
+
+
+GRI: 102-4: Location of operations 
+
+While we are registered and headquartered in Singapore, our main operations are in the 
+
+Middle East, principally in UAE and Saudi Arabia. 
+
+The business office addresses of our main subsidiaries are as follows:  
+
+(i)  
+
+Atlantic Maritime Group FZE (“AMG FZE”) 
+
+Address: Plot No. HD-02 P.O. Box 6653, Hamriyah Free Zone, Sharjah, United Arab 
+
+Emirates 
+
+Tel: +971 6 5263577 
+
+Fax: +971 6 5260292 
+
+(ii)  
+
+Atlantic Ship Management LLC (“ASM LLC”) 
+
+Address: P.O. Box 37288 Abu Dhabi, Unit 205, Al Salam Street, Al Salam HQ Building, 
+
+Abu Dhabi, United Arab Emirates 
+
+Tel: +971 2 4453838 
+
+Fax: +971 2 4453837  
+
+
+
+GRI: 102-5: Ownership and legal form 
+
+
+
+GRI: 102-45: Entities included in the consolidated financial 
+
+statements 
+
+Our ownership and legal form as well as the entities included in the audited consolidated 
+
+financial statements, being the Company and its subsidiaries, are presented on Page 16 of AR2019. 
+
+There is no change to the list of entities in FY2020. 
+
+
+8 
+
+
+
+
+
+GRI: 102-9: Supply chain 
+
+
+
+GRI: 102-10: Significant changes to the organisation and its supply 
+
+chain 
+
+The supply chain involves mainly the clients, the operations involving the MLS and SRM 
+
+operations and the suppliers as summarised on Pages 5 and 6 of this report. There have been no 
+
+significant changes in supply chain from the last sustainability report. 
+
+
+
+GRI: 102-12: External initiatives 
+
+
+
+GRI: 102-54: Claims of reporting in accordance with the GRI 
+
+Standards 
+
+Atlantic Group conducts its operations in line with external initiatives, specifically with 
+
+Global Reporting Initiative (“GRI”) Standards - Core Option, and being committed and in 
+
+compliance with several global industry standards and codes, such as IMO, SOLAS, MARPOL. 
+
+1.B.
+
+Board Statement 
+
+
+
+GRI: 102-14: Statement from senior decision-maker 
+
+
+
+GRI: 102-32: Highest governance body’s role in sustainability 
+
+reporting 
+
+The operations of the Atlantic Group are managed by the senior management, currently the 
+
+Chief Executive Officer who is also an Executive Director of the Company, the Chief Financial 
+
+Officer, the Project Director as well as the Operations Manager (collectively, the “Senior 
+
+Management”). While focusing on the operational and financial performance of the Atlantic 
+
+Group, the Senior Management is conscientiously being mindful and is guided by sustainable 
+
+business practices being determinants of long-term viability of the Atlantic Group.    
+
+The interaction between the board of directors (the “Board” or the “Directors”) of the 
+
+Company with the Senior Management has enabled the Board to satisfy itself on the way 
+
+sustainability reporting is structured and functioning through the various levels of management. 
+
+The Board, together with the Senior Management, is of the view that this sustainability report 
+
+provides a reasonable and transparent presentation of the Atlantic Group’s sustainability 
+
+performance. In this respect, we collectively affirm that our sustainability reporting is in 
+
+compliance with the third-year reporting requirements under the Catalist Rules. 
+
+This statement also conforms with the revised Code of Corporate Governance issued on 6 
+
+August 2018 (the “2018 Code”) and its Practice Guidance, and specifically, Principle 1 of the 2018 
+
+Code, which states that the Board is collectively responsible for the long-term success of the 
+
+Company. In line with Principal 1 and Practice Guidance 1 of the 2018 Code, the Directors affirm 
+
+that that the Board has fulfilled its role in considering and determining the material sustainability 
+
+issues throughout this report, and has considered and will continue to consider and further assess 
+
+
+9 
+
+
+
+environmental, social and governance (“ESG”) factors on an ongoing basis in formulation of the 
+
+Group’s strategies. 
+
+1.C.
+
+Ethics &amp; Integrity 
+
+
+
+GRI: 102-16: Values, principles, standards, and norms of behavior 
+
+The handbook on the Code of Conduct of the Company (the “Code”) sets out the standards 
+
+of behavior expected all of the employees of the Atlantic Group who are to comply with all existing 
+
+and applicable laws and regulations in locations where they operate including, but not limited to, 
+
+compliance to laws relating to fraud, corruption, bribery and all criminal offenses as well as all 
+
+policies related to Health, Safety and Environment (“HSE”) as per the respective manuals of the 
+
+Atlantic Group. We aim to achieve the highest levels of corporate ethics and transparency through 
+
+sound corporate governance and appropriate internal controls.  
+
+The Group has a whistle-blowing policy whereby employees may report possible 
+
+improprieties and breach laws, regulations, public policies and Atlantic Group’s policies as per the 
+
+Code. All employees may contact their respective heads of department with discussions in 
+
+confidence on such matters, with his/her identity being protected from reprisals within the limits 
+
+of the law. All employees also have access to top management with communication channels to 
+
+the Chairman of the Board, and such matters, if any, are discussed at board meetings. 
+
+There have been no cases of whistle-blowing and no reports of corruption, bribery and 
+
+criminal offences in the Atlantic Group during the reporting period. The Atlantic Group will 
+
+continue to maintain the whistle-blowing policy and other internal controls in place to prevent 
+
+wrongful acts. 
+
+1.D.
+
+Governance 
+
+
+
+GRI: 102-18: Governance structure 
+
+The Board of Atlantic Navigation Holdings (Singapore) Limited is committed to 
+
+maintaining a high standard of corporate governance within the Company and the Atlantic Group 
+
+to safeguard the interests of shareholders and to enhance corporate value and accountability.  
+
+The 2018 Code was issued with the aim to enhance board quality by strengthening board 
+
+independence and diversity and encourage better engagement between companies and all 
+
+stakeholders. The 2018 Code is effective for annual reports covering financial years commencing 
+
+from 1 January 2019.  
+
+The Corporate Governance Report 2019 in its entirety can be found on Pages 17 to 37 
+
+while the information on the members of the Board and the Executive Officers can be found on 
+
+Pages 7 to 9 of the Annual Report 2019 and shall be updated when the Annual Report 2020 is 
+
+published expected by mid-June 2021.
+
+
+10 
+
+
+
+1.E.
+
+Reporting Practice 
+
+
+
+GRI: 102-48: Restatements of information 
+
+
+
+GRI: 102-49: Changes in reporting  
+
+
+
+GRI: 102-51: Date of most recent report  
+
+This is Atlantic Group’s fourth sustainability report (“Sustainability Report 2020”) where 
+
+the GRI standards: Core Option is adopted, and there are no material changes in the information 
+
+provided in the third sustainability report dated 29 May 2020. Previous sustainability reports have 
+
+provided comprehensive information which remains largely applicable while the Sustainability 
+
+Report 2020 will be streamlined with discussions focused on targets as per the Material ESG 
+
+Topics.    
+
+
+
+GRI: 102-50: Reporting period  
+
+Our financial year end is 31 December (“FY”). Therefore, our reporting period would be 
+
+from 1 January to 31 December. For the purpose of this 4th year report, the reporting period is 1 
+
+January 2020 to 31 December 2020, unless otherwise stated. 
+
+
+
+GRI: 102-52: Reporting cycle  
+
+Pursuant to Catalist Rule 711A, an issuer must issue a sustainability report for its financial 
+
+year, no later than 5 months after the end of the financial year. Our reporting cycle, then, is to 
+
+report on the previous financial year’s sustainability activities by the 31st May of each year. 
+
+
+
+GRI: 102-53: Contact point for questions regarding the report 
+
+We welcome feedback to the Sustainability Reporting 2020 and its sustainability 
+
+endeavours. For further questions and information regarding Sustainability Reporting, the contact 
+
+point would be: 
+
+Name:   
+
+Mr. Hsu Chong Pin 
+
+Position:  
+
+Chief Financial Officer 
+
+Organisation:  Atlantic Navigation Holdings (Singapore) Limited 
+
+Telephone:  
+
++971 6 5263577 
+
+E-mail:  
+
+cphsu@amguae.net 
+
+
+11 
+
+
+
+
+
+GRI: 102-56: External assurance  
+
+External Assurance of Sustainability Report: 
+
+While this is the 4th sustainability report, we have yet to conduct external sustainability 
+
+assurance over our sustainability report which we are considering in the future. 
+
+External Assurance of Financial Reports: 
+
+External assurance over our financial reports is provided by our external auditors: Ernst &amp; 
+
+Young LLP. As we are still in the midst of finalizing the Annual Report 2020, the opinion of our 
+
+auditors over our financial statements for FY2020 will be updated in the Annual Report 2020. 
+
+1.F.
+
+Risk Management 
+
+
+
+GRI: 102-11: Precautionary principle or approach 
+
+Principle 11 of Atlantic Group is concerned with the importance of risk management and 
+
+internal controls which can be found on Page 30 and 31 of the Annual Report 2019 in its entirety, 
+
+and will be updated in the Annual Report 2020. 
+
+
+12 
+
+
+
+
+
+Part
+
+
+
+
+
+Stakeholder 
+
+Engagement, 
+
+Materiality &amp; 
+
+Material Topics 
+
+Alignment
+
+
+13 
+
+
+
+Part 2: Stakeholder Engagement, Materiality &amp; Material Topics 
+
+Alignment 
+
+2.A.
+
+Stakeholder Engagement 
+
+
+
+GRI: 102-46: Defining report content and topic boundaries  
+
+The previous sustainability reports provided detailed discussion on our stakeholder-
+
+centered approach and process.  
+
+Stakeholder-Centered Approach to Materiality 
+
+1
+
+
+
+• List potential stakeholders, classified as external or internal.
+
+2
+
+
+
+• Impact matrix to identify high, medium, and low impact 
+
+stakeholders.
+
+3
+
+
+
+• List engagement methods for each stakeholder, based on 
+
+impact importance.
+
+4
+
+
+
+• Engage with the relevant stakeholders to the extent that it is 
+
+practical to assess impact rating on a list of potentially 
+
+material ESG factors.
+
+5
+
+
+
+• Create a materiality matrix that identifies each material topic 
+
+according to the stakeholder impact rating results.
+
+6
+
+
+
+• Elaborate on each material ESG factor identified
+
+
+14 
+
+
+
+Step 1: 
+
+
+
+GRI: 102-40: List of stakeholder groups  
+
+The Atlantic Group interacts with and impacts (directly and indirectly) a variety of 
+
+stakeholder groups. As per previous sustainability reports, the list of 9 potentially relevant 
+
+stakeholders below, classified as to whether they are internal or external to the organisation, 
+
+continues to be relevant: 
+
+
+
+GRI: 102-41: Collective bargaining agreements 
+
+The Atlantic Group does not have any collective bargaining agreements with employees or 
+
+other stakeholders. 
+
+Step 2: 
+
+
+
+GRI: 102-42: Identifying and selecting stakeholders  
+
+After listing the 3 internal and 6 external stakeholder groups, assessment was done to 
+
+determine the stakeholders’ relevance based on the impact they have on us, as well as the impact 
+
+we have on them. A further step adds a column on the right that helps determine the type of 
+
+engagement with each stakeholder group from highest impact to lowest impact stakeholders.  
+
+SN#
+
+Stakeholders 
+
+Classification
+
+1
+
+Customers
+
+External
+
+2
+
+Employees
+
+Internal
+
+3
+
+Management
+
+Internal
+
+4
+
+Shareholders
+
+Internal
+
+5
+
+Creditors
+
+External
+
+6
+
+Suppliers
+
+External
+
+7
+
+Community
+
+External
+
+8
+
+Government / Regulators
+
+External
+
+9
+
+Competitors
+
+External
+
+
+15 
+
+
+
+The results are illustrated in the below Stakeholder Impact Matrix: 
+
+Stakeholder Impact Matrix – with Engagement Type 
+
+Impact on Atlantic Group
+
+High 
+
+-Government/ 
+
+Regulators 
+
+- Shareholders 
+
+- Suppliers  
+
+- Competitors 
+
+- Creditors  
+
+- Employees 
+
+- Management 
+
+ - Customers 
+
+Empower 
+
+Collaborate 
+
+Medium
+
+- Community 
+
+Involve 
+
+Low 
+
+Consult 
+
+Inform 
+
+Low 
+
+Medium 
+
+High 
+
+Type of 
+
+Engagement 
+
+Impact on Stakeholders 
+
+Step 3: 
+
+
+
+GRI: 102-43: Approach to stakeholder engagement  
+
+After identifying the relevant stakeholders, the Atlantic Group determines how the various 
+
+stakeholders are engaged with specific engagement methods applied by Atlantic Group towards 
+
+each of these stakeholder groups as per table below: 
+
+
+16 
+
+
+
+Stakeholder Engagement Methods 
+
+SN# Stakeholders 
+
+Principal Methods of Engagement 
+
+1 
+
+Customers 
+
+Company website 
+
+News
+
+Meetings 
+
+2 
+
+Employees 
+
+Company website 
+
+News 
+
+Meetings
+
+Employee events / programs 
+
+Training 
+
+Bulletins &amp; circulars
+
+3 
+
+Management 
+
+Company website 
+
+News 
+
+Financial statements &amp; other reports
+
+Meetings 
+
+Bulletins &amp; circulars 
+
+4 
+
+Shareholders 
+
+Company website 
+
+News 
+
+Financial statements &amp; other reports 
+
+SGX-ST website 
+
+Meetings 
+
+Annual General Meetings 
+
+5 
+
+Creditors 
+
+Company website 
+
+News 
+
+Financial statements &amp; other reports
+
+Meetings 
+
+6 
+
+Suppliers 
+
+Company website 
+
+News
+
+Meetings 
+
+7 
+
+Community 
+
+Company website 
+
+News
+
+Community events 
+
+8 
+
+Government / 
+
+Regulators 
+
+Company website 
+
+News 
+
+Financial statements &amp; other reports  
+
+SGX-ST website  
+
+Meetings 
+
+Government reports 
+
+9 
+
+Competitors 
+
+Company website 
+
+News 
+
+Financial statements &amp; other reports
+
+Meetings (discussion for 
+
+potential areas of collaboration 
+
+given similar industry)
+
+
+17 
+
+
+
+Steps 4:
+
+2.B.
+
+Identification of Materiality &amp; Material Topics  
+
+
+
+GRI: 102-44: Key topics and concerns raised 
+
+After determining the most significant stakeholders and their engagement methods, the 
+
+next step is to assess the ESG topics that are most material under present circumstances and 
+
+working environment. Selected internal stakeholders, especially management and employees, 
+
+were engaged to conduct an impact rating assessment on a list of potentially material ESG topics.  
+
+In view of the intense industry competition and challenging market environment, balancing 
+
+the disclosure requirement with commercial sensitivities while bearing in mind the Atlantic 
+
+Group’s continual strong emphasis on sustainability as guiding principles, the Atlantic Group 
+
+assesses the material ESG topics as classified by their specific ESG elements as key areas of focus 
+
+for Sustainability Reporting 2020. 
+
+Step 5: 
+
+Material Topics – by ESG Classification and Materiality Matrix
+
+
+
+GRI: 102-47: List of material topics 
+
+            Based on the above discussion, we have identified the following material topics segregated 
+
+by ESG Classification and Materiality Matrix consistent with Sustainability Report 2019:   
+
+Topic 
+
+# 
+
+Topic 
+
+By ESG Classification 
+
+1
+
+Environmental Protection and Compliance
+
+Environmental
+
+2
+
+Occupational Health and Safety
+
+Social
+
+3 
+
+Human Resource Management, Diversity and Equal 
+
+Access
+
+Social 
+
+4
+
+Economic Performance 
+
+Governance &amp; Economic
+
+5
+
+IT Process automation and Cyber security
+
+Governance &amp; Economic
+
+
+18 
+
+
+
+By Materiality Matrix
+
+Importance to Stakeholders
+
+High 
+
+- Environmental 
+
+Protection and 
+
+Compliance  
+
+- Economic Performance 
+
+Medium 
+
+- Occupational Health 
+
+and Safety 
+
+- Human Resource 
+
+Management, Diversity 
+
+and Equal Access 
+
+ - IT Process Automation 
+
+and Cyber Security  
+
+Low 
+
+Low 
+
+Medium 
+
+High 
+
+Impact to Atlantic Group (i.e. internal) 
+
+
+19 
+
+
+
+
+
+Part
+
+
+
+Environmental 
+
+Factors
+
+(GRI: 300)
+
+
+20 
+
+
+
+Part 3: Environmental Factors (GRI: 300) 
+
+3.A.
+
+Material Topic #1: Environment Protection and Compliance 
+
+3.A.1. Current Policies, Practices and Performance 
+
+The Group is committed to a strong set of environmental principles with our overall policy 
+
+being to minimise the negative impact to the environment associated with our business operations. 
+
+It is the intention of the Group to conduct all of its operations in such a manner as to minimise any 
+
+actions that may endanger or harm the environment.  
+
+AGM FZE is certified to ISO 14001:2015, Environmental Management System since 
+
+2016. We strive to minimise our carbon footprint, manage our water discharge, reduce our 
+
+wastage, ensuring strict compliance to environmentally friendly practices. We follow all applicable 
+
+regulatory compliance standards to prevent pollution or environmental damage to land, water and 
+
+air environments. 
+
+Energy and Emissions 
+
+As a responsible organisation working in the offshore oil and gas industry that accounts for 
+
+nearly 2% of total greenhouse gas (“GHG”) emissions yearly, the Group has taken proactive 
+
+measures to minimise its carbon foot print.  
+
+To improve our fuel efficiency at an operational level, we have developed respective vessel 
+
+Ship Energy Efficiency Management Plans (“SEEMP”) which AMG fleet vessels are in full 
+
+compliance with, being mandatory for all vessels of at least 400GT. Furthermore, we operate and 
+
+in compliance with the regulations of MARPOL – International Convention for the Prevention of 
+
+Pollution from Ships.  
+
+As our fleet uses low sulphur Marine Gas Oil (“MGO”) instead of heavier fuel oils, our 
+
+entire fleet is already compliant with the stringent sulphur cap regulations which limits sulphur 
+
+emissions to less than 0.5% m/m by 1 January 2020. The MGO sulphur content ranges from 0.01% 
+
+to 0.10% m/m which we actively monitor through bunker delivery notes which would indicate the 
+
+percentage of sulphur at all bunkering operations.  
+
+Fuel Management on Vessels 
+
+To the extent of supporting and being directed by our clients in time charters, our fleet in 
+
+general is equipped with established advanced engines with established manufacturers that are 
+
+outfitted with Engine Control Modules (“ECMs”) which mainly control a series of actuators on an 
+
+internal combustion engine to ensure optimal engine performance. In addition, these ECMs allow 
+
+for continuous monitoring of parameters such as temperature, pressure, fuel oil consumption which 
+
+provide critical information for the crew for operational decision-making. 
+
+Fuel consumption data are analysed by operations manager and technical team to verify if 
+
+the values are reasonable in view of the work environment and sea condition. This data also allows 
+
+comparison with other identical vessels operating in the same field and thereby detect and 
+
+implement corrective actions for overconsuming vessels. 
+
+
+21 
+
+
+
+           GHG gas emissions are managed or reduced by the efficient planning of voyages, speed 
+
+optimisation, just-in-time activities, maintaining optimum trim and ballast, together with well-
+
+maintained engines and use of quality fuel oils. 
+
+Compliance to International Standards or Regulations 
+
+1 
+
+SEEMP 
+
+Mandatory for all ship of 400GT and all AMG FZE’s 
+
+vessels are in full compliance 
+
+2 
+
+IMO 2020 regulation 
+
+sulphur cap to less than 
+
+0.5% m/m 
+
+All AMG FZE’s fleet vessels are using MGO for 
+
+Main Engines as well as for Generators of whose 
+
+sulphur content is less than 0.5% m/m. 
+
+3 
+
+Ballast Water 
+
+Management Plan 
+
+(“BWMP”) 
+
+AMG FZE’s vessels are equipped onboard with the 
+
+required BWMP approved by flag administration 
+
+applicable for vessels due for their first International 
+
+Oil Pollution Prevention (“IOPP”) renewal survey 
+
+after 8 September 2019. 
+
+3.A.2. Future Plans &amp; Focus 
+
+The Group continues to be committed to a progressive reduction of GHG emissions via a 
+
+reduction in energy consumed through its operations. The introduction of ERP system 
+
+implemented in 2020 and online working platforms are expected to reduce the paper 
+
+documentations. The Group also encourages its employees to utilise technologies such as video-
+
+conferencing and online work platforms to limit travel and thereby reduce GHG emissions from 
+
+transportation. 
+
+The International Convention for the Control and Management of Ships’ Ballast Water and 
+
+Sediments (“BWM Convention”), which took effect in September 2017, requires all ships to 
+
+implement a ballast water management plan (“BWMP”). All ships are also required to monitor 
+
+ballast water discharge and carry out ballast water management procedures according to a given 
+
+standard where our vessels fully comply with. Moving forward, the Group is progressively 
+
+completing the conversion of ballast tanks into fresh water tanks in accordance with the vessels’ 
+
+respective special survey schedules, with the last of such conversions relating to 2 vessels to be 
+
+completed by September 2023, where then the BWMP would no longer be applicable. 
+
+
+22 
+
+
+
+3.A.3. Environmental Performance and KPI Targets 
+
+For FY2021, we intend to focus on the following Key Performance Indicators (“KPIs”): 
+
+#
+
+KPI
+
+FY2019
+
+FY2020
+
+FY2021 Target
+
+1 % of sulphur content in fuel 
+
+0.01% - 
+
+0.10% 
+
+m/m 
+
+0.01% - 
+
+0.10% 
+
+m/m 
+
+Continue to be in full 
+
+compliance 
+
+2 Number of oil spills or 
+
+hazardous chemical spills 
+
+0 
+
+0 
+
+Target to remain at zero 
+
+3 
+
+Penalties received for violation 
+
+of environmental rules 
+
+including MARPOL, SEEMP 
+
+0 
+
+0 
+
+Target to remain at zero 
+
+We continue to monitor the electricity and water consumption at our main office in 
+
+Hamriyah, UAE, which includes workshop where the SRM operations are performed. The table 
+
+below depicts the level of electricity and water consumption for FY2019 and FY2020:     
+
+Utilities KPI 
+
+FY2019 
+
+FY2020 
+
+FY2021 Target 
+
+Total Electricity Consumption at 
+
+office, including SRM Workshop 
+
+Operations (KWH) 
+
+267,360 
+
+274,480, or 
+
+2.7% increase 
+
+y-o-y
+
+To limit increase, if 
+
+any, in line with 
+
+activity levels with 
+
+changes in Group 
+
+revenue as a proxy 
+
+Total Water Consumption (Gallons) 
+
+418,896 
+
+337,935, or 
+
+19.3% 
+
+decrease y-o-y
+
+While main office headcount and operations remain stable, SRM activities increased significantly 
+
+by 37.2% from US$1.91 mil in FY2019 to US$2.62 mil in FY2020 (including internal revenue for 
+
+work on own vessels which are eliminated on group consolidation) which contributed to the 
+
+increase in total electricity consumption in FY2020. 
+
+
+23 
+
+
+
+
+
+Part
+
+
+
+Social Factors
+
+(GRI: 400)
+
+
+24 
+
+
+
+Part 4: Social Factors (GRI: 400) 
+
+4.A.
+
+ Material Topic #2: Occupational Health and Safety 
+
+4.A.1. Current Policies, Practices and Performance 
+
+The Group believes that the safe operation of vessels, safety of its employees (including 
+
+contractors and all persons working under its control), together with the public are of paramount 
+
+importance and the overriding responsibilities and considerations in carrying out its diverse marine 
+
+operations. 
+
+The Group maintains strict control programs to monitor and control its operational risks. 
+
+We remain focused on increasing Occupational Health and Safety (“OHS”) awareness amongst 
+
+our employees and crew. Structured safety meetings are held and safety trainings were regularly 
+
+organised for them throughout the year. 
+
+The Stop Work policy of the Group provides the authority to all relevant designated 
+
+employees or contractors to stop an activity if, in his/her opinion or judgment, the activity is 
+
+deemed to be an unsafe or risky behavior. 
+
+As ship manager, AMG FZE has successfully implemented and maintained an integrated 
+
+management system in compliance with the latest ISO standards in Quality, Safety and 
+
+Environment. AMG FZE follows a risk-based approach and proactive method of implementing 
+
+control measures or taking preventive actions to minimise accident rates. 
+
+Industrial Standards 
+
+As one of the leading offshore companies operating mainly in the Middle East, the Group 
+
+is fully committed to complying with applicable international standards, regulations and statutory 
+
+requirements from: 
+
+
+
+International Maritime Organization (“IMO”) conventions 
+
+
+
+International Convention for the Safety of Life at Sea (“SOLAS”) 
+
+
+
+Maritime Labor Convention (“MLC”) 
+
+
+
+International Organization for Standardization (“ISO”)
+
+
+25 
+
+
+
+
+
+GRI: 102-13: Membership of associations 
+
+The Atlantic Group complies with various OHS-related standards and accreditations, 
+
+including as per the table below in addition to other specific requirements from our clients, and 
+
+receive audit reports concerning our level of compliance to ensure that the Atlantic Group abides 
+
+by the highest OHS standards.: 
+
+OHS Standards 
+
+Applicability 
+
+1 Maritime Labor Convention (MLC) 
+
+Mandatory 
+
+2 International Safety Management (ISM) System
+
+Mandatory
+
+3 International Organization for Standardization (ISO) 
+
+45001:2018 – Occupational Health &amp; Safety Management 
+
+System (OHSMS)
+
+Voluntary 
+
+4.A.2. Future Plans &amp; Focus
+
+Compliance with various OHS standards is critical to continue to serve our existing 
+
+contracts and to secure and tender for new contracts from clients — whether existing and 
+
+new. In order to ensure this into the future, we strive to not only meet the current standards, 
+
+but to also proactively anticipate and prepare our fleet for any future possible OHS standards 
+
+that may arise — whether from clients or from global/industrial initiatives.  
+
+In order to achieve this proactive compliance, we constantly keep ourselves abreast with 
+
+OHS developments and their impacts through close interactions across the operational divisions 
+
+as well as external clients, and continuously plan for and implement new measures to improve 
+
+OHS elements within the Atlantic Group. 
+
+
+26 
+
+
+
+4.A.3. OHS Performance and KPI Targets 
+
+For FY2021, we intend to focus on the following KPIs in relation to OHS: 
+
+#
+
+KPIs 
+
+FY2019 
+
+FY2020 
+
+FY2021 Target 
+
+1
+
+Number and type of 
+
+accreditations, standards, and 
+
+requirements, related to OHS, 
+
+complied with 
+
+3 
+
+3 
+
+To maintain, while 
+
+in full compliance 
+
+with MLC, ISM 
+
+and  ISO OHSMS. 
+
+2
+
+Number of OHS standards and 
+
+requirements not complied with 
+
+0 
+
+0 
+
+To remain at zero, 
+
+i.e. in full 
+
+compliance. 
+
+3
+
+Lost time injury (number count) 
+
+1 
+
+(Ratio*: 0.28) 
+
+0 
+
+(Ratio*: 0) 
+
+Target Ratio* less 
+
+than 1.0 per million 
+
+manhours** for 
+
+offshore crew for 
+
+relevant FYs.  
+
+4
+
+Number of hours of training 
+
+conducted onboard 
+
+1,840 
+
+(Ratio***: 
+
+22.2) 
+
+1,840 
+
+(Ratio***: 
+
+24.4) 
+
+To continue to 
+
+increase Ratio*** 
+
+of number per % 
+
+unit, i.e. as a 
+
+proportion, of 
+
+vessel fleet 
+
+utilisation for the 
+
+relevant FYs. 
+
+5
+
+Number of safety meeting 
+
+sessions conducted 
+
+1,076 
+
+(Ratio***: 
+
+13.0) 
+
+1,012 
+
+(Ratio***: 
+
+12.5)  
+
+6
+
+Number of safety drill sessions 
+
+conducted 
+
+1,560  
+
+(Ratio***: 
+
+18.8) 
+
+1,620  
+
+(Ratio***: 
+
+20.0) 
+
+* 
+
+Less than 1.0 per million manhours 
+
+**
+
+Approximately 3.59 million man-hours in FY2019 and 3.35 million man-hours in FY2020. 
+
+***  
+
+Fleet utilisation in FY2019 at 83% vs FY2020 at 81%.  
+
+
+27 
+
+
+
+4.B.
+
+Material Topic #3: Human Resource Management, Diversity and Equal Access 
+
+4.B.1. Current Policies, Practices and Performance 
+
+We firmly believe that our employees as a collective group, i.e. human resource, is one of 
+
+the key stakeholders which drives the operational and financial performances of the Atlantic 
+
+Group. Having a group of key middle-level management employees in leadership positions to 
+
+support the Senior Management is a source of competitive advantage whose experience and 
+
+technical knowledge are crucial to ensuring the long-term sustainability of the Atlantic Group.      
+
+Underpinned by tolerance as to faith, religions and personal beliefs, the Atlantic Group 
+
+believes in and is committed to fair employment practices, with recruitment, promotions and salary 
+
+increment and benefit enhancement based on merit and continual performance. The key foundation 
+
+is in fostering a cohesive work force based on teamwork and cooperation and reinforced by open 
+
+communications across the different levels of the organisation.  
+
+
+
+GRI: 102-8: Information on employees and other workers 
+
+The Atlantic Group employs permanent staff in the MLS Division which is based in UAE 
+
+and Saudi Arabia as well as in SRM Division whose operations are based mainly at our workshop 
+
+in Hamriyah Free Zone, Sharjah, UAE with plans to establish presence in Dubai Maritime City 
+
+(DMC) in FY2021. The MLS Division is supported by employees including those in corporate 
+
+functions such as Human Resource, Finance and Administration, Legal which in turn also supports 
+
+the operations of the SRM Division. The employees in the SRM Division are mostly semi-skilled 
+
+or general laborers and are supplemented by daily-rated workers if required.  
+
+Crew members work onboard vessels are not deemed as permanent employees as they are 
+
+mainly on contracts on a “3 months on, 3 months off” basis, with numbers on each vessel 
+
+complying with class society and other requirements and supplemented by further crew members 
+
+in consultation with the end-client. As at 31 December 2020, there were 269 crew members 
+
+onboard compared to 334 as at 31 December 2019. Reduction of crew members is mainly due to 
+
+some vessels at berth and staff in Saudi Arabia office. 
+
+
+28 
+
+
+
+The salient information of the Group employees as segregated is as follows:  
+
+* Top 5 countries for FY2020 comprises mainly from the South Asia sub-region including 
+
+India, Bangladesh, Pakistan, as well as Singapore and the Philippines. 
+
+Top 5 countries for FY2019 comprises mainly from the South Asia sub-region including 
+
+India, Bangladesh, Pakistan and Nepal, as well as the Philippines. 
+
+Employee Information Segregation  
+
+(Number count, except % as indicated) 
+
+As at 31 Dec 2019 
+
+As at 31 Dec 2020 
+
+Overall 
+
+161
+
+167
+
+- Countries Represented
+
+20
+
+21
+
+- Concentration of Top 5 countries* represented
+
+82.0%
+
+83.2%
+
+Division: MLS 
+
+94
+
+86
+
+Of which based at:
+
+- UAE
+
+67
+
+67
+
+- Saudi Arabia
+
+27
+
+19
+
+Diversity: 
+
+- Countries Represented
+
+19
+
+17
+
+- Concentration of Top 5 countries* represented
+
+74.5%
+
+76.7%
+
+Division: SRM, based at Hamriyah Free Zone, 
+
+Sharjah, UAE 
+
+67
+
+81
+
+Diversity: 
+
+- Countries Represented
+
+7
+
+8
+
+- Concentration of Top 5 countries* represented 
+
+(5th country consisting of 4 countries of only 1 
+
+personnel)
+
+97.0%
+
+93.8%
+
+
+29 
+
+
+
+Our Corporate Social Responsibilities (“CSR”) Initiatives  
+
+            For many years, the Atlantic Group has been involved in the annual Singapore Food Fair 
+
+held in Dubai, UAE. This is annual charity event being organised and collaborated with our 
+
+Singapore Consulate, Dubai. Singaporeans who reside in UAE are encouraged to participate in 
+
+this annual event. A percentage of the sale proceeds from our stall would be contributed to a local 
+
+registered UAE charity organisation as nominated by our Singapore Consulate. During the main 
+
+festive periods such as Chinese New Year, Ramadan, Eid, Diwali and Christmas, as a gesture of 
+
+support and unity during such festivities, we distribute free meals to workers and staff. During the 
+
+UAE national day, we contribute and donate small amount of money to Hamriyah Free Zone, 
+
+Sharjah, UAE where we operate to contribute to festivities and celebrations. 
+
+            In view of the COVID-19 pandemic, the abovementioned activities have ceased 
+
+temporarily in FY2020. The Group will look to continue these initiatives at the appropriate 
+
+juncture. 
+
+4.B.2. Future Plans &amp; Focus  
+
+Diversity of Nationalities in Workforce 
+
+Given that the UAE's population profile comprises of about 80% expatriates, our 
+
+permanent employees come from various countries with different cultures, educational 
+
+backgrounds and work experience. We will continue to be mindful of the number of nationalities 
+
+represented as well as the concentration in numbers so that no nationality dominates the workforce 
+
+and the Atlantic Group continues to benefit from cultural diversity.  
+
+Staff Turnover 
+
+Staff turnover is reduced in FY2020. We intend to lower the staff turnover so that with a 
+
+more stable base of employees, it would lead to continuity and enhanced productivity and 
+
+efficiency through familiarity and team cohesiveness as well as grooming longer-serving 
+
+employees with growth potential to leadership positions through accumulation of experience at the 
+
+Atlantic Group.  
+
+Gender Mix and Equal Access 
+
+Traditionally, the offshore oil and gas industry where our MLS and SRM Divisions serve 
+
+are staffed by the male gender. While overall consideration are based on merit and suitability based 
+
+on nature of job scope, we strive to equal access by placing emphasis on gender mix so that there 
+
+is further diversity to benefit from more well-rounded perspectives and diversity of views with 
+
+female staff participation in the Atlantic Group. More importantly, we aspire to fill leadership and 
+
+supervisory positions with female staff especially in more relevant areas involving corporate 
+
+functions where the Atlantic Group will benefit from leadership balance and diversity and with a 
+
+view to enhance efficiency over time. 
+
+
+30 
+
+
+
+To the extent that it is within our control, given the traditional, cultural and resource backgrounds 
+
+in Saudi Arabia and nature of work where SRM work is less suitable to the female gender, we will 
+
+primarily focus on enhancing the diversity and gender mix on the workforce in UAE within MLS 
+
+where our female employees currently reside.  
+
+4.B.3. Human Resource Performance and KPI Targets 
+
+For FY2021, in view of the above discussion, we intend to focus on the following KPIs in 
+
+relation to Human Resource as a key stakeholder group: 
+
+#
+
+KPIs 
+
+FY2019 
+
+FY2020 
+
+FY2021 Target 
+
+1
+
+Group overall: 
+
+Diversity of workforce with countries 
+
+representation; Concentration of Top 
+
+5 countries represented 
+
+20 
+
+Nationalities;
+
+82.0% 
+
+21 
+
+Nationalities;
+
+83.2%  
+
+Continue to monitor 
+
+for stability of 
+
+workforce  
+
+2
+
+Staff Turnover (%)   
+
+27.4% 
+
+22.0% 
+
+Target to reduce for 
+
+continuity, allowing 
+
+for stability of 
+
+organisation, 
+
+promotion and 
+
+career progression 
+
+for employees 
+
+3
+
+Gender Mix, i.e. Female staff as 
+
+proportion of all staff in MLS 
+
+Division in UAE  
+
+20.9%, 
+
+14 out of 67 
+
+23.9%, 
+
+16 out of 67 
+
+To monitor and 
+
+review for scope for 
+
+increase, where 
+
+enhanced female 
+
+diversity would 
+
+result incremental 
+
+benefit to the 
+
+organisation 
+
+4
+
+Female staff in Leadership and 
+
+Supervisory Positions 
+
+6 
+
+8 
+
+5
+
+Salaries of Female in Leadership and 
+
+Supervisory Positions as % of Total 
+
+Salaries in MLS Division in UAE 
+
+8.9% 
+
+14.6% 
+
+6
+
+Salaries of All Female staff as % of 
+
+Total Salaries of MLS Division in 
+
+UAE  
+
+12.6% 
+
+18.1% 
+
+
+31 
+
+
+
+
+
+Part
+
+
+
+
+
+Governance &amp; 
+
+Economic 
+
+Factors
+
+(GRI: 200)
+
+
+32 
+
+
+
+Part 5: Governance &amp; Economic Factors (GRI: 200) 
+
+5.A.
+
+Material Topic #4: Economic Performance 
+
+5.A.1. Current Policies, Practices and Performance 
+
+Given the ongoing COVID-19 pandemic and continuing subdued and volatility in oil 
+
+prices, and general oversupply of vessels resulting in competitive pressures on charter rates, 
+
+many offshore oil &amp; marine companies including the Atlantic Group have been under significant 
+
+financial pressures. Apart from operating expenditures, with offshore industry being capital 
+
+intensive business, there are various demands for cash outflows including the continuing need to 
+
+service loans and interest payments as well as spending on capital expenditures and maintenance 
+
+resulting from respective annual and special surveys of the vessel fleet.  
+
+The Atlantic Group balances and actively manages the needs of these various operating, 
+
+investing and financing requirements of the various respective stakeholders under the current 
+
+difficult environment to enable the long-term sustainability of the Atlantic Group.  
+
+The Earnings Before Interest, Taxes, Depreciation and Amortisation as adjusted for non-
+
+cash items (“Adjusted EBITDA”) are tabulated, and together with the fleet utilisation rates, are 
+
+disclosed in our quarterly financial results announced on SGX since 2QFY2019. These 
+
+information provide indications of the economic performance leading to the cash generation 
+
+abilities of the Atlantic Group to meet payment obligations to creditors and suppliers as well as to 
+
+fulfil the capital and maintenance expenditures due to annual and special surveys in the upkeep of 
+
+vessels to sustain operational performance.     
+
+5.A.2. Future Plans &amp; Focus 
+
+Our Response to Challenges 
+
+With the current difficult market environment, the focus of the Atlantic Group is on 
+
+maintaining our enhanced level of fleet utilisation to broadly commensurate with the current 
+
+market conditions of our owned vessels supported by our long-term contracts. Sustaining a high 
+
+utilisation rate enables the generation of revenue and cash flows while avoiding unproductive 
+
+operating expenditures as unutilised or off-hired vessels continue to incur cost while not generating 
+
+revenue. In addition, maintaining the utilisation rate of vessel fleet is supportive of the respective 
+
+economic objectives of other various stakeholders including customers, employees, creditors and 
+
+suppliers. 
+
+In view of the challenging market environment coupled with the on-going COVID-19 
+
+pandemic situation which continues to evolve unpredictably, the focus of the Atlantic Group for 
+
+FY2021 is on sustaining the vessel overall utilisation rate to stabilise the Adjusted EBITDA as 
+
+well as its debt and gearing ratio. 
+
+
+33 
+
+
+
+5.A.3. Economic Performance and KPI Targets 
+
+For FY2021, in view of the discussion above, we intend to focus on the following KPIs: 
+
+#
+
+KPIs 
+
+FY2019 
+
+FY2020 
+
+FY2021 Target 
+
+1 
+
+Sustaining the fleet 
+
+utilisation rate  
+
+83% 
+
+81% 
+
+Sustain the utilisation rate 
+
+subject to the current 
+
+difficult market 
+
+environment 
+
+2 
+
+Adjusted EBITDA 
+
+generation 
+
+US$19.8mil 
+
+US$13.9mil 
+
+Stabilize  the Adjusted 
+
+EBITDA against the 
+
+backdrop of difficult 
+
+market environment and 
+
+intense competition 
+
+3 
+
+Gearing ratio 
+
+55% 
+
+52% 
+
+Sustain the Gearing ratio, 
+
+i.e. net debt* divided by 
+
+total capital**plus net debt, 
+
+comparable to FY2019 and 
+
+unaudited FY2020 (based 
+
+on FY2020 results 
+
+announcement dated 31 
+
+March 2021) 
+
+* Net debt comprises of loans and borrowings, trade and other payables, other liabilities, less cash and bank 
+
+balances in aggregate.  
+
+**Capital refers to equity attributable to owners of the Company. 
+
+The Atlantic Group continue to work closely with our various stakeholders to overcome 
+
+the current challenging market and industry environment to achieve the above objections. While 
+
+the above economic KPIs are areas of focus and aspirational targets, they are not to be construed 
+
+as forecast or prospect statements for the purpose of Note 10 in the quarterly financial 
+
+announcements on SGX.    
+
+
+34 
+
+
+
+5.B.
+
+Material Topic #5: IT Process Automation and Cyber Security 
+
+5.B.1. Current Policies, Practices, and Performance 
+
+IT Process Automation 
+
+The Atlantic Group is continually seeking to improve its work flows and processes and 
+
+enhance its efficiency, and effectiveness. One of the key areas of focus where such improvements 
+
+can be achieved is through the IT system which integrates the various functions of the Group across 
+
+departments from purchase requisition, raising of purchase orders, delivery notes and invoicing as 
+
+well as interfacing with Human Resources (“HR”) including crewing and payroll requirements.  
+
+Given the nature and importance of IT and the related issues of connectivity and use of 
+
+applicable software and licensing, the Atlantic Group has been investing and adopting IT 
+
+initiatives relating to the above to achieve its end objective to enhancing productivity. With the 
+
+increased levels of activities and complexities in our operations across different countries, the 
+
+focus has been to upgrade our IT softwares to improve efficiencies with enhanced Management 
+
+Information System (“MIS”) capabilities to better enable, amongst others, revenue and cost 
+
+analysis, and strategic decision making. 
+
+In view of the strategic importance of IT, ensuring robust data protection and security is of 
+
+paramount importance to the Atlantic Group. Our efforts are focused on business continuity 
+
+through secured hosting and back-up retrieval as contingency in events of disruptions caused by 
+
+natural environmental events and mishaps (such as flooding, fire etc) or deliberate means through 
+
+attempted unsavoury IT attacks and security breaches with adoption of adequate firewalls and 
+
+updating of security patches and undergoing training to keep abreast of latest threats and 
+
+developments.  
+
+5.B.2. Future Plans &amp; Focus 
+
+The Atlantic Group intends to continue to review our requirement and invest in where 
+
+required to upgrade its IT processes and systems, embrace new technologies, and conduct training 
+
+to enhance efficiency through connectivity and communications and able to react and respond to 
+
+clients and operating demands in a timelier manner. A new ERP was implemented successfully in 
+
+1st quarter of  FY2020. 
+
+We will continue to enhance the capability of the new ERP software with further 
+
+customisation to allow further efficiency emanating from its MIS capabilities.  
+
+International Maritime Organization (IMO) - Cyber Security  
+
+As per IMO, maritime cyber risk refers to a measure of the extent to which a technology 
+
+asset could be threatened by a potential circumstance or event, which may result in shipping-
+
+
+35 
+
+
+
+related operational, safety or security failures as a consequence of information or systems being 
+
+corrupted, lost or compromised. Cyber risk management then encompasses the processes of 
+
+identifying, analyzing, assessing and communicating a cyber-related risk and accepting, avoiding, 
+
+transferring or mitigating it to an acceptable level, considering costs and benefits of actions taken 
+
+to stakeholders.  
+
+With the overall objective to support safe and secure shipping being operationally resilient 
+
+to cyber risks, the Maritime Safety Committee, at its 98th session in June 2017, adopted among 
+
+others, Resolution MSC.428(98) - Maritime Cyber Risk Management in Safety Management 
+
+Systems (“SMS”). The resolution encourages companies to ensure that cyber risks are 
+
+appropriately addressed in existing safety management systems (as defined in the ISM Code) no 
+
+later than the first annual verification of the company's Document of Compliance (“DOC”) from 
+
+1 January 2021. 
+
+The Atlantic Group has completed the formalisation of policy and procedure manuals for 
+
+communications between on-shore staff and off-shore crew to ensure the data security and 
+
+consistency of data transmission for safe and secure vessel operations. Maritime Cyber threat 
+
+management is based on Confidentiality, Integrity and Availability, i.e. “CIA” model when 
+
+assessing the impact levels. Annual DOC Audit including Cyber Risk Management assessment 
+
+was completed on 8 April 2021. 
+
+5.B.3. IT Performance and KPI Targets 
+
+For FY2021, in view of the discussion above, we intend to focus on the following KPIs: 
+
+#
+
+KPIs 
+
+FY2019 
+
+FY2020 
+
+FY2021 Target 
+
+1
+
+Dedicated IT Staff to 
+
+support operations  
+
+2 
+
+3 
+
+Target to commensurate 
+
+with requirements 
+
+including IMO and 
+
+sophistication, 
+
+potentially no change to 
+
+FY2020 headcount 
+
+2
+
+IT Expenditure and 
+
+Investments (US$’000, 
+
+estimated) 
+
+75.7 (As 
+
+updated) 
+
+109.6 (increased 
+
+due to new ERP 
+
+system which went 
+
+live in 1st quarter of 
+
+FY2020) 
+
+Target to commensurate  
+
+with activities, IT 
+
+compliance and 
+
+initiatives to further 
+
+enhance data security, 
+
+expected to be lower as 
+
+new ERP system 
+
+already implemented  
+
+
+36 
+
+
+
+3
+
+Compliance with IMO – 
+
+Maritime Cyber Risk 
+
+Management in SMS 
+
+Development 
+
+work to 
+
+formalise 
+
+manuals and 
+
+procedures 
+
+On-going 
+
+compliance, latest  
+
+annual DOC Audit, 
+
+including Cyber 
+
+Risk Management 
+
+assessment  
+
+completed in April 
+
+2021
+
+To refine and update 
+
+manuals and procedures 
+
+to comply with new 
+
+requirements, if any 
+
+
+37 
+
+
+
+
+
+Part
+
+
+
+GRI Content 
+
+Index
+
+(GRI: 102-55)
+
+
+38 
+
+
+
+Part 6: GRI Content Index  
+
+
+
+GRI 102-55: GRI content index 
+
+Item 
+
+Disclosure Requirement 
+
+Reference 
+
+Page  
+
+GRI: 102: General disclosures 
+
+Part 1 &amp; 2 
+
+4 
+
+102-1
+
+Name of the organisation
+
+Corporate Profile
+
+4 
+
+102-2
+
+Activities, brands, products, and services
+
+Corporate Profile
+
+4 
+
+102-3
+
+Location of headquarters 
+
+Corporate Profile
+
+7 
+
+102-4
+
+Location of operations
+
+Corporate Profile
+
+7 
+
+102-5
+
+Ownership and legal form
+
+Corporate Profile
+
+7 
+
+102-6
+
+Markets served
+
+Corporate Profile
+
+6 
+
+102-7
+
+Scale of the organisation
+
+Corporate Profile
+
+4 
+
+102-8 
+
+Information on employees and other 
+
+workers
+
+Corporate Profile 
+
+27 
+
+102-9
+
+Supply chain
+
+Corporate Profile
+
+8 
+
+102-10 
+
+Significant changes to the organisation 
+
+and its supply chain
+
+Corporate Profile 
+
+8 
+
+102-11
+
+Precautionary principle or approach
+
+Risk Management
+
+11 
+
+102-12
+
+External initiatives
+
+Corporate Profile
+
+8 
+
+102-13 
+
+Membership of associations 
+
+Current Policies, Practices and 
+
+Performance
+
+25 
+
+102-14
+
+Statement from senior decision-maker
+
+Board Statement
+
+8 
+
+102-16 
+
+Values, principles, standards, and norms 
+
+of behavior
+
+Ethics &amp; Integrity 
+
+9 
+
+102-18
+
+Governance structure
+
+Governance
+
+9 
+
+102-32 
+
+Highest governance body’s role in 
+
+sustainability reporting
+
+Board Statement 
+
+8 
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement
+
+14 
+
+102-41
+
+Collective bargaining agreements
+
+Stakeholder Engagement
+
+14 
+
+102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement
+
+14 
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement
+
+15 
+
+102-44
+
+Key topics and concerns raised
+
+Identification of Material Topics
+
+17 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements
+
+Corporate Profile 
+
+7 
+
+102-46 
+
+Defining report content and topic 
+
+boundaries
+
+Stakeholder Engagement 
+
+13 
+
+102-47
+
+List of material topics
+
+Materiality Matrix
+
+17 
+
+102-48
+
+Restatements of information
+
+Reporting Practice
+
+10 
+
+102-49
+
+Changes in reporting
+
+Reporting Practice
+
+10 
+
+102-50
+
+Reporting period
+
+Reporting Practice
+
+10 
+
+102-51
+
+Date of most recent report
+
+Reporting Practice
+
+10 
+
+
+39 
+
+
+
+Item 
+
+Disclosure Requirement 
+
+Reference 
+
+Page  
+
+102-52
+
+Reporting cycle
+
+Reporting Practice
+
+10 
+
+102-53 
+
+Contact point for questions regarding the 
+
+report
+
+Reporting Practice 
+
+10 
+
+102-54 
+
+Claims of reporting in accordance with the 
+
+GRI Standards
+
+Sustainability Reporting 
+
+Frameworks
+
+8 
+
+102-55
+
+GRI content index
+
+GRI content index
+
+38-39 
+
+102-56
+
+External assurance
+
+Reporting Practice
+
+11 
+
+GRI: 200: Economic 
+
+Part 5 
+
+32-36 
+
+GRI: 300: Environmental 
+
+Part 3 
+
+20-22 
+
+GRI: 400: Social 
+
+Part 4 
+
+24-30 
+
+
+40 
+
+
+
+
+
+Part
+
+
+
+
+
+Index on SGX 
+
+Rulebook 
+
+Compliance
+
+
+41 
+
+
+
+Part 7: Index on SGX Rulebook Compliance 
+
+Rulebook Clause 
+
+SGX Rulebook Requirement 
+
+Reference in Report 
+
+711 A 
+
+Sustainability Report 
+
+
+
+Throughout 
+
+711 B1 a) 
+
+Material environmental, social 
+
+and governance factors 
+
+
+
+Part 2: Stakeholder Engagement, 
+
+Materiality &amp; Material Topics 
+
+Alignment 
+
+711 B1 b) 
+
+Policies, practices, and 
+
+performance 
+
+
+
+Part 3: Environmental Factors 
+
+
+
+Part 4: Social Factors 
+
+
+
+Part 5: Governance &amp; Economic 
+
+Factors 
+
+711 B1 c) 
+
+Targets 
+
+
+
+Part 3: Environmental Factors 
+
+
+
+Part 4: Social Factors 
+
+
+
+Part 5: Governance &amp; Economic 
+
+Factors 
+
+711 B1 d) 
+
+Sustainability reporting 
+
+framework 
+
+
+
+Part 1: Overview  1.A. 
+
+Corporate Profile  GRI: 102-54 
+
+711 B1 e) 
+
+Board Statement 
+
+
+
+Part 1: Overview  1.B. Board 
+
+Statement 
+
+711 B2 
+
+Primary content exclusion 
+
+Not Applicable 
+

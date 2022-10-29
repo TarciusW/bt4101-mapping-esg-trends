@@ -1,0 +1,3766 @@
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+EC World REIT 
+
+SUSTAINABILITY REPORT  
+
+FY2018 
+
+
+
+
+1 | P a g e 
+
+ 
+
+TABLE OF CONTENTS 
+
+BOARD STATEMENT........................................................................................................................................... 2 
+
+ABOUT THE REPORT .......................................................................................................................................... 3 
+
+ABOUT EC WORLD ............................................................................................................................................. 4 
+
+OVERVIEW OF EC WORLD.............................................................................................................................. 4 
+
+SUPPLY CHAIN MANAGEMENT ...................................................................................................................... 6 
+
+2018 HIGHLIGHTS .............................................................................................................................................. 7 
+
+OUR SUSTAINABILITY APPROACH ...................................................................................................................... 8 
+
+SUSTAINABILITY COMMITMENT .................................................................................................................... 8 
+
+SUSTAINABILITY GOVERNANCE ..................................................................................................................... 8 
+
+STAKEHOLDER ENGAGEMENT ....................................................................................................................... 8 
+
+MATERIALITY ASSESSMENT ......................................................................................................................... 10 
+
+GOVERNANCE .................................................................................................................................................. 11 
+
+RISK MANAGEMENT .................................................................................................................................... 11 
+
+ETHICS AND INTEGRITY................................................................................................................................ 12 
+
+REGULATORY COMPLIANCE ........................................................................................................................ 14 
+
+OUR BUSINESS ................................................................................................................................................. 16 
+
+QUALITY OF ASSETS ..................................................................................................................................... 16 
+
+PRODUCT INNOVATION ............................................................................................................................... 19 
+
+OUR PEOPLE .................................................................................................................................................... 22 
+
+PROFILE OF OUR WORKFORCE .................................................................................................................... 22 
+
+WORKPLACE HEALTH AND SAFETY .............................................................................................................. 23 
+
+OUR ENVIRONMENT ........................................................................................................................................ 26 
+
+ENERGY USE AND GHG EMISSION ............................................................................................................... 26 
+
+GRI CONTENT INDEX ........................................................................................................................................ 29 
+
+ 
+
+ 
+
+ 
+
+
+2 | P a g e 
+
+ 
+
+BOARD STATEMENT 
+
+ 
+
+Dear Stakeholders, 
+
+EC World Asset Management Pte. Ltd. (“ECWAM” or the “Manager”) is pleased to present our second 
+
+sustainability report for EC World Real Estate Investment Trust (运通网城房地产投资信托) (“EC World REIT” 
+
+or the “REIT”) for the financial year ended 31 December 2018. As the Manager of EC World REIT, we recognise 
+
+the importance in ensuring sustainability of our business operations, which our REIT’s success is heavily 
+
+dependent on. 
+
+To ensure that our business continues to create long-term value for the stakeholders and unitholders of the 
+
+REIT, the Board emphasises the significance of driving sustainability within our operations as part of EC World 
+
+REIT’s strategic business formulation. With the Board’s support, the Manager has initiated and set the 
+
+direction for sustainability practices and initiatives throughout EC World REIT’s operations.  
+
+A top-down approach is employed in determining, assessing and executing of the Environmental, Social and 
+
+Governance (“ESG”) factors and framework to drive sustainability development within the REIT. This ESG 
+
+approach has also been endorsed by Forchn Holdings Group Co. Ltd. (“the Sponsor”), while the Board 
+
+oversees the management and monitoring of the REIT’s material ESG factors.  
+
+SOCIAL 
+
+The Manager believes that human capital is our greatest asset. We strive to protect the safety, health and 
+
+general well-being of not only our employees, but also our tenants, service providers and local communities. 
+
+We strive to work towards our target of zero injuries and fatalities at the REIT’s assets. To do so, we have 
+
+implemented measures such as standardisation of safety production and internal policies. We have also 
+
+implemented initiatives such as conducting fire drills at Hengde Logistics to equip workers with the right 
+
+knowledge on fire safety management and to improve their ability to respond quickly to fire incidents.  
+
+ENVIRONMENTAL 
+
+As the REIT’s portfolio continues to expand, we strive to minimise our environmental footprint as much as 
+
+we can. We place strong emphasis on environmental management, especially energy consumption, which 
+
+has been identified as the REIT’s largest carbon footprint. As a responsible corporate, the REIT has taken a 
+
+proactive role in managing our energy consumption in ways such as the conversion to energy-efficient 
+
+lighting, the installation of solar panels and programmes that raise awareness on energy saving. Our 
+
+environmental policies seek to reduce energy consumption and greenhouse gas emissions through effective 
+
+air and water pollution control measures as well as proper handling and disposal of hazardous waste. Our 
+
+policies also include continual improvement of our resource efficiency. 
+
+GOVERNANCE 
+
+The Manager recognises that upholding high standards of corporate governance is integral to the REIT’s 
+
+continual growth and the sustainability of our operations. Being committed to ethical business conducts, we 
+
+place high emphasis on our employees to comply with the laws and regulations, and to act responsibly and 
+
+with integrity in all of the REIT’s activities. We strive to maintain our transparency and seek continuous 
+
+improvement to remain accountable to our stakeholders. 
+
+The Executive Director and Chief Executive Officer of the Manager, Mr. Goh Toh Sim, is the overall in charge 
+
+of reporting to the Board on any material ESG findings as well as the mitigation solutions to these findings. 
+
+EC World REIT strives towards providing a stream of sustainable and results-oriented culture of excellence 
+
+with sustainability at the core of the REIT’s business operations. With this, the Manager would like to thank 
+
+the Sponsor and all stakeholders for their continual support in our sustainability journey.  
+
+Yours sincerely, 
+
+Mr Goh Toh Sim on behalf of the Board of  
+
+EC World Asset Management Pte. Ltd. 
+
+ 
+
+
+3 | P a g e 
+
+ 
+
+ABOUT THE REPORT 
+
+ 
+
+This report has been prepared by the Manager in compliance with SGX-ST Listing Manual Rules 711(A) and 
+
+711(B). The Global Reporting Initiatives (“GRI”) 2016 Standards – “Core” and GRI’s Construction and Real 
+
+Estate Sector Supplement (“CRESS”) – have been chosen as the reference for this report due to its 
+
+internationally recognised framework. The Manager has not sought external assurance for this reporting 
+
+period. For any feedback or queries, please direct them to Ms. Sabrina Tay, Manager, Investor Relations at 
+
+ir@ecwreit.com. 
+
+ 
+
+Reporting Scope 
+
+The reporting scope for this report consists of the ESG performance of EC World REIT’s properties in China 
+
+and Manager’s office in Singapore for the period of 1 January 2018 to 31 December 2018 (“FY2018”), with 
+
+reference to data collected from 1 January 2017 to 31 December 2017 (“FY2017”) for comparison purposes, 
+
+where appropriate. Compared to FY2017, FY2018’s reporting scope has expanded to include EC World REIT’s 
+
+7th property, Wuhan Meiluote. 
+
+ 
+
+Figure 1: Scope of cities and properties covered in the report 
+
+ 
+
+ 
+
+ 
+
+Singapore
+
+•9 Raffles Place #45-02 
+
+Republic Plaza, Singapore
+
+Hangzhou, China
+
+•Chongxian Port Investment
+
+•Chongxian Port Logistics
+
+•The Stage 1 Properties of Bei 
+
+Gang Logistics
+
+•Fu Zhuo Industrial
+
+•Fu Heng Warehouse
+
+•Hengde Logistics
+
+Wuhan, China
+
+•Wuhan Meiluote
+
+
+4 | P a g e 
+
+ 
+
+ABOUT EC WORLD 
+
+ 
+
+OVERVIEW OF EC WORLD 
+
+EC World REIT is a Singapore Real Estate Investment Trust (REIT) established with the investment strategy of 
+
+investing principally, directly or indirectly, in a diversified portfolio of income-producing real estates which is 
+
+primarily used for e-commerce, supply-chain management and logistics purposes, as well as real estate-
+
+related assets, with an initial geographical focus on the People’s Republic of China (the “PRC”). The Manager 
+
+is a wholly-owned subsidiary of the Sponsor – Forchn Holdings Group Co. Ltd. Yuntong Property Management 
+
+Co. Ltd., also a wholly-owned subsidiary of the Sponsor, is the property manager (“Property Manager”) for 
+
+the properties in China.  
+
+ 
+
+Figure 2: EC World REIT's structure1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 As at 31 December 2018. Includes Units held by the Manager. 
+
+
+
+
+5 | P a g e 
+
+ 
+
+EC World REIT’s Vision and Mission 
+
+ 
+
+Primarily engaged in leasing of assets, which includes E-commerce Logistics Facilities, Port Logistics Facilities 
+
+and Specialised Logistics Facilities, EC World REIT strives to create long-term value for our stakeholders and 
+
+unitholders through the enhancement of these assets. The Manager has thus set out its direction for the REIT 
+
+in their vision and mission, as shown in Figure 3 below. 
+
+ 
+
+Figure 3: Vision and mission of EC World REIT 
+
+ 
+
+ 
+
+Properties of EC World REIT 
+
+ 
+
+On 16 April 2018, EC World acquired Wuhan Meiluote, located in Wuhan, China. As a result, the end of 2018 
+
+saw a total of seven properties belonging to the REIT, as shown in Figure 4. 
+
+ 
+
+Figure 4: Property portfolio overview as of 31st Dec 2018 
+
+ 
+
+•ECW aims to be the premier e-commerce and specialised logistics REIT in 
+
+Asia and strives to create long term value for all of our stakeholders by 
+
+capturing opportunities driven by the fast growing e-commerce and 
+
+specialised logistics sectors.
+
+Vision
+
+•Deliver stable, sustainable and growing distributions to our unitholders
+
+•Offer a differentiated and high quality asset portfolio
+
+•Grow and diversify our portfolio through yield accretive acquisitions
+
+•Adopt active asset management strategies to enhance performance and 
+
+value our properties
+
+Mission
+
+
+
+Chongxian Port 
+
+Investment
+
+
+
+
+
+Chongxian Port 
+
+Logistics
+
+
+
+
+
+The Stage 1 
+
+Properties of Bei 
+
+Gang Logistics
+
+
+
+
+
+Fu Zhuo 
+
+Industrial
+
+
+
+
+
+Fu Heng 
+
+Warehouse
+
+
+
+
+
+Hengde Logistics
+
+
+
+
+
+Wuhan Meiluote
+
+
+
+
+6 | P a g e 
+
+ 
+
+EC World REIT’s Product Fulfilment Cycle 
+
+ 
+
+EC World REIT’s asset portfolio caters to a critical portion of the product fulfilment cycle and supply chain in 
+
+the e-commerce business. Figure 5 shows the REIT’s position in the e-commerce supply chain. 
+
+Figure 5: EC World REIT's position in the e-commerce supply chain 
+
+ 
+
+Tenancy Mix and Types of Assets 
+
+ 
+
+As at 31 December 2018, there were a total of 20 unique tenants across the portfolio that contributed to 
+
+gross rental income. Figure 6 shows the breakdown of tenancy according to trade sector, weighed across 
+
+gross rental income in 2018, as well as the net lettable area of assets. For more information, please refer to 
+
+our Annual Report 2018. 
+
+ 
+
+Figure 6: Tenancy mix and asset type (breakdown by NLA) as of 31 Dec 2018 
+
+ 
+
+ 
+
+SUPPLY CHAIN MANAGEMENT 
+
+ 
+
+At EC World REIT, the Manager believes that supply chain is the backbone of the REIT’s business and is 
+
+integral to both our success and customer satisfaction. As a result, the Manager seeks to implement 
+
+measures that encourage responsible procurement. To drive responsible procurement, we scrutinise our 
+
+supply chain and evaluate the products and services provided by our long-term suppliers. In so doing, the 
+
+interests of our stakeholders are safeguarded from any impact caused by irresponsible behaviour or 
+
+negligence. We also include the contractual terms and conditions that our short-term suppliers have to 
+
+acknowledge and abide by. 
+
+
+
+
+
+
+7 | P a g e 
+
+ 
+
+2018 HIGHLIGHTS 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+8 | P a g e 
+
+ 
+
+OUR SUSTAINABILITY APPROACH 
+
+ 
+
+SUSTAINABILITY COMMITMENT 
+
+At EC World REIT, the Manager recognises that integrating a sustainable ESG framework into the REIT’s daily 
+
+operations is key to the REIT’s long-term development and business sustainability. While EC World REIT 
+
+continues to expand its portfolio of assets, the Manager aims to drive ESG initiatives through the REIT’s daily 
+
+operation to ensure positive economic, social and environmental outcomes. In addition, the Manager seeks 
+
+to enhance the awareness of sustainability among its stakeholders and unitholders through internal trainings 
+
+and external advocacy. With continued backing from the Sponsor, the Manager hopes to gather more 
+
+support from various stakeholders and looks forward to building on the current achievements in their 
+
+sustainability journey.  
+
+ 
+
+SUSTAINABILITY GOVERNANCE 
+
+In EC World REIT’s sustainability governance, the assessment of ESG policies and practices is led by the 
+
+Executive Director and Chief Executive Officer, Mr. Goh Toh Sim, and assisted by the senior management of 
+
+the Manager and Property Manager, who are responsible for driving the sustainability practices and 
+
+initiatives within the properties held by the REIT. 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+With the aim of aligning the REIT’s vision of creating long term value for all our stakeholders, the Manager 
+
+endeavours to foster quality relationships with its stakeholders by regularly engaging them to understand 
+
+their key concerns and interests.  
+
+Figure 7 below shows the REIT’s key stakeholder groups as well as how the REIT caters to their concerns and 
+
+interests. 
+
+Figure 7: EC World REIT's stakeholder engagement 
+
+Key 
+
+Stakeholder 
+
+Groups 
+
+Stakeholder 
+
+Engagement Goals 
+
+Mode Of 
+
+Engagement 
+
+Frequency Of 
+
+Engagement 
+
+Stakeholder’s Key 
+
+Concerns 
+
+How We Cater To 
+
+Stakeholder’s Needs 
+
+Shareholders / 
+
+Unitholders 
+
+Provide clear and 
+
+accurate 
+
+information to the 
+
+investing public 
+
+through timely 
+
+communication 
+
+Telephone calls  
+
+Ad-hoc 
+
+• Financial 
+
+performance 
+
+• Outlook and 
+
+growth  
+
+• Regulatory 
+
+compliance 
+
+• Proactive investor 
+
+outreach programme 
+
+• Timely 
+
+communication 
+
+through SGXnet and 
+
+website 
+
+• Adoption and 
+
+adaption of relevant 
+
+policies and 
+
+procedures such as 
+
+Enterprise Risk 
+
+Management 
+
+(“ERM”), corporate 
+
+governance policies 
+
+Email 
+
+Ad-hoc 
+
+AGM/EGM 
+
+(if 
+
+necessary) 
+
+Annually for 
+
+AGM 
+
+Face-to-face 
+
+Ad-hoc 
+
+Conferences 
+
+Ad-hoc 
+
+Site Visits 
+
+As and when 
+
+required 
+
+Social Media 
+
+As and when 
+
+required 
+
+Corporate 
+
+Website 
+
+As and when 
+
+required 
+
+Announcements 
+
+on SGX-ST 
+
+At least 
+
+quarterly 
+
+Employees and 
+
+Workers 
+
+Provide a holistic 
+
+and inclusive 
+
+environment with 
+
+enhanced well-
+
+being and 
+
+productivity, with 
+
+potential for growth 
+
+Weekly staff 
+
+meeting  
+
+Weekly  
+
+• Competitive 
+
+remuneration 
+
+• Personal career 
+
+growth 
+
+• Adoption of 
+
+competitive 
+
+compensation and 
+
+benefits programme 
+
+• Provision of training 
+
+opportunities 
+
+Emails 
+
+correspondences 
+
+Ad-hoc 
+
+Open discussion 
+
+Ad-hoc 
+
+Annual 
+
+performance 
+
+appraisal 
+
+Annually 
+
+
+9 | P a g e 
+
+ 
+
+Key 
+
+Stakeholder 
+
+Groups 
+
+Stakeholder 
+
+Engagement Goals 
+
+Mode Of 
+
+Engagement 
+
+Frequency Of 
+
+Engagement 
+
+Stakeholder’s Key 
+
+Concerns 
+
+How We Cater To 
+
+Stakeholder’s Needs 
+
+and self-
+
+development 
+
+Instant 
+
+messaging apps 
+
+Ad-hoc 
+
+Tenants 
+
+Provide comfort, 
+
+safe, secured and 
+
+clean work 
+
+environment for our 
+
+tenants 
+
+Telephone calls 
+
+Daily 
+
+• Competitive 
+
+rental  
+
+• Responsiveness 
+
+to requests and 
+
+feedback 
+
+• Active discussions on 
+
+a regular basis 
+
+Emails 
+
+Ad-hoc 
+
+Face-to-face 
+
+engagements 
+
+Ad-hoc 
+
+Real-time 
+
+problem solving 
+
+As and when 
+
+needed 
+
+Suppliers 
+
+Secure reliable 
+
+supply chain 
+
+Emails 
+
+ 
+
+Ad-hoc 
+
+• Delay/Default in 
+
+Payment 
+
+• Prompt processing of 
+
+payment 
+
+Local 
+
+Communities 
+
+Create a 
+
+comfortable, safe, 
+
+secured and clean 
+
+social environment 
+
+at the work areas 
+
+Community 
+
+participation 
+
+activities such as 
+
+cleaning 
+
+Ad-hoc 
+
+• Pollution 
+
+• Traffic jams 
+
+• Trash  
+
+• Promptly responding 
+
+to needs to the 
+
+community and 
+
+neighbours 
+
+Government 
+
+Compliance with 
+
+relevant 
+
+government 
+
+policies, rules and 
+
+regulations 
+
+External 
+
+consultants  
+
+Ad-hoc 
+
+• Compliance 
+
+with local laws 
+
+and regulations 
+
+• Internal Compliance 
+
+Senior Manager 
+
+• External legal 
+
+consultants 
+
+Meetings / emails Ad-hoc 
+
+Non-profit 
+
+Organisations  
+
+Actively seek 
+
+donation drives in 
+
+local communities, 
+
+lend a helping hand, 
+
+monetary donation 
+
+Emails 
+
+Ad-hoc 
+
+• Contributions to 
+
+local 
+
+communities  
+
+• Responsible and 
+
+ethical business 
+
+practices 
+
+• Evaluation of 
+
+sponsorship 
+
+opportunities which 
+
+are in-line with REIT’s 
+
+ESG efforts and goals 
+
+ 
+
+Sending 
+
+employee 
+
+volunteer groups 
+
+As and when 
+
+needed 
+
+ 
+
+ 
+
+ 
+
+
+10 | P a g e 
+
+ 
+
+MATERIALITY ASSESSMENT 
+
+ 
+
+In June 2018, the Manager conducted EC World REIT’s first materiality assessment in accordance with the 
+
+GRI Materiality Principle with the help of an external consultant. This materiality assessment saw the 
+
+involvement of various key stakeholders from the different departments, comprising the four-step approach 
+
+as shown in Figure 8 below. 
+
+ 
+
+Figure 8: Four-step approach in EC World REIT's materiality assessment 
+
+ 
+
+ 
+
+In FY2018, the Board has reviewed and re-assessed the REIT’s material matters in Figure 9, and concluded 
+
+that the material matters identified in FY2017 remain relevant and important for the REIT’s sustainability 
+
+approach. In addition to the material matters, the Manager has concluded that the two additional matters 
+
+which were reported in the last sustainability report continue to remain relevant for reporting. 
+
+ 
+
+Figure 9: List of material matters and additional reporting matters 
+
+ 
+
+
+
+
+
+
+11 | P a g e 
+
+ 
+
+GOVERNANCE 
+
+ 
+
+RISK MANAGEMENT 
+
+The Manager recognises that risk management is a crucial part of the business at EC World REIT and its 
+
+subsidiaries (collectively, the “EC World REIT Group”) at both the strategic and operational levels.  The 
+
+Manager adopts a proactive approach towards risk management by undertaking an iterative and 
+
+comprehensive approach in identifying, managing, monitoring and reporting material risk across EC World 
+
+REIT Group.  
+
+On the other hand, the Board is responsible for governing the risk across EC World REIT Group. This includes 
+
+determining EC World REIT Group’s risk appetite, overseeing the Manager’s Enterprise Risk Management 
+
+(“ERM”) Framework, regularly reviewing EC world REIT Group’s risk profile, material risks and mitigation 
+
+strategies, and ensuring the effectiveness of risk management policies and procedures. In the governing of 
+
+risk, the Audit and Risk Committee (the “ARC”) assists the Board in these procedures to provide an oversight 
+
+of risk management.  
+
+In managing material risks, the Manager employs a comprehensive approach in identifying, managing, 
+
+monitoring and reporting these risks across EC World REIT Group. These material risks include business 
+
+interruption risk, competition risk, credit risk, economic risk, information technology risk, foreign currency 
+
+risk, interest rate risk, investment risk, leasing risk, liquidity risk and regulatory and compliance risk. Figure 
+
+10 below illustrates the ERM Framework adopted by the Manager. For more information on risk 
+
+management, please refer to EC World REIT’s Annual Report 2018. 
+
+ 
+
+Figure 10: Enterprise Risk Management Framework 
+
+ 
+
+ 
+
+ 
+
+
+
+
+12 | P a g e 
+
+ 
+
+ETHICS AND INTEGRITY 
+
+ 
+
+The Manager is committed to upholding the highest standards of integrity and reputation of EC World REIT. 
+
+Employees are to strictly observe high standards of conduct and adhere to all laws and regulations applicable 
+
+to the Manager and ethical standards set by the Manager. EC World REIT does not condone any violation of 
+
+these standards and will not hesitate to take disciplinary actions against those who contravene them. The 
+
+Manager expects employees to observe high standards of conduct and to be aware of the laws and 
+
+regulations of applicable countries when conducting cross border transactions. Figure 11 below lists the main 
+
+requirements for the employees of the Manager. 
+
+Figure 11: Requirements of the Manager’s employees 
+
+ 
+
+ 
+
+In addition, ECWAM’s policies are focused on the identification and management of potential conflicts of 
+
+interest that may surface between the Manager, its directors and employees in the normal course of business, 
+
+including internal mediation, disclosure or obtaining consent from the affected party. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+13 | P a g e 
+
+ 
+
+Whistle-blowing 
+
+A whistle-blowing policy is put in place by the Manager to encourage its employees and related parties to 
+
+raise concerns in confidence about possible improprieties in financial reporting and other malpractices, 
+
+including fraud, corruption, bribery or blackmail, criminal offences, failure to comply with a legal or 
+
+regulatory obligation, miscarriage of justice, endangering the health and safety of an individual and 
+
+concealment of any of the aforementioned malpractices. The policy also includes the independent 
+
+investigation of any reported incidents and appropriate follow up action. The whistle-blowing policy aims to 
+
+provide employees or external parties with a well-defined, accessible and trusted channel to come forward 
+
+and voice their concerns in good faith while being protected from discrimination, retaliation, harassment or 
+
+reprisal of any kind. Refer to Figure 12 below for the procedure for whistle-blowing in ECWAM. 
+
+Figure 12: Whistle-blowing procedure 
+
+ 
+
+ 
+
+ 
+
+1. Any person may report allegations of suspected serious misconduct or any breach or suspected 
+
+breach of law or regulation that may adversely impact the Company, shareholders, employees, 
+
+investors or the public at large. 
+
+2. Acts of misconduct may be disclosed in writing, by telephone or in person. However, all reports 
+
+are encouraged to be made in writing to ensure a clear understanding of the issues raised. 
+
+3. All misconduct must be reported directly to the Compliance Officer who will report to the ARC 
+
+Chairman, in writing, telephone, or in person, whichever is appropriate. 
+
+4. The whistle-blower shall be expected to prove the truth of an allegation and to demonstrate 
+
+sufficiency on grounds for concern. 
+
+5. All employees shall refer to the Company’s ‘Whistle-blowing Policy’ for details and procedures in 
+
+reporting misconduct. 
+
+
+14 | P a g e 
+
+ 
+
+REGULATORY COMPLIANCE 
+
+ 
+
+Why the topic is important and its boundary 
+
+EC World recognises the importance of compliance to regulatory authorities for its reputation, continuous 
+
+growth and future development. Non-compliance can lead to negative consequences such as fines, punitive 
+
+measures taken by regulators to limit business activities or expansion, and the Board of the Manager and its 
+
+employees being subject to convictions punishable by fines or imprisonment. 
+
+The topic covers EC World REIT itself and its subsidiaries. 
+
+ 
+
+Policies 
+
+Figure 13 below shows the various policies on regulatory compliance adopted by EC World REIT. 
+
+Figure 13: Policies on regulatory compliance 
+
+ 
+
+Targets and status 
+
+Perpetual Target 
+
+Progress/Status 
+
+0 major compliance issue 
+
+ 
+
+Achieved 
+
+Responsibilities 
+
+The compliance and the overall ethical culture of EC World REIT are managed by the Board and Senior 
+
+Executive Staff of the Manager. 
+
+
+
+
+
+
+15 | P a g e 
+
+ 
+
+Practices 
+
+The Manager manages its compliance according to the Compliance Manual, Internal Delegation of Authority 
+
+(DOA) and Office Automation Approval System. Please refer to Figure 14 below for compliance management 
+
+practices. 
+
+Figure 14: Compliance Management 
+
+ 
+
+ 
+
+In 2018, compliance trainings were provided to the Board of Directors, Senior Management and Staff. All 
+
+representatives are required to undergo a minimum 8 hours of ethics training and all professional staff would 
+
+need to meet all Continuing Professional Development requirements. 
+
+Grievance mechanism 
+
+Complaints Handling 
+
+The Manager seeks to attend promptly and fairly to all complaints. Each complaint, whether justified or not, 
+
+should be fairly and thoroughly investigated and addressed within a reasonable time frame. Employees are 
+
+given a set of strict rules which restrict them from investigating complaints made against them, challenging 
+
+the person who lodged the complaint, or saying anything to the person who lodged the complaint that could 
+
+be used against the Manager as an admission of liability. 
+
+Evaluation 
+
+Quarterly internal audits and an annual external audit are carried out to evaluate the effectiveness of the 
+
+policies.  
+
+Performance 
+
+In FY2018, zero major cases of non-compliance to the environmental and socioeconomic laws and regulations 
+
+were reported. The Manager aims to maintain zero non-compliance in the coming years. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+16 | P a g e 
+
+ 
+
+OUR BUSINESS 
+
+ 
+
+QUALITY OF ASSETS 
+
+Why the topic is important and its boundary 
+
+The Manager recognises that the quality of its assets improves its ability to attract and retain tenants as well 
+
+as yielding a higher rental income. It also has a significant impact on the valuation of property and how well 
+
+the property fits its surroundings. This year, the sustainability report scope was expanded to include our 7th 
+
+asset, Wuhan Meiluote. 
+
+Quality assets are key to meeting the expectations and interests of our stakeholders. These expectations and 
+
+interests include the delivery of quality property and customer services to our tenants, optimisation of rental 
+
+revenues and operating costs for our unitholders, and well-maintained and non-polluting assets for our 
+
+community. 
+
+The Manager communicates with the Property Manager regularly to ensure that maintenance is conducted 
+
+in a timely and efficient manner to guarantee the quality and versatility of the assets, which is important for 
+
+tenants who lease the space at EC World REIT’s assets. Quality property management enables EC World 
+
+REIT’s assets to charge at a competitive rental rate, thereby providing Unitholders’ stable and sustainable 
+
+returns.  
+
+Policy 
+
+EC World REIT has established a set of standards, including Property Management Standards, Equipment 
+
+Asset Management Standards, Asset Security Management Standards and Fixed Assets Insurance 
+
+Management Standards, to ensure the quality of its assets and services. These asset management standards 
+
+apply to all projects that cover equipment and property. 
+
+ 
+
+Figure 15: Asset management standards 
+
+ 
+
+
+
+
+17 | P a g e 
+
+ 
+
+Targets and status 
+
+Perpetual Target 
+
+Progress/Status 
+
+New/renewed leases at rental rates equal to or above rental rate of the 
+
+current property. 
+
+ 
+
+Achieved 
+
+Perform maintenance and inspection of the assets as per national and local 
+
+standards 
+
+ 
+
+Achieved 
+
+ 
+
+Investment in quality assets is a key pillar of the REIT’s investment strategy, with acquiring yield accretive 
+
+asset as a crucial investment criterion. This includes: 
+
+• 
+
+the acquisition of good quality income-producing properties with established customers 
+
+• 
+
+the proactive marketing and leasing of spaces to achieve a healthy occupancy  
+
+• 
+
+stringent due diligence acquisition process to ensure good quality asset is being acquired. 
+
+Responsibilities 
+
+The Board of Directors, Mr. Li Jinbo (Head of Investment, Asset Management and Investor Relations) and Mr. 
+
+Teo Kah Ming (Senior Manager, Investment and Asset Management), are responsible for the management 
+
+of quality of assets.  
+
+Practices 
+
+Figure 16 below shows the process of assets quality assessment. 
+
+Figure 16: Process of assets quality assessment 
+
+ 
+
+To meet the relevant asset management standards, the Maintenance Units conduct maintenance and 
+
+annual inspection according to national and local standards as shown in Figure 17 below. 
+
+Figure 17: Maintenance and annual inspection of assets 
+
+Equipment name 
+
+Frequency 
+
+Practices 
+
+Elevator 
+
+Monthly 
+
+Two 
+
+maintenance 
+
+and 
+
+inspections 
+
+conducted and recorded 
+
+Fire equipment 
+
+Weekly, monthly, quarterly, semi-
+
+annually 
+
+Inspection conducted and sign on the 
+
+corresponding maintenance records 
+
+
+
+
+
+What is required to reduce and eliminate pollution
+
+Evaluate the expected commercial impacts of decisions by budgeting and forecasting
+
+What are the right environment and equipment to offer the tenants such that the goods are 
+
+loaded/unloaded and stored in the best possible conditions for the products to be well-kept
+
+Perform annual review of property upkeep requirements
+
+Assess the type of tenants and tenants' products that we want to attract 
+
+
+18 | P a g e 
+
+ 
+
+Grievance mechanism 
+
+Figure 18 below shows the grievance mechanism on asset quality issues. 
+
+Figure 18: Grievance mechanism on quality of assets 
+
+ 
+
+Evaluation 
+
+• 
+
+Quarterly internal audit  
+
+• 
+
+Annual external audit (ISO9001 Quality Management System) 
+
+- 
+
+The operations at Hengde Logistics and its asset, Chongxian Port Investment and Chongxian Port 
+
+Logistics have been ISO recertified in 2018. 
+
+• 
+
+Annual tenant survey 
+
+- 
+
+Bei Gang’s survey covers daily service, supporting facilities, maintenance and environment of public 
+
+areas. 
+
+- 
+
+Fu Heng collected feedback regarding property management, hygiene and facilities.  
+
+ 
+
+Results 
+
+No major non-compliance issue has been identified during the audits. Bei Gang scored 93% in the survey, 
+
+and tenants in Fu Heng were satisfied with the service provided. For Chongxian Port Investment, there was 
+
+negative feedback to management of non-motorised transportation, which will be rectified in 2019. In 
+
+addition, the Manager’s new workplace in Singapore was renovated in 2018 in accordance to BCA standards 
+
+and was awarded the Green Mark certification. 
+
+ 
+
+Performance 
+
+In FY2018, new and renewed leases have been signed at higher rate compared to the expiring leases. In 
+
+addition, maintenance and inspections have been carried out according to the Standard Operating 
+
+Procedures laid out by the Property Manager. There was no major non-compliance identified during the 
+
+audits in FY2018. Minor asset quality issues were rectified accordingly before the end of 2018.  
+
+ 
+
+ 
+
+Tenant encounters any 
+
+property-related issues 
+
+during the lease term
+
+Issue reported to 
+
+Property Manager
+
+Property Manager  
+
+escalates the issue to the 
+
+Manager’s asset 
+
+management department 
+
+depending on the nature 
+
+and severity of the issue 
+
+The asset management 
+
+department conducts the 
+
+investigation on-site 
+
+together with the project 
+
+department to ratify any 
+
+issue     
+
+
+19 | P a g e 
+
+ 
+
+PRODUCT INNOVATION  
+
+ 
+
+Why the topic is important and its boundary 
+
+EC world recognises the crucial role of product innovation, especially in value-added service, to attract 
+
+customers and improve customer retention. Initiatives for product innovation can help to improve our ability 
+
+to structure rental leases and services to suit the customer’s needs, flexibility in the aesthetic aspects of the 
+
+buildings, space available for leasing, as well as fixtures and services provided to customers. 
+
+ 
+
+To identify product needs, it is crucial to carry out regular communications with the Property Manager and 
+
+tenants. The Manager believes that innovation can give us an edge in the highly competitive market of today 
+
+arising from technological innovation. Innovation is also imperative for EC World REIT’s long-term sustainable 
+
+growth and success so that it can deliver better products and services. Therefore, the Manager strives to 
+
+provide the best innovative products and services to enhance customer satisfaction in order to meet the 
+
+expectations of stakeholders. 
+
+ 
+
+Policy 
+
+Project incentive policies are formulated to encourage innovation. For instance, employees will be rewarded 
+
+for technological innovation or transformation that brings about economic benefits or great honour to the 
+
+organisation.  
+
+The Manager also invests in upgrading and the retrofitting of assets to enhance the existing facilities. 
+
+ 
+
+Responsibilities 
+
+Together with the Investment department at the Manager, the Department of Engineering at the Property 
+
+Manager works to foster innovation in the organisation. 
+
+ 
+
+Target and status 
+
+FY2018 Target 
+
+Progress/Status 
+
+Upgrading 1-2 property features annually 
+
+ 
+
+Achieved 
+
+ 
+
+The Department of Engineering at the Property Manager is dedicated to ensuring that the target is achieved 
+
+annually. Please refer to the Performance Section for more details. 
+
+ 
+
+Practices 
+
+To meet the needs of customers, EC World REIT’s warehouses provide customised services such as providing 
+
+information on nearby logistic companies or contractors to newly joined tenants. In 2018, Fu Heng 
+
+Warehouse retrofitted and relocated the lifts to improve on the circulation efficiency of the warehouse at 
+
+the recently implemented Asset Enhancement Initiatives (“AEI”). In differentiating our services, we also help 
+
+tenants to source for logistics service providers depending on their needs. Furthermore, should the tenants 
+
+require manpower, the Property Manager assists in sourcing of labourers from external agencies. In the 
+
+following years, the Property Manager plans to provide logistics equipment rental services and construct the 
+
+Automated Storage and Retrieval System (“ASRS”) to differentiate our properties from competitors and 
+
+provide additional value to our customers. 
+
+ 
+
+ 
+
+
+
+
+20 | P a g e 
+
+ 
+
+Case study: Construction of roof over open atriums and relocation of lifts at Fu Heng Warehouse 
+
+Where? 
+
+When 
+
+Fu Heng Warehouse, China 
+
+4th quarter 2018 
+
+ 
+
+What are the goals? 
+
+• 
+
+To create new covered and leasable space at the atriums of the two warehouses. 
+
+• 
+
+To resolve water seepage problem on the ceiling slab of the basement due to water ponding in the 
+
+open atrium areas during rainy seasons.  
+
+• 
+
+To improve the circulation efficiency of goods within the warehouse. 
+
+ 
+
+What has Fu Heng done? 
+
+ 
+
+ 
+
+Figure 19: Sky atrium area at Fu Heng Warehouse 
+
+ 
+
+ 
+
+Figure 20: Previous lift position (behind the stacked goods) 
+
+ 
+
+ 
+
+Figure 21: 2 Relocated lifts: first relocation (left) and second relocation (right) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+The lifts at Fu Heng Warehouse underwent 
+
+retrofitting and relocation from its previous lift 
+
+position (behind the stacked goods) in Figure 
+
+20, where the lifts are inaccessible, to a location 
+
+where goods can be easily transported and is 
+
+free from obstruction, in Figure 21.  
+
+Sky atrium area at Fu Heng Warehouse to be 
+
+covered by new roof structure to prevent water 
+
+ponding and to serve as a new storage space. 
+
+ 
+
+
+21 | P a g e 
+
+ 
+
+Grievance mechanism 
+
+Suggestions regarding innovation can be made through the Department of Engineering at the Property 
+
+Manager which will then be submitted to the General Manager for review and approval.  
+
+ 
+
+Evaluation 
+
+Movement of goods at Fu Heng Warehouse has improved after the completion of the relocation of lifts. The 
+
+construction of the roof structure is still in progress as we are exploring the usage of solar panels for the roof.  
+
+Performance 
+
+In 2018, we have successfully upgraded one of our properties, Fu Heng Warehouse. The AEI opportunity has 
+
+been identified at Fu Heng Warehouse and commenced in the last quarter of 2018.  
+
+ 
+
+
+22 | P a g e 
+
+ 
+
+OUR PEOPLE 
+
+ 
+
+PROFILE OF OUR WORKFORCE 
+
+The Manager believes that the well-being of our employees is integral to long-term value creation of our 
+
+business. Moreover, we always strive to improve our employee diversity and quality of our talent pool to 
+
+increase our working capabilities. Due to the nature of our business, a significant portion of our business 
+
+operations are performed by the employees under the Property Manager located in China2, while operations 
+
+performed by employees under the Manager are located in Singapore. Please refer to Figures 22 to 24 for 
+
+the profile of EC World REIT’s workforce. 
+
+ 
+
+Figure 22: Profile of EC World REIT's workforce in Singapore (Employees) 
+
+ 
+
+ 
+
+ 
+
+Figure 23: Profile of EC World REIT's workforce in China (Non-employees)  
+
+ 
+
+ 
+
+Figure 24: Variations in employee and non-employee numbers in Singapore and China 
+
+ 
+
+ 
+
+2 In the context of GRI Standards, workers under the Property Manager in China are defined as non-employees of EC 
+
+World REIT. 
+
+
+
+
+
+
+
+0
+
+5
+
+10
+
+15
+
+20
+
+Variations in employee numbers 
+
+(Singapore)
+
+FY2017
+
+FY2018
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+Variations in non-employee numbers 
+
+(China)
+
+FY2017
+
+FY2018
+
+
+23 | P a g e 
+
+ 
+
+WORKPLACE HEALTH AND SAFETY 
+
+ 
+
+Why the topic is important and boundary 
+
+Workplace health and safety protects the well-being of employees, visitors and customers. It lowers the risk 
+
+of prosecution and staff turnover, which may increase costs and reduce profitability. If not well managed, 
+
+the surroundings of the Manager’s office, various departments, subsidiaries in China as well as the Property 
+
+Manager’s workplace will be put at risk. The Manager recognises the importance of occupational health and 
+
+safety and is dedicated to providing a safe and healthy work environment. 
+
+ 
+
+Policy 
+
+Singapore 
+
+China 
+
+Workplace Safety and Health Act 
+
+Work Safety Law 
+
+Standardisation of Safety Production 
+
+The Workplace Safety and Health 
+
+(WSH) Act is an essential part of a 
+
+framework to cultivate good safety 
+
+habits in all individuals because it 
+
+creates a strong safety culture in 
+
+workplaces. The WSH Act requires 
+
+stakeholders to take reasonably 
+
+practicable measures to ensure the 
+
+safety and health of persons at the 
+
+workplace. 
+
+The Work Safety 
+
+Law has clearly 
+
+defined the safety 
+
+governance 
+
+structure, roles and 
+
+responsibilities of 
+
+relevant personnel 
+
+and the relevant 
+
+rules and standards. 
+
+The standardisation of safety 
+
+production aims to establish a safety 
+
+production responsibility system, safety 
+
+management system, operational 
+
+procedures for hazardous sources, 
+
+precautions, regulation of production, 
+
+and the company’s compliance with 
+
+relevant laws and regulations. 
+
+ 
+
+Targets and status 
+
+Perpetual Target 
+
+Progress/Status 
+
+Zero work-related injury that results in staff permanent disability or fatality 
+
+ 
+
+Achieved 
+
+ 
+
+Responsibilities 
+
+The Board, together with the Senior Management and Compliance, Risk Management Department, and HR 
+
+Department, oversees the overall Workplace Health and Safety issue in the REIT’s assets as well as at the 
+
+Manager’s operational premises. Within the properties, the Environmental and Safety Department and 
+
+Safety Steering Committee from the Property Manager ensures that the REIT’s assets comply with the 
+
+regulatory requirements and Health and Safety Management System. 
+
+ 
+
+Practices 
+
+The Manager implemented the promotion of workplace health and safety. Additionally, in Singapore, 
+
+workplace health and safety is included in employee’s onboard training. 
+
+ 
+
+
+
+Workplace Health and Safety 
+
+Promotion Plan
+
+•Inspecting and checking workplace surroundings
+
+•Training employees on safety awareness
+
+•Regular engagement of employees through talks and feedback sessions
+
+•Investigation of incidents
+
+•Maintenance of incident records
+
+•Fire/safety drills
+
+•Banners to promote workplace health and safety
+
+Onboard Training Program 
+
+•Handling electrical items in the office pantry
+
+•Safety guidelines for using the ladder 
+
+•Emergency exit and fire extinguisher 
+
+•Proper handling of heavy or bulky items
+
+
+24 | P a g e 
+
+ 
+
+Case study: Fire drill at Hengde Logistics 
+
+Where 
+
+When 
+
+Zhejiang Hengde Sangpu H5 warehouse, China 
+
+26 June, 2018 
+
+ 
+
+What are the goals? 
+
+• 
+
+Strengthen fire safety management at Hengde Logistics (“Hengde”) 
+
+• 
+
+Improve staff's ability to respond quickly to fire incidents  
+
+• 
+
+Develop employees’ ability to maintain personal and public properties during emergency 
+
+ 
+
+What has Hengde done? 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Classroom training and briefing before fire drill 
+
+(Figure 1) 
+
+ 
+
+Emergency knowledge quiz (Figure 2) 
+
+The quiz tests on employees’ knowledge on how 
+
+to use fire extinguisher, emergency number, 
+
+escape route, safety precautions and how to 
+
+respond to emergency. 
+
+
+
+Official fire drill (Figures 3, 4, and 5) 
+
+ 
+
+Evacuation
+
+Head count
+
+Fire
+
+spotted
+
+→
+
+Emergency 
+
+protocol activated
+
+→
+
+Rescue the 
+
+injured 
+
+→
+
+Put out fire
+
+→
+
+End of 
+
+emergency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Post fire drill talk conducted by chief trainer 
+
+from Hengde Fire Department with 
+
+demonstration on how to use fire apparatus. 
+
+(Figure 7, 8) 
+
+
+
+
+
+
+
+
+
+1 
+
+2 
+
+3 
+
+4 
+
+5 
+
+7 
+
+8 
+
+
+25 | P a g e 
+
+ 
+
+Grievance mechanism 
+
+A Whistle Blowing Policy is implemented, and open for all employees of the Manager and Property Manager 
+
+who wish to report any incident or grievance over the safety of the work to be carried out.  
+
+ 
+
+Evaluation 
+
+Internal audits have been carried out three times during 2018 with no major issue identified. 
+
+ 
+
+Performance 
+
+In FY2017 and FY2018, EC World REIT recorded zero injuries, zero fatalities, as well as zero occupational 
+
+disease rate (ODR), as shown in Figure 25. The Manager seeks to ensure and maintain zero work-related 
+
+injury, preventing any staff permanent disability or fatality.  
+
+ 
+
+Figure 25: Workplace health &amp; safety data 
+
+Employees &amp; Non-employees (By region) 
+
+ 
+
+FY2017 
+
+FY2018 
+
+Injury rate (IR) 
+
+Lost day rate 
+
+(LDR) 
+
+Absentee 
+
+rate3 (AR) 
+
+Injury rate (IR) 
+
+Lost day rate 
+
+(LDR) 
+
+Absentee 
+
+rate (AR) 
+
+Singapore 
+
+(Employees) 
+
+0% 
+
+0% 
+
+12.69% 
+
+0% 
+
+0% 
+
+9.87% 
+
+Singapore 
+
+(Non-
+
+employees)4 
+
+0% 
+
+N.A. 
+
+N.A. 
+
+0% 
+
+N.A. 
+
+N.A. 
+
+China 
+
+(Non-
+
+employees)5 
+
+0% 
+
+0% 
+
+0.35% 
+
+0% 
+
+0% 
+
+ 0.14% 
+
+ 
+
+Employees (By gender) 
+
+ 
+
+FY2017 
+
+FY2018 
+
+Injury rate (IR)/ 
+
+Occupational 
+
+disease rate (ODR) 
+
+Lost day 
+
+rate (LDR) 
+
+Absentee 
+
+rate (AR) 
+
+Injury 
+
+rate 
+
+(IR)/ 
+
+Occupational 
+
+disease 
+
+rate (ODR) 
+
+Lost 
+
+day 
+
+rate (LDR) 
+
+Absentee 
+
+rate (AR) 
+
+Male 
+
+0% 
+
+0% 
+
+4.04% 
+
+0% 
+
+0% 
+
+5.36% 
+
+Female 
+
+0% 
+
+0% 
+
+21.35% 
+
+0% 
+
+0% 
+
+14.37% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 Absentee rate is the measure of actual absentee days lost, expressed as a percentage of total days scheduled to be 
+
+worked by workers for the same period, as defined in GRI Standards. 
+
+4 The non-employees in Singapore consist of one intern for FY2017 and 2 interns in FY2018. 
+
+5 The staff under the Property Manager or “Yuntong” are considered non-employees in this report. 
+
+Non-employees (By gender) 
+
+ 
+
+Injury rate (IR) 
+
+FY2017 
+
+FY2018 
+
+Male 
+
+0% 
+
+0% 
+
+Female 
+
+0% 
+
+0% 
+
+
+26 | P a g e 
+
+ 
+
+OUR ENVIRONMENT 
+
+ 
+
+ENERGY USE AND GHG EMISSION 
+
+Why the topic is important and boundary 
+
+The Manager recognises that energy consumption of our properties indirectly contributes to the greenhouse 
+
+gas emissions (GHG) in the environment, which contributes to global warming. As a responsible corporate, 
+
+the Manager strives to take measures in reducing the energy consumption of our properties.  
+
+In reducing our energy consumption, the Manager first seeks to identify the root cause of high energy 
+
+consuming properties by evaluating the trends of monthly electricity bills, followed by implementing actions 
+
+to minimise electricity wastage. In this report, the REIT covers energy consumption and GHG emissions arising 
+
+from the properties under its operational control for Scope 1 (direct emissions) and Scope 2 (energy indirect 
+
+emissions). 
+
+Policy 
+
+Although EC World REIT has no formalised corporate policy on energy and emissions, the Property Manager 
+
+in China ensures that our properties have met the national regulation on energy and emissions known as the 
+
+Energy Conservation Law. 
+
+ 
+
+Targets and status 
+
+FY2018 Target 
+
+Progress/Status 
+
+Moving forward 
+
+EC World REIT aims to reduce its total 
+
+energy consumption from the 
+
+properties under its operation control 
+
+gradually over the next 5 years (with 
+
+FY2017 being the baseline) 
+
+ 
+
+ 
+
+Ongoing 
+
+EC World REIT aims to reduce its total 
+
+energy consumption from the 
+
+properties under its operation control 
+
+gradually over 5 years (with FY2017 
+
+being the baseline) 
+
+ 
+
+Responsibilities 
+
+Energy saving initiatives and the resultant decrease in emissions are driven by the Property Manager in China 
+
+on all EC World REIT’s properties in China and overseen by Mr. Li Jinbo (Head of Investment, Asset 
+
+Management and Investor Relations) and Mr. Teo Kah Ming (Senior Manager, Investment and Asset 
+
+Management). 
+
+ 
+
+Practices 
+
+In its efforts to reduce energy consumption and emissions, EC World REIT has put in place the following 
+
+initiatives: 
+
+Initiative 
+
+Current Status 
+
+Usage of energy-efficient equipment 
+
+The Property Manager will be conducting feasibility studies on 
+
+the usage of energy efficient bulbs throughout our properties 
+
+in 2019 and make plans for implementation from 2020 
+
+onwards in phases. 
+
+Explore use of solar panels to generate 
+
+electricity for the properties 
+
+Feasibility of installation of solar panels were explored in 2018. 
+
+The final decision was made in early 2019 for the solar panels 
+
+to be installed at Fu Heng Warehouse in FY2019. 
+
+In the long run, EC World REIT plans to 
+
+promote the use of alternative 
+
+renewable energy vehicles 
+
+The Stage 1 Properties of Bei Gang Logistics have been sited to 
+
+install electric car charging stations and we are planning the 
+
+implementation. 
+
+Implementing energy conservation 
+
+awareness initiatives 
+
+Engagement with tenants on an ad-hoc basis 
+
+
+
+
+27 | P a g e 
+
+ 
+
+Evaluation 
+
+ 
+
+In our energy consumption report, our energy consumption has decreased in FY2018 mainly due to increased 
+
+daily energy saving awareness and reduction in customer usage. 
+
+ 
+
+Performance 
+
+Figure 26: Energy Consumption within EC World REIT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.03
+
+0.83
+
+0.52
+
+0.37
+
+2.83
+
+1.99
+
+0.00
+
+0.50
+
+1.00
+
+1.50
+
+2.00
+
+2.50
+
+3.00
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+1.20
+
+1.40
+
+1.60
+
+1.80
+
+FY2017
+
+FY2018
+
+Energy Intensity (MJ/m2)
+
+Energy Consumption (TJ)
+
+Fuel Consumption within                   
+
+EC World REIT
+
+Diesel Oil
+
+Motor Gasoline
+
+Energy Intensity
+
+11.53
+
+9.50
+
+20.97
+
+15.84
+
+0.00
+
+5.00
+
+10.00
+
+15.00
+
+20.00
+
+25.00
+
+0.00
+
+2.00
+
+4.00
+
+6.00
+
+8.00
+
+10.00
+
+12.00
+
+14.00
+
+FY2017
+
+FY2018
+
+Energy Intensity (kWh/m2)
+
+Electricity Consumption (GWh)
+
+Electricity Consumption within        
+
+EC World REIT
+
+Electricity Consumption
+
+Energy Intensity
+
+47.73
+
+38.98
+
+86.80
+
+64.99
+
+0.00
+
+20.00
+
+40.00
+
+60.00
+
+80.00
+
+100.00
+
+0.00
+
+10.00
+
+20.00
+
+30.00
+
+40.00
+
+50.00
+
+60.00
+
+FY2017
+
+FY2018
+
+Energy Intensity (MJ/m2)
+
+Energy Consumption (TJ)
+
+Total Energy Consumption within EC World REIT
+
+Total energy consumption
+
+Total energy intensity
+
+
+28 | P a g e 
+
+ 
+
+Figure 27: Total greenhouse gas (GHG) emissions6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 Note: GHG emissions are calculated following the requirements and principles of ISO 14064-1 and Greenhouse Gas 
+
+Protocol. Gases included in the calculation are CO2, CH4, N2O. Scope 1 emission factors are sourced from 2006 IPCC 
+
+Guidelines for National Greenhouse Gas Inventories. Scope 2 emission factors are sourced from Electricity Grid 
+
+Emission Factor and Upstream Fugitive Methane Emission Factor, 2005-2017, Singapore Energy Market Authority 11 
+
+July 2018 and 2016 Baseline Emission Factors for Regional Power Grids in China, NDRC Apr 2017. 
+
+113.16
+
+9317.30
+
+FY2017 GHG Emissions (tCO2e)
+
+Scope 1
+
+Scope 2
+
+87.07
+
+7673.03
+
+FY2018 GHG Emissions (tCO2e)
+
+Scope 1
+
+Scope 2
+
+9430.46
+
+7760.10
+
+17.15
+
+12.94
+
+0.00
+
+5.00
+
+10.00
+
+15.00
+
+20.00
+
+0.00
+
+2000.00
+
+4000.00
+
+6000.00
+
+8000.00
+
+10000.00
+
+FY2017
+
+FY2018
+
+Emissions Intensity (kg 
+
+CO2e/m2)
+
+GHG Emissions (tCO2e)
+
+Total GHG Emissions Quantity and Intensity
+
+Quantity of emissions
+
+Emissions intensity
+
+
+29 | P a g e 
+
+ 
+
+GRI CONTENT INDEX 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+General Disclosures 
+
+GRI 
+
+102: 
+
+General 
+
+Disclosures 
+
+2016 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+About EC World 
+
+Pg 4-6 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+About EC World 
+
+Pg 4-6 
+
+102-3 
+
+Location of headquarters 
+
+About EC World 
+
+Pg 4-6 
+
+102-4 
+
+Location of operations 
+
+About EC World 
+
+Pg 4-6 
+
+102-5 
+
+Ownership and legal form 
+
+About EC World 
+
+Pg 4-6 
+
+102-6 
+
+Markets served 
+
+About EC World 
+
+Pg 4-6 
+
+102-7 
+
+Scale of the organisation 
+
+About EC World 
+
+Pg 4-6 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+Our people 
+
+Pg 22 
+
+102-9 
+
+Supply chain 
+
+Supply Chain Management 
+
+Pg 6 
+
+102-10 
+
+Significant 
+
+changes 
+
+to 
+
+the 
+
+organisation and its supply chain 
+
+About EC World 
+
+Pg 4-6 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Risk Management 
+
+Pg 11 
+
+102-12 
+
+External initiatives 
+
+About EC World 
+
+Pg 4-6 
+
+102-13 
+
+Membership of associations 
+
+About EC World 
+
+Pg 4-6 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-
+
+maker 
+
+Board statement 
+
+Pg 2 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+ 
+
+Ethics And Integrity 
+
+Pg 12-13 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Governance 
+
+Pg 11-15 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+Pg 8-9 
+
+102-41 
+
+Collective bargaining agreements 
+
+EC World REIT does not have 
+
+any 
+
+collective 
+
+bargaining 
+
+agreements 
+
+N.A. 
+
+102-42 
+
+Identifying 
+
+and 
+
+selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+Pg 8-9 
+
+102-43 
+
+Approach 
+
+to 
+
+stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+Pg 8-9 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+Pg 8-9 
+
+ 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+About The Report 
+
+Pg 3 
+
+
+30 | P a g e 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+About The Report 
+
+Pg 3 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+Pg 10 
+
+102-48 
+
+Restatements of information 
+
+N.A. 
+
+N.A. 
+
+102-49 
+
+Changes in reporting 
+
+About The Report 
+
+Pg 3 
+
+102-50 
+
+Reporting period 
+
+About The Report 
+
+Pg 3 
+
+102-51 
+
+Date of most recent report 
+
+2017 EC World Sustainability 
+
+Report 
+
+N.A. 
+
+102-52 
+
+Reporting cycle 
+
+About The Report 
+
+Pg 3 
+
+102-53 
+
+Contact 
+
+point 
+
+for 
+
+questions 
+
+regarding the report 
+
+About The Report 
+
+Pg 3 
+
+102-54 
+
+Claims of reporting in accordance 
+
+with the GRI Standards 
+
+About The Report 
+
+Pg 3 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+Pg 29-31 
+
+102-56 
+
+External assurance 
+
+Organisation has not sought 
+
+external assurance 
+
+N.A. 
+
+Topic-specific GRI Standard Disclosures 
+
+CATEGORY: ECONOMIC 
+
+MATERIAL ASPECT: PRODUCT INNOVATION (VALUE ADDED SERVICE) 
+
+GRI 
+
+103: 
+
+General 
+
+Disclosures 
+
+2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Product Innovation 
+
+Pg 19-21 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Product Innovation 
+
+Pg 19-21 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+ 
+
+Product Innovation 
+
+Pg 19-21 
+
+CATEGORY: ENVIRONMENTAL 
+
+MATERIAL ASPECT: ENERGY USE AND GHG EMISSIONS 
+
+GRI 
+
+103: 
+
+General 
+
+Disclosures 
+
+2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+GRI 302: Energy 
+
+2016 
+
+302-1 
+
+Energy consumption within the 
+
+organisation 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+302-3 
+
+Energy intensity 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+GRI G4 Sector 
+
+Disclosure: 
+
+Construction 
+
+and Real Estate 
+
+CRE-3 
+
+Greenhouse gas emissions intensity 
+
+from buildings 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+GRI 
+
+305: 
+
+Emissions 2016 
+
+305-2 
+
+Energy indirect (Scope 2) GHG 
+
+emissions 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+ 
+
+305-4 
+
+GHG emissions intensity 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+GRI G4 Sector 
+
+Disclosure: 
+
+CRE-3 
+
+Greenhouse gas emissions intensity 
+
+from buildings 
+
+Energy 
+
+Use 
+
+And 
+
+GHG 
+
+Emissions 
+
+Pg 26-28 
+
+
+31 | P a g e 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+Construction 
+
+and Real Estate 
+
+CATEGORY: SOCIAL 
+
+MATERIAL ASPECT: WORKPLACE HEALTH AND SAFETY 
+
+GRI 
+
+103: 
+
+General 
+
+Disclosures 
+
+2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Workplace 
+
+Health 
+
+And 
+
+Safety 
+
+ASPECT: 
+
+EMPLOYMENT 
+
+Pg 23-25 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Workplace 
+
+Health 
+
+And 
+
+Safety 
+
+Pg 23-25 
+
+103-3 
+
+Evaluation 
+
+of 
+
+the 
+
+management 
+
+approach 
+
+Workplace 
+
+Health 
+
+And 
+
+Safety 
+
+Pg 23-25 
+
+GRI 
+
+403: 
+
+Occupational 
+
+Health 
+
+and 
+
+Safety 2018 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-
+
+related fatalities 
+
+Workplace 
+
+Health 
+
+And 
+
+Safety 
+
+Pg 23-25 
+
+MATERIAL ASPECT: QUALITY OF ASSETS 
+
+GRI 
+
+103: 
+
+General 
+
+Disclosures 
+
+2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Quality Of Assets 
+
+Pg 16-18 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Quality Of Assets 
+
+Pg 16-18 
+
+103-3 
+
+Evaluation 
+
+of 
+
+the 
+
+management 
+
+approach 
+
+Quality Of Assets: 
+
+Pg 16-18 
+
+GRI G4 Sector 
+
+Disclosure: 
+
+Construction 
+
+and Real Estate 
+
+CRE-8 
+
+Type and number of sustainability 
+
+certification, rating and labeling 
+
+schemes 
+
+for 
+
+new 
+
+construction, 
+
+management, 
+
+occupation 
+
+and 
+
+redevelopment 
+
+ 
+
+Quality Of Assets 
+
+Pg 16-18 
+
+CATEGORY: GOVERNANCE 
+
+MATERIAL ASPECT: REGULATORY COMPLIANCE 
+
+GRI 
+
+103: 
+
+General 
+
+Disclosures 
+
+2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+Regulatory Compliance 
+
+Pg 14-15 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+Regulatory Compliance 
+
+Pg 14-15 
+
+103-3 
+
+Evaluation 
+
+of 
+
+the 
+
+management 
+
+approach 
+
+Regulatory Compliance 
+
+Pg 14-15 
+
+GRI 
+
+419: 
+
+Socioeconomic 
+
+Compliance 
+
+2016 
+
+307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Regulatory Compliance 
+
+Pg 14-15 
+
+419-1 
+
+Non-compliance 
+
+with 
+
+laws 
+
+and 
+
+regulations in the social and economic 
+
+area 
+
+Regulatory Compliance 
+
+Pg 14-15 
+
+ 
+

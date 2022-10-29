@@ -1,0 +1,2698 @@
+
+
+
+
+
+
+
+
+
+In HarmonIous 
+
+ConneCtIon
+
+
+
+SUSTAINABILITY REPORT 2019
+
+SHINVEST HOLDING LTD.
+
+旭阳控股有限公司
+
+
+
+
+Contents
+
+BOARD STATEMENT                                                        
+
+ORGANISATIONAL PROFILE                                           
+
+SUSTAINABILITY APPROACH                                          
+
+ECONOMIC                                                                        
+
+ENVIRONMENTAL                                                             
+
+SOCIAL                                                                             
+
+GOVERNANCE                                                                 
+
+GRI STANDARDS CONTENT INDEX                               
+
+01 
+
+ 
+
+02 
+
+ 
+
+03 
+
+ 
+
+05 
+
+06 
+
+07 
+
+ 
+
+11 
+
+ 
+
+12 
+
+ 
+
+
+
+
+
+
+board statement
+
+
+
+We are pleased to present the annual Sustainability 
+
+Report of Shinvest Holding Limited (“Shinvest”, the 
+
+“Company”, and together with its subsidiaries, the 
+
+“Group”) for our financial year ended 31 August 2019 
+
+(“FY2019”). This report is prepared in compliance with 
+
+the requirements of Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Listing Rules 711A and 
+
+711B, and references to the Global Reporting 
+
+Initiative (“GRI”) Standards, Core option. We have 
+
+chosen to report using the GRI Standards because it 
+
+is an internationally recognised reporting framework 
+
+that covers a comprehensive range of sustainability 
+
+disclosures. Moreover, the structured framework 
+
+promotes the reporting of a full and balanced picture 
+
+of Shinvest’s material matters and the management 
+
+of its impact. This report highlights the key economic, 
+
+environmental, social and governance (“EESG”) 
+
+related initiatives carried throughout a 12-month 
+
+period, from 1 September 2018 to 31 August 2019. 
+
+Sustainability is a part of the Group’s wider strategy 
+
+to create long-term value for all its stakeholders. As 
+
+such, the key material EESG factors for the Group 
+
+have been identified and cautiously reviewed by the 
+
+management. The data and information provided 
+
+has not been verified by an independent third party. 
+
+We relied on internal data monitoring and verification 
+
+to ensure the accuracy of data and information. The 
+
+board of directors of the Group (the “Board”) oversees 
+
+the management and monitoring of these factors and 
+
+takes them into consideration in the determination of 
+
+the Group’s strategic direction and policies.
+
+In addition to Shinvest Holding Ltd (“Shinvest”), Sin 
+
+Hong Hardware Pte. Ltd (“Sin Hong”) is also covered 
+
+in this Report. In March 2019, we disposed our equity 
+
+interest in a subsidiary, GD Tech Private Co., Limited 
+
+to the founder. This has affected the disclosures and 
+
+data presented in this report as compared to the 
+
+disclosures in the 2018 report. 
+
+We welcome feedback from our stakeholders with 
+
+regards to our sustainability efforts as this enables 
+
+us to consistently improve our policies, systems and 
+
+results. Please send your comments and suggestions 
+
+to vunyew_siow@shinvest.com.sg.
+
+ 
+
+31 January 2020
+
+sustaInabIlIty report 2019
+
+1
+
+
+
+
+
+
+orGanIsatIonal proFIle
+
+
+
+Shinvest Holding Ltd. (“Shinvest” or the “Company”), was incorporated in 1989 and has been listed on the Mainboard of 
+
+Singapore Exchange Limited since 13 October 1999. The Company underwent a corporate restructuring exercise approved 
+
+by shareholders on 30 July 2009, which saw the company divesting most of its loss-making subsidiaries. 
+
+The Company returned to profit in 2010 after the acquisition of Sin Hong Hardware Pte Ltd (“Sin Hong”). Subsequently, in 
+
+March 2014, the Company invested 10% equity interest in Espressif Group, comprising Espressif Incorporated, Espressif 
+
+Systems (Shanghai) Pte Ltd and Espressif Microelectronics Wuxi Pte Ltd (“Espressif Group”). Over the years, Espressif Group 
+
+had embarked on a series of restructuring and fund raising exercise. On 22 July 2019, Espressif Systems (Shanghai) Co., 
+
+Ltd. (“Espressif Shanghai”) was listed on Shanghai Stock Exchange STAR Market. As a consequence of these changes, the 
+
+Company is now directly holding 6% of equity interest of Espressif Shanghai.
+
+Sin Hong is an integral part of the manufacturing value chain providing a wide range of industrial fasteners and a specialist in 
+
+Standard, Non-standard and Customised Fasteners. Sin Hong caters to customers with special parts or custom-made parts 
+
+for assembly requirement in various industries manufacturing suited to customers requirement. It serves both the domestic 
+
+market and international market, countries coverage includes United States of America, Europe, Malaysia and Indonesia.
+
+Espressif Shanghai is a privately held fabless semiconductor design group, specializing in wireless connectivity chipsets 
+
+and software solutions for tablets, TV boxes, Internet of Things (“IoT”), as well as wearable electronics applications, and 
+
+focused on improving lives through innovation and collaboration. It is dedicated to provide high quality and highly integrated 
+
+connectivity semiconductor solutions to clients worldwide. Users can now easily embed its WiFi solution, based on the latest 
+
+silicon technologies, within other systems, with complete and extensive functionalities, minimal cost and small form factor. 
+
+sHInvest HoldInG ltd.
+
+2
+
+
+
+
+
+
+sustaInabIlIty approaCH
+
+
+
+our sustaInabIlIty metHodoloGy
+
+staKeHolders enGaGement 
+
+
+
+
+
+
+
+
+
+
+
+
+
+plan and
+
+ sCope
+
+
+
+enGaGe 
+
+staKeHolders
+
+
+
+assess
+
+materIalIty
+
+
+
+ColleCt
+
+data
+
+
+
+report
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+An important starting point in our sustainability journey is to identify our stakeholders and material aspects relevant to 
+
+our business. The interests and requirements of key stakeholders are also taken into account when formulating corporate 
+
+strategies. These key stakeholders include, but are not limited to, customers, suppliers, shareholders, employees, and 
+
+regulators. We adopt both formal and informal channels of communication to understand the needs of key stakeholders, and 
+
+incorporate these into our corporate strategies to achieve mutually beneficial relationships. 
+
+
+
+stakeholders
+
+engagement platforms
+
+Frequency
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+suppliers
+
+Vendor Assessments
+
+Annually
+
+Emails/Calls
+
+Continuously
+
+Face-to-face meetings
+
+Quarterly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+shareholders
+
+Annual General Meeting/
+
+Extraordinary General Meeting
+
+Annually
+
+Annual Report
+
+Annually
+
+Announcement
+
+Quarterly
+
+Websites-Investor Relationship
+
+Continuously
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Customers
+
+Face-to-face meetings
+
+Annually
+
+Email feedback
+
+Continuously
+
+Customer cold calls
+
+Continuously
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+employees
+
+Staff Appraisal
+
+Periodically
+
+Whistle blowing policy updates
+
+Annually
+
+Department &amp; Management Meetings
+
+Quarterly
+
+Staff Bonding Sessions
+
+Quarterly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+board
+
+Board Meetings
+
+Half yearly
+
+Board Circulation via E-mails
+
+Half yearly
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Government 
+
+and regulators
+
+Regular Reports
+
+Continuously
+
+Websites
+
+Continuously
+
+Calls
+
+Continuously
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+local 
+
+Communities
+
+Corporate Social Responsibility Programmes
+
+Annually
+
+sustaInabIlIty report 2019
+
+3
+
+
+
+
+
+
+
+
+materIalIty assessment 
+
+
+
+Our sustainability process begins with the identification of relevant aspects. Relevant aspects are then prioritised to identify 
+
+material factors which are subject to validation. The end result of this process is a list of material factors disclosed in the 
+
+Sustainability Report. Process of which is as shown below
+
+The Group has conducted a materiality assessment during the year with the help of an external consultant. We engaged our 
+
+employees from different departments, seeking our internal stakeholders’ feedback for prioritisation of these topics. Going 
+
+forward, materiality review will be conducted every year, incorporating inputs gathered from stakeholders’ engagements.
+
+In order to determine if an aspect is material, we assessed its potential impact on the economy, environment and society and 
+
+its influence on the stakeholders. Applying the guidance from GRI, we have identified the following as our material aspects: 
+
+
+
+
+
+
+
+
+
+
+
+IdentIFICatIon
+
+
+
+prIorItIsatIon
+
+
+
+valIdatIon
+
+
+
+revIeW
+
+eConomIC
+
+
+
+soCIal
+
+
+
+envIronmental
+
+
+
+GovernanCe
+
+
+
+• 
+
+Economic Performance
+
+• 
+
+Anti-Corruption
+
+• 
+
+Energy
+
+• 
+
+Environmental Compliance
+
+• 
+
+Corporate Governance
+
+• 
+
+Business Ethics and Compliance
+
+• 
+
+Enterprise Risk Management 
+
+• 
+
+Diversity and Equal Opportunity
+
+• 
+
+Occupational Health and Safety
+
+• 
+
+Training and Education
+
+• 
+
+Local Communities
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+sHInvest HoldInG ltd.
+
+4
+
+
+
+
+
+
+Shinvest firmly believes that the focus on financial sustainability is critical and is fully committed to the highest standards of 
+
+corporate governance. The Group’s basic principle is that long-term profitability and shareholders’ value is ensured by taking 
+
+into account the interests of all stakeholders, such as shareholders, employees, suppliers and society as a whole.
+
+In a period characterised by the International Monetary Fund (“IMF”) as a “synchronised slowdown”, overall global economic 
+
+sentiment remained subdued across FY2019, with manufacturing and global trade being notably hard hit. This downturn, 
+
+termed by the IMF as the “slowest-paced” since the global financial crisis, was markedly underscored by the twin deadlocks 
+
+of the prolonged US-China trade war and Brexit negotiations. Amidst these sluggish conditions, and the deconsolidation 
+
+of subsidiary GD Tech (H.K.) Privated Limited, the Group’s revenue reduced 14.5% year-on-year (YoY) to S$15.4 million in 
+
+FY2019, as compared to S$18.0 million in the financial year ended 31 August 2018 (“FY2018”). Segmentally, the Export 
+
+Strategic Business Unit (SBU) continued to serve as the largest contributor to sales from continuing operations in FY2019, 
+
+forming 47.6% of the Group’s revenue (FY2018: 53.1%). Meanwhile, buoyed by a relatively more robust market, the Retail 
+
+SBU saw its percentage contribution to sales move up by 5.4 percentage points to 35.7% in FY2019. On the other hand, 
+
+revenue contribution from the Original Equipment Manufacturing (OEM) SBU remained relatively stable at 16.7% for FY2019 
+
+(FY2018: 16.6%). 
+
+While gross profit slid 8.3% YoY to S$5.3 million, the Group’s gross profit margin improved by 2.3 percentage points to 
+
+34.3% in FY2019. The Group was also able to achieve a profit before income tax of S$83.8 million, a sizeable step up from 
+
+S$2.2 million in FY2018. 
+
+The strong financial results in FY2019 is a starting point for the Group’s focus on generating and sustaining positive cash 
+
+flow. We will continue to identify and execute measures to facilitate good cash flow over the coming years.
+
+For detailed financial results, please refer to the following sections in our FY2019 Annual Report:
+
+• 
+
+Financial Review, page 2 
+
+• 
+
+Outlook and Strategy, page 3
+
+• 
+
+Financial Statements, pages 33 to 130
+
+We do not tolerate corruption in any form. This has been made clear to all of the Group’s directors, officers, employees, and 
+
+external suppliers and business partners. Dedicated whistle-blowing hotlines using both email and mail are set up so that 
+
+anyone wanting to report any business ethics issue can do so confidentially. Any report of corruption will be escalated to the 
+
+attention of the Audit Committee.
+
+There has also been no reported incidents of corruption during the reporting period. We aim to achieve zero incidents of 
+
+corruption in the future as well. 
+
+eConomIC
+
+
+
+eConomIC perFormanCe 
+
+antI CorruptIon
+
+sustaInabIlIty report 2019
+
+5
+
+
+envIronmental
+
+
+
+Shinvest endeavors to minimise the potential impact of our operations on the environment by implementing proper processes 
+
+for waste reduction and waste management. We are committed to reduce our carbon footprint and the consumption of 
+
+natural resources in all possible aspects of business operations. We encourage the use of renewable materials and resources, 
+
+and where possible, reduce waste through re-using and recycling. We avoid any unnecessary use of hazardous materials and 
+
+products and take all reasonable steps to protect the environment when such materials must be used, stored or disposed of. 
+
+Shinvest, as a Group, we are fully aware of our responsibility for nurturing the environment and lessening negative 
+
+environmental consequences at our work sites and the environment where we operate. 
+
+In order to manage energy effectively, we monitor our electricity consumption at our work places. All the air conditioners 
+
+must be switched off after office hours including lunch break with an automatic timer switch. Thermostat is set at low energy 
+
+saving 78 degrees Fahrenheit. All lights and computers must be switched off when not in use.
+
+It is our Group’s policy to use recycled paper and work towards a paperless culture. All staff were told to avoid any unnecessary 
+
+printing and keeping softcopy of all documents and reports. We do not encourage fax but emails from customers and 
+
+suppliers.
+
+We recently implemented a new ERP system which will greatly reduce the use of papers and assist us in achieving our aim 
+
+of cutting down paper consumption by half in 2020.
+
+About 70% of our warehouses Hi-Bay lights were replaced by LED lights. We also replaced spoilt electric appliances with 
+
+energy saving type (e.g., air conditioner units). We will continue to use energy on a required basis and avoid wastage. In 
+
+FY2019, our energy consumption was as follows: 
+
+Here at Shinvest, compliance with relevant Codes and Regulations on environmental issues is a must. The Group has 
+
+implemented policies and procedures designed to ensure compliance with the most relevant laws and regulations. We take 
+
+steps at all workplaces to ensure the requirements are met throughout the duration of the projects.
+
+In FY2019, there were zero incidence of non-compliance with laws and regulations resulting in significant fines or sanctions. 
+
+We aim to achieve zero incidence of non-compliance with laws and regulations resulting in significant fines or sanctions.
+
+enerGy
+
+envIronmental ComplIanCe 
+
+
+
+2018
+
+2019
+
+Total Electricity Consumption
+
+421,522 kwh
+
+365,483 kwh
+
+Electricity Consumption per unit
+
+444.53 kwh/sqm
+
+385.43 kwh/sqm
+
+This is different from the figure last year (for only 1 warehouse). This is adjusted to include total of 3 warehouses.
+
+
+
+sHInvest HoldInG ltd.
+
+6
+
+
+The employees of the Group are one of the most important assets and their contribution and support are valued at all 
+
+times. We regularly review compensation and benefit policies according to industry benchmarks, financial results as well as 
+
+the individual performance of employees. Other fringe benefits and pension fund contributions are provided to retain loyal 
+
+employees with the aim of forming a professional staff and management team that can bring the Group to greater success. 
+
+Staff satisfaction can be seen from our recent low staff turnover. Furthermore, the Group places great emphasis on the 
+
+training and development of employees and regard excellent employees as a key factor in its competitiveness.
+
+We respect human rights, support the elimination of all forms of forced and compulsory labour, especially child labour, and 
+
+do not tolerate any discrimination in respect of employment and occupation.
+
+A diverse workforce is an asset in today’s ever-changing global marketplace. We cultivate an inclusive culture where 
+
+employees with various backgrounds and qualities are highly motivated, engaged and connected. We do not discriminate 
+
+one’s race, age, gender, religion, ethnicity, disability or nationality. 
+
+As at 31 August 2019, we had a workforce of 73 full-time employees. Our headcounts for Shinvest and Sin Hong were 
+
+distributed as follows:
+
+dIversIty and eQual opportunIty
+
+Gender
+
+42%
+
+natIonalIty
+
+aGe
+
+lenGtH oF servICe 
+
+soCIal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+58%
+
+48%
+
+45%
+
+7%
+
+63%
+
+27%
+
+10%
+
+MALE
+
+30-50 YEARS
+
+SINGAPOREAN
+
+&gt;21 YEARS
+
+&gt;50 YEARS
+
+MALAYSIAN
+
+11-20 YEARS
+
+1-10 YEARS
+
+&lt;30 YEARS
+
+PRC
+
+FEMALE
+
+14%
+
+27%
+
+59%
+
+sustaInabIlIty report 2019
+
+7
+
+
+soCIal
+
+
+
+The ratio of female employees in the Group is relatively low but this is not unusual in our industry due to the nature of our 
+
+business.
+
+Throughout the year, we held a range of team-building activities such as Durian Party, Christmas Lunch &amp; Gift Exchange, 
+
+CNY Buffet &amp; Yu Sheng, and Company Dinner &amp; Dance to facilitate team bonding.
+
+As human resource is a major contributing factor in our organization, our employees’ safety and health at the workplace is 
+
+one of our top priorities, and our ultimate goal is to have a zero accident workplace. We are committed to managing and 
+
+reducing safety and health risks through effective risk management.
+
+We have established a strict set of workplace health, safety and security policies. Detailed Workplace Safety and Security 
+
+Clause and Industrial Accident Compensation Clause are both stated in the Employee Handbook. This covers the standard 
+
+procedures to identify hazards relating to occupational health and safety, evaluate risks associated with these hazards 
+
+and to ensure that appropriate actions are taken to manage the risks involved. In addition, all environmental aspects and 
+
+occupational health safety hazards which are within our control or under our management, as well as those that we cannot 
+
+control or directly manage but are expected to affect health and safety, are covered in the policies.
+
+Given that we value and prioritise our employees’ health and safety within our organization, achieving these certifications and 
+
+implementing the framework of systems required is vital to our organization. The implementation of these frameworks has 
+
+enabled us to systematically identify, reduce and mitigate risks involved in the operations of our organization. Sin Hong was 
+
+ISO9001:2015 certified valid from 10 January 2018 to 9 January 2021 for sales and distribution of fasteners and hardware.  
+
+To prevent safety issues, we conduct safety training during employee enrollment. Safety goggles, ear plugs and safety boots 
+
+were provided for all machine operating staffs. Proper attire is required for employees during office hours. The safety training 
+
+conducted covers all risk areas. For example, trainings for safety machine handling is a must for all machine operators and 
+
+fire drill is conducted minimum once a year.
+
+We also have group insurance policies for our staff including workmen compensation, foreign worker medical insurance, key 
+
+man insurance and business travel insurance.
+
+We aim to achieve zero incident of workplace accidents in 2020.
+
+
+
+
+
+oCCupatIonal HealtH and saFety 
+
+sHInvest HoldInG ltd.
+
+8
+
+
+One of the Group’s corporate goals is to develop it’s human capital through continuous training. We organize both internal 
+
+and external programs for employees from time to time. The cost of the training would be borne by the company in full, 
+
+however the employee shall have to pay the cost in the event that they do not complete the course, fail on the program or do 
+
+not meet the minimum attendance requirements. 
+
+External courses must be of direct relevance to the work of the employee. Application for training courses must be made on 
+
+the Training Application forms and is to be submitted / approved by the Department Head and the General Manager / CEO via 
+
+the Human Resource and Administration Department. All employees receive regular performance and career development 
+
+reviews during the annual appraisals.
+
+In 2019, Sin Hong has provided  three internal Basic and Advanced Product Training to our employees:
+
+Sin Hong has also sent the employees to attend the following external trainings:
+
+soCIal
+
+
+
+traInInG and eduCatIon
+
+
+
+no.
+
+topic of training
+
+ number of attendees
+
+training hours per session
+
+1
+
+LEAN SIX SIGMA
+
+21
+
+1.5
+
+2
+
+5S Warehouse
+
+21
+
+1.5
+
+3
+
+5S Office
+
+15
+
+1.5
+
+
+
+no.
+
+topic of training
+
+ number of attendees
+
+training hours per session
+
+1
+
+WSQ Manage Productivity 
+
+improvement to Achieve Business 
+
+Objectives
+
+20
+
+160
+
+2
+
+WSQ Implement Lean Six Sigma
+
+20
+
+640
+
+3
+
+WSQ Plan and Implement 
+
+Productivity Framework 
+
+20
+
+160
+
+4
+
+ISCA – Analysis &amp; Review of FRS 
+
+Course
+
+1
+
+16
+
+5
+
+UMW – Operate Forklift Driver 
+
+Training Course
+
+2
+
+72
+
+
+
+sustaInabIlIty report 2019
+
+9
+
+
+
+
+On 21 June 2019, Sin Hong embarked on its inaugural Corporate Social Responsibility programme through it’s in-house fund 
+
+raising activities for Dover Park Hospice in Singapore. Our employees donated and the Company matched dollar to dollar. 
+
+Snacks and goodie bags were also distributed to the patient. On 3 July 2019, Shinvest participated in the “NTU President’s 
+
+Charity Golf Cup 2019” and made a donation of S$5,000 to NTU. In July 2019, Shinvest also sponsored Chuan Pictures a 
+
+total of S$3000 for the NDP MV “Our Singapore” for the 2019 NDP music video.
+
+We aim to provide two to three activities for the local communities in 2020.
+
+Shinvest aims to contribute back to the community and advocate the best practices within the Group to achieve sustainable 
+
+growth. The focus for FY2019 was to support the less privileged through activities that promote an enhanced sense of well-
+
+being.
+
+
+
+
+
+
+
+loCal CommunIty enGaGement 
+
+soCIal
+
+
+
+sHInvest HoldInG ltd.
+
+10
+
+
+The Board and the Management of Shinvest commit to the best practices of the corporate governance to ensure sustainability 
+
+of the Group’s operations. We believe that the constant drive to upkeep corporate excellence will allow us to establish a 
+
+more transparent, accountable and equitable system, thereby the increasing the value of the Company and the value to our 
+
+shareholders. Throughout FY2019, we adhered to the principles and guidelines set out in the Code of Corporate Governance 
+
+2018 and will continue to do so in the coming years. Please refer to the pages 10 to 22 of the 2019 Annual Report for the 
+
+details of the Group’s Corporate Governance Report.
+
+When it comes to hiring, Shinvest takes seriously any possible conflict of interest. Our Code of Conduct clearly spells out our 
+
+expectations from our staff and the consequences if any of the rules were violated or standards were not met. We also have 
+
+clear and fair grievance procedures. Our target is to ensure all allegations received are promptly addressed. During the year, 
+
+no allegations were received.
+
+Business ethics is communicated to all our heads of business units regularly and they must fully understand that compliance 
+
+with rules and regulations is a key part of running a responsible business. Shinvest regularly updates key staff with development 
+
+in international and local regulations. We fully comply with all environmental rules and regulations, confidentiality clause, 
+
+anti-competitive behaviour laws and all requirements on health and safety. 
+
+Cyber security and data privacy are important not just for compliance, but also to safeguard both our data and that of our 
+
+customers. We take measures to guard against cyber risks for both our internal and external stakeholders by complying 
+
+with the Personal Data Protection Act Policy. This policy also applies to our employment process where the privacy of all 
+
+applicants is safeguarded and access to personal data is restricted to authorised persons senior management on a need-to-
+
+know basis.
+
+For FY2019, there were no significant fines or non-monetary sanctions for non-compliance with laws and regulations and 
+
+we aim to maintain this track record. 
+
+The Board is overall responsible for determining the Group’s risk appetite and tolerance, risk profile, overseeing the Group’s 
+
+risk management framework, reviewing the Group’s key risks and mitigation strategies. The Management is responsible 
+
+for designing, implementing and monitoring the risk management and internal controls system. The Audit Committee is 
+
+supported by the Management in the review of these risks and effectiveness of mitigation strategies and controls.
+
+The Risk Management Team, headed by the Chief Financial Officer assesses and reviews the Group’s business and 
+
+operational environment in order to identify areas of significant business, financial, operational and compliance risks, as well 
+
+as appropriate measures to control and mitigate these risks. 
+
+The Risk Management Team, which works alongside with the AC, reports and highlights all significant risk matters to the 
+
+Board for discussions and appropriate actions, if required. The Group has implemented an Enterprise Risk Management 
+
+framework to enable it to assess, identify, manage and monitor key risks and controls in the Group’s businesses.
+
+The Group’s Risk Register was reviewed and updated on 23 October 2019.
+
+Corporate GovernanCe
+
+busIness etHICs and ComplIanCe
+
+enterprIse rIsK manaGement 
+
+GovernanCe
+
+
+
+sustaInabIlIty report 2019
+
+11
+
+
+GrI standards Content IndeX
+
+
+
+
+
+GrI standard
+
+disclosure
+
+reference / description
+
+GrI 101: Foundation 2016
+
+General dIsClosure
+
+GrI 102: General 
+
+disclosures
+
+102-1
+
+Name of organisation
+
+SHINVEST HOLDING LTD.
+
+102-2
+
+Activities, brands, products and services
+
+Page 2
+
+102-3
+
+Location of headquarters
+
+Singapore
+
+102-4
+
+Location of operations
+
+Page 2
+
+102-5
+
+Ownership and legal form
+
+Annual Report Page 7
+
+102-6
+
+Markets served
+
+Page 2
+
+102-7
+
+Scale of the organisation
+
+Page 2
+
+102-8
+
+Information on employees and other 
+
+workers
+
+Pages 7 to 8
+
+102-9
+
+Supply chain
+
+Page 2
+
+102-10
+
+Significant changes to the organisation 
+
+and its supply chain
+
+Page 2
+
+102-11
+
+Precautionary Principle or approach
+
+None  
+
+102-12
+
+External initiatives
+
+Page 10
+
+102-13
+
+Membership of associations
+
+None
+
+102-14
+
+Statement from senior decision maker
+
+Page 1
+
+102-16 
+
+Values, principles, standards and norms of 
+
+behaviour
+
+Page 11
+
+102-18
+
+Governance structure
+
+Annual Report Pages 10-22
+
+102-40
+
+List of stakeholder groups
+
+Page 3
+
+102-41
+
+Collective bargaining agreements
+
+None
+
+102-42
+
+Identifying and selecting stakeholders
+
+Page 3
+
+102-43
+
+Approach to stakeholder engagement
+
+Page 3
+
+102-44
+
+Key topics and concerns raised
+
+Page 3
+
+102-45
+
+Entities included in the consolidated 
+
+financial statements
+
+Annual Report Page 74
+
+102-46
+
+Defining report content and topic 
+
+boundaries
+
+Page 4
+
+102-47
+
+List of material topics
+
+Page 4
+
+102-48
+
+Restatement of information
+
+Page 1
+
+102-49
+
+Changes in reporting
+
+Not Applicable
+
+102-50
+
+Reporting period
+
+1 September 2018 to 31 August 
+
+2019 
+
+102-51
+
+Date of most recent previous report
+
+31 August 2019
+
+102-52
+
+Reporting cycle
+
+Annually
+
+102-53
+
+Contact point for questions about the 
+
+report
+
+Page 1
+
+102-54
+
+Claims if reporting in accordance with the 
+
+GRI Standards
+
+Page 1
+
+102-55
+
+GRI content index
+
+Pages 12 to 13
+
+102-56
+
+External Assurance
+
+We may seek external 
+
+assurance in the future
+
+sHInvest HoldInG ltd.
+
+12
+
+
+
+
+GrI standard
+
+disclosure
+
+reference / description
+
+materIal topICs
+
+GrI 201: economic 
+
+performance
+
+201-1
+
+Direct economic value generated and 
+
+distributed
+
+Page 5
+
+GrI 205: anti-
+
+corruption
+
+205-1
+
+Operations assessed for risks related to 
+
+corruption
+
+Page 5
+
+GrI 302: energy 
+
+305-1
+
+Energy consumption within the 
+
+organisation
+
+Page 6
+
+ GrI 307: 
+
+environmental 
+
+compliance
+
+307-1
+
+Non-compliance with environmental laws 
+
+and regulations
+
+Page 6
+
+GrI 403: 
+
+occupational 
+
+Health and safety
+
+403-2
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-related 
+
+fatalities
+
+Page 8
+
+GrI 404: training 
+
+and education
+
+404-1
+
+Average hours of training per year per 
+
+employee
+
+Page 9
+
+GrI 405: diversity 
+
+and equal 
+
+opportunity
+
+405-1
+
+Diversity of governance bodies and 
+
+employees
+
+Page 7
+
+GrI 413: local 
+
+Communities
+
+413-1
+
+Operations with local community 
+
+engagement, impact assessments, and 
+
+development programs
+
+Page 10
+
+GrI standards Content IndeX
+
+
+
+sustaInabIlIty report 2019
+
+13
+
+
+
+
+SHINVEST HOLDING LTD.
+
+旭阳控股有限公司
+
+No. 3 Kian Teck Crescent,
+
+Singapore 628881
+

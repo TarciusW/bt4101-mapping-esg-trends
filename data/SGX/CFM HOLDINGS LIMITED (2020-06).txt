@@ -1,0 +1,1391 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CFM HOLDINGS LIMITED 
+
+REGISTRATION NO. 200003708R 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+2 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+ 
+
+ 
+
+Table of contents 
+
+ 
+
+Table of contents ..................................................................................................................................... 2 
+
+Introduction.............................................................................................................................................. 3 
+
+About this report ...................................................................................................................................... 3 
+
+About the Group  ..................................................................................................................................... 4 
+
+Board’s Statement ................................................................................................................................... 5 
+
+Defining Material Topics .......................................................................................................................... 6 
+
+Key Stakeholders .................................................................................................................................... 7 
+
+Strategies and Targets ............................................................................................................................ 8 
+
+Risk and Opportunities ............................................................................................................................ 8 
+
+Economy ................................................................................................................................................. 9 
+
+Product Quality Management ............................................................................................................. 9 
+
+Environment .......................................................................................................................................... 11 
+
+Waste and Resource Management .................................................................................................. 11 
+
+Community ............................................................................................................................................ 12 
+
+Workplace Safety ................................................................................ Error! Bookmark not defined. 
+
+Community ............................................................................................................................................ 12 
+
+Employment Practices ...................................................................................................................... 12 
+
+Governance ........................................................................................................................................... 12 
+
+Shareholders ..................................................................................................................................... 13 
+
+Board of Directors (“BOD”) ................................................................................................................ 14 
+
+GRI Content Index  ............................................................................. Error! Bookmark not defined.15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+3 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Introduction 
+
+ 
+
+We are pleased to present our annual sustainability report for our financial year ended 30 June 2020 (“FY2020”).  
+
+Since our establishment in 1979, CFM Holdings Limited and its subsidiaries (“CFM” or “the Group”) has 
+
+transformed itself into a customer-oriented manufacturer who provides metal stamping services, fabrication, 
+
+designs and sale of tool-and-die used for manufacturing of stamped metal components. Our vision is to be a 
+
+global business name that delivers quality, performance, integrity, teamwork and innovation to the satisfaction of 
+
+our customers. We recognise the importance of responsible business practices and sound risk management 
+
+especially in light of the uncertain and highly competitive business environment. We formulate our business 
+
+strategies in response to evolving market demands and sustainability challenges.  
+
+In FY2015, the Group acquired a new subsidiary trading in wearable and disposable gears for cleanroom, bio-
+
+medical, laboratories, pharmaceutical and hospitals.  Today, our customer base ranges from electronics, 
+
+automotive, telecommunication, technology, to the media &amp; entertainment industries. The three industries 
+
+contributing to our revenue are automotive, electronics and engineering.  
+
+We are aware of our environmental and social duties as an ethical and responsible corporation operating 
+
+manufacturing and production lines. CFM is committed to reducing environmental footprints and to safeguard 
+
+every individual employee’s well-being to build a sustainable future. Through our thorough and continuous 
+
+assessment of our business environment impact with our valued stakeholders, we strive to integrate 
+
+sustainability into our business model and keep our business model relevant. 
+
+About this report 
+
+ 
+
+For our sustainability report, we have adopted a phased-in approach. As we embark on our sustainability 
+
+reporting odyssey, we have first identified the material Economic, Environmental, Social and Governance 
+
+(“ESG”) factors based on our current practices and future initiatives of the Group. Our current practices and 
+
+future initiatives will undergo continuous and consistent reviews in consideration of our business environment 
+
+and valued stakeholders’ concerns.  
+
+Drawing reference from the Global Reporting Initiative (“GRI”) standards (core option) and in accordance with 
+
+SGX-ST Listing Rules (711A and 711B) – Sustainability Reporting Guide. We have chosen to report using the 
+
+GRI Standards because it is an internationally recognised sustainability reporting framework that covers a 
+
+comprehensive range of sustainability disclosures. 
+
+We prepared the sustainability report of our operations for the period 1 July 2019 to 30 June 2020. The GRI 
+
+Content Index is provided at the end of this report for the relevant references.  
+
+The contact point for questions regarding this report is Madam Lim Fong Li Janet, the Chief Executive Ofﬁcer of 
+
+the Group. We welcome feedback from our stakeholders with regards to our sustainability efforts as this enables 
+
+us to consistently improve our policies, systems and results. Please send your comments and suggestions to 
+
+irc@cfmholdings.com.  
+
+The content of this report has not been externally assured by independent parties.The GRI Standards have 
+
+been used since the first sustainability report. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+4 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+About The Group 
+
+ 
+
+We are listed on Singapore Exchange Securities Trading Limited on 16 January 2004 and headquartered in 
+
+Singapore.   
+
+The Group’s mission is to deliver high quality components to our customers by implementing stringent process 
+
+control and deliver at a lowest cost possible. In addition, we strive to constantly upgrade our skills and keep 
+
+abreast with technological advancement to satisfy beyond customers’ requirement.  
+
+The locations of our operations include Singapore, Malaysia, China and the Slovak Republic. We proactively 
+
+approach our existing customers and increase our customer engagement efforts to enhance customer service 
+
+and lay the foundation for future revenue growth. We have expanded our metal stamping services in the 
+
+automotive industry to reach the United States and other European countries. We are also in the midst of 
+
+developing new metal stamping services and products to better serve our valued customers.  
+
+During the financial year ended 30 June 2020 (“FY2020”), we reported a revenue of S$17.4 million, compared 
+
+with revenue of S$20.3 million for the financial year ended 30 June 2019 (“FY2019”), a decrease of 
+
+approximately S$2.9 million. The decrease was mainly due to decrease in demand from metal stamping, tooling 
+
+and cleanroom products segment.  
+
+The Group’s gross profit decreased from S$4.5 million in FY2019 to S$3.9 million in FY2020.The gross profit 
+
+margin also increased from 22.17% to 22.41% for the same period.  
+
+ 
+
+The Group saw a net loss after tax of approximately S$703k for FY2020, a decrease from profit of 
+
+approximately S$290k in FY2019. This can be attributed to the Malaysia control order and the Singapore 
+
+circuit breaker, despite having lower than normal revenue, the subsidiaries continue to incur manpower costs. 
+
+For detailed financial results, please refer to our Group website: www.cfmholdings.com or SGX website, for the 
+
+sections in our FY2020 annual report:  
+
+- 
+
+Chairman’s statement (page 4); 
+
+- 
+
+Financial statements (pages 33 to 98). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+5 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+ 
+
+Board’s Statement 
+
+ 
+
+We are pleased to present CFM Holdings Limited (“CFM” or the “Group”) Sustainability Report for the financial 
+
+year 1 July 2019 to 30 June 2020 (“FY2020”).  This report highlights the key economic, environmental, social, 
+
+and governance (“ESG”) related initiatives carried throughout FY2020.  
+
+Our goal is to highlight the progress and achievements of sustainability issues and to set out strategic 
+
+responses to the sustainability risks exposed to the Group in a transparent and effective manner. 
+
+As such, the key material ESG factors for the Group have been identified and cautiously reviewed by the 
+
+management. The board of directors of the Group (the “Board”) has considered sustainability issues as part of 
+
+its strategic formulation and also oversees the management and monitoring of these factors and takes them into 
+
+consideration in the determination of the Group’s strategic direction and policies.   
+
+PRODUCT QUALITY  
+
+We are placing our consumers as our highest importance by building trust through our qualitative and 
+
+sustainable product offerings through the discipline of product quality, consistency through the recognition of 
+
+ISO as our group-wide objective. 
+
+VALUING OUR PEOPLE  
+
+We valued our employees as a top priority as we work hard to strengthen labour practices in areas such as 
+
+wages and employment, health and safety, labour relations, code of ethics, training and development. 
+
+MINIMISING OUR ENVIRONMENTAL FOOTPRINT  
+
+The focus covers our impact on various environmental footprints in terms of waste management at our 
+
+manufacturing premises. 
+
+GOVERNANCE 
+
+This report is available on the SGXNet and the Company’s website at www.cfmholdings.com. We are strictly in 
+
+compliance with mandatory all listing requirements and new code of conduct, and also promote awareness and 
+
+maintain compliance with our existing Group policies such as whistle blowing and anti-corruption policy. 
+
+We welcome feedback from our stakeholders with regards to our sustainability efforts as this enables us to 
+
+consistently improve our policies, systems and results. Please send your comments and suggestions to 
+
+irc@cfmholdings.com. 
+
+ 
+
+ 
+
+ 
+
+Board of Directors 
+
+15 Oct 2020  
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+6 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Defining Material Topics 
+
+ 
+
+The Group evaluated all aspects of business operations in defining material topics affecting CFM from its 
+
+stakeholders’ concerns and perspectives. The identified sustainability topics were assessed based on the 
+
+feedbacks from our dialogues with our valued stakeholders and carefully calibrated with GRI disclosures. In the 
+
+prioritisation of the material topics, we identified a list of sustainability topics in the sections of our report as such: 
+
+Our Economy, Our Environment, Our Community, and Our Governance.  
+
+In assessing materiality of ESG factors, has the Group considered  - 
+
+ 
+
+External factors such as geography, markets and social environment, - for the Covid situation we implemented 
+
+the government guidelines in our operations.  In terms of markets, business is largely stable. 
+
+Internal factors such as business cycle – given current situation, operationally we cut down manpower to meet 
+
+the orders on timely basis. Slovakia operation is not affected by the Covid pandemic. 
+
+ 
+
+The material ESG factors were identified and ranked through the use of questionnaires, and further concurred 
+
+by key management personnel of the Group. The ranking of material topics was based on the topics’ 
+
+significance to CFM and influences on their valued key stakeholders. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+7 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Key Stakeholders 
+
+ 
+
+We have carefully identified five key stakeholders with significant influences on our business operating 
+
+environment and sustainability efforts. We recognise the value of our key stakeholders’ engagement in 
+
+achieving goal congruence and economic success. The following table below reflects our identification of key 
+
+stakeholders and the corresponding ways to engage them: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+8 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Strategies and Targets 
+
+Our current strategies and targets to achieve optimal sustainable operations as set forth below: 
+
+ 
+
+ 
+
+Risk and Opportunities 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+9 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Economy 
+
+ 
+
+Product Quality Management 
+
+ 
+
+There is an increasing emphasis on organisations to focus on quality of products and services. The Group 
+
+recognises quality management and the continual improvement of its production process to be most critical in 
+
+meeting our customers’ demand for high-quality products at a reasonable price.  
+
+Our established manufacturing plants are proudly certified by the International Organization for Standardization 
+
+9001:2015 for quality management systems and International Automotive Task Force (“IATF”) 16949:2016 for 
+
+technical specifications of quality management systems.  
+
+The standard ISO 9001:2015 offers a comprehensive framework for maintaining quality. The ISO 9001:2015 
+
+standards set-forth robust quality management principles with heavy reliance on customer focus.  
+
+The IATF 16949:2016 is a technical specification, certification that provides emphasis on preventing defects and 
+
+reducing variability and waste in the automotive industry, on top of the development of quality management 
+
+systems.  
+
+The intrinsic value of quality management standards lies in the confirmed assurance that there is quality in our 
+
+products and our manufacturing systems. As part of our quality management practices, the Group engages an 
+
+external party to conduct annual precision calibrations for our manufacturing machineries. We are constantly 
+
+optimising our manufacturing process to improve operating efficiency, decrease wastage and reduce our 
+
+environmental footprint.  
+
+We believe in responsible procurement. We evaluate our suppliers to ensure that we only procure raw materials 
+
+from approved vendors. The Group strives to maintain compliance with the ISO and IATF standards by 
+
+conducting periodic ISO and IATF certification audits, and strive for continuous consistency to meet the 
+
+expectations of the customers.  
+
+The Group is a member of the Singapore Business Federation (“SBF”). The function of the association is to 
+
+increase the networking opportunities for the Group for economic, business growths and share advices on 
+
+business continuity management, finance and branding.  
+
+We will continue to ensure our product quality management and improvement to meet our customer’s demand, 
+
+as well as reduce the variations and waste. In addition, the Group will continue to be a member of the SBF to 
+
+maintain the networking opportunities.  
+
+The PQM certification last for several years and our quality and standard have to be maintained as our 
+
+production requires precision. 
+
+List of ISO 9001:2015 Certificates: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+10 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+List of IATF 16949:2016 Certificates: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+11 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Environment 
+
+ 
+
+Waste and Resource Management 
+
+ 
+
+In the era of increasing sustainability efforts, customers are becoming more environmentally conscious. The 
+
+Group recognises the corporate responsibility to increase the standards of living while preserving the profitability 
+
+of the organisation. We integrate our environmental efforts into our business operations. Our subsidiaries are 
+
+also certified with ISO 14001:2015 for environmental management systems. Similar to the concept of continual 
+
+improvement established in the standards of quality management systems, the ISO 14001 standard dictates 
+
+environmental performance through more efficient use of resources, and reducing potential waste.  
+
+Our environmental initiatives aid in gaining competitive advantage against other market players, and in building 
+
+trust with our valued stakeholders.  
+
+The Group conducts proper disposal of material waste in all subsidiaries through the engagement of licensed 
+
+scrap contractors in our bid to build a sustainable supply chain. All approved licensed scrap contractors are 
+
+accredited and certified by their local regulations and standards for proper waste disposal. We strive to maintain 
+
+compliance with the ISO 14001:2015 environmental management systems’ requirements by conducting periodic 
+
+audits to minimise environmental footprints.  
+
+The Group will continue to ensure proper disposal of materials waste in all subsidiaries through the engagement 
+
+of licensed scrap contractors and ensure that there were no non-compliance to regulations. In additions, the 
+
+Group will continue to maintain its ISO 14001:2015 standards. 
+
+ 
+
+List of ISO Certificates: ISO 14001:2015 and ISO 14001:2016 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+12 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+ 
+
+COMMUNITY – WORKPLACE SAFETY 
+
+ 
+
+Every individual has a role to play in maintaining a safe and healthy working environment. The Group adopts the 
+
+Fire Safety Manager (“FSM”) Scheme from the Singapore Civil Defence Force (“SCDF”) to ensure and enhance 
+
+the fire safety standards within the building. The FSM scheme provides a comprehensive set of fire safety 
+
+standards, and prevention measures within the building premises.  
+
+A monthly inspection is conducted by the appointed fire safety manager to evaluate the building’s fire protection 
+
+system and identify potential safety breaches and/or fire hazards. The observations are highlighted for 
+
+management’s rectification. Emergency drills are conducted bi-annually where the execution shortfalls of the 
+
+evacuation exercises and its recommendations are recorded in the Emergency Evacuation Drill Report by the 
+
+appointed fire safety manager for management’s attention.  
+
+An Emergency Response Plan (“ERP”) was developed by the Group in accordance with the Fire Safety Act 
+
+(Section 20). The ERP provides detailed measures and operational actions to minimise injury and damage to 
+
+property in the event of an emergency situation. All subsidiaries with manufacturing premises are certified with 
+
+Fire Certificate in accordance with their local regulations where they operate.  
+
+As part of the safety measures, the manufacturing premises perform daily safety preventive maintenance on all 
+
+machineries, and recorded on a safety checklist before commencement of day-to-day operations. Hazard 
+
+boards and safety instructions are conveniently located within manufacturing floors to serve as a constant safety 
+
+reminder for every individual.  
+
+In the reporting year, the Group has zero (FY2019: Two (2)) injuries reported at workplace.  
+
+The Group displays commendable vigilance and seeks continual improvements to maintain zero workplace ill 
+
+health and injury. 
+
+The global Covid-19 pandemic saw the Group response to the various countries governments’ call to institute 
+
+safe distancing measures and embrace ‘work from home’ arrangements to the furthest extent possible.  When 
+
+staff returned to work, they were encouraged to wear face mask at all times, hand sanitisers were made 
+
+available to them for use.  More regular cleaning with disinfectant were used and staggered working hours were 
+
+implemented.  
+
+ 
+
+Community 
+
+Employment Practices 
+
+ 
+
+Fair employment practices create an inclusive workplace culture. Training and performance evaluations are 
+
+critical business development tools. While both development tools can be utilised independently, there are 
+
+points where the two intersect. Continuing education trainings compliment performance evaluations by 
+
+establishing active communication process between employees and employers. 
+
+The Group conducts annual performance appraisals for all employees to validate their merit performance to 
+
+complete job tasks. Objective evaluations aid in the recognition of employees’ competency and shortfalls, 
+
+potentially allowing adjustments to the training program.  
+
+A comprehensive training map prescribes well defined goals. It helps in narrowing knowledge gaps of our 
+
+employees. The Group sees the simultaneous synergy of the development tools and aims to devise a training 
+
+plan to cater to employees to keep up with industry updates and changes.  
+
+There are training conducted periodically, however, it is difficult to elaborate as it is on need basis.  
+
+ 
+
+As at 30 June 2020, the Group has a total of 419 (FY2019:415) employees.  The headcount was distributed as 
+
+follows :- 
+
+
+ 
+
+ 
+
+ 
+
+13 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+Governance 
+
+ 
+
+Corporate governance involves balancing the interests of the Group’s valued stakeholders. It provides a 
+
+framework for attaining the Group’s objectives and encompasses every sphere of management from 
+
+performance measurements to corporate disclosures. The Group is committed to the sound practice of good 
+
+corporate governance with zero tolerance to unethical behaviours and unprofessionalism.  
+
+The Group’s anti-bribery and corruption policy sets forth the constitutions of misconducts and emphasises on 
+
+the prohibition of dishonest acts. We have formulated a whistle blowing policy and adopts an open-door policy 
+
+to provide an avenue to all employees of CFM and members of the public to disclose any improper acts.  
+
+A dedicated whistleblowing communication channel to the Audit Committee Chairman using email is made 
+
+available to anyone who wants to report any anti-bribery or corruption issue on a confidential basis.  
+
+In current reporting year, the Group report zero incident of bribery and whistle blowing (FY2019: NIL).  
+
+The Group’s goal is to maintain zero incidents of corruption in the upcoming years. The Group will regularly 
+
+review policies on whistleblowing and anti-corruption.  
+
+In addition, the Group recognises that personal data collection and analysis have become widespread with the 
+
+rapid developments in technology. As part of our control measures, a Personal Data Protection (“PDP”) policy is 
+
+set-forth to protect the integrity of stakeholders’ personal data from inappropriate use. With our extensive range 
+
+of Policies and Procedures (“P&amp;P”), the Group seeks to enhance our corporate framework with continual risk 
+
+assessment and management of our internal controls, at least annually, to perform and operate in the 
+
+advancing business environment.  
+
+There has been no reported incident or complaint of personal data leaking during current financial year (FY2019: 
+
+Nil). The Group’s will continue to keep the privacy of personal data collected and target no incident reported in 
+
+the following years.  
+
+ 
+
+ 
+
+Shareholders 
+
+ 
+
+We value every opportunity to communicate with our shareholders. Active communication builds a robust trust 
+
+platform. Effective communication ensures that the shareholders’ interest and the Group’s objectives are being 
+
+addressed and conveyed. We encourage active participation during our Annual General Meetings and 
+
+Extraordinary General Meetings, with every attempt to address concerns that are raised by our shareholders. 
+
+The Group strives to maintain effective communication to foster long term relationship and continual success.  
+
+ 
+
+FY 2020 (Gender)
+
+Male
+
+Female
+
+Male
+
+58%
+
+Female 
+
+52%
+
+FY 2019 (Gender)
+
+Male
+
+Female
+
+Male
+
+60%
+
+Female
+
+40%
+
+
+ 
+
+ 
+
+ 
+
+14 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+Board of Directors (“BOD”) 
+
+ 
+
+The Board of Directors comprises five directors of which there are three Independent Directors and two 
+
+Executive Directors. The Executive Chairman of the Group has more than 40 years of experience in the metal 
+
+stamping and tooling industries. As a co-founder, he has been leading all the growth and expansion of the 
+
+Group. The Chief Executive Officer oversees the day-to-day operations and general management with the 
+
+assistance of the Group’s Chief Financial Officer.  
+
+Two of the Independent Directors hold multiple directorships from several public listed companies. Mr Lo Kim 
+
+Seng, an Independent Non-Executive Director, was appointed on 1 July 2020 to the Board.  He is the Chairman 
+
+of the Nominating Committee and member of the Audit and Remuneration Committees.   He is a Director in 
+
+Bayfront Law LLC, and was previously a Director at Morgan Lewis Stamford LLC and Duane Morris &amp; Selvam 
+
+LLP.  With his appointment, the current Board and Board Committees composition are in compliance with the 
+
+Catalist Rules and Corporate Governance 2018.  
+
+The Independent Directors will constructively challenge the Group’s business proposals and review its operating 
+
+performance. 
+
+The Group seeks to maintain compliance with the Code of Corporate Governance 2018 and Catalist Rules and 
+
+stand ready to revise its policies whenever required. 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+15 | P a g e  
+
+ 
+
+S U S T A I N A B I L I T Y  R E P O R T  2 0 2 0 
+
+ 
+
+
+
+GLOBAL RREPORTING INITIATIVE CONTENT INDEX 
+
+General Standard Disclosures 
+
+GRI 
+
+No. 
+
+Description 
+
+Page or direct references 
+
+GENERAL DISCLOSURES 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+CFM Holdings Limited 
+
+102-2 
+
+Activities, brands, products, and services 
+
+Pg. 3 
+
+102-3 
+
+Location of headquarters 
+
+CFM Holdings Limited  
+
+No. 4, Ang Mo Kio Avenue 12, 
+
+#05-01, CFM Building, 
+
+Singapore 569498 
+
+102-4 
+
+Location of operations 
+
+Singapore, Malaysia, China 
+
+and the Republic of Slovakia 
+
+102-5 
+
+Ownership and legal form 
+
+Pg. 3 
+
+102-6 
+
+Markets served 
+
+Pg. 3 
+
+102-7 
+
+Scale of the organisation 
+
+Pg. 4 
+
+102-8 
+
+Information on employees and other workers 
+
+Pg. 12-13 
+
+102-9 
+
+Supply chain 
+
+Pg. 9 
+
+102-10 
+
+Significant changes to the organisation and its supply chain 
+
+No significant changes 
+
+102-11 
+
+Precautionary principle or approach 
+
+Pg. 13 
+
+102-12 
+
+External initiatives 
+
+No external initiatives 
+
+102-13 
+
+Membership of associations 
+
+Pg. 9-10 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Pg. 5 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and norms of behaviour 
+
+Pg. 13-14 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Pg. 14 
+
+Stakeholder engagement 
+
+102-40 
+
+List of Stakeholder Groups 
+
+Pg. 7 
+
+102-41 
+
+Collective bargaining agreements 
+
+No 
+
+Collective 
+
+Bargaining 
+
+Agreement 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Pg. 7 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Pg. 7 
+
+102-44 
+
+Key topics and concerns raised 
+
+None 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+This is adopted in the FY2020 
+
+Annual Report 
+
+102-46 
+
+Defining report content and topic Boundaries 
+
+Pg. 6 
+
+102-47 
+
+List of material topics 
+
+Pg. 6 
+
+102-48 
+
+Restatements of information 
+
+None 
+
+102-49 
+
+Changes in reporting 
+
+None 
+
+102-50 
+
+Reporting period  
+
+1 July 2019 to 30 June 2020 
+
+102-51 
+
+Date of most recent report 
+
+19 November 2019 
+
+102-52 
+
+Reporting cycle 
+
+Annually 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+Madam Lim Fong Li Janet, the 
+
+Chief Executive Ofﬁcer of CFM 
+
+102-54 
+
+Claims of reporting in accordance with the GRI Standards 
+
+Pg. 3 
+
+102-55 
+
+GRI content index 
+
+Pg. 15 
+
+102-56 
+
+External assurance 
+
+None 
+
+ 
+
+ 
+
+ 
+
+ 
+

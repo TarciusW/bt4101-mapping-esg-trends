@@ -1,0 +1,1888 @@
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+Contents 
+
+ 
+
+Corporate Profile 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  1 
+
+Board Statement 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  2 
+
+Sustainability Approach 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  4 
+
+Economic 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  7 
+
+Environmental 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  8 
+
+Social  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+Governance  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+
+GRI Standards Content Index 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This sustainability report has been prepared by Silkroad Nickel Ltd. (the “Company”) and its contents 
+
+have been reviewed by the Company’s sponsor, ZICO Capital Pte. Ltd. ("Sponsor"), in accordance 
+
+with Rule 226(2)(b) of the Singapore Exchange Securities Trading Limited (“SGX-ST”) Listing Manual 
+
+Section B: Rules of Catalist. 
+
+ 
+
+This sustainability report has not been examined or approved by the SGX-ST and the SGX-ST assumes 
+
+no responsibility for the contents of this sustainability report, including the correctness of any of the 
+
+statements or opinions made, or reports contained in this sustainability report. 
+
+ 
+
+The contact person for the Sponsor is Ms. Alice Ng, Director of Continuing Sponsorship, ZICO Capital 
+
+Pte. Ltd. at 8 Robinson Road, #09-00 ASO Building, Singapore 048544, telephone (65) 6636 4201.
+
+
+1 
+
+ 
+
+1 CORPORATE PROFILE  
+
+ 
+
+Silkroad Nickel Ltd. (“Silkroad Nickel” or the “Company”, and together with its subsidiaries, 
+
+the “Group”) is the first and only pure nickel company listed on the Singapore Exchange 
+
+(“SGX”). The Company made its trading debut on the Catalist board of the SGX on 30 July 
+
+2018, under the stock code - STP. Since inception, the Company’s vision is to expand 
+
+downstream and transform itself into a vertically integrated producer of Nickel products such 
+
+as Nickel Pig Iron/Ferronickel (“NPI/FeNi”) for the Stainless Steel industry and to produce 
+
+various nickel-related products utilized in Electric Vehicle (‘EV”) battery cathode components.  
+
+ 
+
+Through its wholly-owned subsidiary, PT Teknik Alum Services (“PT TAS”), the Company 
+
+owns and carries out its nickel ore mining operations at an approximately 1,301 hectares 
+
+mining concession area in the Morowali Regency, Central Sulawesi, Indonesia. The Group 
+
+currently conducts its mining activities using an open pit mining method, which includes the 
+
+exploration, planning, transportation and stockpiling, delivery and barging, as well as 
+
+reclamation and rehabilitation works throughout the mine’s lifetime. The Group engages third 
+
+party mining contractors such as Jo Sinohydro-Sepco II Indo, a subsidiary of PowerChina, to 
+
+undertake the necessary mining and production activities.   
+
+ 
+
+The Company has also begun to originate and develop several downstream initiatives by 
+
+entering into definitive agreements to build and operate a blast furnace plant and a Rotary-
+
+Kiln Electric Furnace (“RKEF”) to produce NPI, which is vital for manufacturing stainless steel. 
+
+In addition, the mine’s laterite ore comprising nickel and cobalt are key components used in 
+
+lithium-ion batteries. The Company is engaged in discussions to develop partnerships and 
+
+initiatives in the EV industry. 
+
+ 
+
+These plans to develop and grow the Group’s downstream NPI and EV initiatives will 
+
+transition Silkroad Nickel from its primary nickel mining operations to a fully-integrated nickel 
+
+producer. This will allow Silkroad Nickel to change its current business model from operating 
+
+as a relatively small-scale mining operator in an environment of high capital expenditure and 
+
+relatively low operational efficiency, to being a low-cost nickel producer with high-quality 
+
+nickel mining assets. 
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+2 BOARD STATEMENT 
+
+ 
+
+BOARD STATEMENT 
+
+We are pleased to present the second annual Sustainability Report of Silkroad Nickel Ltd. for 
+
+the financial year from 1 January 2020 to 31 December 2020 (“FY2020”).  
+
+ 
+
+The key material economic, environmental, social and governance (“EESG”) factors for the 
+
+Group have been identified and reviewed by Mr. Eddy Pratomo (Independent Chairman) and 
+
+Mr. Hong Kah Ing (Executive Director and Chief Executive Officer of the Company). The board 
+
+of directors of the Company (“Board”) oversees the management and monitoring of these 
+
+factors and takes them into consideration in the determination of the Group’s strategic 
+
+direction and policies. Sustainability is a part of the Company’s wider strategy to create long-
+
+term value for all its stakeholders. 
+
+ 
+
+FY2020 will always be one of the most challenging years that we have faced, forever etched 
+
+in our memory due to the ongoing Novel Coronavirus (“COVID-19”) pandemic. The pandemic 
+
+has led to a significant slowdown in global economic activities, and has severely impacted 
+
+many countries due to restricted travel, closed borders, and a standstill in commerce around 
+
+the globe. Indonesia was not spared and remains severely affected, with the Indonesian 
+
+government trying their best to contain the spread of COVID-19.  
+
+ 
+
+It is therefore imperative for businesses to adapt quickly to key stakeholders’ concerns, closing 
+
+any potential gaps and capitalising on opportunities amid today’s rapidly changing business 
+
+environment.  
+
+ 
+
+The EESG data and information provided have been derived from internal data monitoring 
+
+and verification to ensure accuracy.  
+
+ 
+
+REPORTING FRAMEWORK 
+
+In defining our reporting content, we applied the Global Reporting Initiative (“GRI”)’s principles 
+
+by considering the Group’s activities, impact and substantive expectations and interests of its 
+
+stakeholders. We observed a total of four principles, namely materiality, stakeholder 
+
+inclusiveness, sustainability index and completeness. For reporting quality, we observed the 
+
+principles of balance, comparability, accuracy, timeliness, clarity and reliability.  
+
+ 
+
+Silkroad Nickel has chosen the GRI framework as it is the most established international 
+
+sustainability reporting standard and in respect of the extent to which such framework is 
+
+applied, this report has been prepared in reference to the GRI Standards reporting guidelines, 
+
+at Core level. No external assurance has been sought for this report.  
+
+ 
+
+This report is set out on a “comply or explain” basis in accordance with Rule 711B and Practice 
+
+Note 7F on Sustainability Reporting Guide of the Singapore Exchange Securities Trading 
+
+Limited Listing Manual Section B: Rules of Catalist (“Catalist Rules”). Corresponding to GRI’s 
+
+emphasis on materiality, this report highlights the key EESG related initiatives carried out 
+
+throughout the 12-month period of FY2020.  
+
+ 
+
+
+3 
+
+ 
+
+This report excludes our downstream venture to operate smelter facilities for the production 
+
+of nickel pig iron on the mine site in Sulawesi, Indonesia, which we had entered into a binding 
+
+definitive head of agreement on 4 December 2019.  
+
+ 
+
+FEEDBACK 
+
+We welcome feedback from our stakeholders with regards to our sustainability efforts as this 
+
+enables us to consistently improve our policies, systems and results. Please send your 
+
+comments and suggestions to enquiries@silkroadnickel.com. 
+
+ 
+
+28 May 2021 
+
+ 
+
+ 
+
+ 
+
+
+4 
+
+ 
+
+3 SUSTAINABILITY APPROACH 
+
+ 
+
+OUR SUSTAINABILITY METHODOLOGY 
+
+ 
+
+ 
+
+ 
+
+ 
+
+STAKEHOLDERS ENGAGEMENT  
+
+An important starting point in our sustainability journey is to identify our stakeholders and 
+
+material EESG factors relevant to our business. The interests and requirements of key 
+
+stakeholders are also taken into account when formulating corporate strategies. These key 
+
+stakeholders include, but are not limited to, suppliers, shareholders, customers, employees, 
+
+government and regulators, the Board, bankers and community. We adopt both formal and 
+
+informal channels of communication to understand the needs of key stakeholders, and 
+
+incorporate these into our corporate strategies to achieve mutually beneficial relationships. 
+
+ 
+
+Key Stakeholders 
+
+Engagement 
+
+Platforms 
+
+Frequency of 
+
+Engagement 
+
+Key Concerns Raised 
+
+Suppliers 
+
+Meetings (via face-to-
+
+face or online) 
+
+Monthly 
+
+Prompt payment, accurate 
+
+specifications, selection of reliable 
+
+suppliers 
+
+Delivery performance and quality 
+
+performance 
+
+Vendor Assessment 
+
+Annually 
+
+Shareholders 
+
+Annual General 
+
+Meetings   
+
+Annually 
+
+Financial and operational 
+
+performance of the Group, 
+
+corporate governance and 
+
+sustainability practices, business 
+
+strategies of the Group 
+
+Extraordinary General 
+
+Meetings 
+
+As and when 
+
+applicable 
+
+Annual Report 
+
+Annually 
+
+Announcements 
+
+As and when 
+
+applicable 
+
+Roadshows 
+
+As and when 
+
+applicable 
+
+Customers 
+
+ 
+
+ 
+
+Meetings (via face-to-
+
+face or online) 
+
+Monthly 
+
+Quality of services, on-time 
+
+delivery, product quality level 
+
+Open House 
+
+Quarterly 
+
+Employees 
+
+Staff Appraisal 
+
+Annually 
+
+Employee compensation and 
+
+benefits, personal development 
+
+Townhall Sessions 
+
+Quarterly 
+
+Monthly Birthday 
+
+Celebrations 
+
+Monthly 
+
+Staff Bonding Sessions 
+
+Annually 
+
+Government and 
+
+Regulators 
+
+Regulatory Reporting  
+
+As and when 
+
+applicable 
+
+Timely reporting 
+
+Full compliance with all law, rules 
+
+and regulations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Inspections 
+
+Annually 
+
+E-mails / Circulars 
+
+Quarterly 
+
+Surveys 
+
+Quarterly 
+
+Plan and 
+
+Scope
+
+Engage 
+
+Stakeholders
+
+Assess 
+
+Materiality
+
+Collect Data
+
+Report
+
+
+5 
+
+ 
+
+Key Stakeholders 
+
+Engagement 
+
+Platforms 
+
+Frequency of 
+
+Engagement 
+
+Key Concerns Raised 
+
+Board 
+
+Board Meetings 
+
+Quarterly 
+
+Financial performance, policies 
+
+and strategies and annual budgets 
+
+of the Group 
+
+Board Papers 
+
+Quarterly 
+
+Board Lunches 
+
+Quarterly 
+
+Bankers 
+
+Meetings (via face-to-
+
+face or online) 
+
+Monthly 
+
+Project financing, working capital 
+
+financing 
+
+Lunches 
+
+Monthly 
+
+Community 
+
+Sponsorship 
+
+Annually 
+
+Corporate Social Responsibility 
+
+(CSR) contribution  
+
+Donation to local villagers 
+
+Donations 
+
+Monthly 
+
+ 
+
+MATERIALITY ASSESSMENT  
+
+Our sustainability process begins with the identification of relevant EESG factors. Relevant 
+
+EESG factors are then prioritised to identify material EESG factors which are subject to 
+
+validation. The end result of this process is a list of material EESG factors disclosed in this 
+
+report. Our sustainability process, as detailed above, is as shown below: 
+
+ 
+
+ 
+
+The Group had conducted a materiality assessment for its inaugural Sustainability Report 
+
+FY2019. For the Group’s Sustainability Report FY2020, a materiality review, which 
+
+incorporated inputs gathered from stakeholders’ engagements, was conducted to ensure the 
+
+relevance and materiality of the EESG factors identified. We engaged our employees from 
+
+different departments, seeking our internal stakeholders’ feedback for prioritisation of these 
+
+topics. Going forward, a continued materiality review will be conducted every year, 
+
+incorporating inputs gathered from stakeholders’ engagements. 
+
+ 
+
+IDENTIFICATION
+
+PRIORITISATION
+
+VALIDATION
+
+REVIEW
+
+
+6 
+
+ 
+
+In order to determine if an EESG factor is material, we assessed its potential impact on the 
+
+economy, environment and society and its influence on the stakeholders. Applying the 
+
+guidance from GRI, we have identified the following as our material EESG factors:  
+
+ 
+
+ 
+
+ 
+
+Economic
+
+Economic Performance
+
+Anti-Corruption
+
+Social
+
+Occupational Health and Safety
+
+Diversity and Equal Opportunity
+
+Child Labor
+
+Local Communities
+
+Socioeconomic Compliance
+
+Rights of Indigenous People
+
+Environmental
+
+Energy
+
+Biodiversity
+
+Environmental Compliance 
+
+Governance
+
+Corporate Governance
+
+Enterprise Risk Management 
+
+Business Ethics
+
+
+7 
+
+ 
+
+4 ECONOMIC 
+
+ 
+
+ECONOMIC PERFORMANCE 
+
+FY2020 has been a challenging year for Silkroad Nickel due to challenges such as the global 
+
+COVID-19 pandemic, which created economic uncertainties and dampened business 
+
+activities. Closer to home, the Indonesian government’s ban on nickel ore exports also took 
+
+effect on 1 January 2020 which impacted the Group’s upstream mining business. Due to these 
+
+unfavourable market conditions, the Group recorded weaker financial results and had an 
+
+unprofitable year for FY2020.  
+
+ 
+
+For more details on the financial results of the Group for FY2020, please refer to the following 
+
+sections of the Company’s annual report for FY2020: 
+
+• 
+
+Financial &amp; Operations Review, pages 4 to 5; and 
+
+• 
+
+Financial Statements, pages 41 to 90. 
+
+ 
+
+ANTI-CORRUPTION 
+
+Silkroad Nickel does not tolerate corruption in any form. Our Group is guided by our anti-
+
+corruption policy. The management of Silkroad Nickel (“Management”) emphasized to our 
+
+staff that the Group has zero tolerance with corruption and that stern actions will be taken if 
+
+anyone is involved in any corruption. Any report of corruption will be escalated to the attention 
+
+of the Chairman of the Audit and Risk Committee of the Company (“AC”). We prohibit 
+
+corruption in all forms, including extortion and bribery.  
+
+ 
+
+Silkroad Nickel has in place a whistle-blowing framework where staff of Silkroad Nickel can 
+
+raise concerns about improprieties in matters of financial reporting or other matters through 
+
+normal channels to the dedicated officers of Silkroad Nickel or to the AC via email or letter. In 
+
+FY2020, there were no reports received through the whistle-blowing mechanism established 
+
+by Silkroad Nickel. We have achieved the target we set last year. We are not aware of any 
+
+incident of corruption in FY2020 (FY2019: NIL). 
+
+ 
+
+Target for FY2021 
+
+The Group aims to continue to maintain zero incident of corruption.
+
+
+8 
+
+ 
+
+5 ENVIRONMENTAL  
+
+ 
+
+ENERGY 
+
+Energy consumption is inevitable in the daily operations of a mining company. At our mining 
+
+site, diesel is used for our excavators and dump trucks. Our average monthly diesel 
+
+consumption in FY2020 was approximately 2,552 liters, as compared to 15,000 liters in 
+
+FY2019. Lower operation levels in FY2020 as a result of the COVID-19 pandemic had 
+
+contributed to the significant decline in our diesel consumption.  
+
+ 
+
+We have achieved the target we set last year and recorded no harmful emissions nor spill in 
+
+our operations in FY2020.  
+
+ 
+
+ 
+
+ 
+
+Target for FY2021 
+
+We will actively review our energy consumption levels to gain an insight into how the average 
+
+fuel consumption intensity level for our mining operation can be further improved. We will also 
+
+proactively perform the necessary research to better understand how we can adopt and 
+
+implement alternative sources of energy and green initiatives for our daily operations. 
+
+Moreover, we aim to maintain the record of not having harmful emissions nor spill in FY2021. 
+
+ 
+
+BIODIVERSITY 
+
+The land we used for mining activities will be rehabilitated once it has been “mined-out”, in 
+
+order to return the land to its pre-mining natural state. The land will be refilled with soil and 
+
+trees will be replanted on the land. Fertilizer will also be added to the soil and the land. In 
+
+FY2019, the Group had replanted 200 pots of trees in 5 hectares of the “mined-out” land 
+
+(representing 30% of the “mined-out” land). However, in FY2020, the Group was not able to 
+
+continue to achieve its target of rehabilitating 50% of the “mined-out” land due to the COVID-
+
+19 pandemic which halted operational activities for most of the year. 
+
+ 
+
+ 
+
+ 
+
+0
+
+2,000
+
+4,000
+
+6,000
+
+8,000
+
+10,000
+
+12,000
+
+14,000
+
+16,000
+
+FY2019
+
+FY2020
+
+Average Monthy Diesel Consumption 
+
+(liters)
+
+
+9 
+
+ 
+
+Target for FY2021 
+
+The Group will resume its efforts to rehabilitate the land used for its mining operations in 
+
+FY2021, and we aim to replant up to 200 pots of trees in 5 hectares of “mined-out” land, which 
+
+will bring the total number of pots of trees planted to 400 (representing 60% of the “mined-out” 
+
+land). 
+
+ 
+
+ENVIRONMENTAL COMPLIANCE  
+
+Silkroad Nickel is in compliance with the regulations of the Ministry of Energy and Mineral 
+
+Resources, which specify that mining activities cannot result in flooding in the mining area. To 
+
+prevent flooding, the Group has built a sediment pond, which is a temporary pond built on a 
+
+mining site to capture eroded or disturbed soil and protect the water quality of the water bodies 
+
+within the vicinity.  
+
+ 
+
+There was no incidence of non-compliance with the regulations and no penalty imposed from 
+
+local authorities in FY2020 (FY2019: NIL).  
+
+ 
+
+Target for FY2021 
+
+The Group will ensure the sediment ponds are well-maintained to prevent flooding and comply 
+
+with all regulations of Indonesia’s Ministry of Energy and Mineral Resources. 
+
+ 
+
+ 
+
+ 
+
+
+10 
+
+ 
+
+6 SOCIAL 
+
+ 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+Our employees’ safety and health at the workplace is one of our top priorities, and our goal is 
+
+to have a zero-accident workplace. As we have engaged an external mining contractor, Jo 
+
+Sinohydro-Sepco II Indo (a subsidiary of PowerChina), for our mining operations, the health 
+
+and safety of the mining workers employed by the external mining contractor are not under 
+
+our direct purview. However, as we are committed to providing and upholding a safe working 
+
+environment for all workers, we will engage in proactive discussions with our mining contractor 
+
+to constantly evaluate how the working environment and health and safety protocols can be 
+
+further improved.  
+
+ 
+
+Any work-related incidents would primarily be investigated by our external mining contractor. 
+
+We would then perform an in-depth review of all findings from the investigations. This enables 
+
+us to better understand how we can play our part to address the incident and more importantly, 
+
+prevent any future work-related incidents. We will also frequently review the health and safety 
+
+protocols that we have at our offices and mine site, and update them when necessary, to 
+
+assure our employees and all mining workers that they are working in a safe environment. 
+
+ 
+
+We have achieved the target we set last year. There was no record of any major accident, 
+
+which resulted in any injury or death, in FY2020 (FY2019: NIL). 
+
+ 
+
+Target for FY2021 
+
+The Group is committed to maintaining zero work injury and death by accident as it strongly 
+
+values the health and safety of all employees and mining workers. The Group will achieve this 
+
+through the various aforementioned strategies and will continue to explore how the health and 
+
+safety of all employees and mining workers can be further improved.  
+
+ 
+
+Emergency Preparedness 
+
+The safety of our employees and mining workers is important to us. We have assigned a 
+
+Safety Officer to be stationed at our mine site. We also have an evacuation plan in place, 
+
+which will be activated during emergencies. Pursuant to the evacuation plan, designated safe 
+
+areas have been identified, and our employees and mining workers will be evacuated to the 
+
+safe areas as instructed by the Safety Officer, in case of emergencies. 
+
+ 
+
+COVID-19 Control Measures 
+
+The Group has organised several initiatives to help our employees fight against COVID-19. 
+
+The Group strictly enforces safe distancing measures and makes it compulsory for all 
+
+employees to wear a mask at all times. Daily temperature taking is also mandated at the start 
+
+and end of each day. After Singapore's circuit breaker, staggered working days and hours 
+
+were introduced for a month to minimise physical interactions among employees in the 
+
+Singapore office. 
+
+ 
+
+Despite the Group’s efforts, there was an employee who contracted COVID-19 in Indonesia. 
+
+However, we swiftly identified close contacts of the employee, and placed them on a two-week 
+
+quarantine to ensure they did not contract the virus and were safe. The rest of the Indonesia 
+
+office staff were kept safe and was able to prevent the COVID-19 virus from spreading further 
+
+
+11 
+
+ 
+
+as they were all practicing social distancing, staggered work days/hours and wearing masks 
+
+at all times. In addition, the Company provided constant support to the employee over the 
+
+entire recovery process. 
+
+ 
+
+DIVERSITY AND EQUAL OPPORTUNITY 
+
+We offer workplace diversity and equal opportunities to our employees. For workplace 
+
+diversity, we value everyone’s differences. We learn from each other regardless of cultural 
+
+background and bring those differences into the workplace to broaden experience and 
+
+knowledge. Diversity includes not only race but gender, ethnicity, personality, age, education 
+
+and background. 
+
+ 
+
+For equal opportunities, all employees are treated equally and not disadvantaged by 
+
+prejudices or biases. Well performing employees will qualify for promotion or rewards 
+
+regardless of their race, gender, ethnicity, personality, age, education and background.  
+
+Employees are hired primarily based on their relevant credentials and experience. The Group 
+
+strongly believes in delivering positive reinforcements to employees for the benefit of our long-
+
+term growth. This can be achieved by giving credit to employees who have performed well in 
+
+their respective roles, through initiatives such as annual Best Employee of the Year award. 
+
+ 
+
+In addition, we celebrate an array of festivals such as Chinese New Year, Hari Raya, 
+
+Deepavali and Christmas, by organising team meals and get togethers. The Group believes 
+
+that by embracing diversity and multi-racial harmony in the workplace, it will help to foster a 
+
+healthy and co-operative working environment that encourages team building. Prior to the 
+
+COVID-19 pandemic, the Group had also organised a company trip for employees to Bangkok 
+
+and Phuket.   
+
+ 
+
+Our Group has a total of 53 employees as at the end of FY2020 (FY2019: 114), of which 9 
+
+employees joined us during the year (FY2019: 14). Our turnover rate has increased to 76% in 
+
+FY2020, as compared to 10% in FY2019. Due to the COVID-19 pandemic, production 
+
+activities had decreased significantly and the Group had to be conservative and did not hire 
+
+any new mine site workers. The Group had also remained nimble by switching permanent 
+
+employees, specifically mining workers/operators, to contractual employees as this enables 
+
+the Group to reduce expenses. These were the two main reasons for the increase in turnover 
+
+rate in FY2020. 
+
+
+12 
+
+ 
+
+40%
+
+60%
+
+GENDER
+
+Female
+
+Male
+
+17%
+
+64%
+
+19%
+
+AGE
+
+below 30
+
+30 to 50
+
+above 50
+
+87%
+
+13%
+
+0%
+
+NATIONALITY
+
+Indonesian
+
+Singaporean
+
+Others
+
+25%
+
+75%
+
+GENDER
+
+Female
+
+Male
+
+18%
+
+64%
+
+18%
+
+AGE
+
+below 30
+
+30 to 50
+
+above 50
+
+94%
+
+3%
+
+3%
+
+NATIONALITY
+
+Indonesian
+
+Singaporean
+
+Others
+
+Our workforce is distributed as follows:  
+
+ 
+
+FY2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+FY2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Quarterly town hall sessions are conducted to keep our employees updated on our business 
+
+development and human resource-related matters.  
+
+ 
+
+We have achieved the target we set last year. There was no report of discrimination in FY2020 
+
+(FY2019: NIL).  
+
+ 
+
+Target for FY2021 
+
+The Group aims to offer a diverse workplace that provides equal opportunities for all 
+
+employees. It will continue to value diversity and treat everyone equally with respect. The 
+
+Group will not tolerate any employees being disadvantaged as a result of prejudices or biases. 
+
+The Group aims to maintain zero case of discrimination in FY2021.  
+
+ 
+
+
+13 
+
+ 
+
+CHILD LABOR 
+
+We respect human rights, support the elimination of all forms of forced and compulsory labor, 
+
+especially child labor. We do not employ minors as employees and we are not aware of any 
+
+use of child labor by our suppliers. We will ensure that we eliminate forced and compulsory 
+
+labor and child labor throughout our operations.  
+
+ 
+
+LOCAL COMMUNITIES 
+
+Our Group is committed to serving and giving back to the community. We recognise that for 
+
+long-term sustainability, we need to achieve a balance between being profit-driven and being 
+
+a socially responsible corporate citizen. 
+
+ 
+
+In FY2020, we have set aside an annual budget for CSR initiatives, such as providing financial 
+
+assistance for villages within close proximity of our mine site. The financial resources provided 
+
+are used for the construction of houses and schools in the villages to enhance the 
+
+communities' standards of living. We have achieved the target we set last year, which was to 
+
+continue to support and give back to the community.  
+
+ 
+
+Target for FY2021 
+
+We will continue to support various charities and community organisations in FY2021 in order 
+
+to serve and give back to the community. We are committed to achieving a balance between 
+
+being profit-driven and a socially responsible corporate citizen.  
+
+ 
+
+SOCIOECONOMIC COMPLIANCE 
+
+We pride ourselves in having good corporate governance and observing compliance with 
+
+applicable laws and regulations. The Group is committed to conducting its business with 
+
+integrity and to safeguard the interest of all our stakeholders, both internal and external. We 
+
+will ensure compliance with applicable laws and regulations throughout the years to come. We 
+
+have achieved the target we set last year. There were no fines or penalties arising from 
+
+contravention of laws and regulations in FY2020 (FY2019: NIL).  
+
+ 
+
+Target for FY2021 
+
+We will strictly ensure that we always remain compliant to the laws and regulations that apply 
+
+to us. 
+
+ 
+
+RIGHTS OF INDIGENOUS PEOPLE 
+
+Our Group does not have any instance of violation involving the rights of indigenous people in 
+
+FY2020 (FY2019: NIL).  
+
+ 
+
+A CSR program was implemented by the district where the Group contributed RP5,000/MT 
+
+(FY2019: RP5,000/MT) based on the sales quantity sold by the Group to the indigenous 
+
+people in FY2020.  
+
+ 
+
+Target for FY2021 
+
+The Group will continue to support the CSR program implemented by the district.  
+
+ 
+
+
+14 
+
+ 
+
+7 GOVERNANCE 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+Our corporate governance framework and practices for FY2020 are based on the principles 
+
+and the provisions of the Singapore Code of Corporate Governance issued on 6 August 2018 
+
+(the “Code”) which forms part of the continuing listing obligations of the Catalist Rules. 
+
+ 
+
+Please refer to the Corporate Governance Report section set out on pages 15 to 33 of the 
+
+Company’s annual report for FY2020, for more details of our corporate governance framework 
+
+and practices. 
+
+ 
+
+The Board confirms that, for FY2020, the Company has adhered to the principles of the Code, 
+
+and the provisions of the Code (except where otherwise explained). In so far as any provision 
+
+has not been complied with, appropriate explanations have been provided and how the 
+
+practices the Company had adopted are consistent with the intent of the relevant principle of 
+
+the Code. The Company will continue to assess its needs and implement appropriate practices 
+
+accordingly.  
+
+ 
+
+ENTERPRISE RISK MANAGEMENT 
+
+The Board acknowledges its responsibility for the governance of risk and ensuring that the 
+
+Management maintains a sound system of risk management and internal controls to safeguard 
+
+interest of shareholders and the Group’s assets.  
+
+ 
+
+Please refer to the Corporate Governance Report section set out on pages 15 to 33 of the 
+
+Company’s annual report for FY2020, for more details of our governance and risk 
+
+management practices. 
+
+ 
+
+BUSINESS ETHICS 
+
+All our staff are reminded of the importance of upholding the highest standards when it comes 
+
+to business ethics. The Group regularly updates relevant staff with development in 
+
+international and local regulations.  
+
+ 
+
+We have achieved the target we set last year. There were no significant fines or non-monetary 
+
+sanctions for non-compliance with laws and regulations in FY2020 (FY2019: NIL).  
+
+ 
+
+Target for FY2021 
+
+The Group targets to maintain its record of complying with international and local laws and 
+
+regulations to avoid incurring any significant fines or face any non-monetary sanctions.   
+
+ 
+
+ 
+
+
+15 
+
+ 
+
+GRI STANDARDS CONTENT INDEX 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+GRI 101: Foundation 2016 
+
+ 
+
+ 
+
+GENERAL DISCLOSURE 
+
+ 
+
+ 
+
+GRI 102: General 
+
+Disclosures 
+
+102-1 
+
+Name of organisation 
+
+Silkroad Nickel Ltd. 
+
+102-2 
+
+Activities, brands, products and services 
+
+FY2020 Sustainability Report (SR) page 1  
+
+102-3 
+
+Location of headquarters 
+
+Singapore 
+
+102-4 
+
+Location of operations 
+
+SR page 1 
+
+102-5 
+
+Ownership and legal form 
+
+FY2020 Annual Report (AR) pages 13, 47, 
+
+98 to 99  
+
+102-6 
+
+Markets served 
+
+SR page 1, as well as AR page 81 
+
+102-7 
+
+Scale of the organisation 
+
+SR pages 1, 7, 11 to 12 
+
+102-8 
+
+Information on employees and other workers 
+
+SR pages 11 to 12 
+
+102-9 
+
+Supply chain 
+
+SR page 1 
+
+102-10 
+
+Significant changes to the organisation and 
+
+its supply chain 
+
+None 
+
+102-11 
+
+Precautionary Principle or approach 
+
+We do not specifically address the 
+
+precautionary approach. 
+
+102-12 
+
+External initiatives 
+
+SR page 13 
+
+102-13 
+
+Membership of associations 
+
+The subsidiary company, PT Teknik Alum 
+
+Service, is a member of the Association of 
+
+Nickel Mining Indonesia (Assosiasi 
+
+Penambang Nikel Indonesia - APNI).  
+
+102-14 
+
+Statement from senior decision maker 
+
+SR pages 2 to 3 
+
+102-16 
+
+Values, principles, standards and norms of 
+
+behaviour 
+
+SR page 14 
+
+102-18 
+
+Governance structure 
+
+AR pages 15 to 36 
+
+102-40 
+
+List of stakeholder groups 
+
+SR pages 4 to 5 
+
+102-41 
+
+Collective bargaining agreements 
+
+None 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+SR pages 4 to 5 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+SR pages 4 to 5 
+
+102-44 
+
+Key topics and concerns raised 
+
+SR pages 4 to 6 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+AR page 68 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+SR pages 2 to 3 
+
+102-47 
+
+List of material topics 
+
+SR page 5 to 6 
+
+102-48 
+
+Restatement of information 
+
+None    
+
+102-49 
+
+Changes in reporting 
+
+None     
+
+102-50 
+
+Reporting period 
+
+SR page 2 
+
+102-51 
+
+Date of most recent previous report 
+
+29 May 2020 
+
+102-52 
+
+Reporting cycle 
+
+Annually 
+
+102-53 
+
+Contact point for questions about the report 
+
+SR page 3 
+
+102-54 
+
+Claims if reporting in accordance with the 
+
+GRI Standards 
+
+SR page 2 
+
+102-55 
+
+GRI content index 
+
+SR pages 15 to 16 
+
+102-56 
+
+External Assurance 
+
+No external assurance has been sought. We 
+
+may seek external assurance in the future. 
+
+MATERIAL TOPICS 
+
+ 
+
+ 
+
+GRI 201: Economic 
+
+performance 
+
+201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+SR page 7 
+
+GRI 205: Anti-corruption 
+
+205-1 
+
+Operations assessed for risks related to 
+
+corruption 
+
+SR page 7 
+
+GRI 304: Biodiversity 
+
+304-2 
+
+Significant impacts of activities, products, 
+
+and services on biodiversity 
+
+SR pages 8 to 9 
+
+ GRI 307: Environmental 
+
+compliance 
+
+307-1 
+
+Non-compliance with environmental laws 
+
+and regulations 
+
+SR page 9 
+
+
+16 
+
+ 
+
+GRI STANDARDS CONTENT INDEX 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+ 
+
+Reference / Description 
+
+GRI 403: Occupational 
+
+Health and Safety 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-related 
+
+fatalities 
+
+SR pages 10 to 11 
+
+GRI 405: Diversity and equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance bodies and 
+
+employees 
+
+SR pages 11 to 12 
+
+GRI 408: Child Labor 
+
+408-1 
+
+Operations and suppliers at significant risk 
+
+for incidents of child labor 
+
+SR page 13 
+
+GRI 411: Rights of 
+
+Indigenous People 
+
+411-1 
+
+Incidents of violations involving rights of 
+
+indigenous peoples 
+
+SR page 13 
+
+GRI 413: Local Communities 
+
+413-1 
+
+Operations with local community 
+
+engagement, impact assessments, and 
+
+development programs 
+
+SR page 13 
+
+GRI 419: Socioeconomic 
+
+Compliance 
+
+419-1 
+
+Non-compliance with laws and regulations in 
+
+the social and economic area 
+
+SR page 13 
+
+ 
+

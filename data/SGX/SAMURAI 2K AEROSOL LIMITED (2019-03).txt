@@ -1,0 +1,2253 @@
+
+ 
+
+
+
+
+ 
+
+ 
+
+Table of Contents 
+
+Board’s Messsage ......................................................................................................................... 1 
+
+About This Report  ........................................................................................................................ 2 
+
+Who We Are ................................................................................................................................. 3 
+
+Our Value Chain ............................................................................................................................ 4 
+
+Our Sustainability Approach ......................................................................................................... 5 
+
+Sustainability Governance and Principles  ...................................................................................... 5 
+
+Stakeholders’ Engagement  ........................................................................................................... 6  
+
+Identifying Material Topics  ........................................................................................................... 7 
+
+Material Sustainability Topics ....................................................................................................... 9 
+
+Economic Performance .................................................................................................................. 9  
+
+Anti-Corruption ........................................................................................................................... 11  
+
+Energy Management ................................................................................................................... 12 
+
+Waste Management .................................................................................................................... 13 
+
+Environmental Compliance .......................................................................................................... 13 
+
+Training and Education  ............................................................................................................... 14 
+
+Diversity and Equal Opportunities  ............................................................................................... 16 
+
+Occupational Health and Safety ................................................................................................... 17 
+
+Customer Health and Safety  ....................................................................................................... 19 
+
+GRI Content Index  ...................................................................................................................... 22 
+
+ 
+
+This sustainability report has been prepared by Samurai 2K Aerosol Limited (the “Company”) and its contents have 
+
+been reviewed by UOB Kay Hian Private Limited (the “Sponsor”), for compliance with the relevant rules of the 
+
+Singapore Exchange Securities Trading Limited (the “SGX-ST”) Listing Manual Section B: Rules of Catalist. 
+
+This sustainability report has not been examined or approved by the SGX-ST and the SGX-ST assumes no 
+
+responsibility for the contents of this sustainability report, including the accuracy, completeness or correctness of 
+
+any information, statements or opinions made or reports contained in this sustainability report. 
+
+The contact person for the Sponsor is Mr Lance Tan, Senior Vice President, at 8 Anthony Road, #01-01, Singapore 
+
+229957, and telephone (65) 6590 6881. 
+
+
+1 
+
+ 
+
+
+
+ 
+
+The board of directors (the “Board”) of Samurai 2K Aerosol Limited (“Samurai 2K”, and together 
+
+with its subsidiaries, the “Group”) is placed to present the sustainability report for the financial year 
+
+ended 31 March 2019 (“FY2019”).  
+
+ 
+
+We strongly believe that sustainability is not just financial accountability but also being accountable 
+
+for the tracking and achievement of our environmental, social, and governance (“ESG”) goals. Hence, 
+
+we consider sustainability issues as part of our strategic formulation, and oversees the management 
+
+and monitoring of the material ESG factors. Following the issuance of Sustainability Report for the 
+
+financial year ended 31 March 2018, we have reviewed our material ESG factors and decided to 
+
+include two additional topics under Global Reporting Initiative standard (“GRI Standard”) in this 
+
+year’s reporting. 
+
+ 
+
+Moving forward, we will continue to oversee the identification and management of risk and 
+
+opportunities surrounding sustainability issues and how to better incorporate it as part of our 
+
+business and operational strategy so that we remain competitive yet sustainable. 
+
+Sincerely, 
+
+Board of Directors 
+
+
+2 
+
+ 
+
+
+
+ 
+
+This report is prepared in accordance with the GRI Standards: Core Option pursuant to Rules 711A 
+
+and 711B of the Singapore Exchange Securities Trading Limited (“SGX-ST”) Listing Rules and the 
+
+Sustainability Reporting guide (the “SGX Sustainability Reporting Guide”). We have chosen to adopt 
+
+the GRI Sustainability Reporting Standards as it is a globally recognised sustainability reporting 
+
+framework for voluntary corporate reporting of environmental and social performance.  
+
+We have not sought external assurance for this report and we may consider doing so in future 
+
+annual sustainability reports.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+This report focuses on the evaluation of Samurai 2K’s business performance
+
+in terms of economic, environmental, social and governance aspects. In
+
+preparation for this report, we have considered material sustainability
+
+issues and strategies which consequently optimise our business growth.
+
+
+
+Unless otherwise stated, this report covers the period from 1 April 2018 to
+
+31 March 2019 for our operations in Singapore and Malaysia.
+
+
+
+For any suggestions, comments, and enquires related to this report, kindly
+
+contact our headquarters at (60)7-510 3188. Our headquarters is located at
+
+4 Jalan Dato’ Yunus 1, Taman Perindustrian Dato Yunus Sulaiman, Lima
+
+Kedai 81120 Skudai, Johor, Malaysia.
+
+
+
+
+3 
+
+ 
+
+
+
+Samurai 2K is a leading aerosol coating specialist with a focus on high performance coating solutions 
+
+for the automotive refinishing and refurbishing industry. We are principally engaged in the 
+
+manufacturing, distribution, and marketing of our products under our own brands, as shown in the 
+
+picture below.  
+
+ 
+
+Our production facility is in Johor, Malaysia and our products are distributed to countries including 
+
+Malaysia, Indonesia, Thailand, Philippines, Vietnam, Cambodia, United Kingdom, United States of 
+
+America, Singapore, and India. There are more than 200 employees in Samurai 2K across the 
+
+production facility and headquarters as at 31 March 2019.  
+
+ 
+
+Our vision and strategy are built based on the ambitions outlined for ourselves. We are determined 
+
+and motivated to sustain our long-term goals and drive a positive change across the industry, as 
+
+demonstrated in our vision. We strive to ensure that our sustainability goals are integrated into our 
+
+business goals. 
+
+
+
+
+
+2K Aerosol System:
+
+- Innovative 2-in-1 concept 
+
+whereby two separate chemical 
+
+components such as resin and 
+
+hardener can be mixed together 
+
+within an aerosol can
+
+- The two components (Harderner 
+
+and Resin) will be activated when 
+
+user wants to use
+
+- NO more hassel and NO need for 
+
+air compressor
+
+- Convenient to user and can be 
+
+used ANYWHERE 
+
+- Secured patents for in various 
+
+major countries such as US, EU, 
+
+Russia, South Korea, and New 
+
+Zealand
+
+
+
+Vision
+
+- To lead the change towards 
+
+circular and renewable aerosol 
+
+coating products while adapting to 
+
+global evolution
+
+- We change the aerosol;       
+
+Aerosol changes the world.
+
+Mission
+
+I can't believe the World without 
+
+SAMURAI Paint
+
+
+
+Values
+
+Innovation
+
+We embark on a new journey of 
+
+growth
+
+Empower individuals
+
+We believe in people and their 
+
+dreams
+
+Integrity
+
+We practice with integrity and 
+
+honesty
+
+Communication
+
+We practice open, real 
+
+communication
+
+
+4 
+
+ 
+
+
+
+ 
+
+Samurai 2K aims to manage and minimise our environmental footprint across our business value 
+
+chain. From production ideation to customer use, we are responsible for ensuring that this value 
+
+chain runs efficiently and effectively. As our products are distributed worldwide, this means we have 
+
+connections to people, communities, ecosystems, and other businesses around the world. 
+
+To continuously maximise our efficiency along our value chain, we need to tap on expansion 
+
+opportunities across our business processes. In this respect, we have acquired a new production 
+
+facility to facilitate the expansion of our operation in FY2019.  
+
+Samurai 2K works closely with its suppliers, distributors, and wholesalers who are committed to high 
+
+quality, environmental, health and safety standards. Several of our suppliers have undergone the 
+
+Group’s stringent selection criteria prior to their engagement, and they have continued to supply us 
+
+for more than a decade. We continue to forge strong, long-term relationships with our suppliers, 
+
+distributors, and wholesalers who are crucial to our success. Our sustainability efforts include 
+
+sourcing for environmental-friendly suppliers, to reduce any greenhouse gas emissions from 
+
+transportation, and those that supply recycled materials. 
+
+ 
+
+ 
+
+
+
+
+5 
+
+ 
+
+
+
+Sustainability Governance and Principles  
+
+At Samurai 2K, we have in place a sustainability governance structure to identify and execute 
+
+sustainability initiatives within our business processes. The Board’s and Sustainability Committee’s 
+
+roles with regard to sustainability governance include: 
+
+ 
+
+The Board comprises Non-Executive Chairman, Executive Directors, Non-Executive Directors, and 
+
+Independent Directors. The Board is involved in the supervision of the management of the Group’s 
+
+operations. It reviews strategies, policies, and financial performance and assesses key risks provided 
+
+by Management as well as the adequacy and effectiveness of internal controls and risk management 
+
+of the Group. It evaluated key performance indicators and long-term business and organisational 
+
+goals to provide strategic direction for Samurai 2K’s sustainability practices. In formulating our 
+
+sustainability strategy, the Board reviewed material ESG factors, sustainability data collated and 
+
+assessed by the Sustainability Committee, goals, and targets and identified sustainability risks and 
+
+opportunities.  
+
+The Sustainability Committee comprises senior management and heads of department who monitor 
+
+and manage our sustainability practices and update the Board on material developments on a 
+
+periodic basis.  
+
+ 
+
+ 
+
+Board
+
+- Set the Company’s values and standards (including ethical standards), and ensure that
+
+obligations to shareholders and other stakeholders are understood and met; and
+
+- Consider sustainability issues, e.g. environmental and social factors, as part of its strategic
+
+formulation
+
+Sustainability Committee
+
+- Comprised of senior management personnel and Heads of Department 
+
+- Manage and responsible for the sustainability practices; and 
+
+- Keep the Board updated on material developments
+
+
+
+
+6 
+
+ 
+
+
+
+Stakeholders’ Engagement 
+
+The feedback arising from our stakeholder engagements has helped strengthen the relevance of our 
+
+reporting and approach to managing the Group’s material issues. Maintaining close relationships 
+
+with our stakeholders is important as they support us in addressing sustainability challenges. Hence, 
+
+we regularly engage with and consult our diverse groups of stakeholders to understand their 
+
+expectations so that we can continually improve. Please refer to Table I for details of our approach 
+
+stakeholders’ engagement.  
+
+Table I: Our Approach on Stakeholders’ Engagement 
+
+Stakeholder 
+
+Mode of Engagement 
+
+Stakeholder Expectation 
+
+Customers / 
+
+End-users 
+
+Face-to-face dialogue, customer 
+
+service organization, social media 
+
+platforms, workshops, and 
+
+exhibitions  
+
+Good quality of services and products, 
+
+after-sales services, fair purchasing 
+
+practices  
+
+Suppliers  
+
+Close relations and constant 
+
+dialogues with our business partners 
+
+through our local presence with 
+
+offices in all production locations, 
+
+supplier management systems and 
+
+supplier surveys 
+
+Compliance with terms and conditions of 
+
+purchasing policies and procedures, 
+
+maintain ethical standards 
+
+Employees 
+
+ 
+
+ 
+
+Induction and orientation programs, 
+
+employees training, interviews, 
+
+employee appraisals, dialogue 
+
+sessions with management, regular 
+
+individual performance reviews, day-
+
+to-day leadership and teamwork 
+
+Foreign workers’ rights, employers’ 
+
+accommodation arrangement, child 
+
+workers’ policy, employees’ rights and 
+
+welfare, personal development, good 
+
+working environment  
+
+Shareholders Annual general meeting, annual 
+
+reports, individual meetings and 
+
+calls, external meetings, conference 
+
+and circulars to shareholders 
+
+Profitability transparency, timely reporting, 
+
+fair purchasing practices  
+
+ 
+
+Business 
+
+Partners 
+
+Regular meetings and discussion 
+
+Partnership for opportunities and growth 
+
+Government 
+
+and 
+
+Regulators 
+
+Discussions with government 
+
+agencies and departments 
+
+Environmental-friendly business approach, 
+
+compliance with regulations, timely 
+
+reporting and resolution of issues 
+
+
+7 
+
+ 
+
+
+
+Identifying Material Sustainability Topics 
+
+In addition to the mapped GRI standards in the Sustainability Report of financial year ended 31 
+
+March 2018 (“FY2018”), we have included two additional material topics under the GRI standards. 
+
+We will also discuss the achievements of the targets set out in previous report and improvements to 
+
+our policies and procedures after identifying the material topics last year. Details of the ESG topics 
+
+are provided in Table 2: List of material ESG topics.  
+
+ 
+
+Moving forward, we will continually re-evaluate and review our material ESG topics with our 
+
+stakeholders to ensure they remain relevant in the business environment. 
+
+Table 2: List of material ESG topics 
+
+Material Topic 
+
+Mapped GRI 
+
+Standards 
+
+Description 
+
+Key 
+
+Stakeholders in 
+
+Concern 
+
+Reference 
+
+Commitments &amp; Targets 
+
+for FY2020 
+
+1. Economic 
+
+Performance 
+
+(economic 
+
+aspect) 
+
+GRI 201 – 
+
+Economic 
+
+Performance 
+
+Our economic 
+
+performance, the 
+
+value generated and 
+
+distributed to 
+
+communities where 
+
+our business operates. 
+
+All 
+
+stakeholders 
+
+• Annual Report 
+
+2019 – 
+
+Operation &amp; 
+
+Financial Review 
+
+Page 3 
+
+• Sustainability 
+
+Report 2019 
+
+Page 9 – 10 
+
+To start selling 2k single 
+
+head products in USA and 
+
+some European countries 
+
+by 2H of FY2020.  
+
+2. Anti-corruption 
+
+(governance 
+
+aspect) 
+
+GRI 205 – Anti-
+
+Corruption 
+
+Our practices to 
+
+comply with anti-
+
+corruption law and 
+
+regulations and to 
+
+demonstrate our 
+
+adherence to 
+
+integrity, governance, 
+
+and responsible 
+
+business practices. 
+
+All 
+
+stakeholders 
+
+• Sustainability 
+
+Report 2019 
+
+Page 11 
+
+Maintain zero reported 
+
+case of confirmed 
+
+corruption and 
+
+wrongdoings. 
+
+3. Energy and 
+
+Waste 
+
+Management 
+
+(environmental 
+
+aspect) 
+
+GRI 307 – 
+
+Environmental 
+
+Compliance  
+
+Apply to the 
+
+production of aerosol 
+
+container system 
+
+which has a direct 
+
+impact on the 
+
+environment. 
+
+Government 
+
+and 
+
+regulators, 
+
+community, 
+
+shareholders 
+
+and financial 
+
+investor 
+
+• Sustainability 
+
+Report 2019 
+
+Page 12 – 13 
+
+To reduce energy 
+
+consumption by 3% - 5%, 
+
+full implementation of 
+
+ISO14001: Environmental 
+
+Management in FY2020, 
+
+and maintain zero non-
+
+compliance of any 
+
+environmental laws. 
+
+ 
+
+ 
+
+ 
+
+
+8 
+
+ 
+
+ 
+
+
+
+Identifying Material Sustainability Topics (Cont’d) 
+
+Material 
+
+Topic 
+
+Mapped GRI 
+
+Standards 
+
+Description 
+
+Key Stakeholders in 
+
+Concern 
+
+Reference 
+
+Commitments &amp; Targets 
+
+for FY2020 
+
+4. Human 
+
+Capital 
+
+(social 
+
+aspect) 
+
+GRI 404 – 
+
+Training and 
+
+Education 
+
+Our approach 
+
+ensuring all 
+
+employees are trained 
+
+and enhance their 
+
+skillsets. Performance 
+
+and career 
+
+development reviews 
+
+to facilitate continued 
+
+employability are 
+
+issues of interest to 
+
+our stakeholders. 
+
+Employees, 
+
+Government and 
+
+regulators 
+
+• Sustainability 
+
+Report 2018 
+
+Page 14 – 15 
+
+To introduce a fire safety 
+
+training program, 
+
+Awareness Training on 
+
+ISO14001:2015, as well as 
+
+Internal Quality Auditor 
+
+Training (ISO9001:2015) 
+
+GRI 405 – 
+
+Diversity and 
+
+equal 
+
+opportunity 
+
+Our approach to 
+
+provide a diverse, 
+
+inclusive and 
+
+collaborative work 
+
+culture, and an 
+
+environment that 
+
+values differences. 
+
+Employees, 
+
+Government and 
+
+regulators 
+
+• Sustainability 
+
+Report 2019 
+
+Page 16 
+
+• To include policies and 
+
+procedures on diversity 
+
+and equal opportunities 
+
+into our Employee 
+
+Handbook in FY2020; 
+
+• To maintain zero 
+
+reported issue of gender 
+
+discrimination, and 
+
+continue to promote one 
+
+unity culture 
+
+5. Health and 
+
+Safety 
+
+(social 
+
+aspect) 
+
+GRI 403 – 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Our measures in place 
+
+to ensure that our 
+
+employees are in a 
+
+safe and secure 
+
+working environment. 
+
+Employees, 
+
+Government and 
+
+regulators, Business 
+
+partners 
+
+• Sustainability 
+
+Report 2019 
+
+Page 17 – 18 
+
+• To attain zero safety 
+
+incidents and maintain 
+
+zero non-compliance by 
+
+DOSH; 
+
+• To hold monthly Health 
+
+and Safety Committee 
+
+Meeting   
+
+• To review the unsafe 
+
+work action and 
+
+condition; and  
+
+• To maintain minimum of 
+
+eight hours Safety and 
+
+Health Training for every 
+
+production employee 
+
+GRI 416 – 
+
+Customer 
+
+Health and 
+
+Safety 
+
+Our practices in place 
+
+to ensure all of our 
+
+products are assessed 
+
+for their Health, 
+
+Environmental, and 
+
+Safety impacts from 
+
+the product 
+
+development stage to 
+
+the end customers 
+
+Customer, 
+
+Government and 
+
+regulators, 
+
+Shareholders, 
+
+Suppliers, Business 
+
+Partners 
+
+• Sustainability 
+
+Report 2019 
+
+Page 19 – 20 
+
+To maintain zero incident 
+
+of non-compliance with 
+
+regulations concerning 
+
+health and safety impacts 
+
+of our products  
+
+ 
+
+ 
+
+
+9 
+
+ 
+
+
+
+Economic Performance  
+
+At Samurai 2K, we place high emphasis on financial sustainability. We strive to deliver long-term 
+
+profitability and to take into account the interest of all stakeholders such as employees, suppliers, 
+
+and investors as a whole. In our FY2018 Sustainability Report, we hoped to expand our business 
+
+locally and globally through acquisitions, joint ventures or strategic alliances. We are pleased to 
+
+share that overall, we have taken a step closer to achieving our goal. 
+
+In FY2019, our revenue weakened by approximately RM17.4 million as compared to FY2018, mainly 
+
+due to lower sales volume by 3.5m cans year-on-year in FY2019. Although the sales in Malaysia and 
+
+other markets rose by 4.7%, exports to Indonesia fell by 32.6% year-on-year. The FY2019 lower sales 
+
+to Indonesia were due in part to inventory building by buyers in 2H FY2018 to hedge against 
+
+currency volatility and in anticipation of stronger new two-wheelers sales. 
+
+Gross profit margin was slightly increased from 43% for FY2018 to 43.6% in FY2019 mainly due to 
+
+the appreciation of Indonesian Rupiah against Ringgit Malaysia – by approximately 2.9% between 
+
+FY2018 and FY2019 – which caused the export selling prices to Indonesia to be slightly higher. Our 
+
+patents for a unique 2K single head aerosol system were also granted by the US, EU, Canada, Russia, 
+
+Singapore, South Korea, and New Zealand in FY2019. We have also started marketing activities in 
+
+India, while still studying how best to enter the US market. To help broaden our future product 
+
+range and expand into more markets, we invested RM7 million in a new production facility during 
+
+FY2019. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+$0
+
+$10,000 $20,000 $30,000 $40,000 $50,000 $60,000 $70,000 $80,000 $90,000 $100,000
+
+FY2019
+
+FY2018
+
+FY2017
+
+Revenue and Gross Profit
+
+Gross Profit (RM'000)
+
+Revenue (RM'000)
+
+
+10 
+
+ 
+
+
+
+Economic Performance (Cont’d) 
+
+ 
+
+For detailed financial results, please refer to the following sections in our FY2019 Annual Report: 
+
+• 
+
+Operations and financial review  
+
+• 
+
+Consolidated statement of profit or loss and other comprehensive income 
+
+• 
+
+Statement of financial position 
+
+• 
+
+Consolidated statement of changes in equity  
+
+• 
+
+Consolidated statement of cash flows 
+
+Targets for FY2020 
+
+Given the geopolitical uncertainty that could adversely impact global trade, we foresee a challenging 
+
+operating environment and condition for the next 12 months. However, we will continue our efforts 
+
+to expand sales, tighten cost controls, and develop new and innovative products – based on our 
+
+patented unique single head 2K aerosol system – to maintain our market competitiveness. We have 
+
+targeted to start selling our 2K single head products in the USA and some European countries by 2H 
+
+of FY2020. We also have new products undergoing research and development, namely Tintable 
+
+Aerosol System, Mirror Chrome Aerosol Paint, and Aerobrush System. 
+
+45.15
+
+43
+
+43.6
+
+41.5
+
+42
+
+42.5
+
+43
+
+43.5
+
+44
+
+44.5
+
+45
+
+45.5
+
+FY2017
+
+FY2018
+
+FY2019
+
+Gross Profit Margin
+
+Gross Profit Margin (%)
+
+
+11 
+
+ 
+
+
+
+Anti-corruption 
+
+ 
+
+Samurai 2K is committed to the highest standards of corporate governance and transparency in its 
+
+policy and processes to ensure accountability and maximisation of long-term shareholder value. Our 
+
+zero tolerance policy towards fraud, corruption, and unethical actions is strictly adhered to and any 
+
+malpractices of corruption and bribery will be investigated and penalised. We have put in place 
+
+policy and procedures to defer corruption and dishonesty, such as prohibition in accepting or giving 
+
+of bribes, which are in compliance with anti-compliance and anti-fraud laws. 
+
+Samurai 2K expects all employees to conduct themselves in accordance with the expectations set 
+
+out in the code of conduct and places heavy emphasis on ethical business conduct. Samurai 2K will 
+
+take a series of actions such as formal disciplinary proceedings for any unethical conduct or 
+
+malpractice relating to corruption or fraud.  
+
+Whistleblowing Policy 
+
+In line with the commitment to the highest standards of corporate governance and professionalism, 
+
+Samurai 2K has in place a whistle-blowing policy. The policy is to enable persons employed by the 
+
+Group a channel to report any suspicions of non-compliance with regulations, policies, and fraud to 
+
+the appropriate authority for resolution, without any prejudicial implications for these employees. 
+
+Employees/workers can report any suspicious incidents on corruption and/or any form of 
+
+misconduct by any employees/workers to any member of the Audit Committee, in good faith and in 
+
+confidence. In this regard, a designated email address (whistleblowing@samuraipaint.jp) has been 
+
+set up and a memo has been issued to all employees to notify them of such channel. Once the Audit 
+
+Committee receives the report, they will discuss and bring it up to the Board at Board meetings 
+
+where investigation will be conducted, with follow-up actions to be taken if necessary.  
+
+During FY2019, there was no whistleblowing report received against bribery and corruption in our 
+
+business dealings with suppliers, dishonest practices or other improprieties in the workplace. We are 
+
+pleased to report that the Company has met its FY2019 target.  
+
+Targets for FY2020 
+
+Moving forward, Samurai 2K will continue to implement our policies and procedures strictly to 
+
+ensure that the directors, management, and employees refrain from involvement in corrupt 
+
+activities such as acceptance or giving of bribes. We hope to maintain our zero record of non-
+
+compliance with regulations. 
+
+ 
+
+
+
+
+12 
+
+ 
+
+
+
+Energy Management  
+
+ 
+
+At Samurai 2K, we drive sustainable development responsibly through conserving resources, and 
+
+being environmentally friendly. We are committed to enhancing the well-being of the community 
+
+and maintaining a sustainable environment especially in locations where we operate. Environmental 
+
+conservation such as reduction of energy used during our manufacturing processes forms an integral 
+
+part of Samurai 2K’s sustainability journey. Samurai 2K introduced a formalised approach in 
+
+November 2018 towards managing energy usage in our production plant located at Johor, Malaysia.  
+
+ 
+
+We are pleased to report that the Company has met its FY2019 target. In FY2019, we launched an 
+
+energy conservation programme headed by the Factory Manager to record and analyse daily utility 
+
+(electricity and water) consumption plant-wide. The results are discussed and shared with all 
+
+employees on a weekly basis. We have also sent two of our employees to attend an external Energy 
+
+Conservation Training, so that they will be able to share what they have learnt with all employees 
+
+upon completion of the training.  
+
+ 
+
+As a result of our energy conservation initiatives, our average monthly electricity consumption has 
+
+reduced by 21% from FY2018 to FY2019.  
+
+ 
+
+ 
+
+In addition to our newly implemented initiatives in recording and analysing daily utility consumption, 
+
+we still actively encourage employees to check that lights and power points are switched off when 
+
+they are not in use.  
+
+Targets for FY2020 
+
+Going forward, we strive to reduce energy consumption by 3% - 5%. In order to achieve long-term 
+
+sustainable growth, we are committed to continually improve our energy conservation measures 
+
+and initiatives to reduce energy use in the manufacturing of our products. 
+
+ 
+
+ 
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+FY2018
+
+FY2019
+
+Total consumption within organisation
+
+Electricity (RM'000)
+
+Total Utility Consumption (RM'000)
+
+
+13 
+
+ 
+
+
+
+Waste Management 
+
+Due to the use of controlled hazardous materials – such as resins, pigments, additives, solvents, and 
+
+propellants – hazardous by-products may be produced as part of our production and research 
+
+processes. As such, waste management is crucial to us in preventing pollution of the environment. 
+
+ 
+
+We have raised awareness throughout the Company and have put in place procedures to carefully 
+
+monitor hazardous by-products, and all waste treatment processes. During safety trainings, we 
+
+emphasise, to all employees, on the importance of proper disposal of waste materials. We also 
+
+practice zero wastage and recycle whenever possible, including solvents and aerosol containers. The 
+
+remaining components that cannot be recycled will then be treated as waste. Total waste is 
+
+disposed of through local government agency appointed waste handling agent on a monthly basis. 
+
+We target to implement ISO 14001: Environmental Management at our workplace.  
+
+ 
+
+Environmental Compliance 
+
+ 
+
+We are also in compliance with the Environmental Quality (Prescribed Conveyance) (Scheduled 
+
+Wastes) Order 2005 established by Malaysia Environmental Quality Council, and the Malaysia’s 
+
+environmental laws. Non-compliance with the laws can result in penalties and fines, or even licence 
+
+revocation for the Group. Our Board confirms that in FY2019, there is no reported incident of 
+
+violation of any environmental laws.  We are pleased to report that we have met the target set for 
+
+FY2019.  
+
+ 
+
+Target for FY2020 
+
+Moving forward, we will continuously seek to improve our environmental protection capabilities by 
+
+reviewing and re-evaluating our waste management measures. We target to have full 
+
+implementation of ISO14001: Environmental Management in FY2020, and maintain zero incident of 
+
+violation of any environmental laws. 
+
+
+14 
+
+ 
+
+
+
+Training and Education 
+
+With the rapid technological and market changes, it is vital for our employees to keep themselves 
+
+abreast of the latest industry developments and be future-ready. Hence in FY2019, we implemented 
+
+several training programmes to promote professional development. 
+
+We provided in-house trainings on “Cost of Poor Quality” and “Root Cause Analysis”, as well as 
+
+external trainings such as “Forklift Safety Training” and “Develop Analytical Skill by 7 QC Tools 
+
+Training” which are in line with employees’ core competencies such as technical skills, business and 
+
+administrative trainings. 70 employees in total have received such training courses in FY2019.  
+
+We are also delighted to share that in FY2019, we clocked over 847.50 hours in training and 
+
+development which is an average of 12.11 training hours per employee. This has exceeded our 
+
+target set of more than 8 training hours per employee in our FY2018 Sustainability Report. 
+
+ 
+
+ 
+
+FY2017 
+
+FY2018 
+
+FY2019 
+
+Senior Management 
+
+- 
+
+6.06 
+
+15.73 
+
+Middle Management 
+
+- 
+
+7.7 
+
+14.63 
+
+Employee 
+
+6.83 
+
+6.06 
+
+10.32 
+
+Female 
+
+5.94 
+
+6.37 
+
+10.13 
+
+Male 
+
+8.62 
+
+6.54 
+
+14.46 
+
+ 
+
+ 
+
+ 
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+FY2017
+
+FY2018
+
+FY2019
+
+Average training hours
+
+Male
+
+Female
+
+Staff
+
+Middle Management
+
+Senior Management
+
+
+15 
+
+ 
+
+
+
+Training and Education (Cont’d) 
+
+ 
+
+The Group also conducts formal performance appraisals annually where performance of employees 
+
+for the past year will be evaluated and discussed. Any expectations or results for the next year will 
+
+also be clearly communicated to the employees during the appraisal. In FY2019, 35 employees have 
+
+received promotion letters, bonuses and increments. Supervisors are also encouraged to provide 
+
+timely feedback to their subordinates regularly so that any issues can be rectified and work 
+
+performance can be improved speedily.  
+
+ 
+
+Targets for FY2020 
+
+Moving forward, we target to introduce a fire safety training program known as Latihan Kursus Asas 
+
+Keselamatan Kebakaran Bangunan / Kilang, Awareness Training on ISO14001:2015 as well as Internal 
+
+Quality Auditor Training (ISO9001:2015). 
+
+
+
+
+
+
+16 
+
+ 
+
+
+
+Diversity and Equal Opportunity 
+
+Samurai 2K’s recruitment of employees is based solely on merit, without discrimination of race, age, 
+
+gender, religion or ethnicity. We believe in providing a diverse, inclusive and collaborative work 
+
+culture which emphasises on “NO RACISM, NO GENDER”, as well as an environment that values 
+
+differences to achieve better business results.  Diversity provides different perspectives and fosters 
+
+innovative thinking to solve business challenges. We strongly believe in the inherent strength of a 
+
+vibrant, diverse and inclusive workforce where the perspectives, backgrounds and life experiences of 
+
+our people help us to forge strong connections with all our customers, engage confidently within an 
+
+increasingly globalised marketplace, inspirationally lead and creatively innovate, thereby making 
+
+better decisions for our business and the world in which we live. We are pleased to share that there 
+
+were no reported incident of discrimination in FY2019.  
+
+Even though we operate in a male-dominated industry, 53.33% of our senior and middle 
+
+management employee are female. Promotion is based strictly on merits and performance. We 
+
+embrace diversity and, at the same time, expect employees to be aligned with the Group’s vision 
+
+and strategic initiatives. Whilst we expect our employees to constantly challenge and improve 
+
+themselves, we also require them to treat others equally, honestly, and with respect. 
+
+Number of employees 
+
+by category 
+
+FY2018 
+
+FY2019 
+
+Male 
+
+Female 
+
+Male 
+
+Female 
+
+Senior Management 
+
+5 
+
+4 
+
+8 
+
+5 
+
+Middle Management 
+
+4 
+
+10 
+
+6 
+
+11 
+
+Employee (e.g. 
+
+associate) 
+
+29 
+
+11 
+
+69 
+
+16 
+
+ 
+
+Number of 
+
+employee 
+
+by 
+
+category 
+
+FY2018 
+
+FY2019 
+
+Senior 
+
+management 
+
+Middle 
+
+management 
+
+Employee 
+
+(e.g. 
+
+associate) 
+
+Senior 
+
+management 
+
+Middle 
+
+management 
+
+Employee 
+
+(e.g. 
+
+associate) 
+
+&lt; 30 years 
+
+old 
+
+1 
+
+7 
+
+25 
+
+1 
+
+6 
+
+61 
+
+30 to 50 
+
+years old 
+
+5 
+
+6 
+
+15 
+
+9 
+
+10 
+
+24 
+
+&gt; 50 years 
+
+old 
+
+3 
+
+1 
+
+- 
+
+3 
+
+1 
+
+- 
+
+ 
+
+We are also committed to ensuring an equitable remuneration structure and benefits to our 
+
+employees that has no gender bias. Diversity remains a key area for the Group as we continue to tap 
+
+into the different perspectives, value-add and contributions of our diversified workforce to create an 
+
+organisation that is dynamic, agile and innovative.  
+
+ 
+
+Targets for FY2020 
+
+Moving forward, we target to include policies and procedures on diversity and equal opportunities 
+
+into our Employee Handbook in FY2020. We also aim to maintain our zero reported issue of gender 
+
+discrimination, and continue to promote a culture of unity – SAMURAIAN Family, where we are all 
+
+brothers and sisters in one big family.
+
+
+17 
+
+ 
+
+
+
+Occupational Health and Safety 
+
+Safety of all our employees is of utmost importance. We acknowledge that the production process 
+
+involves hazardous materials. Therefore, we have in place comprehensive safety measures which are 
+
+monitored and supervised by our Health and Safety Committee (the “Committee”). The Committee 
+
+members include Employer/Manager as a Chairman, Safety Health Officer as Secretary, and 
+
+Representatives of an employer and an employee as Committee members. 
+
+We implemented various measures in FY2019 to further improve our workplace safety and health. 
+
+These measures include: 
+
+ 
+
+We also provide our employees with protective equipment, safety training, such as Forklift Safety 
+
+Training, Forklift Driver Competent Person training, and Industrial First Aid and Cardiopulmonary 
+
+resuscitation (“CPR”) and supervision in accordance with all regulatory requirements. Operational 
+
+training programmes, such as biannual On Job Training (by Work Process, as described in 
+
+Management’s Safe Operation Procedures) are conducted regularly, so that our employees are 
+
+updated with the latest safety measures and enhanced procedures accordingly.  
+
+All new employees are required to undergo mandatory safety training and drills to familiarise 
+
+themselves with the operation of the machinery and equipment as well as the safety precautions 
+
+and procedures during the production process. Safety briefings are conducted every morning for 15 
+
+minutes at the production facility, involving the supervisor, line leader, quality control technician, 
+
+and operator, to refresh employees’ knowledge on workplace safety and regular safety checks will 
+
+be conducted before commencement. Emergency evacuation exercises are also conducted twice a 
+
+year for all employees to raise their awareness and familiarise with the procedures. Any hazardous 
+
+activities will be reported to the head of the Committee to ensure the safety of the employees.  
+
+ 
+
+ 
+
+Hazard Identification Risk Assessment 
+
+Risk Control for every work process
+
+
+
+Safety &amp; Health Induction Training for all 
+
+new employees
+
+
+
+Establish Safe Operation Procedure for 
+
+every high risk work process
+
+
+
+
+18 
+
+ 
+
+
+
+Occupational Health and Safety (Cont’d) 
+
+The Committee also conducts monthly meetings to discuss all safety information, activities, issues, 
+
+new safe work practices, as well as review existing safety measures. There were two cases of non-
+
+fatal injury reported but with less than five days of medical leave. There was zero fatal accident  
+
+reported in FY2019. 
+
+We also abide strictly by the rules and regulations set out in Malaysia Occupational Safety and 
+
+Health Regulations 1996. These rules are regulated by the Department of Occupational Safety and 
+
+Health (DOSH), a department under Malaysia Ministry of Human Resources, and the Group is 
+
+subjected to periodic and random checks by the authorities. Financial penalties will be imposed on 
+
+the Group for breaches and non-compliance can lead to revocation of business licence. In FY2019, 
+
+we have not received any penalty notice issued by DOSH in respect of non-compliance with the 
+
+Occupational Safety and Health Administration (OSHA). 
+
+Targets for FY2020 
+
+Moving forward, Samurai 2K will continue to work towards attaining zero safety incidents and 
+
+maintain zero penalty or fine on breaches and non-compliance by DOSH. We are committed to 
+
+monitor and reduce any safety and health risks through effective risk mitigation management. We 
+
+also aim to hold monthly Health and Safety Committee meeting and audit on the Unsafe Act and 
+
+Condition, as well as implement an eight hours Safety and Health Training for every employee in the 
+
+production team.  
+
+ 
+
+ 
+
+
+19 
+
+ 
+
+
+
+Customer Health and Safety 
+
+Customers are one of our key stakeholders and their expectations are good quality services and 
+
+products, after-sales services, and fair purchasing practices. Hence it is crucial that we aim to satisfy 
+
+these expectations and that our products are safe for use, so as to generate customer confidence 
+
+and enhance business reputation.  
+
+All of our products are assessed for their Health, Environmental, and Safety impacts from the 
+
+product development stage, with advice available, to the end customers so that any identified risks 
+
+are known and can be controlled. Product concepts come from a variety of sources, including 
+
+customer interactions, market awareness, and emerging product trends. In these areas, our research 
+
+teams liaise with our product safety and regulatory affairs department from the beginning of new 
+
+product development to ensure that products are assessed for their health, safety, and 
+
+environmental effects. Additional screening tests and modelling may be carried out depending on 
+
+the expected end use of the product to enable safety assessments to be completed by our 
+
+customers. These principles are already embedded in our new product development processes.  
+
+ 
+
+We have controls in place within our Enterprise Resource Planning System to ensure that a material 
+
+safety data sheet (MSDS) is produced for all products prior to manufacture to ensure that they are 
+
+assessed against the criteria of the United Nations Globally Harmonized System of Classification and 
+
+Labelling of Chemicals (GHS) so that all health, safety, and environmental aspects such as 
+
+persistence and bioaccumulation can be considered for manufacturing, production, storage, 
+
+distribution, supply, and end product use. During the manufacture of our products, the risks to 
+
+health and safety are managed by the Safety Health and Environment (SHE) department at our 
+
+manufacturing sites. There are policies and procedures in place to ensure process safety and quality 
+
+control. Our manufacturing sites are certified ISO 9001:2015 and they are in compliance with the 
+
+Malaysia Government standard for Safety Management.  
+
+ 
+
+We also have procedures and systems in place to ensure the safe storage of hazardous chemicals; 
+
+this information is passed on to our customers where applicable. We have procedures in place to 
+
+deal with emergency situations such as having to recall or withdraw an unsafe product that may 
+
+affect surrounding communities. Our sales and marketing teams work closely with our research 
+
+teams and regulatory department to ensure that any details that are provided to customers relating 
+
+to health and safety are accurate and reflect the information that is sent out with the products that 
+
+we supply.  
+
+ 
+
+Formal procedures are in place to capture any non-compliance with regulations or codes relating to 
+
+the health and safety of our products. We also have a formal complaint procedure and all of our 
+
+customers will have at least one sales contact within the business. It is our intention to enhance this 
+
+procedure to further embed it within our business to capture any issues or areas of potential risk.  
+
+ 
+
+ 
+
+ 
+
+
+20 
+
+ 
+
+
+
+Customer Health and Safety (Cont’d) 
+
+We are pleased to confirm that in FY2019, there was no incident of reported non-compliance with 
+
+regulations.  
+
+Targets for FY2020 
+
+Moving forward, we aim to maintain zero incident of non-compliance. We will continue to assess 
+
+and improve our products while taking customers’ feedbacks into consideration. 
+
+ 
+
+ 
+
+
+
+
+21 
+
+ 
+
+
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for Omission, if 
+
+applicable 
+
+102-1 Name of the organisation  
+
+1 
+
+102-2 Activities, brands, products, and services 
+
+3 
+
+102-3 Location of headquarters  
+
+2 
+
+102-4 Location of operations 
+
+3 
+
+102-5 Ownership and legal form  
+
+3 
+
+102-6 Markets served 
+
+3 
+
+102-7 Scale of the organisation 
+
+3 
+
+102-8 Information on employees and other workers  
+
+3 
+
+102-9 Supply chain  
+
+4 
+
+102-10 Significant changes to the organisation and its 
+
+supply chain 
+
+Not Applicable 
+
+102-11 Precautionary principle or approach  
+
+5 and 20 
+
+102-12 External initiatives  
+
+Not Applicable  
+
+102-13 Membership of associations 
+
+Not Applicable 
+
+102-14 Statement from senior decision maker 
+
+1 
+
+102-16 Values, principles, standards, and norms of 
+
+behaviour 
+
+3  
+
+102-18 Governance structure 
+
+5 
+
+102-40 List of stakeholder groups 
+
+6 
+
+102-41 Collective bargaining agreements 
+
+Not Applicable 
+
+102-42 Identifying and selecting stakeholders 
+
+6 
+
+102-43 Approach to stakeholder engagement 
+
+6 
+
+102-44 Key topics and concerns raised 
+
+7 – 8 
+
+102-45 Entities included in the consolidated financial 
+
+statements 
+
+Annual Report 2019: Notes to the Financial 
+
+Statements (Investment in subsidiaries) 
+
+102-46 Defining report content and topic boundaries 
+
+2 
+
+102-47 List of material topics 
+
+7 – 8 
+
+102-48 Restatements of information 
+
+Not Applicable  
+
+102-49 Changes in reporting 
+
+Not Applicable  
+
+102-50 Reporting period 
+
+2 
+
+102-51 Date of most recent report 
+
+28 March 2019 
+
+102-52 Reporting cycle 
+
+2 
+
+102-53 Contact point for questions regarding the report 
+
+2 
+
+102-54 Claims of reporting in accordance with the GRI 
+
+Standards 
+
+2 
+
+102-55 GRI content index 
+
+21 – 22 
+
+102-56 External assurance 
+
+2 
+
+103-1 Explanation of the material topics and its Boundary 
+
+7 – 8 
+
+103-2 The management approach and its components 
+
+9 – 20 
+
+103-3 Evaluation of the management approach 
+
+9 – 20 
+
+
+22 
+
+ 
+
+
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for Omission, if 
+
+applicable 
+
+201-1 Direct economic value generated and distributed  
+
+9 – 10 
+
+Annual Report 2019: Operations and Financial 
+
+Review, Consolidated Statement of Profit or 
+
+Loss and Other Comprehensive Income 
+
+205-1 Operations assessed for risks related to corruption 
+
+11 
+
+205-2 Communication and training about anti-corruption 
+
+policies and procedures  
+
+11  
+
+205-3 Confirmed incidents of corruption and actions 
+
+taken 
+
+11 
+
+307-1 Non-compliance with environmental laws and 
+
+regulations 
+
+13 
+
+403-1 Workers representation in formal joint 
+
+management-worker health and safety committees  
+
+17 – 18 
+
+403-2 Types of injury and rates of injury, occupational 
+
+diseases, lost days, and absenteeism, and number of 
+
+work-related fatalities 
+
+17 – 18 
+
+404-1 Average hours of training per year per employee 
+
+14 – 15 
+
+404-2 Programs for upgrading employee skills and 
+
+transition assistance programs 
+
+14 – 15 
+
+405-1 Diversity of governance bodies and employees 
+
+16 
+
+416-1 Assessment of the health and safety impacts of 
+
+product and service categories 
+
+19 – 20  
+
+416-2 Incidents of non-compliance concerning the health 
+
+and safety impacts of products and services 
+
+19 – 20 
+
+
+ 
+
+ 
+
+ 
+
+
+

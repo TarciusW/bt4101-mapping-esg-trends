@@ -1,0 +1,5835 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+1.0 INTRODUCTION .............................................................................................................................................. 1 
+
+1.1 ABOUT US ................................................................................................................................................................................... 1 
+
+1.2 ABOUT THE REPORT ....................................................................................................................................................................... 4 
+
+2.0 APPROACH TO SUSTAINABILITY ...................................................................................................................... 5 
+
+2.1 BOARD STATEMENT ....................................................................................................................................................................... 5 
+
+2.2 STAKEHOLDER ENGAGEMENT ........................................................................................................................................................... 6 
+
+2.3 MATERIALITY ASSESSMENT .............................................................................................................................................................. 8 
+
+2.4 SUSTAINABILITY GOVERNANCE ......................................................................................................................................................... 9 
+
+3.0 PEOPLE ........................................................................................................................................................ 10 
+
+3.1 OUR EMPLOYEES ......................................................................................................................................................................... 10 
+
+Profile of Our Workforce.......................................................................................................................................................... 10 
+
+Talent Management and Development................................................................................................................................... 12 
+
+3.2 OUR CUSTOMERS ........................................................................................................................................................................ 15 
+
+Our Supply Chain ..................................................................................................................................................................... 15 
+
+Customer Satisfaction .............................................................................................................................................................. 15 
+
+3.3 HEALTH AND SAFETY OF OUR STAKEHOLDERS ................................................................................................................................... 20 
+
+Our Employees ......................................................................................................................................................................... 20 
+
+Our Tenants, Customers and Visitors ...................................................................................................................................... 24 
+
+4.0 ENVIRONMENT ............................................................................................................................................ 27 
+
+4.1 ENERGY USAGE AND ASSOCIATED GREENHOUSE GAS (“GHG”) EMISSIONS ............................................................................................ 27 
+
+5.0 SUSTAINABLE GROWTH ................................................................................................................................ 30 
+
+5.1 ECONOMIC PERFORMANCE ........................................................................................................................................................... 30 
+
+5.2 CORPORATE GOVERNANCE ............................................................................................................................................................ 32 
+
+6.0 GRI CONTENT INDEX ..................................................................................................................................... 33 
+
+
+ 
+
+ 
+
+1 
+
+ 
+
+
+
+1.0 INTRODUCTION 
+
+1.1 About Us 
+
+Listed on the Mainboard of the Singapore Exchange 
+
+Securities Trading Limited (“SGX-ST”) in 1973, 
+
+Metro Holdings Limited (“Metro” or the “Group”) 
+
+was founded in 1957 by the late Mr Ong Tjoe Kim. 
+
+Starting out as a textile store on 72 High Street, 
+
+Singapore, Metro has grown over the years to 
+
+become a property investment and development 
+
+group with a broadened and diversified asset 
+
+portfolio, backed by an established retail track 
+
+record, with a turnover of S$97.3 million and net 
+
+assets of S$1.6 billion as at 31 March 2021. 
+
+Today, the Group operates two core business 
+
+segments – property investment and development, 
+
+and retail. It is focused on key markets in the region 
+
+such as Singapore, the People’s Republic of China 
+
+(“PRC”), Indonesia, the United Kingdom (“UK”) and 
+
+Australia. 
+
+ 
+
+Our International Presence 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+2 
+
+ 
+
+
+
+Metro Holdings at a Glance 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+3 
+
+ 
+
+
+
+ 
+
+For more information on Metro, please visit our website at www.metroholdings.com.sg. 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+4 
+
+ 
+
+
+
+1.2 About the Report 
+
+We are proud to present Metro’s Sustainability Report for the financial year ended 31 March 2021 (“FY2021”). It has 
+
+been prepared in accordance with Global Reporting Initiatives (“GRI”) Standards – Core option and the SGX Listing 
+
+Rules 711A, 711B and Practice Note 7.6. We have chosen the GRI Standards as it is an internationally recognised 
+
+reporting framework and thus allows for comparison with Metro’s peers. 
+
+We first conducted our formal materiality assessment in FY2018, which led to the identification of sustainability 
+
+matters most material to our business. These Economic, Environmental, Social and Governance (“EESG”) matters 
+
+remain unchanged in FY2019 and FY2020, and have been reviewed and validated by our Management in FY2021, 
+
+taking into consideration feedback from both internal and external stakeholders. 
+
+Separately, Metro has not sought external assurance but will consider doing so as our reporting matures over time. 
+
+ 
+
+Reporting Scope 
+
+The reporting scope covers our Corporate office and Retail operations in Singapore, and Properties in China which 
+
+Metro has an ownership interest over 50%. It contains information for the financial year from 1 April 2020 to 31 March 
+
+2021 (“FY2021”). 
+
+ 
+
+Figure 1: List of Business Segments under SR2021 Report 
+
+Country 
+
+Business Segment  
+
+Under Reporting Scope1 
+
+Reference in Report 
+
+China 
+
+ 
+
+ 
+
+Property Investment 
+
+and Development 
+
+ 
+
+Metro City, Shanghai 
+
+ 
+
+Metro Tower, Shanghai 
+
+ 
+
+GIE Tower, Guangzhou 
+
+Referred to as  
+
+“China (Property Division)” or 
+
+“Property Division” 
+
+Singapore2 
+
+ 
+
+ 
+
+Retail 
+
+ 
+
+Metro Paragon 
+
+ 
+
+Metro Causeway Point 
+
+Referred to as  
+
+“Singapore (Corporate and 
+
+Retail Division)” 
+
+ 
+
+Contact us 
+
+We welcome feedback and/or queries about this report. Please contact us at sustainability@metroholdings.com.sg. 
+
+ 
+
+ 
+
+1 The Group owns 100% of Metro Stores, Singapore; 60% of Metro City, Shanghai; 60% of Metro Tower, Shanghai and 100% of GIE Tower, 
+
+Guangzhou. 
+
+2 Unless otherwise stated, performance data for the Group Corporate office (391A Orchard Road #19-00 Tower A Ngee Ann City Singapore 
+
+238873) will be presented under the Singapore operations. 
+
+
+
+
+
+
+ 
+
+ 
+
+5 
+
+ 
+
+
+
+2.0 APPROACH TO SUSTAINABILITY 
+
+2.1 Board Statement 
+
+Dear Stakeholders, 
+
+The continuation of the COVID-19 pandemic that started in end-2019 triggered an unprecedented global economic 
+
+crisis that impacted countries, economies, businesses, operations, and livelihoods worldwide. The start of 2021 has 
+
+brought about cautious optimism with the global rollout of vaccines and signs of improvement in pandemic 
+
+containment. Cities are attempting to resume a gradual process to normalcy, despite resurgence of the virus and its 
+
+mutations. 
+
+Amidst this backdrop, Metro continues to monitor, embrace and evolve our growth strategies, building upon our 
+
+established track record in the real estate sector. We will also actively manage our existing investment portfolio to 
+
+optimise returns and capitalise on new opportunities to enhance shareholder value. 
+
+At the same time, Metro will continue to take proactive measures to strengthen our financial position, including 
+
+preserving cash, optimising cash flows and liquidity, for optimal returns. With regards to our asset management 
+
+strategy, our focus remains steadfast, prioritising critical asset enhancement, while deferring uncommitted capital 
+
+expenditure and implementing cost savings where possible. 
+
+Moving forward, we continue to capitalise on opportunities with prudent capital structure and are confident that we 
+
+will be able to continue with our strategic diversification expansion plans to achieve resilient growth. 
+
+From April to June 2020, Metro temporarily closed our retail stores and corporate offices in Singapore for the safety 
+
+of our staff and customers and in compliance with the Singapore Government’s circuit breaker measures. The Group’s 
+
+online retail business continued to operate during this period. Under Phase 1 of Singapore’s re-opening on 2 June 
+
+2020, Metro reopened its corporate offices with Government-stipulated mandatory wearing of masks, safe 
+
+distancing, implementation of the Government’s visitor check-in system SafeEntry and TraceTogether, and twice daily 
+
+temperature checks. Upon commencement of Phase 2 re-opening on 19 June 2020, both Metro’s physical retail stores 
+
+reopened with enhanced measures, including occupancy limits, frequent cleaning of common areas, and limiting 
+
+entry points. 
+
+In China, our three properties at Metro City, Shanghai, Metro Tower, Shanghai and GIE Tower, Guangzhou continue 
+
+to enjoy high occupancy and contribute stable recurring income to the Group, while adhering to Governmental 
+
+regulations on precautionary measures. 
+
+As Metro continues to diversify for resilience, we are mindful that this has to be done sustainably and considering the 
+
+impact our businesses have on the community and environment. Since FY2020, Metro has utilised electronic annual 
+
+reports in place of physical copies in our efforts to “go green”. Metro’s sustainability reports have been electronic 
+
+since inception in 2018. We endeavour to keep our stakeholders updated with a holistic view of the Group’s 
+
+performance through transparent and timely disclosures of our sustainability performance. 
+
+Metro’s Board of Directors and Management consider sustainability integral to Metro’s success. Review of EESG 
+
+material matters are critical to Metro’s strategy and operations and are undertaken by Management taking into 
+
+consideration both internal and external stakeholder feedback on EESG factors gathered through routine 
+
+engagement. Through its various committees, the Board oversees the implementation of EESG initiatives, which is 
+
+subsequently disclosed formally on an annual basis in this report. 
+
+We seek ongoing support from both internal and external stakeholders, and urge everyone to join us towards the 
+
+goal of sustainable growth and development. 
+
+
+ 
+
+6 
+
+ 
+
+
+
+2.2 Stakeholder Engagement 
+
+Effective stakeholder engagement is key to our success. Stakeholder feedback can greatly influence business performance. From commercial office space to the retail store 
+
+front, our people engage with different stakeholder groups daily. We strive to keep up with their evolving needs and this guides our responses. We define our stakeholders 
+
+as individuals or groups that our business has a significant impact on, and those who can influence Metro’s ability to advance our strategies and objectives. See Table 1 below 
+
+for our stakeholder engagement approach. 
+
+Table 1: Metro’s Stakeholder Engagement 
+
+Stakeholder Groups 
+
+Key Interests of Stakeholder 
+
+Groups 
+
+Metro’s Response 
+
+Methods of Engagement3 
+
+Frequency of Engagement 
+
+Retail Shoppers and Visitors 
+
+Customer satisfaction is key to 
+
+Metro’s business and Metro strives 
+
+to enhance customer experience by 
+
+tailoring its offerings to best meet 
+
+their needs 
+
+ 
+
+Health, safety and security 
+
+at properties 
+
+ 
+
+Customer satisfaction 
+
+ 
+
+Quality of products sold at 
+
+the stores 
+
+ 
+
+Review of health and safety 
+
+measures across all properties 
+
+ 
+
+Differentiating product and 
+
+service offerings  
+
+ 
+
+Service recovery / prompt 
+
+response and feedback provided 
+
+to customers  
+
+ 
+
+Customer feedback 
+
+(via RateIt Portal, Metro’s website, phone call, 
+
+Facebook, WhatsApp, Instagram and email) 
+
+ 
+
+Ongoing 
+
+ 
+
+Dedicated customer service counter 
+
+ 
+
+Daily 
+
+ 
+
+Face-to-face interactions in-store on sales 
+
+floor 
+
+ 
+
+Daily 
+
+ 
+
+Loyalty programmes  
+
+ 
+
+Ongoing 
+
+ 
+
+Networking events 
+
+ 
+
+As appropriate 
+
+Tenants 
+
+Customer satisfaction is key to 
+
+Metro’s business and Metro strives 
+
+to enhance customer experience by 
+
+tailoring its offerings to best meet 
+
+their needs 
+
+ 
+
+ 
+
+Health, safety and security 
+
+at properties 
+
+ 
+
+Tenant satisfaction 
+
+ 
+
+Quality of assets and 
+
+services 
+
+ 
+
+Health and safety measures 
+
+implemented across all 
+
+properties 
+
+ 
+
+Regular maintenance of all 
+
+properties 
+
+ 
+
+Tenant satisfaction survey (through survey 
+
+form and face-to-face interview) 
+
+ 
+
+Biannually 
+
+ 
+
+Correspondence through email and calls  
+
+ 
+
+Ongoing  
+
+ 
+
+Meetings 
+
+ 
+
+As appropriate 
+
+Employees 
+
+The health, safety, competencies, 
+
+welfare and professional 
+
+development of employees are 
+
+fundamental to Metro’s performance 
+
+and key to enhancing our human 
+
+capital. 
+
+ 
+
+ 
+
+• 
+
+Provision of fair 
+
+remuneration, 
+
+compensation and benefits 
+
+• 
+
+Opportunities for career 
+
+development and 
+
+progression 
+
+• 
+
+Participation in training and 
+
+skills upgrading programmes 
+
+ 
+
+Open door policy for employees 
+
+to provide feedback 
+
+ 
+
+Providing learning and 
+
+development programmes for 
+
+employees 
+
+ 
+
+Sponsorships for selected 
+
+employees to further their 
+
+education 
+
+ 
+
+Management-Union Dialogue 
+
+ 
+
+Bi-annually (Retail) 
+
+ 
+
+MetroNews (internal newsletter) 
+
+ 
+
+Bi-monthly (Retail) 
+
+ 
+
+Employee orientation 
+
+ 
+
+Ongoing (Retail) 
+
+ 
+
+On-the-job training 
+
+ 
+
+Ongoing (Retail and Property) 
+
+ 
+
+Performance reviews and appraisals for all 
+
+employees 
+
+ 
+
+Ongoing (Corporate) 
+
+ 
+
+Weekly, quarterly and yearly 
+
+reviews (Retail and Property) 
+
+ 
+
+Workshops for both technical and soft skills 
+
+development 
+
+ 
+
+As appropriate (Corporate) 
+
+ 
+
+3 Where possible, physical meetings and events have been shifted online. Other events have been cancelled or postponed in line with the latest COVID-19 restrictions, including employee engagement events. 
+
+
+ 
+
+7 
+
+ 
+
+
+
+Stakeholder Groups 
+
+Key Interests of Stakeholder 
+
+Groups 
+
+Metro’s Response 
+
+Methods of Engagement3 
+
+Frequency of Engagement 
+
+Employees (Continued) 
+
+The health, safety, competencies, 
+
+welfare and professional 
+
+development of employees are 
+
+fundamental to Metro’s performance 
+
+and key to enhancing our human 
+
+capital. 
+
+ 
+
+• 
+
+Having a safe and healthy 
+
+working environment 
+
+ 
+
+Implementation of health and 
+
+safety measures at the 
+
+workplace 
+
+ 
+
+Employee engagement events 
+
+(CEO Quarterly Recognition Lunch; festive 
+
+celebrations; Metro Staff Recreation Club; 
+
+Workplace Safety &amp; Health Committee) 
+
+ 
+
+Ongoing (Retail) 
+
+ 
+
+Participation in Workgroup Meetings, Email 
+
+correspondence  
+
+ 
+
+Ongoing  
+
+Suppliers and Business Associates 
+
+Suppliers play a vital role in 
+
+supporting Metro towards 
+
+continuous and sustainable growth 
+
+ 
+
+Receipt of timely payments 
+
+ 
+
+Regulatory compliance 
+
+ 
+
+Timely and transparent 
+
+communication with suppliers / 
+
+business associates 
+
+ 
+
+Stringent selection of suppliers 
+
+to ensure compliance with 
+
+company standards and laws 
+
+and regulations 
+
+ 
+
+Correspondence through calls, emails and 
+
+video conferences 
+
+ 
+
+Ongoing 
+
+ 
+
+Face-to-face meetings to feedback on 
+
+performance 
+
+ 
+
+Ongoing 
+
+Investors, Shareholders, Analysts 
+
+and Media 
+
+Stakeholders and investors guide and 
+
+influence Metro’s operations and 
+
+decision-making 
+
+ 
+
+Economic performance 
+
+ 
+
+Growth strategy and future 
+
+outlook 
+
+ 
+
+Timely and transparent 
+
+disclosure on a dedicated 
+
+Investor Relations website 
+
+ 
+
+Strategies to achieve sustainable 
+
+distributions for investors and 
+
+shareholders  
+
+ 
+
+Annual Report and Sustainability Report 
+
+ 
+
+Annually 
+
+ 
+
+Annual General Meeting (“AGM”)  
+
+(Held virtually) 
+
+ 
+
+Annually 
+
+ 
+
+SGXNet announcements and press releases 
+
+ 
+
+As appropriate 
+
+ 
+
+Analysts’ and media briefing (Held virtually) 
+
+ 
+
+Annually 
+
+ 
+
+Correspondence through calls and emails 
+
+ 
+
+Ongoing 
+
+Regulators 
+
+Understanding and staying in 
+
+compliance with all applicable laws 
+
+and regulations ensures Metro is 
+
+licensed to operate 
+
+ 
+
+Regulatory compliance 
+
+ 
+
+Uphold highest levels of 
+
+corporate governance 
+
+ 
+
+Compliance with all relevant 
+
+laws and regulations 
+
+ 
+
+Promote communication with 
+
+authorities 
+
+ 
+
+Meetings with authorities 
+
+ 
+
+As appropriate 
+
+ 
+
+Attendance at seminars and workshops 
+
+organised by regulatory bodies 
+
+ 
+
+As appropriate 
+
+ 
+
+Pledge to support Securities Investors 
+
+Association (Singapore) Corporate 
+
+Governance Week 
+
+ 
+
+As appropriate 
+
+Our Community 
+
+Through the spaces we own or 
+
+manage, we interact and endeavour 
+
+to contribute and guide its 
+
+communities in a sustainable manner 
+
+ 
+
+Responsible management of 
+
+our impacts on the 
+
+community  
+
+ 
+
+Provide assistance to the 
+
+community 
+
+ 
+
+Involvement and investments in 
+
+Corporate Social Responsibility 
+
+initiatives 
+
+ 
+
+Community outreach programmes 
+
+ 
+
+As appropriate 
+
+ 
+
+Sponsorships (monetary and in-kind)  
+
+ 
+
+As appropriate 
+
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+
+
+2.3 Materiality Assessment 
+
+Through a formal materiality assessment conducted in FY2018, we identified EESG matters which were most material 
+
+to our businesses. In FY2021, these existing matters were reviewed by our Management, taking into consideration 
+
+both internal and external stakeholder feedback on EESG factors gathered through routine engagement. We continue 
+
+to review our material matters annually to ensure their continued relevance in future reporting periods. 
+
+ 
+
+Figure 2: Four-Step Materiality Assessment Process 
+
+1 
+
+Identification 
+
+A list of potential EESG matters was consolidated by our external consultants through interviews with key 
+
+management personnel across various departments and a desktop analysis of sustainability matters 
+
+reported by peers in both the retail and property industries. 
+
+2 
+
+Prioritisation 
+
+The identified EESG matters were evaluated and prioritised by representatives from both Property and 
+
+Retail Divisions, taking into consideration both internal and external stakeholders’ perspectives. 
+
+Subsequently, they were aligned at the Corporate level for consistency across the Group. 
+
+3 
+
+Validation 
+
+The final list of material matters for the FY2018 Sustainability Report was presented to the Board for their 
+
+validation and approval. 
+
+4 
+
+Review 
+
+Material matters selected for reporting in FY2018 were reassessed to ensure their continued relevance to 
+
+our operations in FY2021. We will continue to review our material matters annually. 
+
+ 
+
+Figure 3: Metro's Materiality Matrix 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+
+
+Figure 4: Mapping of Material Matters to GRI Standards 
+
+ 
+
+Material Matter 
+
+CATEGORY 
+
+GRI TOPIC-SPECIFIC DISCLOSURE 
+
+PAGE 
+
+REFERENCE 
+
+ 
+
+Economic Performance Environment  
+
+• 
+
+GRI 201 Economic Performance  
+
+[201-1] 
+
+30-31 
+
+ 
+
+Energy Usage and 
+
+Associated 
+
+Greenhouse Gas 
+
+(“GHG”) Emissions 
+
+Economic 
+
+• 
+
+GRI 302 Energy [302-1, 302-3] 
+
+• 
+
+GRI 305 Emissions  
+
+[305-1, 305-2, 305-4] 
+
+27-29 
+
+ 
+
+Talent Management 
+
+and Development 
+
+Social 
+
+ 
+
+• 
+
+GRI 404: Training and Education  
+
+[404-1, 404-3] 
+
+12-14 
+
+ 
+
+Customer Satisfaction 
+
+Social 
+
+• 
+
+No relevant GRI topic-specific 
+
+disclosure  
+
+15-20 
+
+ 
+
+Health and Safety of 
+
+Our Stakeholders4 
+
+Social 
+
+• 
+
+GRI 403 Occupational Health and 
+
+Safety [403-1 to 403-7, 403-9] 
+
+• 
+
+GRI 416 Customer Health and Safety 
+
+[416-2] 
+
+20-26 
+
+ 
+
+Corporate Governance 
+
+Governance  
+
+• 
+
+GRI 205 Anti-corruption [205-3] 
+
+• 
+
+GRI 307 Environmental Compliance 
+
+[307-1] 
+
+• 
+
+GRI 419 Socioeconomic Compliance 
+
+[419-1] 
+
+32 
+
+ 
+
+2.4 Sustainability Governance 
+
+Metro’s Board is responsible for all EESG and sustainability matters and its implementation. This is critical for both 
+
+business success and continuity. The Sustainability Steering Committee then sets the direction for business operations, 
+
+which includes target setting and execution. This is reported to the Board annually. 
+
+Figure 5: Metro's Sustainability Governance Structure 
+
+ 
+
+ 
+
+4 Stakeholders are defined as employees, tenants, customers and visitors. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+10 
+
+ 
+
+
+
+3.0 PEOPLE 
+
+3.1 Our Employees 
+
+Profile of Our Workforce 
+
+In FY2021, we saw a 4% decrease in headcount to 450 employees. This was due to the reduction of fixed-term 
+
+employees at Retail Division in Singapore. As it has been in the past, the majority of our workforce is made up of 
+
+permanent full-time employees. 
+
+In China (Property Division), 98% of Metro’s employees are located at our two properties in Shanghai. For our 
+
+Guangzhou property (GIE Tower), we have four permanent employees and appointed CBRE China (“CBRE”) as the 
+
+property manager. CBRE oversees the operations, facility management and maintenance of the building and their 
+
+employees are not included in Metro’s headcount. 
+
+A significant portion of our Chinese employees are hired on a fixed-term contract which is a common practice in China. 
+
+While it allows for recruitment flexibility, all employees are still provided with the same benefits mandated by the 
+
+Social Insurance Law of the People’s Republic of China. This includes mandatory monthly contributions to their 
+
+employee social security fund as stipulated by the Ministry of Human Resources and Social Security, PRC. All benefits 
+
+are the same regardless of employment type. 
+
+Figures 6 to 8 showcases the breakdown of our workforce according to region, gender, employment contract and 
+
+employment type. 
+
+ 
+
+ 
+
+ 
+
+450 
+
+Total Number of Employees5 as at  
+
+31 March 2021 
+
+Metro Corporate HQ 
+
+(Singapore) 
+
+Retail 
+
+(Singapore) 
+
+Property 
+
+(China) 
+
+31 
+
+210 
+
+209 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 An employee is defined as an individual who is in an employment relationship with Metro. A worker is defined as an individual that performs 
+
+work but is not an employee. The employee statistics above exclude workers. Metro considers our interns and contractors as workers. Details 
+
+of our workers are as follows: 
+
+As at 31 March 2021, we have a total of 95 workers. They include 24 workers hired under our Retail Division as interns and contractors in 
+
+Singapore and a total of 71 workers hired under our Property Division in China. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+11 
+
+ 
+
+
+
+Figure 6: Breakdown of Employees by Gender and Region 
+
+ 
+
+ 
+
+Figure 7: Breakdown of Employees by Employment Contract6 and Region 
+
+ 
+
+ 
+
+ 
+
+6 Employment contract (permanent and fixed-term) and employment type (full-time and part-time) are as defined by the GRI Standards. 
+
+55
+
+7
+
+138
+
+52
+
+8
+
+138
+
+176
+
+23
+
+70
+
+158
+
+23
+
+71
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Male
+
+Female
+
+230
+
+30
+
+134
+
+204
+
+31
+
+131
+
+1
+
+74
+
+6
+
+78
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Permanent
+
+Fixed-Term
+
+FY2020 
+
+469 employees 
+
+FY2021 
+
+450 employees 
+
+FY2020 
+
+469 employees 
+
+FY2021 
+
+450 employees 
+
+
+ 
+
+ 
+
+ 
+
+12 
+
+ 
+
+
+
+Figure 8: Breakdown of Employees by Employment type5 and Region 
+
+ 
+
+ 
+
+Talent Management and Development 
+
+An engaged and motivated workforce is vital to Metro’s success. As such, we continuously invest in training and 
+
+development. Our Human Resources (“HR”) Division has formulated various policies and initiatives that aim to provide 
+
+opportunities for all employees in a safe and conducive working environment. 
+
+ 
+
+China (Property Division) 
+
+Policies and Practices 
+
+Each year, all employees in China undergo an annual formal appraisal where supervisors review performance and 
+
+highlight areas for improvement. Regular communication enables alignment of employee/supervisor expectations. 
+
+The China (Property Division) implements mandatory training for all employees. To achieve this, the training 
+
+programme and implementation plan are outlined in the Training Management Procedure. All relevant materials are 
+
+accessible via a training management system which is made available to all employees in Shanghai through the internal 
+
+portal. The HR Department in Shanghai has implemented various training programmes on professional and specific 
+
+skills which will help new hires assimilate into the workplace and upgrade existing employees’ skills. Trainings are also 
+
+conducted to raise awareness on workplace health and safety. 
+
+ 
+
+ 
+
+ 
+
+205
+
+30
+
+208
+
+190
+
+31
+
+209
+
+26
+
+20
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Retail
+
+(Singapore)
+
+Corporate
+
+(Singapore)
+
+Property
+
+(China)
+
+Full-Time
+
+Part-Time
+
+FY2020 
+
+469 employees 
+
+FY2021 
+
+450 employees 
+
+
+ 
+
+ 
+
+ 
+
+13 
+
+ 
+
+
+
+Figure 9: Types of Internal and External Trainings conducted for Employees 
+
+Internal 
+
+• 
+
+Mandatory Induction Training 
+
+o A general company-wide training will be held for all new hires 
+
+o Department-specific trainings will be held thereafter 
+
+• 
+
+Specialised/Focused Training  
+
+o Various topics covering safe management measures, energy management and social aspects 
+
+are held for employees 
+
+o Topics will be updated every year 
+
+o For Shanghai: Energy Management System training in place 
+
+o For Guangzhou: Training is scheduled quarterly and is mandatory for all employees 
+
+ 
+
+Each department will conduct at least four trainings per month for employees based 
+
+on their job scope 
+
+• 
+
+Occupational Health and Safety Training 
+
+o Various activities organised to create employee awareness on health and safety 
+
+External 
+
+• 
+
+Technical Skills Training 
+
+o External training vendors will be engaged to conduct specialised trainings in areas such as 
+
+security, equipment maintenance, mall and property management as well as organisational 
+
+and managerial capability building workshops when required 
+
+ 
+
+Performance and Targets 
+
+Material 
+
+Aspect 
+
+Target for FY2021 
+
+Performance for FY2021 
+
+Perpetual Target 
+
+Training and 
+
+Development  
+
+Achieve 100% onboarding 
+
+training for all new hires in 
+
+China 
+
+Achieved 
+
+ 
+
+Achieve 100% onboarding 
+
+training for all new hires in 
+
+China 
+
+ 
+
+In FY2021, we achieved our China (Property Division) target of 100% training for all new hires in FY2021 and recorded 
+
+an increase to 11,302 training hours in total, averaging 54.1 hours per employee. This increase was led by additional 
+
+training hours in particular by staff. 
+
+ 
+
+Figure 10: Average Training Hours Per Employee by Gender and Employment Category for China (Property Division) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+53
+
+57
+
+53
+
+49
+
+44
+
+46
+
+48
+
+50
+
+52
+
+54
+
+56
+
+58
+
+FY2020
+
+FY2021
+
+By Gender
+
+Male
+
+Female
+
+36
+
+42
+
+64
+
+64
+
+125
+
+81
+
+238
+
+179
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+FY2020
+
+FY2021
+
+By Employment Category
+
+Staff
+
+Supervisors
+
+Middle Management
+
+Senior Management
+
+
+ 
+
+ 
+
+ 
+
+14 
+
+ 
+
+
+
+Singapore (Corporate and Retail Division) 
+
+Policies and Practices 
+
+Our HR Division maintains oversight of talent management and development. We encourage constant improvement 
+
+of all employees throughout their careers at Metro. Morning briefings are conducted by our Duty Manager at both 
+
+our stores to refresh associates on our service standards. In response to COVID-19 pandemic, all classroom trainings 
+
+were suspended since January 2020 for safety reasons. 
+
+All employees go through a formal annual performance appraisal process, ensuring that expectations are conveyed, 
+
+and their performance is closely monitored. Regular two-way communication between supervisors and staff is 
+
+encouraged and allows for prompt addressing of matters. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for FY2021 
+
+Performance for FY2021 
+
+Target for FY2022 
+
+Training and 
+
+Development  
+
+Implementation of  
+
+E-learning for Supervisors and 
+
+Managers 
+
+Recorded 2,471 
+
+hours of total 
+
+training and 
+
+development in 
+
+FY2021 
+
+ 
+
+Increase average training 
+
+hours for each full-time 
+
+staff to 6.0 hours 
+
+ 
+
+In FY2021, we recorded 2,471 hours of training and development, an increase from FY2020. Employees were able to 
+
+complete more trainings due to online learning modes following the suspension of classroom trainings from January 
+
+2020 onwards with the onset of COVID-19 pandemic. 
+
+ 
+
+Figure 11: Average Training Hours per Employee by Gender and Employment Category for Singapore (Corporate and Retail Division) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+5
+
+11
+
+3
+
+10
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+FY2020
+
+FY2021
+
+By Gender
+
+Male
+
+Female
+
+3
+
+10
+
+5
+
+11
+
+3
+
+11
+
+2
+
+8
+
+0
+
+2
+
+4
+
+6
+
+8
+
+10
+
+12
+
+FY2020
+
+FY2021
+
+By Employment Category
+
+Staff
+
+Supervisors
+
+Middle Management
+
+Senior Management
+
+
+ 
+
+ 
+
+ 
+
+15 
+
+ 
+
+
+
+3.2 Our Customers 
+
+Our Supply Chain 
+
+Due to the differing nature of our businesses, our Property and Retail Divisions have separate supply chains. 
+
+Within the Property Division, Metro City, Shanghai and Metro Tower, Shanghai engage contractors for cleaning 
+
+services, security services, renovation works and maintenance of facilities. We put in place various guidelines on the 
+
+scope of work to ensure consistency in the provision of services across the properties. All applicable state laws and 
+
+regulations which must be acknowledged by the service providers before engagement are encapsulated in contractual 
+
+agreements. We communicate the service expectations upfront and engage with service providers on a regular basis 
+
+to ensure alignment. For GIE Tower in Guangzhou, CBRE China has been engaged as the property manager to take 
+
+charge of day-to-day operation such as the maintenance and repair works, security, and cleaning. 
+
+The Metro retail brand is home to an array of highly recognised local and international brands. We obtain our products 
+
+of leading international and local brand from local distributors, with products ranging from skincare and cosmetics, 
+
+fragrances, fashion wear to bedding and mattresses. Metro also engages third-party contractors to provide services  
+
+such as maintenance and renovation work, security, and delivery. 
+
+Customer Satisfaction 
+
+China (Property Division) 
+
+Policies and Practices 
+
+Across our China properties, we are committed to maintaining a high level of tenant satisfaction. We interact with 
+
+stakeholders regularly through surveys, face-to-face meetings, telephone conversations and email. Feedback is 
+
+formally gathered through our annual satisfaction survey across five areas: security, cleanliness, repair and 
+
+maintenance work, facility management and provision of amenities. 
+
+Based on prior year feedback, we completed escalator and safety barrier upgrading programmes at Metro City. 
+
+ 
+
+Our customer satisfaction monitoring program is ISO9001:2015 certified. Under the Quality Management Systems 
+
+requirements, issues raised will be recorded for timely rectification and to prevent recurrence. Metro City continues 
+
+to improve customer satisfaction through engaging its customers via social media, Metro’s official WeChat account, 
+
+shopping guides, physical posters (elevators, public areas) and via newsletters. 
+
+Performance and Targets 
+
+For FY2021, we are proud to disclose that we have surpassed our customer satisfaction survey targets at Metro City 
+
+and tenant satisfaction survey targets at Metro Tower. Customer and tenants in both our Shanghai properties were 
+
+“very satisfied” with the provision of amenities and cleanliness. Figure 12 details the actions taken in the reporting 
+
+year and our future plans. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+
+
+ 
+
+Figure 12: FY2021 Customer Satisfaction Survey Performance and Future Plans 
+
+Survey Group 
+
+Perpetual 
+
+Target 
+
+Results for 
+
+FY2021 
+
+Actions Taken in the Reporting Year 
+
+Future Plans 
+
+Shanghai 
+
+Tenants in 
+
+Metro Tower 
+
+98% 
+
+99.2% 
+
+ 
+
+Improved cleaning frequency of toilets 
+
+and common spaces 
+
+ 
+
+Four-eye checks for electricity meter 
+
+readings 
+
+ 
+
+Assess tenants’ 
+
+requests and 
+
+identify areas for 
+
+improvement and 
+
+develop action 
+
+plans 
+
+Tenants in 
+
+Metro City 
+
+98% 
+
+98.9% 
+
+ 
+
+Improved cleaning frequency of 
+
+bathrooms and common spaces 
+
+ 
+
+Provided forums for customer 
+
+engagement via social media, Metro’s 
+
+official WeChat account, shopping 
+
+guides, physical posters (elevators, 
+
+public areas) and via newsletters 
+
+Consumers 
+
+88% 
+
+95.9% 
+
+ 
+
+Optimised mall floor plan and store 
+
+layout, including improvement of 
+
+indoor landscaping 
+
+ 
+
+Completed escalator and safety barrier 
+
+upgrading programme in FY2021 in 
+
+response to customer feedback 
+
+ 
+
+Improve customer 
+
+experience 
+
+through periodic 
+
+review and update 
+
+in-line with market 
+
+trends 
+
+ 
+
+Guangzhou  
+
+Tenants in 
+
+GIE Tower 
+
+90% 
+
+N.A.7 
+
+ 
+
+Improved cleaning frequency of toilets 
+
+and common spaces 
+
+ 
+
+Multiple 
+
+department 
+
+meetings each 
+
+month to review 
+
+issues 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 No survey conducted during FY2021 due to COVID-19 pandemic. 99.3% score recorded in FY2020. 
+
+
+ 
+
+ 
+
+ 
+
+17 
+
+ 
+
+
+
+Case Study: “Metro Is Singapore” COVID-19 Initiative 
+
+Despite COVID-19 headwinds, Metro raised S$250,000 in a month for the “Metro Is Singapore” COVID-19 Initiative. 
+
+Partnering Beyond Social Services (“BSS”), Metro provided more than 200 laptops for low-income Singaporean 
+
+students’ home-based learning. The charity drive ran from 1st to 31st August 2020, and Metro donated 2.5% of 
+
+department store and online sales revenues. Board Directors, management, staff and key shareholders also 
+
+contributed. 
+
+Mr. Gerard Ee, Executive Director, Beyond Social Services said: “We are grateful for Metro’s donation, which will 
+
+enable us to reach out to the less privileged youth and support them with laptops for their home-based learning. 
+
+We hope that our joint contribution will positively impact our younger generation.” 
+
+ 
+
+ 
+
+Caption (L to R): “Metro Group CEO Mr. Yip Hoong Mun, Recipient and New town Secondary 4 Student Nur Musyafiqah Bte Mustaffa, Metro Chairman Lt-
+
+Gen (Retd) Winston Choo and Beyond Social Services Executive Director Mr. Gerard Ee after the laptop-giving ceremony.” 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+18 
+
+ 
+
+
+
+Singapore (Retail Division) 
+
+Policies and Practices 
+
+At Metro, customer satisfaction is our top priority and we remain committed to delivering value to every shopper. As 
+
+such, in FY2021 we focused on extending our e-commerce presence via Metro Shopee Mall, supplementing existing 
+
+online channels Metro Online and Metro LazMall. This digital move commenced before the onset of the COVID-19 
+
+pandemic in the first quarter of 2020 and accelerated post the April-June 2020 circuit breaker. 
+
+ 
+
+New Product and Service Offerings 
+
+Description 
+
+Actions Taken by Metro 
+
+Extending e-commerce presence via 
+
+Metro Shopee Mall, supplementing 
+
+existing online 
+
+channels 
+
+Metro 
+
+Online and Metro LazMall 
+
+Increased product selection and 
+
+engagement with consumers on e-
+
+commerce platforms Metro Online, 
+
+Metro LazMall, Metro Shopee Mall, 
+
+as well as social media platforms 
+
+Facebook and Instagram 
+
+On-the-job-training 
+
+to 
+
+upskill 
+
+associates with e-commerce know-
+
+how. 
+
+Continuous 
+
+review 
+
+of 
+
+processes with online platforms, 
+
+partners and associates to improve 
+
+e-commerce customer experience 
+
+ 
+
+Feedback is gathered in real-time from our two stores and our social media platform. At our stores, performance is 
+
+continuously tracked through the “RateIt” Tablet or via one’s own mobile device through scanning a QR code. Each 
+
+tablet is strategically placed at our counters that allow for shoppers to rate the service provided. The platform uses a 
+
+Net Promoter Score8 (“NPS”) which is tabulated live and is reflective of our performance at any one time. It also allows 
+
+for store managers to investigate recurring issues, ensuring they are promptly addressed. 
+
+Feedback and issues received via “RateIt” have also been used for coaching and identifying areas for improvement. 
+
+Our team aims to respond to any negative feedback within three working days, and such comments on social media 
+
+platforms will not be removed. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 Net Promoter Score (“NPS”) is an index ranging from -100 to 100 that measures the willingness of customers to recommend a company’s 
+
+products or services to others. It is often used to measure the customer’s overall satisfaction and loyalty to the brand.  
+
+FINDINGS FROM “RATEIT” TABLET AND ACTIONS TAKEN BY METRO 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Faster service 
+
+
+
+Improving in-store displays to 
+
+be self-service friendly 
+
+
+
+ 
+
+
+
+Self-checkout (targeted FY2022) 
+
+
+
+Reduction in wait times 
+
+
+
+Time savings and 
+
+corresponding improvement 
+
+in overall customer service 
+
+
+ 
+
+ 
+
+ 
+
+19 
+
+ 
+
+
+
+Performance and Targets 
+
+Our Retail Division uses NPS (via the RateIt Platform) and Customer Satisfaction Index of Singapore (“CSISG”)9 as 
+
+performance rating systems. In FY2021, we achieved +73 points for our NPS, which was affected by the closure of our 
+
+two Singapore stores during the Circuit Breaker from April to June 2020 and below the target set in FY2020. We remain 
+
+committed to delivering exceptional service and have set out our targets for the forthcoming year in Figure 13 below. 
+
+Figure 13: FY2021 Targets for Customer Satisfaction, Results and Future Plans 
+
+Target for 
+
+FY2021 
+
+Results for 
+
+FY2021 
+
+Performance and Actions 
+
+Taken in Reporting Year 
+
+Target for 
+
+FY2022 
+
+Future Plans 
+
+Customer Satisfaction Index of Singapore (“CSISG”) 
+
+Continue working with 
+
+RateIt vendor to better 
+
+identify development 
+
+areas such as: 
+
+ 
+
+Improving product 
+
+range/availability 
+
+e.g. Expanded 
+
+Home &amp; Lifestyle 
+
+and Fashion 
+
+ 
+
+ 
+
+Continuous 
+
+monitoring of NPS 
+
+scores to quickly 
+
+identify and fix 
+
+lapses 
+
+ 
+
+To achieve 
+
+3rd place or 
+
+better in the 
+
+Retail sector  
+
+5th 
+
+place 
+
+ 
+
+ 
+
+Expanded online presence to 
+
+include Metro Shopee Mall, 
+
+to complement existing 
+
+Metro.com.sg and Metro 
+
+LazMall 
+
+To achieve 3rd 
+
+place or better in 
+
+the Retail sector 
+
+Net Promoter Score (“NPS”)10 
+
++85 points 
+
++73 
+
+points 
+
+ 
+
+ 
+
+NPS took a hit during Circuit 
+
+Breaker with store closures 
+
+from April to June 2020 
+
+ 
+
+We observed reluctance for 
+
+shoppers to touch surfaces 
+
+given COVID-19 and worked 
+
+with RateIt to generate QR 
+
+codes for contactless rating 
+
+since September 2020 
+
+ 
+
++85 points 
+
+ 
+
+“Mari is knowledgeable and very helpful. Such attentive and patient client-centric 
+
+frontline staff is not often experienced in department stores. Congrats.” 
+
+Feedback received at Metro Paragon via RateIt on 12 March 2021 
+
+ 
+
+ 
+
+“Cashiers are very slow.” 
+
+Feedback received at Metro Woodlands via RateIt on 3 July 2020 
+
+ 
+
+Metro’s Response: We have reviewed our service levels and will focus on demand spikes during peak periods, 
+
+including Christmas season and Chinese New Year. 
+
+ 
+
+9 The Customer Satisfaction Index of Singapore (“CSISG”) computes customer satisfaction scores at the national, sector, sub-sector, and company 
+
+levels. CSISG is an annual quantitative benchmark of the quality of goods and services produced by the Singapore economy over time and across 
+
+the country. 
+
+10 NPS results for shortened period from July 2020 to March 2021, as stores were closed during Circuit Breaker from April to June 2020. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+20 
+
+ 
+
+
+
+Excellent Service Award (“EXSA”) – Retail 
+
+Metro participates in EXSA (Retail) yearly. Employees 
+
+are required to fulfil three customer service criteria: (1) 
+
+number of compliments received, (2) internal and 
+
+external service-related awards received, and (3) clock a 
+
+minimum of 3.5 hours of service skills training. 
+
+In FY2021, a total of 14 recipients (10 Gold Awards and 
+
+four  Silver Awards) were conferred the awards for their 
+
+excellent service. In FY2022, we have nominated 15 
+
+associates for the EXSA award. Results of EXSA 2021 will 
+
+be announced in the subsequent Sustainability Report. 
+
+ 
+
+3.3 Health and Safety of Our Stakeholders 
+
+Our Employees 
+
+China (Property Division) 
+
+Policies and Practices 
+
+Our China (Property Division) policies are formulated in accordance with regional and national laws. We align our 
+
+safety management systems to international standards such as ISO 45001:2018 International Standards (previously 
+
+OHSAS 18001). While GIE Tower in Guangzhou is not directly managed by Metro, stringent Occupational Health and 
+
+Safety (“OHS”) expectations are conveyed to our property manager CBRE. 
+
+The OHS Committee maintains oversight on workplace safety and health. As part of employee induction, new-hires 
+
+are required to understand and acknowledge the guidelines set out in this policy. Third-party contractors are required 
+
+to sign-off prior to the commencement of their work. 
+
+Safety is a shared responsibility. The various departments conduct regular risk assessments to identify and rectify 
+
+potential hazards. Employees can highlight to their supervisors immediately or via the Group Corporate Office in 
+
+Singapore on any breach of OHS policy and are encouraged to exercise vigilance in the prevention of all unsafe acts. 
+
+In FY2021, Metro Shanghai signed the FY2021 Safety Work Responsibility Pledge, with its local joint venture partner 
+
+Shanghai Xujiahui Centre (Group) Co. Ltd. This pledge affirmed Metro Shanghai’s commitments, plans and disclosed 
+
+targets for a safer workplace for all stakeholders. Submission is done on an annual basis and the Group discusses our 
+
+approach on training topics such as identification and mitigation of workplace risks and how to mitigate them. It also 
+
+details frequency and focus areas for security checks. 
+
+Internal audits are conducted twice a year and external audits are done annually in accordance with ISO 45001:2018 
+
+International Standards (previously OHSAS 18001). In FY2021, there were no non-compliance incidents raised during 
+
+the external audit. 
+
+CBRE manages OHS at GIE Tower in Guangzhou in a similar manner. All CBRE employees are required to adhere to 
+
+health and safety guidelines listed in the Employee Handbook. CBRE provides insurance coverage on workplace injuries, 
+
+introduce health and wellness initiatives such as annual health screenings, health talks, hiking and other sports 
+
+activities to employees. Injury rates are reported annually to the Ministry of Human Resources and Social Security of 
+
+the People’s Republic of China and we remain committed to our perpetual target of zero safety incidents. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+21 
+
+ 
+
+
+
+Performance and Targets 
+
+Material Aspect 
+
+Perpetual Target 
+
+Performance for FY2021 
+
+Occupational Health and 
+
+Safety 
+
+Zero fatality rate, injury rate, occupational 
+
+disease rate and lost day rate for employees 
+
+Achieved 
+
+ 
+
+In FY2021, we had zero fatalities, occupational diseases and workplace injuries, similar to prior years. 
+
+ 
+
+Figure 14: Occupational Health and Safety Statistics for China (Property Division) 
+
+China  
+
+(Property Division) 
+
+FY2020 
+
+FY2021 
+
+Male 
+
+Female 
+
+Total 
+
+Male 
+
+Female 
+
+Total 
+
+Number of Injuries 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Injury Rate (“IR”)11 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Lost day rate (“LDR”)12 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+0 
+
+Absentee Rate (“AR”)13 
+
+0.20% 
+
+2.52% 
+
+0.98% 
+
+0.47% 
+
+2.35% 
+
+1.11% 
+
+ 
+
+Singapore (Corporate and Retail Division) 
+
+Policies and Practices 
+
+We endeavour to provide all employees with a safe and healthy work environment. The Workplace Safety and Health 
+
+(“WSH”) Chairman oversees the Retail Division’s WSH matters and is supported by committee members who are 
+
+representatives of our Metro stores, Head Office of Retail and the Branch Union. Collectively, this committee is 
+
+responsible for establishing and maintaining safety and health initiatives and programmes at the workplace. While 
+
+representatives from Corporate are not part of this committee, they ensure compliance at the Corporate office. 
+
+Retail Division’s WSH policy outlines our commitment and approach towards WSH and is developed in accordance 
+
+with the WSH Act stipulated by the Ministry of Manpower (“MOM”). Roles and responsibilities have been clearly 
+
+detailed within this document, which guides employees on carrying out risk assessments, guidance on inspection and 
+
+reporting procedures. All employees across our business operations and third-party workers are required to adhere 
+
+to the policy and practices. 
+
+ 
+
+Figure 15: Retail Division's WSH Committee  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+All new employees will be given a Safe Work handbook as part of induction, which outlines expected safe work 
+
+practices and reporting channels. Monthly, our WSH Committee conducts workplace inspections, ensuring that health 
+
+and safety risks are recorded, and measures remain relevant. Regular WSH talks are organised to inculcate a safety 
+
+ 
+
+11 Injury Rate is calculated as the total number of fatal and non-fatal workplace injuries per 100,000 employees, as defined by the Ministry of 
+
+Manpower (“MOM”) in Singapore. 
+
+12 Lost Day Rate is calculated as the number of man days lost to workplace accidents per 1,000,000 man-hours worked, as defined by MOM in 
+
+Singapore. We have used MOM’s formulas to calculate safety statistics which ensures consistency and comparability between China and 
+
+Singapore. 
+
+13 Absentee Rate is the total absentee days lost, relative to the total days scheduled to be worked by the employees in the reporting period, 
+
+expressed as a percentage, as defined by the GRI Standards. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+22 
+
+ 
+
+
+
+culture among our employees. We also advocate a healthy lifestyle. Details of our initiatives are showcased in the case 
+
+studies on pages 22-23. 
+
+ 
+
+ 
+
+Case Study: Safeguarding Against the Global COVID-19 Pandemic 
+
+Metro works closely with the public health authorities in managing the impact of COVID-19 pandemic on its 
+
+properties, staff, tenants and visitors, and taking the necessary precautionary measures. These measures are 
+
+progressively strengthened where required and developed in line with the Multi-Ministry Taskforce’s advisories. 
+
+ 
+
+Metro continues to adopt the latest Safe Management Measures (“SMM”): 
+
+• 
+
+Shorter operating hours during phase 1/2/3 reopening when work from home (“WFH”) remained as default 
+
+• 
+
+For job functions that were not able to WFH, staff were organized in teams to ensure optimal floor coverage 
+
+• 
+
+Employed technology for submission of daily temperature reading and health/travel declaration 
+
+• 
+
+Several channels of communication were utilised to ensure staff are updated with latest COVID-19 SMM, 
+
+which include emails, memo, App announcements and MetroNews in-house newsletter 
+
+• 
+
+20 single use surgical masks were issued to each associates every month 
+
+• 
+
+In addition to the “Do not sit” markings on tables and chairs, acrylic plastic dividers were put up at tables in 
+
+the canteens to ensure safe-distancing 
+
+• 
+
+Regular refreshing of posters, one-meter markings of safe distancing signage, hand &amp; surface sanitisers, and 
+
+regular cleaning and disinfection of work surfaces and common areas by both associates and cleaners etc 
+
+• 
+
+Regular inspections by the team of Safe Management Officers 
+
+ 
+
+ 
+
+L to R: Acrylic Plastic Dividers at Staff Pantry and One-Meter Markings for Safe Distancing to the Fitting Room 
+
+
+
+
+
+L to R: One Meter Markings for Safe Distancing to the Cashier Counter 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+23 
+
+ 
+
+
+
+Case Study: Workplace Safety and Health 
+
+The frequency of WSH inspections, meetings and training has been increased from bi-monthly to monthly since 
+
+January 2021. The step up in the frequency is necessary as we are operating our own warehousing and logistic 
+
+services. Risk assessments were also reviewed and updated. 
+
+ 
+
+ 
+
+ 
+
+Case Study: Certificate In Retail (Operations) 
+
+10 associates underwent the rigorous 3-months course, totalling 900 training hours, which they have successfully 
+
+completed and were awarded the Certificate in Retail (Operations). To encourage acquisition of knowledge and 
+
+upskilling, associates were rewarded with salary adjustment. 
+
+ 
+
+The programme equipped these associates with a better understanding of current and emerging retail technology 
+
+that are critical operational skills to providing customer-centric business excellence, product and service innovation 
+
+at work. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for FY2021 
+
+Performance for FY2021 
+
+Target for FY2022 
+
+Occupational 
+
+Health and Safety 
+
+Reduce number of lost days due 
+
+to work-related injuries and 
+
+illness by 10% 
+
+27% decrease in 
+
+lost days 
+
+recorded 
+
+ 
+
+Reduce number of lost 
+
+days due to work-related 
+
+injuries and illness by 10% 
+
+against FY2021 
+
+ 
+
+In FY2021, we achieved zero fatalities and zero occupational diseases for both employees and third-party workers. 
+
+There were three incidents versus four incidents which happened in FY2020. Corrective actions have been promptly 
+
+
+
+
+
+
+
+
+
+L to R: Inspection of First Aid Box, Inspection of Store Room and Training: Work At Height 
+
+L to R: Experiential Learning and Problem-Solving 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+24 
+
+ 
+
+
+
+implemented to prevent reoccurrences. The Injury Rate (“IR”) and Lost Day Rate (“LDR”) have decreased. For FY2022, 
+
+we maintain our commitment towards reducing the number of lost days by 10% and strive towards a zero-incident 
+
+work environment. 
+
+Figure 16: Occupational Health and Safety Statistics for Singapore (Corporate and Retail Division) 
+
+Singapore  
+
+(Corporate and Retail Division) 
+
+FY2020 
+
+FY2021 
+
+Male 
+
+Female 
+
+Total 
+
+Male 
+
+Female 
+
+Total 
+
+Number of Injuries 
+
+0 
+
+4 
+
+4 
+
+1 
+
+2 
+
+3 
+
+Injury Rate (“IR”)14 
+
+0 
+
+2,010 
+
+1,533 
+
+1,667 
+
+1,105 
+
+1,245 
+
+Lost day rate (“LDR”)15 
+
+0 
+
+63 
+
+47 
+
+8 
+
+47 
+
+37 
+
+Absentee Rate (“AR”)16 
+
+1.99% 
+
+1.75% 
+
+1.81% 
+
+0.97% 
+
+1.50% 
+
+1.37% 
+
+ 
+
+Figure 17: Summary of Injury Cases for FY2021 
+
+FY2021 
+
+Number of Injuries 
+
+Description of Injuries 
+
+Corrective Measures 
+
+Male 
+
+Female 
+
+Employees 
+
+1 
+
+2 
+
+1. Employee cut index finger 
+
+1. Re-visit Safety Handbook on use of 
+
+penknife 
+
+2. Employee cut pinkie finger 
+
+2. Re-visit Safety Handbook on use of 
+
+penknife 
+
+3. Employee thumb caught between 
+
+fixtures 
+
+3. Reminder on safety when moving fixtures 
+
+ 
+
+ 
+
+ 
+
+Our Tenants, Customers and Visitors 
+
+China (Property Division) 
+
+Policies and Practices 
+
+More than one year into the COVID-19 pandemic, Metro continues to enforce enhanced measures to combat COVID-
+
+19, including the controlled entry and exit of our China properties, with temperature screening and mask checks as a 
+
+prerequisite for entry. We implemented increased cleaning frequency of toilets, elevators, escalator and public spaces. 
+
+The business hours of Metro City have reverted to normal in line with government regulations and will adjust 
+
+accordingly as the pandemic evolves. 
+
+ 
+
+14 Injury Rate is calculated as the total number of fatal and non-fatal workplace injuries per 100,000 employees, as defined by the Ministry of 
+
+Manpower (“MOM”) in Singapore. 
+
+15 Lost Day Rate is calculated as the number of man days lost to workplace accidents per 1,000,000 man-hours worked, as defined by MOM in 
+
+Singapore. 
+
+16 Absentee Rate is the total absentee days lost, relative to the total days scheduled to be worked by the employees in the reporting period, 
+
+expressed as a percentage, as defined by the GRI Standards. 
+
+
+ 
+
+ 
+
+ 
+
+25 
+
+ 
+
+
+
+ 
+
+ 
+
+In Shanghai, we have a dedicated Facility Management (“FM”) team that maintains oversight on safety and health of 
+
+tenants, consumers and visitors. Proper identification and control of risks is maintained by our risk management 
+
+framework. We have in place a comprehensive business recovery plan to deal with emergencies such as power outages, 
+
+fires, acts of terrorism, outbreak of diseases or natural disasters. It details the actions undertaken to minimise property 
+
+damage and injury. A safer environment for all tenants, consumers and visitors at Metro City has been created as a 
+
+result of our recently upgraded escalators that have significantly lowered incidents. 
+
+At GIE Tower in Guangzhou, CBRE also has in place a similar set of Standard Operating Procedures (“SOP”) to manage 
+
+health and safety of all stakeholders. CBRE’s client service team handles feedback raised from tenants and customers 
+
+and carries out various practices and initiatives on an ongoing basis across our properties as listed below. 
+
+Figure 18: Managing Customer Health and Safety in Property 
+
+Temperature screening and visitor 
+
+registration on entry to Metro City, 
+
+Metro Tower and GIE Tower 
+
+Conduct emergency drills with 
+
+tenants, staff and visitors, including 
+
+COVID-19, fire, terrorism etc 
+
+Compliance with directives and 
+
+guidelines by the local 
+
+governments 
+
+Increased disinfection and cleaning 
+
+of common areas to prevent spread 
+
+of COVID-19 and other diseases 
+
+Training staff on the procedure if 
+
+someone is suspected to have 
+
+COVID-19 (designated exit route) 
+
+Daily security briefings and on-
+
+premises inspections 
+
+ 
+
+In support of local regulations, Metro Shanghai has been actively promoting vaccination amongst its employees and 
+
+achieved a 95% first-dose vaccination rate within two weeks. As of 30 June 2021, 100% of Metro Shanghai staff have 
+
+received both doses, with the next target to promote the vaccine to the wider group of Metro merchants and tenants. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+L to R: Registration of Metro City, Shanghai visitors using their mobile devices, Temperature screening at entrances 
+
+
+
+
+
+
+
+
+
+L to R: Metro Shanghai vaccination registration, Metro Shanghai employees queuing for their first dose 
+
+
+ 
+
+ 
+
+ 
+
+26 
+
+ 
+
+
+
+Performance and Targets 
+
+Material Aspect 
+
+Performance for FY2021 
+
+Perpetual Target 
+
+Health and Safety of Stakeholders 
+
+Achieved 
+
+ 
+
+Zero incidents of non-compliance 
+
+with regulations and voluntary 
+
+codes concerning health and safety 
+
+impacts of products and services 
+
+ 
+
+Our Property Division in China aims to maintain this performance in the future. 
+
+ 
+
+Singapore (Corporate and Retail Division) 
+
+Policies and Practices 
+
+Our goal is to provide a safe and healthy environment for all our customers and vendors. At our retail stores, health 
+
+and safety risks are continually assessed as stipulated by our Retail WSH Policy. Managers and supervisors conduct 
+
+daily floor walks to identify, evaluate and record potential risks. We have also engaged a part-time Safety Officer to 
+
+conduct WSH talks across our two stores and Corporate office. Topics covered range from fire safety, safe use of a 
+
+ladder/working at heights, proper posture for lifting heavy objects to dealing with COVID-19 evacuation procedures, 
+
+terrorist/bomb threats and fire safety. 
+
+The respective branch managers and the WSH Committee process feedback relating to premises’ health and safety 
+
+and target to resolve all complaints within three working days. Regular WSH meetings are held to review findings from 
+
+daily inspections and handle complaints. Real cases will be used as examples to teach and inform employees. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Performance for FY2021 
+
+Perpetual Target 
+
+Health and Safety of Stakeholders 
+
+Achieved 
+
+ 
+
+Zero incidents of non-compliance 
+
+with regulations and voluntary 
+
+codes concerning health and safety 
+
+impacts of products and services 
+
+ 
+
+We strive to maintain this performance going forward. 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+27 
+
+ 
+
+
+
+4.0 ENVIRONMENT 
+
+4.1 Energy Usage and Associated Greenhouse Gas (“GHG”) Emissions 
+
+Given the growing importance of climate change and the reduction of greenhouse emissions, energy conservation 
+
+efforts are central to Metro’s operations. We are able to manage our carbon footprint through efficient energy usage 
+
+and regular monitoring, even though most of Metro’s energy usage across our Retail and Property Divisions arise from 
+
+our tenants, shoppers and the community. 
+
+ 
+
+China (Property Division) 
+
+Policies and Practices 
+
+Our China properties comply with all applicable environmental standards. Metro City, Shanghai has been identified as 
+
+a key building for energy usage17. Since FY2018, Metro City, Shanghai has committed to the Xuhui District Energy 
+
+Conservation Target (“XDECT”), which guides the adoption of specific environmental targets and training. In FY2021, 
+
+we registered a total energy consumption of 2,445 tonnes of standard coal equivalent18 (“TCE”) per building per 
+
+annum, achieving our target. 
+
+In Guangzhou, energy consumption at GIE Tower is monitored by the Operations Team and reported to CBRE’s head 
+
+office annually. While there are no provincial targets in Guangzhou, CBRE ensures that the property complies with all 
+
+applicable environmental rules and legislations. Automatic energy-efficient lighting and central air-conditioning have 
+
+been introduced to conserve energy and reduce GHG emissions. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for FY2021 
+
+Performance for FY2021 
+
+Target for FY2022 
+
+Energy 
+
+Consumption 
+
+Maintain total energy 
+
+consumption for Metro City, 
+
+Shanghai below 3,100 TCE 
+
+(90,830 gigajoules “GJ”) limit 
+
+Metro City, 
+
+Shanghai 
+
+consumed 2,445 
+
+TCE (71,639 GJ) 
+
+ 
+
+Maintain total energy 
+
+consumption to be below 
+
+3,100 TCE (90,830 GJ) 
+
+Annual reporting to CBRE Head 
+
+Office for GIE Tower, Guangzhou 
+
+Achieved 
+
+ 
+
+Annual reporting to CBRE 
+
+Head Office for GIE Tower 
+
+ 
+
+In FY2021, total energy consumption for our 
+
+three China properties totalled 110,783 GJ, a 
+
+12.8% decrease in total energy consumption 
+
+from 127,100 GJ in FY2020 due to more efficient 
+
+electrical usage. Our FY2021 total energy 
+
+consumption figure comprises entirely of 
+
+purchased electricity (Figure 19), with zero 
+
+diesel oil fuel consumption by Metro Tower, 
+
+Shanghai from FY2021 onwards (Figure 20), as 
+
+the diesel boiler was upgraded to a more 
+
+efficient electrical heat pump. 
+
+ 
+
+ 
+
+17 Metro Tower, Shanghai has been classified as a low energy consumption building as total energy consumption does not exceed 1,000 TCE 
+
+(29,308 GJ). It is excluded from the XDECT. Energy consumption for FY2021 is 647 TCE (18,971 GJ). 
+
+18 TCE is a unit representing energy generated by burning one metric ton of coal which is equivalent to 29.3 GJ or 8.1 MWh. Conversion was 
+
+done at https://www.convert-me.com/en/convert/energy/tce.html?u=tce&amp;v=1 
+
+
+
+
+
+Year 
+
+Fuel 
+
+Consumption 
+
+(GJ) 
+
+Purchased 
+
+Electricity 
+
+(GJ) 
+
+Total Energy 
+
+Consumption in 
+
+China (GJ) 
+
+FY2020 
+
+2,989 
+
+124,111 
+
+127,100 
+
+FY2021 
+
+0 
+
+110,783 
+
+110,783 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+28 
+
+ 
+
+
+
+Figure 19: Electricity Consumption &amp; intensity and Energy Indirect (Scope 2) GHG Emissions19 &amp; intensity for China Property 
+
+ 
+
+In addition to electricity at Metro Tower, Shanghai, diesel oil fuel was consumed to power boilers to supply hot water 
+
+to the Heating, Ventilation and Air-Conditioning (“HVAC”) system in prior years. In FY2021, we saw a significant 
+
+decrease from 2,989 to 0 GJ in diesel oil used (Figure 20), as the diesel boiler was upgraded to a more efficient electrical 
+
+heat pump and whose electrical usage is captured in Figure 19 above. A corresponding decrease is also recorded in 
+
+Scope 1 GHG emissions and emission intensity. 
+
+ 
+
+Figure 20: Fuel Consumption &amp; Intensity and Direct (Scope 1) GHG Emissions20 &amp; Intensity for China Property 
+
+ 
+
+ 
+
+ 
+
+ 
+
+19 The latest emission factors for China were obtained from 2017 National Grid Emission Factors published by Ministry of Ecology and 
+
+Environment of the People's Republic of China. Global warming potential (“GWP”) were derived from 2019 Refinement to the 2006 
+
+Intergovernmental Panel on Climate Change (“IPCC”) Guidelines for National Greenhouse Gas Inventories. 
+
+20 GHG emission factors and GWP were derived from the 2019 Refinement to the 2006 IPCC Guidelines for National Greenhouse Gas Inventories. 
+
+2,989
+
+0
+
+18.4
+
+0.0
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+0
+
+500
+
+1,000
+
+1,500
+
+2,000
+
+2,500
+
+3,000
+
+3,500
+
+4,000
+
+FY2020
+
+FY2021
+
+Direct Energy Intensity (kJ/m2)
+
+Direct Energy Consumption (Gj) 
+
+Direct Energy Consumption
+
+Energy Intensity
+
+222
+
+0
+
+1.36
+
+0.00
+
+0.0
+
+0.5
+
+1.0
+
+1.5
+
+2.0
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+FY2020
+
+FY2021
+
+Direct (Scope 1) GHG Emissions 
+
+(kg CO2/m2)
+
+Direct (Scope 1) GHG Emissions (tonnes CO2)
+
+Energy Direct (Scope 1) GHG Emissions
+
+Emission Intensity
+
+-100%
+
+-100% 
+
+27,953
+
+24,940
+
+171.7
+
+153.2
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+0
+
+5,000
+
+10,000
+
+15,000
+
+20,000
+
+25,000
+
+30,000
+
+FY2020
+
+FY2021
+
+Energy Indirect (Scope 2) GHG Emissions 
+
+Intensity (kg CO2/m2)
+
+Energy Indirect (Scope 2) GHG Emissions 
+
+(tonnes CO2)
+
+Energy Indirect (Scope 2) GHG Emissions
+
+Emission Intensity
+
+-11%
+
+124,111
+
+110,783
+
+0.762
+
+0.680
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+1
+
+0
+
+20,000
+
+40,000
+
+60,000
+
+80,000
+
+100,000
+
+120,000
+
+140,000
+
+FY2020
+
+FY2021
+
+Electricity Intensity (GJ/m2)
+
+Electricity Consumption (GJ)
+
+Electrical Energy Consumption
+
+Energy Intensity
+
+-11%
+
+
+ 
+
+ 
+
+ 
+
+29 
+
+ 
+
+
+
+Singapore (Corporate and Retail Division)21 
+
+Policies and Practices 
+
+In our Singapore Corporate and Retail Divisions, we are located within rented properties and thus have limited control 
+
+on energy management. We purchase electricity from the grid and no fuel is utilised. As such, we ensure efficient 
+
+energy usage and remind employees to adopt eco-friendly habits and conserve resources, where possible. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Target for FY2021 
+
+Performance for FY2021 
+
+Target for FY2022 
+
+Energy 
+
+Consumption 
+
+Aim to maintain/reduce 
+
+electricity consumption by 
+
+considering the use of energy-
+
+saving options in future 
+
+refurbishment works such as 
+
+energy saving LED bulbs 
+
+Decrease in 
+
+electricity 
+
+consumption 
+
+ 
+
+Aim to maintain/reduce 
+
+electricity consumption by 
+
+considering the use of 
+
+energy-saving options in 
+
+future refurbishment 
+
+works such as energy 
+
+saving LED bulbs 
+
+ 
+
+This year we recorded a 18% year-on-year decrease in electricity consumed in FY2021 to 1,757 MWh of purchased 
+
+electricity (translating to 6,325 GJ) due to store closures during the Circuit Breaker from April to June 2020 and the 
+
+shortening of operating hours from July 2020 onwards, brought about by COVID-19 pandemic. Similarly, on a per m2 
+
+basis, electricity intensity went down by 20%. 
+
+ 
+
+Figure 21: Total Energy Consumption &amp; Intensity and Energy Indirect (Scope 2) GHG Emissions &amp; Intensity for Singapore Retail22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+21 Performance data does not include Singapore (Corporate Division) since its output is not material when compared to Retail. 
+
+22 For a meaningful comparison, we have omitted Metro Centrepoint from FY2020 figures. Emission factors used in calculation of carbon 
+
+emissions for Singapore are derived from “2019 Singapore Energy Statistics”, published by the Energy Market Authority of Singapore in 2019. 
+
+
+
+7,730
+
+6,325
+
+0.63
+
+0.51
+
+0
+
+0.2
+
+0.4
+
+0.6
+
+0.8
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+7,000
+
+8,000
+
+9,000
+
+FY2020
+
+FY2021
+
+Electricity Intensity (GJ/m2)
+
+Total Energy Consumption (GJ)
+
+Electrical Energy Consumption
+
+Energy Intensity
+
+-18%
+
+899
+
+718
+
+72.8
+
+58.1
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+0
+
+200
+
+400
+
+600
+
+800
+
+1,000
+
+1,200
+
+1,400
+
+1,600
+
+1,800
+
+2,000
+
+FY2020
+
+FY2021
+
+Energy Indirect (Scope 2) GHG 
+
+Emissions Intensity (kg CO2/m2)
+
+Energy Indirect (Scope 2) GHG 
+
+Emissions (tonnes CO2)
+
+Energy Indirect (Scope 2) GHG Emissions
+
+Emission Intensity
+
+-20%
+
+
+ 
+
+ 
+
+ 
+
+30 
+
+ 
+
+
+
+5.0 SUSTAINABLE GROWTH 
+
+5.1 Economic Performance 
+
+Metro aims to be a leading property investment and development group in the region, building on the synergies of 
+
+our rich retail experience, strong foothold in our core markets, and our strategic partnerships. Group turnover for the 
+
+financial year to 31 March 2021 (“FY2021”) decreased to S$97.3 million from S$210.3 million in the previous year 
+
+(“FY2020”) as the property division recognised lower revenue of S$17.9 million in FY2021 as compared to S$95.2 
+
+million in FY2020 from the sale of property rights of the residential development properties in Bekasi and Bintaro, 
+
+Jakarta, largely impacted by the ongoing COVID-19 pandemic. Revenue from GIE Tower, Guangzhou, increased 
+
+marginally from S$6.2 million in FY2020 to S$6.6 million in FY2021. 
+
+The retail division also reported lower sales from S$108.9 million in FY2020 to S$72.8 million in FY2021 mainly due to 
+
+closure of Metro Centrepoint in October 2019 upon lease expiry as well as lower sales in the departmental stores in 
+
+Singapore from the closures of retail stores during circuit breaker and Phase One from 7 April 2020 to 18 June 2020, 
+
+arising from the COVID-19 pandemic. While 75% of revenue in FY2021 is contributed by the Retail Division, the majority 
+
+of our profits are generated through our joint ventures and associates in the Property Division. 
+
+ 
+
+Figure 22: Revenue from Retail and Property Division 
+
+ 
+
+As we maintain our balanced portfolio of investment and development assets, we explore regional countries for 
+
+diversification. The Group leverages on strategic alliances with existing and new partners to broaden our asset base 
+
+and geographical spread. 
+
+ 
+
+Property Investment and Development 
+
+PROPERTY REVENUE (S$’000) 
+
+The Property Division’s revenue decreased by S$76.8 million to 
+
+S$24.6 million in FY2021 from S$101.4 million in FY2020, mainly 
+
+from the lower sale of property rights of the residential 
+
+development properties in Bekasi and Bintaro, Jakarta, largely 
+
+impacted by the ongoing COVID-19 pandemic. Revenue from GIE 
+
+Tower, Guangzhou, increased marginally by S$0.4 million to S$6.6 
+
+million in FY2021. This excludes Metro City and Metro Tower, our 
+
+60%-owned joint ventures in Shanghai, in which equity accounting 
+
+is being adopted. 
+
+ 
+
+ 
+
+108.9 
+
+72.8 
+
+101.4 
+
+24.6 
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+FY2020
+
+FY2021
+
+Revenue (S$m)
+
+Retail Division
+
+Property Division
+
+97.3
+
+210.3
+
+FY2020
+
+FY2021
+
+24,552
+
+101,396
+
+
+ 
+
+ 
+
+ 
+
+31 
+
+ 
+
+
+
+Retail  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+     RETAIL REVENUE (S$’000) 
+
+Metro’s retail revenue decreased to S$72.8 million in FY2021 
+
+from S$108.9 million in FY2020 mainly due to the closure of 
+
+Metro Centrepoint in October 2019 upon lease expiry as well as 
+
+lower sales in the departmental stores in Singapore from the 
+
+closures of retail stores during the circuit breaker from 7 April 
+
+2020 to 18 June 2020, arising from the COVID-19 pandemic. The 
+
+Group’s online retail business continues to remain operational. 
+
+Delivering the Metro Experience via Metro Online and Metro LazMall 
+
+In compliance with the Singapore Government’s circuit breaker measures, Metro closed all retail stores in Singapore 
+
+from 7 April 2020 to 18 June 2020 for the safety of our staff and customers. The Group’s online businesses at 
+
+https://www.metro.com.sg/ and https://www.lazada.sg/shop/metro/ continue to remain operational. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Profit Before Tax 
+
+PROFIT BEFORE TAX (S$’000) 
+
+The Group’s profit before tax for the year increased to S$47.6 million 
+
+in FY2021 from S$39.7 million in FY2020. Segment results decreased 
+
+to S$22.8 million in FY2021 from S$34.2 million in FY2020 mainly due 
+
+to the absence of divestment gain of S$10.6 million from the 
+
+disposal of the Group’s 50% equity interest in its associate in 
+
+Indonesia, PT Metropolitan Retailmart. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+For more information on our financial performance, please refer to Metro Annual Report 2021. 
+
+
+
+
+
+FY2020
+
+FY2021
+
+47,562
+
+39,731
+
+FY2020
+
+FY2021
+
+72,771
+
+108,858
+
+
+ 
+
+ 
+
+ 
+
+32 
+
+ 
+
+
+
+5.2 Corporate Governance 
+
+Policies and Practices 
+
+Strong corporate governance and business ethics are core to all successful enterprises. Metro prides itself on aligning 
+
+with the industry’s best practices and exceeding stakeholders’ expectations. Our corporate governance framework 
+
+includes policies on responsible business conduct and can be found on pages 57 to 76 of the Metro Annual Report 
+
+2021. 
+
+Our employees are informed of their expected conduct during onboarding and are required to acknowledge our 
+
+Management Integrity Statement. Our whistle-blowing policy encourages the raising of any complaints regarding 
+
+questionable accounting, audit matters, internal controls, unsafe work practices or any other matters involving serious 
+
+breaches of Group policy, corruption and employee misconduct. We have implemented a Lost Control Incentive 
+
+Mechanism in our Retail Division, which provides cash incentives to staff and security personnel for reporting cases of 
+
+internal theft. 
+
+Our set of policies, summarised in Figure 23 below, guides Metro on maintaining the highest standards of fairness, 
+
+integrity and accountability. 
+
+Figure 23: Metro’s Policies and Practices 
+
+Policy 
+
+Description 
+
+Management Integrity 
+
+Statement 
+
+This policy provides a guide on integrity at the workplace, covering topics such as conflicts of 
+
+interest, especially for persons in a position of major responsibility23, so as to avoid situations 
+
+of unintentional infringement of this policy. 
+
+ 
+
+Management associates comprising of managers and executives are required to read and 
+
+acknowledge his / her understanding of the Code of Conduct set forth herein; and 
+
+acknowledgements are kept in their respective personnel files. 
+
+Whistle-Blowing Policy
+
+ 
+
+ 
+
+This policy which is put in place by the Audit Committee allows staff and external parties to 
+
+raise concerns about any possible improprieties in the organisations anonymously so that 
+
+they will be protected from reprisals or victimisation. Arrangements are also put in place for 
+
+independent investigations on cases to be conducted and for appropriate follow up actions 
+
+to be taken. 
+
+Loss Control Incentive 
+
+(Applicable to Retail 
+
+Division only) 
+
+This policy provides cash incentives to staff and security personnel for reporting cases of 
+
+internal theft. 
+
+ 
+
+Performance and Targets 
+
+Material Aspect 
+
+Perpetual Target 
+
+Performance for FY2021 
+
+Anti-corruption 
+
+Zero-tolerance approach towards corruption 
+
+Zero reported cases through 
+
+Whistle-blowing Policy 
+
+ 
+
+Regulatory Compliance  
+
+Zero-tolerance approach towards non-
+
+compliance in socio-economic and 
+
+environmental areas  
+
+Zero cases of non-compliance 
+
+in socio-economic and 
+
+environmental area 
+
+ 
+
+ 
+
+For FY2021, there were no reported cases under our Lost Control Incentive mechanism in our Retail Division. We 
+
+continue to emphasise on honesty and integrity to all employees during sharing sessions at our morning briefing to 
+
+maintain our track record. 
+
+ 
+
+ 
+
+23 For Corporate, persons in position of major responsibility refers to managerial level and above. For Retail Division, it is applicable to supervisory 
+
+level and above. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+33 
+
+ 
+
+
+
+6.0 GRI CONTENT INDEX 
+
+GRI Standard 
+
+Disclosure Reference 
+
+Disclosure 
+
+Section of Report / Reasons for 
+
+Omission 
+
+Page 
+
+Reference 
+
+GRI 102: General Disclosures 2016 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation 
+
+About Us 
+
+1 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+About Us 
+
+1 
+
+102-3 
+
+Location of headquarters 
+
+About Us 
+
+1 
+
+102-4 
+
+Location of operations 
+
+About Us 
+
+1-2 
+
+102-5 
+
+Ownership and legal form 
+
+About Us 
+
+1 
+
+102-6 
+
+Markets served 
+
+About Us 
+
+1-2 
+
+102-7 
+
+Scale of the organisation 
+
+About Us; 
+
+Profile of Our Workforce; 
+
+Economic Performance 
+
+1-2 
+
+10-12 
+
+30-31 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+Profile of Our Workforce 
+
+10-12 
+
+102-9 
+
+Supply chain 
+
+Our Supply Chain 
+
+15 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+About the Report 
+
+There were no significant changes to 
+
+the supply chain in FY2021 
+
+4 
+
+102-11 
+
+Precautionary Principle or 
+
+Approach 
+
+Annual Report 2021 
+
+69-73 
+
+102-12 
+
+External Initiatives 
+
+Not applicable to Metro 
+
+102-13 
+
+Membership of Associations 
+
+Key Memberships of our Retail Division in Singapore 
+
+includes:  
+
+Singapore Retailers Association, Singapore National 
+
+Employer Federation, Singapore Business Federation, 
+
+Global Compact Network Singapore, National Retail 
+
+Federation, Human Capital Partnership and Orchard 
+
+Road Business Association 
+
+ 
+
+Under China (Property Division), we are a member of 
+
+the Shanghai Association for Quality Association.  
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+Board Statement 
+
+5 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, standards, 
+
+and norms of behaviour 
+
+Corporate Governance 
+
+32 
+
+102-17 
+
+Mechanisms for advice and 
+
+concerns about ethics  
+
+Corporate Governance 
+
+32 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Sustainability Governance; 
+
+Annual Report 2021 
+
+9 
+
+60-63 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+Annual Report 2021 
+
+23-29, 60-63 
+
+102-23 
+
+Chair of the highest governance 
+
+body 
+
+ 
+
+Annual Report 2021 
+
+63 
+
+
+ 
+
+ 
+
+ 
+
+34 
+
+ 
+
+
+
+GRI Standard 
+
+Disclosure Reference 
+
+Disclosure 
+
+Section of Report / Reasons for 
+
+Omission 
+
+Page 
+
+Reference 
+
+102-24 
+
+Nominating and selecting the 
+
+highest governance body 
+
+Annual Report 2021 
+
+64-66 
+
+102-25 
+
+Conflicts of interest 
+
+Annual Report 2021 
+
+57, 59-63 
+
+102-26 
+
+Role of Highest Governance 
+
+Body in Setting Purpose, Values 
+
+and Strategy 
+
+Board Statement; 
+
+Sustainability Governance; 
+
+Corporate Governance; 
+
+Annual Report 2021 
+
+5 
+
+9 
+
+32 
+
+57-63 
+
+102-27 
+
+Collective knowledge of 
+
+Highest Governance Body 
+
+Annual Report 2021 
+
+57-63 
+
+102-28 
+
+Evaluating the Highest 
+
+Governance Body 
+
+Annual Report 2021 
+
+63-66 
+
+102-29 
+
+Identifying and Managing 
+
+Sustainability Impacts 
+
+Board Statement 
+
+5 
+
+102-30 
+
+Effectiveness of Risk 
+
+Management Processes 
+
+Annual Report 2021 
+
+69-73 
+
+102-32 
+
+Highest governance body’s role 
+
+in sustainability reporting 
+
+Board Statement; 
+
+Sustainability Governance 
+
+5 
+
+9 
+
+102-35 
+
+Remuneration Policies 
+
+Annual Report 2021 
+
+67-69 
+
+102-36 
+
+Process for Determining 
+
+Remuneration 
+
+Annual Report 2021 
+
+67-69 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+6-7 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+Singapore (Corporate and Retail Division) 
+
+56% of employees in Singapore are covered under 
+
+collective bargaining agreements. 
+
+ 
+
+China (Property Division)  
+
+100% of employees in China are covered under 
+
+collective bargaining agreements. 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+6-7 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+6-7 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+6-7 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Annual Report 2021 
+
+159-167 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+About the Report 
+
+4 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+8-9 
+
+102-48 
+
+Restatements of information 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+ 
+
+102-49 
+
+Changes in reporting 
+
+Not applicable 
+
+102-50 
+
+Reporting period 
+
+1 April 2020 – 31 March 2021 
+
+102-51 
+
+Date of most recent report 
+
+Sustainability Report 2020 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+About the Report 
+
+4 
+
+
+ 
+
+ 
+
+ 
+
+35 
+
+ 
+
+
+
+GRI Standard 
+
+Disclosure Reference 
+
+Disclosure 
+
+Section of Report / Reasons for 
+
+Omission 
+
+Page 
+
+Reference 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+About the Report 
+
+4 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+33-37 
+
+102-56 
+
+External assurance 
+
+About the Report 
+
+4 
+
+ 
+
+ 
+
+Material Matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+Economic Performance 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Economic Performance 
+
+30-31 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Economic Performance 
+
+30-31 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+Annual Report 2021 
+
+85-92 
+
+Energy Usage and Associated GHG Emissions 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+GRI 302: Energy 
+
+2016 
+
+302-1 
+
+Energy consumption within 
+
+the organisation 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+302-3 
+
+Energy intensity 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+GRI 305: Emissions 
+
+2016 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+Emissions 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+305-4 
+
+GHG emissions intensity 
+
+Energy Usage and Associated GHG 
+
+Emissions 
+
+27-29 
+
+Health and Safety of Our Stakeholders 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+GRI 403: 
+
+Occupational 
+
+Health and Safety 
+
+2018 
+
+ 
+
+403-1 
+
+Occupational health and 
+
+safety management system 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-2 
+
+Hazard identification, risk 
+
+assessment, and incident 
+
+investigation 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-3 
+
+Occupational health 
+
+services 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+
+ 
+
+ 
+
+ 
+
+36 
+
+ 
+
+
+
+Material Matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+403-4 
+
+Worker participation, 
+
+consultation, and 
+
+communication on 
+
+occupational health and 
+
+safety 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-5 
+
+Worker training on 
+
+occupational health and 
+
+safety 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-6 
+
+Promotion of worker health 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-7 
+
+Prevention and mitigation 
+
+of occupational health and 
+
+safety impacts directly 
+
+linked by business 
+
+relationships 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+403-9 
+
+Work-related injuries  
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+GRI 416: Customer 
+
+Health and Safety 
+
+2016 
+
+416-2 
+
+Incidents of non-
+
+compliance concerning the 
+
+health and safety impacts 
+
+of products and services 
+
+Health and Safety of Our 
+
+Stakeholders 
+
+20-26 
+
+Customer Satisfaction 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Customer Satisfaction 
+
+15-20 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Customer Satisfaction 
+
+15-20 
+
+Talent Management and Development 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Talent Management and 
+
+Development 
+
+12-14 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Talent Management and 
+
+Development 
+
+12-14 
+
+GRI 404: Training 
+
+and Education 
+
+2016 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+Talent Management and 
+
+Development 
+
+12-14 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular 
+
+performance and career 
+
+development reviews 
+
+Talent Management and 
+
+Development 
+
+12-14 
+
+Corporate Governance 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Materiality Assessment 
+
+8-9 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Corporate Governance 
+
+32 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Corporate Governance 
+
+32 
+
+
+ 
+
+ 
+
+ 
+
+37 
+
+ 
+
+
+
+Material Matters 
+
+GRI Standard Disclosure 
+
+Reference 
+
+Disclosure 
+
+Section of Report 
+
+Page 
+
+Reference 
+
+GRI 205: Anti-
+
+Corruption 2016  
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions 
+
+taken 
+
+Corporate Governance 
+
+32 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 2016 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Corporate Governance 
+
+32 
+
+GRI 419: 
+
+Socioeconomic 
+
+Compliance 2016 
+
+419-1 
+
+Non-compliance with laws 
+
+and regulations in the social 
+
+and economic area 
+
+Corporate Governance 
+
+32 
+
+ 
+

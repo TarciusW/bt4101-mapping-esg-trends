@@ -1,0 +1,3068 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+Contents  
+
+ 
+
+ 
+
+Page 
+
+Board statement  
+
+ 
+
+1 
+
+Reporting framework 
+
+1 
+
+Reporting period and scope 
+
+1 
+
+Feedback 
+
+1 
+
+Stakeholder engagement 
+
+1 - 2 
+
+Policy, practice and performance reporting 
+
+2 - 3 
+
+Material factors 
+
+3 - 11 
+
+Target setting 
+
+11 
+
+GRI content index 
+
+12 - 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 1 
+
+ 
+
+1. 
+
+Board statement 
+
+ 
+
+We affirm our commitment to sustainability with the publication of our maiden sustainability report (“Report”) 
+
+guided by the Global Reporting Initiative (“GRI”) Standards: Core option. For this Report, we provide insights into 
+
+the way we do business, while highlighting our environmental, social, governance (“ESG”) factors and economic 
+
+performance. 
+
+ 
+
+Whilst mindful of our profit-oriented objective, we are committed to strike a balance between growth, profit, 
+
+governance, environment, the development of our people and well-being of our communities to secure the long 
+
+term future of our Group. This commitment is reflected in our sustainable business strategy and the material 
+
+ESG factors which are shown in this Report.  
+
+ 
+
+A sustainability policy (“SR Policy”) covering our sustainability strategies, reporting structure, materiality 
+
+assessment and processes in identifying and monitoring material ESG factors has been established and serves 
+
+as a point of reference in the conduct of our sustainability reporting. Under this SR Policy, we will continue to 
+
+monitor, review and update our material ESG factors from time to time, taking into account the feedback that 
+
+we receive from our engagement with our stakeholders, organisational and external developments. 
+
+ 
+
+2. 
+
+Reporting framework 
+
+ 
+
+This Report has been prepared in accordance with the Global Reporting Initiative (“GRI”) Core option and 
+
+published in pursuant to the Singapore Exchange Securities Trading Limited (“SGX-ST”) listing rules 711 (A) and 
+
+711 (B). We have chosen to report using GRI Standards: Core option as it is an internationally recognised 
+
+reporting framework.  
+
+ 
+
+3. 
+
+Reporting period and scope 
+
+ 
+
+This Report is applicable for our financial year from 1 May 2018 to 30 April 2019 (“FY2019”) and a copy of 
+
+which can be found in our corporate website http://www.stamfordtyres.com. A sustainability report will be 
+
+published annually in accordance with our SR Policy.  
+
+ 
+
+This Report covers the key operating entities within the Group which contributed approximately 94% (FY2018: 
+
+93%) of the Group’s total revenue for the reporting period. 
+
+ 
+
+4. 
+
+Feedback  
+
+ 
+
+We welcome feedback from all stakeholders on this Report. You may send related questions, comments, 
+
+suggestions or feedback to our investor relations email account: weisze@stamfordtyres.com or 
+
+siti@stamfordtyres.com  
+
+ 
+
+5. 
+
+Stakeholder engagement 
+
+ 
+
+Our efforts on sustainability are focused on creating sustainable value for our key stakeholders, which comprise 
+
+communities, customers, employees, regulators, shareholders and suppliers. Key stakeholders are determined 
+
+for each material factor identified, based on the extent of which they can affect or are affected by our operations.  
+
+ 
+
+We actively engage our key stakeholders through the following channels:  
+
+S/N 
+
+Key stakeholder 
+
+Engagement channel 
+
+1 
+
+Community 
+
+We focus on continuous community engagement through close monitoring of 
+
+local developments through mass media and dialogues where practicable. 
+
+2 
+
+Customer 
+
+Customers, comprised mainly retailers or sub-distributors, are encouraged to 
+
+provide their feedback and feedback obtained is reviewed and relevant follow-
+
+up actions are taken to better serve them. Regular meetings and 
+
+communications are made with customers to ensure that the Group remains 
+
+connected with the customers. 
+
+3 
+
+Employee 
+
+Senior management holds regular communication sessions with employees to 
+
+obtain feedback and alignment of business goals across all levels of workforce. 
+
+Such communication channels include emails and staff evaluation sessions 
+
+where employees can pose questions in person. 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 2 
+
+ 
+
+S/N 
+
+Key stakeholder 
+
+Engagement channel 
+
+4 
+
+Regulator 
+
+We participate in consultations and briefing organised by key regulatory bodies 
+
+such as SGX-ST so as to furnish feedback on proposed regulatory changes that 
+
+impact our business. 
+
+5 
+
+Shareholder 
+
+We convey timely, full and credible information to shareholders through 
+
+announcements on SGXNET, our website (http://www.stamfordtyres.com), 
+
+investor 
+
+relations 
+
+email 
+
+account 
+
+(weisze@stamfordtyres.com 
+
+or 
+
+siti@stamfordtyres.com), annual general meetings, annual reports, and other 
+
+channels such as business publications and investors’ relation events. 
+
+6 
+
+Supplier 
+
+We work closely with our suppliers to ensure smooth delivery of products. In 
+
+general, new suppliers are screened in accordance with the Group’s purchasing 
+
+policies and existing suppliers are assessed by respective work teams based 
+
+on specified criteria. Feedback is also provided by the procurement teams to 
+
+suppliers to ensure standards of products or services delivered by suppliers. 
+
+ 
+
+Through the above channels, we seek to understand the views of key stakeholders, communicate effectively 
+
+with them and respond to their concerns.  
+
+ 
+
+6. 
+
+Policy, practice and performance reporting 
+
+ 
+
+6.1 
+
+Reporting structure 
+
+ 
+
+Our sustainability strategy is developed and directed by the senior management in consultation with the Board 
+
+of Directors. The Group’s Sustainability Committee, which includes senior management executives, is led by our 
+
+Executive Director, and tasked to develop the sustainability strategy, review our material impacts, consider 
+
+stakeholder priorities and set goals and targets, as well as collect, verify, monitor and report performance data 
+
+for this Report. 
+
+ 
+
+6.2 
+
+Sustainability reporting processes 
+
+ 
+
+Under our SR policy, our sustainability process begins with the identification of relevant factors. Relevant factors 
+
+are then prioritised as material factors which are then validated. The end result of this process is a list of material 
+
+factors disclosed in this Report. Processes involved are as shown in the chart below: 
+
+
+
+
+
+
+
+
+
+Prioritisation 
+
+
+
+
+
+
+
+Identification 
+
+
+
+
+
+Identification of the material factors that are relevant to our Group’s 
+
+activities and data points for performance reporting  
+
+ 
+
+
+
+
+
+Prioritisation of the material factors and identification of key sustainability 
+
+factors to be reported 
+
+ 
+
+
+
+
+
+Validation involves the verification of information and data gathered on 
+
+material factors and to perform an assessment on the completeness of key 
+
+sustainability factors to finalise the sustainability report content 
+
+ 
+
+
+
+Validation 
+
+
+
+
+
+
+
+Monitor, review and update our material factors from the previous reporting 
+
+period, taking into account the feedback received from engagement with 
+
+stakeholders as well as organisational and external developments 
+
+ 
+
+
+
+Review 
+
+
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 3 
+
+ 
+
+6.3 
+
+Materiality assessment 
+
+ 
+
+Under our SR Policy, each sustainability factor is assigned a reporting priority that determines the actions 
+
+required as illustrated in the table below: 
+
+Reporting priority 
+
+Description 
+
+Criteria 
+
+I 
+
+High 
+
+Factors with high reporting priority are reported on in detail. 
+
+II 
+
+Medium 
+
+Factors with medium reporting priority are considered for inclusion in 
+
+the Report. If it is decided that such factors are not material, they may 
+
+be excluded from the Report. 
+
+ 
+
+III 
+
+ 
+
+ 
+
+Low 
+
+Factors with low reporting priority may be reported to fulfil regulatory or 
+
+other reporting requirements. They are not included in this Report if not 
+
+material.  
+
+ 
+
+The reporting priority is supported by a material factor matrix which considers the level of concern to external 
+
+stakeholders and potential impact on business.   
+
+ 
+
+6.4 
+
+Performance tracking and reporting 
+
+ 
+
+We track the progress of our material sustainability factors by identifying the relevant data points (i.e. the 
+
+information source of the relevant factor) and measuring them. In addition, performance targets that are aligned 
+
+with our strategy are set to ensure that we maintain the right course in our path to sustainability. We seek to 
+
+constantly enhance our performance-monitoring processes and data capture systems.  
+
+ 
+
+7 
+
+Material factors  
+
+ 
+
+Our materiality assessment performed for FY2019 involved the Group’s Senior Management in identifying 
+
+sustainability factors deemed material to our businesses and our stakeholders so as to allow us to channel our 
+
+resources judiciously to create sustainable value for our stakeholders.  
+
+ 
+
+Presented below are a list of material sustainability factors and material factors matrix applicable to our Group: 
+
+ 
+
+List of material sustainability factors  
+
+S/N 
+
+Material factor  
+
+Reporting 
+
+priority 
+
+Key stakeholder 
+
+General disclosure 
+
+1 
+
+Customer satisfaction 
+
+I 
+
+Customer 
+
+Social 
+
+2 
+
+Equality and diversity in the workplace 
+
+I 
+
+Employee 
+
+3 
+
+Employee retention 
+
+I 
+
+Employee 
+
+4 
+
+Safe working environment 
+
+II 
+
+Employee 
+
+5 
+
+Commitment to quality products 
+
+I 
+
+Customer, supplier 
+
+6 
+
+Ongoing community engagement 
+
+III 
+
+Community 
+
+Environmental 
+
+7 
+
+Energy conservation  
+
+II 
+
+Community, shareholder 
+
+8 
+
+Water conservation and wastewater treatment 
+
+III 
+
+Community, shareholder, regulator 
+
+9 
+
+Waste optimisation 
+
+II 
+
+Community, shareholder, regulator 
+
+Economic 
+
+10 
+
+Sustainable business performance 
+
+I 
+
+Shareholder 
+
+11 
+
+Proactive anti-corruption practices 
+
+II 
+
+Shareholder, regulator 
+
+Governance 
+
+12 
+
+Robust corporate governance framework 
+
+I 
+
+Shareholder, regulator 
+
+ 
+
+ 
+
+ 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 4 
+
+ 
+
+Material factors matrix  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We will update the material factors on an annual basis to reflect changes in business operations, environment, 
+
+stakeholder’s feedback and sustainability trends. The details of each material sustainability factor are presented 
+
+as follows: 
+
+ 
+
+7.1 
+
+Customer satisfaction 
+
+ 
+
+Our strategies towards customer satisfaction are as follows:  
+
+ 
+
+Cultivate a long term and sustainable relationship with our partners 
+
+With firm relationships established with our strategic partners, we are able to gain access to distribute a diverse 
+
+range of products under the major brands of Falken, Dunlop, Continental and Toyo to meet our customers’ needs 
+
+and requirements. In addition, our volume purchases allow us to secure competitive pricing which we can then 
+
+offer our customers with value-for-money products.  
+
+ 
+
+Adopt market standards for the quality and safety of our products  
+
+For products under our proprietary brands, they are manufactured by selected contracted manufacturers (“CMS”) 
+
+located in Asia under internationally recognised quality standards. The adoption of such standards supports our 
+
+ability to consistently provide products that meet customers’ needs and expectation.  
+
+ 
+
+For product safety and consistency in quality, refer to 7.5 for further details 
+
+ 
+
+Maintain presence and proximity to our customers  
+
+We have established an international distribution network that spans Singapore, Malaysia, Thailand, South 
+
+Africa, Indonesia, Australia, India, Vietnam, Brunei, China and Hong Kong. Our extensive network brings us close 
+
+to the markets we serve and more importantly, to our customers.  
+
+ 
+
+Nurture a team of highly trained and experienced employees  
+
+We are dependent on our highly trained and experienced professional staff to serve our customers on the 
+
+products we distribute.  Our strategy to establish a global footprint is driven by a core regional team of trained 
+
+and experienced professional staff.  
+
+ 
+
+On our efforts to retain our valued staff, refer to section 7.2 for further details. 
+
+ 
+
+ 
+
+ 
+
+
+
+Stakeholders’ concern 
+
+Business impact 
+
+
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 5 
+
+ 
+
+7.2 
+
+Equality and diversity in the workplace 
+
+ 
+
+We are committed to the goals of diversity and equal opportunity in employment by providing a work environment 
+
+for our employees that fosters fairness, equity and respect for social and cultural diversity, regardless of their 
+
+gender, age and educational background. The total number of full-time employees within the Group as at 30 
+
+April 2019 is 934 (FY2018: 1,021). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+On gender diversity, we view diversity on the Board level as an essential element in supporting sustainable 
+
+development with two (FY2018: two) female Board members. The percentage of female to total permanent 
+
+employees is 26% (FY2018: 26%) and about 36% (FY2018: 34%) of managers are females as at 30 April 2019.  
+
+ 
+
+On age diversity, matured workers are valued for their experience knowledge and skills. As at 30 April 2019, 
+
+40% (FY2018: 35%) of our workforce is at least 40 years old.  
+
+ 
+
+On diversity in educational background, we seek to create an inclusive environment for our employees from 
+
+different educational background. The distribution of staff by educational level is as follows: 
+
+ 
+
+Education qualification 
+
+FY2019 
+
+FY2018 
+
+Tertiary  
+
+35%  
+
+33% 
+
+Non-tertiary 
+
+65%  
+
+67% 
+
+Total 
+
+100% 
+
+100% 
+
+ 
+
+To promote equal opportunity, we have implemented various human resource measures as follows: 
+
+ 
+
+Human resource policy and employee handbook are in 
+
+place to recruit and promote employees based on merit and 
+
+competency 
+
+ 
+
+Staff assessment is performed regularly to evaluate the 
+
+performance of staff and provides staff with sense of self-
+
+awareness to undertake training that will improve their skills 
+
+and abilities 
+
+ 
+
+Staff recruitment advertisements do not state age, race, 
+
+gender or religion preferences as requirement 
+
+ 
+
+We play an active role in helping our employees who are 
+
+working parents. We provide our employees, in selected 
+
+entities, 
+
+with 
+
+flexible 
+
+work 
+
+arrangements 
+
+wherein 
+
+employees are given greater scheduling freedom to 
+
+accomplish their tasks and allow them to commit both work 
+
+and family.  In addition, we support our employees with 
+
+breastfeeding responsibilities through providing them with 
+
+a comfortable place to express breast milk. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+Our Board 
+
+Our People 
+
+
+
+Breastfeeding corner in our Thailand 
+
+wheel factory 
+
+ 
+
+ 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7.3 
+
+Employee retention 
+
+ 
+
+The continual success of our business relies on a team of professional, skilled and experienced staff and 
+
+managers. We are committed to employee retention through the following efforts: 
+
+ 
+
+a. Performance based rewards  
+
+We recognise employees are key to sustainability and therefore aims to reward employees that are capable and 
+
+dedicated. Under the Group’s performance share plan for managerial level employees, rewards in the form of 
+
+shares are granted to key employees to align their interests with that of the Group. The share plan is subject to 
+
+the review and approval by an independent Remuneration Committee and the Board of Directors.  
+
+ 
+
+b. Systematic internal human resource processes 
+
+Human resource processes related to employee retention 
+
+includes: 
+
+ 
+
+An employee handbook is in place to provide guidance 
+
+on employee benefits and disseminate corporate culture  
+
+ 
+
+Employees are engaged regularly via various channels 
+
+such as the appraisal exercise which allows employees 
+
+to gain feedback on their career progress  
+
+ 
+
+In-house and external training courses are organised 
+
+regularly for employees to improve their professional 
+
+skills. For example, a systematic training program is in 
+
+place in Thailand to equip sales staff with the needed 
+
+product and service knowledge 
+
+ 
+
+We believe a low turnover improves the sustainability of operations and allows us to contribute positively to the 
+
+development of social and human capital in a wider community. As at 30 April 2019, 67% (FY2018: 63%) of the 
+
+employees have more than 3 years of service with us.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+Gender diversity (all employees) 
+
+ 
+
+ 
+
+
+
+
+
+Gender diversity (managers) 
+
+ 
+
+ 
+
+Educational diversity (all employees) 
+
+ 
+
+ 
+
+
+
+Age diversity (all employees) 
+
+ 
+
+ 
+
+
+
+Years of service (all employees) 
+
+ 
+
+ 
+
+
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 7 
+
+ 
+
+
+
+
+
+
+
+7.4 
+
+Safe working environment 
+
+ 
+
+In our Group’s daily operations, the workers are required to handle heavy lifting equipment such as forklift to 
+
+transfer inventories. For the wheel factory in Thailand, workers also operate in a high temperature environment 
+
+and use of chemicals such as paints. Given the nature of activities and operating environment, we are 
+
+committed to maintain a safety-conscious culture amongst our employees. 
+
+ 
+
+The measures implemented to manage health and safety in the workplace environment are as follows:  
+
+ 
+
+A set of safety rules and regulations is in place 
+
+ 
+
+A safety committee is in place and safety inspections are 
+
+performed regularly by safety officers and reported to 
+
+senior managers 
+
+ 
+
+All new employees are briefed on safety procedures 
+
+during orientation 
+
+ 
+
+Regularly track and monitor accidents at the workplace 
+
+and corrective action plans are established to prevent 
+
+recurrences of the accidents 
+
+ 
+
+A dedicated first-aid room is maintained at the wheel 
+
+factory in Thailand to provide immediate and effective 
+
+medical treatment to workers or others who sustain 
+
+injuries at the location 
+
+ 
+
+The Group recorded zero workplace fatality during the reporting period and 12 (FY2018: 10) non-fatal workplace 
+
+injuries1. Although the incident rate increased marginally, the severity of accidents decreased significantly to 80 
+
+man-days lost (FY2018: 469 man-days) during the reporting period. The non-fatal workplace injuries mainly 
+
+related to hand and leg injuries. We will continuously work towards reducing both the occurrence and severity 
+
+of workplace accidents. 
+
+ 
+
+ 
+
+7.5 
+
+Commitment to quality products 
+
+ 
+
+We are committed to deliver the best to our customers by 
+
+providing them with quality and safe products for our long 
+
+term business sustainability.  Our proprietary brands 
+
+comprise:   
+
+ Sumo Firenza and Sumo Tire brands for tyres which are 
+
+produced by our CMS 
+
+ Stamford Sport Wheels, or SSW brand for alloy wheels 
+
+which are designed, manufactured and tested in our 
+
+wheel factory located in Thailand 
+
+ 
+
+The key measures on quality and safety are as follows: 
+
+ 
+
+a. 
+
+Adoption of market standards on product quality and 
+
+safety 
+
+To maintain product quality and safety, our suppliers and 
+
+wheel factory are certified under internationally recognised 
+
+quality standards with details as follows:  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 A workplace accident is defined as one when an employee is injured in a work accident which resulted in (i) hospitalisation 
+
+for at least 24 hours and/or (ii) medical leave of more than 3 days (regardless if the medical leave is consecutive)  
+
+ 
+
+ 
+
+
+
+First-aid room in our Thailand wheel factory 
+
+Our brands 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 8 
+
+ 
+
+ 
+
+b. Robust quality control processes   
+
+To uphold a high standard on product quality and safety, we have implemented the following operational 
+
+measures:  
+
+ 
+
+A manufacturing management policy is in place for compliance with the production standards 
+
+ 
+
+A procurement policy is in place to ensure procurement teams work closely with suppliers to comply with 
+
+the Group’s requirements 
+
+ 
+
+Strategic suppliers are regularly evaluated through measures such as annual assessments, sampling 
+
+tests and visits to suppliers’ premises 
+
+ 
+
+The production lines are supported by a team of experienced engineers and designers to provide quality 
+
+assurance for the products 
+
+ 
+
+During the reporting period, there was no safety related defect which resulted in an accident that caused injury 
+
+to a customer (FY2018: None). 
+
+ 
+
+ 
+
+7.6 
+
+Ongoing community engagement 
+
+ 
+
+We recognise that the long-term success of our 
+
+business is closely related to the health and 
+
+prosperity of the communities that we operate in. 
+
+Accordingly, we strive to constantly contribute to the 
+
+community. During the reporting period, various 
+
+campaigns were initiated to help the community as 
+
+follows: 
+
+Singapore Red Cross (“SRC”) 
+
+Under an arrangement made with SRC, we have 
+
+supported the servicing and change of tyres of 18 
+
+vehicles since August 2018. The vehicles typically 
+
+make over 12,000 life-saving trips a year and are 
+
+deployed all over Singapore.  The estimated retail 
+
+cost of savings for the SRC will be in the region of 
+
+SGD 15,000 per year. We are proud to partake in the 
+
+noble mission of SRC.  
+
+ 
+
+ 
+
+ 
+
+Production 
+
+line 
+
+Brand 
+
+Key standards adopted  
+
+Certification Center 
+
+CMS 
+
+Sumo Firenza, 
+
+Sumo Tire 
+
+ECE certification 
+
+TUV Rheinland, TUV SUD 
+
+Wheel 
+
+factory  
+
+SSW 
+
+IATF 16949:2016 
+
+TUV Rheinland 
+
+ISO 9001: 2015 
+
+Vehicle Inspection Association, Japan 
+
+GOST  
+
+Euro-Asian Council &amp; CIS for 
+
+Standardization, Metrology and 
+
+Certification 
+
+ABE (KBA/TUV Germany) 
+
+TUV Rheinland Kraftfahrt GmbH 
+
+
+
+
+
+
+
+Photo courtesy: Singapore Red Cross 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 9 
+
+ 
+
+7.7 
+
+Energy conservation 
+
+ 
+
+We are committed to responsible usage of energy to preserve the environment in which we operate in. Our 
+
+operations consume energy mainly for the following purposes:  
+
+ 
+
+Electricity for machineries used in the manufacturing of aluminium alloy wheels and equipment used in 
+
+our offices  
+
+ 
+
+Liquefied petroleum gas (“LPG”) for machineries used in the manufacturing of aluminium alloy wheels, 
+
+specifically for wheel casting  
+
+ 
+
+Fuel for operating motor vehicles such as trucks and forklifts  
+
+ 
+
+Key statistics on energy usage during the reporting period are as follows: 
+
+Energy 
+
+Unit of 
+
+measurement 
+
+Energy consumption rate 
+
+(Consumption/ Revenue) 
+
+FY2019 
+
+Unit/ SGD ’000 
+
+FY2018 
+
+Unit/ SGD ’000 
+
+Electricity 
+
+kWh 
+
+75.7 
+
+71.9 
+
+LPG2 
+
+Kg 
+
+130.5 
+
+156.3 
+
+Fuel  
+
+litre 
+
+4.3 
+
+4.0 
+
+ 
+
+During the reporting period, our electricity and fuel consumption increased slightly whilst the decrease in LPG 
+
+consumption was mainly due to higher sales in alloy wheels.   We believe that responsible usage of energy 
+
+resource results in lesser emissions and thus helps to preserve the environment. It also reduces our costs and 
+
+enhances returns to shareholders. Key initiatives on this front are as follows:  
+
+ 
+
+In April 2019, we entered into a Solar Power Purchase Agreement with Sembcorp Solar Singapore to install 
+
+a solar photovoltaic system at our headquarters which is due to be completed by October 2019. Under 
+
+this agreement, solar panels are installed on the rooftop of our headquarters to generate electricity which 
+
+also help to bring down the roof surface’s temperature and cool the facility. Such an arrangement will 
+
+generate clean energy and at the same time, reduce our utility cost  
+
+ 
+
+A systematic maintenance program for operating equipment is in place to maintain energy efficiency  
+
+ 
+
+Energy consumption is regularly tracked, analysed and corrective actions are taken when unusual 
+
+consumption patterns are observed 
+
+ 
+
+7.8 
+
+Water conservation and wastewater treatment 
+
+We recognise the importance to effectively 
+
+manage water consumption as valuable 
+
+water resources may be depleted and 
+
+pollution may occur if water consumption and 
+
+wastewater treatment are not managed 
+
+properly. 
+
+To 
+
+achieve 
+
+effective 
+
+water 
+
+management, we are committed to minimise 
+
+consumption 
+
+and 
+
+manage 
+
+wastewater 
+
+quality. This factor is primarily applicable to 
+
+our wheel manufacturing operations located 
+
+in Thailand with details as follows: 
+
+ 
+
+a. Water conservation 
+
+Process description 
+
+Unit of 
+
+measurement 
+
+Energy consumption rate 
+
+(Consumption/ Revenue) 
+
+FY2019 
+
+Unit/ SGD ’000 
+
+FY2018 
+
+Unit/ SGD ’000 
+
+Used in cooling and washing purposes such as in 
+
+cooling towers, heat treatment quenching baths, 
+
+casting hydraulic systems, machining coolant, 
+
+painting pre-treatment and basic washing of 
+
+wheels before applying paint.  
+
+Cu M 
+
+0.8 
+
+1.0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 LPG is consumed mainly by our wheel factory operations.      
+
+
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 10 
+
+ 
+
+
+
+
+
+Water conservation measures adopted by our wheel factory include the following: 
+
+ 
+
+A systematic maintenance program is implemented for operating equipment to maintain water efficiency 
+
+ 
+
+Water consumption trends are regularly tracked, analysed and corrective actions are taken when unusual 
+
+consumption patterns are observed 
+
+ 
+
+b. Wastewater treatment  
+
+Wastewater comprised coolant oil and paint sludge generated from the manufacturing process as follows: 
+
+Description 
+
+Source 
+
+Coolant oil 
+
+Generated from the machining process, which is a mixture of oil, coolant chemical and 
+
+water 
+
+Paint sludge 
+
+Generated from the painting process, which is a mixture of water, paint chemical, thinner, 
+
+and other particles captured by the water curtains inside the painting booths 
+
+ 
+
+During the reporting period, the wheel factory generated 20,223 tonnes (FY2018: 15,635 tonnes) of wastewater. 
+
+Measures taken to manage water quality include ensuring that wastewater is processed by our own water 
+
+treatment plants before it is released into the waterways and conducting sampling checks to inspect water 
+
+quality. During the reporting period, 100% (FY2018: 100%) of wastewater generated from our wheel factory was 
+
+treated by our own water treatment plant. 
+
+ 
+
+ 
+
+7.9 
+
+Waste optimisation 
+
+ 
+
+We are committed to environmental preservation through reuse and recycling to allow the Group to operate in a 
+
+sustainable environment.  
+
+ 
+
+The main waste materials generated from our operations are the aluminium chips from wheel production. All 
+
+aluminium chips from production are collected for outsource recycling. As at 30 April 2019, 89% (FY2018: 90%) 
+
+of the aluminium chips generated from production was recycled.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In addition, we are actively involved in recycling of used tyres through our retreading plants located in Singapore, 
+
+Malaysia and Indonesia. The retreading plants serve to extend the life span of tyres thus saving valuable natural 
+
+resources used in the production of tyres. Whilst preserving the environment, we also ensure all retreaded tyres 
+
+are rigorously inspected to ensure quality and safety. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+Retreading process 
+
+Retreaded tyres  
+
+Used tyres  
+
+
+
+
+
+Aluminium chips  
+
+
+
+
+
+
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 11 
+
+ 
+
+7.10 Sustainable business performance 
+
+ 
+
+We believe in creating long-term economic value for shareholders by rewarding shareholders by way of consistent 
+
+profits and dividend payments. 
+
+ 
+
+Details of the Group’s economic performance can be found in the financial contents and audited financial 
+
+statements of the Annual Report 2019. Our Annual Report 2019 is available as a downloadable PDF from our 
+
+website at https://www.stamfordtyres.com/investor_ar.html 
+
+ 
+
+7.11 Proactive anti-corruption practices 
+
+ 
+
+We are committed to carry out business with integrity by avoiding corruption in any form, including bribery, and 
+
+complying with the Prevention of Corruption Act of Singapore.  
+
+ 
+
+An employee handbook is in place to provide guidance to our employees on areas such as conduct in workplace, 
+
+business conduct, confidentiality of information and conflict of interest. 
+
+ 
+
+We have implemented a whistle blowing policy to provide a mechanism for employees to raise concerns through 
+
+accessible confidential disclosure channels about possible improprieties in matters of financial reporting and 
+
+others. In FY2019, no serious offence3 was reported. (FY2018: None) 
+
+ 
+
+7.12 Robust corporate governance framework 
+
+ 
+
+We are committed to high standards of corporate governance and believes a high standard of corporate 
+
+governance is integral in ensuring sustainability of our business as well as safeguarding shareholders’ interests 
+
+and maximising long-term shareholder’s value.  
+
+ 
+
+Our overall Singapore Governance and Transparency Index (“SGTI”) score assessed by National University of 
+
+Singapore Business School was 62 for year 2019 (year 2018: 66).  
+
+ 
+
+The Board and Management firmly believe that the success of our quest for good governance lies in putting in 
+
+place an effective framework of risk management and internal controls that is aligned with market standards 
+
+and best practices. Refer to the Corporate Governance Report of the Annual Report 2019 for details for our 
+
+corporate governance practices. 
+
+ 
+
+8. Target setting 
+
+ 
+
+For our material factors identified, we have set targets for FY2020 as follows: 
+
+S/N 
+
+Material factor 
+
+Target for FY2020 
+
+1 
+
+Customer satisfaction 
+
+Maintain or increase market presence  
+
+2 
+
+Equality and diversity in the 
+
+workplace 
+
+Move towards a more balanced gender, age and educational 
+
+diversity ratio  
+
+3 
+
+Employee retention 
+
+Improve employee retention rate 
+
+4 
+
+Safe working environment 
+
+Reduce the number of workplace accidents 
+
+5 
+
+Commitment to quality products 
+
+Maintain zero safety related defect which resulted in accident and 
+
+caused injury to customer  
+
+6 
+
+Ongoing community engagement 
+
+Initiate various campaigns to help the communities 
+
+7 
+
+Energy conservation 
+
+Maintain or reduce energy consumption rate 
+
+8 
+
+Water conservation and 
+
+wastewater treatment 
+
+Maintain or reduce water consumption rate and improve 
+
+wastewater management  
+
+9 
+
+Waste optimisation  
+
+Optimise waste generated in operations   
+
+10 
+
+Sustainable business 
+
+performance 
+
+Improve our financial performance subject to economic 
+
+conditions whilst maintaining our dividend rate where practicable 
+
+11 
+
+Proactive anti-corruption practices 
+
+Maintain zero incident of serious offence 
+
+12 
+
+Robust corporate governance 
+
+framework  
+
+Improve our SGTI score 
+
+ 
+
+3 A serious offence is defined as one that involves fraud or dishonesty amounting to not less than SGD 100,000 and 
+
+punishable by imprisonment for a term of not less than 2 years which is being or has been committed against the company 
+
+by officers or employees of the company. 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 12 
+
+ 
+
+9. GRI content index 
+
+ 
+
+General standard disclosure 
+
+Section reference 
+
+Page 
+
+Organisation profile 
+
+102-1 
+
+Name of the organisation 
+
+Sustainability Report 2019 &gt; Cover page 
+
+- 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+ 
+
+Annual Report 2019 (“AR 19”)&gt; 
+
+Corporate Information 
+
+ 
+
+Annual Report 2019 &gt; Our Products 
+
+ 
+
+Sustainability Report 2019 &gt; 
+
+Customer Satisfaction 
+
+1 of AR 19 
+
+ 
+
+13 of AR 19 
+
+4 
+
+102-3 
+
+Location of headquarters 
+
+ 
+
+Annual Report 2019 &gt; Corporate 
+
+Information 
+
+ 
+
+Annual Report 2019 &gt; Notes to the 
+
+Financial Statements &gt; Corporate 
+
+Information 
+
+1 of AR 19 
+
+ 
+
+56 of AR 19 
+
+102-4 
+
+Location of operations 
+
+ 
+
+Annual Report 2019 &gt; Our Presence 
+
+ 
+
+Sustainability Report 2019 &gt; 
+
+Customer Satisfaction 
+
+14 – 15 of AR 19 
+
+4 
+
+102-5 
+
+Ownership and legal form 
+
+ 
+
+Annual Report 2019 &gt; Notes to the 
+
+Financial Statements &gt; Corporate 
+
+Information  
+
+ 
+
+Annual Report 2019 &gt; Notes to the 
+
+Financial Statements &gt; Subsidiary, 
+
+Associated and Joint Venture 
+
+Companies 
+
+ 
+
+Annual Report 2019 &gt; Statistics of 
+
+Shareholdings 
+
+56 of AR 19 
+
+ 
+
+ 
+
+137 – 141 of  
+
+AR 19 
+
+ 
+
+ 
+
+144 of AR 19 
+
+102-6 
+
+Markets served 
+
+ 
+
+Annual Report 2019 &gt; Our Presence 
+
+ 
+
+Sustainability Report 2019 &gt; 
+
+Customer Satisfaction 
+
+14 – 15 of AR 19 
+
+4 
+
+102-7 
+
+Scale of the organisation 
+
+ 
+
+Annual Report 2019 &gt; Our Products 
+
+ 
+
+Annual Report 2019 &gt; Financial and 
+
+Operations Review 
+
+ 
+
+Annual Report 2019 &gt; Financial 
+
+Highlights  
+
+ 
+
+Annual Report 2019 &gt; Consolidated 
+
+Income Statement 
+
+ 
+
+Annual Report 2019 &gt; Consolidated 
+
+Statement of Comprehensive Income 
+
+ 
+
+Annual Report 2019 &gt; Balance Sheets 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Equality and Diversity in the 
+
+Workplace 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Sustainable Business 
+
+Performance 
+
+13 of AR 19 
+
+16 – 19 of AR 19 
+
+ 
+
+20 of AR 19 
+
+ 
+
+49 of AR 19 
+
+ 
+
+50 of AR 19 
+
+ 
+
+51 of AR 19 
+
+5 – 6 
+
+ 
+
+ 
+
+11 
+
+ 
+
+ 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Equality and Diversity in the 
+
+Workplace 
+
+5 - 6 
+
+102-9 
+
+Supply chain 
+
+Annual Report 2019 &gt; Corporate 
+
+Information 
+
+1 of AR 19 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+There was no significant change to the 
+
+organisation and its supply chain during the 
+
+reporting period 
+
+- 
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+None 
+
+- 
+
+102-12 
+
+External initiatives 
+
+None 
+
+- 
+
+102-13 
+
+Membership of associations  
+
+None 
+
+- 
+
+ 
+
+ 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 13 
+
+ 
+
+General standard disclosure 
+
+Section reference 
+
+Page 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+Sustainability Report 2019 &gt; Board 
+
+Statement 
+
+1 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behaviour  
+
+Annual Report 2019 &gt; Corporate 
+
+Governance  
+
+ 
+
+21 – 40 of AR 19 
+
+Governance 
+
+102-18 
+
+Governance structure of the 
+
+organisation 
+
+ 
+
+Annual Report 2019 &gt; Corporate 
+
+Governance 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Robust Corporate 
+
+Governance Framework  
+
+21 – 40 of AR 19 
+
+ 
+
+11 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder groups  
+
+Sustainability Report 2019 &gt; Stakeholder 
+
+Engagement 
+
+1 - 2 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+None of our employees are covered by 
+
+collective bargaining agreements 
+
+- 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders  
+
+Sustainability Report 2019 &gt; Stakeholder 
+
+Engagement 
+
+1 - 2 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Sustainability Report 2019 &gt; Stakeholder 
+
+Engagement 
+
+1 - 2 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+ 
+
+Sustainability Report 2019 &gt; 
+
+Stakeholder Engagement 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors  
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Customer Satisfaction 
+
+1 – 2 
+
+ 
+
+3 
+
+ 
+
+4 
+
+Reporting practice  
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements  
+
+Annual Report 2019 &gt; Notes to the 
+
+Financial Statements &gt; Subsidiary, 
+
+Associated and Joint Venture Companies 
+
+137 – 141 of  
+
+AR 19 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries  
+
+Sustainability Report 2019 &gt; Sustainability 
+
+Reporting Processes 
+
+2 
+
+102-47 
+
+List of material topics 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors  
+
+3 - 4 
+
+102-48 
+
+Restatements of information 
+
+None 
+
+- 
+
+102-49 
+
+Changes in reporting  
+
+Sustainability factors added: 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Customer Satisfaction 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Ongoing Community 
+
+Engagement 
+
+ 
+
+4 
+
+ 
+
+8 
+
+102-50 
+
+Reporting period  
+
+Sustainability Report 2019 &gt; Reporting 
+
+Period and Scope 
+
+1 
+
+102-51 
+
+Date of most recent report  
+
+Sustainability Report 2018 
+
+- 
+
+102-52 
+
+Reporting cycle 
+
+Sustainability Report 2019 &gt; Reporting 
+
+Period and Scope 
+
+1 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report  
+
+Sustainability Report 2019 &gt; Feedback 
+
+1 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards and GRI content 
+
+index 
+
+ 
+
+Sustainability Report 2019 &gt; 
+
+Reporting Framework  
+
+ 
+
+Sustainability Report &gt; GRI Content 
+
+Index 
+
+1 
+
+ 
+
+12 - 14 
+
+102-55 
+
+GRI content index 
+
+Sustainability Report 2019 &gt; GRI Content 
+
+Index 
+
+12 - 14 
+
+102-56 
+
+External assurance  
+
+We may seek external assurance in the 
+
+future 
+
+- 
+
+ 
+
+ 
+
+ 
+
+
+FY2019 Sustainability Report – Stamford Tyres Corporation Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+             Page 14 
+
+ 
+
+General standard disclosure 
+
+Section reference 
+
+Page 
+
+Management approach   
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors  
+
+3 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors  
+
+3 - 11 
+
+103-3 
+
+Evaluation of management 
+
+approach  
+
+Sustainability Report 2019 &gt; Material 
+
+Factors 
+
+3 - 11 
+
+Category: Economic 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+ 
+
+Annual Report 2019 &gt; Financial and 
+
+Operations Review 
+
+ 
+
+Annual Report 2019 &gt; Financial 
+
+Highlights  
+
+ 
+
+Annual Report 2019 &gt; Consolidated 
+
+Income Statement 
+
+ 
+
+Annual Report 2019 &gt; Consolidated 
+
+Statement of Comprehensive Income 
+
+ 
+
+Annual Report 2019 &gt; Balance Sheets 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Sustainable Business 
+
+Performance 
+
+16 – 19 of AR 19 
+
+ 
+
+20 of AR 19 
+
+ 
+
+49 of AR 19 
+
+ 
+
+50 of AR 19 
+
+ 
+
+51 of AR 19 
+
+11 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions taken 
+
+ 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Proactive Anti-Corruption 
+
+Practices 
+
+11 
+
+Category: Environmental 
+
+302-3 
+
+Energy intensity 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Energy Conservation 
+
+9 
+
+303-5 
+
+Water consumption  
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Water Conservation and 
+
+Wastewater Treatment 
+
+9 -10 
+
+306-2 
+
+Waste by type and disposal 
+
+method 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Waste Optimisation 
+
+10 
+
+Category: Social 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Employee Retention 
+
+6 
+
+403-9 
+
+Work-related injuries 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Safe Working Environment  
+
+7 
+
+405-1 
+
+Diversity 
+
+of 
+
+governance 
+
+bodies and employees 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Equality and Diversity in the 
+
+Workplace 
+
+5 - 6 
+
+413-1 
+
+Operations 
+
+with 
+
+local 
+
+community 
+
+engagement, 
+
+impact assessments, and 
+
+development programs 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Ongoing Community Engagement  
+
+8 
+
+416-2 
+
+Incidents of non-compliance 
+
+concerning the health and 
+
+safety impacts of products 
+
+and services 
+
+Sustainability Report 2019 &gt; Material 
+
+Factors &gt; Commitment to Quality Products 
+
+7 - 8 
+
+ 
+
+ 
+

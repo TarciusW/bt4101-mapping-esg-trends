@@ -1,0 +1,3730 @@
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+1. Highlights ......................................................................................................................................... 1 
+
+1.1 Corporate profile ......................................................................................................................... 1 
+
+1.2 Message to stakeholders ............................................................................................................ 1 
+
+1.3 Scope of sustainability report ...................................................................................................... 2 
+
+1.4 Restatements .............................................................................................................................. 3 
+
+1.5 Sustainability contact .................................................................................................................. 3 
+
+2. Our approach to sustainability ...................................................................................................... 4 
+
+2.1 Sustainability organisational structure ........................................................................................ 4 
+
+2.2 Sustainability strategy ................................................................................................................. 5 
+
+2.3 Consulting our stakeholders........................................................................................................ 6 
+
+2.4 Sustainability materiality .............................................................................................................. 7 
+
+3. Our performance ............................................................................................................................. 8 
+
+3.1 How we measure our performance ............................................................................................. 8 
+
+3.2 Environmental sustainability........................................................................................................ 9 
+
+3.3 Regulatory compliance .............................................................................................................. 12 
+
+3.4 Social contributions ................................................................................................................... 15 
+
+Appendix A: Sustainability scorecard ............................................................................................... 18 
+
+Appendix B: GRI content index .......................................................................................................... 19 
+
+ 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+1. Highlights 
+
+1.1 Corporate profile 
+
+Darco Water Technologies Limited (Darco or the ‘Group’) and its subsidiaries is a provider of integrated 
+
+engineering and knowledge-based water treatment solutions and waste water treatment.  
+
+Established in 1999, Darco is principally a systems integrator involved in the designing, building, operating and 
+
+maintaining of water management processes that employ the membrane, ion exchange and thermal 
+
+technologies. 
+
+Darco Water is always determined to make a positive impact to the environment by providing comprehensive 
+
+solutions to our customers. As the economy developed, the Group diligently kept pace with the changing 
+
+demands of different industries and strived to enhance its engineering capability in the environmental 
+
+protection industry.  
+
+Today, apart from designing, manufacturing and servicing water and wastewater systems for a wide range of 
+
+industries, including electronics, petrochemicals, pharmaceuticals and food and beverage, the Group has since 
+
+evolved into an integrated environmental solutions provider. 
+
+With the Group’s strong technology capabilities, the Group is well-poised for the next phase of accelerated 
+
+growth. The Group aims to be the preferred partner of all potential customers within the environmental 
+
+protection industry. 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+1.2 Message to stakeholders 
+
+On behalf of the Board of Directors of Darco Water Technologies Limited, I am pleased to 
+
+present the Sustainability Report for the financial year ended 31 December 2019 (FY2019).  
+
+Darco is always determined to make a positive impact to the environment by providing comprehensive 
+
+solutions to our customers. As the economy developed, the Group diligently kept pace with the changing 
+
+demands of different industries and strived to enhance its engineering capability in the environmental 
+
+protection industry.  
+
+Today, apart from designing, manufacturing and servicing water and wastewater systems for a wide range of 
+
+industries, including electronics, petrochemicals, pharmaceuticals and food and beverage, the Group has since 
+
+evolved into an integrated environmental solutions provider. We will continue to be committed to providing 
+
+sustainable technologies and solutions to provide safeguard our water supply and environment for our future 
+
+generations. 
+
+However, the emergence of COVID-19 at the end of FY2019 has created instabilities amongst the international 
+
+economy and generated considerable negative impact, especially when one of our subsidiaries, Wuhan Kaidi 
+
+Water Services Co., Ltd. (Wuhan Kaidi), is situated at the epicentre of the pandemic in Wuhan, China. Due 
+
+to the COVID-19 outbreak in the China, the Group has complied with the directives from the Chinese 
+
+government and local authorities in Wuhan. In addition, the Group has instituted precautionary measures to 
+
+protect the health and safety of its employees operating in China, Malaysia and Singapore. As the current 
+
+COVID-19 situation continues to develop, we shall keep a close eye on our operations, and announce any 
+
+material changes to our business performance to shareholders timely, as and when appropriate. 
+
+In addition, we wish to confirm that the Board has considered sustainability issues as part of its strategic 
+
+formulation. The Board has determined the material environmental, social and governance (ESG) factors and 
+
+overseen the management in monitoring these material ESG factors. 
+
+As part of Darco’s commitment to sustainable development, we will continue to strive to do business in a 
+
+responsible way.  
+
+ 
+
+On behalf of the Board of Directors 
+
+ 
+
+ 
+
+ 
+
+WANG YAOYU 
+
+Executive Chairman 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+1.3 Scope of sustainability report 
+
+Unless otherwise stated, the scope of the report covers information on material sustainability aspects of Darco 
+
+from 1 January 2019 to 31 December 2019, covering the following subsidiaries: 
+
+• 
+
+Wuhan Kaidi Water Services Co., Ltd. (Wuhan Kaidi) 
+
+• 
+
+Darco Water Systems Sdn. Bhd. (DWS) 
+
+• 
+
+Darco Industrial Water Sdn. Bhd. (DIW) 
+
+• 
+
+Grober Industrial Services Sdn. Bhd. (GIS) 
+
+This should sufficiently address stakeholders’ concerns in relation to sustainability issues arising from the 
+
+major business operations of the Group. 
+
+This report is prepared in accordance with the Global Reporting Initiative (GRI) Standards: Core Option as it 
+
+provides a set of an extensive framework that is widely accepted as a global standard for sustainability 
+
+reporting. It also considers the Sustainability Reporting Guide in Practice Note 7.6 of the Singapore Exchange 
+
+Securities Trading Limited (SGX-ST) Listing Manual. In preparing our report, we applied the GRI’s principles 
+
+for defining report content and report quality by considering the Group’s activities, impacts and substantive 
+
+expectations and interests of its stakeholders.  
+
+The data and information provided within the report have not been verified by an independent third party. We 
+
+have relied on internal data monitoring and verification to ensure accuracy. 
+
+1.4 Restatements 
+
+Carbon footprint data for FY2018 has been restated due to availability of more accurate fuel consumption data 
+
+from one of our subsidiaries. 
+
+1.5 Sustainability contact 
+
+We welcome your views and feedback on our sustainability practices and reporting at sr@darcowater.com. 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Our approach to sustainability 
+
+2.1 Sustainability organisational structure 
+
+Sustainability is a vital part of our corporate strategy for achieving long-term growth. The values we create for 
+
+our people, the environment and society at large very much influence our financial performance. In order to 
+
+better accommodate our sustainability goals and values, we have developed a sustainability organisational 
+
+structure to move things forward. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Board of Directors 
+
+and Management
+
+Financial Controller
+
+Employees
+
+
+
+The Board of Directors establishes the sustainability while the 
+
+Management sees through the implementation of the 
+
+framework. 
+
+
+
+Financial Controller (FC) of Darco is charged with organising 
+
+and coordinating the sustainability work in various 
+
+committees and departments. 
+
+
+
+Employees from the following departments are responsible 
+
+for sustainability work: 
+
+• 
+
+Operations Department (comprising environmental, 
+
+health and safety) 
+
+• 
+
+Human Resources Department 
+
+• 
+
+Administration Department 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Sustainability strategy 
+
+At the Group, our sustainability strategy aims to create integrated values. Together with disciplined execution 
+
+of our strategy and a commitment to doing business responsibly, we commit to deliver value to all our 
+
+stakeholders through the following: 
+
+ 
+
+ 
+
+ 
+
+The sustainable strategy is underpinned by our Employee Code of Conduct, which establishes a clear tone at 
+
+the top with regards to employees’ business and ethical conduct.  
+
+The strategy is also guided by external sources, including the Global Reporting Initiative Standards and 
+
+Sustainability Reporting Guide in Practice Note 7.6 of the Singapore Exchange Listing Rules. 
+
+The rest of this report covers our progress and performance against each of these areas, and the impact we 
+
+have on the economy, environment and society as a result. 
+
+Social 
+
+Contributions
+
+
+
+Regulatory 
+
+Compliance
+
+
+
+Environmental 
+
+Sustainability
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3 Consulting our stakeholders 
+
+We recognise the need to continuously develop our responsible business approach in order to address growing 
+
+stakeholder expectations around our impact on the economy, environment and society. As such, we 
+
+periodically consult with our stakeholders to determine the issues that are most relevant to them and Darco.  
+
+An overview of our approach and rationale is set out below (with stakeholders listed in alphabetical order), 
+
+together with the feedback we have received.  
+
+ 
+
+Stakeholders 
+
+How we listen 
+
+Why we do it 
+
+What you’ve told us 
+
+Customers 
+
+• 
+
+Visit to customers' office 
+
+• 
+
+Telephone calls/ email 
+
+• 
+
+Progress meeting 
+
+• 
+
+Updates on research and 
+
+development 
+
+• 
+
+Consistently improve on 
+
+technical and technology 
+
+• 
+
+Upgrade of project 
+
+infrastructure and operation 
+
+standard to exceed customers' 
+
+expectations 
+
+• 
+
+On-time delivery 
+
+• 
+
+Meet quality requirements 
+
+• 
+
+Progress of contract execution 
+
+• 
+
+Business continuity 
+
+Employees 
+
+• 
+
+Employee feedback mailbox 
+
+• 
+
+Office Automation (OA) 
+
+system 
+
+• 
+
+WeChat groups 
+
+• 
+
+Employee caring session 
+
+• 
+
+Comply with manpower rules 
+
+and regulations 
+
+• 
+
+Develop and maintain multiple 
+
+communication channels to 
+
+obtain feedback from 
+
+employees 
+
+• 
+
+Salary increment 
+
+• 
+
+Improve employee welfare 
+
+and benefits 
+
+• 
+
+Business continuity 
+
+Government 
+
+and regulators 
+
+• 
+
+Visit to Government office 
+
+• 
+
+Understand industry regulation 
+
+• 
+
+Subscribe to Government 
+
+website 
+
+• 
+
+Telephone calls 
+
+• 
+
+Training and meeting 
+
+• 
+
+Exchange meeting 
+
+• 
+
+Give suggestion via industry 
+
+association 
+
+• 
+
+Uphold the highest standards 
+
+of corporate governance and 
+
+ethical behaviour 
+
+• 
+
+Participate in government-
+
+related events 
+
+• 
+
+Timely submission and 
+
+payment of taxes 
+
+• 
+
+Compliance with SGX rulings 
+
+and local laws and regulations 
+
+• 
+
+Fully understand all 
+
+regulations applicable to the 
+
+company 
+
+Suppliers/ 
+
+business 
+
+partners 
+
+• 
+
+Visit to suppliers' office 
+
+• 
+
+Telephone calls/ emails 
+
+• 
+
+Audit inspection 
+
+• 
+
+Site survey 
+
+• 
+
+Supplier evaluation 
+
+• 
+
+Open tender 
+
+• 
+
+Build strategic business 
+
+relationship 
+
+• 
+
+Fair competition 
+
+• 
+
+Perform periodic supplier 
+
+evaluation 
+
+• 
+
+Timely payment 
+
+• 
+
+Adhere to agreement terms 
+
+• 
+
+Business continuity 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.4 Sustainability materiality 
+
+Based on the stakeholder engagement, we developed our sustainability materiality matrix containing material 
+
+aspects which are aligned with our principal business and operational risks, and formed our sustainability 
+
+strategy which has shaped our approach to sustainability reporting, as illustrated in the diagram below.  
+
+We have also developed metrics to help us measure our progress, as indicated in our sustainability scorecard 
+
+in Appendix A. We will review and adjust the matrix each year, as the external and business context changes. 
+
+The aspect boundaries ‘within’ the organisation are limited to Darco, Kaidi, DWS, DIW, and GIS, whereas the 
+
+aspect boundaries ‘outside’ the organisation include customers, employees, government and regulators and 
+
+suppliers and business partners. 
+
+ 
+
+
+
+  
+
+  
+
+  
+
+⚫ Preventing 
+
+⚫ Water 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ bribery and 
+
+ treatment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ corruption 
+
+⚫ Business 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ continuity 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Talent 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ retention 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+⚫ Emissions and  
+
+⚫ Supporting 
+
+⚫ Occupational 
+
+ 
+
+ 
+
+  
+
+ use of resources 
+
+ local 
+
+ health and safety 
+
+ 
+
+ 
+
+ 
+
+⚫ Legal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ compliance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Relevance to Darco 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Our performance 
+
+3.1 How we measure our performance 
+
+Our sustainability strategy is embedded into the appropriate parts of our business, with dedicated teams for 
+
+each focus area, and coordination by our relevant departmental managers. 
+
+Progress will be tracked in two key ways: measuring performance against metrics, and evaluating how well 
+
+the programmes have advanced through a series of ‘commitments’. 
+
+Metrics and targets 
+
+We have established key performance indicators for each of the three focus areas outlined in our sustainability 
+
+strategy. Periodically, we plan to introduce new metrics and update targets to ensure alignment with our 
+
+strategy. 
+
+Commitments 
+
+To ensure we have a robust sustainability programme in place, we have included the key commitments for 
+
+each area of our sustainability strategy. The progress we have made against each key commitment is indicated 
+
+using the symbols shown in the table below. 
+
+We track and review our sustainability programme with the Board of Directors at least once a year. 
+
+Symbols used to indicate progress against commitments 
+
+Symbol 
+
+Meaning 
+
+ 
+
+New commitment this year 
+
+ 
+
+Not started 
+
+ 
+
+In progress 
+
+ 
+
+Complete 
+
+ 
+
+Ongoing commitment: no end date 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.2 Environmental sustainability 
+
+Overview 
+
+We are committed to providing world-class water 
+
+management services that add tangible value to the 
+
+communities we serve and to operate. We strive to 
+
+maintain those facilities with a strong emphasis on the triple 
+
+bottom line of economy, environment and society. 
+
+Water treatment 
+
+Water is the source of life. It is necessary to ensure that wastewater is 
+
+properly treated and clean drinking water is available to the people. We 
+
+focus on the needs of the people and strive to solve the water supply 
+
+problem by extending our business scope and investing in 
+
+technologies to treat wastewater and provide people with safe drinking 
+
+water. 
+
+The main business areas of the Group are as follows: 
+
+• Industrial water treatment, including desalinated water treatment, 
+
+reclaimed water reuse, pure water preparation, condensed water 
+
+treatment, seawater desalination. 
+
+• Industrial wastewater treatment, including treatment of industrial 
+
+wastewater to achieve standard or zero discharge, 
+
+• Municipal water supply and drainage, including municipal tap water, 
+
+municipal sewage, landfill leachate treatment. 
+
+We have completed more than 600 water treatment projects in the 
+
+power, municipal, steel metallurgy, petrochemical, coal chemical, 
+
+paper, food, pharmaceutical and other industries.  
+
+We also have more than 20 proprietary and patented technologies with 
+
+independent intellectual property rights, and recently introduced 
+
+condensate cone separation technology from the United Kingdom and 
+
+evaporation crystallisation technology from the United States.  
+
+In addition, we have established strategic partnerships with many 
+
+colleges and universities and well-known enterprises in the water 
+
+industry, and has established a leading market position and 
+
+outstanding competitive advantages in the field of water treatment. 
+
+In FY2019, the Group is fully compliant with environmental laws and 
+
+regulations in the countries that we operate in.  
+
+As part of our strategy, we seek to continue to be fully compliant with 
+
+environmental laws and regulations in the countries that we operate in, 
+
+with zero environmental incidents and zero fines on contravention of 
+
+environmental regulations. 
+
+ 
+
+FY2019 Performance 
+
+0 
+
+Environmental incidents 
+
+S$0 
+
+Fines on contravention of 
+
+environmental regulations 
+
+1,142tCO2e 
+
+Carbon footprint 
+
+71m3 
+
+Water consumption 
+
+264kg 
+
+Paper recycled and reused 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Project highlights 
+
+ 
+
+Water Treatment 
+
+Riding on the industrial growth and favourable government policies in Vietnam, the Group 
+
+has commenced construction of the Ba Lai Water Supply Project. The project comprises 
+
+a water treatment plant and water supply plant is set to generate affordable, clean water 
+
+at 15,000m3/day, to be piped directly to around 100,000 people in the Ba Tri District in 
+
+Ben Tre Province, in the Mekong Delta, Vietnam. 
+
+When fully operational, the Ba Lai Water Supply Plant will provide access to reliable and 
+
+affordable water supply, unlocking social, environmental and economic benefits 
+
+including: 
+
+• 
+
+Access to clean water: Around 100,000 people will benefit from access to a reliable 
+
+clean water supply. 
+
+• 
+
+Affordability: Water from the project will be three times more affordable than treated 
+
+bottled water, currently the main source of clean water in the rural and semi-urban 
+
+communities. 
+
+• 
+
+Health and sanitation: Having the Ba Lai Water Supply plant in place will help 
+
+reduce the risk of contracting disease. According to the Ministry of National 
+
+Resources and Environment, 80% of the diseases in Vietnam are caused by polluted 
+
+water. 
+
+• 
+
+Time savings for more economically productive activities: A more readily 
+
+available clean water supply will reduce time spent on domestic work by women and 
+
+children, who typically bear the burden of securing water for household needs. 
+
+Emissions and use of resources 
+
+ 
+
+Managing our carbon footprint 
+
+We are committed to positive action on climate change and dedicated to reducing the 
+
+carbon emission in our daily operations. To determine the carbon footprint, we collect 
+
+energy usage data from each our businesses and then calculate our total annual 
+
+greenhouse gas emissions.  
+
+In FY2019, we recorded a total 
+
+carbon footprint of 1,142 tonnes 
+
+carbon dioxide emission (tCO2e). 
+
+The emission mainly arises from 
+
+fuel consumption which accounted 
+
+for more than 63% of the total 
+
+carbon emission of Darco. 
+
+Carbon footprint increased 18% 
+
+from the previous year due to 
+
+increase 
+
+in 
+
+transport 
+
+fuel 
+
+consumption 
+
+and 
+
+purchased 
+
+electricity across the Group. 
+
+The Group established procedures 
+
+to reduce energy consumption, to 
+
+assess 
+
+energy 
+
+efficiency, 
+
+to 
+
+increase the use of clean energy,  
+
+for e.g. to ensure power is turned 
+
+off when electrical appliances are 
+
+not in use. 
+
+ 
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We follow the Greenhouse Gas Protocol established by the World Resources Institute 
+
+and the World Business Council for Sustainable Development, the standard manual for 
+
+measuring corporate greenhouse gas emissions. Using the “control method”, we include 
+
+100% of the emissions associated with businesses which we directly control. Our carbon 
+
+footprint includes:  
+
+• 
+
+All fuels used directly by our companies (Scope 1 emissions) 
+
+• 
+
+All purchased electricity used in our companies (Scope 2 emissions) 
+
+• 
+
+Impact of business air travel (optional Scope 3 emissions) 
+
+We will continue to track and monitor the Group’s performance on managing carbon 
+
+footprint and report our improvemnt every year.  
+
+ 
+
+Water consumption 
+
+The Group’s water consumption is mainly from domestic water use. In FY2019, the total 
+
+water consumption of the Group was 71 m3, representing a 38% increase from the 
+
+previous year. To further improve the utilisation efficiency of water resources, the Group 
+
+adopted the following practices:  
+
+• 
+
+Place posters on ‘Saving Water’ to encourage water conservation 
+
+• 
+
+Strengthen inspection and maintenance on water taps and fixing dripping taps 
+
+immediately to avoid wastage 
+
+• 
+
+Use water saving equipment 
+
+ 
+
+Paper recycling 
+
+Recyclable waste in the Group’s offices mainly comprise of paper. In FY2019, the total 
+
+weight of paper recycled by the Group is 264 kg, representing a 33% increase from the 
+
+previous year. We strive to reduce paper waste at source by adopting the following 
+
+practices:  
+
+• 
+
+Think before print 
+
+• 
+
+Set duplex printing as the default mode for most network printers 
+
+• 
+
+Use email to reduce fax paper consumption 
+
+• 
+
+Separate single-sided paper and double-sided paper for better recycling 
+
+• 
+
+Use the back of old single-sided documents for printing or as draft paper 
+
+Commitments: Environmental sustainability 
+
+Full compliance with 
+
+environmental laws and 
+
+regulations 
+
+Achievements 
+
+• Achieved zero environmental incidents and 
+
+zero fines on contravention of environmental 
+
+regulations in the countries we operate in. 
+
+ 
+
+ 
+
+FY2019 progress 
+
+ 
+
+• We 
+
+are 
+
+fully 
+
+compliant 
+
+with 
+
+the 
+
+environmental laws and regulations in the 
+
+countries that we operate in, with zero 
+
+environmental incidents and zero fines on 
+
+contravention 
+
+of 
+
+environmental 
+
+regulations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.3 Regulatory compliance 
+
+Overview 
+
+To maintain a fair, ethical and efficient business and 
+
+working environment, Darco strictly adheres to the local 
+
+laws and regulations relating to anti-corruption and bribery, 
+
+irrespective of the area or country where the Group 
+
+conducts its business. 
+
+Effect of management changes 
+
+Ever since the resignation of Darco’s former Chief Executive Officer 
+
+(CEO), Mr. Thye Kim Meng (Mr. Thye), in May 2019, the new Board of 
+
+Directors (the ‘Board’) who came onboard have been reviewing past 
+
+transactions to ensure that they had been properly conducted. In 
+
+addition, the Board also conducted a Shareholders’ Forum in 
+
+December 2019 to update on the Group’s strategic direction and future 
+
+business plans. 
+
+ 
+
+ 
+
+FY2019 Performance 
+
+0 
+
+Regulatory and compliance 
+
+incidents 
+
+S$0 
+
+Fines on contravention of laws 
+
+and regulations 
+
+In April 2020, the Group updated shareholders on the following transactions (‘Transactions’ and each, a 
+
+‘Transaction’) that were entered into by the Group under the direction of Mr. Thye: 
+
+(a) Con Dao Solar Project; 
+
+(b) Can Guioc Water Project; 
+
+(c) Transactions relating to Darco Engineering (Taiwan) (DET) including loans that were granted to DET and 
+
+the disposal of DET. 
+
+An extensive internal review of the Transactions, that included a review of the terms of the Transactions (such 
+
+as the payment terms and right of termination), the conduct of the Transactions in general (including the due 
+
+diligence that had been undertaken in respect of each Transaction) as well as any conflict or potential conflict 
+
+of interests, was recently carried out by the Management. The preliminary findings were shared with the 
+
+Company’s legal counsel appointed to assist with the review. Under advisement and with the guidance of the 
+
+legal counsel, the Company has sought further information from Mr. Thye who was then the CEO of the 
+
+Company and, based on the records, the main driver of the Transactions when they were entered into and 
+
+undertaken. As there remain gaps in the information available concerning the Transactions (including the basis 
+
+and rationale for certain actions or omissions noted) following a couple of limited responses from Mr. Thye, 
+
+the Management, under the direction of the Board and with the help of the Company’s legal counsel, will 
+
+continue to seek previous Management’s assistance and cooperation. Further to the internal review, current 
+
+management has since revised the Group Charter and internal control systems to strengthen the Group's 
+
+overall internal controls, which include but not limited to the control on project investment. 
+
+In respect of the Con Dao Solar Project and the Can Guioc Water Project, the Management has been in 
+
+discussions (and will continue to do so) with the counterparties to the Transactions with a view towards 
+
+determining the feasibility of continuing with the projects as well as recovering the payments that had previously 
+
+been made in advance should a decision be made to exit from any of such projects.  
+
+Subject to the advice and guidance of its legal counsel, the Company does not rule out making claims and 
+
+taking formal legal action against any person whose action or omission has resulted in damage or loss suffered 
+
+by the Group in connection with the Transactions.  
+
+The Company will make additional announcements when there are further developments in relation to the 
+
+above matters. Shareholders and potential investors are advised to exercise caution when dealing in the 
+
+securities of the Company and, when in doubt, are advised to consult with their own legal advisors, financial 
+
+advisors, stockbrokers, bank managers and/or other professional advisors. 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Legal compliance 
+
+In FY2019, the Group, through its Company Secretary, has updated the Board on relevant new laws and 
+
+regulations affecting the Company. From time to time, and through Board meetings and other meetings, both 
+
+formal and informal, our Chief Executive Officer (CEO) has been advising our Directors of the changing 
+
+commercial and business risks faced by our Company.  
+
+The Directors are also updated regularly with changes to the SGX-ST Listing Rules, risk management, 
+
+corporate governance, insider trading and the key changes in the relevant regulatory requirements and 
+
+financial reporting standards and the relevant laws and regulations to facilitate effective discharge of their 
+
+fiduciary duties as Board or Board Committees members. New releases issued by the SGX-ST and Accounting 
+
+and Corporate Regulatory Authority (ACRA) which are relevant to the Directors are circulated to the Board by 
+
+the Company Secretary. 
+
+The Directors are encouraged to attend seminars and receive training to improve themselves in the discharge 
+
+of Directors’ duties and responsibilities. Changes to regulations and accounting standards are monitored 
+
+closely by the Management. To keep pace with such regulatory changes, the Company provides opportunities 
+
+for ongoing education and training on Board processes and best practices as well as updates on changes in 
+
+legislation and financial reporting standards, regulations and guidelines from the SGX-ST Listing Rules that 
+
+affect the Company and/or the Directors in discharging their duties. Such training costs are borne by the 
+
+Company.  
+
+In FY2019, the Group was not in violation of any of the relevant laws and regulations in the countries that we 
+
+operate in, in relation to bribery, extortion, fraud and money laundering that have a significant impact on the 
+
+Group. 
+
+As part of our strategy, we seek to continue to be fully compliant with relevant laws and regulations in the 
+
+countries that we operate in, in relation to bribery, extortion, fraud and money laundering that have a significant 
+
+impact on the Group. 
+
+Preventing bribery and corruption  
+
+The Group prohibits all forms of bribery and corruption. The Group requires all employees to strictly abide by 
+
+professional ethics and eliminate any corruption and bribery. All employees are expected to discharge their 
+
+duties with integrity, to act fairly and professionally, and to abstain from engaging in bribery activities or any 
+
+activities, which might exploit their positions against the Group’s interests.  
+
+Whistle-blowers can report verbally or in writing to the senior management of the Group for any suspected 
+
+misconduct with full details and supporting evidence. The management will conduct investigations against any 
+
+suspicious or illegal behaviour to protect the Group’s interests. The Group advocates a confidentiality 
+
+mechanism to protect the whistleblowers against unfair dismissal or victimisation. Where criminality is 
+
+suspected, a report is made to the relevant regulators or law enforcement authorities when the management 
+
+considers necessary. 
+
+In addition, the staff handbook lays out the Group’s expectation and guiding provisions on code of conduct. 
+
+The Group encourages employees, customers, suppliers, or other parties to report incidents relating to any 
+
+conflicts of interest, extortion, bribery, fraud and money laundering. 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Business continuity 
+
+The emergence of COVID-19 at the end of FY2019 has created instabilities amongst the international economy 
+
+and generated considerable negative impact, especially when one of our subsidiaries, Wuhan Kaidi, is situated 
+
+at the epicentre of the pandemic in Wuhan, China. 
+
+Due to the COVID-19 outbreak in the China, the Group has complied with the directives from the Chinese 
+
+government and local authorities in Wuhan. In addition, the Group has instituted precautionary measures to 
+
+protect the health and safety of its employees operating in China, Malaysia and Singapore. We have also 
+
+initiated business continuity planning to protect our staff and mitigate the impact on the Group’s business 
+
+operations.  
+
+We will monitor the local situation and will put in place the above practices and any additional controls as 
+
+required by the local governments (e.g. quarantine measures, stop work orders) where applicable.  
+
+As the current COVID-19 situation continues to develop, we shall keep a close eye on our operations, and 
+
+announce any material changes to our business performance to shareholders timely, as and when appropriate. 
+
+Commitments: Regulatory compliance 
+
+Full compliance with 
+
+relevant laws and 
+
+regulations in the 
+
+countries that we operate 
+
+in 
+
+Achievements 
+
+• Achieved full compliance with relevant laws 
+
+and regulations in the countries that we 
+
+operate in. 
+
+ 
+
+ 
+
+FY2019 progress 
+
+ 
+
+• The Group was not in violation of any of 
+
+the relevant laws and regulations in the 
+
+countries that we operate in, in relation to 
+
+bribery, extortion, fraud and money 
+
+laundering that have a significant impact 
+
+on the Group. 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4 Social contributions 
+
+Overview 
+
+People are the cornerstone of our businesses. One of our 
+
+most important and fundamental responsibilities lies in 
+
+respecting and protecting the rights of all employees. 
+
+Creating an environment where every employee can 
+
+maintain both physical and mental health is essential to 
+
+ensuring that they can maximise their potential. 
+
+Occupational health and safety 
+
+We are committed to maintaining a healthy and safe workplace for 
+
+employees, and to preventing workplace injuries and illnesses. As 
+
+noted above, we conducted periodic trainings to improve quality, 
+
+environment, occupational health and safety awareness of the 
+
+company's staff, and to further standardise the Group's operation. 
+
+In FY2019, the Group has no instances of serious incidents. As part of 
+
+our strategy, we have committed to maintain our record of zero serious 
+
+incidents on an ongoing basis.  
+
+Talent retention 
+
+Personal and professional development is an ongoing journey. The 
+
+Group considers an effective learning and development program to be 
+
+a critical part of keeping our employees motivated and encouraging 
+
+them to build a strong sense of loyalty and pride towards our business. 
+
+ 
+
+FY2019 Performance 
+
+0 
+
+Serious incidents 
+
+4 
+
+Training hours per staff 
+
+25% 
+
+Employee turnover 
+
+18% 
+
+Female representation in 
+
+workforce 
+
+37% 
+
+Purchases from local suppliers 
+
+ 
+
+ 
+
+ 
+
+Training and development 
+
+The Group conducts regular training for our employees to improve quality, environment, 
+
+occupational health and safety awareness of our staff, and to further standardise the 
+
+company's operation. The training comprised of the following:  
+
+• 
+
+Quality management requirements 
+
+• 
+
+Environmental management requirements and environmental awareness 
+
+training 
+
+• 
+
+Occupational health and safety management requirements and safety 
+
+awareness training 
+
+• 
+
+Environmental factors identification and evaluation 
+
+• 
+
+Hazard identification and risk assessment 
+
+Through our training and education programme, we are developing people, improving 
+
+their employability and growing their careers in the engineering industry. 
+
+In FY2019, the Group invested an average of 4 hours of training on each employee. As 
+
+part of our strategy, we have committed to achieve a minimum of 8 hours of training per 
+
+employee on an ongoing basis. 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Equal opportunity 
+
+We endeavour to be an equal opportunity employer to provide a fair workplace for 
+
+employees, following the principles of equality and non-discrimination. Recruitment, 
+
+remuneration, promotion, and benefits are required to be handled based on objective 
+
+assessment, equal opportunity and non-discrimination regardless of gender, race, marital 
+
+status, pregnancy, disability, age or family status. 
+
+The Group attracts talent through fair, and flexible recruitment strategy that includes 
+
+recruitment application, job description, job applications, interview, selection, approval, 
+
+and job offer. Promotion is based on performance and suitability. 
+
+The Group offers competitive remuneration to attract and retain talented staff members. 
+
+Remuneration packages (which includes the necessary social benefits) are reviewed 
+
+periodically to ensure consistency with employment market. Dismissal also complies with 
+
+employment laws and regulations relating to non-discrimination. 
+
+In FY2019, female employees comprise 18% of our entire workforce, with female 
+
+representation in management at 20%. We will continue to track and monitor female 
+
+representation in our workforce and report these statistics every year. 
+
+ 
+
+ 
+
+Encouraging work-life balance 
+
+We organised a variety of employee activities to help them relax their mind and body, 
+
+develop teamwork, explore their talent, so as to develop a positive attitude in both work 
+
+and life. 
+
+To enhance employee teamwork and cohesion, improve employee health and improve 
+
+employee work-life balance, the Group has been organising periodic employee 
+
+gatherings during major festivals, departmental sports competitions and annual 
+
+orientation for new staff.  
+
+ 
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Supporting local 
+
+Procurement is decentralised and each subsidiary is responsible for selection of its own vendors. While some 
+
+procurement decisions are controlled by the customer, others are usually based on price, availability and 
+
+reliability of vendors.  
+
+Where possible, we seek to create long-term economic benefits for our communities through supplier 
+
+development, supporting a reliable local supply network to drive economic growth. The Group also benefits 
+
+from trade with local suppliers due to shorter delivery time, better technical support and transport savings from 
+
+local instead of overseas deliveries. 
+
+All of our suppliers and contractors must adhere to our requirements regarding safety, health, security and the 
+
+environment, as well as the principles of our Standards of Business Conduct. We are also focused on 
+
+developing local businesses through regular meetings with them to ensure they are aware of the opportunities 
+
+created by our projects and understand our requirements.  
+
+In FY2019, 37% of all purchases from the Group were from local suppliers. As part of our strategy, we have 
+
+committed to source at least 40% of our purchases locally. 
+
+Commitments: Social contributions 
+
+Full compliance with 
+
+relevant laws and 
+
+regulations in the 
+
+countries that we operate 
+
+in 
+
+Achievements 
+
+• Achieved full compliance with relevant laws 
+
+and regulations in the countries that we 
+
+operate in. 
+
+ 
+
+ 
+
+FY2019 progress 
+
+ 
+
+• The Group was not in violation of any of 
+
+the relevant laws and regulations in the 
+
+countries that we operate in, in relation to 
+
+bribery, extortion, fraud and money 
+
+laundering that have a significant impact 
+
+on the Group. 
+
+ 
+
+Achieve minimum of 8 
+
+hours of training per 
+
+employee 
+
+Training hours per employee (Hours) 
+
+ 
+
+ 
+
+FY2019 progress 
+
+ 
+
+• The Group invested an average of 4 hours 
+
+of training on each employee.  
+
+• As part of our strategy, we have 
+
+committed to achieve a minimum of 8 
+
+hours of training per employee on an 
+
+ongoing basis. 
+
+ 
+
+Source at least 40% of our 
+
+purchases locally 
+
+Purchases sourced locally (%) 
+
+ 
+
+ 
+
+FY2019 progress 
+
+ 
+
+• The Group sourced 37% of our purchases 
+
+locally, which is a substantial increase 
+
+from the previous year due to the 
+
+inclusion of our Malaysian subsidiaries. 
+
+ 
+
+ 
+
+ 
+
+6
+
+4
+
+42
+
+37
+
+2019 
+
+2018 
+
+
+
+2019 
+
+2018 
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A: Sustainability scorecard 
+
+Financial results 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+Revenue (from subsidiaries in scope) 
+
+S$’m 
+
+74.9 
+
+59.7 
+
+Production safety 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+Production stoppage due to safety incidences 
+
+Number 
+
+0 
+
+0 
+
+Serious incidents 
+
+Number 
+
+0 
+
+0 
+
+Workplace injuries 
+
+Number 
+
+0 
+
+0 
+
+Environmental sustainability 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+Environmental incidents 
+
+Number 
+
+0 
+
+0 
+
+Fines on contravention of environmental regulations 
+
+S$’000 
+
+0 
+
+0 
+
+Carbon footprint 
+
+tCO2e 
+
+9671 
+
+1,142 
+
+Water consumption 
+
+m3 
+
+51 
+
+71 
+
+Paper recycled 
+
+kg 
+
+199 
+
+264 
+
+Regulatory compliance 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+Regulatory and compliance incidents 
+
+Number 
+
+0 
+
+0 
+
+Non-compliance with laws and/or regulations which 
+
+resulted in significant fines and non-monetary sanctions 
+
+Number 
+
+0 
+
+0 
+
+Social contributions 
+
+Performance indicators 
+
+Units 
+
+FY2018 
+
+FY2019 
+
+Serious incidents 
+
+Number 
+
+0 
+
+0 
+
+Training hours per employee 
+
+Hours 
+
+6 
+
+4 
+
+Employee turnover 
+
+Percentage 
+
+25 
+
+25 
+
+Female representation in workforce 
+
+Percentage 
+
+20 
+
+18 
+
+Female representation in management 
+
+Percentage 
+
+19 
+
+20 
+
+Purchases from local suppliers 
+
+Percentage 
+
+42 
+
+37 
+
+ 
+
+1 Restated. 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix B: GRI content index 
+
+GRI Standards Content Index 
+
+The GRI Content Index references the Darco Water Technologies Limited Sustainability Report 2019 (SR), 
+
+the Annual Report 2019 (AR) and the Darco Corporate Website (Web). 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+GRI 102: General disclosures 
+
+Organisational profile 
+
+102-1 
+
+Name of organisation 
+
+• AR: Corporate Profile (Page 2) 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+• AR: Corporate Profile (Page 2) 
+
+102-3 
+
+Location of headquarters 
+
+• AR: Group Structure (Page 13) 
+
+102-4 
+
+Location of operations 
+
+• AR: Operations Review (Pages 12-14) 
+
+• AR: Group Structure (Page 13) 
+
+• AR: Our Regional Presence (Page 15) 
+
+• Web: https://darcowater.com/company-
+
+info/contact-us 
+
+102-5 
+
+Ownership and legal form 
+
+• AR: General Information – Note 1 to the 
+
+Financial Statements (Page 77) 
+
+102-6 
+
+Markets served 
+
+• AR: Group Structure (Page 13) 
+
+• AR: Segment Information – Note 27 to the 
+
+Financial Statements (Pages 139-145) 
+
+102-7 
+
+Scale of organisation 
+
+• AR: Corporate Profile (Page 2) 
+
+• AR: Group Structure (Page 13) 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+• SR: Social Contributions (Pages 15-17) 
+
+102-9 
+
+Supply chain 
+
+• SR: Social Contributions (Pages 15-17) 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+• Web: https://darcowater.com/About%20 
+
+Darco/company-info/our-business 
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-12 
+
+External initiatives 
+
+• Not applicable 
+
+102-13 
+
+Membership of 
+
+associations 
+
+• Not applicable 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+• AR: Chairman’s Statement (Pages 3-6) 
+
+• Web: https://darcowater.com/Investor%20 
+
+Information/company-info/chairman-
+
+statement 
+
+102-15 
+
+Key impacts, risks, and 
+
+opportunities 
+
+• AR: Corporate Profile (Page 2) 
+
+• AR: Independent Auditor’s Report (Pages 
+
+65-69) 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behavior 
+
+• SR: Sustainability Strategy (Page 5) 
+
+• Web: https://darcowater.com/About%20 
+
+Darco/company-info/our-mission 
+
+102-17 
+
+Mechanisms for advice and 
+
+concerns about ethics 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-19 
+
+Delegating authority 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-20 
+
+Executive-level 
+
+responsibility for economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Organisational Structure 
+
+(Page 4) 
+
+102-21 
+
+Consulting stakeholders on 
+
+economic, environmental, 
+
+and social topics 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-23 
+
+Chair of the highest 
+
+governance body 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-24 
+
+Nominating and selecting 
+
+the highest governance 
+
+body 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-25 
+
+Conflicts of interest 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+• AR: Directors’ Statement (Pages 61-64) 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-26 
+
+Role of highest governance 
+
+body in setting purpose, 
+
+values, and strategy 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-27 
+
+Collective knowledge of 
+
+highest governance body 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-28 
+
+Evaluating the highest 
+
+governance body’s 
+
+performance 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-29 
+
+Identifying and managing 
+
+economic, environmental, 
+
+and social impacts 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-30 
+
+Effectiveness of risk 
+
+management processes 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-31 
+
+Review of economic, 
+
+environmental, and social 
+
+topics 
+
+• SR: Sustainability Report (Pages 1-22) 
+
+102-32 
+
+Highest governance body’s 
+
+role in sustainability 
+
+reporting 
+
+• SR: Sustainability Organisational Structure 
+
+(Page 4) 
+
+102-33 
+
+Communicating critical 
+
+concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-34 
+
+Nature and total number of 
+
+critical concerns 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-35 
+
+Remuneration policies 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-36 
+
+Process for determining 
+
+remuneration 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-37 
+
+Stakeholders’ involvement 
+
+in remuneration 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-38 
+
+Annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+102-39 
+
+Percentage increase in 
+
+annual total compensation 
+
+ratio 
+
+• AR: Corporate Governance Report (Pages 
+
+17-60) 
+
+Stakeholder 
+
+engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+• Not applicable 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+• SR: Sustainability Strategy (Page 5) 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+• SR: Consulting Our Stakeholders (Page 6) 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+• AR: Investment in Subsidiaries – Note 6 to 
+
+the Financial Statements (Pages 109-116) 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-47 
+
+List of material topics 
+
+• SR: Sustainability Materiality (Page 7) 
+
+102-48 
+
+Restatements of 
+
+information 
+
+• SR: Restatements (Page 3) 
+
+102-49 
+
+Changes in reporting 
+
+• Not applicable 
+
+102-50 
+
+Reporting period 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-51 
+
+Date of most recent report 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-52 
+
+Reporting cycle 
+
+• Annual 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+• SR: Sustainability Contact (Page 3) 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+• SR: Scope of Sustainability Report (Page 3) 
+
+102-55 
+
+GRI content index 
+
+• SR: GRI Content Index (Pages 19-22) 
+
+102-56 
+
+External assurance 
+
+• No external assurance 
+
+GRI 200: Economic disclosures (applicable sections only) 
+
+Economic performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+Procurement practices 
+
+204-1 
+
+Proportion of spending on 
+
+local suppliers 
+
+• SR: Social Contributions (Pages 15-17) 
+
+Anti-corruption 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions 
+
+taken 
+
+• SR: Regulatory Compliance (Pages 12-14) 
+
+Anti-competitive 
+
+behavior 
+
+206-1 
+
+Legal actions for anti-
+
+competitive behavior, anti-
+
+trust, and monopoly 
+
+practices 
+
+• SR: Regulatory Compliance (Pages 12-14) 
+
+GRI 300: Environment disclosures (applicable sections only) 
+
+Energy 
+
+302-1 
+
+Energy consumption within 
+
+the organisation 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+302-3 
+
+Energy intensity 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+302-4 
+
+Reduction of energy 
+
+consumption 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+Water 
+
+303-1 
+
+Water withdrawal by source 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+Emissions 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+emissions 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+305-3 
+
+Other indirect (Scope 3) 
+
+GHG emissions 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Darco Water Technologies Limited | 22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+305-4 
+
+GHG emissions intensity 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+305-5 
+
+Reduction of GHG 
+
+emissions 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+Effluents and waste 
+
+306-1 
+
+Water discharge by quality 
+
+and destination 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+306-2 
+
+Waste by type and disposal 
+
+method 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+Laws and regulations 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+• SR: Environmental Sustainability (Page 9-11) 
+
+GRI 400: Social disclosures (applicable sections only) 
+
+Employment 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+• SR: Social Contributions (Pages 15-17) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+Occupational health and 
+
+safety 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number 
+
+of work-related fatalities 
+
+• SR: Social Contributions (Pages 15-17) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+Training and education 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+• SR: Social Contributions (Pages 15-17) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+404-2 
+
+Programs for upgrading 
+
+employee skills and 
+
+transition assistance 
+
+programs 
+
+• SR: Social Contributions (Pages 15-17) 
+
+Diversity and equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance 
+
+bodies and employees 
+
+• SR: Social Contributions (Pages 15-17) 
+
+• SR: Sustainability Scorecard (Page 18) 
+
+Non-discrimination 
+
+406-1 
+
+Incidents of discrimination 
+
+and corrective actions 
+
+taken 
+
+• SR: Social Contributions (Pages 15-17) 
+
+Child labor 
+
+408-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of child labor 
+
+• Child labour is strictly prohibited. 
+
+Forced or compulsory 
+
+labor 
+
+409-1 
+
+Operations and suppliers at 
+
+significant risk for incidents 
+
+of forced or compulsory 
+
+labor 
+
+• Forced and compulsory labour is strictly 
+
+prohibited. 
+
+Local communities 
+
+413-1 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+• SR: Social Contributions (Pages 15-17) 
+
+Socioeconomic 
+
+compliance 
+
+419-1 
+
+Non-compliance with laws 
+
+and regulations in the 
+
+social and economic area 
+
+• There is no non-compliance with 
+
+socioeconomic laws and regulations. 
+
+ 
+

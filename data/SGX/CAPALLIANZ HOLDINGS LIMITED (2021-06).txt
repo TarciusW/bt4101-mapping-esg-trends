@@ -1,0 +1,3382 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+SUSTAINABILITY REPORT 2021
+
+
+ 
+
+2 | Page 
+
+ 
+
+TABLE OF CONTENTS 
+
+1. CORPORATE PROFILE 
+
+3 
+
+2. BOARD STATEMENT 
+
+4 
+
+3. OUR APPROACH TO SUSTAINABILITY 
+
+6 
+
+4. ECONOMIC 
+
+13 
+
+5. ENVIRONMENTAL 
+
+14 
+
+6. OCCUPATIONAL HEALTH AND SAFETY 
+
+17 
+
+7. PEOPLE 
+
+21 
+
+8. GOVERNANCE 
+
+31 
+
+GRI CONTENT INDEX 
+
+33 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This sustainability report has been prepared by CapAllianz Holdings Limited (the “Company”) and 
+
+its contents have been reviewed by the Company’s sponsor, ZICO Capital Pte. Ltd. (the “Sponsor”), 
+
+in accordance with Rule 226(2)(b) of the Singapore Exchange Securities Trading Limited (the “SGX-
+
+ST”) Listing Manual Section B: Rules of Catalist.  
+
+ 
+
+This sustainability report has not been examined or approved by the SGX-ST and the SGX-ST 
+
+assumes no responsibility for the contents of this sustainability report, including the correctness 
+
+of any of the statements or opinions made, or reports contained in this sustainability report.  
+
+ 
+
+The contact person for the Sponsor is Ms Goh Mei Xian, Associate Director, ZICO Capital Pte. Ltd. 
+
+at 8 Robinson Road, #09-00 ASO Building, Singapore 048544, telephone (65) 6636 4201. 
+
+
+ 
+
+3 | Page 
+
+ 
+
+1. 
+
+CORPORATE PROFILE 
+
+CapAllianz Holdings Limited 共享资本集团 (“CapAllianz” or the “Company”, and together with its 
+
+subsidiaries, the “Group”) is an investment holding company focusing on the oversight and 
+
+management of a portfolio of investments, held through its subsidiaries and associated companies. 
+
+The Group’s strategy is to leverage the strengths of its team of professionals to identify and invest 
+
+in promising businesses and improve the business operations of the investee companies to 
+
+maximise investment returns for its portfolio of investments. 
+
+ 
+
+The Group’s current portfolio of investments comprises (i) the Oil and Gas sector; and (ii) the 
+
+Consumer sector. 
+
+ 
+
+Under the Oil and Gas portfolio, the Group holds a 20% stake in the Thailand onshore oil 
+
+concessions located at Phetchabun Basin. These concessions currently generate steady income 
+
+from its existing oil producing wells. With substantial proven reserves for development as well as 
+
+significant potential exploration upside, this investment holds the promise of value enhancement 
+
+and sustainable long-term growth as the joint operators continue to work towards unlocking the 
+
+untapped reserves.  
+
+ 
+
+The Group’s Consumer portfolio consists of a 40% stake in Preferred Mart Pte. Ltd. (“Preferred 
+
+Mart”), which holds a 100% stake in a supermarket business in Singapore, as well as a 40% stake 
+
+in a health and wellness business in Singapore. The supermarket business currently operates 
+
+through a retail outlet and e-commerce platforms where it has a growing subscriber base of more 
+
+than 150,000 in Singapore. Preferred Mart intends to grow this business mainly through broadening 
+
+its online sales channels and working with partners to increase distribution channels. The health 
+
+and wellness business is a new business, which is being set up currently. It aims to offer affordable 
+
+hyperbaric oxygen therapy (“HBOT”) using patented Japanese technology. As it uses atmospheric 
+
+pressure of 1.3 atmosphere absolute (ATA), the HBOT is able to deliver optimal and targeted 
+
+benefits without the risks and medical supervision required of higher ATA versions, to help improve 
+
+the overall health and wellness of consumers.  
+
+ 
+
+CapAllianz Holdings is listed on the Catalist board of the Singapore Exchange Securities Trading 
+
+Limited under stock code 594. 
+
+ 
+
+
+ 
+
+4 | Page 
+
+ 
+
+2. 
+
+ BOARD STATEMENT 
+
+The board of directors of CapAllianz Holdings Limited (“CapAllianz” or the “Company”, and together 
+
+with its subsidiaries, the “Group”) is pleased to present the 2021 Sustainability Report (the “Report”) 
+
+for the financial year ended 30 June 2021 (“FY2021”).  
+
+This Report covers the Group's two core business segments, namely (i) investments and trading 
+
+activities under CWX Investments Pte. Ltd. (“CWX Investments”), a wholly-owned subsidiary of the 
+
+Company, which holds a 40% stake in Preferred Mart Pte. Ltd. (“Preferred Mart”) operating a 
+
+supermarket business (100% stake) and a health and wellness business (40% stake) in Singapore; 
+
+and (ii) oil and gas business under Loyz Oil Thailand Pte. Ltd. (“Loyz Thailand”), a wholly-owned 
+
+subsidiary of the Company, which is the holder of a 20% stake in three oil-producing onshore 
+
+concessions – SW1, L44/43, and L33/43s located in the Phetchabun Basin, Thailand (the 
+
+“Concessions”). The Group’s primary income flow is from the sale of oil extracted from the 
+
+Concessions.  
+
+ 
+
+The Group takes effective corporate governance at all levels to ensure sound business decisions 
+
+are made. Corporate governance also ensures business operations are carried out properly and 
+
+with a proper monitoring feedback system to enhance future strategic formulations. 
+
+ 
+
+As responsible corporate citizens, we consider sustainability issues from the perspective of our 
+
+own business growth. We will grow our sustainability approach in the medium and long term to 
+
+bring in more Environmental, Social and Governance (“ESG”) factors to measure sustainability and 
+
+ethical impact of our key investments under CWX Investments and Loyz Thailand. 
+
+ 
+
+This Report is set out on a comply or explain basis in accordance with Rule 711B and Practice Note 
+
+7F on “Sustainability Reporting Guide” of the Singapore Exchange Securities Trading Limited (“SGX-
+
+ST”) Listing Manual Section B: Rules of Catalist (“Catalist Rules”). It is based on the Global Reporting 
+
+Initiative (“GRI”) Standards (2016) (Core option) which provides a framework for the reporting of 
+
+economic, environmental and social impact. In this Report, we have also described our 
+
+commitments, governance, policies, performance and targets in relation to managing the 
+
+sustainability risks and opportunities during FY2021. 
+
+
+ 
+
+5 | Page 
+
+ 
+
+This Report is done in good faith and to the best of our knowledge. No external assurance was 
+
+sought for this Report. 
+
+We welcome feedback from our stakeholders with regards to our sustainability efforts as this 
+
+enables us to improve our policies, systems and results. Please send your comments and 
+
+suggestions to enquiries@capallianzholdings.com. More information can be obtained from our 
+
+website at www.capallianzholdings.com. 
+
+ 
+
+Date of sustainability report: 30 November 2021 
+
+ 
+
+ 
+
+
+ 
+
+6 | Page 
+
+ 
+
+3. 
+
+ OUR APPROACH TO SUSTAINABILITY 
+
+ 
+
+Report Scope 
+
+ 
+
+While the Group has a number of subsidiaries, this Report will focus on the Group’s key investments 
+
+under CWX Investments and Loyz Thailand (collectively, the “Companies”), which are the two key 
+
+subsidiaries of the Company undertaking the Group’s two core business segments, as described 
+
+above.   
+
+ 
+
+Materiality Assessment 
+
+ 
+
+This Report uses a targeted approach to identify ESG factors which are of high importance to our 
+
+stakeholders and essential for the Companies. Our materiality approach is closely guided by our 
+
+core values of creating stakeholders’ value and long-term sustainability of the Group’s businesses. 
+
+The criteria were determined through an internal survey of managerial staff and compiled into this 
+
+Report. 
+
+ 
+
+The Companies adhere to the GRI Standards’ principle on materiality and have adopted a three-
+
+step approach to identify, prioritise and validate various ESG factors significant to both the 
+
+businesses and stakeholders of the Group. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+7 | Page 
+
+ 
+
+Stakeholder Engagement 
+
+The Company currently adopts a variety of ways in which we engage with our stakeholders. We will 
+
+continue to reach out extensively to our stakeholders to obtain feedback on how we can advance 
+
+our sustainability initiatives. 
+
+ 
+
+Stakeholders Engagement Platforms 
+
+Frequency of 
+
+Engagement 
+
+Employees 
+
+● Orientation training for new recruits 
+
+● Annual performance review and 
+
+appraisals 
+
+● Team-building events 
+
+● Electronic communication and notice 
+
+board 
+
+When necessary 
+
+Wholesale 
+
+and Retail 
+
+Customers 
+
+● Business review meetings 
+
+● Customer visits for wholesale customers 
+
+● Executive dialogue 
+
+● Customers surveys  
+
+Throughout the 
+
+year 
+
+Suppliers and 
+
+Service 
+
+Providers 
+
+● Supplier surveys 
+
+● Business meetings with critical suppliers 
+
+● Supplier factory audit 
+
+Throughout the 
+
+year 
+
+Shareholders 
+
+● Analysts meetings 
+
+● Corporate day event for institutional 
+
+investors 
+
+● Web portal and electronic mail 
+
+● Annual General Meeting 
+
+● Quarterly/Half yearly and full year 
+
+financial results announcements 
+
+ 
+
+● Annual Report 
+
+When necessary 
+
+When necessary 
+
+Throughout the 
+
+year 
+
+Annually  
+
+Throughout the 
+
+year, when 
+
+necessary as 
+
+required under the 
+
+Catalist Rules  
+
+Annually  
+
+Local 
+
+Communities 
+
+● Donations  
+
+● Participation in community activities 
+
+Throughout the 
+
+year 
+
+
+ 
+
+8 | Page 
+
+ 
+
+Local 
+
+Government 
+
+and 
+
+Regulators 
+
+● Participation in government agencies’ 
+
+seminars on policy updates 
+
+● On-site advisory visits 
+
+● Regular reports 
+
+● Statutory reporting 
+
+Throughout the 
+
+year  
+
+ 
+
+Material Factors 
+
+As part of this Report, the Group has conducted an internal survey and has determined the following 
+
+key material factors. Please refer to Diagram 1: Material Factors below for more information. 
+
+ 
+
+Diagram 1: Material Factors 
+
+ 
+
+Management Approach 
+
+ 
+
+Here at CapAllianz, we value integrity, professionalism, enterprise and mutual respect. We expect 
+
+all our staff to adhere to these principles and strictly adhere to laws and regulations wherever we 
+
+operate in the world. Please refer to Diagram 2: CapAllianz Business Method for more information. 
+
+ 
+
+While the Company is, first and foremost, an investment company, we are acutely aware of the 
+
+environmental impact of the industries we invest in and through our shareholdings and 
+
+participation in meetings, we share our values of professionalism and adherence to all laws and 
+
+
+
+
+ 
+
+9 | Page 
+
+ 
+
+regulations, especially environmental regulations, in relation to our oil and gas business segment, 
+
+to relevant stakeholders. 
+
+ 
+
+ 
+
+Diagram 2: CapAllianz Business Method 
+
+ 
+
+As mentioned in the Board Statement, the Group operates principally in two core business 
+
+segments, namely (i) investments and trading activities under CWX Investments and Preferred 
+
+Mart; and (ii) oil and gas business under Loyz Thailand, which is primarily held through its 20% 
+
+stake in the Concessions. As the Group is a minority stakeholder, the Group is thus reliant upon the 
+
+operator and holder of a 60% stake in the Concessions (namely ECO Orient (as defined herein)) for 
+
+all technical reporting and sustainability efforts. 
+
+ 
+
+Investments and Trading Activities 
+
+ 
+
+CWX Investments currently undertakes the Group’s investments and trading activities. CWX 
+
+Investments has a 40% stake in Preferred Mart which has direct investments in a 100% stake in a 
+
+supermarket business in Singapore that operates through a retail outlet and established e-
+
+commerce platforms, and a 40% stake in a healthcare and wellness business in Singapore that 
+
+offers affordable HBOT using patented Japanese technology. Whilst these new businesses are at 
+
+their initial stage of operations, we believe these essential services are in the defensive consumer 
+
+sector and are likely to pave the way for the Group to obtain a more balanced risk exposure on its 
+
+investment portfolio. 
+
+
+
+
+ 
+
+10 | Page 
+
+ 
+
+ 
+
+Oil and Gas Business  
+
+ 
+
+Loyz Thailand holds a 20% participating interest in three producing Concessions – SW1, L44/43, 
+
+and L33/43, a strategic joint operation located in the Phetchabun Basin in Thailand, which currently 
+
+generates a steady income stream from its existing oil producing wells.  
+
+ 
+
+Loyz Thailand’s partners in the Concessions are ECO Orient Energy (Thailand) Limited, ECO Orient 
+
+Resources (Thailand) Limited and the Berlanga Group (together with Loyz Thailand, collectively 
+
+known as the “Joint Operation”). The Concessions are currently run by ECO Orient Energy (Thailand) 
+
+Limited and ECO Orient Resources (Thailand) Limited (collective known as “ECO Orient”). ECO 
+
+Orient are wholly-owned subsidiaries of ECO Environmental Investments Limited, which is a Hong 
+
+Kong based energy company which focuses on the investment and management of a portfolio of 
+
+new energy projects including energy infrastructure, chemical plants, oil and gas resources, as well 
+
+as research and development. 
+
+ 
+
+The production license for the SW1 Concession was renewed for another 10 years from July 2016, 
+
+while production licenses for L44/43 and L33/43 Concessions are due to expire in 2032. Currently, 
+
+there are thirteen production licenses covering an area of 124.7 square kilometres under these 
+
+Concessions. 
+
+ 
+
+Loyz Thailand will continue to harness the potential of the Concessions which have proven reserves 
+
+for production within the untapped areas of the Concessions. This asset holds substantial proven 
+
+reserves for development as well as significant potential for further exploration, promising value 
+
+enhancement and sustainable long-term growth. 
+
+ 
+
+The Group has diversified its business into the Consumer sector, and will continue to diversify its 
+
+business to reduce reliance on the Concessions by diversifying its revenue stream, as well as 
+
+improving prospects and better support the growth of the Group, in order to enhance shareholders’ 
+
+value for the Group. 
+
+Oil’s Supply Chain 
+
+
+ 
+
+11 | Page 
+
+ 
+
+ 
+
+ 
+
+Diagram 3: Oil’s Supply Chain Flowchart 
+
+ 
+
+Financial Assistance Received from the Government 
+
+ 
+
+Since the COVID-19 pandemic, lockdowns have dampened demand in local and global markets. 
+
+This created multiple effects on the supply chains and has affected the Group’s revenue.  The 
+
+Singapore government has stepped in to offer financial assistance to the local companies. 
+
+Jobs Support Scheme  
+
+Since the beginning of the COVID-19 pandemic in the first quarter of 2020, the Singapore 
+
+government had rolled out its Jobs Support Scheme (“JSS”) to provide wage support to employers 
+
+to help them retain their local employees, comprising Singapore Citizens and Permanent Residents, 
+
+during this period of economic uncertainty. This scheme was further extended till March 2021. 
+
+Under the JSS, the Singapore government co-funded between 25% and 75% of the first S$4,600 of 
+
+gross monthly wages paid to each local employee in a 10-month period up to August 2020 and 
+
+between 10% and 50% of the same in the subsequent 7-month period from September 2020 to 
+
+March 2021. Employers received five main JSS payouts in April 2020, July 2020, October 2020, 
+
+March 2021 and June 2021 with an additional special payout in May 2020. The level and duration 
+
+of support each employer receives depends on the sector in which the employer operates. 
+
+
+
+
+ 
+
+12 | Page 
+
+ 
+
+Due to the COVID-19 pandemic restrictions continuing into 2021, the Singapore government rolled 
+
+out an enhanced payout corresponding to wages paid between August and October 2021, which 
+
+will be disbursed in December 2021.  
+
+Rental Rebate 
+
+As announced by the Ministry of Finance, to support businesses with rental costs during the two 
+
+Phase 2 (Heightened Alert) (“P2(HA)”) periods, the Singapore government will provide rental 
+
+support to Small and Medium Enterprises (“SMEs”) and eligible Non-Profit Organisations with an 
+
+annual revenue not exceeding S$100 million, who are tenant-occupiers of qualifying commercial 
+
+properties. For privately-owned commercial properties, some landlords have given rental waivers 
+
+or rebates to support their tenants during the P2(HA) periods. In order to provide additional support, 
+
+Inland Revenue Authority of Singapore will disburse rental support cash payouts directly to 
+
+qualifying tenants and owner-occupiers under the Rental Support Scheme. The first payout 
+
+disbursed since 6 August 2021, while the second payout will be disbursed from 22 September 2021.
+
+
+ 
+
+ 
+
+13 | Page 
+
+ 
+
+4. 
+
+ ECONOMIC 
+
+ 
+
+Markets Served 
+
+Investments and Trading Activities 
+
+CWX Investments is a Singapore-based investment company with key investments in Singapore. 
+
+ 
+
+Oil and Gas Business 
+
+The Group’s key asset is its 20% stake in the Concessions, which currently generates a steady 
+
+income stream from its existing oil producing wells. The Joint Operation sells all of its produced oil 
+
+to a single customer in Thailand. 
+
+ 
+
+There are currently thirteen production licenses under the Concessions, covering an area of 124.7 
+
+square kilometers. This asset holds significant proven reserves for development as well as 
+
+significant potential exploration upside that may create value enhancement and sustainable long-
+
+term growth. 
+
+ 
+
+Through continual cost optimization efforts, coupled with higher oil prices in 2021, the operations 
+
+of the Concessions are able to generate positive operating cash flows despite low oil production 
+
+volume. This has spurred the Joint Operation to expedite plans to conduct a drilling campaign for 
+
+five wells. The drilling campaign, which aims to increase oil reserves and oil production, is 
+
+scheduled to commence in the last quarter of 2021, subject to the current state of COVID-19 
+
+pandemic restrictions in Thailand. 
+
+ 
+
+Please refer to the following sections in the Company’s Annual Report for FY2021 for detailed 
+
+information on our financial results for FY2021: 
+
+● Letter to Shareholders 
+
+● Operations and Financial Review 
+
+● Two-Year Key Financial Highlights 
+
+● Independent Auditor’s Report (including the Notes to the Financial Statements) 
+
+
+ 
+
+ 
+
+14 | Page 
+
+ 
+
+ 
+
+5. 
+
+ ENVIRONMENTAL 
+
+ 
+
+The Group is acutely aware of the environmental impact on its business operations. Through our 
+
+influence in the Group’s subsidiaries’ operations, we ensure that our environmental impact is 
+
+minimized, health and safety standards are upheld and that all current laws and regulations are 
+
+fully adhered to. We have stood firm and required that each of the Group’s subsidiaries meets the 
+
+following (where applicable) in its operations: 
+
+● Conduct an Environmental Impact Assessment (“EIA”) prior to commencement of any 
+
+development activity; 
+
+● Assess energy efficiency at every level of operations, with the objective of minimizing 
+
+energy consumption and emissions of greenhouse gases; 
+
+● Ensure tracking, monitoring and reviewing of our environmental impact; 
+
+● Implement a strict asset maintenance regime to eliminate spills and other contamination; 
+
+● Educate and train our staff and subcontractors on our environmental policy and goals; 
+
+● Meet or exceed the required environmental or regulatory legislation during our operational 
+
+and development activities; 
+
+● Implement office recycling, repurposing and upcycling especially usage of office paper 
+
+printing; 
+
+● Support creative design concepts for our development activities that utilize alternative fuels, 
+
+reduce flaring and minimize facility size; and 
+
+● Minimise carbon footprint by reducing electricity usage. 
+
+ 
+
+When it comes to seismic and extraction operations, the Joint Operation has a strict corporate 
+
+policy to reduce risks to as low as practicable and aims to continue to closely monitor our 
+
+environmental targets both against legal limits and internal targets going forward. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+15 | Page 
+
+ 
+
+Managing Exploration, Appraisal and Development Well 
+
+Operations 
+
+ 
+
+The following summarizes the activities undertaken by the Joint Operation in connection with 
+
+exploration and appraisal drilling operations: 
+
+ 
+
+● Well design and planning; 
+
+● Well construction and handover or abandonment; 
+
+● Prepare drilling facilities and worksites; 
+
+● Management of well equipment and materials; 
+
+● Selection and management of contractors; 
+
+● Logistics management; and 
+
+● Environmental and waste management. 
+
+ 
+
+Waste Management 
+
+ 
+
+The Joint Operation has a wastewater management plan that complies with all local laws and 
+
+regulations. Each type of waste is segregated according to Thailand’s Department of Mineral Fuel 
+
+(“DMF”), Ministry of Energy waste codes and management protocol. The quantity of each type of 
+
+waste is carefully logged in the waste manifest system before being transported and treated by 
+
+registered waste transporters and waste disposers respectively. 
+
+ 
+
+Drilling cutting waste, which is non-hazardous, will be sent to the landfill to comply with the waste 
+
+management plan, while mud/clay drilling waste, which is hazardous, will be sent to a cement kiln 
+
+to be used as a raw material for the construction industry. 
+
+ 
+
+DMF’s waste codes and management protocol go far beyond drilling operations with different 
+
+codes for toxic water and various drilling muds, but also extends to the disposal of drilling hardware, 
+
+filters, lubricants and containers. All our waste processing is expected to meet or exceed the 
+
+guidelines set out in the initial EIA. 
+
+
+ 
+
+ 
+
+16 | Page 
+
+ 
+
+DMF’s waste codes and management protocol also extend to office waste, such as using different 
+
+codes for different types of AA and AAA batteries as well as different classes of paper and 
+
+cardboard for recycling. Office waste on site uses a septic tank in accordance with local regulations.  
+
+ 
+
+The Joint Operation aims to continue to meet legal and regulatory requirements going forward.  
+
+ 
+
+Biodiversity 
+
+ 
+
+The Joint Operation has a reforestation programme around all the well sites within the 
+
+Concessions, upon termination of the extraction, to encourage biodiversity. 
+
+ 
+
+Emissions 
+
+ 
+
+The laws of Thailand do not require air quality to be part of the EIA report. However, the Joint 
+
+Operation goes above and beyond these environmental regulations and has put in place a system 
+
+to monitor the air quality in the villages and communities near the drill sites to compare them with 
+
+an established baseline before the project was started. To date, the Joint Operation has not 
+
+recorded any deterioration in air quality attributed to the extraction operations within the 
+
+Concessions. 
+
+ 
+
+The Joint Operation will continue to monitor these environmental concerns going forward into 2022 
+
+and beyond. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+17 | Page 
+
+ 
+
+6. 
+
+ OCCUPATIONAL HEALTH AND SAFETY  
+
+ 
+
+Health and Safety Policy 
+
+ 
+
+The Joint Operation has a Safety Management System (“SMS”) policy in place with regular 
+
+inspections and audits. The Joint Operation has designated three levels of responses, with an 
+
+emergency response group with each level. The Joint Operation has a database of personnel 
+
+charged with emergency management responsibilities. 
+
+ 
+
+An Incident Response Team (“IRT”), which is located at the drill site in Wichian Buri, is trained to 
+
+handle all envisaged incidents and emergencies alongside a country-level Emergency Response 
+
+Group (“ERG”), which is based in Bangkok, Thailand. 
+
+ 
+
+The ERG conducts regular tests of both procedures and equipment to ensure that they are always 
+
+in a state of readiness along with regular training of all personnel to ensure everyone knows how 
+
+to respond to an emergency. 
+
+ 
+
+The IRT is the first responder to deal with all incidents and emergencies. The ERG provides 
+
+support, advice and off-location assistance, communicates with authorities and next-of-kin and 
+
+coordinates specialist support and recovery. Please refer to Diagram 4: Flowchart of Emergency 
+
+Response for more information. 
+
+
+ 
+
+ 
+
+18 | Page 
+
+ 
+
+Diagram 4:  Flowchart of Emergency Response 
+
+ 
+
+Control of Substances Hazardous to Health 
+
+ 
+
+The Joint Operation is committed to eliminate, or control risks arising from the use of any 
+
+hazardous substances that may present a health risk to employees. All such substances in use are 
+
+carefully identified and any potential risks are evaluated. Internal controls will then be put in place 
+
+to reduce that risk to an acceptable level. 
+
+ 
+
+Although the Joint Operation provides suitable personal protective equipment (Personal Protective 
+
+Equipment HSE-PM-004) for use by employees, this is not considered to be the primary control 
+
+measure. Elimination or substitution with a less harmful substance is the preferred management 
+
+option. 
+
+ 
+
+The Production Assets Manager, or Project Manager, is responsible for implementing all the 
+
+necessary precautions and controls and to ensure that the product has been assessed and any 
+
+hazards/risks evaluated. 
+
+ 
+
+
+
+
+ 
+
+ 
+
+19 | Page 
+
+ 
+
+The Joint Operation provides all employees with an annual health check-up programme in 
+
+accordance with the local laws and regulations in Thailand. Furthermore, all employees, who are 
+
+involved with extraction and who may come into contact with crude oil, have to undergo additional 
+
+periodic checks for benzene exposure through monitoring of their urine samples. 
+
+ 
+
+The Joint Operation has an Environmental Management System with its own Health Safety and 
+
+Environmental policy with clear procedures on oil spills, blowouts and chemical leakages. The Joint 
+
+Operation understands its legal and financial responsibilities to clean up any pollution arising from 
+
+its operations. The Joint Operation has contingency plans in place, which cover everything from 
+
+exploration, drilling to loading. 
+
+ 
+
+The drill sites are designed to protect underground water but nevertheless water quality is carefully 
+
+monitored in case of any unforeseen contamination. Water samples are taken as a baseline before 
+
+drilling and further samples are tested after drilling and after any level 2 oil spills. Samples are taken 
+
+and tested in areas near to the drilling site. Regular annual testing is also performed. All drainage 
+
+effluents are monitored and are currently within the limits of the pollution control department 
+
+standards of Thailand. 
+
+ 
+
+Similarly, surface water is monitored for contaminants with a baseline before and after drilling, after 
+
+any incident and annually to ensure safety. 
+
+ 
+
+Soil monitoring is conducted outside the boundary of the drill site, one upstream and one 
+
+downstream. Soil samples are checked for a list of pollutants at the end of the first year of 
+
+operations and every five years thereafter. 
+
+ 
+
+The Joint Operation uses non-toxic drilling fluids in its operations. Muds are stored in a polyvinyl 
+
+chloride (PVC)-lined sump that is constructed one meter above the site to ensure that they will not 
+
+leak into groundwater or soils. 
+
+ 
+
+Consideration is given to nearby residents, the closest of which are those living in a village two 
+
+kilometers from the site. Trucks deliveries are minimised and limited to during daylight hours. 
+
+ 
+
+
+ 
+
+ 
+
+20 | Page 
+
+ 
+
+The majority of waste gas is re-used for heating in the separation process though a small amount 
+
+is flared. Flaring has much less environmental and health impacts than venting of volatile 
+
+hydrocarbons. Air quality samples are taken at regular intervals around the clock, not just at the 
+
+site but also at three locations in three nearby villages. These results are carefully monitored for 
+
+traces of toxics, such as carbon monoxide, nitrogen dioxide and sulfur dioxide, and are reported to 
+
+the local community. To date, there have been no incidents regarding pollution from flaring. The 
+
+site also monitors and analyses PM10 soot as a by-product of flaring. 
+
+ 
+
+The Joint Operation has set procedures for the end-of-life of a well once the project is at a close. 
+
+Wellsite abandonment involves re-injecting sump liquids into the well or solidifying in a cement 
+
+mixture, capping the well with cement and planting trees over the entire area as part of introducing 
+
+biodiversity. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+21 | Page 
+
+ 
+
+7. 
+
+ PEOPLE 
+
+ 
+
+Labour Practices and Decent Work 
+
+ 
+
+The Group has a clear non-discrimination policy and also a strict anti-slavery and zero tolerance 
+
+child labour policy which is communicated within the Group. 
+
+ 
+
+We aim to continue our policies of zero child labour and anti-slavery and pay all employees their 
+
+contractual salaries promptly. 
+
+ 
+
+Employment 
+
+ 
+
+The Group has a fair, non-discriminatory employment policy through a formally structured interview 
+
+procedure. The Group recognizes the importance of training our entire staff in order to improve 
+
+standards and boost morale. As the Group operates in the oil and gas industry, specific Health and 
+
+Safety training is carried out and strictly overseen by both public and private bodies and this 
+
+certification certifies not just our full time employees but also our contractors to ensure safety at 
+
+all times. 
+
+ 
+
+ 
+
+Labour/Management Relations 
+
+ 
+
+Efficient communication within the organization, is essential for the SMS and other management 
+
+systems to function effectively. The communication structure is designed not only for the passage 
+
+of information but to motivate people through their involvement and understanding. It is recognized 
+
+that well motivated employees contribute more towards the overall success of the Group. Regular 
+
+meetings are held at the site, management and corporate levels to ensure operational safety as 
+
+well as to motivate our employees. 
+
+ 
+
+
+ 
+
+ 
+
+22 | Page 
+
+ 
+
+ 
+
+Training and Education 
+
+ 
+
+Here at CapAllianz, we believe in our employees and help them reach their fullest potential. The 
+
+Group has regular training for employees at all levels. For instance, office staff are trained and kept 
+
+up to date with the latest accounting standards, rules and regulations of the SGX-ST and related 
+
+courses under the Institute of Singapore Chartered Accountants and SkillFuture. At the end of each 
+
+training programme, participants are asked to summarize and circulate key points learnt to the rest 
+
+of the organization. In addition, the Group provides extensive safety training programmes to ensure 
+
+that all staff are up to date with the latest safety procedures and new staff are made aware of the 
+
+safety procedures in place.  We also encourage employees to further develop their skills by allowing 
+
+for study leave. 
+
+ 
+
+In FY2021, the Group conducted over 30 man-hours of training. Please refer to Table 1: Training of 
+
+Staff for more information.  
+
+ 
+
+TRAINING 
+
+SUMMARY 
+
+2021 (JUL-JUN 21) 
+
+2020 (JUL-JUN 20) 
+
+2019 (JUL-JUN 19) 
+
+2018 (JUL-JUN 18) 
+
+HOUR 
+
+TOTAL NO. 
+
+OF 
+
+EMPLOYEES 
+
+ATTENDED 
+
+TRAINING 
+
+AND % 
+
+HOUR 
+
+TOTAL NO. OF 
+
+EMPLOYEES 
+
+ATTENDED 
+
+TRAINING 
+
+AND % 
+
+HOUR 
+
+TOTAL NO. OF 
+
+EMPLOYEES 
+
+ATTENDED 
+
+TRAINING 
+
+AND % 
+
+HOUR 
+
+TOTAL NO. OF 
+
+EMPLOYEES 
+
+ATTENDED 
+
+TRAINING 
+
+AND % 
+
+Total No. of 
+
+Training 
+
+Hours  
+
+30 
+
+5 
+
+17% 
+
+66 
+
+5 
+
+0.07% 
+
+350 
+
+37 
+
+11% 
+
+254 
+
+33 
+
+13% 
+
+Average 
+
+Training 
+
+Hour / 
+
+Employee 
+
+6  
+
+ 
+
+1.16 
+
+ 
+
+ 
+
+3.24  
+
+ 
+
+2.19 
+
+ 
+
+ 
+
+Table 1: Training of Staff 
+
+ 
+
+
+ 
+
+ 
+
+23 | Page 
+
+ 
+
+Diversity and Equal Opportunity 
+
+ 
+
+In formulating employment policies, CapAllianz has been guided by relevant legislations to 
+
+establish its employees’ contracts. 
+
+ 
+
+These policies are regularly reviewed and new policies are introduced following consultation with 
+
+employees. 
+
+ 
+
+CapAllianz is committed to the promotion of Diversity and Equality and takes its responsibility to 
+
+promote equality of opportunity and eliminate unlawful discrimination seriously. 
+
+ 
+
+The Group’s policy is to hire and select based on merit. We look at potential employees’ skills, 
+
+experience or ability to perform the job regardless of age, race, gender, religion, marital status 
+
+and/or disability. Our goal is to create and maintain a healthy and positive working and learning 
+
+environment, which creates mutual respect and dignity and enables everyone to realize their full 
+
+potential. 
+
+ 
+
+The Group has a strict policy against bullying, discrimination, harassment, or victimization by or 
+
+towards any of our employees, contractors, suppliers, stakeholders and visitors. Any such cases 
+
+are taken seriously and may result in disciplinary or other appropriate action and, in serious cases, 
+
+may lead to termination of contract. 
+
+ 
+
+The Group has five staff in Singapore and the Joint Operation has fifty-five staff in Thailand. Please 
+
+refer to Diagram 5: Breakdown of Thailand and Singapore employees for 2018 to 2021 and Diagram 
+
+6: Length of Service for 2018 to 2021 for more information.  
+
+ 
+
+
+ 
+
+ 
+
+24 | Page 
+
+ 
+
+ 
+
+Diagram 5: Breakdown of Thailand and Singapore employees for 2018 to 2021 
+
+ 
+
+ 
+
+Diagram 6: Length of Service for 2018 to 2021 
+
+ 
+
+ 
+
+Equal Remuneration for Women and Men 
+
+ 
+
+The Group has an equal remuneration policy regardless of gender. We aim to continue employing 
+
+qualified individuals in their area of expertise and at the same time encourage them to grow to the 
+
+best of their abilities. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+25 | Page 
+
+ 
+
+Labour Practices and Grievance Mechanisms 
+
+ 
+
+All employees, suppliers, visitors, contractors and other stakeholders working at or on behalf of 
+
+CapAllianz share the responsibility of adhering to CapAllianz’s equality and diversity policies, 
+
+procedures and practices at all times whilst carrying out their duties. 
+
+ 
+
+They are also expected to maintain the highest standards of conduct whilst working on our behalf 
+
+or representing the Group. This also includes the duration of participation in professional and social 
+
+activities undertaken during the course of the Group’s business. 
+
+ 
+
+The Group emphasizes the importance of the well-being of all our staff. The Group strongly 
+
+supports career progression, allows employees to take time off to settle family issues, promotes 
+
+working from home in view of the current COVID-19 pandemic and organizes company dinners to 
+
+give employees valuable bonding time away from work. The Group provides the standard dental 
+
+and medical plans, annual leave, bonuses and insurance to its employees. 
+
+The Group had zero labour grievances during FY2021 and aims to maintain this record of zero 
+
+labour grievances in 2022 and beyond. 
+
+ 
+
+Local Communities 
+
+ 
+
+COVID-19 Pandemic  
+
+Singapore 
+
+Since 7 April 2020, when the Singapore government announced the start of the circuit-breaker 
+
+lockdown, all employees in the Singapore office have been working from home to ensure their 
+
+health and safety from the COVID-19 pandemic. Given the current evolving COVID-19 situation in 
+
+Singapore, all employees in the Singapore office will continue to work from home until further 
+
+notice. While working from home, all employees in the Singapore office communicate with each 
+
+other through electronic means such as video-conferencing and electronic mail. 
+
+ 
+
+
+ 
+
+ 
+
+26 | Page 
+
+ 
+
+Masks, wet wipes and sanitizers are distributed to the employees and placed in the office premises 
+
+to ensure cleanliness of the work environment. The Company adheres to the Singapore 
+
+government regulations and has in place the Company’s safe entry QR code at its entrance, red 
+
+tape markings to ensure one-meter safe distancing measure among employees and in meeting 
+
+rooms are adhered to and wearing of masks in the office premises by all employees at all times. 
+
+ 
+
+Thailand 
+
+The Joint Operation made various donations to many local groups during FY2021 to provide them 
+
+with assistance in view of the COVID-19 pandemic. 
+
+ 
+
+ 
+
+ 
+
+May 2021. Donated to Si Thep Hospital. 
+
+ 
+
+ 
+
+May 2021. Donated to Wichianburi Hospital.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+27 | Page 
+
+ 
+
+ 
+
+May 2021. Donated to Ta Rong – Community Health Center. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ June 2021. Donated dry surgical face masks to 
+
+communities close to well operation sites. 
+
+ 
+
+ 
+
+ 
+
+Corporate Social Responsibility (“CSR”)  
+
+In Thailand, the Joint Operation participated in a total of 33 community and charitable events during 
+
+FY2021 with a total contribution of THB592,888 (approximately S$24,000). Some of the CSR 
+
+highlights for FY2021 are as follows: 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+28 | Page 
+
+ 
+
+Education  
+
+ 
+
+ 
+
+On 12 November 2020, Corporate Reporting team of the Joint Operation participated in the 
+
+“Safety Officer Day” under Safety for School Activities, which was organized by Phetchabun 
+
+Department of Labour Protection and Welfare. 
+
+ 
+
+ 
+
+In January 2021, the Joint Operation donated electric fans to a Child Development Center in 
+
+Borang, Sub-district Administrative Organisation. 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+29 | Page 
+
+ 
+
+ 
+
+On 15 March 2021 and 22 March 2021, the Joint Operation welcomed students and professors 
+
+at the Wichianburi Industrial and Community Education College and the staff of the Joint 
+
+Operation shared knowledge about its production process and safety measures to students and 
+
+brought them to visit an oil field and well site as part of their field study. 
+
+ 
+
+Local Region, Culture and Tradition 
+
+ 
+
+ 
+
+7 October 2020. Annual robe offering ceremony. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+30 | Page 
+
+ 
+
+18 February 2021, the Joint Operation provided budget support to the Provincial and District 
+
+Administrative Organizations to help organize the Sweet Tamarind, Red Cross and OTOP Trade 
+
+Fair.  
+
+ 
+
+
+ 
+
+ 
+
+31 | Page 
+
+ 
+
+8. 
+
+ GOVERNANCE  
+
+ 
+
+Anti-Corruption 
+
+ 
+
+CapAllianz will always act honestly, openly, fairly and ethically wherever we do business. We are 
+
+committed to preventing corruption in all its forms and do not tolerate it in the course of our 
+
+business or in those with whom we do business with. 
+
+ 
+
+We strive to uphold all laws aimed at countering corruption in all jurisdictions in which we operate. 
+
+ 
+
+CapAllianz has a zero-tolerance approach to corruption and expects this of all staff, suppliers and 
+
+business partners.  
+
+ 
+
+Our policies encourage any employee who has any suspicion of bribery or other form of corruption 
+
+to report the suspicion to the audit committee chairman where it will be dealt with appropriately 
+
+and without fear of reprisal. 
+
+ 
+
+The Group has instinctively known that a good and caring social programme is key to employee 
+
+retention, which in turn, likely to improve employee productivity. We will continue to monitor these 
+
+criteria and formalize our data collection going forward. 
+
+ 
+
+The Group had zero corruption issues during FY2021 and aims to maintain this zero corruption 
+
+record in 2022 and beyond. 
+
+ 
+
+Enterprise Risk Management 
+
+ 
+
+The Group has in place several risk management measures to manage its exposure to risks that 
+
+are associated with the conduct of its business. Please refer to our financial statements set out in 
+
+the Company’s Annual Report for FY2021 for more details. Going forward, we endeavor to further 
+
+develop our risk management measures as our business diversifies. 
+
+ 
+
+
+ 
+
+ 
+
+32 | Page 
+
+ 
+
+ 
+
+Corporate Governance 
+
+ 
+
+The Board and the management of CapAllianz are committed to ensure high standards of 
+
+corporate governance for the protection of interests of the Company’s shareholders and to 
+
+promote investors’ confidence. The Company has complied substantially with the principles and 
+
+provisions set out in the Singapore Code of Corporate Governance 2018 for FY2021 and will 
+
+continue to enhance its corporate governance practices appropriate to the conduct and growth of 
+
+its business and review such practices on an ongoing basis to ensure compliance with the Catalist 
+
+Rules. Please refer to the “Corporate Governance Report'' section of the Company’s Annual Report 
+
+for FY2021 for information on the Group’s corporate governance practices.  
+
+ 
+
+Whistleblowing Policy 
+
+ 
+
+In line with good corporate governance practices, CapAllianz has implemented a whistleblowing 
+
+policy and has incorporated it into the Company’s internal control procedures. The whistleblowing 
+
+policy provides a well-defined and accessible channel in the Group through which the employees 
+
+may raise concerns about improper conduct within the Group. Please refer to the “Corporate 
+
+Governance Report” section of the Company’s Annual Report for FY2021 for information on the 
+
+Group’s whistleblowing policy.  
+
+ 
+
+The Group had no whistleblowing incidents during FY2021. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+33 | Page 
+
+ 
+
+GRI Content Index 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 102 
+
+102-1 
+
+General 
+
+Disclosures 
+
+Name of the organization 
+
+CapAllianz Holdings 
+
+Limited 
+
+GRI 102 
+
+102-2 
+
+General 
+
+Disclosures 
+
+Activities, brands, products, 
+
+and services 
+
+Annual Report 2021 
+
+GRI 102 
+
+102-3 
+
+General 
+
+Disclosures 
+
+Location of headquarters 
+
+Singapore 
+
+GRI 102 
+
+102-4 
+
+General 
+
+Disclosures 
+
+Location of operations 
+
+Annual Report 2021 
+
+GRI 102 
+
+102-5 
+
+General 
+
+Disclosures 
+
+Ownership and legal form 
+
+• 
+
+Annual Report 2021 
+
+• 
+
+Sustainability Report 
+
+2021: Board 
+
+Statement 
+
+GRI 102 
+
+102-6 
+
+General 
+
+Disclosures 
+
+Markets served 
+
+Sustainability Report 
+
+2021: Markets Served 
+
+GRI 102 
+
+102-7 
+
+General 
+
+Disclosures 
+
+Scale of the organization 
+
+• 
+
+Sustainability Report 
+
+2021: Diversity and 
+
+Equal Opportunity  
+
+• 
+
+Annual Report 2021: 
+
+Financial Statements 
+
+
+ 
+
+ 
+
+34 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 102 
+
+102-8 
+
+General 
+
+Disclosures 
+
+Information on employees 
+
+and other workers 
+
+Sustainability Report 
+
+2021: Diversity and Equal 
+
+Opportunity 
+
+GRI 102 
+
+102-9 
+
+General 
+
+Disclosures 
+
+Supply chain 
+
+Sustainability Report 
+
+2021: Oil's Supply Chain 
+
+GRI 102 
+
+102-10 
+
+General 
+
+Disclosures 
+
+Significant changes to the 
+
+organization and its supply 
+
+chain 
+
+None 
+
+GRI 102 
+
+102-11 
+
+General 
+
+Disclosures 
+
+Precautionary Principle or 
+
+approach 
+
+CapAllianz does not 
+
+specifically addressed 
+
+the precautionary 
+
+approach 
+
+GRI 102 
+
+102-12 
+
+General 
+
+Disclosures 
+
+External initiatives 
+
+Sustainability Report 
+
+2021: Local 
+
+Communities 
+
+GRI 102 
+
+102-13 
+
+General 
+
+Disclosures 
+
+Membership of associations 
+
+None related to 
+
+Sustainability 
+
+GRI 102 
+
+102-14 
+
+General 
+
+Disclosures 
+
+Statement from senior 
+
+decision-maker 
+
+Sustainability Report 
+
+2021: Board Statement 
+
+GRI 102 
+
+102-15 
+
+General 
+
+Disclosures 
+
+Key impacts, risks, and 
+
+opportunities 
+
+Sustainability Report 
+
+2021: Economic 
+
+
+ 
+
+ 
+
+35 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 102 
+
+102-16 
+
+General 
+
+Disclosures 
+
+Values, principles, standards, 
+
+and norms of behavior 
+
+Sustainability Report 
+
+2021: Management 
+
+Approach 
+
+GRI 102 
+
+102-17 
+
+General 
+
+Disclosures 
+
+Mechanisms for advice and 
+
+concerns about ethics 
+
+Annual Report 2021: 
+
+Corporate Governance 
+
+Report 
+
+GRI 102 
+
+102-40 
+
+General 
+
+Disclosures 
+
+List of stakeholder groups 
+
+Sustainability Report 
+
+2021: Stakeholder 
+
+Engagement 
+
+GRI 102 
+
+102-42 
+
+General 
+
+Disclosures 
+
+Identifying and selecting 
+
+stakeholders 
+
+Sustainability Report 
+
+2021: Stakeholder 
+
+Engagement 
+
+GRI 102 
+
+102-43 
+
+General 
+
+Disclosures 
+
+Approach to stakeholder 
+
+engagement 
+
+Sustainability Report 
+
+2021: Stakeholder 
+
+Engagement 
+
+GRI 102 
+
+102-43 
+
+General 
+
+Disclosures 
+
+Approach to stakeholder 
+
+engagement 
+
+Sustainability Report 
+
+2021: Stakeholder 
+
+Engagement 
+
+GRI 102 
+
+102-44 
+
+General 
+
+Disclosures 
+
+Key topics and concerns 
+
+raised 
+
+Sustainability Report 
+
+2021: Material Factors 
+
+GRI 102 
+
+102-45 
+
+General 
+
+Disclosures 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Annual Report 2021: 
+
+Financial Statements 
+
+
+ 
+
+ 
+
+36 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 102 
+
+102-46 
+
+General 
+
+Disclosures 
+
+Defining report content and 
+
+topic Boundaries 
+
+Sustainability Report 
+
+2021: Report Scope 
+
+GRI 102 
+
+102-47 
+
+General 
+
+Disclosures 
+
+List of material topics 
+
+Sustainability Report 
+
+2021: Material Factors 
+
+GRI 102 
+
+102-50 
+
+General 
+
+Disclosures 
+
+Reporting period 
+
+1 July 2021 to 30 June 
+
+2021 
+
+GRI 102 
+
+102-52 
+
+General 
+
+Disclosures 
+
+Reporting cycle 
+
+Annually 
+
+GRI 102 
+
+102-53 
+
+General 
+
+Disclosures 
+
+Contact point for questions 
+
+regarding the report 
+
+Sustainability Report 
+
+2021: Board Statement 
+
+and Materiality 
+
+Assessment 
+
+GRI 102 
+
+102-54 
+
+General 
+
+Disclosures 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+Sustainability Report 
+
+2021: Board Statement 
+
+GRI 102 
+
+102-55 
+
+General 
+
+Disclosures 
+
+GRI content index 
+
+Sustainability Report 
+
+2021: GRI Content Index 
+
+GRI 103 
+
+103-1 
+
+Management 
+
+Approach 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Sustainability Report 
+
+2021: Materiality 
+
+Assessment 
+
+
+ 
+
+ 
+
+37 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 103 
+
+103-2 
+
+Management 
+
+Approach 
+
+The management approach 
+
+and its components 
+
+Sustainability Report 
+
+2021: Management 
+
+Approach 
+
+GRI 103 
+
+103-3 
+
+Management 
+
+Approach 
+
+Evaluation of the 
+
+management approach 
+
+Sustainability Report 
+
+2021: Management 
+
+Approach 
+
+GRI 201 
+
+201-1 
+
+Economic 
+
+Performance 
+
+Direct economic value 
+
+generated and distributed 
+
+Annual Report 2021: 
+
+Two-Year Key Financial 
+
+Highlights and Financial 
+
+Statements 
+
+GRI 201 
+
+201-2 
+
+Economic 
+
+Performance 
+
+Financial implications and 
+
+other risks and opportunities 
+
+due to climate change 
+
+Not applicable 
+
+GRI 201 
+
+201-3 
+
+Economic 
+
+Performance 
+
+Defined benefit plan 
+
+obligations and other 
+
+retirement plans 
+
+Not applicable 
+
+GRI 201 
+
+201-4 
+
+Economic 
+
+Performance 
+
+Financial assistance received 
+
+from government 
+
+Sustainability Report 
+
+2021: Financial 
+
+Assistance Received 
+
+from the Government 
+
+GRI 205 
+
+205-1 
+
+Anti-corruption Operations assessed for risks 
+
+related to corruption 
+
+Sustainability Report 
+
+2021: Anti-Corruption 
+
+
+ 
+
+ 
+
+38 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 205 
+
+205-2 
+
+Anti-corruption Communication and training 
+
+about anti-corruption policies 
+
+and procedures 
+
+Sustainability Report 
+
+2021: Anti-Corruption 
+
+GRI 205 
+
+205-3 
+
+Anti-corruption Confirmed incidents of 
+
+corruption and actions taken 
+
+None 
+
+GRI 206 
+
+206-1 
+
+Anti-
+
+competitive 
+
+Behavior 
+
+Legal actions for anti-
+
+competitive behavior, anti-
+
+trust, and monopoly practices 
+
+Sustainability Report 
+
+2021: Anti-Corruption 
+
+GRI 304 
+
+304-1 
+
+Biodiversity 
+
+Operational sites owned, 
+
+leased, managed in, or 
+
+adjacent to, protected areas 
+
+and areas of high biodiversity 
+
+value outside protected areas 
+
+Not applicable 
+
+GRI 304 
+
+304-2 
+
+Biodiversity 
+
+Significant impacts of 
+
+activities, products, and 
+
+services on biodiversity 
+
+Not applicable 
+
+GRI 304 
+
+304-3 
+
+Biodiversity 
+
+Habitats protected or restored Not applicable 
+
+GRI 304 
+
+304-4 
+
+Biodiversity 
+
+IUCN Red List species and 
+
+national conservation list 
+
+species with habitats in areas 
+
+affected by operations 
+
+Not applicable 
+
+
+ 
+
+ 
+
+39 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 305 
+
+305-7 
+
+Emissions 
+
+Nitrogen oxides (NOX), sulfur 
+
+oxides (SOX), and other 
+
+significant air emissions 
+
+Sustainability Report 
+
+2021: Emissions 
+
+GRI 401 
+
+401-1 
+
+Employment 
+
+New employee hires and 
+
+employee turnover 
+
+Sustainability Report 
+
+2021: Diversity and Equal 
+
+Opportunity 
+
+GRI 401 
+
+401-2 
+
+Employment 
+
+Benefits provided to full-time 
+
+employees that are not 
+
+provided to temporary or part-
+
+time employees 
+
+Sustainability Report 
+
+2021: Diversity and Equal 
+
+Opportunity 
+
+GRI 401 
+
+401-3 
+
+Employment 
+
+Parental leave 
+
+Sustainability Report 
+
+2021: Diversity and Equal 
+
+Opportunity 
+
+GRI 402 
+
+402-1 
+
+Labor/Manage
+
+ment Relations 
+
+Minimum notice periods 
+
+regarding operational 
+
+changes 
+
+Sustainability Report 
+
+2021: Diversity and Equal 
+
+Opportunity 
+
+GRI 403 
+
+403-1 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Workers representation in 
+
+formal joint management–
+
+worker health and safety 
+
+committees 
+
+Sustainability Report 
+
+2021: 
+
+Labour/Management 
+
+Relations 
+
+GRI 403 
+
+403-2 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Types of injury and rates of 
+
+injury, occupational diseases, 
+
+lost days, and absenteeism, 
+
+Sustainability Report 
+
+2021: Occupational 
+
+Health and Safety 
+
+
+ 
+
+ 
+
+40 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+and number of work-related 
+
+fatalities 
+
+GRI 403 
+
+403-3 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Workers with high incidence 
+
+or high risk of diseases 
+
+related to their occupation 
+
+Sustainability Report 
+
+2021: Control of 
+
+Substances Hazardous 
+
+to Health 
+
+GRI 403 
+
+403-4 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Health and safety topics 
+
+covered in formal agreements 
+
+with trade unions 
+
+None 
+
+GRI 404 
+
+404-1 
+
+Training and 
+
+Education 
+
+Average hours of training per 
+
+year per employee 
+
+Sustainability Report 
+
+2021: Training and 
+
+Education 
+
+GRI 404 
+
+404-2 
+
+Training and 
+
+Education 
+
+Programs for upgrading 
+
+employee skills and transition 
+
+assistance programs 
+
+Sustainability Report 
+
+2021: Training and 
+
+Education 
+
+GRI 404 
+
+404-3 
+
+Training and 
+
+Education 
+
+Percentage of employees 
+
+receiving regular performance 
+
+and career development 
+
+reviews 
+
+Sustainability Report 
+
+2021: Training and 
+
+Education 
+
+GRI 412 
+
+412-1 
+
+Human Rights 
+
+Assessment 
+
+Operations that have been 
+
+subject to human rights 
+
+reviews or impact 
+
+assessments 
+
+Sustainability Report 
+
+2021: Training and 
+
+Education 
+
+
+ 
+
+ 
+
+41 | Page 
+
+ 
+
+GRI 
+
+Standard 
+
+Number 
+
+Disclosure 
+
+Number 
+
+GRI Standard 
+
+Title 
+
+Disclosure Title 
+
+Response - Group level 
+
+GRI 412 
+
+412-2 
+
+Human Rights 
+
+Assessment 
+
+Employee training on human 
+
+rights policies or procedures 
+
+Sustainability Report 
+
+2021: Training and 
+
+Education 
+
+GRI 412 
+
+412-3 
+
+Human Rights 
+
+Assessment 
+
+Significant investment 
+
+agreements and contracts 
+
+that include human rights 
+
+clauses or that underwent 
+
+human rights screening 
+
+Not applicable 
+
+GRI 413 
+
+413-1 
+
+Local 
+
+Communities 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+Sustainability Report 
+
+2021: Local 
+
+Communities 
+
+GRI 413 
+
+413-2 
+
+Local 
+
+Communities 
+
+Operations with significant 
+
+actual and potential negative 
+
+impacts on local communities 
+
+Sustainability Report 
+
+2021: Local 
+
+Communities 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8 Wilkie Road
+
+#03-01 Wilkie Edge 
+
+Singapore 228095
+
+Tel: (65) 6826 2549
+
+Website: www.capallianzholdings.com
+
+Investors and Media: enquiries@capallianzholdings.com
+
+SUSTAINABILITY REPORT 2021
+
+
+

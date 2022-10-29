@@ -1,0 +1,6101 @@
+
+0 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT FY2020 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+1 
+
+ 
+
+ 
+
+Contents                                                                                                          Page 
+
+ 
+
+ABOUT THE REPORT ......................................................................................................................................... 2 
+
+FEEDBACK ........................................................................................................................................................ 2 
+
+BOARD STATEMENT ON SUSTAINABILITY ........................................................................................................ 2 
+
+ABOUT THE GROUP.......................................................................................................................................... 4 
+
+SR GOVERNANCE STRUCTURE ......................................................................................................................... 5 
+
+STRATEGIC APPROACH FOR SUSTAINABILITY .................................................................................................. 5 
+
+STAKEHOLDER ENGAGEMENT ......................................................................................................................... 5 
+
+MATERIALITY ASSESSMENT ............................................................................................................................. 7 
+
+PROCUREMENT PRACTICE ............................................................................................................................... 8 
+
+ENVIRONMENTAL ............................................................................................................................................ 9 
+
+SOCIAL ............................................................................................................................................................ 10 
+
+GOVERNANCE ................................................................................................................................................ 14 
+
+GLOBAL REPORTING INITIATIVE (GRI) CONTENT INDEX ................................................................................ 15 
+
+ 
+
+ 
+
+ 
+
+
+2 
+
+ 
+
+ABOUT THE REPORT 
+
+Reporting Boundary  
+
+As a guide, this report covers operations and all subsidiaries for which Fuxing China Group 
+
+Limited (“Fuxing” or together with its subsidiaries, the “Group”) has management control, unless 
+
+otherwise stated. It seeks to prove an overview of our approach, practices, commitment, and 
+
+performance of the Group’s material Environmental, Social and Governance (“ESG”) topics. The 
+
+report covers the sustainability performance of our substantial operations in the People’s 
+
+Republic of China (“PRC”) from 1 January 2020 to 31 December 2020 (“FY2020”).  
+
+Reporting Period &amp; Standard 
+
+The reporting period is the same as that of the financial year of the Group (1 January 2020 to 31 
+
+December 2020) and will be published on an annual basis in accordance with Singapore 
+
+Exchange Limited (“SGX”) requirements. 
+
+This report was prepared in accordance with the Global Reporting Initiative (“GRI”) Standards – 
+
+“Core” reporting requirements. The GRI Standards is the most widely used and internationally 
+
+accepted sustainability reporting framework. A GRI Index at the end of the report specifies the 
+
+location of the relevant disclosures. 
+
+Independent Assurance 
+
+The ESG performance data presented in the report have mainly been extracted from internal 
+
+information systems and original records to ensure accuracy. The Group has not sought external 
+
+assurance for this sustainability report but have relied on internal verification to ensure the 
+
+accuracy of data. 
+
+FEEDBACK 
+
+We are fully committed to our stakeholders and we welcome feedback on any aspect of our 
+
+sustainability policies, processes and performance.  
+
+Kindly address all feedback to oilinfxcg@gmail.com. Your feedback is vital to us in achieving our 
+
+goals to build a sustainable and thriving business. As an attempt to promote environmental 
+
+conservation, there will be no hard copies of this report.  
+
+ 
+
+ 
+
+
+
+
+3 
+
+ 
+
+BOARD STATEMENT ON SUSTAINABILITY  
+
+Fuxing China Group Limited (“Fuxing” or together with its subsidiaries, the “Group”) is pleased to 
+
+issue its third sustainability report prepared in accordance with the GRI Standards and in 
+
+compliance with the SGX-ST guidelines on sustainability reporting.  
+
+The Group endeavours and is committed to continually consider material environmental, social 
+
+and governance topics as part of our core business strategy. The report seeks to present an 
+
+accurate and even account of our practices and performance in our quest to be a sustainable, 
+
+responsible corporate citizen. 
+
+The Board of Directors (“Board”) and senior management (“Management”) remains committed to 
+
+establish and maintain an effective Sustainability Management framework, which is supported by 
+
+underlying internal controls, risk management practices, clear accountability and reporting 
+
+process. The Board evaluates and considers ESG risks and opportunities relevant to the Group 
+
+during the formulation of overall business strategy, objectives and performance measurements.  
+
+The Sustainability Reporting (“SR”) Committee supports the Management in identifying the type 
+
+of relevant ESG topics caused by its day-to-day operations. Management then determines the 
+
+materiality of the ESG topics based on the level of significance of impact, and influence on 
+
+stakeholder values, and the achievement of the Group’s strategic objectives. The Board supports 
+
+and approves the identification and assessment parameters of material ESG topics.  
+
+The ESG topics in this report reviewed by the Board and Management is assessed to be material 
+
+and relevant. The Board and Management shall continue to dedicate leadership and maintain a 
+
+high standard of sustainability governance to drive continuous and long-term growth for all its 
+
+stakeholders. The Group will continue to work towards a balanced disclosure on the management 
+
+and monitoring of material ESG topics for continual improvement. 
+
+ 
+
+ 
+
+
+4 
+
+ 
+
+ABOUT THE GROUP 
+
+Corporate Profile 
+
+Since its establishment in 1993, Fuxing China has built up a credible track record and market 
+
+reputation, having garnered over 20 awards in the past 15 years. Its proprietary “3F” brand has 
+
+been named the “Symbolic Brand of China” by First Chinese Well Known brand Conference in 
+
+2006 and “PRC Top 10 Famous Zipper Brands” by the Hardware Association of the PRC in 2005.  
+
+In January 2007, Fuxing China’s products were awarded the Intertek Eco-Certification, which 
+
+allows the Group’s products to be sold in the international markets. Today the Group’s zipper 
+
+products are exported to Australia, the EU, Russia, Turkey, Korea, Thailand, Vietnam, Indonesia 
+
+and many other countries.  
+
+In 2008, the Group expanded its production facilities to Shanghai and Qingdao to develop new 
+
+customer base and to be nearer to its existing customers there. More notably, in 2008, Fuxing 
+
+China was named one of the 200 companies in Forbes Asia’s Fourth Annual Best Under a Billion 
+
+List, which focuses on Asia Pacific companies with under $1 billion in sales. 
+
+All our products are certified under the Intertek Eco-Certification, our manufacturing zipper 
+
+products are produced in accordance with the PRC zipper industry standards. To ensure 
+
+continuous innovation in product quality and improved efficiency, the Group places strong 
+
+emphasis on product and technical Research and Development (“R&amp;D”). 
+
+The Group owns a research partnership with the Software Institute of Xiamen University, with the 
+
+aim of enhancing production efficiencies and automation in the manufacturing of zipper products. 
+
+As a testament of our strength in R&amp;D, the Group’s R&amp;D facility was verified as a “Fujian 
+
+Provincial Level Enterprise Technology Centre” back in December 2006. Towards the end of 
+
+2009, the Group was also awarded the “New and High Technology Enterprise” by the Fujian 
+
+Provincial Government. We currently own 18 design patents, 12 utility patents and 2 invention 
+
+patents. 
+
+Vision 
+
+The Group aims to continuously seek business 
+
+opportunities in line with our strategic growth and to 
+
+deliver value to our customers and stakeholders as we 
+
+continue to explore and expand our business 
+
+operations.  
+
+ 
+
+Within the industry, we have also upheld a reputation 
+
+for quality and high standards in our operations, as 
+
+well as excellence in our operations management. 
+
+With a diversified customer base of over 1600 
+
+customers in the PRC, Fuxing China’s end products 
+
+are used by renowned brands such as Anta, 
+
+Septwolves, CBA Leisu, LiNing, 361o, Samsonite, 
+
+Fujian Peak and Northpole China, in a wide variety of 
+
+end-products such as apparels, shoes, bags and 
+
+camping equipment. 
+
+Awards &amp; Certification  
+
+As 
+
+a 
+
+group 
+
+and 
+
+across 
+
+our 
+
+subsidiaries, we have attained and 
+
+maintained 
+
+various 
+
+awards 
+
+and 
+
+certifications, such as the following: 
+
+ 
+
+Certification for ISO 9001: 2015 
+
+Quality Management Systems 
+
+ 
+
+ISO 14001: 2015 Certification – 
+
+Environmental 
+
+Management 
+
+Systems 
+
+ 
+
+ISO 18001: 2007 Occupational 
+
+Health &amp; Safety  
+
+ 
+
+ 
+
+
+5 
+
+ 
+
+SR GOVERNANCE STRUCTURE 
+
+Sustainability is integrated into our business and embedded across various roles and functions. 
+
+The SR Committee, chaired by Mr Hong Qing Liang, our Executive Chairman and Chief 
+
+Executive Officer (“CEO”), comprises specific working groups with senior management and board 
+
+level representatives from across our different businesses executes and reports on the material 
+
+ESG aspects. Additionally, the committee focuses in areas of formulating, implementing and 
+
+reviewing the Group’s sustainable policies and practices, sustainability development programs 
+
+and initiatives. The Board review and oversee the management and monitoring of the material 
+
+ESG factors, as well as ensure that sustainability matters are considered as part of its business 
+
+strategy, and in line with the Group’s strategic development. 
+
+STRATEGIC APPROACH FOR SUSTAINABILITY 
+
+Fuxing firmly believes that while our businesses are driven by earnings, what we do must also 
+
+have a positive impact on environment, employees and all other stakeholders in our value chain. 
+
+In FY2020, the Group has with the help of an independent external consultants reviewed and 
+
+defined our approach to sustainability management. We have reviewed our existing non-financial 
+
+topics concluded that these topics below are material to the sustainability of our financial 
+
+performance and business operations.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+ 
+
+ 
+
+ 
+
+         Our Materiality Assessment Process 
+
+Supported by a 
+
+systematic &amp; 
+
+interactive process 
+
+to identify, 
+
+categorise and 
+
+prioritise material 
+
+ESG topics 
+
+ 
+
+Identify 
+
+Define a list of 
+
+potential material 
+
+ESG topics 
+
+ 
+
+ 
+
+Categorise 
+
+Refine the list of 
+
+topics by clustering 
+
+them into 
+
+categories  
+
+ 
+
+Prioritise  
+
+Engage SR Committee 
+
+for feedback and 
+
+validation of each topics 
+
+based on importance to 
+
+internal and external 
+
+stakeholders 
+
+1. Please refer to Financial Statement of the annual report. 
+
+2. Please refer to the Corporate Governance section of the annual report for more details. 
+
+STAKEHOLDER ENGAGEMENT 
+
+The Group recognises that knowing and understanding the demands and concerns of 
+
+stakeholders is key to sustainable growth and that regular engagement with stakeholders helps 
+
+us to better determine material areas of focus. The Group operates and maintains diverse 
+
+communication channels and platforms to listen to stakeholders’ requirements and opinions. In 
+
+FY2020, the SR Committee with the support of independent external consultant have reviewed 
+
+and ascertained that employees, customers, shareholder and investors, and business partners 
+
+are our key stakeholder groups (See Exhibit 2).  
+
+Economic 
+
+ 
+
+Environmental 
+
+ 
+
+Social 
+
+ 
+
+Governance 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Economic 
+
+Performance 1 
+
+ 
+
+Environmental 
+
+Compliance 
+
+ 
+
+Employment 
+
+ 
+
+Anti-Corruption  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Procurement 
+
+Practices 
+
+ 
+
+ 
+
+ 
+
+Training &amp; 
+
+Development 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Occupational 
+
+Health &amp; Safety 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6 
+
+ 
+
+Exhibit 2. Our Key Stakeholder Groups 
+
+ 
+
+ 
+
+ 
+
+Employees 
+
+We recognise that our employees are fundamental 
+
+to the Group’s productivity and continuity. We aim 
+
+to nurture them well to increase their engagement 
+
+and contribution to the Group. 
+
+ 
+
+How We 
+
+Engage 
+
+Main Concerns 
+
+&amp; Expectations 
+
+How We Respond 
+
+ Regular 
+
+Meetings 
+
+ Open feedback 
+
+platform 
+
+ Annual 
+
+performance 
+
+appraisals 
+
+ Teambuilding 
+
+activities 
+
+ Department 
+
+updates 
+
+ Training &amp; 
+
+career 
+
+development 
+
+opportunities 
+
+ Health &amp; 
+
+Safety 
+
+ Job security  
+
+By adopting sound 
+
+HR policies and 
+
+practices that 
+
+promote fair 
+
+treatment and safe 
+
+working conditions, 
+
+rewards and 
+
+recognition. 
+
+ 
+
+Customers 
+
+We strive to maximise our customer satisfaction, to 
+
+increase our sales and revenue. We ensure that we 
+
+understand our customers’ needs and expectations 
+
+and we aim to build long lasting relationships with 
+
+our customers to win their support and confidence. 
+
+How We 
+
+Engage 
+
+Main Concerns 
+
+&amp; Expectations 
+
+How We Respond 
+
+ Product sales 
+
+channel 
+
+ Customer 
+
+service 
+
+feedback 
+
+ Regular direct 
+
+engagement 
+
+and active 
+
+partnership. 
+
+ Product and 
+
+service quality 
+
+ Group’s 
+
+reputation in 
+
+the market 
+
+ Competition  
+
+By establishing 
+
+policies for quality 
+
+control and 
+
+assurance that 
+
+ensure our goods 
+
+are of excellent 
+
+quality and to 
+
+promptly address 
+
+customer 
+
+complaints. 
+
+ 
+
+ 
+
+ 
+
+Shareholders and Investors 
+
+We aim to maintain profitability and maximise 
+
+shareholders’ return, as well as uphold a high 
+
+standard of corporate governance and 
+
+transparency. 
+
+How We 
+
+Engage 
+
+Main Concerns 
+
+&amp; Expectations 
+
+How We Respond 
+
+ Company 
+
+website, phone 
+
+and email 
+
+channels 
+
+ AGM / Analyst/ 
+
+Investors 
+
+meetings 
+
+ SGX 
+
+announcement 
+
+and media 
+
+release 
+
+ Group strategic 
+
+development  
+
+ Current 
+
+financial 
+
+performance 
+
+ Future 
+
+business 
+
+outlook  
+
+By being 
+
+transparent and 
+
+proactive in 
+
+engaging. The 
+
+Group retains an 
+
+investor relations 
+
+firm to assist in the 
+
+timely 
+
+dissemination of 
+
+material 
+
+information. 
+
+ 
+
+Business Partners 
+
+We work closely with our suppliers, contractors and 
+
+other partners to ensure that all our operations that 
+
+were carried out are in line with our sustainability 
+
+efforts and industry practices.  
+
+How We 
+
+Engage 
+
+Main Concerns 
+
+&amp; Expectations 
+
+How We Respond 
+
+ Regular 
+
+meetings and 
+
+visits 
+
+ Phone and 
+
+email channels 
+
+ Integrity and 
+
+effectiveness of 
+
+tender process 
+
+ Environmental, 
+
+safety and 
+
+health practices 
+
+ Product and 
+
+technology 
+
+updates 
+
+ Performance 
+
+reviews 
+
+By establishing 
+
+policies and 
+
+guidelines that 
+
+ensure a fair 
+
+selection and 
+
+procurement 
+
+process, and 
+
+ethical business 
+
+practices. 
+
+ 
+
+ 
+
+List of Memberships of Association 
+
+Aspiring to widen our exposure to industry standards and collaborate within and beyond the 
+
+industry to improve on current sustainable practices. The Group participate as members of 
+
+organisations that include: 
+
+ 
+
+China National Hardware Association (“中国五金协会”) 
+
+ 
+
+China Zipper Industry Association (“中国拉链协会”) 
+
+
+
+
+
+
+
+
+
+
+7 
+
+ 
+
+MATERIALITY ASSESSMENT 
+
+Materiality with respect to sustainability reporting, as defined by GRI Standards, includes topics 
+
+and indicators that reflect the organisation’s significant economic, environmental, and social 
+
+impacts; and would substantively influence the assessments and decisions of stakeholders. 
+
+Guided by an external independent consultant and having considered the topics of concerns and 
+
+expectation of identified key stakeholders, the SR Committee together with the Management 
+
+have assessed and prioritised the material topics to focus on for the Group.  
+
+Material  
+
+ESG Topics 
+
+Targets and Commitments  
+
+Key Highlights 
+
+FY2020 
+
+FY2019 
+
+ECONOMIC 
+
+Economic 
+
+Performance 
+
+Please refer to Financial Statement of the annual report. 
+
+Procurement 
+
+Practice 
+
+ Create positive economic impact 
+
+within our business eco-system. 
+
+88% 
+
+of 
+
+materials 
+
+purchased were from local 
+
+suppliers. 
+
+90% 
+
+of 
+
+materials 
+
+purchased were from local 
+
+suppliers. 
+
+ENVIRONMENTAL 
+
+Environmental 
+
+Compliance 
+
+ Zero incidents of non-compliance 
+
+ No 
+
+significant 
+
+fines 
+
+or 
+
+non-
+
+monetary 
+
+sanctions 
+
+for 
+
+non-
+
+compliance 
+
+with 
+
+environmental 
+
+laws and regulations 
+
+Zero incident of regulatory non-compliance maintained. 
+
+No significant fines/non-monetary sanctions for non-
+
+compliance with environmental laws and regulations. 
+
+SOCIAL 
+
+Fair 
+
+Employment 
+
+ Continue to promote diversity and 
+
+equal opportunity in the workplace. 
+
+ Comply with local labour 
+
+regulations across our operations. 
+
+The Group continues to embrace diversity and equal 
+
+opportunity in the workplace. The Group also remained 
+
+compliant with respective local regulations across our 
+
+operations. There was no incident of complaints of 
+
+discrimination against the Group. 
+
+Please refer to Employment for employee gender and 
+
+age breakdown. 
+
+Training and 
+
+Education 
+
+ Maintain an average of 2 hours of 
+
+training per employee annually. 
+
+ Ensure learning and development 
+
+roadmap account for future skills 
+
+required to improve the efficiency 
+
+of the business. 
+
+Maintained an average of 
+
+2.6 hours of training per 
+
+employee. 
+
+Maintained an average of 
+
+2 hours of training per 
+
+employee. 
+
+100% 
+
+of 
+
+employee 
+
+received performance and 
+
+career 
+
+development 
+
+review.  
+
+Occupational  
+
+Health and 
+
+Safety 
+
+ Zero fatalities and/or workplace 
+
+injuries. 
+
+Zero workplace fatalities, total permanent injuries and 
+
+occupational health and diseases. 
+
+No loss days due to injuries. 
+
+2 fire drills and safety talks conducted. 
+
+GOVERNANCE 
+
+Anti-
+
+Corruption 
+
+ Zero tolerance to bribery and 
+
+corruption, 
+
+including 
+
+facilitation 
+
+payment. 
+
+No confirmed cases of corruption and/or substantiated 
+
+whistle-blowing cases. 
+
+ 
+
+The material ESG topics were also reviewed by the Board and determined as being relevant. 
+
+Moving forward, to keep abreast of critical issues, the SR Committee, supporting the Board in its 
+
+oversight, will continue to review annually material ESG topics against the changing business 
+
+environment, stakeholder opinions, and emerging global and local trends. 
+
+
+8 
+
+ 
+
+PROCUREMENT PRACTICE 
+
+The Group firmly believes that its suppliers and subcontractors as key business partners that are 
+
+capable to create positive economic impact, thus enhancing stakeholder’s return. In this respect, 
+
+the Group maintains a rigorous selection process in vendors selection, which are based on the 
+
+past track records and adherence to occupational health and safety standards.  
+
+We have also developed procurement policies and guidelines to guide our process, such as:  
+
+ 
+
+Guidelines and procedures in selecting and evaluating vendors  
+
+ 
+
+Code of conduct when dealing with vendors  
+
+As part of supplier onboarding, suppliers are assessed under stringent criteria. These include 
+
+track records, financial strength as well as commitments towards high quality, health and safety 
+
+standards and sustainability. As we consider sustainability as one of the key factors in selecting a 
+
+supplier, for that reason, we evaluate the potential candidates based on their sustainability 
+
+performance and practices. Often, there would be a collaboration with partners and supplier to 
+
+redesign our product offerings to reduce the negative impact on the environment in this area. 
+
+All of our suppliers are required to submit relevant environment certifications to prove they are 
+
+licensed or certified according to the law and regulations. Additionally, we conduct random 
+
+periodic checks to ensure they are following the relevant laws and regulations. The Group carries 
+
+out the necessary due diligence, so as not to compromise on quality or allow our suppliers to 
+
+have any detrimental effects on the environment.  
+
+The Group purchases a range of raw materials from its suppliers, with polyester and zinc alloy 
+
+being our main raw materials. Purchases from local material suppliers accounted for 88% of the 
+
+total purchases in FY2020 compared to 90% in FY2019. During the reporting period, the Group’s 
+
+raw material purchases amounted to RMB 303.4 million/ approximate SGD 61.6 million  (FY2019: 
+
+RMB 313.0 million/ approximate SGD 60.4 million). 
+
+We will continue to remain fully committed to continue procuring responsibly while generating 
+
+positive economic and social benefits for the local community we operate in. 
+
+ 
+
+ 
+
+
+9 
+
+ 
+
+ENVIRONMENTAL  
+
+To address global issues of resource scarcity and a changing climate, we recognise the 
+
+importance of integrating environmental considerations into the Group’s business decisions. We 
+
+are committed to understanding, managing and minimizing our environmental footprint across our 
+
+value chain, including our business operations, suppliers and customers. Our environment efforts 
+
+are largely focused on maximizing material utilisation and optimising energy consumption. We will 
+
+continue to strengthen our expertise in the areas of environmental programs and be selective 
+
+about the strategic initiatives that will yield a greater positive impact in the future. 
+
+ENVIRONMENTAL COMPLIANCE 
+
+Environmental compliance forms an integral part of the Group’s sustainability philosophy. With 
+
+increased pressure on corporations to be accountable for their environmental footprint and rising 
+
+cost of natural resources, we endeavour to not just comply but also integrate the best 
+
+sustainability practices across business operations to reduce adverse environmental impact on 
+
+the ecosystem.  
+
+Over the years, the Group’s operations continue to conform to local environmental laws and 
+
+regulations. The Group maintains a zero tolerance for non-compliance and encourage our 
+
+stakeholders to report any incidences via our established whistle blowing channels. All 
+
+employees of Fuxing are encouraged to be proactive and forthcoming in managing and reporting 
+
+environmental related issues and complaints.  
+
+In FY2020, there were no incidents of non-compliance and penalties pertaining to environmental-
+
+related issues. The Board and Management continues to review and improve current 
+
+environmental management system and practices and ensure that all our activities and 
+
+operations comply with regulatory and customers’ requirements. It is of utmost importance to the 
+
+Group that we maintain this unblemished record. 
+
+Moving Forward 
+
+To maintain the highest standard of environmental compliance, our commitment and target, the 
+
+Management will continue to review and improve current environmental management system and 
+
+practices and ensure that all our activities and operations comply with existing regulatory 
+
+requirements.  
+
+ 
+
+ 
+
+
+10 
+
+ 
+
+SOCIAL 
+
+ 
+
+EMPLOYMENT 
+
+Our employees are one of our most valuable assets and the Group believes in and is committed 
+
+to fair employment practices, upholding human rights principles and investing in developing and 
+
+training our people.  
+
+As of 31 December 2020, we have a total of 733 fulltime employees. In general, the Group has 
+
+maintained a strong and healthy workforce in spite of the relatively high turnover rate which is 
+
+inherent in the manufacturing industries. Employment numbers for high-skilled positions remains 
+
+consistent, with our key management personnel unchanged in FY2020. 
+
+ 
+
+ 
+
+FY2020 
+
+FY2019 
+
+Total No. of Employees 
+
+ 
+
+733 
+
+ 
+
+715 
+
+ 
+
+Distribution by Gender (%) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+          47% 
+
+      53% 
+
+          47% 
+
+     53% 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total No. of New Hire by Age Group 
+
+ 
+
+New Hire Distribution 
+
+FY2020 
+
+FY2019 
+
+158 
+
+51 
+
+Male: 49% 
+
+Female: 51% 
+
+Male: 39% 
+
+Female: 61% 
+
+&lt; 30  
+
+30 - 50 
+
+&gt; 50 
+
+&lt; 30  
+
+30 - 50 
+
+&gt; 50 
+
+52 
+
+90 
+
+16 
+
+15 
+
+27 
+
+9 
+
+% of New Hire by Age Group  
+
+33% 
+
+57% 
+
+10% 
+
+30% 
+
+53% 
+
+17% 
+
+ 
+
+ Turnover Distribution 
+
+ 
+
+FY2020 
+
+FY2019 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total No. of Turnover by Age Group 
+
+140 
+
+235 
+
+Male: 49% 
+
+Female: 51% 
+
+Male: 52% 
+
+Female: 48% 
+
+&lt; 30  
+
+30 - 50 
+
+&gt; 50 
+
+&lt; 30  
+
+30 - 50 
+
+&gt; 50 
+
+58 
+
+50 
+
+32 
+
+99 
+
+110 
+
+26 
+
+% of Turnover by Age Group 
+
+41% 
+
+36% 
+
+23% 
+
+42% 
+
+47% 
+
+7% 
+
+ 
+
+We strive to foster an inclusive and performance driven work environment to attract, retain and 
+
+develop our talents. As an equal opportunity employer, the Group has instituted a fair system to 
+
+ensure equal opportunities and non-preferential treatment for all employees. There is no 
+
+preference or prejudice towards religion, age, ethnicity, any physical disability or gender. 
+
+Employees are required to observe and adhere to all relevant policies and practices. The Group 
+
+makes a conscious effort to maintain diversity in the middle management, to generate creativity 
+
+and innovation and improve the organization’s culture. There were no reported incidences of 
+
+discrimination raised by our employees in FY2020. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11 
+
+ 
+
+The Group also has an open-door policy where employees are encouraged to speak-up or report 
+
+grievances directly to their superior, head of department, human resource department, chief 
+
+executive officer and/or independent directors. This is to reinforce our commitment to our 
+
+employees to provide them with a workplace that is healthy, safe and secure. Across our 
+
+business segments, there were no workplace grievance cases reported in FY2020. 
+
+Employee Remuneration and Benefit 
+
+The Group recognises the valuable contribution of all employees. We strongly believe in fair 
+
+remuneration and sets packages which are competitive and sufficient to attract, retain and 
+
+motivate personnel with adequate experience and expertise to manage the business and 
+
+operations of the Group. In setting remuneration packages, the Group takes into account the 
+
+regulatory requirements, salary, and employment conditions within the same industry and in 
+
+comparable companies. In FY2020, in addition to the competitive remuneration offered, we 
+
+extended our employees a set of benefits including but not limited to: 
+
+Employment Benefits 
+
+Descriptions 
+
+Life insurance  
+
+In the event that our employee becomes critically ill or permanently disabled, their 
+
+loved ones will receive a sum of money to provide them with financial protection and 
+
+coverage against risks. 
+
+Medical insurance  
+
+Employees are reimbursed for visits to the General Practitioners (“GPs”) and dentist, 
+
+and covered under medical insurance. 
+
+Disability insurance  
+
+All our employees are covered under personal accident insurance and work-related 
+
+injury. For instance, the organization will reimburse any rehabilitation costs or 
+
+monthly pay-outs for each case of disability.  
+
+Maternity leave  
+
+Eligible female employees are entitled to maternity leave when applicable. 
+
+Retirement provision  
+
+For employees qualified for pension approaching the retirement age, government 
+
+will provide them with monthly support during their retirement. 
+
+ 
+
+The Group is in full compliance with local labour regulations across our operations, as well as 
+
+minimum wage laws, where such laws exist. Being in an industry that is largely labour-intensive, 
+
+we are dedicated to constantly reviewing our employment policies, benefits and remuneration 
+
+practices to ensure compliance with the updated employment laws, to keep up with the best 
+
+industry practices to provide the optimal working conditions for our people. In FY2020, the Group 
+
+had a return-to-work rate of 50% for employees who have taken parental leave. The Group will 
+
+continually work towards building a pro-parent workplace through enhancing our Group welfare 
+
+practices and culture. 
+
+The Group continually cultivates a transparent and inclusive environment for all employees, as 
+
+well as ensures a top-down approach to promote fair and ethical business dealings. Fuxing 
+
+maintains zero tolerance towards unethical labour practices such as child labour, forced labour, 
+
+slavery and human trafficking across all our operations.  
+
+ 
+
+ 
+
+
+12 
+
+ 
+
+TRAINING &amp; DEVELOPMENTS 
+
+The Group recognises that employees need to stay informed and be updated in their skill sets in 
+
+the ever-changing work environment.  
+
+To encourage and support our employees to develop their fullest potential and have a fulfilling 
+
+career, both on-the-job and ad-hoc trainings are made available to our employees. Employees 
+
+are encouraged to attend courses which are relevant to their work nature. 
+
+ 
+
+ 
+
+FY2020 
+
+FY 2019 
+
+Average Hours of Training  
+
+Per Employee 
+
+ 
+
+~ 2.6 hours  
+
+ 
+
+~ 2 hours 
+
+ 
+
+Programmes for Upgrading Employee Skills and Transition Assistance 
+
+The Group is committed to allocate budget and plan skills upgrading to equip employees to meet 
+
+strategic targets of the Group. We believe that more skilled employees enhance Fuxing’s human 
+
+capital and contribute to employees’ satisfaction, which will then enhance overall performance. 
+
+Performance and Career Development Review 
+
+Performance and career development review of employees should be performed during the 
+
+annual performance appraisal process. This process allows two-way communication and 
+
+engagement between supervisors and subordinates to assess the performance of the employee. 
+
+Upon completion of the appraisal process, consideration of career advancement such as 
+
+promotion; quantum of salary increments, and annual variable bonus will be determined based on 
+
+the performance appraisal results. However, due to operation loss (Loss from Operations for 
+
+FY2020 : RMB 130.8 million/ approximate SGD 26.4 million) impacted by Covid-19 pandemic, 
+
+there is no promotion and increment for all employees during FY2020. Thus, formal annual 
+
+performance appraisal process is not conducted. Nevertheless, the Group encourages 
+
+engagement between supervisors and subordinates and informal feedbacks were given to 
+
+subordinates during daily operations.  
+
+In FY2020, all employees were assessed and remunerated fairly based on their experience, 
+
+qualifications and performance.  
+
+The Group shall continue to provide training and education opportunities through development 
+
+programmes wherever applicable and promote a conducive corporate environment where 
+
+everyone could achieve their potential.  
+
+OCCUPATIONAL HEALTH &amp; SAFETY 
+
+Safety is an integral part of our business, and a key focus area for our board of directors and 
+
+senior management. Whilst keeping our strength of superior technical ability close at heart, we 
+
+take pride in building a safe, conducive and healthy workplace as our commitment to developing 
+
+our people.  
+
+Being a largely labour-intensive Group, we regard workplace safety with utmost importance and 
+
+recognise our duty of care to account for the safety and health of each of our employees. We are 
+
+constantly striving to build a safe and conducive workplace by ensuring that our Group complies 
+
+with all relevant safety and environmental legislation, with the aim of minimizing the likelihood and 
+
+impact of any possible hazardous occurrence. The Group have developed a list of protocols and 
+
+precautions for workers, to ensure that their safety is fully covered in all areas of work. 
+
+
+
+
+
+
+13 
+
+ 
+
+Occupational Health &amp; Safety Management Framework 
+
+Health &amp; Safety System Aligned to That of OHSAS 
+
+18001:2007 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Safety Committee Oversight 
+
+To facilitate the physical supervision of the 
+
+workplace 
+
+safety, 
+
+and 
+
+the 
+
+relaying 
+
+of 
+
+workplace safety and health (“WSH”) related 
+
+messages; we have established a Safety 
+
+Committee. Collectively as a Group, the Safety 
+
+Committee is headed by the General Manager, 
+
+and comprises 3 Production Supervisors and 
+
+17 Head of Departments (“HODs”). 
+
+The 
+
+Safety 
+
+Committee 
+
+oversees 
+
+the 
+
+subsidiaries’ operations to ensure that safety 
+
+standards are upheld at all times and also up 
+
+to industry leading practices. In addition, the 
+
+role 
+
+and 
+
+responsibilities 
+
+of 
+
+the 
+
+Safety 
+
+Committee 
+
+includes 
+
+reviewing, 
+
+effectively 
+
+implementing and reinforcing safety standards 
+
+and regulations to ensure all areas of safety 
+
+are adequately covered. The Committee 
+
+members meet on a regular basis to review 
+
+safety inspection results, infrastructures and 
+
+incidents, as well as to coordinate and 
+
+organise safety-related activities.  
+
+ 
+
+The Group seeks to learn from past mistakes and strive to prevent similar incidents from 
+
+reoccurring. All near-miss incidents and accidents would be promptly reported to the Safety 
+
+Committee, which will further provide timely incident analysis briefings to the employees. These 
+
+safety briefings aim to strengthen the safety awareness of employees, and to remind them of 
+
+established safety measures and precautions, as well as safety protocols in the event of similar 
+
+incidents.  
+
+Workplace Health &amp; Safety Performance 
+
+Category 
+
+FY2020 
+
+FY2019 
+
+Death or Total Permanent Disabilities 
+
+0 
+
+0 
+
+Occupational Injury and Disease 
+
+0 
+
+0 
+
+ 
+
+In FY2020, there were no incidents of fatalities across Fuxing’s business operations. The Group 
+
+strives to continue to maintain its health &amp; safety standards and continuous improvement in its 
+
+Operational Health and Safety processes and performance. Moving forward, in order to facilitate 
+
+the effectiveness of the supervision of workplace safety, the Group plans to have more ordinary 
+
+workers join the safety committee. We advocate our employees to take responsibility for their 
+
+own safety and health, thus the gradual proactive approach.  
+
+In addition, Fuxing adheres to the safety measures issued by various advisories and guidance 
+
+issued by the authorities pertaining to Covid-19 to safeguard the health and safety of our 
+
+employees, customers and stakeholders.  
+
+ 
+
+Policy  
+
+Planning 
+
+Implementatio
+
+n and 
+
+Operation 
+
+Checking and 
+
+Correction 
+
+Action 
+
+Management 
+
+Review 
+
+Continual 
+
+Improvement 
+
+
+14 
+
+ 
+
+GOVERNANCE 
+
+ 
+
+ANTI-CORRUPTION 
+
+Fuxing is committed to uphold the highest standards of corporate governance and business 
+
+integrity across its business activities, which are essential for the long-term viability of the Group’s 
+
+businesses and the enhancement of shareholder value. The Board undertakes to investigate 
+
+complaints of suspected fraud in an objective manner and has put in place a whistle-blowing 
+
+policy and procedures which provide employees with well-defined and accessible channels within 
+
+the Group, including a direct channel to the Audit Committee, for reporting suspected bribery, 
+
+corruption, dishonest practices or other similar matters. 
+
+The policy aims to encourage the reporting of such matters in good faith, with the confidence that 
+
+employees making such reports will be treated fairly and, to the extent possible, be protected 
+
+from reprisal. The policy and its effectiveness will be reviewed by the Audit Committee 
+
+periodically, with recommendations regarding updates or amendments, if any, to be made to the 
+
+Board as required. In FY2020, there were no incidents of regulatory non-compliance across 
+
+Fuxing’s group of businesses. There were also no reported incidents pertaining to whistleblowing 
+
+for this reporting period under review. The Group continues to work towards reinforcing a full 
+
+compliance culture. 
+
+Moving Forward 
+
+The Audit Committee continues to support the Board in its oversight of anti-corruption and is 
+
+responsible for driving Fuxing’s focus on implementing effective compliance and governance 
+
+systems. At an operational level, the respective department within the Group continues to be 
+
+responsible to identify, self-assess the adequacy and effectiveness of mitigating measures, and 
+
+manage their financial, operational, information technology, compliance and reputational related 
+
+risks. 
+
+Please refer to the Corporate Governance section of the annual report for more information. 
+
+ 
+
+ 
+
+
+15 
+
+ 
+
+GLOBAL REPORTING INITIATIVE (GRI) CONTENT INDEX 
+
+This report has been prepared in accordance with the GRI Standards: Core option 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+GRI 102: 
+
+General 
+
+Disclosures 
+
+102-1 * 
+
+Name of the 
+
+organization 
+
+Cover Page 
+
+102-2 * 
+
+Activities, brands, products, 
+
+and services 
+
+Page 4,  
+
+Refer to AR FY2020 – 
+
+Notes to The Finance Statement – Note 1  
+
+102-3 * 
+
+Location of 
+
+headquarters 
+
+Hangbian Industrial Area, Longhu Town, 
+
+Jinjiang City, Fujian Province, The PRC 
+
+102-4 * 
+
+Location of operations 
+
+Refer to AR FY2020 – 
+
+Notes to The Finance Statement – 
+
+Note 17 Investment in Subsidiaries 
+
+102-5 * 
+
+Ownership and legal 
+
+form 
+
+Refer to AR FY2020 – 
+
+Notes to The Finance Statement – 
+
+Note 17 Investment in Subsidiaries 
+
+102-6 * 
+
+Markets served 
+
+Page 4,  
+
+Refer to AR FY2020 – 
+
+Note 4 Revenue by Geographical Segment 
+
+102-7 * 
+
+Scale of the 
+
+organization 
+
+Page 10 
+
+102-8 * 
+
+Information on 
+
+employees and other workers 
+
+Page 10 
+
+102-9 * 
+
+Supply chain 
+
+Page 8 
+
+102-10 * 
+
+Significant changes to 
+
+the organization and its 
+
+supply chain 
+
+No significant changes 
+
+102-11 * 
+
+Precautionary principle 
+
+or approach 
+
+Page 5 
+
+102-12 * 
+
+External initiatives 
+
+Page 4 
+
+102-13 * 
+
+Membership of 
+
+associations 
+
+Page 6 
+
+GRI 102: 
+
+Strategy 
+
+102-14 * 
+
+Statement from senior 
+
+decision-maker 
+
+Refer to AR FY2020 
+
+ Chairman’s Message 
+
+GRI 102: 
+
+Ethics and 
+
+Integrity 
+
+102-16 * 
+
+Values, principles, 
+
+standards, and norms of 
+
+behaviour 
+
+Page 4 
+
+GRI 102: 
+
+Governance 
+
+102-18 * 
+
+Governance structure 
+
+Page 5 
+
+Refer to AR FY2020  
+
+Corporate Governance 
+
+Corporate Structure 
+
+
+16 
+
+ 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+GRI 102: 
+
+Stakeholder 
+
+Engagement 
+
+102-40 * 
+
+List of stakeholder groups 
+
+Page 5-6 
+
+102-41 * 
+
+Collective bargaining agreements 
+
+None 
+
+102-42 * 
+
+Identifying and selecting 
+
+stakeholders 
+
+Page 5-6 
+
+102-43 * 
+
+Approach to stakeholder 
+
+engagement 
+
+Page 6 
+
+102-44 * 
+
+Key topics and concerns raised 
+
+Page 6 
+
+GRI 102: 
+
+Reporting 
+
+Practice 
+
+102-45 * 
+
+Entities included in the 
+
+consolidated financial statements 
+
+Refer to AR FY2020 – 
+
+ Notes to The Finance Statement – Note 2.2 
+
+102-46 * 
+
+Defining report content and topic 
+
+Boundaries 
+
+Page 2 
+
+102-47 * 
+
+List of material topics 
+
+Page 7 
+
+102-48 * 
+
+Restatements of information 
+
+No restatement 
+
+102-49 * 
+
+Changes in reporting 
+
+No significant changes from previous reporting 
+
+periods in the list of material topics and topic 
+
+boundaries. 
+
+102-50 * 
+
+Reporting period 
+
+Page 2 
+
+102-51 * 
+
+Date of most recent report 
+
+FY2019 Sustainability Report 
+
+102-52 * 
+
+Reporting cycle 
+
+1 January 2020 to 31 December 2020 
+
+102-53 * 
+
+Contact point for 
+
+questions regarding the report 
+
+Page 2 
+
+ 
+
+102-54 * 
+
+Claims of reporting in 
+
+accordance with the 
+
+GRI Standards 
+
+Core option 
+
+ 
+
+102-55 * 
+
+GRI content index 
+
+Page 15 - 17 
+
+ 
+
+102-56 * 
+
+External assurance 
+
+The Group has not sought external assurance for 
+
+this sustainability report. 
+
+GRI 204: 
+
+Procurement 
+
+Practices 
+
+204-1 
+
+Proportion of spending on local 
+
+suppliers 
+
+Page 8 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+DMA 
+
+Management approach disclosures 
+
+Page 9 
+
+307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Page 9 
+
+ 
+
+ 
+
+
+17 
+
+ 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and Remarks 
+
+GRI 401: 
+
+Employment 
+
+DMA 
+
+Management approach disclosures 
+
+Page 10  
+
+401-1 
+
+New employee hires and employee turnover 
+
+Page 10 
+
+401-2 
+
+Benefits provided to 
+
+full-time employees that are not provided to temporary or 
+
+part-time employees 
+
+Page 11 
+
+401-3 
+
+Parental leave 
+
+Page 11 
+
+GRI 403: 
+
+Occupational  
+
+Health and Safety 
+
+DMA 
+
+Management approach disclosures 
+
+Page 12-13 
+
+403-1 
+
+Occupational Health and Safety Management System 
+
+Page 12-13 
+
+403-9 
+
+Work-related injuries 
+
+Page 13 
+
+GRI 404:  
+
+Training  
+
+and Education 
+
+DMA 
+
+Management approach disclosures 
+
+Page 12 
+
+404-1 
+
+Average hours of training per year per employee  
+
+Page 12 
+
+404-2 
+
+Programs for upgrading employee skills and transition 
+
+assistance programmes 
+
+Page 12 
+
+404-3 
+
+Percentage of employees receiving regular performance 
+
+and career development reviews 
+
+Page 12 
+
+GRI 205: 
+
+Anti-corruption 
+
+DMA 
+
+Management approach disclosures 
+
+Page 14, 
+
+ Refer to AR FY2020 – 
+
+ Corporate Governance 
+
+205-3 
+
+Confirmed incidents of corruption and actions taken 
+
+Page 14, 
+
+ Refer to AR FY2020 – 
+
+ Corporate Governance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+

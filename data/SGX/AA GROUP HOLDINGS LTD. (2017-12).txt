@@ -1,0 +1,2533 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT 
+
+2017 
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+1 
+
+TABLE OF CONTENTS  
+
+BOARD'S STATEMENT  ........................................................................................... 2 
+
+ABOUT THE REPORT .............................................................................................. 3 
+
+ABOUT THE GROUP ................................................................................................ 4 
+
+GROUP'S PROFILE 
+
+MEMBERSHIPS AND CERTIFICATIONS 
+
+ 
+
+STAKEHOLDER ENGAGEMENT ............................................................................. 5 
+
+MATERIALITY ASSESSMENT ................................................................................. 6 
+
+REPORTING FRAMEWORK 
+
+LIST OF MATERIAL TOPICS 
+
+ 
+
+GOVERNANCE ......................................................................................................... 8 
+
+CORPORATE GOVERNANCE 
+
+RISK MANAGEMENT 
+
+LEGAL COMPLIANCE 
+
+ 
+
+SOCIAL .................................................................................................................... 10 
+
+EMPLOYMENT PRACTICES 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+ 
+
+ENVIRONMENTAL .................................................................................................. 13 
+
+ENERGY CONSUMPTION 
+
+EFFLUENTS AND WASTE 
+
+SUPPLY CHAIN 
+
+PRODUCT AND SERVICE QUALITY 
+
+ 
+
+GRI CONTENT INDEX ............................................................................................. 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+2 
+
+BOARD'S STATEMENT  
+
+ 
+
+ 
+
+ 
+
+The Board of Directors (the “Board” or “Directors”) of AA Group Holdings Ltd (the 
+
+“Company or “Group”) is pleased to publish our inaugural Sustainability Report 2017 
+
+("Report").  
+
+ 
+
+Sustainability is becoming a key component for companies to promote transparency on 
+
+listed companies’ environmental, social and governance (“ESG”) practices. The Board 
+
+believes that sustainability is integral to the Group’s strategy and operation and are making 
+
+an effort to improve our business operations in a manner that considers the environmental 
+
+and social impact while achieving sustainable profit growth.  
+
+ 
+
+During the reporting year of 2017, the Company had acquired businesses whose main 
+
+business activities are those of leasing of property and provision of property related 
+
+services, manufacturing and supply of construction-related materials. The Company had, 
+
+in the same year divested its previous core business - manufacturing and supply of high 
+
+precision cold forged loudspeaker parts.  
+
+ 
+
+In the pursuit of growth, we remain committed to the conserving of the environment and 
+
+the development of our people. This Report plays an imperative role in helping us create 
+
+transparency, accountability and progress towards sustainable growth.  
+
+ 
+
+As we venture into new markets and sectors, we remain vigilant in the conduct of our 
+
+businesses and continue to actively engage our stakeholders to meet their concerns and 
+
+needs. The success of our sustainability journey requires continual efforts and we are 
+
+confident that together with our stakeholders, we are able to formulate strategies to build 
+
+a sustainable business. 
+
+ 
+
+We would like to take this opportunity to extend our gratitude to the directors, stakeholders 
+
+and business partners for their unwavering support and dedication this past year. We look 
+
+forward to scale greater heights and to the journey that lies ahead of us. 
+
+ 
+
+For and on behalf of  
+
+the Board of Directors of  
+
+AA Group Holdings Ltd 
+
+ 
+
+ 
+
+Lai Choong Hon 
+
+Executive Director 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+3 
+
+ABOUT THE REPORT 
+
+ 
+
+
+
+This Report is prepared in line with the Global Reporting Initiative (“GRI”) Standards: Core 
+
+reporting framework. Due to the GRI Standards’ universal application, it was selected as a 
+
+guideline for the Report to allow comparability of our performance over the years.  
+
+ 
+
+Unless specified otherwise, this Report covers our ESG performance and initiatives for our 
+
+Group's operations in Singapore for the period from 1 January 2017 to 31 December 2017. 
+
+We have excluded our business operations in Malaysia as it does not have a significant 
+
+representation on the Group's value chains in the reporting year of 2017. Please refer to 
+
+page 89 of our Annual Report 2017 for details of our Discontinued Operations. 
+
+ 
+
+As this is our first year of reporting, we have not sought external assurance for the 
+
+information disclosed in this Report. We may consider to have our report verified by an 
+
+independent third party in the near future. 
+
+ 
+
+As part of our environmental conservation efforts, this Report is only available online on 
+
+SGX. We want to share our sustainability journey and we welcome stakeholders to submit 
+
+their feedback to us at our office address as stated on the last page of this report. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+4 
+
+ABOUT THE GROUP  
+
+ 
+
+ 
+
+Operations:  
+
+ 1 management office in Singapore 
+
+ 1 operational plant in Singapore 
+
+Nature of Legal Entity: 
+
+ Public Limited Company 
+
+Total Sales Amount in 2017: 
+
+ SGD 11,185,000 
+
+Total Number of Employees: 
+
+ 51 
+
+Memberships and Certifications 
+
+ The Company and subsidiary, Engineering Manufacturing Services (S) Pte. Ltd. 
+
+(“EMS”) are both members of the Singapore Business Federation.  
+
+ Other certifications held by our subsidiaries are as shown below: 
+
+ 
+
+Name &amp; Address of Site 
+
+Certification  
+
+W&amp;P Corporation Pte. Ltd. 
+
+12 Seletar North Link, Singapore 797617 
+
+SS EN 206: 2014 
+
+W&amp;P Corporation Pte. Ltd.   
+
+60 Benoi Road #03-01, Singapore 629906 
+
+ISO 9001:2015 
+
+W&amp;P Precast Pte. Ltd.  
+
+32 Seletar North Link, Singapore 797612 
+
+ISO 9001:2005 
+
+W&amp;P Precast Pte. Ltd. 
+
+12 Seletar North Link Singapore 797617 
+
+BizSAFE Level 3 
+
+ 
+
+Name of Company 
+
+BCA Certification  
+
+W&amp;P Corporation Pte. Ltd. 
+
+SYO1B Ready-mixed concrete - L2 
+
+W&amp;P Precast Pte. Ltd.  
+
+CW02 Civil Engineering - C3 
+
+W&amp;P Precast Pte. Ltd.  
+
+General Builder Class 2 
+
+ 
+
+
+
+Group's Profile 
+
+3 primary business activities in Singapore: 
+
+ Leasing of property and provision of property related services; 
+
+ Manufacturing of articles of concrete, cement and plaster;  
+
+ Supply and manufacturing of ready-mix concrete products. 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+5 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stakeholder 
+
+Topics 
+
+Engagement Methods 
+
+Frequency 
+
+Customers  
+
+ 
+
+ Quality assurance 
+
+ Customer's 
+
+satisfaction 
+
+ Meetings 
+
+ Feedback via 
+
+phone/emails 
+
+Perpetual 
+
+Employees 
+
+ 
+
+ Feedback and 
+
+concerns 
+
+ Productivity and 
+
+performance 
+
+ Regular staff 
+
+meetings 
+
+ 
+
+Ad-hoc  
+
+Government / Regulator 
+
+ 
+
+ Corporate 
+
+governance 
+
+ Regulatory 
+
+compliance 
+
+ Regulatory guidelines 
+
+and requirements 
+
+Perpetual 
+
+Industry Association 
+
+ 
+
+ Memberships  
+
+ Singapore Business 
+
+Federation 
+
+Perpetual 
+
+Investors &amp; Media  
+
+ 
+
+ 
+
+ 
+
+ Annual report 
+
+ Sustainability 
+
+report 
+
+ AGM  
+
+ SGX announcements 
+
+Annual 
+
+ Financial results 
+
+and business 
+
+performance 
+
+ SGX announcements 
+
+Half-yearly 
+
+ Group's 
+
+announcements 
+
+and press releases 
+
+ EGM  
+
+ SGX announcements  
+
+ Media release and 
+
+interviews 
+
+Ad-hoc  
+
+Suppliers 
+
+ 
+
+ Procurement 
+
+practices 
+
+ Quality assurance 
+
+inspection 
+
+ Meetings 
+
+ Feedback via 
+
+phone/emails 
+
+Perpetual 
+
+Our sustainability strategy was derived by consulting our stakeholders on issues vital to 
+
+our business. Our stakeholders are important to us as they provide valuable insights and 
+
+allow management to identify areas and new opportunities for improvement.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+6 
+
+MATERIALITY ASSESSMENT 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Importance to stakeholders 
+
+ 
+
+ 
+
+
+
+Material Topics 
+
+We have conducted a materiality assessment that allowed us to identify the material topics 
+
+that are significant to our businesses and to both internal and external stakeholders. The 
+
+materiality assessment was guided by an external sustainability consultant and includes 
+
+inputs from our management, key representatives from various business units as well as 
+
+internal and external stakeholders.  
+
+ 
+
+Reporting Framework 
+
+An extensive list of material topics was evaluated and then ranked according to their 
+
+importance from both internal and external stakeholder’s perspectives.  
+
+The materiality assessment took into account the GRI guidelines and the material topics 
+
+were consolidated and prioritised using a materiality matrix shown below.  
+
+ 
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Key Aspects 
+
+Stakeholders 
+
+Material Topics 
+
+Governance 
+
+ 
+
+Investors 
+
+Government / Regulator 
+
+Government / Regulator 
+
+Corporate Governance 
+
+Risk Management 
+
+Legal Compliance 
+
+Social  
+
+ 
+
+Employees 
+
+Employees 
+
+ 
+
+Employment Practices 
+
+Occupational Health and Safety 
+
+Environmental 
+
+ 
+
+Customers / Suppliers 
+
+Customers / Suppliers 
+
+Suppliers 
+
+Customers / Suppliers 
+
+Effluents and Waste 
+
+Energy Consumption 
+
+Supply Chain 
+
+Product and Service Quality 
+
+List of Material Topics 
+
+The material topics that are significant to the Group's operations in Singapore are 
+
+presented below. For each material topic, we report on the relevance of it to our business 
+
+and stakeholders. 
+
+
+
+
+
+
+
+Moving forward, we will continue to evaluate these material topics in line with the changing 
+
+business landscape and our business directions. We will strengthen our existing 
+
+sustainability framework, set improvement targets and aim to reach these targets in the 
+
+subsequent years. 
+
+We look forward to further engage with our stakeholders. The perspectives of our 
+
+stakeholders will help us evaluate and fine tune our approach to better manage our 
+
+business in a sustainable way.  
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+8 
+
+GOVERNANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We believe that upholding a high standard in governance and ethical conduct is 
+
+fundamental to the Group's growth and vital to the sustainability of the Group. We conduct 
+
+our business in an ethical and honest manner and approach issues of corruption and 
+
+bribery in a manner that is consistent with the values of the Group.  
+
+ 
+
+Corporate Governance 
+
+The Board recognises the significance of good corporate governance, accountability and 
+
+transparency and complies with the Singapore's Code of Corporate Governance as 
+
+required under the Singapore Exchange Listing Rules. We have a robust Board of 
+
+Directors, Audit and Risk Committee, Nomination Committee and Remuneration 
+
+Committee which segregates various duties and functions to ensure the Group remains 
+
+compliant to regulations.  
+
+ 
+
+Please refer to page 13 to 48 of our Annual Report 2017 for more details of our Corporate 
+
+Governance practices.  
+
+In addition, a Sustainability Committee consisting of representatives from various business 
+
+units have been established. Under the guidance of the Board, the Sustainability 
+
+Committee will assist to increase transparency and accountability towards our Group's 
+
+sustainable business practices in the coming years.  
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Risk Management  
+
+The Audit and Risk Committee (“ARC”) is responsible for the governance of risks and the 
+
+overall internal control framework by ensuring that the Group maintains a robust system of 
+
+risk management and internal controls. The ARC works closely with the senior 
+
+management and reports to the Board. 
+
+On a regular basis, key representatives from various business units report to the senior 
+
+management and the senior management reviews the Group's business and operational 
+
+activities to identify and mitigate significant business risks. The senior management reports 
+
+to the ARC on any significant matters arising from the business.   
+
+On a bi-annual basis, the ARC convenes a meeting with the Group's internal and external 
+
+auditors, to discuss the key areas affecting the business and re-evaluate the relevancy of 
+
+the current internal control policies and procedures. If there are any weak areas of internal 
+
+controls, appropriate measure would be conveyed to the senior management and senior 
+
+management is to take appropriate measures to rectify the situation and put in place an 
+
+updated policies and procedures. The ARC will follow up on the actions taken by the senior 
+
+management and any recommendations given by both the internal and external auditors. 
+
+By identifying and mitigating these risks, the Group will be able to take a balanced 
+
+approach to manage risks and make more informed decisions to better protect and 
+
+safeguard the interests of our stakeholders. 
+
+For the year under review, the Board believes that the Group's framework for managing 
+
+risks remains appropriate.  
+
+Legal Compliance 
+
+The Board meets on a regular basis to ensure that the Group meets all regulatory 
+
+requirements. Due to our senior management's active monitoring, we have not had any 
+
+records of non-compliance cases. 
+
+ 
+
+As we have been actively engaging our continuing sponsor and complying to all reporting 
+
+requirements under the Singapore Exchange as well as the rules and regulations in 
+
+Singapore, there were no non-compliance cases recorded during the reporting year of 
+
+2017. 
+
+ 
+
+For the year under review, the Board believes that the Group's compliance controls remain 
+
+appropriate and we strive to maintain zero incident of non-compliance record in the 
+
+subsequent years. 
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+10 
+
+SOCIAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Employment Practices 
+
+Our workforce consists of full-time employees under our payroll, and we ensure that each 
+
+employee is treated fairly to promote welfare and talent retention. We are fully compliant 
+
+with the Singapore Government’s Employment Practices listed under the Ministry of 
+
+Manpower to ensure we remain competitive against similar industry players.  
+
+ 
+
+The Human Resource Policies and Procedures (“HRPP”) formulated by the Human 
+
+Resource team have been applied universally across all the business units to ensure 
+
+consistency of internal practices among all business units. The HRPP documents the 
+
+employee's benefits and governs our non-discriminatory hiring policies and merit-based 
+
+promotion policies .  
+
+ 
+
+Similarly, employees or contractors have the discretion to air their grievances on unfair 
+
+labour practices. The procedure of grievance communication within the Group involves 
+
+reporting to the Supervisor, Department Head, Senior Management and subsequently to 
+
+the Ministry of Manpower.  
+
+ 
+
+The Group has a whistle-blowing policy in place since 2008 and has been constantly 
+
+updated to stay relevant. The policies and procedures for raising any concerns is 
+
+communicated to all employees of the Group during orientation for the new employee. 
+
+Please refer to page 42 of the Annual Report 2017 for more details. 
+
+ 
+
+ Workforce diversity and fair employment  
+
+The Group recognises the value of diversity and all qualified candidates will be considered 
+
+without discrimination of gender, nationality, age and religion in our recruitment process. 
+
+Before hiring each qualified candidate, we conduct verification on the candidate's 
+
+background. Whilst we expect our employees to constantly challenge and improve 
+
+themselves, we also require our employees to treat each other with respect and honesty. 
+
+ 
+
+We have a total number of 51 employees in Singapore and 5 directors on the Board. The 
+
+chart below shows the breakdown of employees at each level as well as the directors on 
+
+the Board.  
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4
+
+5
+
+1
+
+8
+
+33
+
+1
+
+0
+
+0
+
+3
+
+1
+
+5
+
+5
+
+1
+
+11
+
+34
+
+0
+
+10
+
+20
+
+30
+
+40
+
+Board of Directors
+
+Senior management
+
+Middle management
+
+Executive
+
+Non-executive
+
+Total number of employees in Singapore 
+
+as at 31 December 2017
+
+
+
+Male
+
+
+
+Female
+
+
+
+Total employee
+
+ Valuing our employees 
+
+The Group regards its employment practices as one of its top priority because it creates 
+
+job satisfaction, which in turn lowers turnover rates and increases productivity. Employees 
+
+are entitled to a variety of benefits, such as medical leave and paid annual leave. In 
+
+addition, the Group offers competitive pay packages that are benchmarked to the market 
+
+and rewards each employee based on their competency and performance.  
+
+ 
+
+As part of our commitment towards providing transparent and merit-based compensation 
+
+package, we disclose the remunerations of our directors and our key management 
+
+personnel on page 34 of our Annual Report 2017.  
+
+ 
+
+At the same time, we promote an open communication environment where employees can 
+
+directly raise concerns with their supervisors through different platforms and channels, 
+
+thereby creating an environment where our employees feel valued and respected. 
+
+ 
+
+We acknowledge that there are more male employees as compared to female employees 
+
+due to the nature of the industry and the businesses we are in. However, we currently have 
+
+a female director on our Board and this shows the steps taken towards creating a greater 
+
+gender balance within the Group. Moving ahead, we endeavour to create more 
+
+opportunities to attract more female applicants to the company and the Group. 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENVIRONMENTAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Occupational Health and Safety 
+
+The health and safety of our employees is the most highly ranked concerns of the senior 
+
+management. The senior management recognises the responsibility to provide a safe and 
+
+healthy working environment for our employees and ensures that all business units remain 
+
+compliant to workplace health and safety requirements. At the same time, all employees 
+
+are reminded regularly to follow safety requirements.  
+
+ 
+
+When there is an accident, there is a procedure of reporting and follow-up. All cases are 
+
+reported to the supervisors and plant manager. Investigations will be carried out to ensure 
+
+corrective actions have been implemented. 
+
+ 
+
+We have procedures in place for all operations on site and we aim to maintain "Zero 
+
+Accident" record at all sites with these initiatives: 
+
+ 
+
+1. Appoint Safety Officer to educate and identify safety gaps and work towards closing 
+
+all safety gaps. 
+
+2. Develop standard operation procedure (SOP) manual and display the SOP 
+
+explicitly at all sites with safety rules embedded in all the work processes to ensure 
+
+that safety rules are strictly and consistently observed. 
+
+3. Organize regular in-house safety training and have safety instruction diagrams 
+
+available visibly near or on starting equipment. 
+
+4. Provide external safety training to supervisors to upgrade their skills and to keep 
+
+abreast of latest safety rules and procedures. 
+
+ 
+
+Our operations in Singapore have obtained BizSAFE Level 3 certification for workplace 
+
+health and safety. There were no cases of injuries, lost-time injuries and fatality recorded 
+
+during the reporting year of 2017. We endeavour to maintain this record through 
+
+continuous efforts of reviewing and managing risks at the workplace. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+13 
+
+ENVIRONMENTAL 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+We have always conducted our business in a responsible manner towards the environment 
+
+while adding value to our stakeholders. We believe that environmentally-friendly practices 
+
+complement business efficiency. Employees are encouraged to reduce, reuse, recycle and 
+
+advocate corporate social responsibility towards the environment. The use of recycled 
+
+paper in office, oil trap controls and the proper disposal of scheduled wastes are 
+
+encouraged to minimise pollution to the environment. 
+
+ 
+
+We are committed to conduct our operations in accordance with the applicable 
+
+environmental laws and regulations. The management assesses regulatory risks and takes 
+
+preventive measures to ensure regulatory compliance. 
+
+ 
+
+Energy Consumption 
+
+We are committed to take measures to minimise our overall energy consumption and 
+
+improve energy efficiency to reduce the environmental impact of our operations.  
+
+Our utilities consumption for the period under review is presented below. We remind all 
+
+employees regularly to switch off all lights, aircon and equipment when they leave the office 
+
+to minimize energy consumption. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+0.00
+
+10,000.00
+
+20,000.00
+
+30,000.00
+
+40,000.00
+
+50,000.00
+
+60,000.00
+
+70,000.00
+
+0.00
+
+500.00
+
+1,000.00
+
+1,500.00
+
+2,000.00
+
+2,500.00
+
+3,000.00
+
+3,500.00
+
+4,000.00
+
+Jan
+
+Feb
+
+Mar
+
+Apr
+
+May
+
+Jun
+
+Jul
+
+Aug
+
+Sep
+
+Oct
+
+Nov
+
+Dec
+
+Kilowatt hour (kWh)
+
+Cubic Meter (Cu M)
+
+Utilities Consumption for 2017
+
+Water
+
+Electricity
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+14 
+
+ 
+
+ 
+
+ 
+
+Effluents and Waste 
+
+Our operational processes result in various forms of effluents and waste. We enforce 
+
+stringent controls on the management of waste generated from our operations. All waste 
+
+generated are collected by a licensed waste collector. At the same time, we strive to go 
+
+beyond compliance by minimizing our waste and treating the waste responsibly before safe 
+
+disposal. 
+
+In the reporting year of 2017, there were no incidence of non-compliance with laws and 
+
+regulations resulting in significant fines and we strive to maintain this record in the 
+
+subsequent years. 
+
+ 
+
+Supply Chain 
+
+Supply chain is an integral aspect of our business. Raw materials are purchased from local 
+
+suppliers and these products are transported to our plant to produce concrete and precast 
+
+or sold through brokers, wholesalers, contractors and retailers. 
+
+ 
+
+In line with our commitment to safeguard the environment, it is important for us to procure 
+
+materials from suppliers with environmentally-friendly practices and from suppliers who 
+
+remain compliant to rules and regulations such as fair labour practices and product 
+
+governance.  
+
+ 
+
+Product and Service Quality 
+
+We have a stringent quality assurance system in place. All our products are manufactured 
+
+according to industry standards and regular compliance review is conducted to ensure all 
+
+our products receive proper certification of compliance. In the reporting year of 2017, we 
+
+did not receive any formal complaints about our product or service quality, and we 
+
+endeavour to maintain this clean record in the subsequent years. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+15 
+
+GRI CONTENT INDEX 
+
+General Standard Disclosures 
+
+Profile disclosure 
+
+Description 
+
+Cross-reference/ 
+
+direct 
+
+answer 
+
+Strategy and analysis 
+
+General Disclosures 
+
+102 -14 
+
+Statement from the most senior decision-
+
+maker of the organisation about the relevance 
+
+of sustainability to the organisation and the 
+
+organisation’s strategy for addressing 
+
+sustainability 
+
+BOARD'S STATEMENT  
+
+Organisation profile 
+
+General Disclosures 
+
+102-1 
+
+Name of the organisation 
+
+AA Group Holdings Ltd 
+
+General Disclosures 
+
+102-2 
+
+Primary brands, products, and/or services 
+
+Annual Report 2017  
+
+(Page 2) 
+
+General Disclosures 
+
+102-3 
+
+Location of organisation’s headquarters 
+
+60 Benoi Road #03-02, 
+
+Singapore 629906 
+
+General Disclosures 
+
+102-4 
+
+Number of countries where the organisation 
+
+operates, and names of countries with either 
+
+major operations or that are specifically 
+
+relevant to the sustainability issues covered in 
+
+the report 
+
+ 
+
+1 management 
+
+office in Singapore 
+
+ 
+
+1 operational plant 
+
+in Singapore 
+
+General Disclosures 
+
+102-5 
+
+Nature of ownership and legal form 
+
+ 
+
+Public listed company on 
+
+the Catalist Board of the 
+
+Singapore 
+
+Exchange 
+
+Securities 
+
+Trading 
+
+Limited 
+
+General Disclosures 
+
+102-6 
+
+Markets served (including geographic 
+
+breakdown, sectors served and types of 
+
+customers/beneficiaries) 
+
+Annual Report 2017  
+
+(Page 1) 
+
+General Disclosures 
+
+102-7 
+
+Scale of the reporting organisation 
+
+Annual Report 2017  
+
+(Page 1) 
+
+General Disclosures 
+
+102-8 
+
+Total workforce by employment type, gender, 
+
+employment contract and region 
+
+Employment Practices 
+
+General Disclosures 
+
+102-9 
+
+Description of the organisation’s supply chain 
+
+Supply Chain 
+
+General Disclosures 
+
+102-10 
+
+Significant changes during the reporting period 
+
+regarding the organisation’s size, structure, 
+
+ownership, or its supply chain 
+
+Annual Report 2017  
+
+(Page 2) 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+16 
+
+Profile disclosure 
+
+Description 
+
+Cross-reference/ 
+
+direct 
+
+answer 
+
+General Disclosures 
+
+102-11 
+
+Explanation of whether and how the 
+
+precautionary approach or principle is 
+
+addressed by the organisation 
+
+Annual Report 2017  
+
+(Page 2-3) 
+
+General Disclosures 
+
+102-12 
+
+Externally developed economic, 
+
+environmental, and social charters, principles, 
+
+or other initiatives to which the organisation 
+
+subscribes or endorses 
+
+ Memberships 
+
+&amp; 
+
+certifications 
+
+ Employment 
+
+Practices 
+
+General Disclosures 
+
+102-13 
+
+Memberships in associations (such as industry 
+
+associations) 
+
+ 
+
+Memberships 
+
+&amp; 
+
+certifications 
+
+Identified material aspects and boundaries 
+
+General Disclosures 
+
+102-45 
+
+Operational structure of the organisation, 
+
+including main divisions, operating companies, 
+
+subsidiaries, and joint ventures  
+
+Annual Report 2017  
+
+(Page 5-7) 
+
+General Disclosures 
+
+102-46 
+
+Process for defining report content and the 
+
+aspect boundaries and explain how the 
+
+reporting principles has been implemented 
+
+About the Report 
+
+General Disclosures 
+
+102-47 
+
+List all material aspects identified 
+
+Materiality Assessment 
+
+Management 
+
+Approach 
+
+103-1 
+
+The aspect boundary within the organisation 
+
+Materiality Assessment 
+
+General Disclosures 
+
+102-48 
+
+Explanation of the effect of any restatements 
+
+Not applicable as this is 
+
+the first year of reporting  
+
+General Disclosures 
+
+102-49 
+
+Significant changes from previous reporting 
+
+periods in the scope and aspect boundaries 
+
+ 
+
+Not applicable as this is 
+
+the first year of reporting 
+
+Stakeholder engagement 
+
+General Disclosures 
+
+102-40 
+
+List of stakeholder groups engaged by the 
+
+organisation 
+
+ 
+
+Stakeholder 
+
+Engagement 
+
+General Disclosures 
+
+102-42 
+
+Basis for identification and selection of 
+
+stakeholders with whom to engage 
+
+ 
+
+Stakeholder 
+
+Engagement 
+
+General Disclosures 
+
+102-43 
+
+Approaches to stakeholder engagement, 
+
+including frequency of engagement by type 
+
+and by stakeholder group 
+
+Stakeholder 
+
+Engagement 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+17 
+
+Profile disclosure 
+
+Description 
+
+Cross-reference/ 
+
+direct 
+
+answer 
+
+General Disclosures 
+
+102-44 
+
+Key topics and concerns that have been raised 
+
+through stakeholder engagement, and how the 
+
+organisation has responded to those key 
+
+topics and concerns, including through its 
+
+reporting; report the stakeholder groups that 
+
+raised each of the key topics and concerns 
+
+ 
+
+ Stakeholder 
+
+Engagement 
+
+ Employment 
+
+practices 
+
+Report profile 
+
+General Disclosures 
+
+102-50 
+
+Reporting period 
+
+ 
+
+1 January 2017 –  
+
+31 December 2017 
+
+General Disclosures 
+
+102-51 
+
+Date of most recent previous report 
+
+Not applicable as this is 
+
+the first year of reporting 
+
+General Disclosures 
+
+102-52 
+
+Reporting cycle 
+
+ 
+
+Annual 
+
+General Disclosures 
+
+102-53 
+
+Contact point for questions regarding the 
+
+report or its contents 
+
+60 Benoi Road #03-02, 
+
+Singapore 629906 
+
+Tel: +65 62687111 
+
+General Disclosures 
+
+102-54 
+
+A. Report the ‘in accordance’ option the 
+
+organisation has chosen 
+
+B. Report the GRI content index for the chosen 
+
+option 
+
+GRI Content Index 
+
+General Disclosures 
+
+102-56 
+
+Policy and current practice with regard to 
+
+seeking external assurance for the report 
+
+ 
+
+About the Report 
+
+Governance 
+
+General Disclosures 
+
+102-18 
+
+Report the governance structure of the 
+
+organisation, including committees of the 
+
+highest governance body. Identify any 
+
+committees responsible for decision-making on 
+
+economic, environmental and social impacts 
+
+ 
+
+ 
+
+Annual Report 2017 
+
+(Page 13) 
+
+ 
+
+Corporate 
+
+Governance 
+
+ 
+
+Ethics and integrity 
+
+General Disclosures 
+
+102-16 
+
+Describe the organisation’s values, principles, 
+
+standards and norms of behaviour such as 
+
+codes of conduct and codes of ethics 
+
+ 
+
+Annual Report 2017  
+
+(Page 13) 
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+18 
+
+Specific Standard Disclosures 
+
+Profile disclosure 
+
+Description 
+
+Cross-reference/ 
+
+direct answer 
+
+Economic 
+
+Economic performance 
+
+Economic 
+
+Performance 
+
+201-1 
+
+Direct economic value generated and distributed 
+
+ 
+
+Annual Report 2017 
+
+(Page 4) 
+
+Environmental 
+
+Energy 
+
+Energy 
+
+302-1 
+
+Energy consumption within the organization 
+
+Energy Consumption 
+
+Water 
+
+Water 
+
+303-1  
+
+ 
+
+Total water withdrawal by source 
+
+Energy Consumption 
+
+Social 
+
+Employment 
+
+Employment 
+
+401-2 
+
+Benefits provided to full-time employees that are 
+
+not provided to temporary or part-time 
+
+employees, by significant locations of operations 
+
+ 
+
+Employment practices 
+
+ 
+
+Occupational health and safety 
+
+Occupational Health 
+
+and Safety 
+
+403-2 
+
+Type of injury and rates of injury, occupational 
+
+diseases, lost days, and absenteeism, and total 
+
+number of work-related fatalities, by region and 
+
+by gender 
+
+ 
+
+Occupational health 
+
+and safety 
+
+Diversity and equal opportunity 
+
+Diversity and Equal 
+
+Opportunity 
+
+405-1 
+
+Composition of governance bodies and 
+
+breakdown of employees per employee category 
+
+according to gender, age group, minority group 
+
+membership, and other indicators of diversity 
+
+ 
+
+ 
+
+Annual Report 
+
+2017 (page 34) 
+
+ Employment 
+
+Practices 
+
+Equal remuneration for men and women 
+
+Diversity and Equal 
+
+Opportunity 
+
+405-2 
+
+Ratio of basic salary and remuneration of women 
+
+to men by employee category, by significant 
+
+locations of operation 
+
+ 
+
+Employment Practices 
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+19 
+
+Profile disclosure 
+
+Description 
+
+Cross-reference/ 
+
+direct answer 
+
+Labour practices grievance mechanisms 
+
+Management 
+
+Approach 
+
+103-2 
+
+ 
+
+Number of grievances about labour practices 
+
+filed, addressed, and resolved through formal 
+
+grievance mechanisms 
+
+Employment Practices 
+
+ 
+
+Society 
+
+Compliance 
+
+Socioeconomic 
+
+419-1 
+
+Monetary value of significant fines and total 
+
+number of non-monetary sanctions for non-
+
+compliance with laws and regulations 
+
+Legal Compliance 
+
+ 
+
+Product and service labelling 
+
+Marketing 
+
+and 
+
+Labelling 
+
+417-1 
+
+Type of product and service information required 
+
+by the organization’s procedures for product and 
+
+service information and labelling, and percentage 
+
+of significant product and service categories 
+
+subject to such information requirements 
+
+Product and Service 
+
+Quality 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+SUSTAINABILITY REPORT 2017 
+
+20 
+
+ 
+
+AA GROUP HOLDINGS LTD 
+
+(Company Registration Number: 200412064D) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+60 Benoi Road #03-02 Singapore 629906 
+
+ 
+
+ 
+
+ 
+
++65 6268 7111 
+
+
+
+
+

@@ -1,0 +1,1844 @@
+
+1 | P a g e 
+
+ 
+
+ 
+
+AMPLEFIELD LIMITED 
+
+Sustainability Report 
+
+FY2020 
+
+ 
+
+Contents 
+
+Chairman’s Message 
+
+Sustainability Story 
+
+Organisation Profile 
+
+Sustainability Governance and Statement of the Board 
+
+Reporting Practice 
+
+Stakeholder Engagement 
+
+Indirect Economic Impact: Contribution to Industry 
+
+Ethics and Integrity 
+
+Health and Safety 
+
+Environment protection 
+
+Our People 
+
+SGX Five Primary Components Index 
+
+GRI Standards Content Index and GRI Indicators 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+2 | P a g e 
+
+ 
+
+ 
+
+CHAIRMAN’S MESSAGE 
+
+Dear Stakeholders, 
+
+I am pleased to present AMPLEFIELD LTD’s Sustainability Report (the “Report”) for the financial year 
+
+ended 30 September 2020. 
+
+The Report highlights our sustainability actions and progress over the year in four key areas (i) Health and 
+
+Safety, (ii) Environment, (iii) our People, and (iv) Contribution to Industry and Community, which in our 
+
+assessment, are the most significant to our stakeholders. 
+
+The Report is prepared in accordance with guidelines and standards issued by the Global Sustainability 
+
+Standards Board (“GSSB”), as set out in their Global Reporting Initiative Standards “Core” option (“GRI 
+
+Standards”) and the requirements of Rule 711B of the Singapore Exchange Securities Trading Limited (the 
+
+“SGX-ST”) Listing Manual Section B: Rules of Catalist (“Catalist Rules”) in preparing the Company’s 
+
+inaugural sustainability report. We have employed the principles of stakeholder inclusiveness, 
+
+sustainability context, materiality and completeness in order to deliver a comprehensive report to the 
+
+public. We have applied the GRI principles of accuracy, balance, clarity, comparability, reliability and 
+
+timeliness. We have not sought external assurance for the Financial Year 2020. 
+
+We hope that the adoption of GRI Standards will make our reporting more systematic and comprehensive, 
+
+and increases the relevance to stakeholders and affirms our commitment to sustainability issues. 
+
+ 
+
+Sincerely, 
+
+Mr Albert Saychuan Cheok 
+
+Chairman 
+
+ 
+
+Our Sustainability Story 
+
+It is important for us to embrace and adopt the goal of sustainable development as an integral part of our 
+
+operations that will create positive impacts to the society and community. 
+
+Leading the Way 
+
+The Executive Directors and key management team members are directly involved in the identification, 
+
+planning and execution of our key sustainability components. A sustainability task force has been formed 
+
+to drive our sustainability initiatives. This task force comprises of personnel from across the spectrum of 
+
+our stakeholders. The task force is overseen by an Executive Director, who reports to the Board.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+3 | P a g e 
+
+ 
+
+ 
+
+Sustainability Targets 
+
+We will continue to emphasize on creating a safe working environment for our employees and 
+
+stakeholders and endeavor for zero-incident rates. We hope to maintain our minimum record of work-
+
+related injuries for Financial Year 2021. We have an accredited Safety Officer in the Philippines to ensure 
+
+that all safety procedures are implemented and to assist in conducting earthquake and fire drills for the 
+
+staff at our properties there. Our Safety Officer is also responsible for our COVID-19 mitigation measures, 
+
+which includes compulsory wearing of masks, daily temperature checks, sanitizing of premises and 
+
+compliance with all health authorities regulations.  Open communications were maintained with tenants 
+
+and relevant information are quickly disseminated to all stakeholders. Our tenants had previously 
+
+complied with the requirements to conduct earthquake and fire drills on their premises in FY2019, 
+
+however in FY2020, as safety measures against COVID-19, all earthquake and fire drills as well as face to 
+
+face lectures and seminars have been suspended by the Bureau of Fire Protection (“BFP”) until community 
+
+quarantine has been lifted. We will ensure that such drills will continued to be carried out on a periodic 
+
+basis. 
+
+We have trained and accredited a new Pollution Control Officer to ensure that all forms of pollutants are 
+
+minimized and environmental standards are met.  Meanwhile, we will continue to promote usage of 
+
+energy saving LED lighting devices across our facilities as far as possible. 
+
+The Group will maintain and uphold the good practices that is relevant to the industry we operate in and 
+
+will continually monitor the environmental impacts of our operations as well as ensuring the safety of our 
+
+employees through a good working environment. 
+
+ 
+
+Organisation Profile (GRI 102-1, 102-2, 102-3, 102-4, 102-5, 102-6, 102-7, 102-8) 
+
+Company Name:                   Amplefield Limited (“Amplefield”) 
+
+Founded:                                1989 
+
+Listed:                                     Transferred to SGX Catalist on 9 December 2016 
+
+Company Headquarters:     Kuala Lumpur, Malaysia 
+
+Location of Operations:      Kuala Lumpur and Pasir Gudang in Malaysia,  
+
+                                                 Lipa &amp; Malvar, Batangas, in the Philippines and  
+
+                                                 Hoh Chi Minh City in Vietnam 
+
+Ownership &amp; Legal Form:    The Company is a public listed company incorporated under the  
+
+                                                 Companies Act, Cap 50. The controlling shareholders of the  
+
+                                                 Company who have direct or deemed interests in the Company are Dato Sri  
+
+                                                 Yap Teiong Choon and Datin Sri Phan Foo Beam 
+
+Number of employees:      19 
+
+
+4 | P a g e 
+
+ 
+
+ 
+
+Economic Performance (GRI 201-1) 
+
+FY2020 Financial review 
+
+Economic value generated/Revenue:               S$2,282,000 
+
+Economic value distributed: 
+
+Employee benefits expense                                S$622,000 
+
+Finance costs                                                         S$83,000 
+
+Income tax expense                                             S$86,000 
+
+Net profit after tax                                               S$391,000 
+
+Economic value retained:                                   S$348,000 
+
+Earnings per share:                                              0.04 cents 
+
+Dividend payout:                                                 Nil 
+
+Total Equity:                                                         S$68,085,000 
+
+ 
+
+Revenue By Segment: 
+
+Facility Provider                                                  S$2.282 million          100% 
+
+Property development, construction  
+
+and construction management                        nil           
+
+Our economic performance is important to our stakeholders, in particular our investors. Other 
+
+stakeholders such as employees will also benefit from such performance. Therefore, economic 
+
+performance has been ranked as one of the material topics for stakeholders. 
+
+While we strive to maximize stakeholders’ value, we ensure there will be adequate due diligence 
+
+processes and adopt a disciplined selection approach. 
+
+Operating Segments 
+
+The Group operates in three major segments (i) property development (ii) engineering procurement and 
+
+construction management services, and (iii) facilities provider and investment.  
+
+Presently, the Group operates and maintains a small and medium enterprise (“SME”) Park in Batangas, 
+
+Philippines whereby it provides facilities to export manufacturers in a free trade zone and has construction 
+
+related activities in Ho Chi Minh City. 
+
+For FY2021, we hope to maintain and ensure our financial stability and continue to generate positive 
+
+returns to our stakeholders.  
+
+ 
+
+
+5 | P a g e 
+
+ 
+
+ 
+
+Sustainability Governance and Statement of the Board 
+
+The Board of Directors drives the sustainability agenda and considered sustainability issues as part of its 
+
+strategic formulation. The Risk Management Committee (“RMC”) reviews and recommends sustainability 
+
+strategies, policies and other significant matters. It determines and identifies the material environment, 
+
+social and governance factors and oversees the management and monitoring of these material factors. 
+
+The RMC, which is led by one of the Executive Directors and consisting of members from the key 
+
+management of the Group, will execute, implement and formalize the sustainability policies and 
+
+procedures. The Task Force gives regular updates to the Board to enable them to monitor progress and 
+
+development. The Group also has in place a comprehensive risk management framework. 
+
+Reporting Practice 
+
+This Sustainability Report (the “Report”) covers the Group’s activities from 1 October 2019 to 30 
+
+September 2020 (the “Reporting Period”). This report will be produced annually. 
+
+The Report summarizes Amplefield’s key sustainability issues, our management approach as well as 
+
+related performance across the Group’s operations. We have chosen the Global Reporting Initiative 
+
+Standards (“GRI Standards”) as it is the most established international sustainability reporting standards 
+
+and caters for a wide range of industries and activities, including the Group’s operations. This Report is 
+
+prepared in accordance with the GRI Standards “Core” option. The Report incorporates the primary 
+
+components of report content set out by the SGX’s “Comply or Explain” requirements on sustainability 
+
+reporting under Catalist Rule 711B. 
+
+Amplefield’s material topics are identified based on the impacts to our stakeholders, as outlined in the 
+
+Stakeholders Engagement section. A detailed section reference with GRI Standards is found on the GRI 
+
+Index Page. This Report supplements the Group’s FY2020 Annual Report. They are both available online 
+
+at https://amplefield.com. We are committed to listening to our stakeholders and we look forward to 
+
+their feedback. Please send any feedback to: enquiry@amplefield.com. The Task Force has assessed the 
+
+merits of undertaking independent external assurance on selected important aspects of its report and has 
+
+come to the conclusion that it is not necessary at this moment. The Group wishes to familiarize with the 
+
+current sustainability reporting framework and reporting so as to maximize the benefits from an external 
+
+assurance later on. 
+
+The Group has applied the GRI Principles for Defining Report Content to identify material topics that are 
+
+relevant to the business and to its stakeholders. We have conducted a materiality assessment session 
+
+based on the GRI Standards guidelines. The following table summarizes the topics which were deemed to 
+
+be of greatest significance to the Group.  
+
+Material Topics 
+
+Economic Performance (GRI 201-1) 
+
+Indirect Economic Impacts (GRI 203-2) 
+
+Anti-corruption  (GRI 205-1, 205-3) 
+
+Environmental Compliance (GRI 307-1) 
+
+Supplier Environment Assessment (GRI 308-1) 
+
+Employment (GRI 401-1, 401-3) 
+
+Occupational Health and Safety  (GRI 403-1, 403-2) 
+
+
+6 | P a g e 
+
+ 
+
+ 
+
+Training and Education (GRI 404-3) 
+
+Diversity and Equal Opportunity (GRI 405-1) 
+
+Non-discrimination (GRI 406-1) 
+
+Supplier Social Assessment (GRI 414-1) 
+
+Socioeconomic Compliance (GRI 419-1) 
+
+ 
+
+Stakeholder Engagement (GRI 102-40, 102-42, 102-43, 102-44) 
+
+Various stakeholders such as employees, suppliers and contractors, governments and regulators, 
+
+community as well as shareholders and investors, may have a material impact on our business or may be 
+
+materially affected by our business. 
+
+The Group identifies its key external and internal groups which have a substantial impact on our 
+
+organization and vice versa through a rigorous exercise. The management continuously reviews the 
+
+stakeholder identification and prioritization process, in keeping with our business and operational needs. 
+
+The Group values and pays attention to our relationship as well as impact with these stakeholders. Various 
+
+means and channels of engagement such as day-to-day interaction with each group of stakeholders are 
+
+adopted to understand and address issues of concern.  
+
+The following table illustrates the engagement activities and expectations with key concerns of the 
+
+respective stakeholder groups. 
+
+Stakeholders 
+
+Area of Concern 
+
+Means of Engagement 
+
+Section Reference 
+
+Employees 
+
+ Remuneration 
+
+and 
+
+benefits 
+
+ Training 
+
+and 
+
+development 
+
+ Ethics and conduct 
+
+ Diversity 
+
+and 
+
+fair 
+
+employment 
+
+ Health and safety 
+
+ 
+
+ Performance 
+
+appraisal 
+
+ Training 
+
+and 
+
+education 
+
+ Whistle 
+
+blowing 
+
+mechanism 
+
+ Ethics and Integrity 
+
+ Health and Safety 
+
+ Our People 
+
+ 
+
+Suppliers 
+
+and 
+
+Contractors 
+
+ Health and safety 
+
+ Environmental 
+
+compliance 
+
+ Social compliance 
+
+ 
+
+ Site inspections and 
+
+site meetings 
+
+ Supplier 
+
+and 
+
+contractors 
+
+evaluation 
+
+ Whistle 
+
+blowing 
+
+mechanism 
+
+ Environment 
+
+Protection 
+
+ Health and Safety 
+
+ Ethics and Integrity 
+
+ 
+
+Governments and 
+
+regulators 
+
+ Anti-corruption 
+
+ Employment 
+
+practices 
+
+ Health and safety 
+
+ Licensing 
+
+ Site inspection 
+
+ 
+
+ Environment 
+
+Protection 
+
+ Health and Safety 
+
+ 
+
+
+7 | P a g e 
+
+ 
+
+ 
+
+Community 
+
+ Environmental 
+
+and 
+
+social compliance 
+
+ Regulatory 
+
+and 
+
+industrial 
+
+requirements 
+
+ SGX announcements 
+
+ Annual reports 
+
+ Sustainability reports 
+
+ Whistle 
+
+blowing 
+
+mechanism 
+
+ Our People 
+
+ Environment 
+
+Protection 
+
+ Contribution to Our 
+
+Industry and Caring 
+
+of Our Community 
+
+ Ethics and integrity 
+
+Shareholders and 
+
+investors 
+
+ Economic 
+
+performance 
+
+ Anti-corruption 
+
+ SGX announcements 
+
+ Annual reports 
+
+ Investor 
+
+relations 
+
+management 
+
+ Sustainability reports 
+
+ Whistle 
+
+blowing 
+
+mechanism 
+
+ 
+
+ Ethics and Integrity 
+
+ Contribution to Our 
+
+Industry and Caring 
+
+of Our Community 
+
+ 
+
+ 
+
+Information and data are collected from both internal sources and external stakeholder engagement, 
+
+from which materials issues are identified. These were compared against materials issues that are ranked 
+
+by business owners, senior management and the Board. A final list of the material issues was then drawn 
+
+by prioritizing issues that are important to both the Group and its stakeholders.  
+
+The following matrix summarizes the top 4 material topics that have been identified through stakeholder 
+
+engagement and our own business goals and their influence on stakeholders’ assessments and decisions 
+
+as well as significance of economic, environmental, social and governance impact. 
+
+Material Factors Matrix 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+LIKEIHOOD 
+
+High 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Economic 
+
+Performance, 
+
+Employment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Medium 
+
+ 
+
+ Anti-corruption 
+
+ 
+
+ 
+
+ Environmental Compliance 
+
+ 
+
+Low 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Low 
+
+Medium 
+
+High 
+
+ 
+
+ 
+
+ IMPACT 
+
+Based on the matrix, the top 4 material topics chosen to be reported are as follows: 
+
+ 
+
+Economic Performance 
+
+ 
+
+Anti-corruption and Anti-bribery 
+
+
+8 | P a g e 
+
+ 
+
+ 
+
+ 
+
+Environmental Compliance  
+
+ 
+
+Employment 
+
+Indirect Economic Impact (GRI 203-2) 
+
+Contribution to Industry Practice 
+
+We have successfully pioneered, developed, managed and operated the concept of a SME Park in the 
+
+Philippines. This concept involves an aggregation of small and medium sized manufacturers together with 
+
+warehousing facilities to cater to and support the big MNCs within the free trade zone itself. Together as 
+
+a whole, we have created better linkage in the supply chain in the export manufacturing sector in 
+
+Philippines. 
+
+Ethics and Integrity 
+
+Ethics and Compliance (GRI 205-1, 205-3) 
+
+The Group is committed to a high ethical standard across our range of operations and business activities. 
+
+We have adopted a Personnel Policy which placed emphasis on professionalism and ethics. The Company 
+
+has established policies on matters such as Conflict of Interest and Whistle-blowing in order to maintain 
+
+a high standard of corporate governance. All personnel and staff are required to read, understand and 
+
+comply with our stated Personnel Policy. Governance body members, staff and workers are required to 
+
+attend the requisite and appropriate training to equip them for their work and responsibilities. 
+
+Disciplinary actions will be meted out on personnel who violate the code of conduct stipulated in the 
+
+Personnel Policy. There were no violations in FY2020. 
+
+We have implemented our website at URL https://amplefield.com where complainants or whistle-blowers 
+
+may contact us if they have any grounds to lodge a complaint. 
+
+Conflict of Interest Policy 
+
+The conflict of interest policy is part of our Personnel Policy. Staff are required to make declarations on 
+
+their interest with any of the stakeholders of the Group.  
+
+Whistle-blowing Policy 
+
+The Audit Committee has developed and approved whistleblowing procedures outlining for the Group. 
+
+Employees of the Group and any other persons may, in confidence, raise concerns about possible 
+
+improper financial reporting or other matters to the Chairman of the Audit Committee. The appropriate 
+
+follow up and independent investigations of such matters will then be carried out.  
+
+The Company and Group did not receive any whistle-blowing reports in FY2020. Neither is there any 
+
+pending or current investigation on any whistle-blowing report as at the end of FY2020. The Company has 
+
+uploaded its website onto the internet on 27 September 2019, whereby potential whistleblowers are 
+
+provided with an additional channel of communication with the Company via email at 
+
+whistleblower@amplefield.com. 
+
+ 
+
+
+9 | P a g e 
+
+ 
+
+ 
+
+Anti-corruption 
+
+The Group takes a strong stance on corruption and malpractice and does not tolerate any impropriety or 
+
+wrongdoing by employees in the course of their work. The Group prohibits any acts by employees to use 
+
+their position to obtain benefits for themselves. During the reporting period, we do not have any 
+
+confirmed incidents of corruption nor any employees dismissed or disciplined for corruption. 
+
+Interested Party/Person Transactions 
+
+The Company is required to comply with the relevant rules under Chapter 9 of the Catalist Rules for 
+
+interested person transactions. All interested person transactions will be properly documented and 
+
+submitted to the Audit Committee for review to ensure that they are carried out on an arm’s length basis, 
+
+on normal commercial terms and are not prejudicial to the interests of the shareholders.  
+
+Dealing in Securities 
+
+In line with Rule 1204 (19) of the SGX Catalist Rules on Dealings in Securities, the Group notifies its 
+
+Directors, employees and staff to refrain from dealings in the securities of the Company from one month 
+
+before the announcement of the half-year financial statements, and one month before the 
+
+announcement of the Company’s full-year financial statements, ending on the date of the announcement 
+
+of such results. Under the Code of Conduct, the directors, employees and staff are expected to observe 
+
+insider trading laws at all times when dealing with the Company’s securities. In addition, the directors of 
+
+the Company are not to deal in the securities of the Company on short term considerations. 
+
+During FY2020 we have assessed our significant operations for risks related to corruption by using criteria 
+
+such as location and activity in our risk assessment for corruption which had helped us to understand 
+
+areas where the risks were perceived to be higher and allow us to employ preventive measures where 
+
+necessary. We have trained our staff to identify what may constitute towards an act of corruption and 
+
+what are the steps they should take in the event they come across such a situation. We did not come 
+
+across any reported case of corruption in FY2020. 
+
+Subsequent Reporting for FY2021 
+
+The Group will continue to be vigilant on its anti-corruption program.  
+
+For FY2021, we hope to maintain our zero record in corruption cases, continue to promote our governing 
+
+policies and cultivate an anti-corruption and anti-bribery environment and awareness for our employees.  
+
+HEALTH AND SAFETY 
+
+Health and Safety at our Sites (GRI 403-1, 403-2, 403-9, 403-10) 
+
+The Group is committed to providing a safe working environment to all our workers, employees and those 
+
+whose occupational health and safety is expected to be our responsibility as a result of our organization 
+
+operations, products or services. This is especially relevant during these days due to the COVID-19 
+
+pandemic. 
+
+We have implemented an occupational health and safety management system based on legal 
+
+requirements and recognized risk management and management system standards/guidelines. Special 
+
+
+10 | P a g e 
+
+ 
+
+ 
+
+precautions are being taken this year in view of COVID-19. This would include an open channel of 
+
+communications via emails with our tenants and other locators operating in the locality, as well as timely 
+
+reporting and dissemination of information to all parties by the open channel. Other measures we have 
+
+taken include implementation of an Occupational Safety and Health (“OSH”) Program which is in 
+
+compliance with regulatory and local health authorities, such as wearing of face masks and face shields 
+
+provided by the Group, sanitizing of premises and social distancing. 
+
+In certain high risk locations, the Group chartered mini-buses or vans to fetch its staff and workers 
+
+exclusively to and from office. 
+
+The legal requirements would include inspection and certification of the premises by the local city fire 
+
+department. Legal requirements are reviewed on a yearly basis and compliance to these requirements 
+
+are evaluated annually. However, this has been held in abeyance at some business units due to local 
+
+authorities ruling safety measures to curb the spread of COVID-19. 
+
+Meanwhile, identifying occupational health and safety hazards and assessing their risks are key 
+
+components in our management system. We strive to eliminate or minimize such hazards and risks 
+
+through various measures. Health and safety hazards are identified for the administration, development 
+
+and operational functions of our businesses and their risks are assessed.  
+
+All workers assume personal responsibility towards health and safety and are encouraged to be 
+
+forthcoming in reporting all health and safety related incidents, including non-compliances and non-
+
+conformities to the relevant management representatives. This list is updated in our intranet. 
+
+The Group is targeting to conduct frequent fire drills as well as natural disasters drills for its units operating 
+
+in locations which we have assessed to be prone to such dangers, once the business units have recovered 
+
+from the COVID-19 pandemic and it’s safe to do so. 
+
+Meanwhile, we are also targeting at the ergonomics of the office environment. This includes having and 
+
+maintaining a good working environment, whereby we have set a minimum average office space and 
+
+brightness level to ensure the offices are well lit and not cramped. This is especially important to maintain 
+
+social distancing in our offices. The current office layout conforms to social distancing guidelines and we 
+
+are committed to maintaining this going forward. In FY2020, we have also serviced all our air-conditioners 
+
+to further promote a good environment.  
+
+Training and awareness programs are planned for all staff to facilitate the effective implementation of any 
+
+risk reduction program. In addition, our employees have been briefed on how to respond to health and 
+
+safety incidents at the workplace. During FY2020, we have disseminated materials and articles on health 
+
+and related issues that relates mainly to COVID-19 to our employees. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+11 | P a g e 
+
+ 
+
+ 
+
+Occupational Health and Safety Targets and Performance 
+
+Targets 
+
+Performance 
+
+Zero incidents resulting in staff permanent 
+
+disability or fatality 
+
+No staff work-related fatality or permanent 
+
+disability 
+
+All main contractors to be OHSAS 18001 certified 
+
+or comply fully with local OHS laws and 
+
+regulations  
+
+The main contractor appointed for construction 
+
+projects undertaken in FY2019 has ISO OHSAS 
+
+18001 certification. There were no construction 
+
+activities during FY2020. 
+
+ 
+
+Employees and workers whose work or workplace is 
+
+controlled by the Group 
+
+Philippine 
+
+Vietnam 
+
+Malaysia 
+
+Total 
+
+Number of work-related injuries1 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Work-related fatalities/permanent disabilities 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Injury rate (number of work-related injuries per million 
+
+hours worked) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Lost day rate (number of lost man-days per million hours 
+
+worked) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Absentee rate2 (days per staff per year)  
+
+2 
+
+1 
+
+2 
+
+2 
+
+ 
+
+1This is based on work-related incidents that resulted in more than three days of medical leave or more 
+
+than 24 hours of hospitalization. 
+
+2Absentee rate is based on medical leave taken by staff, regardless of whether it is work-related or not. 
+
+The total figure presented is the Group’s average absentee rate. 
+
+There were no work-related ill health in FY2020. There were also no breach of regulations regarding health 
+
+and safety, environment and labour laws in FY2020. 
+
+In FY2020, the Group and its tenants had conducted fire as well as natural disaster drills, such as 
+
+earthquake and drills for its units operating in the Philippines. We will continue to conduct such drills in 
+
+FY2021. In FY2020, we have ensured that our employees have a minimum average office space as well as 
+
+brightness level. We have preventive maintenance to provide a more conducive working environment at 
+
+all times. During FY2020, our Safety Officer at our significant location in the Philippines has made some 
+
+recommendations such as improved signage and materials recovery facilities system for management to 
+
+implement as well as assisting in fire and disaster drills. All the recommendations from our Safety Officer 
+
+have been implemented. Our tenants there have also conducted their own fire drills and disaster drills in 
+
+their premises. 
+
+Subsequent Reporting for FY2021 
+
+Health and safety remain of paramount importance in FY2021 due to the continuing battle against the 
+
+COVID-19 pandemic and we will continue to carry out and maintain the measures that we have done in 
+
+FY2020. We will also look into resuming the earthquake and fire drills in FY2021 once the Authorities have 
+
+given their clearance for such exercise. 
+
+
+12 | P a g e 
+
+ 
+
+ 
+
+OHS Stakeholder Engagement 
+
+Amplefield works closely with its contractors and suppliers who are committed to high quality 
+
+environmental, health and safety standards. Contractors are only appointed for its projects upon meeting 
+
+the Group’s stringent selection criteria, one of which is safety. 
+
+Managing Our Sub-Contractors (GRI 308-1, 414-1) 
+
+All contractors and subcontractors are informed of their worksite health and safety requirements, 
+
+environmental and social responsibilities, and are expected to be able to meet the standards of the Group. 
+
+Contractors and subcontractors are reviewed and selected based on safety, environmental and social 
+
+compliance. New contractors and subcontractors are assessed based on their track record, worksite 
+
+health and safety practices as well as publicly available information. 
+
+The Group gives priority to local suppliers in sourcing for materials, supplies and services.  
+
+Main contractors appointed for our development and construction projects have to be OHSAS 18001 
+
+certified or comply fully with local OHS laws and regulations. Amplefield also tracked the health and safety 
+
+performance of its main contractors at its worksites.  
+
+In FY2020, we did not have any construction activities. 
+
+Subsequent Reporting for FY2021 
+
+When construction activities resume, we hope to maintain our minimum record of work-related injuries 
+
+for FY2021.  
+
+ENVIRONMENT (GRI 307-1, 419-1) 
+
+We are committed to be an environmentally responsible partner in the communities we operate in to 
+
+ensure a safe, efficient and environmentally conscious operating area. Amplefield’s risk and sustainability-
+
+based strategies are geared to assess, avoid, reduce and mitigate environmental risks and impact.  
+
+We started by assessing the nature of the businesses and operations of prospective facilities users or 
+
+tenants to ensure that in the first place, they will be able to meet our criteria for sustainable and 
+
+environmentally friendly operations. We also continually monitor the operations of existing facilities users 
+
+or tenants to ensure that they are in compliance with the environmental standards and policies in respect 
+
+of effluence, pollutants, waste collection and disposal etc. that are in place. 
+
+During FY2020, our Pollution Officer liased with our tenants to ensure that all pollutants are minimized 
+
+and environmental standards on discharges are met. We did not detect any breach in pollution standards 
+
+by any of our tenants during FY2020. As part of our program in FY2020, we have also implemented a 
+
+Materials Recovery Facilities (“MRF”) system for the systematic administration of the activities which 
+
+provides for segregation at source, segregated transportation, storage transfer, processing, treatment 
+
+and disposal of solid waste and all other waste management activities. 
+
+Meanwhile, in FY2020 we have also set aside a maintenance budget of 2% of our revenue to ensure our 
+
+facilities are running at optimum level.  
+
+
+13 | P a g e 
+
+ 
+
+ 
+
+We have also implemented electronic communication via our website with our shareholders, as in 
+
+compliance with the requirements stipulated in the First Schedule of the COVID-19 (Temporary Measures) 
+
+Act 2020 passed by Parliament on 7 April 2020 and the COVID-19 (Temporary Measures) (Alternative 
+
+Arrangements for Meetings for Companies, Variable Capital Companies, Business Trusts, Unit Trusts and 
+
+Debenture Holders) Order 2020 (“Order”) whereby until further guidance is provided by the relevant 
+
+authorities, the Company has opted not to send out physical copies of the Circular for EGM on 28 August 
+
+2020 as well as the Annual Report FY2020 for our AGM on 22 January 2021. This will save the paper that 
+
+goes into the printing of physical copies of such documents 
+
+Subsequent Reporting for FY2021 
+
+We will continue to monitor compliance with pollution standards by our tenants and use electronic 
+
+communication with our shareholders as much as possible. 
+
+OUR PEOPLE 
+
+We strive to create an inclusive workplace environment, committed to mutual respect, fairness and 
+
+equality for all our staff and workers. We provide opportunities for continuous learning and skills 
+
+improvement for staff development. 
+
+Diversity in Our Workforce (GRI 102-8, 405-1, 406-1)  
+
+As at 30 September 2020, the Group had a total of 19 employees of which 8 or 42 % are female. The 
+
+Group’s activities are performed by workers who are employees of the Group. They are all under full-time 
+
+permanent employment contract. We do not have any workers who are under temporary contract or 
+
+part-time. Our employees are distributed across various age groups with different experiences and skill 
+
+sets that build the Group’s capabilities for sustainable growth. We still have a relatively young workforce 
+
+with 68.4% of the workforce aged 40 and below. They represented people from different cultural 
+
+backgrounds and nationalities. 
+
+Workforce and Turnover by Age 
+
+Age Group 
+
+Male (%) 
+
+Female (%) 
+
+Turnover Rate (%) 
+
+&lt; 30 
+
+15.8 
+
+10.5 
+
+5.3% 
+
+&gt; 30 &amp; &lt; = 40 
+
+15.8 
+
+26.3 
+
+- 
+
+&gt; 40 &amp; &lt; = 50 
+
+5.3 
+
+5.3 
+
+- 
+
+&gt; 50 &amp; &lt; = 60 
+
+10.5 
+
+- 
+
+- 
+
+&gt;60 
+
+10.5 
+
+- 
+
+- 
+
+Total 
+
+57.9 
+
+42.1 
+
+5.3% 
+
+ 
+
+Workforce by Nationality 
+
+Country 
+
+% of Workforce 
+
+Malaysia 
+
+31.6 
+
+Philippines 
+
+52.6 
+
+Vietnam 
+
+15.8 
+
+Total 
+
+100 
+
+
+14 | P a g e 
+
+ 
+
+ 
+
+Amplefield practices non-discrimination and believes in equal opportunities. All employees are 
+
+remunerated fairly based on markets and individual responsibilities, merits and experiences regardless of 
+
+gender, race or nationality. Any employee that has reason to believe that he or she has been unfairly 
+
+discriminated can lodge a complaint with the human resource department. Upon receiving such a 
+
+complaint, the human resource department will investigate the matter and take the necessary remedial 
+
+action. 
+
+The Group did not receive any legal action nor was there any complaint registered with the authorities in 
+
+respect of discrimination. We have not identified any instances of discrimination through our established 
+
+procedures and grievance mechanisms.  
+
+Employee Benefits and Retention (GRI 401-1, 401-3)  
+
+We recognize the valuable contribution by our employees. Apart from competitive salaries and 
+
+performance-based bonuses, our employees are entitled to a wide range of benefits such as medical and 
+
+healthcare benefits as well as hospitalization leave.  
+
+We also support the governments’ policies and initiatives and abide by their rules, regulations, policies 
+
+and initiatives with regards to parental leave. During the reporting period, none of our employees took 
+
+parental leave. 
+
+The Group is dedicated to enabling our staff to develop to their full potential. Appropriate trainings are 
+
+identified and conducted in-house or otherwise through various forms such as workshops, seminars, 
+
+courses, conferences, classroom trainings etc. 
+
+We will continue to periodically review our employment policies and work towards a more inclusive 
+
+workforce.  
+
+Training &amp; Education (GRI 404-3) 
+
+All our staff received annual performance and career development reviews during the year. During the 
+
+process, the employees also provide their feedback to the management. We are committed to identify 
+
+appropriate trainings through various forms and means to enhance the skills of our employees. 
+
+In FY2020, we have continued to identify staff for appropriate training, either in-house or out-sourced, to 
+
+enable them to acquire new skills and knowledge so as to equip them to take up more responsibilities. As 
+
+part of the program, we have trained a new accredited Pollution Control Officer after the incumbent left 
+
+the organization. While we have set a target of 100 hours of training for all staff for FY2020, we achieved 
+
+only 50 hours due to disruptions from COVID-19. 
+
+Subsequent Reporting for FY2021 
+
+We have set a target of 50 hours of training for all our staff for FY2021. 
+
+Socioeconomic Compliance (GRI 419-1) 
+
+We have not identified any non-compliance with laws and/or regulations in the social and economic area. 
+
+In FY2020, we have engaged legal counsel on an ad-hoc basis to advise our corporates in the Philippines 
+
+on any local laws that may be of our interest. 
+
+
+15 | P a g e 
+
+ 
+
+ 
+
+Subsequent Reporting for FY2021 
+
+We will continue to engage our lawyers, advisers and compliance officers to ensure that the Group 
+
+complies with all the rules and regulations across the region where it operates. 
+
+SGX Five Primary Components Index 
+
+S/N Primary Component 
+
+Section Reference 
+
+1 
+
+Material Environment, 
+
+Social and 
+
+Governance factors 
+
+ 
+
+Economic, Environmental and Social Topics, Anti-corruption, 
+
+Employment       
+
+ 
+
+Stakeholder Engagement 
+
+2 
+
+Policies, Practices and 
+
+Performance 
+
+ 
+
+Chairman’s Message 
+
+ 
+
+Sustainability Story 
+
+ 
+
+Economic, Environmental and Social Topics 
+
+3 
+
+Board Statement 
+
+Sustainability Governance &amp; Statement of the Board 
+
+4 
+
+Targets 
+
+Sustainability Story 
+
+5 
+
+Framework 
+
+Reporting Practice 
+
+ 
+
+GRI Standards Content Index and GRI Indicators  
+
+GRI 
+
+Standards 
+
+Disclosure Content 
+
+Sustainability 
+
+Report 
+
+Section 
+
+Reference 
+
+ 
+
+Organisational Profile 
+
+ 
+
+102-1 
+
+Name of organisation 
+
+Organisation Profile 
+
+102-2 
+
+Activities, brands, products and services 
+
+Organisation Profile 
+
+102-3 
+
+Location of headquarters 
+
+Organisation Profile 
+
+102-4 
+
+Location of operations 
+
+Organisation Profile 
+
+102-5 
+
+Ownership and legal form 
+
+Organisation Profile 
+
+102-6 
+
+Markets served 
+
+Organisation Profile 
+
+102-7 
+
+Scale of the organisation 
+
+Organisation Profile 
+
+102-8 
+
+Information on employees and workers 
+
+Our People 
+
+ 
+
+Ethics and Integrity 
+
+ 
+
+102-16 
+
+Values. Principles, standards, and norms of behaviour 
+
+Ethics and Integrity 
+
+ 
+
+Governance 
+
+ 
+
+102-18 
+
+Governance structure 
+
+Annual Report 2019 
+
+ 
+
+Stakeholder Engagement 
+
+ 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Stakeholder Engagement 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Stakeholder Engagement 
+
+102-44 
+
+Key topics and concerns raised 
+
+Stakeholder Engagement 
+
+ 
+
+Reporting Practice 
+
+ 
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+Annual Report 2019 
+
+102-46 
+
+Defining report content and topic boundaries 
+
+Reporting Practice 
+
+102-47 
+
+List of Material Topics 
+
+Reporting Practice 
+
+102-49 
+
+Changes in reporting 
+
+SR Report 
+
+
+16 | P a g e 
+
+ 
+
+ 
+
+102-50 
+
+Reporting period 
+
+Reporting Practice 
+
+102-51 
+
+Date of most recent report 
+
+SR Report 
+
+102-52 
+
+Reporting cycle 
+
+Reporting Practice 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+Reporting Practice 
+
+102-54 
+
+Claims of reporting in accordance with the GRI 
+
+Reporting Practice 
+
+102-55 
+
+GRI content index 
+
+GRI Standards Content 
+
+Index 
+
+102-56 
+
+External assurance 
+
+Reporting Practice 
+
+201-1 
+
+Direct economic value generated and distributed 
+
+Economic performance 
+
+203-2 
+
+Significant indirect economic impact 
+
+Indirect Economic Impact 
+
+205-1 
+
+Operations assessed for risks related to corruption 
+
+Ethics and Integrity 
+
+205-2 
+
+Communication and training about anti-corruption policies 
+
+and procedures 
+
+Ethics and Integrity 
+
+205-3 
+
+Confirmed incidents of corruption and actions taken 
+
+Ethics and Integrity 
+
+307-1 
+
+Non-compliance with environmental laws and regulations 
+
+Environment Protection 
+
+308-1 
+
+Supplier environment assessment 
+
+Managing 
+
+our 
+
+sub-
+
+contractors 
+
+401-1 
+
+New employee hires and employee turnover 
+
+Employee Benefits and 
+
+Retention 
+
+401-3 
+
+Parental leave 
+
+Employee Benefits and 
+
+Retention 
+
+403-1 
+
+Workers representation in formal joint management-worker 
+
+health &amp; safety committee 
+
+Health and Safety 
+
+403-2 
+
+Injury &amp; incidents 
+
+Health and Safety 
+
+403-9 
+
+Work-related injuries 
+
+Health and Safety 
+
+403-10 
+
+Work-related ill health 
+
+Health and Safety 
+
+404-3 
+
+Percentage of employees receiving regular performance and 
+
+career development reviews 
+
+Training and Education 
+
+405-1 
+
+ 
+
+Diversity of governance bodies and employees 
+
+Diversity in our workforce 
+
+406-1 
+
+Incidents of discrimination and corrective actions taken 
+
+Diversity in our workforce 
+
+414-1 
+
+New suppliers that were screened using social criteria 
+
+Managing 
+
+Our 
+
+Sub-
+
+contractors 
+
+419-1 
+
+Non-compliance with laws and regulations in the social and 
+
+economic area 
+
+Socioeconomic 
+
+compliance 
+
+ 
+
+ 
+
+ 
+
+ 
+

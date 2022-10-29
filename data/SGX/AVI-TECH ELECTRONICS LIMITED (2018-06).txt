@@ -1,0 +1,4360 @@
+
+ 
+
+1 
+
+ 
+
+ 
+
+  
+
+ 
+
+
+
+
+ 
+
+2 
+
+ 
+
+CHAIRMAN AND CEO STATEMENT 
+
+ 
+
+Avi-Tech Electronics Limited (“Avi-Tech”) remains committed to managing its environmental, social and 
+
+governance (“ESG”) impacts, risks and opportunities. 
+
+ 
+
+The Singapore Exchange (“SGX”) has introduced rules that require issuers to produce an annual 
+
+sustainability report with effect from the financial year ending 30 June 2018 (“FY2018”) in a “comply” or 
+
+“explain” basis. Complying with the SGX rules, we have prepared our first sustainability report based 
+
+on the international recognised Global Reporting Initiative (“GRI”) standards. The sustainability report 
+
+provides information about our ESG performance in a phased approach. We will continue to integrate 
+
+material ESG issues into our business processes to ensure long-term value creation for all 
+
+stakeholders. 
+
+ 
+
+ 
+
+Khor Thiam Beng 
+
+ 
+
+ 
+
+ 
+
+Lim Eng Hong 
+
+Chairman  
+
+ 
+
+ 
+
+ 
+
+ 
+
+CEO 
+
+ 
+
+OUR VISION, MISSION AND VALUES 
+
+ 
+
+Vision 
+
+ 
+
+We aspire to be a local multinational group with the capability to provide efficient support services to 
+
+the semiconductor, electronics and life sciences industries.  
+
+ 
+
+Mission 
+
+ 
+
+We aim to excel as the best service provider for the semiconductor, electronics and life sciences 
+
+industries with faster turnaround time, reliability, quality, optimum production cost and an extension of 
+
+our facilities to meet any upsurge in capacity from our customers. 
+
+ 
+
+Values 
+
+ 
+
+We are driven by our core values of “AVI”: 
+
+ 
+
+• 
+
+Advancement through technology 
+
+• 
+
+Value-added and customer-centred services 
+
+• 
+
+Innovation 
+
+ 
+
+ 
+
+ABOUT THIS REPORT  
+
+ 
+
+We are pleased to present Avi-Tech Electronic Limited’s inaugural Sustainability Report. This report 
+
+covers Avi-Tech’s ESG performance for the financial year ended 30 June 2018 for our business 
+
+operations in Singapore unless stated otherwise. The Report should also be read in conjunction with 
+
+the Annual Report 2018 http://avitech.listedcompany.com/misc/Avi-Tech_AR2018.pdf 
+
+ 
+
+ 
+
+REPORTING FRAMEWORK 
+
+ 
+
+This report has been prepared base on the 2016 GRI standards: Core option. The report also complies 
+
+with the SGX-ST Listing Rules (711A and 711B) and the SGX Sustainability Reporting Guide. A GRI 
+
+Content Index is included at the end of this report which indicates the location of the relevant 
+
+disclosures.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+3 
+
+ 
+
+REPORTING PROCESS 
+
+Avi-Tech’s Board of Directors has the ultimate responsibility for directing the management in the 
+
+development of its sustainability strategy including determining the material ESG factors, its due 
+
+compliance with the SGX-ST guidelines on corporate governance and sustainability reporting, and the 
+
+Group’s response to the attendant risks and opportunities. The Board is updated at least once a year 
+
+on Avi-Tech’s sustainability performance. 
+
+The Board is assisted by the Sustainability Reporting Committee. The Sustainability Reporting 
+
+Committee is headed by the Group’s Chief Financial Officer and key personnel of the various business 
+
+divisions as well as from the Finance and Human Resources departments. The committee’s 
+
+responsibilities include formulating and implementing sustainability strategies including identifying, 
+
+reviewing and assessing the various ESG factors, collecting ESG performance data from the various 
+
+business units, setting performance targets, where applicable, as well as developing, managing and 
+
+supervising the execution of the sustainability action plans.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+REPORT CONTENT AND QUALITY 
+
+The content of this report takes into consideration the significance of material ESG topics, risks and 
+
+opportunities and general sustainability trends and stakeholders’ concerns and expectations. We have 
+
+employed the GRI Standards defining report quality by applying the principles of accuracy, balance, 
+
+clarity, comparability, reliability and timeliness. 
+
+ 
+
+Data provided in the report has been mainly derived from our official records to ensure reasonable 
+
+accuracy and consistency. We have used internationally accepted measurement units, where 
+
+applicable, for presenting ESG data. Financial figures are in Singapore dollars unless stated otherwise. 
+
+As this is the first year of reporting, we do not have previous targets or benchmarks against which to 
+
+measure ourselves and we will be adopting a phased implementation approach to our reporting, which 
+
+will be conducted on an annual basis. In adopting a phased-approach to sustainability reporting, we will 
+
+be introducing more quantitative and qualitative targets going forward. 
+
+ 
+
+ 
+
+RESTATEMENTS 
+
+As this is our first sustainability report, restatements do not apply. 
+
+ 
+
+ASSURANCE 
+
+We did not obtain external assurance for this sustainability report. We have relied on internal verification 
+
+mechanisms to ensure the accuracy of information. Our ESG performance data is reported in good faith 
+
+and to the best of our knowledge. ESG data is verified using internal mechanisms and checks. Financial 
+
+statements included in our Annual Report, however, have been audited by independent auditors. 
+
+CEO/BOD
+
+Burn-In Services 
+
+Key Personnel
+
+Manufacturing &amp; 
+
+PCBA Services 
+
+Key Personnel
+
+Engineering 
+
+Services Key 
+
+Personnel
+
+Finance Key 
+
+Personnel
+
+Human 
+
+Resources Key 
+
+Personnel
+
+CFO
+
+
+ 
+
+4 
+
+ 
+
+AVAILABILITY 
+
+This report is available on our website www.avi-tech.com.sg 
+
+ 
+
+FEEDBACK 
+
+As your feedback is valuable to our continuous improvement, please send your questions, comments, 
+
+suggestions or feedback to us at ir@avi-tech.com.sg 
+
+  
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+5 
+
+ 
+
+STAKEHOLDER ENGAGEMENT  
+
+ 
+
+Stakeholder engagement forms an integral part of our sustainability approach. Our stakeholders have 
+
+an interest in our business and influence our operations, products and services, business approach and 
+
+strategies. Our stakeholders have been identified as our customers, business partners and suppliers, 
+
+shareholders, employees, government/regulatory agencies and the community.  
+
+ 
+
+We proactively engage with our stakeholders on a regular, continuing basis through various channels 
+
+and means to gain insights to their expectations and concerns and use these learnings to make 
+
+informed management decisions in shaping our business policies and strategies so as to create 
+
+sustainable business growth and value for all stakeholders.  
+
+ 
+
+How we engage with our diverse stakeholders, their expectations and concerns, and how we respond 
+
+to them, are presented below. 
+
+ 
+
+ 
+
+Stakeholders 
+
+Stakeholders 
+
+Expectations and 
+
+Concerns 
+
+Engagement 
+
+Channels 
+
+ 
+
+How We Respond and Address 
+
+Concerns 
+
+ 
+
+Customers 
+
+• 
+
+Quality  
+
+• 
+
+Fast turnaround   
+
+• 
+
+Pricing 
+
+• 
+
+Technical 
+
+expertise 
+
+• 
+
+Ethical practices  
+
+• 
+
+Workplace 
+
+health and 
+
+safety 
+
+ 
+
+• 
+
+Regular 
+
+dialogues, 
+
+consultations 
+
+and meetings 
+
+• 
+
+Feedback and 
+
+engagement 
+
+sessions 
+
+• 
+
+Project 
+
+management 
+
+committee 
+
+meetings 
+
+• 
+
+Implementing and maintaining 
+
+quality control standards 
+
+certifications such as ISO 9001 
+
+ISO 14001 and ISO 13485 
+
+• 
+
+Regular training to build and 
+
+improve skills 
+
+• 
+
+Ensuring adherence to 
+
+Workplace Health and Safety 
+
+(“WHS”) and Employee Health 
+
+Safety (“EHS”) policies  
+
+ 
+
+Business 
+
+Partners and 
+
+Suppliers 
+
+• 
+
+Transparent and 
+
+fair procurement 
+
+and other 
+
+business 
+
+practices 
+
+• 
+
+Compliance with 
+
+terms and 
+
+conditions of 
+
+business 
+
+contracts 
+
+• 
+
+Regular 
+
+communication 
+
+and feedback 
+
+through 
+
+meetings, 
+
+emails and 
+
+phone 
+
+discussions  
+
+ 
+
+• 
+
+Communicating Avi-Tech’s 
+
+business policies  
+
+• 
+
+Transparent business process 
+
+in the award of supply 
+
+agreements 
+
+ 
+
+ 
+
+Shareholders 
+
+• 
+
+Consistent 
+
+dividends 
+
+• 
+
+Risk 
+
+management 
+
+when investing 
+
+in new business 
+
+• 
+
+Transparency in 
+
+business 
+
+strategy and 
+
+operations 
+
+• 
+
+Business growth 
+
+• 
+
+Long-term 
+
+shareholder 
+
+value 
+
+ 
+
+• 
+
+IR website 
+
+which is 
+
+updated with 
+
+annual reports, 
+
+financial 
+
+announcements 
+
+and other 
+
+material 
+
+information 
+
+posted on 
+
+SGXNET 
+
+• 
+
+IR email alerts 
+
+for investors to 
+
+receive latest 
+
+news 
+
+• 
+
+Half-yearly 
+
+analyst briefings 
+
+to provide them 
+
+with information 
+
+to enable them 
+
+to produce 
+
+• 
+
+Ensuring robust risk 
+
+management and corporate 
+
+governance 
+
+• 
+
+Providing relevant and prompt 
+
+disclosure on Group’s financials 
+
+announcements and corporate 
+
+developments  
+
+• 
+
+Responding to investors 
+
+queries in a timely manner 
+
+• 
+
+Engagement opportunities 
+
+through AGM, emails, investor 
+
+meetings, conferences and 
+
+roadshows 
+
+
+ 
+
+6 
+
+ 
+
+impartial and 
+
+insightful reports 
+
+for investors and 
+
+the public at 
+
+large 
+
+• 
+
+Participation in 
+
+investor 
+
+conferences and 
+
+roadshows 
+
+• 
+
+Access to 
+
+management 
+
+through 
+
+- 
+
+Email 
+
+- 
+
+AGM 
+
+Employees 
+
+• 
+
+Competitive 
+
+numeration and 
+
+benefits 
+
+• 
+
+Reward for 
+
+performance 
+
+• 
+
+Career growth 
+
+and 
+
+advancement  
+
+• 
+
+Relevant 
+
+training and 
+
+personal 
+
+development  
+
+• 
+
+Safe working 
+
+environment  
+
+• 
+
+Non- 
+
+discriminatory 
+
+practices 
+
+• 
+
+Management-
+
+employee 
+
+dialogue 
+
+sessions 
+
+• 
+
+Internal 
+
+announcements 
+
+• 
+
+Orientation 
+
+sessions 
+
+• 
+
+Feedback 
+
+channels  
+
+• 
+
+Performance 
+
+appraisals 
+
+• 
+
+Exit interviews 
+
+ 
+
+ 
+
+• 
+
+Conducting employee 
+
+engagement to understand 
+
+employees’ satisfaction towards 
+
+the Group and benefits   
+
+• 
+
+Employee feedback channels 
+
+e.g. management dialogues 
+
+annually, employee suggestion 
+
+forms to improve environment 
+
+and policies if needed 
+
+• 
+
+Talent management 
+
+• 
+
+Ongoing training and 
+
+development 
+
+• 
+
+Salary benchmarking with 
+
+market practices  
+
+• 
+
+Implementing WHS Policy 
+
+• 
+
+Implementing fair employment 
+
+policies and practices 
+
+Government/ 
+
+Regulatory 
+
+Agencies 
+
+• 
+
+Compliance with 
+
+all laws and 
+
+regulations 
+
+ 
+
+• 
+
+Regulatory and 
+
+governance 
+
+licensing and 
+
+filings 
+
+• 
+
+Notices and 
+
+meetings 
+
+• 
+
+Seminars  
+
+• 
+
+Ensuring regulatory and 
+
+governance compliance  
+
+• 
+
+Constant updating of policies 
+
+and procedures based on 
+
+notifications and advisories 
+
+received through the relevant 
+
+channels 
+
+• 
+
+Attending seminars conducted 
+
+by agencies such as SGX, 
+
+TAFEP, MOM and CPF Board 
+
+to be updated on the schemes, 
+
+regulations and guidelines that 
+
+the government has provided 
+
+for local companies 
+
+Community 
+
+• 
+
+Social 
+
+responsibility 
+
+• 
+
+Social outreach 
+
+programmes 
+
+and activities 
+
+• 
+
+Implementing CSR 
+
+programmes and activities 
+
+• 
+
+Contributing to charity 
+
+organisations 
+
+• 
+
+Employee volunteering 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+7 
+
+ 
+
+MATERIAL FACTORS 
+
+Our approach to sustainability centres on the management of the ESG impacts of our business 
+
+operations and their potential impact on our stakeholders. Our strategy is to manage our most significant 
+
+sustainability impacts, risks and opportunities with the aim of creating long-term value for all our 
+
+stakeholders.  
+
+ 
+
+ 
+
+Materiality Methodology 
+
+ 
+
+We have identified the material ESG factors using the GRI Standards for Sustainability Reporting which 
+
+includes guidance for materiality analysis which were then prioritised with regards to their 
+
+environmental, social and economic impact to Avi-Tech and its stakeholders.  
+
+We undertook the following steps to arrive at the list of material factors for reporting: 
+
+• 
+
+Identification: We selected the ESG factors through an internal materiality analysis. We 
+
+identified sustainability issues that reflect our business’ impact on the environment, society and 
+
+economy and their significance to our stakeholders.  
+
+• 
+
+Prioritisation: We shortlisted the issues that represent the most significant environmental, social 
+
+and economic impacts of our operations and prioritised the material topics through an in-depth 
+
+analysis covering Avi-Tech’s activities, locations, business partners and customers, engaging 
+
+with relevant internal key executives of the various business divisions, reviewing the existing 
+
+Group management system components, risk assessment and internal audit results as well as 
+
+external commentaries on the semiconductor and wider electronics industries. 
+
+• 
+
+Validation: We considered the significance of our material impacts to stakeholders and how 
+
+they might influence the assessments and decisions of stakeholders.  
+
+• 
+
+Review: We seek feedback from stakeholders on this report to review our material topics for 
+
+the next reporting cycle. 
+
+ 
+
+Materiality Assessment 
+
+Our Sustainability Reporting Committee carried out our first formal materiality process to review, identify 
+
+and assess our most material sustainability issues based on their knowledge of respective business 
+
+areas, potential impacts of the Group’s business operations, insights from their day-to-day engagement 
+
+with a range of stakeholders and common challenges facing the industry. The team also considered 
+
+the Group’s long-term business goals and to align these with the sustainability strategies and examined 
+
+sustainability reporting trends among local semiconductor and manufacturing companies and peer 
+
+companies for benchmarking. For this report, we did not engage external stakeholders explicitly to take 
+
+their views on the identified ESG factors. However, the internal stakeholders including the key 
+
+management and personnel have used their experience of dealing with respective stakeholders and 
+
+their understanding of stakeholder expectations and concerns in prioritising material factors for 
+
+reporting. 
+
+ 
+
+As this is the first year of sustainability reporting, pursuant to a phased implementation approach, the 
+
+Group has set out in this report the qualitative targets and where available, the quantitative targets for 
+
+the majority of the material ESG factors. We have collected data internally from the relevant business 
+
+segments covering the period under review. In the coming year, we will put in place a data collection 
+
+and management system to provide information on our sustainability metrics and to enable us to 
+
+measure and track performance on a yearly basis. The objective is to achieve our set targets for the 
+
+material ESG factors and meet the key sustainability performance indicators within the timeline.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+8 
+
+ 
+
+OUR MATERIALITY TOPICS AND BOUNDARIES 
+
+ 
+
+Arising from the exercise, the following are the materiality factors and their boundaries that are of priority 
+
+to the Group’s sustainability risks and opportunities and having the most impact on our stakeholders: 
+
+ 
+
+• 
+
+Environment 
+
+• 
+
+Customers 
+
+• 
+
+People  
+
+• 
+
+Community 
+
+• 
+
+Economic Performance 
+
+• 
+
+Governance and Risk Management 
+
+ 
+
+These are materiality factors which we have control or management of and there are other materiality 
+
+factors that while having an effect on our stakeholders, are not within our control to manage or influence 
+
+significantly. These include factors that occur within our value chain but are outside of Avi-Tech, for 
+
+example, although materials used in our products may have an impact on the environment, we have 
+
+little control over them as most are consigned to us by our customers or specified by our customers due 
+
+to the stringent product specifications we have to adhere to.  
+
+ 
+
+Presented below is a summary of our material factors and their boundaries. 
+
+ 
+
+Material Topics 
+
+Group’s 
+
+Involvement 
+
+Material for 
+
+Business Division(s) 
+
+Environment 
+
+Energy 
+
+Direct 
+
+• 
+
+All 
+
+Waste Management 
+
+Direct 
+
+• 
+
+All 
+
+ 
+
+Customers 
+
+Customer Standards Compliance 
+
+Direct and 
+
+Indirect 
+
+• 
+
+All 
+
+Legal and Socio-economic Compliance 
+
+Direct 
+
+• 
+
+All 
+
+Intellectual Property, Data Protection and 
+
+Customer Privacy 
+
+Direct 
+
+• 
+
+All 
+
+ 
+
+People 
+
+Hiring 
+
+Direct 
+
+• 
+
+All 
+
+Diversity, Equal Opportunity and Non-
+
+discrimination 
+
+Direct 
+
+• 
+
+All 
+
+Human Rights 
+
+Direct 
+
+• 
+
+All 
+
+Anti-Bribery and Anti-Corruption 
+
+Direct 
+
+• 
+
+All 
+
+Training and Development  
+
+Direct 
+
+• 
+
+All 
+
+Performance 
+
+Appraisal 
+
+and 
+
+Career 
+
+Development 
+
+Direct 
+
+• 
+
+All 
+
+Staff Welfare and Benefits  
+
+Direct 
+
+• 
+
+All 
+
+ 
+
+Occupational Health and Safety 
+
+Direct and 
+
+Indirect 
+
+• 
+
+All 
+
+Community 
+
+Local Communities  
+
+Direct 
+
+• 
+
+All 
+
+Economic Performance 
+
+Economic Performance  
+
+Direct and 
+
+Indirect 
+
+• 
+
+All 
+
+Governance  
+
+Governance and Risk Management 
+
+Direct and 
+
+Indirect 
+
+• 
+
+All 
+
+ 
+
+ 
+
+
+ 
+
+9 
+
+ 
+
+ENVIRONMENT 
+
+ 
+
+We are committed to our Environmental Policy of enhancing environmental performance through 
+
+continual improvement in our environmental management system. Electricity and waste are our primary 
+
+environmental impacts. Our office and production facility use power for lighting and air-conditioning and 
+
+in particular, our Burn-In Services business segment utilises significant power for conducting Burn-In 
+
+tests. We also generate waste mostly from board manufacturing and system integration activities. Our 
+
+environmental efforts are focused on energy efficiency, reducing and recycling waste and using 
+
+resources efficiently. 
+
+Energy 
+
+ 
+
+We aim to operate responsibly within our business activities and to have positive impact on the wider 
+
+environment through the development of energy saving programmes. Avi-Tech’s energy demand for 
+
+our operation arises mainly from indirect energy which is electricity purchased from external suppliers.  
+
+ 
+
+We measure and monitor our energy consumption. In FY2018, our electricity consumption intensity was 
+
+6.5 kWh/m2, with the main user of this energy being Burn-In Services, averaging 51 % of total 
+
+consumption. This compares against 6.3 kWh/m2 with Burn-In Services, averaging 50 % of total 
+
+consumption the year before.  
+
+Some of the energy saving programmes we undertook/ planned to undertake include: 
+
+ 
+
+• 
+
+Chiller/CDA Overhaul and Replacement Programme 
+
+– 
+
+Installation/replacement of existing equipment to a high-efficiency chiller for efficiency 
+
+improvement 
+
+– 
+
+Overhaul and regular maintenance of pumps and compressors 
+
+– 
+
+Replacement of R-22 (ozone-depleting substance) with R134/R407 refrigerant (ozone 
+
+friendly) in phases 
+
+ 
+
+• 
+
+Air-conditioning System Optimisation 
+
+– 
+
+Monitoring of and maintenance of temperature at an optimum level 
+
+– 
+
+Regular maintenance (monthly) to preserve efficiency 
+
+ 
+
+• 
+
+HT/LT Transformer Optimisation 
+
+– 
+
+Regular maintenance to maintain efficiency 
+
+ 
+
+Based on the energy consumption for FY2018, we aim to maintain below 0.13 kWh per unit in the new 
+
+financial year. 
+
+ 
+
+We have started switching to energy efficient LED lighting in our office and production facility 
+
+progressively and to optimise our air conditioning system use through temperature control, and lift 
+
+system through regular maintenance. We also encourage our employees through awareness 
+
+campaigns to minimise the use of non-essential lighting in the office and production floor, switch off 
+
+electrical appliances when not in use and to make efforts to conserve water and to recycle paper. 
+
+ 
+
+
+
+
+ 
+
+10 
+
+ 
+
+Waste Management 
+
+ 
+
+Avi-Tech is mindful of the impact that our operations could have on the environment and have taken 
+
+steps to monitor and control waste that is a by-product of our operations. This is because we are 
+
+committed to the long-term preservation of our environment and climate. Furthermore, we are certified 
+
+to the ISO 14001 environmental management standard. 
+
+ 
+
+Waste management is particularly relevant for our board manufacturing and system integration 
+
+activities. We have put in place a wastage monitoring system which tracks and places targets to attain. 
+
+The current target set is wastage not exceeding 0.40% of total revenue. A monthly data log is submitted 
+
+which tracks the wastage for the month. To discourage wastage and inculcate a sense of responsibility 
+
+towards materials requisitioned, a system has been put in place for the submission and tracking of all 
+
+wastage requests. Employees have to explain or justify the reason for the wastage which has occurred. 
+
+The entire monitoring and reporting system is reviewed with senior management at quarterly meetings. 
+
+Strict control is also maintained over stock levels to minimise potential for write-off which exacerbates 
+
+wastage. 
+
+ 
+
+We dispose of waste and by-products through authorised channels and licensed waste management 
+
+contractors. Our chemical waste is disposed through licensed National Environment Agency (“NEA”) 
+
+approved vendors. We have an internal recycling programme to recycle, reduce and reuse our solder 
+
+dross that allows us to recover pure solder from the solder dross. We utilise lead-free processes as 
+
+much as possible to reduce any environmental impact by the possibility of any heavy metal pollution. 
+
+We also undertake recycling exercises with our customers, reusing high cost components.  
+
+While we do not consume a significant amount of water for it to be a material issue, we are nonetheless 
+
+mindful of its value as a resource. Any form of water discharge from our production processes are 
+
+treated in accordance with the NEA guidelines. 
+
+ 
+
+In addition, under our Supplier Code of Conduct, our major suppliers are required to comply with 
+
+relevant environmental laws and regulations, obtain and maintain all required environmental permits 
+
+(e.g. discharge monitoring), approvals and registrations, reduce pollution and minimise their use of 
+
+resources (including water and energy) and their generation of solid waste and wastewater and identify 
+
+and safely manage hazardous substances. This includes, inter alia, responsibly managing emissions 
+
+to air (including volatile organic chemicals, aerosols, corrosives, particulates, ozone depleting 
+
+chemicals and combustion by-products) and minimising their greenhouse gas emissions; adhering to 
+
+all applicable laws, regulations and customer requirements regarding prohibition or restriction of specific 
+
+substances in products and manufacturing, including labelling for recycling and disposal.  
+
+ 
+
+We are committed to complying with applicable environmental regulations. There were no incidents of 
+
+non-compliance with environmental laws in the reported period. 
+
+ 
+
+We aim to achieve a 0.5% year-over-year reduction in waste generation.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+11 
+
+ 
+
+CUSTOMERS 
+
+ 
+
+Maintaining our customers’ trust depends on our strict adherence to their exacting technical, commercial 
+
+and ethical requirements, protection of both our own intellectual property and that of our customers and 
+
+business partners, which is fundamental given the technologically innovative nature of our business 
+
+and our full compliance with laws. Any breach of trust or of our legal obligations, would have the potential 
+
+to seriously compromise our business, whether in terms of the loss of valuable commercial relationships 
+
+and/or the undermining of our reputation. 
+
+ 
+
+To safeguard our business reputation and commercial relationships, we have in place our Business 
+
+Ethics Policy which covers the protection of intellectual property, privacy, fair business and competition, 
+
+whistleblowing and protection against retaliation, managing conflict of interest and other misconduct 
+
+such as bribery and corruption and a range of specific policies addressing issues such as responsible 
+
+sourcing of minerals. In addition, the Group has issued policies on disclosure of information regarding 
+
+business activities, structure, financial situation and performance is to be disclosed in accordance with 
+
+applicable regulations and prevailing industry practices. For example, Directors and all key personnel 
+
+are advised not to deal in the Group’s shares on short-term considerations or when they are in 
+
+possession of material unpublished price-sensitive information which may set out the implications of 
+
+insider trading. 
+
+ 
+
+Customer Standards Compliance 
+
+ 
+
+As a supplier of total solutions for burn-in services, manufacturing and PCBA services, and engineering 
+
+services to the semiconductor, electronics and life sciences industries, we are subject to a significant 
+
+body of technical, legal and quality control requirements defined by our customers. In many cases, our 
+
+compliance with these requirements is included as a condition of contract with our customers, making 
+
+our strict adherence essential. This is particularly the case with respect to the technical specifications 
+
+and quality of our highly sophisticated products. Any slight variation in this respect is not only likely to 
+
+render them valueless from the perspective of our customers, but also has the potential to undermine 
+
+our customers’ own products. 
+
+ 
+
+As such, we put a significant amount of effort into understanding our customers’ extensive requirements 
+
+and applying comprehensive management systems to ensure that these are fully met. This includes, 
+
+for example:  
+
+ 
+
+• 
+
+an extensive set of operational quality control measures by which we employ strict adherence 
+
+to; 
+
+ 
+
+• 
+
+regular business reviews with our partners to understand their current and future capabilities 
+
+and requirements; and 
+
+ 
+
+• 
+
+our own ongoing auditing against the following management system standards  
+
+– 
+
+ISO 9001 (quality management system standard) 
+
+– 
+
+ISO1 4001 (environmental management system standard) 
+
+– 
+
+ISO 13485 (quality management system for medical devices standard) 
+
+ 
+
+Similarly, our customers typically apply their own set of compliance measures to ensure that we are 
+
+meeting their requirements. This includes auditing of, inter alia, our management systems, processes 
+
+and facility specifications, testing processes and documentation and materials and product traceability.  
+
+ 
+
+We evaluate customer satisfaction with the quality and specifications of our products on an ongoing 
+
+basis, using a mixture of individual reviews, analysis of customer complaints and customer surveys.  
+
+ 
+
+Legal and Socio-Economic Compliance  
+
+ 
+
+As with all companies, it is incumbent on us to comply with the applicable laws of the countries in which 
+
+we operate. This may require increased management if we extend our global presence into new 
+
+jurisdictions. In this context, we seek professional assistance in the countries of our operations to ensure 
+
+compliance with existing laws and regulations prevailing in those countries. We also regularly review 
+
+the local legislation to keep our policies updated and our relevant employees up to date with global 
+
+
+ 
+
+12 
+
+ 
+
+compliance issues where appropriate.  
+
+ 
+
+In the financial year under review, we were not subject to any legal sanctions or fines for non-compliance 
+
+with applicable laws. 
+
+ 
+
+Intellectual Property, Data Protection and Customer Privacy 
+
+ 
+
+The protection of intellectual property is vital for any business focused on the creation of innovative and 
+
+high-value technological solutions. Any failure in this regard could have profound consequences, for 
+
+example, on the value of our customers’ and business partners’ inventions and products, as we 
+
+necessarily access and work with customers’ intellectual property and/or commercial and technological 
+
+secrets. This requires a high degree of trust on the part of our customers, whose business we would 
+
+lose were this trust to be broken. 
+
+ 
+
+We ensure that all intellectual property is adequately safeguarded through the application of: 
+
+ 
+
+• 
+
+related restrictive provisions in both our Business Ethics Policy and our contracts of 
+
+employment; 
+
+ 
+
+• 
+
+robust information technology systems to prevent data leakage; and 
+
+ 
+
+• 
+
+access controls to specific project data for employees and third parties 
+
+ 
+
+In the financial year under review, we receive no complaints relating to misuse of customers’ intellectual 
+
+property, losses of customer data or breaches of customer privacy. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+13 
+
+ 
+
+PEOPLE  
+
+ 
+
+The nature of our business, which relies on the ongoing advancement of semiconductor technology, 
+
+means we are highly reliant on our ability to recruit, retain and develop a high-quality work force, as well 
+
+as leading management talent. Our people form the core of our organisation and our continued ability 
+
+to recruit, retain and develop experienced personnel and managers is particularly important given the 
+
+strong, ongoing competition for skills within the sector. 
+
+ 
+
+We take a holistic view towards both recruitment and retention that looks beyond the provision of 
+
+competitive financial rewards. We also aim to deliver the kind of working environment, training and 
+
+development opportunities and inclusive culture that allow our people to develop progressive, long-term 
+
+careers with us. 
+
+ 
+
+Employee Profile 
+
+ 
+
+We employ about 176 full-time staff as at end of June 2018, made up of various races, nationalities, 
+
+age groups, and gender. Permanent employees accounted for 90.02% of our workforce. The average 
+
+age of our employees was 40.6 years. 
+
+ 
+
+Hiring  
+
+ 
+
+Our goal is to attract and retain the best talent. We offer equal opportunities for employment and 
+
+progression within the Group based on merit. Our Human Resource policies and procedures provide 
+
+for equal opportunity and fairness in employment decisions. We do not discriminate on the basis of 
+
+race, colour, age, gender, sexual orientation, ethnicity, disability, pregnancy, religion, political affiliation, 
+
+union membership or marital status. 
+
+ 
+
+In FY2018, we recruited 19 new employees. Of the new hires, 11 of them were women, 12 were less 
+
+than 30 years of age and seven were in the age group of 30 to 50 years. 
+
+ 
+
+Diversity and Equal Opportunity and Non-discrimination 
+
+ 
+
+As a signatory of the of the Employers’ Pledge of Fair Employment Practices with the Tripartite Alliance 
+
+for Fair Employment Practices (“TAFEP”), we abide by the principles which stand for diversity and 
+
+inclusion and are against discrimination of any kind. TAFEP is an alliance co-chaired by representing 
+
+employer unions, the National Trade Union Congress and the government. 
+
+ 
+
+We are committed to employing and developing people who have the necessary skills, experience and 
+
+values to excel in their relevant roles irrespective of their gender, ethnicity, religion, disability or any 
+
+other non-work related or personal characteristic. Furthermore, we recognise the value a diverse 
+
+workforce can potentially bring in terms of creativity, dynamism and new perspectives. In this context, 
+
+we aim to nurture a working culture characterised by mutual respect and non-discrimination.  
+
+ 
+
+Our workforce represents diverse age groups (see chart). We support the Singapore government’s 
+
+policy of rehiring retiring employees to keep them economically active. In FY2018, we rehired seven 
+
+retiring employees. 
+
+The globalised nature of our sector mean that we enjoy a fairly international workforce, many of whom 
+
+work for us in locations away from their countries of birth. We are proud of our racially diverse workforce 
+
+which includes at least seven nationalities. 
+
+Although it is a reality that the semiconductor sector performs relatively poorly in terms of gender 
+
+diversity, our female workforce comprises more than 55% of the total workforce. Notwithstanding, we 
+
+will continue to focus on removing any invisible or structural considerations that may be limiting female 
+
+engagement with the sector. Diversity in the Board requires more consideration as currently there is no 
+
+female representation on our Board of Directors. The Board recognises the importance and value of 
+
+gender diversity and will take into consideration the skill sets and experience including gender diversity 
+
+for any future Board appointments. 
+
+ 
+
+We also respect our employees’ right to freedom of association and collective bargaining.  
+
+
+ 
+
+14 
+
+ 
+
+In the financial year under review, we did not receive any reports of any alleged or actual cases of 
+
+discrimination. 
+
+ 
+
+Human Rights 
+
+ 
+
+Avi-Tech recognises the responsibility to respect and protect the rights of our employees and support 
+
+internationally accepted human rights principles and regulations. We abide by our Labour and Human 
+
+Rights Policy which advocates, inter alia, freely-chosen employment, child labour avoidance, 
+
+compliance with local labour laws regarding working hours, wages and benefits, humane treatment, 
+
+and non-discrimination. 
+
+ 
+
+We did not receive any reports of incidents of labour and human rights violations, forced labour or child 
+
+labour in the reporting period. 
+
+ 
+
+Anti-Bribery and Corruption  
+
+ 
+
+We take a zero tolerance approach to bribery and corruption and are committed to acting with integrity 
+
+in all our business dealings and relationships.  
+
+ 
+
+In this context, we are subject to national anti-corruption laws, including the Singapore Prevention of 
+
+Corruption Act. Our commitment in this respect is set out in our Business Ethics Policy, which 
+
+addresses, inter alia: bribery, facilitation payments and gifts, and hospitality. Our Business Ethics Policy 
+
+which covers a Whistle-Blowing Programme, enables staff of the Group and any other persons, in 
+
+confidence, to raise concerns about possible improprieties in matters of financial reporting or other 
+
+matters such as suspected fraud, corruption, and dishonest practices. 
+
+ 
+
+All new employees are trained in the Business Ethics Policy during the induction process, while all 
+
+existing employees are provided with easy access to the policy and Whistle-Blowing Programme. We 
+
+communicate our zero tolerance approach to corruption to all suppliers, sub-contractors and other 
+
+service providers at the outset of our business relationship. Our Finance department oversees the 
+
+implementation of appropriate controls and procedures to monitor and prevent inappropriate forms of 
+
+payment across all our locations. This includes, for example, duplicate or overpayments, and payment 
+
+requests to third parties not associated with underlying transactions.  
+
+ 
+
+Were we to identify any suspected cases, these would be subject to internal (or, if necessary, external) 
+
+investigation. Any confirmed cases of employees breaching our policy would result in disciplinary action 
+
+(including potential termination) and/or referral to the relevant law enforcement authorities. Any 
+
+confirmed cases involving our business partners would result in the review and potential termination of 
+
+our business relations. 
+
+ 
+
+We aim to maintain zero corruption and fraud incidents across Avi-Tech’s core operations and ensure 
+
+that we are not subject to any material legal sanctions or fines for non-compliance with applicable laws. 
+
+ 
+
+In the financial year under review, we have not received any report of any corruption risks or cases of 
+
+suspected or actual corruption. There were also no whistle-blowing reports received in the financial 
+
+year under review. 
+
+ 
+
+Training and Development 
+
+ 
+
+Employee training and education is a crucial part of our people management. New employees attend 
+
+an orientation programme to understand the organisation and its corporate governance. There are also 
+
+check-in sessions with management to help in employee engagement and culture building.  
+
+ 
+
+We develop our people according to their abilities and job specifications. For all production staff, twice 
+
+yearly re-certification is conducted while management staff are encouraged to upgrade skills through 
+
+courses provided by external training providers such as Workforce Skills Qualification (“WSQ”) and 
+
+Integrated Assessment Pathway (“IAP”). 
+
+Our employees have access to ongoing opportunities for learning new skills. We encourage our 
+
+employees to gain new knowledge, experience and skills even if these lie outside their immediate job 
+
+
+ 
+
+15 
+
+ 
+
+scope. As such, employees are able to request to be sent for relevant training programmes provided 
+
+by external training providers. 
+
+ 
+
+In FY2018, our average training hours per employee was 3.9 hours and our training expenditure per 
+
+employee was approximately $262.00 per person (or 0.13% of revenue). 
+
+ 
+
+We are aiming for a 4% increase in average training hours per employee for the next financial year 
+
+under review and to achieve an average of 4.2 training hours per employee by 2020. 
+
+ 
+
+Performance Appraisal and Career Development 
+
+ 
+
+Through a performance management system, we enable our employees to meet their business and 
+
+personal development goals. Our performance management system covers all permanent employees.  
+
+As part of the process, managers hold discussions with their staff at the beginning of the year to 
+
+establish goals and are encouraged to have ongoing discussions with their employees to review 
+
+progress and to provide coaching and guidance. Yearly performance appraisals are conducted to 
+
+encourage self-improvement and to reward hard work. Promotions are based on recommendations by 
+
+supervisors based on performance and aptitude.   
+
+ 
+
+Staff Welfare and Benefits 
+
+ 
+
+We offer competitive wages and benefits to all our employees including full-time staff members and 
+
+contract employees: 
+
+• 
+
+Sick and hospitalisation leave  
+
+• 
+
+Hospitalisation and surgical plans 
+
+• 
+
+Dental benefits  
+
+• 
+
+Term life insurance policy in the event of death, disability and critical illness (actual limits of 
+
+coverage of these policies vary according to an employee’s grade) 
+
+• 
+
+Marriage/examination leave 
+
+ 
+
+Taking a proactive approach to the health and well-being of our employees, we also organise health-
+
+related talks and checkups periodically to encourage employees to adopt healthy lifestyles and to take 
+
+care of their health.  
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+16 
+
+ 
+
+ 
+
+OUR PEOPLE PERFORMANCE 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+96%
+
+
+
+4%
+
+Employee by Employment Type
+
+Permanent
+
+Contract
+
+
+
+
+
+
+
+
+
+45%
+
+
+
+55%
+
+Gender Diversity
+
+Male
+
+Female
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16%
+
+
+
+23%
+
+
+
+22%
+
+
+
+27%
+
+
+
+12%
+
+Age Diversity
+
+18 to 24 years
+
+25 to 35 years
+
+36 to 45 years
+
+46 to 55 years
+
+&gt;56 years
+
+
+ 
+
+17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+42%
+
+
+
+58%
+
+New Hiring By Gender
+
+Male
+
+Female
+
+
+
+
+
+
+
+
+
+63%
+
+
+
+37%
+
+New Hiring By Age
+
+&lt;30 years
+
+30 to 50 years
+
+
+
+
+
+
+
+
+
+
+
+
+
+72%
+
+
+
+9%
+
+
+
+15%
+
+
+
+4%
+
+Race
+
+Chinese
+
+Malay
+
+Indian
+
+Others
+
+
+ 
+
+18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46
+
+
+
+24
+
+
+
+24
+
+
+
+2
+
+
+
+2
+
+
+
+1
+
+
+
+1
+
+SINGAPOREAN
+
+MALAYSIAN
+
+PRC
+
+INDIAN
+
+FILIPINO
+
+THAI
+
+VIETNAMESE
+
+0
+
+5
+
+10
+
+15
+
+20
+
+25
+
+30
+
+35
+
+40
+
+45
+
+50
+
+Nationality (%)
+
+Singaporean
+
+Malaysian
+
+Indian
+
+Filipino
+
+Thai
+
+Vietnamese
+
+%
+
+
+
+
+
+
+
+
+
+57%
+
+
+
+43%
+
+Marital Status
+
+Married
+
+Single
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3.9
+
+
+
+3.5
+
+
+
+3.2
+
+FY2018
+
+FY2017
+
+FY2016
+
+0
+
+0.5
+
+1
+
+1.5
+
+2
+
+2.5
+
+3
+
+3.5
+
+4
+
+4.5
+
+Average Hours of Training Per Employee
+
+
+ 
+
+19 
+
+ 
+
+Occupational Health and Safety 
+
+The health and safety of our employees is a top priority for Avi-Tech. In addition to minimising the 
+
+incidence of work-related injury and illness, a safe and healthy work environment enhances the quality 
+
+of products and services, consistency of production and employee retention and morale.  
+
+ 
+
+Avi-Tech is committed to achieving Workplace Safety and Health (“WSH”) excellence through: 
+
+ 
+
+• 
+
+Compliance with relevant WSH legislations and regulations and other requirements to which 
+
+we subscribe to; 
+
+• 
+
+Consistently establish and maintain WSH management performance;  
+
+• 
+
+Operate and maintain our facilities to prevent and minimise risks to the health and safety of our 
+
+employees, subcontractors and surrounding communities; and  
+
+• 
+
+Ongoing communication of our WSH policy to all parties 
+
+ 
+
+We have in place operational procedures for risk assessment and management, and the 
+
+implementation of workplace safety measures covering occupational safety injury and illness, 
+
+emergency preparedness, industrial hygiene and machine safeguarding. We also recognise that 
+
+employee input and education is essential to identifying and solving health and safety issues in the 
+
+workplace. Our Environment Health and Safety (“EHS”) and Fire Safety Committees which comprise 
+
+staff from all relevant departments, under the counsel of registered safety officers, were set up to 
+
+oversee the implementation of the WSH management plan with monthly reviews.  
+
+ 
+
+Below are the details of the WSH initiatives undertaken: 
+
+ 
+
+Initiatives Undertaken 
+
+Date 
+
+Undertaken 
+
+Status 
+
+Comments/Outcome 
+
+EHS Guidelines for staff and 
+
+external contractors 
+
+established 
+
+ 
+
+22 June 2015 
+
+Completed 
+
+ 
+
+WSH Risk Management Plan 
+
+established 
+
+ 
+
+15 February 
+
+2016 
+
+Completed 
+
+ 
+
+WSH Risk Assessment 
+
+Record conducted 
+
+31 March 
+
+2017 
+
+Completed a. Hazard/Risk Identification 
+
+Assessment Worksheet was 
+
+generated 
+
+b. Total Activity-based Risk 
+
+Identification: 43 
+
+ 
+
+Monthly Risk Assessment 
+
+review during internal safety 
+
+inspection and EHS 
+
+Committee Meeting 
+
+ 
+
+24 March 
+
+2017 
+
+Completed 
+
+ 
+
+Record of regulatory 
+
+compliance of WSH identified 
+
+risk 
+
+31 March 
+
+2017 
+
+Completed a. Regulatory compliance of WSH 
+
+identified risk generated 
+
+b. Total activity reviewed: 43 
+
+c. Result on meeting all relevant 
+
+legal requirements 
+
+ 
+
+Our Executive Management holds a quarterly review of the WSH performance report which covers a 
+
+summary of complaints, industrial accidents and compliance for WSH and Environmental Inspection.  
+
+ 
+
+We had set the following goals for the financial year under review: 
+
+ 
+
+Objectives 
+
+Goal 
+
+Workplace Safety and Health Complaint 
+
+0 Cases 
+
+Industrial Accident 
+
+0 Cases 
+
+% compliance for WSH and Environmental Inspection 
+
+&gt;90% 
+
+
+ 
+
+20 
+
+ 
+
+ 
+
+For the financial year under review, we had one case of accident resulting in a machine operator 
+
+suffering a cut on the finger while operating a machine. Necessary actions were taken to prevent any 
+
+future occurrences.  
+
+ 
+
+We aim to achieve our goal of zero cases of WSH complaints and industrial accidents. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+21 
+
+ 
+
+COMMUNITY 
+
+ 
+
+We understand corporate citizenship as our voluntary social contribution to the local communities in 
+
+which we operate. As a responsible corporate citizen, we aim to leave our footprint in a positive way on 
+
+the environment and the community.  
+
+ 
+
+We are committed to be a responsible corporate citizen and contribute to community development. We 
+
+have been supporting charities and not-for-profit organisations such as Bright Vision Hospital, a 318-
+
+bed community hospital offering intermediate and long-term holistic care for about 1,500 new patients, 
+
+since 2015. Our employee volunteers, including our management, took part in the outreach programme 
+
+which included organising games, arts and crafts events and Patient Birthday Celebrations to celebrate 
+
+some of the patients’ birthdays. 
+
+ 
+
+Over the years, we have also raised funds for disaster relief such as for the 2013 Typhoon Haiyan 
+
+disaster in the Philippines. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+22 
+
+ 
+
+ECONOMIC PERFORMANCE 
+
+ 
+
+We are committed to creating sustainable value for our shareholders and stakeholders. For a detailed 
+
+description of our financial performance, please refer to the Group Financial Review section of the 
+
+Annual Report.  
+
+ 
+
+A summarised version of the economic value generated is presented here in line with the GRI 
+
+Standards. 
+
+ECONOMIC PERFORMANCE 
+
+($’million)                                                                                                                                                                          
+
+Economic performance indicators 
+
+FY2016 
+
+FY2017 
+
+FY2018 
+
+Revenue 
+
+33.9 
+
+40.0 
+
+35.7 
+
+Profit before tax 
+
+7.9 
+
+8.0 
+
+5.7 
+
+Profit after tax (from continuing operations)  6.2 
+
+7.0 
+
+4.9 
+
+Total expenses (including staff costs)  
+
+23.0 
+
+28.2 
+
+25.8 
+
+Staff costs 
+
+6.3 
+
+6.4 
+
+6.5 
+
+Dividends declared 
+
+4.8 
+
+3.4 
+
+2.6 
+
+ 
+
+Financial Assistance from Government 
+
+We did not receive any financial assistance from the government in the form of any applicable 
+
+government schemes/grants in Singapore.  
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+23 
+
+ 
+
+GOVERNANCE AND RISK MANAGEMENT 
+
+ 
+
+Our Board and Management are committed to continually enhancing shareholder value by maintaining 
+
+high standards of corporate governance, professionalism, integrity and commitment at all levels, 
+
+underpinned by strong internal controls and risk management systems. 
+
+ 
+
+Our corporate governance practices are set out in the Group’s annual report section entitled, “Corporate 
+
+Governance Report”, with specific references to the principles and guidelines of the Code of Corporate 
+
+Governance 2012 (the “Code”). Where the Group’s practices differ from the principles and guidelines 
+
+under the Code, the Group’s position in respect of the same is also set out in our Corporate Governance 
+
+Report.  
+
+ 
+
+We strive to conduct our business to high standards of openness, integrity and accountability and act 
+
+professionally, fairly and with integrity in all our business dealings and relationships at all times. All 
+
+business dealings should be transparently performed and accurately reflected in the Group’s books and 
+
+records. We ensure that the Group’s zero tolerance policy towards all forms of fraud, bribery, corruption, 
+
+extortion and embezzlement (covering promising, offering, giving or accepting any bribes) and unethical 
+
+actions, is strictly adhered to. Monitoring and enforcement procedures are implemented to ensure 
+
+compliance with anti-corruption laws. To achieve a high standard of corporate governance for the 
+
+operations of the Group, we have also implemented a Whistle-Blowing Programme. For more 
+
+information on the Whistle-Blowing Programme, please refer to the Corporate Governance Report in 
+
+the Annual Report.  
+
+ 
+
+Risk management is a critical component to our business success. We have constantly striven to 
+
+advance risk management practice as an important component in all our business portfolio and 
+
+activities. It demonstrates our commitment to a high standard of corporate governance. The Group has 
+
+put in place a risk management and internal control system in areas such as financial, operational, 
+
+compliance and information technology controls. The principal aim of the internal control system is the 
+
+management of business risks with a view to safeguarding shareholders’ investments and the Group’s 
+
+assets.  
+
+ 
+
+The system of risk management and internal controls established is designed to manage, rather than 
+
+eliminate, the risk of failure in achieving our goals and objectives. The Board wishes to state that the 
+
+system of internal controls provides reasonable, but not absolute assurance, as to financial, operational, 
+
+compliance and information technology risks. No such system can provide absolute assurance against 
+
+the occurrence of material errors and other situations not currently within the contemplation or beyond 
+
+the control of the Board. For more information on our system of risk management and internal controls, 
+
+please refer to the Corporate Governance Report in the Annual Report.  
+
+ 
+
+Board and Audit &amp; Risk Committee (“ARC”) 
+
+ 
+
+The Board of Directors has an overall responsibility to ensure that the Group has the capability and 
+
+necessary resources to manage risks in new and existing businesses, and that business plans and 
+
+strategies accord with the risk appetite that the Group undertakes to achieve its corporate objectives.  
+
+ 
+
+The responsibilities of the ARC include, inter alia, assisting the Board in carrying out its responsibility 
+
+of overseeing and maintaining the Group’s risk management framework and policies, including 
+
+reviewing the Group’s levels of risk tolerance and risk policies, and overseeing the management in the 
+
+design, implementation and monitoring of the Group’s risk management and internal control systems. 
+
+For more information on the role and responsibilities of our ARC, please refer to the Corporate 
+
+Governance Report. 
+
+ 
+
+Risk Governance and Internal Control (“RGIC”) Framework 
+
+ 
+
+The Board is responsible for risk governance, establishing risk management policies and tolerance 
+
+strategies that set the appropriate tone and direction, and also overseeing the implementation of risk 
+
+management framework to ensure that risks are identified and managed. On an ongoing basis, the 
+
+Board needs to continuously monitor and assess the adequacy of the risk management systems that it 
+
+has put in place, the system of internal controls and ensure that management takes the appropriate 
+
+steps to manage and mitigate risks. 
+
+
+ 
+
+24 
+
+ 
+
+ 
+
+The Group’s RGIC framework was developed to realise the value of risk management by providing an 
+
+integrated enterprise-wide perspective of the risks involved in our businesses and institutionalising a 
+
+systematic risk assessment methodology for the identification, assessment, management, reporting 
+
+and monitoring of risks on a consistent and reliable basis. The RGIC Manual sets out, inter alia, the 
+
+Board’s approved Risk Appetite and Risk Tolerance guidance, Authority and Risk Control Matrix, Key 
+
+Control Activities and Key Reporting and Monitoring Activities to manage and mitigate risks.  
+
+ 
+
+Our RGIC framework is constantly refined, ensuring relevance in a dynamic operating environment. We 
+
+keep abreast of the latest developments and best practices by participating in industry seminars and 
+
+interacting with risk management practitioners. Continuous training to build risk awareness and 
+
+competencies, as well as systems and tools to operationalise the risk management framework are put 
+
+in place to support our RGIC framework. 
+
+ 
+
+As a Group, we take a balanced approach to risk management, recognising that not all risks can be 
+
+eliminated. To optimise returns for the Group, we will only undertake appropriate and well-considered 
+
+risks. For more information on risk management and internal controls, please refer to the Corporate 
+
+Governance Report of the Annual Report. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+25 
+
+ 
+
+GRI CONTENT INDEX 
+
+ 
+
+ 
+
+GRI Content Index  
+
+ 
+
+‘In accordance’ – Core 
+
+ 
+
+ 
+
+GRI Standard 
+
+Disclosure 
+
+Page Number(s) and/or 
+
+URL(s) 
+
+GRI 101: Foundation 2016 
+
+(GRI 101 does not include any standards) 
+
+General Disclosures 
+
+GRI102: 
+
+General 
+
+Disclosures 
+
+2016 
+
+Organisational Profile 
+
+102-1 Name of the organisation 
+
+Annual Report 2018 – 
+
+page 1 
+
+102-2 Activities, brands, products, and services 
+
+Annual Report 2018 – 
+
+page 2, 107 
+
+102-3 Location of headquarters 
+
+Annual Report 2018 – 
+
+page 1 
+
+102-4 Location of operations 
+
+Annual Report 2018 – 
+
+page 1 
+
+102-5 Ownership and legal form 
+
+Annual Report 2018 – 
+
+page 1, 114-115 
+
+102-6 Markets served 
+
+Annual Report 2018 – 
+
+page 1, 109 
+
+102-7 Scale of the organisation 
+
+Annual Report 2018 – 
+
+page 1, 20 
+
+Sustainability Report 2018 – 
+
+page 13, 15 
+
+102-8 Information on employees and other 
+
+workers 
+
+Sustainability Report 2018 – 
+
+page 13, 16-18  
+
+102-9 Supply chain 
+
+Not applicable as supply are 
+
+consigned to us by our 
+
+customers or specified by our 
+
+customers due to the 
+
+stringent product 
+
+specifications we have to 
+
+adhere to 
+
+102-10 Significant changes to the organisation 
+
+and its supply chain 
+
+None 
+
+102-11 Precautionary Principle or approach 
+
+Annual Report 2018 – 
+
+page 43-46  
+
+Sustainability Report 2018 –
+
+page 11-12, 19-20 
+
+102-12 External initiatives 
+
+Sustainability Report 2018 – 
+
+page 2, 10-14, 19 
+
+Strategy 
+
+102-14 Statement from senior decision-maker 
+
+Annual Report 2018 – 
+
+page 5 
+
+Sustainability Report 2018 –
+
+page 2 
+
+Ethics and Integrity 
+
+102-16 Values, principles, standards, and norms 
+
+of behaviour 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+Sustainability Report 2018 – 
+
+page 2, 10-14, 19 
+
+102-17 Mechanism for advice and concerns about 
+
+ethics 
+
+Annual Report 2018 – 
+
+page 49 
+
+
+ 
+
+26 
+
+ 
+
+Sustainability Report 2018 –
+
+page 14 
+
+Governance 
+
+102-18 Governance structure 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+Sustainability Report 2018 –
+
+page 3 
+
+102-19 Delegating authority 
+
+Annual Report 2018 – 
+
+page 24-58,  
+
+Sustainability Report 2018 –
+
+page 3 
+
+102-20 Executive-level responsibility for 
+
+economic, environmental, and social topics 
+
+Sustainability Report 2018 –
+
+page 3 
+
+102-21 Consulting stakeholders on economic, 
+
+environmental, and social topics 
+
+Sustainability Report 2018 –
+
+page 3, 7 
+
+102-22 Composition of the highest governance 
+
+body and its committees 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-23 Chair of the highest governance body 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-24 Nominating and selecting the highest 
+
+governance body 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-25 Conflicts of interest 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-26 Role of highest governance body in setting 
+
+purpose, values and strategy 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+Sustainability Report 2018 – 
+
+page 3 
+
+102-27 Collective knowledge of highest 
+
+governance body 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-28 Evaluating the highest governance body’s 
+
+performance 
+
+Annual Report 2018 – 
+
+page 24-58 
+
+102-29 Identifying and managing economic, 
+
+environmental, and social impacts 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+102-30 Effectiveness of risk management 
+
+processes 
+
+Annual Report 2018 – 
+
+page 24-58  
+
+Sustainability Report 2018 –
+
+page 23-24 
+
+102-31 Review of economic, environmental, and 
+
+social topics 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+102-32 Highest governance body’s role in 
+
+sustainability reporting 
+
+Sustainability Report 2018 – 
+
+page 3 
+
+Stakeholder Engagement 
+
+102-40 List of stakeholder groups 
+
+Sustainability Report 2018 –
+
+page 5-6 
+
+102-41 Collective bargaining agreements 
+
+Sustainability Report 2018 –
+
+page 13  
+
+102-42 Identifying and selecting stakeholders 
+
+Sustainability Report 2018 – 
+
+page 5-6 
+
+102-43 Approach to stakeholder engagement 
+
+Sustainability Report 2018 – 
+
+page 5-6 
+
+102-44 Key topics and concerns raised 
+
+Sustainability Report 2018 – 
+
+page 5-6 
+
+Reporting Practice 
+
+102-45 Entities included in the consolidated 
+
+financial statements 
+
+Annual Report 2018 – 
+
+page 98 
+
+102-46 Defining report content and topic 
+
+boundaries 
+
+Sustainability Report 2018 – 
+
+page 3, 7-8 
+
+
+ 
+
+27 
+
+ 
+
+102-47 List of material topics 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+102-48 Restatements of information 
+
+Sustainability Report 2018 –
+
+page 3 
+
+102-49 Changes in reporting 
+
+Sustainability Report 2018 –
+
+page 3 
+
+102-50 Reporting period 
+
+Sustainability Report 2018 –
+
+page 2 
+
+102-51 Date of most recent report 
+
+Sustainability Report 2018 –
+
+page 2 
+
+102-52 Reporting cycle 
+
+Sustainability Report 2018 –
+
+page 2 
+
+102-53 Contact point for questions regarding the 
+
+report 
+
+Sustainability Report 2018 –
+
+page 4 
+
+102-54 Claims of reporting in accordance with the 
+
+GRI Standards 
+
+Sustainability Report 2018 –
+
+page 2 
+
+102-55 GRI content index 
+
+Sustainability Report 2018 –
+
+page 25 
+
+102-56 External assurance 
+
+Sustainability Report 2018 –
+
+page 3 
+
+Material Topics 
+
+Economic  
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 22 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 22 
+
+GRI 201: 
+
+Economic 
+
+Performance 
+
+2016 
+
+201-1 Direct economic value generated and 
+
+distributed 
+
+Annual Report 2018 – 
+
+Page 102-106 
+
+Sustainability Report 2018 –
+
+page 22 
+
+201-4 Financial assistance received from the 
+
+government 
+
+Sustainability Report 2018 –
+
+page 22 
+
+Anti-corruption 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 14 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 14 
+
+GRI 205: 
+
+Anti-
+
+Corruption 
+
+2016 
+
+205-2 Communications and training about anti-
+
+corruption policies and procedures 
+
+Sustainability Report 2018 –
+
+page 14 
+
+205-3 Confirmed incidents of corruption and 
+
+actions taken 
+
+Sustainability Report 2018 –
+
+page 14 
+
+Environment 
+
+Energy 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 – 
+
+page 9 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 – 
+
+GRI 302: 
+
+Energy 2016 
+
+302-1 Energy consumption within the organisation 
+
+page 9 
+
+302-4 Reduction of energy consumption 
+
+Annual Report 2018 – 
+
+page 54 
+
+Sustainability Report 2018 – 
+
+
+ 
+
+28 
+
+ 
+
+Effluents and Waste 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 10 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 10 
+
+GRI 306: 
+
+Effluents and 
+
+Waste 
+
+2016 
+
+306-1 Water discharge by quality and destination 
+
+Sustainability Report 2018 –
+
+page 10 
+
+306-2 Waste by type and disposal method 
+
+Annual Report 2018 – 
+
+page 54 
+
+Sustainability Report 2018 –
+
+page 10 
+
+Environmental Compliance 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 9-10 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 9-10 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+2016 
+
+GRI 307-1 Non-compliance with environmental 
+
+laws and regulations 
+
+Annual Report 2018 – 
+
+page 17 
+
+Sustainability Report 2018 –
+
+page 9-10 
+
+Social 
+
+Employment 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 13 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 13 
+
+GRI 401: 
+
+Employment 
+
+2016 
+
+401-1 New employee hires and employee 
+
+turnover 
+
+Sustainability Report 2018 –
+
+page 13 
+
+401-2 Benefits provided to full-time employees 
+
+that are not provided to temporary or part-time 
+
+employees 
+
+Sustainability Report 2018 –
+
+page 15 
+
+Occupational Health and safety 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+GRI 403: 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+403-1 Occupational health and safety 
+
+management system 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+403-2 Hazard identification, risk assessment, and 
+
+incident investigation 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+403-4 Worker participation, consultation, and 
+
+communication on occupational health and safety 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+403-5 Worker training on occupational health and 
+
+safety 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+403-6 Promotion of worker health 
+
+Annual Report 2018 – 
+
+page 17 
+
+Sustainability Report 2018 –
+
+page 15 
+
+
+ 
+
+29 
+
+ 
+
+403-8 Workers covered by an occupational health 
+
+and safety management system 
+
+Sustainability Report 2018 –
+
+page 19-20 
+
+403-9 Work related injuries 
+
+Sustainability Report 2018 –
+
+page 20 
+
+Training and Education 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 13-15 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 13-15 
+
+GRI 404: 
+
+Training and 
+
+Education 
+
+2016 
+
+404-1 Average hours of training per year per 
+
+employee 
+
+Sustainability Report 2018 –
+
+page 18 
+
+404-2 Programs for upgrading employee skills 
+
+and transition 
+
+assistance programs 
+
+Sustainability Report 2018 –
+
+page 15 
+
+404-3 Percentage of employees receiving regular 
+
+performance and career development reviews 
+
+Sustainability Report 2018 –
+
+page 15 
+
+Diversity and Equal Opportunity 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 13 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 13 
+
+GRI 405: 
+
+Diversity and 
+
+Equal 
+
+Opportunity 
+
+2016 
+
+405-1 Diversity of governance bodies and 
+
+employees 
+
+Annual Report 2018 – 
+
+page 29 
+
+Sustainability Report 2018 – 
+
+page 13, 16-18 
+
+Non-discrimination 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 13 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 13 
+
+GRI 406: 
+
+Non-
+
+discrimination 
+
+2016 
+
+406-1 Incidents of discrimination and corrective 
+
+actions taken 
+
+Sustainability Report 2018 –
+
+page 14 
+
+Freedom of Association and Collective Bargaining 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 13 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 13 
+
+GRI 407: 
+
+Freedom of 
+
+Association 
+
+and 
+
+Collective 
+
+Bargaining 
+
+407-1 Operations and suppliers in which the right 
+
+to freedom 
+
+of association and collective bargaining may be at 
+
+risk 
+
+Sustainability Report 2018 –
+
+page 13 
+
+Child Labour 
+
+GRI 103: 
+
+Management 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+
+ 
+
+30 
+
+ 
+
+Approach 
+
+2016 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 14 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 14 
+
+GRI 408: 
+
+Child Labour 
+
+408-1 Operations and suppliers at significant risk 
+
+for incidents of child labour 
+
+ 
+
+Sustainability Report 2018 –
+
+page 14 
+
+Forced or Compulsory Labour 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 14 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 14 
+
+GRI 408: 
+
+Forced or 
+
+Compulsory 
+
+Labour 
+
+408-1 Operations and suppliers at significant risk 
+
+for incidents of child labour 
+
+ 
+
+Sustainability Report 2018 –
+
+page 14 
+
+Local Communities 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 21 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 21 
+
+GRI 413: 
+
+Local 
+
+Communities 
+
+2016 
+
+413-1 Operations with local community 
+
+engagement, impact assessments, and 
+
+development programs 
+
+Annual Report 2018 – 
+
+page 17 
+
+Sustainability Report 2018 –
+
+page 21 
+
+Customer Privacy 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 11-12 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 11-12 
+
+GRI 418: 
+
+Customer 
+
+Privacy 
+
+418-1 Substantiated complaints concerning 
+
+breaches of customer privacy and losses of 
+
+customer data 
+
+Sustainability Report 2018 –
+
+page 12 
+
+Socio-economic Compliance 
+
+GRI 103: 
+
+Management 
+
+Approach 
+
+2016 
+
+103-1 Explanation of the material topic and its 
+
+boundaries 
+
+Sustainability Report 2018 –
+
+page 7-8 
+
+103-2 The management approach and its 
+
+components 
+
+Sustainability Report 2018 –
+
+page 11-12 
+
+103-3 Evaluation of the management approach 
+
+Sustainability Report 2018 –
+
+page 11-12 
+
+GRI 419:  
+
+Socio-
+
+economic 
+
+Compliance 
+
+2016 
+
+419-1 Non-compliance with laws and regulations 
+
+in the social and economic area 
+
+Sustainability Report 2018 –
+
+page 12 
+
+ 
+
+ 
+
+ 
+
+ 
+

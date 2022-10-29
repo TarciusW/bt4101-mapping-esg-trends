@@ -1,0 +1,3198 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+
+
+ 
+
+SUSTAINABILITY 
+
+REPORT 2020 
+
+ 
+
+ 
+
+ 
+
+This sustainability report has been reviewed by the Company’s Sponsor, Hong Leong Finance Limited. It has not been examined or approved by the 
+
+Exchange and the Exchange assumes no responsibility for the contents of this sustainability report, including the correctness of any of the statements 
+
+or opinions made or reports contained in this sustainability report.  
+
+ 
+
+The contact person for the Sponsor is Ms. Vera Leong, Vice President, Hong Leong Finance Limited, at 16 Raffles Quay, #01-05 Hong Leong 
+
+Building, Singapore 048581, telephone: +65 6415-9881. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+2 
+
+TABLE OF CONTENTS 
+
+BOARD STATEMENT ____________________________________________ 3 
+
+ABOUT THIS REPORT ___________________________________________ 5 
+
+Reporting Period _______________________________________________________ 5 
+
+Reporting Scope _______________________________________________________ 5 
+
+GRI Guidelines _________________________________________________________ 6 
+
+Format of Reporting _____________________________________________________ 6 
+
+Feedback _____________________________________________________________ 6 
+
+ABOUT ALSET _________________________________________________ 7 
+
+SUSTAINABILITY AT ALSET ______________________________________ 8 
+
+Our Sustainability Reporting Structure ______________________________________ 8 
+
+Our Supply Chain _______________________________________________________ 9 
+
+OUR APPROACH TO SUSTAINABILITY ____________________________ 10 
+
+Our Sustainability Strategy ______________________________________________ 10 
+
+Stakeholder Engagement _______________________________________________ 11 
+
+Materiality Review Process ______________________________________________ 13 
+
+CORPORATE GOVERNANCE ____________________________________ 15 
+
+Code of Conduct ______________________________________________________ 15 
+
+Conflicts of Interest Policy _______________________________________________ 15 
+
+Data Protection Policy __________________________________________________ 16 
+
+Whistleblowing Policy and Procedures _____________________________________ 16 
+
+Anti-corruption ________________________________________________________ 17 
+
+Our Performance ______________________________________________________ 17 
+
+ECONOMIC PERFORMANCE ____________________________________ 18 
+
+Management Approach _________________________________________________ 18 
+
+Our Performance ______________________________________________________ 18 
+
+Indirect Economic Impacts _______________________________________________ 20 
+
+Procurement Practices __________________________________________________ 21 
+
+ENVIRONMENT _______________________________________________ 22 
+
+Energy Consumption ___________________________________________________ 22 
+
+Reduction of Energy Consumption ________________________________________ 23 
+
+Our Performance ______________________________________________________ 23 
+
+Non-compliance with Environmental laws and regulations ______________________ 23 
+
+SOCIAL ______________________________________________________ 24 
+
+Employment __________________________________________________________ 24 
+
+Employee Turnover ____________________________________________________ 25 
+
+Employee Hires _______________________________________________________ 26 
+
+Our Performance ______________________________________________________ 26 
+
+Non-compliance with Employment laws and regulations _______________________ 27 
+
+Collective Bargaining Agreement _________________________________________ 27 
+
+Our Performance ______________________________________________________ 27 
+
+GRI INDEX: CORE OPTION ______________________________________ 28 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+3 
+
+BOARD STATEMENT 
+
+GRI 102-14 
+
+ 
+
+Dear Stakeholders, 
+
+ 
+
+On behalf of the board of directors (“Board” or “Directors”) of Alset International Limited 
+
+and its subsidiaries (“Alset” or collectively “the Group”), we are pleased to present to you 
+
+the fourth Sustainability Report (“SR”) of our Group for the financial year ended 31 
+
+December 2020 (“FY2020”) which provides information on the economic, environmental 
+
+and social aspects of our sustainability practices in two (2) major operating business 
+
+namely property development and biomedical science. 
+
+ 
+
+Sustainability continues to be a widely discussed issue both locally and globally.  At Alset, 
+
+we continue to focus on our progress towards sustainable development and how we have 
+
+aligned our business practices and operations against our Environmental, Social and 
+
+Governance (“ESG”) goals. 
+
+ 
+
+The report provides an avenue for us to keep our stakeholders informed about our 
+
+sustainability performance. It will also highlight the Group’s strategies, policies, practices, 
+
+performances, and targets, for the period 1 January 2020 to 31 December 2020 
+
+(“FY2020”), in relation to the economic, environmental, social and governance factors as 
+
+stated in the Global Reporting Initiative Standards (GRI Standards).  
+
+ 
+
+For FY2020, we have identified ten (10) indicators that matter most to our business, and to 
+
+both internal and external stakeholders.    
+
+ 
+
+These material issues have been taken into account through our four Pillars of 
+
+sustainability strategies – Corporate Governance, Economic Performance, Environmental 
+
+Sustainability and Human Capital.   
+
+ 
+
+Corporate 
+
+Governance 
+
+Corporate governance is at the centre of our business in achieving our 
+
+sustainability goals. Alset believes that good corporate governance practices 
+
+are essential in building a sound corporation with an ethical environment, 
+
+thereby protecting the interests of all stakeholders. We do not tolerate any form 
+
+of corruption or fraud within the Group. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+4 
+
+Economic 
+
+Performance 
+
+Alset believes in the creation of long-term economic value and a stable 
+
+economic performance of the Group by adopting responsible business 
+
+practices and growing business in a sustainable manner. The Group generates 
+
+revenue primarily from property development and biomedical science business 
+
+for FY2020. 
+
+Environmental 
+
+Sustainability 
+
+Alset believes that environmentally friendly practices complement business 
+
+efficiency and advocates corporate social responsibility towards the 
+
+environment by incorporating these processes in our operations.  As a socially 
+
+responsible corporation, Alset strictly complies with related environmental and 
+
+health and personal care products safety regulations.  We remain conscious of 
+
+our energy footprints and look for ways to reduce them while balancing our 
+
+needs. 
+
+Human 
+
+Capital 
+
+Employees are highly valued as they are a key to the contribution of Alset’s 
+
+growth and success. As such, we emphasize the career development, welfare, 
+
+health and safety of every employee.  The health &amp; safety of our employees is 
+
+our priority.  Policies on health and safety are in place to protect all employees.  
+
+In addition, with the outbreak of the Coronavirus Disease 2019 (“COVID-19”) 
+
+pandemic, we have stepped up our controls and implemented safe 
+
+management measures at our workplace. 
+
+ 
+
+Alset anticipates significant uncertainty in our businesses in view of the COVID-19 
+
+pandemic.  During this challenging time, Alset will continue to monitor the dynamic 
+
+economic, environment, social, and governance landscape.   
+
+ 
+
+We recognize the need to adapt our operations to accommodate these changes. Alset’s 
+
+Board will continue to consider sustainability issues as part of our strategic formulation and 
+
+operations across the Group. 
+
+ 
+
+We appreciate having all our stakeholders on this journey together with us, to build a more 
+
+sustainable future. 
+
+Mr. Chan Heng Fai 
+
+Executive Chairman, Executive Director and Group Chief Executive Officer 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+5 
+
+ABOUT THIS REPORT 
+
+ 
+
+Reporting Period 
+
+GRI 102-49, 102-50, 102-51, 102-52 
+
+Our Sustainability Report is published on an annual basis. This is the fourth issue of our 
+
+Sustainability Report and it covers the Financial Year 2020 (“FY2020”), for the period of 1 
+
+January 2020 to 31 December 2020.  The third sustainability report published by Alset was 
+
+the Sustainability Report 2019 which was released on 29 May 2020.   
+
+ 
+
+We reported our data in good faith and to the best of our knowledge.  We strive to 
+
+continuously improve our data collection and reporting process.  
+
+ 
+
+Reporting Scope 
+
+GRI 102-45, 102-48 
+
+We will present our sustainability initiatives in respect of environmental, social and 
+
+economic issues relevant to our businesses and boundaries.  Finally, we will provide the 
+
+information of our key performance indicators, performance targets and outcomes.   
+
+ 
+
+All data, statistics and improvement targets in this report relate to Alset’s Property 
+
+Development business and Biomedical Science business, which accounts for the revenue 
+
+generated by the Group.   
+
+ 
+
+The Property Development business derives revenue from the Ballenger Run Project 
+
+(located near Washington D.C. in Frederick, Maryland) and the Biomedical Science 
+
+business derives revenue from its network marketing distribution of health and personal 
+
+care products, which commenced operations in South Korea in FY2020. 
+
+ 
+
+There are no restatements of information in this report. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+6 
+
+GRI Guidelines 
+
+GRI 102-54, 102-56 
+
+This report is prepared based on the GRI Sustainability Reporting Standards 2016, in 
+
+accordance with the Core option. The GRI Sustainability Reporting Standards is adopted 
+
+as it is internationally recognized and widely adopted, enabling us to provide a broad and 
+
+comparable disclosure of the environmental, social and governance performance that aids 
+
+Alset in presenting a balanced view of the Group’s contributions towards sustainable 
+
+development.  The GRI content index and relevant references are provided on pages 28 – 
+
+30 of the report. No external assurance has been sought for this reporting period.  
+
+ 
+
+This report also incorporates the primary components of the report content as set out in 
+
+the “Comply or Explain” requirements for sustainability reporting under Rule 711B of 
+
+Section B: Rules of Catalist of the Listing Manual of the SGX-ST (the “Listing Rules”) 
+
+ 
+
+Format of Reporting 
+
+In line with our environmental conservation efforts, we will not be printing any hard copies 
+
+of this Report.  An electronic edition of this Report is made available on the SGXNET and 
+
+Alset’s website. 
+
+ 
+
+Feedback 
+
+GRI 102-53 
+
+We value your feedback on the content of this report and encourage you to address all 
+
+feedback to: 
+
+• Aileen Ang – Senior Vice President of Corporate Affairs 
+
+• aileen@alsetinternational.com 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+7 
+
+ABOUT ALSET 
+
+GRI 102-3, 102-4, 102-6 
+
+ 
+
+Incorporated on 9 September 2009 and listed on the Catalist Board of the Singapore 
+
+Exchange Securities Trading Limited (“SGX-ST”) since July 2010, Alset has since 
+
+diversified into international markets. 
+
+ 
+
+The Group’s portfolio comprises: 
+
+ 
+
+ 
+
+Besides our head office located in Singapore, we have other global offices in Hong Kong, 
+
+South Korea and the United States of America (“USA”).  We serve in the markets of the 
+
+following countries: Singapore, Australia, South Korea and the USA. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+8 
+
+SUSTAINABILITY AT ALSET 
+
+ 
+
+Our Sustainability Reporting Structure 
+
+GRI 102-18 
+
+A robust governance structure helps to ensure that Alset is committed to sustainability.  As 
+
+such, Alset’s sustainability drive is spearheaded by the Sustainability Executive 
+
+Committee which oversees the group’s sustainability strategies, initiatives and actions. 
+
+ 
+
+The Board approves the material economic, environmental, social and governance factors 
+
+and the business operations executives are tasked to ensure that the factors identified are 
+
+managed and monitored.  
+
+ 
+
+We ensure that we conduct our business process in a way that is accountable to our 
+
+environment, our customers, employees and community, while at the same time help 
+
+maintain sustainable economic growth for Alset. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+9 
+
+Our Supply Chain 
+
+GRI 102-9 
+
+Alset places an emphasis on sustainability in our value chain as we believe that a 
+
+sustainable business operation is a strong driver of value and success for the business, as 
+
+well as for the community and environment.  
+
+Property Development Business 
+
+The Group endeavours to incorporate sustainable construction in our property 
+
+development operations.  Contractors and subcontractors will be required to have 
+
+adequate environmental and occupational health and safety policies to ensure that their 
+
+works and services have minimal environmental impacts and workplace safety risk. 
+
+All our suppliers under Alset’s Property Development business, who we have a long-term 
+
+relationship with, are companies based in the USA. The general services we procure are 
+
+construction, engineering and architectural services. 
+
+The Group will ensure that all applicable safety laws and regulations which have been put 
+
+in place in relation to the COVID-19 pandemic are strictly adhered to in the process of 
+
+property development and construction. 
+
+ 
+
+Biomedical Science Business 
+
+The Group is committed to making the quality and safety of our health and personal care 
+
+products our topmost priority.  From the procurement to distribution of our products, we 
+
+exercise extreme caution in evaluating the quality of our suppliers’ products to ensure 
+
+safety of consumer along our supply chain. 
+
+Most of our suppliers are companies based in the Canada, United States and South Korea. 
+
+The general products and services we procured are health and personal care products as 
+
+well as security authentication services.  We strictly comply with safety regulations by the 
+
+local regulatory bodies and we only engage with suppliers who possess the relevant 
+
+certifications.   
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+10 
+
+OUR APPROACH TO SUSTAINABILITY 
+
+GRI 103-1, 103-2, 103-3 
+
+Our Sustainability Strategy 
+
+Alset takes a four-Pillars approach to sustainability strategy formalized by the 
+
+Sustainability Committee.  These four material pillars are identified as Corporate 
+
+Governance, Economic Performance, Environmental Sustainability and Human Capital.  
+
+These pillars, as part of our sustainability strategy and operations, guide us in creating 
+
+sustainable value for all our stakeholders.    
+
+ 
+
+Property Development Business 
+
+The Group aspires to meet the current and upcoming expectations posed by sustainable 
+
+development in the property industry.  The evolution of the industry has brought about a 
+
+strong emphasis on environmental and social considerations in property valuation, thereby 
+
+requiring new ways of assessing property worth and value. 
+
+Some features of a sustainable property business are as follows: 
+
+ 
+
+• Develop, design and construct green and eco-friendly sustainable properties 
+
+• Minimise negative environmental impacts and maximise sustainable use of 
+
+resources in properties developed. 
+
+• Provide property related services that are environmentally friendly and which 
+
+benefit the social community 
+
+• Provide long-term sustainable value for property owners as well as tenants. 
+
+ 
+
+Biomedical Science Business 
+
+The Group aspires to benefit the environment and society through our commitment 
+
+towards a sustainable health and personal care supply chain.  We are committed to 
+
+protecting the health and safety of our consumers by distributing safe health and personal 
+
+care products that are of good quality and nutritional value. 
+
+ 
+
+In addition to our focus on health and safety, we endeavour to develop an environmentally 
+
+responsible supply chain by procuring from suppliers that implement sustainable business 
+
+practices and comply with environmental regulations. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+11 
+
+Stakeholder Engagement 
+
+GRI 102-40, 102-42, 102-43, 102-44  
+
+Business decisions made by Alset consider the interests of our stakeholders who are or 
+
+would be affected by our operations and decision-making processes. 
+
+ 
+
+Our stakeholders include employees; suppliers; customers; regulators; investors; and 
+
+shareholders whom we have identified considering the economic, environmental, and 
+
+social impacts of our business, across the supply chain which are applicable to both 
+
+Property Development and Biomedical Science businesses. 
+
+ 
+
+Due to COVID-19, the frequencies of physical engagements with stakeholders have been 
+
+reduced. Instead, Alset transitioned to using Zoom online platform to engage stakeholders. 
+
+ 
+
+We continually engage our stakeholders in the performance of our business through 
+
+various channels.   Through open communication channels, we align our sustainability 
+
+approach with their needs and expectation.  This engagement is important as we seek 
+
+opportunities to manage our businesses in a sustainable manner. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+ 
+
+ 
+
+ 
+
+STAKEHOLDERS’  
+
+EXPECTATIONS/CONCERNS 
+
+COVID-19 
+
+SPECIFIC CONCERNS 
+
+MODE OF ENGAGEMENT  
+
+PLATFORM 
+
+EMPLOYEES 
+
+ 
+
+Safe and conducive workplace 
+
+ 
+
+Fair labour practices and compensation 
+
+ 
+
+Environmental responsibility 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Workplace flexibility 
+
+ 
+
+Enhanced safety protocol in 
+
+COVID-19 responses 
+
+ 
+
+ 
+
+Trainings 
+
+ 
+
+Grievance/ feedback channels 
+
+ 
+
+Regular reviews and appraisals 
+
+ 
+
+Intranet platform for policies, news and 
+
+benefits 
+
+ 
+
+Provide timely updates on COVID-19 specific 
+
+working arrangements. 
+
+ 
+
+Frequency: When necessary 
+
+CUSTOMERS 
+
+ 
+
+Product compliance with all relevant regulations 
+
+ 
+
+Timely follow-up on customer feedback  
+
+ 
+
+Ability to offer competitive and cost-efficient solutions 
+
+which are safe and environmentally responsible 
+
+ 
+
+Quality and safety of products and services 
+
+ 
+
+ 
+
+Access to product training and 
+
+knowledge via Zoom 
+
+ 
+
+Reliability of supply 
+
+ 
+
+Feedback channels such as email and 
+
+telephone communications 
+
+ 
+
+Client meetings 
+
+ 
+
+Corporate website, email and newsletters 
+
+ 
+
+Frequency: When necessary 
+
+SUPPLIERS 
+
+ 
+
+Clear two-way communication channels 
+
+ 
+
+Product safety and quality 
+
+ 
+
+Timely feedback regarding materials/ services 
+
+provided 
+
+ 
+
+ 
+
+ 
+
+Reliability of supply 
+
+ 
+
+ 
+
+Inspections and quality site visits 
+
+ 
+
+Quotations and requests for proposal  
+
+ 
+
+Raw material specifications discussion 
+
+meetings 
+
+ 
+
+Frequency: When necessary 
+
+ 
+
+SHAREHOLDERS 
+
+&amp; REGULATORS 
+
+ 
+
+Business resilience and financial performance 
+
+ 
+
+Business strategy and direction 
+
+ 
+
+Corporate governance and compliance 
+
+ 
+
+Transparent and timely communication of information 
+
+ 
+
+Timely reporting 
+
+ 
+
+ 
+
+Adherence to workplace safe 
+
+distancing guidelines from 
+
+government authorities. 
+
+ 
+
+Results announcements and news releases 
+
+ 
+
+Corporate website and email 
+
+ 
+
+Annual General Meetings 
+
+ 
+
+Period audits &amp; regulatory inspections 
+
+ 
+
+Frequency: When necessary 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+13 
+
+ 
+
+Materiality Review Process 
+
+GRI 102-47 
+
+We applied the GRI reporting principles – stakeholder inclusiveness, the sustainability 
+
+context, materiality and completeness – in defining the report content by considering the 
+
+Group’s activities, impact and substantive expectations and interests of our stakeholders. 
+
+ 
+
+In determining the material topics relevant to FY2020, Alset performed an internal strategy 
+
+review which included a relook at our business strategy, business model, key stakeholders 
+
+and processes to identify the Group’s significant economic, environmental and social 
+
+impacts as they are integral to Alset’s success of building a sustainable future.  
+
+ 
+
+We identified the following ten (10) indicators during the review conducted. The materiality 
+
+assessment was subsequently endorsed by the Sustainability Executive Reporting 
+
+Committee.  The following table summarises our key stakeholders, engagement platforms 
+
+and their key concerns: 
+
+ 
+
+ 
+
+ 
+
+MATERIAL INDICATOR 
+
+CATEGORY 
+
+CLASS 
+
+STANDARD 
+
+INDICATORS 
+
+ASPECT 
+
+BOUNDARY 
+
+ECONOMIC 
+
+Economic 
+
+Performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+Within 
+
+organisation 
+
+Indirect Economic 
+
+Impacts 
+
+203-1 
+
+Infrastructure investments and 
+
+services supported 
+
+Procurement 
+
+Practices 
+
+204-1 
+
+Proportion of spending on local 
+
+suppliers 
+
+Anti-Corruption 
+
+205-2 
+
+Communication and training 
+
+about anti-corruption policies 
+
+and procedures 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions taken 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+14 
+
+ 
+
+ 
+
+ 
+
+CATEGORY 
+
+CLASS 
+
+STANDARD 
+
+INDICATORS 
+
+ 
+
+ENVIRONMENT 
+
+Energy 
+
+302-1 
+
+Energy Consumption Within the 
+
+Organization 
+
+Within 
+
+organisation 
+
+302-4 
+
+Reduction of Energy 
+
+Consumption 
+
+Compliance 
+
+307-1 
+
+Assessment of compliance with 
+
+environmental laws and 
+
+regulations 
+
+Within and 
+
+outside 
+
+organisation 
+
+CATEGORY 
+
+CLASS 
+
+STANDARD 
+
+INDICATORS 
+
+ 
+
+SOCIAL 
+
+Employment 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Within 
+
+organisation 
+
+Compliance 
+
+419-1 
+
+Assessment of compliance with 
+
+laws and regulations in the 
+
+social and economic area 
+
+Within and 
+
+outside 
+
+organisation 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+15 
+
+ 
+
+CORPORATE GOVERNANCE 
+
+GRI 102-16, 103-1, 103-2, 103-3, 205-2, 205-3 
+
+ 
+
+Alset is committed to achieving and maintaining a high standard of 
+
+corporate governance and business integrity within the Group.  
+
+ 
+
+The Group adheres to the principles and guidelines of the Code of Corporate Governance 
+
+2018 issued by the Monetary Authority of Singapore (the “MAS”).  By having a high 
+
+standard of corporate governance, it helps to ensure the stability and sustainability of the 
+
+Group’s performance, protect the interests of shareholders of the Group and enhance 
+
+long-term shareholders’ value and returns. 
+
+ 
+
+To effectively implement our sustainability approach and demonstrate accountability to our 
+
+stakeholders, employees of Alset follow strictly to the Code of Conduct stated in the 
+
+Employee’s Handbook, the Conflicts of Interest Policy, Whistleblowing Policy and Data 
+
+Protection Policy as follows: 
+
+Code of Conduct 
+
+The Group’s Code of Conduct serves as a central guide and reference to our employees in 
+
+ensuring that they understand Alset’s expectations and guiding principles for workplace 
+
+behaviours.  Code of Conduct provides our employees with a roadmap and tools for their 
+
+daily work. With clarity regarding leadership’s expectations that an employee can easily 
+
+and regularly refer to, he/she can act with consistency. 
+
+Conflicts of Interest Policy 
+
+We have established policies and procedures to ensure that our employees understand 
+
+the procedures when his or her personal interest conflicts with those of the Group.  All 
+
+employees of the Group involved in the i) purchase of goods and services, ii) selection of 
+
+suppliers of goods or services, iii) selection of third party partners/relationships with the 
+
+Company, are required to declare and disclose any situation where their private 
+
+businesses or personal interests conflict with those of the Group, or situations when they 
+
+(or a close family member) have a direct or indirect personal relationship, affiliation or 
+
+association with an existing or prospective supplier or patient of the Group. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+16 
+
+ 
+
+ 
+
+Data Protection Policy 
+
+GRI 418-1 
+
+As a company which involves in network marketing business, Alset collects relevant data 
+
+and uses them for the distribution of our products and services. We assure customers that 
+
+all personal data collected, used or disclosed will be protected under the PDPA and other 
+
+relevant legislation. Our Data Protection Policy ensures that we are accountable to our 
+
+customers and other stakeholders. Our Data Protection Policy is available on our 
+
+Company’s website at: https://www.alsetinternational.com/privacy-policy 
+
+ 
+
+Whistleblowing Policy and Procedures 
+
+Our whistleblowing policy was set up with the purpose to encourage the reporting in good 
+
+faith of suspected reportable conduct by establishing clearly defined processes. It allows 
+
+the staff of the Group and any other persons to raise concerns. 
+
+ 
+
+The objectives of the whistle-blower protection policy are to: 
+
+• Provide for the mechanisms by which whistle-blowers may report Reportable 
+
+Conduct; 
+
+• Enable the Group to effectively deal with reports from whistle-blowers, in a way that 
+
+will protect the identity of the whistle-blowers and persons who participate in 
+
+investigations initiated under this policy, and provide for the secure storage of the 
+
+information provided; 
+
+• Establish the policies for protecting whistle-blowers and persons who participate in 
+
+investigations initiated under this policy, against reprisal by any person internal or 
+
+external to the Group; and provide for an appropriate infrastructure for receiving, 
+
+investigating and taking corrective or remedial action in relation to such reports. 
+
+ 
+
+Alset has designated the company’s secretary as the Receiving Officer, who reports 
+
+directly to the Audit and Risk Management Committee Chairman on all matters arising 
+
+under this policy. 
+
+ 
+
+The summary of the policy process is highlighted below.  
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+17 
+
+ 
+
+ 
+
+ 
+
+We continuously communicate the need to uphold integrity and the Group’s firm stance 
+
+against corruption, as well as the importance of maintaining the highest level of conduct 
+
+and ethical standards, to all our employees. We have communicated these policies and 
+
+procedures to all our employees. 
+
+ 
+
+Anti-corruption 
+
+The Group takes a strong stance against any form of misconduct, corruption and 
+
+malpractice. All employees should not be involved in offering, paying, requesting or 
+
+receiving bribes or participate in any fraudulent activities. 
+
+ 
+
+As we are committed to conducting business following all applicable regulations and the 
+
+highest ethical standards, this commitment is embodied in our Code of Conduct and 
+
+Employee Handbook.  
+
+ 
+
+We have communicated the relevant policies and procedures to all our employees. Any 
+
+employee who contravenes the policies may be subject to disciplinary action up to and 
+
+including termination of employment. If the breach is significant, it may also lead to the 
+
+prosecution of the parties involved.   
+
+ 
+
+Our Performance 
+
+ 
+
+
+
+To have no confirmed 
+
+incidents of corruption 
+
+There was no confirmed 
+
+incident of corruption 
+
+To have no confirmed 
+
+incidents of breaches 
+
+    FY2020 TARGET 
+
+    FY2020 PERFORMANCE      FY2021 TARGET 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+18 
+
+ 
+
+ECONOMIC PERFORMANCE 
+
+GRI 103-1, 103-2, 103-3 
+
+ 
+
+By adopting responsible business practices and embedding sustainability in 
+
+our business, Alset believes it can create long term economic value and 
+
+contribute to a stable economic performance of the Group.  
+
+ 
+
+At Alset, we believe sustainable economic growth benefits not just our shareholders, but 
+
+all our stakeholders as well. Through sustainable economic values generated by our 
+
+operations, Alset will be able to distribute the economic benefits directly or indirectly to our 
+
+stakeholders.  As a socially responsible organisation, besides dividends to our 
+
+shareholders, our economic benefits were distributed to governments through taxes, 
+
+employees through salary and wages, and the society through the creation of jobs.  
+
+Management Approach  
+
+To strengthen our position and our sustainable performance, the Group plans to continue 
+
+expanding our business operations by acquiring or setting up new businesses to broaden 
+
+our range of services.   
+
+ 
+
+The Group also contributes to economic development by supporting local businesses as 
+
+we work with local vendors within the countries we operated. This will indirectly help the 
+
+community as more jobs are created when we work with local vendors.  
+
+Our Performance 
+
+GRI 201-1  
+
+Revenue 
+
+FY2020 
+
+$’mil 
+
+FY2019 
+
+$’mil 
+
+Increase / 
+
+(Decrease) (%) 
+
+Property Development Business 
+
+21.18 
+
+30.41 
+
+(30.35) 
+
+Biomedical Science Business 
+
+3.91* 
+
+1.90 
+
+105.79 
+
+Total Revenue 
+
+25.09 
+
+32.31 
+
+(22.35) 
+
+* including discontinued operations 
+
+ 
+
+Total property development revenue for FY2020 decreased by 30.35% to $21.18 million.  
+
+This was largely due to decrease in revenue recognized for the USA projects, which 
+
+reflected the challenging market conditions due to the COVID-19 pandemic. The COVID-
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+19 
+
+ 
+
+19 pandemic could negatively affect demand for real estate, impact the ability of our staff 
+
+and contractors to continue to work and adversely impact the timeliness of local 
+
+governments in granting required approvals. Accordingly, the completion of important 
+
+stages in our projects has been delayed. COVID-19 pandemic may also impact our 
+
+business’s future developments due to uncertainty of market conditions. We continue to 
+
+carefully monitor the situation and make efforts to mitigate these risks. 
+
+ 
+
+As part of our sustainability strategy of incorporating sustainable construction in our 
+
+development operations, we have earmarked the remaining undeveloped lots of Black 
+
+Oak for the development of Alset EHomes which comprises eco-friendly gated single-
+
+family homes (“SFH”) fully fitted with, amongst others, sustainable transport, living and 
+
+energy systems including solar systems and energy storage as well as electric cars 
+
+utilising a vehicle-to-grid concept. We have kicked off infrastructure works for this 
+
+sustainable healthy living community project and intend to develop proof-of-concept Alset 
+
+EHomes in due course. Apart from the Black Oak development, the Group intends to bring 
+
+this concept to other parts of the US as well as markets abroad. Alset EHomes’ 
+
+sustainable healthy living systems will also be applied to these newly built SFH as an initial 
+
+proof-of-concept. 
+
+ 
+
+In line with our business strategy to expand, Alset also recorded $3.91 million revenue 
+
+from its Biomedical Science business through its new subsidiary, HWH World Inc. (“HWH”).  
+
+HWH was incorporated in Korea in March 2019 and started to conduct the distribution of 
+
+health and personal care products through network marketing. Having already established 
+
+our footprint in the Seoul region of Korea, we have proceeded with our plans to expand to 
+
+Cheonan, Daegu, Daojeon and Busan regions to capture new growth opportunities. 
+
+Despite the headwinds faced due to the COVID-19 pandemic, HWH is well positioned as a 
+
+platform to help the many financially impacted individuals to earn a supplemental income 
+
+by sharing and referring premier health and personal care products in our HWH 
+
+Marketplace to friends, family and other prospective customers through social media and 
+
+other technology channels.  
+
+ 
+
+The group will continue to expand its business operations, providing quality products and 
+
+services to more consumers, generating sustainable economic value for its stakeholders. 
+
+We will continue to explore strategic partnerships and acquisitions to create long-term 
+
+value for our shareholders. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+20 
+
+ 
+
+Indirect Economic Impacts 
+
+GRI 203-1  
+
+Besides the direct economic value being generated, Alset also recognize that we have 
+
+significant indirect economic impacts and have implemented various practices to ensure 
+
+that we benefit the local community, economy and businesses during our operations.  Our 
+
+construction project requires the expertise of direct/indirect suppliers and specialists – 
+
+concrete, reinforcement, tiles/stone and furniture which generates business opportunities 
+
+within and among the supply chain. 
+
+ 
+
+The local community also benefited from the following development efforts: 
+
+- 
+
+Construction of various storm water management ponds.  These ponds help to 
+
+retain pollutants and provide flood control, while beautifying the environment.  
+
+- 
+
+Ballenger Creek Pike Nature Trail and Sidewalk improvements. This helps provide 
+
+for a pedestrian friendly neighborhood that promotes the interconnection of multiple 
+
+phases as well as outdoor exercise. 
+
+- 
+
+Completion of the Clubhouse/pool construction. The Clubhouse and Pool provide a 
+
+best in class amenity center that homeowners will use for social clubs, barbeques, 
+
+birthdays, meetings, indoor exercise and used for the Home Owners Association to 
+
+conduct monthly meetings. 
+
+- 
+
+On-site reforestation efforts to offset the usage of impervious areas and create 
+
+environmentally friendly drainage. 
+
+- 
+
+Avoid and minimize impacts to wetlands using stream and wetland crossings 
+
+working in close conjunction with the Army Corps of Engineers to make sure all 
+
+codes/laws are abided by and impact is limited to protect these wetland areas and 
+
+the wildlife that uses them.  
+
+- 
+
+Conservation of a Historic Farm House that once served the property. Great efforts 
+
+were made to work with the Maryland Historical Trust in order to preserve a portion 
+
+of the house that is now being retrofitted by a local home contractor and will be sold 
+
+to a potential buyer. Archaeological digs were also performed in and around the 
+
+property to make certain that items of historical significance were not present in the 
+
+past.  
+
+- 
+
+Designing highways, streets, roads, or common driveways to enhance 
+
+interconnection, safety, efficiency and convenience to all users. 
+
+ - 
+
+Development of parking areas that maximizes connections with surrounding land 
+
+uses and accommodates public transit facilities. 
+
+- 
+
+Development of a public school and a multi-family continuing care retirement 
+
+community facility. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+21 
+
+ 
+
+Procurement Practices 
+
+GRI 204-1  
+
+All the contractors we engage for the Ballenger Run and Black Oak Project are based in 
+
+the USA.  These contractors hire locals for the construction work and generally source 
+
+their material locally. 
+
+ 
+
+For the Biomedical Science business, Alset is committed to procure all its products and 
+
+services – where possible – locally in South Korea.  Most of our suppliers are companies 
+
+based in the Canada, United States and South Korea. The general products and services 
+
+we procured are health and personal care products as well as security authentication 
+
+services.  We strictly comply with safety regulations by the local regulatory bodies and we 
+
+only engage with suppliers who possess the relevant certifications.   
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+22 
+
+ 
+
+ENVIRONMENT 
+
+GRI 103-1, 103-2, 103-3 
+
+ 
+
+With the growing awareness and importance of sustainability in Singapore, 
+
+Alset is committed to minimising our environmental impact by focusing on 
+
+reducing our energy footprint. 
+
+ 
+
+Energy Consumption 
+
+GRI 302-1  
+
+The consumption of electricity is being monitored on a monthly basis to measure the 
+
+success of the initiatives that are implemented. We are happy to share that we have been 
+
+able to reduce the overall electricity consumption of Alset in FY2020 as compared to 
+
+FY2019. 
+
+ 
+
+Offices 
+
+Electricity Consumption (kWh) 
+
+FY2020 
+
+FY2019 
+
+Singapore Office 
+
+5,128.60 
+
+5,338.80 
+
+Hong Kong Office 
+
+4,861.25 
+
+12,462.64 
+
+USA Office 
+
+6,882.00 
+
+6,929.00 
+
+South Korea Office* 
+
+2,855.00 
+
+- 
+
+Worldwide 
+
+19,726.85 
+
+24,730.44 
+
+* before Aug 2020, electricity consumption was not available and was included in the office rental. 
+
+ 
+
+In FY2020, our Singapore office at Suntec Tower consumed a total of 5,129 kWh, a 
+
+decrease of 210 kWh as compared to FY2019.  This is attributable largely due to the work 
+
+from home arrangement during the Circuit Breaker period. 
+
+ 
+
+Our Hong Kong office reported a total consumption of 12,463 kWh, a decrease of 7,601 
+
+kWh as compared to FY2019.  The decrease was due to collective efforts of staff to 
+
+reduce electricity consumption as well as the work from home initiatives during the Covid-
+
+19 period. 
+
+ 
+
+Our Houston office reported a total consumption of 6,882 kWh, a slight decrease of 47 kW 
+
+as compared to FY2019. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+23 
+
+ 
+
+Reduction of Energy Consumption 
+
+GRI 302-4  
+
+The Group’s energy consumption is limited to the electricity used in our offices. We have 
+
+implemented energy control policy and adopted various energy-saving measures, such as 
+
+using energy-saving equipment and setting all printers, copiers, and computers to the 
+
+energy-saving mode where possible.  
+
+ 
+
+To raise the awareness of energy conservation, the Group encourages employees to 
+
+establish energy-saving habits at the office, such as switching off lights and electronic 
+
+appliances before leaving the office or switching off the lights in each room when they are 
+
+not in use. 
+
+ 
+
+While the Group is not able to promise a specific level of energy reduction, we will monitor 
+
+our energy consumption and make plans to reduce our energy consumption levels through 
+
+the implementation of other energy-saving measures. 
+
+ 
+
+Our Performance 
+
+ 
+
+Non-compliance with Environmental laws and regulations 
+
+GRI 307-1 
+
+ 
+
+ 
+
+ 
+
+Non-compliance with Environmental laws and regulations 
+
+GRI 307-1 
+
+During FY2020, no incident of non-compliance with relevant environmental laws and 
+
+regulations was identified. 
+
+ 
+
+For FY2021, we target achieving zero incidents of environmental (including health and 
+
+personal care product safety requirements) non-compliance for our Property Development 
+
+business and Biomedical Science business. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Zero incidents of 
+
+Environmental Non-
+
+Compliance 
+
+FY2021 TARGET 
+
+ 
+
+To monitor and reduce  
+
+our energy consumption 
+
+levels by 5% 
+
+Reduced our overall energy 
+
+consumption levels by 20% 
+
+To monitor and reduce  
+
+our energy consumption 
+
+levels by 5% 
+
+    FY2020 TARGET 
+
+    FY2020 PERFORMANCE      FY2021 TARGET 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+24 
+
+ 
+
+SOCIAL 
+
+GRI 103-1, 103-2, 103-3 
+
+ 
+
+Employees are a crucial asset to Alset as they play a significant role in 
+
+ensuring a high level of efficiency and achieving greater output.  
+
+ 
+
+Employment 
+
+GRI 102-7, 102-8 
+
+ 
+
+All our employees play an integral role to building the success of Alset. 
+
+ 
+
+Intellectual capital is an asset that should not be overlooked. While new members of the 
+
+team bring fresh perspectives and suggestions on how the Group can grow, employees 
+
+who have been with us for many years provide valuable experience and knowledge. 
+
+ 
+
+It is essential that our hiring practices are fair, merit-based, and non-discriminatory so that 
+
+we can recruit people with the right knowledge and expertise to contribute to the growth of 
+
+our business. More importantly, we need to build a conducive and harmonious working 
+
+environment so that our employees continue to stay with us. 
+
+ 
+
+Our employee demographic data is based on our employee records generated from our 
+
+Human Resource system. 
+
+ 
+
+Employee headcount as at 31 December 2020 increased by 4 personnel from 17 in 
+
+FY2019 to 21 In F2020.  Being a global group, we have employees of different 
+
+nationalities – Singapore, Hong Kong, South Korea and the USA. There were no temporary 
+
+or part-time employees in FY2020. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+25 
+
+ 
+
+ 
+
+In addition to the Group’s employees, Alset also outsources the development and project 
+
+management activities to third-party contractors, consultants and distributors. 
+
+ 
+
+ 
+
+Percentage by Gender by Country 
+
+Country 
+
+Percentage of female employees (%) 
+
+FY2020 
+
+FY2019 
+
+Singapore 
+
+36% 
+
+38% 
+
+Hong Kong 
+
+60% 
+
+60% 
+
+USA 
+
+50% 
+
+50% 
+
+South Korea 
+
+0% 
+
+- 
+
+Worldwide 
+
+43% 
+
+47% 
+
+ 
+
+The gender distribution of our staff has remained relative constant in FY2020. The 
+
+proportion of male staff to their female counterparts is 57% to 43% in FY2020 
+
+compared to 53% (Male) to 47% (Female) in FY2019.   
+
+ 
+
+ 
+
+Percentage by Age 
+
+Age Group 
+
+FY2020 
+
+FY2019 
+
+Age between 20 to 29 
+
+10% 
+
+6% 
+
+Age between 30 to 39 
+
+19% 
+
+18% 
+
+Age between 40 to 49 
+
+29% 
+
+29% 
+
+Age between 50 to 59 
+
+24% 
+
+23% 
+
+Age between 60 to 69 
+
+9% 
+
+12% 
+
+Age between 70 to 79 
+
+9% 
+
+12% 
+
+ 
+
+In terms of age distribution, the majority of our employees remain to be between 
+
+the ages of 40 – 49 (29% of the total headcount).  
+
+ 
+
+Employee Turnover 
+
+GRI 401-1  
+
+In FY2020, one (1) South Korea contract staff resigned during the year due to natural 
+
+attrition. The employee turnover rate for Singapore is 0%*.  
+
+* derived by dividing the number of resigned employees by the average number of employees in that location. 
+
+ 
+
+Turnover rate by Location by Country (Resigned / Average) 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+26 
+
+ 
+
+Country 
+
+Employee Turnover Rate (%) 
+
+FY2020 
+
+FY2019 
+
+Singapore 
+
+0% 
+
+32% 
+
+Hong Kong 
+
+0% 
+
+0% 
+
+USA 
+
+0% 
+
+0% 
+
+South Korea 
+
+100% 
+
+- 
+
+Worldwide: 
+
+5% 
+
+16% 
+
+ 
+
+Employee Hires 
+
+GRI 401-1, 406-1  
+
+In FY2020, we welcomed four (4) new employees into our organisation.  Alset will continue 
+
+to attract new talents by providing fair pay and employee recognition. 
+
+ 
+
+Our Performance 
+
+In FY2020, there were no reported incidents relating to workplace discrimination.  In 
+
+addition to our employee turnover rate reduction for FY2021, we will continue to embed 
+
+fair employment practices in our operations, and we will target to maintain a zero record of 
+
+reported incidents relating to discrimination. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+To maintain an  
+
+employee turnover rate of 
+
+not more than 3 persons 
+
+Reduced our overall 
+
+employee turnover rate  
+
+to 1 employee 
+
+To maintain an  
+
+employee turnover rate of 
+
+not more than 3 persons 
+
+    FY2020 TARGET 
+
+    FY2020 PERFORMANCE      FY2021 TARGET 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+27 
+
+ 
+
+Non-compliance with Employment laws and regulations 
+
+GRI 419-1  
+
+In FY2020, the COVID-19 outbreak resulted in a global pandemic which posed as a 
+
+serious threat to our employees.  During these unsettling times, we stay committed to 
+
+prioritizing their safety and providing them with a safe working environment.  We have 
+
+stepped up our controls and implemented safe management measures at our workplace to 
+
+ensure our workforce is being well taken care of.  We are working to avoid disruptions 
+
+caused by COVID-19, while at the same time acting responsibly to do what we can to 
+
+prevent further spread of the virus.  
+
+ 
+
+Our management team meets regularly to monitor and discuss the latest updates and 
+
+regulations from relevant government authorities.  As at 30 April 2021, there was no 
+
+reported incident of COVID-19 transmission among staff.  In addition, there was no 
+
+reported incident of  non-compliance with laws and regulations for FY2020. 
+
+ 
+
+Collective Bargaining Agreement 
+
+GRI 102-41  
+
+Our employees are not covered by collective bargaining agreements. 
+
+ 
+
+In building a harmonious work environment and implementing fair employment practices, 
+
+the Group is guided by the principles set out in the Tripartite Guidelines on Fair 
+
+Employment Practices established by the Tripartite Alliance for Fair and Progressive 
+
+Employment Practices in Singapore. 
+
+ 
+
+Our Performance 
+
+In FY2020, there were no reported incidents relating to non-compliance with law and 
+
+regulations.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+No Non-compliance 
+
+With Laws &amp; Regulations 
+
+FY2021 TARGET 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+28 
+
+ 
+
+GRI INDEX: CORE OPTION 
+
+GRI 102-55 
+
+GRI 
+
+Indicator 
+
+Disclosure 
+
+Report Sections 
+
+Page 
+
+Reference 
+
+GRI 102: GENERAL 
+
+Organizational Profile 
+
+GRI 102-1 
+
+Name of the organization 
+
+Cover page of this report 
+
+ 
+
+1 
+
+GRI 102-2 
+
+Activities, brands, products, 
+
+and services 
+
+2020 Annual Report 
+
+- Company Profile (Page 1) 
+
+- CEO Message (Page 2 to 5) 
+
+- Financial Review (Page 10 to 11) 
+
+- Group Structure (Page 17) 
+
+- 
+
+GRI 102-3 
+
+Location of headquarters 
+
+About Alset 
+
+7 
+
+GRI 102-4 
+
+Location of operations 
+
+GRI 102-5 
+
+Ownership and legal form 
+
+2020 Annual Report – Notes to the Financial 
+
+Statements, Note 1 (Page 71) 
+
+- 
+
+GRI 102-6 
+
+Markets served 
+
+About Alset 
+
+7 
+
+GRI 102-7 
+
+Scale of the organization 
+
+2020 Annual Report 
+
+- Consolidated Statement of Comprehensive 
+
+Income (Page 66)  
+
+- Statements of Financial Position (Page 65) 
+
+- 
+
+Social - Employment 
+
+24 
+
+GRI 102-8 
+
+Information on employees and 
+
+other workers 
+
+ 
+
+Social - Employment 
+
+24 
+
+GRI 102-9 
+
+Supply chain 
+
+Sustainability at Alset - Our Supply Chain 
+
+9 
+
+GRI 102-10 
+
+Significant changes to the 
+
+organization and its supply 
+
+chain 
+
+There are no significant changes during the 
+
+period under review 
+
+NA 
+
+GRI 102-11 
+
+Precautionary principle or 
+
+approach 
+
+Alset does not specifically utilise the 
+
+precautionary approach when managing risk; 
+
+however, our management approach is risk-
+
+based, and supported by our risk 
+
+management and internal control framework. 
+
+- 
+
+GRI 102-12 
+
+External initiatives 
+
+Alset has not subscribed to or endorsed any 
+
+externally developed economic, 
+
+environmental and social charters, principles, 
+
+or other initiatives. 
+
+NA 
+
+GRI 102-13 
+
+Membership of associations 
+
+Singapore National Employers Federation 
+
+- 
+
+Strategy 
+
+GRI 102-14 
+
+Statement from senior 
+
+decision-maker 
+
+Board Statement 
+
+3 to 4 
+
+Ethics and integrity 
+
+GRI 102-16 
+
+Values, principles, standards, 
+
+and norms of behavior 
+
+Corporate Governance 
+
+15 to 17 
+
+Governance 
+
+GRI 102-18 
+
+Governance structure 
+
+2020 Annual Report - Corporate Governance 
+
+Report (Page 18 – 53) 
+
+- 
+
+Sustainability at Alset - Our Sustainability 
+
+Reporting Structure 
+
+8 
+
+Stakeholder engagement 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+29 
+
+ 
+
+GRI 
+
+Indicator 
+
+Disclosure 
+
+Report Sections 
+
+Page 
+
+Reference 
+
+GRI 102-40 
+
+List of stakeholder groups 
+
+Our Approach to Sustainability - Stakeholder 
+
+Engagement 
+
+11 to 12 
+
+GRI 102-41 
+
+Collective bargaining 
+
+agreements 
+
+Social - Collective Bargaining Agreement 
+
+27 
+
+GRI 102-42 
+
+Identifying and selecting 
+
+stakeholder 
+
+Our Approach to Sustainability - Stakeholder 
+
+Engagement 
+
+11 to 12 
+
+GRI 102-43 
+
+Approach to stake holder 
+
+engagement 
+
+GRI 102-44 
+
+Key topics and concerns 
+
+raised 
+
+Reporting Practice 
+
+GRI 102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+2020 Annual Report - Corporate Governance 
+
+Report (Page 18 – 53) 
+
+- 
+
+About this Report – Reporting Scope  
+
+5 
+
+GRI 102-46 
+
+Defining report content and 
+
+topic boundaries 
+
+2020 Annual Report – Notes to the Financial 
+
+Statements: Investment in subsidiaries (Page 
+
+98 – 106) 
+
+ 
+
+- 
+
+GRI 102-47 
+
+List of material topics 
+
+Our Approach to Sustainability - Materiality 
+
+Review Process 
+
+13 to 14 
+
+GRI 102-48 
+
+Restatements of information 
+
+About this Report – Reporting Scope  
+
+5 
+
+GRI 102-49 
+
+Changes in reporting 
+
+About this Report - Reporting Period 
+
+5 to 6 
+
+GRI 102-50 
+
+Reporting period 
+
+GRI 102-51 
+
+Date of most recent report 
+
+GRI 102-52 
+
+Reporting cycle 
+
+GRI 102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+About this Report - Feedback 
+
+GRI 102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+About this Report - GRI Guidelines 
+
+GRI 102-55 
+
+GRI Content index 
+
+GRI Index (This table) 
+
+28 to 30 
+
+GRI 102-56 
+
+External assurance 
+
+About this Report - GRI Guidelines 
+
+6 
+
+GRI 103: MANAGEMENT APPROACH 
+
+GRI 103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Refer to the respective GRI indicators (Specific 
+
+Standard Disclosures) under the following 
+
+sections: 
+
+- Our Approach to Sustainability 
+
+- Corporate Governance 
+
+- Economic Performance 
+
+- Environment 
+
+- Social 
+
+ 
+
+10 to 27 
+
+GRI 103-2 
+
+The management approach 
+
+and its components 
+
+GRI 103-3 
+
+Evaluation of the 
+
+management approach 
+
+GRI 201: ECONOMIC PERFORMANCE 
+
+GRI 201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+2020 Annual Report 
+
+- Consolidated Statement of Comprehensive 
+
+Income (Page 66) 
+
+- Statements of Financial Position (Page 65) 
+
+ 
+
+- 
+
+Economic Performance - Our Performance 
+
+18 
+
+GRI 203: INDIRECT ECONOMIC IMPACTS 
+
+GRI 203-1 
+
+Infrastructure investments and 
+
+services supported. 
+
+Economic Performance – Indirect Economic 
+
+Impacts 
+
+20 
+
+GRI 204: PROCUREMENT PRACTICES 
+
+GRI 204-1 
+
+Proportion of spending on 
+
+local suppliers 
+
+Economic Performance – Procurement 
+
+Practices 
+
+21 
+
+GRI 205: ANTI-CORRUPTION 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+30 
+
+ 
+
+GRI 
+
+Indicator 
+
+Disclosure 
+
+Report Sections 
+
+Page 
+
+Reference 
+
+GRI 205-2 
+
+Communication and training 
+
+about anti-corruption policies 
+
+and procedures 
+
+Corporate Governance 
+
+15 to 17 
+
+GRI 205-3 
+
+Confirmed incidents of 
+
+corruption and actions taken 
+
+GRI 302: ENERGY 
+
+GRI 302-1 
+
+Energy consumption within 
+
+the organization 
+
+Environment – Energy Consumption 
+
+22 
+
+GRI 302-4 
+
+Reduction of energy 
+
+consumption 
+
+Environment – Reduction of Energy 
+
+Consumption 
+
+23 
+
+GRI 307: ENVIRONMENTAL COMPLIANCE 
+
+GRI 307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Environment - Non-compliance with 
+
+Environmental laws and regulations 
+
+23 
+
+GRI 401: EMPLOYMENT 
+
+GRI 401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Social – Employee Turnover 
+
+Social – Employee Hires 
+
+25 to 26 
+
+GRI 406: NON-DISCRIMINATION 
+
+GRI 406-1 
+
+Incidents of discrimination 
+
+and corrective actions taken 
+
+Social – Our Performance 
+
+26 
+
+GRI 418: CUSTOMER PRIVACY 
+
+GRI 418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses 
+
+of customer data. 
+
+Corporate Governance – Data Protection 
+
+Policy 
+
+16 
+
+GRI 419: SOCIOECONOMIC COMPLIANCE 
+
+GRI 419-1 
+
+Non-compliance with laws 
+
+and regulations in the social 
+
+and economic area 
+
+Social - Non-compliance with Employment 
+
+laws and regulations 
+
+27 
+
+ 
+
+ 
+

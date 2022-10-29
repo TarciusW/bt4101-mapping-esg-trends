@@ -1,0 +1,4451 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Table of Contents 
+
+1. Highlights .................................................................................................................................................... 1 
+
+1.1 Corporate profile ....................................................................................................................................... 1 
+
+1.2 Message to stakeholders ......................................................................................................................... 2 
+
+1.3 Scope of sustainability report ................................................................................................................... 3 
+
+2. Our approach to sustainability ................................................................................................................. 4 
+
+2.1 Sustainability organisational structure ...................................................................................................... 4 
+
+2.2 Sustainability strategy .............................................................................................................................. 4 
+
+2.3 Sustainability materiality matrix ................................................................................................................ 5 
+
+3. Our performance ........................................................................................................................................ 6 
+
+3.1 How we measure our performance .......................................................................................................... 6 
+
+3.2 Workplace safety…………………………………………………………………………………………………6 
+
+3.3 Productivity ............................................................................................................................................... 9 
+
+3.4 Environmental protection........................................................................................................................ 11 
+
+3.5 People and community ........................................................................................................................... 13 
+
+Appendix A: Sustainability scorecard .......................................................................................................... 15 
+
+Appendix B: Consulting our stakeholders................................................................................................... 16 
+
+Appendix C: GRI content index ..................................................................................................................... 17 
+
+ 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1. Highlights 
+
+1.1 Corporate profile 
+
+Nordic Group Limited (Nordic or the ‘Company’), together with its 
+
+subsidiaries (the ‘Group’), is a global solutions provider in areas of 
+
+System Integration, Maintenance, Repair, Overhaul &amp; Trading, 
+
+Precision 
+
+Engineering, 
+
+Scaffolding, 
+
+Insulation 
+
+Services 
+
+and 
+
+Petrochemical &amp; Environmental Engineering Services. The Group’s 
+
+Precision Engineering operations is based in Suzhou, People’s 
+
+Republic of China (PRC); our head office and Systems Integration 
+
+production and warehouse are located in Singapore. The Group is 
+
+segregated into the following divisions: 
+
+ 
+
+Systems Integration Division: We turn systems into solutions 
+
+by providing Flow, Automation and Navigation solutions 
+
+ 
+
+Maintenance, Repair, Overhaul &amp; Trading Division: We 
+
+provide after-sales service support for the marine, oil &amp; gas 
+
+and infrastructure industries.  
+
+ 
+
+Precision Engineering Division: We design and build tooling 
+
+systems, and provide turnkey production solutions for the 
+
+aerospace, marine, medical, oil &amp; gas, and electronic 
+
+manufacturing industries.  
+
+ 
+
+Scaffolding Services Division: We provide scaffolding and 
+
+alternative access solutions for the oil &amp; gas, petrochemical, 
+
+construction and marine industries.  
+
+ 
+
+Insulation Services Division: We specialise in supplying hot 
+
+and cold insulation, passive fireproofing and industrial coatings 
+
+and thermal spray aluminium to the marine, oil and gas, 
+
+petrochemical and pharmaceutical industries. 
+
+ 
+
+Petrochemical 
+
+&amp; 
+
+Environmental 
+
+Engineering 
+
+Services 
+
+Division: We specialise in engineering repairs, maintenance, 
+
+plant turnaround services as well as decontamination and 
+
+recovery services to the petrochemical, manufacturing and 
+
+infrastructure industries. 
+
+ 
+
+We specialize in cleanroom, air and water engineering 
+
+solutions which includes tools hook up services, air pollution 
+
+control scrubbers and water treatment plants for the 
+
+semiconductor, oil and gas, power plant and municipality 
+
+sectors. 
+
+ 
+
+Nordic was listed on the Mainboard of Singapore Exchange in 2010. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.2 Message to stakeholders 
+
+On behalf of our Board of Directors, it is my pleasure to present our 
+
+Sustainability Report for the financial year ended 31 December 2019 
+
+(FY2019). 
+
+The key to Nordic’s success is our continuous commitments in 
+
+providing engineering solutions with excellent quality through our 
+
+extensive experience and expertise. These continuous commitments 
+
+allowed the Group to build quality in our products and services while 
+
+taking care of our society and environment.  
+
+While providing excellent quality solutions worldwide, the Group also 
+
+emphasises on building a sustainable business model. Our 
+
+management understands that to determine the performance of the 
+
+Group, one has to look beyond the financial results. Thus, our 
+
+management implemented several initiatives to ensure the Group 
+
+contributes to the society and environment.  
+
+While involving in the engineering works, wastes such as solid wastes, 
+
+chemical wastes and waste water are unavoidable during our daily 
+
+operations. Hence, the management implemented strict operating 
+
+procedures to handle the treatment and disposal of these wastes. 
+
+Reusable wastes are identified, separately stored and recycled to 
+
+minimise the wastes. Non-reusable wastes such as chemical wastes 
+
+and waste waters are treated with special care and disposed through 
+
+proper channels as per the requirements.  
+
+The Group has zero tolerance to workplace hazards and has over the 
+
+years integrated work place safety to the corporate culture. From 
+
+formal trainings to monitoring practices, the Group has strict set of 
+
+policies to create a safe and healthy working environment for our 
+
+employees. Notably, the Group has received several occupational 
+
+safety and health related awards in year 2019 such as thebizSAFE 
+
+Enterprise Exemplary Award 2019, ExxonMobil APRPC Safety 
+
+Observation Champion for the Month – January 2019, ExxonMobil 
+
+Outstanding Supervisor Award 2019, PUB Good Safety Award by 
+
+Jurong Water Reclamation Plant (JWRP), Croda Business Partner of 
+
+the Year Award and the Chevron Oronite Bronze Award for Achieving 
+
+Good Safety Performance in the year 2019.  
+
+ 
+
+The following sections of this Sustainability Report summarises more 
+
+initiatives the Group has taken to ensure a sustainable business model 
+
+and a brighter future for our society and environment.  
+
+ 
+
+Finally, we wish to confirm that the Board has considered sustainability 
+
+issues as part of its strategic formulation, determined the material 
+
+environmental, social and governance (ESG) factors and overseen the 
+
+management and monitoring of the material ESG factors. 
+
+ 
+
+On behalf of the Board of Directors 
+
+ 
+
+ 
+
+ 
+
+CHANG YEH HONG 
+
+Executive Chairman 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 3 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1.3 Scope of sustainability report 
+
+The scope of the report covers information on material sustainability 
+
+aspects of Nordic, namely the Group’s significant subsidiaries, 
+
+Multiheight Scaffolding Pte Ltd (Multiheight), Austin Energy (Asia) Pte 
+
+Ltd (Austin) and Ensure Engineering Pte Ltd (Ensure), from 1 January 
+
+2019 to 31 December 2019 unless otherwise specified. This should 
+
+sufficiently address stakeholders’ concerns in relation to sustainability 
+
+issues arising from the major business operations of the Group. 
+
+This report is prepared in accordance with the Global Reporting 
+
+Initiative (GRI) Standards: Core Option as it provides a set of an 
+
+extensive framework that is widely accepted as a global standard for 
+
+sustainability reporting. It also considers the Sustainability Reporting 
+
+Guide in Practice Note 7.6 of the Singapore Exchange Securities 
+
+Trading Limited (SGX-ST) Listing Manual. In preparing our report, we 
+
+applied the GRI’s principles for defining report content and report 
+
+quality by considering the Group’s activities, impacts and substantive 
+
+expectations and interests of its stakeholders.  
+
+The data and information provided within the report have not been 
+
+verified by an independent third party. We have relied on internal data 
+
+monitoring and verification to ensure accuracy. 
+
+ 
+
+Sustainability contact 
+
+We welcome your views and feedback on our sustainability practices and 
+
+reporting at sr@nordicgrouplimited.com. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 4 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2. Our approach to sustainability 
+
+2.1 Sustainability organisational structure 
+
+Sustainability is a vital part of our corporate strategy for achieving long-term growth. The values we create for 
+
+our people, the environment and society at large very much determine our financial performance. We 
+
+developed a sustainability organisational structure to move things forward: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.2 Sustainability strategy 
+
+At the Group, our sustainability strategy aims to create integrated values. Together with disciplined execution 
+
+of our strategy and a commitment to doing business responsibly, we commit to deliver value to all our 
+
+stakeholders through the following: 
+
+ 
+
+The sustainable strategy is underpinned by our comprehensive and extensive internal policies that covers the 
+
+areas above such as performance monitoring, employee training, waste reduction and management, employee 
+
+welfare and occupational safety and health.  
+
+The strategy is also guided by external sources, including ISO9001, ISO 45001, ISO 14001, Singapore’s Code 
+
+of Corporate Governance, GRI Standards and Sustainability Reporting Guide in Practice Note 7.6 of the SGX-
+
+ST Listing Rules. 
+
+Workplace 
+
+Safety
+
+Productivity
+
+Environment 
+
+Protection
+
+People and 
+
+Community
+
+
+
+The Board of Directors and Executive 
+
+Chairman formulate related strategies and 
+
+guidelines. 
+
+
+
+CFO, together with the Corporate Social 
+
+Responsibility (CSR) Coordinator, helps to 
+
+organise and coordinate the CSR work of 
+
+all departments and subsidiaries. 
+
+
+
+Assigned staff at the subsidiaries are 
+
+responsible for the organisation and 
+
+implementation of CSR works. 
+
+Board of Directors 
+
+and Executive 
+
+Chairman
+
+Chief Financial 
+
+Officer
+
+Employees
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 5 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2.3 Sustainability materiality matrix 
+
+We recognise the need to continuously develop our responsible business approach in order to address growing 
+
+stakeholder expectations around our impact on the economy, environment and society. As such, we 
+
+periodically consult with our stakeholders to determine the issues that are most relevant to them and Nordic. 
+
+Some of our stakeholder’s comments can be found in Appendix B. 
+
+Using a materiality index, we align our responsible business priorities with the Nordic’s principal business and 
+
+operational risks, as illustrated in the diagram below.  
+
+We have also developed metrics to help us measure our progress, as indicated in our sustainability scorecard 
+
+in Appendix A. We will review and adjust the matrix each year, as the external and business context changes. 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+Upholding safety 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+standards 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Economic 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+performance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Personal  
+
+ Working at 
+
+ 
+
+ 
+
+ 
+
+protection 
+
+ 
+
+heights 
+
+ 
+
+ 
+
+ 
+
+ Supply chain 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+management 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Saving water 
+
+Annual health 
+
+ 
+
+Waste 
+
+ 
+
+ Community  
+
+checks 
+
+ 
+
+ management 
+
+ 
+
+  initiatives 
+
+Workforce 
+
+ 
+
+ 
+
+ 
+
+ 
+
+development 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Carbon 
+
+ 
+
+ 
+
+ 
+
+ 
+
+emission 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+reduction 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Workers’ 
+
+ Performance 
+
+ 
+
+ 
+
+ 
+
+ 
+
+dormitory 
+
+  appraisal 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Employee 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+recognition 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Relevance to Nordic 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 6 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3. Our performance 
+
+3.1 How we measure our performance 
+
+Our sustainability strategy is embedded into the appropriate parts of 
+
+our business, with dedicated teams for each focus area, and 
+
+coordination by our relevant departmental managers. 
+
+Progress will be tracked in two key ways: measuring performance 
+
+against metrics, and evaluating how well the programs have advanced, 
+
+through a series of ‘commitments’.  
+
+Metrics and targets 
+
+We have established key performance indicators for each of the four 
+
+focus areas outlined in our sustainability strategy since we adopted 
+
+sustainability reporting in 2017. Periodically, we plan to introduce new 
+
+metrics and update targets to ensure alignment with our strategy. 
+
+Commitments 
+
+To ensure we have a robust sustainability program in place, we will 
+
+also publish the key initiatives we plan to implement within the next 
+
+year. 
+
+ 
+
+3.2 Workplace safety 
+
+Overview 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Working in a highly regulated and hazardous industry, our Group 
+
+adopts a culture where health and safety are of paramount importance. 
+
+Our Group has set a policy that demands us to adhere to relevant legal 
+
+and regulatory requirements and recognised industry standards. Our 
+
+Group places high emphasis on safety and believes strongly in 
+
+maintaining zero occupational injuries, diseases, property and 
+
+environmental damage over the course of our work. 
+
+We constantly review and improve our internal processes; conduct 
+
+proper training and planning to uphold our safety standards. Our 
+
+people represent our Group’s most important assets and we strive 
+
+continuously to create a safe and healthy working environment for all 
+
+our employees to thrive in.  
+
+Upholding safety standards 
+
+The Group has a set of policies that demand all employees to adhere 
+
+to the relevant safety laws and regulations, industry standards as well 
+
+as customer’s requirements (e.g. ISO 45001:2018). 
+
+We understand that prevention is crucial when it comes to managing 
+
+the safety in the workplace. Each business unit has a designated 
+
+Environment, Health and Safety (EHS) representative responsible to 
+
+educate employees on the importance of safety in the workplace.  
+
+Monthly and yearly EHS meetings are conducted and attended by 
+
+employees with the aim to increase the awareness of employees 
+
+toward safety in the workplace, including the sharing of preferred safety 
+
+practices and behaviors, and safety incidents during the period.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+0 
+
+Fatalities 
+
+6 
+
+Serious incident 
+
+12 
+
+Workplace injuries
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Other functions of the EHS representatives include the investigation of 
+
+safety incidents and breaches. Investigation is carried out to identify 
+
+the root cause and tabled during the EHS meeting for sharing.  
+
+In addition, employee performance appraisals include safety 
+
+performance. Breaches to safety requirements will be reflected in the 
+
+annual performance appraisal as demerit points. 
+
+While we believe that incident prevention is key, we also prepare our 
+
+employees to handle and respond to the emergencies. This is 
+
+important to reduce and limit the impact and casualty as a result of the 
+
+incidents. 
+
+In 2019, the Group achieved 0 fatalities. However, there were 6 serious 
+
+incidents and 12 workplace injuries involving our employees for which 
+
+safety guidelines have been highlighted to the workers to prevent re-
+
+occurrence.  
+
+Going forward, we will continue to concentrate our efforts and work on 
+
+upholding our safety standards to achieve the following: 
+
+ 
+
+Ensure employee’s compliance with the relevant safety 
+
+regulations (internal and external); 
+
+ 
+
+Utilise effective communication channels and EHS training 
+
+programs that helps enhance the overall safety awareness of 
+
+employees; and 
+
+Minimise serious incidents and workplace injuries and achieve zero 
+
+fatalities. 
+
+Working at heights 
+
+The Group’s engineering works will unavoidably expose employees to 
+
+working at heights (WAH), particularly in our engineering repair and 
+
+scaffolding businesses.  
+
+WAH is a major concern for the Group over the years as these incidents 
+
+accounts for more than half of the workplace fatalities in Singapore. We 
+
+strictly abide to the recommendations issued by the National WAH 
+
+Taskforce to help reduce WAH accidents. From these initiatives, our 
+
+workers will better understand the regulations and comply with the law 
+
+while working safely at heights. 
+
+Our businesses have also received other quality certifications such as 
+
+the ISO 45001:2018 – Erection &amp; Dismantling of Metal Scaffolding and 
+
+BizSAFE Star and Partner awards. These are testament to our 
+
+achievements in meeting stringent quality and safety requirements 
+
+over the years.  
+
+Personal protection  
+
+The Group has strict requirements on the use of Personnel Protective 
+
+Equipment (PPE) in the worksites. Periodical inspection is conducted 
+
+by the EHS department to ensure the proper use of PPEs by workers.  
+
+Workers who were found to be in breach of PPE requirements at the 
+
+worksites will be subjected to strict internal penalties.   
+
+PPEs provided to the workers are also carefully chosen based on the 
+
+quality and the safety needs of the workers conducting different 
+
+engineering works.  
+
+ 
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Annual health checks 
+
+Working in hazardous environment can subject workers to health 
+
+issues. To minimise the impact, the Group ensures high quality and 
+
+adequate PPEs are used by workers all times. 
+
+In addition, worksites subjected to periodical internal as well as external 
+
+inspections to ensure the worksites hazards are removed or controlled.  
+
+As required by ISO 45001:2018, the Group also provides periodical 
+
+health checks for the employees to ensure the employees’ health is 
+
+properly monitored. Other than pre-employment health checks, special 
+
+work positions depending on the exposure-level to hazards, such as 
+
+chemicals, will be subject to additional in-depth health checks such as: 
+
+ 
+
+Manganese contamination test for welders 
+
+ 
+
+Blood test for benzene for chemical cleaners 
+
+Safety awards and accreditation 
+
+The Group has received various safety awards over the years and 
+
+these awards are testament to the Group’s internal methodologies and 
+
+processes which were thoroughly reviewed as part of the evaluation 
+
+process for the award. The Group’s performance in 2019 is as follows: 
+
+ 
+
+ 
+
+ 
+
+Awarded ExxonMobil APRPC Safety 
+
+Observation Champion for the Month – 
+
+January 2019  
+
+ 
+
+Awarded ExxonMobil Outstanding 
+
+Supervisor Award 2019 
+
+ 
+
+Awarded Croda Business Partner of the 
+
+Year Award 
+
+ 
+
+ 
+
+Awarded PUB Good Safety Award by 
+
+Jurong Water Reclamation Plant (JWRP) 
+
+ 
+
+ 
+
+Awarded bizSAFE Enterprise 
+
+Exemplary Award 2019 
+
+ 
+
+Awarded Chevron Oronite Bronze 
+
+Award for Achieving Good Safety 
+
+Performance in the year 2019 
+
+ 
+
+Safety awareness and best practices begin with individual employee 
+
+and transcend into the Group’s overall safety culture. Our Group is 
+
+delighted to receive these awards as they reflect our perseverance in 
+
+promoting a safe work culture. Such awards also serve as a benchmark 
+
+and encouragement for all our businesses to strive forward. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.3 Productivity 
+
+Overview 
+
+Productivity is the key to the economic growth of a nation. Singapore 
+
+has always emphasised on the productivity of the nation’s work force 
+
+to sustain economic growth. To contribute to the nation’s economy, the 
+
+Group keeps track of the productivity in every aspect of the businesses 
+
+that includes securing new projects, exploring new business 
+
+opportunities, value creation to the customers and their feedback, skills 
+
+competency of employee and workers as well as resources acquisition 
+
+and optimisation in the individual projects.  
+
+Economic performance 
+
+The Group strives to deliver upmost satisfaction to its customers by 
+
+understanding their needs and meeting them through deliverables of 
+
+the highest quality. This is reflected in the Group’s safety and quality 
+
+track records and various awards given by the customers. In addition, 
+
+the Group has established a set of internal controls and process 
+
+manuals to adhere to closely to ensure our work is completed to 
+
+specification and of high quality, including ISO 9001:2008, ISO 
+
+45001:2018, ISO14001:2015 and BizSAFE Star. 
+
+In addition to these, we constantly seek for new solutions through 
+
+innovation to keep abreast with the latest technology and processes in 
+
+the industry and perform regular reviews of our quality policy 
+
+requirements so as to adhere to stringent product and service 
+
+consistency and legal requirements. 
+
+In 2019, the Group completed the acquisition of Ensure Engineering 
+
+Pte Ltd. This acquisition aligns with the Group’s long-term strategy and 
+
+further strengthens the Group’s capabilities to meet the expectations 
+
+of its shareholders.  
+
+This presents an opportunity for the Group to expand its range of 
+
+products and services, widening the customer base, introduce new 
+
+technical skills to the Group and provides more stable income stream.  
+
+Supply chain management 
+
+To contribute to the local economy, the Group has close business 
+
+relationship with reliable local suppliers. In 2019, 84.6% of the Group’s 
+
+purchases was spent on local suppliers. This was similar to the local 
+
+purchases made in 2017. 
+
+Localised supply chains help us to develop closer relationships with 
+
+our suppliers to ensure the proper alignment of our policies that will 
+
+help us maintain a high level of quality and integrity in the procurement 
+
+of goods and services for the Group. It also benefits the local economy, 
+
+by economic value and job creation to the local communities.  
+
+The Group has comprehensive procurement policies and procedures 
+
+in place to effectively manage our supply chain. This is crucial to help 
+
+us to achieve our goals by optimising the resources available.  
+
+Our suppliers must abide by the general Terms and Conditions of our 
+
+Purchase Contract or Purchase Order. The Group encourages fair 
+
+competition between potential suppliers and fair purchase practices 
+
+that achieve constructive business relationship.  
+
+ 
+
+ 
+
+$52.8m 
+
+Revenue 
+
+84.6% 
+
+Purchases from local suppliers 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+85
+
+95.7
+
+84.6
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+60
+
+70
+
+80
+
+90
+
+100
+
+2017
+
+2018
+
+2019
+
+% Purchases from 
+
+local suppliers
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 10 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Performance appraisal  
+
+To increase the productivity, the Group has comprehensive 
+
+performance appraisal programme and rewards system based on the 
+
+result of the appraisal. The performance appraisal programme is 
+
+essential to the Group to understand the skills level of the employees 
+
+and appropriate training programmes can be designed to fill up the skill 
+
+gaps.  
+
+The employee annual performance appraisal has at least 70% of 
+
+quantifiable evaluation criteria. Also, the Group actively collects the 
+
+information of the performance throughout the year such as inputs from 
+
+direct supervisors, client scoring and feedbacks, mentor and mentee 
+
+system for new employee, as well as periodical employee 
+
+communication sessions.  
+
+This collected information allow the Group to understand the 
+
+performance and skills development needs of each team and individual 
+
+employee from multiple aspects. This is crucial for the Group to 
+
+develop annual training programs for employee that are designed to 
+
+enhance the skills of the employee and aims to improve the overall 
+
+productivity.  
+
+In 2019, all of our employees are at least subject to an annual 
+
+performance appraisal by their superiors. We seek to continue this 
+
+practice in the coming year. 
+
+Workforce development 
+
+We believe in providing our employees a safe environment to work in, 
+
+both from an internal control and industry standard perspective. We 
+
+remain committed to provide equal and ample opportunities for 
+
+employees to upgrade and hone their skill sets in order for them to 
+
+excel. To achieve this, the management builds several two-way 
+
+communication channels to ensure the career development needs of 
+
+the employee are taken into consideration whenever it is possible.  
+
+Opportunities for continuous learning in the workplace is very 
+
+important. Every employee has equal opportunities to upgrade and 
+
+sharpen their skill sets through the well-planned training programs. 
+
+In 2019, the Group’s employees received an average of 25.3 training 
+
+hours each. This is a slight increase in training hours when compared 
+
+to 2018. Hiring skilled workers continues to be a strategy adopted on 
+
+repeat projects where no new skills were required. 40 staff attended 
+
+the 2 day WSQ “Cultivate Workplace Relationships to Optimise Team 
+
+Performance” training. 
+
+ 
+
+Certified On-the-Job Training Centre (COJTC) 
+
+The Group has COJTCs at its subsidiaries, Multiheight and Ensure.  
+
+COJTCs are certified by Institute of Technical Education (ITE) of 
+
+Singapore with the aim to help companies to develop high quality on-
+
+the-job training (OJT) practices. Companies to be certified for COJTC 
+
+are required to meet strict standards and requirements that prove the 
+
+company has quality OJT system. Periodical reviews will be conducted 
+
+by ITE to ensure the certified companies continue to make efforts in 
+
+improving their OJT system.  
+
+Having COJTCs in both Multiheight and Ensure allows the Group to 
+
+provide highest quality of OJTs to the employee and conduct courses 
+
+and specialised trainings to sharpen employees’ skill sets. 
+
+100% 
+
+Employees subject to regular 
+
+performance appraisal 
+
+25.3 
+
+Training hours per staff 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+44.5
+
+23.4
+
+25.3
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+2017
+
+2018
+
+2019
+
+Training hours per 
+
+staff
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 11 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.4 Environmental protection 
+
+Overview 
+
+We are committed to environmental protection, reducing carbon 
+
+emissions, preventing pollution, minimising wastage and utilising our 
+
+resources efficiently. Our Group sets in place strict operating 
+
+procedures to handle the treatment, disposal of waste and takes pride 
+
+in adopting greener solutions constantly in our daily operations to 
+
+reduce environmental pollution. 
+
+Comprehensive policies are developed to ensure the Group’s 
+
+commitment towards environmental protection, reducing carbon 
+
+emissions, preventing pollution, minimising waste and efficiency on 
+
+resources utilisation can be achieved during our daily operations and 
+
+in every project that we undertake.  
+
+Carbon emission reduction 
+
+The corporate culture of protecting the environment is reflected in every 
+
+operation and project undertaken by Nordic. 
+
+The Group committed to positive action on climate change and 
+
+dedicated to reducing the carbon emission in our engineering projects. 
+
+Employees are educated and reminded to save the electricity and 
+
+diesel for transportation on a yearly basis through the EHS training 
+
+program. The Group also has policies and procedures to guide 
+
+employee to reduce energy consumption well ensuring the quality of 
+
+works. 
+
+To determine the carbon footprint, we collect energy usage data from 
+
+each of our businesses and then calculate our total annual greenhouse 
+
+gas emissions. 
+
+In 2019, the Group generated a carbon footprint of 735.2 tonnes of 
+
+carbo dioxide emission (tCO2e) with a carbon emission intensity of 
+
+60.19 kgCO2e per square meter of total operation floor area. The 
+
+emission mainly arises from the diesel consumption for transportation 
+
+which accounted for close to 100% of the total carbon emission of the 
+
+Group. The changes seen in the numbers reflect the movement to new 
+
+facilities at 2 Tuas Avenue 10.  
+
+We follow the Greenhouse Gas Protocol established by the World 
+
+Resources Institute and the World Business Council for Sustainable 
+
+Development, the standard manual for measuring corporate 
+
+greenhouse gas emissions. Using the “control method”, we include 
+
+100% of the emissions associated with businesses which we directly 
+
+control. Our carbon footprint includes: 
+
+ 
+
+All fuels used directly by our companies (Scope 1 emissions) 
+
+ 
+
+All purchased electricity used in our facilities (Scope 2 
+
+emissions) 
+
+The Group will continue its efforts and monitor the performance on the 
+
+carbon emission reduction. Progress and performance on the 
+
+reduction of carbon emission will be reported in the following year. 
+
+ 
+
+ 
+
+60.19kg 
+
+Carbon emission intensity per 
+
+square meter of total operation 
+
+floor area 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+727.3
+
+724.2
+
+735.2
+
+0
+
+100
+
+200
+
+300
+
+400
+
+500
+
+600
+
+700
+
+800
+
+900
+
+1000
+
+2017
+
+2018
+
+2019
+
+Carbon Emission
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 12 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Waste management 
+
+Waste disposal is a significant environmental challenge to engineering 
+
+projects. The Group adopts the procedures of reuse, treatment and 
+
+dispose to handle the wastes created during the operation of 
+
+engineering works.  
+
+As part of our on-going efforts to protect the environment, our Group 
+
+implemented a waste recycling programme which involves the 
+
+installation of separate bins to collect reusable waste for reuse. In 
+
+2019, the Group recycled a total of 103 tons of waste for reuse.  
+
+Chemicals and hydrocarbon waste products produced by the Group, 
+
+such as paints and engine oil, are treated with special care, stored in 
+
+locked and isolated environment, and disposed through proper 
+
+biohazard disposal channels.  
+
+Saving water 
+
+Water scarcity is a growing concern around the world and a serious 
+
+global challenge that we must work together to address. Water 
+
+consumption in the engineering industries are intensive. Hence, the 
+
+Group has adopted a wide range of measures to reduce water 
+
+consumption at the project sites including water recycling system and 
+
+EHS training program that remind employee to save and recycle the 
+
+water.  
+
+A water recycling system has also been implemented to reduce water 
+
+wastage while utilising water blast machine to remove concrete stains 
+
+and rust on scaffolding materials. 
+
+In 2019, total water consumption of the Group was 4,907 liters with a 
+
+water consumption intensity of 0.35 liters per square meter of total 
+
+operation floor area. The increase was due to the first full year at the 
+
+facilities at 2 Tuas Avenue 10. 
+
+The Group will continue its efforts and monitor the performance on the 
+
+water consumption. Progress and performance on the reduction on 
+
+water consumption will be reported in the following year. 
+
+ 
+
+ 
+
+103t 
+
+Recycled waste 
+
+0.35l 
+
+Water consumption intensity 
+
+per square meter of total 
+
+operation floor area 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+4,127
+
+3,679
+
+4,907
+
+0
+
+1,000
+
+2,000
+
+3,000
+
+4,000
+
+5,000
+
+6,000
+
+2017
+
+2018
+
+2019
+
+Water 
+
+Consumption 
+
+(litres)
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 13 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3.5 People and community 
+
+Overview 
+
+Our people are our most important asset. We strive to create an 
+
+enjoyable working environment to our employees. The Group has 
+
+various employee events and awards conducted to appreciate the 
+
+efforts of our employees and recognise their accomplishments.  
+
+Through our people, we are also committed in making positive 
+
+contributions to our community by giving back to the society and 
+
+helping the less privileged. 
+
+Employee recognition 
+
+To recognise the efforts of our employees, the Group has various 
+
+recognition awards to serve as encouragement for the employees to 
+
+excel and grow together with the Company. These include employee 
+
+of the month, supervisor and technician of the quarter, long services 
+
+award (for example, 5, 10, 15, 20 years etc) and safe performance self-
+
+assessment award (good behavioral approach towards safety in 
+
+working).  
+
+In appreciation of our diligent employees, year-end celebrations were 
+
+held to celebrate the Group’s achievements and to recognise the 
+
+accomplishments of our staff through the above awards. This enables 
+
+our employees to bond over food and games. 
+
+In 2019, the Group has an employee turnover rate of 44.6%. This was 
+
+an increase from 2018. This increase was mainly due to workers from 
+
+MHS and AE being sent back due to projects completion and a 
+
+decrease in the number of projects. 
+
+e will continue to listen to our employees and seek to identify ways to 
+
+improve their working environment and ensure that their needs are 
+
+met.  
+
+Worker’s dormitory 
+
+The Group periodically assesses the needs of our employees and 
+
+strives to reasonably improve their welfare.  
+
+One of the initiatives is to provide employees from foreign countries 
+
+with a well-managed dormitory. The Group has a facility in Tuas, 
+
+Singapore which consists of worker’s dormitory provided to foreign 
+
+workers. The dormitory is approved by Ministry of Manpower (MOM) of 
+
+Singapore. It is subjected to high standards of requirements and 
+
+periodical inspections.  
+
+ 
+
+ 
+
+44.6% 
+
+Employee turnover rate 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18.2
+
+13.3
+
+44.6
+
+0
+
+10
+
+20
+
+30
+
+40
+
+50
+
+2017
+
+2018
+
+2019
+
+Employee 
+
+Turnover (%)
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 14 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Community initiatives 
+
+In FY2019, our Group took part actively in several community initiatives 
+
+as well as made cash donations to various organisations. 
+
+In July 2019, our Group participated in YMCA’s Proms @ the Park 
+
+2019. More than 550 volunteers, including 30 from the group, met with 
+
+over 500 beneficiaries from various Voluntary Welfare Organisations 
+
+(“VWOs”) to enjoy a concert, carnival and the Proms’ very first Makers’ 
+
+Market at the Lawn @ Marina Bay. Our President, Mdm Halimah 
+
+Yacob, was the guest of honor at the event. The event sought to 
+
+encourage social bonding and enhancement of social skills through a 
+
+shared heritage where volunteers discovered the privilege and joy of 
+
+spending time with the beneficiaries as one community. The Group was 
+
+honored to be recognized as the sole Silver Sponsor to the event, and 
+
+participation in this event demonstrates the Group’s commitment to 
+
+helping those that are less privileged. 
+
+ 
+
+This year, our annual blood donation drive was held in October at 
+
+Ensure Engineering at 1 Tuas Ave 10 Singapore 639125, the official 
+
+Blood Donation Centre for the Singapore Red Cross Society. The 
+
+collected blood would be used to save lives during emergencies and to 
+
+sustain the lives of people with medical conditions. 
+
+ 
+
+ 
+
+$12.0k 
+
+Investment in community 
+
+projects 
+
+67 
+
+Packets of blood collected for 
+
+Blood Donation Drive 
+
+ 
+
+
+
+
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix A: Sustainability scorecard 
+
+Workplace safety 
+
+Performance indicators 
+
+Units 
+
+2019 
+
+2018 
+
+2017 
+
+No. of fatalities 
+
+Number 
+
+0 
+
+0 
+
+0 
+
+No. of serious incident 
+
+Number 
+
+6 
+
+1 
+
+1 
+
+No. of workplace injuries 
+
+Number 
+
+12 
+
+2 
+
+16 
+
+Productivity 
+
+Performance indicators 
+
+Units 
+
+2019 
+
+2018 
+
+2017 
+
+Revenue 
+
+S$000 
+
+52,823 
+
+60,828 
+
+66,355 
+
+Purchases from local supplier 
+
+Percentage 
+
+84.6 
+
+94.6 
+
+85 
+
+Employees subject to regular 
+
+performance appraisal 
+
+Percentage 
+
+100 
+
+100 
+
+100 
+
+Training hours per staff 
+
+Hours 
+
+25.3 
+
+23.4 
+
+44.5 
+
+Environmental protection 
+
+Performance indicators 
+
+Units 
+
+2019 
+
+2018 
+
+2017 
+
+Carbon emission  
+
+tCO2e 
+
+735.17 
+
+724.18 
+
+727.26 
+
+Carbon emission intensity 
+
+kgCO2e/m2 
+
+60.19 
+
+42.01 
+
+41.83 
+
+Recycled waste 
+
+Tons 
+
+103 
+
+68 
+
+36 
+
+Water consumption 
+
+Liter 
+
+4,907 
+
+4,279 
+
+4,127 
+
+Water consumption intensity 
+
+Liter/m2 
+
+0.35 
+
+0.25 
+
+0.24 
+
+People and community 
+
+Performance indicators 
+
+Units 
+
+2019 
+
+2018 
+
+2017 
+
+Employee turnover rate 
+
+Percentage 
+
+44.6 
+
+13.3 
+
+18.2 
+
+Investment in community projects 
+
+S$’000 
+
+12.0 
+
+10.6 
+
+11 
+
+Packets of blood collected for Blood 
+
+Donation Drive 
+
+Number 
+
+67 
+
+55 
+
+78 
+
+ 
+
+ 
+
+ 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix B: Consulting our stakeholders 
+
+We listen to our stakeholders and engage with them on an ongoing and ad hoc basis. An overview of our 
+
+approach and rationale is set out below (with stakeholders listed in alphabetical order), together with the 
+
+feedback we have received. 
+
+ 
+
+Stakeholders 
+
+How we listen 
+
+Why we do it 
+
+What you’ve told us 
+
+Customers 
+
+ 
+
+Daily operations meetings 
+
+ 
+
+Site walks/ safety walks 
+
+ 
+
+Meetings with customer's 
+
+procurement department 
+
+ 
+
+Adhere to safety concerns 
+
+ 
+
+Adhere to health concerns 
+
+ 
+
+Adhere to environmental 
+
+concerns for raw materials 
+
+(insulation mat, diesel 
+
+pump, chemicals) 
+
+ 
+
+Provision of services 
+
+required 
+
+ 
+
+Adhere to customers 
+
+standards 
+
+ 
+
+Ability to meet customers 
+
+delivery timelines 
+
+Employees 
+
+ 
+
+Internal updates and 
+
+communication 
+
+ 
+
+Events and functions 
+
+ 
+
+Company retreats 
+
+ 
+
+Project celebrations 
+
+ 
+
+Training programme 
+
+ 
+
+Employee training 
+
+ 
+
+People developer 
+
+ 
+
+Proper upkeep of 
+
+dormitories 
+
+ 
+
+Equal opportunities 
+
+ 
+
+Career progression 
+
+ 
+
+Benefits and rewards 
+
+ 
+
+External courses 
+
+Regulatory 
+
+authorities 
+
+(SGX, MOM, 
+
+IRAS) 
+
+ 
+
+Regular updates and 
+
+communication 
+
+ 
+
+Reports and compliance 
+
+ 
+
+Periodical meetings 
+
+ 
+
+Good relationship between 
+
+SGX and Company 
+
+ 
+
+Dialogue with SGX 
+
+ 
+
+Active participation in SGX 
+
+events to increase visibility 
+
+and transparency 
+
+ 
+
+Compliance with relevant 
+
+rules and regulations 
+
+Shareholder 
+
+and investors 
+
+ 
+
+SGX Announcements 
+
+ 
+
+Shareholder’s meeting 
+
+ 
+
+Annual reports 
+
+ 
+
+Company’s website 
+
+ 
+
+Regular updates and 
+
+communication 
+
+ 
+
+Committed to delivering 
+
+economic value to our 
+
+capital providers through a 
+
+strong financial 
+
+performance and our 
+
+methods of engagement 
+
+with them. 
+
+ 
+
+Long-term profitability 
+
+ 
+
+Sustainability matters 
+
+ 
+
+Group’s performance 
+
+against targets 
+
+ 
+
+Compliance with all 
+
+relevant requirements 
+
+Suppliers 
+
+ 
+
+Supplier’s meetings 
+
+ 
+
+Negotiation of special price 
+
+for big projects 
+
+ 
+
+Adhere to safety concerns 
+
+ 
+
+Ability to meet Company’s 
+
+standards (e.g. BizSafe or 
+
+ISO) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 17 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Appendix C: GRI content index 
+
+GRI Standards Content Index 
+
+The GRI Content Index references the Nordic Group Limited Sustainability Report 2019 (SR), the Annual 
+
+Report 2019 (AR) and the Nordic Group Website (Web). 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+GRI 102: General disclosures 
+
+Organisational profile 
+
+102-1 
+
+Name of organisation 
+
+ AR: Corporate profile (Page IFC) 
+
+102-2 
+
+Activities, brands, 
+
+products, and services 
+
+ AR: Corporate profile (Page IFC) 
+
+102-3 
+
+Location of headquarters 
+
+ AR: Corporate profile (Page IFC) 
+
+102-4 
+
+Location of operations 
+
+ AR: Corporate profile (Page IFC) 
+
+ AR: Subsidiaries – Note 15 to the financial 
+
+statements (Pages 77-79) 
+
+ Web: http://www.nordicgrouplimited.com/about-
+
+us/corporate-structure/ 
+
+102-5 
+
+Ownership and legal form 
+
+ AR: Note 1 to the financial statements (Page 53) 
+
+102-6 
+
+Markets served 
+
+ AR: Financial and operation review (Pages 16-19) 
+
+ AR: Financial information by operating segments – 
+
+Note 4 to the financial statements (Pages 68-71) 
+
+102-7 
+
+Scale of organisation 
+
+ AR: Corporate profile (Page IFC) 
+
+ AR: Financial information by operating segments 
+
+– Note 4 to the financial statements (Pages 68-
+
+71) 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+ SR: People and community (Pages 14-15) 
+
+102-9 
+
+Supply chain 
+
+ SR: Productivity (Pages 10-11) 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+ Web: http://www.nordicgrouplimited.com/about-
+
+us/milestones/ 
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-12 
+
+External initiatives 
+
+ Not applicable 
+
+102-13 
+
+Membership of 
+
+associations 
+
+ AR: Our commitment to corporate social 
+
+responsibility (Page 23) 
+
+ Web: http://www.nordicgrouplimited.com/awards-
+
+accreditations/ 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+ AR: Chairman’s statement (pages 5-7) 
+
+102-15 
+
+Key impacts, risks, and 
+
+opportunities 
+
+ AR: Financial and operation review (Pages 16-19) 
+
+ AR: Independent auditors report (Pages 44-47) 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behavior 
+
+ SR: Sustainability strategy (Page 4) 
+
+102-17 
+
+Mechanisms for advice 
+
+and concerns about ethics 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-19 
+
+Delegating authority 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-20 
+
+Executive-level 
+
+responsibility for 
+
+economic, environmental, 
+
+and social topics 
+
+ SR: Sustainability organisational structure (Page 4) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 18 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-21 
+
+Consulting stakeholders 
+
+on economic, 
+
+environmental, and social 
+
+topics 
+
+ SR: Consulting our stakeholders (Page 17) 
+
+102-22 
+
+Composition of the highest 
+
+governance body and its 
+
+committees 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-23 
+
+Chair of the highest 
+
+governance body 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-24 
+
+Nominating and selecting 
+
+the highest governance 
+
+body 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-25 
+
+Conflicts of interest 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+ AR: Statement by directors (Pages 41-43) 
+
+ SR: Sustainability strategy (Page 4) 
+
+102-26 
+
+Role of highest 
+
+governance body in 
+
+setting purpose, values, 
+
+and strategy 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-27 
+
+Collective knowledge of 
+
+highest governance body 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-28 
+
+Evaluating the highest 
+
+governance body’s 
+
+performance 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-29 
+
+Identifying and managing 
+
+economic, environmental, 
+
+and social impacts 
+
+ SR: Sustainability materiality matrix (Page 5) 
+
+102-30 
+
+Effectiveness of risk 
+
+management processes 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-31 
+
+Review of economic, 
+
+environmental, and social 
+
+topics 
+
+ SR: Sustainability report (Pages 1-24) 
+
+102-32 
+
+Highest governance 
+
+body’s role in 
+
+sustainability reporting 
+
+ SR: Sustainability organisational structure (Page 4) 
+
+102-33 
+
+Communicating critical 
+
+concerns 
+
+ SR: Sustainability materiality matrix (Page 5) 
+
+102-34 
+
+Nature and total number 
+
+of critical concerns 
+
+ SR: Sustainability materiality matrix (Page 5) 
+
+102-35 
+
+Remuneration policies 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-36 
+
+Process for determining 
+
+remuneration 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-37 
+
+Stakeholders’ involvement 
+
+in remuneration 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-38 
+
+Annual total compensation 
+
+ratio 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+102-39 
+
+Percentage increase in 
+
+annual total compensation 
+
+ratio 
+
+ AR: Corporate governance report (Pages 25-40) 
+
+Stakeholder 
+
+engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+ SR: Consulting our stakeholders (Page 17) 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+ Not applicable 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+ SR: Consulting our stakeholders (Page 17) 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+ SR: Sustainability strategy (Page 4) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 19 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+ SR: Consulting our stakeholders (Page 17) 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+ AR: Subsidiaries – Note 15 to the financial 
+
+statements (Pages 77-79) 
+
+102-46 
+
+Defining report content 
+
+and topic Boundaries 
+
+ SR: Sustainability materiality matrix (Page 5) 
+
+102-47 
+
+List of material topics 
+
+ SR: Sustainability materiality matrix (Page 5) 
+
+102-48 
+
+Restatements of 
+
+information 
+
+ Not applicable 
+
+102-49 
+
+Changes in reporting 
+
+ Not applicable 
+
+102-50 
+
+Reporting period 
+
+ SR: Scope of sustainability report (Page 3) 
+
+102-51 
+
+Date of most recent report 
+
+ Not applicable 
+
+102-52 
+
+Reporting cycle 
+
+ Annual 
+
+102-53 
+
+Contact point for 
+
+questions regarding the 
+
+report 
+
+ SR: Scope of sustainability report (Page 3) 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+ SR: Scope of sustainability report (Page 3) 
+
+102-55 
+
+GRI content index 
+
+ SR: GRI content index (Pages 18-24) 
+
+102-56 
+
+External assurance 
+
+ No external assurance 
+
+GRI 200: Economic disclosures 
+
+Economic performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+ SR: Sustainability scorecard (Page 16) 
+
+201-2 
+
+Financial implications and 
+
+other risks and 
+
+opportunities due to 
+
+climate change 
+
+ Not applicable 
+
+201-3 
+
+Defined benefit plan 
+
+obligations and other 
+
+retirement plans 
+
+ Not applicable 
+
+201-4 
+
+Financial assistance 
+
+received from government 
+
+ Not applicable 
+
+Market presence 
+
+202-1 
+
+Ratios of standard entry 
+
+level wage by gender 
+
+compared to local 
+
+minimum wage 
+
+ Not applicable 
+
+202-2 
+
+Proportion of senior 
+
+management hired from 
+
+local community 
+
+ Not applicable 
+
+Indirect economic 
+
+impacts 
+
+203-1 
+
+Infrastructure investments 
+
+and services supported 
+
+ Not applicable 
+
+203-2 
+
+Significant indirect 
+
+economic impacts 
+
+ Not applicable 
+
+Procurement practices 
+
+204-1 
+
+Proportion of spending on 
+
+local suppliers 
+
+ SR: Productivity (Pages 10-11) 
+
+Anti-corruption 
+
+205-1 
+
+Operations assessed for 
+
+risks related to corruption 
+
+ Not applicable 
+
+205-2 
+
+Communication and 
+
+training about anti-
+
+corruption policies and 
+
+procedures 
+
+ Not applicable 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 20 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions 
+
+taken 
+
+ There is no incidences of corruption. 
+
+Anti-competitive 
+
+behavior 
+
+206-1 
+
+Legal actions for anti-
+
+competitive behavior, anti-
+
+trust, and monopoly 
+
+practices 
+
+ There is no legal actions for anti-competition. 
+
+GRI 300: Environment disclosures 
+
+Materials 
+
+301-1 
+
+Materials used by weight 
+
+or volume 
+
+ Not applicable 
+
+301-2 
+
+Recycled input materials 
+
+used 
+
+ SR: Environmental protection (Pages 12-13) 
+
+301-3 
+
+Reclaimed products and 
+
+their packaging materials 
+
+ Not applicable 
+
+Energy 
+
+302-1 
+
+Energy consumption 
+
+within the organisation 
+
+ SR: Environmental protection (Pages 12-13) 
+
+302-2 
+
+Energy consumption 
+
+outside of the organisation 
+
+ Not applicable 
+
+302-3 
+
+Energy intensity 
+
+ Not applicable 
+
+302-4 
+
+Reduction of energy 
+
+consumption 
+
+ Not applicable 
+
+302-5 
+
+Reductions in energy 
+
+requirements of products 
+
+and services 
+
+ Not applicable 
+
+Water 
+
+303-1 
+
+Water withdrawal by 
+
+source 
+
+ Not applicable 
+
+303-2 
+
+Water sources significantly 
+
+affected by withdrawal of 
+
+water 
+
+ Not applicable 
+
+303-3 
+
+Water recycled and 
+
+reused 
+
+ Not applicable 
+
+Biodiversity 
+
+304-1 
+
+Operational sites owned, 
+
+leased, managed in, or 
+
+adjacent to, protected 
+
+areas and areas of high 
+
+biodiversity value outside 
+
+protected areas 
+
+ Not applicable 
+
+304-2 
+
+Significant impacts of 
+
+activities, products, and 
+
+services on biodiversity 
+
+ Not applicable 
+
+304-3 
+
+Habitats protected or 
+
+restored 
+
+ Not applicable 
+
+304-4 
+
+IUCN Red List species 
+
+and national conservation 
+
+list species with habitats in 
+
+areas affected by 
+
+operations 
+
+ Not applicable 
+
+Emissions 
+
+305-1 
+
+Direct (Scope 1) GHG 
+
+emissions 
+
+ SR: Environmental protection (Pages 12-13) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+305-2 
+
+Energy indirect (Scope 2) 
+
+GHG emissions 
+
+ SR: Environmental protection (Pages 12-13) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+305-3 
+
+Other indirect (Scope 3) 
+
+GHG emissions 
+
+ Not applicable 
+
+305-4 
+
+GHG emissions intensity 
+
+ SR: Environmental protection (Pages 12-13) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+305-5 
+
+Reduction of GHG 
+
+emissions 
+
+ Not applicable 
+
+305-6 
+
+Emissions of ozone-
+
+depleting substances 
+
+(ODS) 
+
+ Not applicable 
+
+305-7 
+
+Nitrogen oxides (NOX), 
+
+sulfur oxides (SOX), and 
+
+other significant air 
+
+emissions 
+
+ Not applicable 
+
+Effluents and waste 
+
+306-1 
+
+Water discharge by quality 
+
+and destination 
+
+ Not applicable 
+
+306-2 
+
+Waste by type and 
+
+disposal method 
+
+ SR: Environmental protection (Pages 12-13) 
+
+306-3 
+
+Significant spills 
+
+ Not applicable 
+
+306-4 
+
+Transport of hazardous 
+
+waste 
+
+ SR: Environmental protection (Pages 12-13) 
+
+306-5 
+
+Water bodies affected by 
+
+water discharges and/or 
+
+runoff 
+
+ Not applicable 
+
+Laws and regulations 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+ There is no non-compliance with environmental 
+
+laws and regulations. 
+
+Supplier environmental 
+
+assessments 
+
+308-1 
+
+New suppliers that were 
+
+screened using 
+
+environmental criteria 
+
+ Not applicable 
+
+GRI 400: Social disclosures 
+
+Employment 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+ SR: People and community (Pages 14-15) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+401-2 
+
+Benefits provided to full-
+
+time employees that are 
+
+not provided to temporary 
+
+or part-time employees 
+
+ SR: People and community (Pages 14-15) 
+
+401-3 
+
+Parental leave 
+
+ Not applicable 
+
+Labor / management 
+
+relations 
+
+402-1 
+
+Minimum notice periods 
+
+regarding operational 
+
+changes 
+
+ Not applicable 
+
+Occupational health 
+
+and safety 
+
+403-1 
+
+Workers representation in 
+
+formal joint management–
+
+worker health and safety 
+
+committees 
+
+ Not applicable 
+
+403-2 
+
+Types of injury and rates 
+
+of injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number 
+
+of work-related fatalities 
+
+ SR: Workplace safety (Pages 7-9) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+403-3 
+
+Workers with high 
+
+incidence or high risk of 
+
+diseases related to their 
+
+occupation 
+
+ Not applicable 
+
+403-4 
+
+Health and safety topics 
+
+covered in formal 
+
+agreements with trade 
+
+unions 
+
+ Not applicable 
+
+Training and education 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+ SR: Productivity (Pages 10-11) 
+
+ SR: Sustainability scorecard (Page 16) 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 22 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+404-2 
+
+Programs for upgrading 
+
+employee skills and 
+
+transition assistance 
+
+programs 
+
+ SR: Productivity (Pages 10-11) 
+
+404-3 
+
+Percentage of employees 
+
+receiving regular 
+
+performance and career 
+
+development reviews 
+
+ SR: Productivity (Pages 10-11) 
+
+Diversity and equal 
+
+opportunity 
+
+405-1 
+
+Diversity of governance 
+
+bodies and employees 
+
+ Not applicable 
+
+405-2 
+
+Ratio of basic salary and 
+
+remuneration of women to 
+
+men 
+
+ Not applicable 
+
+Non-discrimination 
+
+406-1 
+
+Incidents of discrimination 
+
+and corrective actions 
+
+taken 
+
+ Not applicable 
+
+Freedom of association 
+
+and collective 
+
+bargaining 
+
+407-1 
+
+Operations and suppliers 
+
+in which the right to 
+
+freedom of association 
+
+and collective bargaining 
+
+may be at risk 
+
+ Not applicable 
+
+Child labor 
+
+408-1 
+
+Operations and suppliers 
+
+at significant risk for 
+
+incidents of child labor 
+
+ Child labour is strictly prohibited. 
+
+Forced or compulsory 
+
+labor 
+
+409-1 
+
+Operations and suppliers 
+
+at significant risk for 
+
+incidents of forced or 
+
+compulsory labor 
+
+ Forced and compulsory labour is strictly 
+
+prohibited. 
+
+Security practices 
+
+410-1 
+
+Security personnel trained 
+
+in human rights policies or 
+
+procedures 
+
+ Not applicable 
+
+Rights of indigenous 
+
+peoples 
+
+411-1 
+
+Incidents of violations 
+
+involving rights of 
+
+indigenous peoples 
+
+ Not applicable 
+
+Human rights 
+
+assessment 
+
+412-1 
+
+Operations that have been 
+
+subject to human rights 
+
+reviews or impact 
+
+assessments 
+
+ Not applicable 
+
+412-2 
+
+Employee training on 
+
+human rights policies or 
+
+procedures 
+
+ Not applicable 
+
+412-3 
+
+Significant investment 
+
+agreements and contracts 
+
+that include human rights 
+
+clauses or that underwent 
+
+human rights screening 
+
+ Not applicable 
+
+Local communities 
+
+413-1 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+ SR: People and community (Pages 14-15) 
+
+413-2 
+
+Operations with significant 
+
+actual and potential 
+
+negative impacts on local 
+
+communities 
+
+ Not applicable 
+
+Supplier social 
+
+assessment 
+
+414-1 
+
+New suppliers that were 
+
+screened using social 
+
+criteria 
+
+ Not applicable 
+
+
+Sustainability Report for the year ended 31 December 2019 
+
+Nordic Group Limited | 23 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Disclosure number 
+
+Disclosure title 
+
+Page reference and remarks 
+
+414-2 
+
+Negative social impacts in 
+
+the supply chain and 
+
+actions taken 
+
+ Not applicable 
+
+Public policy 
+
+415-1 
+
+Political contributions 
+
+ Not applicable 
+
+Customer health and 
+
+safety 
+
+416-1 
+
+Assessment of the health 
+
+and safety impacts of 
+
+product and service 
+
+categories 
+
+ Not applicable 
+
+416-2 
+
+Incidents of non-
+
+compliance concerning 
+
+the health and safety 
+
+impacts of products and 
+
+services 
+
+ Not applicable 
+
+Marketing and labelling 
+
+417-1 
+
+Requirements for product 
+
+and service information 
+
+and labeling 
+
+ Not applicable 
+
+417-2 
+
+Incidents of non-
+
+compliance concerning 
+
+product and service 
+
+information and labeling 
+
+ Not applicable 
+
+417-3 
+
+Incidents of non-
+
+compliance concerning 
+
+marketing communications 
+
+ Not applicable 
+
+Customer privacy 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and 
+
+losses of customer data 
+
+ Not applicable 
+
+Socioeconomic 
+
+compliance 
+
+419-1 
+
+Non-compliance with laws 
+
+and regulations in the 
+
+social and economic area 
+
+ There is no non-compliance with 
+
+socioeconomic laws and regulations. 
+
+ 
+

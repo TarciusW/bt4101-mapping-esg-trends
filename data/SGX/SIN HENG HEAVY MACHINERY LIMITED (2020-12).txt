@@ -1,0 +1,1570 @@
+
+
+
+
+
+  
+
+. 
+
+1 
+
+“This document is intended solely for the information and internal use of Sin Heng, and should not be used of 
+
+relied upon by any other person or entity.” 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+SUSTAINABILITY REPORT 2020 
+
+
+2 
+
+ 
+
+ 
+
+Contents 
+
+INTRODUCTION ............................................................................................................................................. 3 
+
+ABOUT US.................................................................................................................................................. 3 
+
+OUR PROFESSIONALISM ........................................................................................................................... 4 
+
+MEMBERSHIP OF ASSOCIATION................................................................................................................ 4 
+
+CONTACT US ............................................................................................................................................. 4 
+
+ABOUT THIS REPORT ..................................................................................................................................... 5 
+
+SCOPE OF THE REPORT ............................................................................................................................. 5 
+
+IN SCOPE ENTITIES .................................................................................................................................... 6 
+
+MESSAGE FROM BOARD ............................................................................................................................... 7 
+
+BOARD STATEMENT .................................................................................................................................. 7 
+
+MATERIALITY ASSESSMENT .......................................................................................................................... 8 
+
+MATERIAL ASPECTS AND INDICATORS IDENTIFIED................................................................................... 8 
+
+ENGAGING OUR STAKEHOLDERS .................................................................................................................. 9 
+
+OUR ECONOMIC PERFORMANCE .................................................................................................................. 9 
+
+HIGHLIGHTING OUR ECONOMIC PERFORMANCE..................................................................................... 9 
+
+CHAMPIONING ENVIRONMENTAL STEWARDSHIP ..................................................................................... 10 
+
+OUR APPROACH ...................................................................................................................................... 10 
+
+COMPLYING WITH ENVIRONMENTAL STANDARDS ................................................................................ 10 
+
+PUTTING OUR PEOPLE FIRST ....................................................................................................................... 11 
+
+EMBRACING OUR DIVERSE WORKFORCE ............................................................................................... 11 
+
+PROTECTING OUR EMPLOYEES’ WELLBEING .......................................................................................... 13 
+
+SAFEGUARDING OUR CUSTOMERS’ HEALTH AND SAFETY ..................................................................... 14 
+
+DEVELOPING A SKILLED WORKFORCE ..................................................................................................... 15 
+
+CULTIVATING A CONDUCIVE WORK ENVIRONMENT ................................................................................. 16 
+
+CORPORATE GOVERNANCE .................................................................................................................... 16 
+
+MANAGING RISKS ................................................................................................................................... 16 
+
+WHISTLEBLOWING .................................................................................................................................. 16 
+
+GRI CONTENT INDEX ................................................................................................................................... 17 
+
+TABLE OF GRI CONTENT INDEX ............................................................................................................... 17 
+
+ 
+
+
+3 
+
+ 
+
+INTRODUCTION 
+
+ABOUT US 
+
+Sin Heng Heavy Machinery Limited (“Sin Heng”, the “Company” or “We”) was founded in 1969 and is a 
+
+public company listed on the Main Board of Singapore Exchange (“SGX-ST”), with its core business 
+
+activities revolving around the rental and trading of cranes, aerial lifts, and other heavy lifting 
+
+equipment. Having its headquarters in Singapore for its region-wide business operations has enabled Sin 
+
+Heng to secure a strong presence in Singapore, Malaysia, Indonesia, Myanmar, and Vietnam. With years 
+
+of experience in the field, Sin Heng has also grown into an established provider of substantial lifting 
+
+services in Singapore and boasts regional distributorships rights granted by world-renowned crane 
+
+manufacturers. The Group is also involved in providing turnkey project engineering services as well as 
+
+managing the sales and distribution of related equipment parts to support its customers. 
+
+ 
+
+ 
+
+Figure 1: Our customers 
+
+ 
+
+Having accumulated know-hows from its five-decade involvement in the field, the Group continues to 
+
+strive to enhance its experience and expertise in providing comprehensive lifting services. Through these 
+
+efforts, Sin Heng has successfully established an active market presence within the region which enabled 
+
+it to leverage on a wide range of customer portfolio from the infrastructure and geotechnics, construction, 
+
+civil engineering works, offshore and marine as well as oil and gas industries as shown in Figure 1. 
+
+ 
+
+ 
+
+
+
+“The Group is firmly committed to providing its customers with the best lifting services. Its vision 
+
+is to provide high quality and reliable services to its customers in Asia.” 
+
+- 
+
+Our Vision 
+
+ 
+
+
+4 
+
+ 
+
+A component of The Group’s support services across Asia involves the management of the sales and 
+
+distribution of its products. Through continuous dedication and commitment to reliability, the Group has 
+
+won the regional distributorship rights for a variety of its equipment. This helped to boost the confidence 
+
+its significant customer portfolios have in the Group. 
+
+Apart from regional distributorship rights, the Group also owns dealership rights for the sales and 
+
+distribution of cranes and parts for Kobelco (specialist in Japanese crawler cranes), Kato (specialist in 
+
+hydraulic cranes), and Grove (specialist in European all-terrain cranes). Being a global company, Sin Heng 
+
+ensures and maintains its quality of overseas operations by engaging experienced professionals and 
+
+equipping itself with varieties of quality cranes and aerial lifts.  
+
+OUR PROFESSIONALISM 
+
+The Group believes that investing in our workforce contributes to successful business operations. Apart 
+
+from aiming to engage a team of highly skilled professionals, the Group also plans to invest in targeted 
+
+training. These efforts strive to empower employees to run business operations as well as enhance their 
+
+sense of ownership on various processes. Moving forward, the Group’s reputation would stand to benefit 
+
+as employees take pride in their work and increase their work quality in satisfying evolving customer 
+
+demands. Sin Heng has established a strong foothold in delivering excellent safety, operational, and 
+
+services to our customers by leveraging on our extensive technical expertise and outstanding after-sales 
+
+services.   
+
+MEMBERSHIP OF ASSOCIATION  
+
+Presently, Sin Heng owns a membership in the Master Builders Association Malaysia (“MBAM”), which 
+
+strives to provide a synergy of services to members for the betterment of the construction industry. This 
+
+plays a key role in enabling Sin Heng to create value for its stakeholders as it provides a platform for it to 
+
+forge strategic relationships within the industry.  
+
+CONTACT US 
+
+Sin Heng welcomes your questions and values your feedback on this report as we continue to strive 
+
+towards improving our sustainability journey. Please address all feedback to:  
+
+Chief Financial Officer 
+
+Yang Yung Kang 
+
+Sin Heng Heavy Machinery Limited 
+
+26 Gul Road  
+
+Singapore 629346 
+
+Tel.: (65) 6861 6111 
+
+Fax: (65) 6863 8616 
+
+E-mail: yungkang@sinheng.com.sg  
+
+ 
+
+ 
+
+ 
+
+
+5 
+
+ 
+
+ABOUT THIS REPORT 
+
+SCOPE OF THE REPORT 
+
+Sin Heng is delighted to present its fourth Sustainability Report (“SR”) for the financial year ended 31 
+
+December 2020 (“FY2020”). This SR covers the sustainability strategy, initiatives, and performance of our 
+
+operations for the financial year 2020 (“FY2020”), from January 1, 2020, to December 31, 2020, unless 
+
+otherwise stated. 
+
+The Group strives to incorporate sustainable practices across its operations through various economic, 
+
+environmental, and social initiatives. We refresh our Environmental, Social, and Governance (“ESG”) 
+
+aspects annually to ensure relevancy against current business operations. To promote transparency and 
+
+accountability, the Group is dedicated to disclosing its sustainability performance to its stakeholders 
+
+responsibly.  
+
+The report has been prepared following the Global Reporting Initiative (“GRI”) Standards 2016: Core 
+
+Option – the international standard for sustainability reporting, and with reference to the Singapore 
+
+Exchange Securities Limited Listing Rules 711A and 711B on a ‘comply or explain’ basis.  
+
+The content of this report is developed based on the four reporting principles established by GRI 
+
+Standards:  
+
+ 
+
+Figure 2: GRI reporting principles 
+
+ 
+
+Although the information reported in the current financial year has not obtained any independent 
+
+assurance, Sin Heng will continue to enhance its data collection and sustainability reporting processes. 
+
+Moving forward, as its sustainability reporting efforts mature, the Group may consider obtaining 
+
+independent assurance. 
+
+
+
+
+6 
+
+ 
+
+ 
+
+IN SCOPE ENTITIES 
+
+ 
+
+Figure 3: In-scope entities for Sustainability Report 20201 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 In-scope Entities refer to the impacts occur for a material topic and the organisation’s involvement with those impacts. Organisations might be 
+
+involved with impacts either through their own activities or as a result of their business relationships with other entities. Global Reporting Initiatives 
+
+(GRI)  
+
+
+
+
+7 
+
+ 
+
+MESSAGE FROM BOARD 
+
+BOARD STATEMENT 
+
+ 
+
+Dear Stakeholders, 
+
+ 
+
+Moving into the fourth year of our sustainability journey, Sin Heng actively prioritises implementing 
+
+sustainability initiatives, which helps to improve our business operations and allows us to better address 
+
+relevant material ESG issues. Our Board of Directors (“the Board”) mainly focuses on providing leadership 
+
+guidance and establishing the Group’s values and ethical standards to meet stakeholders’ expectations.  
+
+Having strategically pursued the sustainability agenda over the years, the Group has made strides in its 
+
+sustainability practices and overall business success. Sin Heng proactively strives towards long-term 
+
+success through improving operational eco-efficiency and incorporating sustainability practices into our 
+
+business processes. Our continuous improvements provided us with an unintended benefit of being able 
+
+to regularly check in with our employees to raise awareness and refresh knowledge through education 
+
+programmes.  
+
+We continuously incorporate sustainability measures into our strategy and operations as we recognise 
+
+how maintaining a balance between economic, environmental, social and governance obligations plays a 
+
+key role in business success. The Group’s strategy and operations will be accompanied by quality 
+
+disclosures to provide stakeholders with a comprehensive understanding of the Group’s performance and 
+
+prospects. 
+
+Looking ahead, we will continually endeavor to actively incorporate sustainable practices into our 
+
+business strategy.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+8 
+
+ 
+
+MATERIALITY ASSESSMENT 
+
+Sin Heng conducted a materiality assessment exercise by reflecting on significant economic, 
+
+environmental, and social impacts that are material to the organisation. The figure below outlines the key 
+
+phases and activities involved in the materiality assessment exercise. 
+
+ 
+
+ 
+
+ 
+
+Figure 4: Materiality assessment process 
+
+ 
+
+MATERIAL ASPECTS AND INDICATORS IDENTIFIED 
+
+Material Aspects 
+
+GRI Standards ESG Indicators 
+
+Aspect Boundary2 
+
+Economic 
+
+Performance 
+
+GRI 201-1 
+
+Direct economic value generated and 
+
+distributed 
+
+Within organisation 
+
+Environmental 
+
+Compliance 
+
+GRI 307-1 
+
+Non-compliance with environmental laws and 
+
+regulations 
+
+Within organisation 
+
+Employment 
+
+GRI 401-1 
+
+New employee hires and employee turnover 
+
+Within organisation 
+
+Occupational Health 
+
+and Safety 
+
+GRI 403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, absenteeism, 
+
+and number of work-related fatalities 
+
+Within organisation 
+
+Training and 
+
+Education 
+
+GRI 404-1 
+
+and 401-3 
+
+Percentage of employees receiving regular 
+
+performance and career development reviews 
+
+Within organisation 
+
+Customer Health &amp; 
+
+Safety 
+
+GRI 416-2 
+
+Incidents of non-compliance concerning the 
+
+health and safety impacts of products and 
+
+services 
+
+Within organisation 
+
+Figure 5: Material aspects and indicators identified 
+
+ 
+
+ 
+
+ 
+
+2 Aspect Boundary is a description of where the impacts occur for a material topic and the organisation’s involvement with those impacts. 
+
+Organisations might be involved with impacts either through their own activities or as a result of their business relationships with other entities. Global 
+
+Reporting Initiatives (“GRI”)  
+
+
+
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ENGAGING OUR STAKEHOLDERS  
+
+Through regular engagement with our stakeholders on various platforms, we can inform and update them 
+
+about our sustainability efforts while better understanding their expectations and emerging sustainability 
+
+trends. The insights generated from these engagements would contribute to crafting our organisation's 
+
+strategy. This process places us in a better position for to ensure alignment of our sustainability strategy 
+
+with those of our stakeholders.  
+
+OUR ECONOMIC PERFORMANCE 
+
+HIGHLIGHTING OUR ECONOMIC PERFORMANCE  
+
+The economic highlights of Sin Heng’s performance for the year ended 31 December 2020 (“FY 2020”) are 
+
+shown in the table below. 
+
+ 
+
+ 
+
+Figure 6: Financial Performance FY2019 &amp; FY2020 (S$’000) 
+
+ 
+
+For additional reference, kindly refer to Sin Heng Heavy Machinery Limited’s Annual Report for FY2020 
+
+(“Annual Report”). 
+
+ 
+
+ 
+
+
+
+
+10 
+
+ 
+
+CHAMPIONING ENVIRONMENTAL STEWARDSHIP 
+
+OUR APPROACH 
+
+The Group recognises the importance of environmental excellence and is committed to minimising 
+
+environmental impact in our daily operations. Sin Heng ensures that its business and operations are 
+
+carried out in a manner that is aligned with its sustainability goals while influencing business partners to 
+
+also implement such safe environmental practices. 
+
+ 
+
+COMPLYING WITH ENVIRONMENTAL STANDARDS 
+
+Sin Heng abides by environmental laws and regulations in the countries we operate in to ensure full legal 
+
+compliance. To fully comply with noise and emissions pollution regulations, the Group ensures that our 
+
+cranes on-site meet the various criteria required. The criteria we adhere to include crane age limits, 
+
+periodic inspection of cranes, measures to reduce noise pollution, and recycling waste oil in line with the 
+
+regulations set out by the National Environment Agency (“NEA”).  
+
+The top management has implemented an environmental policy to better manage environmental 
+
+compliance. The policy aims to grow, enforce and maintain the Group’s environmental objectives and 
+
+strategic directions. Training is provided to all employees to ensure that they understand the 
+
+requirements and play their part in the policy implementation.  
+
+ 
+
+ 
+
+Figure 7: Environmental compliance performance 
+
+In FY2020, Sin Heng has adhered to all the laws and regulations in place which can be supported by zero 
+
+monetary value of significant fines, non-monetary sanctions, cases brought through dispute resolution 
+
+mechanisms, and significant fines or non-monetary sanctions for non-compliance with environmental 
+
+laws and/or regulations. We strive to maintain this track record in the coming years by further 
+
+strengthening our policies. 
+
+ 
+
+
+
+
+11 
+
+ 
+
+PUTTING OUR PEOPLE FIRST 
+
+EMBRACING OUR DIVERSE WORKFORCE 
+
+Sin Heng believes that a strong workforce lies in attracting and retaining talent as well as ensuring it is 
+
+diverse and qualified. The Group emphasises engaging with employees from their onboarding and 
+
+supports various training initiatives to allow them to reach their full potential. To ensure that an inclusive, 
+
+fair, and transparent recruitment practice based on merit is being implemented, we are committed to 
+
+various initiatives such as having a human resource policy code of conduct that expresses the commitment 
+
+to the ethical, professional, and legal standards with the objectives to: 
+
+ 
+
+ 
+
+Figure 8: Objectives of human resource policy code of conduct 
+
+ 
+
+In FY2020, we have employed 201 full-time staff in Singapore and Malaysia. The breakdown of our labour 
+
+force based on our operations in Singapore and Malaysia and by gender demographics is as follows in 
+
+Figure 9. New hire and turnover breakdown is shown in Figure 9. 
+
+ 
+
+Figure 9:  Employee data breakdown FY2020 
+
+ 
+
+
+
+
+
+
+12 
+
+ 
+
+ 
+
+Figure 10: New hire rate and turnover rate with the gender breakdown 
+
+ 
+
+Sin Heng respects diversity and prioritises providing equal opportunities for all employees. The Group 
+
+adopts a zero-tolerance attitude towards any form of discrimination based on race, gender, religion, 
+
+nationality, age, political affiliations, physical and mental disability, or any other form of discrimination.  
+
+To ensure that employees are adequately equipped with skillsets and knowledge on workplace safety, the 
+
+Group continuously invests time and resources to train employees before they take on relevant tasks. We 
+
+believe that this will give us a competitive edge as well as help us to fulfil our vision.  
+
+ 
+
+
+
+
+
+
+13 
+
+ 
+
+PROTECTING OUR EMPLOYEES’ WELLBEING 
+
+The Group understands the importance of providing a healthy and safe workplace for our employees and 
+
+constantly strives to keep workplace accidents at a minimum. The Group provides a healthy and safe work 
+
+environment for all employees and stakeholders with guidance from the Singapore Workplace Safety and 
+
+Health Act 2006 (Revised 2009). 
+
+Sin Heng recognises the contribution of workplace health and safety to workplace productivity and 
+
+business success. Apart from affecting our operations in terms of work disruption, additional financial 
+
+costs, legal penalties, and reputational damages, our employees would bear the brunt as incidents could 
+
+leave permanent disabilities or even the loss of life, inevitably affecting their families as well. 
+
+The Group places emphasises on maintaining and advocating safe practices at work by educating 
+
+employees that it is a shared responsibility. Through these training, we send employees to courses such 
+
+as Singapore Workforce Skills Qualification (“WSQ”) Construction Safety Orientation Courses to equip 
+
+them with the relevant skills to perform their roles safely. Other efforts to manage safety issues at our 
+
+workplace include working closely with our client’s site management teams, sending our crane operators 
+
+for the in-house Safety Induction Course conducted by site owners, and evaluating their feedback on our 
+
+crane operators to take quick corrective actions when necessary. 
+
+Sin Heng puts in the effort to ensure that our equipment is safe to operate and employees acknowledge 
+
+and adhere to the relevant laws and regulation to manage environmental pollution and environmental 
+
+health and safety (“EHS”) guidelines in their day-to-day work. Such initiatives include sending our cranes 
+
+for regular by Authorised Examiners appointed by the Ministry of Manpower (“MOM”).  
+
+The Group strives to foster a safe and happy workplace for all employees by cultivating a holistic influential 
+
+safety culture in Sin Heng which also addresses the mental and emotional aspects apart from physical 
+
+health.  
+
+In FY2020, we had two injury incidents reported, which translates into 18 lost days, and there were no 
+
+cases of occupational diseases and work-related fatalities in the same year. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+14 
+
+ 
+
+The diagram below shows a full breakdown of our company’s occupational health and safety statistics for 
+
+this year. 
+
+ 
+
+Figure 11: Occupational health and safety statistics for FY2020 
+
+In FY2020, there is an improvement in the lost day rate as compared to FY 2019. As we endeavour to 
+
+achieve zero accident rate in our workplace, the Group will continue to observe and aim to improve the 
+
+performance and safety standards of the workplace environment to ensure workplace accidents are kept 
+
+to a minimum.  
+
+ 
+
+SAFEGUARDING OUR CUSTOMERS’ HEALTH AND SAFETY  
+
+Sin Heng recognises the importance of ensuring their products and services are delivered to their clients 
+
+to perform their intended functions satisfactorily, without posing any risk to health and safety.  
+
+ 
+
+Figure 12: Customer health and safety compliance performance 
+
+
+
+
+
+
+15 
+
+ 
+
+In FY2020, the Group has adhered to all the laws and regulations in place which can be supported by zero 
+
+incidents of non-compliance with regulations and/or voluntary codes concerning the health and safety 
+
+impacts of products and services. Looking ahead, we endeavour to maintain this track record by further 
+
+strengthening our policies. 
+
+ 
+
+DEVELOPING A SKILLED WORKFORCE 
+
+The Group believes that employee training and education is a key contributor to improve overall business 
+
+productivity. Hence, we continuously support employees to improve their skills to achieve and perform 
+
+at their maximum potential.  
+
+In FY2020, the total number of training hours offered to the employees was 360 hours and on average, 
+
+each employee received at least more than 1.79 hours of training in our efforts to continue equipping our 
+
+workforce during the pandemic crisis.  
+
+By regularly engaging with employees through the annual performance review platform, the management 
+
+would be able to better manage and understand employees’ expectations and issues revolving around 
+
+career development. Data as in Figure 12. 
+
+Figure 13: Percentage of performance review received by employees in FY2020 
+
+In FY2020, all of our employees received their appraisal and we aim to maintain this level of performance 
+
+through continual monitoring of employees’ performance. 
+
+
+
+
+
+
+
+
+  
+
+. 
+
+16 
+
+ 
+
+CULTIVATING A CONDUCIVE WORK ENVIRONMENT 
+
+CORPORATE GOVERNANCE 
+
+The Group believes that it is essential to integrate elements of corporate governance in our business 
+
+strategies when achieving our sustainability goals. Through our daily operations, we strive to cultivate an 
+
+environment where the highest standards of governance and best practices are upheld. Moving forward, 
+
+Sin Heng aims to stay true to our core values of transparency, integrity, and accountability while 
+
+successfully meeting our business objectives. 
+
+For further details on our Corporate Governance, please refer to the Corporate Governance Report 
+
+section of the Sin Heng Heavy Machinery Limited Annual Report 2020 (“Annual Report”). 
+
+ 
+
+MANAGING RISKS 
+
+The Group can recognise areas of significant business and operation risks due to our strong and structured 
+
+risk management framework. This allows us to highlight relevant internal controls and measures to the 
+
+Audit and Risk Committee (“ARC”) and the Board, while adopting suitable control processes in an agile 
+
+manner. 
+
+ 
+
+The significant risk management policies are disclosed in the audited financial statements of the Annual 
+
+Report. 
+
+ 
+
+WHISTLEBLOWING 
+
+The Group’s whistleblowing policy reinforces our anti-corruption commitment and provides employees 
+
+and other stakeholders a safe channel to report any potential or actual improprieties in financial or other 
+
+operational matters. This empowers employees who wish to report instances of corruption, bribery, and 
+
+extortion without the fear of retaliation. An effective grievance mechanism is also implemented to ensure 
+
+that the grievances of employees are handled constructively through various channels such as anonymous 
+
+hotlines.  
+
+ 
+
+ 
+
+ 
+
+
+17 
+
+ 
+
+GRI CONTENT INDEX 
+
+TABLE OF GRI CONTENT INDEX 
+
+GRI 102: GENERAL DISCLOSURES 2016 
+
+GRI Standards 2016  
+
+Disclosure 
+
+Section Reference 
+
+Omission  
+
+ORGANISATIONAL PROFILE 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-1 Name of the organisation 
+
+Introduction 
+
+ 
+
+102-2 Activities, brands, 
+
+products and services 
+
+Introduction 
+
+ 
+
+102-3 Location of headquarters 
+
+Introduction 
+
+ 
+
+102-4 Location of operations 
+
+Introduction 
+
+ 
+
+102-5 Ownership and legal form 
+
+Introduction 
+
+ 
+
+102-6 Markets served 
+
+Introduction 
+
+ 
+
+102-7 Scale of the organisation 
+
+Introduction 
+
+ 
+
+102-8 Information on 
+
+employees and other workers 
+
+Introduction 
+
+ 
+
+102-9 Supply chain 
+
+Introduction 
+
+ 
+
+102-10 Significant changes to 
+
+organisation and its supply 
+
+chain 
+
+Not Applicable – No 
+
+significant changes  
+
+ 
+
+102-11 Precautionary principle 
+
+or approach 
+
+Governance 
+
+ 
+
+102-12 External Initiatives 
+
+Not Applicable – No 
+
+additional external 
+
+initiatives being 
+
+conducted in FY2020 
+
+ 
+
+102-13 Membership of 
+
+associations 
+
+Introduction 
+
+ 
+
+STRATEGY 
+
+GRI 102 : General 
+
+Disclosures 2016 
+
+102-14 Statement from senior 
+
+decision-maker 
+
+Message From Board 
+
+ 
+
+ETHICS AND INTEGRITY 
+
+
+18 
+
+ 
+
+GRI 102: GENERAL DISCLOSURES 2016 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-16 Values, principles, 
+
+standards, and norms of 
+
+behaviour 
+
+Introduction 
+
+ 
+
+GOVERNANCE 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-18 Governance structure 
+
+Introduction 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+ 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-40 List of stakeholder 
+
+groups 
+
+Engaging our 
+
+stakeholders 
+
+ 
+
+102-41 Collective bargaining 
+
+agreements 
+
+Not Applicable – No 
+
+collective bargaining 
+
+agreement in place 
+
+ 
+
+102-42 Identifying and selecting 
+
+stakeholders 
+
+Engaging our 
+
+stakeholders 
+
+ 
+
+102-43 Approach to stakeholder 
+
+engagement 
+
+Engaging our 
+
+stakeholders 
+
+ 
+
+102-44 Key topics and concerns 
+
+raised  
+
+Engaging our 
+
+stakeholders 
+
+ 
+
+REPORTING PRACTICE 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+102-45 Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Annual Report 2020, 
+
+page 105  
+
+ 
+
+102-46 Defining report content 
+
+and topic Boundaries 
+
+About This Report 
+
+ 
+
+102-47 List of material topics 
+
+Materiality 
+
+assessment 
+
+ 
+
+102-48 Restatements of 
+
+information 
+
+Not Applicable – No 
+
+restatement of 
+
+information for 
+
+Sustainability Report 
+
+FY2019 
+
+ 
+
+102-49 Changes in reporting 
+
+Not Applicable – No 
+
+changes in reporting 
+
+ 
+
+
+19 
+
+ 
+
+GRI 102: GENERAL DISCLOSURES 2016 
+
+for Sustainability 
+
+Report FY2020 
+
+102-50 Reporting period 
+
+About This Report 
+
+ 
+
+102-51 Date of most recent 
+
+report 
+
+Sin Heng Heavy 
+
+Machinery Limited 
+
+Sustainability Report 
+
+FY2019 
+
+ 
+
+102-52 Reporting cycle 
+
+About This Report 
+
+ 
+
+102-53 Contact point for 
+
+questions regarding the report 
+
+About This Report 
+
+ 
+
+102-54 Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+About This Report 
+
+ 
+
+102-55  Content index 
+
+GRI Content Index 
+
+ 
+
+102-56 External assurance 
+
+About This Report 
+
+ 
+
+ 
+
+ 
+
+
+20 
+
+ 
+
+CATEGORY: ECONOMIC 
+
+ECONOMIC PERFORMANCE 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the 
+
+material topic and its boundary 
+
+Our Economic 
+
+Performance 
+
+ 
+
+103-2 The management 
+
+approach and its components 
+
+Our Economic 
+
+Performance 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+ Our Economic 
+
+Performance 
+
+ 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-1 Direct economic value 
+
+generated and distributed 
+
+Our Economic 
+
+Performance 
+
+ 
+
+CATEGORY: ENVIRONMENT 
+
+ENVIRONMENTAL COMPLIANCE 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the 
+
+material topic and its boundary 
+
+Championing 
+
+environmental 
+
+stewardship 
+
+ 
+
+103-2 The management 
+
+approach and its components 
+
+Championing 
+
+environmental 
+
+stewardship 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Championing 
+
+environmental 
+
+stewardship 
+
+ 
+
+GRI 307: Environmental 
+
+Compliance 2016 
+
+307-1 Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Championing 
+
+environmental 
+
+stewardship 
+
+ 
+
+CATEGORY: SOCIAL 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+GRI 103: Management 
+
+Approach 2016 
+
+103-1 Explanation of the 
+
+material topic and its boundary 
+
+Putting our people 
+
+first 
+
+ 
+
+103-2 The management 
+
+approach and its components 
+
+Putting our people 
+
+first 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Putting our people 
+
+first 
+
+ 
+
+GRI 401: Employment 
+
+401-1: New employee hires and 
+
+employee turnover 
+
+Putting our people 
+
+first 
+
+ 
+
+
+21 
+
+ 
+
+GRI 403: Occupational 
+
+Health and Safety 2016 
+
+403-2 Types of injury and rates 
+
+of injury, occupational diseases, 
+
+lost days, absenteeism and 
+
+number of work-related 
+
+fatalities 
+
+Putting our people 
+
+first 
+
+ 
+
+GRI 416: Customer 
+
+Health &amp; Safety 
+
+416-2: Incidents of non-
+
+compliance concerning the 
+
+health and safety impacts of 
+
+products and services 
+
+Putting our people 
+
+first 
+
+ 
+
+ 
+
+ 
+
+
+22 
+
+ 
+
+TRAINING AND EDUCATION 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 Explanation of the 
+
+material topic and its 
+
+boundary 
+
+Putting our people 
+
+first 
+
+ 
+
+103-2 The management 
+
+approach and its 
+
+components 
+
+Putting our people 
+
+first 
+
+ 
+
+103-3 Evaluation of the 
+
+management approach 
+
+Putting our people 
+
+first 
+
+ 
+
+GRI 404: Training 
+
+and Education 2016 
+
+404-1 Average hours of 
+
+training per year per 
+
+employee 
+
+Putting our people 
+
+first 
+
+ 
+
+404-3 Percentage of 
+
+employees receiving regular 
+
+performance and career 
+
+development reviews 
+
+Putting our people 
+
+first 
+
+ 
+
+ 
+
+Note: The column of “Omission” is intentionally left blank as there are no omissions made in the 
+
+Sustainability Report. 
+
+ 
+
+ 
+

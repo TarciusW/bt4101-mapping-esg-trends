@@ -1,0 +1,1509 @@
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 1 of 23 
+
+ 
+
+SUSTAINABILITY REPORT OF ASIAPHOS LIMITED FOR THE FINANCIAL YEAR ENDED 31 DECEMBER 2019 
+
+ 
+
+About this Report 
+
+AsiaPhos Limited (hereafter referred to as “AsiaPhos” and collectively with its subsidiaries, the “Group”) has been listed on 
+
+the Catalist board of the Singapore Exchange Securities Trading Limited (“SGX-ST”) on 7 October 2013. 
+
+The Group was organised into product units as follows:  
+
+ 
+
+(a) 
+
+upstream segment relates to the business of exploration, mining and sale of phosphate rocks; and 
+
+(b) 
+
+downstream segment relates to the business of manufacturing, sale and trading of phosphate-based chemicals 
+
+products such as P4, sodium trimetaphosphate/tripolyphosphate and sodium hexametaphosphate; and the sale of 
+
+P4 by-products, such as slag, sludge and ferrophosphate. 
+
+The Board is pleased to present the Group’s annual Sustainability Report (the “Report”) covering the period from 1 
+
+January 2019 to 31 December 2019 (the “reporting period”). This Report is set out on a “comply or explain” basis in 
+
+accordance with Rule 711B and Practice Note 7F of the Singapore Exchange Securities Trading Limited ("SGXST") Listing 
+
+Manual Section B: Rules of Catalist (the “Catalist Rules”).  AsiaPhos has chosen the Global Reporting Initiative (“GRI”) 
+
+Standards as it is an established international sustainability reporting standard and in respect of the extent to which such 
+
+framework is applied, this Report has been prepared in accordance with the GRI Standards: Core Option, and should be 
+
+read in conjunction with AsiaPhos’ Annual Report for the financial year ended 31 December 2019 (FY2019). 
+
+Information on our projects can be found on our website: www.asiaphos.com and in AsiaPhos’ Annual Report . This year’s 
+
+Sustainability Report has removed references to the upstream (mining) segment, following its classification as a 
+
+discontinued operation in the Group’s financial results; Accordingly, we have also removed mining-related references to 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 2 of 23 
+
+ 
+
+the qualified person’s report (QPR)/ technical report prepared by independent geologists Watts Griffis &amp; McOuat (WGM), 
+
+where applicable, in compliance with the requirements of Practice Note 4C of the Catalist Rules and dated 13 March 2018 
+
+for FY2017.  However, those mining-related details are available via the company website and SGXNET/previous company 
+
+announcements.  
+
+As announced by AsiaPhos on SGXNet on 27 April 2018, with effect from 27 April 2018, the Group will focus on chemical 
+
+operations and no longer be deemed as a “mineral, oil and gas company” (“MOG”) as defined under the Catalist Rules. As 
+
+such, the Group did not instruct WGM to prepare a QPR for the financial year ending 31 December 2019.  
+
+In June 2018, the Group shut down the furnaces for maintenance and has not resumed production due to the lack of 
+
+phosphate rocks, as a result of the Chinese government’s actions which deprive the Group of access to its phosphate rocks 
+
+which is a key raw material for cost efficient production of P4.  Due to Government's wrongful action, we are currently not 
+
+carrying out exploration and mining activity and also not producing P4.  Downstream operations have been limited to 
+
+processing and trading while negotiating with the Chinese Government and the report has to be read in this context.  This 
+
+report excludes the impact of the smaller polyphosphate plant, following the entry into rental and cooperation 
+
+agreements with Lianyungang Zexin (for further details, please refer to the Group’s SGXNET announcements dated 11 
+
+April 2019 and 28 November 2019).      
+
+This report will be available via SGXNET and the company website.  
+
+(Date of Report =  27 April 2020 ) 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 3 of 23 
+
+ 
+
+Contents 
+
+SUSTAINABILITY REPORT OF ASIAPHOS LIMITED FOR THE FINANCIAL YEAR ENDED 31 DECEMBER 2018 ................................................................................. 1 
+
+About this Report ............................................................................................................................................................................................................................ 1 
+
+Board Statement / Sustainability Statement of Management ...................................................................................................................................................... 4 
+
+Corporate Social Responsibility .................................................................................................................................................................................................. 5 
+
+Environmental and safety ....................................................................................................................................................................................................... 5 
+
+Employees................................................................................................................................................................................................................................ 7 
+
+Social ........................................................................................................................................................................................................................................ 7 
+
+Identifying and prioritizing the Material ESG Factors / ‘Material Topics and Boundaries’ ........................................................................................................ 10 
+
+Environmental Governance: ..................................................................................................................................................................................................... 11 
+
+Energy Consumption / Emissions ............................................................................................................................................................................................. 11 
+
+Waste / water management ..................................................................................................................................................................................................... 12 
+
+Health &amp; Safety ......................................................................................................................................................................................................................... 13 
+
+Key Stakeholders Engagement ..................................................................................................................................................................................................... 14 
+
+Our People ................................................................................................................................................................................................................................. 15 
+
+Social / Procurement Practices ................................................................................................................................................................................................. 16 
+
+SGX ‘Primary Components for Sustainability Reporting’ Index ................................................................................................................................................... 17 
+
+GRI Content Index ......................................................................................................................................................................................................................... 19 
+
+ 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 4 of 23 
+
+ 
+
+Board Statement / Sustainability Statement of Management 
+
+On behalf of the Board of Directors (the “Board”) and the management, we are pleased to present AsiaPhos’ Sustainability 
+
+Report.   
+
+ ‘Confirmation Statement’:  “The Board has considered sustainability issues as part of its strategic formulation, determined 
+
+the material ESG factors and overseen the management and monitoring of the material ESG factors.” 
+
+As mentioned in the Annual Report / SGXNET announcements, it has been an extremely challenging few years for the 
+
+Group since 2017, as our mining operations in Mines One and Two were interrupted, following requests from the Mianzhu 
+
+City Government  to vacate and rehabilitate Mine 2 and the Fengtai Mine, in addition to the non-renewal of the Mine 1 
+
+mining licence.  This government action has also deprived our P4 operations of locally mined phosphate rocks and resulted 
+
+in the suspension of P4 processing.  Please refer to our recent corporate announcements on SGXNET and/or our website, 
+
+for updated information relating to these negotiations and our operations.  The report which follows describes our policies 
+
+and procedures which were in place before the actions of the Mianzhu Government and is presented to comply with Rule 
+
+711B and Practice Note 7F of the Singapore Exchange Securities Trading Limited ("SGXST") Listing Manual Section B: Rules 
+
+of Catalist and may not be representative of the situation prevailing now because of the reduction of the Group’s activities.    
+
+We have a sustainability workgroup (the “Workgroup”) which reports to the Board.  This Workgroup reviews the 
+
+environmental, social and governance factors (the “ESG Factors”) identified as material to AsiaPhos. The Board recognises 
+
+the importance of sustainability practices and how it can benefit our Group’s business operations and performance. 
+
+Working closely with the management, the Board oversees the management and monitoring of the ESG Factors that have 
+
+been determined to be material to our business and our stakeholders, and takes them into account when formulating 
+
+strategic policies and initiatives for AsiaPhos.  
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 5 of 23 
+
+ 
+
+Corporate Social Responsibility 
+
+As a resource-based chemical operations business, we are always aware of our responsibility towards the environment, 
+
+our employees and the local community. While focusing on creating wealth through our chemical operations, we strive to 
+
+make good use of and conserve resources, protect our environment, improve the welfare of our employees, and facilitate 
+
+social and economic development of the neighbouring areas. While we expand our business operations, we continuously 
+
+strive to ensure that the requirements of a responsible corporate citizen are embedded within our daily operations. 
+
+Environmental and safety 
+
+The Group is committed to protecting the natural environment of the vicinity where we conduct our operations.  
+
+In planning our operations, we are always conscious of the safety requirements and have always challenged ourselves to 
+
+surpass the requirements and continuously strived to improve the existing operating environment. 
+
+Targets:  Our infrastructure has been constructed to comply with the applicable  environmental laws, rules and regulations 
+
+of the People’s Republic of China (“PRC”). Our environmental management strategies and objectives also include effective 
+
+air and water recycling measures as well as proper handling and disposal of waste.  
+
+We also conduct regular monitoring exercises to ensure that we comply with the environmental regulations in relation to 
+
+our operations. We intend to continue to take progressive steps to further improve our PRC operations and facilities 
+
+beyond the requirements of applicable PRC environmental laws, rules and regulations. For example, instead of releasing 
+
+the flue gas produced during P4 production into the environment, we collect and used the gas for drying phosphate rocks, 
+
+coke and silica as well as our other downstream operations so as to reduce the impact on the environment (with the 
+
+benefit of potentially lowering production costs for downstream chemicals).  
+
+Since we started our business operations, we have been cultivating a “Safety is Priority” culture, which focuses on building 
+
+essential safety and eco-friendly processes, resulting in continued improvement and general awareness of safety and 
+
+environmental protection amongst our employees.  
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 6 of 23 
+
+ 
+
+We have implemented safety management system, which includes safety management plans, rules, codes of practice, 
+
+manuals and procedures which our employees are required to comply with. We take active steps to ensure that our 
+
+employees understand and familiarise themselves with our safety rules. Briefings on safety awareness and procedures are 
+
+conducted regularly and training on basic safety skills and procedures are conducted for our employees. We ensure that 
+
+our workers possess safety permits obtained after attending training organised by the relevant local safety and inspection 
+
+authorities before they undertake any work at our premises. All our employees have a mandate to target zero injuries and 
+
+fatalities. 
+
+We have a safety and environmental team which implements and promotes applicable legal and internal safety 
+
+regulations, including i) conducting periodic safety audits and ensuring safety requirements are met; ii) conducting in-
+
+house or outsourced safety training for all our employees as well as outsourced workers; iii) conducting investigations and 
+
+handling all incident reports and implementing pre-emptive measures to prevent repeat occurrence of such incidents; iv) 
+
+liaising with all external safety authorities and implementing new safety regulations and initiatives; and v) reviewing and 
+
+improving our safety management system in accordance with the applicable legal regulations.  
+
+We have invested a substantial amount of the capital expenditure for our P4 plant in environmental and safety features, 
+
+ensuring that we have control over monitoring every aspect of the entire production process. Fire drills are an important 
+
+part of our fire safety procedures. In addition, emergency evacuation drills for the entire factory are also conducted. In the 
+
+event of an accident or natural disaster, we are able to activate emergency response measures and limit the potential 
+
+damage.  
+
+We are subject to regular and ad hoc inspections by the local safety authorities to ensure that the requisite safety 
+
+requirements are met before we are allowed to continue with our operations.  
+
+We recognise that environmental monitoring is an ongoing obligation. We will continue to improve our safety and 
+
+environmental protection efforts. We will continue to invest in safety features for our operations.  
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 7 of 23 
+
+ 
+
+
+
+
+
+Employees 
+
+The Group strives to further improve on human resource recruitment, training, appraisal and remuneration management.  
+
+The Group has standardised its form of employment, so as to ensure that the basic rights and interests of employees are 
+
+protected, and to maintain good labour relations. We have purchased all necessary insurance for the employees in 
+
+accordance with the relevant labour laws. We ensure that our employees and our outsourced workers pass the relevant 
+
+health checks, possess social and commercial insurance before they undertake any work at our premises.  
+
+The Group is committed to staff upgrading. Each year, the Group sends employees to attend training, courses and 
+
+seminars relevant to their scope of work, including orientation training for new employees, training for middle and senior 
+
+management, professional training on geological exploration and safety training.  
+
+ 
+
+Social 
+
+We strive to make a positive impact on the lives of people who live in 
+
+the areas where we have a presence. We, as far as possible, employ 
+
+local workers and provide these workers with relevant training and 
+
+skills development. 
+
+The Group is committed to be in strict compliance with the laws, 
+
+responding positively to government policies, paying taxes in due 
+
+course, and helping to improve local employment, thus making 
+
+significant contribution to the local fiscal revenue. 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 8 of 23 
+
+ 
+
+We also participate in local community projects in the vicinity of our 
+
+business operations in Mianzhu City, Sichuan Province, PRC. We seek 
+
+to support and promote local businesses and economic activities by 
+
+engaging them as suppliers.  Whenever possible, we procure our raw 
+
+materials from local suppliers within the vicinity of our operations.  
+
+Figure 1(Photo):  (Sign board at entrance of our downstream 
+
+chemical operations factory premises): “Safety is at our Core" and 
+
+"Focus on Environment: Everyone’s responsibility"   
+
+“安全在心中 追求安全生产是企业发展基础 ;  
+
+环保在手中 参与环保行动是你我他的责任” 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 9 of 23 
+
+ 
+
+
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 10 of 23 
+
+ 
+
+Identifying and prioritizing the Material ESG Factors / ‘Material Topics and Boundaries’ 
+
+ 
+
+We have three levels of disclosure based on the importance of the issues to the Group and its stakeholders. 
+
+Critical Factors /  Focus Areas 
+
+Monitored Activities  
+
+Positions 
+
+We share our views, we measure and evaluate 
+
+performance, and we have set or plan to set 
+
+goals or quantitative targets on the most 
+
+important issues  
+
+We share our views, we measure and evaluate 
+
+performance on these issues to sustain the 
+
+trust and confidence of our stakeholders, and 
+
+for us to be a responsible business  
+
+We share our views on the issues that engage 
+
+public interest and have a bearing on our business  
+
+• 
+
+Energy consumption 
+
+• 
+
+Emissions (GHG/etc) 
+
+• 
+
+Waste/ water management  
+
+• 
+
+Health &amp; Safety 
+
+ 
+
+Targets:  For these material factors, our 
+
+policies and procedures are designed to ensure 
+
+compliance with the applicable laws, rules and 
+
+regulations in the jurisdictions in which we 
+
+operate.   
+
+• 
+
+Corporate conduct / Anti-corruption   
+
+• 
+
+Corporate governance   
+
+• 
+
+Environmental compliance 
+
+• 
+
+Product responsibility  
+
+• 
+
+Forestry / Biodiversity 
+
+• 
+
+Key Stakeholders Engagement / Labour 
+
+relations 
+
+• 
+
+Local communities / supporting local 
+
+employment / economy 
+
+• 
+
+Customer Satisfaction 
+
+• 
+
+Physical &amp; Cyber security 
+
+• 
+
+Work outsourced to third parties (e.g., 
+
+freight and logistics) 
+
+• 
+
+Recycling/Recovery:  P4 flue gas (and 
+
+other waste/ by-products) integrated 
+
+utilisation technology improvement 
+
+• 
+
+Training &amp; education  
+
+• 
+
+Responsible usage of scarce natural 
+
+resources 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 11 of 23 
+
+ 
+
+Environmental Governance:   
+
+. Internal and external environmental monitoring are conducted to ensure compliance with the policies of the Group and 
+
+regulatory requirements 
+
+. Licenced third-party environmental consultants assist with detailed environmental impact assessments for new projects 
+
+and as part of the licence applications process 
+
+ 
+
+Energy Consumption / Emissions 
+
+Chemical operations are energy-intensive.  Efforts are made towards continuous improvement of our operations and 
+
+facilities, i.e. beyond the requirements of applicable PRC environmental laws, rules and regulations. For example, instead 
+
+of releasing the flue gas produced during P4 production into the environment, we collect and used the gas for our other 
+
+downstream operations so as to reduce the impact on the environment (with the benefit of potentially lowering 
+
+production costs for downstream chemicals). 
+
+“The phosphate ore, coke and silica are each dried using the thermal energy from the recycled waste flue gas and then 
+
+stored in appropriate silos from which they are then conveyed in their appropriate rations into the feed bin for the P4 
+
+furnaces.” (WGM QPR, 2018-3-16, Page 20) 
+
+In June 2018, the Group shut down the furnaces for maintenance and has not resumed production due to the lack of 
+
+phosphate rocks, as a result of the Chinese government’s actions which deprive the Group of access to its phosphate rocks 
+
+which is a key raw material for cost efficient production of P4. Our P4 Plant is designed to operate in compliance with 
+
+applicable PRC environmental laws, rules and regulations, and practises water recycling and off gas collection as well as 
+
+slag disposal at a nearby cement operation.  Environmental monitoring and sampling conducted confirmed that 
+
+groundwater/wastewater, emissions/exhaust gas and noise remained within the required national standards.   
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 12 of 23 
+
+ 
+
+
+
+
+
+Waste / water management 
+
+(WGM QPR, 2018-3-16, Page 20 onwards): [Downstream operations] “All the 
+
+water used in the cooling towers and other processes is collected and stored in 
+
+a waste water pool, from where it is treated and then recycled. The waste 
+
+gasses from the cooling tower, which contain about 80-90% CO are captured 
+
+and used as energy for the drying of the raw materials and steam boilers after 
+
+being cleaned and alkali rinsed. The slag is sold for other industrial processes 
+
+including cement manufacture.” 
+
+(WGM QPR, 2018-3-16, Page 53 onwards): “The Plant includes gas scrubbers 
+
+and water treatment facilities to better control environmental issues.  The 
+
+quality of construction at the Plant location, the site layout with more extensive gas scrubbing, and water containment and 
+
+treatment has proven that the Plant provides Mianzhu Norwest with a substantial improvement in their operation and 
+
+better control of any environmental impacts.” 
+
+  (WGM QPR, 2018-3-16, Page 124 onwards):   “The processing plant also has a closed circuit water recycling system, which 
+
+is compliant to Chinese national standard for water treatment for chemical factories. The recycled water is a source of 
+
+supply to daily operations in the processing plant. A back-up diesel generator has also been installed to mitigate any 
+
+disruptions to electricity supply.” 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 13 of 23 
+
+ 
+
+ 
+
+Health &amp; Safety 
+
+Our processing plants were designed to comply with applicable PRC environmental laws, rules and regulations.  
+
+We are subject to regular and ad hoc inspections by the local safety authorities to ensure that the requisite safety 
+
+requirements are met in order to be allowed to continue with our operations. 
+
+The training that we provide can be divided into basic training, compulsory training and supplementary training, and may 
+
+be conducted in-house or outsourced to external trainers. 
+
+Basic training includes orientation training and occupational safety training. Orientation training is conducted to educate 
+
+our new employees on company policies and basic skills and knowledge which would be relevant to their respective job 
+
+functions, such as the operation of relevant machinery and equipment. Occupational safety training is conducted to equip 
+
+our employees on occupational safety and to educate them on safety standards and precautions to be undertaken in the 
+
+course of their work. 
+
+Compulsory training: As required by applicable PRC laws, rules and regulations, including continual professional education 
+
+on an annual basis, in particular for engineers and employees engaged in our chemical production operations. Such 
+
+training is typically organised by the relevant accrediting organisations, governmental bodies and quality assurance 
+
+associations. 
+
+Supplementary training: Conducted to enhance the skills of our employees, including training to update them on the latest 
+
+development trends and technologies and personal improvement. Selected employees may be sent for external short 
+
+term training courses. For example, our finance staff may attend courses and seminars conducted by external 
+
+organisations to keep abreast with changes in accounting requirements. 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 14 of 23 
+
+ 
+
+Key Stakeholders Engagement 
+
+These disclosures give an overview of our Group’s approach to stakeholder engagement.   
+
+Stakeholder consultation is undertaken through formal and informal communication on an ongoing basis.  
+
+Stakeholders 
+
+How we engage 
+
+Key Topics Raised 
+
+Refer to Sections  
+
+Employees 
+
+.Annual performance reviews 
+
+.Workplace health and safety 
+
+.Employment prospects/ continuity of 
+
+business / career advancement / 
+
+health &amp; safety 
+
+‘Our People’ 
+
+Communities  
+
+.Providing employment/ support local 
+
+economy 
+
+.Participate in local community projects 
+
+.EIA 
+
+(Environmental 
+
+Impact 
+
+Assessments) 
+
+/Projects 
+
+&amp; 
+
+Public 
+
+Consultation  
+
+ 
+
+.Financial support to the community 
+
+.Corporate Social Responsibility: 
+
+Social/ Procurement Practices; 
+
+WGM QPR (Chapter 20) 
+
+Government 
+
+and 
+
+Regulatory Bodies 
+
+.Meetings/ Reports/ Applications  
+
+.Site visits  
+
+.Reports from 3rd-party independent 
+
+consultants (e.g. QPR) 
+
+.Environmental matters 
+
+.Compliance 
+
+with 
+
+PRC 
+
+laws 
+
+&amp; 
+
+regulations 
+
+.Applications for conversion/ renewal 
+
+of licences 
+
+.Overall report (SR/AR); 
+
+. WGM QPR;  
+
+.Corporate website 
+
+(‘Announcements’ section) 
+
+Suppliers/ 
+
+Contractors  
+
+.Meetings 
+
+.Procurement 
+
+to 
+
+support 
+
+local 
+
+economy 
+
+. Business continuity 
+
+.Compliance with applicable PRC laws, 
+
+rules &amp; regulations 
+
+.Social/ Procurement Practices 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 15 of 23 
+
+ 
+
+Our People 
+
+As at 31 December 2019, the Group employed a total of 12 employees.  The Group strives to further improve on human 
+
+resource recruitment, training, appraisal and remuneration management. 
+
+The Group has standardised its form of employment, so as to ensure that the basic rights and interests of its employees 
+
+are protected, and to maintain good labour relations. We purchased all necessary insurance for the employees in 
+
+accordance with the relevant labour laws. We ensure that our workers pass the relevant health checks, possess social and 
+
+commercial insurance before they undertake any work at our premises. 
+
+The Group is committed to staff upgrading. Each year, the Group sends employees to attend training, courses and 
+
+seminars relevant to their scope of work, including orientation training for new employees, training for middle and senior 
+
+management, professional training on geological exploration and safety training. 
+
+The employees of Sichuan Mianzhu Norwest Phosphate Chemical Co., Ltd (‘SMNPC’), a subsidiary of the Group that was 
+
+incorporated in the PRC, are organised under a trade union formed to protect the legal interests of such employees. The 
+
+relationship and level of co-operation between our management and the trade union have been strong. There have not 
+
+been any incidences of work stoppages or labour disputes arising from trade union disputes which have affected our 
+
+operations in any material respect. 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 16 of 23 
+
+ 
+
+Social / Procurement Practices 
+
+We strive to make a positive impact on the lives of people who live in the areas where we have a presence. We, as far as 
+
+possible, employ local workers and provide these workers with relevant training and skills development. 
+
+The Group is committed to be in strict compliance with the laws, responding positively to government policies, paying 
+
+taxes in due course, and helping to improve local employment, thus making significant contribution to the local fiscal 
+
+revenue. 
+
+We also participate in local community projects in the vicinity of our business operations in Mianzhu City, Sichuan 
+
+Province, PRC. 
+
+We seek to support and promote local businesses and economic activities by engaging them as suppliers. Whenever 
+
+possible, we procure our raw materials from local suppliers within the vicinity of our operations.   
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 17 of 23 
+
+ 
+
+SGX ‘Primary Components for Sustainability Reporting’ Index (Source:  SGX Practice Note 7F) 
+
+# 
+
+Primary Component  
+
+Section Reference 
+
+1 
+
+Material ESG Factors  
+
+.Identifying and prioritizing the Material ESG Factors / ‘Material Topics 
+
+and Boundaries’ 
+
+ 
+
+ 
+
+2 
+
+Policies, Practices and Performance 
+
+Board Statement / Sustainability Statement of  Management 
+
+ 
+
+3 
+
+Board Statement 
+
+Board Statement / Sustainability Statement of  Management 
+
+ 
+
+4 
+
+Targets  
+
+.Board Statement / Sustainability Statement of  Management 
+
+ 
+
+. Identifying and prioritizing the Material ESG Factors / ‘Material Topics 
+
+and Boundaries’ (Targets = “to ensure compliance with the applicable 
+
+laws, rules and regulations in the jurisdictions in which we operate. ”) 
+
+ 
+
+5 
+
+Framework 
+
+‘About This Report’ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 18 of 23 
+
+ 
+
+
+
+ 
+
+Figure 2(Source:  SGX Practice Note 7F) 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 19 of 23 
+
+ 
+
+GRI Content Index 
+
+GRI Content Index: GRI Standard / Disclosure Number and Title 
+
+Section Reference 
+
+GRI 101: Foundation  
+
+Note:  
+
+‘AR’ =Annual Report 
+
+‘SR’ = Sustainability Report  
+
+General Disclosures 
+
+ 
+
+GRI 102: General Disclosures 
+
+ 
+
+102-1 Name of the organization 
+
+AR, SR (Front Cover) 
+
+102-2 Activities, brands, products, and services 
+
+AR (Inside Front Cover, ‘About Us’ section)  
+
+102-3 Location of headquarters 
+
+AR (Back Cover) 
+
+102-4 Location of operations 
+
+AR (Inside Front Cover, ‘About Us’ section) 
+
+102-5 Ownership and legal form 
+
+AR (‘Substantial Shareholders’ / ‘Statistics of Shareholdings’ 
+
+section) 
+
+102-6 Markets served 
+
+AR (‘Message to Shareholders’; ‘Segment Information’) 
+
+102-7 Scale of the organization 
+
+AR (‘Financial Review’, (‘Corporate Social Responsibility’), 
+
+‘Our People’’)  
+
+102-8 Information on employees and other workers 
+
+‘Our People’, AR (‘Corporate Social Responsibility’) 
+
+102-9 Supply chain 
+
+‘Our People’, AR (‘Corporate Social Responsibility’) 
+
+102-10 Significant changes to the organization and its supply chain 
+
+AR (‘Message To Shareholders’) 
+
+102-11 Precautionary Principle or approach 
+
+AR (‘Corporate Social Responsibility’) 
+
+102-13 Membership of associations 
+
+ 
+
+CEO and Executive Director Dr Ong Hian Eng is a member 
+
+of the Singapore-Sichuan Trade &amp; Investment Committee 
+
+(SSTIC).   
+
+ 
+
+ 
+
+2. Strategy  
+
+ 
+
+102-14 Statement from senior decision-maker(s) 
+
+Sustainability 
+
+Statement 
+
+of 
+
+the 
+
+Board/Management,  
+
+AR (‘Message to Shareholders’) 
+
+102-15 Key impacts, risks, and opportunities  
+
+AR (‘Message to Shareholders’) 
+
+ 
+
+ 
+
+3. Ethics and integrity   
+
+ 
+
+102-16 Values, principles, standards, and norms of behaviour 
+
+‘About This Report’ 
+
+102-17 Mechanisms for advice and concerns about ethics  
+
+Annual Report (‘Report on Corporate Governance’ (refer 
+
+sub-sections on Internal Audit;  Whistle-blowing policy); 
+
+Independent Auditors’ Report ) 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 20 of 23 
+
+ 
+
+GRI Content Index: GRI Standard / Disclosure Number and Title 
+
+Section Reference 
+
+4. Governance  
+
+ 
+
+102-18 Governance structure 
+
+Annual Report (‘Board of Directors’, ‘Report on Corporate 
+
+Governance’) 
+
+ 
+
+ 
+
+5. Stakeholder engagement  
+
+ 
+
+102-40 List of stakeholder groups 
+
+‘Key Stakeholders Engagement’ 
+
+102-41 Collective bargaining agreements 
+
+‘Our People’ 
+
+102-42 Identifying and selecting stakeholders 
+
+‘Key Stakeholders Engagement’ 
+
+102-43 Approach to stakeholder engagement 
+
+‘Key Stakeholders Engagement’ 
+
+102-44 Key topics and concerns raised  
+
+‘Key Stakeholders Engagement’;  
+
+‘Material Topics and Boundaries’ 
+
+ 
+
+ 
+
+6. Reporting practice  
+
+ 
+
+102-45 Entities included in the consolidated financial statements 
+
+ 
+
+102-46 Defining report content and topic Boundaries 
+
+‘About this Report’ 
+
+102-47 List of material topics 
+
+Identifying and prioritizing the Material ESG Factors / 
+
+‘Material Topics and Boundaries’ 
+
+102-48 Restatements of information 
+
+N.A. (First Report) 
+
+102-49 Changes in reporting 
+
+N.A. (First Report) 
+
+102-50 Reporting period 
+
+‘About this Report’ 
+
+102-51 Date of most recent report (prior to this report) 
+
+31 December 2018 
+
+102-52 Reporting cycle 
+
+Annually (31 December 2017 = first report) 
+
+102-53 Contact point for questions regarding the report 
+
+http://asiaphos.com/contact.php 
+
+102-54 Claims of reporting in accordance with the GRI Standards 
+
+‘About This Report’ 
+
+102-55 GRI content index 
+
+‘GRI Content Index’ (this section) 
+
+102-56 External assurance 
+
+We will aim to comply with prevailing SGX SR rules 
+
+ 
+
+ 
+
+MATERIAL TOPICS 
+
+Identifying and prioritizing the Material ESG Factors / 
+
+‘Material Topics and Boundaries’ 
+
+Economic |  Economic Performance 
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  201:  Direct economic value generated and distributed 
+
+Annual Report (Statement of Comprehensive Income) 
+
+ 
+
+ 
+
+Economic |  Indirect Economic Impacts 
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  203-2:  Significant indirect economic impacts 
+
+[Local Communities]  
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 21 of 23 
+
+ 
+
+GRI Content Index: GRI Standard / Disclosure Number and Title 
+
+Section Reference 
+
+ 
+
+ 
+
+Economic |  Procurement Practices 
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  204:  Proportion of spending on local suppliers 
+
+Social/ Procurement Practices:  No specific % target; 
+
+however, we endeavour to support and promote local 
+
+businesses and economic activities by engaging them as 
+
+suppliers. We currently procure our raw materials from local 
+
+suppliers within the vicinity of our operations.     
+
+ 
+
+ 
+
+Economic |  Anti-Corruption  
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  205:  205-1:  Operations assessed for risks related to corruption 
+
+Annual Report (‘Report on Corporate Governance’ (refer 
+
+sub-sections on Internal Audit;  Whistle-blowing policy); 
+
+Independent Auditors’ Report ) 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Environmental |  Energy  
+
+Identifying and prioritizing the Material ESG Factors / 
+
+‘Material Topics and Boundaries’ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+Energy Consumption / Emissions 
+
+GRI  302:  302-1:  Energy Consumption within the organisation 
+
+ 
+
+ 
+
+ 
+
+Environmental |  Emissions  
+
+Energy Consumption / Emissions 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  305:  305-1:  Direct greenhouse gas emissions (Scope 1) 
+
+ 
+
+GRI  305:  305-2:  Energy Indirect greenhouse gas emissions (Scope 2) 
+
+ 
+
+ 
+
+ 
+
+Environmental |  Water  
+
+Identifying and prioritizing the Material ESG Factors / 
+
+‘Material Topics and Boundaries’ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+(Waste / water management) 
+
+GRI  303:  303-1:  Water withdrawal by source / Interactions with water as a shared resource 
+
+ 
+
+GRI  303:  303-2:  Management of water discharge-related impacts  
+
+ 
+
+GRI  303:  303-3:  Water withdrawal 
+
+ 
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 22 of 23 
+
+ 
+
+GRI Content Index: GRI Standard / Disclosure Number and Title 
+
+Section Reference 
+
+Environmental |  Biodiversity  
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  304:  304-1:  Operational sites owned, leased, managed in, or adjacent to, protected areas and areas of high 
+
+biodiversity value outside protected areas 
+
+Our chemical operations are located in a designated 
+
+chemical industrial park, i.e. away from protected areas. 
+
+GRI  304:  304-2:  Significant impacts of activities, products, and services on biodiversity 
+
+ 
+
+ 
+
+ 
+
+Environmental |  Effluents and Waste  
+
+Identifying and prioritizing the Material ESG Factors / 
+
+‘Material Topics and Boundaries’ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+(Energy Consumption / Emissions) 
+
+GRI  306:  306-1:  [Water discharge by quality and destination  ] 
+
+(Waste / water management) 
+
+ 
+
+ 
+
+Environmental |  Compliance  
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI  307:  307-1:  Non-compliance with environmental laws and regulations 
+
+We believe we are compliant with (and target to meet/ 
+
+exceed) applicable laws &amp; regulations. Refer WGM QPR 
+
+(section ‘Environmental and Rehabilitation’; ‘Environmental 
+
+Studies, Permit, and Social or Community Impact’).   
+
+Social | Occupational Health and Safety 
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+CSR ‘Environmental &amp; Safety’; ‘Health and Safety’ (Training) 
+
+GRI  403:  403-1:  Occupational health and safety management system 
+
+CSR ‘Environmental &amp; Safety’; ‘Health and Safety’ (Training) 
+
+GRI  403:  403-2:  Hazard identification, risk assessment, and incident investigation 
+
+CSR ‘Environmental &amp; Safety’; ‘Health and Safety’ 
+
+(Training).   
+
+Social | Training and Education 
+
+ 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+‘Our People’ 
+
+GRI  404:  404-2:  Programs for upgrading employee skills and transition assistance programs 
+
+ 
+
+Social | Local Communities 
+
+Corporate Social Responsibility: Social / Procurement 
+
+Practices 
+
+GRI 103:  103-1 to 103-3  Disclosures of Management Approach (‘DMA’) 
+
+ 
+
+GRI 413:  413-1  :  Operations with local community engagement, impact assessments, and development programs 
+
+Social/ Procurement Practices:  We endeavour to support 
+
+and promote local businesses and economic activities by 
+
+engaging them as suppliers. We currently procure our raw 
+
+materials from local suppliers within the vicinity of our 
+
+operations.     
+
+ 
+
+ 
+
+
+Version:  2020-Apr-25   3:37 PM 
+
+Page 23 of 23 
+
+ 
+
+ 
+

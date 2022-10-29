@@ -1,0 +1,1896 @@
+
+ 
+
+1 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+SUSTAINABILITY REPORT 
+
+FOR 2020 
+
+ 
+
+
+
+
+ 
+
+2 
+
+TRICKLESTAR LIMITED  
+
+ 
+
+SUSTAINABILITY REPORT 2020  
+
+CONTENTS 
+
+ 
+
+ABOUT THIS REPORT .............................................................................................. 3 
+
+Reporting scope and standard ................................................................................ 3 
+
+BOARD STATEMENT ................................................................................................ 4 
+
+COMPANY PROFILE ................................................................................................. 5 
+
+SUSTAINABILITY GOVERNANCE STRUCTURE ..................................................... 5 
+
+STAKEHOLDER ENGAGEMENT .............................................................................. 6 
+
+MANAGEMENT APPROACH .................................................................................... 7 
+
+MATERIALITY ............................................................................................................ 7 
+
+Identification of material factors .............................................................................. 7 
+
+ECONOMIC PERFORMANCE ................................................................................... 8 
+
+GOVERNANCE .......................................................................................................... 9 
+
+Corporate Governance and Compliance ................................................................ 9 
+
+Risk Management ................................................................................................... 9 
+
+Anti-Corruption ....................................................................................................... 9 
+
+Whistleblowing ...................................................................................................... 10 
+
+SOCIAL .................................................................................................................... 10 
+
+Employment Diversity and Equality ...................................................................... 10 
+
+Employee Turnover .............................................................................................. 11 
+
+Workplace Health and Safety ............................................................................... 11 
+
+Child Labor, Forced or Compulsory Labor ............................................................ 12 
+
+ENVIRONMENT ....................................................................................................... 12 
+
+Supply Chain ........................................................................................................ 12 
+
+Energy and Materials Reduction ........................................................................... 13 
+
+Use of Sustainably Sourced Packaging ................................................................ 13 
+
+Plastics Reduction ................................................................................................ 13 
+
+Avoidance of Conflict Minerals ............................................................................. 13 
+
+GRI Content Index: Core Option .............................................................................. 14 
+
+ 
+
+
+ 
+
+3 
+
+ABOUT THIS REPORT 
+
+Reporting scope and standard 
+
+TrickleStar was admitted to the Catalist Market of the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) on 18 June 2019 following a restructuring exercise. In 
+
+accordance with the Rules of Catalist, this inaugural standalone Sustainability Report 
+
+(“Report”) of TrickleStar Limited (“Tricklestar”), an expression that includes its 
+
+subsidiaries where the context allows) is for the financial year ended 31 December 
+
+2020.  
+
+This Report has been prepared in accordance with the Global Reporting Initiative 
+
+(“GRI”) Standards: Core Option (“GRI Standards”) – G4 Sustainability Reporting 
+
+Guidelines issued by the Global Sustainability Standards Board.  This Report is guided 
+
+by Practice Note 7F of the Sustainability Reporting Guide under the SGX-ST Listing 
+
+Manual Section B: Rules of Catalist (“Catalist Rules”). 
+
+TrickleStar has adopted the GRI framework in reporting by considering its activities, 
+
+impacts and substantive expectations and interests of its stakeholders. At this time, 
+
+TrickleStar has highlighted four principles for its direction in sustainability: economic, 
+
+environmental, social and governance (“EESG”). 
+
+Given that this is theTrickleStar’s inaugural report, TrickleStar will work towards 
+
+expanding the scope of its Sustainability Reporting through the process of target 
+
+setting and gathering performance data for the purpose of qualifiying progress for 
+
+futher reports. 
+
+Please refer to Page 14 for the GRI Content Index which summarises the relevant 
+
+information disclosed as per GRI Standards requirements. 
+
+We have not sought external assurance for this Report and may consider doing so in 
+
+the future. 
+
+In line with TrickleStar’s commitment to environmental sustainability, no hardcopies of 
+
+this Report have been printed. The Report can be viewed on our website 
+
+https://www.tricklestar.com/investors.html 
+
+We welcome feedback and suggestions from our stakeholders on this Report or on 
+
+TrickleStar’s sustainability initiatives.  You may contact us through our investor 
+
+relations email at investor.relations@tricklestar.com. 
+
+ 
+
+
+ 
+
+4 
+
+BOARD STATEMENT 
+
+The Board of Directors (“Board”) is always mindful of its responsibilities to 
+
+TrickleStar’s shareholders and various stakeholders to create and deliver sustainable 
+
+value and long term success through its leadership and oversight of management of 
+
+TrickleStar’s business.  
+
+Identified key EESG factors for TrickleStar have been recommended by management, 
+
+and are reviewed and approved by the Board. Sustainability is a part of TrickleStar’s 
+
+wider strategy to create long term value for all its stakeholders. Going forward, 
+
+TrickleStar will continue its efforts to further build on its sustainability efforts together 
+
+with its key stakeholders. 
+
+This Report is prepared in relation to TrickleStar’s EESG initiatives and performance 
+
+in 2020. When considering EESG, the Board is mindful that: 
+
+• 
+
+TrickleStar produces energy-optimization products, which, by definition, are 
+
+aimed to benefit the environment; 
+
+• 
+
+Manufacturing and assembly of its products are contracted out; and 
+
+• 
+
+TrickleStar had 19 employees at the end of 2020 
+
+For the accuracy of data monitoring and verification of this Report, we have used 
+
+internal and publicly available resources only. Data and information in this Report have 
+
+not been verified by an independent third party. 
+
+Stakeholders should note that, with the planned expansion of products and sales 
+
+volumes, TrickleStar will require time to collect and consider data to set targets for 
+
+EESG in all relevant categories under normal operational circumstances. To ensure 
+
+reporting quality, we have observed the principles of balance, comparability, accuracy, 
+
+timeliness, clarity and reliability. 
+
+TrickleStar is committed to its stakeholders, which includes employees, business 
+
+partners and consumers who use TrickleStar’s energy-efficient products. TrickleStar 
+
+employs strategies that are aimed to reduce manufacturing costs and take advantage 
+
+of scale through contracts relating to manufacturing and assembly of products, while 
+
+building its brand and protecting its technical know-how. 
+
+TrickleStar’s Board recognizes the need to adopt a sustainable approach in relation to 
+
+policies, strategies and major decisions. TrickleStar’s goals are to become the world 
+
+leader in intelligent, internet-connected, energy-saving products; and improve and 
+
+simplify the way electric utilities around the world deploy demand response solutions.  
+
+Therefore, TrickleStar will continue to introduce new energy-optimization products with 
+
+customized applications and diversify the manufacture and assembly of its products 
+
+by sub-contractors. TrickleStar intends to grow in a way where its environmental 
+
+impact is minimized, employees are treated fairly and good governance and ethical 
+
+business practices are adhered to. 
+
+ 
+
+ 
+
+
+ 
+
+5 
+
+COMPANY PROFILE 
+
+TrickleStar was formed in 2008 through the incorporation of TrickleStar Limited in 
+
+Hong Kong. TrickleStar Limited, Singapore is an investment holding company that 
+
+listed on the Catalist Board of Singapore Exchange Securities Trading Limited (“SGX-
+
+ST”) on 18 June 2019. TrickleStar’s business is design and supply of affordable energy 
+
+optimization products that help minimise environmental impact by reducing energy 
+
+wastage. For more details, please refer to the Corporate Profile and Our Products 
+
+section in the 2020 Annual Report which is available through the Investors section of 
+
+our website at https://www.tricklestar.com/investors.html and our company Listing 
+
+Profile on SGX-ST. 
+
+ 
+
+SUSTAINABILITY GOVERNANCE STRUCTURE 
+
+The Board sets the tone, drives sustainability and is responsible for the approach and 
+
+integration of sustainability principles. The Chief Executive Officer (who is also 
+
+Executive Chairman of the Board) is closely involved in the development and 
+
+refinement of sustainability policies and initiatives. Following the direction set out by 
+
+the Board, the Chief Executive Officer oversees the day-to-day execution and 
+
+adherence of sustainability policies and practices, including tracking TrickleStar’s 
+
+performance against material matters. 
+
+ 
+
+The sustainability governance structure below helps TrickleStar to achieve and 
+
+advance its sustainability goals. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+6 
+
+ 
+
+STAKEHOLDER ENGAGEMENT 
+
+We engage with our stakeholders to align our subtainability approach with their 
+
+expections to better understand the material factors that will impact them. The table 
+
+below sets out the platforms through which we engaged key stakeholders during 2020, 
+
+the period under review:  
+
+Stakeholders 
+
+Engagement platform 
+
+Frequency 
+
+of 
+
+engagement 
+
+Main Interest/Concerns 
+
+Employees  
+
+• 
+
+Open dialogues 
+
+• 
+
+Annual performance 
+
+review  
+
+Formal 
+
+Annual / Ad 
+
+hoc as 
+
+required 
+
+• Employee welfare and benefits 
+
+• Safe working environment 
+
+• Work-life balance 
+
+• Training and development 
+
+needs  
+
+Government 
+
+and regulators  
+
+• 
+
+Regular reports 
+
+• 
+
+Meetings 
+
+SGX-ST announcements  
+
+Annual/ 
+
+As required 
+
+• Corporate governance 
+
+• Compliance with laws and 
+
+regulations  
+
+Investors and 
+
+shareholders  
+
+• 
+
+Annual reports and 
+
+circulars  
+
+• 
+
+Sustainability reports  
+
+• 
+
+Annual General Meetings  
+
+• 
+
+Extraordinary General 
+
+Meetings  
+
+• 
+
+SGX-ST announcements 
+
+/ press release  
+
+Annual/ half-
+
+yearly/ As 
+
+required 
+
+• Stable and sustainable growth 
+
+and profitability  
+
+• Reasonable returns to 
+
+shareholders  
+
+• Corporate governance  
+
+• Financial performance and 
+
+stability  
+
+Business 
+
+partners  
+
+• 
+
+Regular dialogues and 
+
+meetings  
+
+• 
+
+E-mail communication 
+
+• 
+
+Phone calls 
+
+As required  
+
+• Quality of products and 
+
+services  
+
+• Financial stability 
+
+• Fair payment terms  
+
+Customers  
+
+• 
+
+Regular dialogues and 
+
+meetings  
+
+• 
+
+Website inquiries  
+
+• 
+
+E-mail and phone 
+
+inquiries  
+
+• 
+
+Trade partner inquiries 
+
+(such as Amazon) 
+
+As required  
+
+• Quality and pricing of products 
+
+and services  
+
+Banker 
+
+• 
+
+Meetings 
+
+• 
+
+Informal discussions  
+
+As required  
+
+• Compliance with covenants  
+
+• Financial performance and 
+
+stability  
+
+• Business outlook  
+
+• Future banking needs  
+
+
+ 
+
+7 
+
+We recognize that TrickleStar’s sustainable growth and stable long-term returns 
+
+require continuous engagement with stakeholders. As TrickleStar grows and expands 
+
+its range of energy-optimization products, we intend to improve our employees’ 
+
+understanding of the impact of sustainability, improve disclosures on EESG practices 
+
+and consider engaging various stakeholder groups in identifying material factors for 
+
+subsequent sustainability reporting. 
+
+In due course, we aim to identify and set targets for sustainability matters that are 
+
+material to our business and important for our stakeholders. 
+
+At this time, our key stakeholders outside of shareholders are customers and contract 
+
+manufacturers. The success of our businesses is inherently intertwined with the 
+
+satisfaction of our customers.  In some cases, the success of our customers e.g. utility 
+
+distributors, is also of high importance as they have set goals that they expect to 
+
+achieve through distribution of our products to end users. 
+
+We remain committed to working with all customers on their requirements and 
+
+applications of our energy-optimization products and to contribute to our customers’ 
+
+successes in achieving their goals. 
+
+MANAGEMENT APPROACH 
+
+With regards to materiality, this Report addresses factors that reflect TrickleStar’s 
+
+significant economic, environmental and social impacts, which we believe influence 
+
+the assessments and decisions of stakeholders. TrickleStar has conducted an 
+
+informal survey with management to determine key material sustainability factors. 
+
+Moving into 2022, TrickleStar will put in place measures to monitor additional 
+
+sustainability factors that are aimed to help TrickleStar grow in a responsible and 
+
+sustainable manner. 
+
+MATERIALITY 
+
+Identification of material factors 
+
+For the first time in 2019, management conducted a formal evaluation of TrickleStar’s 
+
+risk profile using the Materiality Determination Process Tools as listed in the 
+
+Sustainability Reporting Guide, Practice Note 7F of the Catalist Rules. The 
+
+assessment aimed to identify economic, environmental, social and governance risks 
+
+and opportunities that could have an impact on TrickleStar’s business. This profile, 
+
+which was updated in 2020, has guided the contents of this Report and our overall 
+
+sustainability agenda.  
+
+TrickleStar has identified the following material factors through the analysis and will 
+
+continue to adjust and address these material EESG factors.   
+
+ 
+
+ 
+
+
+ 
+
+8 
+
+As TrickleStar widens the scope of its investigation into the impacts of its business, we 
+
+intend to establish performance targets for material areas and explain the progress we 
+
+have made in those areas in our subsequent sustainability reports. We also plan to 
+
+engage frequently with our stakeholders to better understand their materiality concerns. 
+
+ECONOMIC PERFORMANCE 
+
+TrickleStar’s growth and its performance in relation to environmental, social and 
+
+governance factors are interconnected. Since TrickleStar was listed on the Catalist Board 
+
+of the SGX-ST in June 2019 (SGX-ST: CYW), our financials are publicly available.  For 
+
+TrickleStar’s financial performance, please refer to the Performance Review, Financial 
+
+Statements, and Notes to Financial Statements in the 2020 Annual Report and our 
+
+financial statements for the six months ended 30 June 2021, which are available through 
+
+our Investors section of our website and our company listing profile on SGX-ST. 
+
+To date, our primary source of revenue has been through the sales of advanced power 
+
+strips and surge protectors mainly through distributors to utility companies in USA and 
+
+Canada.  
+
+TrickleStar seeks to achieve long-term sustainable growth through strengthening its core 
+
+business by introducing new, energy-optimization products and raising market 
+
+awareness of its products and their economic and social benefits. The first of these new 
+
+products began mass production in the second half of 2021. 
+
+We believe that we are on track for future growth as we introduce new products, raise 
+
+sales volumes, increase market share and distribute our proprietary products through 
+
+established lines as well as distribution networks in new markets. 
+
+
+
+
+ 
+
+9 
+
+GOVERNANCE 
+
+TrickleStar is committed to upholding high standards of corporate governance and 
+
+regulatory compliance, ensuring the sustainability of our business while safeguarding 
+
+our stakeholders’ interests and value in the long term. We commit to conduct our 
+
+business with integrity and also require the Board and management to comply with all 
+
+laws and regulations.  We aim to achieve a target of nil incidents of non-compliance. 
+
+We are committed to upholding high standards of corporate transparency and 
+
+disclosures. We comply with the principles and guidelines set out in the Singapore 
+
+Revised Code of Corporate Governance 2018. Our latest Corporate Governance 
+
+Report can be found in the 2020 Annual Report. 
+
+Corporate Governance and Compliance 
+
+TrickleStar strives to maintain a high standard of corporate governance to safeguard 
+
+the interests of all its stakeholders.  
+
+In 2020, there were no incidences of non-compliance with laws and/or regulations 
+
+resulting in fines and sanctions. We aim to maintain good corporate governance track 
+
+records.  
+
+Risk Management  
+
+TrickleStar has in place several risk management measures to manage its exposure 
+
+to risk associated with our business and to safeguard shareholders’ interest. A 
+
+comprehensive set of internal controls for key operations’ processes have been put in 
+
+place to address financial, operational, compliance, information technology and risk 
+
+management. These are reviewed by the Board. For further details, please refer to the 
+
+Corporate Governance Report in the 2020 Annual Report. Going forward, TrickleStar 
+
+will endeavor to develop its risk management measures further as its business evolves.  
+
+Anti-Corruption 
+
+TrickleStar will not compromise on corruption and has a zero-tolerance position on 
+
+fraudulent or corrupt practices. TrickleStar has policies to support this stance, such as 
+
+an Anti-Corruption, Foreign Corrupt Practices Act and No Gift Policy, Conflict of 
+
+Interest Policy and Whistleblowing Policy, to prevent, govern and facilitate the 
+
+reporting of any illegal and/or unethical practices. The Anti-Corruption, Foreign 
+
+Corrupt Practices and No Gift Policy and Whistleblowing Policy are published at our 
+
+website, www.tricklestar.com. These matters are referred to in our Corporate 
+
+Governance Report in our 2020 Annual Report. 
+
+ 
+
+ 
+
+
+ 
+
+10 
+
+Whistleblowing 
+
+TrickleStar is committed to the highest standards of integrity and openness, and 
+
+maintains a high standard of accountability in the conduct of its business and 
+
+operations. TrickleStar has established a Whistleblowing Policy for employees and 
+
+other stakeholders to raise, in confidence, concerns of misconduct and possible 
+
+improprieties so that appropriate remedial action can be taken if concerns are deemed 
+
+legitimate. 
+
+All whistleblowing complaints will be reviewed by the Audit Committee to ensure 
+
+independent,thorough investigation and appropriate follow-up. 
+
+In 2020, there were no whistleblowing reports received. 
+
+SOCIAL 
+
+Employment Diversity and Equality 
+
+TrickleStar does not discriminate against employees or potential recruitments 
+
+according to race, age, gender, religion, ethnicity, physical impairments, sexual 
+
+preference, political viewpoints or nationality. Unlawful discrimination is a serious 
+
+offense in TrickleStar. TrickleStar has in place an employee handbook and human 
+
+resources manual that adheres to the legislation and guidelines in the relevant 
+
+countries of operation.  
+
+In 2020, there were no employee complaints received with regards to discrimination 
+
+in the workplace. 
+
+Our hiring practices are on the basis of merit such as skill and experience regardless 
+
+of age, race, gender, religion or marital status. We value the diversity of our workforce 
+
+and have an equal remuneration policy regardless of gender and nationality. The 
+
+number of new employees in 2020 totaled 5.  
+
+Breakdown of new employees by region, age range and gender.  
+
+ 
+
+TrickleStar’s employees are a key to success and achievement of our goals. We 
+
+believe in staff development to widen the values of our employees, to assist them to 
+
+contribute further to the success of our businesses.  
+
+At the end of 2020, the total number of our employees in both Malaysia and U.S.A was 
+
+19.  
+
+ 
+
+ 
+
+ . 
+
+Malaysia 
+
+USA 
+
+ 
+
+Age range 
+
+Male 
+
+Female 
+
+Male 
+
+Female 
+
+Total 
+
+&gt;=30 to  &lt;40 
+
+ 
+
+1 
+
+1 
+
+1 
+
+3 
+
+&gt;=40 to &lt;50 
+
+ 
+
+1 
+
+ 
+
+ 
+
+1 
+
+&gt;=50 
+
+1 
+
+ 
+
+ 
+
+ 
+
+1 
+
+Grand Total 
+
+1 
+
+2 
+
+1 
+
+1 
+
+5 
+
+
+ 
+
+11 
+
+An analysis of employees by region, gender, contract (permanent/contract) and 
+
+employment type (full-time/part-time) can be found below 
+
+ 
+
+ 
+
+Employee Turnover 
+
+The employee turnover rate in 2020 was 23%. 
+
+As the organization grows and matures, particularly with the increase in sales volumes 
+
+and expectations of listed companies, we have to support the growth by increasing 
+
+our workforce. 
+
+Long and short-term incentives are granted to eligible employees based on their 
+
+performance and contributions to TrickleStar. We conduct an annual performance 
+
+review facilitated with an open discussion on the staff’s performance for all employees. 
+
+Remuneration policies and packages are reviewed regularly to ensure that 
+
+compensation and benefits are in line with the industry and country norms, which helps 
+
+TrickleStar in our recruitment and retention of talent. 
+
+Workplace Health and Safety 
+
+TrickleStar is committed to providing employees with a healthy and safe working 
+
+environment. TrickleStar has focused on creating a culture which requires all members 
+
+of our workforce to create a safe work environment. We aim to identify and manage 
+
+occupational risks, minimize occurrences of occupational illness and promote healthy 
+
+lifestyles with a work-life balance.  
+
+ 
+
+ 
+
+
+
+
+ 
+
+12 
+
+The Board and management were quick to form an organized response to the Covid19 
+
+pandemic. Our priority was to ensure the health and safety of our employees. 
+
+Implementation of robust measures were taken that were at least in line with 
+
+government mandated precautions to ensure the well-being of our employees. Our 
+
+employees were directed to work from home during lockdown periods, and TrickleStar 
+
+kept in close contact with all employees to ensure they had the right resources at home 
+
+and were adapting to the new working conditions. 
+
+In FY2020, there were no work-related incident, injuries and illness at our workplace. 
+
+Child Labor, Forced or Compulsory Labor 
+
+TrickleStar does not tolerate child labor, forced labor or compulsory labor, in any of its 
+
+operations. We are firmly opposed to all forms of child exploitation and forced labor. 
+
+We will not engage with any company in our supply chain that does not share the 
+
+same views on zero tolerance for child or forced labor.  
+
+ENVIRONMENT 
+
+Supply Chain  
+
+TrickleStar is selective in choosing its business partners. We carefully check the 
+
+reputation of each of our main suppliers and contract manufacturers and, to date, we 
+
+have had no cause for concern. 
+
+Currently, we outsource all manufacturing to selected companies that comply with all 
+
+necessary safety regulations. This results in economies of scale and also reduces 
+
+TrickleStar’s footprint in emissions and transporting products. We assess and re-
+
+evaluate the performance of the sub-contractors regularly. Immediate feedback will be 
+
+provided to our business partners when issues arise. To date, we have not had any 
+
+environmental or other issues of concern with any of our business partners.  
+
+In 2021, we undertook an initial review of the sustainable and EESG policies of our 
+
+main sub-contractors. The review confirmed that their approach to EESG is in line with 
+
+TrickleStar’s own objectives as outlined in this Report. We believe that like-minded 
+
+business partners that share our commitment to sustainability will mitigate operational 
+
+and reputation risks.  
+
+TrickleStar endeavors to minimize the negative effects of conducting its business 
+
+whenever feasible.  Our principle contract manufacturers and product assemblers 
+
+conform to recognized quality and safety standards, including internationally 
+
+recognized standards of ISO 9001, ISO 14001:2015 and ISO 45001:2018. 
+
+TrickleStar’s proprietary brands and products conform to international standards and 
+
+requirements in the markets in which we sell, including the UL, ETL, FCC, IC and CE 
+
+certifications. 
+
+
+ 
+
+13 
+
+Energy and Materials Reduction  
+
+TrickleStar has undertaken environmentally-friendly measures to reduce energy 
+
+usage and office consumables. In the future, we are looking to implement additional 
+
+initiatives to maximize the use of recyclable materials in the production and packaging 
+
+of our products. We will be performing benefit reviews in 2021 and 2022 on these 
+
+initiatives before making any decisions. 
+
+As to the benefits that are derived from the use of TrickleStar products, various 
+
+assumptions must be made to quantify the energy savings. These include the level of 
+
+kWh of electricity saved by use of each the products, which we have quantified based 
+
+on the assumptions as below: 
+
+• A TrickleStar Advanced PowerStrip (“APS”) Tier 1 product saves 75 kWh pa 
+
+based on the research by NYSERDA’s “Advanced Power Strip Research 
+
+Report, Final Report August 2011” and/or “RLPNC 17-3: Advanced Power 
+
+Strip Metering Study, March 18, 2019” by NMR Group; and 
+
+• APS Tier 2 product saves 141 kWh pa based on the research by RLPNC 17-
+
+3: Advanced Power Strip Metering Study, March 18, 2019” by NMR Group Inc. 
+
+Using these assumptions and the EPA’s calculator: 
+
+• APS Tier 1 products help save 452,989,500 kWh energy over their expected 
+
+lifetimes,  
+
+• APS Tier 2 products help save 232,121,250 kWh energy over their expected 
+
+lifetimes.  
+
+• We have helped our customers save USD75,365,183 in energy demand costs. 
+
+• This saved energy is also equivalent to 485,526 metric tons of CO2 
+
+• This 485,526 metric tons of  CO2  emissions are equivalent to planting 594,856 
+
+forested acres of trees or removing 105,592 cars from the road or 
+
+decommissioning  0.122 coal-fired power plants in one year. 
+
+Use of Sustainably Sourced Packaging 
+
+TrickleStar is committed to the use of paper-based packaging sourced from 
+
+sustainably sourced materials. TrickleStar will work to transition in usage of 
+
+sustainably sourced cardboard and paper at all contract manufacturing facilities and 
+
+ensure all paper based packaging is certified. 
+
+Plastics Reduction 
+
+TrickleStar is committed to the reduction of plastics used in packaging of products. 
+
+Where possible, use of plastics will be eliminated and we will work to transition to the 
+
+use of certified, biodegradable plastics moving forward. 
+
+Avoidance of Conflict Minerals 
+
+TrickleStar is committed to the ban of usage of conflict minerals in products. 
+
+TrickleStar will require sub-contractors to verify and confirm that conflict minerals are 
+
+not used in their factories or products that they produce for TrickleStar. 
+
+
+ 
+
+14 
+
+GRI CONTENT INDEX: CORE OPTION  
+
+ 
+
+Note: FY2020 Annual Report is available at: 
+
+https://www.tricklestar.com 
+
+ 
+
+GRI STANDARDS 
+
+ 
+
+REPORT REFERENCE 
+
+PAGE 
+
+GRI-102: GENERAL DISCLOSURES 
+
+ 
+
+ 
+
+ 
+
+1. Organisational profile 
+
+ 
+
+ 
+
+ 
+
+102-1 
+
+Name of the organisation 
+
+ 
+
+About this Report 
+
+3 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+ 
+
+Corporate website: 
+
+https://www.tricklestar.com 
+
+- 
+
+102-3 
+
+Location of headquarters 
+
+ 
+
+Corporate website  
+
+- 
+
+102-4 
+
+Location of operations 
+
+ 
+
+FY2020 Annual Report (Pg 2) 
+
+- 
+
+102-5 
+
+Ownership and legal form 
+
+ 
+
+FY2020 Annual Report (Pg 2) 
+
+- 
+
+102-5 
+
+Market served 
+
+ 
+
+FY2020 Annual Report (Pg 2) 
+
+- 
+
+102-7 
+
+Scale of the organisation 
+
+ 
+
+FY2020 Annual Report (Pg 2) 
+
+- 
+
+102-8 
+
+Information on employees and 
+
+other workers 
+
+ 
+
+Employment Diversity and 
+
+Equality 
+
+10 
+
+102-9 
+
+Supply chain 
+
+ 
+
+Supply Chain 
+
+12 
+
+102-10 
+
+Significant changes to 
+
+organisation and its supply chain 
+
+ 
+
+FY2020 Annual Report (Pg 5) 
+
+- 
+
+102-11 
+
+Precautionary principle or 
+
+approach 
+
+ 
+
+Workplace Health and Safety 
+
+11 
+
+102-12 
+
+External initiatives 
+
+ 
+
+Not applicable 
+
+- 
+
+102-13 
+
+Membership of associations 
+
+ 
+
+Corporate member of 
+
+Singapore Business 
+
+Federation (SBF) 
+
+- 
+
+2. Strategy 
+
+ 
+
+ 
+
+ 
+
+102-14 
+
+Statement from senior decision 
+
+maker 
+
+ 
+
+Board Statement 
+
+4 
+
+3. Ethics and integrity 
+
+ 
+
+ 
+
+ 
+
+102-16 
+
+Values, principles, standard, and 
+
+norms of behaviour 
+
+ 
+
+Risk Management  
+
+9 
+
+4. Governance 
+
+ 
+
+ 
+
+ 
+
+102-18 
+
+Governance structure 
+
+ 
+
+Corporate Governance and 
+
+Compliance 
+
+9 
+
+5. Stakeholder Engagement 
+
+ 
+
+ 
+
+ 
+
+102-40 
+
+List of stakeholder groups 
+
+ 
+
+Stakeholder Engagement 
+
+6 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+ 
+
+Stakeholder Engagement 
+
+6 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+ 
+
+Stakeholder Engagement 
+
+6 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+ 
+
+Stakeholder Engagement 
+
+6 
+
+102-44 
+
+Key topics and concerns raised 
+
+ 
+
+Stakeholder Engagement 
+
+6 
+
+
+ 
+
+15 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6. Reporting Practice 
+
+ 
+
+ 
+
+ 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+ 
+
+FY2020 Annual Report (Pg 86) 
+
+- 
+
+102-46 
+
+Defining report content and topic 
+
+boundaries 
+
+ 
+
+About this Report 
+
+3 
+
+102-47 
+
+List of material topics 
+
+ 
+
+Materiality 
+
+7 
+
+102-48 
+
+Restatements of information 
+
+ 
+
+Nil 
+
+- 
+
+102-49 
+
+Changes in reporting 
+
+ 
+
+Nil 
+
+- 
+
+102-50 
+
+Reporting period 
+
+ 
+
+About this Report 
+
+3 
+
+102-51 
+
+Date of most recent report 
+
+ 
+
+Nil 
+
+- 
+
+102-52 
+
+Reporting cycle 
+
+ 
+
+Annual  
+
+ 
+
+102-53 
+
+Contract point for questions 
+
+regarding the report 
+
+ 
+
+About this Report 
+
+3 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with GRI Standards 
+
+ 
+
+About this Report 
+
+3 
+
+102-55 
+
+GRI Content index 
+
+ 
+
+GRI Content Index 
+
+14 
+
+102-56 
+
+External assurance 
+
+ 
+
+Nil 
+
+2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+GRI 103: MANAGEMENT APPROACH 
+
+ 
+
+ 
+
+ 
+
+103-1 
+
+Explanation of the material topic 
+
+and its boundaries 
+
+ 
+
+Management Approach 
+
+7 
+
+103-2 
+
+The management approach and 
+
+its components 
+
+ 
+
+Management Approach 
+
+7 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+ 
+
+Management Approach 
+
+7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+TOPIC-SPECIFIC STANDARDS 
+
+ 
+
+ 
+
+ 
+
+1. Economic 
+
+ 
+
+ 
+
+ 
+
+GRI 201: Economic Performance 
+
+ 
+
+ 
+
+ 
+
+201-1 
+
+Direct economic value generated 
+
+and distribution 
+
+ 
+
+Economic Performance 
+
+8 
+
+GRI 205: Anti-Corruption 
+
+ 
+
+ 
+
+ 
+
+205-3  
+
+Confirmed incidents of corruption 
+
+and actions taken 
+
+ 
+
+Anti-Corruption 
+
+9 
+
+2. Social 
+
+ 
+
+ 
+
+ 
+
+GRI 401: Employment 
+
+ 
+
+ 
+
+ 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+ 
+
+Employment Diversity and 
+
+Equality 
+
+10 
+
+GRI 403: Occupational Health and Safety 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+16 
+
+403-2 
+
+Type of injury and rates of injury, 
+
+occupational diseases, lost, and 
+
+absenteeism and number of 
+
+work-related fatalities 
+
+ 
+
+Workplace Health and Safety 
+
+11 
+
+GRI 404: Training and Education 
+
+ 
+
+ 
+
+ 
+
+404-3 
+
+Percentage employees receiving 
+
+regular performance and career 
+
+development reviews 
+
+ 
+
+Employee Turnover 
+
+11 
+
+GRI 405: Diversity and Equal Opportunity 
+
+ 
+
+ 
+
+ 
+
+405-1 
+
+Diversity of governance bodies 
+
+and employees 
+
+ 
+
+Employment Diversity and 
+
+Equality 
+
+10 
+
+GRI 406: Non-Discrimination 
+
+ 
+
+ 
+
+ 
+
+406-1 
+
+Incidents of discrimination and 
+
+corrective actions taken 
+
+ 
+
+Employment Diversity and 
+
+Equality 
+
+10 
+
+GRI 408: Child Labor 
+
+ 
+
+ 
+
+ 
+
+408-1 
+
+Operations and supplies at 
+
+significant risk for accidents 
+
+ 
+
+Child Labor, Forced or 
+
+Compulsory Labor 
+
+12 
+
+GRI 409: Forced or Compulsory Labor 
+
+2016: 
+
+ 
+
+ 
+
+ 
+
+409-1 
+
+Operations and suppliers at 
+
+significant risk for incidents of 
+
+forced or compulsory labor 
+
+ 
+
+Child Labour, Forced or 
+
+Compulsory Labor 
+
+12 
+
+3. Environmental 
+
+ 
+
+ 
+
+ 
+
+GRI 301: Materials 
+
+ 
+
+ 
+
+ 
+
+301-1 
+
+Materials 
+
+ 
+
+1) Use of Sustainability 
+
+Sourced Packaging 
+
+2) Plastics Reduction 
+
+3) Avoidance of Conflict 
+
+Minerals 
+
+ 
+
+13 
+
+GRI 302: Energy 
+
+ 
+
+ 
+
+ 
+
+302-5 
+
+Reduction in energy requirements of 
+
+products and services 
+
+    Energy and Material 
+
+Reduction 
+
+13 
+
+ 
+

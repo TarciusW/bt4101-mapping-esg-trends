@@ -1,0 +1,1600 @@
+
+CHUAN HUP 
+
+HOLDINGS 
+
+LIMITED
+
+BUILDING STRONG FUNDAMENTALS
+
+Sustainability Report 2018
+
+
+
+
+CONTENTS
+
+Statement from our Board ........................................................1
+
+About the Report ......................................................................1
+
+About Chuan Hup ....................................................................1
+
+Sustainability Approach at Chuan Hup ......................................2
+
+Materiality Assessment .........................................................2
+
+Stakeholder Engagement .....................................................3
+
+Community Involvement .......................................................3
+
+Our People ...........................................................................4
+
+Governance ..............................................................................4
+
+Our Values ...........................................................................4
+
+Sound Corporate Governance and Business Ethics .............5
+
+Regulatory Compliance ........................................................5
+
+Social .......................................................................................5
+
+Information Security &amp; Privacy ..............................................5
+
+Health &amp; Safety ....................................................................6
+
+Talent Management &amp; Succession Planning .........................6
+
+GRI Content Index ....................................................................6
+
+
+STATEMENT FROM OUR BOARD
+
+Dear Stakeholders,
+
+At Chuan Hup Holdings Limited (“Chuan Hup” or the “Company”), we recognise the increasing importance of implementing sustainable 
+
+business practices even as our business grows. As an expression of our firm belief, the Chuan Hup Board and Management are pleased 
+
+to present our inaugural Sustainability Report for the financial year ended 30 June 2018 (“FY2018”). The Board and Management have 
+
+identified the key material Environmental, Social and Governance (ESG) factors of Chuan Hup as listed on page 2 and will continue 
+
+to review these matters regularly. The Board considers sustainability issues as part of the Company’s overall strategy formulation. 
+
+It oversees the management and monitoring of these ESG factors and takes them into consideration in the determination of the 
+
+Company’s strategic direction and policies. 
+
+The sustainability disclosures in this report complement our financial and corporate governance disclosures in our Annual Report to 
+
+provide a holistic view of our Company’s financial and nonfinancial performance. As part of our ongoing efforts to deliver long-term 
+
+value to our business partners, shareholders and customers, we will continue to communicate our commitment to sustainability and 
+
+work together with all of you on this journey.
+
+ABOUT THE REPORT
+
+This is Chuan Hup’s first Sustainability Report, prepared in accordance with the Global Reporting Initiative (GRI) Standards 2016  
+
+– “Core” reporting requirements. This report details our approach in managing material sustainability matters identified as part of the 
+
+Group’s operations for the period of 1 July 2017 to 30 June 2018 (“FY2018”) on an annual reporting cycle. Where applicable, one year 
+
+of historical performance data has been included for comparative purposes.
+
+The scope of this report covers the sustainability performance of Chuan Hup’s investment holding business, and performance relating 
+
+to issues from Chuan Hup’s own operations. As Chuan Hup itself is not an operating company, the report does not consider issues 
+
+which may be relevant for investee companies at their local operations or subsidiaries.
+
+While we have not sought external assurance for this report, we will work towards doing so as our reporting matures over time. 
+
+We welcome feedback from all stakeholders on our Sustainability Report. For any queries or comments on this report, please 
+
+contact corpsec_legal@chuanhup.com.sg.
+
+ABOUT CHUAN HUP
+
+Founded in 1970, Chuan Hup has grown into an investment company from its origins as a tug and barge service provider to PSA 
+
+Corporation in Singapore. Today, it manages a diversified portfolio of strategic investments, including property sectors. Chuan Hup’s 
+
+property investment portfolio spans across the region, with development projects in the Philippines, Malaysia, Thailand and Australia. 
+
+Our principal activities are that of investment holding, investment trading and provision of management services.
+
+In FY2018, Chuan Hup has a substantial shareholding of 76.7% in PCI Limited (“PCI”), which is in the business of providing electronics 
+
+manufacturing services. Subsequent to the end of FY2018, Chuan Hup has disposed of all of its shares in PCI to Pagani Holding III 
+
+Limited (“Pagani”) in connection with the acquisition by Pagani of all the issued shares in PCI which was effected by way of a scheme 
+
+of arrangement (“Scheme”), following the Scheme becoming effective and binding in accordance with its terms on 29 April 2019.
+
+The Group is also a substantial shareholder of Finbar Group Limited (“Finbar”), a leading Australian property developer listed on the 
+
+Australian Stock Exchange since 1995 and Pacific Star Development Limited, a property developer listed on the Singapore Exchange 
+
+Securities Trading Limited.
+
+Building Strong Fundamentals
+
+// 1
+
+
+
+
+SUSTAINABILITY APPROACH AT CHUAN HUP
+
+Recognising the importance of corporate sustainability and the value of safeguarding the interests of our stakeholders, Chuan Hup 
+
+seeks to conduct its business in a responsible manner. The Board of Directors is directly responsible for identifying and managing 
+
+sustainability and its impact. Feedback is sought from the Annual General Meetings and Extraordinary General Meetings to support 
+
+the Board. Our Enterprise Risk Management Framework helps the Board identify sustainability-related risk areas and opportunities, 
+
+which is reviewed annually.
+
+MATERIALITY ASSESSMENT 
+
+To identify issues that impact our mission and external stakeholders the most, we conducted our first materiality assessment in 
+
+May 2018. Figure 1 provides a brief summary of our materiality assessment process.
+
+Through the process, we have identified the top 4 most significant sustainability matters and an additional matter for this first 
+
+sustainability report. This is presented in Figure 2 below, with the issues in no particular order.
+
+1 
+
+GRI 418: Customer Privacy is not applicable to Chuan Hup as we do not have any business relationships with customers.
+
+Figure 2. Chuan Hup’s Materiality Matrix
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Figure 1. Steps in our Materiality Assessment
+
+Identification
+
+Prioritisation
+
+Approval &amp; 
+
+Review
+
+• A preliminary list of  
+
+14 different materiality 
+
+topics relevant  
+
+to our core business  
+
+were identified
+
+• Relevant personnel 
+
+rated and prioritised the 
+
+Environmental, Social  
+
+and Governance  
+
+(ESG) matters
+
+• Both internal and 
+
+external stakeholders’ 
+
+perspectives were taken 
+
+into consideration
+
+• Results mapped into a 
+
+materiality matrix and 
+
+approved by Board
+
+• Approved material matters 
+
+will continue to be  
+
+re-assessed in 
+
+subsequent reporting 
+
+periods to ensure that  
+
+the topics remain relevant 
+
+&amp; material
+
+Material Matters
+
+Mapped GRI Standards Topics
+
+1  Sound 
+
+Corporate 
+
+Governance 
+
+and Business 
+
+Ethics
+
+GRI 102: Ethics and Integrity, Governance
+
+GRI 205: Anti-corruption
+
+2  Regulatory 
+
+Compliance
+
+GRI 307: Environmental compliance
+
+GRI 419: Socioeconomic compliance
+
+3  Information 
+
+Security &amp; 
+
+Privacy
+
+Non-GRI1
+
+4  Health &amp; 
+
+Safety
+
+GRI 403: Occupational Health &amp; Safety
+
+Additional Reporting Matter
+
+5  Talent 
+
+Management 
+
+&amp; Succession 
+
+Planning
+
+GRI 404: Training and Education
+
+IMPORTANCE TO CHUAN HUP
+
+IMPORTANCE TO SIMULATED EXTERNAL STAKEHOLDERS
+
+High
+
+Low
+
+High
+
+Non-material  
+
+ESG factors
+
+Talent Management  
+
+&amp; Succession Planning
+
+5
+
+2
+
+1
+
+3
+
+4
+
+Sound Corporate Governance 
+
+&amp; Business Ethics
+
+Regulatory Compliance
+
+Information Security  
+
+&amp; Privacy
+
+Health &amp; Safety
+
+Additional 
+
+Reporting  
+
+Matter
+
+Material 
+
+Matters
+
+Chuan Hup Holdings Limited / Sustainability Report 2018
+
+2 //
+
+
+STAKEHOLDER ENGAGEMENT
+
+Through a concerted effort in engaging our stakeholders, we are better able to understand their core concerns. This allows us to 
+
+address their needs in the best way possible. The table below summarises our approach to meeting our stakeholders’ expectations.
+
+Stakeholder 
+
+Group
+
+Key Concerns
+
+Our Approach
+
+Engagement Platform
+
+Frequency of 
+
+engagement
+
+Shareholders
+
+• Stable, long-term  
+
+growth and 
+
+sustainable returns
+
+• Timely disclosures
+
+• Ensure oversight and 
+
+accountability by an 
+
+experienced and competent 
+
+Board and Management team
+
+• Adopt a disciplined and 
+
+measured approach 
+
+towards business risks and 
+
+opportunities
+
+• Ensure robust risk 
+
+management
+
+• Release of financial results 
+
+and announcement of other 
+
+relevant disclosures through 
+
+SGXNET
+
+• Annual reports
+
+• Website
+
+Quarterly 
+
+release through 
+
+SGXNET
+
+Employees
+
+• Career development
+
+• Competitive wages 
+
+and benefits
+
+• Work-life balance
+
+• Workplace well-being
+
+• Provide opportunities for 
+
+training and development
+
+• Ensure fair human resource 
+
+policies
+
+• Ensure transparent and 
+
+objective performance 
+
+appraisals and performance-
+
+based rewards and 
+
+recognition
+
+• Allow flexible work
+
+• Training and development 
+
+programme
+
+• HR policies and procedures
+
+• Performance review
+
+• Team-bonding and 
+
+recreational activities
+
+• Feedback channels
+
+• Online employee portal with 
+
+collaborative and social 
+
+features
+
+Regularly
+
+Government
+
+Compliance with laws 
+
+and regulations
+
+Complying with applicable laws 
+
+and regulations, conducting 
+
+regular internal and external audits
+
+• Annual reports
+
+• Audit reports
+
+• Consultations with regulatory 
+
+bodies
+
+Regularly
+
+Local 
+
+Communities
+
+Good corporate 
+
+citizenship
+
+Giving back to society through 
+
+programmes and activities 
+
+focused on youth and education 
+
+and supporting charitable causes
+
+• Donations
+
+• Participating and supporting 
+
+fundraising events
+
+• Sponsorship of co-curricular 
+
+activities
+
+• Academic and non-academic 
+
+awards
+
+Regularly
+
+COMMUNITY INVOLVEMENT
+
+As a responsible corporate citizen, we recognise our duty towards improving the lives of the less fortunate. To that end, we strongly 
+
+believe in supporting educational initiatives. We believe that all students should receive a holistic education, regardless of their social 
+
+background. As such, we have sponsored co-curricular activities and leadership programmes aimed at enhancing the skills, resilience, 
+
+teamwork, sportsmanship and commitment of the student participants. In addition, we have supported a primary school through the 
+
+introduction of two awards – the Chuan Hup Holdings Milestone Award and Chuan Hup Holdings Holistic Award – which recognise 
+
+students who have achieved excellence in academic as well as non-academic performance.
+
+We have also continued our financial support of the Singapore Cancer Foundation. These funds have been directed towards vital 
+
+programmes, including in public education and research, financial assistance schemes, welfare services, as well as rehabilitation, 
+
+cancer support groups and hospice care.
+
+Building Strong Fundamentals
+
+// 3
+
+
+
+
+GOVERNANCE
+
+OUR VALUES
+
+As a company, we are committed to upholding and maintaining the highest standards of integrity and ethics in all of our business 
+
+dealings at all times, as we firmly believe that doing so is imperative to the long-term sustainability of the Company’s development 
+
+and performance while ensuring that the interests of our stakeholders are safeguarded. We strive to deliver long-term growth and 
+
+sustainable returns for our stakeholders through discipline, prudence and resilience. Our commitment to the well-being and nurturing 
+
+of our people extends to our community and the environment. 
+
+For a detailed report on our corporate governance practices, please refer to our Annual Report 2018, with specific reference to the 
+
+principles of the Code of Corporate Governance 2012.
+
+OUR PEOPLE
+
+Although few in numbers, every member of the Chuan Hup family plays an essential part in the success of our business. As an 
+
+organisation, we are committed to providing an inclusive environment under which our members would be allowed to flourish.  
+
+In FY2018, our workforce consisted of a total of 18 employees, of which majority were employed under a permanent contract and only 
+
+one employee working on a part-time basis. Figure 3 provides a more in-depth look at the demographics of our workforce.
+
+Employee Data by Gender
+
+Employee Data by Category
+
+Figure 3. Breakdown of employment data by gender and employment category for FY2017 and FY2018
+
+FY2017
+
+FY2018
+
+■ Male     ■ Female
+
+■ Staff     ■ Supervisors     ■ Senior Management
+
+22%
+
+78%
+
+75%
+
+25%
+
+FY2017
+
+65%
+
+23%
+
+12%
+
+FY2018
+
+65%
+
+23%
+
+12%
+
+Chuan Hup Holdings Limited / Sustainability Report 2018
+
+4 //
+
+
+SOUND CORPORATE GOVERNANCE AND BUSINESS ETHICS
+
+Chuan Hup has multiple policies in place to ensure sound corporate governance and business ethics are practised throughout our 
+
+business operations. The Policy on Work Ethics serves to ensure that employees and persons acting on behalf of the Company 
+
+adhere to a high standard of personal conduct at all times, refraining from engaging in any activity that would be deemed to 
+
+be a conflict with any of the Group’s businesses. Procedures to address and resolve grievances are also made available at the 
+
+organisation level, where employees can raise concerns to their immediate supervisors, HR department or the Management. 
+
+The Company has also implemented a whistleblowing policy, which serves to encourage and provide a channel for employees and 
+
+any other persons to report in good faith and in confidence, without fear of reprisals, concerns about possible wrongdoing or breach of 
+
+applicable laws, regulations, policies or other matters. The objectives for such an arrangement is to ensure independent investigation 
+
+of such matters and for appropriate follow-up action. A whistleblower (employees or members of the public) may report concerns 
+
+directly to the Chairman of the Audit Committee.
+
+Chuan Hup’s Internal Code on Dealings in Securities sets out the implications of insider trading, providing guidance and internal 
+
+regulation on dealings in the Company’s securities by its Directors and employees.
+
+Internal and external audits are conducted regularly by external firms, to review company policies and practices. The Management 
+
+also obtains feedback from all stakeholders during Annual General Meetings and Extraordinary General Meetings to enhance and 
+
+improve the Company’s business operations.
+
+Chuan Hup’s Board of Directors is directly responsible for the implementation and management of these practices. 
+
+These policies are communicated to all our staff and we are proud to announce that we have achieved all the targets set out 
+
+for FY2018:
+
+Zero reported incidents of corruption and fraud, yearly
+
+Achieved
+
+Zero non-compliance with laws and/or regulations resulting in significant fines, yearly
+
+Achieved
+
+REGULATORY COMPLIANCE
+
+Full compliance with all relevant laws and regulations is the fundamental basis of our promise as a business with the highest 
+
+standards of ethics and integrity. We actively strive to ensure adherence to all laws and regulations in Singapore and are 
+
+pleased to report that there were no reported cases of non-compliance with laws and regulations in both the environmental and 
+
+socioeconomic areas in FY2018, which we will continue to uphold.
+
+SOCIAL
+
+INFORMATION SECURITY &amp; PRIVACY
+
+Chuan Hup acknowledges that information systems downtime and any breach in company security systems may potentially have 
+
+an adverse impact on the accuracy, integrity and completeness of data and information provided to our business partners and 
+
+stakeholders. As such, we have multiple policies and mitigation practices to prevent and circumvent such problems should they arise. 
+
+We have implemented next-generation firewalls and signatures to protect our staff’s web access, further ensuring that our systems 
+
+are always installed with up-to-date anti-malware software. Staff are also obliged to report any security related threats and incidents 
+
+to the appropriate department, allowing the action to be taken efficiently. 
+
+The aforementioned Work Ethics policy also requires all employees to uphold the highest standards of business conduct with regards 
+
+to personal data protection. All staff members are to observe the regulations and obligations mandated under the Personal Data 
+
+Protection Act (PDPA). Additionally, under the House Rules policy, the Company has IT User Guidelines in which data and information 
+
+handling processes are explained in detail. 
+
+In the event of an attack, network system vulnerabilities are mitigated in a timely manner. Comprehensive policies and procedures 
+
+will then be put in place to ensure that similar attacks do not occur. All staff will also be educated on social engineering attacks and 
+
+potential security loopholes further improving our performance. 
+
+Chuan Hup has a high level of commitment towards ensuring that there are zero breaches of our security systems or days of a cyber-
+
+attack. We are proud to have achieved these targets set out for FY2018 and will continue to strive for such results in the future. 
+
+Building Strong Fundamentals
+
+// 5
+
+
+
+
+HEALTH &amp; SAFETY
+
+Workplace health and safety is one of our top priorities, and Chuan Hup recognises that every single employee has the right to work in 
+
+a safe and healthy environment. Our House Rule mandates that safety regulations and practices must be observed by every employee 
+
+at all times and applies to all employees. 
+
+It is also compulsory for all our staff to attend the yearly fire drill exercise, which would equip them with the relevant knowledge to 
+
+act accordingly in times of emergencies. Additionally, in the aftermath of any event, Hazard Reporting and Investigations will be 
+
+conducted by the HR department to prevent any reoccurrence. The results of the investigations will also be used to promote even 
+
+higher standards of workplace safety and further strengthen the safety culture amongst employees.
+
+Our policies are geared towards upholding and promoting the best practices, ensuring that our target for zero incidents of injuries is met. 
+
+In FY2017 and FY2018, there were no reports of work-related fatalities, injuries2 or occupational diseases3. We hope to continue this 
+
+excellent record in the years to come.
+
+The total absentee rate4 in FY2018 is as follows:
+
+Absentee Rate
+
+Male
+
+Female
+
+Total
+
+FY2017
+
+FY2018
+
+FY2017
+
+FY2018
+
+FY2017
+
+FY2018 
+
+0
+
+0.19
+
+2.18
+
+3.08
+
+1.74
+
+2.44
+
+TALENT MANAGEMENT &amp; SUCCESSION PLANNING
+
+Developing Chuan Hup’s human capital is imperative to the success of our business. We champion and support the personal and 
+
+professional growth of all our employees, encouraging them to take up relevant courses that would broaden their knowledge and 
+
+allow them to contribute to a skilled workforce as well as the Company’s growth. As such, an integrated approach towards talent 
+
+management and succession planning is adopted in alignment with the Group’s overall goals. 
+
+The Learning &amp; Development Policy ensures that the skills and competencies of our present employees can be upgraded and 
+
+enhanced through internal training courses and external training courses such as IT or job-related training. These trainings are reviewed 
+
+and feedback is sought annually to ensure that they meet the needs of our staff members. 
+
+Funding is also provided for employees who wish to pursue academic and professional development programmes. We place heavy 
+
+emphasis on developing the soft skills and functional skills of our employees. As such, we also encourage our employees to engage in 
+
+different forms of self-development which may be completely unrelated to their jobs. We encourage our employees to take ownership 
+
+of their learning, which would ensure that the trainings provided are effective and practical. 
+
+In the years ahead, we will continue to support our employees to engage in e-learning courses.
+
+To identify training gaps, we conduct performance reviews for all our employees. These reviews may include performance or career 
+
+development evaluations and are in place to ensure the continued career success for our employees.
+
+GRI CONTENT INDEX
+
+GRI Standards Disclosures
+
+Reference Page(s) or Reasons for Omission
+
+General Disclosures
+
+Organizational Profile
+
+102-1
+
+Name of the organization
+
+Chuan Hup Holdings Limited
+
+102-2
+
+Activities, brands, products, and services
+
+About Chuan Hup: page 1
+
+102-3
+
+Location of headquarters
+
+Annual Report 2018: page 22
+
+102-4
+
+Location of operations
+
+Annual Report 2018: page 22
+
+102-5
+
+Ownership and legal form
+
+Annual Report 2018: pages 113 – 114
+
+102-6
+
+Markets served
+
+Annual Report 2018: pages 8 –13
+
+102-7
+
+Scale of the organization
+
+About Chuan Hup: page 1
+
+102-8
+
+Information on employees and other workers
+
+Our People: page 4
+
+102-9
+
+Supply chain
+
+NA as Chuan Hup does not engage any suppliers
+
+102-10
+
+Significant changes to the organization and its supply chain
+
+None
+
+2 
+
+Injury Rate as defined by the Ministry of Manpower (MOM) is calculated as the total number of fatal and non-fatal workplace injuries per 100,000 employees during the 
+
+reference period.
+
+3 
+
+Occupational Disease Rate as defined by the International Labour Organization (ILO) is calculated as the number of new cases of occupational disease relative to the 
+
+total number of hours worked by workers per 100,000 employees during the reference period.
+
+4 
+
+Absentee Rate as defined by GRI standards is the total days of absence relative to the total days scheduled to be worked by employees during the reference period, 
+
+expressed as a percentage.
+
+Chuan Hup Holdings Limited / Sustainability Report 2018
+
+6 //
+
+
+GRI Standards Disclosures
+
+Reference Page(s) or Reasons for Omission
+
+General Disclosures
+
+Organizational Profile
+
+102-11
+
+Precautionary principle or approach
+
+Chuan Hup does not specifically address the principles of 
+
+the precautionary approach.
+
+102-12
+
+External initiatives
+
+None
+
+102-13
+
+Membership of associations
+
+None
+
+Strategy
+
+102-14
+
+Statement from senior decision-maker
+
+Statement from Our Board: page 1
+
+Ethic and Integrity
+
+102-16
+
+Values, principles, standards, and norms of behavior
+
+Annual Report 2018: pages 25 – 37
+
+Governance
+
+102-18
+
+Governance structure
+
+Chuan Hup’s Board and Senior Management maintain 
+
+oversight for sustainability matters. 
+
+Stakeholder Engagement
+
+102-40
+
+List of stakeholder groups
+
+Stakeholder Engagement: page 3
+
+102-41
+
+Collective bargaining agreements
+
+No collective bargaining agreements are in place.
+
+102-42
+
+Identifying and selecting stakeholders
+
+Stakeholder Engagement: page 3
+
+102-43
+
+Approach to stakeholder engagement
+
+Stakeholder Engagement: page 3
+
+102-44
+
+Key topics and concerns raised
+
+Stakeholder Engagement: page 3
+
+Reporting Practice
+
+102-45
+
+Entities included in the consolidated financial statements
+
+Annual Report 2018: pages 83 – 86
+
+102-46
+
+Defining report content and topic Boundaries
+
+About the Report: page 1
+
+102-47
+
+List of material topics
+
+Materiality Assessment: page 2
+
+102-48
+
+Restatement of information
+
+NA as this is the first year of reporting.
+
+102-49
+
+Changes in reporting
+
+NA as this is the first year of reporting.
+
+102-50
+
+Reporting period
+
+1 July 2017 – 30 June 2018
+
+102-51
+
+Date of most recent report
+
+NA as this is the first year of reporting.
+
+102-52
+
+Reporting cycle
+
+Annual
+
+102-53
+
+Contact point for questions regarding the report
+
+About the Report: page 1
+
+102-54
+
+Claims of reporting in accordance with the GRI Standards
+
+About the Report: page 1
+
+102-55
+
+GRI content index
+
+GRI Content Index: page 6
+
+102-56
+
+External assurance
+
+About the Report: page 1
+
+Topic-specific Disclosures
+
+Sound Corporate Governance and Business Ethics
+
+103-1
+
+Explanation of the material topic and its boundary
+
+Sound Corporate Governance and Business Ethics: page 5
+
+103-2
+
+The management approach and its components
+
+Sound Corporate Governance and Business Ethics: page 5
+
+103-3
+
+Evaluation of the management approach
+
+Sound Corporate Governance and Business Ethics: page 5
+
+205-2
+
+Communication and training about anti-corruption policies 
+
+and procedures
+
+Sound Corporate Governance and Business Ethics: page 5
+
+205-3
+
+Confirmed incidents of corruption and actions taken
+
+Sound Corporate Governance and Business Ethics: page 5
+
+Regulatory Compliance
+
+103-1
+
+Explanation of the material topic and its boundary
+
+Regulatory Compliance: page 5
+
+103-2
+
+The management approach and its components
+
+Regulatory Compliance: page 5
+
+103-3
+
+Evaluation of the management approach
+
+Regulatory Compliance: page 5
+
+307-1
+
+Non-compliance with environmental laws and regulations
+
+Regulatory Compliance: page 5
+
+419-1
+
+Non-compliance with laws and regulations in the social 
+
+and economic area
+
+Regulatory Compliance: page 5
+
+Information Security &amp; Privacy
+
+103-1
+
+Explanation of the material topic and its boundary
+
+Information Security &amp; Privacy: page 5
+
+103-2
+
+The management approach and its components
+
+Information Security &amp; Privacy: page 5
+
+103-3
+
+Evaluation of the management approach
+
+Information Security &amp; Privacy: page 5
+
+Health &amp; Safety
+
+103-1
+
+Explanation of the material topic and its boundary
+
+Health &amp; Safety: page 6
+
+103-2
+
+The management approach and its components
+
+Health &amp; Safety: page 6
+
+103-3
+
+Evaluation of the management approach
+
+Health &amp; Safety: page 6
+
+403-2
+
+Types of injury and rates of injury, occupational diseases, 
+
+lost days, and absenteeism, and number of work-related 
+
+fatalities
+
+Health &amp; Safety: page 6
+
+Talent Management and Succession Planning
+
+103-1
+
+Explanation of the material topic and its boundary
+
+Talent Management &amp; Succession Planning: page 6
+
+103-2
+
+The management approach and its components
+
+Talent Management &amp; Succession Planning: page 6
+
+103-3
+
+Evaluation of the management approach
+
+Talent Management &amp; Succession Planning: page 6
+
+404-2
+
+Programs for upgrading employee skills and transition 
+
+assistance programs
+
+Talent Management &amp; Succession Planning: page 6
+
+Building Strong Fundamentals
+
+// 7
+
+
+
+
+
+
+Chuan Hup Holdings Limited
+
+(Co. Reg. No. 197000572R)
+
+8 Jurong Town Hall Road
+
+#26-01 The JTC Summit
+
+Singapore 609434
+
+Tel: (65) 6559 9700  Fax: (65) 6268 1937
+
+Website: www.chuanhup.com.sg
+
+Email: corpsec_legal@chuanhup.com.sg
+

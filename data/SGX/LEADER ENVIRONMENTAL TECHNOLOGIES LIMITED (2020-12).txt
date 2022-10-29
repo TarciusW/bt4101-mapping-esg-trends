@@ -1,0 +1,2093 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+ 
+
+Leader Environmental Technologies Limited  
+
+利德环保技术有限公司 
+
+ 
+
+Sustainability Report 2020 
+
+
+ 
+
+2 | P a g e 
+
+ 
+
+Table of Contents 
+
+ 
+
+About this Report .................................................................................................................................... 3 
+
+Board Statement ..................................................................................................................................... 4 
+
+What LET does ........................................................................................................................................ 5 
+
+Supply Chain Management ..................................................................................................................... 7 
+
+Key Stakeholders Engagement................................................................................................................ 8 
+
+Materiality Assessment ........................................................................................................................... 9 
+
+Targets and Strategies .......................................................................................................................... 10 
+
+Risk and Opportunities.......................................................................................................................... 11 
+
+Our Economic and Environmental Efforts ............................................................................................ 13 
+
+Business Discipline ............................................................................................................................ 13 
+
+Product Excellence ............................................................................................................................ 14 
+
+Our Social .............................................................................................................................................. 15 
+
+Occupational Health and Safety ....................................................................................................... 15 
+
+Managing COVID-19 .......................................................................................................................... 16 
+
+Human Capital Development ............................................................................................................ 17 
+
+Our Governance .................................................................................................................................... 18 
+
+Code of Conduct ............................................................................................................................... 18 
+
+Delegation of Authority and Payment Approval Policy .................................................................... 18 
+
+Business Continuity Plan ................................................................................................................... 19 
+
+Board of Directors (“BOD”) ............................................................................................................... 19 
+
+GRI CONTENT INDEX ............................................................................................................................. 20 
+
+GRI SPECIFIC DISCLOSURE CONTENT INDEX ......................................................................................... 21 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+3 | P a g e 
+
+ 
+
+About this Report 
+
+ 
+
+This is the Annual Sustainability Report (“SR” or the “Report”) of Leader 
+
+Environmental Technologies Limited (“LET”, and together with its subsidiaries, the 
+
+“Group”) and covers the sustainability efforts of the Group in the financial year ended 
+
+31 December 2020.  
+
+ 
+
+Our approach is to focus on the four material topics of our sustainability strategies 
+
+which are aligned to our core beliefs and business priorities. We continue to refine our 
+
+practices to identify and manage key environmental, social and governance (“ESG”) 
+
+factors that are material to the Group and our key stakeholders, including those topics 
+
+highlighted in our previous Sustainability Report in 2019 through a materiality exercise 
+
+that considers the developments of our business and evolving stakeholder concerns.  
+
+ 
+
+This Report describes management’s roles and responsibilities over these ESG 
+
+factors in addition to how the Group’s interests are aligned with the evolving needs 
+
+and concerns of our key stakeholders. It is recommended that you read this Report 
+
+with our Annual Report which provides important information about our corporate 
+
+governance, risk management, and financial information. We strive for clarity, 
+
+transparency and reliability in our communication. Both reports are key communication 
+
+tools in our communication with stakeholders. 
+
+ 
+
+This Report is prepared based on the requirements of Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Listing Rules 711A and 711B and Practice Note 7F 
+
+Sustainability Reporting Guide, with reference from the Global Reporting Initiative 
+
+(“GRI”) Standards: Core Option.  The GRI Content Index is identified at the end of this 
+
+Report. 
+
+ 
+
+ 
+
+Feedback 
+
+ 
+
+ 
+
+For any feedback, comments or suggestions regarding the Report, please contact Mr. 
+
+Lim Poh Yeow, our Chief Financial Officer (“CFO”), at +65 6950 7700. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+4 | P a g e 
+
+ 
+
+Board Statement 
+
+ 
+
+The Board of Directors of Leader Environmental Technologies Limited (“LET”) is 
+
+pleased to present its fourth Sustainability Report (“SR2020”) covering the period from 
+
+1 January 2020 to 31 December 2020 (“FY 2020”). The SR2020 is prepared in 
+
+accordance with the internationally accepted global reporting initiative (“GRI”) 
+
+standards and is in compliance with the SGX Listing Rules. Guided by the principal of 
+
+materiality, the Group prioritises and focuses on economic, social and governance 
+
+issues that are deemed to be of paramount importance to our key stakeholders and 
+
+their progress are tracked in this  Report.   
+
+ 
+
+The COVID-19 pandemic is an unprecedented crisis that has significantly affected the 
+
+global economy and supply chains and is unavoidably affecting and impacting the 
+
+Group’s business to a certain extent. Nevertheless, the Group remains committed in 
+
+our sustainability efforts, and is looking to expand and embark on more environmental 
+
+related projects, especially municipal sludge treatments and industrial wastewater 
+
+projects, in the foreseeable future to reduce pollution and harmful materials to the 
+
+environment.     
+
+ 
+
+FY2020 was the year of transformation for the Group amidst the COVID-19 pandemic 
+
+situation, as we underwent a strategic review of our environmental businesses with 
+
+the objective of creating and building a sustainable business for the Group and 
+
+delivering long-term value to our key stakeholders.  
+
+ 
+
+The Group encourages environmental stewardship practices as a responsible 
+
+organisation with the aim to create long-term stakeholder value. The Group will work 
+
+closely with our various stakeholders, and endeavours to leverage on our expertise in 
+
+offering and providing our customers with the best technologies and services to meet 
+
+the various stringent regulatory requirements. The Group will continually look at new 
+
+ways to achieve sustainability, and also fine-tune and improve on our existing 
+
+sustainability practices for a sustainable future.         
+
+ 
+
+ 
+
+On behalf of the Board 
+
+Dr Lin Yucheng 
+
+Executive Chairman and Chief Executive Officer (“CEO”) 
+
+ 
+
+ 
+
+
+ 
+
+5 | P a g e 
+
+ 
+
+What LET does  
+
+ 
+
+LET is an environmental services provider listed on SGX-ST and headquartered in 
+
+Singapore. The Group’s business scope includes treatment of municipal sludge, 
+
+industrial wastewater treatment, and production of high-performance membrane 
+
+products and equipment widely used in water and sludge treatment. Our services 
+
+include system integration, equipment and product supply, project investment, 
+
+engineering design procurement and construction (“EPC”), and operations and 
+
+maintenance (“O&amp;M”). 
+
+ 
+
+During 2020, the Group underwent a strategic review to re-organise our group 
+
+structure and de-registered two dormant companies, divested a loss-making 
+
+subsidiary, and incorporated three new wholly-owned subsidiaries, namely, United 
+
+Greentech Holdings Pte. Ltd., United Greentech (Guangzhou) Co., Ltd and United 
+
+Greentech (Tianjin) Co., Ltd., to engage, invest and partake in the new environmental-
+
+related businesses in respect of sludge treatments, industrial wastewater, production 
+
+of high performance membrane, and greentech investments. 
+
+ 
+
+In January 2021, we acquired Bituo Environmental Technologies (Tianjin) Co., Ltd. 
+
+(“Bituo”), an environmental technology company specialising in municipal sludge 
+
+treatment with nine patents covering different technologies and processes. We believe 
+
+that Bituo’s patented technologies, particularly its continuous thermal hydrolysis 
+
+technology, can help to reduce the water content of sludge to 30-40% and generate 
+
+dried sludge with higher heating value. This improves the overall energy recovery of 
+
+the sludge treatment process and brings significant cost savings. The acquisition will 
+
+provide us with an added advantage in tendering for sludge treatment projects. 
+
+ 
+
+In the same month, the Group also entered into a joint venture investment with 
+
+Nanosun Pte. Ltd. (“Nanosun”) to set up high performance membrane manufacturing 
+
+facilities in Singapore and China. The high-performance membrane is widely used in 
+
+water treatment, as well as the pharmaceutical, life science and medical industries. 
+
+This is a strategic investment for the Group as we move towards building our position 
+
+as an integrated solution provider of membrane-based treatment technologies. 
+
+ 
+
+In the midst of working on the Group’s transformation plans, our business activities in 
+
+FY2020 were largely confined to completing the manufacturing and installations of the 
+
+remaining dust elimination and industrial wastewater projects. 
+
+ 
+
+With the transformation, the Group positions ourselves as a technology-driven 
+
+environmental solutions provider. Having established a core team of specialists and 
+
+instilled an enterprise culture of technological innovation and management efficiency, 
+
+the Group has developed proprietary technologies focusing on addressing pressing 
+
+environmental issues and new capabilities in sludge management, industrial 
+
+wastewater treatment and membrane technology. The Group also intends to achieve 
+
+greater impact through collaboration and project investments. This will include equity 
+
+investments in promising greentech companies with strong environmental 
+
+technologies. 
+
+ 
+
+ 
+
+
+ 
+
+6 | P a g e 
+
+ 
+
+Our core business: 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+7 | P a g e 
+
+ 
+
+Supply Chain Management 
+
+ 
+
+The Group believes in building a resilient and 
+
+sustainable supply chain and has procurement 
+
+policies over the selection of suppliers and our 
+
+procurement process. 
+
+ 
+
+The main suppliers of the Group comprise 
+
+subcontractors and suppliers of raw materials to 
+
+our business operations. Subcontractors are 
+
+typically engaged for scavenging, excavation, 
+
+installation and other civil engineering works for 
+
+our projects. On suppliers, we perform the 
+
+necessary due diligence checks based on the 
+
+evaluation criteria established in accordance 
+
+with the Group’s procurement policies before entering into any transaction with them. 
+
+In situations where several suppliers can meet our project requirements, the Group 
+
+will select those with a good reputation for being environmentally and socially 
+
+responsible.  This underpins our commitment to a sustainable supply chain.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+8 | P a g e 
+
+ 
+
+Key Stakeholders Engagement 
+
+ 
+
+We have identified and prioritised five key stakeholder groups to understand and 
+
+respond to their concerns, needs and expectations.  
+
+ 
+
+The illustration below summarises the key avenues and outcomes of our engagement 
+
+with our main stakeholders, as we continue to communicate with our shareholders and 
+
+employees with enhancements as compared to previous reporting year: 
+
+ 
+
+ 
+
+Figure 2: Key Stakeholders Engagement 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+9 | P a g e 
+
+ 
+
+Materiality Assessment 
+
+ 
+
+The Group adopts the same targeted approach through the use of questionnaires, as 
+
+disclosed in our prior years’ sustainability reports, to identify ESG factors and material 
+
+topics which are of high importance to our key stakeholders and with greatest impact 
+
+on the Group’s businesses. Our materiality approach is closely guided by our core 
+
+shareholders’ value and long-term sustainability of the Group’s business. The material 
+
+topics based on the ESG factors affecting our business and operating environment 
+
+presented in this Report were prioritised via a stakeholder-inclusive process to frame 
+
+and focus our efforts.  
+
+ 
+
+The illustration below shows our prioritisation and presentation of material ESG factors:  
+
+ 
+
+Figure 3: Material ESG factors 
+
+ 
+
+During 
+
+ 
+
+ 
+
+The ranking of our ESG factors continues to be based on the same two parameters:  
+
+importance to key stakeholders and impact on the Group’s business. Additional priority 
+
+on occupational health and safety in response to the evolving COVID-19 situation and 
+
+our associated health measures is elaborated in the “Managing COVID-19” section of 
+
+this Report. 
+
+ 
+
+As there are no significant changes to our business environment in FY2020, our 
+
+ranking of the existing materials topics remains consistent with prior year. We 
+
+remained focussed on addressing our material topics in “Our Economic and 
+
+Environmental”, “Our People” and “Our Governance” sections of this Report.  
+
+ 
+
+ 
+
+
+
+
+ 
+
+10 | P a g e 
+
+ 
+
+Targets and Strategies 
+
+ 
+
+We categorised our current year’s targets and strategies against prior year’s targets 
+
+as illustrated below: 
+
+ 
+
+Figure 4: Targets and strategies 
+
+Key ESG 
+
+Factors 
+
+Prior year targets 
+
+Present year strategies 
+
+Present year targets  
+
+Business 
+
+Discipline 
+
+Explore public-private partnership 
+
+projects with third-parties, financial 
+
+institutions 
+
+and 
+
+government 
+
+agencies with detailed evaluation 
+
+over the financial and operational 
+
+requirements prior to venturing into 
+
+the partnerships. 
+
+The Group has been actively working 
+
+on its transformation into a Green 
+
+High-Tech Environmental Treatment-
+
+as-a-Service Provider.  
+
+ 
+
+The Group will also focus on securing 
+
+projects on sludge and industrial 
+
+wastewater 
+
+treatment 
+
+with 
+
+the 
+
+concession rights to undertake the 
+
+operation and maintenance (“O&amp;M”) 
+
+service 
+
+with 
+
+the 
+
+objective 
+
+of 
+
+generating 
+
+stable 
+
+and 
+
+recurring 
+
+income. 
+
+ 
+
+Refresh business strategy with 
+
+sustainability as a focus and 
+
+reorganize for growth by:  
+
+a) Transforming into Green 
+
+High-Tech 
+
+Environmental 
+
+Treatment-as-a-Service 
+
+Provider 
+
+to 
+
+focus 
+
+on 
+
+the 
+
+following: 
+
+- Sludge Treatment 
+
+- Industrial Wastewater 
+
+- High Performance Membrane 
+
+Specialist 
+
+- Greentech Investments 
+
+ 
+
+b) Aim to secure projects on 
+
+sludge and industrial wastewater 
+
+treatment with the concession 
+
+rights to undertake the O&amp;M 
+
+service with the objective of 
+
+generating stable and recurring 
+
+income. 
+
+Product 
+
+Excellence 
+
+Maintain 
+
+consistency 
+
+with 
+
+our 
+
+robust project attributes to play a 
+
+pivotal 
+
+role 
+
+for 
+
+customers 
+
+in 
+
+reducing emissions of harmful and 
+
+toxic gases into the environment. 
+
+ 
+
+Continuous 
+
+commitment 
+
+of 
+
+resources into our Research and 
+
+Development 
+
+activities 
+
+to 
+
+stay 
+
+ahead of our competitors in this 
+
+rapid 
+
+changing 
+
+business 
+
+environment. 
+
+ 
+
+Leverage on our capabilities as we 
+
+have the proven and effective sludge 
+
+treatment 
+
+technologies 
+
+to 
+
+solve 
+
+sludge-related problems.  
+
+ 
+
+Produce state-of-art, first-of-its-kind, 
+
+Nano-Hybrid 
+
+filtration 
+
+membranes 
+
+through 
+
+our 
+
+joint-venture 
+
+with 
+
+Nanosun Pte Ltd (“Nanosun”) 
+
+Focus 
+
+on 
+
+delivering 
+
+quality 
+
+sludge and industrial wastewater 
+
+services 
+
+ 
+
+Commence production of Nano-
+
+Hybrid filtration membranes by 
+
+end of 2021. 
+
+Occupational 
+
+Health and 
+
+Safety 
+
+Maintain zero accident rate by 
+
+continuous compliance with our 
+
+stringent policies in place. 
+
+Maintain zero incident via continuous 
+
+compliance with our Occupational 
+
+Health 
+
+and 
+
+Safety 
+
+("OHS") 
+
+Management system and proactive 
+
+approach to identify potential threats. 
+
+ 
+
+Strictly adhere to measures imposed 
+
+by local health authorities to manage 
+
+the risk of exposure to COVID-19. 
+
+Our target is to maintain zero 
+
+accident rate by continuous 
+
+compliance with our stringent 
+
+policies in place and promoting a 
+
+healthy lifestyle and preventing 
+
+occupational 
+
+injuries 
+
+and 
+
+illnesses to be part of everyday 
+
+work. 
+
+Human 
+
+Capital 
+
+Development 
+
+Retain talents and raise employees’ 
+
+competency level by conducting 
+
+regular trainings. 
+
+ 
+
+Stay focussed to build a cohesive 
+
+working team to achieve goal 
+
+congruence 
+
+and 
+
+business 
+
+objectives. 
+
+Bridge 
+
+the 
+
+knowledge 
+
+gaps 
+
+by 
+
+sending 
+
+employees 
+
+for 
+
+periodic 
+
+trainings. 
+
+ 
+
+Build cohesive working team by 
+
+identifying leaders and commit to 
+
+nurture them to create a positive 
+
+working environment for the team. 
+
+Continue to invest in people 
+
+development 
+
+to 
+
+grow 
+
+the 
+
+capabilities of our workforce by 
+
+upskilling. 
+
+Corporate 
+
+Governance 
+
+To further build up shareholder 
+
+relationship, the Group aims to 
+
+enhance corporate communication 
+
+through working with a financial 
+
+media and technology company. 
+
+ 
+
+Maintain 
+
+compliance 
+
+with 
+
+the 
+
+mandatory listing requirements and 
+
+revised 
+
+code 
+
+of 
+
+corporate 
+
+governance. 
+
+ 
+
+Uphold best practices in corporate 
+
+transparency, strict adherence to 
+
+legislation and environmental laws to 
+
+protect the interests of our valued 
+
+stakeholders 
+
+through 
+
+continuous 
+
+efforts of strengthening the Group's 
+
+policies and manage risk efficiently. 
+
+Continue to comply with the 
+
+mandatory listing requirements 
+
+and revised code of corporate 
+
+governance as the Board is of 
+
+the opinion that maintaining a 
+
+high 
+
+standard 
+
+of 
+
+corporate 
+
+governance is essential to the 
+
+long-term sustainability of the 
+
+Group’s 
+
+business 
+
+and 
+
+performance. 
+
+ 
+
+ 
+
+
+ 
+
+11 | P a g e 
+
+ 
+
+Risk and Opportunities 
+
+ 
+
+The evolving COVID-19 situation poses significant uncertainty to the global economy 
+
+and brings about unprecedented economic, health and social challenges. 
+
+ 
+
+Notwithstanding these enormous challenges, we hope to enjoy first-mover advantage 
+
+as a proven provider of sludge treatment solutions as we see opportunities in the 
+
+immense market potential of the sludge treatment and disposal industry in China. 
+
+Sludge treatment is expected to be a multi-billion nascent industry in China. In China, 
+
+more than 60 million MT of sludge was produced in 2020. China’s sludge treatment 
+
+market has exceeded RMB50 billion since 2017 and is forecasted to increase at a rate 
+
+of 10% p.a.1  Before FY2021, there were no projects which provided recurring income. 
+
+In January 2021, the Group secured a RMB62.47 million (approximately S$12.70 
+
+million) Build-Operate-Transfer (“BOT”) contract to treat the municipal sludge from the 
+
+wastewater treatment plants in Jinghai District, Tianjin City. 
+
+ 
+
+Continual evaluation of the Group’s risks and opportunities remains crucial to 
+
+recalibrate the Group’s risk tolerance and risk management in a timely manner. Below 
+
+illustrations address the Group’s approach over the identified risks and opportunities 
+
+based on the material ESG factors: 
+
+ 
+
+Figure 5: Risk and opportunities 
+
+ 
+
+ 
+
+ 
+
+1 Source: Intelligence Research Company (2019), 污水处理行业, 市场运营态势及投资前景评估报告 
+
+
+
+
+ 
+
+12 | P a g e 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+13 | P a g e 
+
+ 
+
+ 
+
+Our Economic and Environmental Efforts 
+
+ 
+
+Sustainability is at the heart of our business and this is demonstrated through the 
+
+Group constantly striving to incorporate environmental and economic efforts in our 
+
+business strategy. The Group is acutely aware of the environmental impact for every 
+
+economic decision it undertakes; and we ensure that environmental compliance and 
+
+health and safety standards are upheld and current laws and regulations are fully 
+
+adhered to.   
+
+ 
+
+The Group embraces innovation and continuous improvement in our businesses and 
+
+work processes so as to stand ready to adapt to this uncertain and rapidly changing 
+
+business environment. 
+
+ 
+
+Our efforts and performance in 2020 are elaborated below: 
+
+ 
+
+Business Discipline 
+
+ 
+
+During the current reporting year, the Group remains focused on improving the 
+
+Group’s cash flow by proactively engaging its customers on long overdue receivables, 
+
+and also to expedite the final settlements of projects and improve the Group’s cash 
+
+flows. As a result of our conscientious efforts, we managed to repay all of our bank 
+
+borrowings in 1Q2021.  
+
+ 
+
+Going forward, the Group will avoid turn-key projects in the Northern regions of the 
+
+PRC where business environment has become more challenging over the years. We 
+
+will instead focus on other parts of the PRC, especially Tianjin, in securing and 
+
+investing in projects on sludge and industrial wastewater treatments which contain 
+
+long-term concession rights. In addition to the engineering, procurement and 
+
+construction works, these projects also offer operations and maintenance services 
+
+which enable the Group to generate stable and recurring income.   
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+14 | P a g e 
+
+ 
+
+Product Excellence 
+
+ 
+
+To embark on the Group’s transformational journey, we will re-position ourselves and 
+
+invest heavily in the following areas so that we can offer our customers the best 
+
+technologies in projects relating to sludge treatments and industrial wastewater:   
+
+ 
+
+1) Sludge Treatment Technologies 
+
+• 9 patented technologies to breakdown sludge particles  
+
+• This reduces the total sludge mass 
+
+• By-product of treated sludge can be recycled to produce building 
+
+materials etc. 
+
+ 
+
+ 
+
+ 
+
+2) Nanosun’s Hybrid Membrane 
+
+• Cylindrical-hollow structure instead of flat sheet to save space 
+
+• Hybrid organic polymer and inorganic crystalline titanium membrane 
+
+results in enhanced durability (pores will not collapse easily) 
+
+• Easy to clean; non sticky 
+
+• Cost-effective 
+
+• Uses significantly lesser chemicals 
+
+• Eliminate fouling  
+
+• Treats industrial wastewater which is recycled for industrial use 
+
+• Promotes environmental sustainability 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+15 | P a g e 
+
+ 
+
+Our Social  
+
+ 
+
+Being a responsible corporate and global citizen, sustainability is fully embedded in 
+
+LET’s values, which is reflected in how we enable innovation for our customers, as 
+
+well as in the way we operate as one team of 30 engaged employees around the 
+
+region. 
+
+ 
+
+Occupational Health and Safety 
+
+ 
+
+The Group is fully committed to the health and safety of our employees. We place 
+
+great value on our employees’ mental and physical well-being and are focused on our 
+
+efforts to ensure their health and safety.  
+
+ 
+
+The Group continues to promulgate the importance of safe work procedures to our 
+
+employees as evidenced by the list of programmes to continually enhance our 
+
+occupational health and safety management system. This management system 
+
+covers all employees at their respective workplace and management is again targeting 
+
+to maintain zero accident rate as per prior year.  
+
+ 
+
+Specific pre-employment training is one of the activities 
+
+carried out and strictly overseen. This is of paramount 
+
+importance to the health and safety of employees, given 
+
+the risk and nature of work at the work sites and operating 
+
+of equipment and machineries at work.  
+
+ 
+
+ 
+
+Highly qualified and experienced 
+
+project managers are on-site of work to oversee and provide 
+
+additional supervision and guidance to workers, especially 
+
+whereby specialised machinery is employed and on-site 
+
+assessment on the suitability for project usage is required. 
+
+ 
+
+ 
+
+In FY2020, the Group again maintained its excellent safety performance as in FY2019 
+
+by achieving its goal of zero occupational accident. The Group would like to thank all 
+
+employees for their great efforts and support given in actualising this goal.  
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+16 | P a g e 
+
+ 
+
+Managing COVID-19 
+
+ 
+
+We are pleased to inform that we have no cases of employees who were infected by 
+
+COVID-19 to date. 
+
+ 
+
+The Group continues to closely follow guidance from the local health authorities in 
+
+China, and we are constantly monitoring the evolving COVID-19 situation so as to be 
+
+ready to adapt our efforts and responses.  
+
+ 
+
+We will always place the health, safety and security of our employees, customers, 
+
+suppliers and stakeholders as our top priority. These include implementing safe 
+
+management practices which include the distribution of masks and disinfectants to all 
+
+employees and measurement of each employee’s body temperature daily before 
+
+commencement of work at project site and in office. In addition to the above measures, 
+
+regular cleaning and disinfection of office premises is conducted. 
+
+ 
+
+Group Vaccination Program 
+
+ 
+
+COVID-19 vaccination has yet to commence in Jilin province. However, our subsidiary 
+
+in Jilin has started to compile the headcount and their details for the government.  
+
+ 
+
+In our Singapore office, the Group also strongly encouraged the employees to register 
+
+for vaccination. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+17 | P a g e 
+
+ 
+
+Human Capital Development 
+
+ 
+
+People remain the cornerstone of our business. The Group remains committed to 
+
+investing in people development through upskilling of employees, enabling employees 
+
+to enhance their capabilities and capacity for growth, and to build a future-ready 
+
+workforce. 
+
+ 
+
+With this mind, the Group maintains a training programme to ensure that employees 
+
+are provided sufficient and appropriate training that enables them to continue to stay 
+
+relevant to the business and also for their professional development. The Group 
+
+conducted training and education courses for our employees. During FY2020, all 
+
+employees attended training courses catered to them according to the skill sets 
+
+required for their roles. 
+
+ 
+
+Figure 7: Training hours 
+
+ 
+
+ 
+
+Through the continuous monitoring of the effectiveness of the course and training 
+
+programmes and the training plan, the Group aims to build a highly competent, 
+
+innovative and skilled team.   
+
+ 
+
+The Group remains committed in our efforts in talent management. We have been 
+
+directing our focus to build a high performing team which works well together and 
+
+thereby grow our business. We strive to identify and groom future leaders amongst 
+
+the team and we stay focused in our efforts in providing resources to nurture such 
+
+talents. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+18 | P a g e 
+
+ 
+
+Our Governance 
+
+ 
+
+The Group is committed to conducting our 
+
+business in a responsible manner.  
+
+ 
+
+As always, the Board of Directors will 
+
+continue to uphold its overall oversight 
+
+responsibility of the established internal 
+
+control measures. Policies and procedures, 
+
+coupled with our corporate governance 
+
+framework, are implemented to monitor the 
+
+performance and progress of our sustainability commitments. Periodic evaluation of 
+
+the Group’s existing policies and procedures are conducted to ensure that the Group 
+
+stays relevant in the new normal. 
+
+ 
+
+Code of Conduct 
+
+ 
+
+The Group places top priority on ensuring that a very high standard of corporate 
+
+governance is upheld. The Group firmly believes that an ethical corporate environment 
+
+is indispensable for good corporate governance, as this will safeguard the interests of 
+
+the shareholders and investors’ confidence would also be elevated. 
+
+ 
+
+The Code of Conduct serves as the foundation for the Group’s effective corporate 
+
+governance. Our Code of Conduct provides our employees with clear and documented 
+
+guidance on acceptable standards of ethical behaviour and raises the employees’ 
+
+awareness of their corporate and social responsibilities towards shareholders and the 
+
+expected strict adherence to the Company’s established guidelines. 
+
+ 
+
+Delegation of Authority and Payment Approval Policy 
+
+ 
+
+During the year of 2020, the Group has implemented the delegation of authority 
+
+(“DOA”) and payment approval policy in the subsidiaries in China. To ensure 
+
+completeness and adequacy of these written policies on DOA, we have engaged our 
+
+internal auditors, MS Management Pte Ltd, to perform a review and make 
+
+recommendations so as to enhance the internal controls of our payment approval 
+
+process.      
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+19 | P a g e 
+
+ 
+
+Business Continuity Plan 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+The ongoing COVID-19 pandemic 
+
+puts our Business Continuity Plan 
+
+(“BCP”) to the test and we are 
+
+managing and navigating many 
+
+unexpected scenarios that were 
+
+evolving at a fast pace by 
+
+constantly 
+
+adapting 
+
+to 
+
+the 
+
+changing 
+
+environment. 
+
+The 
+
+recovery plan is documented 
+
+within the BCP together with the 
+
+operational guidance to allow the 
+
+stakeholders to put them into action. The BCP phases of assessment are illustrated in 
+
+the diagram. 
+
+ 
+
+ 
+
+Board of Directors (“BOD”) 
+
+ 
+
+The Group’s governance of sustainability is anchored by the BOD and the LET 
+
+management team. Under their leadership, LET strives to strengthen our internal 
+
+controls and risk management policies and procedures, in adherence to the latest 
+
+corporate governance standards.  
+
+ 
+
+The Group warmly welcomes Mr Lim Kuan Meng and Mr Lee Suan Hiang as 
+
+independent directors of the Board.  
+
+ 
+
+The 
+
+BOD 
+
+has 
+
+also 
+
+rejuvenated 
+
+and 
+
+strengthened its management team during the 
+
+year. This includes the appointment of Mr Ngoo 
+
+Lin Fong as Deputy CEO &amp; Finance Director, 
+
+Mr Li Li as Deputy CEO cum General Manager 
+
+of United Greentech (Tianjin) Co. Ltd, and Dr 
+
+Guo Chenghong as the Deputy Chief Technical 
+
+Officer.  
+
+ 
+
+Going forward, the Group will benefit from 
+
+these new directors and management team 
+
+who bring with them extensive and diverse 
+
+experience. 
+
+ 
+
+Figure 8: Phases of assessment 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Board of Directors
+
+
+
+
+
+
+
+Nominating 
+
+Committee (NC)
+
+
+
+
+
+
+
+Remuneration 
+
+Committee (RC)
+
+
+
+
+
+
+
+Audit Committee 
+
+(AC)
+
+
+
+
+
+
+
+Independent 
+
+Auditors
+
+
+ 
+
+20 | P a g e 
+
+ 
+
+ 
+
+GRI CONTENT INDEX 
+
+GRI 
+
+No. 
+
+Description 
+
+Page or direct references 
+
+GENERAL DISCLOSURES 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+LET Ltd.  
+
+102-2 
+
+Activities, brands, products, and services 
+
+Pg. 5 
+
+102-3 
+
+Location of headquarters 
+
+Pg. 5 
+
+102-4 
+
+Location of operations 
+
+Pg. 5 
+
+102-5 
+
+Ownership and legal form 
+
+Pg. 5 
+
+102-6 
+
+Markets served 
+
+Pg. 6 
+
+102-7 
+
+Scale of the organisation 
+
+Pg. 15 
+
+102-8 
+
+Information on employees and other workers 
+
+Pg. 15 
+
+102-9 
+
+Supply chain 
+
+Pg. 7 
+
+102-10 
+
+Significant changes to the organisation and its supply chain 
+
+No significant changes 
+
+102-11 
+
+Precautionary Principle or approach 
+
+Pg. 14 
+
+102-12 
+
+External initiatives 
+
+No external initiatives 
+
+102-13 
+
+Membership of associations 
+
+No 
+
+membership 
+
+of 
+
+associations 
+
+Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+Pg. 4 
+
+Ethics and integrity 
+
+102-16 
+
+Values, principles, standards, and norms of behaviour 
+
+Pg. 18 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Pg. 19 
+
+Stakeholder engagement 
+
+102-40 
+
+List of Stakeholder Groups 
+
+Pg. 8 
+
+102-41 
+
+Collective bargaining agreements 
+
+No 
+
+Collective 
+
+Bargaining 
+
+Agreement 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+Pg. 8 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+Pg. 8 
+
+102-44 
+
+Key topics and concerns raised 
+
+Pg. 8 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the consolidated financial statements 
+
+This is adopted in the FY 
+
+2020 Annual Report 
+
+102-46 
+
+Defining report content and topic Boundaries 
+
+Pg. 3  
+
+102-47 
+
+List of material topics 
+
+Pg. 9  
+
+102-48 
+
+Restatements of information 
+
+None 
+
+102-49 
+
+Changes in reporting 
+
+None 
+
+102-50 
+
+Reporting period  
+
+January to December 2020 
+
+102-51 
+
+Date of most recent report 
+
+20 July 2020 
+
+102-52 
+
+Reporting cycle 
+
+Annual 
+
+102-53 
+
+Contact point for questions regarding the report 
+
+Pg. 3 
+
+102-54 
+
+Claims of reporting in accordance with the GRI Standards 
+
+Pg. 3 
+
+102-55 
+
+GRI content index 
+
+Pg. 20 
+
+102-56 
+
+External assurance 
+
+None 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+21 | P a g e 
+
+ 
+
+GRI SPECIFIC DISCLOSURE CONTENT INDEX 
+
+Our People 
+
+GRI 
+
+No. 
+
+Description 
+
+Page or direct references 
+
+Occupational Health and Safety 
+
+403-1 
+
+Occupational health and safety management system 
+
+Pg. 15 
+
+403-3 
+
+Occupational health services 
+
+Pg. 15 
+
+403-5 
+
+Worker training on occupational health and safety 
+
+Pg. 15 
+
+403-6 
+
+Promotion of worker health 
+
+Pg. 15 
+
+403-7 
+
+Prevention and mitigation of occupational health and safety 
+
+impacts directly linked by business relationships 
+
+Pg. 15 
+
+403-8 
+
+Workers covered by an occupational health and safety 
+
+management system 
+
+Pg. 15 
+
+Training and Education 
+
+404-2 
+
+Programs for upgrading employee skills and transition assistance 
+
+programs 
+
+Pg. 17 
+
+ 
+

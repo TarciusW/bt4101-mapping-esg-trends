@@ -1,0 +1,3273 @@
+
+,  
+
+CREATING SUSTAINABLE VALUE 
+
+SUSTAINABILITY REPORT FY2021 
+
+TRITECH GROUP LIMITED
+
+
+
+
+1 
+
+CONTENTS 
+
+ABOUT THIS REPORT ............................................................................................................................... 2 
+
+BOARD STATEMENT  ............................................................................................................................... 3 
+
+TARGETS ................................................................................................................................................  4 
+
+SUSTAINABILITY REPORTING FRAMEWORK ............................................................................................ 5 
+
+STAKEHOLDER ENGAGEMENT  ................................................................................................................ 6 
+
+OUR MATERIAL FACTORS  ...................................................................................................................... 7 
+
+POLICY, PRACTICES AND PERFORMANCE  ............................................................................................. 8 
+
+ENVIRONMENTAL .................................................................................................................................... 8 
+
+1.1  Environmental IMPACT and Energy Consumption .............................................................................. 8 
+
+1.2  Waste Management ......................................................................................................................... 10 
+
+SOCIAL .................................................................................................................................................. 12 
+
+2.1  Employee Welfare and Development ................................................................................................ 12 
+
+2.2  Diversity – Gender and Race Equility ................................................................................................ 14 
+
+2.3  Vendor Qualification ......................................................................................................................... 17 
+
+2.4  Customer Satisfaction ........................................................................................................................... 17 
+
+2.5  Stakeholders and Community .......................................................................................................... 18 
+
+GOVERNANCE ........................................................................................................................................ 18 
+
+3.1  Board Diversity ............................................................................................................................... .18 
+
+3.2  Business Ethics and Anti-Corruption ................................................................................................ 19 
+
+3.3  Whistle-blower Policy ...................................................................................................................... 19 
+
+APPENDIX A LIST OF GROUP’S TRAINING COURSES (FY2021) ............................................................. 21 
+
+APPENDIX B GLOBAL REPORTING INITIATIVE CONTENT INDEX ............................................................ 22 
+
+
+2 
+
+ABOUT THIS REPORT
+
+Tritech Group Limited (hereafter referred to as “Tritech” or “Company” together with its subsidiaries “Group”) 
+
+has always recognised the importance of sustainability for the purpose of long-term value creation both in 
+
+terms of profitable growth as well as considering the environmental and social impacts of our operations. 
+
+We are pleased to report on our Sustainability Practices for the financial year from 1 April 2020 to 31 March 
+
+2021 (“FY2021”).  
+
+The scope of the report covers information on material sustainability aspects of the Group from 1 April 2020 
+
+to 31 March 2021 unless otherwise specified. This should sufficiently address stakeholders’ concerns in 
+
+relation to sustainability issues arising from the major business operations of the Group. 
+
+We prepared our Sustainability Report for FY2021 with reference to the Global Reporting Initiative (“GRI”) – 
+
+G4 Sustainability Reporting Guidelines issued by the Global Sustainability Standards Board. We are also 
+
+guided by Practice Note 7F of the Sustainability Reporting Guide under the Singapore Exchange Securities 
+
+Trading Limited (“SGX-ST”) Listing Manual Section B: Rules of Catalist (“Catalist Rules”). Based on the GRI’s 
+
+recommended approach to sustainability reporting and SGX-ST’s Sustainability Reporting Guide, this report 
+
+covers key areas of sustainability namely, environmental, social and governance (“ESG”) factors. In preparing 
+
+our report, we applied the GRI’s principles for defining report content and report quality by considering the 
+
+Group’s activities, impacts and substantive expectations and interests of its stakeholders. 
+
+The data and information provided within the report have not been verified by an independent third party. 
+
+We have relied on internal data monitoring and verification to ensure accuracy. 
+
+The key material ESG factors for the Group have been identified and were reviewed by the Chairman and 
+
+the Managing Director (“MD”). The Board of Directors (the “Board”) of the Company oversees the 
+
+management and monitoring of these factors and takes them into consideration in the determination of the 
+
+Group’s strategic direction and policies. Sustainability is a part of the Group’s wider strategy to create long 
+
+term value for all its stakeholders. 
+
+
+3 
+
+BOARD STATEMENT
+
+Tritech is a One-Stop Solution Provider for urban development including urban infrastructure and water &amp; 
+
+environmental protection. The Group serves a broad range of industries, such as infrastructure, oil &amp; gas, 
+
+commercial &amp; high-end residential property developments, water products and wastewater treatment 
+
+facilities. Over the years, the Group has established a strong foothold in projects for government statutory 
+
+boards such as the Jurong Town Corporation, Land Transport Authority, Housing and Development Board 
+
+and Public Utilities Board. Since inception, Tritech has built an excellent reputation as a specialist 
+
+engineering group with capabilities to provide full range of one-stop engineering services based on our 
+
+technical expertise and proprietary technologies. The Group continues to develop and build on its 
+
+capabilities in water and environmental protection. 
+
+Tritech continues to create long-term value and safeguard the sustainability of our operations with the 
+
+support of our trusted partners and business communities. We continue to form and maintain deep, 
+
+authentic and respectful relationships with all of our stakeholders. Sustainability is one of our core values 
+
+and we do so by putting health and safety first, being environmentally responsible and supporting our 
+
+communities. We provide the environment for the well-being of our people, the community and the 
+
+environments. 
+
+The business environment was challenging in FY2021 as the COVID-19 pandemic and resurgence of new 
+
+infections around the world continued to disrupt business operations. As we adapt to the new normal amid 
+
+the COVID-19 pandemic, the Group has stepped up our safe management measures for the well-being of 
+
+our people and to comply with the government regulations.  
+
+The outbreak of COVID-19 in FY2021 has spawned a shift in social behaviour towards greater emphasis on 
+
+personal hygiene and environment cleanliness, spurring the growth of sanitisers and disinfectant products 
+
+around the world. 
+
+Leveraging on our entrenched expertise in water and membrane technologies, the Group has expanded our 
+
+product lines into sanitisers and disinfectants. We developed and successfully produced small batches of 
+
+environmentally friendly cleaning solutions with high alkalinity called VaVie™ Clean Wash Sanitize (“CWS”) 
+
+since September 2020. This addition to our existing product lines will not only provide a new revenue stream 
+
+to the Group, but also extends the penetration of our water technologies beyond municipals and industrial 
+
+factories to cover retail, commercial and industrial markets. 
+
+
+4 
+
+TARGETS 
+
+Tritech has identified the key factors necessary for sustainability. The Group has successfully attained the 
+
+targets set since the inception of the first Sustainability Reporting in FY2018 with the exception of 
+
+FY2021.The deviations in FY2021 were explained in section 1.1.  
+
+Due to the emergence of COVID-19, our business strategy has evolved and adjusted to suit the new normal. 
+
+COVID-19 outbreak has accelerated the adoption of technology in the company as social and mobility 
+
+restrictions were enforced to stem the spread of COVID-19. Tritech has developed an Artificial Intelligence-
+
+based Data Analytics System (“ADAS”) to digitalise both our engineering, and water-related and 
+
+environmental businesses and propel the Group’s transformation for the future. We are continuing to make 
+
+key add-ons to our ADAS which serves as our monitoring and analysis software to digitialise our engineering, 
+
+and water and environmental projects and businesses. The Group is targeting to integrate the ADAS platform 
+
+into our daily operations for the monitoring, automating, reporting, analysis, and management of our projects, 
+
+and gradually transform our overall operation into a self-sustaining ecosystem. 
+
+Further, we affirm our commitment to sustainability with the publication of the Group’s first sustainability 
+
+report in FY2018 as guided by the Global Reporting Initiative Standards (2016). We have been deeply 
+
+involved in developing the content of this sustainability report, including the development of material ESG 
+
+factors, and will continue to monitor, review and update our material ESG factors from time to time, and 
+
+improve on our sustainability reporting to create value for our shareholders and various stakeholders.  
+
+Another of our strategy is to continuously build up competent teams of employees with motivation for 
+
+excellence.  We target to motivate all our employees to share the core values of the Group in carrying out 
+
+their duties with professionalism, honesty and integrity. 
+
+Finally, the Group is progressively introducing new technological and management skills to improve our 
+
+productivity, quality and sustainability.  
+
+
+5 
+
+SUSTAINABILITY REPORTING FRAMEWORK 
+
+The Group has adopted the GRI framework as it is currently the most widely adopted sustainability reporting 
+
+framework. The GRI reporting framework provides flexibility to the reporters so that they can connect 
+
+reporting to their strategic targets and sustainability impacts.  
+
+This reporting process helps us to gain a comprehensive understanding of the risks and opportunities for 
+
+the business. Sharing information about policies and performance on environmental, social and governance 
+
+issues helps the Group to build trust with our customers and partners, monitor and mitigate risk, and find 
+
+ways to improve efficiency, resulting in a positive impact on the financial results.  
+
+As seen below, our sustainability reporting framework involves all echelons of the Group as we believe that 
+
+everyone should have a role in advancing our sustainability goals.  
+
+
+
+Employee Working Groups
+
+(Bi-Weekly)
+
+
+
+Middle-management enforces 
+
+sustainability policies and gather 
+
+feedback on sustainability 
+
+practices from the ground
+
+(Monthly)
+
+
+
+Develops and executes 
+
+sustainability strategies
+
+(Quarterly) 
+
+
+
+Identifies and reviews ESG 
+
+factors, monitors the overall 
+
+sustainbability peformance of the 
+
+company
+
+(Bi-Annual)
+
+
+
+BOARD OF 
+
+DIRECTORS
+
+
+
+EXECUTIVE 
+
+COMMITTEE
+
+
+
+SUSTAINABILITY 
+
+COMMITTEE
+
+
+
+Environment
+
+
+
+Social
+
+
+
+Governance
+
+
+6 
+
+STAKEHOLDER ENGAGEMENT 
+
+We engage with our key stakeholders continuously to align our sustainability approach with their 
+
+expectations and to better understand the material factors that will affect them. 
+
+Key Stakeholders 
+
+Key Issues Raised 
+
+Methods of Engagement 
+
+Employees 
+
+
+
+Employment 
+
+and 
+
+career 
+
+opportunities 
+
+
+
+Skill, knowledge and Training
+
+
+
+Health and safety 
+
+
+
+Performance reviews. 
+
+
+
+Professional trainings 
+
+
+
+Workplace health and safety 
+
+activities 
+
+
+
+Whistle-blowing mechanism 
+
+Suppliers and Contractors 
+
+
+
+Economic Performance 
+
+
+
+Procurement Practices 
+
+
+
+Quality Performance 
+
+ Regular site visits 
+
+ Face-to-face meetings, emails and 
+
+phone calls 
+
+ Conformance to requirements 
+
+ Whistle-blowing mechanism 
+
+Government and Regulatory 
+
+Bodies 
+
+
+
+Regulatory compliance 
+
+
+
+Meeting with authorities 
+
+
+
+Attendance at seminars and 
+
+workshops organised by 
+
+regulatory bodies 
+
+Investors and Shareholders 
+
+
+
+Economic Performance  
+
+
+
+Growth strategy and future 
+
+outlook 
+
+ Annual General Meeting  
+
+ Annual report 
+
+ SGXNet announcements 
+
+ One-on-one investor meeting  
+
+Customers 
+
+
+
+Customer satisfaction 
+
+
+
+Warranty programmes 
+
+ Customer surveys 
+
+ On-time Completion  
+
+ Zero defects &amp; Safety 
+
+Based on the stakeholder engagement, we developed our sustainability materiality matrix containing 
+
+material factors which are aligned with our principal business and operational risks and formed our 
+
+sustainability strategy which has shaped our approach to sustainability reporting, as illustrated in the 
+
+diagram in the following section below.
+
+
+7 
+
+OUR MATERIAL FACTORS
+
+We are of the view that sustainability should be fundamental to the long-term viability of our organisation. 
+
+We have identified the material factors that are important to the sustainability of our organisation, namely 
+
+environmental, social and governance. We seek to address sustainability issues by aligning our business 
+
+practices to these material ESG factors. At the same time, we remain vigilant in mitigating the risks that may 
+
+come with changes in our external environment. The COVID-19 pandemic had changed the business 
+
+landscape significantly and we must be vigilant to adapt the new evolving trend. 
+
+The Group has identified the following material ESG factors for the current and mid-term operations. In the 
+
+coming years, the Group will continue to adjust and introduce new processes to enhance these material 
+
+ESG factors. Human resource developments, quality of management and stakeholder loyalty are the key 
+
+success factors that the Group believes are paramount for their sustainability in the changing world. 
+
+
+
+Environmental
+
+
+
+• Environmental 
+
+Impact
+
+• Energy 
+
+Consumption
+
+• Waste 
+
+Management
+
+
+
+Social
+
+
+
+• Employee Welfare
+
+• Employee 
+
+Development 
+
+• Gender and Race 
+
+Equality
+
+• Vendor 
+
+Qualification
+
+• Customer 
+
+Satisfaction
+
+• Stakeholders and 
+
+Community
+
+
+
+Governance
+
+
+
+• Board Diversity
+
+• Business Ethics
+
+• Anti-Corruption
+
+• Whistle-blower 
+
+Policy
+
+
+8 
+
+POLICIES, PRACTICES AND PERFORMANCE 
+
+ENVIRONMENTAL 
+
+1.1   Environmental Impact and Energy Consumption 
+
+The Group business had grown in early FY2021 with a strong order book. In FY2021, revenue from the Group’s 
+
+Continuing Operations more than doubled to $22.9 million from $10.6 million in FY2020.  The team members and 
+
+resources required for the work were increased due to the additional workloads.  As a result, the budgetary 
+
+consumption targets in the Group had been exceeded.   
+
+Comparison of the Group’s consumption trends between FY2020 and FY2021 
+
+Category 
+
+FY2021 (S$) 
+
+FY2020 (S$) 
+
+% Variance 
+
+Electricity consumption 
+
+76,598 
+
+68,579 
+
+11 % 
+
+Paper consumption 
+
+   7,050 
+
+4,963 
+
+42 % 
+
+Water consumption 
+
+41,605 
+
+23,091 
+
+80 % 
+
+With more than doubling of the Group revenue, there was a relatively small increase in the electricity 
+
+consumption.  This was the result of more management initiatives to curtail electricity consumption as 
+
+elaborated below.  
+
+The increase in water consumption for FY2021 was also attributed to more frequent cleaning and washing 
+
+of common spaces such as toilets, lifts, and lift lobby, which is part of our efforts to ensure enhanced 
+
+cleaning and hygienic spaces to reduce the risk of COVID-10 transmission and to protect our essential 
+
+employees that need to be in our building for work. The FY2022 targets are set out as below: 
+
+Group’s Electricity, Paper &amp; Water Consumption Targets for FY2022 
+
+Category 
+
+FY2022 (S$) 
+
+Electricity consumption 
+
+129,750 
+
+Paper consumption 
+
+7,500 
+
+Water consumption 
+
+55,000 
+
+
+9 
+
+The Group is planning to commence mass production of our water-based sanitiser products in FY2022. A 
+
+semi-automated factory will be setup in our existing building to produce a range of products for local and 
+
+overseas markets. We plan to gradually increase our production capacity to 2,000 bottles per hour of the 
+
+500ml products at the second half of FY2022. There will be significantly higher requirements of electricity 
+
+and water consumptions. 
+
+The electricity consumption for FY2022 is estimated to increase by about 69 % mainly due to the setting up 
+
+of a new factory, commissioning and operation of the production machineries, air-conditioning, lighting and 
+
+air-filtering for the cleanroom facility. We shall install the energy saving air-conditioning systems with built-
+
+in inverter for maximum saving in electricity consumption. We are also expecting the water consumption 
+
+volume to be increased being the main raw material in the production. The increase in water consumption 
+
+is expected to be approximately 32% over FY2021.  
+
+Electricity Management and Efficiency 
+
+The Group has implemented some new initiatives to manage the electricity consumption in FY2021 as 
+
+follows:  
+
+
+
+Installed timer for perimeter lighting to limit usage. 
+
+
+
+All Level 3 and Level 4 office lighting have been replaced with low energy consumption LED light 
+
+tubes. 
+
+
+
+Instructed security guards to switch off unnecessary light and air-conditioning at 7pm and a full 
+
+shut down at 10pm. 
+
+
+
+Savings on electricity consumption by natural ventilation to more places to reduce air-conditioning 
+
+demands; and 
+
+
+
+Deployment of automated motion sensors which turn lights on more areas when someone enters 
+
+the area and turn lights off soon after the last occupant has left the area.
+
+
+10 
+
+1.2  Waste Management  
+
+Paper Management and Efficiency 
+
+Paper management is an important aspect in contributing towards a greener environment. We continued to 
+
+emphasize using more e-messaging, less paper printing and paper recycling. These conscious saving efforts 
+
+were done by our staff in the Group. Default settings for double-sided and non-colour printing, use of emails 
+
+and tracking of paper consumption were key measures implemented by our staff to use less paper.  
+
+However, the actual usage for FY2021 had increased significantly due to external business demands for the 
+
+preparation of sales proposals and higher quality documentation. In FY2022, the Group expects similar 
+
+attributes to internal paper consumption but will explore other alternative paper management strategies to 
+
+improve paper conservation. 
+
+Water Management and Efficiency  
+
+Our core business is in water resources and management. The Group understands the importance of water 
+
+conservation and has explored new conservation processes and monitored relevant developments in the 
+
+industry. 
+
+The management target to reduce overall water consumption in FY2021 had been exceeded due to more 
+
+operational and higher product demands. However, the Group has continuously monitored and conserved 
+
+the in-house water consumption levels. The following were some of the implementations installed by the 
+
+Group to minimise water wastage: 
+
+
+
+Flow regulators at key processes;  
+
+
+
+Self-closing delayed action faucets/motion-activated faucets for all washing areas; and 
+
+
+
+Dual flush/low flush toilets.
+
+
+11 
+
+The chart below shows the comparison of various key resource consumptions in the Group and changes 
+
+from FY2019 to FY2021.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8,330 
+
+4,963 
+
+7,050 
+
+146,504 
+
+68,579 
+
+76,598 
+
+57,167 
+
+23,091 
+
+41,605 
+
+ -
+
+ 20,000
+
+ 40,000
+
+ 60,000
+
+ 80,000
+
+ 100,000
+
+ 120,000
+
+ 140,000
+
+ 160,000
+
+FY2019
+
+FY2020
+
+FY2021
+
+CONSUMPTIONS (S$)
+
+YEAR
+
+ANNUAL COMPARISION OF 
+
+CONSUMPTIONS 
+
+
+
+
+
+PAPER
+
+
+
+
+
+ELECTRICITY
+
+
+
+
+
+WATER
+
+
+12 
+
+SOCIAL 
+
+2.1  Employee Welfare and Development 
+
+We place great emphasis on our employees’ progress and development within the Group and seek to 
+
+enhance their capabilities and work prospects through various internal and external skill development 
+
+programmes.  
+
+The Group had always adopted the learning culture to develop willing staff to their best potentials. With the 
+
+increase in new team members and due to Covid-19 restrictions during FY2021, we have enrolled them to 
+
+online courses in safety and professional proficiency trainings and certifications. In FY2021, we have 
+
+organised several new training courses as shown in Appendix A for our Group’s employees. 
+
+All staff sign employment contracts with the key employment terms and conditions clearly spelt out. This 
+
+allows our staff to fully understand their rights and obligations as well as those of the Group, thus minimising 
+
+potential employment disputes in the future. Key employment terms specified in the employment contract 
+
+include job title and description, duration of employment, working hours, salary and allowances, 
+
+contributions/deductions, leave entitlements, probation and notice periods, key insurance and medical 
+
+benefits.  
+
+All regular full-time staff undergo an annual performance review where there is an open discussion on the 
+
+staff’s performance, areas for improvement, developmental needs and career plans.  
+
+Our employees are encouraged to participate in training and development programmes such as professional 
+
+training, executive and leadership development as well as technical seminars for career growth and personal 
+
+development.  
+
+In FY2022, the Group will develop more staff with the latest advancements in  
+
+technologies and with relevant certifications for skilled works.  
+
+Positive Work Environment 
+
+The Group recognises that a positive work environment is essential to attract, motivate and retain talent. A 
+
+total well-being programme has been put in place to promote personal development, health and work-life 
+
+harmony. Initiatives include a flexible medical and benefits plan, flexible work arrangements and staff 
+
+engagement initiatives. The Group advocates a pay-for-performance philosophy to drive ownership of 
+
+collective goals leading to a high performance culture which creates long-term shareholder value. Its robust 
+
+performance management system ensures that all staff receive regular performance and career development 
+
+reviews.
+
+
+13 
+
+Central Provident Fund (“CPF”) Scheme and Contributions 
+
+In Singapore, the CPF is a comprehensive social security savings plan introduced by the Singapore 
+
+government to enforce savings by salaried workers for a more secured retirement. Under the CPF scheme, 
+
+the Group and its staff make monthly contributions to the staff’s CPF account in accordance with the 
+
+prevailing regulations. Apart from complying with Singapore’s statutory requirements on making monthly 
+
+contributions to staff’s CPF accounts, the Group also adheres to the respective social security contribution 
+
+or pension plan obligations of the countries it operates in. 
+
+The safety and health of our Group’s employees and workers may affect their performance and productivity. 
+
+It is therefore important to manage occupational health and safety risks whilst promoting healthy lifestyles 
+
+and holistic wellness at the workplace. We are committed to ensuring a safe workplace environment for all 
+
+our employees and workers. 
+
+As most of the Group activities are outdoors (construction sites), efforts have been made to control 
+
+incidents/accidents rate to within two cases per year. 
+
+In FY2021, there was one minor incident. A worker had a minor cut on the eyebrow and treated on site. He 
+
+then was sent back to the dormitory and given two days of medical leave. 
+
+To prevent the recurrence of such incidents, the following recommendations were implemented in a timely 
+
+manner after the incidents: 
+
+a.
+
+Briefing of the activity’s risk assessment and relevant safety procedures by the departmental 
+
+managers; 
+
+b.
+
+Workers were reminded of attentiveness to their working environment and not to take any 
+
+unnecessary risk. 
+
+c.
+
+Working with due diligence and ensuring safety measures are in place before and during site works 
+
+by the site supervisor.  
+
+d.
+
+The Group follows proper incident management procedures that establish guidelines for carrying 
+
+out thorough investigation after the occurrence of any accident, incident or emergency. 
+
+e.
+
+Ensure every worker in the Group attends a relevant work safety course before commencement of 
+
+ 
+
+the work and annually for updated information or regulations.
+
+
+14 
+
+In FY2022, the Group aims to reduce the frequency of accidents and to achieve a zero-harm policy by 
+
+FY2023. We had organised an updated quality, environmental, health and safety campaign. Through these 
+
+safety awareness events, the management hopes to raise the risk awareness levels within the workforce and 
+
+to improve our benchmark in quality standards.  
+
+The Group’s care is not only restricted to our employees but also to their family members, their health and 
+
+well-being. All our employees and their family members have access to annual complimentary basic health 
+
+screenings. They are also offered comprehensive health screening packages at preferential corporate rates. 
+
+We assist our employees in achieving work-life balance by observing a five-day work week, having regard 
+
+to the requirements of the Group and the exigencies of the business.  
+
+2.2  Diversity – Gender and Race Equality 
+
+We maintained a reasonable balance in important societal aspects namely gender, educational level, age 
+
+group, and race. This model enables us to create a more flexible working environment for the Group and its 
+
+workforce.  
+
+The graphs below show our current progress in meeting our diversity goals. 
+
+i)
+
+Gender 
+
+ii)
+
+Educational level 
+
+iii)
+
+Age group 
+
+iv)
+
+Race 
+
+
+15 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+436
+
+122
+
+296
+
+34
+
+303
+
+38
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+Male
+
+Female
+
+Number of Employees
+
+GROUP'S EMPLOYEE GENDER
+
+
+
+
+
+FY2019
+
+
+
+
+
+FY2020
+
+
+
+
+
+FY2021
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+232
+
+74
+
+183
+
+69
+
+142
+
+29
+
+121
+
+38
+
+139
+
+30
+
+130
+
+42
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+O-Level
+
+Diploma
+
+Degree
+
+Post Graduate
+
+Number of Employees
+
+GROUP'S EMPLOYEE EDUCATION LEVEL
+
+
+
+
+
+FY2019
+
+
+
+
+
+FY2020
+
+
+
+
+
+FY2021
+
+
+16 
+
+Inclusion and diversity 
+
+We believe that all our employees should have the opportunity to fulfil their potential and thrive in an 
+
+inclusive and diverse workplace. This helps to promote safety, productivity and well-being within the Group. 
+
+We employ, develop and promote people based on merit and do not tolerate any form of unlawful 
+
+discrimination, bullying or harassment. Our systems, processes and practices empower fair treatment to all. 
+
+Work Benefits  
+
+The Covid-19 pandemic intrusion in FY2021 had created significant disruptions in many businesses. The 
+
+Group had responded to this challenge with flexi-hours, Work From Home procedures and enhanced Safety 
+
+Management System. Our IT department had assisted staff in remote data communication and conferencing. 
+
+We had also provided financial assistance to our low-income workers with the “COVID-19 Monetary Bonus” 
+
+for the months of July 2020 till September 2020. In addition, we provided our staff with other items such as 
+
+fruits and in-house sanitizer products. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+147
+
+216
+
+43
+
+61
+
+21
+
+97
+
+107
+
+69
+
+39
+
+18
+
+100
+
+105
+
+70
+
+50
+
+16
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+&lt;30
+
+31-40
+
+41-50
+
+51-60
+
+&gt;60
+
+Number of Employees
+
+EMPLOYEE AGE GROUP
+
+
+
+
+
+FY2019
+
+
+
+
+
+FY2020
+
+
+
+
+
+FY2021
+
+
+17 
+
+2.3  Vendor Qualification
+
+We strive to embed sustainability principles at all points within our supply chain, to grow long-term 
+
+environmental, social and economic value for all stakeholders.  
+
+To achieve our mission, we have implemented purchasing processes, procedures and guidelines to operate 
+
+an effective and efficient purchasing system and ensure the quality of our suppliers based on the latest ISO 
+
+9001:2015 standards in our Singapore subsidiaries. The Group’s vendors are evaluated and qualified based 
+
+on their competitive pricing, workmanship/quality, service/support, on time delivery and Quality 
+
+Environmental Health and Safety (“QEHS”) compliance, to assess their reliability and past performance 
+
+records on an annual basis. Only approved external providers are allowed to provide goods and services for 
+
+our projects. 
+
+We reviewed our vendor qualification procedures during the annual Singapore Accreditation Council audit 
+
+in November to December 2020. The evaluation criteria and data collection methods were further improved 
+
+and designed into the vendor qualification form. 
+
+2.4  Customer Satisfaction  
+
+The Group remains strongly committed to our customers. We have been providing competent professionals 
+
+and expertise to execute our operations safely and we believe that a systematic Operational Health &amp; Safety 
+
+(“OHS”) system will help uphold the company brand reputation with our employee and customers.  
+
+Qualified safety professionals and an operations team are deployed for every project to analyse and mitigate 
+
+the associated hazards and risks by carefully studying the project site-specific operations, surrounding 
+
+environment and OHS expectations of our customers. 
+
+Collectively, the QEHS policy sets out our targets towards maintaining the highest quality standards and 
+
+guides our practices towards satisfying our customers’ needs. Employees and customers are able to voice 
+
+out concerns and grievances relating to our quality of work through our general corporate relations channel. 
+
+The Group management welcomes feedback as invaluable to further improving our services and operations. 
+
+We had collected more feedbacks from key project clientele and used them to plan for better execution of 
+
+future projects and to adjust or improve our operations. 
+
+The Group’s management is aware that our customers are the most important assets.  
+
+We shall continue to execute our customer requirements diligently to ensure that our customers get their 
+
+deliverables on schedule and with assured satisfaction.
+
+
+18 
+
+2.5  Stakeholders and Community
+
+We seek to build good relationships with our stakeholders based on mutual respect and transparency over 
+
+our business activities with open communication. Our practitioners use a range of tools that are tailored to 
+
+the needs of our stakeholders. We plan, implement, evaluate and document stakeholder engagement 
+
+activities which include a range of culturally and socially inclusive engagement activities and update our 
+
+plans annually. Tools include stakeholder mapping, complaints and grievance reporting procedures, 
+
+perception surveys, social impact and opportunity assessments and human rights impact assessments.  
+
+Through these, we gain valuable insights into what we do well and where we need to improve our 
+
+performance. We also seek opportunities to actively participate in forums and discussions on themes that 
+
+span our global communities such as environment, sustainable development, transparency and human 
+
+rights.
+
+GOVERNANCE  
+
+3.1  Board Diversity 
+
+With regards to the Board composition, the Nominating Committee evaluates the diversity and balance of 
+
+skills, gender, knowledge, experience and size of the Board which would facilitate decision-making. In light 
+
+of such evaluation and consultation with management, the Nominating Committee assesses if there is any 
+
+inadequate representation in any of those attributes and if so, determines the role and the desirable 
+
+competencies for a particular appointment. 
+
+Notwithstanding the above, the Nominating Committee recognises the merits of gender diversity in relation 
+
+to the composition of the Board and in identifying candidates for new appointment to the Board, would 
+
+consider suitable female candidates. Having said that, while gender is one aspect of diversity, new directors 
+
+will continue to be selected based on objective criteria set as part of the process for appointment of new 
+
+directors and Board succession planning. For more information on the process of appointment of new 
+
+directors, please refer to the Group’s FY2021 Annual Report. 
+
+The Group conducts business with uncompromising honesty and integrity, adhering to laws, regulations, 
+
+and our written code of conduct. Our commitment to combat bribery and corruption is fundamental to how 
+
+we operate and is embedded into our key systems and programmes.
+
+
+19 
+
+3.2  Business Ethics and Anti-Corruption 
+
+We believe corruption misallocates resources, reinforces poverty, undermines the integrity of the Group, 
+
+community decision-making and wastes opportunities that arise from resource development.  
+
+We are committed to contributing to the fight against corruption and working with businesses, the 
+
+government and civil society to support this effort. We also have a specific anti-corruption procedure that 
+
+sets out mandatory requirements to identify and manage the risk of anti-corruption laws being breached.  
+
+The Group resolved to continue its strict corporate governance on illegal matters or malpractice. We prohibit 
+
+authorising, offering, giving or promising anything of value directly or indirectly to a government official to 
+
+influence official action, or to anyone to encourage them to perform their work disloyally or otherwise 
+
+improperly. We also require our people to take care that third parties acting on our behalf do not violate 
+
+anti-corruption laws. A breach of these requirements can result in disciplinary action, including dismissal.  
+
+There was no corruption case involving the Group in FY2021 and as at the date of this report, the Group is 
+
+not the subject of any charges or investigations or has been interviewed or asked to assist in any 
+
+investigations. 
+
+The Group will continue to strive to maintain zero corruption cases in FY2022. 
+
+3.3  Whistle-blower Policy  
+
+The Group has a zero-tolerance policy towards fraud and corruption and has established whistle-blowing 
+
+procedures for employees and other persons to raise, in confidence, concerns of possible improprieties and 
+
+provides assurance to all our stakeholders including investors and customers.  
+
+Integrity and ethical behaviour remain as the fundamental elements in the context of our code of conduct 
+
+and this has been cascaded from top to bottom and across all levels within the Group. In addition, we have 
+
+a whistle-blowing policy in place to enable our employees and external parties such as suppliers and 
+
+customers to report any non-compliance or dishonest practices or signal serious matters that they may be 
+
+aware of. 
+
+The key details on the Group’s whistle-blowing policy are as follows:  
+
+
+
+The Audit Committee (“AC”) has authority to investigate any matter including whistle-blowing within 
+
+its terms of reference.  
+
+
+
+All whistle-blower complaints will be reviewed by the AC to ensure independent and thorough 
+
+investigation and adequate follow-up. 
+
+
+
+The Group has maintained a whistle-blowing register to record all the whistle-blowing incidents. 
+
+
+20 
+
+
+
+Reports made anonymously will not be considered unless as directed by the AC. The AC will 
+
+consider factors such as the severity of the matters raised to determine if the AC may accept 
+
+anonymous disclosures. If accepted by the AC, anonymity and confidentiality will be honoured 
+
+throughout the process. 
+
+
+
+There were no reported case of incidents in the register during the AC quarterly review meetings. 
+
+In addition, the Group’s staff and any other persons may, in confidence, raise concerns about possible 
+
+improprieties in matters of financial reporting or other matters by submitting a whistle-blowing report to the 
+
+members of the AC via email: whistleblow@tritech.com.sg.  
+
+To date, there have been no whistle-blowing reports received. The Group will continue to strive for the 
+
+highest level of governance and to continue the zero incidence of whistle-blowing for FY2022.  
+
+
+21 
+
+Appendix A:  List of the Group’s Training Courses (FY2021) 
+
+S/N 
+
+Course 
+
+Month 
+
+In 2020 
+
+1 
+
+Workplace Safety &amp; Health Management construction industry BCSS  
+
+April
+
+2 
+
+BESafe Training for workers 
+
+June 
+
+3 
+
+Safety Management Officer course 
+
+June 
+
+4 
+
+Safety Management Officer course 
+
+July 
+
+5 
+
+Occupational First Aid Course Refresher 
+
+August 
+
+6 
+
+Occupational First Aid Course 
+
+September 
+
+7 
+
+Apply workplace Safety and Health in Construction sites-ACS-BEN 
+
+September 
+
+8 
+
+Apply workplace Safety and Health in Construction sites-ACS-TAM 
+
+September 
+
+9 
+
+Occupational First Aid Course 
+
+October 
+
+10 
+
+Registered Earthworks Supervisor 
+
+October 
+
+11 
+
+BizSAFE 2 –Develop a Risk Management Implementation Plan 
+
+November 
+
+12 
+
+Workplace Safety &amp; Health Management construction industry BCSS 
+
+November 
+
+13 
+
+Perform work in Confined space operation 
+
+November 
+
+14 
+
+Perform work in Confined space operation 
+
+December 
+
+15 
+
+Workplace Safety &amp; Health Management construction industry BCSS 
+
+December 
+
+In 2021 
+
+16 
+
+Apply workplace Safety and Health in Construction sites 
+
+January 
+
+17 
+
+Apply workplace Safety and Health in Construction sites-ACS-TAM 
+
+January 
+
+18 
+
+Workplace Safety &amp; Health Management construction industry BCSS 
+
+January 
+
+19 
+
+Electrical Works - CET 
+
+February 
+
+20 
+
+Soil Drilling &amp; Instrumentation 
+
+February 
+
+21 
+
+Occupational First Aid Course Refresher 
+
+February 
+
+22  
+
+W&amp;Q Perform work in confined space operation 
+
+February 
+
+23 
+
+Apply workplace Safety and Health in Construction sites 
+
+March 
+
+24 
+
+Workplace Safety &amp; Health Management construction industry BCSS 
+
+March 
+
+25 
+
+Apply workplace Safety and Health in Construction sites-ACS-TAM 
+
+March 
+
+26 
+
+Occupational First Aid Course Refresher 
+
+March 
+
+
+22 
+
+Appendix B 
+
+GLOBAL REPORTING INITIATIVE CONTENT INDEX 
+
+(Sources: Sustainability Report (SR) and Annual Report (AR) FY2021) 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and 
+
+Remarks 
+
+GRI 102 
+
+Organizational 
+
+Profile 
+
+102-1 
+
+Name of Organization 
+
+SR Cover Page 
+
+102-2 
+
+Activities, brands, products and services 
+
+AR Page 2 
+
+102-3 
+
+Location of headquarter 
+
+AR Page 20 
+
+102-4 
+
+Location of operations 
+
+AR Page 20 
+
+102-5 
+
+Ownership and legal form 
+
+AR Page 79 
+
+102-6 
+
+Markets served 
+
+AR Page 139-143 
+
+102-7 
+
+Scale of organization 
+
+AR Page 1 
+
+102-8 
+
+Information on employees and other workers 
+
+SR Page 15 
+
+102-10 
+
+Significant changes to the organization and its 
+
+supply chain 
+
+No significant 
+
+change 
+
+102-11 
+
+Precautionary Principle or approach 
+
+AR Page 21-61 
+
+GRI 102 Strategy 
+
+102-14 
+
+Statement from senior decision-maker 
+
+AR Page 4-6 
+
+
+23 
+
+Appendix B 
+
+GLOBAL REPORTING INITIATIVE CONTENT INDEX 
+
+(Sources: Sustainability Report (SR) and Annual Report (AR) FY2021) 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and 
+
+Remarks 
+
+GRI 102 Ethics 
+
+and integrity 
+
+102-16 
+
+Values, principles, standards and norms of 
+
+behaviour 
+
+AR Page 23
+
+GRI 102 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+AR Page 22
+
+102-20 
+
+Executive-level responsibility for economic, 
+
+environmental and social topics
+
+AR Page 26
+
+102-22 
+
+Composition of the highest governance body and 
+
+its committee
+
+AR Page 22
+
+102-23 
+
+Chair of the highest governance body  
+
+AR Page 22
+
+102-25 
+
+Conflict of interest 
+
+AR Page 23
+
+102-26 
+
+Role of the highest governance body in setting 
+
+purpose, values and strategy 
+
+AR Page 32
+
+102-29 
+
+Identifying and managing economic, 
+
+environmental and social impacts
+
+SR Page 7
+
+102-32 
+
+Highest governance body’s role in sustainability 
+
+reporting
+
+SR Page 5
+
+102-33 
+
+Communicating critical concerns 
+
+SR Page 7
+
+102-34 
+
+Nature and total number of critical concerns 
+
+SR Page 7
+
+102-35 
+
+Remuneration policies 
+
+AR Page 41
+
+
+24 
+
+Appendix B 
+
+GLOBAL REPORTING INITIATIVE CONTENT INDEX 
+
+(Sources: Sustainability Report (SR) and Annual Report (AR) FY2021) 
+
+Category 
+
+Disclosure 
+
+Description 
+
+Page Reference and 
+
+Remarks 
+
+GRI 102 
+
+Stakeholder 
+
+engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+SR Page 6 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+SR Page 6 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+SR Page 6 
+
+102-44 
+
+Key topics and concerns raised 
+
+SR Page 6 
+
+GRI 102 Reporting 
+
+practice 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+AR Page 3 
+
+102-47 
+
+List of material topics 
+
+SR Page 7 
+

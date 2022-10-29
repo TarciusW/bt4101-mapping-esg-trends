@@ -1,0 +1,8334 @@
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+1 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+About this Report 
+
+2 
+
+About Medtecs 
+
+4 
+
+Message from the Chairman 
+
+10 
+
+Governance Structure 
+
+12 
+
+Reporting Framework and Line of Reporting 
+
+13 
+
+Stakeholder Engagement 
+
+14 
+
+Materiality Assessment 
+
+16 
+
+Material ESG Topics 
+
+17 
+
+Policies and Procedures 
+
+19 
+
+2017 Performance 
+
+22 
+
+Sustainability Targets for FY2018 onwards 
+
+28 
+
+Appendix 
+
+29 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+CONTENTS 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+2 
+
+About this Report 
+
+ 
+
+Our Commitment 
+
+At Medtecs, we believe in the sustainable development and management of our 
+
+business for the long term. We are excited to make available our first Sustainability 
+
+Report for Year 2017, which we hope will give all our stakeholders a better 
+
+understanding of our commitment to fulfilling our corporate social responsibility by 
+
+protecting the environment and the society at large, in line with our vision and 
+
+mission. In particular, this year we have selected certain key issues with great impact 
+
+on our stakeholders and growth, and we have come up with corresponding policies 
+
+and procedures that we will share later in the Report. As this is our first Sustainability 
+
+Report, we know there is much more to be done. We have made good progress 
+
+towards identifying sustainability risks and opportunities. We are committed to 
+
+improved reporting for future Reports, to be published annually, which will see the 
+
+adjustment of relevant material Environmental Social and Governance (ESG) issues, 
+
+inclusion of more clearly defined targets, and quantitative metrics for the issues which 
+
+will be compared against previously disclosed benchmarks. We at Medtecs see 
+
+‘sustainability’ as more than just a buzzword. We are confident that our sustainability 
+
+reporting and efforts, kicked off by this Report, will lead to introduction of products 
+
+and services that will help shape a cleaner, safer and more sustainable world. 
+
+ 
+
+Board Statement 
+
+The Board of Directors is pleased to present Medtecs’s first Sustainability Report, 
+
+which confirms the Group’s commitment to sustainability. This commitment is 
+
+reflected in the Group’s sustainable business strategies and objectives that the 
+
+management have identified after determination and consideration of material ESG 
+
+issues. The Board of Directors had approved the material ESG issues and have 
+
+overseen their management and monitoring by the management.   
+
+ 
+
+Scope of the Report 
+
+The main period covered in this Report is FY2017 (January 1, 2017 to December 31, 
+
+2017). The Report applies to the operations of Medtecs Corporation and its 
+
+consolidated subsidiaries in Cambodia, Taiwan and the Philippines. 
+
+ 
+
+This Report has been prepared in accordance with the guidelines of the Global 
+
+Reporting Initiative (GRI), which are well-known and credible standards for reporting 
+
+on environmental, social and governance issues most important to our business and 
+
+stakeholders. A list of the GRI Standard Disclosures and their location can be found at 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+3 
+
+the end of this Report.  
+
+ 
+
+Contact  
+
+We welcome your feedback on this Report. For more information or to provide 
+
+comments, please contact Kepner Su：ksu@unet.net.tw or call +886-2-27392222 
+
+ext.2332.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+4 
+
+About Medtecs 
+
+ 
+
+Medtecs International Corporation Limited is a well-known healthcare products and 
+
+services provider and a leading manufacturer of medical consumables. We 
+
+commenced operations in the Philippines in 1989 and have since established a strong 
+
+presence in the United States, Europe and Asia Pacific. Medtecs has offices and 
+
+facilities spanning across Asia – in Singapore, Taiwan, the Philippines, China and 
+
+Cambodia. Medtecs was listed on Singapore Dealing and Automated Quotation 
+
+System (SESDAQ) of the Singapore Exchange Securities Trading Limited on 6 
+
+October 1999 and transitioned to Catalist-sponsored regime with R &amp; T Corporate 
+
+Services Pte. Ltd. on 26 February 2010. Our Taiwan Depository Receipts were listed 
+
+on the Taiwan Stock Exchange (TWSE) on 13 December 2002. 
+
+ 
+
+Medtecs’ main lines of business include manufacturing original products and 
+
+providing integrated hospital services. As an original product manufacturer (OPM) of 
+
+a wide range of medical consumables, and hospital and workwear apparels, Medtecs 
+
+maintains manufacturing facilities located in the Philippines, China and Cambodia. As 
+
+a hospital services provider, Medtecs provides hospitals in Taiwan and the Philippines 
+
+with integrated services which include rental and laundry of linens, management of 
+
+laundry facilities, hospital automation and other non-core hospital functions (also 
+
+known as 3L (lease, laundry, logistic) services). In Taiwan, Medtecs is currently the 
+
+dominant total solutions provider for such hospital services, with a customer base of 
+
+26 hospitals. Medtecs Philippines has also successfully expanded its hospital services 
+
+covering 28 hospitals. 
+
+ 
+
+ 
+
+ 
+
+Vision, Mission &amp; Values 
+
+• 
+
+Vision 
+
+Providing world-class medical products, services and protective wear to ensure 
+
+that every worker returns home safe. 
+
+ 
+
+• 
+
+Mission 
+
+Providing safe, comfortable and stylish protective clothing and equipment for 
+
+workers; providing support services with speed and soul to hospitals.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+5 
+
+Our values, which comprise the acronym, KUNG FU, and TARPS, are as follows: 
+
+• 
+
+Values 
+
+＊ TARPS will take our company from good to great 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+＊ Kung fu will transform us from ordinary to extraordinary  
+
+
+
+
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+Strategies 
+
+We continue to implement new processes and invest in equipment upgrades to 
+
+increase overall efficiency, while at the same time, strive to protect the environment. 
+
+We will strengthen current market position by increasing our e-commerce capabilities 
+
+to explore new business opportunities. Since we have 4,235 employees, costs factors, 
+
+especially labor, energy and material costs remain a challenge, but we will focus on 
+
+improving efficiencies and implementing measures to contain rising material and 
+
+labor costs.  
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+6 
+
+• 
+
+Original Product Manufacturing 
+
+OPM remains the dominant segment in the Group. We will continue to 
+
+strengthen our sales and marketing strategies, lower costs and improve 
+
+operational efficiency. We will also keep pursuing new institutional business 
+
+opportunities in different markets for the sale of our protective equipment. 
+
+ 
+
+• 
+
+3L (Leasing, Laundry and Logistic) Business 
+
+We plan to gradually incorporate environment-friendly and energy-efficient 
+
+equipment and materials, as well as RFID tags in our supply chain management 
+
+to improve operational efficiency and service quality. We will also take steps to 
+
+improve our hospital services and strengthen our market presence. In addition, 
+
+we plan to expand our product offerings through existing hospital resources. 
+
+ 
+
+ 
+
+Achievements  
+
+The following certificates represent our efforts in environmental protection, social 
+
+welfare and corporate governance: 
+
+ 
+
+• 
+
+Workplace Conditions Assessment (WCA) 
+
+The WCA certification is confirmation that our working conditions meet the 
+
+human rights norms of the international community. 
+
+ 
+
+• 
+
+ISO 9001 
+
+The ISO 9001 certification process asked us to evaluate whether our Quality 
+
+Management System was appropriate and effective and provided the foundation 
+
+to better customer satisfaction, staff motivation and continual improvement.  
+
+ 
+
+• 
+
+ISO 13485 Medical devices 
+
+The standard confirms our ability in design, development, production, 
+
+installation and delivery of medical devices and related services that consistently 
+
+meet customer and applicable regulatory requirements. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+7 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+• 
+
+CE Marking 
+
+The CE marking shows that our products meet the health, safety, and 
+
+environmental protection standards of the European Economic Area (EEA). 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Employee Breakdown 
+
+By Nationality 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+8 
+
+ 
+
+ 
+
+By Job type 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+By Gender 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+By Position 
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+Highlights in 2017 
+
+ 
+
+• 
+
+Financial Results 
+
+In 2017, we continued to focus on original product manufacturing and 3L 
+
+business in face of fierce competition. The Group’s sales improved from higher 
+
+demands from existing customers in 2017. Higher material and labor cost, 
+
+primarily, have led to a slight decline in profitability in 2017. Specifically, Group 
+
+revenues increased by 7.3% to US$61.8 million in 2017. Gross profit increased 
+
+by 4.6% to US$9.7 million in 2017 due to higher revenues. We expect to have 
+
+another profitable year for the Group. 
+
+ 
+
+• 
+
+Sustainable Action 
+
+Improved energy efficiency in light of the global trend towards energy and 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+9 
+
+carbon reduction to protect the environment. 
+
+＊ Coal-fired boilers in Xiang Shang Factory had been shut down and repaired in 
+
+Aug 2017 and the boilers have shown improved operation efficiency.  
+
+＊ To speed up production by 20%, we are using new bar trackers to trim off all 
+
+the loose threads automatically in the Kampong Cham factory. 
+
+＊ 30% of fluorescent light sources had been replaced by LED lighting in 
+
+Cambodian factory. 
+
+＊ Printing facility had been shut down in 2017. 
+
+ 
+
+ 
+
+• 
+
+Talent Development 
+
+We want to build a team that shares the same vision and goals through various 
+
+trainings and education. The localization of our management team has been 
+
+implemented to create synergy. 
+
+＊ We have developed friendlier and healthier work environment via policy 
+
+setting and procedure implementation. 
+
+＊ Hire more employees with disabilities（The percentage of employees with 
+
+disabilities in Taiwan is 7% as of Dec 2017）. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+10 
+
+
+
+Message from the Chairman 
+
+ 
+
+It gives me great pleasure to share with you  
+
+Medtecs’ first Sustainability Report. The reporting 
+
+period for this Report is 1 January 2017 to 31 
+
+December 2018, Medtecs’s financial year.  
+
+ 
+
+As a provider of premier protective workwear, 
+
+medical supplies and hospital support services, 
+
+Medtecs deeply appreciates the potential risks and 
+
+challenges faced by the healthcare professionals on a 
+
+daily basis. We are committed to protecting their 
+
+safety as well as the patients’, and at the same time, 
+
+we aspire to do greater good by extending our positive contribution towards all the 
+
+stakeholders and the communities we operate in. In the following pages, we will share 
+
+details of our business strategies, sustainability priorities and efforts in this regard.      
+
+ 
+
+We fully understand that the importance of the Sustainability Report lies not in the 
+
+thoroughness of its content, but in the many steps taken in preparation of the Report, 
+
+which have required us to examine both internal and external environmental 
+
+challenges faced by the Group, identify possible risks, potential growth opportunities 
+
+for the operation, and our existing business expertise and human resources so that, 
+
+through systemic strategic planning and implementation of action plans, we are able 
+
+to mitigate risks on the one hand and, on the other hand, to seize potential 
+
+opportunities to create value for our employees, shareholders, customers, suppliers, 
+
+financial institutions, communities, as well as law enforcement agencies and 
+
+non-government organizations. 
+
+ 
+
+Therefore, the preparation of the Report asks for participation and follow-up action 
+
+from all our employees so that the Report generates more than just hot air and 
+
+publicity. To that end, we have set up a Sustainability Reporting Council composed of 
+
+officers of the highest rank from each of our offices located in Taiwan, the Philippines 
+
+and Cambodia, the Planning Department of the Group, as well as the Chief Executive 
+
+Officer, to facilitate and coordinate our sustainability reporting efforts. The 
+
+supervision, support, and assistance by the Board of Directors are also indispensable, 
+
+and engagement with all stakeholders is crucial.   
+
+ 
+
+Through continuous dialogue and exchange of relevant information, the Council has 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+11 
+
+thoroughly examined various sustainability topics from three aspects: environmental 
+
+protection, social welfare, and corporate governance and, depending on the current 
+
+situation and possible future development, will focus on other key ESG issues, set 
+
+priorities and implement relevant policies and procedures accordingly. 
+
+ 
+
+The preparation and production of the Sustainability Report was a process of trial and 
+
+error because we had decided not to engage an external party, but instead to tap into 
+
+our internal resources and manpower. As a result, cross-functional communication 
+
+between different departments, as well as vertical communication among our 
+
+subsidiary companies, have increased in both frequency and depth, creating a positive 
+
+impact on our team spirit. In particular, we hope the cross-cultural training provided 
+
+as part of our staff training program will instill a sense of corporate identity and allow 
+
+our staff members from diverse cultural backgrounds such as Taiwan, China, the 
+
+Philippines, Cambodia and Singapore to better appreciate, respect one another and 
+
+work together.  Such derivative benefits can not only lead to the cultivation of 
+
+different talents, but also contribute meaningfully to the improvement of the Group's 
+
+competitiveness. 
+
+ 
+
+This Sustainability Report has helped generate a dynamic state of constant adjustment 
+
+of the Group’s operations to reduce risks and seize growth opportunities to better meet 
+
+the needs of all our stakeholders. In this regard, we have fully committed to leading 
+
+our employees to spare no efforts in implementing initiatives to achieve the 
+
+sustainability development goals. We will continue to improve in terms of its 
+
+environmental, social welfare and corporate governance, so that all our stakeholders 
+
+can feel our determination and see our contribution to the welfare of the society as a 
+
+whole. 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+Clement KC Yang 
+
+Chairman of Medtecs International Corporation Ltd. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+12 
+
+Governance Structure 
+
+ 
+
+The Board of the Group oversees the Group’s sustainability reporting framework by 
+
+monitoring the environment, social and governance issues that impact the Group’s 
+
+sustainable development. The Group has established sub-committees of the Board, 
+
+namely the Audit Committee, the Nominating Committee and the Remuneration 
+
+Committee to assist the Board in the execution of its responsibilities for the protection 
+
+and enhancement of long-term value and returns for the shareholders and 
+
+stakeholders.  
+
+ 
+
+In 2017, we set up the Sustainability Reporting Council made up of the Planning 
+
+Department of the Group and senior executives, led by the Group’s Chief Executive 
+
+Officer, which coordinates our sustainability reporting efforts and ensures the Board 
+
+and the Group’s senior management are informed and engaged on ESG matters that 
+
+influence our business planning, strategy and operations.  
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+13 
+
+Reporting Framework and Line of Reporting 
+
+ 
+
+The working plans for the material ESG issues will first be reviewed and approved by 
+
+Chairman. The performance of the working plans will be reviewed twice per year, 
+
+with due recognition and rewards for great performance given out by Chairman at the 
+
+end of the year.  
+
+ 
+
+Working plans, policies and procedures, target setting, performance and progress will 
+
+be reported to the Board periodically by the Chief Executive Officer. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+14 
+
+Stakeholder Engagement 
+
+Every day due to the nature of our work and our presence in multiple countries, we 
+
+engage with a large number of stakeholders. We take these interactions seriously 
+
+because understanding the concerns and priorities of our stakeholders helps us 
+
+respond effectively to sustainability challenges and opportunities.  
+
+Major Stakeholder 
+
+Groups 
+
+Issues 
+
+Engagement Channels 
+
+Shareholders 
+
+institutional and 
+
+individual investors  
+
+Financial 
+
+Performance 
+
+Risk Management 
+
+Sustainable 
+
+Strategy  
+
+Energy Efficiency  
+
+Automation 
+
+• Annual General Meeting 
+
+• Market observatory post system 
+
+• Investor Relations section on 
+
+Medtecs.com  
+
+• Regular corporate publications 
+
+including financial statements and 
+
+annual reports 
+
+Customers and clients    
+
+Product 
+
+Management 
+
+Innovation 
+
+Energy efficiency 
+
+Environmental 
+
+protection 
+
+• Environmental and social audits 
+
+commissioned by customers   
+
+• Customer feedback and surveys 
+
+• Trade shows and exhibitions 
+
+• Medtecs.com website 
+
+• Regular updates by account managers  
+
+Employees 
+
+Labor relations 
+
+Training and 
+
+Education 
+
+Occupational 
+
+Safety 
+
+Workforce 
+
+Diversity 
+
+Automation 
+
+• Annual Parties 
+
+• Bi-weekly Town Hall meetings 
+
+• Performance reviews 
+
+• Monthly staff birthday parties 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+15 
+
+Major Stakeholder 
+
+Groups 
+
+Issues 
+
+Engagement Channels 
+
+Government and 
+
+Policy-Makers 
+
+Risk Management 
+
+Corporate 
+
+Governance 
+
+Regulation 
+
+Compliance  
+
+Human Rights 
+
+ 
+
+• Compliance filings, disclosures and 
+
+annual reports  
+
+• Verbal and written communications 
+
+on a need base 
+
+Communities 
+
+Environmental 
+
+Protection 
+
+Waste Water 
+
+Treatment 
+
+ 
+
+ 
+
+• Charities and donations 
+
+• Ongoing dialogue 
+
+• Volunteer programs 
+
+ 
+
+Business Partners and 
+
+Suppliers 
+
+Procurement 
+
+Practice 
+
+Industry 
+
+Conditions 
+
+• Through relationship managers and our 
+
+procurement team 
+
+• Ongoing dialogue 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+16 
+
+Materiality Assessment 
+
+A materiality analysis enables us to define our reporting priorities, identify 
+
+sustainability challenges and opportunities so that we can better shape our 
+
+sustainability strategy and set goals. We have captured the resulting material issues in 
+
+the matrix below.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+＊ To be covered in subsequent Sustainability Report. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+* 
+
+* 
+
+* 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+17 
+
+Material ESG Topics 
+
+ 
+
+After considering the list of sustainability topics covered by the GRI Standards, 
+
+conducting the materiality analysis and taking into account the industry we operate in, 
+
+we have decided to focus on the following 3 material ESG topics: energy and 
+
+automation issues under the environmental topic as well as employee training and 
+
+education, diversity and equal opportunity under the social topic.  
+
+ 
+
+Energy  
+
+One of our core competencies is our network of dispersed production bases. Our 
+
+customers can hedge against residual risks through our diversification of locations, 
+
+while enjoying tax breaks and low production costs.  Our energy costs incurred by 
+
+the Group’s main production bases in Cambodia, the Philippines and Taiwan make up 
+
+for about 4% of the total operational cost. Given that energy consumption and global 
+
+warming are key issues which have prompted multilateral environmental agreements 
+
+like the Paris Climate Accord and various policies and laws being put in place to 
+
+regulate carbon emissions, to do our share to protect the environment and in 
+
+compliance with relevant legal requirements, we must treat the management of our 
+
+energy consumption and carbon footprint as a top priority.  
+
+ 
+
+Automation   
+
+The impact of automation is two-fold. The Group operates in a labor-intensive 
+
+industry. As wages in our major production bases such as Cambodia and the 
+
+Philippines have risen year after year, our labor costs have continued to climb, the 
+
+solution to which is to increase our productivity by systematically automate our 
+
+manufacturing processes. On the other hand, the automation process will minimize the 
+
+negative impact our manufacturing processes have on the environment through plant 
+
+performance improvement and reduction of energy used and resources consumed, 
+
+which will lead to increased overall equipment effectiveness and reduction in 
+
+operational and maintenance costs. 
+
+ 
+
+Employee training &amp; education and workplace diversity  
+
+Our labor costs account for 30% of the total operational costs. Our strength has 
+
+always been our production capacity that is based in various low-cost countries. 
+
+However, increasing labor costs in emerging markets such as Cambodia and the 
+
+Philippines, coupled with an ageing population in Taiwan, which has seen declining 
+
+rate of birth, are leading to a shortage of labor, which in turn is eroding this competitive 
+
+edge. To stay competitive and profitable, we must enhance the quality of our 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+18 
+
+workforce and increase productivity. To that end, we plan to provide more staff 
+
+training in order to grow our skilled workforce and to have a culture that’s inclusive 
+
+and respectful of the different cultural backgrounds of our employees.  At the same 
+
+time, our plan to implement the automation process of our production lines will help 
+
+reduce labor costs. 
+
+ 
+
+Others 
+
+Our raw material expenses make up of over 40% of our total operational costs. In 
+
+theory we should identify materials and procurement practice as materials topics we 
+
+should focus on. However, given that most of our suppliers have worked well with us 
+
+for a long time and there’s mutual trust established, we do not find responsible and 
+
+dependable sourcing for raw materials a pressing issue. We will focus on our supply 
+
+chain management in future Reports.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+19 
+
+Policies and Procedures  
+
+Our policies and procedures for the material ESG Topics are set out below: 
+
+ 
+
+Energy – Policy 
+
+1) We are committed to improving our energy efficiency and reducing our carbon 
+
+footprint to help address the threat of climate change and to protect the 
+
+environment. 
+
+2) The Group's major production bases are located in Taiwan, Cambodia, the 
+
+Philippines and on Mainland China. The environmental laws and regulations of 
+
+these countries have come into effect one after another, putting in place 
+
+increasingly stricter compliance obligations and related penalties. Protecting the 
+
+Earth has become such a shared, universal value so that we must implement 
+
+system-wide measures to improve our energy efficiency. 
+
+3) Out of respect for local energy laws and regulations, conditions, equipment, and 
+
+the production flow, Medtecs (Taiwan), Medtecs (Cambodia) and Medtecs 
+
+(Philippines), which are the Group’s top revenue generators and energy users, 
+
+have come up with their own specific plans to improve energy efficiency after 
+
+assessing each plan’s cost-effectiveness. 
+
+4) The above plan will be prepared and presented annually by the end of January by 
+
+the most senior local officer in charge, reviewed by the CEO and approved by 
+
+Chairman before implementation. 
+
+5) The approved plan will then be implemented. During the Implementation stage, 
+
+the plan will be amended from time to time to cater for internal and external 
+
+factors and be reviewed and approved per the procedures laid out in step 4) above. 
+
+Failure to implement the approved plan without reasonable excuse will lead to 
+
+negative performance review of the most senior local officer in charge of that 
+
+particular office. 
+
+6) This policy and procedures are reviewed annually by the Group Management 
+
+Office. 
+
+ 
+
+Automation – Policy 
+
+1) We are committed to enhancing and expanding the automation process of our 
+
+production lines in response to increased labor costs in our production sites. 
+
+2) The Group operates in a labor-intensive industry. As wages in our major 
+
+production bases such as Cambodia and the Philippines have risen annually, our 
+
+labor costs have continued to climb, increasing the cost burden of our operations. 
+
+In response, we have found it necessary to increase our productivity by 
+
+systematically automate our manufacturing processes. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+20 
+
+3) Out of respect for each company’s autonomy and in consideration of the employee 
+
+salary, productivity and varying production characteristics, Medtecs (Taiwan), 
+
+Medtecs (Cambodia) and Medtecs (Philippines), which are the Group’s top 
+
+revenue generators, have come up with their own specific plans to accelerate the 
+
+Group’s automation of production lines. 
+
+4) The aforementioned plan will be prepared and presented annually by the end of 
+
+January by the most senior local officer in charge, reviewed by the CEO and 
+
+approved by Chairman before implementation. 
+
+5) The approved plan will then be implemented. During the Implementation stage, 
+
+the plan will be amended from time to time to cater for internal and external 
+
+factors and be reviewed and approved per the procedures laid out in step 4) above. 
+
+Failure to implement the approved plan without reasonable excuse will lead to 
+
+negative performance review of the most senior local officer in charge of that 
+
+particular office. 
+
+6) This policy and procedures are to be reviewed annually by the Group 
+
+Management Office. 
+
+ 
+
+Employee Training &amp; Education and Workplace Diversity - Policy 
+
+1) We work to improve our employees' physical and mental health, enhance their 
+
+professional competence and promote cultural diversity. 
+
+2) Employees are our most important assets and their quality is key to our success. 
+
+Since we run a multi-national operation, in order to leverage local talent to create 
+
+synergy, we must integrate our human resources and aim to build a team that 
+
+shares the same vision and goals through various training and education. The 
+
+localization of our management team has been implemented to create synergy. 
+
+3) Out of respect for each company’s autonomy and location, and in consideration of 
+
+local regulations and characteristics of the employees and businesses, Medtecs 
+
+(Taiwan), Medtecs (Cambodia) and Medtecs (Philippines), which are the Group’s 
+
+top revenue generators, must come up with their own specific plans for staff 
+
+training and cultural integration. 
+
+4) The above plan will be prepared and presented annually by the end of January by 
+
+the most senior local officer in charge, reviewed by the CEO and approved by 
+
+Chairman before implementation. The target group, method, frequency, expense, 
+
+and expected outcomes of the plan are to be determined by the most senior local 
+
+officer who will review the cost-benefit analysis, actual needs, and the local 
+
+conditions of each company. 
+
+5) The approved plan will then be implemented. During the Implementation stage, 
+
+the plan will be amended from time to time to cater for internal and external 
+
+factors and be reviewed and approved per the procedures laid out in step 4) above. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+21 
+
+Failure to implement the approved plan without reasonable excuse will lead to  
+
+ 
+
+negative performance review of the most senior local officer in charge of that 
+
+particular office. 
+
+6) This policy and procedures are to be reviewed annually by the Group 
+
+Management Office. 
+
+ 
+
+Procedures 
+
+1) Working Plan - On or before the end of January every year, each subsidiary will 
+
+submit its action plan to the Planning Department of the Group Management 
+
+Office. The plan will be reviewed by the CEO and then submitted for approval by 
+
+Chairman. 
+
+2) Approval Process - On or before the end of July every year, each subsidiary will 
+
+submit its half-year implementation results to the Planning Department of the 
+
+Group Management Office for reference and review. 
+
+3) Half-year Performance Review - The whole-year implementation results 
+
+submitted to the Planning Department of the Group Management Office by the 
+
+end of January of the following year will be reviewed by the CEO and Chairman. 
+
+4) Whole-year Performance Review &amp; Public Commendation - Those who have 
+
+achieved outstanding results for the year will receive public commendation and be 
+
+rewarded according by the CEO and Chairman. 
+
+5) Performance Assessment - The Group Management Office is in charge of the 
+
+assessment of the performance. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+22 
+
+2017 Performance  
+
+ 
+
+Energy  
+
+ 
+
+ 
+
+ 
+
+Automation 
+
+Location 
+
+Action 
+
+Performance 
+
+Xiang Shang 
+
+Reduction of coal 
+
+consumption 
+
+Coal-fired boilers in Xiang Shan factory did 
+
+not achieve full operational efficiency due to 
+
+incomplete combustion. Shut down and 
+
+repaired in August, 2017, the boilers have 
+
+visibly improved its operation efficiency. 
+
+Consumption of coals has been reduced. 
+
+Kampong Cham 
+
+Installation of LED 
+
+in place of all 
+
+fluorescent lighting 
+
+inside the factory 
+
+LED is 70% more energy-efficient than 
+
+fluorescent lights. 
+
+Shutting down the 
+
+printing facility 
+
+The printing facility requires woods to burn, 
+
+which is neither cost-effective nor 
+
+environmentally friendly. We have shut 
+
+down the printing facility and instead are 
+
+purchasing from a supplier. 
+
+Location 
+
+Action 
+
+Performance 
+
+Taiwan 
+
+Acquisition of 
+
+news washing 
+
+equipment 
+
+Purchased and installed an automatic 
+
+washing spin dryer in Longde plant for 
+
+more efficient production 
+
+Cambodia 
+
+Purchased 4-line 
+
+overlock machine 
+
+40 sets 
+
+Improved garment factory capacity 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+23 
+
+ 
+
+ 
+
+ 
+
+Employee Training &amp; Education and Workplace Diversity 
+
+Country 
+
+Participants 
+
+Frequency 
+
+Type 
+
+Performance 
+
+Taiwan 
+
+Ground level 
+
+(145 people) 
+
+Depending on 
+
+contract 
+
+Physical exams 
+
+ 
+
+To ensure the physical and 
+
+mental well-being of our 
+
+workforce 
+
+Middle level 
+
+(40 people) 
+
+Four times a 
+
+year 
+
+Occupational health 
+
+and safety 
+
+workshops 
+
+ 
+
+To increase workplace safety 
+
+awareness 
+
+Ground level 
+
+Middle level 
+
+(30 people) 
+
+Three times a 
+
+year 
+
+Management 
+
+training programs 
+
+To enhance management 
+
+knowledge and skills 
+
+Location 
+
+Action 
+
+Performance 
+
+Cambodia 
+
+Purchased 2 sets of 
+
+mark buttonhole &amp; 
+
+button position 
+
+Improved our efficiency of production 
+
+Purchased cutting 
+
+bed marking 
+
+machine 
+
+Reduced manual marking 
+
+Purchased 
+
+computer-aided 
+
+pattern making 
+
+system 
+
+Improved efficiency of production 
+
+Philippines 
+
+Purchased  a  new 
+
+set  of Eyelet 
+
+machine 
+
+Improved efficiency of production 
+
+Purchased 4 Bar 
+
+tackers 
+
+Loose threads are now trimmed off 
+
+automatically, leading to 20% increase in 
+
+production capacity.    
+
+Purchased a set of 
+
+automatic infrared 
+
+drying device 
+
+Improved efficiency of production 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+24 
+
+Country 
+
+Participants 
+
+Frequency 
+
+Type 
+
+Performance 
+
+Taiwan 
+
+Ground level 
+
+Middle level 
+
+(30 people) 
+
+Three 
+
+times a 
+
+year 
+
+Roundtables for 
+
+workers and 
+
+management 
+
+Regular roundtables are 
+
+hosted and attended by both 
+
+the workers and the 
+
+management to facilitate 
+
+open dialogue and promote 
+
+harmonious relationship 
+
+development.   
+
+All Staff  
+
+Monthly &amp; 
+
+Once a 
+
+year  
+
+1 birthday party 
+
+per month; 1 
+
+Kick Off Party at 
+
+the start of the 
+
+year and 1 
+
+Annual Year-End 
+
+Dinner Party  
+
+ 
+
+Hosts monthly staff birthday 
+
+parties. At the end of the 
+
+year, we hold an annual party 
+
+at each of our local offices 
+
+and factories for employee 
+
+recognition and 
+
+team-building. 
+
+Ground level 
+
+Middle level 
+
+Senior level 
+
+(30 people) 
+
+Once a 
+
+year 
+
+Lecture on 
+
+Preventive 
+
+Medicine in the 
+
+Taipei office  
+
+To establish the correct 
+
+protection and safety 
+
+concepts for employees and 
+
+ensure the quality and safety 
+
+of the Group's logistics 
+
+services 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+25 
+
+Country 
+
+Participants 
+
+Frequency 
+
+Type 
+
+Performance 
+
+Taiwan 
+
+Ground level 
+
+(609 people) 
+
+Weekly 
+
+Lecture on 
+
+infection control 
+
+of distribution in 
+
+hospital 
+
+To promote correct 
+
+understanding of prevention 
+
+and minimize incidence of 
+
+infections, we will explain 
+
+the proper and effective way 
+
+to wear preventive face 
+
+masks and isolation gowns. 
+
+Ground level 
+
+(394 people) 
+
+Three 
+
+times a 
+
+year 
+
+Training sessions 
+
+on the proper use 
+
+of medical masks 
+
+and quality 
+
+infection control 
+
+management  
+
+are jointly 
+
+organized by 
+
+hospitals and our 
+
+Taiwan office 
+
+To assist the Government in 
+
+strengthening hospital 
+
+containment measures, we 
+
+co-hosted three lectures in 
+
+2017 with the Government 
+
+on the use of medical face 
+
+masks and quality of 
+
+infection control, which 
+
+introduced the medical 
+
+protective product offerings 
+
+of the Group as well as our 
+
+professional logistics service. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+26 
+
+ 
+
+Country 
+
+Participants 
+
+Frequency 
+
+Type 
+
+Performance 
+
+Cambodia 
+
+Ground level  
+
+(128 people) 
+
+Twice a 
+
+year 
+
+New joiner 
+
+orientation 
+
+ 
+
+New joiners will be given 
+
+training courses on plant 
+
+operation and the general 
+
+factory environment. 
+
+Ground level  
+
+Middle level 
+
+(62 people) 
+
+Twice a 
+
+year 
+
+Disaster prevention 
+
+workshops 
+
+ 
+
+Employees receive basic 
+
+workplace safety training 
+
+and learn how to take 
+
+precautionary measures to 
+
+prevent a fire. 
+
+Ground level 
+
+(478 people) 
+
+Twice a 
+
+year 
+
+Physical exam 
+
+ 
+
+Regular health checkups 
+
+scheduled for staff to ensure 
+
+their physical and mental 
+
+health  
+
+ 
+
+ 
+
+Country 
+
+Participants 
+
+Frequency 
+
+Type 
+
+Performance 
+
+Philippines 
+
+Ground level 
+
+Middle level 
+
+Senior level 
+
+(12 people) 
+
+ 
+
+Once a 
+
+month 
+
+Occupational 
+
+health and safety 
+
+seminar 
+
+To bring awareness to 
+
+occupational health and 
+
+safety issues through regular 
+
+solution-oriented meetings  
+
+Ground level 
+
+(2 people) 
+
+ 
+
+Once a 
+
+year 
+
+ISO Internal 
+
+Auditors training 
+
+The trained employees will 
+
+become familiarized with 
+
+the certification process of 
+
+ISO. 
+
+All staff 
+
+Twice a 
+
+year 
+
+Disaster prevention 
+
+drill 
+
+The objective is that 
+
+everyone working onsite 
+
+knows how to use a fire 
+
+extinguisher. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+27 
+
+50%
+
+50%
+
+By Gender
+
+Male
+
+Female
+
+33%
+
+88%
+
+0%
+
+10%
+
+20%
+
+30%
+
+40%
+
+50%
+
+60%
+
+70%
+
+80%
+
+90%
+
+100%
+
+Cambodia
+
+Philippines
+
+Ratio of local employees in 
+
+managerial position
+
+Country
+
+Employee Training and Development 
+
+Our employ training program asks for participation by all employees, regardless of 
+
+their gender, position or location. However, our general and blue-collar workers in 
+
+Cambodia make up for more than 80% of our workforce. To avoid skewered 
+
+representation of our efforts, we have decided to focus on data from our offices in 
+
+Taiwan and the Philippines only.  As shown in the figures below, our ground-level 
+
+employees received 71% out of the total training hours; the middle management 
+
+received 24% and the senior management, 5%. Our male and female employees 
+
+received an equal amount of training time. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Diversity of Workforce 
+
+Medtecs (Cambodia) and Medtecs (Philippines) follow the practice of hiring local 
+
+managers to set the standard for workforce diversity and to create synergy. Our policy 
+
+is to hire suitable local talents and groom them for managerial position. The 
+
+percentages of local hires occupying management positions in Cambodia and the 
+
+Philippines are shown below.  In Cambodia, locals make up for 33% of the 
+
+management team. In the Philippines, 88% of the management team are Filipinos, 8% 
+
+are from Taiwan, with the remaining 4% from Mainland China. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+71% 
+
+24% 
+
+5%
+
+By Position 
+
+Ground-level
+
+Middle-level
+
+Senior-level
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+28 
+
+Sustainability Targets for FY2018 onwards  
+
+ 
+
+As this is our first Sustainability Report, our focus is on setting the right targets and 
+
+timetable as well as identifying the right action to achieve these targets. We will report 
+
+on progress of these targets, as well as any new targets that have been identified, in 
+
+our next Report.  
+
+ 
+
+Energy 
+
+We plan to reduce the coal consumption and continue to invest in LED lighting 
+
+conversion. Specifically we pledge to continue with phased replacement of all current 
+
+fluorescent light tubes in the Kampong Cham factory with energy-efficient LED 
+
+lightings by 2020.  
+
+ 
+
+Automation 
+
+By 2020 we plan to upgrade 1050 sets of textile equipment and install 8 sets of 
+
+suspension system, which will help minimize downtime, increase production, reduce 
+
+energy consumption and bring down the overall operating costs. In 2018 we will  
+
+complete 49% of the equipment upgrade and optimization. We have now installed one 
+
+set of suspension system. By 2020, we plan to finish installation of 8 sets of 
+
+suspension system, reaching 100% of equipment optimization.  
+
+ 
+
+Education and Training 
+
+To ensure and increase effectiveness of the training program, we plan to administer 
+
+tests to participating employees following each training session, workshop or seminar 
+
+held in all of our facilities by the end of 2020. This practice will first be rolled out in 
+
+2018 in our Taiwan and Philippines offices, and then in our Cambodia office and 
+
+factories in 2019. By 2020, this practice will be followed and applied in all of our 
+
+locations.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+29 
+
+APPENDIX  
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-1 
+
+Provide a statement from the 
+
+most senior decision-maker of 
+
+the organization about the 
+
+relevance of sustainability to the 
+
+organization and the 
+
+organization’s strategy for 
+
+addressing sustainability 
+
+Message from the 
+
+Chairman 
+
+10-11 
+
+G4-2 
+
+Provide a description of key 
+
+impacts, risks, and opportunities 
+
+Material ESG Topics 
+
+17 
+
+G4-3 
+
+Report the name of the 
+
+organization 
+
+About Medtecs 
+
+4-9 
+
+G4-4 
+
+Report the primary brands, 
+
+products, and services 
+
+About Medtecs 
+
+4-9 
+
+G4-5 
+
+Report the location of the 
+
+organization’s headquarters 
+
+About Medtecs 
+
+4-9 
+
+G4-6 
+
+Report the number of countries 
+
+where the organization operates, 
+
+and names of countries where 
+
+either the organization has 
+
+significant operations or that are 
+
+specifically relevant to the 
+
+sustainability topics covered in 
+
+the report 
+
+About Medtecs 
+
+4-9 
+
+G4-7 
+
+Report the nature of ownership 
+
+and legal form 
+
+ N/A 
+
+N/A 
+
+G4-8 
+
+Report the markets served 
+
+(including geographic 
+
+breakdown, sectors served, and 
+
+types of customers and 
+
+beneficiaries) 
+
+About Medtecs 
+
+4-9 
+
+G4-9 
+
+Report the scale of the 
+
+organization 
+
+About Medtecs 
+
+4-9 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+30 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-10 
+
+a. Report the total number of 
+
+employees by employment 
+
+contract and gender 
+
+b. Report the total number of 
+
+permanent employees by 
+
+employment type and gender 
+
+c. Report the total workforce 
+
+by employees and supervised 
+
+workers and by gender 
+
+d. Report the total workforce 
+
+by region and gender 
+
+e. Report whether a substantial 
+
+portion of the organization’s 
+
+work is performed by 
+
+workers who are legally 
+
+recognized as self-employed, 
+
+or by individuals other than 
+
+employees or supervised 
+
+workers, including 
+
+employees and supervised 
+
+employees of contractors 
+
+f. Report any significant 
+
+variations in employment 
+
+numbers 
+
+About Medtecs 
+
+4-9 
+
+G4-11 
+
+Report the percentage of total 
+
+employees covered by collective 
+
+bargaining agreements 
+
+N/A 
+
+N/A 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+31 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-12 
+
+Describe the organization’s 
+
+supply chain 
+
+N/A 
+
+N/A 
+
+G4-13 
+
+Report any significant changes 
+
+during the reporting period 
+
+regarding the organization’s size, 
+
+structure, ownership, or its 
+
+supply chain 
+
+N/A 
+
+N/A 
+
+G4-14 
+
+Report whether and how the 
+
+precautionary approach or 
+
+principle is addressed by the 
+
+organization 
+
+Sustainability Report 
+
+ 
+
+G4-15 
+
+List externally developed 
+
+economic, environmental and 
+
+social charters, principles, or 
+
+other initiatives to which the 
+
+organization subscribes or which 
+
+it endorses 
+
+N/A 
+
+N/A 
+
+G4-16 
+
+List memberships of associations 
+
+and national or international 
+
+advocacy organizations in which 
+
+the organization 
+
+N/A 
+
+N/A 
+
+G4-17 
+
+a. List all entities included in 
+
+the organization’s 
+
+consolidated financial 
+
+statements or equivalent 
+
+documents 
+
+b. Report whether any entity 
+
+included in the 
+
+organization’s consolidated 
+
+financial statements or 
+
+equivalent documents is not 
+
+covered by the report 
+
+About this Report 
+
+2-3 
+
+Please also 
+
+refer to our 
+
+Annual 
+
+Report. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+32 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-18 
+
+a. Explain the process for 
+
+defining the report content 
+
+and the Aspect Boundaries 
+
+b. Explain how the organization 
+
+has implemented the 
+
+Reporting Principles for 
+
+Defining Report Content 
+
+Message from the 
+
+Chiarman 
+
+Governance Structure, 
+
+Materiality Assessment 
+
+10-11, 12, 16 
+
+G4-19 
+
+List all the material Aspects 
+
+identified in the process for 
+
+defining report content 
+
+Material ESG Topics 
+
+17 
+
+G4-20 
+
+For each material Aspect, report 
+
+the Aspect Boundary within the 
+
+organization, as follows 
+
+Material ESG Topics 
+
+17 
+
+G4-21 
+
+For each material Aspect, report 
+
+the Aspect Boundary outside the 
+
+organization, as follows 
+
+Material ESG Topics 
+
+17 
+
+G4-22 
+
+Report the effect of any 
+
+restatements of information 
+
+provided in previous reports, and 
+
+the reasons for such restatements 
+
+N/A 
+
+ N/A 
+
+G4-23 
+
+Report significant changes from 
+
+previous reporting periods in the 
+
+Scope and Aspect Boundaries 
+
+N/A 
+
+ N/A 
+
+G4-24 
+
+Provide a list of stakeholder 
+
+groups engaged by the 
+
+organization 
+
+Stakeholder Engagement 
+
+14 
+
+G4-25 
+
+Report the basis for identification 
+
+and selection of stakeholders 
+
+with whom to engage 
+
+Stakeholder Engagement 
+
+14 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+33 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-26 
+
+Report the organization’s 
+
+approach to stakeholder 
+
+engagement, including frequency 
+
+of engagement by type and by 
+
+stakeholder group, and an 
+
+indication of whether any of the 
+
+engagement was undertaken 
+
+specifically as part of the report 
+
+preparation process 
+
+Stakeholder Engagement 
+
+14 
+
+G4-27 
+
+Report key topics and concerns 
+
+that have been raised through 
+
+stakeholder engagement, and 
+
+how the organization has 
+
+responded to those key topics 
+
+and concerns, including through 
+
+its reporting. Report the 
+
+stakeholder groups that raised 
+
+each of the key topics and 
+
+concerns 
+
+Stakeholder Engagement 
+
+14 
+
+G4-28 
+
+Reporting period (such as fiscal 
+
+or calendar year) for information 
+
+provided 
+
+About this Report 
+
+2-3 
+
+G4-29 
+
+Date of most recent previous 
+
+report (if any) 
+
+N/A 
+
+N/A 
+
+G4-30 
+
+Reporting cycle (such as annual, 
+
+biennial) 
+
+About this Report 
+
+2-3 
+
+G4-31 
+
+Provide the contact point for 
+
+questions regarding the report or 
+
+its contents 
+
+About this Report 
+
+2-3 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+34 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-32 
+
+a. Report the ‘in accordance’ 
+
+option the organization has 
+
+chosen 
+
+b. Report the GRI Content 
+
+Index for the chosen option 
+
+(see tables below) 
+
+c. Report the reference to the 
+
+External Assurance Report, 
+
+if the report has been 
+
+externally assured (GRI 
+
+recommends the use of 
+
+external assurance but it is 
+
+not a requirement to be ‘in 
+
+accordance’ with the 
+
+Guidelines.) 
+
+Appendix 
+
+29-35 
+
+G4-33 
+
+a. Report the organization’s 
+
+policy and current practice 
+
+with regard to seeking 
+
+external assurance for the 
+
+report 
+
+b. If not included in the 
+
+assurance report 
+
+accompanying the 
+
+sustainability report, report 
+
+the scope and basis of any 
+
+external assurance provided 
+
+c. Report the relationship 
+
+between the organization and 
+
+the assurance providers 
+
+d. Report whether the highest 
+
+governance body or senior 
+
+executives are involved in 
+
+seeking assurance for the 
+
+organization’s sustainability 
+
+report 
+
+N/A 
+
+We have not 
+
+sought 
+
+external 
+
+assurances 
+
+for this 
+
+Report, and 
+
+will consider 
+
+it for future 
+
+reporting 
+
+periods.  
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+35 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-34 
+
+Report the governance structure 
+
+of the organization, including 
+
+committees of the highest 
+
+governance body. Identify any 
+
+committees responsible for 
+
+decision-making on economic, 
+
+environmental and social impacts 
+
+Governance Structure 
+
+12 
+
+G4-56 
+
+Describe the organization’s 
+
+values, principles, standards and 
+
+norms of behavior such as codes 
+
+of conduct and codes of ethics 
+
+Vision, Mission &amp; Values 
+
+5-6 
+
+ 
+
+Specific Standard Disclosures 
+
+Item 
+
+Indicator 
+
+References 
+
+Pages 
+
+G4-EN6 
+
+Proportion of senior management 
+
+hired from the local community 
+
+at significant locations of 
+
+operation 
+
+2017 Performance 
+
+22-27 
+
+G4-LA9 
+
+Average hours of training per 
+
+year per employee by gender, 
+
+and by employee category 
+
+2017 Performance 
+
+22-27 
+
+ 
+

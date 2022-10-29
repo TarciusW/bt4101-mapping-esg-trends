@@ -1,0 +1,4091 @@
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+BROADWAY INDUSTRIAL GROUP LIMITED 
+
+ 
+
+SUSTAINABILITY REPORT 2020 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+2 | P a g e 
+
+ 
+
+
+
+CONTENTS 
+
+ 
+
+Board Statement ..................................................................................................................................... 3 
+
+About this Report .................................................................................................................................... 4 
+
+Sustainability at Broadway ...................................................................................................................... 5 
+
+Managing Business Continuity during COVID-19 ................................................................................... 6 
+
+Stakeholder Engagement and Materiality Assessment .......................................................................... 9 
+
+Sustainability Performance ................................................................................................................... 12 
+
+Economic Performance ......................................................................................................................... 13 
+
+Environmental Responsibilities ............................................................................................................. 13 
+
+Labour Practices ................................................................................................................................... 17 
+
+Health and Safety .................................................................................................................................. 23 
+
+Sustainability Governance .................................................................................................................... 27 
+
+Corporate Social Responsibility ............................................................................................................ 30 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+3 | P a g e 
+
+ 
+
+
+
+BOARD STATEMENT 
+
+ 
+
+The Board is pleased to present Broadway Industrial Group Limited’s (referred to as “Broadway” or the 
+
+“Group”) Sustainability Report (“Report”) for the financial year ended 31 December 2020. The Report 
+
+presents data and information relating to the Environmental, Social and Governance (“ESG”) factors 
+
+that are material to the Group, references the Global Reporting Initiative (“GRI”) standards, and 
+
+conforms with the Singapore Exchange Securities Trading Limited’s (“SGX-ST”) sustainability reporting 
+
+requirements.  
+
+ 
+
+Through its wholly-owned subsidiary, BIGL Asia Pte. Ltd., and its subsidiaries (together with the 
+
+Company, “BIGL”), BIGL is one of the leaders in the manufacturing of precision components and 
+
+assemblies and a key provider of actuator arms, assemblies and other related parts mainly for the global 
+
+hard disk drive (“HDD”) business. BIGL has its manufacturing facilities spread across 4 locations in 
+
+China and Thailand while being headquartered in Singapore, and employs a workforce of more than 
+
+3,500 people.  
+
+ 
+
+Amidst the declining backdrop of the HDD industry in recent years, the Group has considered the 
+
+longer-term prospects and financial position of the business by acquiring an equity stake in its robotic 
+
+cleaning business and entering into arrangements for the proposed disposal of its HDD business. If the 
+
+proposed disposal materialises, these structural changes to the Group’s business will have an impact 
+
+on our sustainability performance and achievement of targets set in this Report. 
+
+ 
+
+The Board is responsible for the oversight of the management of the Group’s sustainability performance 
+
+and is supported by the management of the Company (“Management”) and the sustainability task force 
+
+established to implement sustainability initiatives. The Board identifies material ESG topics necessary 
+
+to ensure that sustainability is embedded in our policies and procedures and is in line with our business 
+
+strategy. The Board is also involved in the formulation and approval of the targets for each material 
+
+ESG topic. The Board will undertake a review of the ESG topics upon the completion of the proposed 
+
+disposal of the Group’s HDD business. 
+
+ 
+
+The Board aims to create positive transformation by seeking growth, yet continuing to provide oversight 
+
+and guidance to Management in strategy implementation for the attainment of sustainability goals and 
+
+objectives in the Group’s operations. In the past year, the COVID-19 pandemic has impacted 
+
+companies and industries across the globe. At Broadway, we were prompt in implementing COVID-19 
+
+related measures in accordance with the local regulations to ensure that the health and safety of our 
+
+workforce and communities were protected. We continue to monitor changes to these regulations to 
+
+ensure the continued safety of all our stakeholders. During this time, we continue to engage and 
+
+contribute through various community development programmes such as the “Helping Hands 
+
+Coronavirus (COVID-19) Campaign” while adhering to the safe distancing and protective measures. 
+
+ 
+
+This Report showcases our continuing efforts towards providing solutions to address global sustainable 
+
+development objective. The Board is grateful towards all the stakeholders for contributing to our journey 
+
+of transformation towards sustainability. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+4 | P a g e 
+
+ 
+
+
+
+ABOUT THIS REPORT 
+
+ 
+
+Report Scope and Boundary 
+
+ 
+
+This is our fourth Sustainability Report presenting our sustainability performance for the period from 1st 
+
+January 2020 to 31st December 2020 (“2020”). We view reporting on non-financial parameters as an 
+
+important means of communication with our stakeholders as it provides a glance into the Group’s 
+
+governance, strategy, performance and prospects. The businesses covered under the reporting 
+
+boundary are BIGL Technologies (Thailand) Co., Ltd. (“BTH”) and BIGL Technologies (Wuxi) Co., Ltd. 
+
+(“BWX”), which are the top revenue contributors of the Group. 
+
+ 
+
+Reporting Standards and Compliance Requirements 
+
+ 
+
+This Report is aligned with the reporting requirements of the SGX-ST Listing Rules Practice Note 7.6 
+
+Sustainability Reporting Guide, and is prepared with reference to the GRI Standards (2016), one of the 
+
+global best practice guides for reporting on ESG factors.  
+
+ 
+
+This Report references the following GRI Standards in line with the identified material topics: 
+
+ 
+
+Material Topic 
+
+GRI Topic 
+
+GRI Disclosure 
+
+Energy 
+
+GRI 302: Energy 2016 
+
+ 
+
+Disclosure 302-3  
+
+Energy Intensity 
+
+Regulatory Compliance 
+
+GRI 307: Environmental 
+
+Compliance 2016 
+
+Disclosure 307-1 
+
+Non-compliance with environmental 
+
+laws and regulations 
+
+Training and Education 
+
+GRI 404: Training and 
+
+Education 2016 
+
+Disclosure 404-3 
+
+Percentage of employees receiving 
+
+regular performance and career 
+
+development reviews 
+
+Regulatory Compliance 
+
+GRI 419: Socioeconomic 
+
+Compliance 2016 
+
+Disclosure 419-1 
+
+Non-compliance with laws and 
+
+regulations in the social and economic 
+
+area 
+
+ 
+
+The data presented in this Report corresponds to the operations mentioned in the reporting boundary, 
+
+while the financial data presented covers the Group. We publish our sustainability reports annually, with 
+
+the last published report for the financial year ended 31 December 2019. Our sustainability reports are 
+
+available on our corporate website1. 
+
+ 
+
+Feedback from our concerned stakeholders is of utmost importance to us as it will enable us to 
+
+continuously improve our policies, processes and performance. 
+
+ 
+
+Queries may be directed to: 
+
+Email: ir@bigl.com.sg 
+
+Website: https://www.bw-grp.com/ 
+
+Address: 3 Fusionopolis Way, #13-26 Symbiosis, Singapore 138633 
+
+Phone: +65 6236 0088  
+
+ 
+
+ 
+
+1 
+
+https://www.bw-grp.com/investor_relations_home.htm 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+5 | P a g e 
+
+ 
+
+
+
+SUSTAINABILITY AT BROADWAY 
+
+ 
+
+At Broadway, we follow our five-pronged sustainability approach to expand our business and achieve 
+
+our overarching goals. The components of our sustainability strategy include Economic Performance, 
+
+Environmental Responsibilities, Labour Practices, Health and Safety, and Sustainability Governance. 
+
+Through the holistic management and integration of these components, we strive to generate positive 
+
+economic, environmental and social impacts for our stakeholders. 
+
+ 
+
+With an increase in consumer awareness and education, the consumers are predominantly concerned 
+
+with the environmental and social impacts of the products they purchase, particularly in the electronics 
+
+industry where sustainability issues affect global value chains. It is therefore vital to remain sensitive to 
+
+consumer demands and needs along our supply chain to serve our customers sustainably and continue 
+
+to succeed in our business viably.  
+
+ 
+
+Adhering to the robust Responsible Business Alliance (“RBA”) Code of Conduct, we uphold the same 
+
+level of common standards that our major customer and all new suppliers also adhere to. The adoption 
+
+of the RBA Code of Conduct as the overarching management strategy of our ESG issues allows us to 
+
+follow a standardised framework for managing our ESG concerns and fulfil the expectations of our 
+
+stakeholders.  
+
+ 
+
+Broadway’s Sustainability Approach 
+
+Economic 
+
+Performance 
+
+We strive to continue to deliver healthy economic performance to our 
+
+stakeholders by adapting to changes and capitalising on opportunities.  
+
+Environmental 
+
+Responsibilities 
+
+We endeavour to conserve natural resources to reduce our environmental 
+
+impact. 
+
+Labour Practices 
+
+We treat our employees with dignity and respect. We also support employee 
+
+development through training.  
+
+Health and Safety 
+
+We are committed to providing a safe working environment for our employees. 
+
+Sustainability 
+
+Governance 
+
+We conduct our business with high levels of integrity and accountability. We 
+
+also ensure that our major customer and all new suppliers adhere to a common 
+
+code of conduct set by the RBA. 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+6 | P a g e 
+
+ 
+
+
+
+MANAGING BUSINESS CONTINUITY DURING COVID-19 
+
+ 
+
+As we navigate through the different phases of the COVID-19 pandemic and the consequent economic 
+
+and social impacts across different geographies, our priority is always to safeguard and support our 
+
+employees and our communities. We will continue to monitor and adapt to the COVID-19 related 
+
+measures and review the new working protocols implemented in line with the local government 
+
+regulations. 
+
+ 
+
+The Board is kept informed on the Group’s performance at least quarterly, along with the potential 
+
+impacts from the COVID-19 pandemic on our business operations. Management also updates the 
+
+Board on timely actions undertaken to mitigate the negative impacts caused by the COVID-19 
+
+pandemic. 
+
+ 
+
+The COVID-19 pandemic and the aftermath of the pandemic have caused and continue to cause 
+
+disruptions resulting in uncertainties surrounding the Group’s business, including affecting its 
+
+relationships with its existing and future customers, suppliers and employees, and which had and may 
+
+continue to have an adverse effect on its financial position, financial performance of operations, cash 
+
+flows and prospects for the foreseeable future. Other entities are also evolving. These uncertainties 
+
+gave rise to difficulties in making an accurate assessment by Management of the future financial 
+
+impacts on the Group. Management will continue to closely monitor the further economic development 
+
+and its impact.  
+
+ 
+
+The business conduct was greatly impacted due to the pandemic. However, the business activities were 
+
+conducted with due safety precautions and vigilance. The travel of our employees of both the facilities 
+
+was hindered because of the pandemic and this was tackled by following the border control measures 
+
+and quarantine protocols of the various countries while prioritising the safety of our employees. All non-
+
+essential travels were discouraged, and travel declarations were to be made in compliance with the 
+
+local government regulations. 
+
+ 
+
+Despite the negative outlook and uncertainty, the Company was able to mitigate the impacts of the 
+
+COVID-19 pandemic by reducing costs, streamlining processes, improving productivity and 
+
+strengthening quality performance through the restructuring and consolidation of our HDD operations. 
+
+As a result, there was minimal impact to our productions in China and Thailand. We did not face any 
+
+issue of labour shortage despite the COVID-19 outbreak and we continue to meet the level of production 
+
+and customer satisfaction. Nonetheless, the increase in global freight and transportation costs as well 
+
+as masks and glove prices have impacted us, like many other companies.   
+
+ 
+
+During the onset of the pandemic, we took immediate actions by setting up committees in each site, 
+
+implementing a COVID-19 pandemic emergency preparedness and response plan, and communicating 
+
+preventive measures to our stakeholders. To ensure business continuity, the COVID-19 prevention and 
+
+control committee is tasked, inter alia, to implement and execute the response plan and monitor and 
+
+update on the developments in their respective jurisdictions. Each committee comprises the emergency 
+
+control team, recovery team, internal/external communication team, transportation team, and risk 
+
+assessment and screening team, working together to ensure a holistic execution of the response plan. 
+
+We take a strong view and will take strict actions against our employees for any breach of preventive 
+
+measures. We actively communicate with our employees and ensure that they follow the preventive 
+
+measures strictly. We will continue to monitor the situation to ensure the safety of our employees and 
+
+to ensure business continuity in the interests of the Group and our stakeholders. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+7 | P a g e 
+
+ 
+
+
+
+The safety and well-being of our stakeholders is of paramount importance. Following the outbreak of 
+
+the COVID-19 pandemic, we had implemented mandatory health and safety protocols issued by the 
+
+government agencies for our employees. The precautionary guidelines were also extended to our 
+
+visitors and suppliers. Employees, visitors and suppliers were required to wear their masks at all times 
+
+and also had to screen and declare their temperature before entering BIGL premises. BIGL provides 
+
+the necessary protective equipment, such as face masks and alcohol sanitisers, to our employees, and 
+
+conducts regular training sessions to brief our employees on the best practices to help prevent COVID-
+
+19 in the workplace. Other safety and precautionary measures include telecommuting only if necessary, 
+
+implementing team segregation and staggered working hours, and recording information for contact 
+
+tracing purposes. In addition, the common factory areas and employee transportation are cleaned daily 
+
+by 70% isopropyl alcohol. 
+
+ 
+
+ 
+
+COVID-19 Protocols 
+
+ 
+
+In line with our COVID-19 pandemic emergency preparedness and response plan, we ensure that 
+
+our employees follow the daily health and safety protocols strictly. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Employees undergoing Health &amp; Safety Protocols 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+8 | P a g e 
+
+ 
+
+
+
+Social Initiatives during COVID-19 Pandemic 
+
+ 
+
+Broadway is an advocate of giving back to the community to create a happier, more inclusive society, 
+
+and hopes that such initiatives will inculcate the gift of sharing in our employees. 
+
+ 
+
+In May 2020, BTH held a “Helping Hands Coronavirus (COVID-19) Campaign” where our employees 
+
+donated basic sustenance to ‘The Pantry of Sharing’ in Ayutthaya province. The campaign was well 
+
+received by both our employees and the beneficiaries, and had instilled a caring heart in our employees 
+
+to give and share with the community.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Helping Hands Coronavirus Campaign2 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+The campaign was held during the COVID-19 pandemic, where all COVID-19 guidelines were strictly followed. The wearing 
+
+of mask was mandatory throughout the campaign and safe distancing measures were observed. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+9 | P a g e 
+
+ 
+
+
+
+STAKEHOLDER ENGAGEMENT AND MATERIALITY ASSESSMENT 
+
+ 
+
+Stakeholder Engagement 
+
+ 
+
+We believe that through strong collaboration with our stakeholders, sustainability can be fully and 
+
+integrated into the Group’s business operations. We identify key stakeholders as parties who are either 
+
+significantly affected by or have the capacity to significantly influence our activities and operations. We 
+
+constantly engaged with the various stakeholders over the course of the year in an open two-way 
+
+dialogue to maintain lasting and mutually beneficial relationships.  
+
+ 
+
+Our open and transparent dialogues with our stakeholders have been the greatest source of inputs for 
+
+our development activities. By understanding the evolving needs of our stakeholders, we strive to stay 
+
+relevant and agile in the changing market. On our journey ahead, we plan to explore deeper by 
+
+integrating sustainability into our regular communications with stakeholders at every level, thus 
+
+strengthening our mechanism to identify business challenges and opportunities.  
+
+ 
+
+In line with the COVID-19 restrictions, Broadway held its first virtual Annual General Meeting in 2020 
+
+and continued to engage with our stakeholders amidst the pandemic. 
+
+ 
+
+Stakeholders 
+
+What They Expect 
+
+from Us 
+
+Engagement 
+
+Methods 
+
+Frequency 
+
+ 
+
+Employees  
+
+ 
+
+ To work in a safe 
+
+and inclusive 
+
+environment 
+
+ To be updated on 
+
+our latest strategic 
+
+developments and 
+
+feel empowered 
+
+ To develop 
+
+professionally and 
+
+grow expertise 
+
+ To maintain work-
+
+life balance 
+
+ 
+
+ 
+
+ Safety talks 
+
+ Safety Newsletter 
+
+ 
+
+ Annually 
+
+ Monthly 
+
+ 
+
+ Employee Tea 
+
+Party 
+
+ Suggestion Box 
+
+(employee feedback 
+
+channels) 
+
+ Diet Committee 
+
+Meeting 
+
+ Every 2 weeks 
+
+ 
+
+ Throughout the year 
+
+ 
+
+ 
+
+ Every 2 months 
+
+ 
+
+ Training and career 
+
+development 
+
+programmes 
+
+ Throughout the year 
+
+ 
+
+ Happy Workplace 
+
+Project 
+
+(engagement and 
+
+CSR activities) 
+
+ Every 2 months 
+
+ 
+
+ Long Service Award  
+
+ 10, 15 and 20 years for BTH 
+
+ 
+
+ 
+
+Investors / 
+
+Shareholders 
+
+ 
+
+ 
+
+ 
+
+ To disseminate 
+
+accurate and 
+
+timely information 
+
+on our progress 
+
+and profitability, 
+
+with updates on 
+
+future plans 
+
+ To disclose ESG 
+
+performance 
+
+ To operate 
+
+business ethically 
+
+ To keep up to date 
+
+with customer and 
+
+market trends 
+
+ 
+
+ Release of financial 
+
+results and other 
+
+relevant disclosures 
+
+through SGXNet 
+
+and Broadway’s 
+
+corporate website 
+
+ Investors Relations 
+
+policy published on 
+
+Broadway’s 
+
+corporate website 
+
+ Annual General 
+
+Meeting 
+
+ 
+
+ Throughout the year 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ Annually 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+10 | P a g e 
+
+ 
+
+
+
+Stakeholders 
+
+What They Expect 
+
+from Us 
+
+Engagement 
+
+Methods 
+
+Frequency 
+
+ 
+
+Customers 
+
+ 
+
+ 
+
+ To be supplied 
+
+with products of 
+
+good quality 
+
+ To fulfil customers’ 
+
+ESG management 
+
+requirements, such 
+
+as compliance with 
+
+the RBA Code of 
+
+Conduct 
+
+ 
+
+ Strategy alignment 
+
+meeting with key 
+
+customers 
+
+ 
+
+ Quarterly 
+
+ 
+
+ Quarterly Business 
+
+Review / Quarterly 
+
+Quality score 
+
+Review (QQR)  
+
+ Quarterly 
+
+ 
+
+ 
+
+ Process 
+
+Management Plan 
+
+Audit 
+
+ Quantitative Project 
+
+Management data 
+
+upload 
+
+ Quarterly 
+
+ 
+
+ 
+
+ Daily 
+
+ 
+
+ 
+
+Suppliers  
+
+ 
+
+ To engage in 
+
+collaborative 
+
+partnership for 
+
+mutual growth 
+
+ To streamline 
+
+procurement 
+
+workflows, clearly 
+
+defining 
+
+expectations  
+
+ 
+
+ Quality on-site 
+
+audits 
+
+ 
+
+ Annually 
+
+ 
+
+ QQR score review 
+
+ Quarterly 
+
+ 
+
+ Incoming Quality 
+
+Assurance Review 
+
+ Daily 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Local Communities 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ To be a 
+
+responsible and 
+
+caring corporate 
+
+citizen, serving the 
+
+local communities 
+
+ 
+
+ CSR activities 
+
+ 
+
+ Quarterly 
+
+ 
+
+As a commitment to constantly improve on our quality, we meet regularly with our suppliers and send 
+
+surveys to them to gather feedback and to implement positive changes. We also arrange plant visits for 
+
+our suppliers and customers and conduct frequent audits to ensure quality improvements. 
+
+ 
+
+Materiality Assessment 
+
+ 
+
+We identify material topics that provide insight into our stakeholder concerns as well as the internal and 
+
+external risk factors that may impact our business. The material ESG issues help us to focus on issues 
+
+at the conjunction of our business goals and stakeholders’ expectations. An assessment of materiality 
+
+hence allows us to identify most relevant aspects, which aids in defining our sustainability goals and 
+
+their alignment with our business aspirations. 
+
+ 
+
+The assessment of material topics is a steady process which helps our organisation determine the 
+
+topics depending on the relevance to create value to our business. We determine our reporting 
+
+boundaries based on the impacts where we have active control over as our material factors have 
+
+impacts all along the value chain. 
+
+ 
+
+We undertake an annual review through a structured process to prioritise the key topics material to our 
+
+stakeholders and the Group across the economic, environmental and social bottom lines. This process 
+
+was in line with the GRI Standards Materiality Principle and therefore the factors determined formed 
+
+the basis of our sustainability efforts and reporting.  
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+11 | P a g e 
+
+ 
+
+
+
+Selection 
+
+Assessment 
+
+Prioritisation 
+
+• 
+
+Emerging global and local 
+
+sustainability trends  
+
+• 
+
+Sustainability topics 
+
+identified by our peers 
+
+• 
+
+Review of our impacts 
+
+• 
+
+Identification of topics 
+
+based on risks and 
+
+opportunities at an 
+
+organisational level 
+
+• 
+
+Material topics were 
+
+shortlisted based on the 
+
+significance of their 
+
+economic, environmental 
+
+and social impacts and 
+
+substantive influence on the 
+
+assessments and decisions 
+
+of our stakeholders 
+
+• 
+
+Interaction with functional 
+
+heads and senior 
+
+management 
+
+representatives in the 
+
+organisation 
+
+• 
+
+Inputs from internal and 
+
+external stakeholders 
+
+ 
+
+The Group adopts a two-pronged approach to determine the material factors by considering any 
+
+changes in the internal business activities as well as the external local and global sustainability 
+
+landscape. This year, the Board reviewed the 7 selected material factors and considered them against 
+
+the backdrop of the previous years. Taking into consideration our current business operations and the 
+
+sustainability landscape, the existing 7 ESG factors are still considered to be relevant and material to 
+
+our business. These are shown in the following table, in alignment with our sustainability strategy: 
+
+ 
+
+Economic 
+
+Performance 
+
+Environmental 
+
+Responsibilities 
+
+Labour 
+
+Practices 
+
+Health  
+
+and Safety 
+
+Sustainability 
+
+Governance 
+
+• Economic 
+
+Performance 
+
+• Energy 
+
+• Waste and 
+
+Effluents 
+
+ 
+
+• Training and 
+
+Education 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• Occupational 
+
+Health and 
+
+Safety 
+
+ 
+
+ 
+
+ 
+
+ 
+
+• Regulatory 
+
+Compliance 
+
+• Supplier 
+
+Environmental 
+
+and Social 
+
+Assessment 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+12 | P a g e 
+
+ 
+
+
+
+SUSTAINABILITY PERFORMANCE 
+
+ 
+
+Key Performance at Glance 
+
+ 
+
+ 
+
+2020 
+
+2019 
+
+Energy 
+
+Direct Energy (GJ) 
+
+486.23 
+
+553.00 
+
+Indirect Energy (GJ) 
+
+86,380.98 
+
+90,840.24 
+
+Waste and Effluents 
+
+Hazardous Waste (MT) 
+
+22.543 
+
+16.28 
+
+Non-Hazardous Waste (MT) 
+
+567.23 
+
+1,014.89 
+
+Occupational Health and Safety 
+
+Number of Workplace Fatalities  
+
+Zero Fatalities 
+
+Number of Workplace Injuries 
+
+2 
+
+4 
+
+Regulatory Compliance 
+
+Zero incidents of non-compliance with laws and regulations 
+
+around environment and socio-economic areas 
+
+ 
+
+Supplier Environmental and 
+
+Social Assessment 
+
+100% of new suppliers to comply with the RBA Code of 
+
+Conduct 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+Please refer to the section on ‘Waste and Effluents’ in this Report for more information. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+13 | P a g e 
+
+ 
+
+
+
+ECONOMIC PERFORMANCE 
+
+ 
+
+At Broadway, we strive to pursue excellent economic performance in conjunction with sustainable ESG 
+
+performance. We continue to grow and evolve, creating value by building competitive global-scale 
+
+businesses and delivering increased shareholder value. 
+
+ 
+
+Further details of our 2020 financial performance can be found in BIGL’s 2020 Annual Report, which is 
+
+available at both our corporate website at https://www.bw-grp.com/annual_reports.htm and the SGX 
+
+website at https://www.sgx.com/securities/company-announcements. 
+
+ 
+
+ENVIRONMENTAL RESPONSIBILITIES 
+
+ 
+
+Our commitment to environmental sustainability focuses on reducing negative impacts on the planet 
+
+and ensuring our long-term financial viability. Climate action and management of energy, water and 
+
+waste are the key elements of our environmental responsibility across our business operations. In 
+
+planning and implementing various activities, we focus on mitigating any negative impacts to the 
+
+environment. 
+
+ 
+
+Our efforts embrace opportunities and focus on tackling global sustainability challenges. We strive to 
+
+achieve the highest standards of environmental compliance by ensuring that our environmental policy 
+
+entails a systematic approach to environmental management planning to achieve continual 
+
+performance improvement.  
+
+ 
+
+To manage our environmental performance, we have been implementing ISO 14001: 2015 
+
+Environment Management System Standards since October 2005. Our current certificate is the 
+
+recertification by BSI which will expire in April 2024. We aim to ensure 100% compliance with all 
+
+environmental regulatory requirements. Our environmental performance is reviewed quarterly by 
+
+Management which includes the review of the progress against environmental KPIs. During the period 
+
+covered by this Report, we did not receive any significant fines or sanctions for non-compliance with 
+
+environmental legislations. 
+
+ 
+
+To ensure a robust environment management system, we have defined 3 focus areas: Energy, Water 
+
+conservation, Waste and effluents management. 
+
+ 
+
+Energy 
+
+ 
+
+As part of our focus on sustainability, we recognise that such efforts should be ongoing and therefore, 
+
+we aim at minimising energy consumption to reduce carbon footprint and drive transformation towards 
+
+efficient energy operations. Our business operations are reliant majorly on the consumption of energy, 
+
+mainly in the form of electricity used for the operations of machines and air-conditioning. Non-renewable 
+
+fuels like diesel are also used for backup generators, however, their use is minimal. Therefore, energy 
+
+is a critical resource for the continued operations of our business and is hence one of our focus areas 
+
+to mitigate environmental footprints.  
+
+ 
+
+We have an Environmental Policy implemented by Management, articulating the Group’s commitment 
+
+to reduce our impact and systematically help us in managing our energy performance at each of our 
+
+sites. We also continue to follow our energy masterplan which tracks targeted KPIs along energy 
+
+reduction initiatives. We closely monitor the status of activities planned for energy reduction and 
+
+efficiency through daily checks and monthly analytical reports.  
+
+ 
+
+Energy conservation plans from various departments are considered to set a goal to reduce energy 
+
+consumption. We also provide training to our employees on guidelines for energy conservation.  
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+14 | P a g e 
+
+ 
+
+
+
+Our energy performance for the reporting year is as follows: 
+
+ 
+
+2020 Performance 
+
+Energy Consumption 
+
+• 
+
+Direct energy consumption:4  486.23 GJ 
+
+• 
+
+Indirect energy consumption:5  86,380.98 GJ 
+
+Energy Intensity 
+
+• 
+
+Energy intensity:  0.89 MJ/unit of production 
+
+2020 Performance against 2020 Target 
+
+Energy Intensity 
+
+• 
+
+Reduce energy intensity by 10% from 2019 
+
+levels 
+
+ 
+
+• 
+
+Not achieved as a result of product mix 
+
+changes towards longer machining cycle 
+
+time 
+
+2021 Target 
+
+• 
+
+Reduce energy intensity per dollar of sales by 10% from 2020 levels  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+In terms of energy intensity per dollar value of sales, the above decrease in energy intensity translates 
+
+to a 56% reduction, from 0.27 MJ/unit per dollar of sales in 2019 to 0.12 MJ/unit per dollar of sales in 
+
+2020. Per unit of production, the Company achieved a 2% overall reduction in energy intensity. The 
+
+product sales mix has evolved in 2020 as compared to 2019 with BIGL manufacturing and selling more 
+
+products that require longer manufacturing process cycle time. These products with longer 
+
+manufacturing process cycle time consume more electricity for machining and washing than the other 
+
+products. We will strive towards a 10% reduction in energy intensity per dollar value of sales target for 
+
+the forthcoming year. 
+
+ 
+
+4 
+
+Direct Energy: Total fuel consumption within the Group from non-renewable sources, in joules or multiples, and including 
+
+fuel types used. 
+
+5 
+
+Indirect energy: Electricity purchased from vendors for operational purposes. 
+
+0.68
+
+0.91
+
+0.89
+
+0.00
+
+0.20
+
+0.40
+
+0.60
+
+0.80
+
+1.00
+
+2018
+
+2019
+
+2020
+
+Energy Intensity 
+
+(MJ/unit of production)
+
+Year
+
+Energy Intensity
+
+0.24
+
+0.27
+
+0.12
+
+0.00
+
+0.05
+
+0.10
+
+0.15
+
+0.20
+
+0.25
+
+0.30
+
+2018
+
+2019
+
+2020
+
+Energy Intensity 
+
+(MJ/dollar of sales)
+
+Year
+
+Energy Intensity
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+15 | P a g e 
+
+ 
+
+
+
+The implementation of strategic interventions to enhance energy efficiency is one of our key focus 
+
+areas. As part of our continuous improvement, various energy efficiency initiatives were in place during 
+
+the year including: 
+
+ 
+
+• 
+
+Replacement of fluorescent lamps in the factory to Light-Emitting Diode (“LED”) 
+
+• 
+
+Replacement of air-conditioning split type units to chilled water type 
+
+• 
+
+Regular maintenance of all equipment to ensure optimal performance and reduce energy 
+
+consumption 
+
+• 
+
+Regular maintenance to reduce the speed of FFU to maintain some FCU &amp; OAC units for 
+
+standby support 
+
+ 
+
+ 
+
+BTH: Replaced the lighting from spotlight (HPS) to LED flood light at car park 
+
+ 
+
+The replacement of the spotlight to the LED light in the car park has reduced our energy consumption. 
+
+The spotlight type is more expensive and has higher energy consumption than the LED flood light 
+
+type which achieves the same level of brightness while consuming less energy. It had led us to save 
+
+THB 64,750 while reducing 18,877 Kwh of energy per year.  
+
+ 
+
+ 
+
+Water Conservation 
+
+ 
+
+Our Environmental Policy also focuses on reducing water wastage and seeks opportunities to 
+
+implement water discharge system in order to reduce water consumption. We endeavour to maximise 
+
+water efficiency in our processes by monitoring and recording raw water usage, using recycled water, 
+
+etc. This allows us to better track our consumption and alert the team on any potential leakages in the 
+
+piping systems. 
+
+ 
+
+Precision manufacturing requires high-purity water for cleaning by removing ions in raw water through 
+
+a de-ionising process. We have a sophisticated water recycling system which allows us to recycle 25% 
+
+of inlet raw water to the factories. We have also implemented various initiatives for water conservation 
+
+and recycling as mentioned below: 
+
+ 
+
+• 
+
+Installation of water-efficient fittings to recycle Deionised (DI) water 
+
+• 
+
+Reuse water rejects for floor cleaning purposes in the toilets 
+
+• 
+
+Recycle wastewater from DI water station for toilet flushing 
+
+• 
+
+Maintenance of piping system to ensure there is no leakage and facilitate regulated monitoring 
+
+to record every shift for the raw water usage from each water meter in the factories 
+
+ 
+
+ 
+
+Recycle of wastewater from Washing machine (JCS) 
+
+ 
+
+Raw water from underground storage tank undergoes DI process at filtering contamination station. 
+
+Then, this DI water from washing machine is processed and recycled by using sophisticated 
+
+technology. It helps in recycling 72% DI water.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+16 | P a g e 
+
+ 
+
+
+
+Waste and Effluents 
+
+ 
+
+We are driven towards reducing waste in our daily operations as we aim to continue improving the 
+
+efficiency of our operations. In line with our efforts on environmental sustainability, we implement waste 
+
+minimisation initiatives through the “3R” approach, which promotes “Reduce, Reuse, and Recycle”.  
+
+ 
+
+Waste is inevitably produced at a number of stages in the manufacturing process. We have provisioned 
+
+for waste collection in our offices and factories to minimise the environmental impacts. The waste 
+
+generated is constantly monitored across our business operations, with a single focus on reducing 
+
+waste generation at the source. Before the disposal of waste, it is treated appropriately to avoid harm 
+
+to the environment and human health.  
+
+ 
+
+At BIGL, waste generated is broadly categorised into: 
+
+ 
+
+• 
+
+Recyclables including paper, carton boxes, metal scrap, plastics, electronics, pallets and 
+
+shipping trays; 
+
+• 
+
+Non-recyclables including general waste and process waste; and 
+
+• 
+
+Hazardous waste including chemicals and heavy metals. 
+
+ 
+
+2020 Performance 
+
+Waste  
+
+• 
+
+Hazardous waste: 22.54 MT6 
+
+• 
+
+Non-hazardous waste: 567.2 MT 
+
+Compliance 
+
+• 
+
+Zero incidents of non-compliance with laws and regulations concerning waste management / 
+
+disposal 
+
+2020 Performance against 2020 Target 
+
+Waste Management Compliance 
+
+• 
+
+Zero incidents of non-compliance with laws and 
+
+regulations concerning waste management / 
+
+disposal 
+
+ 
+
+• 
+
+Achieved  
+
+2021 Target 
+
+• 
+
+Zero incidents of non-compliance with laws and regulations concerning waste management / 
+
+disposal 
+
+ 
+
+We are guided by an internal waste management policy which allows us to standardise the definition of 
+
+each waste category and specify the corresponding storage and disposal methods. The handling of 
+
+each waste type is colour-coded and clearly delegated to the respective departments. Hazardous waste 
+
+is handled with extra precaution and we are careful to follow all regulations where relevant. We also 
+
+carry out weekly audits and perform regular checks to ensure that our policies are adhered to and the 
+
+waste disposal is conducted through authorised agencies. In addition, we also constantly work to 
+
+improve our environmental management system. One of the ways we reduce our waste is by improving 
+
+our packaging designs, and we have implemented a system for packaging, particularly our pallets, for 
+
+reuse. As a policy, we recycle 100% of our recyclable waste. 
+
+ 
+
+We have engaged Hitech Industrial Estate, a third-party specialist, for BTH and the Environmental 
+
+Protection Agency for BWX, in alignment with the local governments’ directives to monitor our effluents 
+
+and ensure that our wastewater quality meets the statutory environmental requirements on an annual 
+
+basis. Our water conservation initiatives are aimed towards reducing water requirements in our 
+
+operations and reducing discharge of wastewater via recycling technologies. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+Regarding the increment in hazardous waste, a new national solid waste pollution prevention and control law dated 30 
+
+September 2020 was released. Hence, BWX reconstructed its post-assessment report guidelines based on the law 
+
+pertaining to the environmental impact on solid waste in 2020, effectively allowing the increase in the types and quantity of 
+
+hazardous waste. 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+17 | P a g e 
+
+ 
+
+
+
+LABOUR PRACTICES 
+
+ 
+
+Talent Retention 
+
+ 
+
+We treat our employees as a vital part of the Group and so our employees are our top priority. We 
+
+believe in providing equal opportunities and fair labour practices for all and endeavour to create an 
+
+inclusive work environment. Diversity is key in enabling a creative and productive workforce, and we 
+
+employ qualified candidates without discrimination of gender, age, ethnicity, religion, marital status, 
+
+sexual orientation, trade union association or national origin. The agile, diverse and resilient workforce 
+
+is an integral aspect of BIGL’s continued success. 
+
+ 
+
+a) 
+
+New Hires 
+
+ 
+
+We recognise the importance of talent retention to ensure the quality of our productivity and reduce 
+
+unnecessary costs of hiring new talent. As such, we strive to foster an inclusive and nurturing working 
+
+environment and continually invest in our employees to develop employee talent. BTH implements an 
+
+annual performance review and evaluation for employees who have worked with the company for at 
+
+least 6 months and have displayed outstanding performance, or are highly-skilled and professional. 
+
+BWX also provides employees with promotion opportunities after 6 months with the company.  
+
+ 
+
+In the manufacturing industry, it is not uncommon to have more females as they are physically more 
+
+suited to handle small component precision products, as well as a younger workforce. Nonetheless, 
+
+BIGL endorses a diverse working environment and prohibits any form of discrimination, including 
+
+gender discrimination.  
+
+ 
+
+BTH and BWX hired a total of 359 new employees in 2020, with a ratio of about 56% male hires. The 
+
+average age of our employees is 35 years old which is a good age to create a vibrant, energetic and 
+
+dynamic working environment. BIGL bases our employee hire rate on the sales volume, production plan 
+
+and IE function calculation. There was an increase in BIGL’s 2020 sales volume and an expansion of 
+
+production plans, which explains the increase in new hires. To control our turnover rate, we organise 
+
+engagement activities and two-way communication initiatives with our employees such as Human 
+
+Resource Shift Meeting, Lunch with Management, our ‘Better Together’ Newsletter, a communication 
+
+board and a suggestion box.  
+
+ 
+
+Human Resource Shift Meeting is a two-way communication project to increase the communication 
+
+channels, to share information, and training and listen to the employee feedback for improvement.  
+
+ 
+
+ 
+
+Figure: Human Resource Shift Meeting in Progress7 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+The shift meetings that took place during the COVID-19 pandemic strictly adhered to all COVID-19 guidelines. The wearing 
+
+of mask was mandatory throughout the exercise, and safe distancing measures were observed. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+18 | P a g e 
+
+ 
+
+
+
+Lunch with Management is another initiative to build a happy workplace and, in turn, improve 
+
+productivity and quality. For the successful implementation of this initiative, we had set up 3 groups for 
+
+lunch with Management to facilitate two-way communications with employees to gather feedback and 
+
+work towards improvement.  
+
+ 
+
+ 
+
+Figure: Lunch with Management Initiative8 
+
+ 
+
+As of 31st December 2020, BIGL had a total of 2,071 full-time employees in BTH and BWX. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our governance systems consider essential elements like diversity and experience. Keeping these 
+
+factors in mind, our BIGL Board consists of 5 Directors, of whom 1 is female. 
+
+ 
+
+Our employee compensation is aligned with the market and we provide a range of benefits to our 
+
+employees such as medical care, paid annual leave and gifts during traditional festivals. 
+
+ 
+
+ 
+
+8 
+
+The initiative took place during the COVID-19 pandemic. Masks were only removed for the purpose of photo taking and all 
+
+COVID-19 guidelines were followed. 
+
+
+
+27%
+
+73%
+
+Employees - By Gender
+
+Male
+
+Female
+
+28%
+
+68%
+
+4%
+
+Employees - By Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+202
+
+157
+
+New Employee Hires - By Gender
+
+Male
+
+Female
+
+167
+
+186
+
+6
+
+New Employee Hires - By Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+19 | P a g e 
+
+ 
+
+
+
+b) 
+
+Employee Turnover  
+
+ 
+
+A high rate of employee turnover can indicate levels of uncertainty and dissatisfaction among 
+
+employees. Turnover results affect the human and intellectual capital of an organisation and can impact 
+
+productivity while bearing direct cost implications. We strive to reward our employees fairly based on 
+
+their abilities, performance, contributions and experience. In accordance with the local government 
+
+incentives, we have implemented a “Perfect Attendance” initiative to reward employees with full 
+
+attendance an incentive to foster and reward good behaviours. 
+
+ 
+
+We monitor the employee turnover through monthly reports generated by the Human Resource 
+
+Department. This helps Management to have a better understanding of the rate and reasons for 
+
+employee turnover, thereby enabling the Group to improve or make necessary adjustments to our 
+
+practices.  
+
+ 
+
+Employee Well-Being 
+
+ 
+
+The Group recognises the importance of family and goes beyond our workplace environment to 
+
+continue fostering an inclusive and compassionate space by celebrating festivals and holidays with 
+
+each other.  
+
+ 
+
+On Buddhist Lent Day, we offered Buddhist Lent candles to make merit and bring good fortune for the 
+
+year. In addition, we hosted a “Poem from Heart’ contest for Mother’s Day to show appreciation to all 
+
+mothers.  
+
+ 
+
+Due to the COVID-19 pandemic, we celebrated Songkran Festival, the Thai New Year’s national 
+
+holiday, in 2020 differently with a social message. We continuously stress the importance of our 
+
+employees staying responsible, safe and healthy during the COVID-19 pandemic for their loved ones. 
+
+We encouraged employees to avoid travelling and held a contest where we invited them to capture, tag 
+
+and share #SafeCOVID19 and #STAYHOMESTAYSAFE during the Songkran Festival. We are 
+
+heartened that employees were able to enjoy the festival and their moods were not hampered by the 
+
+COVID-19 restrictions. 
+
+ 
+
+ 
+
+Figure: Songkran festival being celebrated via STAYHOMESTAYSAFE Campaign 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+20 | P a g e 
+
+ 
+
+
+
+We are proud to have employees who exhibit excellent performance and attitude. As such, we show 
+
+our appreciation for their hard work and dedication.  
+
+ 
+
+ 
+
+BTH: “THANK YOU” token of appreciation 
+
+ 
+
+In December 2020, BTH rewarded a “THANK YOU” token of appreciation gift to all employees 
+
+(including outsourced labour) for achieving the monthly target for the highest sales. Employees were 
+
+motivated to continue their positive contributions to BIGL. 
+
+ 
+
+ 
+
+ 
+
+Figure: Employees receiving their Token of Appreciation9 
+
+ 
+
+ 
+
+BTH: ‘We Care’ Initiative 
+
+ 
+
+The BTH ‘We Care’ initiative endeavors to share smile, good health and happiness with our 
+
+employees. We visit employees to send our blessings and good wishes when they deliver to newborn 
+
+or undergo surgery at hospital. We also send our condolences to employees during the bereavement 
+
+of their family members. 
+
+ 
+
+ 
+
+Figure: Initiative under BTH ‘We Care’10 
+
+ 
+
+ 
+
+BWX also organised various events to spread happiness and build cohesion among our employees, 
+
+including lunch with Management, the celebration of Mid-Autumn Festival, and team bonding games. 
+
+During the year, BWX revamped the staff canteen to create and advocate a warm, clean and efficient 
+
+work environment for our employees. To ensure the safety of our employees, BWX distributed masks, 
+
+performed temperature monitoring and did regular disinfection of workplaces. Furthermore, emotional 
+
+support was extended to our employees through the dissemination of training materials that included 
+
+critical information such as relevant hotlines for the centers of disease control, and kept open 
+
+communication channels via the company’s official social network accounts to successfully mitigate the 
+
+crisis.  
+
+ 
+
+ 
+
+ 
+
+9 
+
+The tokens of appreciation and gifts under the BTH “We Care” Initiative were handed out during the COVID-19 pandemic. 
+
+Masks were only removed for the purpose of photo taking and all COVID-19 guidelines were followed. 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+21 | P a g e 
+
+ 
+
+
+
+Training and Education 
+
+ 
+
+Training and education of our employees is crucial to helping them stay relevant in the dynamic market. 
+
+It also helps in upskilling themselves for making advancements of their personal career goals. Training 
+
+thus keeps the workforce equipped for meeting the ever-changing demands of the market. It is both a 
+
+responsibility and an opportunity for our business to provide our employees with internal and external 
+
+training supports that will bolster our growth and their career progression.  
+
+ 
+
+2020 Performance 
+
+Employee Performance Reviews 
+
+• 
+
+100% of eligible employees received regular performance reviews 
+
+2020 Performance against 2020 Targets 
+
+Employee Performance Reviews 
+
+• 
+
+100% of eligible employees receiving regular performance 
+
+reviews 
+
+• 
+
+Achieve an average of 6 training hours per year for each 
+
+employee 
+
+ 
+
+• Achieved 
+
+ 
+
+• Achieved 
+
+2021 Targets 
+
+• 
+
+100% of eligible employees receiving regular performance reviews 
+
+• 
+
+Achieve an average of 6 training hours per year for each employee  
+
+ 
+
+We provide a variety of learning and development programmes to cater to the dynamic learning needs 
+
+of our employees. These training programmes cover broad range of topics such as management and 
+
+leadership expertise, professional skills training, software and languages. In 2020, our employees 
+
+received an average of 6 training hours per employee. The trainings conducted at both BTH and BWX 
+
+were in accordance with BIGL’s 2020 Yearly Training Plan. Hence, they were in compliance with the 
+
+safety law, ISO requirements, and BIGL’s group policies. To ensure utmost quality, there were both 
+
+internal and external trainers to conduct these training sessions. 
+
+ 
+
+The various trainings that were conducted for employees at both facilities include:  
+
+ 
+
+Employee Training 
+
+Sexual harassment 
+
+prevention and 
+
+workplace bullying 
+
+To prevent sexual harassment and bullying in workplace, 18 supervisors 
+
+attended the sexual harassment prevention and workplace bullying training 
+
+in September 2020. 
+
+First Aid Training 
+
+The first aid team and 15 supervisors attended the training in October 
+
+2020. The objective was to facilitate the understanding of the basic 
+
+concepts of first aid. 
+
+Forklift Training 
+
+Forklift training was conducted for employees to be well equipped with the 
+
+safety laws and the know-how to operate forklifts safely. The Ministry of 
+
+Labour has announced that forklifts must only be operated by trained forklift 
+
+drivers. 
+
+Chemical Spill 
+
+Training 
+
+In October 2020, a total of 18 employees attended Chemical Spill training 
+
+class. Employees who used chemicals were required to attend and 
+
+complete the training. 
+
+Fire Training 
+
+Three courses on fire training were held in 2020, with a total participation 
+
+of 108 employees. The purpose of the training was to increase employees’ 
+
+skills, knowledge and know-how to use a fire extinguisher and follow the 
+
+fire evacuation plan. 
+
+Advance Excel 
+
+Training 
+
+In November 2020, 17 employees attended a class on Advanced Pivot 
+
+Table and Chart Excel 2016 and learnt about pivot tables and charts as 
+
+tools to aid them in their work. 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+22 | P a g e 
+
+ 
+
+
+
+ 
+
+ 
+
+Figure10: 
+
+(Left) Sexual Harassment Prevention and Workplace Bullying Training 
+
+(Right) First Aid Training 
+
+ 
+
+ 
+
+Figure: 
+
+(Left) Chemical Spill Training 
+
+(Right) Basic Fire Fighting Training 
+
+ 
+
+To further support the professional career development of our employees, annual performance reviews 
+
+are conducted to communicate employees’ performance and career goals. In 2020, 100% of our 
+
+employees received feedback on their performance with suggestions for improvement from their 
+
+supervisors. 
+
+ 
+
+ 
+
+BTH: Employee Training 
+
+ 
+
+An employee training on ‘Quality Awareness’ and BIGL Values, Code of Conduct, Workplace 
+
+Harassment was conducted in September 2020 to ensure that our employees are regularly updated 
+
+on the Group’s various policies. 
+
+ 
+
+ 
+
+ 
+
+Figure: ‘Quality Awareness’ Employee Training 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+The employee trainings depicted in the figures were held during the COVID-19 pandemic. All COVID-19 guidelines were 
+
+followed. Employees maintained safe distancing and the wearing of mask was mandatory throughout the trainings. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+23 | P a g e 
+
+ 
+
+
+
+HEALTH AND SAFETY 
+
+ 
+
+Occupational health and safety (“OHS”) is an integral topic for the smooth functioning of our business 
+
+operations. Due to the nature of our business in electronic manufacturing, we recognise that our 
+
+employees may be exposed to a certain degree of health and safety risks and as a responsible 
+
+employer, we are committed to ensuring that these risks are mitigated and managed. Awareness of the 
+
+potential safety hazards is the first step towards preventing them and it is only through knowledge that 
+
+we can address and implement ways of prevention. We strive to provide a safe, healthy and conducive 
+
+work environment for all our employees and aim to minimise all work-related injuries. The manufacturing 
+
+locations of BIGL adhere to the OHS Manual which is based on OHSAS 18001 standards as well as 
+
+the national safety standards of the respective operating locations. In addition, each site has a Safety 
+
+Committee.  
+
+ 
+
+The following flow chart outlines our management process about OHS. While OHS responsibilities are 
+
+shared among all departments, the manual specifies the responsibilities of each department for specific 
+
+OHS issues, thus bringing about transparency and accountability. We have also taken initiatives such 
+
+as integrating OHS training in onboarding programmes and encouraging all employees to take 
+
+ownership of their health and safety and take actions to improve the OHS management system.  
+
+ 
+
+Since 2020 was an uncertain year, our Group also came up with a COVID-19 response plan to mitigate 
+
+health risks which includes the following steps: 
+
+ 
+
+• 
+
+Pandemic emergency response team organisation 
+
+• 
+
+Role &amp; responsibility of epidemic emergency response team 
+
+• 
+
+Prevention plan before the emergency 
+
+• 
+
+Emergency response and suspension plan   
+
+• 
+
+Recovery plan after emergency 
+
+• 
+
+Communication 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+24 | P a g e 
+
+ 
+
+
+
+Each Safety Committee has specific responsibilities to prioritise the health and safety of our employees 
+
+by ensuring policies and procedures are implemented effectively. Each Safety Committee comprises 
+
+the General Manager, the OHS Management Representative, the Management Committee, the ISO 
+
+45001 Steering Committee, supervisors and operators. All parties are responsible for the aspects of the 
+
+OHS management system that they have control over and ensure our operations are in accordance 
+
+with the OHS policies, objectives and programme. This includes hazard identification, risk assessment 
+
+and control, and compliance of OHS legal and other requirements.  
+
+ 
+
+Our Safety Committees also consistently monitor the effectiveness of the OHS system and conduct 
+
+regular internal audits. All non-conformities and incidents are reported to Management, and corrective 
+
+and preventive actions are taken by the relevant parties immediately.   
+
+ 
+
+2020 Performance 
+
+Occupational Health and Safety 
+
+• 
+
+Zero workplace injuries resulting in a fatality or permanent injury 
+
+2020 Performance against 2020 Target 
+
+Occupational Health and Safety 
+
+• 
+
+Zero workplace injuries resulting in a fatality or 
+
+permanent injury  
+
+ 
+
+• 
+
+Achieved 
+
+2021 Target 
+
+• 
+
+Zero workplace injuries resulting in a fatality or permanent injury 
+
+ 
+
+We are proud to report that in 2020, there were no workplace fatalities, and we continue to commit to 
+
+maintaining this in 2021.  
+
+ 
+
+ 
+
+2020 
+
+2019 
+
+Number of Workplace Fatalities  
+
+Number of workplace deaths  
+
+– 
+
+– 
+
+Accident Frequency Rate (AFR)11 
+
+Number of lost-time injuries per million man-hours worked  
+
+0.34 
+
+0.66 
+
+Accident Severity Rate (ASR)12 
+
+Number of lost days per million man-hours worked  
+
+10.38 
+
+10.22 
+
+Absentee Rate13 
+
+Number of absentee days per employee per year  
+
+2.6114 
+
+2.18 
+
+ 
+
+We conduct regular internal audits and reviews from Management related to the OHS management 
+
+system to ensure that it is constantly upgraded, efficiently maintained and properly executed. Relevant 
+
+reviews and feedback are then communicated to our employees and other relevant interested parties. 
+
+We also conduct various safety initiatives to create awareness amongst our employees like safety 
+
+slogan activities and safe driving campaigns. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+
+
+12 
+
+
+× 1,000,000. A lost day is a day of medical leave as a result of a lost-time injury.   
+
+13 
+
+
+An absentee day is a day of medical leave because of incapacity of any kind, not just as the result of work-related injury or 
+
+disease, excluding permitted leave absences such as holidays, study, maternity or paternity leave, and compassionate 
+
+leave.   
+
+14 
+
+There was an increase in absentee rate as BWX was required to operate in compliance with the local government’s epidemic 
+
+control response to COVID-19 during festive periods to mitigate potential outbreaks.  
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+25 | P a g e 
+
+ 
+
+
+
+The identification of risks is a key step in the process of cultivating a safe and healthy work environment. 
+
+Regular checks are conducted around the workplace to identify the areas of potential risks. Based on 
+
+experience and regular site visits, we have categorised occupational hazards into 5 different risk levels 
+
+based on a matrix of:  
+
+ 
+
+• 
+
+Possibility of occurrence;  
+
+• 
+
+Frequency of exposure for employees; and  
+
+• 
+
+Severity of consequence. 
+
+ 
+
+Once risks are identified, we strengthen our preparedness by conducting regular checks and arranging 
+
+contingency plans. For example, for all chemicals, we obtain a Material Safety Data Sheet from our 
+
+suppliers, which documents the potential hazards (health, fire, reactivity and environmental) of each 
+
+chemical product and how to work with the products safely. Moreover, labelling of chemicals and its 
+
+subsequent dangers are signposted to manage any potential hazards. All relevant employees are 
+
+trained to understand how to handle the chemicals and the standard safety procedures in chemical 
+
+storage, transportation and utilisation.  
+
+ 
+
+We conduct annual fire drills and perform monthly safety patrols in our factories. Any practices that 
+
+raise possible concerns are recorded and follow-up remediation is monitored and tracked to minimise 
+
+hazards and control risks. We also regularly upgrade our equipment to provide our employees with all 
+
+the necessary safety equipment required to perform their job functions safely. Additionally, we also 
+
+educate our employees on the potential health risks and safety hazards in the work environment to 
+
+spread awareness and reduce any potential risks. We conduct annual first aid trainings, including 
+
+classroom demonstrations, for our employees. All these were done by undertaking preventive 
+
+measures and following the health and safety protocols like wearing of masks and sanitisation. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: BWX Annual Fire Safety Training and Emergency Drill15 
+
+ 
+
+With the onsite of COVID-19, BIGL continued to focus on our employees’ training and education. All 
+
+trainings held during the pandemic adhered to stringent rules that were in line with the local 
+
+governments’ protocols. The wearing of mask was mandatory for all participants and safe distancing 
+
+measures were observed.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+
+The training as depicted in the photo was held in September 2020. All COVID-19 guidelines were followed. 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+26 | P a g e 
+
+ 
+
+
+
+All risks categorised as “Highly Dangerous” and above will need to be registered and approved by 
+
+Management. Targeted action plans are also tailored to mitigate those risks, as illustrated in the 
+
+Hierarchy of Controls chart below: 
+
+ 
+
+ 
+
+Should an incident or non-conformity occur, we evaluate the need for corrective actions to eliminate the 
+
+root cause and preventive actions to mitigate the further incidents. Further action is taken to assess any 
+
+new or changed hazards and review the effectiveness of the corrective actions.  
+
+ 
+
+We also consider the protection of contractors who work in our premises but are not under our direct 
+
+employment. We work with our business partners to increase the safety of the contractors and their 
+
+workers by defining and applying the OHS criteria and ensuring the requirements of their respective 
+
+OHS management systems are met.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+27 | P a g e 
+
+ 
+
+
+
+SUSTAINABILITY GOVERNANCE 
+
+ 
+
+Our sustainability governance model provides a foundation to integrate our sustainability priorities with 
+
+the corporate agenda. To ensure oversight by Management of our material ESG topics, sustainability 
+
+governance is integrated into various corporate governance structures throughout the Group – from 
+
+Board-level committees to management-level group functions and business units. 
+
+ 
+
+The Sustainability Steering Committee (the “Committee”) oversees our positions and practices on 
+
+sustainability issues, principally in relation to social, environmental and ethical matters that affect 
+
+shareholders and other key stakeholders. Chaired by the CEO of the Company, Mr. Tan Choon Hoong, 
+
+the Committee has oversight of our sustainability performance. The Sustainability Working Committee 
+
+includes management heads from the Human Resource, Facility, Quality, and Finance departments of 
+
+BTH and BWX, as well as other shared services and data owners. The Committee meets at least once 
+
+every half a year. 
+
+ 
+
+ 
+
+Board of Directors  
+
+Oversight of sustainability topics and approve Sustainability Report 
+
+ 
+
+ 
+
+Sustainability Steering Committee 
+
+Responsible for oversight of practices and policies in relation to business and sustainability topics  
+
+ 
+
+ 
+
+Sustainability Task Force (BTH) 
+
+Working committee from all the departments 
+
+ 
+
+ 
+
+Sustainability Task Force (BWX) 
+
+Working committee from all the departments 
+
+ 
+
+ 
+
+All Employees 
+
+ 
+
+ 
+
+The Committee’s primary responsibilities include: 
+
+ 
+
+• 
+
+Reviewing and reporting to the Board on Broadway’s sustainability approach, standards, 
+
+priorities and goals, and overseeing Group-level policies and practices on sustainability matters 
+
+to attain those standards and goals; 
+
+• 
+
+Overseeing, reviewing and evaluating sustainability performance against the material topics 
+
+prioritised; 
+
+• 
+
+Reviewing and advising the Board on Broadway’s public reporting about the Group’s 
+
+performance on sustainability matters; and 
+
+• 
+
+Presenting the Sustainability Report for the Board’s approval. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+28 | P a g e 
+
+ 
+
+
+
+Regulatory Compliance 
+
+ 
+
+We believe that compliance with regulatory laws has become a catalyst for corporate governance, and 
+
+a robust statutory compliance system is vital for the effective conduct of our business operations. We 
+
+ensure that the appropriate business processes and adequate tools are in place for adherence with all 
+
+statutory obligations.  
+
+ 
+
+Any corruption cases that are linked to us will cause reputational damage and break the trust of our 
+
+stakeholders. Therefore, we have our Code of Conduct which defines our commitment to conducting 
+
+business with integrity. The prevention of corruption is managed through the set-up of anti-corruption 
+
+policies, covering topics such as the employment of relatives, receipt of gifts and entertainment, as well 
+
+as conflicts of interest. The employees are made aware of these policies though employee orientation, 
+
+and such content is included in the Employee Handbook. All employees need to declare any conflicts 
+
+of interest or activities pertaining to fraud annually. Our Whistleblowing Policy also protects our 
+
+employees if they were to report any improprieties in good faith. There were no reported cases of 
+
+corruption in 2020. 
+
+ 
+
+2020 Performance 
+
+Anti-Corruption 
+
+• 
+
+Zero incidents of corruption  
+
+Compliance with Laws and Regulations 
+
+• 
+
+Zero incidents of non-compliance with laws and regulations around environment and socio-
+
+economic areas  
+
+2020 Performance against 2020 Targets 
+
+Anti-Corruption 
+
+• 
+
+Zero incidents of corruption 
+
+Compliance with Laws and Regulations 
+
+• 
+
+Zero incidents of non-compliance with laws and 
+
+regulations around environment and socio-
+
+economic areas 
+
+ 
+
+• 
+
+Achieved 
+
+ 
+
+• 
+
+Achieved  
+
+2021 Targets 
+
+• 
+
+Zero incidents of corruption 
+
+• 
+
+Zero incidents of non-compliance with laws and regulations with laws and regulations around 
+
+environment and socio-economic areas 
+
+ 
+
+It is our constant endeavour to ensure compliance with regulatory norms. As with our other business 
+
+risks, we include regulatory risks into the framework of risks that we assess, monitor and manage. We 
+
+adhere to relevant environmental and socio-economic laws, which govern a range of issues like effluent 
+
+discharge, labour practices, health and safety, as well as intellectual property and privacy. A robust 
+
+ESG management system helps us to reinforce ESG policies and monitor compliance. As a further 
+
+commitment to ensuring compliance, BTH and BWX each have a dedicated environmental, health and 
+
+safety engineer responsible for monitoring legal compliance quarterly. In the event a gap or risk is 
+
+observed, corrective actions will be taken immediately.  
+
+ 
+
+There were no cases of significant fines or non-monetary sanctions for non-compliance with laws and 
+
+regulations in the environmental and socio-economic aspects in 2020. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+29 | P a g e 
+
+ 
+
+
+
+Supplier Environmental and Social Assessment  
+
+ 
+
+2020 Performance 
+
+Percentage of new suppliers that were screened using environmental and social criteria  
+
+• 
+
+100% of new suppliers to comply with the RBA Code of Conduct  
+
+2020 Performance against 2020 Target 
+
+Percentage of new suppliers that were screened 
+
+using environmental and social criteria  
+
+• 
+
+100% of new suppliers to comply with the RBA 
+
+Code of Conduct    
+
+ 
+
+ 
+
+• 
+
+Achieved  
+
+2021 Target 
+
+• 
+
+100% of key suppliers to comply with the RBA Code of Conduct 
+
+ 
+
+We strive to grow our business and, at the same time, drive environmental and social progress beyond 
+
+the boundaries of our Group and add sustainability to the supply chain of the various materials. As we 
+
+engage with various suppliers for our material needs, we will have to ensure that the materials obtained 
+
+are of high quality. In order to manage both quality and ESG impacts, we require that suppliers meet 
+
+certain standards such as the RBA Code of Conduct.  
+
+ 
+
+With higher expectations placed on corporate responsibility by consumers, almost all our key customers 
+
+have joined the RBA’s network to push the sustainability agenda within the electronics industry. As a 
+
+Tier 1 supplier of electronic parts, we are expected to be held accountable to the common code of 
+
+conduct of RBA. In turn, we have exercised similar due diligence processes on our suppliers. We also 
+
+ensure that our suppliers meet other standards like “Electronic Industry Citizenship Coalition Code of 
+
+Conduct (EICC)” which aptly caters to the needs of our customers’ requirements.  
+
+ 
+
+This supplier assessment is integral to our risk management. We have a set of policies and procedures 
+
+in place to screen our suppliers and support them in adopting the RBA Code of Conduct. In 2020, 4 
+
+suppliers were assessed as per the ISO and RBA requirements. This assessment criteria are reviewed 
+
+on a yearly basis. We also keep a track record on the changes of our suppliers to facilitate due diligence 
+
+and meet our customers’ expectations.  
+
+ 
+
+Prior to formal engagements, we will socialise RBA-related expectations with our suppliers by 
+
+conducting training programmes and communicating the code requirements. An RBA Code of Conduct 
+
+Checklist will have to be completed, and a Letter of Commitment will have to be signed. For assurance 
+
+purposes, we conduct random on-site visits and audits for the shortlisted suppliers for RBA compliance. 
+
+Moreover, we strengthen monitoring of key suppliers by mandating the RBA Validated Assessment 
+
+Process, which is completed by third-party independent auditors. We also conduct a background check 
+
+of our suppliers for relevant qualifications. In 2020, we have screened 100% of our new suppliers using 
+
+environmental and social criteria. 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+30 | P a g e 
+
+ 
+
+
+
+CORPORATE SOCIAL RESPONSIBILITY 
+
+ 
+
+The physical and mental well-being of our employees is important and cannot be compromised as it is 
+
+crucial for the long-term success of the organisation. Their well-being requires corporate attention and 
+
+we strive to provide our employees with a positive, united and friendly team atmosphere. Not only do 
+
+we host an annual team meeting to thank our employees, we also celebrate employee birthdays and 
+
+hold parties for frontline production employees. These activities promote employee communication and 
+
+increase teamwork spirit and corporate cohesion in a relaxed environment.  
+
+ 
+
+Annual Party 
+
+ 
+
+ 
+
+Figure: Annual Party held in Thailand16 
+
+ 
+
+We are dedicated to our role in bringing positive impact to the society in which we operate and create 
+
+shared value. We encourage an environment of volunteerism and ensure that our employees participate 
+
+in various initiatives as a part of our corporate social responsibility. Focused on building sustainable 
+
+business practices, we firmly believe that our continued success depends on our communities and 
+
+partners, and we are committed to invest in and engage them. In 2020, we have undertaken various 
+
+interventions to promote inclusivity and reached out to communities where we live and operate in. Some 
+
+of our initiatives are described below. 
+
+ 
+
+Blood Donation 
+
+ 
+
+We understand the significance of contribution of each member to the community. We collaborate with 
+
+the Sena Hospital to arrange for a Blood Donation Drive on a quarterly basis. Blood donations by 
+
+employees are voluntary. In 2020, around 120 of our employees participated in the blood donation, 
+
+contributing approximately 27,900 cc of blood to those in need. We are thankful that our employees 
+
+continue to spread love and kindness during the COVID-19 pandemic. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Figure: Blood Donation Drive  
+
+ 
+
+ 
+
+ 
+
+16 
+
+The annual party as depicted in the photos was held in January 2020, prior to the COVID-19 pandemic that hit Thailand. 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2020 
+
+ 
+
+31 | P a g e 
+
+ 
+
+
+
+Charity Market 
+
+ 
+
+We organised the annual Charity Market in October 2020. 10 teams came together setting up food, 
+
+secondhand clothes and games stalls. All preventive measures were strictly followed before attending 
+
+the event. The safety protocols included were temperature checks and hand cleaning with sanitiser 
+
+before and after the event. During the event, masks were mandatory and social distancing was 
+
+maintained. More than 450 employees participated in the Charity Market. The entire proceeds of THB 
+
+140,200 were donated to the Employee Aid Project to help needy employees and to fund CSR activities. 
+
+This has also fostered cohesion between employees. 
+
+ 
+
+ 
+
+Figure: Charity Market organized to help those in need17 
+
+ 
+
+Charity Event on Christmas Eve 
+
+ 
+
+We organised a charity event on Christmas eve as it marked the third day after the winter solstice. Our 
+
+BWX team, including the General Manager, visited 40 of our special needs friends to send warmth and 
+
+greeting during the festive season. Using the donations collected from the auction organised by BWX, 
+
+our employees purchased gifts for our friends according to their wish lists. Some of the items on their 
+
+wish lists include quilts, gloves and radio. 
+
+ 
+
+Figure: Charity Event on Christmas Eve to help those in need 
+
+ 
+
+While the ongoing COVID-19 pandemic restricts our ability to organise events with large crowds, we 
+
+will continue to place corporate social responsibility within our organisational agenda and contribute to 
+
+our communities in other ways that we can in the forthcoming year. 
+
+ 
+
+17 
+
+The Charity Market was held in October 2020 during the COVID-19 pandemic. Masks were only removed for the purpose 
+
+of photo taking and all COVID-19 guidelines were followed.  
+
+
+
+
+

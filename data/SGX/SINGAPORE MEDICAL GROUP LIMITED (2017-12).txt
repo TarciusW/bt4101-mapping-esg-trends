@@ -1,0 +1,2386 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+2 
+
+ 
+
+
+
+TABLE OF CONTENTS 
+
+STATEMENT FROM THE BOARD .............................................................................................................. 3 
+
+INTRODUCTION .......................................................................................................................................... 4 
+
+ABOUT THE REPORT ...................................................................................................................... 4 
+
+BACKGROUND OF SINGAPORE MEDICAL GROUP ...................................................................... 5 
+
+KEY HIGHLIGHTS 2017 ................................................................................................................... 6 
+
+STAKEHOLDER ENGAGEMENT ................................................................................................................ 7 
+
+MATERIALITY ASSESSMENT .................................................................................................................... 9 
+
+MAPPING OF MATERIAL MATTERS ............................................................................................ 10 
+
+PATIENT WELFARE .................................................................................................................................. 10 
+
+MARKETING AND LABELING ....................................................................................................... 10 
+
+PATIENT PRIVACY ........................................................................................................................ 11 
+
+PATIENT SAFETY AND SATISFACTION ...................................................................................... 12 
+
+EMPLOYEES .............................................................................................................................................. 12 
+
+OCCUPATIONAL HEALTH AND SAFETY ..................................................................................... 13 
+
+SUSTAINABLE ENVIRONMENT AND SUPPLY CHAIN MANAGEMENT ............................................. 14 
+
+EFFLUENTS AND WASTES ........................................................................................................... 15 
+
+GOOD GOVERNANCE .............................................................................................................................. 15 
+
+ANTI-CORRUPTION / CONFLICT OF INTERESTS ........................................................................ 15 
+
+GRI CONTENT INDEX ............................................................................................................................... 16 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This document has been prepared by the Company and its contents have been reviewed by the Company’s sponsor, CIMB Bank Berhad, 
+
+Singapore Branch, (the “Sponsor”) for compliance with the relevant rules of the Singapore Exchange Securities Trading Limited (“SGX-ST”), this 
+
+being the SGX-ST Listing Manual Section B: Rules of Catalist. The Sponsor has not independently verified the contents of this document, 
+
+including the correctness of any of the figures used, statements or opinions made. 
+
+This document has not been examined or approved by the SGX-ST. The Sponsor and SGX-ST assume no responsibility for the contents of this 
+
+document, including the correctness of any of the statements or opinions made or reports contained in this document. 
+
+The contact person for the Sponsor is Mr Eric Wong, Director, Investment Banking, Singapore. The contact particulars are 50 Raffles Place #09-
+
+01 Singapore Land Tower Singapore 048623, Telephone: +65 6337 5115. 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+3 
+
+ 
+
+
+
+ 
+
+STATEMENT FROM THE BOARD 
+
+This year marks the publication of Singapore Medical Group’s (“SMG”) inaugural Sustainability Report, which is in line 
+
+with the Singapore Exchange Securities Trading Limited’s (“SGX-ST”) introduction of sustainability reporting on a 
+
+‘comply or explain’ basis for all Singapore-listed companies. At SMG, we recognise the importance of creating long-
+
+term value for our stakeholders and believe that it can be achieved through sustainable business practices and our 
+
+commitment to being a responsible player in the society. 
+
+The Board strives to align the Group’s policies and practices with best-in-class standards in the Economic, 
+
+Environmental, Social and Governance (“EESG”) themes, thus allowing us to achieve a balance between financial 
+
+results, social engagement and environmental initiatives whilst ensuring the strategic growth of the Group. The Group 
+
+conducted its first formal materiality assessment to better manage non-financial risks such as patient safety, patient 
+
+privacy and corporate governance, and, have selected six of the highest ranked material factors for reporting.  With 
+
+this inaugural Sustainability Report, which will be published annually, we would therefore like to reinforce our support 
+
+and management of these newly prioritised matters through active engagement with senior management who will 
+
+spearhead the Group’s sustainability efforts.  
+
+Moving forward, we urge our stakeholders to share our Group’s commitment to transparency and to work towards a 
+
+common goal of improving the economic, environmental and social well-being of the communities we operate in. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+4 
+
+ 
+
+
+
+INTRODUCTION 
+
+ABOUT THE REPORT 
+
+Singapore Medical Group is delighted to present our Sustainability Report which is prepared in accordance with Global 
+
+Reporting Initiatives (“GRI”) Standards: Core option. Adopting the objective of SGX in being responsible for the 
+
+communities we operate in, the Group aspires to accomplish more in the area of sustainability.  
+
+In this report, we cover our non-financial performance and initiatives established in our Singapore operations from 1 
+
+January 2017 to 31 December 2017, with 1 January 2016 to 31 December 2016 as the year of comparison.  
+
+This report has not been assured as this is still optional under SGX rules. However, as our Group matures and develops 
+
+in our sustainability journey, we aim to seek independent verification of our Sustainability Report. Eventually, our Group 
+
+would like to provide a more extensive coverage of our business operations in our future Sustainability Reports. 
+
+We welcome feedback for this report and on any matters related to our sustainability performance. Feedback can be 
+
+sent to our Chief Financial Officer, Ms. Wong Sian Jing at 6836 3385 or sianjing.wong@smg.sg.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+ 
+
+
+
+
+
+Clinics in Singapore 
+
+
+
+Presently 
+
+
+
+
+
+Medical 
+
+Specialties 
+
+
+
+More than 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+5 
+
+ 
+
+
+
+BACKGROUND OF SINGAPORE MEDICAL GROUP 
+
+ 
+
+Incorporated in 2005 and listed on the Singapore 
+
+Exchange (“SGX”) since 2009, SMG is a private 
+
+specialist and primary healthcare provider in 
+
+Singapore and with foot print in Indonesia, Vietnam 
+
+and Australia.  With our vision to provide quality health 
+
+care and wellness to our patients in their life long 
+
+journey from cradle to beyond, SMG is committed to 
+
+providing excellent medical care through its integrated 
+
+network of more than 20 medical specialties and 35 
+
+clinics strategically located across Singapore, with 
+
+Oncology, Women’s Health, Pediatrics, Diagnostic 
+
+Imaging and Aesthetics as the Group’s key growth 
+
+verticals. 
+
+The Group’s robust business fundamentals and our 
+
+continuous aim for excellence, especially in the patient 
+
+service sector, was further recognised when it was 
+
+awarded the Singapore Quality Class Service (“SQC”) 
+
+certification from SPRING Singapore in December 
+
+2017. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+6 
+
+ 
+
+
+
+ 
+
+KEY HIGHLIGHTS 2017 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Financial Highlights (S$’000) 
+
+
+
+Non-Financial Highlights 
+
+
+
+
+
+
+
+Earnings  
+
+ 
+
+: $9,576  
+
+Total asset value 
+
+: $167,631  
+
+Gross revenue           : $68,001  
+
+
+
+Zero cases of non-compliance regarding 
+
+marketing and labeling 
+
+ 
+
+
+
+Zero cases of non-compliance 
+
+regarding patient’s health and safety 
+
+
+
+Awarded the Singapore Quality Class 
+
+Service Certification from Spring 
+
+Singapore  
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 
+
+ 
+
+
+
+STAKEHOLDER ENGAGEMENT 
+
+As part of ongoing efforts to better understand and manage the concerns of stakeholders and to deliver continued healthcare excellence, SMG has taken into consideration all 
+
+of its stakeholders across its value chain and prioritised them into the following Table 1. In doing so, the Group is poised to anticipate and respond to any Environmental, Social 
+
+and Governance (“ESG”) challenges that may arise. 
+
+Table 1: SMG’s Stakeholder Engagement 
+
+Stakeholder 
+
+Engagement Mode and 
+
+Frequency 
+
+Stakeholder's Key Concerns 
+
+Our Response 
+
+
+
+
+
+
+
+
+
+Shareholders 
+
+ Annual General Meeting 
+
+(“AGM”)  
+
+ Extraordinary General Meeting 
+
+when required 
+
+ Quarterly release of results 
+
+ Corporate announcements 
+
+throughout the year 
+
+ Timely response to direct 
+
+queries received via electronic 
+
+mail by Investor Relations team 
+
+ 
+
+ Business growth and strategy of the Group 
+
+ Delivery of Business performance 
+
+ Sustainable returns 
+
+ 
+
+ The Group seeks to address such concerns 
+
+through timely and transparent updates on the 
+
+Group’s performance and key developments that 
+
+are made available on SGXnet  
+
+ Internal tracking is also in place to ensure prompt 
+
+response to queries received  
+
+
+
+
+
+
+
+
+
+Employees 
+
+ Employee satisfaction online 
+
+survey once a year 
+
+ Regular staff meetings with 
+
+management 
+
+ 
+
+ Career progression and self-development 
+
+opportunities 
+
+ Effective management of expectations and needs 
+
+of customers and patients 
+
+ 
+
+ The Group recognises that employees are their 
+
+most valuable assets and ensures that employees’ 
+
+expectations are met through active engagement  
+
+ At SMG, employees are provided with many 
+
+opportunities to develop their skill-sets and 
+
+knowledge through on-the-job learning  
+
+ 
+
+
+
+
+
+
+
+
+
+Customers/Patients 
+
+ Engagement of external 
+
+vendors to conduct survey via 
+
+phone or electronic mail 
+
+annually 
+
+ Providing various channels to 
+
+collect patients feedback such 
+
+ Management of issues such as patient and 
+
+product safety, quality of service provided as well 
+
+as the overall experience at the clinics 
+
+ Adequate handling of personal data and 
+
+information.  
+
+ 
+
+ SMG is built on the foundation of having 
+
+customers and patients at the heart of everything 
+
+we do. We strive to maintain quality and service 
+
+excellence in our offerings through review of 
+
+customer satisfaction surveys conducted by 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+8 
+
+ 
+
+
+
+Stakeholder 
+
+Engagement Mode and 
+
+Frequency 
+
+Stakeholder's Key Concerns 
+
+Our Response 
+
+
+
+
+
+
+
+
+
+as dedicated email contacts 
+
+and feedback hotlines  
+
+independent vendors to ensure expectations are 
+
+met 
+
+
+
+
+
+
+
+
+
+Suppliers 
+
+ Meetings when necessary 
+
+ Increased focus on responsible sourcing 
+
+ Healthy relationship maintained through liaisons 
+
+and mutual understanding 
+
+ 
+
+ The Group engages in open communication with 
+
+key suppliers in ensuring that their practices meet 
+
+the necessary regulatory requirements 
+
+
+
+
+
+
+
+
+
+Regulators  
+
+(Ministry of Health (“MOH”), 
+
+The National Environment 
+
+Agency (“NEA”), SGX, 
+
+Inland Revenue Authority of 
+
+Singapore (“IRAS”), 
+
+Accounting and Corporate 
+
+Regulatory Authority  
+
+(“ACRA”)) 
+
+ 
+
+ Proactively share feedback and 
+
+data with regulators when 
+
+necessary 
+
+ Compliance with relevant regulatory 
+
+requirements  
+
+ The Group is aware that any non-compliance with 
+
+regulations may result in undesirable 
+
+repercussions for the business and thus ensures 
+
+that all relevant regulatory requirements are met 
+
+through layers of internal checks 
+
+ 
+
+ 
+
+
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+9 
+
+ 
+
+
+
+MATERIALITY ASSESSMENT  
+
+The outcome from this materiality assessment allows us to understand the perspectives of our stakeholders. We 
+
+are better able to address the concerns from our stakeholders and identify where their interests lie through this 
+
+process. With the help of independent sustainability consultants, the process of our materiality assessment is 
+
+summarised as follows:  
+
+ 
+
+The outcome of the assessment is reflected below in Figure 2. The six materials selected below are of priority to 
+
+SMG.  
+
+Figure 2: SMG’s Materiality Matrix 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+
+
+
+Key material 
+
+Matters 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+10 
+
+ 
+
+
+
+MAPPING OF MATERIAL MATTERS  
+
+Material Matters 
+
+Corresponding  GRI Standard Topics 
+
+
+
+
+
+1 
+
+Marketing and labelling 
+
+GRI 417-1: Requirements for product and service 
+
+information and labeling 
+
+
+
+
+
+
+
+2 
+
+Patient privacy 
+
+GRI 418-1: Substantiated complaints concerning 
+
+breaches of customer privacy and losses of 
+
+customer data 
+
+
+
+
+
+
+
+3 
+
+Patient safety and satisfaction 
+
+GRI 416-2: Incidents of non-compliance 
+
+concerning the health and safety impacts of 
+
+products and services 
+
+
+
+
+
+
+
+4 
+
+Occupational health and safety 
+
+GRI 403-2: Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-related 
+
+fatalities 
+
+
+
+
+
+
+
+5 
+
+Effluents and wastes 
+
+GRI 306-2: Waste by type and disposal method 
+
+GRI 306-4: Transport of hazardous waste 
+
+
+
+
+
+
+
+6 
+
+Anti-corruption / Conflict of 
+
+interests 
+
+GRI 205-3: Confirmed incidents of corruption and 
+
+actions taken 
+
+
+
+
+
+
+
+ 
+
+ 
+
+PATIENT WELFARE 
+
+MARKETING AND LABELING 
+
+Marketing and labeling is pertinent and imperative to SMG in ensuring that accurate and non-misleading 
+
+information is provided to customers, patients and the community alike who place their trust and confidence in the 
+
+Group’s wide network of medical professionals. We ensure that products and information portrayed meet the 
+
+relevant guidelines and regulatory standards. 
+
+For services provided by our clinics and specialist centres, the Group strives to provide all patients with relevant 
+
+information in aiding informed decision-making. Such information is also made available to patients through various 
+
+channels such as educational forums, health seminars, brochures, social media platforms and clinic websites. 
+
+Additionally, the Group goes through multiple layers of internal checks to ensure that the Private Hospitals and 
+
+Medical Clinics (“PHMC”) publicity guidelines are met before releasing any marketing materials and information to 
+
+the public.  
+
+
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+11 
+
+ 
+
+
+
+ 
+
+Similarly, all consumables and medical supplies provided and used on our patients are Health Science Authority 
+
+(“HAS”) approved. All medications prescribed are labelled with clear and detailed instructions for suitable level of 
+
+consumption. 
+
+In FY2017 and FY2016, there were no grievances in relation to its marketing and labelling being brought up against 
+
+SMG. The Group continues to maintain compliance to regulations set out by MOH for the safe use and consumption 
+
+of its products and prescriptions respectively and for the services rendered by the Group’s clinics. 
+
+Key Area of Focus 
+
+Perpetual Target 
+
+FY2017 Status 
+
+Substantiated non-compliance 
+
+cases regarding marketing and 
+
+labelling 
+
+ No more than 3 queries from regulatory 
+
+compliance and enforcement division of 
+
+MOH 
+
+Achieved 
+
+ 
+
+PATIENT PRIVACY 
+
+With Singapore’s largest healthcare Group hit by the most serious breach of personal data to date in recent times, 
+
+the protection of patients’ data and privacy has garnered immense attention from both regulators and patients 
+
+alike. Approximately 1.5 million personal records of patients and 160,000 outpatient prescriptions were accessed 
+
+and captured by hackers, rapidly escalating the need for organisations, and in particular, healthcare organisations 
+
+that hold key patient data, to place an emphasis on efforts to enhance systems security to prevent the loss of data, 
+
+as well as to undertake immediate measures should any form of breach occur. 
+
+SMG acknowledges this and is already in the process of engaging an external team to review its Personal Data 
+
+Protection Act (“PDPA”) policy and the management of its monitoring mechanism in enhancing the robustness of 
+
+the Group’s IT system. The significance of PDPA is also highlighted during the employee orientation programme, 
+
+where our staff are trained to engage in necessary measures to safeguard against the loss of data. SMG’s clinic 
+
+management system is currently hosted on a secured platform that is equipped with up-to-date technology to 
+
+securely house sensitive data. The platform has been awarded level 3, the highest level of security clearance by 
+
+the Infocomm Media Development Authority (“IMDA”). With proper encryption at the database storage centre and 
+
+during the transmission of data, in addition to firewalls with gateway anti-virus protection intrusion detection and 
+
+prevention capabilities, our patients can be assured that their data is safe with the proper security mechanisms 
+
+that are in place. 
+
+SMG’s IT team is committed to the continued exploration of the possible deployment of additional features in 
+
+tightening organisation-wide system’s security capabilities. 
+
+In FY2017 and FY2016, there were no substantiated breaches of patient privacy and loss of data noted. However, 
+
+in FY2017, the Group received a complaint with regard to patient data due to miscommunication between the clinic 
+
+staff and the patient. This complain was eventually satisfactorily resolved. 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+12 
+
+ 
+
+
+
+ 
+
+PATIENT SAFETY AND SATISFACTION 
+
+At SMG, we focus on addressing the needs of our patients and to be a part of their journey towards good health 
+
+and better wellness. As such, we have always placed our patients at the forefront of our business. We pride 
+
+ourselves in upholding the Group’s core values whilst endeavoring to deliver quality service to all. 
+
+The Group continues to ensure that necessary measures are in place for patient safety, including in the event of a 
+
+communicable disease outbreak. We further ensure that our clinics and specialist centres are operating at 
+
+premises that have been certified by Singapore Civil Defense Force (“SCDF”) and are in compliance with Building 
+
+and Construction Authority (“BCA”), as applicable.    
+
+In FY2017 and FY2016, SMG has managed to sustain a blemish-free record of zero non-compliance cases 
+
+revolving around health and safety impacts pertaining to the products and services we offer. 
+
+Key Area of Focus 
+
+Perpetual Target 
+
+FY2017 Status 
+
+Incidents of non-
+
+compliance cases regarding 
+
+health and safety impacts 
+
+of products and services   
+
+ Zero incidents of non-compliance cases 
+
+revolving around health and safety impacts 
+
+from MOH, NEA and HSA 
+
+Achieved 
+
+ 
+
+ 
+
+EMPLOYEES 
+
+Our employees matter to us. As a people-centric business, our ability to thrive and deliver quality patient care is 
+
+largely dependent on our frontline employees, including the medical professionals and their interaction with the 
+
+patients and customers. 
+
+With “Respect” being one of the Group’s core values, the Group further advocates inclusivity within the 
+
+organisation. This is in turn likely to foster the proliferation of a high-performing culture as well as to create an 
+
+amiable and productive work environment where employees are incentivised to do their best for our patients and 
+
+customers.  
+
+ 
+
+ 
+
+
+
+Key Area of Focus 
+
+Perpetual Target 
+
+FY2017 Status 
+
+Substantiated complaints 
+
+regarding breach of 
+
+patients’ data or loss of data   
+
+ Zero incidents of breaches or loss of 
+
+patients’ data 
+
+Achieved 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+13 
+
+ 
+
+
+
+As at FY2017, SMG has 201 (FY2016: 144) employees and 17 (FY2016: 8) workers in total. The significant jump 
+
+in new hires is largely due to the expansion of the Group’s operations which occurred during the year. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+*Employees refer to any individual who is in an employment relationship with the organisation, according to national law or its application   
+
+**Workers refer to any external person that performs work for the organisation such as a supplier, contractor, self-employed person and etc. 
+
+ 
+
+OCCUPATIONAL HEALTH AND SAFETY 
+
+As an established healthcare organisation, our employees’ health and safety within our premises are of utmost 
+
+importance. Several polices have been enforced across all clinics so as to ensure the health and safety of our 
+
+employees as well as customers and customers are maintained at the workplace strictly in accordance with 
+
+regulations and guidelines laid out by MOH, NEA and HSA. SMG targets to achieve adherence to policies in 
+
+maintaining its record of zero non-compliance incidents.   
+
+ 
+
+
+
+
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+14 
+
+ 
+
+
+
+Policy Coverage 
+
+Description of Policies 
+
+Staff, Customers and 
+
+Patients 
+
+Ensure all the safety regulations and guidelines set out by MOH, NEA and HAS 
+
+are adhered to so that our staff, customers and patients’ health and safety are 
+
+taken care of 
+
+Premises 
+
+(i) 
+
+All premises are issued with Fire safety certificate before the 
+
+commencement of operations 
+
+(ii) 
+
+Fixed schedule to clean and sanitise the clinic to minimise any potential 
+
+health hazards 
+
+ 
+
+Equipment &amp; staff 
+
+(i) 
+
+Regular preventive maintenance of equipment to ensure optimal 
+
+functioning 
+
+(ii) 
+
+To ensure all equipment is properly certified by the relevant authorities 
+
+such as NEA and HSA. Only qualified and appropriately trained staff are 
+
+allowed to operate the equipment and perform the relevant duties 
+
+ 
+
+In FY2017 and FY2016, there were zero report cases of work-related fatalities, injuries and occupational diseases. 
+
+The total absentee rate1 saw a decrease by 0.12 between FY2016 and FY2017. We hope to continue our excellent 
+
+track record in the coming years. 
+
+ 
+
+FY2016 
+
+FY2017 
+
+Absentee Rate 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Total 
+
+0.26 
+
+1.08 
+
+0.95 
+
+0.51 
+
+0.88 
+
+0.83 
+
+Key Area of Focus 
+
+Perpetual Target 
+
+FY2017 Status 
+
+Incidents of work-related 
+
+fatalities, injuries and 
+
+occupational diseases 
+
+ Zero incidents of work-related fatalities, 
+
+injuries and occupational diseases 
+
+Achieved 
+
+ 
+
+ 
+
+SUSTAINABLE ENVIRONMENT AND SUPPLY CHAIN 
+
+MANAGEMENT 
+
+In maintaining service excellence whilst playing our part as a responsible corporate citizen, SMG strives to deliver 
+
+high quality product-offerings and stringent compliance across the business’ supply chain. Our supply chain mainly 
+
+comprises suppliers of products that can be classified under the following four key categories: 
+
+❶ Medications – purchased from registered drug distributors 
+
+❷ Consumables  
+
+❸ Medical equipment plus maintenance contracts 
+
+❹ Marketing and advertising 
+
+ 
+
+1 The Absentee Rate (‘AR’) as defined by GRI standards is the total days of absence relative to the total days 
+
+scheduled to be worked by employees during the reference period, expressed as a percentage. AR here is 
+
+calculated only for employees. 
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+15 
+
+ 
+
+
+
+In Singapore, all medications and medical equipment are subjected to approval by HSA.  Certain medical 
+
+equipment are additionally required to be regulated by NEA and marketing and advertising are overseen under the 
+
+Private Hospitals and Medical Clinics Act and Regulations.  
+
+ 
+
+EFFLUENTS AND WASTES 
+
+In land-scarce Singapore, most of the general waste is sent to waste-to-energy incineration plants. However, as a 
+
+healthcare organisation, we recognise that bio-hazardous and medical wastes require proper management and 
+
+disposal to prevent any potential health threats posed to patients, the community and environment. As such, all 
+
+medical staff undergo a structured briefing and training organised by SMG’s Clinic Operations Team at least 
+
+biennially on the know-hows of appropriate management and disposal of waste. 
+
+We comply fully with the rules and regulations as mandated by NEA and MOH with regards to our waste disposal 
+
+methods. Additionally, only authorised vendors licensed to transport and dispose of biohazardous waste handle 
+
+the waste generated by our clinics. 
+
+The total hazardous waste weighed in at 1,162.0 kg in FY2017 (FY2016: 1,417.2 kg). The decrease was largely 
+
+attributed to less bio-hazardous and medical waste generated from the Group’s aesthetics business segment. 
+
+There is no reporting for non-hazardous waste comprising of mainly paper waste, due to unavailable data.  With 
+
+that said, SMG is in the process of shifting towards a paperless working environment, coherent with the Group’s 
+
+strive to increase operational efficiency and to reduce reliance on storage space. 
+
+Looking ahead, SMG has plans to improve its data collection procedures to include the tracking and disclosure of 
+
+paper usage, as well as to continue its commitment to managing and disposing of all waste in a responsible 
+
+manner.  
+
+ 
+
+GOOD GOVERNANCE 
+
+ANTI-CORRUPTION / CONFLICT OF INTERESTS 
+
+Anti-corruption is imperative to the long-term sustainability of SMG, as any form of corruption may lead to severe 
+
+repercussions for the reputation of our Group, including losing the trust of our customers and patients. Corrupt 
+
+business practices are not tolerated and any incidences are dealt with severely. This includes the procurement 
+
+process where suppliers provide monetary benefits to the staff and doctors for their buy-ins. 
+
+To encourage our employees to undertake only the best practices, all newly recruited staff are required to be 
+
+briefed on the anti-corruption clauses during their induction programme. They are also made aware of the existing 
+
+whistle-blowing policy and procedures in place. All employees and external parties are encouraged to raise 
+
+concerns through our well-defined and accessible reporting channels to report on any possible improprieties and 
+
+issues that may have an adverse impact on SMG. Such matters raised will be presented in quarterly reports and 
+
+submitted to the Audit Committee who oversees the overall administration of the whistle-blowing policy. Through 
+
+the quarterly reports, a proper trail of all complaints are recorded, which includes the results of the investigation, 
+
+follow-up actions, as well as any unresolved complaints. 
+
+SMG has achieved their target of zero incidents of corruption in both FY2017 and FY2016. 
+
+Key Area of Focus 
+
+Perpetual Target 
+
+FY2017 Status 
+
+Incidents of 
+
+corruption  
+
+ Maintain record of zero corruption incidents 
+
+Achieved 
+
+ 
+
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+16 
+
+ 
+
+
+
+GRI CONTENT INDEX  
+
+GRI Standard 
+
+Disclosure 
+
+Description 
+
+Section of Report 
+
+Page Reference 
+
+GRI 102: General Disclosures 2016 
+
+Organisational profile 
+
+102-1 
+
+Name of the organisation 
+
+Introduction: About the Report 
+
+Page 4 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-3 
+
+Location of headquarters 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-4 
+
+Location of operations 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-5 
+
+Ownership and legal form 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-6 
+
+Markets served 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-7 
+
+Scale of the organisation 
+
+Introduction: Background of  Singapore 
+
+Medical Group;  
+
+Employees 
+
+Page 5; 
+
+Page 12-14 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+Employees 
+
+Page 12-14 
+
+102-9 
+
+Supply chain 
+
+Sustainable Environment: Responsible 
+
+Supply Chain Management 
+
+Page 15 
+
+102-10 
+
+Significant changes to the 
+
+organisation and its supply 
+
+chain 
+
+Refer to SMG 2017 Annual Report: Key 
+
+Developments in 2017 
+
+ 
+
+Page 2-3  
+
+102-11 
+
+Precautionary Principle or 
+
+approach 
+
+Refer to SMG 2017 Annual Report: Risk 
+
+Management and Internal Controls 
+
+Page 25-26 
+
+102-12 
+
+External initiatives 
+
+This is SMG’s inaugural Sustainability 
+
+Report.  
+
+SMG has not adopted any external 
+
+initiatives. 
+
+- 
+
+102-13 
+
+Membership of associations 
+
+Refer to SMG Website for more details: 
+
+https://www.smg.sg/specialties/ 
+
+- 
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+Statement from Board 
+
+Page 3 
+
+Ethics and Integrity  
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behavior 
+
+Introduction: Background of  Singapore 
+
+Medical Group 
+
+Page 5 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Statement from Board;  
+
+ 
+
+Refer to SMG 2017 Annual Report: 
+
+Corporate Information and Board’s 
+
+Conduct of its Affairs 
+
+Page 3 
+
+ 
+
+Page 16-18 
+
+102-23 
+
+Chair of the highest 
+
+governance body 
+
+Refer to SMG 2017 Annual Report: 
+
+Corporate Information 
+
+Page 16 
+
+102-32 
+
+Highest governance body’s 
+
+role in sustainability 
+
+reporting 
+
+Statement from Board 
+
+ 
+
+ 
+
+Page 3 
+
+ 
+
+ 
+
+Stakeholder engagement 
+
+102-40 
+
+List of stakeholder Groups 
+
+Stakeholder Engagement 
+
+Page 7 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+17 
+
+ 
+
+
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+Employees within the scope of this report 
+
+are not covered by collective bargaining 
+
+agreements, as they are professionals in 
+
+nature. 
+
+ 
+
+- 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement 
+
+Page 7 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement 
+
+Page 7 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+Stakeholder Engagement 
+
+Page 7 
+
+Reporting practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Introduction: About the Report 
+
+Page 4 
+
+102-46 
+
+Defining report content and 
+
+topic Boundaries 
+
+Materiality Assessment 
+
+Page 9-10 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment 
+
+Page 9-10 
+
+102-48 
+
+Restatements of 
+
+information 
+
+No restatements applicable as this is 
+
+SMG’s inaugural Sustainability Report. 
+
+- 
+
+102-49 
+
+Changes in reporting 
+
+No changes as this is SMG’s inaugural 
+
+Sustainability Report. 
+
+- 
+
+102-50 
+
+Reporting period 
+
+Introduction: About the Report 
+
+Page 4 
+
+102-51 
+
+Date of most recent report 
+
+Introduction: About the Report 
+
+Page 4 
+
+102-52 
+
+Reporting cycle 
+
+Statement from Board 
+
+Page 3 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+Introduction: Background of Singapore 
+
+Medical Group 
+
+Page 5 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with the GRI 
+
+Standards 
+
+Introduction: About the Report 
+
+Page 4 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index 
+
+Page 16-18 
+
+102-56 
+
+External assurance 
+
+Introduction: About the Report 
+
+Page 4 
+
+Topic-specific GRI Standard Disclosures 
+
+Category: Governance 
+
+GRI 205: Anti-Corruption 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Good Governance: Anti-corruption / 
+
+Conflict of Interests 
+
+Page 15 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Good Governance: Anti-corruption / 
+
+Conflict of Interests 
+
+Page 15 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Good Governance: Anti-corruption / 
+
+Conflict of Interests 
+
+Page 15 
+
+205-3 
+
+Confirmed incidents of 
+
+corruption and actions 
+
+taken 
+
+Good Governance: Anti-corruption / 
+
+Conflict of Interests 
+
+Page 15 
+
+Category: Environmental 
+
+GRI 306: Effluents and Waste 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Sustainable Environment: Effluents and 
+
+Waste 
+
+Page 15 
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+18 
+
+ 
+
+
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Sustainable Environment: Effluents and 
+
+Waste 
+
+Page 15 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Sustainable Environment: Effluents and 
+
+Waste 
+
+Page 15 
+
+306-2 
+
+Waste by type 
+
+and disposal method 
+
+Sustainable Environment: Effluents and 
+
+Waste 
+
+Page 15 
+
+306-4 
+
+Transport of hazardous 
+
+waste 
+
+Sustainable Environment: Effluents and 
+
+Waste 
+
+Page 15 
+
+Category: Social 
+
+GRI 403: Occupational Health and Safety 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Employees: Occupational Health and 
+
+Safety 
+
+Page 13 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Employees: Occupational Health and 
+
+Safety 
+
+Page 13 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Employees: Occupational Health and 
+
+Safety 
+
+Page 13 
+
+403-2 
+
+Types of injury and rates of 
+
+injury, occupational 
+
+diseases, lost days, and 
+
+absenteeism, and number 
+
+of work-related fatalities 
+
+Employees: Occupational Health and 
+
+Safety 
+
+Page 13 
+
+GRI 416: Customer Health and Safety 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Patient Welfare: Patient Safety and 
+
+Satisfaction 
+
+Page 12 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Patient Welfare: Patient Safety and 
+
+Satisfaction 
+
+Page 12 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Patient Welfare: Patient Safety and 
+
+Satisfaction 
+
+Page 12 
+
+416-2 
+
+Incidents of non-
+
+compliance concerning the 
+
+health and safety impacts 
+
+of products and services 
+
+Patient Welfare: Patient Safety and 
+
+Satisfaction 
+
+Page 12 
+
+GRI 417: Marketing and Labeling 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Patient Welfare: Marketing and Labeling 
+
+Page 10 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Patient Welfare: Marketing and Labeling 
+
+Page 10 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Patient Welfare: Marketing and Labeling 
+
+Page 10 
+
+417-1 
+
+Requirements for product 
+
+and service information and 
+
+labeling 
+
+Patient Welfare: Marketing and Labeling 
+
+Page 10 
+
+GRI 418: Customer Privacy 2016 
+
+103-1 
+
+Explanation of the material 
+
+topic and its Boundary 
+
+Patient Welfare: Patient Privacy 
+
+Page 11 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+Patient Welfare: Patient Privacy 
+
+Page 11 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+Patient Welfare: Patient Privacy 
+
+Page 11 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and 
+
+losses of customer data 
+
+Patient Welfare: Patient Privacy 
+
+Page 11 
+
+ 
+

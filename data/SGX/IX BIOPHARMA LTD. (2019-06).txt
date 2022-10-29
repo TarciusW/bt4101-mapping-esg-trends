@@ -1,0 +1,2906 @@
+
+15 November 2019 
+
+ 
+
+Sustainability 
+
+Report 
+
+2019 
+
+
+
+
+1 
+
+About this Report 
+
+GRI 102-1|102-46 | 102-50 | 102-52 | 102-53 | 102-54 
+
+ 
+
+ 
+
+iX Biopharma Ltd. (the “Company” or “iX Biopharma”) is proud to present our annual 
+
+Sustainability Report for the Financial Year 2019. We have prepared the report with reference 
+
+to the Global Reporting Initiative Standards (“GRI Standards”). The GRI Standards were 
+
+chosen as they are the first global standards for sustainability reporting. The GRI Content 
+
+Index on page 12 and 13 indicates the full list of GRI references and disclosures used in this 
+
+report.  
+
+ 
+
+The report is also aligned to the SGX Sustainability Reporting Guide set out in Practice Note 
+
+7F of the Singapore Exchange Securities Trading Limited (“SGX-ST”) Listing Manual 
+
+Section B: Rules of Catalist. 
+
+ 
+
+The report captures our environmental, social and governance performance from July 2018 
+
+to June 2019 (FY2019) with historical performance data (“FY2018”) included for comparison, 
+
+for all our entities.  We divested our laboratory testing business under Chemical Analysis Pty 
+
+Ltd during FY2019 and accordingly excluded its performance data from this report. The 
+
+scope and content boundaries of the report have been defined based on the four GRI 
+
+Principles – stakeholder inclusiveness, sustainability context, materiality and completeness.  
+
+Contents 
+
+ 
+
+ 
+
+About this Report 
+
+1 
+
+Sustainability Board Statement 
+
+2 
+
+About iX Biopharma 
+
+3 
+
+Sustainability at iX Biopharma 
+
+4 
+
+Stakeholder Engagement 
+
+5 
+
+Materiality Assessment 
+
+6 
+
+Economic  
+
+ 
+
+▪ Economic Performance 
+
+7 
+
+Environment 
+
+ 
+
+▪ Energy 
+
+7 
+
+Social 
+
+ 
+
+▪ Customer Health and Safety 
+
+8 
+
+▪ Training and Workplace Diversity 
+
+9 
+
+▪ Safety, Health and Environment 
+
+9 
+
+Innovation 
+
+10 
+
+Performance Metrics 
+
+11 
+
+GRI Content Index 
+
+12 
+
+ 
+
+ 
+
+We are fully committed to sharing our sustainability 
+
+journey with all our stakeholders. Please address any 
+
+feedback you might have on our sustainability 
+
+performance and any aspect of our sustainability 
+
+report to: 
+
+ 
+
+Chew Sien Lup 
+
+CFO 
+
+sienlup.chew@ixbiopharma.com 
+
+ 
+
+Sponsor Statement 
+
+This Sustainability Report has been reviewed by the Company’s sponsor, CIMB Bank Berhad, 
+
+Singapore Branch (the “Sponsor”), in accordance with Rule 226(2)(b) of the Catalist Rules. This 
+
+document has not been examined or approved by the SGX-ST and the SGX-ST assumes no 
+
+responsibility for the contents of this document, including the correctness of any of the 
+
+statements or opinions made or reports contained in this document. The contact person for the 
+
+Sponsor is Mr. Yee Chia Hsing, Head, Catalist. The contact particulars are 50 Raffles Place, #09-01 
+
+Singapore Land Tower, Singapore 048623, telephone: (65) 6337-5115. 
+
+
+ 
+
+2 
+
+ 
+
+Sustainability Board Statement  
+
+GRI 102-14  
+
+ 
+
+ 
+
+iX Biopharma is proud to publish its second sustainability report following our inaugural report about 6 months ago. This report captures our initiatives to integrate sustainability across our 
+
+organisation in the areas of environment, social and governance.  
+
+ 
+
+Sustainability is integral in order for our business to achieve lasting commercial success. We have embarked on this sustainability journey by looking at our responsibility for the environment 
+
+we are operating in, people in our workforce and innovative products for the healthcare industry. 
+
+ 
+
+ 
+
+ 
+
+Environment 
+
+We are fully committed to our 
+
+environmental initiatives along 
+
+its entire value chain, from 
+
+product development to supply 
+
+of goods. We have identified 
+
+energy as one of the material 
+
+topics and aim to identify other 
+
+areas of improvement where we 
+
+can mitigate our environmental 
+
+impact. 
+
+ 
+
+People  
+
+We value our employees as the 
+
+key pillar for our long-term 
+
+success. As an equal opportunity 
+
+employer, we aspire to be the 
+
+workplace of choice for our staff. 
+
+We strongly believe in diversity 
+
+and being inclusive with regard 
+
+to hiring policies. We employ 
+
+the best talent, without 
+
+discrimination on race, gender 
+
+or age.  
+
+ 
+
+We also value the importance of 
+
+competency and proficiency in 
+
+our workforce in order to ensure 
+
+the long-term success of our 
+
+business. During FY2019 , we 
+
+have invested in training and 
+
+development of our employees 
+
+to enhance their skills and 
+
+capabilities. 
+
+Innovation 
+
+Innovation is the cornerstone of 
+
+the Group and continues to be 
+
+an important driver of future 
+
+growth. We are proud to report 
+
+that 18 products have been 
+
+registered or listed on the 
+
+Australian Register of 
+
+Therapeutic Goods as  at end of 
+
+FY2019.  
+
+Product 
+
+As a pharmaceutical company, 
+
+we comply with all relevant and 
+
+material regulations and 
+
+applicable industrial standards. 
+
+All of our products are 
+
+continuously assessed for health 
+
+and safety impacts across our 
+
+value chain. We have 
+
+incorporated procedures 
+
+throughout the manufacturing 
+
+process from raw materials 
+
+sourcing to vigorous product 
+
+testing. We have also invested in 
+
+the implementation of a 
+
+pharmacovigilance monitoring 
+
+system to handle feedback and 
+
+recall events. 
+
+ 
+
+Governance  
+
+Corporate governance is at the 
+
+centre of our business in 
+
+achieving our sustainability 
+
+goals. We uphold the belief that 
+
+good corporate governance 
+
+practices are essential in 
+
+building a sound corporation 
+
+with an ethical environment, 
+
+thereby protecting the interests 
+
+of all stakeholders. We strive to 
+
+put in place a robust governance 
+
+framework to maintain integrity, 
+
+transparency, accountability and 
+
+discipline in all our practices. 
+
+ 
+
+ 
+
+We thank our stakeholders for their continued support of our business and look forward to sharing our sustainability journey with them. 
+
+
+ 
+
+3 
+
+ 
+
+About iX Biopharma 
+
+GRI 102-2 | 102-3 | 102-4 | 102-5 | 102-6 | GRI 102-7 | 102-8 
+
+ 
+
+iX Biopharma is listed on the Singapore Exchange and is a 
+
+limited liability company.  Our corporate office is located in 
+
+Singapore with operations in Australia.  
+
+ 
+
+We are a specialty pharmaceutical and nutraceutical 
+
+company, operating a fully integrated business model from 
+
+drug development and manufacturing to sale and 
+
+marketing. Our Company and our subsidiaries (“the Group”) 
+
+are focused on the development and commercialisation of 
+
+innovative therapies for improving the quality of life of 
+
+those suffering from pain and other health conditions. We 
+
+offer our products and services to consumers and 
+
+businesses in Singapore and Australia. 
+
+ 
+
+We leverage our patented sublingual drug delivery 
+
+technology, WaferiX, to develop proprietary products that 
+
+incorporate pharmacologically active compounds that have 
+
+been approved by regulatory bodies. Our pipeline of 
+
+products under development includes Wafermine, a 
+
+sublingual ketamine drug for the treatment of moderate to 
+
+severe acute pain and depression, and Wafesil, a sublingual 
+
+sildenafil drug, which has obtained approval and registration 
+
+in Australia, for the treatment of male erectile dysfunction. 
+
+iX Biopharma is also developing a cannabidiol drug using its  
+
+WaferiX technology and is evaluating its use as a treatment 
+
+for anxiety, tremor and inflammatory conditions.   
+
+ 
+
+The Group’s nutraceuticals division, Entity Health, is 
+
+engaged in the development and commercialisation of 
+
+nutraceutical products that address specific conditions and 
+
+improve quality of lifestyles throughout all phases of life. 
+
+Entity’s range of product was launched on e-commerce in 
+
+December 2017 and is now stocked in more than 190 
+
+pharmacies and health food stores across Australia as at the 
+
+date of this report.  
+
+ 
+
+Our manufacturing facility in Australia is approved 
+
+by the Therapeutic Goods Administration of 
+
+Australia, complies with Good Manufacturing 
+
+Practice, and supplies therapeutic products to 
+
+hospitals and registered pharmacies. 
+
+ 
+
+iX Biopharma: Fast Facts (as at 30 June 2019) 
+
+Indicator 
+
+Total 
+
+Breakdown 
+
+Employees  
+
+by region 
+
+51 
+
+Australia 
+
+Singapore 
+
+China 
+
+33 
+
+15 
+
+3 
+
+Full Employees  
+
+by gender 
+
+Male 
+
+Female 
+
+36 
+
+37 
+
+Total number of 
+
+operations 
+
+4 
+
+(Corporate, R&amp;D, trading, manufacturing 
+
+Net Revenue 
+
+S$ 0.67 million 
+
+Total capitalisation 
+
+Total Equity 
+
+Total liabilities 
+
+S$ 20.50 million 
+
+S$ 6.19 million 
+
+
+
+Figure 1 Entity Nutraceuticals range sold in Australia 
+
+
+ 
+
+4 
+
+Sustainability at iX Biopharma 
+
+GRI 102-11 | 102-18 
+
+ 
+
+Sustainability is integral to iX Biopharma’s business to achieve lasting commercial success. We have embarked on the sustainability journey by looking at our responsibility for the environment 
+
+we are operating in, people in our workforce and innovative products for the healthcare industry. At iX Biopharma, we understand the importance of reducing our environmental impact and 
+
+are committed to conducting business in a responsible manner by supporting the precautionary principle. 
+
+ 
+
+ 
+
+Sustainability Governance  
+
+Corporate governance is at the heart of our efforts in 
+
+achieving our sustainability goals. We uphold the belief that 
+
+good corporate governance practices are essential in building 
+
+a sound corporation with an ethical environment, thereby 
+
+protecting the interests of all stakeholders. We strive to put in 
+
+place a robust governance framework to maintain the 
+
+integrity, transparency, accountability and discipline in all our 
+
+practices. 
+
+ 
+
+The Board provides guidance on the social, ethical and 
+
+environmental impact of the Group’s activities and oversees 
+
+the monitoring and management of material sustainability 
+
+issues and their performance indicators.  We consider 
+
+sustainability issues relating to the environment and social 
+
+factors as part of the Group’s strategic plans. The 
+
+Management under the guidance of the Board is committed 
+
+to integrating best sustainability practices into the Group’s 
+
+working environment and business operation. 
+
+ 
+
+Supply chain 
+
+GRI 102-9  
+
+ 
+
+As we are accountable to our stakeholders, we endeavour to 
+
+ensure that appropriate risk management, key internal 
+
+controls and procedures are in place during the procurement 
+
+of goods and services. 
+
+ 
+
+As at end of FY2019, we have a pool of approximately 260 
+
+active suppliers, including contractors, clinical research 
+
+organisations, professional consultants, and financial 
+
+institutions which are mainly based in Singapore, Australia, 
+
+China and USA. In the future, we aim to embed sustainability 
+
+measures into our value chain and integrate environmental 
+
+factors wherever possible and appropriate.
+
+
+
+Figure 2 Our GMP compliant and TGA certified  manufacturing facility in Victoria, Australia. 
+
+
+ 
+
+5 
+
+Stakeholder Engagement 
+
+GRI 102-40 | 102-42 | 102-43 | 102-44 
+
+ 
+
+ 
+
+At iX Biopharma, we firmly believe in regularly engaging our 
+
+stakeholders to understand the issue most important to them 
+
+and our business impact. We have identified our key 
+
+stakeholders based on importance, representation, 
+
+dependency and proximity to iX Biopharma’s business. 
+
+ 
+
+We are committed to integrating our stakeholders’ 
+
+concerns in our business strategies and policies. 
+
+Therefore, we continuously seek to explore effective 
+
+communication channels and strengthen our 
+
+relationships with them. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Stakeholder 
+
+Mode of Engagement 
+
+Frequency of 
+
+Engagement 
+
+Key topics raised 
+
+Shareholders 
+
+• 
+
+Annual general meetings 
+
+• 
+
+Corporate press releases and 
+
+announcements 
+
+• 
+
+Annual reports 
+
+Annually and as required 
+
+Product safety and quality 
+
+ 
+
+Governance and compliance 
+
+ 
+
+Economic performance 
+
+ 
+
+Diversity and equal opportunity 
+
+ 
+
+Environmental compliance 
+
+ 
+
+Energy use and emissions 
+
+ 
+
+Innovation 
+
+ 
+
+Training and development 
+
+ 
+
+Health and safety 
+
+ 
+
+Workplace ownership 
+
+ 
+
+Suppliers and vendors 
+
+• 
+
+Supplier pre-qualification 
+
+program 
+
+• 
+
+Annual audits 
+
+As required 
+
+Customers 
+
+• 
+
+Regular customer 
+
+communications through email, 
+
+calls and visits 
+
+• 
+
+Customer audit (on-site) 
+
+• 
+
+Customer audit (desktop) 
+
+As required 
+
+Regulators 
+
+• 
+
+Regulatory inspections 
+
+• 
+
+Periodic audits 
+
+As required 
+
+Employees 
+
+• 
+
+Annual performance reviews 
+
+• 
+
+Go-Extra-Mile awards (Quarterly) 
+
+• 
+
+Access to training and further 
+
+education opportunities 
+
+Annually and  
+
+as required 
+
+Community 
+
+• 
+
+Scientific publications 
+
+• 
+
+Updates to Company’s website 
+
+As required 
+
+
+
+
+ 
+
+6 
+
+ 
+
+Materiality Assessment 
+
+GRI 102-46 | 102-47 | 103-1 
+
+ 
+
+ 
+
+Informed by GRI Standards, iX Biopharma has undertaken a 
+
+detailed process to identify, prioritise and validate the 
+
+environmental, social, governance and economic issues that 
+
+matter most to our organisation. Our 2019 Sustainability 
+
+Board Statement and peer research are also referenced in this 
+
+assessment.  
+
+We conducted a materiality assessment workshop with our 
+
+internal stakeholders. They were given a list of material 
+
+sustainability topics identified by peers in their sustainability 
+
+reports as well as working definitions to aid in the 
+
+identification process. This was subsequently assessed for 
+
+relevancy to both our stakeholders and the environmental, 
+
+social and governance impact of our business operations. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+  
+
+Material Aspects and Indicators Identified 
+
+ 
+
+Material Aspects 
+
+List of Indicators 
+
+Aspect Boundary 
+
+Economic 
+
+Economic Performance 
+
+201-4 Financial assistance received from government 
+
+Within organisation 
+
+Environment 
+
+Energy 
+
+302-1 Energy consumption within the organisation 
+
+Within organisation  
+
+Social 
+
+Customer Health and Safety 
+
+416-1 Assessment of the health and safety impacts of product and service 
+
+categories 
+
+Within and outside 
+
+organisation 
+
+416-2 Incidents of non-compliance concerning the health and safety impacts 
+
+of products and services 
+
+Diversity and Equal Opportunity 
+
+405-1 Diversity of governance bodies and employees  
+
+Within organisation 
+
+Training and Education 
+
+404-1 Average hours of training per year per employee 
+
+Within organisation 
+
+Occupational Health and Safety 
+
+403-2 Types of injury and rates of injury, occupational diseases, lost days, and 
+
+absenteeism, and number of work-related fatalities 
+
+Within organisation 
+
+Innovation 
+
+Innovation 
+
+Annual research and development investment 
+
+Number of new product or indication approvals 
+
+Within organisation 
+
+
+ 
+
+7 
+
+Economic 
+
+Financial assistance received from the government 
+
+GRI 103-1| 103-2 | 103-3 | 201-4 
+
+ 
+
+Why is this a material issue? 
+
+The Company’s core business is focused on the 
+
+development and commercialisation of innovative 
+
+therapies for improving the quality of life. This is very 
+
+much aligned with the objectives of the government to 
+
+develop innovative products. We have received 
+
+recognition and support from the government in various 
+
+ways as mentioned below.  
+
+ 
+
+We also believe that because we are provided with 
+
+government support, our activities are creating value for 
+
+the community.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Our approach to managing  
+
+We have proper practices in place to 
+
+administer the grants and funds received. 
+
+We consistently provide updates on the 
+
+outcome of the programmes and how the 
+
+funds were utilised to the necessary parties.  
+
+ 
+
+ 
+
+ 
+
+Environment 
+
+Energy 
+
+GRI 103-1| 103-2 | 103-3 | 302-1 
+
+ 
+
+Why is this a material issue? 
+
+We are aware of our responsibility towards the 
+
+environment. Our choice of efficient and clean sources of 
+
+energy has the potential to the minimise the impact of 
+
+our operations to the environment. As climate change 
+
+continues to be one of the most pressing global issues, it 
+
+is our duty as responsible corporate citizens to do what 
+
+we can towards the global agenda of protecting our 
+
+planet.  
+
+ 
+
+As we transition from a R&amp;D centric organisation to a 
+
+business that includes manufacturing and supply, we 
+
+expect our environmental footprint to increase 
+
+accordingly.  
+
+ 
+
+Our approach to managing  
+
+In our daily operations, electricity, which is used to power 
+
+our office buildings, manufacturing plant and laboratory, 
+
+contributes to the majority of our energy consumption. 
+
+We use fuel for our backup generators; however, the 
+
+consumption is negligible.  
+
+ 
+
+We look forward to sourcing for more energy efficiency 
+
+improvements that will help to cultivate good practices 
+
+across our organisation to save energy. We will also seek 
+
+to invest in practical solutions to mitigate and prevent 
+
+adverse environmental impacts. 
+
+ 
+
+ 
+
+ 
+
+Although Chemical Analysis was divested from the Group during 
+
+the year, it remains as a tenant at the same site until September 
+
+2020.  For the purpose of this report, environment impact is 
+
+measured on site wide basis as energy consumption excluding 
+
+Chemical Analysis cannot be accurately measured.    
+
+ 
+
+Energy consumption increase is in line with an increase in our 
+
+manufacturing activities during the year. 
+
+ 
+
+Total monetary value of financial assistance 
+
+received by the Group from any government  
+
+ 
+
+Singapore 
+
+Australia 
+
+FY2019 
+
+FY2018 
+
+FY2019 
+
+FY2018 
+
+Tax relief and tax 
+
+credits  
+
+- 
+
+- 
+
+-# 
+
+S$ 1,809,000 
+
+(R&amp;D Tax rebates) 
+
+Investment 
+
+grants, research 
+
+and development 
+
+grants, and other 
+
+relevant types of 
+
+grants 
+
+S$14,000 
+
+S$ 76,000  
+
+- 
+
+- 
+
+(Wage Credit, 
+
+Productivity 
+
+Improvement 
+
+Credit)) 
+
+(Market Readiness 
+
+Assistance Grant, 
+
+Wage Credit,  
+
+Productivity 
+
+Improvement 
+
+Credit) 
+
+ 
+
+ 
+
+#  
+
+An amount equivalent to S$742,000 was approved during FY20119 but only received in 
+
+July 2019.  It will be reported in our next report.   
+
+ 
+
+Energy Consumption (kWh) 
+
+FY2019 
+
+FY2018 
+
+1,225,589 
+
+1,141,507 
+
+
+
+
+ 
+
+8 
+
+Social 
+
+Customer Health and Safety  
+
+GRI 103-1 |103-2 | 103-3 | 416-1|416-2 
+
+ 
+
+Why is this a material issue? 
+
+Our aim at iX Biopharma is to develop products of highest 
+
+safety and quality standards. 
+
+ 
+
+One of our top priorities is the safety and wellbeing of our 
+
+customers. To ensure the quality and safety of our products, 
+
+we have integrated quality standards, procedures and 
+
+monitoring systems across our operations. All of our 
+
+products are continuously assessed for health and safety 
+
+impacts across our value chain. 
+
+ 
+
+Our approach to managing  
+
+As a pharmaceutical company, we comply with all relevant 
+
+and material regulations and applicable industrial standards. 
+
+We have incorporated procedures throughout the 
+
+manufacturing process from raw materials sourcing to 
+
+vigorous product testing. 
+
+ 
+
+We have a dedicated Quality Assurance team to ensure that 
+
+all materials used meet the necessary specification for all 
+
+products. Some products undergo clinical trials, where the 
+
+safety aspects are assessed. We have also invested in the 
+
+implementation of a pharmacovigilance monitoring system 
+
+to handle feedbacks and recall events. We have in place an 
+
+adverse effect management programme. 
+
+ 
+
+We adhere strictly to government regulations such as 
+
+Therapeutic Goods Regulations 1990 of Australia, PIC/S 
+
+Guide to Good Manufacturing Practice for Medicinal 
+
+Products, Australian Code of Good Manufacturing Practice 
+
+for Veterinary Medicines, and Therapeutics Advertising Code. 
+
+This is made possible by having a robust Quality System that 
+
+is focused on on-going monitoring.  Our Quality Assurance 
+
+team constantly reviews our procedures, processes and 
+
+quality of our products to ensure quality and compliance. 
+
+ 
+
+We also review our compliance with Therapeutic Goods 
+
+Administration (“TGA”) requirements from manufacturing to 
+
+product and labelling standards for our pharmaceutical and 
+
+nutraceutical products. As at the end of FY2019, two of our 
+
+pharmaceutical products for erectile dysfunction were 
+
+registered with the TGA.  In addition, all our nutraceutical 
+
+products sold in Australia are listed on ARTG. 
+
+ 
+
+As part of our commitment to our customer health and 
+
+safety, we strive to achieve:  
+
+• 
+
+zero cases of non-compliance with regulations and/or 
+
+voluntary codes concerning the health and safety 
+
+impacts of products 
+
+• 
+
+full assessment of health and safety impacts of all our 
+
+products for improvement 
+
+ 
+
+
+
+FY2018 and FY2019 
+
+ 
+
+No cases of non-compliance with regulations 
+
+and/or voluntary codes concerning the health 
+
+and safety impacts of products 
+
+ 
+
+All products (pharmaceuticals and 
+
+nutraceuticals) are tested prior to release and 
+
+assessed for improvements 
+
+
+
+
+
+
+
+
+ 
+
+9 
+
+Social 
+
+Training and Workplace Diversity 
+
+GRI 103-1 |103-2 | 103-3 | 404-1 | 405-1 
+
+ 
+
+Why is this a material issue? 
+
+We value our employees as the key pillar for our long-term 
+
+success. As an equal opportunity employer, we aspire to be 
+
+the workplace of choice for our staff. We strongly believe in 
+
+being inclusive with regard to hiring policies.  
+
+ 
+
+We recognise that our employees are instrumental in the 
+
+success and growth of our Group, and we are dependent on 
+
+the quality and skill of our employees to resolve issues 
+
+raised by our customers. 
+
+ 
+
+Our approach to managing  
+
+We employ the best talent, without discrimination on the 
+
+basis of race, gender or age. We have policies and practices 
+
+in place to ensure fair hiring and equal opportunity.  
+
+ 
+
+Diversity is an integral part of engaging with the 
+
+communities we work in.  While it is important, merit and 
+
+competency of employees is also a key factor for the success 
+
+of our business. We have in place multiple training manuals 
+
+and systems for all our employees. 
+
+ 
+
+The training systems ensure that all personnel are trained 
+
+and deemed competent as required by their position 
+
+description, assigned roles and responsibilities, and where a 
+
+training gap exists, a plan is in place to close the gap. 
+
+ 
+
+We hope to provide more training opportunities for all our 
+
+employees in the upcoming year.
+
+ 
+
+ 
+
+ 
+
+Safety, Health and Environment  
+
+GRI 103-1 |103-2 | 103-3 | 403-2 
+
+ 
+
+Why is this a material issue? 
+
+Our employees are our most valuable asset. Therefore, our 
+
+success depends upon ensuring a safe and conducive work 
+
+environment for them. Our goal is to improve the work 
+
+environment for our people by reducing risks, preventing 
+
+diseases and fostering their physical and psychological well-
+
+being. 
+
+ 
+
+At our manufacturing units, we work with active ingredients 
+
+some of which may be highly toxic. In case of lack of 
+
+understanding and awareness, improper management of 
+
+these substances in large volumes can be dangerous for the 
+
+workers and their surroundings. 
+
+ 
+
+Our approach to managing  
+
+To ensure the safety of our employees we have put in place 
+
+standard operating procedures.  
+
+ 
+
+The Group operates a site-based approach to Safety, Health 
+
+and Environment (“SHE”) to ensure that facilities operate to 
+
+national recognised standards. These include complying with 
+
+government regulations and commitments to continuous 
+
+improvements to health &amp; safety of our workforce at a 
+
+minimum impact to the environment.  
+
+ 
+
+A site SHE committee, comprising senior members of 
+
+businesses operating at our Croydon site, oversees the 
+
+implementation of policies and work practices, and reviews 
+
+all reportable incidents and actions being taken. They are 
+
+responsible for reviewing all reported incidents, assess the 
+
+root cause, address safety gaps and ensure corrective as well 
+
+as preventive measures are taken. 
+
+ 
+
+The results of the incidents are reviewed monthly during the 
+
+management meeting of respective businesses and quarterly 
+
+at the site with the SHE committee.   
+
+ 
+
+ 
+
+During the year, no reportable incident has been recorded. 
+
+ 
+
+ 
+
+Average Training Hours Per Employee 
+
+FY2019 
+
+FY2018 
+
+53.6 
+
+26.9 
+
+Note:  Please refer page 11, under Performance metrics for the detailed 
+
+breakdown of training and workplace diversity performance 
+
+FY 2019 &amp; FY2018 Performance 
+
+ 
+
+Zero case of work-related fatalities 
+
+Zero case of work-related serious injury† 
+
+Note:  Please refer page 11, under Performance metrics for the detailed 
+
+breakdown of Safety, Health and Environment performance. 
+
+ 
+
+† Serious injury is an injury that has a major impact or effect on the 
+
+health of the employee, including 1)  loss of consciousness – directly 
+
+related to injury , 2)  amputation, 3) fracture – other than hairline 
+
+fracture or any bone or non-displaced fracture of a digit , 4) in-
+
+patient hospitalisation  for observation that is for three or more days, 
+
+5) surgical intervention, and / or 6) continuous impairment 
+
+
+
+
+
+
+
+
+ 
+
+10 
+
+Innovation 
+
+ 
+
+ 
+
+ 
+
+Why is this a material issue? 
+
+Innovation is the cornerstone of the Group and continues to 
+
+be an important driver of future growth. Waferix is a unique 
+
+and versatile drug delivery platform that allows 
+
+pharmacologically active compounds to disintegrate quickly 
+
+under the tongue, reducing 
+
+the effect of first-pass 
+
+metabolism, and resulting in 
+
+higher bioavailability, as 
+
+compared to conventional 
+
+methods of administration.  
+
+ 
+
+We have strong R&amp;D 
+
+capability and collective 
+
+experience in pharmaceutical 
+
+technology, medicine 
+
+formulation, clinical pharmacology and drug delivery &amp; 
+
+safety. Our R&amp;D activities are vital to our efforts to maintain 
+
+our competitiveness in the industry as well as to further 
+
+develop better and improved products.   
+
+ 
+
+Our approach to managing  
+
+We seek to identify areas of unmet or under-served 
+
+therapeutic need and focus our research and development 
+
+efforts on formulations of pharmaceuticals aimed at 
+
+addressing such needs.  
+
+ 
+
+Ongoing product developments 
+
+ 
+
+▪ 
+
+Wafermine 
+
+What it is: World’s first sublingual ketamine for the 
+
+treatment of acute moderate to severe pain 
+
+Active compound: Racemic ketamine, currently 
+
+approved as anaesthetic in IV injection form  
+
+Target patient population market: Patients requiring 
+
+pain management following surgical operations, painful 
+
+procedures (e.g. burn dressing changes) and in the 
+
+emergency department 
+
+Clinical development status: End-of-Phase-2 (EOP2) 
+
+meeting scheduled with the US FDA in first quarter of 
+
+FY2020 
+
+Patents: 54 patents granted, 15 
+
+patents pending  
+
+ 
+
+Other Uses: Treatment of major 
+
+depressive disorder 
+
+Clinical development status: Phase 
+
+2 - ready 
+
+ 
+
+ 
+
+ 
+
+ 
+
+▪ 
+
+Xativa 
+
+What it is: A novel sublingual wafer containing 
+
+cannabidiol (CBD) and other beneficial cannabinoids and 
+
+compounds found in full spectrum cannabis extracts 
+
+What is CBD: CBD is one of the primary compounds 
+
+found in the cannabis plant 
+
+Potential indications: Promising research suggests that 
+
+CBD can help with chronic pain, certain inflammatory and 
+
+motor diseases, appetite, anxiety and inflammatory bowel 
+
+disease, among others. 
+
+Sublingual delivery of CBD: CBD is known to have poor 
+
+oral bioavailability.  As a result, taking cannabis 
+
+sublingually has the benefits of a faster onset of action 
+
+and higher bioavailability. WaferiX, being a validated 
+
+sublingual wafer, provides a more elegant and 
+
+convenient way to administer CBD, giving users a better 
+
+experience. 
+
+Clinical development status: Formulation currently 
+
+being evaluated for use in the treatment of anxiety, 
+
+tremor and chronic inflammatory conditions 
+
+▪ 
+
+BnoX 
+
+What it is: a sublingual buprenorphine wafer for the 
+
+treatment of moderate to severe pain 
+
+Active compound: Buprenorphine 
+
+Target patient population market: Buprenorphine has 
+
+been shown to provide longer-lasting pain relief with 
+
+fewer side effects compared to other opioids. It also 
+
+exhibits a ceiling effect – higher doses do not result in 
+
+unwanted additional opioid effects, including euphoria 
+
+and respiratory depression. Patients are therefore less 
+
+likely to develop addiction and tolerance, while the risk of 
+
+death is also greatly reduced. 
+
+Clinical development status: Completed Phase 1 
+
+Pharmacokinetic Study 
+
+ 
+
+We believe that our WaferiX drug delivery platform is suitable 
+
+for the development of other products that incorporate 
+
+active pharmacological compounds (other than ketamine, 
+
+buprenorphine, fentanyl and sildenafil) or different dosages.  
+
+ 
+
+We strive to combine innovative formulations and delivery 
+
+systems to produce next-generation nutraceuticals which 
+
+bring visible and perceptible change to improve our 
+
+customers' health on a cellular level. 
+
+ 
+
+FY2019 
+
+FY2018 
+
+Annual research and 
+
+development investment 
+
+S$ 3,765,000 
+
+S$ 8,031,000 
+
+Number of new products 
+
+5 
+
+13 
+
+Pharmaceuticals 
+
+1 
+
+1 
+
+Nutraceuticals 
+
+4 
+
+12 
+
+
+
+
+ 
+
+11 
+
+Performance Metrics  
+
+ 
+
+Diversity and equal opportunity 
+
+Percentage of women employees within iX Biopharma's governance bodies  
+
+Governance Bodies 
+
+Percentage of female employees (%) 
+
+FY2019 
+
+FY2018 
+
+Board of Directors (Board) 
+
+25%1 
+
+20% 
+
+Audit Committee (AC) 
+
+33% 
+
+25% 
+
+Nominating Committee (NC) 
+
+33% 
+
+25% 
+
+Remuneration Committee (RM) 
+
+33% 
+
+25% 
+
+Risk Management Committee (RMC) 
+
+33% 
+
+33% 
+
+ 
+
+Percentage of employees within iX Biopharma's governance bodies by age group  
+
+Age Group 
+
+FY2019 
+
+FY2018 
+
+Board 
+
+AC 
+
+NC 
+
+RC 
+
+RMC 
+
+Board 
+
+AC 
+
+NC 
+
+RC 
+
+RMC 
+
+Under 30 year old 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+30-50 year old 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+20% 
+
+25% 
+
+- 
+
+25% 
+
+33% 
+
+Over 50 year old 
+
+100% 
+
+100% 
+
+100% 
+
+100% 
+
+100% 
+
+80% 
+
+75% 
+
+100% 
+
+75% 
+
+67% 
+
+ 
+
+Percentage of employees per employee category by gender  
+
+Employee Category 
+
+Percentage of female employees (%) 
+
+FY2019 
+
+FY2018 
+
+Management 
+
+33% 
+
+33% 
+
+Executive 
+
+30% 
+
+20% 
+
+Non-executive 
+
+58% 
+
+46% 
+
+ 
+
+Percentage of employees per employee category by age group 
+
+Age Group 
+
+FY2019 
+
+FY2018 
+
+Management 
+
+Executive 
+
+Non-executive Management 
+
+Executive 
+
+Non-executive 
+
+Under 30 year old 
+
+17% 
+
+- 
+
+27% 
+
+17% 
+
+- 
+
+25% 
+
+30-50 year old 
+
+33% 
+
+33% 
+
+55% 
+
+33% 
+
+40% 
+
+54% 
+
+Over 50 year old 
+
+50% 
+
+67% 
+
+18% 
+
+50% 
+
+60% 
+
+21% 
+
+ 
+
+ 
+
+1 Change in percentage in Board’s composition was due to retirement of a director during the year.   
+
+Training and education 
+
+Average training hours per employee gender 
+
+ 
+
+FY2019 
+
+FY2018  
+
+Per employee 
+
+53.6 
+
+26.9 
+
+Per female employee 
+
+37.0 
+
+32.1 
+
+Per male employee 
+
+67.8 
+
+18.6 
+
+ 
+
+Average training hours per employee category 
+
+Employee Category  
+
+FY2019 
+
+FY2018  
+
+Director 
+
+2.0 
+
+0 
+
+Manager 
+
+18.8 
+
+0 
+
+Executive 
+
+90.0 
+
+32.4 
+
+Non-executive 
+
+87.5 
+
+39.1 
+
+ 
+
+Safety, Health and Environment2 
+
+ 
+
+FY2019 
+
+FY2018 
+
+Female 
+
+Male 
+
+Overall  
+
+Female 
+
+Male 
+
+Overall  
+
+Injury Rate  
+
+(per 1,000,000 working hours) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Lost Day Rate  
+
+(days lost per 1,000,000 working hours) 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+- 
+
+ 
+
+Types of injury 
+
+ 
+
+FY2019 
+
+FY2018 
+
+Female 
+
+Male 
+
+Female 
+
+Male 
+
+Number of first aid incidents 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Number of medically treated incidents 
+
+- 
+
+- 
+
+- 
+
+- 
+
+Number of lost-time incidents 
+
+- 
+
+- 
+
+- 
+
+- 
+
+2 Source: Injury Rate and Lost Day Rate formula as defined by International Labour Organisation 
+
+
+ 
+
+12 
+
+GRI Content Index 
+
+  
+
+GRI Standard 
+
+Disclosure 
+
+Chapter, Page Reference, 
+
+Performance  
+
+and/or Explanation for Omissions 
+
+GRI 102: General 
+
+Disclosures 2016 
+
+ORGANISATIONAL PROFILE 
+
+102-1 
+
+Name of the organisation 
+
+1 
+
+102-2 
+
+Activities, brands, products, and 
+
+services 
+
+3 
+
+102-3 
+
+Location of headquarters 
+
+3 
+
+102-4 
+
+Location of operations 
+
+3 
+
+102-5 
+
+Ownership and legal form 
+
+3 
+
+102-6 
+
+Markets served 
+
+3 
+
+102-7 
+
+Scale of the organisation 
+
+3 
+
+102-8 
+
+Information on employees and other 
+
+workers 
+
+3 
+
+102-9 
+
+Supply chain 
+
+4 
+
+102-10 
+
+Significant changes to organisation 
+
+and its supply chain 
+
+Divestment of laboratory testing 
+
+business during FY2019 
+
+102-11 
+
+Precautionary principle or approach 
+
+4 
+
+102-12 
+
+External initiatives 
+
+Not Applicable 
+
+102-13 
+
+Membership of associations 
+
+Not Applicable 
+
+STRATEGY  
+
+102-14 
+
+Statement from senior decision 
+
+2 
+
+ETHICS AND INTEGRITY 
+
+102-16 
+
+Values, principles, standards, and 
+
+norms of behaviour 
+
+Please refer to our Annual Report  
+
+page 31 to 47 
+
+GOVERNANCE 
+
+102-18 
+
+Governance structure 
+
+4 
+
+STAKEHOLDER ENGAGEMENT 
+
+102-40 
+
+List of stakeholder groups 
+
+5 
+
+102-41 
+
+Collective bargaining agreements 
+
+Not Applicable 
+
+102-42 
+
+Identifying and selecting stakeholders 
+
+5 
+
+102-43 
+
+Approach to stakeholder engagement 
+
+5 
+
+102-44 
+
+Key topics and concerns raised  
+
+5 
+
+GRI Standard 
+
+Disclosure 
+
+Chapter, Page Reference, 
+
+Performance  
+
+and/or Explanation for Omissions 
+
+REPORTING PRACTICE 
+
+102-45 
+
+Entities included in the consolidated 
+
+financial statements 
+
+• iX Biopharma Ltd. 
+
+• iX Biopharma Pty Ltd 
+
+• iX Syrinx Pty Ltd 
+
+• Arrow Property Trust &amp; Kaizen 
+
+Manufacturing Pty Ltd 
+
+• Entity Health Ltd 
+
+• Entity Health Pte Ltd 
+
+• Entity Health Pty Ltd 
+
+• Entity Health (China) Co Ltd 
+
+• Entity Health (Shanghai) Ltd Co 
+
+102-46 
+
+Defining report content and topic 
+
+Boundaries 
+
+1 and 6 
+
+102-47 
+
+List of material topics 
+
+6 
+
+102-48 
+
+Restatements of information 
+
+All performance statistic relating to 
+
+Chemical Analysis Pty Ltd &amp; 
+
+Chemical Analysis Trust have been 
+
+excluded from the comparative 
+
+figures 
+
+102-49 
+
+Changes in reporting 
+
+All performance statistic relating to 
+
+Chemical Analysis Pty Ltd &amp; 
+
+Chemical Analysis Trust have been 
+
+excluded from the comparative 
+
+figures  
+
+102-50 
+
+Reporting period 
+
+1 
+
+102-51 
+
+Date of the most recent report 
+
+June 2019 
+
+102-52 
+
+Reporting cycle 
+
+1 
+
+102-53 
+
+Contact point of questions regarding 
+
+the report 
+
+1 
+
+102-54 
+
+Claims of reporting in accordance with 
+
+GRI Standards 
+
+1 
+
+102-55 
+
+GRI Content Index 
+
+12and 13 
+
+102-56 
+
+External assurance 
+
+We have not sought external 
+
+assurance for this reporting period. 
+
+Material Topics 
+
+ECONOMIC 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6and 7 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+
+ 
+
+13 
+
+GRI Standard 
+
+Disclosure 
+
+Chapter, Page Reference, 
+
+Performance  
+
+and/or Explanation for Omissions 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 201: Economic 
+
+Performance 2016 
+
+201-4 
+
+Financial assistance received from 
+
+government 
+
+7 
+
+ENVIRONMENT 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 7 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 302: Energy 
+
+2016 
+
+302-1 
+
+Energy consumption within the 
+
+organisation 
+
+7 
+
+SOCIAL 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 8 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 416: Customer 
+
+Health and Safety 
+
+2016 
+
+416-1 
+
+Assessment of the health and safety 
+
+impacts of product and service 
+
+categories 
+
+8 
+
+416-2 
+
+Incidents of non-compliance 
+
+concerning the health and safety 
+
+impacts of products and services 
+
+8 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 9 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 405: Diversity 
+
+and Equal 
+
+Opportunity 2016 
+
+405-1 
+
+Diversity of governance bodies and 
+
+employees 
+
+9 and 11 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 9 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 404: Training 
+
+and Education 2016 
+
+404-1 
+
+Average hours of training per year per 
+
+employee 
+
+9 and 11 
+
+GRI Standard 
+
+Disclosure 
+
+Chapter, Page Reference, 
+
+Performance  
+
+and/or Explanation for Omissions 
+
+GRI 103: 
+
+Management 
+
+Approach 2016 
+
+103-1 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 9 
+
+(Partial Compliance) 
+
+103-2 
+
+The management approach and its 
+
+components 
+
+103-3 
+
+Evaluation of the management 
+
+approach 
+
+GRI 403: 
+
+Occupational Health 
+
+and Safety 2016 
+
+403-2 
+
+Types of injury and rates of injury, 
+
+occupational diseases, lost days, and 
+
+absenteeism, and number of work-
+
+related fatalities 
+
+9 and 11 
+
+(Partial Compliance) 
+
+Management 
+
+Approach 
+
+Non-GRI 
+
+Explanation of the material topic and 
+
+its Boundary 
+
+6 and 10 
+
+The management approach and its 
+
+components 
+
+Evaluation of the management 
+
+approach 
+
+Innovation 
+
+Non-GRI 
+
+Annual research and development 
+
+investment 
+
+Number of new product or indication 
+
+approvals 
+
+10 
+
+ 
+

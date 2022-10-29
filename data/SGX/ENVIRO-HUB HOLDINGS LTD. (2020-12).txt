@@ -1,0 +1,2582 @@
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 2 of 26 
+
+ 
+
+
+
+ 
+
+CONTENTS 
+
+ 
+
+Board Statement ..................................................................................................................................... 3 
+
+About the Report ..................................................................................................................................... 4 
+
+Our Commitment during COVID-19......................................................................................................... 5 
+
+Sustainability Governance ....................................................................................................................... 7 
+
+Stakeholder Engagement ........................................................................................................................ 8 
+
+Materiality assessment.......................................................................................................................... 10 
+
+Economic Performance ......................................................................................................................... 12 
+
+Environmental Performance ................................................................................................................. 13 
+
+Social Performance ................................................................................................................................ 15 
+
+Customers ............................................................................................................................................. 22 
+
+GRI Content Index ................................................................................................................................. 24 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 3 of 26 
+
+ 
+
+
+
+BOARD STATEMENT 
+
+ 
+
+ 
+
+ 
+
+The Board of Directors of the Company (the "Board") is pleased to present our “Sustainability Report” 
+
+which is our continued commitment to share our sustainability journey with all our stakeholders in a 
+
+transparent manner. In this report, we have shared highlights on how we have progressed and our 
+
+focus going forward.  
+
+Our organisation provides a wide spectrum of services which includes trading, recycling, refining of e-
+
+waste/metals, piling, construction, rental and servicing of machinery, property investments and 
+
+property management, and conversion of waste plastics to fuel oil. We continue to demonstrate our 
+
+commitment to restoring the environment through incorporating Environmental, Social and 
+
+Governance (“ESG”) related aspects in our business strategy and operations. 
+
+The Board is responsible for the oversight of the management of Enviro-Hub’s sustainability 
+
+performance and is supported by a sustainability committee established to implement sustainability 
+
+initiatives. The involvement of the Board in identifying material ESG topics is necessary to ensure that 
+
+sustainability is embedded in our policies and procedures and is in line with our business strategy. The 
+
+Board is also involved in the formulation and approval of the targets for each material ESG topic. 
+
+We have embraced the concept of Circular Economy by providing environmental management 
+
+solutions and services. We view our involvement in supporting the circular economy principles as an 
+
+opportunity to grow our business while contributing to the development of a sustainable and resource-
+
+efficient society.  
+
+The COVID-19 pandemic has impacted companies and industries across the globe. At Enviro-Hub, we 
+
+were prompt in implementing our business continuity plan and the COVID-19 related measures as 
+
+required by the government to protect the safety and health of our workforce and our communities. 
+
+We continue to monitor changes to the guidelines to ensure the continued safety of our staff and our 
+
+stakeholders. During this time, Enviro-Hub continued to raise environmental awareness through our e-
+
+waste recycling programmes and contributed to low income families through our community 
+
+development programs. 
+
+Our fourth annual Sustainability Report showcases our continuing efforts towards providing solutions 
+
+to address global sustainable development objective. The Board is grateful towards all the stakeholders 
+
+for contributing to our journey of transformation towards sustainability. 
+
+Enviro-Hub Holdings Limited Board of Directors 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 4 of 26 
+
+ 
+
+
+
+ABOUT THE REPORT 
+
+ 
+
+Report Scope and Boundary 
+
+This Sustainability Report is in its fourth edition, covering the Company’s sustainability performance for 
+
+the period of 1st January 2020 to 31st December 2020 (“2020”). The scope of the report is limited to 
+
+the performance and data of Cimelia Resource Recovery Pte Limited (“Cimelia”), Enviro-Metals Pte 
+
+Limited (“Enviro-Metals”) and HLS Environmental Pte Limited formally known as HLS Electronics Pte 
+
+Limited (“HLS”), which are Enviro-Hub’s Singapore-based business operations in the recycling, refining 
+
+of metals and trading of e-waste and metals. The inclusion of other business lines in the sustainability 
+
+report will be assessed and considered in the future.  
+
+Reporting Standards and Compliance Requirements 
+
+The report has been prepared in alignment with the GRI Standards "In Accordance-Core" option. The 
+
+GRI Standards were selected as it is an internationally recognised reporting framework that covers a 
+
+comprehensive range of sustainability disclosures suited to Enviro-Hub’s industry and business model. 
+
+This report is also aligned with the reporting requirements of Singapore Exchange (“SGX”) Listing Rules 
+
+711A and 711B – Sustainability Reporting Guide.  
+
+Data Management  
+
+The data presented in the report relates to the operations mentioned in the reporting boundary. The 
+
+financial data presented covers the whole Enviro-Hub Group. We publish our sustainability reports on 
+
+an annual basis. All our sustainability reports, including the previous sustainability report published in 
+
+May 2020, are available on our Company’s website1. There are no restatements of data presented from 
+
+the previous years’ report. 
+
+Feedback 
+
+We value and welcome all feedback from all stakeholders as they are integral to the continuous 
+
+improvements of our sustainability practices and reporting. Please send all comments and suggestions 
+
+to info@enviro-hub.com. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+1 http://www.enviro-hub.com/ir.html 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 5 of 26 
+
+ 
+
+
+
+OUR COMMITMENT DURING COVID-19 
+
+ 
+
+As we navigate the different stages of the coronavirus pandemic and the consequent economic and 
+
+social impacts across different geographies, our priority is always safeguarding and supporting our 
+
+people - employees, as well as those in our communities. We will continue to review and adapt to the 
+
+COVID-19 related measures, as well as new working protocols implemented in line with advisories from 
+
+government.  
+
+The Board is kept informed on the Group’s performance at least quarterly, along with any potential 
+
+impacts from COVID-19 on business operations. Management also updates the Board on timely actions 
+
+undertaken to mitigate the negative impacts caused by COVID-19.  
+
+Business continuity during COVID-19 
+
+The COVID-19 situation is ever-evolving and has forced our business to react quickly and decisively to 
+
+ensure our workforce remains safe, the continuity of our business is not impacted and the movement 
+
+of goods and people to and from our plant boundaries do not adversely impact the communities where 
+
+we operate. Our resilience and Business Continuity Plan (“BCP”) have manifested our ability to serve 
+
+our clients and empowered our employees to quickly adjust to remote working arrangements.  
+
+The implementation of the lockdown and subsequent social distancing requirements affected the 
+
+operational efficiency of both our customers and suppliers. COVID-19 procedures at supplier and 
+
+customer sites made logistics more challenging and increased costs, as it took a longer time to enter 
+
+the supplier or customer operation sites along with inefficiencies during loading and unloading. This 
+
+was due to a reduction in manpower at the sites, which then constrained the ability of our logistic team 
+
+to visit multi-sites in same day. The delays also caused our vehicles to be queued at our customers’ 
+
+sites, and additional external vehicles had to be used which also increased costs.  
+
+At the operation sites, processing times increased due to labour constraints and additional measures 
+
+to comply with social distancing requirements. The regular collections and scrap volume from our 
+
+customers were also affected as many customers had to shut down their offices or work with reduced 
+
+teams. Cimelia’s suppliers such as chemical disposal vendors and consumable suppliers have all had to 
+
+scale down their operations, further impacting productivity of the Group’s refinery plants. 
+
+The Group’s overseas collections were also affected due to various government restrictions and closure 
+
+of ports. In cases where ports were operational, there were issues in booking of containers which 
+
+resulted in requesting customers to delay collection till empty containers were available, requiring 
+
+cooperation to store scrap materials in customer’s warehouses. 
+
+During this time, we continually informed our customers in a timely manner, and they in return 
+
+extended their support to Enviro-Hub during these challenging times. The Group’s recycling businesses 
+
+have also accommodated customer requests to assist them during these difficult times by waiving the 
+
+increased transportation charges for collections. By working closely with our customers, Enviro-Hub is 
+
+confident we will emerge stronger from this pandemic.  
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 6 of 26 
+
+ 
+
+
+
+Prioritising stakeholder well-being and safety 
+
+We are fully committed to the safety of our employees. Our strategy has been to practice physical 
+
+distancing, rely on early diagnosis of our workforce, and to prevent an outbreak by practicing remote 
+
+working and sharing of knowledge and best practices across our business entities to ensure safe 
+
+workplaces.  
+
+We established, documented, implemented, maintained and continually improved a Safe Management 
+
+Measure System in accordance with Ministry of Manpower requirements for safe management 
+
+measures at the workplace after Circuit Breaker (“CB”) period.  
+
+Following the outbreak of the COVID-19 pandemic, we implemented mandatory health and safety 
+
+protocols issued by various government agencies. These protocols were regularly updated with the 
+
+latest relevant public health advisories and restrictions and communicated to all employees. Safety and 
+
+precautionary measures included telecommuting where possible, the appointment of Safe 
+
+Management Officers at workplaces, the wearing of masks at work, temperature screening for 
+
+employees and visitors, team segregation and staggered working hours, safe distancing measures and 
+
+installation of physical barriers and partitions to allow for physical distancing at workplaces.  
+
+At the Group level, hand sanitizers, disinfectants and masks were provided to all employees, and 
+
+wearing of appropriate PPE was mandatory to ensure safety. Staff members were 
+
+provided transportation facilities in smaller group arrangements from work and back home on the daily 
+
+basis, to mitigate the risk and exposure from public transport during the Covid period and ensure safe 
+
+distancing. 
+
+A mask donation drive was also organised by HLS, wherein 25,000 masks were donated to low income 
+
+families through Boon Lay CC.  
+
+For more information on impacts related to COVID-19 please refer Annual report 20202 
+
+ 
+
+ 
+
+ 
+
+2 http://www.enviro-hub.com/misc/ar2020.pdf 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 7 of 26 
+
+ 
+
+
+
+SUSTAINABILITY GOVERNANCE 
+
+ 
+
+We endeavour to maintain the highest ethical standards of compliance, transparency and business trust 
+
+with our stakeholders while aligning with our values. The robust governance structure, sound policies 
+
+and monitoring system ensures that this stakeholder confidence is intact. Our sustainability governance 
+
+model provides a foundation to integrate our sustainability priorities with the corporate agenda.  
+
+The Board reviews sustainability issues as part of Enviro-Hub’s strategic formulation and approves the 
+
+ESG factors material to the business. 
+
+The Sustainability Steering Committee (SSC), led by our Chief Financial Officer (“CFO”) and involves 
+
+other senior management, develop sustainability objectives, strategies and oversee overall 
+
+sustainability performance before reporting it to the Board.  
+
+To ensure that sustainability efforts are implemented effectively into our strategic direction and 
+
+business operations, our sustainability efforts are driven by the Sustainability Task Force (“STF”), led by 
+
+our CFO, which was established and integrated as part of the company’s corporate governance. 
+
+Representatives of the operations and finance divisions are represented in the STF to manage and 
+
+monitor’s Enviro-Hub’s sustainability progress and performance. 
+
+The STF’s primary responsibilities include: 
+
+1. reviewing and reporting to the Board on the sustainability approach, standards, priorities and 
+
+goals, and overseeing Group-level strategies, policies and practices on sustainability matters to 
+
+attain those standards and goals; 
+
+2. overseeing, reviewing and evaluating sustainability performance against the prioritised 
+
+material topics; 
+
+3. reviewing and advising the Board on Enviro-Hub’s public reporting on the organisation’s 
+
+performance on sustainability matters; and 
+
+4. presenting the sustainability report for the Board’s approval. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 8 of 26 
+
+ 
+
+
+
+STAKEHOLDER ENGAGEMENT 
+
+ 
+
+We believe in open and transparent dialogues with our stakeholders and this has been the greatest 
+
+source of inputs for our development activities. Fostering an inclusive approach towards all our 
+
+stakeholders by identifying and actively engaging with them, we focus on understanding their needs, 
+
+interests and expectations. This has enabled us to create value for both Enviro-Hub and our 
+
+stakeholders. We have identified both our internal and external stakeholders. By actively engaging our 
+
+stakeholders, we continue to align our priorities with their needs. The table below summarises our 
+
+stakeholder engagement methods, frequency and key topics of interest: 
+
+ 
+
+Key 
+
+Stakeholders 
+
+Engagement Methods 
+
+Frequency 
+
+Key Topics of Interest 
+
+Investors and 
+
+Shareholders 
+
+ 
+
+ 
+
+Updates on financial results, 
+
+announcements, business 
+
+developments, press releases 
+
+and other relevant disclosures 
+
+via SGXNet and Enviro-Hub’s 
+
+website 
+
+Throughout the 
+
+year 
+
+• Transparent reporting 
+
+• Sound corporate 
+
+governance practices 
+
+• Business strategy and 
+
+outlook 
+
+Roadshows and investor 
+
+conferences  
+
+Throughout the 
+
+year  
+
+One-on-one meetings and site 
+
+visits  
+
+Throughout the 
+
+year 
+
+Annual General Meeting  
+
+Annually 
+
+Employees 
+
+ 
+
+ 
+
+Induction programme for new 
+
+employees 
+
+Throughout the 
+
+year 
+
+• Equitable remuneration 
+
+• Fair and competitive 
+
+employment practices 
+
+and policies 
+
+• Safe and healthy work 
+
+environment 
+
+• Employee development 
+
+and well-being  
+
+Training and development 
+
+programmes 
+
+Throughout the 
+
+year 
+
+Career development 
+
+performance appraisals 
+
+Annually 
+
+Recreational and wellness 
+
+activities 
+
+Throughout the 
+
+year 
+
+E-mails, meetings and town-
+
+halls sessions 
+
+Throughout the 
+
+year 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 9 of 26 
+
+ 
+
+
+
+Customers 
+
+ 
+
+Feedback from customers  
+
+Throughout the 
+
+year 
+
+• Comments and 
+
+potential room for 
+
+improvement in 
+
+delivering goods and 
+
+services 
+
+Independent audit from our 
+
+customers 
+
+Annually/ 
+
+Biannual 
+
+• IP protection and data 
+
+security  
+
+Government 
+
+and Regulators 
+
+ 
+
+Meetings and dialogue 
+
+sessions 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Throughout the 
+
+year 
+
+• Compliance with and 
+
+updates on changing 
+
+laws and regulations 
+
+ 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 10 of 26 
+
+ 
+
+
+
+MATERIALITY ASSESSMENT 
+
+ 
+
+A detailed materiality assessment exercise was conducted to identify ESG risks and opportunities that 
+
+are most important to our business and stakeholders. The identification of material topics involved 
+
+conducting research on global and local trends in our industry, peer benchmarking, as well as industry 
+
+best practices. Results of this assessment exercise were reviewed by our senior management from the 
+
+point of view of relevance and adequacy. Based on the review, the materiality topics were finalised.  
+
+We will continue to assess these material topics on a regular basis to ensure their relevance and 
+
+importance to our business. The table below depicts each corresponding topic with the specific GRI 
+
+standards. 
+
+Category 
+
+Material Topic 
+
+GRI Standard 
+
+GRI Disclosures 
+
+Economic 
+
+ 
+
+ 
+
+Economic Performance 
+
+ 
+
+ 
+
+GRI 201: Economic 
+
+Performance 
+
+Disclosure 201-1:  
+
+Direct economic value 
+
+generated and distributed 
+
+Environment 
+
+Environmental 
+
+Compliance (including 
+
+regarding Emissions, 
+
+Effluents and Sludge, 
+
+Auditing by our 
+
+customers) 
+
+GRI 307: 
+
+Environmental 
+
+Compliance 
+
+Disclosure 307-1: 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Social 
+
+ 
+
+Occupational Health and 
+
+Safety 
+
+GRI 403: 
+
+Occupational Health 
+
+and Safety 
+
+Disclosure 403-9: 
+
+Work-related injuries 
+
+Talent Attraction and 
+
+Retention 
+
+GRI 401: 
+
+Employment 
+
+Disclosure 401-1: 
+
+New employee hires and 
+
+employee turnover 
+
+Training and Education 
+
+GRI 404: Training and 
+
+Education 
+
+Disclosure 404-1: 
+
+Average hours of training per 
+
+year per employee 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 11 of 26 
+
+ 
+
+
+
+Local Communities 
+
+GRI 413: Local 
+
+Communities 
+
+Disclosure 413-1: 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, and 
+
+development programs 
+
+Customers 
+
+ 
+
+Protection of Sensitive 
+
+Information 
+
+ 
+
+GRI 418: Customer 
+
+Privacy 
+
+Disclosure 418-1: 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer privacy and losses of 
+
+customer data 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 12 of 26 
+
+ 
+
+
+
+ECONOMIC PERFORMANCE 
+
+ 
+
+Enviro-Hub recognises the financial interconnectivity that our economic performance has with all our 
+
+stakeholders. We seek to deliver sustainable returns to all stakeholders by driving constant economic 
+
+growth and aiming to operate in a responsible manner. 
+
+ 
+
+Please refer to the financial statements in the Annual Report3 for more information regarding Enviro-
+
+Hub’s economic performance. 
+
+ 
+
+ 
+
+ 
+
+3 http://www.enviro-hub.com/misc/ar2020.pdf 
+
+
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 13 of 26 
+
+ 
+
+
+
+ENVIRONMENTAL PERFORMANCE 
+
+ 
+
+Performance against 2020 targets 
+
+ 
+
+Achieved 
+
+ 
+
+ 
+
+Achieved 
+
+ 
+
+Zero incidents of non-compliance with environmental laws and 
+
+regulations 
+
+ 
+
+Complied with the required Singapore Civil Defence Force (SCDF) – 
+
+National Company Emergency Response Team (CERT) standard 
+
+Targets for 2021 
+
+ 
+
+Maintain zero incidents of non-compliance with environmental laws and regulations 
+
+ 
+
+Improper disposal of e-waste leads to environmental pollution and may in turn harm human health. 
+
+Recognising the potential environmental hazards and consequences associated with improper disposal 
+
+of e-waste, we have focused our sustainability efforts on the development of our waste disposal 
+
+facilities to recycle e-waste properly. Recycled materials can be used to make new products, and this 
+
+reduces the need to mine limited raw materials from the earth.  
+
+At Enviro-Hub, we ensure our due diligence by complying to the relevant environmental laws and 
+
+regulations such as the Environmental Protection and Management Act and Regulations, the Hazardous 
+
+Waste Act, the Prevention of Pollution of the Sea Act and the Fire Safety Act. As an e-waste recycler, 
+
+Cimelia and HLS will support the extended producer responsibility law, that is due to take effect by 
+
+2021. It ensures that producers of electrical and electronic equipment in Singapore have their products 
+
+are collected, recycled or disposed of responsibly when they reach the end of their lifespan. In line with 
+
+this we will submit reports to NEA on waste collected through Waste and Resource Management 
+
+System. 
+
+Furthermore, Enviro-Hub has also developed various internal policies such as the Cimelia Quality, 
+
+Environmental, Health and Safety (QEHS) Policy, endorsed by senior management to ensure that we 
+
+adhere to the relevant environmental laws and regulations. We constantly keep abreast of the latest 
+
+changes in environmental laws and regulations to understand how we can do our part to protect the 
+
+environment.  
+
+To improve our environmental management and ensure that we are compliant with the various 
+
+environmental standards, we have implemented internationally recognised standards such as ISO 
+
+14001 (Environmental Management Systems), ISO 9001 (Quality Management Systems) and OHSAS 
+
+45001:2018 (Occupational Health and Safety). We are also certified under R2:2013 which is responsible 
+
+recycling standard for effective recycling of electronic waste. 
+
+Similarly, we require our outsourced vendors and suppliers to have the same environmental value as 
+
+us. They are required to undergo a rigorous assessment and evaluation process to ensure that they 
+
+demonstrate compliance with all applicable environmental laws and regulations. All incidents of non-
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 14 of 26 
+
+ 
+
+
+
+compliance will be investigated so that corrective actions can be taken. In 2020, there were zero 
+
+incidents of non-compliance with environmental laws and regulations reported. 
+
+The National Environment Agency (NEA) works closely with its partners and the community to develop 
+
+and organize environmental and public health initiatives and programmes. This includes providing 
+
+funding through grants that support their cause, such as the Productivity Solutions Grants (PSG). PSG 
+
+in particular, is part of NEA’s Environmental Services (ES) Industry Transformation Map (ITM) bid to 
+
+encourage technological adoption to improve the operational efficiency of the ES industry. The grant 
+
+covers up to 80% of the qualifying cost, with a cap of $350,000 per company valid till 30 September 
+
+2021. With the availability of the grant, HLS applied for the PSG to subsidise their purchase of 3 electric 
+
+forklifts. HLS managed to get the maximum level support of 80% subsidy and had a grant amount of 
+
+$90,960.00 approved. The electric forklifts are battery operated, which leads to promoting a cleaner 
+
+environment with less smoke, dust generation and reduction in noise pollution. Apart, from these direct 
+
+environmental benefits reaped, indirect benefits also include good branding for HLS, which is useful in 
+
+achieving ISO standards.   
+
+NEA honoured the exceptional contributions and commitment of the Environmental Services workforce 
+
+by awarding 27 recipients with the ES Star Awards and 350 workers with congratulatory certificates as 
+
+part of the annual ES Workforce Day. The ES Star Awards recognises the top employees in the ES 
+
+industry across the three sectors – cleaning, waste management, and pest management services. Based 
+
+on performance and contribution to clean and green Singapore Cimelia plant manager was awarded 
+
+Environmental Services (ES) Star Awards 2020. Congratulatory certificates were presented to 3 other 
+
+employees from Cimelia in recognition of their outstanding contribution and commitment. 
+
+ 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 15 of 26 
+
+ 
+
+
+
+ 
+
+SOCIAL PERFORMANCE 
+
+Occupational Health and Safety 
+
+Performance against 2020 targets 
+
+ 
+
+Achieved 
+
+ 
+
+Not Achieved4 
+
+ 
+
+Attain ISO 45001:2018 certification (HLS) 
+
+ 
+
+Increase Occupational Health and Safety (“OHS”) training 
+
+hours 
+
+Targets for 2021 
+
+ 
+
+Increase OHS training hours 
+
+ 
+
+Achieve zero regulatory fines and penalties in line with COVID-19 advisories from 
+
+government authorities. 
+
+ 
+
+At Enviro-Hub, protecting the health and safety of our employees are of utmost importance. We believe 
+
+that inculcating a strong safety culture in the workplace will protect the company’s most valuable asset 
+
+– our people. We provide our people with a safe working environment by adhering to local safety laws 
+
+and regulations, which includes the Workplace Safety and Health (WHS) Policy, the Employment of 
+
+Foreign Workers Act, the Environmental Protection and Management Act and Regulation, the Work 
+
+Injury Compensation Act, the Environmental Public Health Act and the Fire Safety Act.  
+
+A health and safety committee has been established to ensure that health and safety policies are fully 
+
+implemented. Several processes have been set in place to ensure the strong implementation of these 
+
+policies. Some of the processes are as follows: 
+
+ 
+
+Reporting monthly Fire Safety Inspection results to management. 
+
+ 
+
+Reviewing operations risk assessment, taking steps to eliminate or reduce potential risks. 
+
+ 
+
+Maintaining related certifications e.g. bizSAFE certification, OHSAS 45001:2018. In 2020, HLS 
+
+has obtained the bizSAFE Star certification certified by the Workplace Safety and Health 
+
+Council. The Level 3 certification requires the Company to implement a risk management plan 
+
+in the workplace to address all risks. 
+
+ 
+
+Investigating and executing corrective actions upon any reported incidents. 
+
+ 
+
+Forming a Trained Company Emergency Response Team (CERT) to response in emergency 
+
+situations.  
+
+ 
+
+Ensuring accurate calibration of monitoring equipment.  
+
+ 
+
+Conducting biannual internal audits for any non-conformance to system procedures.  
+
+ 
+
+4 Owing to COVID-19 social distancing measures, the capacity of people was restricted in training rooms which resulted in 
+
+decrease in number of OHS training hours. 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 16 of 26 
+
+ 
+
+
+
+ 
+
+Requiring the presence of a safety manager who conducts bi-annual spot checks and timely 
+
+investigation and execution of preventive and corrective actions based on incidents reported 
+
+by employees and visitors. 
+
+ 
+
+Holding monthly site meetings with project consultants to discuss health and safety (injuries), 
+
+environmental (e.g. mosquito breeding, noise) and any other ad-hoc matters. 
+
+In 2020, we continue implementing our Occupational Health and Safety Improvement Plan which 
+
+includes various initiatives to improve the management of occupational health and safety, such as: 
+
+• 
+
+We established, documented, implemented, maintained and continually improved a Safe 
+
+Management Measure System (SMMs) in accordance with MOM’s requirements for safe 
+
+management measures at the workplace after CB period. 
+
+• 
+
+Carrying out environment, health and safety (EHS) and fire safety inspections and taking 
+
+corrective action(s) for violations of EHS rules and regulations. 
+
+• 
+
+Providing employees with health and safety training and information on the potential health 
+
+risks and safety hazards in the work environment and the proper precautions to undertake.  
+
+• 
+
+Conducting inspection at planned intervals with project consultants to discuss in house safety 
+
+rules, and safe work practices. 
+
+• 
+
+Conducting meetings to raise and discuss any health and safety and environmental concerns. 
+
+Recognising that communicating Workplace Health &amp; Safety (WHS) rules and guidance to our 
+
+employees are crucial and essential in managing WHS risks, we provide our employees with regular 
+
+occupational health and safety training.  
+
+ 
+
+In 2020, our employees received a total of 362 training hours on occupational health and safety, a 
+
+19.7% decrease from the previous year. This was mainly due to reduced capacity of people in training 
+
+451
+
+362
+
+0
+
+50
+
+100
+
+150
+
+200
+
+250
+
+300
+
+350
+
+400
+
+450
+
+500
+
+2019
+
+2020
+
+OHS Training Hours
+
+Occupational health and Safety 
+
+Training hours
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 17 of 26 
+
+ 
+
+
+
+rooms owing to COVID-19 restrictions. We are committed towards health and safety of our workforce 
+
+and will work towards conducting awareness sessions and trainings aimed at increasing safety. 
+
+Workplace accidents are closely monitored and recorded by the operational and human resources 
+
+department. We are pleased to report that there have been no fatalities or accidents resulting in 
+
+permanent injuries involving our employees in Singapore. In 2020, Accident Frequency Rate5 was 8.74 
+
+(per million manhours worked) and Accident Severity Rate6 was 288.46 (per million manhours worked). 
+
+There was two workplace accident reported were amongst the contractual employees working in 
+
+Cimelia and Enviro Metals. This accident in Cimelia occurred while the employee was working in 
+
+mechanical crushing plant and his ring finger was injured while moving stationary objects and the other 
+
+in Enviro-Metals while turning the stand fan for repair job by accidently injuring the left thumb. Due to 
+
+these accidents, the employees lost 61 workdays from Cimelia and 5 workdays from Enviro-Metals. The 
+
+medical bills for the employee were fully covered under the Company’s project insurance. Following 
+
+this incident, all employees were briefed on the incidents during the safety meetings. 
+
+The Group will continue to implement and enforce the government safe management measures and 
+
+requirements and have set an additional target for next year to achieve zero regulatory fines and 
+
+penalties in line with COVID-19 advisories from government authorities. 
+
+Talent Attraction and Retention 
+
+Performance against 2020 targets 
+
+ 
+
+Achieved 
+
+ 
+
+ 
+
+Maintain an employee turnover rate within the industry 
+
+average  
+
+Targets for 2021 
+
+ 
+
+Maintain an employee turnover rate within the industry average 
+
+Our employees contribute an important part towards the company’s long-term success, and we 
+
+endeavour to dedicate our efforts to develop their careers and provide a nurturing work environment 
+
+to maintain a motivated workforce.  
+
+Enviro-Hub has policies and procedures that encompass our values of inclusivity while achieving 
+
+productivity. These include fair recruitment, training and career development opportunities and 
+
+employee recognition and awards. Our human resources policy also incorporates various guiding 
+
+principles and offer competitive working hours, leave and other employment benefits, remuneration, 
+
+bonuses (and conflict of interests). As part of our efforts to maintain and improve communication, we 
+
+are also proud to announce that all our employees receive performance evaluation reviews annually.  
+
+In this year of unforeseen circumstances of the pandemic, Enviro Hub’s launched BCP for COVID-19. 
+
+Enviro Group’s BCP are designed plans to quickly recover business operations after a significant 
+
+ 
+
+5 Accident Frequency Rate (as per Ministry of Manpower of Singapore) = Number of injuries /Number of man-hours worked 
+
+*1,000,000. A lost-time injury is a workplace injury that results in at least 1 day of medical leave 
+
+6 Accident Severity Rate (as per Ministry of Manpower of Singapore) = Number of lost days/Number of man-hours worked 
+
+*1,000,000. A lost day is a day of medical leave as a result of a lost-time injury. 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 18 of 26 
+
+ 
+
+
+
+business disruption and respond by safeguarding our employees and property, while making a financial 
+
+and operational assessment, and allowing our customers to transact business. Work from home 
+
+arrangements during the CB period and alternate teams were deployed at different work locations to 
+
+mitigate the challenges caused for the smooth functioning of business operations. 
+
+As of 31 December 2020, Enviro-Hub has 80 employees, all of them based in Singapore. The average 
+
+monthly new hire rate for the year was 2.5%7 which is on par with the industry average of 2.5% while 
+
+the average monthly turnover rate was 2.1%, which is below the industry average of 2.2%8.The 
+
+decrease in employee turnover in 2020 can be attributed to new policies implemented within the 
+
+organisation like flexible working hours which include alternate team arrangement due to COVID-19, 
+
+change in working hours to non-peak commuting hours, allowing remote working from overseas during 
+
+difficult times and improved IT facilities enabling employees to work virtually.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+7 Average monthly recruitment rate in 2020: 1.7% (Production &amp; Transport Operators, Cleaners &amp; Labourers). Source: Ministry 
+
+of Manpower 
+
+8 Average monthly resignation rate in 2020: 2% (Production &amp; Transport Operators, Cleaners &amp; Labourers). Source: Ministry of 
+
+Manpower 
+
+69%
+
+31%
+
+Total Employees By Gender 
+
+Male
+
+Female
+
+71%
+
+29%
+
+New Hires by Gender
+
+Male
+
+Female
+
+
+
+42%
+
+17%
+
+42%
+
+New Hires by Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 19 of 26 
+
+ 
+
+
+
+ 
+
+  
+
+We do not discriminate against age during our recruitment processes and aim to continue applying fair 
+
+employment practices. If the need arises, we also offer our employees unpaid leave of up to two 
+
+months, giving them time to attend personal matters. 
+
+Training and Education 
+
+Performance against 2020 targets 
+
+ 
+
+Achieved 
+
+ 
+
+ 
+
+Achieved 
+
+ 
+
+ 
+
+Roll-out incentive initiatives to encourage self-learning 
+
+amongst employees for career development  
+
+ 
+
+Provide relevant internal and external training opportunities 
+
+to improve workers’ skills and knowledge 
+
+Targets for 2021 
+
+ 
+
+Roll-out incentive initiatives to encourage self-learning amongst employees for career 
+
+development  
+
+ 
+
+Provide relevant internal and external training opportunities to improve workers’ skills and 
+
+knowledge 
+
+We strive to meet the industry needs and standards by equipping our employees with relevant skills to 
+
+remain abreast with the changing market. This is majorly done by providing trainings to the employees 
+
+throughout the year. Trainings include WSQ Operate Forklift Course, Forklift Refresher Course, Risk 
+
+Management Implementation and First Aid Course Training. In order to improve certain technical skills 
+
+like Android Basics Nanodegree and Introduction to Programming Nanodegree, we conduct IT related 
+
+courses for our employees. Another pivotal training that we provide is the Human Resources related 
+
+training to enhance the management of the human capital. These trainings are about engaging newly 
+
+hired Professional Management and Executives (PMEs) in a Subject Matter Expert (SME) and building 
+
+Human Capital in SME.   
+
+We endeavour to constantly upgrade our training programmes by developing enhanced trainings for 
+
+our employees in the fields of IT, Digital and System Applications and Products in Data Processing (SAP). 
+
+80%
+
+20%
+
+Employee Turnover by Gender
+
+Male
+
+Female
+
+30%
+
+40%
+
+30%
+
+Employee Turnover by Age
+
+&lt; 30 years old
+
+30 - 50 years old
+
+&gt; 50 years old
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 20 of 26 
+
+ 
+
+
+
+Also, in order to encourage career improvement and initiate communications, both formal and informal 
+
+learning programmes are developed for the employees. 
+
+The progress of our employees is evaluated to provide them with the required support and ensure 
+
+proper checks and balances. The competence of the trainees is gauged by relevant parties through the 
+
+Training &amp; Evaluation Form or competency assessment checklist. Additional trainings with required 
+
+attention are provided to the employees who do not match the required expectations. As of 31st 
+
+December 2020, 80 employees at Enviro-Hub received an average of 4 hours of training. Also, we 
+
+prioritise and offer various career advancement opportunities to internal employees before hiring 
+
+externally to give our existing employees chances to grow. 
+
+Local Communities 
+
+Performance against 2020 targets 
+
+• 
+
+Achieved 
+
+ 
+
+• 
+
+Achieved 
+
+ 
+
+• 
+
+Achieved 
+
+ 
+
+Collect 8 tonnes of e-waste through Singtel x SingPost 
+
+Recycle Programme 
+
+ 
+
+Collect 3 tonnes of e-waste for Clean Up South West 
+
+Community Development Council (SWCDC) 
+
+ 
+
+Collect 120 tonnes of e-waste from Schneider Electric 
+
+Targets for 2021 
+
+ 
+
+Collect a total of 3,000 tonnes of e-waste by HLS and Cimelia for reporting year 2021   
+
+Striving to build a circular and sustainable economy, we engage and work with local communities to 
+
+improve waste management. Internally, our employees are constantly involved in CSR activities held 
+
+throughout the year. This helps us to walk together with our community towards being a zero-waste 
+
+society, adding value to lives around us.  
+
+We build close relationships with local communities by supporting and partnering with them. 
+
+Partnerships include local schools for awareness programmes, town councils and businesses for e-
+
+waste take back and recycling programmes etc. Our efforts to increase awareness about environmental 
+
+protection also includes encouraging the local community members to reuse waste items, recycle 
+
+electronic waste and providing information on the environmental impacts resulting from the improper 
+
+disposal of electronic waste.  
+
+SINGTEL X SINGPOST E-waste recycling programme 
+
+Cimelia undertook the initiative to organise an E-Waste recycling programme which enabled the 
+
+people to have a proper channel to dispose their electronic waste. This encouraged people to dispose 
+
+of their redundant mobile or internet related devices at Recycle Bins or by mailing it through the post 
+
+box. This initiative helped in the collection 17,784 kg of e-waste. 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 21 of 26 
+
+ 
+
+
+
+Cleaning events with SOUTH WEST COMMUNITY DEVELOPMENT COUNCIL (SWCDC) 
+
+Cimelia’s employees participated in a series of events in collaboration with the South West 
+
+Community Development Council (SWCDC). These events include Clean Up South West ECO Day Out 
+
+and Recycle-Our-E-Waste, where a total of 2,040 kg of e-waste were collected from residents and 
+
+2,524 kg from corporates of the South West District in exchange for groceries or vouchers. This 
+
+recycling drive is part of a larger masterplan initiative to advocate for sustainable zero-waste 
+
+practices and recycling habits. 
+
+ 
+
+Recycling initiative in EAST COAST GRC 
+
+Cimelia also undertook the initiative for twenty-one divisions and RC Zone residents to recycle their 
+
+unwanted e-waste. This led to the collection of 3,507 kg of e-waste. This initiative highlighted the 
+
+importance of recycling habits and encouraged sustainability amongst the residents. 
+
+ 
+
+Recycling programme at CapitaLand properties 
+
+Electronic waste recycling programme was also organised at CapitaLand Properties to allow the 
+
+participants to dispose their obsolete electronic items to a reliable vendor and at the same time to 
+
+raise awareness on shared responsibility of recycling and provide an integrated platform for tenants 
+
+in CapitaLand to recycle their unwanted electronic waste. In the reporting year, 4,468 kg of e-waste 
+
+was collected. 
+
+ 
+
+Mask donation through Boon Lay Community Club 
+
+Amid the uncertainty of the COVID-19 pandemic, Enviro-Hub organised mask donation at HLS to 
+
+distribute 25,000 pieces of masks to low income families through Boon Lay CC. Around 1,250 
+
+households benefitted through this initiative. This activity was undertaken with proper safe 
+
+distancing measures and all regulations were followed. 
+
+ 
+
+In 2020, “Recycling Awareness” programmes that were organised by HLS at Grundfos, NEC and Thales 
+
+to spread awareness on recycling were put on hold due to COVID-19. In light of the unpredictable 
+
+working arrangements for some of our businesses and partnerships, we have amended our 2021 target 
+
+to collect a total of 3,000 tonnes of e-waste across HLS and Cimelia.  
+
+ 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 22 of 26 
+
+ 
+
+
+
+ 
+
+CUSTOMERS  
+
+ 
+
+Performance against 2020 targets 
+
+ 
+
+Achieved 
+
+ 
+
+Zero incidences of substantiated complaints concerning breaches 
+
+of customer privacy and losses of customer data. 
+
+Targets for 2021 
+
+ 
+
+Maintain zero incidences of substantiated complaints concerning breaches of customer 
+
+privacy and losses of customer data. 
+
+Protecting customer data and respecting customer privacy are of paramount importance to Enviro-
+
+Hub. With an increasing number of electronic devices becoming obsolete each year, the disposal of 
+
+electronic waste is a rapidly growing disproportionate to our operations. The improper disposal of 
+
+electronic waste poses a threat to the environment as well as increases the risk of data theft, where 
+
+highly sensitive data and information can be stolen or reused without consent. 
+
+Enviro-Hub has implemented some measures to protect customer data, by complying with the 
+
+requirements of data protection laws and regulations, ensuring that information and data stored on 
+
+clients’ electronic devices are completely removed before they are recycled or reused.  
+
+Our e-waste recycling services involve the following processes, which are designed to protect our 
+
+customers’ sensitive information:  
+
+• 
+
+Data wiping  
+
+• 
+
+Degaussing (hard-disk drives only)  
+
+• 
+
+Punching of hard-disk drives  
+
+• 
+
+Manual physical destruction/recycling  
+
+• 
+
+Shredding  
+
+• 
+
+Mechanical plant crushing  
+
+• 
+
+Access limited to authorise personnel 
+
+• 
+
+Non-Disclosure Agreements (NDA) 
+
+• 
+
+Servers complying with the minimum-security Standards for Sensitive Devices 
+
+• 
+
+Closed-circuit television (CCTV) cameras installed to protect the company’s assets and customers’ 
+
+intellectual property (IP) 
+
+Notably at Cimelia, a U.S. National Security Agency (NSA) certified degausser model MW 1B is used to 
+
+remove data stored on hard drives and magnetic tapes. Shredding machines enable scrap materials to 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 23 of 26 
+
+ 
+
+
+
+reach a reduction of less than 15mm. Cimelia and HLS is also a certified as R2:2013 electronics recycler 
+
+that adheres to the National Institute of Standards and Technology’s (NIST’s) Guidelines for Media 
+
+Sanitization – Special Publication 800-88.  
+
+ 
+
+Cimelia’s Process Flowchart for ICT Recycling and Data Destruction 
+
+In addition, closed-circuit television (CCTV) cameras have been installed to protect the company’s 
+
+assets and customers’ intellectual property (IP). In the reporting year, there were zero incidences of 
+
+substantiated complaints concerning breaches of customer privacy and losses of customer data. 
+
+Data storage media destruction 
+
+At Cimelia, several measures have been taken to protect customers’ sensitive information and 
+
+intellectual property. These measures include providing customers with locked recycling bins to 
+
+collect e-waste, which will be brought to Cimelia’s facility where data destruction work is carried out. 
+
+Locks are provided to customers to prevent their electronic devices from theft and to protect their 
+
+data from unauthorised access if lost or stolen. Also, security seals with serial numbers are used to 
+
+ensure that the recycling bins are not tampered with. The bins will be collected when they are about 
+
+75% filled. 
+
+ 
+
+ 
+
+
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 24 of 26 
+
+ 
+
+
+
+GRI CONTENT INDEX 
+
+GRI Content Index for ‘In Accordance’ Core option 
+
+GRI 
+
+Standards 
+
+Disclosure 
+
+Page Number 
+
+Omissions 
+
+GRI 102: General Disclosures 2016 
+
+Organisational Profile 
+
+102-1 
+
+Name of the organisation 
+
+Enviro-Hub Holdings Limited  
+
+ 
+
+102-2 
+
+Activities, brands, products, 
+
+and services 
+
+Annual Report 2020 – Corporate 
+
+Profile, Page 2 
+
+ 
+
+102-3 
+
+Location of headquarter 
+
+ Annual Report 2020 – Corporate 
+
+Information, Page 1 
+
+ 
+
+102-4 
+
+Location of operations 
+
+Annual Report 2020 – Corporate 
+
+Information, Page 1 
+
+ 
+
+102-5 
+
+Ownership and legal form 
+
+Annual Report 2020 – Group 
+
+Structure, Page 3 
+
+ 
+
+102-6 
+
+Markets served 
+
+Annual Report 2020 – Corporate 
+
+Profile, Page 2 
+
+ 
+
+102-7 
+
+Scale of the organisation 
+
+Annual Report 2020 – Financial 
+
+Highlights, Page 12 
+
+Social Performance, Pages 18-19 
+
+ 
+
+102-8 
+
+Information on employees 
+
+and other workers 
+
+Social Performance, Pages 18-19 
+
+ 
+
+102-9 
+
+Supply chain 
+
+ 
+
+Not applicable, 
+
+supply chain is 
+
+minimal and 
+
+insignificant. 
+
+102-10 
+
+Significant changes to 
+
+organisation and its supply 
+
+chain 
+
+No significant changes during 2020 
+
+ 
+
+102-11 
+
+Precautionary principle or 
+
+approach 
+
+Sustainability Governance, Page 7 
+
+Environment Performance, Pages 13-
+
+14 
+
+ 
+
+102-12 
+
+External initiatives 
+
+Enviro-Hub supports and complies 
+
+with the International Organisation 
+
+for Standardisation (ISO) and 
+
+Responsible Recycling practices for 
+
+Use in Accredited Certifications 
+
+Programmes (R2) standards. 
+
+ 
+
+102-13 
+
+Membership of 
+
+associations 
+
+Enviro-Hub is a member of the 
+
+Waste Management &amp; Recycling 
+
+Association of Singapore. 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 25 of 26 
+
+ 
+
+
+
+Strategy 
+
+102-14 
+
+Statement from senior 
+
+decision-maker 
+
+Board Statement, Page 3 
+
+ 
+
+Ethics and Integrity 
+
+102-16 
+
+Values, principles, 
+
+standards, and norms of 
+
+behaviour 
+
+Annual Report 2020 Corporate 
+
+Vision; Corporate Mission  
+
+ 
+
+Governance 
+
+102-18 
+
+Governance structure 
+
+Sustainability Governance, Page 7 
+
+Annual Report 2020 – Group 
+
+Structure, Page 6-9 
+
+ 
+
+Stakeholder Engagement 
+
+102-40 
+
+List of stakeholder groups 
+
+Stakeholder Engagement, Pages 8-9 
+
+ 
+
+102-41 
+
+Collective bargaining 
+
+agreements 
+
+Not applicable, no collective 
+
+bargaining agreements are in place. 
+
+ 
+
+102-42 
+
+Identifying and selecting 
+
+stakeholders 
+
+Stakeholder Engagement, Pages 8-9 
+
+ 
+
+102-43 
+
+Approach to stakeholder 
+
+engagement 
+
+Stakeholder Engagement, Pages 8-9 
+
+ 
+
+102-44 
+
+Key topics and concerns 
+
+raised 
+
+Stakeholder Engagement, Pages 8-9 
+
+ 
+
+Reporting Practice 
+
+102-45 
+
+Entities included in the 
+
+consolidated financial 
+
+statements 
+
+Annual Report 2020 – Audited 
+
+Financial Statements, Pages 41-118 
+
+ 
+
+102-46 
+
+Defining report content 
+
+and topic boundaries 
+
+About the Report, Page 4 
+
+Materiality Assessment, Pages 10-11 
+
+ 
+
+102-47 
+
+List of material topics 
+
+Materiality Assessment, Pages 10-11 
+
+ 
+
+102-48 
+
+Restatements of 
+
+information 
+
+There has been no restatement of 
+
+figures or information disclosed in 
+
+our previous report. 
+
+ 
+
+102-49 
+
+Changes in reporting 
+
+Materiality Assessment, Pages 10-11 
+
+ 
+
+102-50 
+
+Reporting period 
+
+About the Report, Page 4 
+
+ 
+
+102-51 
+
+Date of most recent report 
+
+The Sustainability Report 2019 was 
+
+published on 29 May 2020. 
+
+ 
+
+102-52 
+
+Reporting cycle 
+
+About the Report, Page 4 
+
+ 
+
+102-53 
+
+Contact point for questions 
+
+regarding the report 
+
+About the Report, Page 4 
+
+ 
+
+102-54 
+
+Claims of reporting in 
+
+accordance with GRI 
+
+Standards 
+
+About the Report, Page 4 
+
+ 
+
+102-55 
+
+GRI content index 
+
+GRI Content Index, Pages 24 - 26 
+
+ 
+
+
+ 
+
+ ENVIRO-HUB HOLDINGS LIMITED  
+
+ 
+
+Page 26 of 26 
+
+ 
+
+
+
+102-56 
+
+External assurance 
+
+Enviro-Hub has not sought external 
+
+assurance on this report but may do 
+
+so in the future.  
+
+ 
+
+GRI 103: Management Approach 2016 
+
+ 
+
+103-1 
+
+Explanation of the material 
+
+topic and its boundary 
+
+Materiality Assessment, Pages 10-11 
+
+Annual Report 2020 – Audited 
+
+Financial Statements, Pages 41 - 118 
+
+Economic Performance, Page 12 
+
+Environmental Performance, Pages 
+
+13-14 
+
+Social Performance, Pages 15-21 
+
+Customers, Pages 22-23 
+
+ 
+
+103-2 
+
+The management approach 
+
+and its components 
+
+ 
+
+103-3 
+
+Evaluation of the 
+
+management approach 
+
+ 
+
+Material Topics 
+
+ 
+
+GRI 201: Economic Performance 
+
+201-1 
+
+Direct economic value 
+
+generated and distributed 
+
+Economic Performance, Page 12 
+
+Annual Report 2020 – Audited 
+
+Financial Statements, Pages 41 - 118 
+
+ 
+
+GRI 307: Environmental Compliance 
+
+307-1 
+
+Non-compliance with 
+
+environmental laws and 
+
+regulations 
+
+Environmental Performance, Pages 
+
+13-14 
+
+ 
+
+GRI 401: Employment 
+
+401-1 
+
+New employee hires and 
+
+employee turnover 
+
+Social Performance, Pages 17-19 
+
+ 
+
+GRI 403: Occupational health and safety 
+
+403-9 
+
+Work-related injuries 
+
+Social Performance, Pages 15-17 
+
+ 
+
+GRI 404: Training and Education 
+
+404-1 
+
+Average hours of training 
+
+per year per employee 
+
+Social Performance, Pages 16-17, 19-
+
+20 
+
+ 
+
+GRI 413: Local Communities 
+
+413-1 
+
+Operations with local 
+
+community engagement, 
+
+impact assessments, 
+
+and development programs 
+
+Social Performance, Pages 20-21 
+
+ 
+
+GRI 418: Customer Privacy 
+
+418-1 
+
+Substantiated complaints 
+
+concerning breaches of 
+
+customer 
+
+privacy and losses of 
+
+customer data 
+
+Customers, Pages 22-23 
+
+ 
+
+ 
+

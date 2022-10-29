@@ -1,0 +1,3030 @@
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    1 | P a g e 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    2 | P a g e 
+
+ 
+
+TABLE OF CONTENTS 
+
+
+
+Board’s Message .......................................................................................................................... 3 
+
+
+
+About This Report ........................................................................................................................ 4 
+
+
+
+Organisational Profile .................................................................................................................. 5 
+
+
+
+Our Value Chain ........................................................................................................................... 7 
+
+
+
+Our Sustainability Approach ....................................................................................................... 8 
+
+Sustainability Governance and Principles ................................................................................... 8 
+
+Stakeholders’ Engagement .......................................................................................................... 9 
+
+Identifying Material Sustainability Topics ................................................................................. 10 
+
+
+
+Material Sustainability Topics ................................................................................................... 12 
+
+Economic Performance ............................................................................................................. 12 
+
+Anti-corruption .......................................................................................................................... 14 
+
+Energy and Water Management ............................................................................................... 15 
+
+Waste Management .................................................................................................................. 17 
+
+Environmental Compliance ....................................................................................................... 18 
+
+Training and Education .............................................................................................................. 19 
+
+Diversity and Equal Opportunity ............................................................................................... 21 
+
+Occupational Health and Safety ................................................................................................ 23 
+
+Customer Health and Safety ...................................................................................................... 25 
+
+
+
+GRI Content Index ...................................................................................................................... 27 
+
+ 
+
+ 
+
+ 
+
+ 
+
+This sustainability report has been prepared by Samurai 2K Aerosol Limited (the “Company”) and its contents have 
+
+been reviewed by UOB Kay Hian Private Limited (the “Sponsor”), for compliance with the relevant rules of the 
+
+Singapore Exchange Securities Trading Limited (the “SGX-ST”) Listing Manual Section B: Rules of Catalist. 
+
+This sustainability report has not been examined or approved by the SGX-ST and the SGX-ST assumes no responsibility 
+
+for the contents of this sustainability report, including the accuracy, completeness or correctness of any information, 
+
+statements or opinions made or reports contained in this sustainability report. 
+
+The contact person for the Sponsor is Mr Lance Tan, Senior Vice President, at 8 Anthony Road, #01-01, Singapore 
+
+229957, and telephone (65) 6590 6881. 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    3 | P a g e 
+
+ 
+
+ 
+
+
+
+Board’s Message 
+
+ 
+
+The Board of Directors (the “Board”) is proud to present our annual Sustainability Report (“SR”) 
+
+of Samurai 2K Aerosol Limited (the “Company”, “Samurai 2K”, and together with its subsidiaries, 
+
+the “Group”), covering the Financial Year ended 31 March 2021 (“FY2021”) 
+
+This report aims to communicate Samurai 2K’s commitment and on-going efforts of our 
+
+sustainability practices in contributing to the economy, environment and community which we 
+
+operate. We recognise the importance of maintaining a sustainable business and have been taking 
+
+steps to progressively improve our sustainability performance over the years.   
+
+In this sustainability report, we present how Samurai 2K strives to achieve long-term benefits and 
+
+sustainability in our economic performance and contribute to the community within the areas in 
+
+which we operate whilst effectively managing our environmental footprint. The Board considers 
+
+sustainability issues when periodically reviews and formulates strategy for the Group. We believe 
+
+that sustainability is not just about financial accountability but also being accountable for the 
+
+monitoring and achievement of our environmental, social, and governance (“ESG”) goals.  
+
+FY2021 was a challenging year due to the Covid-19 Pandemic (“Covid-19”) which had negatively 
+
+impacted our economy. The Group has continued to impose stringent health and precautionary 
+
+measures to ensure the safety and health of our employees and visitors to our properties with 
+
+60% of our workforce working in office and the remaining 40% working from home. This is in line 
+
+with the tightening measures under the various movement control orders enforced by the 
+
+Government of Malaysia. We have ensured that our office premises were cleaned and sanitized 
+
+by implementing a schedule to fog our Company’s premises 3 times daily. We have supplied all 
+
+our employees with hand sanitizers, masks, enforced usage of MySejahtera application to check-
+
+in (an application developed by the Government of Malaysia to assist in monitoring of Covid-19) 
+
+and health declaration forms for all employees and visitors. Through these challenges, we 
+
+continue to support Malaysia in its fight against Covid-19 by donating approximately RM1 million 
+
+medical supplies such as protective clothing, hand thermometers and facemasks to the local State 
+
+Government.  
+
+Despite the pandemic, the Board is cautiously positive that we will see economic recovery in 2022 
+
+and 2023 with advances in technology and medical breakthrough past the pandemic. We will 
+
+continue to respond to our stakeholders’ concerns and progressively improve our operations and 
+
+build up our resilience in response to the challenges around us. We are committed to maintain 
+
+our competitive edge to deliver sustainable growth and value. 
+
+Sincerely, 
+
+Board of Directors 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    4 | P a g e 
+
+ 
+
+
+
+About This Report  
+
+This report focuses on the evaluation of Samurai 2K’s sustainability performance in terms of 
+
+economic, environmental, social and governance aspects. 
+
+Unless otherwise stated, this report covers our operating sites located in Johor, Malaysia within 
+
+FY2021 as the operating sites include our main business operations i.e. collection point of 
+
+purchases from suppliers, production facility, storage of inventory, distribution to customers, 
+
+research and development, finance and management functions. 
+
+This report is published on a yearly basis and prepared with reference to the GRI Standards: Core 
+
+Option pursuant to Rules 711A and 711B of the Singapore Exchange Securities Trading Limited 
+
+(“SGX-ST”) Listing Rules and the Sustainability Reporting guide (the “SGX Sustainability Reporting 
+
+Guide”). We have chosen to adopt the GRI Sustainability Reporting Standards as it is a globally 
+
+recognised sustainability reporting framework for voluntary corporate reporting of economic, 
+
+environmental and social performance.  
+
+We have not sought external assurance for this report, and we may consider gradually adopting 
+
+external assurance for the relevant sections for future reports.  
+
+Feedback 
+
+For any suggestions, comments, and enquires related to this report, kindly contact us at 
+
+ir@samurai2kaerosol.com or our headquarters at 6 Jalan Dato’ Yunus 1, Taman Perindustrian 
+
+Dato Yunus Sulaiman, Lima Kedai 81120 Skudai, Johor, Malaysia. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    5 | P a g e 
+
+ 
+
+
+
+Organisational Profile 
+
+Samurai 2K is the premier aerosol paint solution provider, specialising in high-performance 
+
+coating solutions for the automotive repainting industry. We use cutting-edge technology and 
+
+unique techniques to provide quality aerosol goods to customers all over the world. We focus in 
+
+the manufacturing, distribution, and marketing of our products under our own brands as below: 
+
+ 
+
+Our products are manufactured in our production facility located in Johor, Malaysia, and are 
+
+distributed in countries including Malaysia, Indonesia, Thailand, Philippines, Vietnam, Cambodia, 
+
+India, United Kingdom, United States of America (“USA”), and Singapore. We have employed 
+
+more than 100 full-time employees across our production plant and offices as at 31 March 2021. 
+
+Our 2K Aerosol System is a unique 2-in-1 idea that allows two chemical components, such as resin 
+
+and hardener, to be blended in one aerosol can. There would be no more fuss and no need for an 
+
+air compressor because the two components (Resin and Hardener) will be engaged only when 
+
+needed. It's simple to use and doesn't require any other hardener, catalyst, or activator. We have 
+
+successfully obtained patents in several significant nations, including United States of America, 
+
+the European Union, Russia, South Korea, New Zealand, Japan, and China. 
+
+ 
+
+OUR BELIEF  
+
+We change Aerosol, Aerosol changes the world  
+
+OUR VISION 
+
+To be the world's most respected innovative aerosol system provider 
+
+OUR MISSION 
+
+To offer the most innovative aerosol system with the best user enjoyment and to create more job 
+
+opportunities for all sprayers in the world  
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    6 | P a g e 
+
+ 
+
+VALUES 
+
+ 
+
+Innovation 
+
+We embark on a new journey of growth 
+
+Empower  
+
+We believe in people and their dreams 
+
+Integrity 
+
+We practice with integrity and honesty  
+
+Communication 
+
+We practice open, real communication  
+
+Our vision and strategy are founded on the goals we've set for ourselves. We are committed to 
+
+achieving our long-term objectives and effecting constructive change in the industry. We work 
+
+hard to make sure that our sustainability goals are aligned with our commercial objectives. 
+
+ 
+
+ 
+
+
+
+Core 
+
+Values
+
+
+
+Innovation
+
+
+
+Empower
+
+
+
+Integrity
+
+
+
+Communication
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    7 | P a g e 
+
+ 
+
+
+
+Our Value Chain 
+
+We think it is our obligation to track and reduce our environmental footprint throughout our 
+
+business value chain. We assessed them on a regular basis in tandem with the growth of our 
+
+Company. The whole sequence of processes involved in the creation of all our innovative goods 
+
+is depicted in our value chain. We ensured that our business operates smoothly and efficiently 
+
+from product conception to delivery to customers. As our products are sold globally, we have links 
+
+to individuals, communities, ecosystems, and other businesses all around the world. 
+
+ 
+
+We strived to tap into expansion opportunities across our business processes to continue to 
+
+maximise our efficiency and effect along our business. We accomplished this by capitalising on 
+
+our market scale and catalysing improvements that will increase the efficiency of our current 
+
+value chain. 
+
+ 
+
+For many years, we have worked closely with our suppliers, distributors, and wholesalers who 
+
+were dedicated to high quality, environmental, health, and safety requirements. We have a 
+
+number of suppliers who have been supplying us for more than a decade and have gone through 
+
+our rigorous pre-selection process to ensure the quality of the products we receive. Our suppliers, 
+
+distributors, and wholesalers, who were critical to our business, have built strong, long-term 
+
+partnerships with us. Our sustainability initiatives include looking for environmentally friendly 
+
+suppliers, reducing any transportation-related greenhouse gas emissions, whenever possible, and 
+
+using recycled products. 
+
+In response to Covid-19, we have been working closely with our suppliers to overcome the 
+
+potential operational disruptions and issues. During the financial year, there was no material 
+
+disruption as most of our suppliers were also permitted to operate. Our procurement team have 
+
+also taken proactive measures to order more stocks from overseas suppliers. We have 
+
+implemented various measures to ensure the health and safety of our people such as restrictions 
+
+imposed on suppliers from entering our office and warehouse premises and designated areas for 
+
+delivery of goods and submission of suppliers’ invoices. 
+
+In addition, we worked closely with our customers to observe and put in place the safe 
+
+management measures as announced by local government authorities to help curb the spread of 
+
+Covid-19 infection. During the nationwide Malaysian Movement Control Order, customer visits to 
+
+our plant and office were not allowed and we have since transited to an online customer service 
+
+platform for our customers. The Company has also accelerated the digital transformation by 
+
+forming a new team led by the Chief Digital Officer in transforming traditional business model 
+
+into a digital model through Online-to-Offline (O2O) marketing, E-Commerce, Samuraian Fan 
+
+Application and Blockchain development, to further integrate all our processes for a sustainable 
+
+business model in future.   
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    8 | P a g e 
+
+ 
+
+
+
+Our Sustainability Approach 
+
+Sustainability Governance and Principles  
+
+The Group recognises the value of establishing a sustainable governance structure to identify and 
+
+implement sustainability initiatives across our business processes. We formed a Sustainable 
+
+Committee, which is made up of senior management and department heads, to help us improve 
+
+our sustainability governance. The functions of the Board and the Sustainability Committee for 
+
+Sustainable Governance are as follows: 
+
+ 
+
+
+
+ 
+
+
+
+ 
+
+BOARD
+
+• Reviews the Group's strategies, policies, and financial
+
+performance, as well as the adequacy and efficiency of
+
+internal controls and risk management, including critical
+
+risks;
+
+• Set the Company’s values and standards (including
+
+ethical standards), and ensure that obligations to
+
+shareholders and other stakeholders are understood and
+
+met;
+
+• To give strategic guidance for Samurai 2K's sustainability
+
+policies; and
+
+• Considered major ESG elements, data gathered and
+
+appraised by the Sustainability Committee, goals, and
+
+targets,
+
+and
+
+identified
+
+sustainability
+
+risks
+
+and
+
+opportunities in developing our sustainability plan.
+
+SUSTAINABILITY 
+
+COMMITTEE 
+
+•Manage and responsible for the sustainability practices; and 
+
+•Keep the Board updated on material developments.
+
+Reports to
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    9 | P a g e 
+
+ 
+
+
+
+Our Sustainability Approach
+
+Stakeholders’ Engagement 
+
+Our dedication to creating long-term success underpins our approaches to engaging with our key 
+
+and relevant stakeholders. We have identified different groups of stakeholders internally and 
+
+externally, and we consider their relevance to us on the magnitude of their influence and impact 
+
+to our business. We appreciate the feedback we've received from our stakeholders and we keep 
+
+tight ties with them as it helps us to understand their expectation and for us to improve the 
+
+relevance of our business strategies, assessment of risks and opportunities and our approach to 
+
+managing the Group's key challenges. Please refer to Table I for details of our approach on 
+
+stakeholders’ engagement and expectation.  
+
+Table I: Our Approach on Stakeholders’ Engagement 
+
+Stakeholder 
+
+Mode of Engagement 
+
+Stakeholders’ Expectation 
+
+How We Address Stakeholders’ 
+
+Expectation 
+
+Customers / 
+
+End-users 
+
+Dialogue sessions, customer 
+
+service channels, social media 
+
+platforms, workshops, and 
+
+exhibitions  
+
+Business continuity, good 
+
+services and product quality, 
+
+after-sales services, and 
+
+ethical purchasing practices 
+
+We uphold corporate governance practice 
+
+to ensure ethical business conducts and 
+
+put in measures to ensure our products 
+
+meeting expected quality, safety and 
+
+environmentally friendly standards 
+
+Suppliers  
+
+Through our local presence 
+
+with office in our production 
+
+facility, supplier management 
+
+systems, and supplier surveys, 
+
+we maintain close 
+
+relationships and regular 
+
+discussion with our suppliers 
+
+Maintain ethical standards 
+
+by adhering to the terms and 
+
+conditions of purchasing 
+
+policies and procedures 
+
+We keep close contact with our suppliers 
+
+to communicate our expectation on 
+
+quality and timeliness of supplies, as well 
+
+as code of conduct for our procurement 
+
+practice 
+
+Employees 
+
+ 
+
+ 
+
+Regular individual 
+
+performance assessments, 
+
+induction and orientation 
+
+programs, employee training, 
+
+interviews, employee 
+
+appraisals, dialogue sessions 
+
+with management, day-to-day 
+
+leadership and collaboration 
+
+Safe work environment, 
+
+foreign workers’ rights, 
+
+employees’ accommodation 
+
+arrangement, child workers’ 
+
+policy, employees’ rights and 
+
+welfare, personal 
+
+development, good working 
+
+environment  
+
+We have formed a team to supervise 
+
+health and safety matters at our main 
+
+operating sites, regularly monitor benefits 
+
+and welfare for our employees and 
+
+foreign workers, conduct performance 
+
+appraisal on yearly basis and close 
+
+communication with employees on any 
+
+significant changes on work arrangement 
+
+Shareholders 
+
+Annual general meeting, 
+
+annual reports, individual 
+
+meetings and calls, external 
+
+meetings, conference, and 
+
+circulars to shareholders 
+
+Profitability, transparency, 
+
+timely reporting, fair 
+
+purchasing practices  
+
+ 
+
+We uphold corporate governance 
+
+practice, set yearly growth targets and 
+
+provide timely and transparent updates 
+
+to our shareholders on the Group’s key 
+
+developments and business operations 
+
+Business 
+
+Partners 
+
+Regular meetings and 
+
+discussion 
+
+Partnership for opportunities 
+
+and growth 
+
+We hold regular meetings with our 
+
+business partners to discuss on potential 
+
+collaboration 
+
+Government and 
+
+Regulators 
+
+Discussions with and notices 
+
+from government agencies 
+
+and departments 
+
+Environmentally friendly 
+
+business approach, 
+
+compliance with regulations, 
+
+timely reporting and 
+
+resolution of issues 
+
+We strictly comply with and closely 
+
+monitor advisories and updates of 
+
+relevant laws and regulations from the 
+
+government agencies and departments. 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    10 | P a g e 
+
+ 
+
+
+
+Our Sustainability Approach 
+
+Identifying Material Sustainability Topics 
+
+Samurai 2K has adopted a materiality assessment process to identify, prioritise and validate the 
+
+environmental, social, governance, and economic challenges that affect our business. In 
+
+identifying topics that were material and relevant to our business and stakeholders, we compile 
+
+feedback received from our internal and external stakeholders and assess the degree of influence 
+
+and impact that these topics have on them and our business. Our goal is to manage our most 
+
+important sustainability impacts, risks, and opportunities while also providing long-term value to 
+
+all our stakeholders.  
+
+To ensure that our material topics stay relevant in the business climate, we re-evaluate the 
+
+material topics on a yearly basis through engagement with our internal and external stakeholders. 
+
+Through this materiality assessment process. the material topics shortlisted in the previous report 
+
+still brings about significant economic, environmental, social and governance impact and remain 
+
+material to the Group and stakeholders in FY2021. Details of the ESG topics are summarised in 
+
+Table 2: List of material ESG topics.  
+
+Table 2: List of material ESG topics 
+
+Material Topic 
+
+Mapped GRI 
+
+Standards 
+
+Reasons for Selection 
+
+of this Material Topic 
+
+Key 
+
+Stakeholder
+
+s in 
+
+Concern 
+
+Reference 
+
+Commitments &amp; Targets  
+
+1. Economic 
+
+Performance 
+
+(economic 
+
+aspect) 
+
+GRI 201 – 
+
+Economic 
+
+Performance 
+
+Our economic 
+
+performance, the value 
+
+generated and 
+
+distributed to 
+
+communities where our 
+
+business operates. 
+
+All 
+
+stakeholders 
+
+ Annual 
+
+Report 2021 – 
+
+Operations &amp; 
+
+Financial 
+
+Review 
+
+ Sustainability 
+
+Report 2021 
+
+Page 12 – 13 
+
+ To continue expand our 
+
+sales and tighten cost 
+
+controls. 
+
+ To enhance online and 
+
+offline marketing 
+
+activities, as well as 
+
+develop new and 
+
+innovative products to 
+
+maintain our market 
+
+competitiveness. 
+
+2. Anti-
+
+corruption 
+
+(governance 
+
+aspect) 
+
+GRI 205 – Anti-
+
+Corruption 
+
+Our practices to comply 
+
+with anti-corruption law 
+
+and regulations and to 
+
+demonstrate our 
+
+adherence to integrity, 
+
+governance, and 
+
+responsible business 
+
+practices. 
+
+All 
+
+stakeholders 
+
+ Sustainability 
+
+Report 2021 
+
+Page 14 
+
+ To promote a culture 
+
+that is transparent, safe, 
+
+and accountable and 
+
+maintain zero record of 
+
+non-compliance with 
+
+regulations. 
+
+3. Energy, 
+
+Water and 
+
+Waste 
+
+Management 
+
+(environmental 
+
+aspect) 
+
+GRI 307 – 
+
+Environmental 
+
+Compliance  
+
+Apply to the production 
+
+of aerosol container 
+
+system which has a 
+
+direct impact on the 
+
+environment. 
+
+Government 
+
+and 
+
+regulators, 
+
+community, 
+
+shareholders 
+
+and financial 
+
+investor 
+
+ Sustainability 
+
+Report 2021 
+
+Page 15 – 18 
+
+ To source for more 
+
+electricity and water 
+
+efficiency improvements 
+
+that will help to cultivate 
+
+good practices across 
+
+organisation to save 
+
+energy. 
+
+ To monitor waste 
+
+generated and ensure 
+
+responsible waste 
+
+disposal at all our 
+
+locations of operation. 
+
+ To maintain zero 
+
+incident of violation of 
+
+any environmental laws. 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    11 | P a g e 
+
+ 
+
+
+
+Our Sustainability Approach 
+
+Identifying Material Sustainability Topics (Cont’d) 
+
+Material Topic 
+
+Mapped GRI 
+
+Standards 
+
+Reasons for Selection 
+
+of this Material Topic 
+
+Key 
+
+Stakeholders 
+
+in 
+
+Concern 
+
+Reference 
+
+Commitments &amp; Targets  
+
+4. Human 
+
+Capital 
+
+(social aspect) 
+
+GRI 404 – 
+
+Training and 
+
+Education 
+
+Our approach ensuring 
+
+all employees are 
+
+trained and enhance 
+
+their skillsets. 
+
+Performance and career 
+
+development reviews to 
+
+facilitate continued 
+
+employability are issues 
+
+of interest to our 
+
+stakeholders. 
+
+Employees, 
+
+Government 
+
+and 
+
+regulators 
+
+ Sustainability 
+
+Report 2021 
+
+Page 19 – 20 
+
+ To conduct and 
+
+introduce more internal 
+
+and external training 
+
+programs. 
+
+ To better prepare our 
+
+employees for the 
+
+digital economy and 
+
+recovery from Covid-19, 
+
+we continue to upskill 
+
+and reskill our 
+
+workforce so that they 
+
+can remain relevant in 
+
+the industry. 
+
+GRI 405 – 
+
+Diversity and 
+
+equal 
+
+opportunity 
+
+Our approach to 
+
+provide a diverse, 
+
+inclusive and 
+
+collaborative work 
+
+culture, and an 
+
+environment that 
+
+values differences. 
+
+Employees, 
+
+Government 
+
+and 
+
+regulators 
+
+ Sustainability 
+
+Report 2021 
+
+Page 21 - 22 
+
+ To maintain zero 
+
+reported issue of 
+
+gender discrimination 
+
+and continue to 
+
+promote a culture of 
+
+unity. 
+
+5. Health and 
+
+Safety 
+
+(social aspect) 
+
+GRI 403 – 
+
+Occupational 
+
+Health and Safety
+
+Our measures in place 
+
+to ensure that our 
+
+employees are in a safe 
+
+and secure working 
+
+environment. 
+
+Employees, 
+
+Government 
+
+and 
+
+regulators, 
+
+Business 
+
+partners 
+
+ Sustainability 
+
+Report 2021 
+
+Page 23 – 24 
+
+ To attain zero safety 
+
+incidents and maintain 
+
+zero penalty or fine on 
+
+breaches and non-
+
+compliance by DOSH.  
+
+ To monitor safety and 
+
+health risks through 
+
+effective risk mitigation 
+
+management. 
+
+GRI 416 – 
+
+Customer Health 
+
+and Safety 
+
+Our practices in place to 
+
+ensure all of our 
+
+products are assessed 
+
+for their Health, 
+
+Environmental, and 
+
+Safety impacts from the 
+
+product development 
+
+stage to the end 
+
+customers. 
+
+Customer, 
+
+Government 
+
+and 
+
+regulators, 
+
+Shareholders
+
+, Suppliers, 
+
+Business 
+
+Partners 
+
+ Sustainability 
+
+Report 2021 
+
+Page 25 - 26 
+
+ To maintain zero 
+
+incident of non-
+
+compliance with 
+
+regulations concerning 
+
+health and safety 
+
+impacts of our 
+
+products.  
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    12 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics 
+
+Economic Performance  
+
+We were committed to delivering long-term value for our shareholders and other stakeholders, 
+
+by striving to achieve long-term profitability. In FY2020’s Sustainability Report, we had hoped to 
+
+market our 2K single head products in the USA and some European countries by second half of 
+
+FY2020. Unfortunately, the plan has been delayed due to Covid-19. For the USA market, we are 
+
+currently developing distribution channels and digital platform for our products. 
+
+Our revenue has increased by RM47.5 million or 75.4% from RM63.1 million in FY2020 to RM110.6 
+
+million in FY2021. Overall, year-on-year sales volume increased by 7.0 million cans or 68.0% from 
+
+10.3 million cans in FY2020 to 17.3 million cans in FY2021, mainly due to higher demand from 
+
+Malaysia and Indonesia. Other markets such as Thailand, Vietnam, Philippines, Cambodia, India, 
+
+United Kingdom and Singapore shown a slight improvement in revenue as well in FY2021. 
+
+Gross profit margin increased from 47.1% in FY2020 to 48.7% in FY2021. The increase in the gross 
+
+profit margin was mainly due to the (i) increase of selling price across all range of products; and 
+
+(ii) the depreciation of US Dollar which resulted in a slightly lower purchase price on imported 
+
+materials.  Our other income of RM2.1 million as reported in FY2021 is mainly attributed by net 
+
+foreign exchange gain. Aside from our income, our administrative expenses increased by RM3.0 
+
+million mainly due to increase in personnel cost and other administration expenses and our 
+
+marketing and distribution expenses also increased by RM7.4 million mainly due to enhancement 
+
+of online and digital marketing activities carried out in FY2021. 
+
+ 
+
+RM72,605
+
+RM63,070
+
+RM110,630
+
+RM31,683
+
+RM29,708
+
+RM53,881
+
+0
+
+20,000
+
+40,000
+
+60,000
+
+80,000
+
+100,000
+
+120,000
+
+FY2019
+
+FY2020
+
+FY2021
+
+Revenue and Gross Profit
+
+Revenue (RM'000)
+
+Gross Profit (RM'000)
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    13 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics 
+
+Economic Performance (Cont’d) 
+
+ 
+
+For detailed financial results, please refer to the following sections in our FY2021 Annual Report: 
+
+ 
+
+Operations and financial review  
+
+ 
+
+Consolidated statement of profit or loss and other comprehensive income 
+
+ 
+
+Statement of financial position 
+
+ 
+
+Consolidated statement of changes in equity  
+
+ 
+
+Consolidated statement of cash flows 
+
+ 
+
+Targets for FY2022 
+
+With the global economic impact of Covid-19 as well as the implementation of various movement 
+
+control orders in Malaysia, we expect a difficult operating environment and conditions over the 
+
+next 12 months. Nonetheless, we will make every effort to overcome these circumstances, 
+
+expanding our sales while tightening cost controls. To preserve our market competitiveness, the 
+
+Group will continue to improve online and offline marketing operations, as well as develop new 
+
+and innovative products. 
+
+ 
+
+ 
+
+43.6%
+
+47.1%
+
+48.7%
+
+41%
+
+42%
+
+43%
+
+44%
+
+45%
+
+46%
+
+47%
+
+48%
+
+49%
+
+50%
+
+FY2019
+
+FY2020
+
+FY2021
+
+Gross Profit Margin
+
+Gross Profit Margin (%)
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    14 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics
+
+Anti-corruption 
+
+Corruption of any kind is not tolerated in Samurai 2K. When it comes to business ethics, we hold 
+
+ourselves to the highest standards and fight bribery and corruption head on. Any alleged acts of 
+
+corruption and bribery shall be carefully reviewed, investigated and due actions to be taken under 
+
+the current zero tolerance policy for fraud, corruption, and unethical behaviour. Samurai 2K takes 
+
+corruption extremely seriously, and we strictly adhere to our anti-corruption and anti-dishonesty 
+
+related policies and processes. Any report of potential corruption or substantial issues brought to 
+
+through the whistle-blowing route will be escalated to the Board.  
+
+We expect all employees to uphold high ethical standards in accordance with the expectations 
+
+set forth in the code of conduct, as we place a strong focus on ethical business conduct for all 
+
+employees. Any unethical behaviour or malpractice including corruption or fraud will be met with 
+
+severe consequences, including official disciplinary procedures. We have also circulated memo 
+
+through emails to all employees to create awareness of the anti-corruption policy and the whistle-
+
+blowing policy that the Group has in place.  
+
+Whistleblowing Policy 
+
+In keeping with its commitment to the highest levels of corporate governance, Samurai 2K has 
+
+implemented a whistleblowing policy. Employees can report workplace misconduct to the Audit 
+
+and Risk Committee in good faith and in confidentially. The Audit and Risk Committee will escalate 
+
+any whistle-blower reports received to the Board during the Board meeting. The Audit and Risk 
+
+Committee can conduct independent inquiries into any complaints and to take whatever action 
+
+is necessary in response to the findings. 
+
+Samurai 2K is dedicated to open communication to ensure that all issues were handled honestly 
+
+and appropriately. As a result, a special email address (whistleblowing@samuraipaint.jp) has been 
+
+established, and a note has been sent out to all employees informing them of the new channel. 
+
+During FY2021, no reports of bribery and corruption in our commercial transactions with suppliers, 
+
+dishonest practices, or other workplace improprieties were received. We were also glad to inform 
+
+that for the fourth year in a row, the Company has not received reports of fraud or corporate 
+
+malpractice. 
+
+Below is a table to depict our performance relating to reported incidents of bribery and corruption 
+
+over the past 3 years: 
+
+Financial Report Period 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Performance Indicator 
+
+Incident report for bribery and corruption 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+ 
+
+Targets for FY2022 
+
+As a long-term commitment, Samurai 2K will continue to promote the whistleblowing policy and 
+
+remind our employees to follow the Group’s code of conduct. We will also continue to foster a 
+
+transparent and accountable culture to maintain our record of zero reported non-compliances 
+
+with regulations for years to come. 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    15 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Energy and Water Management  
+
+ 
+
+We were conscious of our environmental responsibilities. We strive to optimise our electricity and 
+
+water usage as a stakeholder in the environment in which we operate to ensure that resources 
+
+were consumed only when they were needed and in the most efficient way possible.  
+
+ 
+
+We have formalised our strategy in regulating energy usage in our production facility in Johor, 
+
+Malaysia, in November 2018. We have also placed motion detectors in certain common areas to 
+
+save electricity when there's been no movement for more than 5 minutes. Additionally, we 
+
+continue to raise awareness and cultivate energy-saving behaviour amongst the employees by 
+
+posting reminder-to-turn-off signs at the areas near to the switch of lights and air-conditioners 
+
+throughout our factory/ office complexes.  
+
+ 
+
+Although our energy conservation programme launched in FY2019 is still in place, we noticed a 
+
+spike in the electricity and water usage in FY2021 as compared to FY2020. This is mainly due to 
+
+increased production activities amidst the spike of revenue in FY2021 and Covid-19 preventive 
+
+measures whereby for the safety of our employees, we have encouraged them to diligently clean 
+
+their hands to prevent the spread of the virus. Nonetheless, our consumption of electricity and 
+
+water per sales volume (cans) has been decreased in FY2021 which is attributable to our efficiency 
+
+in consuming electricity and water during our day to day operations amidst the increase in 
+
+revenue and operation activities. Please refer to the below table for our energy and water 
+
+consumption as well as consumption per sales volume over the past three years:  
+
+Total 
+
+Consumption 
+
+by Category 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Electricity 
+
+(kWh) 
+
+624,619 
+
+562,692 
+
+623,613 
+
+Water 
+
+(litre/ 
+
+m3) 
+
+6,157 
+
+4,145 
+
+5,186 
+
+ 
+
+Consumption per 
+
+Sales Volume 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Sales Volume – cans 
+
+(’million) 
+
+12.2 
+
+10.3 
+
+17.3 
+
+Electricity (kWh) 
+
+consumed per can 
+
+0.051 
+
+0.055 
+
+0.036 
+
+Water (litre/ m3) per 
+
+can 
+
+0.0005 
+
+0.0004 
+
+0.0003 
+
+ 
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    16 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Energy and Water Management (Cont’d) 
+
+ 
+
+Targets for FY2022 
+
+We will continue to source for equipment with potential reduction in energy and water 
+
+consumption. We will also strive to achieve our newly established yearly target in consumption 
+
+of electricity and water i.e. 0.0378 kWh of electricity per sales volume (can) (i.e. 5% higher than 
+
+the consumption recorded in FY2021 considering the post-Covid-19 normalisation process to take 
+
+place after FY2021) and 0.0003 litre of water per sales volume (can) (i.e. baseline set according to 
+
+the consumption recorded in FY2021), in order to better assess our performance in using energy 
+
+and water. Moving forward, we will continue to promote our energy and water conservation 
+
+programmes to cultivate good resource-saving practices across our organisation. 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    17 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Waste Management 
+
+ 
+
+Samurai 2K understands the importance of waste management because we are involved in the 
+
+research, development, and production of aerosol paint and coatings spray cans, which primarily 
+
+entail the use of hazardous ingredients such as resins, pigments, additives, solvents, and 
+
+propellants. As a result, waste management is critical in preventing environmental degradation. 
+
+ 
+
+We have incorporated environmentally friendly practices into our manufacturing operations, by 
+
+having designated wastage area and scheduled waste collection twice a month with authorised 
+
+waste collector. We have also implemented protocols to closely monitor hazardous by-products 
+
+and waste treatment processes. All employees have received training on the need of properly 
+
+disposing of waste products. 
+
+ 
+
+Management of environmental risks is one of the business priorities to Samurai 2K, and we are 
+
+devoted to reducing our environmental impact in all aspects of our business. All our external 
+
+trainings on waste management scheduled were postponed due to Malaysian government's 
+
+Movement Control Order in FY2021. We are in the process of obtaining ISO14001: Environmental 
+
+Management at our workplace to protect and improve the quality of life for our employees, 
+
+customers, and communities. 
+
+ 
+
+Target for FY 2022 
+
+To protect the local people and the environment, we will continue to monitor waste created and 
+
+ensure proper garbage disposal at all our operating locations. We also target to be ISO14001 
+
+certified by end of 2021.  
+
+ 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    18 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Environmental Compliance 
+
+ 
+
+As a corporate citizen, we have an important 
+
+role to play in environmental conservation and 
+
+protection. We believe that as a result of our 
+
+operating activities, our actions may have an 
+
+impact on the environment. As a result, we 
+
+strive to operate in a manner that is both 
+
+ecologically 
+
+friendly 
+
+and 
+
+compliant 
+
+with 
+
+regulatory authorities. The Malaysia Environmental Quality Council's Environmental Quality 
+
+(Prescribed Conveyance) (Scheduled Wastes) Order 2005, as well as Malaysia's environmental 
+
+legislation, were carefully followed.  
+
+ 
+
+We incorporate good environmental practices into our daily procedures in addition to complying 
+
+with environmental legislation and regulations. Although we had to postpone the process of 
+
+acquiring ISO14001: Environmental Management certification due to the Malaysian government's 
+
+Movement Control Order, we have, however, begun to practice and implement ISO14001 in our 
+
+daily operations. This demonstrates our commitment to environmental preservation while also 
+
+serving as a guide for our workers as they carry out their responsibilities. 
+
+ 
+
+We are pleased to report that there was no reported incident of violation of any environmental 
+
+laws for FY2021. 
+
+ 
+
+Below is a table to depict our performance relating to violation of environmental laws over the 
+
+past 3 years: 
+
+Financial Report Period 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Performance Indicator 
+
+Violation of environmental laws 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+ 
+
+Target for FY2022 
+
+We will continue to adhere to all relevant environmental laws and regulations and aim to improve 
+
+our environmental risk management in the future. At the same time, we make every effort to 
+
+ensure that no environmental laws and regulations are broken. 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    19 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics 
+
+Training and Education 
+
+Developing our employees is critical to our success at Samurai 2K. Through internal courses or on-
+
+the-job training, we consistently provide learning and development options for our employees to 
+
+improve themselves. This is to ensure that our employees have the skills and information they 
+
+need to stay competitive in the business. 
+
+ 
+
+We sent our employees to trainings in FY2021 to enhance their key capabilities, such as technical, 
+
+business, and administrative skills. The trainings include “Kemudahan Penginapan Pekerja 
+
+(Human Resource  Training)”, “Import/Export Documentation &amp; Procedures”, “SafetyEdge Virtual 
+
+Conference 2021” and “Enviro360 Virtual Conference 2021” and we have managed to involve 
+
+majority of our employees from Finance and HR department, Legal Department, Safety &amp; Health 
+
+and Logistics Department to attend the trainings. 
+
+ 
+
+We are pleased to report that in FY2021, we clocked higher average training hours per employee 
+
+in each category as compared to FY2020. This is attributable to Covid-19 where many of the 
+
+trainings were conducted online via virtual platforms and thus there is flexibility for our 
+
+employees to plan and attend the online trainings based on their work schedule. We continue to 
+
+facilitate constant upskilling of our employees through on-the-job trainings for employees who 
+
+were still working in the office. 
+
+Please refer to the below table for the statistics on average training hours conducted for each 
+
+category of employees.  
+
+Category of employee 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Senior Management 
+
+15.73 
+
+11.52 
+
+15.72 
+
+Middle Management 
+
+14.63 
+
+10.32 
+
+13.64 
+
+Executive and Assistants 
+
+10.32 
+
+9.37 
+
+12.97 
+
+Female 
+
+10.13 
+
+9.16 
+
+12.66 
+
+Male 
+
+14.46 
+
+10.58 
+
+13.58 
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    20 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics 
+
+Training and Education (Cont’d) 
+
+Annual formal performance assessments were conducted at Samurai 2K to ensure that 
+
+performance expectations and results were clearly communicated and addressed. During the 
+
+appraisal, any expectations or results for the coming year will be explicitly expressed to the 
+
+personnel. We encourage our supervisors to provide regular and constructive feedback to their 
+
+subordinates and to discuss any training and development needs. In FY2021, 5 employees were 
+
+promoted, 62 employees received bonuses and 9 employees had salary increments. 
+
+ 
+
+In light of the current Covid-19, we have adopted a number of measures over the last few months, 
+
+such as temperature screening at all access points and keeping social distance at our facilities. We 
+
+have also educated our employees on the necessity of following the Malaysian government's and 
+
+health authorities' recommendations and Standard Operating Procedures. We also keep our 
+
+personnel informed about Covid-19 on a regular basis. 
+
+ 
+
+Targets for FY2022 
+
+We intend to organise and implement more targeted internal and external training programs in 
+
+the future so that our employees can achieve improvement in productivity and quality. In addition, 
+
+we continue to upskill and reskill our targeted employees to keep them relevant in the business 
+
+and better equip them for the digital economy and recovery from Covid-19. 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    21 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Diversity and Equal Opportunity 
+
+Regardless of race, age, gender, religion, or ethnicity, we were committed to hiring people who 
+
+have the requisite skills and expertise to fit into their relevant roles at Samurai 2K. Furthermore, 
+
+we understand the importance of having diverse workforce since it allows us to see things from 
+
+various viewpoints and stimulates different thinking to solve problems. We always promote the 
+
+working culture that values differences to generate desired business outcomes. We considered 
+
+diversity and non-discrimination were critical to the Group's long-term viability and to improve 
+
+employee satisfaction and retention. We are delighted to report that no incidents of gender 
+
+discrimination were reported in FY2021. 
+
+ 
+
+Below is a table to depict our performance relating to reported incidents of gender discrimination 
+
+over the past 3 years: 
+
+Financial Report Period 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Performance Indicator 
+
+Reported incidents of gender discrimination 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+ 
+
+Even though we work in a male-dominated business, women make up 58% of our senior and 
+
+middle management positions in FY2021, an increase from 54% in FY2020. We believe that it is 
+
+important to have more women in leadership positions as we will be able to improve gender 
+
+diversity in leadership, thus leading to better decision-making and innovation. We foster an 
+
+environment in which all our employees were treated fairly and with respect. We want to create 
+
+a culture where all our employees have equal chances and can contribute to the success of our 
+
+Group. We were also dedicated to maintaining a gender-neutral compensation structure. To 
+
+establish a dynamic and innovative organisation, we continue to draw on the diverse perspectives, 
+
+value-add, and contributions of our diverse employees. In addition, we have included policy and 
+
+procedures on diversity and equal opportunity in our Employee Handbook. 
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    22 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Diversity and Equal Opportunity (Cont’d) 
+
+ 
+
+Please refer to the below tables for our full-time employee profile:  
+
+Financial 
+
+Year 
+
+Gender 
+
+Senior 
+
+Management 
+
+Middle 
+
+Management 
+
+Executive and 
+
+Assistants 
+
+FY2019 
+
+Male 
+
+8 
+
+6 
+
+69 
+
+Female 
+
+5 
+
+11 
+
+16 
+
+FY2020 
+
+Male 
+
+11 
+
+5 
+
+61 
+
+Female 
+
+5 
+
+14 
+
+22 
+
+FY2021 
+
+Male 
+
+9 
+
+20 
+
+59 
+
+Female 
+
+7 
+
+33 
+
+7 
+
+ 
+
+Financial 
+
+Year 
+
+Age Group 
+
+Senior 
+
+Management 
+
+Middle 
+
+Management 
+
+Executive and 
+
+Assistants 
+
+FY2019 
+
+&lt;30 years old 
+
+1 
+
+6 
+
+61 
+
+30 to 50 years old 
+
+9 
+
+10 
+
+24 
+
+&gt;50 years old 
+
+3 
+
+1 
+
+- 
+
+FY2020 
+
+&lt;30 years old 
+
+1 
+
+6 
+
+54 
+
+30 to 50 years old 
+
+7 
+
+11 
+
+29 
+
+&gt;50 years old 
+
+8 
+
+2 
+
+- 
+
+FY2021 
+
+&lt;30 years old 
+
+1 
+
+34 
+
+44 
+
+30 to 50 years old 
+
+6 
+
+19 
+
+22 
+
+&gt;50 years old 
+
+9 
+
+- 
+
+- 
+
+ 
+
+Over the past year, the world was engulfed by the unforeseen circumstance of Covid-19. Whilst 
+
+this has resulted in numerous challenges and disruptions across our operations, protecting the 
+
+safety of our people and ensuring safe operations were top priorities of the Group and we are 
+
+grateful for the support of all our employees during this unprecedented time.    
+
+ 
+
+Targets for FY2022  
+
+We will continue to develop a culture of unity amongst our diverse employees and preserve our 
+
+zero reported case of gender discrimination in the future.
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    23 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Occupational Health and Safety 
+
+The health and safety of our employees were our priority at Samurai 2K. Our manufacturing 
+
+process uses potentially hazardous, poisonous, or flammable raw materials. As a result, we have 
+
+put in place safety procedures that our Health and Safety Committee (the "Committee") will 
+
+monitor and oversee. A monthly Committee meeting will be held virtually to review previous 
+
+topics discussed and safety inspection will be performed at our production facility located at Johor, 
+
+Malaysia on a random spot-check basis.  
+
+ 
+
+We prioritise health and safety in all our activities and we constantly work to reduce the risk of 
+
+accidents and injuries to our employees. In line with statutory requirements, we provide our 
+
+employees with personal protective equipment (“PPE”), safety training, such as Forklift Safety 
+
+Training, Operational Problem-Solving Series, Safety Virtual Conference Edge, and Initial 
+
+Ergonomic Training. On a regular basis, we also offer operational training programs, such as 
+
+biennial On Job Training (by Work Process, as stated in Management's Safe Operation Procedures), 
+
+to keep our employees abreast on the most recent safety measures and procedures. 
+
+ 
+
+All new employees who were involved in production activities must participate in safety training 
+
+and drills to be familiar with the operation of the machinery and equipment, as well as the safety 
+
+measures and procedures during the manufacturing process. Every morning at the production 
+
+facility, safety briefings with the supervisor, line leader, quality control technician, and operator 
+
+were held to raise awareness of workplace safety. Before work begins, regular safety inspections 
+
+will be carried out. Every two years, all personnel have to participate in emergency evacuation 
+
+drills to familiarise themselves with the procedures. Any potentially dangerous activity will be 
+
+reported to the Committee's Chairman, who will take appropriate action.  
+
+ 
+
+We also follow the Malaysia Occupational Safety and Health Regulations 1996 to the letter. The 
+
+Department of Occupational Safety and Health (“DOSH”), which is part of the Malaysia Ministry 
+
+of Human Resources, regulates these laws, and the Group is subject to frequent and random 
+
+inspections by the authorities.  For any violations, the Group will face financial penalties, and non-
+
+compliance may result in the termination of its business license. We have not received any DOSH 
+
+penalty notices for non-compliance with the Occupational Safety and Health Administration in 
+
+FY2021. 
+
+ 
+
+ 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    24 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Occupational Health and Safety (Cont’d) 
+
+To protect our employees from Covid-19, we have 
+
+taken swift action in accordance with the advisories 
+
+from Malaysian Government and Ministry of Health 
+
+to reduce the risk of infection. All necessary PPE, 
+
+such as earplug, safety shield, apron for filling 
+
+operator, safety gloves and goggles were given to 
+
+employees. Face masks are also provided to all employees daily.   
+
+ 
+
+Given the existing state of affairs, we have also implemented the following measures of recording 
+
+body temperature of all the employees and visitors who entered our plant, enforcing health 
+
+declaration, checking in by scanning the MySejahtera application, social distancing measures by 
+
+marking the floor with red lines to remind employees of safe distancing, doing sanitizing three 
+
+times a day and fogging at the office daily. Furthermore, to reduce risks of infection at our 
+
+Company compound, we have been working with 60% capacity in our office premises and the 
+
+remaining 40% working from home. Any employee found to have any slight symptoms of Covid-
+
+19 will be sent to the clinic for further checking. We have also started to conduct Rapid Swab Test 
+
+for all our employees since January 2021 and for new joiner to ensure that all our employees are 
+
+healthy and free of Covid-19 virus.  
+
+ 
+
+Below is a table to depict our performance relating to reported incidents workplace injury and 
+
+non-compliance issued by DOSH over the past 3 years: 
+
+Financial Report Period 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Performance Indicator 
+
+Reported incidents of injury cases 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+2 Minor Non-fatal 
+
+Cases 
+
+Zero Cases 
+
+2 Minor Non-fatal 
+
+Cases 
+
+Performance Indicator 
+
+Reported incidents of non-compliance by DOSH 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+ 
+
+For the 2 minor non-fatal cases, we have taken immediate action to investigate the root cause of 
+
+the incidents and the precaution safety measures (such as to provide proper trainings and 
+
+briefings to all technician and production workers) are in place accordingly to avoid such incident 
+
+recurring in the future. 
+
+ 
+
+Targets for FY2022 
+
+Going forward, we will aim to achieve zero safety incident and maintain a zero penalty or non-
+
+compliance issued by DOSH. Through risk mitigation management, we will continue to monitor 
+
+and reduce any safety and health hazards. 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    25 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics  
+
+Customer Health and Safety 
+
+Customers are one of our most important stakeholders, thus their health and safety when using 
+
+our products were paramount. Customers expect high-quality services and products, as well as 
+
+after-sales support and ethical purchasing procedures. As a result, it was critical that we strived 
+
+to meet their expectations and ensure that our products were safe to use to earn their trust. 
+
+ 
+
+Our goods were evaluated for their Health, Environmental, and Safety impact from the product 
+
+development stage onwards, with guidance available to end customers, so that any identified 
+
+concerns were recorded and can be corrected immediately.  Customer contacts, market 
+
+awareness, and evolving product trends influence our product conceptions. Our research teams 
+
+will collaborate with our product safety and regulatory affairs department from the start of 
+
+product development to ensure that our products were safe for use. Additionally, depending on 
+
+the predicted end-use of the product, additional screening tests and modelling may be performed 
+
+to allow our customers to complete safety evaluations and feedbacks. These principles were 
+
+embedded in our new product development processes. 
+
+ 
+
+We have controls in place in our Enterprise Resource Planning System to ensure that all items 
+
+have a material safety data sheet before they were manufactured. All our research and 
+
+development products were evaluated with proper lab testing. Once finalised, the products will 
+
+be tagged with an Official Safety Data Sheet issued by the Quality Assurance Department (“QA”). 
+
+Our production facilities were ISO9001:2015 certified and we perform annual quality assessment 
+
+to maintain the quality standard of our products.  
+
+ 
+
+We have protocols and systems in place to ensure the safe storage of hazardous substances, and 
+
+we shared this information with our customers as needed. We have an Emergency Rescue Team 
+
+(“ERT”) headed by a group of competent employees trained for emergency rescue training 
+
+certified by the Fire and Rescue Department of Malaysia. We have also performed Hazard 
+
+Identification, Risk Assessment and Risk Control (“HIRARC”) for all our processes. Furthermore, 
+
+we have protocols in place to deal with emergency scenarios, such as the need to recall or remove 
+
+a dangerous product that may have an impact on nearby population. Our sales and marketing 
+
+teams collaborate closely with our research and regulatory departments to ensure that any health 
+
+and safety information presented to customers is correct and consistent with the information 
+
+sent out with the products we sell. 
+
+ 
+
+We have also established systems in place to track any non-compliance with legislation or 
+
+standards relating to our products' health and safety. There is also a formal complaint mechanism 
+
+in place, and all our customers will be assigned to at least one sales representative. We intend to 
+
+improve this approach and further integrate it into our business to identify any difficulties or areas 
+
+of possible risk. 
+
+ 
+
+We are delighted to share that no incidents of reported non-compliance with rules relating to the 
+
+health and safety implications of our products occurred in FY2021.
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    26 | P a g e 
+
+ 
+
+
+
+Material Sustainability Topics
+
+
+
+ 
+
+
+
+ 
+
+Customer Health and Safety (Cont’d) 
+
+Below is a table to depict our performance relating to reported incidents of non-compliance with 
+
+rules relating to health and safety implications over the past 3 years: 
+
+Financial Report Period 
+
+FY2019 
+
+FY2020 
+
+FY2021 
+
+Performance Indicator 
+
+Reported incidents of non-compliance concerning the health and 
+
+safety impacts of products 
+
+Target Set 
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+Our Performance  
+
+Zero Cases 
+
+Zero Cases 
+
+Zero Cases 
+
+ 
+
+The Company has faced extraordinary hurdles because of Covid-19 and we will continue to keep 
+
+a careful eye on the uncertain situation. During this time, we've been working closely with our 
+
+customers to address obstacles and have changed our business strategy to cater to e-commerce 
+
+and social media platforms to attract more end-uses in various markets. We are devoted to 
+
+continuing to serve our customers and end-users and reacting to their requirements by utilising 
+
+technology to keep in touch with them. 
+
+ 
+
+Targets for FY2022  
+
+We target to have zero incident of non-compliance 
+
+with regulations relating to the health and safety 
+
+implications of our products in the future. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    27 | P a g e 
+
+ 
+
+
+
+GRI Content Index  
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for 
+
+Omission, if applicable 
+
+102-1 Name of the organisation  
+
+3 
+
+102-2 Activities, brands, products, and services 
+
+5 
+
+102-3 Location of headquarters  
+
+4 
+
+102-4 Location of operations 
+
+5 
+
+102-5 Ownership and legal form  
+
+Annual Report 2021: Statistics of 
+
+Shareholding 
+
+102-6 Markets served 
+
+5 
+
+102-7 Scale of the organisation 
+
+5, 12  
+
+102-8 Information on employees and other workers  
+
+21 - 22 
+
+102-9 Supply chain  
+
+7 
+
+102-10 Significant changes to the organisation and its supply 
+
+chain 
+
+Not Applicable 
+
+102-11 Precautionary principle or approach  
+
+8 and 25 
+
+102-12 External initiatives 
+
+ 
+
+Not Applicable  
+
+102-13 Membership of associations 
+
+Not Applicable 
+
+102-14 Statement from senior decision maker 
+
+3 
+
+102-16 Values, principles, standards, and norms of behaviour 
+
+5 - 6  
+
+102-18 Governance structure 
+
+8 
+
+102-40 List of stakeholder groups 
+
+9 
+
+102-41 Collective bargaining agreements 
+
+Not Applicable 
+
+102-42 Identifying and selecting stakeholders 
+
+9 
+
+102-43 Approach to stakeholder engagement 
+
+9 
+
+102-44 Key topics and concerns raised 
+
+10 - 11 
+
+102-45 Entities included in the consolidated financial 
+
+statements 
+
+Annual Report 2021: Notes to the 
+
+Financial Statements (Investment in 
+
+subsidiaries) 
+
+102-46 Defining report content and topic boundaries 
+
+4 
+
+102-47 List of material topics 
+
+10 - 11 
+
+102-48 Restatements of information 
+
+Not Applicable  
+
+102-49 Changes in reporting 
+
+Not Applicable  
+
+102-50 Reporting period 
+
+3 
+
+102-51 Date of most recent report 
+
+28 August 2020 
+
+102-52 Reporting cycle 
+
+4 
+
+102-53 Contact point for questions regarding the report 
+
+4 
+
+102-54 Claims of reporting in accordance with the GRI 
+
+Standards 
+
+4 
+
+102-55 GRI content index 
+
+27 – 28 
+
+102-56 External assurance 
+
+4 
+
+103-1 Explanation of the material topics and its boundary 
+
+10 - 11 
+
+103-2 The management approach and its components 
+
+12 - 26 
+
+103-3 Evaluation of the management approach 
+
+12 - 26 
+
+
+SAMURAI 2K AEROSOL LIMITED | SUSTAINABILITY REPORT 2021    28 | P a g e 
+
+ 
+
+
+
+GRI Content Index 
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for Omission, if 
+
+applicable 
+
+201-1 Direct economic value generated and 
+
+distributed  
+
+12 – 13 
+
+Annual Report 2021: Operations and Financial 
+
+Review, Consolidated Statement of Profit or Loss 
+
+and Other Comprehensive Income 
+
+205-1 Operations assessed for risks related to 
+
+corruption 
+
+14 
+
+205-2 Communication and training about anti-
+
+corruption policies and procedures  
+
+14 
+
+205-3 Confirmed incidents of corruption and actions 
+
+taken 
+
+14 
+
+307-1 Non-compliance with environmental laws 
+
+and regulations 
+
+18 
+
+403-4 Worker participation, consultation, and 
+
+communication on occupational health and safety 
+
+23 - 24 
+
+403-5 Worker training on occupational health and 
+
+safety 
+
+23 - 24 
+
+403-9 Work-related injuries 
+
+23 - 24 
+
+404-1 Average hours of training per year per 
+
+employee 
+
+19 - 20 
+
+404-2 Programs for upgrading employee skills and 
+
+transition assistance programs 
+
+19 - 20 
+
+405-1 Diversity of governance bodies and 
+
+employees 
+
+21 - 22 
+
+416-1 Assessment of the health and safety impacts 
+
+of product and service categories 
+
+25 - 26 
+
+416-2 Incidents of non-compliance concerning the 
+
+health and safety impacts of products and services 
+
+25 - 26 
+
+murww.sa 
+
+ 
+

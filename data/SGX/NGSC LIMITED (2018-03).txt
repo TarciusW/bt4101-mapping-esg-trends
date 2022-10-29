@@ -1,0 +1,1548 @@
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+1 
+
+ 
+
+ 
+
+
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Sustainability Report 2018 
+
+ 
+
+ 
+
+ 
+
+
+
+Incorporated in Republic of Singapore 
+
+Company Registration No. 196400100R 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+2 
+
+ 
+
+Contents 
+
+Board’s Message ........................................................................................................................ 1 
+
+About This Report...................................................................................................................... 2 
+
+Company Information ................................................................................................................ 3 
+
+Corporate Structure ................................................................................................................ 3 
+
+Vision and Mission ................................................................................................................ 4 
+
+Corporate Values ................................................................................................................... 4 
+
+Supply Chain Management .................................................................................................... 4 
+
+Geographical Expansion and Growth .................................................................................... 4 
+
+Governance Structure............................................................................................................. 5 
+
+Our Sustainability Approach...................................................................................................... 6 
+
+Stakeholder’s Engagement..................................................................................................... 6 
+
+Identifying Material Sustainability Topics ............................................................................ 7 
+
+Materiality Sustainability Topics ............................................................................................... 8 
+
+Economic ............................................................................................................................... 8 
+
+Anti-corruption .................................................................................................................. 8 
+
+Social...................................................................................................................................... 9 
+
+Training and Education ...................................................................................................... 9 
+
+Customer Privacy ............................................................................................................. 10 
+
+GRI Index................................................................................................................................. 11 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+1 
+
+ 
+
+Board’s Message 
+
+ 
+
+The Board of Directors (the “Board”) of NGSC Limited (“NGSC”), and together with its 
+
+subsidiaries, collectively, the “Company”) are committed to sustainable growth and 
+
+development, both locally and internationally.  
+
+ 
+
+2018 was a significant year in the re-modelling of our business, with a key shift in operational 
+
+activities, from offering satellite-based telecommunication services to being an investment 
+
+holding company. Being a previously notable satellite-based telecommunication service 
+
+provider for remote areas of Asia, we have driven economic development and improving 
+
+livelihoods through enhancing the public infrastructure. Our Company is constantly on the 
+
+look-out for investment opportunities in ASEAN’s emerging markets.  
+
+ 
+
+The Board has identified many trends and material topics that our stakeholders may be 
+
+concerned through stakeholder engagement and materiality assessment. We deemed such 
+
+concerns as important opportunities to strengthen our risk management practices and 
+
+potentially drive and influence sustainability initiatives along with long-term growth for the 
+
+Company. In that regard, the Board has included reviewing sustainability issues as part of its 
+
+corporate strategy on an ongoing basis. The Board continues to provide oversight on 
+
+investment opportunities. 
+
+ 
+
+Moving forward, we will continue to monitor our sustainability initiatives and ESG-related risk 
+
+assessment. We are considering a range of new initiatives locally and globally to drive 
+
+collaboration and solve business challenges. We are heartened by internal efforts in instilling 
+
+a corporate culture in sustainability practices which we believe are impactful. 
+
+ 
+
+On behalf of the Board of NGSC, we would look forward to your continued engagement, 
+
+partnership and support.  
+
+ 
+
+ 
+
+Yours sincerely 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Dr. Michael Kuan-Chi Sun 
+
+Executive Director 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+2 
+
+ 
+
+About This Report  
+
+ 
+
+This is the first Sustainability Report (SR2018) by NGSC. The report focuses on the evaluation 
+
+of NGSC’s business performance in terms of environmental, social and governance (ESG) 
+
+aspects. In preparing this report, we have considered material sustainability issues and 
+
+strategies with potential impact on our business growth and more importantly, what we 
+
+believe are of significant importance to stakeholders. 
+
+ 
+
+This is an inaugural report prepared by NGSC in adherence to the rules of 711A and 711B of 
+
+the Listing Manual of the Singapore Exchange Securities Trading Limited (“SGX-ST”) – 
+
+Sustainability Reporting Guide (the “SGX-Sustainability Reporting Guide”). We have taken 
+
+reference to the Global Reporting Initiative (“GRI”) Standards 2016: Core Option, which is a 
+
+well-known and globally recognised sustainability reporting framework and its reporting 
+
+principles. We have chosen to adopt the GRI Sustainability Reporting Standards as it is the 
+
+most widely accepted global framework for voluntary corporate reporting of environmental 
+
+and social performance.  
+
+ 
+
+Unless stated otherwise, this report focuses on the period from 1 April 2017 to 31 March 2018 
+
+for our operations in Singapore, People’s Republic of China (“PRC”) and Indonesia. We have 
+
+not sought external assurance for this report and we may consider doing so in future annual 
+
+sustainability reports. 
+
+ 
+
+We will only print limited copies of this sustainability report as and when it is required. 
+
+Currently, electronic editions can be downloaded from the Company’s website or from SGX. 
+
+ 
+
+For any suggestions, comments and enquiry related to this report, kindly contact our principal 
+
+place of business at (+65) 6479 3866. Our principal place of business is located at 96 Robinson 
+
+Road, #12-04 SIF Building, Singapore 068899.  
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+3 
+
+ 
+
+Company Information 
+
+ 
+
+NGSC is an investment holding company with the aim to mature into an institutional 
+
+investment platform for growth opportunities in Asia and emerging markets. The Company 
+
+used to provide satellite-based telecommunications services to various industries including 
+
+education and financial institutions in PRC and Indonesia.  
+
+ 
+
+The Company’s core businesses include: (1) sale of satellite communications equipment and 
+
+provision of satellite-based communication services, (2) building, operating and lease of 
+
+based station controllers for universal service obligations (USO) sites to enable 
+
+telecommunication services in remote areas of PRC and Indonesia, and: (3) holders of 
+
+convertible notes to derive interest income. 
+
+ 
+
+NGSC’s headquarters is located in Singapore and made its entry into China and Indonesia 
+
+through acquisition of subsidiaries, China Unifiednet Holdings Limited (CUH) and Multi Skies 
+
+Nusantra Limited respectively.  
+
+ 
+
+Corporate Structure 
+
+ 
+
+ 
+
+NGSC streamlines the management of our assets and investments in new business 
+
+opportunities in the development of internet and satellite communication system technology 
+
+and trading in satellite communication system devices. 
+
+NGSC Limited
+
+China Unifiednet Holdings 
+
+Limited
+
+HUH Broadband 
+
+Communication Company 
+
+Limited
+
+HughesNet China Company 
+
+Limited
+
+Beijing China Satcom Unified 
+
+Network systems 
+
+Technology Co., Ltd.
+
+NGSC Capital Pte. Ltd.
+
+NGSC Capital Limited
+
+Indo EM Growth Fund GP 
+
+Holdings Limited
+
+Indo EM Growth Fund GP 
+
+Limited
+
+NGSC Investment Limited
+
+Arch Capital Limited
+
+Hillgo Asia Limited 
+
+Ban Joo Global Pte Ltd
+
+NGSC Investment 
+
+Management Pte. Ltd.
+
+Fortknox Global Pte. Ltd.
+
+Telemedia Pacific 
+
+Communications Pte. Ltd.
+
+Multi Skies Nusantra Limited
+
+PT Karunia Anuugerah Mitra 
+
+Utama
+
+PT Multi Skies Nusantara
+
+VIP (HK) Ltd
+
+Multi Bright (HK) Ltd
+
+Star Light Telemedia DC 
+
+Limited 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+4 
+
+ 
+
+Vision and Mission 
+
+ 
+
+NGSC will continue to seek suitable investment opportunities in the region. We may aim to 
+
+move into the management of investment platforms that invest in a wider perspectives of 
+
+growth opportunities in the Asia and its emerging markets within the region.  
+
+ 
+
+Corporate Values  
+
+ 
+
+ 
+
+Supply Chain Management 
+
+ 
+
+NGSC engages its business partners and subsidiaries in developing a sustainable supply chain 
+
+for our existing business model. We assess factors such as, including but not limited to, their 
+
+core values, expertise, financial performance and conformance to the government 
+
+regulations. As an investment holding company, we work closely with our global subsidiaries 
+
+in the field of trading financial derivatives as well as sharing responsibilities and risks. 
+
+Therefore, it is a sustainability measure to identify, monitor and manage risks and 
+
+opportunities in our supply chain. We also ensure that all Directors and Executive Officers are  
+
+independent and are not in financial contract with potential investment companies. 
+
+ 
+
+Geographical Expansion and Growth 
+
+ 
+
+NGSC has expanded its footprint into different countries in the Asia region. We have installed 
+
+satellite access points and supplied satellite broadband services to various institutions in the 
+
+provinces. We have also provided telephony services to schools, local city centres and 
+
+households to rural area nation-wide in Indonesia. 
+
+ 
+
+NGSC performed trading of derivatives through its subsidiaries to countries such as Hong Kong, 
+
+Cayman Islands and British Virgin Islands. 
+
+ 
+
+ 
+
+ 
+
+Professionalism 
+
+We uphold high quality ethical 
+
+standards and remain competent 
+
+
+
+Commitment
+
+We commit to support the 
+
+interest of stakeholders
+
+
+
+Integrity
+
+We maintain a sense of integrity, 
+
+honesty and discipline
+
+
+
+Conviction
+
+We provide innovative solutions 
+
+to societies 
+
+
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+5 
+
+ 
+
+Governance Structure  
+
+ 
+
+Board of Directors 
+
+- 
+
+Mr Andrew Coulton (Non-Executive Non Independent Chairman) 
+
+- 
+
+Dr Michael Kuan-Chi Sun (Executive Director) 
+
+- 
+
+Mdm Sri Tjintawati Hartanto (Non-Executive Non-Independent Director) 
+
+- 
+
+Mr Lai Chik Fan (Non-Executive Non-Independent Director) 
+
+- 
+
+Mr Lye Meng Yiau (Non-Executive Non-Independent Director) 
+
+- 
+
+Mr Ku Vicente S. (Non-Executive Non-Independent Director) 
+
+- 
+
+Mr Edward Fu Shu Sheen (Lead Independent Director) 
+
+- 
+
+Mr Ng Hsian Pin (Independent Director) 
+
+- 
+
+Mr Li Man Wai (Independent Director) 
+
+- 
+
+Mdm Cheung Kam Wa (Independent Director) 
+
+ 
+
+Audit Committee  
+
+- 
+
+Mr Ng Hsian Pin (Chairman) 
+
+- 
+
+Mr Li Man Wai 
+
+- 
+
+Mr Edward Fu Shu Sheen 
+
+ 
+
+Nomination Commitee 
+
+- 
+
+Mr Ng Hsian Pin (Chairman) 
+
+- 
+
+Mr Edward Fu Shu Sheen 
+
+- 
+
+Mr Lye Meng Yiau  
+
+ 
+
+Remuneration Committee 
+
+- 
+
+Mr Edward Fu Shu Sheen (Chairman) 
+
+- 
+
+Mr Ng Hsian Pin 
+
+- 
+
+Mdm Sri Tjintawati Hartanto  
+
+ 
+
+ 
+
+We have clear and effective governance structure in place that supported by policies, 
+
+standards, practices and guidelines. Our corporate governance structure comprise 
+
+Independent and Non-Independent Directors who oversee and monitor political, operational 
+
+and environmental trends and risks that could affect business activities.  
+
+ 
+
+In NGSC, key management personnel are responsible for managing and monitoring our 
+
+sustainability practices and the Board is updated on any material developments. There are 
+
+frequent discussions on key issues in sustainability such as overall implementation, 
+
+stakeholder engagement, materiality topics, strategic planning, goal setting and 
+
+implementation performance.   
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+6 
+
+ 
+
+Our Sustainability Approach 
+
+ 
+
+Stakeholder’s Engagement 
+
+ 
+
+We have regular reviews, assessments and feedback on ESG topics. We are continuously 
+
+improving the adequacy and effectiveness of our risk assessment processes in response to 
+
+the changing business and operating environments. Through regular stakeholder engagement, 
+
+we identify and review material issues that are most relevant and significant to us and our 
+
+stakeholders. We prioritise the sustainability issues that are material to the business and 
+
+stakeholders.  
+
+ 
+
+Considering that specific stakeholders and material issues are specific in countries and 
+
+locations, we are reporting the stakeholder engagement and material issue principally for our 
+
+investment holdings in the report. Refer to Table 1: Our Approach on Stakeholder’s 
+
+Engagement. 
+
+ 
+
+Table 1: Our Approach on Stakeholder’s Engagement 
+
+ 
+
+Stakeholders 
+
+Mode of Engagement 
+
+Stakeholder’s Expectations 
+
+Employees 
+
+• Interviews and orientation 
+
+programs 
+
+• Staff appraisals 
+
+• Training and development 
+
+programs  
+
+• Staff rights 
+
+• Safety and wellness  
+
+• Environmental responsibility   
+
+Shareholders 
+
+• Annual general meeting 
+
+• Annual reports 
+
+• Conference and circulars to 
+
+shareholders 
+
+• Profitability transparency 
+
+• Timely reporting 
+
+Business partners  
+
+• Regular meetings and 
+
+discussions 
+
+• Partnership for 
+
+opportunities and growth 
+
+Government and 
+
+regulators  
+
+• Discussions with agents 
+
+and regulators 
+
+• Collaboration on 
+
+community investment 
+
+projects 
+
+ 
+
+• Environmental-friendly 
+
+business approach 
+
+• Compliance with regulations 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+7 
+
+ 
+
+Identifying Material Sustainability Topics 
+
+ 
+
+NGSC regularly engages our external and internal stakeholders to determine our material 
+
+focus areas. We understand their concerns and undertook a comprehensive materiality 
+
+assessment following best practice outlined by the international reporting standards, the 
+
+Global Reporting Initiative (GRI).  
+
+ 
+
+From the output subsequent to engaging our key stakeholders, we have prioritised four 
+
+sustainability topics which we believe are the key levers for sustainable business success on 
+
+which we will continue to focus in the future. For future sustainability reporting, we will re-
+
+evaluate and review our material ESG topics with our stakeholders to ensure their relevance 
+
+to us and in compliance with GRI.  
+
+ 
+
+For more details of the sustainability topics, refer to Table 2: List of sustainability topics 
+
+ 
+
+Table 2: List of sustainability topics 
+
+ 
+
+S/N 
+
+GRI 
+
+Standards 
+
+Topics 
+
+Description 
+
+Reference 
+
+Commitments 
+
+&amp; Targets 
+
+1 
+
+GRI 200: 
+
+Economic 
+
+Anti-
+
+corruption 
+
+Our practices to 
+
+comply with anti-
+
+corruption law and 
+
+regulations and to 
+
+demonstrate our 
+
+adherence to integrity, 
+
+governance, and 
+
+responsible business 
+
+practices 
+
+Sustainability 
+
+Report 2018 
+
+Page 8 
+
+Continue 
+
+adhering to 
+
+Company’s 
+
+zero tolerance 
+
+policy 
+
+towards 
+
+fraud, 
+
+corruption 
+
+and unethical 
+
+actions. 
+
+2 
+
+GRI 404: 
+
+Social 
+
+Training 
+
+and 
+
+Education 
+
+Our approach ensuring 
+
+all employees are 
+
+trained and enhanced 
+
+their skillsets. 
+
+Performance and 
+
+career development 
+
+reviews to assess their 
+
+employability  
+
+Sustainability 
+
+Report 2018 
+
+Page 9 
+
+Increase total 
+
+training hours 
+
+per employee 
+
+and total 
+
+training 
+
+investment of 
+
+$20,000. 
+
+3 
+
+GRI 418: 
+
+Social 
+
+Customer 
+
+Privacy 
+
+Our approach ensuring 
+
+security and 
+
+confidentiality of our 
+
+database and 
+
+customer information  
+
+Sustainability 
+
+Report 2018 
+
+Page 10 
+
+Uphold 
+
+highest 
+
+standards of 
+
+customer 
+
+data privacy 
+
+protection 
+
+and ensure 
+
+compliance to 
+
+Company’s 
+
+PDPA policy.  
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+8 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Materiality Sustainability Topics 
+
+Economic  
+
+ 
+
+Anti-corruption 
+
+ 
+
+ 
+
+Being a Responsible Business  
+
+ 
+
+NGSC does not tolerate any ethical and 
+
+legal violations including corruption and 
+
+we are committed to upholding high 
+
+standards of business conduct to safeguard 
+
+the interests of our stakeholders. We have 
+
+put in place an Employee Code of Conduct 
+
+and Ethics (Code) as well as Business 
+
+Partner and Vendor Relationships (HR and 
+
+Corporate Policies) that set out the 
+
+standards of behaviour and procedures for 
+
+employees when dealing with business 
+
+partners and other stakeholders. All 
+
+policies are accessible to all employees on 
+
+our shared drive and are periodically 
+
+updated 
+
+when 
+
+amendments 
+
+made. 
+
+Employees are also required to disclose 
+
+personal 
+
+relationships 
+
+and 
+
+business 
+
+activities with NGSC’s business partners 
+
+and 
+
+suppliers, 
+
+and 
+
+with 
+
+personnel 
+
+employed by them.  
+
+ 
+
+A 
+
+whistleblowing 
+
+policy 
+
+has 
+
+been 
+
+formalized and put in place with the aim to 
+
+encourage 
+
+responsible 
+
+and 
+
+secure 
+
+reporting of suspected unethical, illegal, 
+
+irregular of inappropriate conduct or 
+
+activities in good faith, by ensuring whistle-
+
+blowers will be treated fairly and accorded 
+
+with due protection against any reprisals. 
+
+We have a reporting channel including a 
+
+dedicated whistleblowing email and a 
+
+discreet channel to the Audit Committee 
+
+Chairman (via email).  
+
+ 
+
+Any instances of corruption and bribery are 
+
+strictly prohibited in the Company and 
+
+disciplinary actions (including dismissal) 
+
+will be taken.  
+
+
+
+
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+9 
+
+ 
+
+ 
+
+ 
+
+ 
+
+Materiality Sustainability Topics 
+
+Social 
+
+ 
+
+Training and Education  
+
+ 
+
+We have initiatives in place which allow our employees to have access to ongoing learning 
+
+opportunities to build functional and technical skills to succeed in their jobs. Management 
+
+engages staff to perform effectively and be responsible on their learning journey in NGSC.  
+
+ 
+
+We attract, develop and retain employees through a combination of on-the-job learning, 
+
+formal training, feedback and mentoring.  
+
+ 
+
+Employees of NGSC received regular performance and career development reviews in 2018 
+
+as part of our performance management system. Managers are equipped with relevant skills 
+
+to conduct effective performance and career development discussions with their teams.  
+
+ 
+
+In order to support our employees’ career development efforts, we target to invest $20,000 
+
+on training in 2019 and provide training expenditure per employee at $3,000. We will 
+
+continue to organise more training programs related to their functional expertise. 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+10 
+
+ 
+
+Materiality Sustainability Topics 
+
+Social 
+
+ 
+
+Customer Privacy 
+
+ 
+
+Keeping our clients’ data secure in our infrastructure as well as supporting our clients to keep 
+
+their own data secured is an important responsibility for us. We are an advocate of keeping 
+
+clients’ data private and we ensure all employees comply with Singapore Personal Data 
+
+Protection Act (“PDPA”) and apply our in-house Data Protection Policy in the course of their 
+
+daily work. This includes, and not limited to, business partners, suppliers and service providers.  
+
+ 
+
+We have implemented a mandatory online privacy training for our employees in Singapore 
+
+which was conducted annually. It involved the handling of personal data, with 
+
+recommendations addressing the risks.  
+
+ 
+
+Moving forward, we will introduce Data Protection Assessment and issue comprehensive 
+
+guidelines to help all employees comply with PDPA in Singapore. The guidelines cover the 
+
+various aspects of collecting, disclosing and disposing of personal data.  
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+ 
+
+
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+11 
+
+ 
+
+GRI Index 
+
+ 
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for 
+
+Omission, if applicable 
+
+General Disclosures 
+
+Organisational profile 
+
+102-1 Name of the organisation  
+
+1 
+
+102-2 Activities, brands, products, and services 
+
+3 
+
+102-3 Location of headquarters  
+
+3 
+
+102-4 Location of operations 
+
+3 
+
+102-5 Ownership and legal form  
+
+3 
+
+102-6 Markets served 
+
+3 
+
+102-7 Scale of the organisation 
+
+3 
+
+102-8 Information on employees and other workers  
+
+3 
+
+102-9 Supply chain  
+
+4 
+
+102-10 Significant changes to the organisation and its supply 
+
+chain 
+
+N/A 
+
+102-11 Precautionary principle or approach  
+
+3 
+
+102-12 External initiatives 
+
+ 
+
+5 
+
+102-13 Membership of associations 
+
+5 
+
+Strategy 
+
+102-14 Statement from senior decision maker 
+
+1 
+
+Ethics and integrity  
+
+102-16 Values, principles, standards, and norms of 
+
+behaviour 
+
+4 
+
+Governance 
+
+102-18 Governance structure 
+
+5 
+
+Stakeholder engagement 
+
+102-40 List of stakeholder groups 
+
+6 
+
+102-41 Collective bargaining agreements 
+
+N/A 
+
+102-42 Identifying and selecting stakeholders 
+
+6 
+
+102-43 Approach to stakeholder engagement 
+
+7 
+
+102-44 Key topics and concerns raised 
+
+7 
+
+Reporting practice 
+
+ 
+
+102-45 Entities included in the consolidated financial 
+
+statements 
+
+Annual Report 2018 
+
+102-46 Defining report content and topic boundaries 
+
+2 
+
+102-47 List of material topics 
+
+8 and 9  
+
+102-48 Restatements of information 
+
+Not applicable as it is our first SR 
+
+102-49 Changes in reporting 
+
+Not applicable as it is our first SR 
+
+102-50 Reporting period 
+
+2 
+
+102-51 Date of most recent report 
+
+Not applicable as it is our first SR 
+
+102-52 Reporting cycle 
+
+2 
+
+102-53 Contact point for questions regarding the report 
+
+2 
+
+102-54 Claims of reporting in accordance with the GRI 
+
+Standards 
+
+2 
+
+
+NGSC Limited  
+
+Sustainability Report 2018 
+
+12 
+
+ 
+
+GRI Standard/ Disclosure 
+
+Page Reference and Reasons for 
+
+Omission, if applicable 
+
+102-55 GRI content index 
+
+11 and 12 
+
+102-56 External assurance 
+
+2 
+
+Material Topics 
+
+GRI 205: Anti-corruption 
+
+ 
+
+103-1 Explanation of the material topics and its Boundary 
+
+8 
+
+103-2 The management approach and its components 
+
+8 
+
+103-3 Evaluation of the management approach 
+
+8 
+
+205-1 Operations assess for risks related to corruption  
+
+8 
+
+205-2 Communication and training about anti-corruption 
+
+policies and procedures  
+
+8 
+
+GRI 404: Training and Education 
+
+404-1 Average hours of training per year per employee 
+
+9 
+
+404-2 Programs for upgrading employee skills and transition 
+
+assistance programs 
+
+9 
+
+404-3 Percentage of employees receiving regular 
+
+performance career development reviews 
+
+9 
+
+GRI 418: Customer Privacy 
+
+418-1 Substantiated complaints concerning breaches of 
+
+customer privacy and loss of customer data 
+
+10 
+
+ 
+
