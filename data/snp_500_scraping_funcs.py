@@ -56,7 +56,7 @@ def get_CIK_from_tickers(driver, tickers: list) -> pd.DataFrame:
     return tickers_df
 
 
-def get_10_reports_func(driver, CIK: str, Ticker:str) -> pd.DataFrame:
+def get_10_reports_func(driver, CIK: str, Ticker: str) -> pd.DataFrame:
     reports = []
     dates = []
     driver.get(f'https://www.sec.gov/edgar/browse/?CIK={CIK}')
@@ -87,7 +87,7 @@ def get_10_reports_func(driver, CIK: str, Ticker:str) -> pd.DataFrame:
                 driver.get(f"https://www.sec.gov/{links[i].attrs['href']}")
                 time.sleep(1)
                 soup = BeautifulSoup(driver.page_source, 'html.parser')
-                with open(f"{directory}/{Ticker} {dates[i]}.txt", "w",encoding="utf-8") as text_file:
+                with open(f"{directory}/{Ticker} {dates[i]}.txt", "w", encoding="utf-8") as text_file:
                     text_file.write(soup.get_text())
             except:
                 print(f"Error accessing {Ticker} {dates[i]}! retrying...")
@@ -103,8 +103,8 @@ def get_10_reports(driver, df: pd.DataFrame) -> pd.DataFrame:
     print("Scraping 10-K/10-Q reports...")
     reports = pd.DataFrame()
     for i, j in tqdm(df.iterrows()):
-        print(f"\nScraping 10-Q/10-Q reports for {j['Tickers']}...")
-        reports_df = get_10_reports_func(driver, j['CIK Number'],j['Tickers'])
+        print(f"\nScraping 10-K/10-Q reports for {j['Tickers']}...")
+        reports_df = get_10_reports_func(driver, j['CIK Number'], j['Tickers'])
         reports_df['Ticker'] = j['Tickers']
         reports_df['CIK Number'] = j['CIK Number']
         reports = pd.concat([reports, reports_df])

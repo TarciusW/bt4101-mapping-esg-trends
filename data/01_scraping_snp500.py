@@ -13,6 +13,10 @@ driver = webdriver.Chrome('C:/Users/Tarci/Documents/nus/Y4/FYP/chromedriver.exe'
 tickers_full = get_snp_500_tickers(driver)
 tickers = tickers_full[1:]  # Change this line to determine how many stocks to scrape out of the snp 500
 tickers_left = list(filter(lambda x: x not in current_tickers, tickers))
+to_remove = ['SPGI','LRCX','TWTR','FRC','SBNY'] #add those that CIK cannot be found in edgar db
+for i in to_remove:
+    if i in tickers_left:
+        tickers_left.remove(i)  #drop tickers as cannot locake CIK number in database
 stocks_df = get_CIK_from_tickers(driver, tickers_left)
 stocks_df = get_10_reports(driver, stocks_df)
 print("Done..!")
