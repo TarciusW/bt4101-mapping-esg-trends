@@ -2,7 +2,7 @@ from selenium import webdriver
 from selenium.webdriver.chrome.options import Options
 from snp_500_scraping_funcs import *
 
-current_tickers = get_current_tickers()
+current_tickers = get_current_tickers() #read file input to see what companies have already been scraped for
 print("Collecting SNP 500 Data...")
 print("Launching webdriver....")
 chrome_options = Options()
@@ -19,4 +19,5 @@ for i in to_remove:
         tickers_left.remove(i)  #drop tickers as cannot locake CIK number in database
 stocks_df = get_CIK_from_tickers(driver, tickers_left)
 stocks_df = get_10_reports(driver, stocks_df)
+print(f"Data was scraped for {len(current_tickers)} companies")
 print("Done..!")
