@@ -104,9 +104,10 @@ def process_snp_files():
     # NLOK has rebranded as GEN from Nov 8 Onward, but since data is pulled from 27 Oct, we will be using the old name
     # NLOK : NortonLifeLock Inc.
 
-    raw = raw.append({'Symbol': 'NLOK', 'Name': 'NortonLifeLock Inc'},ignore_index=True)
+    raw = raw.append({'Symbol': 'NLOK', 'Name': 'NortonLifeLock Inc'}, ignore_index=True)
     print("")
     raw.to_csv('snp_mapping.csv')
+
 
 process_snp_files()
 # process_remaining_sgx_files()
