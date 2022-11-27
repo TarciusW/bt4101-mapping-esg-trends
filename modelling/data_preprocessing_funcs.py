@@ -70,3 +70,8 @@ def get_snp_files():
     # Convert Date to Quarter
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
     return df[['Ticker', 'Quarter', 'Text', 'Company Name', 'File Name', 'Date']]
+
+
+def get_esg_wordlist():
+    return pd.read_excel('../data/ESG Word List/BaierBerningerKiesel_ESG-Wordlist_2020_July22.xlsx',
+                         sheet_name='ESG-Wordlist')
