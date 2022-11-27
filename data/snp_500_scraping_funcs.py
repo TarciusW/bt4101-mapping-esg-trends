@@ -62,6 +62,7 @@ def get_10_reports_func(driver, CIK: str, Ticker: str) -> pd.DataFrame:
     driver.get(f'https://www.sec.gov/edgar/browse/?CIK={CIK}')
     time.sleep(1)
     # Scrape 10K / 10Q forms
+    # specific company for debugging
     # driver.get('https://www.sec.gov/edgar/browse/?CIK=1411579')
     driver.find_element_by_xpath('//*[@id="filingsStart"]/div[2]/div[3]/h5').click()
     driver.implicitly_wait(5)
