@@ -109,6 +109,6 @@ def process_snp_files():
     raw.to_csv('snp_mapping.csv')
 
 
-process_snp_files()
+#process_snp_files()
 # process_remaining_sgx_files()
 print("Done...!")
