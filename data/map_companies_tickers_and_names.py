@@ -77,6 +77,37 @@ def process_sgx_files():
     return
 
 
-process_sgx_files()
+def process_snp_files():
+    # raw file from https://www.barchart.com/stocks/indices/sp/sp500?viewName=main&page=all
+    raw = pd.read_csv('snp500_map_raw.csv')
+    df = pd.DataFrame()
+    for filename in os.listdir(snp_directory):
+        f = os.path.join(snp_directory, filename)
+        # checking if it is a file
+        if os.path.isfile(f):
+            if 'DS_Store' in f or 'gitignore' in f:
+                continue
+            # read each file and concat them into a dataframe
+            file = open(f, "r", encoding="utf8").read()
+            df = pd.concat([df, pd.DataFrame({'File Name': [filename]})])
+
+    # find out what companies we have
+    current_tickers = (df['File Name'].apply(lambda x: x.split(' ')[0]).unique())
+
+    # compare with companies that we have in the current mapping, find out any companies not inside
+    to_map = []
+    for i in current_tickers:
+        if i not in raw['Symbol'].tolist():
+            to_map.append(i)
+
+    # We find that only ticker `NLOK` is not in the map downloaded online
+    # NLOK has rebranded as GEN from Nov 8 Onward, but since data is pulled from 27 Oct, we will be using the old name
+    # NLOK : NortonLifeLock Inc.
+
+    raw = raw.append({'Symbol': 'NLOK', 'Name': 'NortonLifeLock Inc'},ignore_index=True)
+    print("")
+    raw.to_csv('snp_mapping.csv')
+
+process_snp_files()
 # process_remaining_sgx_files()
 print("Done...!")
