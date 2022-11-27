@@ -16,7 +16,7 @@ def process_sgx_files():
      takes in all files and finds tickers. writes new CSV containing mapping of name to ticker
     """
     try:
-        scraped = pd.read_csv('sgx_mapping.csv')
+        scraped = pd.read_csv('Company Mappings/sgx_mapping.csv')
         already_scraped = scraped['Company Name'].unique()
     except:
         already_scraped = []
@@ -73,13 +73,13 @@ def process_sgx_files():
 
     sg_df = pd.DataFrame({'Company Name': sgx_name, 'Ticker': sgx_ticker})
     sg_df = pd.concat([sg_df, scraped])
-    sg_df.to_csv('sgx_mapping.csv', index=False)
+    sg_df.to_csv('Company Mappings/sgx_mapping.csv', index=False)
     return
 
 
 def process_snp_files():
     # raw file from https://www.barchart.com/stocks/indices/sp/sp500?viewName=main&page=all
-    raw = pd.read_csv('snp500_map_raw.csv')
+    raw = pd.read_csv('Company Mappings/snp500_map_raw.csv')
     df = pd.DataFrame()
     for filename in os.listdir(snp_directory):
         f = os.path.join(snp_directory, filename)
@@ -106,9 +106,9 @@ def process_snp_files():
 
     raw = raw.append({'Symbol': 'NLOK', 'Name': 'NortonLifeLock Inc'}, ignore_index=True)
     print("")
-    raw.to_csv('snp_mapping.csv')
+    raw.to_csv('Company Mappings/snp_mapping.csv')
 
 
-#process_snp_files()
+# process_snp_files()
 # process_remaining_sgx_files()
 print("Done...!")

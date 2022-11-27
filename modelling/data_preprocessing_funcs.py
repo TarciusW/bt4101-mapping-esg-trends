@@ -1,8 +1,8 @@
 import pandas as pd
 import os
 
-sgx_directory = '..\data\SGX'
-snp_directory = '..\data\SNP500'
+sgx_directory = '../data/SGX'
+snp_directory = '../data/SNP500'
 
 
 def get_files(path):
@@ -35,7 +35,7 @@ def get_sgx_files():
         lambda x: x[1][0:7] if len(x) == 2 else x[2][0:7])
 
     # Add Ticker
-    company_names = pd.read_csv('..\data\sgx_mapping.csv')
+    company_names = pd.read_csv('../data/Company Mappings/sgx_mapping.csv')
     company_names_dict = {}
     for i, j in company_names.iterrows():
         company_names_dict[j['Company Name']] = j['Ticker']
@@ -61,7 +61,7 @@ def get_snp_files():
     df['Date'] = df['File Name'].apply(lambda x: x.split(' ')[1][:-4])
 
     # Map Company Name
-    company_names = pd.read_csv('..\data\snp_mapping.csv')
+    company_names = pd.read_csv('../data/Company Mappings/snp_mapping.csv')
     company_names_dict = {}
     for i, j in company_names.iterrows():
         company_names_dict[j['Symbol']] = j['Name']
