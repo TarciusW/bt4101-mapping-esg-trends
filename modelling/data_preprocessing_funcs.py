@@ -1,5 +1,7 @@
 import pandas as pd
 import os
+import string
+import regex
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
@@ -15,7 +17,19 @@ def get_files(path):
                 continue
             # read each file and concat them into a dataframe
             file = open(f, "r", encoding="utf8").read()
-            df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Text': [file]})])
+
+            # remove punctuations and newline characters
+            def remove_punctuation(text):
+                punctuationFree = "".join([i for i in text if i not in string.punctuation])
+                punctuationFree = regex.sub(r'\n', '', punctuationFree)
+                return punctuationFree
+
+            file = remove_punctuation(file)
+
+            #convert all to lowercase
+            file = file.lower()
+
+            df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Text': [file]}, dtype='string')])
     return df
 
 
