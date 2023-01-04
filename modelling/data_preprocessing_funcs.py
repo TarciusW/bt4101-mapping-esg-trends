@@ -2,6 +2,8 @@ import pandas as pd
 import os
 import string
 import regex
+import nltk
+from nltk.stem import WordNetLemmatizer
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
@@ -18,19 +20,58 @@ def get_files(path):
             # read each file and concat them into a dataframe
             file = open(f, "r", encoding="utf8").read()
 
-            # remove punctuations and newline characters
-            def remove_punctuation(text):
-                punctuationFree = "".join([i for i in text if i not in string.punctuation])
-                punctuationFree = regex.sub(r'\n', '', punctuationFree)
-                return punctuationFree
+            file = preprocess_text(file)
 
-            file = remove_punctuation(file)
-
-            #convert all to lowercase
-            file = file.lower()
-
-            df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Text': [file]}, dtype='string')])
+            df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Tokens': [file]})])
     return df
+
+
+def preprocess_text(text: str) -> str:
+    """ preprocessing pipeline for text files to have it ready for modelling. takes in the raw text file as input
+     and returns the list of tokens for modelling
+
+     Step 1: Remove punctuations from text
+     Step 2: Make all text lowercase using string.lower() inbuilt function
+     Step 3: remove all stopwords (words that have no meaning) from tokens
+     Step 4: lemmatize words to their base form
+     Step 5: Remove numbers from tokens"""
+
+    # remove punctuations and newline characters
+    def remove_punctuation(text):
+        punctuationFree = "".join([i for i in text if i not in string.punctuation])
+        punctuationFree = regex.sub(r'\n', '', punctuationFree)
+        return punctuationFree
+
+    def tokenization(text):
+        tokens = regex.split(r"\s+", text)
+        return tokens
+
+    def remove_stopwords(text):
+        output = [i for i in text if i not in nltk.corpus.stopwords.words('english')]
+        return output
+
+    def lemmatizer(text):
+        lemm_text = [WordNetLemmatizer().lemmatize(word) for word in text]
+        return lemm_text
+
+    def remove_numbers(text):
+        result = []
+        for i in text:
+            try:
+                int(i)
+            except:
+                result.append(i)
+            else:
+                continue
+        return result
+
+    text = remove_punctuation(text)
+    text = text.lower()
+    text = tokenization(text)
+    text = remove_stopwords(text)
+    text = lemmatizer(text)
+    text = remove_numbers(text)
+    return text
 
 
 def get_sgx_files():
