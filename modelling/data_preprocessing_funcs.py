@@ -12,6 +12,11 @@ snp_directory = '../data/SNP500'
 
 
 def get_files(path: str) -> pd.DataFrame:
+    """
+    Iterates through the specified directory and processes the text files in that directory.
+    Runs the text files through a text preprocessing pipeline before saving to a dataframe.
+    Returns a dataframe with file name + file text (saved as a list of words)
+    """
     df = pd.DataFrame()
     for filename in tqdm(os.listdir(path)):
         f = os.path.join(path, filename)
@@ -36,7 +41,7 @@ def preprocess_text(text: str) -> str:
      Step 2: Make all text lowercase using string.lower() inbuilt function
      Step 3: remove all stopwords (words that have no meaning) from tokens
      Step 4: lemmatize words to their base form
-     Step 5: Remove numbers from tokens
+     Step 5: Remove numbers from tokens (including digits within words)
      Step 6: Remove empty tokens
      """
 
@@ -84,6 +89,9 @@ def preprocess_text(text: str) -> str:
 
 
 def preprocess_sgx_files() -> pd.DataFrame:
+    """
+    Wrapper function to process SGX files. uses get_files() and returns a dataframe of the relevant SGX information
+    """
     print("Extracting & Preprocessing SGX Sustainability Reports...")
     df = get_files(sgx_directory)
     # file name cleaning, removing (1), (2) (3) from end of name
@@ -106,6 +114,9 @@ def preprocess_sgx_files() -> pd.DataFrame:
         company_names_dict[j['Company Name']] = j['Ticker']
 
     def map_ticker(name):
+        """
+        function to map tickers within the SGX sustainability reports context
+        """
         try:
             return company_names_dict[name].split('SGX:')[1][:-1]
         except KeyError:
@@ -116,10 +127,13 @@ def preprocess_sgx_files() -> pd.DataFrame:
     # Convert Date to Quarter
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
     print("Done...!")
-    return df[['Ticker', 'Quarter', 'Token', 'Company Name', 'File Name', 'Date']]
+    return df[['Ticker', 'Quarter', 'Tokens', 'Company Name', 'File Name', 'Date']]
 
 
 def preprocess_snp_files() -> pd.DataFrame:
+    """
+    Wrapper function to process SGX files. uses get_files() and returns a dataframe of the relevant SGX information
+    """
     print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
     df = get_files(snp_directory)
 
@@ -137,9 +151,12 @@ def preprocess_snp_files() -> pd.DataFrame:
     # Convert Date to Quarter
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
     print("Done...!")
-    return df[['Ticker', 'Quarter', 'Token', 'Company Name', 'File Name', 'Date']]
+    return df[['Ticker', 'Quarter', 'Tokens', 'Company Name', 'File Name', 'Date']]
 
 
 def get_esg_wordlist() -> pd.DataFrame:
+    """
+    loads the ESG word list to be used in this project.
+    """
     return pd.read_excel('../data/ESG Word List/BaierBerningerKiesel_ESG-Wordlist_2020_July22.xlsx',
                          sheet_name='ESG-Wordlist')
