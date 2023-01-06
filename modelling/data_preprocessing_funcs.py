@@ -3,15 +3,18 @@ import os
 import string
 import regex
 import nltk
+from tqdm import tqdm
 from nltk.stem import WordNetLemmatizer
+from string import digits
+import pickle
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
 
 
-def get_files(path):
+def get_files(path: str) -> pd.DataFrame:
     df = pd.DataFrame()
-    for filename in os.listdir(path):
+    for filename in tqdm(os.listdir(path)):
         f = os.path.join(path, filename)
         # checking if it is a file
         if os.path.isfile(f):
@@ -34,7 +37,9 @@ def preprocess_text(text: str) -> str:
      Step 2: Make all text lowercase using string.lower() inbuilt function
      Step 3: remove all stopwords (words that have no meaning) from tokens
      Step 4: lemmatize words to their base form
-     Step 5: Remove numbers from tokens"""
+     Step 5: Remove numbers from tokens
+     Step 6: Remove empty tokens
+     """
 
     # remove punctuations and newline characters
     def remove_punctuation(text):
@@ -55,6 +60,7 @@ def preprocess_text(text: str) -> str:
         return lemm_text
 
     def remove_numbers(text):
+        """Removes digit elements and digits in strings"""
         result = []
         for i in text:
             try:
@@ -63,7 +69,10 @@ def preprocess_text(text: str) -> str:
                 result.append(i)
             else:
                 continue
-        return result
+        return list(map(lambda x: x.translate(str.maketrans('', '', digits)), result))
+
+    def remove_empty_elements(text):
+        return list(filter(lambda x: x != '', text))
 
     text = remove_punctuation(text)
     text = text.lower()
@@ -71,10 +80,12 @@ def preprocess_text(text: str) -> str:
     text = remove_stopwords(text)
     text = lemmatizer(text)
     text = remove_numbers(text)
+    text = remove_empty_elements(text)
     return text
 
 
-def get_sgx_files():
+def preprocess_sgx_files() -> pd.DataFrame:
+    print("Extracting & Preprocessing SGX Sustainability Reports...")
     df = get_files(sgx_directory)
     # file name cleaning, removing (1), (2) (3) from end of name
     df['File Name'] = df['File Name'].str.replace(" (1)", '', regex=False) \
@@ -105,10 +116,12 @@ def get_sgx_files():
 
     # Convert Date to Quarter
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
-    return df[['Ticker', 'Quarter', 'Text', 'Company Name', 'File Name', 'Date']]
+    print("Done...!")
+    return df[['Ticker', 'Quarter', 'Token', 'Company Name', 'File Name', 'Date']]
 
 
-def get_snp_files():
+def preprocess_snp_files() -> pd.DataFrame:
+    print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
     df = get_files(snp_directory)
 
     # Extract Ticker & Date
@@ -124,9 +137,10 @@ def get_snp_files():
 
     # Convert Date to Quarter
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
-    return df[['Ticker', 'Quarter', 'Text', 'Company Name', 'File Name', 'Date']]
+    print("Done...!")
+    return df[['Ticker', 'Quarter', 'Token', 'Company Name', 'File Name', 'Date']]
 
 
-def get_esg_wordlist():
+def get_esg_wordlist() -> pd.DataFrame:
     return pd.read_excel('../data/ESG Word List/BaierBerningerKiesel_ESG-Wordlist_2020_July22.xlsx',
                          sheet_name='ESG-Wordlist')
