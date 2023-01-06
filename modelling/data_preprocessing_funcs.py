@@ -6,7 +6,6 @@ import nltk
 from tqdm import tqdm
 from nltk.stem import WordNetLemmatizer
 from string import digits
-import pickle
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
