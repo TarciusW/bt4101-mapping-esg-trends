@@ -37,7 +37,7 @@ def preprocess_text(text: str) -> str:
     """ preprocessing pipeline for text files to have it ready for modelling. takes in the raw text file as input
      and returns the list of tokens for modelling
 
-     Step 1: Remove punctuations from text
+     Step 1: Remove punctuations from text, replace with whitespace
      Step 2: Make all text lowercase using string.lower() inbuilt function
      Step 3: remove all stopwords (words that have no meaning) from tokens
      Step 4: lemmatize words to their base form
@@ -48,7 +48,7 @@ def preprocess_text(text: str) -> str:
     # remove punctuations and newline characters
     def remove_punctuation(text):
         punctuationFree = "".join([i for i in text if i not in string.punctuation])
-        punctuationFree = regex.sub(r'\n', '', punctuationFree)
+        punctuationFree = regex.sub(r'\n', ' ', punctuationFree)
         return punctuationFree
 
     def tokenization(text):
@@ -152,11 +152,3 @@ def preprocess_snp_files() -> pd.DataFrame:
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
     print("Done...!")
     return df[['Ticker', 'Quarter', 'Tokens', 'Company Name', 'File Name', 'Date']]
-
-
-def get_esg_wordlist() -> pd.DataFrame:
-    """
-    loads the ESG word list to be used in this project.
-    """
-    return pd.read_excel('../data/ESG Word List/BaierBerningerKiesel_ESG-Wordlist_2020_July22.xlsx',
-                         sheet_name='ESG-Wordlist')
