@@ -1,5 +1,6 @@
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
+from collections import Counter
 
 
 def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
@@ -7,7 +8,7 @@ def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
     Takes in a df with the tokens and text files and runs the BOW model
     """
     df.reset_index(inplace=True)
-    df.drop(columns='index',inplace=True)
+    df.drop(columns='index', inplace=True)
     vectorizer = CountVectorizer()
     results_df = vectorizer.fit_transform(df['Tokens'].apply(lambda x: ' '.join(x)))
     test_df = pd.DataFrame(results_df.toarray(), columns=vectorizer.get_feature_names_out())
@@ -19,7 +20,7 @@ def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
         esg_dict = get_esg_wordlist()
         esg_dict = esg_dict[['Word', 'Topic']].merge(row, how='left', on='Word').fillna(0)
         # Topic Score
-        topic_score = esg_dict.groupby('Topic').sum(numeric_only = True)
+        topic_score = esg_dict.groupby('Topic').sum(numeric_only=True)
         result = pd.concat([result, topic_score.transpose()])
         # Category Score (to-do)
         # category_score = esg_dict[['Topic', 'Category',0]].groupby(['Topic', 'Category']).sum()
@@ -38,3 +39,13 @@ def get_esg_wordlist() -> pd.DataFrame:
     """
     return pd.read_excel('../data/ESG Word List/BaierBerningerKiesel_ESG-Wordlist_2020_July22.xlsx',
                          sheet_name='ESG-Wordlist')
+
+
+def extract_substantial_companies(df: pd.DataFrame, n_periods: int) -> pd.DataFrame:
+    """takes in a dataframe of the sgx sustainability reports and only keeps companies with at least n data points to
+    look for trends"""
+    company_names = df['Company Name'].tolist()
+    company_names = Counter(company_names)
+    substantial_names = list({x: count for x, count in company_names.items() if count >= n_periods}.keys())
+    substantial_companies_df = df[df['Company Name'].isin(substantial_names)]
+    return substantial_companies_df
