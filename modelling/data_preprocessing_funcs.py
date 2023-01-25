@@ -18,6 +18,8 @@ def get_files(path: str) -> pd.DataFrame:
     Returns a dataframe with file name + file text (saved as a list of words)
     """
     df = pd.DataFrame()
+    cachedStopWords = nltk.corpus.stopwords.words('english')
+
     for filename in tqdm(os.listdir(path)):
         f = os.path.join(path, filename)
         # checking if it is a file
@@ -27,13 +29,13 @@ def get_files(path: str) -> pd.DataFrame:
             # read each file and concat them into a dataframe
             file = open(f, "r", encoding="utf8").read()
 
-            file = preprocess_text(file)
+            file = preprocess_text(file,cachedStopWords)
 
             df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Tokens': [file]})])
     return df
 
 
-def preprocess_text(text: str) -> str:
+def preprocess_text(text: str, cachedStopWords:list) -> str:
     """ preprocessing pipeline for text files to have it ready for modelling. takes in the raw text file as input
      and returns the list of tokens for modelling
 
@@ -47,7 +49,8 @@ def preprocess_text(text: str) -> str:
 
     # remove punctuations and newline characters
     def remove_punctuation(text):
-        punctuationFree = "".join([i for i in text if i not in string.punctuation])
+        # punctuationFree = "".join([i for i in text if i not in string.punctuation])
+        punctuationFree = text.translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
         punctuationFree = regex.sub(r'\n', ' ', punctuationFree)
         return punctuationFree
 
@@ -55,8 +58,8 @@ def preprocess_text(text: str) -> str:
         tokens = regex.split(r"\s+", text)
         return tokens
 
-    def remove_stopwords(text):
-        output = [i for i in text if i not in nltk.corpus.stopwords.words('english')]
+    def remove_stopwords(text, stopwords):
+        output = [i for i in text if i not in stopwords]
         return output
 
     def lemmatizer(text):
@@ -81,7 +84,7 @@ def preprocess_text(text: str) -> str:
     text = remove_punctuation(text)
     text = text.lower()
     text = tokenization(text)
-    text = remove_stopwords(text)
+    text = remove_stopwords(text, cachedStopWords)
     text = lemmatizer(text)
     text = remove_numbers(text)
     text = remove_empty_elements(text)
