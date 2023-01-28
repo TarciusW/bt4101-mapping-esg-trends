@@ -7,8 +7,8 @@ from modelling_funcs import *
 #sgx = preprocess_sgx_files()
 # sgx.to_pickle('sgx.pkl')
 
-snp = preprocess_snp_files()
-snp.to_pickle('snp.pkl')
+#snp = preprocess_snp_files()
+#snp.to_pickle('snp.pkl')
 
 
 """
