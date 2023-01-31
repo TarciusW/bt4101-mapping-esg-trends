@@ -24,6 +24,7 @@ snp_quant = model_tokens_BOW(snp)
 snp_quant.to_pickle('snp_quant.pkl')
 
 
+
 # Export Results of Trends
 sgx_quant = pd.read_pickle('sgx_quant.pkl')
 sgx_quant_processed = extract_substantial_companies(sgx_quant, 5)
