@@ -1,6 +1,7 @@
 import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from collections import Counter
+from tqdm import tqdm
 
 
 def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
@@ -12,19 +13,18 @@ def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
     vectorizer = CountVectorizer()
     results_df = vectorizer.fit_transform(df['Tokens'].apply(lambda x: ' '.join(x)))
     test_df = pd.DataFrame(results_df.toarray(), columns=vectorizer.get_feature_names_out())
-
+    esg_dict = get_esg_wordlist()
     result = pd.DataFrame()
-    for index, row in test_df.iterrows():
+    for index, row in tqdm(test_df.iterrows(), total=test_df.shape[0]):
         row = row.reset_index()
         row.rename(columns={'index': 'Word'}, inplace=True)
-        esg_dict = get_esg_wordlist()
-        esg_dict = esg_dict[['Word', 'Topic']].merge(row, how='left', on='Word').fillna(0)
+        #esg_dict = get_esg_wordlist()
+        esg_dict_row = esg_dict[['Word', 'Topic']].merge(row, how='left', on='Word').fillna(0)
         # Topic Score
-        topic_score = esg_dict.groupby('Topic').sum(numeric_only=True)
+        topic_score = esg_dict_row.groupby('Topic').sum(numeric_only=True)
         result = pd.concat([result, topic_score.transpose()])
         # Category Score (to-do)
         # category_score = esg_dict[['Topic', 'Category',0]].groupby(['Topic', 'Category']).sum()
-        print("")
     df = df.join(result)
     df['Total'] = df['Tokens'].apply(lambda x: len(x))
     df['E %'] = df['Environmental'] * 100 / df['Total']
