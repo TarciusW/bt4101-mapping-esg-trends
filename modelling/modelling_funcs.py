@@ -2,6 +2,7 @@ import pandas as pd
 from sklearn.feature_extraction.text import CountVectorizer
 from collections import Counter
 from tqdm import tqdm
+import pymannkendall as mk
 
 
 def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
@@ -18,7 +19,6 @@ def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
     for index, row in tqdm(test_df.iterrows(), total=test_df.shape[0]):
         row = row.reset_index()
         row.rename(columns={'index': 'Word'}, inplace=True)
-        #esg_dict = get_esg_wordlist()
         esg_dict_row = esg_dict[['Word', 'Topic']].merge(row, how='left', on='Word').fillna(0)
         # Topic Score
         topic_score = esg_dict_row.groupby('Topic').sum(numeric_only=True)
@@ -49,3 +49,36 @@ def extract_substantial_companies(df: pd.DataFrame, n_periods: int) -> pd.DataFr
     substantial_names = list({x: count for x, count in company_names.items() if count >= n_periods}.keys())
     substantial_companies_df = df[df['Company Name'].isin(substantial_names)]
     return substantial_companies_df
+
+
+def split_esg_df(df: pd.DataFrame) -> tuple[pd.DataFrame, pd.DataFrame, pd.DataFrame]:
+    """ takes in a whole market dataframe and returns 3 dataframes split by E, S and G scores
+    to be put into mann-kendall test"""
+    e_df = df[['Ticker', 'Quarter', 'Company Name', 'E %']].copy()
+    s_df = df[['Ticker', 'Quarter', 'Company Name', 'S %']].copy()
+    g_df = df[['Ticker', 'Quarter', 'Company Name', 'G %']].copy()
+    return e_df, s_df, g_df
+
+
+def mann_kendall_test(df: pd.DataFrame, type: str) -> pd.DataFrame:
+    """takes in the specific E, S or G DF and runs the mann-kendall test on the dataframe"""
+    df_list = df.groupby(['Company Name', 'Quarter']).sum()[f"{type} %"].groupby('Company Name').apply(
+        list).reset_index()
+    df_list['Result'] = df_list[f"{type} %"].apply(lambda x: mk.original_test(x, alpha=0.1).h)
+    return df_list
+
+
+def extract_companies_with_trend(df: pd.DataFrame) -> pd.DataFrame:
+    """
+    input: Whole market data with specific E / S / G scores (choose 1)
+    uses pymankendall to test for the presence of a trend for scores over time for E, S & G scores, only keeps companies
+    with significant trend
+    """
+    # extract companies with at least 4 data points, as required by mann-kendall test
+    df = extract_substantial_companies(df, 5)
+    df.sort_values(by=['Company Name', 'Quarter'], inplace=True)
+    e_df, s_df, g_df = split_esg_df(df)
+    e_df = mann_kendall_test(e_df, "E")
+    s_df = mann_kendall_test(s_df, "S")
+    g_df = mann_kendall_test(g_df, "G")
+    return df
