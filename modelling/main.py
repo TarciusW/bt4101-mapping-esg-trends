@@ -10,7 +10,6 @@ from modelling_funcs import *
 # snp = preprocess_snp_files()
 # snp.to_pickle('snp.pkl')
 
-
 """
 #Modelling quantitative Trends
 sgx = pd.read_pickle('sgx.pkl')
@@ -25,15 +24,25 @@ snp_quant.to_pickle('snp_quant.pkl')
 """
 
 """
+sgx_quant = pd.read_pickle('sgx_quant.pkl')
+sgx_quant_processed = extract_companies_with_trend(sgx_quant)
+#
+"""
+
 # Export Results of Trends
+"""
 sgx_quant = pd.read_pickle('sgx_quant.pkl')
 sgx_quant_processed = extract_substantial_companies(sgx_quant, 5)
 # ARA Trust Management has 5 files, 1 of it has (Cache) in the file name so doesnt count. manually remove.
 sgx_quant_processed = sgx_quant_processed[sgx_quant_processed['Company Name'] != 'ARA TRUST MANAGEMENT']
+sgx_quant_processed.to_excel('sgx_quant_results.xlsx')
 """
+
 
 # Export Results of Trends
 snp_quant = pd.read_pickle('snp_quant.pkl')
-snp_quant_processed = extract_substantial_companies(snp_quant, 5)
-snp_quant_processed.to_excel('snp_quant_results.xlsx')
+snp_quant_results = extract_substantial_companies(snp_quant, 5)
+snp_quant_results.to_excel('snp_quant_results.xlsx')
+snp_quant_processed = extract_companies_with_trend(snp_quant)
+
 print("")
