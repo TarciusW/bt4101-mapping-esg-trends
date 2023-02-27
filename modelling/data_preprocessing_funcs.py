@@ -49,7 +49,7 @@ def preprocess_text(text: str, cachedStopWords:list) -> str:
 
     # remove punctuations and newline characters
     def remove_punctuation(text):
-        # punctuationFree = "".join([i for i in text if i not in string.punctuation])
+        # punctuationFree = " ".join([i for i in text if i not in string.punctuation])
         punctuationFree = text.translate(str.maketrans(string.punctuation, ' ' * len(string.punctuation)))
         punctuationFree = regex.sub(r'\n', ' ', punctuationFree)
         return punctuationFree
