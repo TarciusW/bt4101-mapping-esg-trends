@@ -6,9 +6,16 @@ from datetime import datetime
 
 
 def join_sentences(list):
+    # Create an empty list to store the combined strings
     combined_strings = []
+
+    # Loop through the input list, starting at the 10th index and ending 10 indexes before the end
     for i in range(10, len(list) - 10, 10):
+        # Combine the previous 10 and next 10 elements of the input list, separated by a space
+        # and append the result to the combined_strings list
         combined_strings.append(" ".join(list[i - 10:i + 10]))
+
+    # Return the list of combined strings
     return combined_strings
 
 
@@ -124,7 +131,7 @@ def ESGBERT_clf(text_list: list) -> pd.DataFrame:
         result = model.config.id2label[logits.argmax().item()]
         result_loss = logits.max().item()
         result_mapped = esg_labels_map[result]
-        #if (result_mapped == 'G' and float(result_loss) < 3) or (result_mapped == 'S' and float(result_loss) < 1):
+        # if (result_mapped == 'G' and float(result_loss) < 3) or (result_mapped == 'S' and float(result_loss) < 1):
         result_mapped = "NIL"
 
         return [result, result_loss, result_mapped]
