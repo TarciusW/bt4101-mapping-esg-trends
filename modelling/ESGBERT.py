@@ -28,12 +28,6 @@ def tag_report_type(df):
         # report_stats = ticker_df['Total'].describe()
         ticker_df['Report Type'] = ticker_df['Total'].apply(
             lambda x: 'Annual' if x > ticker_df['Total'].describe()['75%'] else 'Quarterly')
-        """
-        if 1 in ticker_df['total'].apply(lambda x: x.month).tolist():
-            ticker_df['Report Type'] = ticker_df['Quarter'].apply(lambda x: 'Annual' if 'Q1' in str(x) else 'Quarterly')
-        else:
-            ticker_df['Report Type'] = ticker_df['Quarter'].apply(lambda x: 'Annual' if 'Q4' in str(x) else 'Quarterly')
-        """
         final_df = pd.concat([final_df, ticker_df])
     return final_df
 
