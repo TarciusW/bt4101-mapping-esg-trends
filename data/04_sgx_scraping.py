@@ -82,15 +82,33 @@ def get_STI_reports(driver, companies) -> pd.DataFrame:
     print("Scraping STI reports...")
     for company in companies:
         driver.get(f'https://www.sgx.com/securities/annual-reports-related-documents')
+        driver.implicitly_wait(5)
         search_box = driver.find_element_by_xpath(
             '//*[@id="page-container"]/template-base/div/div/sgx-widgets-wrapper/widget-filter-listing/widget-filter-listing-financial-reports/section/div[1]/sgx-filter-bar/sgx-input-select/label/span[2]/input')
         search_box.send_keys(f"{company}")
         driver.implicitly_wait(5)
+        options = driver.find_elements_by_class_name("sgx-select-picker-label")
+        driver.implicitly_wait(5)
+        # click the correct option
+        options[list(map(lambda x: x.text, options)).index(company)].click()
         soup = BeautifulSoup(driver.page_source, 'html.parser')
-        search_options = soup.find_all("sgx-select-picker-option")
-        search_options_labels = list(map(lambda x: x.get_text().strip(), search_options))
-        search_options[search_options_labels.index(company)]
+        rows = soup.find_all("sgx-table-row")
+        # extract dates and check if dates are not none, and check that the rows are Annual Report Rows
+        annual_report_rows = list(filter(lambda item: item != None, list(
+            map(lambda x: x if x.contents[3].text == 'Annual Report' else None, rows))))
+        company_name = annual_report_rows[0].contents[0].text
+        security_name = annual_report_rows[0].contents[1].text
+        dates = list(map(lambda x: x.contents[2].text, annual_report_rows))
+        links = list(map(lambda x: x.contents[3].contents[0]['href'], annual_report_rows))
+        for i in links:
+            driver.get(f'https://www.sgx.com/securities/annual-reports-related-documents')
 
+        """
+
+        soup = BeautifulSoup(driver.page_source, 'html.parser')
+        
+        table = soup.find_all("sgx-table-list")
+        """
 
         print("")
 
