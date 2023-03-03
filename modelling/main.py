@@ -14,6 +14,9 @@ import numpy as np
 # snp = preprocess_snp_files()
 # snp.to_pickle('snp.pkl')
 
+#sgx_ann = preprocess_sgx_annual_files()
+#sgx_ann.to_pickle('sgx_ann.pkl')
+
 """
 # Modelling quantitative Trends
 sgx = pd.read_pickle('sgx.pkl')
@@ -42,16 +45,18 @@ sgx_quant_bert.to_pickle('sgx_quant_bert_700.pkl')
 """ END ESGBERT """
 
 """ SNP TOKEN REDUCING """
-
+"""
 snp_quant = pd.read_pickle('snp_quant.pkl')
-snp_quant = snp_quant[:700]
+snp_quant = snp_quant[1900:2500]
+snp_quant = tag_report_type(snp_quant)
 snp_quant = reduce_snp_tokens(snp_quant)
 snp_quant['Sentences'] = snp_quant['Tokens_ESGB'].apply(lambda x: join_sentences(x))
 tqdm.pandas(total=len(snp_quant))
 snp_bert = snp_quant['Sentences'].progress_apply(lambda x: ESGBERT_clf(x))
 snp_bert = pd.concat(snp_bert.tolist()).reset_index().drop(columns=['index'])
 snp_quant_bert = snp_quant.join(snp_bert)
-snp_quant_bert.to_pickle('snp_quant_bert_0_700.pkl')
+snp_quant_bert.to_pickle('snp_quant_bert_1900_2500.pkl')
+"""
 
 """
 # Export Results of Trends
