@@ -60,29 +60,8 @@ def reduce_snp_tokens(df):
                 text = text[start_index[1]:]
                 df.loc[:, 'Tokens_ESGB'].loc[index] = text
             except:
-                print(index)
-            """
-            text = df.loc[index, 'Tokens']
-            if row['Report Type'] == 'Annual':
-                # Annual Reports, need to take item 1 to 7
-                # first, find all "business" for start index
-                item_1_business_indexes = [i for i, j in enumerate(text) if 'business' in j]
-                # next, check if token before is '1' and token after is 'overview'
-                start_index = [i for i in item_1_business_indexes if 'item' in text[i - 1] or 'item' in text[i]]
-                item_7A_qualitative_indexes = [i for i, j in enumerate(text) if 'qualitative' in j]
-                end_index = [i for i in item_7A_qualitative_indexes if
-                             'disclosure' in text[i + 1] or 'disclosure' in text[i]]
-                text = text[start_index[0]:end_index[-1]]
-                df.loc[:, 'Tokens_ESGB'].loc[index] = text
-            else:
-                # quarterly reports, need to take item 2 until item 6
-                item_2_mdna = [i for i, j in enumerate(text) if 'discussion' in j]
-                start_index = [i for i in item_2_mdna if 'analysis' in text[i + 1]]
-                # item_6_exhibit = [i for i, j in enumerate(text) if 'exhibit' in j]
-                # end_index = [i for i in item_6_exhibit if 'item' in text[i - 1]]
-                text = text[start_index[1]:]
-                df.loc[:, 'Tokens_ESGB'].loc[index] = text
-            """
+                print(f"Dropping row {index} because failed to reduce tokens...")
+                df.drop(index, inplace=True)
     return df
 
 
