@@ -6,9 +6,11 @@ import nltk
 from tqdm import tqdm
 from nltk.stem import WordNetLemmatizer
 from string import digits
+from PyPDF2 import PdfReader
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
+sgx_annual_directory = '../data/SGX_Annual'
 
 
 def get_files(path: str) -> pd.DataFrame:
@@ -29,13 +31,31 @@ def get_files(path: str) -> pd.DataFrame:
             # read each file and concat them into a dataframe
             file = open(f, "r", encoding="utf8").read()
 
-            file = preprocess_text(file,cachedStopWords)
+            file = preprocess_text(file, cachedStopWords)
 
             df = pd.concat([df, pd.DataFrame({'File Name': [filename], 'Tokens': [file]})])
     return df
 
 
-def preprocess_text(text: str, cachedStopWords:list) -> str:
+def get_sgx_ann_files(path: str) -> pd.DataFrame:
+    df = pd.DataFrame()
+    cachedStopWords = nltk.corpus.stopwords.words('english')
+    for filename in tqdm(os.listdir(path)):
+        f = os.path.join(path, filename)
+        # checking if it is a file
+        if os.path.isfile(f):
+            reader = PdfReader(f)
+            pages = reader.pages
+            pdf_string = " ".join([i.extract_text() for i in pages])
+            pdf_string = preprocess_text(pdf_string, cachedStopWords)
+            year = filename[-8:-4]
+            company_name = filename[:-9]
+            df = pd.concat([df, pd.DataFrame(
+                {"Company": company_name, "Year": year, "Tokens": [pdf_string], "Filename": filename})])
+    return df
+
+
+def preprocess_text(text: str, cachedStopWords: list) -> str:
     """ preprocessing pipeline for text files to have it ready for modelling. takes in the raw text file as input
      and returns the list of tokens for modelling
 
@@ -135,7 +155,7 @@ def preprocess_sgx_files() -> pd.DataFrame:
 
 def preprocess_snp_files() -> pd.DataFrame:
     """
-    Wrapper function to process SGX files. uses get_files() and returns a dataframe of the relevant SGX information
+    Wrapper function to process SNP files. uses get_files() and returns a dataframe of the relevant SGX information
     """
     print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
     df = get_files(snp_directory)
@@ -155,3 +175,28 @@ def preprocess_snp_files() -> pd.DataFrame:
     df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
     print("Done...!")
     return df[['Ticker', 'Quarter', 'Tokens', 'Company Name', 'File Name', 'Date']]
+
+
+def preprocess_sgx_annual_files() -> pd.DataFrame:
+    """
+        Wrapper function to process SGX files. uses get_files() and returns a dataframe of the relevant SGX information
+        """
+    print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
+    df = get_sgx_ann_files(sgx_annual_directory)
+    """
+    # Extract Ticker & Date
+    df['Ticker'] = df['File Name'].apply(lambda x: x.split(' ')[0])
+    df['Date'] = df['File Name'].apply(lambda x: x.split(' ')[1][:-4])
+
+    # Map Company Name
+    company_names = pd.read_csv('../data/Company Mappings/snp_mapping.csv')
+    company_names_dict = {}
+    for i, j in company_names.iterrows():
+        company_names_dict[j['Symbol']] = j['Name']
+    df['Company Name'] = df['Ticker'].apply(lambda x: company_names_dict[x])
+
+    # Convert Date to Quarter
+    df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
+    print("Done...!")
+    """
+    return df
