@@ -49,7 +49,7 @@ def reduce_snp_tokens(df):
             if start_index[0] > 5000 or end_index[-1] < 5000:
                 raise Exception
             text = text[start_index[0]:end_index[-1]]
-            df.loc[:, 'Tokens_ESGB'].loc[index] = text
+            df.loc[index, 'Tokens_ESGB'] = text
         except:
             try:
                 # quarterly reports, need to take item 2 until item 6
@@ -58,7 +58,7 @@ def reduce_snp_tokens(df):
                 # item_6_exhibit = [i for i, j in enumerate(text) if 'exhibit' in j]
                 # end_index = [i for i in item_6_exhibit if 'item' in text[i - 1]]
                 text = text[start_index[1]:]
-                df.loc[:, 'Tokens_ESGB'].loc[index] = text
+                df.loc[index, 'Tokens_ESGB'] = text
             except:
                 print(f"Dropping row {index} because failed to reduce tokens...")
                 df.drop(index, inplace=True)
