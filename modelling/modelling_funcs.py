@@ -65,6 +65,7 @@ def mann_kendall_test(df: pd.DataFrame, type: str) -> pd.DataFrame:
     df_list = df.groupby(['Company Name', 'Quarter']).sum()[f"{type} %"].groupby('Company Name').apply(
         list).reset_index()
     df_list['Result'] = df_list[f"{type} %"].apply(lambda x: mk.original_test(x, alpha=0.1).h)
+    df_list['Strength'] = df_list[f"{type} %"].apply(lambda x: mk.original_test(x, alpha=0.1).s)
     return df_list
 
 
@@ -79,6 +80,12 @@ def extract_companies_with_trend(df: pd.DataFrame) -> pd.DataFrame:
     df.sort_values(by=['Company Name', 'Quarter'], inplace=True)
     e_df, s_df, g_df = split_esg_df(df)
     e_df = mann_kendall_test(e_df, "E")
+    e_df.rename(columns={"Result": "E_Trend", "Strength": "E_Strength"}, inplace=True)
     s_df = mann_kendall_test(s_df, "S")
+    s_df.rename(columns={"Result": "S_Trend", "Strength": "S_Strength"}, inplace=True)
     g_df = mann_kendall_test(g_df, "G")
+    g_df.rename(columns={"Result": "G_Trend", "Strength": "G_Strength"}, inplace=True)
+    df = df.merge(e_df[['Company Name', 'E_Trend', 'E_Strength']], on='Company Name', how='inner')
+    df = df.merge(s_df[['Company Name', 'S_Trend', 'S_Strength']], on='Company Name', how='inner')
+    df = df.merge(g_df[['Company Name', 'G_Trend', 'G_Strength']], on='Company Name', how='inner')
     return df

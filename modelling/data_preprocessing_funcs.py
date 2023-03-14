@@ -6,7 +6,8 @@ import nltk
 from tqdm import tqdm
 from nltk.stem import WordNetLemmatizer
 from string import digits
-from PyPDF2 import PdfReader
+import fitz
+from bs4 import BeautifulSoup
 
 sgx_directory = '../data/SGX'
 snp_directory = '../data/SNP500'
@@ -44,10 +45,13 @@ def get_sgx_ann_files(path: str) -> pd.DataFrame:
         f = os.path.join(path, filename)
         # checking if it is a file
         if os.path.isfile(f):
-            reader = PdfReader(f)
-            pages = reader.pages
-            pdf_string = " ".join([i.extract_text() for i in pages])
-            pdf_string = preprocess_text(pdf_string, cachedStopWords)
+            doc = fitz.open(f)
+            doc_string = ""
+            for i in doc:
+                html = i.get_text("html")
+                soup = BeautifulSoup(html, 'html.parser')
+                doc_string += soup.get_text()
+            pdf_string = preprocess_text(doc_string, cachedStopWords)
             year = filename[-8:-4]
             company_name = filename[:-9]
             df = pd.concat([df, pd.DataFrame(
@@ -183,11 +187,13 @@ def preprocess_sgx_annual_files() -> pd.DataFrame:
         """
     print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
     df = get_sgx_ann_files(sgx_annual_directory)
-    """
+    sgx_ann_map = pd.read_excel('SGX mapping.xlsx')
+    merged_df = df.merge(sgx_ann_map, how='left', left_on='Company', right_on='Company ').drop('Company ',axis= 1)
+
     # Extract Ticker & Date
     df['Ticker'] = df['File Name'].apply(lambda x: x.split(' ')[0])
     df['Date'] = df['File Name'].apply(lambda x: x.split(' ')[1][:-4])
-
+    """
     # Map Company Name
     company_names = pd.read_csv('../data/Company Mappings/snp_mapping.csv')
     company_names_dict = {}

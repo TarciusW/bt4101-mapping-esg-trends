@@ -69,6 +69,9 @@ def ESGBERT_clf(text_list: list) -> pd.DataFrame:
     tokenizer = AutoTokenizer.from_pretrained("nbroad/ESG-BERT", use_fast=True)
     model = AutoModelForSequenceClassification.from_pretrained("nbroad/ESG-BERT")
 
+    #tokenizer = AutoTokenizer.from_pretrained("ppsingh/esg-bert-sector-classifier")
+    #model = AutoModelForSequenceClassification.from_pretrained("ppsingh/esg-bert-sector-classifier")
+
     def ESGBERT(text, model, tokenizer):
         esg_labels_map = {
             'Business_Ethics': "G",
@@ -105,19 +108,15 @@ def ESGBERT_clf(text_list: list) -> pd.DataFrame:
         result_loss = logits.max().item()
         result_mapped = esg_labels_map[result]
         # if (result_mapped == 'G' and float(result_loss) < 3) or (result_mapped == 'S' and float(result_loss) < 1):
-        result_mapped = "NIL"
-
+        # result_mapped = "NIL"
         return [result, result_loss, result_mapped]
 
     final_df = pd.DataFrame()
     result_df = pd.DataFrame()
     for item in text_list:
-        try:
-            interim_df = pd.DataFrame(list(map(ESGBERT, item, [model], [tokenizer])))
-            interim_df.rename(columns={0: 'Label', 1: "Score", 2: 'ESG'}, inplace=True)
-            result_df = pd.concat([result_df, interim_df])
-        except:
-            continue
+        interim_df = pd.DataFrame(list(map(ESGBERT, item, [model], [tokenizer])))
+        interim_df.rename(columns={0: 'Label', 1: "Score", 2: 'ESG'}, inplace=True)
+        result_df = pd.concat([result_df, interim_df])
     percentage_df = pd.DataFrame(columns=["E", "S", "G"])
     percentage_df = pd.concat(
         [percentage_df, pd.DataFrame(result_df['ESG'].value_counts().astype(int)).transpose()]).fillna(0)
