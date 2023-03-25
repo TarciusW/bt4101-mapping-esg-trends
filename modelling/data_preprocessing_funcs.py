@@ -185,24 +185,15 @@ def preprocess_sgx_annual_files() -> pd.DataFrame:
     """
         Wrapper function to process SGX files. uses get_files() and returns a dataframe of the relevant SGX information
         """
-    print("Extracting & Preprocessing SNP500 Annual / Quarterly Reports...")
+    print("Extracting & Preprocessing SGX Annual Reports...")
     df = get_sgx_ann_files(sgx_annual_directory)
     sgx_ann_map = pd.read_excel('SGX mapping.xlsx')
-    merged_df = df.merge(sgx_ann_map, how='left', left_on='Company', right_on='Company ').drop('Company ',axis= 1)
+    merged_df = df.merge(sgx_ann_map, how='left', left_on='Company', right_on='Company')
 
     # Extract Ticker & Date
-    df['Ticker'] = df['File Name'].apply(lambda x: x.split(' ')[0])
-    df['Date'] = df['File Name'].apply(lambda x: x.split(' ')[1][:-4])
-    """
-    # Map Company Name
-    company_names = pd.read_csv('../data/Company Mappings/snp_mapping.csv')
-    company_names_dict = {}
-    for i, j in company_names.iterrows():
-        company_names_dict[j['Symbol']] = j['Name']
-    df['Company Name'] = df['Ticker'].apply(lambda x: company_names_dict[x])
-
+    merged_df['Date'] = pd.to_datetime(merged_df['Year'])
+    merged_df.rename(columns={"Filename": "FileName"}, inplace=True)
     # Convert Date to Quarter
-    df['Quarter'] = pd.PeriodIndex(pd.to_datetime(df['Date']), freq='Q')
+    merged_df['Quarter'] = pd.PeriodIndex(pd.to_datetime(merged_df['Date']), freq='Q')
     print("Done...!")
-    """
-    return df
+    return merged_df[['Ticker', 'Quarter', 'Tokens', 'Company Name', 'FileName', 'Date']]

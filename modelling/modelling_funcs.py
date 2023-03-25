@@ -77,7 +77,7 @@ def extract_companies_with_trend(df: pd.DataFrame) -> pd.DataFrame:
     """
     # extract companies with at least 4 data points, as required by mann-kendall test
     df = extract_substantial_companies(df, 5)
-    df.sort_values(by=['Company Name', 'Quarter'], inplace=True)
+    df.copy().sort_values(by=['Company Name', 'Quarter'], inplace=True)
     e_df, s_df, g_df = split_esg_df(df)
     e_df = mann_kendall_test(e_df, "E")
     e_df.rename(columns={"Result": "E_Trend", "Strength": "E_Strength"}, inplace=True)

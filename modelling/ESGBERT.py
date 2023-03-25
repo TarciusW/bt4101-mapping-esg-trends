@@ -5,15 +5,15 @@ import torch
 from datetime import datetime
 
 
-def join_sentences(list):
+def join_sentences(token_list):
     # Create an empty list to store the combined strings
     combined_strings = []
 
     # Loop through the input list, starting at the 10th index and ending 10 indexes before the end
-    for i in range(10, len(list) - 10, 10):
+    for i in range(0, len(token_list) - 10, 5):
         # Combine the previous 10 and next 10 elements of the input list, separated by a space
         # and append the result to the combined_strings list
-        combined_strings.append(" ".join(list[i - 10:i + 10]))
+        combined_strings.append(" ".join(token_list[i:i + 10]))
 
     # Return the list of combined strings
     return combined_strings
@@ -65,67 +65,57 @@ def reduce_snp_tokens(df):
     return df
 
 
-def ESGBERT_clf(text_list: list) -> pd.DataFrame:
-    tokenizer = AutoTokenizer.from_pretrained("nbroad/ESG-BERT", use_fast=True)
-    model = AutoModelForSequenceClassification.from_pretrained("nbroad/ESG-BERT")
-
-    #tokenizer = AutoTokenizer.from_pretrained("ppsingh/esg-bert-sector-classifier")
-    #model = AutoModelForSequenceClassification.from_pretrained("ppsingh/esg-bert-sector-classifier")
-
-    def ESGBERT(text, model, tokenizer):
-        esg_labels_map = {
-            'Business_Ethics': "G",
-            'Data_Security': "G",
-            'Access_And_Affordability': "S",
-            'Business_Model_Resilience': "G",
-            'Competitive_Behavior': "G",
-            'Critical_Incident_Risk_Management': "G",
-            'Customer_Welfare': "S",
-            'Director_Removal': "G",
-            'Employee_Engagement_Inclusion_And_Diversity': "S",
-            'Employee_Health_And_Safety': "S",
-            'Human_Rights_And_Community_Relations': "S",
-            'Labor_Practices': "S",
-            'Management_Of_Legal_And_Regulatory_Framework': "G",
-            'Physical_Impacts_Of_Climate_Change': "E",
-            'Product_Quality_And_Safety': "S",
-            'Product_Design_And_Lifecycle_Management': "G",
-            'Selling_Practices_And_Product_Labeling': "G",
-            'Supply_Chain_Management': "G",
-            'Systemic_Risk_Management': "G",
-            'Waste_And_Hazardous_Materials_Management': "E",
-            'Water_And_Wastewater_Management': "E",
-            'Air_Quality': "E",
-            'Customer_Privacy': "S",
-            'Ecological_Impacts': "E",
-            'Energy_Management': "E",
-            'GHG_Emissions': "E"
-        }
-        inputs = tokenizer(text, return_tensors='pt')
+def ESGBERT(text_list, model, tokenizer):
+    result_df = pd.DataFrame()
+    esg_labels_map = {
+        'Business_Ethics': "G",
+        'Data_Security': "G",
+        'Access_And_Affordability': "S",
+        'Business_Model_Resilience': "G",
+        'Competitive_Behavior': "G",
+        'Critical_Incident_Risk_Management': "G",
+        'Customer_Welfare': "S",
+        'Director_Removal': "G",
+        'Employee_Engagement_Inclusion_And_Diversity': "S",
+        'Employee_Health_And_Safety': "S",
+        'Human_Rights_And_Community_Relations': "S",
+        'Labor_Practices': "S",
+        'Management_Of_Legal_And_Regulatory_Framework': "G",
+        'Physical_Impacts_Of_Climate_Change': "E",
+        'Product_Quality_And_Safety': "S",
+        'Product_Design_And_Lifecycle_Management': "G",
+        'Selling_Practices_And_Product_Labeling': "G",
+        'Supply_Chain_Management': "G",
+        'Systemic_Risk_Management': "G",
+        'Waste_And_Hazardous_Materials_Management': "E",
+        'Water_And_Wastewater_Management': "E",
+        'Air_Quality': "E",
+        'Customer_Privacy': "S",
+        'Ecological_Impacts': "E",
+        'Energy_Management': "E",
+        'GHG_Emissions': "E"
+    }
+    for sentence in text_list:
+        inputs = tokenizer(sentence, return_tensors='pt')
         with torch.no_grad():
             logits = model(**inputs).logits
         result = model.config.id2label[logits.argmax().item()]
         result_loss = logits.max().item()
         result_mapped = esg_labels_map[result]
-        # if (result_mapped == 'G' and float(result_loss) < 3) or (result_mapped == 'S' and float(result_loss) < 1):
-        # result_mapped = "NIL"
-        return [result, result_loss, result_mapped]
+        result_df = pd.concat([result_df, pd.DataFrame(
+            {"sentence": [sentence], "result": [result], "result loss": [result_loss],
+             "result mapped": [result_mapped]})])
+    return result_df
 
+
+def ESGBERT_clf(df: pd.DataFrame) -> pd.DataFrame:
+    tokenizer = AutoTokenizer.from_pretrained("nbroad/ESG-BERT", use_fast=True)
+    model = AutoModelForSequenceClassification.from_pretrained("nbroad/ESG-BERT")
     final_df = pd.DataFrame()
-    result_df = pd.DataFrame()
-    for item in text_list:
-        interim_df = pd.DataFrame(list(map(ESGBERT, item, [model], [tokenizer])))
-        interim_df.rename(columns={0: 'Label', 1: "Score", 2: 'ESG'}, inplace=True)
-        result_df = pd.concat([result_df, interim_df])
-    percentage_df = pd.DataFrame(columns=["E", "S", "G"])
-    percentage_df = pd.concat(
-        [percentage_df, pd.DataFrame(result_df['ESG'].value_counts().astype(int)).transpose()]).fillna(0)
-    percentage_df['Total'] = percentage_df.sum(axis=1)
-    final_df['E % BERT'] = percentage_df['E'] / percentage_df['Total'] * 100
-    final_df['S % BERT'] = percentage_df['S'] / percentage_df['Total'] * 100
-    final_df['G % BERT'] = percentage_df['G'] / percentage_df['Total'] * 100
-    final_df['E BERT'] = percentage_df['E']
-    final_df['S BERT'] = percentage_df['S']
-    final_df['G BERT'] = percentage_df['G']
-    final_df['Total BERT'] = percentage_df['Total']
+    for index, row in tqdm(df.iterrows(), total=df.shape[0]):
+        result_df = ESGBERT(row['sentences'], model, tokenizer)
+        result_df['Company Name'] = row['Company Name']
+        result_df['Date'] = row['Date']
+        result_df['Data Source'] = row['Data Source']
+        final_df = pd.concat([final_df, result_df])
     return final_df.reset_index().drop(columns=['index'])
