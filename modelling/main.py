@@ -5,16 +5,20 @@ from ESGBERT import *
 import swifter
 from tqdm import tqdm
 import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
 
 # Importing & Preprocessing Data and saving it to pickle files (Dataframe with tokens)
 # sgx = preprocess_sgx_files()
 # sgx.to_pickle('sgx.pkl')
 
-#snp = preprocess_snp_files()
-#snp.to_pickle('snp.pkl')
+# snp = preprocess_snp_files()
+# snp.to_pickle('snp.pkl')
 
+"""
 sgx_ann = preprocess_sgx_annual_files()
 sgx_ann.to_pickle('sgx_ann.pkl')
+"""
 
 """
 # Modelling quantitative Trends
@@ -23,9 +27,13 @@ sgx_quant = model_tokens_BOW(sgx)
 sgx_quant.to_pickle('sgx_quant.pkl')
 """
 
-#snp = pd.read_pickle('snp.pkl')
-#snp_quant = model_tokens_BOW(snp)
-#snp_quant.to_pickle('snp_quant.pkl')
+# snp = pd.read_pickle('snp.pkl')
+# snp_quant = model_tokens_BOW(snp)
+# snp_quant.to_pickle('snp_quant.pkl')
+
+# sgx_ann = pd.read_pickle('sgx_ann.pkl')
+# sgx_ann_quant = model_tokens_BOW(sgx_ann)
+# sgx_ann_quant.to_pickle('sgx_ann_quant.pkl')
 
 """ SNP TOKEN REDUCING """
 """
@@ -56,13 +64,14 @@ sgx_quant_processed.to_excel('sgx_quant_results.xlsx')
 # sgx_quant_processed.to_excel('sgx_quant_results.xlsx')
 """
 
+"""
 # Export Results of Trends
-#
-# snp_quant_results = extract_substantial_companies(snp_quant, 5)
-# snp_quant_results.to_excel('snp_quant_results.xlsx')
-# snp_quant_processed = extract_companies_with_trend(snp_quant)
+snp_quant = pd.read_pickle('snp_quant.pkl')
+snp_quant_results = extract_companies_with_trend(snp_quant)
+snp_quant_results.to_excel('snp_quant_results.xlsx')
 
 print("")
+"""
 
 """ ESGBERT """
 """
@@ -78,3 +87,26 @@ sgx_quant_bert = sgx_quant.join(sgx_bert)
 sgx_quant_bert.to_pickle('sgx_quant_bert_700.pkl')
 """
 """ END ESGBERT """
+
+# Combining datasets
+"""
+sgx_quant_results = pd.read_excel('sgx_quant_results.xlsx')
+sgx_quant_results['Market'] = 'SGX'
+sgx_quant_results['Data Source'] = 'Sustainability Reports'
+snp_quant_results = pd.read_excel('snp_quant_results.xlsx')
+snp_quant_results['Market'] = 'SNP'
+snp_quant_results['Data Source'] = '10-K / 10-Q'
+
+total_df = pd.concat([sgx_quant_results, snp_quant_results])
+total_df.to_excel('total_results.xlsx')
+"""
+
+sia = pd.read_pickle('sia_bert.pkl')
+sia_subcategories = sia[['Data Source', 'Date', 'result']].groupby(['Data Source', 'Date', 'result']).size().unstack(
+    fill_value=0).reset_index().copy()
+sia_subcategories_long = pd.melt(sia_subcategories, id_vars=['Data Source', 'Date'])
+sns.lineplot(data=sia_subcategories_long, x='Date', y='value', hue='result', style='Data Source', legend = 'brief')
+plt.show()
+sns.barplot(data=sia_subcategories, x='result', y='value', hue='Data Source')
+plt.show()
+print("")
