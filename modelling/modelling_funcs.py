@@ -104,7 +104,6 @@ def normalize_trend_strength(trends):
 
 def scrape_company_descrptions(df: pd.DataFrame, market: str) -> pd.DataFrame:
     ticker_descriptions = pd.DataFrame()
-    df = df.iloc[:100].copy()
     failed_tickers = []
     unique_tickers = df['Ticker'].unique()
     for ticker in tqdm(unique_tickers):
