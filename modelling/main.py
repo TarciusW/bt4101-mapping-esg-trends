@@ -101,6 +101,21 @@ total_df = pd.concat([sgx_quant_results, snp_quant_results])
 total_df.to_excel('total_results.xlsx')
 """
 
+# Scrape company descriptions
+#sgx_quant = pd.read_excel('sgx_quant_results.xlsx')
+#sgx_quant_desc = scrape_company_descrptions(sgx_quant, 'sg')
+#sgx_quant_desc.to_excel('sgx_quant_results_desc.xlsx')
+
+#sgx_ann_quant = pd.read_excel('sgx_ann_quant_results.xlsx')
+#sgx_ann_quant_desc = scrape_company_descrptions(sgx_ann_quant, 'sg')
+#sgx_ann_quant_desc.to_excel('sgx_ann_quant_results_desc.xlsx')
+
+snp_quant_results = pd.read_excel('snp_quant_results.xlsx')
+snp_quant_results_desc = scrape_company_descrptions(snp_quant_results, 'us')
+snp_quant_results_desc.to_excel('snp_quant_results_desc.xlsx')
+
+
+"""
 sia = pd.read_pickle('sia_bert.pkl')
 sia_subcategories = sia[['Data Source', 'Date', 'result']].groupby(['Data Source', 'Date', 'result']).size().unstack(
     fill_value=0).reset_index().copy()
@@ -110,3 +125,4 @@ plt.show()
 sns.barplot(data=sia_subcategories, x='result', y='value', hue='Data Source')
 plt.show()
 print("")
+"""
