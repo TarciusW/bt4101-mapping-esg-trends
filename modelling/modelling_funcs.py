@@ -3,6 +3,10 @@ from sklearn.feature_extraction.text import CountVectorizer
 from collections import Counter
 from tqdm import tqdm
 import pymannkendall as mk
+import numpy as np
+from bs4 import BeautifulSoup
+import requests
+import random
 
 
 def model_tokens_BOW(df: pd.DataFrame) -> pd.DataFrame:
@@ -88,4 +92,42 @@ def extract_companies_with_trend(df: pd.DataFrame) -> pd.DataFrame:
     df = df.merge(e_df[['Company Name', 'E_Trend', 'E_Strength']], on='Company Name', how='inner')
     df = df.merge(s_df[['Company Name', 'S_Trend', 'S_Strength']], on='Company Name', how='inner')
     df = df.merge(g_df[['Company Name', 'G_Trend', 'G_Strength']], on='Company Name', how='inner')
+    return df
+
+
+def normalize_trend_strength(trends):
+    series_mean = np.mean(trends)
+    series_sd = np.std(trends)
+    normalized_numbers = [(x - series_mean) / series_sd for x in trends]
+    return normalized_numbers
+
+
+def scrape_company_descrptions(df: pd.DataFrame, market: str) -> pd.DataFrame:
+    ticker_descriptions = pd.DataFrame()
+    df = df.iloc[:100].copy()
+    failed_tickers = []
+    unique_tickers = df['Ticker'].unique()
+    for ticker in tqdm(unique_tickers):
+        try:
+            user_agents_list = [
+                'Mozilla/5.0 (iPad; CPU OS 12_2 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148',
+                'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.83 Safari/537.36',
+                'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/99.0.4844.51 Safari/537.36'
+            ]
+            if market == 'sg':
+                page = requests.get('https://sg.finance.yahoo.com/quote/' + ticker + '.SI/profile',
+                                    headers={'User-Agent': random.choice(user_agents_list)})
+            else:
+                page = requests.get('https://sg.finance.yahoo.com/quote/' + ticker + '/profile',
+                                    headers={'User-Agent': random.choice(user_agents_list)})
+            soup = BeautifulSoup(page.content, 'html.parser')
+            desc = soup.find('section', attrs={'class': 'quote-sub-section Mt(30px)'}).contents[1].text
+            sentences = desc.split('. ')
+            first_three_sentences = '. '.join(sentences[:3]) + '.'
+            ticker_descriptions = pd.concat(
+                [ticker_descriptions, pd.DataFrame({"Ticker": [ticker], "Description": [first_three_sentences]})])
+        except:
+            failed_tickers.append(ticker)
+    ticker_descriptions.reset_index(drop=True, inplace=True)
+    df = df.merge(ticker_descriptions, how='left', on='Ticker').fillna('No Description Found')
     return df
