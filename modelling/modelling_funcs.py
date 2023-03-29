@@ -102,7 +102,7 @@ def normalize_trend_strength(trends):
     return normalized_numbers
 
 
-def scrape_company_descrptions(df: pd.DataFrame, market: str) -> pd.DataFrame:
+def scrape_company_descriptions(df: pd.DataFrame, market: str) -> pd.DataFrame:
     ticker_descriptions = pd.DataFrame()
     failed_tickers = []
     unique_tickers = df['Ticker'].unique()
